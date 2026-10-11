@@ -1,0 +1,771 @@
+{
+ "ma_ca": "TK-0479",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-11)",
+ "benh": "TK_parkinson_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Parkinson (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "Run vô căn",
+   "Parkinson thứ phát do thuốc"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Hưu trí (giáo viên tiểu học đã nghỉ hưu)",
+  "yeu_to_khoi_phat": "Sau chơi thể thao (đi bộ nhanh và tập dưỡng sinh với câu lạc bộ phường)",
+  "thuoc_dang_dung": "NSAID tự mua (meloxicam 7,5 mg), kèm amlodipin 5 mg theo đơn cũ",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm (để vắng sinh hoạt câu lạc bộ, không muốn bạn bè thấy tay run)"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Mận",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Hưu trí (giáo viên tiểu học)",
+  "can_nang": 48,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Con gái Hà gọi mẹ là 'mẹ', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Giáo viên tiểu học về hưu, nói năng chuẩn mực, nhỏ nhẹ, tự trọng cao, ngại để người khác thấy mình yếu. Hay giấu triệu chứng bằng cách nói \"tuổi già thôi\". Tin rằng truyền nước, thuốc bổ làm khỏe lại vì thấy người quen khỏe sau truyền.",
+  "kieu_nhieu": "Đòi truyền dịch: khi không được đáp ứng thì nhắc lại, kể chuyện người quen khỏe nhờ truyền nước, và ngầm cho rằng bác sĩ không chịu giúp. Dịu xuống khi được nghe nỗi lo của mình và được giải thích bằng ngôn ngữ đơn giản, có việc cụ thể để làm thay (uống nước đều, chỉnh thuốc, đứng dậy chậm).",
+  "nguoi_nha": "Con gái",
+  "ten_nguoi_nha": "Nguyễn Thu Hà",
+  "ngoai_hinh": {
+   "da": "#e3b896",
+   "toc": "#c9c9c9",
+   "kieuToc": "bui",
+   "ao": "#8a6f9e",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e8c3a0",
+    "toc": "#1f1a17",
+    "kieuToc": "bui",
+    "ao": "#5f8f7a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau mỏi vai gáy, tay phải sau đi bộ; xin giấy nghỉ ốm và truyền nước",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Cơ sở không có xét nghiệm nào."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 79 tuổi, hưu trí (giáo viên tiểu học), con gái đưa đi. Đau mỏi vai gáy và cánh tay phải từ sau buổi đi bộ nhanh ba tuần trước, đi lại chậm chạp, thỉnh thoảng choáng. Tự mua meloxicam uống hai tuần. Xin giấy nghỉ ốm và truyền nước. Sinh hiệu lúc tiếp đón: mạch 78 l/p, HA 146/84 mmHg, nhiệt 36,6 °C, nhịp thở 18, SpO₂ 96%.",
+   "ket_luan": "chuyen_tuyen",
+   "loi_mo": "Chào bác sĩ. Tôi đau ê cái vai với cánh tay bên phải từ hôm đi bộ với hội, người thì cứ nặng nề, chậm chạp. Bác sĩ cho tôi tờ giấy nghỉ ốm rồi truyền cho tôi chai nước biển, thêm thuốc bổ, chắc tôi lại sức.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "146/84",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi khám vì đau mỏi vai gáy và cánh tay phải, đi lại nặng nề, hơi choáng, từ sau buổi đi bộ nhanh với hội cách đây ba tuần. Con gái Hà đưa đi. Bà xin bác sĩ cho giấy nghỉ ốm và truyền chai nước cho lại sức.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và yêu cầu ban đầu"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba tuần trước, hội dưỡng sinh phường đi bộ nhanh khoảng 5 km, dài hơn mọi khi. Hôm sau đau ê vai gáy, cánh tay và bắp chân phải; bước chân phải nặng, một lần vấp bậc thềm nhà, chưa té. Đau cơ đỡ dần nhưng người vẫn chậm chạp hơn bạn bè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau gắng sức; không có chấn thương"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Tự mua meloxicam 7,5 mg ở nhà thuốc, mỗi ngày một viên sau ăn sáng suốt hai tuần nay. Đau có bớt chút ít, thỉnh thoảng ợ nóng. Không đi cầu phân đen. Không uống thuốc giảm đau nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự mua: tên, liều, thời gian, tác dụng phụ tiêu hóa"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Uống amlodipin 5 mg mỗi sáng đã sáu năm vì huyết áp cao. Không dùng thuốc an thần, thuốc ngủ, thuốc chống nôn (không dùng metoclopramid hay thuốc đau dạ dày loại \"chống ói\"), không dùng sulpirid, haloperidol, thuốc tâm thần nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc chẹn dopamin hiện tại (loại trừ Parkinson thứ phát do thuốc)"
+    },
+    {
+     "id": "thuoc_cu",
+     "noi_dung": "Hai năm trước có uống flunarizin 5 mg một viên mỗi tối khoảng ba tháng vì hay chóng mặt, ngưng từ đó. Run và chậm chạp mới xuất hiện sau khi ngưng thuốc cỡ mười tháng, và ngày càng rõ hơn.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nhớ ra khi bác sĩ hỏi thuốc chóng mặt, thuốc \"bổ não\" hoặc thuốc dùng trong hai ba năm qua; hỏi chung \"đang uống thuốc gì\" thì chỉ kể meloxicam và thuốc huyết áp.",
+     "y": "Hỏi thuốc đã dùng trước đó: flunarizin đã ngưng 2 năm, triệu chứng khởi phát sau ngưng và tiến triển"
+    },
+    {
+     "id": "run",
+     "noi_dung": "Tay phải run nhẹ khi ngồi yên, nhất là lúc xem ti vi hoặc khi đi bộ; cầm đũa, cầm ly lên thì run giảm hẳn. Kéo dài chừng một năm nay, tay trái chưa thấy run. Bà giấu bằng cách nắm tay lại hoặc đút túi áo.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung \"có run không\" thì bà gạt đi \"tuổi già, hơi run thôi\". Chỉ kể đúng khi bác sĩ hỏi run lúc ngồi yên hay lúc cầm đồ, bên nào, hoặc con gái nói thêm.",
+     "y": "Run lúc nghỉ, không đối xứng, giảm khi làm việc (phân biệt run vô căn)"
+    },
+    {
+     "id": "cham",
+     "noi_dung": "Một năm nay làm gì cũng lâu hơn: cài khuy áo, đánh răng, đi chợ. Chữ viết nhỏ dần, trước dạy học chữ đẹp nay co rúm lại. Giọng nhỏ đi, bạn hay bảo \"nói to lên\". Tay phải đi bộ không đung đưa như trước. Không té ngã lần nào.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung \"có yếu không\" thì nói \"không yếu, chỉ chậm\". Chỉ kể chi tiết khi hỏi cụ thể việc nào lâu hơn, chữ viết, giọng nói, cách đi.",
+     "y": "Vận động chậm, chữ nhỏ, giọng nhỏ, giảm đung đưa tay; không té ngã"
+    },
+    {
+     "id": "khuu_giac",
+     "noi_dung": "Mấy năm nay không ngửi ra mùi hoa sữa, mùi cá kho khét. Con gái bảo mẹ nấu nướng hay quên tắt bếp vì không ngửi thấy khét.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giảm khứu giác (tiêu chuẩn hỗ trợ, chỉ dựa vào hỏi bệnh)"
+    },
+    {
+     "id": "tao_bon",
+     "noi_dung": "Táo bón nhiều năm, ba bốn ngày mới đi một lần, phân khô cứng, phải rặn. Uống nước ít vì sợ đi tiểu đêm, mỗi ngày chừng một lít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Táo bón và lượng nước uống (triệu chứng ngoài vận động)"
+    },
+    {
+     "id": "chong_mat",
+     "noi_dung": "Thỉnh thoảng choáng khi đứng dậy từ ghế thấp, vài giây là hết; không ngất. Choáng nhiều hơn từ lúc uống meloxicam, có ngày ăn kém.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Choáng khi đổi tư thế, cần đo huyết áp nằm đứng"
+    },
+    {
+     "id": "than_kinh_am",
+     "noi_dung": "Không yếu liệt nửa người, không méo miệng, không nói khó, không nhìn đôi, không đái són. Chưa từng ngất. Không ảo giác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc thần kinh, cờ đỏ của hội chứng parkinson không điển hình"
+    },
+    {
+     "id": "tri_nho",
+     "noi_dung": "Con gái thấy bà hay quên tắt bếp nhưng nhớ chuyện lớp học xưa rất rõ, vẫn tự đi chợ, tự trả tiền. Bà không thấy lạc đường.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Tăng huyết áp sáu năm. Không đái tháo đường, không đột quỵ, không chấn thương đầu. Mẹ bà cũng \"run tay\" lúc già nhưng không ai đi khám. Không hút thuốc, không uống rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử bệnh, gia đình"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Bà là nhóm trưởng câu lạc bộ dưỡng sinh phường, tập 6 giờ sáng. Hai tuần nay bà bỏ tập, bảo bạn bè là bị ốm. Con gái Hà làm kế toán, ở chung nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sinh hoạt xã hội, nơi sống, người chăm sóc"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Thật ra bà sợ đến buổi tổng kết cuối tháng, cả hội sẽ thấy tay bà run và đi chậm. Bà muốn có tờ giấy nghỉ ốm để giao lại chức nhóm trưởng mà không phải nói mình bệnh gì. Bà cũng lo mình bị giống mẹ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao bà cần tờ giấy, điều gì làm bà lo nhất, hoặc bà nghĩ mình bị gì; hỏi chung thì nói \"để nghỉ cho khỏe\".",
+     "y": "Động cơ thật: xin giấy nghỉ ốm vì ngại bị nhìn thấy run"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Bà nhớ người quen sau khi truyền chai nước biển thấy khỏe hẳn nên cũng muốn truyền nước và thuốc bổ. Bà uống nước ít, nghĩ mình thiếu nước nên chậm chạp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yêu cầu truyền dịch và quan niệm sai về nguyên nhân",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bà gầy, tỉnh, tiếp xúc tốt, nét mặt ít biểu cảm. Niêm mạc hồng, môi khô nhẹ. Cân nặng 48 kg, cao 150 cm.",
+     "k": 1,
+     "hien": "Bà gầy, tỉnh, tiếp xúc tốt. Môi hơi khô."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 144/84 mmHg, mạch 74. Đứng 1 phút: 130/78 mmHg, mạch 80, hơi choáng. Đứng 3 phút: 128/76 mmHg. Giảm tối đa 16/8 mmHg: chưa đạt ngưỡng hạ huyết áp tư thế.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, sờ khung đại tràng chắc, có phân cục ở hố chậu trái. Không khối bất thường.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Vai gáy và cánh tay phải ấn đau nhẹ, không sưng nóng. Tầm vận động vai phải đủ nhưng chậm. Không biến dạng khớp.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ. Đồng tử đều, nhãn cầu liếc lên xuống đủ, không rung giật nhãn cầu. Sức cơ 5/5 bốn chi. Phản xạ gân xương đều hai bên, Babinski âm tính. Cảm giác nông bình thường. Không điều hợp kém.",
+     "k": 1
+    },
+    "mat_giong_chu_viet": {
+     "a": "Nét mặt đơn điệu, chớp mắt thưa. Giọng nhỏ, đều đều nhưng rõ lời. Viết tên: chữ nhỏ dần về cuối dòng (từ khoảng 5 mm xuống còn 2 mm).",
+     "k": 1,
+     "hien": "Mặt ít biểu cảm, giọng nhỏ. Viết một câu dài: chữ nhỏ dần về cuối dòng."
+    },
+    "run_nghi": {
+     "a": "Tay phải run lúc nghỉ, tần số chậm khoảng 4 đến 6 Hz, tăng khi bà tính nhẩm từ 100 trừ 7, giảm hẳn khi đưa tay cầm ly và khi giơ tay ra trước. Tay trái không run. Không run đầu, không run giọng.",
+     "k": 1,
+     "hien": "Tay phải run khi để yên trên đùi; khi cầm ly thì run giảm. Tay trái không run."
+    },
+    "dong_tac_cham": {
+     "a": "Gõ ngón cái với ngón trỏ: bên phải chậm, biên độ nhỏ dần sau 5 đến 6 lần, ngắt quãng một lần. Bên trái hơi chậm. Sấp ngửa bàn tay phải chậm dần. Đây là chậm vận động có giảm biên độ (đúng định nghĩa của MDS 2015).",
+     "k": 1,
+     "hien": "Gõ ngón tay phải chậm, biên độ nhỏ dần; bên trái nhẹ hơn."
+    },
+    "tang_truong_luc": {
+     "a": "Trương lực tăng kiểu ống chì ở cổ tay và khuỷu phải, thấy rõ hơn khi bà gập duỗi tay đối bên (nghiệm pháp tăng cường). Bên trái tăng nhẹ. Không dấu bánh xe răng cưa đơn độc, không tăng kiểu co cứng tháp.",
+     "k": 1,
+     "hien": "Cổ tay, khuỷu phải: sức cản đều khi cử động thụ động. Bên trái nhẹ hơn."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng lên khỏi ghế phải chống tay hai lần. Đi bước ngắn, tay phải không đung đưa, người hơi cúi, quay người phải đủ ba bước. Nghiệm pháp kéo: bà lùi một bước rồi tự giữ thăng bằng, không ngã. Không dáng đi dạng chân, không kiểu hộ vệ.",
+     "k": 1,
+     "hien": "Bà đi bước ngắn, tay phải đung đưa ít, quay người ba bước. Nghiệm pháp kéo: giữ được thăng bằng sau một bước."
+    },
+    "nhan_thuc_moca": {
+     "a": "MoCA 26/30 (mất điểm ở nhớ lại và lưu loát từ). Tài liệu đã tải không có ngưỡng điểm cắt, nên chỉ dùng làm mốc nền để so sánh về sau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 76 l/p, trục bình thường, không dày thất trái, không block, khoảng QT bình thường.",
+     "n": "Hữu ích khi sắp dùng thuốc tăng nguy cơ hạ huyết áp ở người 79 tuổi, nhưng không bắt buộc cho chẩn đoán Parkinson. Làm hay không không trừ điểm; tài liệu đã tải không có khuyến cáo ECG thường quy trước levodopa."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 112 g/L, MCV 84 fL, BC 6,8 G/L, TC 260 G/L (thiếu máu nhẹ).",
+     "ab": 1,
+     "n": "Muốn làm vì đã dùng meloxicam hai tuần ở người 79 tuổi gầy (Beers 2023 Bảng 2); cơ sở không có xét nghiệm. Thay bằng hỏi phân đen, ợ nóng, khám niêm mạc, rồi ngưng NSAID."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 88 µmol/L, eGFR 55 mL/ph/1,73m².",
+     "ab": 1,
+     "n": "Cần cho người dùng NSAID và tăng huyết áp, nhưng cơ sở không có xét nghiệm. Thay bằng ngưng NSAID, tránh mất nước (QĐ 361/2014 phụ lục NSAID bảng \"Nguy cơ cao\": tránh NSAID nếu có thể)."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "NICE NG71 2017 khuyến cáo 1.2.9: không dùng MRI cấu trúc để chẩn đoán Parkinson; CT sọ không được nêu riêng trong tài liệu đã tải. Khám thần kinh không có dấu khu trú, nên ở tuyến cơ sở cũng không có CT. Chẩn đoán bằng lâm sàng (NICE 1.2.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng parkinson (chậm vận động kèm run lúc nghỉ và tăng trương lực), phù hợp bệnh Parkinson lâm sàng có khả năng (MDS 2015); chuyển chuyên khoa thần kinh xác nhận trước khi điều trị",
+     "ok": 1,
+     "n": "Chậm vận động có giảm biên độ + run nghỉ + cứng ống chì = hội chứng parkinson (MDS 2015, mục I, Bảng 1). Không có tiêu chuẩn loại trừ tuyệt đối. Không có cờ đỏ."
+    },
+    {
+     "t": "Run vô căn",
+     "n": "Loại trừ: run ở bà là run lúc nghỉ, một bên, giảm khi làm việc, kèm chậm vận động và cứng; MDS 2015 (tr. 1594) nói run tư thế và run vận động đơn thuần không đủ tiêu chuẩn hội chứng parkinson. Khi vẫn không phân biệt được run vô căn với hội chứng parkinson thì cân nhắc chụp SPECT FP-CIT ở chuyên khoa (NICE 1.2.6); ở ca này không cần."
+    },
+    {
+     "t": "Parkinson thứ phát do thuốc",
+     "n": "Hiện không dùng chẹn dopamin nào. Flunarizin (AAN 2011 về run vô căn: \"có thể gây ... parkinsonism\") đã ngưng hai năm; triệu chứng khởi phát mười tháng sau khi ngưng và tiến triển, không phù hợp \"liều và thời gian của parkinson do thuốc\" (MDS 2015, loại trừ 5, ghi chú tr."
+    },
+    {
+     "t": "Hội chứng parkinson không điển hình (teo đa hệ thống, liệt trên nhân tiến triển, mạch máu...)",
+     "n": "Chưa có tiêu chuẩn loại trừ tuyệt đối: không dấu tiểu não, nhãn cầu liếc xuống đủ, không dấu tháp, đáp ứng với levodopa chưa thử (MDS 2015 Bảng 1). Cờ đỏ: không té tái diễn, không hạ huyết áp tư thế nặng (giảm tối đa 16/8, dưới ngưỡng 30/15 của MDS), không rối loạn nuốt hay nói nặng, bắt đầu một bên. Theo dõi lại nếu có dấu không điển hình (NICE 1.2.5: xem lại chẩn đoán mỗi 6 đến 12 tháng)."
+    },
+    {
+     "t": "Đau cơ khởi phát muộn sau gắng sức; nguy cơ do NSAID tự dùng ở người rất cao tuổi",
+     "n": "Đau cơ sau đi bộ là lý do khiến bà nhận ra mình chậm, nhưng không giải thích run nghỉ, chữ nhỏ, mất đung đưa tay. Đau cơ-xương ở người Parkinson thường gặp và có thể do cứng cơ (DGN 2025 mục Pain). Meloxicam hai tuần ở bà 79 tuổi, gầy, tăng huyết áp: Beers 2023 Bảng 2 khuyên tránh dùng NSAID kéo dài; QĐ 361/2014 xếp bà vào nhóm nguy cơ cao, tránh NSAID nếu có thể."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lý do thật đằng sau yêu cầu giấy nghỉ ốm, giải thích nhẹ nhàng rằng bà có bệnh lý thần kinh cần theo dõi, không phải \"tuổi già\"",
+     "v": "c",
+     "n": "NICE NG71 1.1.1 và 1.1.2: trao đổi trung thực mà giữ được tinh thần lạc quan, giúp người bệnh tham gia quyết định. AAN 2021 (Neurology 97:951): người bệnh có thể không kể triệu chứng vì ngại; hỏi cụ thể sẽ giúp họ nói ra."
+    },
+    {
+     "t": "Chuyển khám chuyên khoa thần kinh (có chuyên môn chẩn đoán phân biệt hội chứng parkinson) sớm, chưa bắt đầu levodopa ở tuyến này",
+     "v": "c",
+     "n": "NICE NG71 1.2.2: nghi Parkinson thì chuyển nhanh, khi chưa điều trị, đến chuyên khoa. Tài liệu đã tải nêu \"quickly\", không nêu số tuần. Chẩn đoán lâm sàng (NICE 1.2.3; MDS 2015)."
+    },
+    {
+     "t": "Ngưng meloxicam; đau thì dùng paracetamol 500 mg khi cần, tối đa 3 g mỗi ngày",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2: tránh NSAID không chọn lọc COX-2 dùng lâu, trừ khi không còn lựa chọn và có bảo vệ dạ dày. QĐ 361/2014 phụ lục NSAID \"Nguy cơ cao\" (người cao tuổi, gầy, tăng huyết áp): acetaminophen dưới 3 g/ngày, tránh NSAID. Đau cơ-xương chữa theo bậc thang WHO (DGN 2025)."
+    },
+    {
+     "t": "Không truyền dịch; khuyến khích uống đủ nước và ăn nhạt vừa phải, nằm đầu cao khi ngủ sau này nếu choáng",
+     "v": "c",
+     "n": "Không có dấu mất nước nặng (môi khô nhẹ, huyết áp nằm 144/84, giảm tối đa 16/8 khi đứng). Tài liệu đã tải không có khuyến cáo truyền dịch cho ca này."
+    },
+    {
+     "t": "Không cấp giấy nghỉ ốm khống; cấp giấy xác nhận đã khám và hẹn khám chuyên khoa nếu bà cần; khuyên cho con gái và người thân biết tình hình",
+     "v": "a",
+     "n": "Quy định cấp giấy nghỉ ốm cho người đã nghỉ hưu: không có trong tài liệu đã tải. NICE NG71 1.1.3 và 1.1.4: giao tiếp bằng lời và giấy với người bệnh, người nhà; nên hỏi người nhà về nhu cầu hỗ trợ."
+    },
+    {
+     "t": "Bắt đầu levodopa ngay tại phòng khám nội",
+     "v": "w",
+     "n": "NICE NG71 1.2.2: nghi Parkinson thì chuyển chuyên khoa khi chưa điều trị. Chẩn đoán chưa được chuyên khoa xác nhận; kê levodopa khi chưa rõ chẩn đoán có nguy cơ gây tác dụng phụ (buồn nôn, hạ huyết áp tư thế; AAN 2021 mục 2c)."
+    },
+    {
+     "t": "Kê đồng vận dopamin (pramipexol, ropinirol) cho bà 79 tuổi",
+     "v": "w",
+     "n": "AAN 2021 khuyến cáo 1d (mức B): không kê đồng vận dopamin cho bệnh nhân Parkinson sớm trên 70 tuổi. NICE NG71 1.3.6 cho phép chọn đồng vận dopamin, MAO-B hoặc levodopa khi vận động không ảnh hưởng chất lượng sống; AAN 2021 mới hơn và thận trọng hơn nên theo AAN (xem sổ mâu thuẫn)."
+    },
+    {
+     "t": "Cho dùng metoclopramid hoặc thuốc chống nôn chẹn dopamin khi bà ợ nóng, buồn nôn",
+     "v": "h",
+     "n": "Beers 2023 Bảng 3 (Parkinson): tránh metoclopramid, prochlorperazin, promethazin vì có thể làm nặng triệu chứng parkinson; Bảng 2: metoclopramid gây ngoại tháp, nguy cơ lớn hơn ở người yếu."
+    },
+    {
+     "t": "Truyền dịch kèm thuốc bổ theo ý bà",
+     "v": "w",
+     "n": "Không có chỉ định: chưa mất nước nặng, chưa có tổn thương cần bù nước tĩnh mạch. Đáp ứng yêu cầu làm tăng niềm tin sai rằng chậm chạp là do thiếu nước, và chậm chẩn đoán bệnh thật."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng parkinson, bất đối xứng (phải nặng hơn): chậm vận động có giảm biên độ + run nghỉ + tăng trương lực ống chì; phù hợp bệnh Parkinson lâm sàng có khả năng (MDS 2015)",
+     "Triệu chứng ngoài vận động: giảm khứu giác (theo lời kể), táo bón, rối loạn giấc ngủ nghi hành vi mơ (la hét, đạp khi ngủ), choáng nhẹ khi đổi tư thế",
+     "Dùng NSAID tự mua ở người 79 tuổi gầy, tăng huyết áp; chưa thể loại trừ thiếu máu, tổn thương thận (không có xét nghiệm)",
+     "Tăng huyết áp đang điều trị amlodipin 5 mg",
+     "Đau cơ vai gáy phải sau gắng sức, có thể liên quan cứng cơ",
+     "Yêu cầu giấy nghỉ ốm và truyền dịch; động cơ thật là ngại bạn bè thấy run"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh theo lý do bà nêu (đau cơ, choáng) rồi mở rộng bằng câu hỏi cụ thể về run, tốc độ làm việc, chữ viết, mùi, thuốc đã dùng; khám có hệ thống chậm vận động, run, trương lực, dáng đi, huyết áp nằm đứng; không cần xét nghiệm để chẩn đoán.",
+     "Bước 1 theo MDS 2015: xác định hội chứng parkinson = chậm vận động (có giảm biên độ khi lặp lại) cộng ít nhất một trong run nghỉ hoặc cứng. Bà có cả ba (MDS 2015, mục I, Bảng 1).",
+     "Bước 2: tìm tiêu chuẩn loại trừ tuyệt đối. Không dấu tiểu não, nhãn cầu liếc xuống đủ, không dấu vỏ não, không có thuốc chẹn dopamin hiện tại; flunarizin ngưng hai năm và triệu chứng tiến triển sau ngưng nên không phải thứ phát do thuốc (MDS 2015, loại trừ 5, ghi chú).",
+     "Bước 3: tìm cờ đỏ. Không té tái diễn, không hạ huyết áp tư thế nặng (giảm tối đa 16/8 mmHg so với ngưỡng 30/15 của MDS; DGN 2025 đặt ngưỡng chẩn đoán hạ huyết áp tư thế thấp hơn là 20/10, bà chưa đạt), không rối loạn nuốt hay nói nặng, không đối xứng hai bên, bệnh mới khoảng một năm nên chưa áp dụng tiêu chuẩn \"không tiến triển\" hay \"thiếu triệu chứng ngoài vận động\".",
+     "Bước 4: tiêu chuẩn hỗ trợ. Run nghỉ ghi nhận khi khám: có (hỗ trợ 3). Giảm khứu giác: bà kể, nhưng chưa có test; NICE NG71 1.2.14 không dùng test khứu giác chính thức trong chẩn đoán phân biệt (cập nhật 2017), MDS 2015 xếp giảm khứu giác là tiêu chuẩn hỗ trợ có kiểm chứng; hai nguồn không mâu thuẫn về phòng khám này vì không có test, nên không tính. Chưa có đáp ứng levodopa (hỗ trợ 1) hay loạn động. Vì vậy mức \"có khả năng\", chưa \"xác lập\" (MDS 2015 Bảng 1).",
+     "Vì sao không phải run vô căn: run chỉ xuất hiện lúc nghỉ, giảm khi cử động; kèm chậm vận động và cứng. Run tư thế và run vận động đơn độc không đủ tiêu chuẩn (MDS 2015 tr. 1594). Run vô căn không có chậm vận động giảm biên độ.",
+     "Áp dụng: các tiêu chuẩn MDS 2015 xây trên chuyên gia và người bệnh trong nghiên cứu; nhóm trên 75 tuổi chiếm ít trong thử nghiệm. MDS 2015 (tr. 1594) cho biết tới 25% người cao tuổi có hội chứng parkinson nhẹ không do Parkinson, nên chẩn đoán cuối cùng phải do chuyên khoa theo dõi theo thời gian (NICE 1.2.5).",
+     "Lý do thật: bà muốn tờ giấy để giao lại chức nhóm trưởng vì ngại bị nhìn thấy run. Hỏi thẳng nỗi lo và cho bà cách nói với bạn bè quan trọng hơn việc có cấp giấy hay không (NICE 1.1.1 đến 1.1.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chưa bắt đầu levodopa ở phòng khám nội: NICE NG71 1.2.2 chuyển nhanh, chưa điều trị, đến chuyên khoa có chuyên môn chẩn đoán phân biệt. Chẩn đoán bằng lâm sàng, không dùng MRI cấu trúc (1.2.9) hay PET (1.2.8).",
+     "Khi chuyên khoa bắt đầu điều trị: levodopa là lựa chọn đầu khi vận động ảnh hưởng chất lượng sống (NICE 1.3.5; AAN 2021 khuyến cáo 1b, mức B). Đồng vận dopamin không nên dùng cho người trên 70 tuổi (AAN 2021 khuyến cáo 1d); MAO-B là lựa chọn khi vận động chưa ảnh hưởng nhiều (NICE 1.3.6). AAN 2021 mới hơn NICE 2017 nên theo AAN trong xung đột (sổ mâu thuẫn).",
+     "Dừng NSAID, dùng paracetamol: bà gầy, 79 tuổi, tăng huyết áp, có ợ nóng; Beers 2023 Bảng 2 và QĐ 361/2014 đều nghiêng về tránh NSAID. Hai nguồn cùng chiều nên không có mâu thuẫn.",
+     "Không truyền dịch: không mất nước nặng, đo huyết áp nằm đứng bình thường. Giải thích nguy cơ và lợi ích: không giúp hết run hay chậm; ở người rất cao tuổi có thể gây quá tải dịch hoặc viêm tĩnh mạch (nhận định lâm sàng); điều chỉnh uống nước tại nhà theo DGN 2025. Câu nói thay thế: \"Bác sĩ hiểu bà muốn có việc gì đó làm ngay cho khỏe. Bệnh của bà không phải thiếu nước, truyền nước không làm hết run hay chậm, còn có thể làm hại. Điều bà cần là gặp thầy thuốc chuyên về thần kinh và uống đủ nước mỗi ngày.\"",
+     "Té ngã: bà chưa té nhưng vừa vấp một lần, huyết áp tư thế giảm nhẹ, đang dùng amlodipin. Chuyển PD-specific physio (NICE 1.7.3) và khuyên bổ sung vitamin D (NICE 1.7.13; liều không có trong tài liệu đã tải, xem hướng dẫn riêng của NICE)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần, khi đau",
+      "duong": "Uống",
+      "thoi_diem": "Cách nhau tối thiểu 6 giờ, sau ăn",
+      "so_ngay": "5 ngày, dùng khi đau",
+      "ghi_chu": "Tối đa 6 viên (3 g) mỗi 24 giờ vì bà gầy, cao tuổi, tăng huyết áp (QĐ 361/2014 phụ lục NSAID, bảng nguy cơ cao: dưới 3 g/ngày; liều 0,5 g × 2-4 viên/24 giờ, mục 4.2.1 bệnh khớp). Chữa đau theo bậc thang WHO (DGN 2025)."
+     },
+     {
+      "thuoc": "Meloxicam (thuốc bà tự mua)",
+      "ham_luong": "7,5 mg",
+      "lieu": "NGƯNG",
+      "duong": "Uống",
+      "thoi_diem": "Ngưng từ hôm nay",
+      "so_ngay": "Không dùng lại",
+      "ghi_chu": "Beers 2023 Bảng 2: tránh NSAID dùng lâu ở người cao tuổi; QĐ 361/2014 nhóm nguy cơ cao. Nếu đi cầu phân đen hoặc nôn máu thì đi cấp cứu ngay."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên mỗi sáng, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Sáng",
+      "so_ngay": "Tiếp tục, xem lại ở lượt sau",
+      "ghi_chu": "Giữ nguyên vì huyết áp tư thế chưa hạ nặng. Khi bắt đầu levodopa, phải xem lại thuốc hạ áp nếu choáng (NICE NG71 1.5.8; DGN 2025). Mục tiêu huyết áp cho người trên 80 tuổi: không đưa vào ca này."
+     }
+    ],
+    "dan_do": [
+     "Bà chưa bị mất nước và cũng chưa phải truyền nước. Uống nước đều trong ngày, khoảng 1,5 đến 2 lít nếu bác sĩ không dặn hạn chế (DGN 2025), ăn thêm rau, trái cây.",
+     "Đứng dậy từ từ: ngồi một phút trước khi đứng, bám vào tay vịn; nếu thấy tối mắt thì ngồi xuống ngay.",
+     "Đi khám chuyên khoa thần kinh sớm trong vài tuần tới; mang theo toa thuốc cũ và tờ ghi này. Con gái Hà đi cùng để kể thêm về giấc ngủ và chuyện quên tắt bếp.",
+     "Đi khám ngay nếu: té ngã, nuốt sặc, nói không rõ, cứng tay chân tăng nhanh, ảo giác, đi cầu phân đen, sốt cao kèm cứng cơ.",
+     "Với bạn bè trong hội: bà không nhất thiết phải nói tên bệnh. Câu nói gợi ý: \"Tôi đang đi khám bệnh thần kinh, cần chậm lại một thời gian; tôi vẫn muốn ngồi xem mọi người tập.\""
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 7 tuần",
+   "tiep_don": "Tái khám sau 7 tuần cùng con gái. Bà đã khám chuyên khoa thần kinh, được cho levodopa/carbidopa 100/25 mg ngày ba lần cách 5 tuần. Nói đỡ nhưng chưa nhiều, hay choáng khi đứng dậy, vừa ngã nhẹ một lần, táo bón nặng. Đòi truyền nước cho đỡ choáng. Sinh hiệu lúc tiếp đón: mạch 76 l/p, HA 140/80 mmHg (ngồi), nhiệt 36,6 °C, nhịp thở 18, SpO₂ 96%.",
+   "ket_luan": "theo_doi",
+   "loi_mo": "Bác sĩ ơi, tôi uống thuốc thần kinh năm tuần rồi, đỡ được một nửa thôi. Còn cái choáng mỗi sáng đứng dậy thì khổ lắm, tôi ngồi sụp xuống sàn một lần rồi. Cho tôi truyền chai nước cho đỡ choáng đi bác sĩ.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "140/80",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám sau 7 tuần. Bà đã được bác sĩ thần kinh khám ở bệnh viện, kết luận bệnh Parkinson giai đoạn sớm, không chụp hình ảnh, cho levodopa/carbidopa 100/25 mg ngày 3 viên (mỗi lần 1 viên) từ 5 tuần trước. Bà nói đỡ một phần nhưng chưa được như mong muốn, và bị choáng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám và thông tin từ chuyên khoa"
+    },
+    {
+     "id": "dap_ung",
+     "noi_dung": "Run tay phải giảm khoảng một nửa. Đi nhanh hơn, cài khuy dễ hơn, vai gáy đỡ đau (bà ngưng meloxicam từ lượt trước). Chữ vẫn nhỏ, giọng vẫn nhỏ, dáng đi vẫn bước ngắn. Con gái cho rằng mẹ \"đỡ khoảng 40 đến 50 phần trăm\". Không có lúc nào thuốc hết tác dụng giữa các cữ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng một phần với levodopa, chưa có dao động"
+    },
+    {
+     "id": "thuoc_hien_tai",
+     "noi_dung": "Uống levodopa/carbidopa 100/25 mg ngày ba lần lúc 7 giờ, 12 giờ, 18 giờ; uống lúc bụng đói, trước ăn nửa giờ, vì sợ ăn đạm làm thuốc kém. Có buồn nôn nhẹ sau mỗi liều. Vẫn uống amlodipin 5 mg buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cách uống levodopa, buồn nôn do uống lúc đói"
+    },
+    {
+     "id": "choang",
+     "noi_dung": "Choáng, tối mắt khi đứng dậy vào buổi sáng, nhất là sau liều thuốc đầu ngày, kéo dài vài giây đến một phút. Hai tuần trước, đứng lên khỏi bồn cầu bị ngồi sụp xuống sàn, không đập đầu, không đau, không ngất. Chỉ té một lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hạ huyết áp tư thế và té ngã sau khi dùng levodopa"
+    },
+    {
+     "id": "tao_bon",
+     "noi_dung": "Táo bón nặng hơn, năm ngày chưa đi, bụng căng khó chịu. Vẫn uống ít nước vì sợ choáng khi ra nhà vệ sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Táo bón nặng hơn"
+    },
+    {
+     "id": "ao_giac",
+     "noi_dung": "Không nhìn thấy người hay vật lạ, không nghe tiếng lạ. Không chơi bài, không mua sắm quá mức, không ăn nhiều bất thường, không ham muốn tình dục thay đổi. Không buồn ngủ ban ngày đột ngột. Không múa giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Theo dõi tác dụng phụ của levodopa: ảo giác, rối loạn kiểm soát xung động, ngủ gà, loạn động (AAN 2021, khuyến cáo 2c)"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Buồn vì \"uống thuốc mà không khỏi hẳn\", ngủ kém, ít ra ngoài. Bà vẫn chưa nói với hội bạn mình bị bệnh, đã giao tạm chức nhóm trưởng cho người khác với lý do \"ốm\".",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tâm trạng, cô lập xã hội"
+    },
+    {
+     "id": "dich_lan2",
+     "noi_dung": "Mấy hôm nay choáng nhiều nên bà đòi truyền một chai nước \"cho đỡ choáng, đỡ mất sức\", bà bảo hôm trước bác sĩ không cho truyền nên giờ cũng khó chịu, nhưng vẫn muốn thử vì cảm thấy khô miệng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yêu cầu truyền dịch lặp lại vì choáng",
+     "nhieu": 1
+    },
+    {
+     "id": "nsaid_lai",
+     "noi_dung": "Đã ngưng meloxicam từ lượt trước, không mua lại. Đau vai đỡ hẳn khi thuốc Parkinson bắt đầu có tác dụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngưng NSAID; đau cơ-xương cải thiện cùng thuốc dopaminergic"
+    },
+    {
+     "id": "hy_vong",
+     "noi_dung": "Bà tưởng uống thuốc vài tuần thì khỏi hẳn như người quen từng khỏi sau đợt thuốc. Bác sĩ thần kinh có dặn bệnh phải uống thuốc lâu dài và tái khám sau ba tháng, nhưng bà \"chưa tin\".",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kỳ vọng sai về khỏi bệnh; bác sĩ thần kinh đã dặn theo dõi dài hạn"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 150/86 mmHg, mạch 74. Đứng 1 phút: 126/74 mmHg, mạch 78, choáng nhẹ. Đứng 3 phút: 124/72 mmHg. Giảm 24/12 mmHg. Mạch tăng chỉ 4 l/p, tỷ số mạch/huyết áp tâm thu thấp (khoảng 0,15).",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng, sờ phân cục ở khung đại tràng trái. Không phản ứng thành bụng, không khối bụng, nhu động ruột có.",
+     "k": 1
+    },
+    "mat_giong_chu_viet": {
+     "a": "Nét mặt còn ít biểu cảm, giọng nhỏ nhưng rõ. Chữ viết to hơn lượt trước một chút (khoảng 4 mm ở cuối dòng).",
+     "k": 1,
+     "hien": "Mặt ít biểu cảm. Viết câu dài: chữ nhỏ dần nhẹ ở cuối dòng."
+    },
+    "run_nghi": {
+     "a": "Tay phải run nghỉ rất nhẹ, biên độ giảm rõ so với lượt 1. Không run bên trái.",
+     "k": 1,
+     "hien": "Tay phải run nhẹ lúc nghỉ, ít hơn trước."
+    },
+    "dong_tac_cham": {
+     "a": "Gõ ngón tay phải nhanh hơn, vẫn giảm biên độ nhẹ sau 8 đến 10 lần, không ngắt quãng. Bên trái gần bình thường. Cải thiện một phần rõ rệt so với lượt 1.",
+     "k": 1,
+     "hien": "Gõ ngón tay phải nhanh hơn trước, biên độ vẫn nhỏ dần nhẹ."
+    },
+    "tang_truong_luc": {
+     "a": "Trương lực tăng nhẹ kiểu ống chì ở cổ tay phải, giảm so với lượt 1. Bên trái bình thường.",
+     "k": 1,
+     "hien": "Cổ tay phải: sức cản nhẹ khi cử động thụ động. Bên trái bình thường."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng lên khỏi ghế không cần chống tay. Bước dài hơn nhưng còn ngắn, tay phải đung đưa ít, quay người hai đến ba bước. Nghiệm pháp kéo: giữ được thăng bằng, không lùi quá một bước.",
+     "k": 1,
+     "hien": "Bà đứng lên khỏi ghế không chống tay, đi bước ngắn, quay người hai đến ba bước. Nghiệm pháp kéo: giữ thăng bằng được."
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 90 µmol/L, eGFR 54 mL/ph/1,73m².",
+     "n": "Không có xét nghiệm. Không cần thiết để quyết định đổi thuốc ở lượt này."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 74 l/p, không block, QT bình thường.",
+     "n": "Không bắt buộc."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh Parkinson giai đoạn sớm, đáp ứng một phần với levodopa; hạ huyết áp tư thế do thuốc (levodopa, amlodipin) có tiềm ẩn rối loạn tự chủ; táo bón nặng hơn",
+     "ok": 1,
+     "n": "Chuyên khoa đã xác nhận Parkinson. Đáp ứng cải thiện rõ về run, tốc độ, trương lực sau 5 tuần levodopa 300 mg/ngày (đáp ứng với levodopa là tiêu chuẩn hỗ trợ 1 của MDS 2015, nhưng bà chưa đạt \"đáp ứng dramatic\", chỉ khoảng một nửa, nên chưa đủ tiêu chuẩn hỗ trợ này). Cải thiện một phần là tiến trình bình thường: AAN 2021 mục 2: lợi ích triệu chứng thấy với levodopa/carbidopa 150-300 mg/ngày."
+    },
+    {
+     "t": "Thất bại điều trị sớm / đáp ứng không đủ",
+     "n": "Chưa thể nói thất bại: MDS 2015 loại trừ 6 \"không đáp ứng với levodopa liều cao\" chỉ áp dụng khi đã dùng ít nhất 600 mg/ngày và bệnh ít nhất mức trung bình; bà mới dùng 300 mg/ngày, bệnh nhẹ, và đã cải thiện. Hướng xử trí là kiểm tra cách uống, chỉnh liều theo chuyên khoa, không đổi chẩn đoán."
+    },
+    {
+     "t": "Hạ huyết áp tư thế do mất nước",
+     "n": "Huyết áp nằm cao (150/86), mạch gần như không tăng khi đứng, môi khô nhẹ nhưng không mất nước nặng. Hạ huyết áp tư thế ở bà giảm 24/12 mmHg, đạt ngưỡng ≥ 20/10 trong 3 phút của DGN 2025 nhưng không đạt ngưỡng cờ đỏ 30/15 của MDS 2015 và có thuốc làm nặng thêm (MDS loại trừ khi có thuốc giải thích). Tỷ số nhịp tim/huyết áp thấp (<0,5) gợi ý cơ chế thần kinh (DGN 2025); theo dõi, không kết luận teo đa hệ thống."
+    },
+    {
+     "t": "Tác dụng phụ tâm thần và hành vi của levodopa (ảo giác, rối loạn kiểm soát xung động, ngủ gà ban ngày)",
+     "n": "Đã hỏi và âm tính (AAN 2021 khuyến cáo 2c: theo dõi định kỳ). Rối loạn kiểm soát xung động gặp nhiều hơn với đồng vận dopamin."
+    },
+    {
+     "t": "Táo bón do Parkinson, uống ít nước",
+     "n": "Táo bón là triệu chứng ngoài vận động hay gặp (DGN 2025); không có dấu hiệu tắc ruột (bụng mềm, nhu động có, không nôn)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kiểm tra cách uống levodopa; cho uống cùng bữa ăn hoặc ăn nhẹ để giảm buồn nôn, không cần kiêng đạm ở giai đoạn sớm",
+     "v": "c",
+     "n": "AAN 2021 (Neurology 97:950-951, rationale 2 và khuyến cáo 2e, mức B): ở Parkinson sớm, uống levodopa cùng bữa ăn có thể giảm buồn nôn và cải thiện tuân thủ; chỉ giai đoạn muộn mới ảnh hưởng hấp thu. NICE 1.7.12: không giảm tổng lượng đạm hằng ngày; 1.7.11: dồn đạm vào bữa tối chỉ khi đã có dao động vận động."
+    },
+    {
+     "t": "Đo huyết áp nằm đứng, xem lại thuốc hạ áp: giảm liều amlodipin xuống 2,5 mg mỗi sáng, hẹn đo lại huyết áp 1 đến 2 tuần",
+     "v": "c",
+     "n": "NICE NG71 1.5.8: xem lại thuốc hạ áp, dopaminergic, kháng cholinergic, chống trầm cảm khi có hạ huyết áp tư thế. DGN 2025: bước 2 là giảm liều hoặc ngưng thuốc hạ áp."
+    },
+    {
+     "t": "Biện pháp không dùng thuốc cho hạ huyết áp tư thế: uống đủ nước và muối qua đường ăn, tránh bữa ăn lớn, tránh nóng, kê đầu giường cao 10 đến 20 độ, bài tập co cơ chân khi choáng",
+     "v": "c",
+     "n": "DGN 2025 mục Orthostatic hypotension (đồng thuận 95%): đủ nước và muối nếu không chống chỉ định (tim, gan, thận), tránh bữa ăn lớn và rượu, tránh nóng, ngủ đầu cao 10-20 độ, động tác ép (co cơ chân, mông, bụng)."
+    },
+    {
+     "t": "Không truyền dịch tĩnh mạch; giải thích nguy cơ và lợi ích, nhắc lại biện pháp uống nước và kê đầu cao",
+     "v": "c",
+     "n": "DGN 2025 mục Orthostatic hypotension chọn bù nước và muối đường ăn uống; tài liệu đã tải không có khuyến cáo truyền dịch tĩnh mạch cho hạ huyết áp tư thế (không có trong tài liệu đã tải). Nguy cơ quá tải dịch, tăng huyết áp tư thế nằm (huyết áp nằm đã 150/86; DGN 2025 định nghĩa tăng huyết áp tư thế nằm ≥ 140/90 mmHg), viêm tĩnh mạch: nhận định lâm sàng."
+    },
+    {
+     "t": "Điều trị táo bón: macrogol đều đặn mỗi ngày kèm uống nước đủ",
+     "v": "c",
+     "n": "DGN 2025 mục Constipation: macrogol là thuốc đầu tay, dùng đều đặn thay vì khi cần, 13-26 g mỗi ngày (có thể dùng lâu); sau đó chất xơ, vận động, 1,5-2 L nước."
+    },
+    {
+     "t": "Giữ nguyên levodopa, không tự tăng liều ở phòng khám nội; hẹn gặp chuyên khoa sớm hơn nếu choáng không cải thiện sau chỉnh thuốc huyết áp",
+     "v": "c",
+     "n": "NICE NG71 1.3.2: không ngừng đột ngột thuốc Parkinson; 1.3.4: chỉnh thuốc sau khi trao đổi với chuyên khoa. AAN 2021 2b: dùng liều hiệu quả thấp nhất; 2c: theo dõi đáp ứng, loạn động, dao động, huyết áp tư thế, buồn nôn, ảo giác. Liều đã nằm trong khoảng có hiệu quả (150-300 mg/ngày; AAN 2021 mục 2)."
+    },
+    {
+     "t": "Giải thích quỹ đạo bình thường: đỡ một phần sau vài tuần, cần theo dõi dài hạn; báo động nếu đáp ứng mất dần, có dao động hoặc triệu chứng không điển hình",
+     "v": "c",
+     "n": "NICE NG71 1.1.2: trung thực mà lạc quan; 1.2.5: xem lại chẩn đoán mỗi 6 đến 12 tháng, cân nhắc lại nếu có dấu không điển hình (MDS 2015: té tái diễn trong 3 năm đầu, hạ huyết áp nặng trong 5 năm đầu, rối loạn nuốt hay nói nặng sớm)."
+    },
+    {
+     "t": "Hỏi và giải quyết nỗi ngại bị phát hiện bệnh; gợi ý cho bà chia sẻ với một người bạn thân hoặc nhóm bệnh nhân; hẹn tái khám theo dõi cùng con gái",
+     "v": "c",
+     "n": "NICE NG71 1.1.4 và 1.1.5: hỗ trợ người nhà, kế hoạch chăm sóc chung; Age Ageing 2026: làm MoCA nền sớm sau chẩn đoán (bà 26/30 và 27/30); điểm cắt không có trong tài liệu đã tải. Tâm trạng: NICE 1.5.11 hướng dẫn trầm cảm riêng (không nêu chi tiết trong tài liệu)."
+    },
+    {
+     "t": "Ngưng levodopa vì choáng",
+     "v": "h",
+     "n": "NICE NG71 1.3.2 và 1.3.3: không ngừng thuốc Parkinson đột ngột vì nguy cơ akinesia cấp và hội chứng an thần kinh ác tính (neuroleptic malignant syndrome); đúng hướng là xử lý hạ huyết áp tư thế bằng cách xem lại thuốc hạ áp và biện pháp không thuốc."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch chữa choáng theo ý bà",
+     "v": "w",
+     "n": "Hạ huyết áp tư thế trong Parkinson chữa theo bậc thang (DGN 2025): loại nguyên nhân thúc đẩy, xem lại thuốc, biện pháp không thuốc, rồi mới thuốc nâng huyết áp. Truyền dịch không nằm trong các bước."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh Parkinson giai đoạn sớm (đã được chuyên khoa xác nhận), đáp ứng một phần với levodopa/carbidopa 100/25 mg × 3/ngày",
+     "Hạ huyết áp tư thế có triệu chứng (giảm 24/12 mmHg), kèm một lần ngã nhẹ; nguyên nhân thuốc (levodopa, amlodipin) và có thể thành phần rối loạn tự chủ",
+     "Tăng huyết áp tư thế nằm 150/86 mmHg khi nằm 5 phút (cần theo dõi khi giảm thuốc hạ áp)",
+     "Táo bón nặng hơn; buồn nôn nhẹ do levodopa uống lúc đói",
+     "Nỗi ngại bị lộ bệnh, cô lập xã hội nhẹ; kỳ vọng \"khỏi hẳn\" sai",
+     "Yêu cầu truyền dịch lần hai"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng ở lượt tái khám: hỏi đáp ứng cụ thể (run, tốc độ, chữ viết, đi lại), cách uống thuốc, tác dụng phụ (buồn nôn, choáng, ảo giác, loạn động, xung động), té ngã, táo bón, tâm trạng; khám lại chậm vận động, run, trương lực, dáng đi và huyết áp nằm đứng; sau đó chỉnh thuốc không liên quan Parkinson (hạ áp) và các biện pháp hỗ trợ.",
+     "So sánh với lượt 1: run giảm khoảng một nửa, gõ ngón tay nhanh hơn, trương lực giảm, đi nhanh hơn; vẫn còn chậm và bước ngắn. Đó là quỹ đạo đáp ứng một phần, bình thường ở giai đoạn sớm (AAN 2021 mục 2). Chưa đạt \"đáp ứng rõ rệt\" của tiêu chuẩn hỗ trợ MDS (cải thiện > 30% UPDRS III hoặc trở về gần bình thường).",
+     "Chưa phải thất bại điều trị: tiêu chuẩn loại trừ \"không đáp ứng với levodopa liều cao\" (MDS 2015 loại trừ 6) cần ít nhất 600 mg/ngày; bà mới dùng 300 mg/ngày nên không áp dụng được. Điều đáng lo khác là mất dần đáp ứng, dao động, và dấu không điển hình.",
+     "Vì sao coi hạ huyết áp tư thế là vấn đề chính: bà bị ngã nhẹ, huyết áp nằm 150/86 và đứng 126/74, giảm 24/12 mmHg đạt ngưỡng ≥ 20/10 trong 3 phút của DGN 2025. Nhiều yếu tố cùng góp: levodopa (có thể làm nặng thêm hạ huyết áp tư thế; AAN 2021 mục 2), amlodipin, uống ít nước. Tỷ số nhịp tim tăng so với huyết áp giảm thấp (khoảng 0,15, ngưỡng thần kinh < 0,5 theo DGN 2025) gợi ý thành phần thần kinh, nhưng đang dùng thuốc nên không tính là cờ đỏ (MDS 2015 yêu cầu loại trừ thuốc, mất nước trước khi tính cờ đỏ và ngưỡng của MDS là 30/15 mmHg).",
+     "Red herring và nhiễu: yêu cầu truyền dịch lần hai vì choáng. Choáng là do thuốc và huyết áp tư thế, không phải thiếu nước nặng. Diagnostic timeout: có phải mất nước, tác dụng phụ thuốc, hay bệnh khác (rối loạn nhịp, thiếu máu, hạ đường huyết), có đang đổ cho \"thuốc không hợp\" rồi bỏ thuốc (premature closure) không. Không có xét nghiệm: ECG đã làm được; thiếu máu, điện giải, đường huyết thay bằng lâm sàng và theo dõi."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ nguyên levodopa, không ngừng đột ngột (NICE 1.3.2, 1.3.3). Liều 300 mg/ngày nằm trong khoảng có lợi 150-300 mg/ngày (AAN 2021 mục 2); chỉnh thêm là việc của chuyên khoa, hẹn sớm nếu choáng không đỡ sau chỉnh thuốc hạ áp.",
+     "Uống levodopa cùng bữa ăn hoặc ăn nhẹ giúp giảm buồn nôn (AAN 2021 mục 2 rationale, khuyến cáo 2e). Không kiêng đạm; tổng đạm không giảm (NICE 1.7.12).",
+     "Hạ huyết áp tư thế: theo DGN 2025, bước 1 loại nguyên nhân thúc đẩy; bước 2 giảm hoặc ngưng thuốc hạ áp; bước 3 biện pháp không dùng thuốc; bước 4 thuốc nâng huyết áp (midodrin; sau đó fludrocortison: NICE 1.5.9, 1.5.10). Ca này đi đến bước 3; thuốc nâng huyết áp để chuyên khoa quyết vì huyết áp nằm đã 150/86 (nguy cơ tăng huyết áp nằm).",
+     "Giảm amlodipin xuống 2,5 mg: DGN 2025 chỉ nói \"giảm hoặc ngưng\"; liều cụ thể không có trong tài liệu đã tải. Theo dõi huyết áp nằm và ngồi tại nhà.",
+     "Không truyền dịch: DGN 2025 dùng đường uống cho nước và muối; không nêu truyền dịch. Câu nói thay thế: \"Bà choáng vì khi đứng dậy huyết áp tụt, không phải vì cơ thể khô nước. Chai nước biển đưa nước vào rồi lại ra ngay, có thể làm huyết áp lúc nằm cao hơn nữa. Tụi mình uống nước đều, chỉnh thuốc huyết áp, và đứng dậy chậm; làm vậy bền hơn.\"",
+     "Táo bón: macrogol là thuốc đầu tay, dùng đều (DGN 2025). Đã tăng nước và chất xơ ở lượt 1 nhưng không đỡ, nên thêm thuốc. Hàm lượng gói macrogol bán tại Việt Nam: không có trong tài liệu đã tải; kê theo liều gam của DGN.",
+     "Tâm trạng và xã hội: hỏi nỗi ngại, gợi ý chia sẻ với người thân; không cần giấy nghỉ ốm. Kế hoạch chăm sóc chung giữa bà, con gái, chuyên khoa (NICE 1.1.5). Khi cần đánh giá trầm cảm: theo hướng dẫn riêng (NICE 1.5.11), không có chi tiết trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levodopa/carbidopa",
+      "ham_luong": "100/25 mg",
+      "lieu": "1 viên mỗi lần, 3 lần/ngày (theo đơn chuyên khoa, không đổi)",
+      "duong": "Uống",
+      "thoi_diem": "7 giờ, 12 giờ, 18 giờ, uống cùng bữa ăn hoặc ăn nhẹ",
+      "so_ngay": "Dài hạn, theo chuyên khoa; tái khám thần kinh theo hẹn",
+      "ghi_chu": "Khoảng liều có lợi 150-300 mg levodopa/ngày (AAN 2021 mục 2). Uống cùng bữa giảm buồn nôn trong giai đoạn sớm (AAN 2021 khuyến cáo 2e). Không ngưng đột ngột (NICE 1.3.2)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg (bẻ đôi viên = 2,5 mg)",
+      "lieu": "2,5 mg (nửa viên) mỗi sáng",
+      "duong": "Uống",
+      "thoi_diem": "Sáng, sau ăn",
+      "so_ngay": "1 đến 2 tuần rồi đo lại huyết áp",
+      "ghi_chu": "Giảm liều do hạ huyết áp tư thế (NICE 1.5.8; DGN 2025 bước 2). Liều 2,5 mg: nhận định lâm sàng, không có trong tài liệu đã tải. Ghi huyết áp nằm và ngồi mỗi sáng. Nếu huyết áp nằm ≥ 160/100 thì báo lại."
+     },
+     {
+      "thuoc": "Macrogol 4000 (polyethylen glycol)",
+      "ham_luong": "Gói bột (hàm lượng gói không có trong tài liệu đã tải)",
+      "lieu": "13 đến 26 g mỗi ngày, bắt đầu 13 g, hòa trong 1 ly nước",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi sáng, đều mỗi ngày",
+      "so_ngay": "Dùng đều, đánh giá sau 1-2 tuần",
+      "ghi_chu": "DGN 2025 mục Constipation: macrogol 13-26 g × 1/ngày, thuốc đầu tay, dùng đều không chờ đến lúc cần, không giới hạn thời gian dùng."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên khi đau, tối đa 6 viên (3 g)/24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, cách tối thiểu 6 giờ",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014 phụ lục NSAID bảng nguy cơ cao: dưới 3 g/ngày. Không dùng lại NSAID (Beers 2023 Bảng 2)."
+     }
+    ],
+    "dan_do": [
+     "Uống thuốc Parkinson đúng giờ, cùng bữa ăn hoặc ăn nhẹ nếu buồn nôn. Đừng tự ngưng thuốc hay tự tăng liều; ngưng đột ngột có thể nguy hiểm (NICE 1.3.2).",
+     "Đứng dậy chậm: ngồi sát mép giường một đến hai phút, co duỗi cổ chân, rồi mới đứng. Khi choáng thì ngồi xuống ngay. Uống nước đều trong ngày, bữa ăn nhỏ, tránh tắm nước quá nóng (DGN 2025).",
+     "Kê đầu giường cao khoảng 10 đến 20 độ khi ngủ (DGN 2025). Nhà vệ sinh có tay vịn, ghế ngồi cao, giày dép chống trượt, đèn ngủ.",
+     "Ghi huyết áp nằm và đứng mỗi sáng vào sổ (DGN 2025: nhật ký huyết áp theo tư thế). Hẹn khám lại tại phòng khám nội sau 1 đến 2 tuần (lịch hẹn: nhận định lâm sàng, không có trong tài liệu đã tải); khám thần kinh theo hẹn ba tháng của bác sĩ thần kinh.",
+     "Bệnh Parkinson là bệnh mạn tính; thuốc giúp đi lại, run, cài khuy tốt hơn nhưng không làm khỏi hẳn. Tập vật lý trị liệu đều, đi bộ nhẹ nhàng có người đi cùng. Bà vẫn có thể ngồi xem hội tập và đóng góp cho hội."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau ba tháng, bà gặp lại bác sĩ thần kinh; levodopa được chỉnh nhẹ, amlodipin được ngưng hẳn vì huyết áp ngồi 128/76 mmHg, không còn choáng. Run, đi lại cải thiện khoảng 60 đến 70% nhưng bà vẫn chậm, chữ vẫn nhỏ; hồi phục chậm hơn bà và con gái kỳ vọng (\"khỏi hẳn như người quen\"). Bà không té thêm lần nào, chấp nhận bệnh Parkinson là bệnh mạn tính và quay lại hội dưỡng sinh để ngồi hướng dẫn, nói với hai người bạn thân về bệnh. Đây là quỹ đạo đáp ứng bình thường cho giai đoạn sớm; xử trí đúng ở cả hai lượt.",
+ "nhieu": [
+  "Đau cơ vai gáy sau đi bộ nhanh và tự dùng meloxicam: đau cơ có thật nhưng không giải thích run nghỉ, chữ nhỏ, mất đung đưa tay. Dễ dừng ở \"đau cơ do tập quá sức\" (premature closure).",
+  "Flunarizin dùng hai năm trước: nếu không hỏi thuốc cũ sẽ bỏ sót; khi hỏi thì phải xét lại theo thời gian: ngưng hai năm, triệu chứng khởi phát sau ngưng và tiến triển nên không phải Parkinson do thuốc (MDS 2015, loại trừ 5, ghi chú).",
+  "Yêu cầu truyền dịch (cả hai lượt): bà tin chậm chạp và choáng là do thiếu nước. Cần lập luận nguy cơ/lợi ích và đưa việc làm thay thế."
+ ],
+ "bai_hoc_bien": [
+  "Hội chứng parkinson được chẩn đoán lâm sàng theo MDS 2015: chậm vận động có giảm biên độ + run nghỉ hoặc cứng; rồi tìm tiêu chuẩn loại trừ, cờ đỏ, tiêu chuẩn hỗ trợ. Không cần xét nghiệm máu hay hình ảnh (NICE 1.2.3, 1.2.9).",
+  "Người rất cao tuổi hay giấu run, chỉ kể \"đau cơ\" hay \"tuổi già\". Hỏi cụ thể về run lúc nghỉ, chữ viết, giọng nói, mùi, táo bón, giấc ngủ giúp nhận ra.",
+  "Rà thuốc chẹn dopamin hiện tại và đã dùng (flunarizin, metoclopramid…), có xét thời gian: khởi phát, ngưng thuốc, tiến triển. Khi đã là Parkinson thì tránh metoclopramid (Beers 2023 Bảng 3).",
+  "Đáp ứng một phần với levodopa là bình thường ở giai đoạn sớm; chỉ gọi là không đáp ứng khi đã dùng ≥ 600 mg/ngày và bệnh ít nhất mức trung bình (MDS 2015). Theo dõi dao động, loạn động, xung động, ảo giác, huyết áp tư thế (AAN 2021 mục 2c).",
+  "Hạ huyết áp tư thế ở người Parkinson cao tuổi: xem lại thuốc hạ áp trước khi thêm thuốc nâng huyết áp, bù nước muối đường uống, không truyền dịch (DGN 2025; NICE 1.5.8).",
+  "Lý do thật khác lý do nêu: giấy nghỉ ốm thực ra là để che nỗi ngại bị phát hiện bệnh."
+ ],
+ "diem_nho": [
+  "Hội chứng parkinson = chậm vận động (có giảm biên độ khi lặp lại) + run nghỉ hoặc cứng ống chì (MDS 2015, Bảng 1, mục I).",
+  "Nghi Parkinson: chuyển chuyên khoa nhanh, chưa điều trị (NICE NG71 1.2.2); levodopa là lựa chọn đầu khi vận động ảnh hưởng chất lượng sống (NICE 1.3.5; AAN 2021 1b); không dùng đồng vận dopamin cho người > 70 tuổi (AAN 2021 1d).",
+  "Không ngưng đột ngột thuốc Parkinson (NICE 1.3.2); theo dõi huyết áp tư thế, buồn nôn, ảo giác, xung động, loạn động khi dùng levodopa (AAN 2021 2c).",
+  "Hạ huyết áp tư thế trong Parkinson: bước 1 loại yếu tố thúc đẩy; bước 2 giảm thuốc hạ áp; bước 3 biện pháp không dùng thuốc; bước 4 midodrin/fludrocortison (DGN 2025; NICE 1.5.8–1.5.10)."
+ ],
+ "nguon": [
+  "MDS 2015 – Postuma R. et al., MDS clinical diagnostic criteria for Parkinson's disease. Mov Disord 2015;30:1591-1601 – TL-0489 – mục \"Criteria for Parkinsonism\" (tr. 1594), Bảng 1 (tr. 1595), loại trừ 5 và 6 và ghi chú (tr. 1597).",
+  "NICE NG71 2017 (rà soát 2024) – Parkinson's disease in adults – TL-0485 – khuyến cáo 1.1.1 đến 1.1.5, 1.2.1 đến 1.2.14, 1.3.2 đến 1.3.6, 1.5.8 đến 1.5.12, 1.7.3, 1.7.11 đến 1.7.15.",
+  "AAN 2021 – Dopaminergic therapy for motor symptoms in early Parkinson disease. Neurology 2021;97:942-957 – TL-0471 – khuyến cáo 1a đến 1d, 2a đến 2e, 3a đến 3e và phần rationale (tr. 950-951).",
+  "DGN 2025 – Parkinson's disease non-motor (autonomic, pain, sleep), J Neurol 2025;272:90 – kho cũ tltk-10000-ca, mục 07 – các mục Orthostatic hypotension, Constipation, Pain.",
+  "Age and Ageing 2026;55:afag063 – Best practice guidelines for cognitive disorders in Parkinson's disease – kho cũ tltk-10000-ca, mục 07 – phần \"Cognitive screening vs. comprehensive assessment\".",
+  "AGS Beers Criteria 2023, J Am Geriatr Soc 2023;71:2052-2081 – TL-0022 – Bảng 2 (metoclopramid; NSAID không chọn lọc COX-2), Bảng 3 (bệnh Parkinson: chống nôn chẹn dopamin).",
+  "AAN 2011 – Evidence-based guideline update: treatment of essential tremor – TL-0494 – mục Flunarizine (flunarizin có thể gây parkinsonism).",
+  "BYT – QĐ 361/QĐ-BYT 2014, Bệnh cơ xương khớp – TL-0286 – mục 4.2.1 (đau thắt lưng) và Phụ lục NSAID, bảng \"Nguy cơ cao\": acetaminophen < 3 g/ngày, tránh NSAID nếu có thể."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-10-11 (bản 1). Tài liệu đã đọc: TL-0489 MDS 2015 (mục I, Bảng 1, loại trừ/cờ đỏ, ghi chú); TL-0485 NICE NG71 (1.1-1.3, 1.5.8-1.5.12, 1.7); TL-0471 AAN 2021 (khuyến cáo 1-3, rationale); DGN 2025 (OH, táo bón, đau); Age Ageing 2026 (tầm soát nhận thức); TL-0022 Beers 2023 (Bảng 2, 3); TL-0494 AAN 2011; TL-0286 QĐ 361/2014.",
+  "Thiếu tài liệu: (1) liều khởi đầu và cách tăng liều levodopa ở người ≥ 80 tuổi; (2) ngưỡng MoCA; (3) khuyến cáo trực tiếp về truyền dịch ở hạ huyết áp tư thế; (4) chống nôn khi dùng levodopa (domperidon); (5) liều vitamin D; (6) quy định cấp giấy nghỉ ốm cho người hưu trí; (7) liều amlodipin 2,5 mg và mục tiêu huyết áp ≥ 80 tuổi; (8) tên thuốc chẹn dopamin cụ thể: MDS chỉ nêu nhóm; Beers 2023 nêu metoclopramid, prochlorperazin, promethazin; AAN 2011 nêu flunarizin; sulpirid và cinnarizin không có trong tài liệu đã tải;",
+  "Xung đột nguồn đã quyết: chẩn đoán lâm sàng theo MDS 2015 (mới hơn tiêu chuẩn Brain Bank trong NICE 1.2.3); lựa chọn thuốc khởi đầu cho người > 70 tuổi theo AAN 2021 (mới hơn NICE 2017). Xem sổ mâu thuẫn (mục đề xuất mới).",
+  "Mục khám và CLS đề xuất mới: mat_giong_chu_viet, run_nghi, dong_tac_cham, tang_truong_luc, dang_di_thang_bang, nhan_thuc_moca (xem TK-0479_de_xuat_danh_muc.json). Cho đến khi thêm vào danh mục, kiem_tra_ca.py báo lỗi id không có.",
+  "Không dùng ảnh/âm thanh bất thường: tim phổi dùng tệp bình thường người lớn."
+ ]
+}
