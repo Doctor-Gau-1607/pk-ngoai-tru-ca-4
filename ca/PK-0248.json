@@ -1,0 +1,784 @@
+{
+ "ma_ca": "PK-0248",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-12)",
+ "benh": "PK_tu_van_tranh_thai",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Tư vấn tránh thai",
+  "chan_doan_phai_loai_tru": [
+   "(đánh giá chống chỉ định)"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Hai chẩn đoán cùng lúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Xe ôm",
+  "yeu_to_khoi_phat": "Sau ăn thức ăn đường phố",
+  "thuoc_dang_dung": "Corticoid tự mua",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Mỹ Duyên",
+  "tuoi": 31,
+  "gioi": "Nữ",
+  "nghe": "Tài xế xe ôm (xe ôm truyền thống và công nghệ)",
+  "can_nang": 54,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi chị là 'chị Duyên'. Chị tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhảy, nói cộc, mệt mỏi. Ở trọ một mình, thu nhập tính theo chuyến nên rất ngại nghỉ. Hết tin các phòng khám sau ba lần khám.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mở đầu bằng 'em đi ba chỗ rồi, chỗ nào cũng bảo ngộ độc thức ăn, uống thuốc mà không hết', ghét bị hỏi lại điều đã bị hỏi, thấy bị cho qua loa. Mang theo tập phiếu cũ; từ chối làm lại xét nghiệm đã có. Chỉ dịu xuống khi bác sĩ công nhận đã đi nhiều nơi, xem tập phiếu, không lặp lại xét nghiệm vô ích và nói rõ lần này tìm cái gì mà các nơi trước chưa tìm.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c8946b",
+   "toc": "#1b1511",
+   "kieuToc": "bui",
+   "ao": "#4f6b57",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Xin tư vấn biện pháp tránh thai; hai tuần nay mệt, mất ngủ, đã khám ba nơi chưa khỏi",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên xét nghiệm đã về: phòng khám không chạy được sinh hóa, huyết học tối nay; mẫu gửi phòng xét nghiệm ngoài, kết quả sau khoảng 48 giờ. Điều dưỡng Linh chỉ làm được que thử thai nước tiểu và đo đường huyết mao mạch tại giường (thiết kế của ca). Quyết định phải đưa ra trước khi có kết quả."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · tối thứ Bảy",
+   "tiep_don": "Nữ 31 tuổi, chạy xe ôm, đến phòng khám lúc 19 giờ 30 tối thứ Bảy (ngoài giờ, kỹ thuật viên xét nghiệm đã về), xin tư vấn tránh thai. Đi một mình, dáng mệt, da hơi khô, mặt tròn. Mang theo một túi nilon đựng tập phiếu khám. Sinh hiệu lúc tiếp đón: mạch 92 l/p, HA 108/68 mmHg, nhiệt độ 37,2 °C, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ cho em hỏi thuốc tránh thai. Mà em nói trước, em đi khám ba chỗ rồi, chỗ nào cũng bảo ngộ độc thức ăn, uống thuốc hoài không hết mệt. Bác sĩ đừng hỏi lại từ đầu nha.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "108/68",
+    "nhiet": "37,2",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Em muốn uống thuốc tránh thai. Em mới quen bạn trai được hai tháng, sắp tính chuyện ở chung. Em chưa từng uống thuốc tránh thai, chưa sinh con.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra, chưa sinh, chưa dùng biện pháp nội tiết"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Hai tuần nay em mệt, chán ăn, đau bụng âm ỉ, đi khám ba nơi: quầy thuốc đầu hẻm, phòng khám tư, rồi bệnh viện quận. Nơi nào cũng bảo ngộ độc thức ăn, cho thuốc cầm tiêu chảy, men vi sinh, một chỗ cho thêm kháng sinh. Uống hết mà vẫn mệt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Nhiễu: từng khám 3 nơi không khỏi"
+    },
+    {
+     "id": "phieu_cu",
+     "noi_dung": "Tập phiếu bệnh viện quận 7 ngày trước: công thức máu và CRP bình thường, cấy phân không mọc vi khuẩn gây bệnh, siêu âm bụng bình thường. Không nơi nào thử điện giải hay đường huyết.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chị đưa phiếu khi bác sĩ hỏi đã làm xét nghiệm gì, hoặc xin xem tập phiếu.",
+     "k": 1,
+     "y": "Xét nghiệm đã có (không lặp lại); chưa ai kiểm điện giải, đường huyết"
+    },
+    {
+     "id": "an_duong_pho",
+     "noi_dung": "Khởi đầu cách đây 10 ngày, sau bữa gỏi cuốn và bún mắm ở vỉa hè sau khi chạy xe: nôn, tiêu chảy khoảng 3 ngày. Từ đó đến nay không hồi lại, vẫn còn phân sệt 1–2 lần/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: ăn thức ăn đường phố"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Mệt rã, chán ăn, buồn nôn nhẹ, đau âm ỉ quanh rốn, đứng dậy nhanh thì choáng, sụt khoảng 3 kg. Không sốt. Không ra máu âm đạo, không đau bụng dưới lệch một bên, không đau vai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng không giải thích hết bằng ngộ độc thức ăn đã qua 10 ngày"
+    },
+    {
+     "id": "dexa",
+     "noi_dung": "Em uống thuốc 'xương khớp' mua ở quầy thuốc đầu hẻm đã khoảng 5 tháng, mỗi tối 2 viên cho đỡ đau lưng vì ngồi xe cả ngày. Vỉ ghi Dexamethasone 0,5 mg. Em tưởng thuốc bổ xương nên không nói với ba nơi kia.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể về thuốc đang uống kể cả thuốc tự mua, thuốc xương khớp, thuốc giảm đau, hoặc nhờ chị đưa xem vỉ thuốc.",
+     "k": 1,
+     "y": "Thuốc tự mua: corticoid (dexamethason) dùng dài ngày"
+    },
+    {
+     "id": "uong_dexa",
+     "noi_dung": "Mấy ngày nôn em không uống được viên nào. Đỡ nôn thì uống lại nhưng thiếu: hôm kia và hôm qua mỗi hôm chỉ uống 1 viên vì buồn nôn. Hôm nay chưa uống.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể mấy ngày qua uống thuốc đó thế nào, có bỏ liều không, bao nhiêu viên mỗi ngày.",
+     "k": 1,
+     "y": "Giảm đột ngột nguồn glucocorticoid ngoại sinh"
+    },
+    {
+     "id": "mat_ngu",
+     "noi_dung": "Mất ngủ khoảng 3 tháng nay: nằm 1–2 giờ mới ngủ, ngủ được 3–4 giờ, 3 giờ sáng tỉnh rồi nằm nghĩ chuyện tiền xe. Em uống 2 viên dexamethason lúc 22 giờ trước khi ngủ. Ban ngày uống 2–3 lon nước tăng lực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất ngủ mạn: dexamethason uống tối, caffeine"
+    },
+    {
+     "id": "thuoc_ngu_that",
+     "noi_dung": "Thật ra em đến chủ yếu để xin thuốc ngủ. Quầy thuốc không bán, phòng khám tư nói phải có đơn. Em ngại nói thẳng nên nói chuyện tránh thai, mà tránh thai em cũng cần thật.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi hôm nay chị mong muốn điều gì nhất, điều gì làm chị khổ nhất, hoặc hỏi giấc ngủ. Hỏi chung 'còn gì nữa không' thì chị nói không.",
+     "k": 1,
+     "y": "Lý do thật đến khám: muốn được cho thuốc ngủ"
+    },
+    {
+     "id": "lai_xe",
+     "noi_dung": "Em chạy xe từ 5 giờ sáng đến 9 giờ tối. Hai lần gần đây em ngủ gật chờ đèn đỏ, suýt tông xe trước mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ an toàn khi lái xe: ảnh hưởng chọn thuốc ngủ"
+    },
+    {
+     "id": "kinh_nguyet",
+     "noi_dung": "Kinh lần cuối bắt đầu 14 ngày trước. Bốn tháng nay kinh thưa, 28–45 ngày mới có, ra ít. Không ra huyết bất thường ngoài kỳ kinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chu kỳ, ngày đầu kinh (>7 ngày): tiêu chí chắc chắn không có thai"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Với bạn trai mới em dùng bao cao su không đều. Lần gần nhất không dùng bao cách đây 8 ngày. Chưa xét nghiệm HIV hay bệnh lây qua đường tình dục. Bạn trai không triệu chứng gì.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chị chỉ nói khi bác sĩ hỏi riêng về quan hệ tình dục, bao cao su, lần gần nhất.",
+     "k": 1,
+     "y": "Có quan hệ sau kỳ kinh gần nhất: chưa chắc chắn không có thai"
+    },
+    {
+     "id": "nua_dau",
+     "noi_dung": "Từ năm 20 tuổi em hay đau nửa đầu, 1–2 lần mỗi tháng. Trước khi đau khoảng 20 phút em thấy chớp sáng lung linh, rồi đau một bên đầu, buồn nôn. Em tưởng ai cũng vậy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi tiền sử đau đầu, đau nửa đầu, rối loạn thị giác trước khi đau.",
+     "k": 1,
+     "y": "Đau nửa đầu có tiền triệu: chống chỉ định biện pháp kết hợp"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Hút 8 điếu thuốc lá mỗi ngày. Không tăng huyết áp, tiểu đường, huyết khối, ung thư vú, bệnh gan. Không nuôi con bằng sữa mẹ. Gia đình không ai bị đột quỵ sớm. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Các tiêu chí đánh giá chống chỉ định khác"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, cau có. Cân nặng 54 kg (trước đây khoảng 57 kg). Mặt tròn hồng nhẹ, vài mụn mủ nhỏ ở cằm và trán, da khô, môi hơi khô. Không sạm da. Không phù.",
+     "k": 1,
+     "hien": "Chị mệt, nét mặt cau có. Mặt tròn hồng, vài mụn nhỏ ở cằm, da khô, môi hơi khô."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: HA 112/70, mạch 88 l/p. Đứng 3 phút: HA 100/64, mạch 100 l/p, hơi choáng, không ngất. Chênh 12/6 mmHg: chưa tụt huyết áp.",
+     "k": 1,
+     "hien": "Nằm: HA 112/70, mạch 88. Đứng 3 phút: HA 100/64, mạch 100, chị nói hơi choáng."
+    },
+    "da": {
+     "a": "Vài vết bầm xanh ở cẳng tay chị không nhớ va vào đâu. Vài vạch rạn đỏ nhạt hai bên hông. Mụn mủ nhỏ vùng mặt. Không sạm da ở nếp gấp, lòng bàn tay, niêm mạc miệng.",
+     "k": 1,
+     "hien": "Cẳng tay có vài vết bầm xanh, hai bên hông có vài vạch đỏ nhạt, mặt có mụn nhỏ."
+    },
+    "bung": {
+     "a": "Bụng mềm, đau nhẹ quanh rốn khi ấn sâu, không phản ứng thành bụng, không đau cố định hố chậu. Nhu động ruột 5 lần/phút.",
+     "k": 0,
+     "hien": "Bụng mềm, ấn quanh rốn chị hơi nhăn mặt, không co cứng."
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, thở êm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tam_than": {
+     "a": "Khí sắc mệt, lo về tiền và giấc ngủ, cáu khi bị hỏi lặp. Định hướng tốt, tư duy mạch lạc. Không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Chị lo lắng, mệt, hay cắt ngang lời; định hướng tốt."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, không yếu liệt, không dấu thần kinh khu trú, thị trường bình thường. Hiện không đau đầu.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "lyte": {
+     "v": "e",
+     "r": "Mẫu gửi phòng xét nghiệm ngoài, kết quả sau khoảng 48 giờ.",
+     "n": "Hạ natri có thể gặp ở suy thượng thận (ESE/ES 2024, Bảng 5, 9). Phải LẤY mẫu tối nay, và không chờ kết quả để xử trí vì chẩn đoán cơn suy thượng thận là lâm sàng (ESE/ES 2024, mục 6.3 tr. G43)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure, creatinin: mẫu gửi phòng xét nghiệm ngoài, kết quả sau khoảng 48 giờ.",
+     "n": "Đánh giá giảm thể tích (ESE/ES 2024, Bảng 9)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Không làm lại. Phiếu bệnh viện quận 7 ngày trước: BC 7,1 G/L, Hb 128 g/L, TC 262 G/L, eosin 3%: bình thường.",
+     "n": "Đã có kết quả 7 ngày trước; lặp lại là xét nghiệm vô ích và làm bệnh nhân mất thêm niềm tin."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Không làm lại. Phiếu 7 ngày trước: CRP 2 mg/L.",
+     "n": "Đã có kết quả gần đây."
+    },
+    "abdus": {
+     "v": "n",
+     "r": "Không làm lại. Siêu âm bụng 7 ngày trước: bình thường.",
+     "n": "Đã có kết quả."
+    },
+    "virus_mau": {
+     "v": "a",
+     "r": "HIV, HBsAg, anti-HCV: mẫu gửi, kết quả sau khoảng 48 giờ.",
+     "n": "Không bắt buộc để cấp thuốc tránh thai nội tiết; hợp lý vì bạn tình mới và sẽ đặt DCTC (QĐ 1359/2026, chương DCTC, mục 3.2: đánh giá nguy cơ nhiễm trùng lây qua đường tình dục)."
+    },
+    "test_thai": {
+     "v": "e",
+     "r": "Que thử thai nước tiểu (điều dưỡng Linh làm tại chỗ, 5 phút): ÂM TÍNH. Que thử nước tiểu: ceton +, còn lại bình thường.",
+     "ab": 0,
+     "n": "Tạm dùng id 'ua' cho que thử thai (danh mục chưa có mục riêng). Test âm tính KHÔNG đủ: kinh 14 ngày trước, quan hệ không bao 8 ngày trước, không thỏa tiêu chí nào của Box 3 nên chưa chắc chắn không có thai (US SPR 2024, Box 3). Phải loại trừ có thai trước khi kê (QĐ 1359/2026, chương Viên progestin, mục 3.2)."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch tại giường (điều dưỡng Linh), nhịn ăn khoảng 5 giờ: 4,1 mmol/L.",
+     "ab": 0,
+     "bang": {
+      "glu": 4.1
+     },
+     "n": "Hạ đường huyết là biểu hiện có thể gặp ở suy thượng thận (ESE/ES 2024, Bảng 5, 9); 4,1 sát ngưỡng dưới."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tư vấn tránh thai: chọn biện pháp sau đánh giá chống chỉ định, hiện chưa thể chắc chắn không có thai",
+     "ok": 1,
+     "n": "Muốn tránh thai, chưa sinh, bạn tình mới, bao cao su không đều; chưa thỏa tiêu chí nào của Box 3 (US SPR 2024)."
+    },
+    {
+     "t": "Chống chỉ định thuốc tránh thai nội tiết kết hợp: đau nửa đầu có tiền triệu",
+     "ok": 1,
+     "n": "Loại 4 (US MEC 2024, Bảng D1; WHO MEC 2025, Bảng tóm tắt tr. 166); chống chỉ định tuyệt đối (QĐ 1359/2026, chương Viên thuốc kết hợp, mục 2.1). Hút thuốc < 35 tuổi chỉ loại 2 (US MEC 2024, Bảng D1)."
+    },
+    {
+     "t": "Nguy cơ suy thượng thận do glucocorticoid ngoại sinh (dexamethasone tự mua khoảng 5 tháng, vừa giảm liều đột ngột vì nôn, tiêu chảy), kèm Cushing ngoại sinh nhẹ",
+     "ok": 1,
+     "n": "Dùng > 3 tháng, tác dụng dài: nguy cơ cao (ESE/ES 2024, Bảng 3); mặt tròn, bầm da, rạn đỏ, mụn, mất ngủ, kinh thưa là dấu Cushing ngoại sinh (Bảng 7), coi như có suy thượng thận (R 2.10); mệt, sụt cân, choáng đứng khớp Bảng 5."
+    },
+    {
+     "t": "Mất ngủ mạn thứ phát (dexamethasone uống tối, caffeine, lo âu kinh tế)",
+     "ok": 1,
+     "n": "Mất ngủ là triệu chứng Cushing ngoại sinh (ESE/ES 2024, Bảng 7); có bệnh đi kèm thì cân nhắc điều trị bệnh nào trước (Hướng dẫn mất ngủ châu Âu 2023, Bảng 16)."
+    },
+    {
+     "t": "Có thai (kể cả thai ngoài tử cung)",
+     "n": "Test âm tính, không đau bụng lệch bên, không ra huyết âm đạo; vẫn phải nghĩ tới thai khi có triệu chứng tiêu hóa không đặc hiệu (NICE NG126 2026, mục 1.4.3, 1.4.5). Chưa loại trừ tuyệt đối: thử lại sau 2–4 tuần (US SPR 2024, Box 3)."
+    },
+    {
+     "t": "Viêm dạ dày ruột nhiễm khuẩn, ngộ độc thức ăn còn tiếp diễn (chẩn đoán của 3 nơi trước)",
+     "n": "Đã 10 ngày; cấy phân, công thức máu, CRP, siêu âm bụng bình thường. Chỉ là yếu tố khởi phát: nôn, tiêu chảy làm thuốc uống không hấp thu (ESE/ES 2024, R 3.1B; mục 6.3: 'missed doses, gastroenteritis')."
+    },
+    {
+     "t": "Các chống chỉ định khác (tăng huyết áp, huyết khối, hút thuốc từ 35 tuổi, ung thư vú, bệnh gan nặng)",
+     "n": "Hỏi không có; HA 108/68. Thuốc kết hợp phải đo huyết áp trước (US SPR 2024, Bảng 4, hạng A). Danh sách: QĐ 1359/2026, chương Viên thuốc kết hợp, mục 2.1."
+    },
+    {
+     "t": "Rối loạn lo âu hoặc trầm cảm là nguyên nhân chính của mất ngủ",
+     "n": "Không ý tưởng tự hại, tư duy mạch lạc; có nguyên nhân thực thể rõ hơn (dexamethasone, caffeine). Khai thác tiếp nếu còn mất ngủ sau khi sửa nguyên nhân."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi mọi thuốc đang dùng kể cả thuốc tự mua, xem vỉ thuốc, nhận ra dexamethasone dùng dài ngày",
+     "v": "c",
+     "n": "Glucocorticoid > 3 tháng, tác dụng dài là nguy cơ cao (ESE/ES 2024, Bảng 3); lúc giảm, ngưng thuốc là thời điểm then chốt (Bảng 9)."
+    },
+    {
+     "t": "Xác định chắc chắn không có thai bằng tiêu chí Box 3 và que thử thai; không thỏa tiêu chí thì không coi test âm tính là đủ",
+     "v": "c",
+     "n": "US SPR 2024, Box 3. Quan hệ không bao cách 8 ngày, ngoài mốc 5 ngày nên không đặt vấn đề tránh thai khẩn cấp."
+    },
+    {
+     "t": "Không kê thuốc tránh thai kết hợp (viên, miếng dán, vòng) vì đau nửa đầu có tiền triệu",
+     "v": "c",
+     "n": "Loại 4 (US MEC 2024, Bảng D1; WHO MEC 2025, tr. 166); chống chỉ định tuyệt đối (QĐ 1359/2026, chương Viên thuốc kết hợp, mục 2.1)."
+    },
+    {
+     "t": "Bao cao su ngay và mọi lần quan hệ; thử thai lại sau 2–4 tuần; chọn dụng cụ tử cung chứa đồng (Cu-IUD) dài hạn, đặt khi chắc chắn không có thai và sau khi ổn định vấn đề thượng thận",
+     "v": "c",
+     "n": "Bao cao su: bất kỳ lúc nào, không cần thăm khám (QĐ 1359/2026, chương Bao cao su, mục 3.2–3.3). Cu-IUD loại 1 với đau nửa đầu có tiền triệu (US MEC 2024, Bảng B1; WHO MEC 2025, tr. 166). Chưa chắc có thai thì dùng biện pháp khác trước khi đặt IUD (US SPR 2024, Cu-IUD, Comments); khám hai tay trước đặt IUD (US SPR 2024, Bảng 1, hạng A)."
+    },
+    {
+     "t": "Viên progestin đơn thuần hoặc que cấy tránh thai làm phương án thay thế",
+     "v": "a",
+     "n": "Đau nửa đầu có tiền triệu: US MEC 2024, Bảng C1 loại 1; WHO MEC 2025, tr. 166 loại 2 khi bắt đầu, 3 khi tiếp tục; QĐ 1359/2026, chương Viên progestin, mục 4.4.1: ngưng nếu đau nửa đầu kèm mờ mắt. Chọn bên thận trọng (Cu-IUD); phương án này chấp nhận, phải theo dõi. Đang nôn, tiêu chảy làm giảm hấp thu viên uống (US SPR 2024, mục POP)."
+    },
+    {
+     "t": "Không ngưng đột ngột dexamethasone; giữ 1 mg/ngày, uống 1 lần buổi sáng, không tự tăng, không tự giảm",
+     "v": "c",
+     "n": "Ngưng hoặc giảm đột ngột glucocorticoid dùng dài ngày làm lộ suy thượng thận (ESE/ES 2024, Bảng 9, mục 6.3). Dexamethasone ≥ 1 mg/ngày không cần tăng khi stress nhẹ nếu huyết động ổn (Bảng 8). Giảm dần chỉ khi bệnh nền đã kiểm soát (R 2.2). Buổi sáng: tài liệu chỉ nêu prednisone đơn liều buổi sáng (mục 6.2); áp dụng cho dexamethasone là suy luận."
+    },
+    {
+     "t": "Dặn quy tắc ngày ốm: nôn không giữ được thuốc, tiêu chảy kéo dài, choáng, lả người thì đến NGAY để tiêm hydrocortisone",
+     "v": "c",
+     "n": "ESE/ES 2024, R 1.2, Bảng 2; Bảng 8: nôn hoặc tiêu chảy kéo dài thì hydrocortisone 100 mg tiêm bắp ngay, nhập viện nếu không hết hoặc mất ổn định huyết động."
+    },
+    {
+     "t": "Lấy mẫu điện giải, ure, creatinin; không chờ kết quả để xử trí; không làm lại công thức máu, CRP, cấy phân, siêu âm bụng; không đo cortisol",
+     "v": "c",
+     "n": "Cơn suy thượng thận là chẩn đoán lâm sàng (ESE/ES 2024, mục 6.3 tr. G43). Không xét nghiệm thường quy ở người đang dùng liều trên sinh lý (R 2.4); nếu đo, cortisol thường không phát hiện được (Bảng 5)."
+    },
+    {
+     "t": "Điều trị mất ngủ: nói rõ nguyên nhân (dexamethasone uống tối, nước tăng lực), đổi giờ thuốc, bỏ caffeine từ chiều, hướng dẫn CBT-I; lưu ý buồn ngủ khi lái; chưa kê thuốc ngủ",
+     "v": "c",
+     "n": "Hướng dẫn mất ngủ châu Âu 2023, Bảng 16 (tr. 23): CBT-I là đầu tay cho mất ngủ mạn kể cả khi có bệnh đi kèm; vệ sinh giấc ngủ đơn độc không đủ (mục 4.1, tr. 11); hạn chế thời gian nằm có thể tăng buồn ngủ ban ngày lúc đầu, cần bàn về lái xe (mục 4.1, tr. 11)."
+    },
+    {
+     "t": "Hẹn tái khám sau 48 giờ khi có kết quả xét nghiệm; tới ngay nếu nôn, choáng, lả",
+     "v": "c",
+     "n": "48 giờ theo thời gian trả kết quả của phòng xét nghiệm ngoài (thiết kế của ca); khoảng thời gian tái khám không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê thuốc ngủ (benzodiazepin, zolpidem hoặc an thần tương tự) vì bệnh nhân đòi",
+     "v": "w",
+     "n": "Chỉ khi CBT-I không đủ và ≤ 4 tuần (Hướng dẫn mất ngủ châu Âu 2023, Bảng 16). Nguyên nhân thứ phát chưa sửa, chị lái xe và đã ngủ gật hai lần; an toàn lái xe với thuốc ngủ: không có số liệu trong tài liệu đã tải (suy luận)."
+    },
+    {
+     "t": "Bảo ngưng hẳn dexamethasone ngay vì 'thuốc độc'",
+     "v": "h",
+     "n": "Dùng khoảng 5 tháng, đang có triệu chứng: ngưng đột ngột có thể gây cơn suy thượng thận, tử vong tăng nhất ngay sau ngưng (ESE/ES 2024, Bảng 3; mục 6.3, tr. G42). Chỉ khi dùng < 3–4 tuần mới ngưng không cần giảm dần (R 2.1)."
+    },
+    {
+     "t": "Kê thuốc tránh thai kết hợp vì bệnh nhân trẻ",
+     "v": "h",
+     "n": "Loại 4, nguy cơ đột quỵ thiếu máu não tăng khoảng 3 lần ở người đau nửa đầu dùng thuốc (US MEC 2024, Bảng D1)."
+    },
+    {
+     "t": "Đặt Cu-IUD ngay tối nay",
+     "v": "w",
+     "n": "Chưa chắc chắn không có thai thì phải dùng biện pháp khác trước (US SPR 2024, Cu-IUD, Comments); đang trong đợt bệnh cấp chưa ổn."
+    },
+    {
+     "t": "Cho thêm thuốc cầm tiêu chảy hoặc kháng sinh như ba nơi trước, kết luận ngộ độc thức ăn",
+     "v": "w",
+     "n": "Đã 10 ngày, cấy phân và công thức máu bình thường; không giải thích mệt, sụt cân, choáng đứng (ESE/ES 2024, Bảng 5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tư vấn tránh thai: nữ 31 tuổi, chưa sinh, bạn tình mới; chưa chắc chắn không có thai (test âm tính nhưng không thỏa Box 3)",
+     "Chống chỉ định thuốc tránh thai kết hợp: đau nửa đầu có tiền triệu (loại 4); các chống chỉ định khác không có",
+     "Chẩn đoán thứ hai cùng lúc: nguy cơ suy thượng thận do dexamethasone tự mua khoảng 5 tháng, Cushing ngoại sinh nhẹ, vừa thiếu thuốc do nôn, tiêu chảy sau ăn đường phố",
+     "Mất ngủ mạn thứ phát (dexamethasone uống tối, caffeine, lo âu); lý do thật đến khám: xin thuốc ngủ",
+     "Chưa mất ổn định huyết động; chưa có chỉ định nhập viện lúc này"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: công nhận ba lần khám trước, xem tập phiếu cũ → hỏi thuốc tự mua, xem vỉ thuốc → hỏi 'chị mong muốn gì nhất' (lộ lý do thật) → kinh nguyệt, quan hệ gần nhất, đau đầu, hút thuốc, huyết khối → khám toàn thân, da, huyết áp nằm đứng, bụng → que thử thai, đường huyết → chẩn đoán → xử trí. Chị chỉ hợp tác khi bác sĩ nói rõ lần này tìm cái ba nơi trước chưa tìm: thuốc tự mua, điện giải, đường huyết.",
+     "Bẫy hai chẩn đoán cùng lúc: yêu cầu là tư vấn tránh thai nên dễ đóng hồ sơ ngay (cấp thuốc tránh thai hoặc kê thuốc ngủ cho xong). Dữ kiện KHÔNG được giải thích bởi 'tư vấn tránh thai' và cũng không bởi 'ngộ độc thức ăn' đã qua 10 ngày: mệt kéo dài, chán ăn, sụt 3 kg, choáng đứng (HA 100/64, mạch 100), mặt tròn, bầm da, rạn đỏ, mụn, kinh thưa, mất ngủ 3 tháng. Gộp lại là Cushing ngoại sinh (Bảng 7) và bắt đầu thiếu thuốc, tức suy thượng thận (Bảng 5) (ESE/ES 2024); dexamethasone > 3 tháng, tác dụng dài, đường uống là nhóm nguy cơ cao (Bảng 3). Cơ chế sai lệch: neo vào chẩn đoán của ba nơi trước và lý do nêu ra; thuốc tự mua bị che vì chị không coi là thuốc.",
+     "Đánh giá chống chỉ định: đau nửa đầu có tiền triệu (chớp sáng 20 phút rồi đau một bên) là loại 4 với thuốc kết hợp (US MEC 2024, Bảng D1; WHO MEC 2025, tr. 166; QĐ 1359/2026, chương Viên thuốc kết hợp, mục 2.1). Hút thuốc < 35 tuổi: loại 2, không cấm. Huyết áp phải đo trước khi dùng thuốc kết hợp (US SPR 2024, Bảng 4, hạng A). Không cần khám phụ khoa hoặc khám vú để bắt đầu viên progestin, bao cao su (US SPR 2024, Bảng 5; QĐ 1359/2026, chương Bao cao su, mục 3.2); khám hai tay bắt buộc chỉ khi đặt IUD (US SPR 2024, Bảng 1).",
+     "Loại trừ có thai: test âm tính chưa đủ. Kinh 14 ngày trước, quan hệ không bao 8 ngày trước: không tiêu chí Box 3 nào đạt, nên không thể chắc chắn dù test âm tính; thử lại sau 2–4 tuần (US SPR 2024, Box 3). Phụ nữ trong tuổi sinh đẻ có triệu chứng tiêu hóa không đặc hiệu phải nghĩ tới thai, kể cả thai ngoài tử cung (NICE NG126 2026, mục 1.4.5).",
+     "Lý do thật: lộ khi hỏi 'chị mong muốn điều gì nhất'. Mất ngủ ở đây là hậu quả của dexamethasone uống tối và caffeine (ESE/ES 2024, Bảng 7); sửa nguyên nhân trước khi nghĩ tới thuốc ngủ."
+    ],
+    "phan_tich_xu_tri": [
+     "Tránh thai: bao cao su ngay, thử thai lại sau 2–4 tuần, rồi Cu-IUD khi chắc chắn không có thai và vấn đề thượng thận đã ổn. Mâu thuẫn tài liệu đã quyết một lần (PK-0248_mau_thuan.md): đau nửa đầu có tiền triệu với biện pháp chỉ progestin, US MEC 2024, Bảng C1 loại 1; WHO MEC 2025, tr. 166 loại 2 khi bắt đầu, 3 khi tiếp tục (viên progestin, DMPA, que cấy), LNG-IUD loại 2; QĐ 1359/2026 cho ngưng viên progestin nếu đau nửa đầu kèm mờ mắt (chương Viên progestin, mục 4.4.1) và xếp LNG-IUD vào chống chỉ định tương đối (chương DCTC, mục 2.2). Chọn bên thận trọng: Cu-IUD (loại 1 ở cả ba tài liệu); viên progestin, que cấy chấm a. Không ưu tiên DMPA: WHO loại 2/3; US MEC 2024, Bảng C1 xếp loại 3 cho DMPA ở người dùng corticoid dài hạn có yếu tố nguy cơ gãy xương (nêu cho nhóm viêm khớp dạng thấp; áp dụng cho chị là suy rộng).",
+     "Glucocorticoid: không ngưng đột ngột; giữ 1 mg/ngày, uống buổi sáng; không tăng vì stress nhẹ và huyết động ổn (ESE/ES 2024, Bảng 8). Quy đổi Bảng 1: dexamethasone 0,5 mg ≈ prednisone 5 mg ≈ hydrocortisone 20 mg, nên 1 mg/ngày ≈ prednisone 10 mg, liều trên sinh lý. Chị không có chỉ định glucocorticoid: sau đợt cấp giảm dần về liều sinh lý (R 2.2, R 2.5; Bảng 4: mức 5–10 mg prednisone giảm 1 mg mỗi 1–4 tuần), theo sổ mâu thuẫn mục 'Ngưng glucocorticoid ẩn'.",
+     "Quy tắc ngày ốm là phần cứu mạng: nôn không giữ được thuốc, tiêu chảy kéo dài, choáng thì đến ngay để tiêm hydrocortisone 100 mg; nhập viện nếu không hết hoặc huyết động xấu đi (ESE/ES 2024, Bảng 8; R 3.1B).",
+     "Mất ngủ: đổi giờ thuốc, bỏ caffeine từ chiều, CBT-I; thuốc ngủ chỉ khi CBT-I không đủ và ≤ 4 tuần (Hướng dẫn mất ngủ châu Âu 2023, Bảng 16). Kê thuốc ngủ chấm w: nguyên nhân chưa sửa, chị lái xe và đã ngủ gật hai lần (suy luận). Từ chối thuốc ngủ phải kèm đề nghị cụ thể, vì chị đã bị từ chối hai nơi.",
+     "Xét nghiệm: lấy mẫu tối nay, không chờ kết quả (ESE/ES 2024, mục 6.3 tr. G43); không lặp các xét nghiệm đã bình thường; không đo cortisol (R 2.4).",
+     "Chấm khác: ngưng ngay dexamethasone, thuốc tránh thai kết hợp chấm h; đặt Cu-IUD tối nay, thêm thuốc cầm tiêu chảy hoặc kháng sinh chấm w."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Dexamethasone (thuốc chị đang có, không kê thêm)",
+      "ham_luong": "Viên 0,5 mg",
+      "lieu": "1 mg/ngày (2 viên), giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "1 lần buổi sáng, không uống buổi tối",
+      "so_ngay": "Đến tái khám sau 48 giờ; kế hoạch giảm dần do bác sĩ theo dõi sau đợt cấp",
+      "ghi_chu": "ESE/ES 2024, Bảng 8, R 2.2, R 2.5. Buổi sáng: suy luận từ prednisone đơn liều buổi sáng (mục 6.2); không có số liệu riêng cho dexamethasone trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Bao cao su",
+      "ham_luong": "Loại không latex nếu dị ứng latex",
+      "lieu": "Mọi lần quan hệ, đúng cách",
+      "duong": "Dùng ngoài",
+      "thoi_diem": "Từ ngay bây giờ",
+      "so_ngay": "Đến khi đặt Cu-IUD và thử thai lại âm tính",
+      "ghi_chu": "QĐ 1359/2026, chương Bao cao su, mục 1, 3.2–3.3. Phòng khám có sẵn bao cao su (thiết kế của ca)."
+     }
+    ],
+    "dan_do": [
+     "Em hiểu chị đã khám ba nơi nên mệt và nản. Lần này em tìm thứ ba nơi trước chưa kiểm: thuốc chị tự mua, điện giải, đường huyết. Thuốc 'xương khớp' của chị là dexamethasone, một thuốc corticoid. Dùng 5 tháng thì tuyến thượng thận quen được cung cấp sẵn nên nghỉ làm việc; bỏ thuốc đột ngột, nhất là lúc nôn, tiêu chảy, cơ thể thiếu cortisol và có thể tụt huyết áp (ESE/ES 2024, mục 6.3). Vì vậy KHÔNG tự ngưng; uống 2 viên mỗi sáng, không uống tối.",
+     "Nôn không giữ được thuốc, tiêu chảy nhiều, choáng muốn ngất, lả người: đến NGAY để tiêm hydrocortisone, đừng chờ qua đêm (ESE/ES 2024, Bảng 8). Mang theo vỉ thuốc và tập phiếu. Không mua thêm thuốc 'xương khớp'.",
+     "Tránh thai: chị đau nửa đầu có chớp sáng nên KHÔNG dùng thuốc tránh thai kết hợp, vì tăng nguy cơ đột quỵ (US MEC 2024, Bảng D1). Dùng bao cao su mỗi lần quan hệ, thử thai lại sau 2–4 tuần (US SPR 2024, Box 3). Khi ổn định nên chọn dụng cụ tử cung chứa đồng: không nội tiết, loại 1 với đau nửa đầu có tiền triệu (US MEC 2024, Bảng B1). Chớp sáng kèm tê yếu, nói khó: đến cấp cứu ngay.",
+     "Giấc ngủ: bỏ nước tăng lực từ chiều, uống thuốc buổi sáng; em sẽ hướng dẫn cách tập ngủ (CBT-I), hiệu quả hơn thuốc ngủ và không gây buồn ngủ khi chạy xe (Hướng dẫn mất ngủ châu Âu 2023, Bảng 16). Buồn ngủ khi lái thì dừng xe nghỉ.",
+     "Hẹn 48 giờ khi có kết quả điện giải; quay lại trước nếu nôn, tiêu chảy nhiều, choáng, lả, đau bụng tăng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tối thứ Hai (sau 2 ngày)",
+   "tiep_don": "Tái khám 19 giờ 30 tối thứ Hai, hai ngày sau lượt 1, vẫn ngoài giờ. Chị Duyên được một đồng nghiệp chở đến, ngồi gục ở ghế chờ, nói nhỏ 'em không đỡ, còn tệ hơn'. Phiếu mẫu gửi từ thứ Bảy về chiều nay (phòng khám gọi hai lần chị không bắt máy): Na⁺ 128, K⁺ 4,3, Cl⁻ 94 mmol/L; ure 8,6 mmol/L, creatinin 82 µmol/L; HIV, HBsAg, anti-HCV âm tính. Sinh hiệu: mạch 118 l/p, HA 84/52 mmHg, nhiệt độ 37,9 °C, nhịp thở 22 l/p, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "loi_mo": "Bác sĩ ơi, em uống thuốc đúng lời mà vẫn không đỡ, giờ chóng mặt, nôn mấy lần. Bác sĩ cho em viên thuốc ngủ tối nay thôi, hai đêm rồi em không ngủ được.",
+   "sinh_hieu": {
+    "mach": 118,
+    "ha": "84/52",
+    "nhiet": "37,9",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": [
+     "mach",
+     "ha",
+     "nhip_tho"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Hai ngày nay không đỡ, còn nặng hơn: mệt lả, không muốn ăn, nôn nhiều, chóng mặt, đau bụng quanh rốn âm ỉ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến: không đỡ, nặng thêm"
+    },
+    {
+     "id": "non_mat_thuoc",
+     "noi_dung": "Thứ Bảy, Chủ nhật em uống 2 viên dexamethasone buổi sáng được. Sáng nay uống xong nôn ra hết sau 20 phút. Từ trưa nôn thêm 3 lần, uống nước vào là nôn, phân lỏng 2–3 lần. Cả ngày chưa giữ được viên thuốc nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không hấp thu thuốc uống: mất nguồn glucocorticoid"
+    },
+    {
+     "id": "tieu_it",
+     "noi_dung": "Từ trưa em chưa đi tiểu, nước tiểu sáng nay sẫm. Khát, miệng khô.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất nước"
+    },
+    {
+     "id": "khong_den_som",
+     "noi_dung": "Sáng nay em vẫn chạy xe vì sợ mất chuyến. Chiều đứng lên thấy tối sầm, suýt ngã nên đồng nghiệp chở đến.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Chậm đến (nhiễu)"
+    },
+    {
+     "id": "thuoc_ngu_lan2",
+     "noi_dung": "Em không ngủ được hai đêm. Bác sĩ cho em 1–2 viên thuốc ngủ, đừng cho nằm viện.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do thật vẫn là thuốc ngủ"
+    },
+    {
+     "id": "khong_thai",
+     "noi_dung": "Đau quanh rốn, không lệch một bên, không ra máu âm đạo, không đau vai. Kinh chưa tới. Từ thứ Bảy em không quan hệ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ thai ngoài tử cung"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Em uống đúng lời dặn: sáng 2 viên, không uống thuốc nào khác, không mua thêm thuốc. Không có chớp sáng đau đầu từ thứ Bảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ đủ: không phải nguyên nhân không đỡ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Mệt lả, nằm co, nói nhỏ, tỉnh nhưng trả lời chậm. Da khô, giảm đàn hồi, môi nứt, tay chân mát, mao mạch hồi lại 4 giây. Mặt tròn nhẹ. Không sạm da.",
+     "k": 1,
+     "hien": "Chị nằm co người, nói nhỏ, môi nứt khô, tay chân lạnh. Trả lời chậm nhưng đúng."
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 88/54, mạch 112 l/p. Ngồi dậy 1 phút: HA 74/46, mạch 128 l/p, choáng muốn ngất, ngừng nghiệm pháp.",
+     "k": 1,
+     "hien": "Nằm: HA 88/54, mạch 112. Ngồi dậy 1 phút: HA 74/46, mạch 128, chị tối sầm, phải nằm xuống."
+    },
+    "bung": {
+     "a": "Bụng mềm, đau lan tỏa nhẹ quanh rốn và hạ vị, không lệch bên, không phản ứng thành bụng, không cảm ứng phúc mạc. Nhu động ruột tăng nhẹ.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn quanh rốn chị hơi nhăn mặt, không co cứng."
+    },
+    "tim": {
+     "a": "Tim đều 118 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 118 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh, đều, T1, T2 rõ."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran. Thở hơi nhanh.",
+     "k": 0,
+     "hien": "Thở hơi nhanh, không co kéo.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tam_than": {
+     "a": "Lờ đờ, hỏi chậm, vẫn định hướng đúng. Xin thuốc ngủ. Không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Chị lờ đờ, hỏi chậm, nhưng biết ngày giờ và nơi mình đang ở."
+    }
+   },
+   "cls": {
+    "lyte": {
+     "v": "e",
+     "r": "Phiếu mẫu gửi từ thứ Bảy: Na⁺ 128, K⁺ 4,3, Cl⁻ 94 mmol/L.",
+     "ab": 1,
+     "bang": {
+      "na": 128,
+      "k": 4.3,
+      "cl": 94
+     },
+     "n": "Hạ natri, kali bình thường: phù hợp suy thượng thận do glucocorticoid, aldosterone còn (ESE/ES 2024, R 2.12 Rationale; Bảng 9). Kết quả về muộn không đổi quyết định: chẩn đoán lâm sàng (mục 6.3 tr. G43)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Phiếu mẫu gửi từ thứ Bảy: ure 8,6 mmol/L, creatinin 82 µmol/L.",
+     "ab": 1,
+     "bang": {
+      "ure": 8.6,
+      "creat": 82
+     },
+     "n": "Ure tăng nhẹ, creatinin bình thường: mất nước trước thận (ESE/ES 2024, Bảng 9)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Không làm lại tối nay (kết quả 7 ngày trước bình thường).",
+     "n": "Không đổi xử trí."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Siêu âm bụng – chậu tại giường (bác sĩ trực): không dịch tự do ổ bụng, không khối phần phụ.",
+     "ab": 0,
+     "n": "Không bắt buộc khi test thai âm tính và bụng mềm; làm cũng không trừ điểm nếu không chậm điều trị."
+    },
+    "test_thai": {
+     "v": "e",
+     "r": "Que thử thai nước tiểu (điều dưỡng Linh): ÂM TÍNH.",
+     "ab": 0,
+     "n": "Tạm dùng id 'ua' cho que thử thai. Phụ nữ trong tuổi sinh đẻ đau bụng kèm tụt huyết áp, mạch nhanh phải thử thai để loại trừ thai ngoài tử cung (NICE NG126 2026, mục 1.4.4–1.4.5). Không được vì việc này mà chậm hydrocortisone."
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch tại giường (điều dưỡng Linh): 3,4 mmol/L.",
+     "ab": 1,
+     "bang": {
+      "glu": 3.4
+     },
+     "n": "Hạ đường huyết, hạ natri, tụt huyết áp thường gặp trong cơn suy thượng thận (ESE/ES 2024, Bảng 9); không bắt buộc cho chẩn đoán. Hạ đường huyết: Endocrine Society 2016, Bảng 3 cho glucose 5% trong NaCl 0,9%."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nghi cơn suy thượng thận cấp do glucocorticoid ngoại sinh (dexamethasone tự mua 5 tháng, mất nguồn thuốc vì nôn, tiêu chảy sau ăn đường phố)",
+     "ok": 1,
+     "n": "Tụt huyết áp (84/52) kèm nôn, mệt nhiều (ESE/ES 2024, Bảng 9). Người dùng glucocorticoid hiện tại hoặc gần đây, chưa xét nghiệm loại trừ, có tụt huyết áp, nôn: phải nghĩ tới cơn, bất kể loại và liều (R 3.2). Cơn xảy ra khi nguồn thuốc giảm đột ngột: thiếu liều, viêm dạ dày ruột (mục 6.3, Rationale)."
+    },
+    {
+     "t": "Tư vấn tránh thai: không thuốc kết hợp, bao cao su, Cu-IUD sau khi ổn",
+     "ok": 1,
+     "n": "Chẩn đoán đích, tối nay xếp sau cấp cứu; kế hoạch như lượt 1 (US MEC 2024, Bảng D1, B1; WHO MEC 2025, tr. 166). Ghi vào bàn giao."
+    },
+    {
+     "t": "Mất nước, hạ natri do viêm dạ dày ruột đơn thuần (chẩn đoán của ba nơi trước)",
+     "n": "Tụt huyết áp quá mức so với yếu tố khởi phát (ESE/ES 2024, Bảng 9: shock out of proportion). Truyền dịch đơn thuần không glucocorticoid là sai (mục 6.3)."
+    },
+    {
+     "t": "Thai ngoài tử cung vỡ, sốc mất máu",
+     "n": "Test âm tính, đau lan tỏa không lệch bên, không ra huyết, bụng mềm (NICE NG126 2026, mục 1.4.4–1.4.5)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết",
+     "n": "Sốt nhẹ, mạch 118, HA 84/52 không loại trừ hẳn tại phòng khám; nhiễm khuẩn cũng là yếu tố khởi phát cơn (ESE/ES 2024, Bảng 9). Chuyển tuyến giải quyết cả hai khả năng; số liệu riêng để loại trừ không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chạy quy trình 'không đỡ': tuân thủ và hấp thu thuốc (nôn mất thuốc), biến chứng (cơn suy thượng thận), chẩn đoán bỏ sót (thai ngoài tử cung, nhiễm khuẩn) trước khi đổi thuốc",
+     "v": "c",
+     "n": "Không đỡ vì thuốc không vào được cơ thể, không phải liều sai (ESE/ES 2024, mục 6.3, Rationale R 3.2)."
+    },
+    {
+     "t": "Nhận định NGAY là cơn suy thượng thận cấp; điều trị không chờ xét nghiệm",
+     "v": "c",
+     "n": "ESE/ES 2024, mục 6.3 tr. G43: 'Treatment must not be delayed by laboratory or imaging investigations'; glucocorticoid tiêm ngắn ngày an toàn, điều trị cả khi sau này loại trừ cơn."
+    },
+    {
+     "t": "Tiêm hydrocortisone 100 mg tĩnh mạch (hoặc bắp) ngay tại phòng khám",
+     "v": "c",
+     "n": "ESE/ES 2024, mục 6.3 tr. G43, Bảng 8; Endocrine Society 2016, Bảng 3. Giả định thiết kế: tủ cấp cứu có hydrocortisone 100 mg."
+    },
+    {
+     "t": "Lập đường truyền, truyền nhanh NaCl 0,9% (hoặc glucose 5% trong NaCl 0,9% vì đường huyết 3,4); theo dõi sát huyết áp, mạch, ý thức",
+     "v": "c",
+     "n": "ESE/ES 2024, mục 6.3 tr. G43: 'rapid volume resuscitation with IV 0.9% saline', không nêu thể tích; Endocrine Society 2016, Bảng 3 (suy thượng thận nguyên phát): 1.000 mL trong giờ đầu, áp dụng cho thứ phát là suy rộng. Tần suất theo dõi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển tuyến cấp cứu ngay bằng xe cấp cứu có nhân viên y tế, giữ đường truyền, bàn giao bằng lời và giấy",
+     "v": "c",
+     "n": "Cần hydrocortisone liên tục 200 mg/24 giờ hoặc 50 mg tĩnh mạch mỗi 6 giờ ở viện và nội tiết đánh giá (ESE/ES 2024, Bảng 8; R 2.11); nhập viện khi mất ổn định huyết động hoặc nôn kéo dài (R 3.1B)."
+    },
+    {
+     "t": "Hồ sơ bàn giao: dexamethasone 1 mg/ngày × 5 tháng, giờ mất thuốc, giờ và liều hydrocortisone đã tiêm, Na⁺ 128, đường huyết 3,4, test thai âm tính, đau nửa đầu có tiền triệu, kế hoạch tránh thai, đề nghị nội tiết xây kế hoạch giảm dần",
+     "v": "c",
+     "n": "Nội dung bàn giao là thiết kế của ca; tài liệu đã tải không có mẫu phiếu chuyển. Giảm dần: R 2.2, R 2.5, Bảng 4 (ESE/ES 2024)."
+    },
+    {
+     "t": "Giữ kế hoạch tránh thai: không thuốc kết hợp, bao cao su, Cu-IUD sau khi ổn, thử thai lại sau 2–4 tuần",
+     "v": "c",
+     "n": "US MEC 2024, Bảng D1, B1; WHO MEC 2025, tr. 166; US SPR 2024, Box 3."
+    },
+    {
+     "t": "Cho uống thêm dexamethasone hoặc prednisone rồi về nhà theo dõi",
+     "v": "h",
+     "n": "Đang nôn và tụt huyết áp: phải dùng glucocorticoid đường tiêm và nhập viện (ESE/ES 2024, R 3.1B; Bảng 8). Cho về có thể dẫn đến sốc."
+    },
+    {
+     "t": "Kê thuốc ngủ hoặc an thần tối nay",
+     "v": "h",
+     "n": "Rối loạn ý thức là dấu hiệu theo dõi cơn (ESE/ES 2024, Bảng 9); thuốc ngủ che lấp dấu hiệu và có thể làm tụt huyết áp thêm: suy luận, cùng hướng với mục 'Corticoid và thuốc an thần trong tay chân miệng' của sổ mâu thuẫn (ca NH-0666, chờ bác sĩ quyết). Thuốc ngủ chỉ sau CBT-I và ≤ 4 tuần (Hướng dẫn mất ngủ châu Âu 2023, Bảng 16)."
+    },
+    {
+     "t": "Chờ cortisol hoặc xét nghiệm khác rồi mới tiêm hydrocortisone",
+     "v": "h",
+     "n": "ESE/ES 2024, mục 6.3 tr. G43: không trì hoãn vì xét nghiệm; cortisol thấp do dexamethasone, không giúp (Bảng 5)."
+    },
+    {
+     "t": "Chỉ truyền dịch, thuốc cầm nôn rồi về, kết luận 'ngộ độc thức ăn tái phát'",
+     "v": "w",
+     "n": "Không glucocorticoid thì cơn không giải quyết (ESE/ES 2024, mục 6.3); đây là cách ba nơi trước đã làm."
+    },
+    {
+     "t": "Truyền NaCl 0,9% không kèm glucose dù đường huyết 3,4 mmol/L",
+     "v": "a",
+     "n": "Endocrine Society 2016, Bảng 3: được chọn NaCl 0,9% hoặc glucose 5% trong NaCl 0,9%."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nghi cơn suy thượng thận cấp do glucocorticoid ngoại sinh: dexamethasone tự mua 1 mg/ngày khoảng 5 tháng, nôn mất thuốc sau viêm dạ dày ruột (ăn đường phố); HA 84/52, mạch 118, Na⁺ 128, đường huyết 3,4",
+     "Mất nước trước thận kèm hạ natri; không có bằng chứng thai (test âm tính), chưa thấy ổ nhiễm khuẩn",
+     "Tư vấn tránh thai (đích): không thuốc kết hợp do đau nửa đầu có tiền triệu; bao cao su; Cu-IUD sau khi ổn",
+     "Mất ngủ mạn thứ phát; lý do thật xin thuốc ngủ, không được kê",
+     "Kết luận: cấp cứu tại chỗ rồi CHUYỂN TUYẾN KỊP THỜI"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: nhìn tổng trạng và sinh hiệu ngay từ cửa → cho nằm, hỏi nhanh về nôn, uống thuốc, đi tiểu → khám bụng, huyết áp nằm ngồi → que thử thai và đường huyết mao mạch trong lúc điều dưỡng chuẩn bị đường truyền → chẩn đoán lâm sàng → điều trị trước, xét nghiệm sau. Không chờ 'đọc xong phiếu xét nghiệm' mới quyết định.",
+     "Quy trình 'không đỡ': (1) Sai chẩn đoán? Chẩn đoán nguy cơ suy thượng thận ở lượt 1 đúng, nay thành cơn thật. (2) Sai thuốc? Dexamethasone đúng, không phải thuốc sai. (3) Không tuân thủ? Chị uống đúng nhưng nôn ra: thuốc không hấp thu (ESE/ES 2024, mục 6.3, Rationale: 'missed doses, gastroenteritis'). (4) Biến chứng? Chính là cơn suy thượng thận. (5) Bỏ sót? Thai ngoài tử cung (test âm tính), nhiễm khuẩn huyết (chưa loại trừ hẳn nên chuyển tuyến).",
+     "Chẩn đoán lâm sàng: tụt huyết áp cộng nôn hoặc mệt nhiều (ESE/ES 2024, Bảng 9); phải nghĩ tới ở người dùng glucocorticoid hiện tại hoặc gần đây chưa xét nghiệm loại trừ khi có tụt huyết áp, nôn, tiêu chảy, bất kể loại và liều (R 3.2). Na⁺ 128 với kali bình thường và hạ đường huyết ủng hộ (Bảng 5, 9); aldosterone còn nên ít tăng kali (R 2.12 Rationale). Không sạm da vì là thứ phát.",
+     "Dữ kiện KHÔNG được giải thích bởi 'tư vấn tránh thai' hoặc 'ngộ độc thức ăn': tụt huyết áp tư thế nặng, hạ natri, hạ đường huyết, sụt cân, lờ đờ, trên nền glucocorticoid 5 tháng mà ba nơi trước không biết. Đó là cách bẫy làm các nơi kia thất bại: đóng hồ sơ ở 'ngộ độc thức ăn' mà không hỏi thuốc tự mua. Thuốc ngủ lần hai: từ chối rõ, nói lý do, hẹn giải quyết giấc ngủ sau khi khỏe.",
+     "Chẩn đoán đích 'Tư vấn tránh thai' vẫn đúng nhưng tối nay không phải lúc cấp thuốc hay đặt dụng cụ. Ghi vào bàn giao: không thuốc kết hợp (loại 4, US MEC 2024, Bảng D1), Cu-IUD loại 1 (US MEC 2024, Bảng B1; WHO MEC 2025, tr. 166), bao cao su, thử thai lại sau 2–4 tuần (US SPR 2024, Box 3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hydrocortisone 100 mg tiêm tĩnh mạch hoặc bắp ngay, rồi truyền nhanh NaCl 0,9% (ESE/ES 2024, mục 6.3 tr. G43; Bảng 8). Ở viện: hydrocortisone 200 mg/24 giờ truyền liên tục hoặc 50 mg tĩnh mạch mỗi 6 giờ đến khi hồi phục và có hướng dẫn nội tiết (cùng nguồn). 1.000 mL trong giờ đầu: Endocrine Society 2016, Bảng 3 (nêu cho suy thượng thận nguyên phát: áp dụng là suy rộng).",
+     "Tiêu chí chuyển tuyến: tụt huyết áp, nôn kéo dài không giữ được thuốc, cần glucocorticoid tiêm liên tục (ESE/ES 2024, R 3.1B, Bảng 8: không hết hoặc mất ổn định huyết động thì nhập viện). Chuẩn bị trước chuyển: hydrocortisone đã tiêm, đường truyền đang chạy, xe cấp cứu có nhân viên y tế, đồng nghiệp đi cùng. Bàn giao: ghi rõ dexamethasone dài ngày, giờ và liều hydrocortisone đã tiêm, vì tuyến trên không biết chị dùng corticoid.",
+     "Sau cơn: nội tiết đánh giá, giảm dần về liều sinh lý (ESE/ES 2024, R 2.11, R 2.2, Bảng 4), giáo dục liều ngày ốm và thẻ cấp cứu glucocorticoid (Bảng 2, mục 6.3).",
+     "Không kê thuốc ngủ: chấm h (suy luận); lượt 1 chấm w. Chấm h: cho thuốc uống về nhà, chờ xét nghiệm trước khi tiêm. Chấm w: chỉ truyền dịch, thuốc cầm nôn, 'ngộ độc thức ăn tái phát'. Chấm a: NaCl 0,9% không glucose; siêu âm hoặc ECG không chậm điều trị."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Hydrocortisone natri succinat",
+      "ham_luong": "Lọ 100 mg",
+      "lieu": "100 mg",
+      "duong": "Tiêm tĩnh mạch chậm (hoặc tiêm bắp)",
+      "thoi_diem": "NGAY khi nhận định, trước khi chuyển",
+      "so_ngay": "Liều duy nhất tại phòng khám; tuyến trên tiếp 200 mg/24 giờ",
+      "ghi_chu": "ESE/ES 2024, mục 6.3 tr. G43, Bảng 8; Endocrine Society 2016, Bảng 3. Lọ có sẵn ở tủ cấp cứu: giả định thiết kế của ca."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (hoặc glucose 5% trong natri clorid 0,9%)",
+      "ham_luong": "Chai 500 mL",
+      "lieu": "Truyền nhanh 1.000 mL trong giờ đầu, sau đó theo đáp ứng",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay sau tiêm hydrocortisone, tiếp tục trên đường chuyển",
+      "so_ngay": "Đến khi chuyển tuyến",
+      "ghi_chu": "ESE/ES 2024, mục 6.3 tr. G43 (không nêu thể tích); Endocrine Society 2016, Bảng 3 (1.000 mL giờ đầu; nguyên phát, áp dụng là suy rộng)."
+     }
+    ],
+    "dan_do": [
+     "Với bệnh nhân: 'Chị đang thiếu cortisol vì thuốc xương khớp (dexamethasone) chị uống mấy tháng, lại nôn mất thuốc nên huyết áp tụt. Em tiêm thuốc bổ sung ngay và truyền nước, rồi chuyển chị vào bệnh viện truyền thuốc liên tục cho an toàn. Bệnh này nguy hiểm nếu chờ, nhưng điều trị ngay thì hồi phục tốt (ESE/ES 2024, mục 6.3). Thuốc ngủ tối nay em không cho được vì làm khó theo dõi huyết áp; mất ngủ sẽ giải quyết sau khi chị khỏe.'",
+     "Với bệnh viện nhận: dexamethasone ~1 mg/ngày × 5 tháng, giờ mất thuốc, giờ tiêm hydrocortisone, Na⁺ 128, đường huyết 3,4, test thai âm tính, đau nửa đầu có tiền triệu (không thuốc kết hợp); đề nghị nội tiết xây kế hoạch giảm dần (ESE/ES 2024, R 2.11).",
+     "Sau xuất viện: không tự mua thuốc 'xương khớp', luôn mang thẻ nói mình dùng glucocorticoid, đến ngay khi nôn hoặc tiêu chảy không giữ được thuốc (ESE/ES 2024, Bảng 2, 8).",
+     "Tránh thai: tiếp tục bao cao su; thử thai lại sau 2–4 tuần (US SPR 2024, Box 3); khi nội tiết cho phép, hẹn đặt dụng cụ tử cung chứa đồng; không dùng thuốc kết hợp (US MEC 2024, Bảng D1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị được tiêm hydrocortisone 100 mg tĩnh mạch và truyền NaCl 0,9% tại phòng khám; 30 phút sau HA lên 100/62, mạch 104, bớt lả; xe cấp cứu đưa vào bệnh viện kèm hồ sơ bàn giao. Ở viện chị được truyền hydrocortisone, Na⁺ về 136 sau hai ngày, ra viện ngày thứ 4 với prednisone liều thấp theo lịch giảm dần của nội tiết và thẻ cấp cứu. Chị bỏ nước tăng lực từ chiều, uống thuốc buổi sáng, hai tuần sau ngủ được 6 giờ, không cần thuốc ngủ; dùng bao cao su đều, thử thai lại âm tính, hẹn đặt Cu-IUD. Chuyển tuyến kịp thời, không biến chứng (diễn tiến sau chuyển viện là thiết kế của ca).",
+ "nhieu": [
+  "Ba nơi khám trước chẩn đoán 'ngộ độc thức ăn': chỉ hỏi triệu chứng tiêu hóa, không ai hỏi thuốc tự mua. Viêm dạ dày ruột sau ăn đường phố là yếu tố khởi phát có thật nhưng không giải thích mệt kéo dài, sụt cân, choáng đứng, hạ natri.",
+  "Lý do nêu ra (tư vấn tránh thai) che lý do thật (xin thuốc ngủ); cả hai đều có thật. Kê thuốc ngủ tùy tiện chấm w (lượt 1), h (lượt 2).",
+  "Dexamethasone 'thuốc xương khớp': chị không coi là thuốc nên không khai; uống tối cũng là nguyên nhân mất ngủ. Hút thuốc 8 điếu/ngày chỉ loại 2; chống chỉ định thật là đau nửa đầu có tiền triệu, chỉ lộ khi hỏi chớp sáng.",
+  "Test thai âm tính dễ bị hiểu là 'chắc chắn không có thai'; thực ra phải theo tiêu chí Box 3 rồi thử lại sau 2–4 tuần."
+ ],
+ "bai_hoc_bien": [
+  "Hai chẩn đoán cùng lúc: tìm được chẩn đoán 1 rồi đóng hồ sơ là premature closure; tự hỏi 'dữ kiện nào chưa được giải thích?' (mệt, sụt cân, choáng đứng, mặt tròn, bầm da, mất ngủ, kinh thưa).",
+  "Hỏi thuốc tự mua và xem vỉ thuốc: corticoid ẩn trong 'thuốc xương khớp', 'thuốc bổ'.",
+  "Từng khám 3 nơi không khỏi: công nhận, xem tập phiếu cũ, không lặp xét nghiệm vô ích, nói rõ lần này tìm gì mà các nơi trước chưa tìm.",
+  "Ngoài giờ, không có kỹ thuật viên: lấy mẫu rồi quyết định trước kết quả; cơn suy thượng thận là chẩn đoán lâm sàng, điều trị không chờ xét nghiệm.",
+  "Không đỡ: chạy quy trình thất bại điều trị (chẩn đoán, thuốc, tuân thủ/hấp thu, biến chứng, bỏ sót) trước khi đổi thuốc. Chuyển tuyến kịp thời: tiêu chí, chuẩn bị (hydrocortisone, đường truyền, xe cấp cứu), bàn giao.",
+  "Tránh thai an toàn: chống chỉ định theo bảng MEC, chắc chắn không có thai theo Box 3, không khám phụ khoa thừa."
+ ],
+ "diem_nho": [
+  "Đau nửa đầu có tiền triệu: thuốc kết hợp loại 4 (US MEC 2024 Bảng D1; WHO MEC 2025 tr. 166; QĐ 1359/2026 chương Viên thuốc kết hợp mục 2.1); Cu-IUD loại 1; viên progestin, que cấy: CDC loại 1, WHO 2 khi bắt đầu và 3 khi tiếp tục; LNG-IUD WHO loại 2.",
+  "Chắc chắn không có thai (US SPR 2024 Box 3): ≤ 7 ngày sau ngày đầu kinh, chưa quan hệ từ kỳ kinh gần nhất, dùng biện pháp tin cậy đúng, ≤ 7 ngày sau sẩy hoặc phá thai, ≤ 4 tuần sau sinh, nuôi con bú hoàn toàn vô kinh < 6 tháng. Không thỏa thì chưa chắc dù test âm tính; thử lại sau 2–4 tuần.",
+  "Glucocorticoid dài ngày: dexamethasone 0,5 mg ≈ prednisone 5 mg ≈ hydrocortisone 20 mg (ESE/ES 2024 Bảng 1); > 3 tháng, tác dụng dài, đường uống là nguy cơ cao (Bảng 3); không ngưng đột ngột (Bảng 9), giảm dần khi bệnh nền đã kiểm soát (R 2.2).",
+  "Cơn suy thượng thận: tụt huyết áp + nôn, mệt nhiều, sốt hoặc rối loạn ý thức (Bảng 9); hydrocortisone 100 mg tĩnh mạch hoặc bắp ngay + truyền nhanh NaCl 0,9%, không chờ xét nghiệm (mục 6.3 tr. G43); duy trì 200 mg/24 giờ hoặc 50 mg mỗi 6 giờ; nôn hoặc tiêu chảy kéo dài: 100 mg tiêm bắp ngay, nhập viện nếu không hết (Bảng 8).",
+  "Mất ngủ mạn: CBT-I đầu tay, thuốc chỉ khi không đủ và ≤ 4 tuần (Hướng dẫn mất ngủ châu Âu 2023 Bảng 16); mất ngủ là triệu chứng của Cushing ngoại sinh (ESE/ES 2024 Bảng 7)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 1359/QĐ-BYT ngày 12/05/2026, Hướng dẫn quốc gia về dịch vụ chăm sóc sức khỏe sinh sản, nội dung KHHGĐ – TL-0604 – chương Viên thuốc tránh thai kết hợp (mục 2.1, 3.2), Viên thuốc tránh thai chỉ có progestin (mục 3.2, 4.4.1), Dụng cụ tránh thai trong tử cung (mục 1, 2.1, 2.2, 3.2, 3.3.1), Bao cao su (mục 1, 3.2, 3.3).",
+  "WHO – Medical eligibility criteria for contraceptive use, 6th edition, 2025 – TL-0610 – Bảng tóm tắt, Neurological conditions, Headaches, tr. 166.",
+  "CDC – U.S. Medical Eligibility Criteria for Contraceptive Use, 2024 – TL-0620 – Bảng B1, C1, D1 (đau nửa đầu, hút thuốc, DMPA và corticoid dài hạn).",
+  "CDC – U.S. Selected Practice Recommendations for Contraceptive Use, 2024 – TL-0621 – Box 3 và chú giải; Bảng 1, 4, 5; mục POP (nôn, tiêu chảy); mục Cu-IUD (Comments).",
+  "ESE và Endocrine Society – Glucocorticoid-induced adrenal insufficiency, Eur J Endocrinol 2024;190:G25–G51 – TL-0063 – R 1.2, 2.1–2.5, 2.10–2.12, 3.1–3.2; Bảng 1–5, 7–9; mục 6.3 tr. G42–G43.",
+  "Endocrine Society – Primary adrenal insufficiency, J Clin Endocrinol Metab 2016 – TL-0099 – Bảng 3, tr. 16.",
+  "European Insomnia Guideline 2023, J Sleep Res 2023;32:e14035 – TL-0464 – Bảng 16 (tr. 23), mục 4.1 (tr. 8–11).",
+  "NICE NG126 Ectopic pregnancy and miscarriage (2019, cập nhật 06/2026) – kho cũ tltk-10000-ca, Phụ khoa - thai sớm/Quốc tế – mục 1.4.3–1.4.5."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: Sonnet, 12/10/2026. Đã đọc: TL-0604 (các chương trên); TL-0610 Bảng tóm tắt tr. 166 (xem ảnh trang); TL-0620 Bảng B1, C1, D1; TL-0621 Box 3, Bảng 1/4/5, POP nôn, Cu-IUD; TL-0063 toàn bộ khuyến cáo và Bảng 1–9; TL-0099 Bảng 3; TL-0464 Bảng 16, mục 4.1; NICE NG126 mục 1.4.",
+  "Mâu thuẫn mới: đau nửa đầu có tiền triệu với biện pháp chỉ progestin (US MEC loại 1; WHO loại 2/3; BYT ngưng khi có tiền triệu) → chọn bên thận trọng: Cu-IUD đáp án chính, viên progestin/que cấy chấm a (xem PK-0248_mau_thuan.md). Mục 'Ngưng glucocorticoid ẩn' đã có trong sổ (MT-0333): ca theo mục đó.",
+  "Thiếu tài liệu: số ngày nghỉ, khoảng cách tái khám 48 giờ, uống dexamethasone buổi sáng, thể tích dịch cho suy thượng thận thứ phát (TL-0099 chỉ nguyên phát), an toàn lái xe với thuốc ngủ, tần suất theo dõi khi chuyển viện, mẫu phiếu chuyển. Giả định thiết kế: tủ cấp cứu có hydrocortisone 100 mg; phòng xét nghiệm ngoài trả kết quả sau 48 giờ; điều dưỡng làm được que thử thai và đường huyết ngoài giờ.",
+  "Danh mục: cần thêm test_thai (que thử thai nước tiểu; ca tạm dùng 'ua' ở cả hai lượt, nên đổi), kham_phu_khoa, kham_vu (xem PK-0248_de_xuat_danh_muc.json).",
+  "12/10/2026 – trưởng nhóm (Opus) duyệt: que thử thai và đường huyết mao mạch chuyển sang id mới test_thai, glu_mm (nhóm tham_do, làm tại giường) để không bị khóa theo nhóm xn ngoài giờ – bản đầu dùng ua/glu nên app sẽ ẩn kết quả."
+ ]
+}
