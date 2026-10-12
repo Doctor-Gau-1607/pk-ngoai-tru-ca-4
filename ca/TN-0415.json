@@ -1,0 +1,732 @@
+{
+ "ma_ca": "TN-0415",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-12)",
+ "benh": "TN_viem_mao_tinh",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Viêm mào tinh - tinh hoàn",
+  "chan_doan_phai_loai_tru": [
+   "Xoắn tinh hoàn",
+   "U tinh hoàn"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Công nhân may mặc",
+  "yeu_to_khoi_phat": "Khiêng vật nặng",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Lê Quốc Thịnh",
+  "tuoi": 27,
+  "gioi": "Nam",
+  "nghe": "Công nhân may (tổ cắt, khiêng cuộn vải)",
+  "can_nang": 64,
+  "chieu_cao": 170,
+  "xung_ho": "Bác sĩ gọi anh là 'em' hoặc 'anh Thịnh'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Ít nói, hay ngại chuyện riêng tư, lo xa. Tối nào cũng lên mạng đọc bệnh, đọc xong càng sợ. Làm công nhật tính lương theo sản phẩm nên rất ngại nghỉ.",
+  "kieu_nhieu": "Sợ hãi quá mức: hỏi đi hỏi lại 'có phải xoắn tinh hoàn không, có phải ung thư không, có mất tinh hoàn không'; đòi chụp CT, xét nghiệm tìm ung thư, 'làm hết cho em yên tâm'. Chỉ dịu xuống khi bác sĩ nói rõ bệnh gì, vì sao loại trừ được xoắn và u, kế hoạch điều trị và mốc quay lại. Trả lời chung chung thì lại hỏi lại.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a981",
+   "toc": "#1c1613",
+   "kieuToc": "ngan",
+   "ao": "#6f8aa6",
+   "aoKieu": "phong",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau, sưng bìu phải 3 ngày",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên xét nghiệm đã về: mẫu lấy đêm nay chỉ có kết quả sau nhiều giờ (sáng hôm sau, riêng cấy nước tiểu sau 48 giờ), không có kết quả tại chỗ để quyết định. Bác sĩ trực tự làm được siêu âm tại giường."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · tối thứ Năm",
+   "tiep_don": "Nam 27 tuổi, công nhân may, đến phòng khám lúc 19 giờ 30 tối thứ Năm (ngoài giờ, kỹ thuật viên xét nghiệm đã về) vì đau và sưng bìu phải 3 ngày. Đi một mình, dáng đi hơi khép chân. Sinh hiệu lúc tiếp đón: mạch 98 l/p, HA 125/78 mmHg, nhiệt độ 38,0 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, bìu bên phải của em sưng đau ba ngày nay rồi, em sợ lắm. Có phải em bị xoắn tinh hoàn không bác sĩ? Mất tinh hoàn thì sao?",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "125/78",
+    "nhiet": "38,0",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau và sưng bìu phải ba ngày nay, tối nay đau nhiều hơn và sợ nên đi khám. Chưa đi khám nơi nào khác.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, thời gian"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đau bắt đầu âm ỉ từ tối thứ Hai, tăng dần trong hai ngày, không có lúc nào đau dữ dội đột ngột. Không buồn nôn, không nôn. Đi lại, ngồi máy đau hơn; nằm gác bìu lên thì dễ chịu hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát từ từ, không nôn: chống xoắn tinh hoàn"
+    },
+    {
+     "id": "khieng_nang",
+     "noi_dung": "Chiều thứ Hai cả ngày khiêng cuộn vải nặng cho tổ cắt. Em nghĩ chắc khiêng nặng nên bị \"xệ\", \"đứt gân\" hoặc thoát vị.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Yếu tố khởi phát tưởng là nguyên nhân (nhiễu)"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Tối qua ớn lạnh, hôm nay thấy người nóng. Chưa đo ở nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt"
+    },
+    {
+     "id": "nieu_dao",
+     "noi_dung": "Khoảng một tuần trước, buổi sáng có vài giọt dịch trắng đục ở đầu dương vật, tiểu hơi rát. Tưởng \"nóng trong\", vài hôm hết nên không đi khám. Không tiểu máu, không tiểu nhiều lần, không đau hông lưng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Anh ngại chuyện kín. Chỉ kể khi bác sĩ hỏi cụ thể về chảy dịch ở đầu dương vật, tiểu rát, các triệu chứng đường tiểu trước khi đau bìu, hoặc hỏi riêng tư và hứa giữ kín.",
+     "k": 1,
+     "y": "Viêm niệu đạo trước đó (gợi ý căn nguyên lây qua đường tình dục)"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Độc thân. Khoảng ba tuần trước quan hệ một lần với bạn gái mới quen, không dùng bao cao su. Bạn gái không có triệu chứng gì theo anh biết. Không quan hệ đồng giới. Chưa từng xét nghiệm HIV, giang mai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng về quan hệ tình dục, bạn tình mới, có dùng bao cao su không. Hỏi chung \"có gì khác không\" thì nói không.",
+     "k": 1,
+     "y": "Tiền sử tình dục không an toàn, bạn tình mới"
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Hen từ nhỏ. Có bình xịt Ventolin (salbutamol) xịt khi khó thở, khoảng 2–3 lần mỗi tuần, vài tuần nay không lên cơn nặng. Không nằm viện vì hen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng, hen"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Hôm qua tự mua ibuprofen 400 mg, uống 2 viên trong ngày, đau giảm ít, không khò khè, không lên cơn hen. Trước đây uống thuốc giảm đau và thuốc kháng viêm cũng chưa bao giờ lên cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dung nạp NSAID ở người hen"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc, chưa bị dị ứng penicillin hay các thuốc tiêm kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng thuốc trước khi tiêm ceftriaxone"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Lương theo sản phẩm. Ngồi máy khoảng 10 giờ, tăng ca cuối tuần. Nghỉ thì bị trừ lương và mất tiền chuyên cần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bối cảnh nghề, khó nghỉ"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Đọc trên mạng thấy xoắn tinh hoàn mà không mổ trong vài giờ là mất tinh hoàn, còn ung thư tinh hoàn thì cũng sưng đau. Mấy đêm nay mất ngủ. Lo sau này vô sinh.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nỗi sợ (nhiễu bệnh nhân)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Em muốn bác sĩ kê kháng sinh. Bạn cùng tổ bị sưng bìu năm ngoái, uống kháng sinh mấy hôm là khỏi. Em sợ chỉ cho thuốc giảm đau thì nó lan, hư luôn tinh hoàn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi hôm nay anh mong muốn gì, điều gì làm anh lo nhất, hoặc hỏi vì sao hôm nay quyết định đi khám. Nếu bác sĩ tự giải thích sẽ kê kháng sinh gì và vì sao thì anh dịu xuống.",
+     "k": 1,
+     "y": "Động cơ thật: muốn có kháng sinh"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, lo lắng, tay ra mồ hôi, nói nhanh. Không vẻ mặt đau dữ dội, không vã mồ hôi lạnh. Đi khép chân.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Bìu phải sưng vừa, da đỏ nhẹ, sờ nóng. Tinh hoàn phải nằm thấp, trục dọc, mật độ chắc đều, không có khối cứng trong tinh hoàn. Mào tinh phải to, cứng, rất đau, rõ nhất ở đuôi mào tinh và lan lên đầu; còn phân biệt được mào tinh với tinh hoàn. Thừng tinh phải dày nhẹ, đau. Phản xạ da bìu (cremaster) phải còn. Nâng bìu lên thì đau giảm (dấu Prehn dương tính). Ít dịch màng tinh hoàn. Bìu trái bình thường. Hạch bẹn phải vài hạch nhỏ, mềm, đau nhẹ; hai bên bẹn không có khối thoát vị.",
+     "k": 1,
+     "hien": "Bìu phải to hơn bìu trái, da bìu phải hơi đỏ, sờ nóng. Hai tinh hoàn nằm thấp ngang nhau, trục dọc. Bệnh nhân rụt người khi sờ vùng bìu phải."
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Dương vật không loét, không sẩn, bao quy đầu lộn được. Miệng sáo hơi đỏ. Vắt dọc niệu đạo ra vài giọt dịch nhầy trắng đục.",
+     "k": 1,
+     "hien": "Dương vật không loét, không tổn thương da, bao quy đầu lộn được. Miệng sáo hơi đỏ."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau hạ vị, không cầu bàng quang, không khối vùng bẹn.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 98 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 98 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran rít, không ran ngáy. Hen đang ổn.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, thở êm, không co kéo.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "sa_bui": {
+     "v": "a",
+     "r": "Siêu âm Doppler bìu tại giường do bác sĩ trực làm: mào tinh phải to (đuôi dày 14 mm), giảm âm không đồng nhất, tăng sinh mạch trên Doppler màu; tinh hoàn phải kích thước và độ hồi âm bình thường, dòng máu trong nhu mô tương đương bên trái; ít dịch màng tinh hoàn; thừng tinh dày nhẹ. Không có khối trong tinh hoàn, không ổ áp xe.",
+     "ab": 1,
+     "n": "Không bắt buộc khi lâm sàng đã nghiêng về viêm mào tinh và nguy cơ xoắn thấp (TWIST 2 điểm): siêu âm dành cho trường hợp nghi xoắn hoặc không chẩn đoán được (CDC STI 2021 (TL-0370), tr. 99). Làm cũng không trừ điểm: siêu âm chính xác hơn tổng phân tích nước tiểu đơn thuần và giúp loại trừ bệnh khác (EAU Urological Infections 2026 (TL-0512) mục 3.12.2). Không được để siêu âm làm chậm mổ nếu nghi xoắn (EAU Urological Infections 2026 (TL-0512) Hình 2)."
+    },
+    "naat_sti": {
+     "v": "e",
+     "r": "Mẫu nước tiểu đầu dòng gửi đi, kết quả sáng hôm sau.",
+     "n": "Khuyến cáo mạnh: nước tiểu đầu dòng làm NAAT tìm C. trachomatis, N. gonorrhoeae (EAU Urological Infections 2026 (TL-0512) mục 3.12.6; CDC STI 2021 (TL-0370) tr. 99). Phải LẤY mẫu trước khi tiêm kháng sinh dù không có kết quả tại chỗ."
+    },
+    "cay_nuoc_tieu": {
+     "v": "e",
+     "r": "Mẫu nước tiểu giữa dòng gửi cấy, kết quả sau 48 giờ.",
+     "n": "Khuyến cáo mạnh: cấy nước tiểu giữa dòng (EAU Urological Infections 2026 (TL-0512) mục 3.12.6; CDC STI 2021 (TL-0370) tr. 99)."
+    },
+    "gram_nieu_dao": {
+     "v": "u",
+     "r": "Nhuộm Gram dịch niệu đạo: cần kỹ thuật viên nhuộm và đọc, ngoài giờ không làm được.",
+     "n": "Bằng chứng khách quan của viêm niệu đạo: ≥ 2 bạch cầu/vi trường dầu (CDC STI 2021 (TL-0370) tr. 99). Không có kỹ thuật viên nên quyết định điều trị trước kết quả."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Que thử nước tiểu đầu dòng: bạch cầu esterase dương tính; tổng phân tích đầy đủ có sau nhiều giờ.",
+     "n": "Bạch cầu esterase dương tính hoặc ≥ 10 bạch cầu/vi trường là bằng chứng viêm (CDC STI 2021 (TL-0370) tr. 99). Nước tiểu bình thường không loại trừ viêm mào tinh (EAU Urological Infections 2026 (TL-0512) Paediatric Urology 2026, TL-0506, mục 8.2).",
+     "thay_the": "sa_bui"
+    },
+    "virus_mau": {
+     "v": "u",
+     "r": "HBsAg âm tính · Anti-HCV âm tính · HIV âm tính (kết quả sáng hôm sau).",
+     "n": "Mọi nam giới viêm mào tinh cần xét nghiệm HIV và giang mai (CDC STI 2021 (TL-0370) tr. 100)."
+    },
+    "giang_mai": {
+     "v": "u",
+     "r": "RPR không phản ứng (kết quả sáng hôm sau).",
+     "n": "Xét nghiệm giang mai ở mọi nam giới viêm mào tinh (CDC STI 2021 (TL-0370) tr. 100); BYT 5165/2021 mục 3.1 (TL-0499): huyết thanh giang mai và HIV trước và sau điều trị."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mào tinh cấp bên phải kèm viêm niệu đạo, nhiều khả năng do lây qua đường tình dục (C. trachomatis ± N. gonorrhoeae)",
+     "ok": 1,
+     "n": "Đau, sưng bìu phải tăng dần 3 ngày, đau khu trú ở mào tinh, sốt, Prehn dương tính, phản xạ da bìu còn; chảy dịch niệu đạo trước đó và quan hệ không bao cao su với bạn tình mới (EAU Urological Infections 2026 (TL-0512) mục 3.12.1; CDC STI 2021 (TL-0370) tr. 98–99)."
+    },
+    {
+     "t": "Xoắn tinh hoàn",
+     "n": "Khởi phát từ từ trong 2 ngày, không nôn, đau ở mào tinh chứ không ở cả tinh hoàn, tinh hoàn không cao, trục dọc, còn phản xạ da bìu, nâng bìu đỡ đau; TWIST 2 điểm (sưng 2, các mục còn lại 0) là nguy cơ thấp, không cần siêu âm (TWIST, Barbosa 2013, TL-0105; EAU Paediatric Urology 2026 mục 8.2, TL-0506). Xoắn thường khởi phát đột ngột kèm nôn và triệu chứng ngắn hơn. Mốc mở lại hồ sơ: đau tăng vọt đột ngột, nôn, tinh hoàn co cao."
+    },
+    {
+     "t": "U tinh hoàn",
+     "n": "U thường là khối không đau trong tinh hoàn (EAU Urological Infections 2026 (TL-0512) Testicular Cancer 2026, TL-0510, mục 5.1). Anh sưng đau cấp, sốt, mào tinh to, tinh hoàn không có khối cứng; siêu âm không khối. Sưng còn dai dẳng sau điều trị thì phải tìm u (CDC STI 2021 (TL-0370) tr. 100)."
+    },
+    {
+     "t": "Viêm mào tinh do vi khuẩn đường ruột (E. coli)",
+     "n": "Thường ở người già có tiền sử nhiễm khuẩn tiết niệu, phì đại tuyến tiền liệt, thủ thuật, hoặc quan hệ hậu môn chủ động (EAU Urological Infections 2026 (TL-0512) mục 3.12.1). Anh trẻ, có dịch niệu đạo, bạn tình mới; không triệu chứng bàng quang. Vẫn cấy nước tiểu giữa dòng để chắc."
+    },
+    {
+     "t": "Thoát vị bẹn, căng cơ do khiêng nặng",
+     "n": "Khám bẹn không khối thoát vị; khiêng nặng chỉ là mốc thời gian trùng hợp, không giải thích sốt, dịch niệu đạo, mào tinh sưng nóng đỏ. Tài liệu đã tải không nêu khiêng vật nặng là nguyên nhân viêm mào tinh."
+    },
+    {
+     "t": "Viêm tinh hoàn do quai bị",
+     "n": "Cần nghĩ khi tổn thương hai bên, có tiền triệu virus, sưng tuyến mang tai (EAU Urological Infections 2026 (TL-0512) mục 3.12.1); anh bị một bên, tuyến mang tai bình thường."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Loại trừ xoắn tinh hoàn bằng lâm sàng ngay tại phòng khám (thời điểm khởi phát, nôn, vị trí đau, phản xạ da bìu, dấu Prehn, TWIST); không chuyển cấp cứu hay chờ siêu âm",
+     "v": "c",
+     "n": "Xoắn là chẩn đoán phân biệt quan trọng nhất ở nam trẻ (EAU Urological Infections 2026 (TL-0512) mục 3.12.1); phản xạ da bìu mất nhạy 100%, đặc hiệu 66%; nâng bìu giảm đau gặp ở viêm mào tinh, không gặp ở xoắn (EAU Paediatric Urology 2026 mục 8.2); TWIST ≤ 2 điểm: nguy cơ thấp, không cần siêu âm (TL-0105)."
+    },
+    {
+     "t": "Lấy mẫu nước tiểu đầu dòng (NAAT) và giữa dòng (cấy) TRƯỚC khi tiêm kháng sinh, gửi sáng hôm sau; kèm HIV, giang mai",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.6 (khuyến cáo mạnh); CDC STI 2021 (TL-0370) tr. 99–100. Không có kỹ thuật viên nên kết quả sau nhiều giờ, không chờ kết quả mới điều trị."
+    },
+    {
+     "t": "Điều trị kinh nghiệm ngay: ceftriaxone 1.000 mg tiêm bắp liều duy nhất",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.4 (phác đồ 2) và khuyến cáo mạnh mục 3.12.6; WHO 2024 (TL-0501) Bảng 1: ceftriaxone 1 g tiêm bắp. Có dịch niệu đạo nên khả năng lậu cao; điều trị trước khi có kết quả (CDC STI 2021 (TL-0370) tr. 99). Mâu thuẫn liều: xem sổ mâu thuẫn mục ceftriaxone."
+    },
+    {
+     "t": "Phối hợp doxycyclin 200 mg uống liều đầu, rồi 100 mg × 2 lần/ngày, tổng 10 ngày (có thể đến 14 ngày tùy đáp ứng)",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.4: doxycyclin 200 mg liều đầu rồi 100 mg × 2 lần/ngày × 10–14 ngày; CDC STI 2021 (TL-0370) tr. 99: 100 mg × 2 lần/ngày × 10 ngày. Bao phủ C. trachomatis."
+    },
+    {
+     "t": "Giảm đau bằng paracetamol 500–1.000 mg mỗi 6–8 giờ khi đau, không quá 4 g/24 giờ",
+     "v": "c",
+     "n": "QĐ 361/2014 (TL-0286), Hướng dẫn sử dụng thuốc giảm đau, mục 3.1: 500–1.000 mg/lần, cách 6–8 giờ, tối đa 4 g/24 giờ. Chọn paracetamol đầu tay vì bệnh nhân hen."
+    },
+    {
+     "t": "Nghỉ ngơi, nâng bìu (quần lót ôm hoặc băng treo bìu), chườm mát, tránh khiêng vật nặng",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.3: NSAID, chườm mát tại chỗ, nâng bìu giảm khó chịu; CDC STI 2021 (TL-0370) tr. 99: nằm nghỉ, nâng bìu, NSAID cho đến khi hết sốt và hết viêm tại chỗ. Số ngày nghỉ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kiêng quan hệ tình dục đến khi bạn tình và bản thân đã điều trị xong, hết triệu chứng; hướng dẫn báo bạn tình khám và điều trị",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 100: kiêng cho đến khi cả hai điều trị xong và hết triệu chứng; bạn tình trong 60 ngày trước khởi phát; EAU Urological Infections 2026 (TL-0512) mục 3.12.3 và 3.12.6 (khuyến cáo mạnh); QĐ 5165/2021 (TL-0499) mục 3.1: bạn tình 60 ngày."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày (72 giờ) nếu không đỡ, tái khám 14 ngày sau khi hết thuốc; quay lại ngay nếu đau tăng vọt, nôn, sốt cao, sưng nhanh",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 100: không đỡ trong 72 giờ phải đánh giá lại chẩn đoán và điều trị; EAU Urological Infections 2026 (TL-0512) mục 3.12.3: đánh giá lại 14 ngày sau khi kết thúc điều trị khi nghi/xác định nhiễm khuẩn lây qua đường tình dục."
+    },
+    {
+     "t": "Trấn an có cấu trúc: nói rõ chẩn đoán, vì sao không phải xoắn hay u, kế hoạch và mốc quay lại; không chụp CT hay làm xét nghiệm ung thư",
+     "v": "c",
+     "n": "Tránh xét nghiệm chiều lòng (sổ cái: nhiễu \"sợ hãi quá mức\"). Khối u thường không đau và siêu âm bìu mới là hình ảnh học đúng khi nghi u (TL-0510 mục 5.2, khuyến cáo mạnh); không có chỉ định ở ca này."
+    },
+    {
+     "t": "Ceftriaxone 500 mg tiêm bắp + doxycyclin 100 mg × 2 lần/ngày × 10 ngày",
+     "v": "a",
+     "n": "CDC STI 2021 (TL-0370) tr. 99 (2021) khuyến cáo 500 mg (1 g nếu ≥ 150 kg). Cũ hơn EAU 2026 và WHO 2024 nên chấp nhận, không trừ điểm."
+    },
+    {
+     "t": "Ceftriaxone 250 mg tiêm bắp + azithromycin 1 g uống liều duy nhất (phác đồ lậu BYT)",
+     "v": "a",
+     "n": "QĐ 5165/2021 (TL-0499) mục 3.2.1 cho nhiễm lậu sinh dục không biến chứng; viêm mào tinh là biến chứng, EAU 2026 và CDC 2021 dùng doxycyclin 10 ngày. Chấp nhận (căn cứ hợp lệ của BYT) nhưng kém phù hợp."
+    },
+    {
+     "t": "Ibuprofen ngắn ngày (vài ngày) vì anh đã uống không lên cơn hen",
+     "v": "a",
+     "n": "CDC STI 2021 (TL-0370) tr. 99 và EAU Urological Infections 2026 (TL-0512) mục 3.12.3 dùng NSAID hỗ trợ. Hen nhạy cảm với aspirin và NSAID là yếu tố nguy cơ cơn hen nặng (QĐ 3942/2014, phần Chẩn đoán và xử trí cơn hen cấp); anh đã dung nạp nên được. Liều NSAID không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Levofloxacin 500 mg uống 1 lần/ngày × 10–14 ngày đơn độc",
+     "v": "w",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.3: fluoroquinolon không dùng cho lậu; chỉ cho người ít nguy cơ lậu (không dịch niệu đạo, mục 3.12.4 phác đồ 1). Anh có dịch niệu đạo."
+    },
+    {
+     "t": "Azithromycin 1 g uống liều duy nhất đơn độc",
+     "v": "w",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.3: azithromycin chưa được thử trong viêm mào tinh, không bao phủ lậu."
+    },
+    {
+     "t": "Doxycyclin 100 mg × 2 lần/ngày × 7 ngày (phác đồ chlamydia không biến chứng)",
+     "v": "w",
+     "n": "QĐ 5169/2021 (TL-0498) mục 3.2.1 dành cho nhiễm Chlamydia sinh dục không biến chứng; viêm mào tinh cần 10–14 ngày (EAU mục 3.12.4; CDC tr. 99). Không phải mâu thuẫn thật: khác bệnh cảnh."
+    },
+    {
+     "t": "Chụp CT bụng hoặc xét nghiệm dấu ấn ung thư để trấn an",
+     "v": "w",
+     "n": "Không có chỉ định; khi nghi u, hình ảnh học đúng là siêu âm bìu hai bên (EAU Testicular Cancer 2026, TL-0510, mục 5.2 và khuyến cáo mạnh). Chiều lòng bệnh nhân sợ hãi, tốn kém, chậm điều trị."
+    },
+    {
+     "t": "Chuyển bệnh viện mổ thám sát tinh hoàn ngay trong đêm",
+     "v": "w",
+     "n": "Chỉ khi nghi xoắn (EAU Urological Infections 2026 (TL-0512) Hình 2: nghi xoắn thì thám sát khẩn). Ca này nguy cơ xoắn thấp, không có tiêu chuẩn nhập viện (đau dữ dội, sốt cao, áp xe, nhiễm khuẩn toàn thân; EAU Urological Infections 2026 (TL-0512) mục 3.12.3)."
+    },
+    {
+     "t": "Chỉ cho giảm đau và dặn \"do khiêng nặng, tự khỏi\", không kháng sinh",
+     "v": "h",
+     "n": "Viêm mào tinh nghi do lây qua đường tình dục cần kháng sinh ngay trước khi có kết quả để tránh biến chứng (áp xe, vô sinh) và lây cho người khác (CDC STI 2021 (TL-0370) tr. 99)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mào tinh cấp bên phải, kèm viêm niệu đạo",
+     "Căn nguyên nhiều khả năng lây qua đường tình dục: C. trachomatis, có thể N. gonorrhoeae (chưa có kết quả xét nghiệm)",
+     "Nguy cơ xoắn tinh hoàn thấp (TWIST 2 điểm), đã loại trừ bằng lâm sàng",
+     "Không có dấu hiệu u tinh hoàn; không có tiêu chuẩn nhập viện",
+     "Nền: hen phế quản kiểm soát, dung nạp ibuprofen; nhiễu: khiêng nặng, sợ hãi quá mức"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi khởi phát và tính chất đau (từ từ, không nôn) → hỏi riêng về đường tiểu và tình dục → khám bìu có phản xạ da bìu và dấu Prehn → khám niệu đạo → quyết định điều trị trước khi có xét nghiệm. Viêm mào tinh cấp: đau, sưng, tăng nhiệt mào tinh một bên, tăng dần trong vài ngày, đau khu trú ở phía sau tinh hoàn (EAU Urological Infections 2026 (TL-0512) mục 3.12.1).",
+     "Vì sao nghĩ nhiễm khuẩn lây qua đường tình dục: nam trẻ, có dịch niệu đạo trước đó, bạn tình mới, không bao cao su. Tác nhân thường gặp: N. gonorrhoeae, C. trachomatis, U. urealyticum, M. genitalium; viêm mào tinh do STI thường kèm viêm niệu đạo (EAU Urological Infections 2026 (TL-0512) mục 3.12.1). Tuổi và tiền sử tình dục không đủ để dự đoán căn nguyên (EAU Urological Infections 2026 (TL-0512) mục 3.12.4) nên EAU vẫn khuyên phủ cả Enterobacterales khi chưa rõ; tiền sử âm tính không loại trừ STI (mục 3.12.6).",
+     "Điểm dừng chẩn đoán (xoắn tinh hoàn): khởi phát từ từ, không nôn, đau ở mào tinh, tinh hoàn không cao, trục dọc, còn phản xạ da bìu, nâng bìu đỡ đau, có sốt (sốt gặp nhiều hơn ở viêm mào tinh, EAU Paediatric Urology 2026 mục 8.2). TWIST: sưng bìu 2 điểm, cứng 0, nôn 0, tinh hoàn cao 0, mất phản xạ da bìu 0 = 2 điểm: nguy cơ thấp, không cần siêu âm (Barbosa 2013, TL-0105). Cảnh giác: TWIST và phản xạ da bìu không loại trừ hoàn toàn (EAU Paediatric Urology 2026 mục 8.2); xoắn có thể có viêm bìu thứ phát, nên mốc mở lại hồ sơ là đau tăng vọt đột ngột, nôn, tinh hoàn co cao: thám sát khẩn, không chờ siêu âm (EAU Hình 2; CDC tr. 98).",
+     "Điểm dừng chẩn đoán (u tinh hoàn): u thường là khối không đau hoặc phát hiện tình cờ (EAU Testicular Cancer 2026 mục 5.1). Anh sưng đau cấp, sốt, mào tinh to. Sưng, đau còn sau khi hết kháng sinh mới đánh giá lại tìm u, áp xe, nhồi máu, lao, nấm (CDC STI 2021 (TL-0370) tr. 100).",
+     "Động cơ thật là muốn có kháng sinh vì sợ lan và hỏng tinh hoàn: câu hỏi mở \"hôm nay anh mong muốn gì, lo điều gì nhất\" lộ ra. Ca này kháng sinh là ĐÚNG, nên bài học nằm ở chỗ chọn đúng phác đồ và giải thích vì sao, không phải ở chỗ từ chối."
+    ],
+    "phan_tich_xu_tri": [
+     "Kê kháng sinh ngay, không chờ xét nghiệm: bắt đầu điều trị kinh nghiệm tại lần khám trước khi có đủ kết quả, chọn theo nguy cơ lậu, chlamydia hoặc vi khuẩn ruột (CDC STI 2021 (TL-0370) tr. 99). Mục tiêu: diệt tác nhân, hết triệu chứng, ngăn lây, giảm biến chứng (vô sinh, đau mạn).",
+     "Phác đồ đáp án (dịch niệu đạo nên có thể lậu): ceftriaxone 1.000 mg tiêm bắp hoặc tĩnh mạch liều duy nhất + doxycyclin 200 mg liều đầu, sau đó 100 mg × 2 lần/ngày × 10–14 ngày tùy đáp ứng (EAU Urological Infections 2026 (TL-0512) mục 3.12.4 phác đồ 2, mục 3.12.6). Ceftriaxone 1 g tiêm bắp cũng là khuyến cáo WHO 2024 cho lậu sinh dục (Bảng 1).",
+     "Chấm a: ceftriaxone 500 mg + doxycyclin 10 ngày (CDC STI 2021 (TL-0370) 2021); ceftriaxone 250 mg (QĐ 5165/2021 mục 3.2.1). Đã quyết một lần ở sổ mâu thuẫn: chọn tài liệu mới nhất (EAU 2026, WHO 2024). Chấm w: fluoroquinolon đơn độc (không dùng cho lậu), azithromycin đơn độc, doxycyclin 7 ngày (phác đồ chlamydia không biến chứng QĐ 5169/2021 mục 3.2.1).",
+     "Giảm đau và hỗ trợ: nghỉ ngơi, nâng bìu, chườm mát, NSAID (EAU Urological Infections 2026 (TL-0512) mục 3.12.3; CDC STI 2021 (TL-0370) tr. 99). Ở người hen ưu tiên paracetamol (QĐ 361/2014 Hướng dẫn thuốc giảm đau mục 3.1); NSAID chỉ khi đã biết dung nạp (hen nhạy cảm NSAID là yếu tố nguy cơ cơn hen nặng, QĐ 3942/2014).",
+     "Điều trị bạn tình và kiêng quan hệ: bạn tình trong 60 ngày trước khởi phát cần được khám, xét nghiệm và điều trị; kiêng quan hệ đến khi cả hai điều trị xong và hết triệu chứng; xét nghiệm HIV, giang mai (CDC STI 2021 (TL-0370) tr. 100; EAU Urological Infections 2026 (TL-0512) mục 3.12.3).",
+     "Không nhập viện: nhập viện khi đau dữ dội, sốt, áp xe tinh hoàn hoặc dấu hiệu nhiễm khuẩn toàn thân (EAU Urological Infections 2026 (TL-0512) mục 3.12.3), hoặc khi không tuân thủ điều trị (CDC STI 2021 (TL-0370) tr. 99). Anh không có.",
+     "Hẹn 72 giờ: không đỡ sau 72 giờ phải đánh giá lại chẩn đoán và điều trị (CDC STI 2021 (TL-0370) tr. 100). Hẹn 14 ngày sau khi hết thuốc (EAU Urological Infections 2026 (TL-0512) mục 3.12.3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ceftriaxone",
+      "ham_luong": "Lọ 1 g",
+      "lieu": "1.000 mg (1 g)",
+      "duong": "Tiêm bắp (hoặc tĩnh mạch)",
+      "thoi_diem": "Tiêm ngay tại phòng khám, sau khi đã lấy mẫu nước tiểu",
+      "so_ngay": "Liều duy nhất",
+      "ghi_chu": "EAU Urological Infections 2026 (TL-0512) mục 3.12.4, 3.12.6; WHO 2024 Bảng 1. Hỏi dị ứng trước; nguy cơ phản ứng chéo với penicillin gần như không có ở cephalosporin thế hệ ba (CDC STI 2021 (TL-0370) tr. 98). Tiêm bắp đau: pha lidocain làm dung môi theo WHO 2024 Bảng 1 (ghi chú). Quan sát 15–30 phút sau tiêm: thời gian theo dõi không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Doxycyclin",
+      "ham_luong": "Viên 100 mg",
+      "lieu": "Liều đầu 200 mg (2 viên), sau đó 100 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Liều đầu ngay tối nay sau khi tiêm; sau đó sáng và tối, cách nhau khoảng 12 giờ, uống sau ăn với đủ nước",
+      "so_ngay": "10 ngày (22 viên); kéo dài đến 14 ngày tùy đáp ứng và kết quả xét nghiệm",
+      "ghi_chu": "EAU Urological Infections 2026 (TL-0512) mục 3.12.4: 200 mg liều đầu rồi 100 mg × 2 lần/ngày × 10–14 ngày; CDC STI 2021 (TL-0370) tr. 99: 100 mg × 2 lần/ngày × 10 ngày. Không dùng cho phụ nữ có thai (QĐ 5169/2021 mục 3.2.1) nhưng bệnh nhân là nam. Cách uống sau ăn để giảm buồn nôn: không có trong tài liệu đã tải, ghi theo thực hành thông thường."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500–1.000 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, cách nhau 6–8 giờ",
+      "so_ngay": "Vài ngày đến khi bớt đau",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), Hướng dẫn sử dụng thuốc giảm đau, mục 3.1: 500–1.000 mg/lần, cách 6–8 giờ, không quá 4 g/24 giờ."
+     }
+    ],
+    "dan_do": [
+     "Chẩn đoán là viêm mào tinh, nhiều khả năng do vi khuẩn lây qua đường tình dục, chữa được bằng kháng sinh. Không phải xoắn tinh hoàn: khởi phát từ từ, không nôn, nâng bìu thì đỡ, phản xạ da bìu còn. Không có khối u. Siêu âm bìu ở anh cũng không thấy khối (nếu đã làm).",
+     "Thuốc: một mũi ceftriaxone ngay tối nay, và doxycyclin uống đủ 10 ngày, kể cả khi hết đau, kể cả khi buồn nôn (uống sau ăn, nhiều nước, báo bác sĩ nếu nôn nhiều). Bỏ thuốc nửa chừng là lý do thường gặp khiến không đỡ. Phác đồ 10–14 ngày theo EAU Urological Infections 2026 (TL-0512) mục 3.12.4.",
+     "Nghỉ ngơi, nâng bìu, chườm mát, không khiêng nặng. Phòng khám cấp giấy xác nhận để xin nghỉ. Số ngày nghỉ không có trong tài liệu đã tải; nghỉ đến khi hết sốt và hết sưng nóng đỏ (CDC STI 2021 (TL-0370) tr. 99). Đau thường giảm sau vài ngày, nhưng hết hẳn có thể mất vài tuần (CDC STI 2021 (TL-0370) tr. 99).",
+     "Kiêng quan hệ tình dục; báo bạn gái đi khám và điều trị (bạn tình trong 60 ngày trước) (CDC STI 2021 (TL-0370) tr. 100). Xét nghiệm HIV, giang mai đã gửi. Dùng bao cao su sau này.",
+     "Về lo vô sinh: tinh dịch có thể kém trong lúc viêm nhưng hồi phục sau điều trị thành công (EAU Urological Infections 2026 (TL-0512) mục 3.12.4). Điều trị sớm và đủ là cách giảm nguy cơ biến chứng.",
+     "Quay lại NGAY nếu: đau tăng vọt đột ngột, buồn nôn hay nôn, bìu co lên cao, sốt cao rét run, sưng đỏ lan nhanh. Tái khám sau 3 ngày nếu không đỡ (CDC STI 2021 (TL-0370) tr. 100); tái khám 14 ngày sau khi hết thuốc (EAU Urological Infections 2026 (TL-0512) mục 3.12.3). Kết quả cấy, NAAT sẽ có trong 1–2 ngày."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tối Chủ nhật (sau 3 ngày)",
+   "tiep_don": "Tái khám lúc 19 giờ tối Chủ nhật, ba ngày sau lượt 1, vẫn ngoài giờ. Anh nói bìu phải \"vẫn đau như cũ\", sợ thuốc không ăn thua. Phiếu kết quả mẫu nước tiểu và máu gửi từ thứ Sáu đã về: NAAT nước tiểu đầu dòng: C. trachomatis DƯƠNG TÍNH, N. gonorrhoeae âm tính; cấy nước tiểu giữa dòng sau 48 giờ không mọc; HIV âm tính, HBsAg âm tính, anti-HCV âm tính, RPR không phản ứng; CRP 38 mg/L. Sinh hiệu lúc tiếp đón: mạch 90 l/p, HA 120/78 mmHg, nhiệt độ 37,8 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, em uống thuốc mấy hôm rồi mà bìu vẫn đau y như cũ, có khi nào kháng sinh không hợp không? Bác sĩ đổi cho em thuốc mạnh hơn hoặc tiêm thêm đi, em sợ nó hư tinh hoàn rồi.",
+   "sinh_hieu": {
+    "mach": 90,
+    "ha": "120/78",
+    "nhiet": "37,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Bìu phải vẫn sưng đau như hôm thứ Năm, chiều nào cũng nóng người. Không đau dữ dội thêm, không nôn, không rét run.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến: không đỡ nhưng không nặng thêm"
+    },
+    {
+     "id": "bo_thuoc",
+     "noi_dung": "Tối thứ Năm uống 2 viên doxycyclin sau mũi tiêm, thứ Sáu uống sáng một viên, tối một viên, sáng thứ Bảy một viên rồi bỏ vì buồn nôn, ợ nóng và đọc mạng thấy \"kháng sinh này có thể làm nặng hen\". Tổng 5 viên, còn 17 viên trong hộp.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Em ngại nói vì sợ bị mắng. Chỉ kể khi bác sĩ hỏi cụ thể uống thuốc thế nào mấy ngày qua, bỏ lần nào không, còn bao nhiêu viên, hoặc nhờ anh đưa hộp thuốc.",
+     "k": 1,
+     "y": "Không tuân thủ: tự ngưng doxycyclin sau 2,5 ngày"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Thứ Sáu, thứ Bảy vẫn đi làm và tăng ca, vẫn khiêng cuộn vải, ngồi máy cả ngày, không mặc quần ôm hay đeo gì nâng bìu. Sợ bị trừ lương.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể mấy ngày qua đi làm thế nào, có khiêng nặng không, có nghỉ không, nâng bìu thế nào.",
+     "k": 1,
+     "y": "Không nghỉ ngơi, không nâng bìu"
+    },
+    {
+     "id": "ban_tinh",
+     "noi_dung": "Từ hôm đó không quan hệ lần nào. Chưa nói với bạn gái vì sợ bạn giận, nên bạn gái chưa đi khám hay uống thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bạn tình chưa điều trị: nguy cơ tái nhiễm"
+    },
+    {
+     "id": "ibuprofen",
+     "noi_dung": "Uống ibuprofen 400 mg khoảng 2 viên mỗi ngày, đỡ đau chút ít. Hen vẫn ổn, không lên cơn, vẫn xịt Ventolin 2–3 lần/tuần như trước.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đau, NSAID, hen"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Không đau tăng vọt, không nôn, không rét run, không tiểu khó, không thấy bìu có chỗ mềm hay vỡ mủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu áp xe hay xoắn mới"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Em mong bác sĩ đổi kháng sinh mạnh hơn hoặc tiêm thêm mũi nữa, vì uống thuốc mấy ngày mà không đỡ thì chắc thuốc yếu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi hôm nay anh mong điều gì hoặc lo điều gì. Nếu bác sĩ giải thích kết quả và lý do chưa đỡ thì anh chấp nhận uống tiếp.",
+     "k": 1,
+     "y": "Động cơ lượt 2: đòi đổi thuốc mạnh hơn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, lo lắng, thể trạng ổn, không vẻ mặt nhiễm khuẩn nặng.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Bìu phải vẫn sưng vừa, da đỏ nhẹ, sờ nóng, không đổi nhiều so với thứ Năm. Mào tinh phải to cứng đau, tách khỏi tinh hoàn, đuôi mào tinh không có vùng mềm bập bềnh, da bìu không dò. Tinh hoàn phải chắc đều, không khối. Phản xạ da bìu còn, nâng bìu đỡ đau (Prehn dương tính). Bìu trái bình thường.",
+     "k": 1,
+     "hien": "Bìu phải to hơn bìu trái, da bìu hơi đỏ, sờ nóng, tương tự lần trước. Tinh hoàn nằm thấp, trục dọc."
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Miệng sáo không đỏ; vắt dọc niệu đạo không ra dịch. Không loét.",
+     "k": 0,
+     "hien": "Dương vật không loét, miệng sáo không đỏ."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran rít.",
+     "k": 0,
+     "hien": "Thở êm, không co kéo.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "sa_bui": {
+     "v": "e",
+     "r": "Siêu âm Doppler bìu tại giường (bác sĩ trực): mào tinh phải to, đuôi dày 15 mm, giảm âm, tăng sinh mạch; tinh hoàn phải dòng máu bình thường và đối xứng bên trái; tràn dịch màng tinh hoàn ít; không ổ áp xe, không khối trong tinh hoàn, ranh giới mào tinh và tinh hoàn còn rõ.",
+     "ab": 1,
+     "n": "Không đỡ là lúc phải đánh giá lại: loại trừ áp xe, nhồi máu, u, xoắn bán phần (CDC STI 2021 (TL-0370) tr. 99–100). Mất ranh giới mào tinh và tinh hoàn, hoặc áp xe trên siêu âm, dự báo cần phẫu thuật (EAU Urological Infections 2026 (TL-0512) mục 3.12.4)."
+    },
+    "naat_sti": {
+     "v": "e",
+     "r": "NAAT nước tiểu đầu dòng (mẫu thứ Năm): C. trachomatis DƯƠNG TÍNH; N. gonorrhoeae âm tính.",
+     "n": "Kết quả thay đổi ý nghĩa: tác nhân là C. trachomatis, nhạy doxycyclin (EAU Urological Infections 2026 (TL-0512) mục 3.12.3). Lậu âm tính nên không cần lặp ceftriaxone."
+    },
+    "cay_nuoc_tieu": {
+     "v": "e",
+     "r": "Cấy nước tiểu giữa dòng: không mọc vi khuẩn sau 48 giờ.",
+     "n": "Không có Enterobacterales (EAU Urological Infections 2026 (TL-0512) mục 3.12.6)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mào tinh phải do Chlamydia trachomatis (đã xác nhận NAAT), chưa đáp ứng vì dùng doxycyclin chưa đủ (5 viên) và không nghỉ ngơi, nâng bìu; không phải thất bại điều trị",
+     "ok": 1,
+     "n": "Chẩn đoán không đổi; mới uống 2,5 ngày thuốc, tiếp tục khiêng nặng; Chlamydia nhạy doxycyclin (EAU Urological Infections 2026 (TL-0512) mục 3.12.3); sưng đau có thể kéo dài vài tuần (CDC STI 2021 (TL-0370) tr. 99). Trước khi gọi là thất bại phải loại trừ không tuân thủ, tái nhiễm, đáp ứng chậm, biến chứng, sai chẩn đoán."
+    },
+    {
+     "t": "Áp xe mào tinh hoặc tinh hoàn, nhồi máu tinh hoàn",
+     "n": "Không dấu bập bềnh, không dò, sốt nhẹ, không đau tăng vọt; siêu âm không ổ áp xe, dòng máu bình thường (EAU Urological Infections 2026 (TL-0512) mục 3.12.4; CDC STI 2021 (TL-0370) tr. 99)."
+    },
+    {
+     "t": "Xoắn tinh hoàn bán phần hoặc xoắn từng đợt",
+     "n": "Không đau tăng vọt, không nôn, còn phản xạ da bìu, nâng bìu đỡ đau, Doppler dòng máu bình thường (nhưng dòng máu còn không loại hẳn xoắn, TL-0506 mục 8.2); diễn tiến phù hợp viêm."
+    },
+    {
+     "t": "U tinh hoàn",
+     "n": "Không khối trong tinh hoàn trên siêu âm; sốt và NAAT dương tính giải thích. Nếu còn sưng sau khi hết thuốc phải đánh giá lại tìm u (CDC STI 2021 (TL-0370) tr. 100; TL-0510 mục 5.2)."
+    },
+    {
+     "t": "Đồng nhiễm lậu (N. gonorrhoeae)",
+     "n": "NAAT lậu âm tính, ceftriaxone 1 g đã tiêm; không cần tiêm lại."
+    },
+    {
+     "t": "Tái nhiễm hoặc kháng thuốc",
+     "n": "Không quan hệ từ lượt 1, nên không tái nhiễm; chưa có bằng chứng kháng doxycyclin vì chưa dùng đủ thuốc. Tái nhiễm là nguy cơ khi bạn tình chưa điều trị."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chạy quy trình \"không đỡ\": xác nhận chẩn đoán (khám lại bìu, siêu âm), đối chiếu kết quả xét nghiệm, hỏi tuân thủ và sinh hoạt",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 100: không đỡ trong 72 giờ cần đánh giá lại chẩn đoán và điều trị. Tìm nguyên nhân (không uống thuốc, không nghỉ) trước khi đổi thuốc."
+    },
+    {
+     "t": "Siêu âm Doppler bìu tại giường để loại trừ áp xe, nhồi máu, u, xoắn",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 99–100 và EAU Urological Infections 2026 (TL-0512) mục 3.12.4 (áp xe dự báo phẫu thuật)."
+    },
+    {
+     "t": "Tiếp tục doxycyclin 100 mg × 2 lần/ngày, uống đều đủ 10 ngày tính từ hôm nay (không quá 14 ngày), không đổi thuốc, không tiêm lại ceftriaxone",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.4: 10–14 ngày tùy đáp ứng và định danh tác nhân; NAAT lậu âm tính nên ceftriaxone liều đơn đã đủ. Cách tính bù liều bỏ lỡ không có trong tài liệu đã tải; chọn tính lại từ hôm nay cho thận trọng."
+    },
+    {
+     "t": "Xử lý buồn nôn: uống doxycyclin sau ăn, nhiều nước, không nằm ngay; báo khi nôn nhiều",
+     "v": "c",
+     "n": "Ghi chú thực hành, không có trong tài liệu đã tải. Tài liệu đã tải không nêu hen là chống chỉ định doxycyclin; xịt Ventolin vẫn dùng như cũ."
+    },
+    {
+     "t": "Nghỉ làm cho đến khi hết sốt và hết sưng nóng đỏ, cấp giấy xác nhận; nâng bìu, không khiêng nặng, giảm đau paracetamol",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 99: nằm nghỉ, nâng bìu, NSAID đến khi hết sốt và hết viêm tại chỗ. Số ngày nghỉ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo và điều trị bạn tình; kiêng quan hệ đến khi cả hai điều trị xong và hết triệu chứng",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 100 (60 ngày, điều trị bạn tình, kiêng quan hệ); EAU Urological Infections 2026 (TL-0512) mục 3.12.6 (khuyến cáo mạnh). Bạn tình chưa điều trị gây tái nhiễm."
+    },
+    {
+     "t": "Trấn an: kết quả xác nhận chlamydia, nhạy doxycyclin, không áp xe, không xoắn, không u; giải thích vì sao chưa đỡ và đau có thể kéo dài vài tuần",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 99: hết khó chịu hoàn toàn có thể sau vài tuần; EAU Urological Infections 2026 (TL-0512) mục 3.12.4: tinh dịch hồi phục sau điều trị thành công."
+    },
+    {
+     "t": "Hẹn lại sau 3–4 ngày để xác nhận đáp ứng, và 14 ngày sau khi hết thuốc; sưng còn sau khi hết thuốc thì tìm u, áp xe, lao, nhồi máu, nấm; xét nghiệm chlamydia lại sau 3 tháng",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 100 (sưng còn sau điều trị: tìm u, áp xe, nhồi máu, ung thư tinh hoàn, lao, nấm); EAU Urological Infections 2026 (TL-0512) mục 3.12.3 (14 ngày); QĐ 5169/2021 (TL-0498) mục 3.3: khám lại sau 3 tháng để phát hiện tái nhiễm."
+    },
+    {
+     "t": "Đổi sang levofloxacin 500 mg uống 1 lần/ngày × 10 ngày nếu thật sự không dung nạp doxycyclin",
+     "v": "a",
+     "n": "CDC STI 2021 (TL-0370) tr. 99 và EAU Urological Infections 2026 (TL-0512) mục 3.12.3: fluoroquinolon cũng có hiệu quả với C. trachomatis (lậu đã âm tính). Chỉ hợp lý khi không dung nạp, không phải vì \"thuốc yếu\"."
+    },
+    {
+     "t": "Tiêm lặp ceftriaxone hoặc đổi sang kháng sinh phổ rộng \"mạnh hơn\" (meropenem, carbapenem)",
+     "v": "w",
+     "n": "Tác nhân là C. trachomatis, nhạy doxycyclin; lậu âm tính (EAU Urological Infections 2026 (TL-0512) mục 3.12.3). Mới dùng thuốc chưa đủ, chưa phải thất bại điều trị. Chiều lòng bệnh nhân sợ hãi, tăng đề kháng."
+    },
+    {
+     "t": "Nhập viện truyền kháng sinh tĩnh mạch",
+     "v": "w",
+     "n": "Không có đau dữ dội, sốt cao, áp xe, nhiễm khuẩn toàn thân (EAU Urological Infections 2026 (TL-0512) mục 3.12.3); không đủ tiêu chuẩn. Không tuân thủ là vấn đề cần giải quyết bằng tư vấn (CDC STI 2021 (TL-0370) tr. 99)."
+    },
+    {
+     "t": "Ngừng hẳn kháng sinh vì \"không đáp ứng\", chỉ giảm đau",
+     "v": "h",
+     "n": "Chlamydia đã xác nhận; không điều trị đủ làm tồn tại nhiễm khuẩn, biến chứng vô sinh, đau mạn, lây bạn tình (CDC STI 2021 (TL-0370) tr. 99)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mào tinh cấp bên phải do Chlamydia trachomatis (NAAT dương tính; lậu âm tính; cấy nước tiểu âm tính)",
+     "Chưa đáp ứng sau 72 giờ do dùng doxycyclin không đủ (5 viên, tự ngưng sau 2,5 ngày) và không nghỉ ngơi, nâng bìu; không phải thất bại điều trị",
+     "Không áp xe, không nhồi máu, không xoắn, không u (siêu âm bìu bình thường)",
+     "Bạn tình chưa điều trị: nguy cơ tái nhiễm",
+     "Nền: hen ổn, dung nạp NSAID"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu hỏi lượt này là \"vì sao chưa đỡ\", không phải \"bệnh gì\". Quy trình thất bại điều trị: (1) chẩn đoán còn đúng không? (2) thuốc có đúng và đủ không? (3) bệnh nhân có dùng không? (4) có tái nhiễm không? (5) có biến chứng không? Theo CDC STI 2021 (TL-0370) tr. 100: không đỡ trong 72 giờ cần đánh giá lại; sưng còn sau điều trị tìm u, áp xe, nhồi máu, lao, nấm.",
+     "(1) Chẩn đoán: khám lại không đổi, siêu âm không khối, không áp xe, dòng máu bình thường: không xoắn bán phần, không u, không áp xe (EAU Urological Infections 2026 (TL-0512) mục 3.12.4). (2) Thuốc: C. trachomatis nhạy doxycyclin; lậu âm tính nên ceftriaxone 1 g đã đủ (EAU Urological Infections 2026 (TL-0512) mục 3.12.3). (3) Dùng thuốc: hỏi cụ thể mới ra, đếm viên còn 17 trên 22: anh tự ngưng sau 2,5 ngày vì buồn nôn và sợ hen. Khiêng nặng, không nâng bìu thêm. (4) Tái nhiễm: không quan hệ lại, nhưng bạn tình chưa điều trị. (5) Biến chứng: không.",
+     "Điểm dừng chẩn đoán: mốc để mở lại hồ sơ là sưng đau không giảm sau khi đã uống đủ thuốc, siêu âm có áp xe hoặc mất ranh giới mào tinh – tinh hoàn, hoặc đau tăng vọt. Chỉ khi đó nghĩ kháng thuốc, áp xe cần dẫn lưu (EAU Urological Infections 2026 (TL-0512) mục 3.12.4), lao mào tinh (tài liệu EAU mục 3.12.1: chủ yếu mạn tính, nhóm nguy cơ cao) hay u.",
+     "Động cơ thật lượt 2: muốn đổi thuốc \"mạnh hơn\" vì sợ. Câu trả lời đúng là giải thích bằng kết quả xét nghiệm và số viên thuốc còn lại, không chiều theo và không mắng. Với bệnh nhân sợ hãi, mở đầu bằng việc xác nhận nỗi lo, rồi đưa bằng chứng (siêu âm không áp xe, không xoắn, không u)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không đổi kháng sinh: tác nhân và độ nhạy phù hợp, vấn đề nằm ở tuân thủ (EAU Urological Infections 2026 (TL-0512) mục 3.12.3). Tiếp tục doxycyclin 100 mg × 2 lần/ngày, uống đều đủ 10 ngày tính lại từ hôm nay (trong khoảng 10–14 ngày theo EAU mục 3.12.4). Cách bù liều bỏ lỡ không có trong tài liệu đã tải.",
+     "Giải quyết nguyên nhân khiến bỏ thuốc: hỏi vì sao (buồn nôn, sợ hen), hướng dẫn uống sau ăn, nhiều nước. Nếu thật sự không dung nạp thì levofloxacin 500 mg × 1 lần/ngày × 10 ngày là lựa chọn chấp nhận được cho chlamydia (CDC STI 2021 (TL-0370) tr. 99; EAU Urological Infections 2026 (TL-0512) mục 3.12.3), vì lậu đã âm tính.",
+     "Điều trị bạn tình, kiêng quan hệ (CDC STI 2021 (TL-0370) tr. 100; EAU Urological Infections 2026 (TL-0512) mục 3.12.6). Hẹn lại 3–4 ngày để xác nhận đáp ứng, 14 ngày sau khi hết thuốc (EAU Urological Infections 2026 (TL-0512) mục 3.12.3); khám lại sau 3 tháng để phát hiện tái nhiễm (QĐ 5169/2021 mục 3.3).",
+     "Việc sai: tiêm lặp ceftriaxone hoặc đổi sang carbapenem (w); nhập viện hay mổ thám sát (w); ngừng kháng sinh, hay lấy cấy âm tính làm lý do bỏ kháng sinh (h)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Doxycyclin",
+      "ham_luong": "Viên 100 mg",
+      "lieu": "100 mg × 2 lần/ngày (không cần liều đầu 200 mg vì đã dùng 5 viên)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối cách nhau khoảng 12 giờ, sau ăn, uống nhiều nước",
+      "so_ngay": "10 ngày kể từ hôm nay (20 viên; còn 17 viên trong hộp, cấp thêm 3 viên); tối đa 14 ngày tùy đáp ứng",
+      "ghi_chu": "EAU Urological Infections 2026 (TL-0512) mục 3.12.4: 100 mg × 2 lần/ngày × 10–14 ngày tùy đáp ứng; CDC STI 2021 (TL-0370) tr. 99: 10 ngày. Cách tính bù liều bỏ lỡ không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500–1.000 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, cách nhau 6–8 giờ",
+      "so_ngay": "Đến khi bớt đau",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), Hướng dẫn sử dụng thuốc giảm đau, mục 3.1: không quá 4 g/24 giờ."
+     },
+     {
+      "thuoc": "Ibuprofen (nếu cần thêm giảm đau)",
+      "ham_luong": "Viên 400 mg",
+      "lieu": "Theo tờ hướng dẫn sử dụng; không có liều trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau nhiều",
+      "so_ngay": "Ngắn ngày, vài ngày",
+      "ghi_chu": "CDC STI 2021 (TL-0370) tr. 99 và EAU Urological Infections 2026 (TL-0512) mục 3.12.3 cho NSAID hỗ trợ; đã dung nạp, hen ổn (QĐ 3942/2014: hen nhạy cảm NSAID là yếu tố nguy cơ nặng). Dừng ngay nếu khò khè."
+     }
+    ],
+    "dan_do": [
+     "Kết quả cho thấy bệnh do Chlamydia, loại vi khuẩn nhạy doxycyclin (EAU Urological Infections 2026 (TL-0512) mục 3.12.3). Thuốc không yếu; anh mới uống 5 viên trong 10 ngày thuốc nên chưa đỡ là chuyện bình thường. Siêu âm hôm nay không có áp xe, không xoắn, không u: tinh hoàn còn máu nuôi bình thường.",
+     "Uống doxycyclin đều đủ 10 ngày, mỗi ngày hai lần sau ăn với nhiều nước, dù hết đau cũng không bỏ (EAU Urological Infections 2026 (TL-0512) mục 3.12.4). Buồn nôn hay ợ nóng thì báo ngay để đổi thuốc thay vì tự bỏ. Hen không phải lý do cấm thuốc này (không có trong tài liệu đã tải); tiếp tục xịt Ventolin như cũ.",
+     "Nghỉ làm, không khiêng nặng, nâng bìu bằng quần lót ôm, chườm mát cho đến khi hết sốt và hết sưng nóng đỏ (CDC STI 2021 (TL-0370) tr. 99); phòng khám cấp giấy xác nhận. Đau có thể còn vài tuần dù đã điều trị đúng (CDC STI 2021 (TL-0370) tr. 99).",
+     "Nói với bạn gái để cô ấy đi khám và uống thuốc, nếu không anh sẽ bị nhiễm lại. Kiêng quan hệ đến khi cả hai điều trị xong và hết triệu chứng (CDC STI 2021 (TL-0370) tr. 100). Khám lại sau 3 tháng để chắc không tái nhiễm (QĐ 5169/2021 mục 3.3).",
+     "Tái khám sau 3–4 ngày; quay lại NGAY nếu đau tăng vọt, buồn nôn hay nôn, sốt cao rét run, bìu có chỗ mềm hoặc chảy mủ. Khám lại 14 ngày sau khi hết thuốc (EAU Urological Infections 2026 (TL-0512) mục 3.12.3). Còn sưng sau khi hết thuốc phải làm siêu âm lại, tìm u, áp xe (CDC STI 2021 (TL-0370) tr. 100)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau khi được giải thích bằng kết quả NAAT và số viên thuốc, anh đồng ý uống đều doxycyclin đủ 10 ngày, nghỉ làm 5 ngày với giấy xác nhận, nâng bìu. Bạn gái đi khám và được điều trị. Ngày thứ 4 sau lượt 2 hết sốt, bìu bớt sưng; 14 ngày sau khi hết thuốc chỉ còn mào tinh hơi cứng, không đau, siêu âm không áp xe. Hen vẫn ổn. Ổn định, khỏi bệnh; anh dặn đồng nghiệp đi khám sớm.",
+ "nhieu": [
+  "Khiêng cuộn vải nặng chiều thứ Hai: chỉ là mốc thời gian anh nhớ, không giải thích sốt, dịch niệu đạo, mào tinh sưng nóng đỏ. Tài liệu đã tải không nêu khiêng vật nặng gây viêm mào tinh.",
+  "Hen và bình xịt Ventolin (salbutamol): không liên quan bệnh, và không có tương tác với ceftriaxone, doxycyclin trong tài liệu đã tải. Chỗ cần nghĩ là chọn thuốc giảm đau (hen nhạy cảm NSAID là yếu tố nguy cơ, QĐ 3942/2014), anh đã dung nạp ibuprofen.",
+  "Sốt 38,0 °C và đọc mạng thấy \"xoắn tinh hoàn\", \"ung thư\": nhiễu làm anh đòi CT, xét nghiệm dấu ấn u. Xoắn và u đã có lập luận loại trừ riêng.",
+  "Cấy nước tiểu âm tính ở lượt 2: dễ bị hiểu là không nhiễm khuẩn; thực ra cấy thường quy không phát hiện Chlamydia."
+ ],
+ "bai_hoc_bien": [
+  "Sợ hãi quá mức: trấn an có cấu trúc (nói rõ chẩn đoán, vì sao loại trừ xoắn và u, kế hoạch, mốc quay lại) thay cho chụp, xét nghiệm chiều lòng.",
+  "Ngoài giờ, không có kỹ thuật viên: lấy mẫu trước khi tiêm kháng sinh, điều trị kinh nghiệm ngay, không chờ kết quả; xoắn tinh hoàn được loại trừ bằng lâm sàng và TWIST, không chờ siêu âm.",
+  "Không đỡ ở lượt 2: chạy quy trình thất bại điều trị (chẩn đoán, thuốc, tuân thủ, tái nhiễm, biến chứng) trước khi đổi sang thuốc \"mạnh hơn\". Hỏi cụ thể về việc uống thuốc và đếm viên.",
+  "Cặp tương phản P-0577 với TN-0483 (đau bìu mạn): ở đây đau cấp, sốt, mào tinh sưng nóng; nhớ phân biệt viêm mào tinh cấp (< 6 tuần) và mạn (≥ 6 tuần) (CDC 2021 tr. 98)."
+ ],
+ "diem_nho": [
+  "Viêm mào tinh cấp: đau, sưng, tăng nhiệt mào tinh một bên, tăng dần trong vài ngày; STI hay gặp ở nam trẻ, người lớn tuổi thường do Enterobacterales (EAU Urological Infections 2026 (TL-0512) mục 3.12.1).",
+  "Loại trừ xoắn: khởi phát đột ngột kèm nôn, đau tinh hoàn, tinh hoàn cao, mất phản xạ da bìu, nâng bìu không đỡ. TWIST ≤ 2 nguy cơ thấp; ≥ 5 nguy cơ cao: thám sát (TL-0105). Nghi xoắn: thám sát khẩn, không chờ Doppler (EAU Urological Infections 2026 (TL-0512) Hình 2).",
+  "Phác đồ: nghi lậu: ceftriaxone 1 g tiêm bắp + doxycyclin 200 mg rồi 100 mg × 2 lần/ngày × 10–14 ngày; ít nguy cơ lậu: levofloxacin 500 mg × 1 lần/ngày hoặc doxycyclin + co-trimoxazol 10–14 ngày (EAU Urological Infections 2026 (TL-0512) mục 3.12.4).",
+  "Xét nghiệm: nước tiểu đầu dòng làm NAAT, giữa dòng cấy; HIV, giang mai cho mọi nam viêm mào tinh (EAU Urological Infections 2026 (TL-0512) mục 3.12.6; CDC STI 2021 (TL-0370) tr. 100).",
+  "Điều trị bạn tình 60 ngày, kiêng quan hệ; không đỡ sau 72 giờ phải đánh giá lại; khám lại 14 ngày sau khi hết thuốc (CDC STI 2021 (TL-0370) tr. 100; EAU Urological Infections 2026 (TL-0512) mục 3.12.3)."
+ ],
+ "nguon": [
+  "EAU Guidelines on Urological Infections, Limited update 03/2026 – TL-0512 – mục 3.12.1–3.12.6 (Hình 2; khuyến cáo mạnh về NAAT/cấy, ceftriaxone 1.000 mg, theo dõi 14 ngày).",
+  "CDC STI Treatment Guidelines 2021, MMWR 70(4) – TL-0370 – mục Epididymitis, tr. 98–100 (chẩn đoán, điều trị, theo dõi, bạn tình); đoạn Drug Allergy, tr. 98.",
+  "WHO 2024 Updated recommendations for the treatment of N. gonorrhoeae, C. trachomatis – TL-0501 – Bảng 1 (ceftriaxone 1 g IM).",
+  "BYT – QĐ 5165/QĐ-BYT 2021, Hướng dẫn chẩn đoán và điều trị bệnh Lậu – TL-0499 – mục 3.1, 3.2.1.",
+  "BYT – QĐ 5169/QĐ-BYT 2021, Hướng dẫn chẩn đoán và điều trị bệnh Chlamydia trachomatis – TL-0498 – mục 3.2.1, 3.3.",
+  "EAU Guidelines on Paediatric Urology, Limited update 03/2026 – TL-0506 – mục 8.2 (cremaster, Prehn, TWIST, Doppler).",
+  "Barbosa JA et al. TWIST score, J Urol 2013 – TL-0105 – thang điểm và ngưỡng 2 / 3–4 / ≥ 5.",
+  "EAU Guidelines on Testicular Cancer, Limited update 03/2026 – TL-0510 – mục 5.1, 5.2.",
+  "BYT – QĐ 361/QĐ-BYT 2014, Bệnh cơ xương khớp – TL-0286 – Hướng dẫn sử dụng thuốc giảm đau, mục 3.1 (paracetamol).",
+  "BYT – QĐ 3942/QĐ-BYT 2014, Dị ứng – miễn dịch lâm sàng – bài Chẩn đoán và xử trí cơn hen phế quản cấp, yếu tố nguy cơ cơn hen nặng (hen nhạy cảm aspirin và NSAID)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: Sonnet, 12/10/2026. Tài liệu đã đọc: TL-0512 mục 3.12; TL-0370 mục Epididymitis tr. 98–100; TL-0501 Bảng 1; TL-0499 mục 3.1–3.2; TL-0498 mục 3.2–3.3; TL-0506 mục 8.2–8.3; TL-0105; TL-0510 mục 5; QĐ 361/2014; QĐ 3942/2014.",
+  "Mâu thuẫn nguồn mới: liều ceftriaxone (BYT 250 mg; CDC 500 mg; WHO 2024 và EAU 2026 1 g) → đáp án 1 g (mới nhất). Doxycyclin 7 ngày (BYT 5169, chlamydia không biến chứng) khác bệnh cảnh với 10–14 ngày (viêm mào tinh). Xem TN-0415_mau_thuan.md.",
+  "Thiếu tài liệu: liều NSAID cho viêm mào tinh, thời gian theo dõi sau tiêm, số ngày nghỉ làm, cách bù liều bỏ lỡ, tương tác thuốc xịt hen với kháng sinh, lời khuyên uống doxycyclin sau ăn, mối liên quan khiêng vật nặng với viêm mào tinh.",
+  "Mục khám mới cần thêm vào danh mục: bui_tinh_hoan, duong_vat_nieu_dao. CLS mới: sa_bui, naat_sti, cay_nuoc_tieu, gram_nieu_dao, giang_mai (xem TN-0415_de_xuat_danh_muc.json)."
+ ]
+}
