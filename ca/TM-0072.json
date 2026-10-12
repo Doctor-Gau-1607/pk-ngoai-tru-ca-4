@@ -1,0 +1,668 @@
+{
+ "ma_ca": "TM-0072",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_viem_ket_mac_cap_virus",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm kết mạc (virus/vi khuẩn/dị ứng)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm màng bồ đào",
+   "Glôcôm cấp",
+   "Viêm giác mạc"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau đi du lịch vùng dịch",
+  "thuoc_dang_dung": "Thuốc ho long đờm",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thanh Mai",
+  "tuoi": 12,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 7",
+  "can_nang": 38,
+  "chieu_cao": 149,
+  "xung_ho": "Bé 12 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ'. Mẹ (chị Hương, 40 tuổi) xưng 'em', gọi bác sĩ là 'bác sĩ' hoặc 'anh/chị' tùy tuổi; mẹ gọi con là 'con bé' hoặc 'cháu'.",
+  "tinh_cach": "Mai hiền, ngại nói trước mặt mẹ, trả lời ngắn khi được hỏi trực tiếp, hay lấy ngón tay dụi mắt. Mẹ nói nhanh, hay chen lời, lo lắng, bán hàng online nên cũng thiếu ngủ vì phải trông con; muốn con 'ngủ một giấc cho mắt tự khỏi' và không dụi mắt.",
+  "kieu_nhieu": "Thân nhân trả lời thay: mẹ trả lời hầu hết câu hỏi, kể cả những chuyện chỉ Mai biết. Mẹ nói 'không đau, không sao' theo cảm giác của mẹ; chỉ khi bác sĩ quay sang hỏi thẳng Mai (đau nhức sâu trong mắt không, có chói không, nhìn rõ không, có dụi mắt, có dùng chung khăn) thì Mai mới trả lời. Mẹ không tự kể chuyện em trai đang đỏ mắt và dùng chung khăn; mẹ cũng không nói ngay mình muốn xin thuốc ngủ.",
+  "nguoi_nha": "Mẹ bé, chị Hương, 40 tuổi, đi cùng. Hầu hết câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng Mai thì Mai trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Mẹ bé (chị Hương)",
+  "ngoai_hinh": {
+   "da": "#e9bf9c",
+   "toc": "#1d1512",
+   "kieuToc": "dai",
+   "ao": "#9bc4d9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e3b48f",
+    "toc": "#2b1e17",
+    "kieuToc": "hoi",
+    "ao": "#d98b8b",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Hai mắt đỏ, chảy nước mắt, cộm xốn",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 12 tuổi, 38 kg, mẹ đưa đến vì đỏ hai mắt, chảy nước mắt. Mắt phải đỏ từ ngày thứ Ba, mắt trái đỏ từ chiều hôm qua. Sinh hiệu: nhiệt 37,7 °C, mạch 92 l/p, nhịp thở 20 l/p, SpO₂ 99%. Bé tỉnh, mệt, hay nheo mắt và đưa tay lên dụi mắt.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Dạ chào bác sĩ. Con bé nhà em bị đỏ hai mắt, nước mắt chảy ròng ròng, ghèn dính mi. Chắc là đau mắt đỏ rồi bác sĩ ạ, bác sĩ coi giúp em với.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "Không đo",
+    "nhiet": "37,7",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mắt phải đỏ, cộm xốn, chảy nước mắt từ ngày thứ Ba (3 ngày nay). Mắt trái đỏ từ chiều hôm qua. Sáng dậy mi dính ghèn nhưng lau đi là mở được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, khởi phát lần lượt hai mắt"
+    },
+    {
+     "id": "du_lich",
+     "noi_dung": "Cả nhà đi du lịch biển 4 ngày, về nhà Chủ nhật. Ở đó đang có nhiều người đỏ mắt, trẻ con ở khu vui chơi và hồ bơi cũng đỏ mắt. Mắt phải của Mai đỏ 2 ngày sau khi về.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: tiếp xúc người đỏ mắt ở vùng dịch (AAO 2018, Bảng 1: tiếp xúc người nhiễm)"
+    },
+    {
+     "id": "ghen",
+     "noi_dung": "Nước mắt chảy nhiều, ghèn ít, trong hoặc trắng đục nhầy, không phải mủ vàng xanh. Lau đi không đầy lại ngay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất tiết tố (virus so với vi khuẩn)"
+    },
+    {
+     "id": "dau_chua",
+     "noi_dung": "Mẹ nói bé không đau gì. Khi hỏi thẳng Mai: chỉ thấy cộm như có cát và hơi rát, KHÔNG đau nhức sâu trong mắt, không đau đầu, không buồn nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau sâu trong mắt, đau đầu, buồn nôn (loại trừ glôcôm cấp, viêm màng bồ đào)"
+    },
+    {
+     "id": "thi_luc",
+     "noi_dung": "Mai nhìn chữ trên bảng ở lớp vẫn rõ như cũ, không thấy mờ như qua sương, không thấy quầng sáng quanh đèn. Chỉ hơi chói khi ra nắng gắt, vào nhà là hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thị lực, sợ chói, quầng sáng (loại trừ viêm giác mạc, bồ đào, glôcôm)"
+    },
+    {
+     "id": "ngua",
+     "noi_dung": "Mai không ngứa nhiều; cộm xốn là chính. Không hắt hơi, không ngạt mũi, không có tiền sử dị ứng, hen, chàm. Không đeo kính áp tròng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngứa, cơ địa dị ứng, kính áp tròng (loại trừ dị ứng)"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Sốt nhẹ khoảng 37,5–37,8 °C từ hôm qua, ho nhẹ, đau họng nhẹ, mệt. Không phát ban, không nôn, không đau đầu, không chảy máu. Đã tiêm chủng đủ theo sổ, có mũi sởi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân kèm theo; loại trừ sởi, sốt xuất huyết"
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Mẹ mua siro ho long đờm ở nhà thuốc, cho bé uống 3 lần/ngày được 2 ngày, không nhớ tên thuốc. Chưa nhỏ thuốc mắt nào, chỉ rửa bằng nước muối sinh lý. Không có thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Thuốc đang dùng (siro ho)"
+    },
+    {
+     "id": "dung_chung",
+     "noi_dung": "Mai dụi mắt bằng tay nhiều, nhất là lúc ngủ. Dùng chung khăn mặt với em trai Khôi (6 tuổi) vì khăn treo chung ở nhà tắm. Hôm qua Khôi bắt đầu hơi đỏ một mắt, mẹ chưa để ý.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ lộ khi bác sĩ hỏi thẳng Mai về dụi mắt, dùng chung khăn hoặc hỏi người trong nhà có ai đỏ mắt không.",
+     "k": 1,
+     "y": "Đường lây trong gia đình (khăn chung, dụi mắt)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Đêm qua Mai khóc vì cộm xốn, thức tới gần sáng, dụi mắt trong lúc mơ ngủ. Mẹ cũng không ngủ được vì sợ con làm xước mắt. Mẹ muốn xin thuốc ngủ cho con ngủ một giấc cho mắt đỡ và khỏi dụi, cũng để mẹ ngủ được.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói vì ngại bác sĩ cho là xin thuốc bừa. Chỉ lộ khi bác sĩ hỏi đêm qua bé ngủ thế nào, chị đang lo nhất điều gì, chị mong bác sĩ giúp gì thêm.",
+     "k": 1,
+     "y": "Lý do thật sự đến khám: xin thuốc ngủ"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng đỏ mắt trước đây. Không chấn thương mắt, không hóa chất vào mắt, không phẫu thuật mắt. Không bệnh mạn tính, không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử mắt, dị ứng thuốc"
+    },
+    {
+     "id": "truong",
+     "noi_dung": "Lớp 7 có 3 bạn cũng đang nghỉ học vì đỏ mắt. Tuần sau có kiểm tra giữa kỳ, mẹ lo con nghỉ nhiều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Môi trường lớp học, lo nghỉ học"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực 10/10 hai mắt, không kính. Hai mắt: mi phù nhẹ, kết mạc nhãn cầu cương tụ lan tỏa (cương tụ nông, đậm ở cùng đồ, nhạt dần về phía rìa), phù nhẹ kết mạc, vài đốm xuất huyết dưới kết mạc nhỏ ở mắt phải. Lật mi dưới thấy nhiều hột nhỏ kết mạc sụn mi (phản ứng dạng hột), không giả mạc. Tiết tố loãng, trong, ít. Giác mạc trong. Đồng tử tròn đều 3 mm, phản xạ ánh sáng tốt hai bên. Mắt trái nhẹ hơn mắt phải.",
+     "k": 1,
+     "hien": "Hai mắt đỏ, chảy nước mắt. Thị lực: đọc được hàng chữ nhỏ nhất của bảng với mỗi mắt."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi đèn xanh: giác mạc hai mắt trong, không bắt màu fluorescein, không thấy ổ thâm nhiễm, không tổn thương hình cành cây.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước tai bên phải sờ thấy nhỏ, di động, hơi đau; bên trái chưa sờ thấy. Hạch dưới hàm nhỏ. Tuyến giáp không to.",
+     "k": 1,
+     "hien": "Sờ vùng trước tai, dưới hàm, cổ hai bên."
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không giả mạc. Mũi hơi nghẹt, dịch trong. Màng nhĩ bình thường.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, tiếp xúc tốt. Da niêm hồng, không phát ban, không chấm xuất huyết, không vàng da.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Rì rào phế nang rõ hai bên, không ran. Ho nhẹ khi hít sâu.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p."
+    },
+    "nhan_ap": {
+     "a": "Nhãn áp (đo ngón tay hoặc nhãn áp kế) hai mắt bình thường, mềm đều hai mắt. Đo nhãn áp không cần thiết vì không có dấu đau nhức, đồng tử đều, tiền phòng không nông; nên hoãn đo ở viêm kết mạc cấp để tránh lây qua dụng cụ.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Không cần soi đáy mắt (không giảm thị lực). Soi qua đồng tử không giãn thuốc: đáy mắt hai bên bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Hb 128 g/L · BC 7,6 G/L (lympho tương đối tăng) · TC 280 G/L",
+     "n": "Không cần: viêm kết mạc virus chẩn đoán bằng hỏi bệnh và khám mắt (AAO 2018, mục Diagnostic Tests: một số ca chẩn đoán dựa vào bệnh sử và khám)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "4 mg/L",
+     "n": "Không cần, như công thức máu."
+    },
+    "flu": {
+     "v": "a",
+     "r": "Cúm A/B và SARS-CoV-2 âm tính",
+     "n": "Chấp nhận, không bắt buộc: sốt nhẹ, ho nhẹ nhưng không thay đổi xử trí mắt. Tài liệu đã tải không có khuyến cáo test cúm trong viêm kết mạc."
+    },
+    "test_adeno": {
+     "v": "a",
+     "r": "Test nhanh kháng nguyên adenovirus dịch kết mạc: dương tính",
+     "n": "Không bắt buộc: có thể giúp chẩn đoán sớm, giảm kháng sinh không cần thiết, nhưng độ nhạy 88–89%, độ đặc hiệu 91–94% (AAO 2018, mục Diagnostic Tests – Viral). Chẩn đoán lâm sàng đã đủ; tại cơ sở không có test nhanh thì không trừ điểm."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Không cần: cấy kết mạc ít giúp quyết định điều trị ở viêm kết mạc thường (AAO 2018, mục Diagnostic Tests – Cultures); chỉ khi mủ nhiều, tái phát hoặc không đáp ứng. Ghèn ít, loãng nên không làm."
+    },
+    "echo": {
+     "n": "Cơ sở không có siêu âm, và không cần cho viêm kết mạc. QĐ 40/2015 chỉ nêu siêu âm mắt khi nghi viêm màng bồ đào làm đục dịch kính (Viêm màng bồ đào trước, mục 3b); bé không có dấu hiệu đó."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc cấp do virus (nghĩ adenovirus), cả hai mắt lần lượt, chưa có tổn thương giác mạc",
+     "ok": 1,
+     "n": "Khởi phát đột ngột, mắt thứ hai đỏ sau 2 ngày, nước mắt loãng, hột kết mạc sụn mi, hạch trước tai, sốt nhẹ kèm ho, tiếp xúc người đỏ mắt (AAO 2018, Bảng 1 hàng Adenoviral; QĐ 40/2015, Viêm kết mạc cấp, mục 3 'Viêm kết mạc do virus'). Giác mạc không bắt màu fluorescein, thị lực 10/10."
+    },
+    {
+     "t": "Viêm kết mạc do vi khuẩn",
+     "n": "Ít nghĩ: tiết tố ít, loãng; thể mủ có nhiều tiết tố mủ bẩn hình thành nhanh sau khi lau (QĐ 40/2015 mục 3); thể vi khuẩn có tiết tố mủ hoặc nhầy mủ (AAO 2018, Bảng 1). Có sốt nhẹ, hạch trước tai, hột kết mạc nghiêng về virus."
+    },
+    {
+     "t": "Viêm kết mạc dị ứng",
+     "n": "Ít nghĩ: không ngứa nổi bật, không tiền sử dị ứng, một bên đỏ trước rồi lan sang bên kia, có sốt và hạch trước tai (QĐ 40/2015, Viêm kết mạc dị ứng cấp tính, mục 3d: không có tiền sử tiếp xúc dị nguyên, kết mạc không phù nề nhiều như dị ứng). Dị ứng thường hai bên ngay, ngứa, tiết nhầy ít (AAO 2018, Bảng 1)."
+    },
+    {
+     "t": "Viêm màng bồ đào (trước)",
+     "n": "Loại trừ: bệnh này có cương tụ rìa, đau, sợ ánh sáng, nhìn mờ, tủa sau giác mạc (QĐ 40/2015, Viêm màng bồ đào trước cấp tính, mục 3a, 3c). Mai cương tụ nông, ra tiết tố, không đau sâu, thị lực 10/10 (mục 3d: viêm kết mạc cấp 'ra dử mắt nhiều, cương tụ nông, không ảnh hưởng đến thị lực'). Không cần siêu âm mắt."
+    },
+    {
+     "t": "Glôcôm góc đóng cấp",
+     "n": "Loại trừ: đau nhức mắt lan nửa đầu, nhìn mờ, quầng xanh đỏ quanh đèn, buồn nôn, đồng tử giãn méo, thị lực giảm nhiều, giác mạc phù mờ (QĐ 40/2015, Glôcôm góc đóng nguyên phát, mục 3a). Mai không có triệu chứng nào, đồng tử tròn đều, phản xạ tốt, giác mạc trong."
+    },
+    {
+     "t": "Viêm giác mạc",
+     "n": "Loại trừ: viêm loét giác mạc có tổn thương trên giác mạc (QĐ 40/2015, Viêm màng bồ đào trước, mục 3d). Fluorescein không bắt màu, thị lực 10/10, không đau, chỉ chói nhẹ. Viêm giác mạc chấm biểu mô vẫn có thể xuất hiện sau (QĐ 40/2015 mục 3), nên tái khám."
+    },
+    {
+     "t": "Sởi hoặc sốt xuất huyết (ho, đỏ mắt sau đi xa)",
+     "n": "Không có phát ban, chấm xuất huyết, sốt cao; đã tiêm sởi. Tiêu chuẩn chẩn đoán sởi, sốt xuất huyết: không có trong tài liệu đã tải cho ca này."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích bệnh do virus, tự khỏi trong khoảng 5–14 ngày, không cần kháng sinh",
+     "v": "c",
+     "n": "AAO 2018 (Bảng 1, hàng Adenoviral): tự giới hạn, cải thiện trong 5–14 ngày; mục Treatment – Adenoviral: tránh kháng sinh vì tác dụng phụ. QĐ 40/2015 (Viêm kết mạc cấp, mục 5): thể virus khỏi sau 5–10 ngày."
+    },
+    {
+     "t": "Giảm triệu chứng: chườm lạnh, nước mắt nhân tạo không chất bảo quản; rửa mắt, lau ghèn bằng nước muối sinh lý 0,9%",
+     "v": "c",
+     "n": "AAO 2018 (Treatment – Adenoviral Conjunctivitis): nước mắt nhân tạo hoặc chườm lạnh làm giảm triệu chứng; QĐ 40/2015 (Viêm kết mạc cấp, mục 4b): rửa mắt bằng nước muối sinh lý 0,9% loại ghèn. Số lần nhỏ mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phòng lây: rửa tay bằng xà phòng và nước, khăn riêng, không dụi mắt, không dùng chung đồ; nghỉ học và hạn chế tiếp xúc 10–14 ngày kể từ khi mắt sau cùng khởi phát",
+     "v": "c",
+     "n": "AAO 2018 (Prevention): rửa tay bằng xà phòng, khăn riêng, tránh tiếp xúc gần; Treatment – Adenoviral: 10–14 ngày từ khi khởi phát ở mắt sau cùng [I+, Good, Strong]. Virus tồn tại trên bề mặt tới 28 ngày (Prevention) nên lau khử trùng khăn, gối, tay nắm. Tính theo mắt trái: ngày 12–16 sau lúc mắt phải đỏ."
+    },
+    {
+     "t": "Không cho thuốc ngủ; hỏi lý do mất ngủ rồi xử trí nguyên nhân (cộm xốn, dụi mắt): chườm lạnh trước khi ngủ, nhỏ nước mắt nhân tạo, cắt ngắn móng tay, dặn mẹ giúp nhắc không dụi",
+     "v": "c",
+     "n": "Mất ngủ ở Mai do cộm xốn, dụi mắt; xử trí triệu chứng bằng chườm lạnh, nước mắt nhân tạo (AAO 2018, Treatment – Adenoviral). Thuốc ngủ cho trẻ 12 tuổi: không có trong tài liệu đã tải, không có chỉ định. Giải thích cho mẹ rằng mắt sẽ đỡ dần trong vài ngày và nghe mẹ lo con làm xước mắt."
+    },
+    {
+     "t": "Hỏi và khám em trai Khôi (đỏ mắt hôm qua); dặn không dùng chung khăn, chai thuốc nhỏ mắt",
+     "v": "c",
+     "n": "Lây trong gia đình, nhiều thành viên (AAO 2018, Treatment – Adenoviral). AAO nói chai nhỏ mắt nhiều liều dễ lây chéo nếu chạm bề mặt mắt (Prevention)."
+    },
+    {
+     "t": "Dặn đến ngay nếu đau nhức sâu trong mắt, chói nhiều, nhìn mờ, ghèn mủ vàng xanh nhiều; hẹn tái khám sau 5 ngày; còn đỏ, đau, giảm thị lực sau 2–3 tuần thì khám chuyên khoa mắt",
+     "v": "c",
+     "n": "AAO 2018 (Provider and Setting): chuyển khi mất thị lực, đau vừa-nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng. Treatment – Adenoviral: tái khám nếu còn đỏ, đau, giảm thị lực sau 2–3 tuần. QĐ 40/2015 (mục 5): có thể kéo dài gây viêm giác mạc biểu mô. Mốc 5 ngày do biên tập tự đặt, tài liệu không quy định."
+    },
+    {
+     "t": "Siro ho long đờm: dùng tiếp nếu còn ho, không ảnh hưởng điều trị mắt",
+     "v": "a",
+     "n": "Ho nhẹ đi kèm. Hiệu quả và an toàn của thuốc ho long đờm: không có trong tài liệu đã tải; không tương tác với điều trị mắt (không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Nhỏ kháng sinh (tobramycin) theo phác đồ viêm kết mạc cấp của QĐ 40/2015",
+     "v": "a",
+     "n": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b): tra thuốc kháng sinh nhóm aminoglycosid, fluoroquinolon cho thể chung. Mới hơn, AAO 2018 (Highlighted Findings; Treatment – Adenoviral): thể virus không đáp ứng kháng sinh, tránh dùng bừa. Theo sổ mâu thuẫn: chấp nhận vì là căn cứ hành nghề hợp lệ, không phải đáp án chính. Nhóm fluoroquinolon cho trẻ < 16 tuổi: QĐ 40/2015 mục 4b ghi chống chỉ định (phần toàn thân), nên chọn aminoglycosid nếu dùng."
+    },
+    {
+     "t": "Test nhanh adenovirus tại chỗ để xác nhận (nếu có)",
+     "v": "a",
+     "n": "AAO 2018 (Diagnostic Tests – Viral): độ nhạy 88–89%, đặc hiệu 91–94%. Chẩn đoán lâm sàng đã đủ."
+    },
+    {
+     "t": "Nhỏ corticoid (dexamethasone) để mau hết đỏ, theo lời mẹ nghe mách",
+     "v": "w",
+     "n": "AAO 2018 (Treatment – Adenoviral): corticoid nhỏ chỉ cân nhắc ở thể nặng (phù kết mạc rõ, bong biểu mô, có màng) và phải theo dõi sát, ở động vật có thể kéo dài thải virus; (Highlighted Findings) tránh dùng corticoid bừa. QĐ 40/2015 mục 4b: thận trọng khi dùng corticoid. Mai nhẹ, không có chỉ định."
+    },
+    {
+     "t": "Kê thuốc ngủ (an thần) để bé ngủ",
+     "v": "w",
+     "n": "Không có chỉ định; nguyên nhân mất ngủ là cộm xốn nên xử trí nguyên nhân. Thuốc ngủ ở trẻ 12 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh uống nhóm fluoroquinolon hoặc cephalosporin tiêm cho bé",
+     "v": "h",
+     "n": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b): kháng sinh toàn thân chỉ dùng cho viêm kết mạc lậu cầu, bạch hầu; fluoroquinolon chống chỉ định dưới 16 tuổi. AAO 2018 (Treatment – Bacterial): chỉ dùng toàn thân cho lậu cầu, Chlamydia. Mai là virus, 12 tuổi."
+    },
+    {
+     "t": "Cho đi học lại ngay khi mắt hết ghèn",
+     "v": "w",
+     "n": "Còn khả năng lây trong 10–14 ngày kể từ khi khởi phát (AAO 2018, Treatment – Adenoviral); lớp 7 đã có 3 bạn nghỉ vì đỏ mắt."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc cấp do virus (nghĩ adenovirus), lần lượt hai mắt, ngày thứ 4 mắt phải, ngày thứ 2 mắt trái",
+     "Chưa có tổn thương giác mạc (fluorescein âm tính), thị lực 10/10, không cờ đỏ cần chuyển mắt",
+     "Đã loại trừ viêm màng bồ đào trước, glôcôm góc đóng cấp, viêm giác mạc",
+     "Yếu tố lây: dụi mắt, dùng chung khăn với em trai (6 tuổi, vừa đỏ mắt)",
+     "Mất ngủ do cộm xốn; mẹ lo lắng muốn xin thuốc ngủ",
+     "Ho nhẹ, viêm long đường hô hấp trên, đang dùng siro ho long đờm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: (1) Hỏi bệnh: khởi phát, lần lượt hai mắt, tính chất tiết tố, đau sâu, thị lực, chói, ngứa, kính áp tròng, chấn thương, thuốc, tiếp xúc người đỏ mắt, người nhà bị (AAO 2018, mục History). (2) Khám: thị lực, kết mạc, hột sụn mi, giác mạc nhuộm fluorescein, đồng tử, hạch trước tai (mục Physical Examination). (3) CLS: thường không cần. (4) Chẩn đoán và loại trừ cờ đỏ. (5) Xử trí và phòng lây.",
+     "Vì sao là virus: khởi phát đột ngột sau tiếp xúc người đỏ mắt (nhất là ở trường học), nước mắt loãng, phản ứng dạng hột kết mạc sụn mi, hạch trước tai, sốt nhẹ kèm viêm đường hô hấp trên, hai mắt lần lượt (AAO 2018, Bảng 1 hàng Adenoviral: 'sequentially bilateral'; chấm xuất huyết dưới kết mạc và hạch trước tai là dấu đặc trưng). QĐ 40/2015 (mục 3 thể virus): cộm như có bụi, mi phù, kết mạc cương tụ phù nề, tiết tố trắng, hạch trước tai, sốt nhẹ, thường phát triển thành dịch.",
+     "Vì sao không nghĩ vi khuẩn: thể vi khuẩn tiết tố mủ hoặc nhầy mủ nhiều (AAO 2018, Bảng 1); thể mủ có nhiều tiết tố hình thành rất nhanh sau khi lau (QĐ 40/2015 mục 3). Mai ghèn ít, loãng, lau là hết.",
+     "Vì sao không nghĩ dị ứng: dị ứng cấp có ngứa, bỏng rát, phù nề kết mạc nhiều, nhú ở sụn mi, tiết nhầy, liên quan dị nguyên (QĐ 40/2015, Viêm kết mạc dị ứng cấp tính, mục 3). Mai ít ngứa, không dị ứng, có sốt và hạch trước tai.",
+     "Ba chẩn đoán phải loại trừ. Viêm màng bồ đào trước: cương tụ rìa, tủa sau giác mạc, Tyndall, đau, sợ ánh sáng, nhìn mờ (QĐ 40/2015, Viêm màng bồ đào trước, mục 3a, 3c). Glôcôm góc đóng cấp: đau nhức mắt, nhìn mờ, quầng xanh đỏ, buồn nôn, thị lực giảm nhiều, nhãn áp tăng, đồng tử giãn méo (Glôcôm góc đóng, mục 3a). Viêm giác mạc: có tổn thương trên giác mạc (VMBĐ trước, mục 3d). Mai không đau sâu, không nhìn mờ, đồng tử bình thường, fluorescein âm tính nên cả ba đều bị loại trừ. Mốc cờ đỏ cần chuyển: mất thị lực, đau vừa-nặng, mủ nhiều, tổn thương giác mạc (AAO 2018, Provider and Setting).",
+     "Không có siêu âm: không ảnh hưởng. QĐ 40/2015 chỉ nêu siêu âm để tìm đục dịch kính khi nghi bồ đào (VMBĐ trước, mục 3b). Chẩn đoán dựa vào hỏi bệnh và khám: bài học về dựa vào lâm sàng.",
+     "Vì sao phải hỏi riêng Mai: mẹ trả lời 'không đau' theo cảm nhận của mẹ. Chỉ khi hỏi thẳng Mai mới biết không đau sâu, không nhìn mờ, có dụi mắt và dùng chung khăn. Đây là các dấu hiệu quyết định loại trừ cờ đỏ và phòng lây.",
+     "Vì sao hỏi lý do thật: mẹ đưa con đi khám vì muốn thuốc ngủ cho con ngủ và không dụi mắt, đồng thời cũng để chính mẹ ngủ được. Nếu chỉ kê thuốc nhỏ mắt mà không hỏi mất ngủ thì mẹ ra về vẫn lo và có thể tự cho con thuốc ngủ."
+    ],
+    "phan_tich_xu_tri": [
+     "Không có điều trị đặc hiệu diệt adenovirus; chỉ giảm triệu chứng bằng nước mắt nhân tạo, chườm lạnh (AAO 2018, Treatment – Adenoviral). Rửa mắt bằng nước muối sinh lý 0,9% (QĐ 40/2015, Viêm kết mạc cấp, mục 4b).",
+     "Kháng sinh nhỏ mắt: QĐ 40/2015 (mục 4b) nêu tra kháng sinh nhóm aminoglycosid, fluoroquinolon trong viêm kết mạc cấp; AAO 2018 (mới hơn) nói thể virus không đáp ứng kháng sinh và kháng sinh có thể gây độc, nên tránh. Đáp án theo AAO 2018; cách của QĐ 40 chấm chấp nhận (sổ mâu thuẫn).",
+     "Corticoid nhỏ mắt: chỉ cân nhắc ở thể nặng (phù kết mạc rõ, bong biểu mô, màng) và phải theo dõi sát (AAO 2018, Treatment – Adenoviral). Mai nhẹ nên không dùng.",
+     "Thuốc ngủ: không có chỉ định và không có trong tài liệu đã tải. Nguyên nhân mất ngủ là cộm xốn và dụi mắt nên xử trí nguyên nhân; trấn an mẹ về nguy cơ xước mắt bằng cách cắt móng tay, chườm lạnh trước khi ngủ, nhắc không dụi.",
+     "Phòng lây: rửa tay bằng xà phòng, khăn riêng, tránh tiếp xúc gần 10–14 ngày từ khi khởi phát ở mắt sau cùng; virus còn sống trên bề mặt tới 28 ngày (AAO 2018, Prevention; Treatment – Adenoviral). Hỏi và khám em trai Khôi.",
+     "Hẹn tái khám 5 ngày (mốc do biên tập đặt) để xem diễn tiến; sớm hơn nếu đau nhức, chói, nhìn mờ, ghèn mủ nhiều (AAO 2018, Provider and Setting). Nếu còn đỏ, đau, giảm thị lực sau 2–3 tuần: khám chuyên khoa với đèn khe (AAO 2018, Treatment – Adenoviral).",
+     "Siro ho: tiếp tục nếu còn ho, không ảnh hưởng mắt; hiệu quả thuốc ho long đờm: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước mắt nhân tạo nhỏ mắt, không chất bảo quản",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "1–2 giọt mỗi mắt",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Khi cộm xốn, và trước khi ngủ",
+      "so_ngay": "Trong lúc còn triệu chứng (khoảng 5–14 ngày)",
+      "ghi_chu": "AAO 2018 (Treatment – Adenoviral Conjunctivitis): nước mắt nhân tạo giảm triệu chứng. Số giọt, số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (dung dịch rửa mắt/lau ghèn)",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mắt hoặc lau mi bằng bông sạch, mỗi mắt một bông riêng",
+      "duong": "Rửa mắt",
+      "thoi_diem": "Sáng dậy khi mi dính ghèn, và khi có ghèn",
+      "so_ngay": "Trong lúc còn ghèn",
+      "ghi_chu": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b): rửa mắt bằng nước muối sinh lý 0,9% loại bỏ tiết tố. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Siro ho long đờm (đang dùng)",
+      "ham_luong": "Theo chai đang dùng",
+      "lieu": "Giữ như mẹ đang cho",
+      "duong": "Uống",
+      "thoi_diem": "Theo chỉ dẫn trên chai",
+      "so_ngay": "Đến khi hết ho",
+      "ghi_chu": "Đang dùng, không đổi; không liên quan điều trị mắt. Hiệu quả thuốc ho long đờm: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bệnh đau mắt đỏ do virus, thường tự khỏi trong 5–14 ngày (AAO 2018, Bảng 1); không cần thuốc kháng sinh nhỏ mắt, chỉ giúp bớt khó chịu.",
+     "Chườm lạnh vài phút cho mắt, nhất là trước khi ngủ; nhỏ nước mắt nhân tạo khi cộm xốn; lau ghèn bằng bông sạch tẩm nước muối sinh lý, mỗi mắt một bông, lau từ trong ra ngoài.",
+     "Không dụi mắt; cắt ngắn móng tay cho Mai; mẹ nhắc con khi ngủ.",
+     "Mai chưa cần thuốc ngủ; mắt sẽ dễ chịu dần sau vài ngày. Nếu đêm vẫn khó ngủ hơn vì cộm, mẹ chườm lạnh cho con và gọi lại phòng khám.",
+     "Phòng lây trong nhà: Mai và Khôi dùng khăn mặt riêng, rửa tay bằng xà phòng, không dùng chung gối, khăn, chai thuốc nhỏ mắt; giặt khăn, gối bằng nước nóng và lau tay nắm cửa.",
+     "Mai nghỉ học và hạn chế tiếp xúc gần với người khác 10–14 ngày từ ngày mắt trái bắt đầu đỏ (AAO 2018, Treatment – Adenoviral). Xin cô giáo bài tập về nhà.",
+     "Đưa Mai đến ngay nếu đau nhức sâu trong mắt, chói nhiều, nhìn mờ hay có quầng sáng, ghèn mủ vàng xanh nhiều, hoặc nôn kèm đau đầu (AAO 2018, Provider and Setting).",
+     "Tái khám sau 5 ngày (mốc phòng khám tự đặt, tài liệu đã tải không quy định). Khôi nếu đỏ mắt thì đưa khám."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 5 ngày",
+   "tiep_don": "Tái khám sau 5 ngày (ngày thứ 9 của mắt phải, ngày thứ 7 của mắt trái). Mắt phải đỡ nhiều, mắt trái còn đỏ, nước mắt còn. Sinh hiệu: nhiệt 36,9 °C, mạch 84 l/p, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, mắt phải con bé đỡ nhiều rồi mà mắt trái vẫn đỏ, còn chảy nước. Em sốt ruột quá, thứ Hai nó phải đi học, bác sĩ cho thuốc mạnh hơn cho nó nhanh hết nha.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Mắt phải đỡ rõ từ ngày thứ 6: bớt đỏ, hết ghèn, vẫn còn hơi cộm. Mắt trái còn đỏ, chảy nước, cộm; hôm kia nặng nhất rồi bắt đầu đỡ. Hết sốt, hết ho.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến: mắt phải đỡ, mắt trái còn hoạt động (đỡ một phần)"
+    },
+    {
+     "id": "canh_bao",
+     "noi_dung": "Khi hỏi thẳng Mai: không đau nhức mắt, không sợ chói hơn, nhìn chữ ở lớp vẫn rõ. Không ghèn mủ vàng xanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cờ đỏ: đau, chói, giảm thị lực, mủ (phân biệt hồi phục chậm bình thường với thất bại điều trị)"
+    },
+    {
+     "id": "em_trai",
+     "noi_dung": "Khôi bắt đầu đỏ cả hai mắt từ 3 ngày nay, nước mắt, ít ghèn, vẫn chơi và ăn bình thường, mẹ đang cho nghỉ học mẫu giáo. Mẹ rửa tay và thay khăn riêng cho hai con từ sau lần khám trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lây trong gia đình"
+    },
+    {
+     "id": "giac_ngu",
+     "noi_dung": "Mấy đêm nay Mai ngủ được hơn nhờ chườm lạnh và nhỏ nước mắt nhân tạo; vẫn thức dậy một lần vì cộm. Mẹ bớt lo chuyện thuốc ngủ, nhưng vẫn sợ con dụi trong lúc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Giấc ngủ, đáp ứng xử trí triệu chứng"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ đã giữ Mai ở nhà từ lần khám trước, nhưng thứ Hai tới có kiểm tra giữa kỳ nên mẹ muốn cho đi học vì thấy mắt phải đã đỡ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghỉ học, thời gian lây"
+    },
+    {
+     "id": "ky_vong",
+     "noi_dung": "Mẹ nghe người quen nói phải nhỏ kháng sinh mạnh và 'thuốc có corticoid' mới hết nhanh; mẹ chưa tự mua gì.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yêu cầu thuốc mạnh hơn"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực 10/10 hai mắt. Mắt phải: kết mạc nhãn cầu cương tụ nhẹ, hết phù, hột sụn mi giảm, không ghèn. Mắt trái: cương tụ vừa, phù kết mạc nhẹ, nhiều hột sụn mi, tiết tố loãng trong. Không giả mạc. Giác mạc trong hai mắt. Đồng tử tròn đều, phản xạ ánh sáng tốt.",
+     "k": 1,
+     "hien": "Mắt phải ít đỏ, mắt trái còn đỏ, chảy nước. Thị lực: đọc được hàng nhỏ nhất với mỗi mắt."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhuộm fluorescein: giác mạc hai mắt không bắt màu, không thấy chấm bắt màu, không ổ thâm nhiễm. Chưa thấy thâm nhiễm dưới biểu mô (thường xuất hiện từ 1 tuần trở đi, cần khám đèn khe để thấy rõ).",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước tai phải nhỏ lại, không đau; bên trái sờ thấy nhỏ, di động.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, vui hơn, ăn uống bình thường. Không phát ban.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng hết đỏ, mũi thông.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Hb 128 g/L · BC 6,8 G/L · TC 270 G/L",
+     "n": "Không giúp quyết định xử trí."
+    },
+    "test_adeno": {
+     "v": "a",
+     "r": "Dương tính nhẹ",
+     "n": "Không cần lặp lại."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Không cần: ghèn không mủ, đang cải thiện (AAO 2018, mục Diagnostic Tests – Cultures)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc virus (adenovirus) đang tiến triển bình thường: mắt phải đỡ, mắt trái còn hoạt động; chưa biến chứng giác mạc",
+     "ok": 1,
+     "n": "Mắt trái khởi phát sau mắt phải 2 ngày nên chậm đỡ hơn; diễn tiến tự nhiên 5–14 ngày (AAO 2018, Bảng 1 hàng Adenoviral). Thị lực 10/10, fluorescein âm tính, không đau, không mủ: không có dấu thất bại điều trị."
+    },
+    {
+     "t": "Thất bại điều trị hoặc bội nhiễm vi khuẩn",
+     "n": "Không: không ghèn mủ, không đau, các dấu hiệu giảm dần ở mắt phải; AAO 2018 (Provider and Setting) chỉ chuyển khi không đáp ứng điều trị, mủ nặng, đau, tổn thương giác mạc, mất thị lực. Chưa có dấu nào."
+    },
+    {
+     "t": "Viêm giác mạc / thâm nhiễm dưới biểu mô",
+     "n": "Chưa có: thường xuất hiện từ 1 tuần sau khởi phát, gây mờ, sợ chói, giảm thị lực (AAO 2018, Treatment – Adenoviral). Mai thị lực 10/10, không chói, fluorescein âm tính; vẫn dặn quay lại ngay nếu có."
+    },
+    {
+     "t": "Viêm màng bồ đào, glôcôm cấp",
+     "n": "Vẫn loại trừ: không đau nhức, không nhìn mờ, đồng tử đều, giác mạc trong (QĐ 40/2015, VMBĐ trước mục 3a; Glôcôm góc đóng mục 3a)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích diễn tiến bình thường: mắt thứ hai khởi phát sau 2 ngày nên đỡ chậm hơn; giữ điều trị hỗ trợ (chườm lạnh, nước mắt nhân tạo, rửa mắt bằng nước muối sinh lý), không đổi sang thuốc mạnh",
+     "v": "c",
+     "n": "AAO 2018 (Bảng 1: cải thiện trong 5–14 ngày; Treatment – Adenoviral: không có điều trị đặc hiệu, tránh kháng sinh). QĐ 40/2015 (Viêm kết mạc cấp, mục 5): khỏi sau 5–10 ngày, có thể kéo dài gây viêm giác mạc biểu mô."
+    },
+    {
+     "t": "Tiếp tục nghỉ học; không đi học thứ Hai, đủ 10–14 ngày kể từ lúc mắt trái đỏ (còn khoảng 4–8 ngày); xin hoãn hoặc làm bài kiểm tra sau",
+     "v": "c",
+     "n": "AAO 2018 (Treatment – Adenoviral) [I+, Good, Strong]: 10–14 ngày từ khởi phát ở mắt sau cùng; (Prevention): nhiều người coi 7 ngày là thời gian lây, nhưng nghiên cứu khác cho 10–14 ngày; chọn mức thận trọng. Mắt trái đỏ từ khoảng 6 ngày trước nên còn khoảng 4–8 ngày."
+    },
+    {
+     "t": "Tiếp tục phòng lây: rửa tay xà phòng, khăn riêng, lau khử trùng; khám và hướng dẫn em Khôi",
+     "v": "c",
+     "n": "AAO 2018 (Prevention): rửa tay xà phòng, khăn riêng, tránh tiếp xúc; (Treatment – Adenoviral): lây nhiều thành viên gia đình, lớp học."
+    },
+    {
+     "t": "Soi giác mạc với fluorescein và đo thị lực để loại trừ viêm giác mạc, thâm nhiễm dưới biểu mô",
+     "v": "c",
+     "n": "AAO 2018 (Treatment – Adenoviral): khám lại tìm thâm nhiễm dưới biểu mô, thường 1 tuần trở đi; (Physical Examination): dye-staining pattern. Đã làm, kết quả bình thường."
+    },
+    {
+     "t": "Dặn đến ngay nếu mờ, chói, đau, ghèn mủ; còn đỏ, đau, giảm thị lực sau 2–3 tuần thì khám chuyên khoa mắt bằng đèn khe",
+     "v": "c",
+     "n": "AAO 2018 (Treatment – Adenoviral): tái khám nếu còn triệu chứng sau 2–3 tuần, có thị lực và đèn khe; (Provider and Setting) tiêu chí chuyển."
+    },
+    {
+     "t": "Chuyển khám chuyên khoa mắt để soi đèn khe cho yên tâm",
+     "v": "a",
+     "n": "Không bắt buộc: đang diễn tiến bình thường, không cờ đỏ (AAO 2018, Provider and Setting). Chuyển thêm không gây hại."
+    },
+    {
+     "t": "Nhỏ kháng sinh (tobramycin) tiếp",
+     "v": "a",
+     "n": "QĐ 40/2015 mục 4b nêu, nhưng AAO 2018 (Highlighted Findings; Treatment – Adenoviral) tránh vì không hiệu quả ở thể virus và có thể độc. Chấp nhận theo sổ mâu thuẫn, không phải đáp án chính."
+    },
+    {
+     "t": "Nhỏ corticoid để mau hết đỏ trước khi đi học",
+     "v": "w",
+     "n": "AAO 2018: corticoid nhỏ chỉ cho thể nặng, theo dõi sát, có thể kéo dài thải virus và khó phân biệt viêm giác mạc dưới biểu mô; Mai nhẹ, đang đỡ. QĐ 40/2015 mục 4b: thận trọng với corticoid."
+    },
+    {
+     "t": "Cho đi học thứ Hai vì mắt phải đã đỡ",
+     "v": "w",
+     "n": "Mắt trái vẫn còn hoạt động; còn lây (AAO 2018, Treatment – Adenoviral: 10–14 ngày từ mắt sau cùng)."
+    },
+    {
+     "t": "Kê thuốc ngủ cho bé",
+     "v": "w",
+     "n": "Không có chỉ định; đã ngủ được hơn nhờ xử trí triệu chứng. Thuốc ngủ ở trẻ: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc virus (adenovirus), diễn tiến bình thường: mắt phải đỡ rõ, mắt trái còn hoạt động",
+     "Không biến chứng giác mạc (fluorescein âm tính, thị lực 10/10); chưa có thâm nhiễm dưới biểu mô",
+     "Không có dấu thất bại điều trị hay bội nhiễm: không mủ, không đau, không chói",
+     "Còn lây: em trai Khôi đã đỏ mắt",
+     "Lo lắng của mẹ về việc nghỉ học, kiểm tra giữa kỳ"
+    ],
+    "phan_tich_chan_doan": [
+     "Đỡ một phần là hình ảnh bình thường của thể virus: tự khỏi trong 5–14 ngày (AAO 2018, Bảng 1). Mắt trái khởi phát sau mắt phải 2 ngày nên đỉnh bệnh và hồi phục cũng muộn hơn.",
+     "Phân biệt hồi phục chậm bình thường với thất bại điều trị bằng 4 điểm: thị lực còn 10/10, không đau hoặc chói tăng, giác mạc không bắt màu fluorescein, không có ghèn mủ mới. Không có điểm nào xấu đi nên không đổi chẩn đoán (AAO 2018, Provider and Setting: chuyển khi mất thị lực, đau, mủ nặng, tổn thương giác mạc, không đáp ứng).",
+     "Cần cảnh giác sau 1 tuần: thâm nhiễm dưới biểu mô giác mạc thường xuất hiện từ tuần thứ hai, gây mờ, chói; nhẹ thì theo dõi, nặng thì corticoid liều tối thiểu do chuyên khoa quyết định (AAO 2018, Treatment – Adenoviral). Mai chưa có.",
+     "Không đổi sang viêm kết mạc vi khuẩn: ghèn không mủ, giảm dần (QĐ 40/2015 mục 3; AAO 2018, Bảng 1).",
+     "Hỏi riêng Mai lần nữa để chắc chắn: mẹ nói 'vẫn bình thường', còn Mai là người biết mình có chói, đau, nhìn mờ hay không."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ điều trị hỗ trợ: nước mắt nhân tạo, chườm lạnh, rửa mắt bằng nước muối sinh lý 0,9% (AAO 2018, Treatment – Adenoviral; QĐ 40/2015, Viêm kết mạc cấp, mục 4b). Không có thuốc làm bệnh khỏi nhanh hơn (AAO 2018: không có điều trị chứng minh hiệu quả diệt adenovirus).",
+     "Không thêm kháng sinh hay corticoid: kháng sinh không có tác dụng với virus và có thể gây độc; corticoid chỉ cho thể nặng và cần theo dõi sát (AAO 2018, Highlighted Findings; Treatment – Adenoviral). Kháng sinh nhỏ theo QĐ 40/2015 mục 4b: chấp nhận (sổ mâu thuẫn).",
+     "Nghỉ học tiếp: 10–14 ngày từ lúc mắt sau cùng khởi phát (AAO 2018, Treatment – Adenoviral). Mẹ đòi đi học thứ Hai vì thi giữa kỳ: không đồng ý nhưng giải thích bằng số ngày cụ thể và đề nghị làm giấy cho nhà trường; AAO nói bác sĩ thường phải cân đối yêu cầu đi học với y tế công cộng.",
+     "Em trai Khôi: hướng dẫn rửa mắt nước muối, không dụi, khăn riêng; đưa khám nếu đau, mờ, mủ.",
+     "Tái khám: nếu sau 2–3 tuần vẫn đỏ, đau hoặc giảm thị lực thì khám đèn khe, đo thị lực (AAO 2018, Treatment – Adenoviral); sớm hơn nếu mờ, chói, đau."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước mắt nhân tạo nhỏ mắt, không chất bảo quản",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "1–2 giọt mỗi mắt",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Khi cộm xốn, và trước khi ngủ",
+      "so_ngay": "Tới khi hết cộm xốn",
+      "ghi_chu": "Giữ nguyên như lượt 1. AAO 2018 (Treatment – Adenoviral Conjunctivitis). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (rửa mắt)",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mắt hoặc lau mi bằng bông sạch",
+      "duong": "Rửa mắt",
+      "thoi_diem": "Khi có ghèn hoặc dính mi buổi sáng",
+      "so_ngay": "Tới khi hết ghèn",
+      "ghi_chu": "Giữ nguyên. QĐ 40/2015 (Viêm kết mạc cấp, mục 4b). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Mắt phải đỡ, mắt trái còn đỏ là bình thường vì mắt trái đỏ sau 2 ngày; bệnh tự khỏi trong 5–14 ngày (AAO 2018, Bảng 1). Không cần đổi thuốc hay thuốc mạnh.",
+     "Tiếp tục chườm lạnh, nước mắt nhân tạo, lau ghèn bằng nước muối sinh lý. Không dụi mắt.",
+     "Mai chưa đi học thứ Hai. Nghỉ đủ 10–14 ngày kể từ khi mắt trái bắt đầu đỏ, tức còn khoảng 4–8 ngày (AAO 2018, Treatment – Adenoviral); phòng khám có thể làm giấy cho nhà trường để hoãn kiểm tra.",
+     "Hai chị em, và cả nhà, rửa tay xà phòng, khăn riêng; Khôi nếu nặng lên (đau, mờ, mủ) thì đưa khám.",
+     "Đưa Mai đến ngay nếu đau nhức, chói nhiều, nhìn mờ, ghèn mủ vàng xanh.",
+     "Sau 2–3 tuần mà còn đỏ, đau, nhìn kém thì khám chuyên khoa mắt đo thị lực và soi đèn khe (AAO 2018, Treatment – Adenoviral). Nếu mọi thứ hết, không cần tái khám."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Mai chỉ cần chườm lạnh, nước mắt nhân tạo và rửa mắt bằng nước muối sinh lý. Ngày thứ 12 sau lúc mắt phải đỏ, hai mắt hết đỏ, giác mạc trong, không có thâm nhiễm dưới biểu mô, thị lực 10/10. Em trai Khôi đỏ mắt nhẹ rồi tự khỏi. Mai nghỉ học đủ 14 ngày kể từ lúc mắt trái đỏ rồi đi học lại; không cần thuốc ngủ, không cần kháng sinh hay corticoid nhỏ mắt.",
+ "nhieu": [
+  "Thân nhân trả lời thay: mẹ trả lời thay Mai nên các dấu hiệu cần chính bé nói (đau sâu trong mắt, sợ chói, nhìn mờ, dụi mắt, dùng chung khăn) chỉ có khi hỏi thẳng Mai.",
+  "Siro ho long đờm mẹ mua cho Mai: ho nhẹ do viêm long đường hô hấp trên đi kèm, không liên quan chẩn đoán mắt; không cần can thiệp.",
+  "Chuyến du lịch 'vùng dịch': yếu tố dịch tễ gợi ý lây từ người đỏ mắt, nhưng cũng khiến dễ nghĩ sang bệnh nhiễm khác (sởi, sốt xuất huyết); không ban, không sốt cao nên không đúng.",
+  "Không có siêu âm: không cản trở chẩn đoán vì viêm kết mạc dựa vào hỏi bệnh, thị lực và khám mắt (đèn pin/đèn khe, fluorescein)."
+ ],
+ "bai_hoc_bien": [
+  "Thân nhân trả lời thay: tách bé ra hỏi riêng những dấu hiệu cờ đỏ của mắt (đau sâu, sợ chói, nhìn mờ), vì mẹ trả lời theo cảm nhận của mẹ.",
+  "Lý do thật là xin thuốc ngủ: hỏi 'đêm qua bé ngủ thế nào, chị đang lo điều gì nhất' mới ra. Bé mất ngủ vì cộm xốn, dụi mắt trong lúc ngủ; xử trí nguyên nhân (chườm lạnh, nước mắt nhân tạo, cắt móng tay) chứ không cho thuốc ngủ. Tài liệu đã tải không có chỉ định thuốc ngủ cho trẻ.",
+  "Viêm kết mạc virus không dùng kháng sinh nhỏ mắt, không dùng corticoid tùy tiện (AAO Conjunctivitis PPP 2018). QĐ 40/2015 có phác đồ nhỏ kháng sinh: chấp nhận nhưng không phải đáp án chính (xem sổ mâu thuẫn).",
+  "Đỡ một phần ở lượt 2: mắt thứ hai khởi phát sau mắt thứ nhất 2 ngày nên còn đỏ khi mắt đầu đã đỡ; diễn tiến tự nhiên 5–14 ngày. Phân biệt hồi phục chậm bình thường với thất bại điều trị bằng 4 dấu: thị lực, đau/sợ chói, nhuộm fluorescein giác mạc, ghèn mủ.",
+  "Phòng lây là điều trị: rửa tay bằng xà phòng, khăn riêng, nghỉ học đủ 10–14 ngày kể từ lúc mắt sau cùng khởi phát; hỏi em trai và người nhà."
+ ],
+ "diem_nho": [
+  "Viêm kết mạc adenovirus: khởi phát đột ngột, một hoặc hai mắt (thường lần lượt), nước mắt, hột kết mạc sụn mi dưới, hạch trước tai; tự khỏi trong 5–14 ngày (AAO Conjunctivitis PPP 2018, Bảng 1, hàng Adenoviral).",
+  "Viêm kết mạc virus theo QĐ 40/2015 (Viêm kết mạc cấp, mục 3): cộm như có bụi, mi phù, kết mạc cương tụ phù nề, tiết tố trắng hoặc hồng, hạch trước tai, sốt nhẹ; khỏi sau 5–10 ngày (mục 5).",
+  "Không có điều trị đặc hiệu: nước mắt nhân tạo, chườm lạnh giảm triệu chứng; tránh kháng sinh (AAO 2018, mục Treatment – Adenoviral Conjunctivitis).",
+  "Lây: rửa tay bằng xà phòng và nước, khăn riêng, tránh tiếp xúc gần 10–14 ngày từ khi khởi phát ở mắt sau cùng (AAO 2018, mục Prevention; Treatment – Adenoviral).",
+  "Chuyển chuyên khoa mắt khi: mất thị lực, đau vừa hoặc nặng, ghèn mủ nhiều, tổn thương giác mạc, không đáp ứng điều trị (AAO 2018, mục Provider and Setting).",
+  "Phân biệt đỏ mắt nguy hiểm: viêm màng bồ đào trước có cương tụ rìa, đau, sợ ánh sáng, nhìn mờ (QĐ 40/2015, Viêm màng bồ đào trước cấp tính, mục 3a); glôcôm góc đóng cấp đau nhức mắt, quầng xanh đỏ, đồng tử giãn méo, thị lực giảm nhiều (QĐ 40/2015, Glôcôm góc đóng nguyên phát, mục 3a)."
+ ],
+ "nguon": [
+  "AAO – Conjunctivitis Preferred Practice Pattern 2018 (Ophthalmology 2019;126(1):P94-P169) – TL-0266 – ĐÃ ĐỌC: Highlighted Findings; Bảng 1 (hàng Adenoviral, Allergic, Bacterial); Care Process – History, Physical Examination, Diagnostic Tests; Prevention; Treatment – Adenoviral Conjunctivitis, Bacterial Conjunctivitis, Seasonal Allergic Conjunctivitis; Provider and Setting; Counseling and Referral",
+  "BYT – QĐ 40/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – TL-0242 – ĐÃ ĐỌC: Viêm kết mạc cấp (mục 1–6); Viêm kết mạc dị ứng cấp tính (mục 3d, 4); Bệnh viêm màng bồ đào trước cấp tính (mục 3, 4); Glôcôm góc đóng nguyên phát (mục 3a)",
+  "Lưu ý nguồn: TL-0555 trong kho (ghi là AAO Conjunctivitis PPP 2023) thực chất là Dry Eye Syndrome PPP; không dùng. Bản Conjunctivitis PPP mới hơn 2018 chưa có trong kho."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (12/10/2026) – viết: Sonnet. Tài liệu đã đọc: TL-0266 (AAO Conjunctivitis PPP 2018), TL-0242 (QĐ 40/2015) các mục ghi trong nguon.",
+  "Thiếu trong tài liệu đã tải: tần suất nhỏ nước mắt nhân tạo mỗi ngày; thuốc ngủ/an thần cho trẻ 12 tuổi; hiệu quả thuốc ho long đờm; tần suất glôcôm cấp ở trẻ em; tiêu chuẩn sởi; dạng thuốc nước mắt nhân tạo tại Việt Nam.",
+  "Mâu thuẫn: QĐ 40/2015 (nhỏ kháng sinh trong viêm kết mạc cấp) khác AAO 2018 (tránh kháng sinh trong thể virus): đáp án theo AAO 2018 vì mới hơn; cách QĐ 40 chấm a. Fluoroquinolon uống ở trẻ < 16 tuổi: chống chỉ định (QĐ 40/2015 mục 4) nên chấm h.",
+  "AAO 2018 có hai mốc lây khác nhau: 7 ngày (mục Prevention) và 10–14 ngày (Treatment – Adenoviral, mức [I+, Good, Strong]); ca chọn 10–14 ngày vì thận trọng hơn và có mức khuyến cáo.",
+  "Mục khám/CLS mới đề xuất: giac_mac_fluorescein, nhan_ap (khám); test_adeno, phet_ket_mac (CLS)."
+ ]
+}
