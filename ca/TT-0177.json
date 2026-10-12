@@ -1,0 +1,677 @@
+{
+ "ma_ca": "TT-0177",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-11)",
+ "benh": "TT_roi_loan_hoang_so",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn hoảng sợ",
+  "chan_doan_phai_loai_tru": [
+   "Hội chứng vành cấp",
+   "Cường giáp",
+   "Loạn nhịp"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Kế toán",
+  "yeu_to_khoi_phat": "Sau uống rượu bia",
+  "thuoc_dang_dung": "Kháng sinh theo toa cũ",
+  "ly_do_that_su_den_kham": "Bạn bè có bệnh tương tự"
+ },
+ "benh_nhan": {
+  "ten": "Võ Minh Quân",
+  "tuoi": 27,
+  "gioi": "Nam",
+  "nghe": "Kế toán tổng hợp (công ty thương mại)",
+  "can_nang": 66,
+  "chieu_cao": 171,
+  "xung_ho": "Bác sĩ gọi anh là 'em' hoặc 'anh Quân'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Kế toán, cẩn thận, chi li từng đồng, hay tra Google nhưng ngại nói chuyện cảm xúc. Nói ngắn, đúng số liệu ('khoảng 6 cơn trong 5 tuần'). Bề ngoài bình tĩnh, bên trong sợ mình bị bệnh tim giống bạn thân.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: cuối tháng, trong ví chỉ còn khoảng 300 nghìn. Hỏi giá từng xét nghiệm, tính nhẩm tổng, từ chối xét nghiệm nào bác sĩ không giải thích được vì sao cần. Chịu làm khi nghe rõ xét nghiệm đó đổi được quyết định. Không nói thẳng 'em không có tiền' mà nói 'em muốn làm cái nào thật cần thôi'.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a985",
+   "toc": "#1d1512",
+   "kieuToc": "ngan",
+   "ao": "#8fa3b8",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Hồi hộp, tức ngực từng cơn",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 27 tuổi, kế toán tổng hợp, đến khám vì hồi hộp, tức ngực từng cơn khoảng 5 tuần nay. Đi một mình, nói ví chỉ mang theo ít tiền. Sinh hiệu lúc tiếp đón: mạch 88 l/p, HA 122/76 mmHg, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Chào bác sĩ. Dạo này em hay bị hồi hộp, tức ngực từng cơn, ngồi họp cũng bị. Em muốn kiểm tra tim thôi. Bác sĩ cho em hỏi từng xét nghiệm giá bao nhiêu, em mang theo hơi ít, em chỉ làm cái nào thật cần.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "122/76",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hồi hộp, tức ngực từng cơn khoảng 5 tuần nay. Muốn kiểm tra tim, nhưng 'em muốn làm cái nào thật cần thôi'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "ngan_sach",
+     "noi_dung": "Cuối tháng, trong ví còn khoảng 300 nghìn đồng, không có bảo hiểm y tế đúng tuyến. Hỏi giá từng xét nghiệm và tính nhẩm tổng.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Ngân sách giới hạn, buộc xếp ưu tiên xét nghiệm"
+    },
+    {
+     "id": "con",
+     "noi_dung": "Mỗi cơn đột ngột: tim đập mạnh, vã mồ hôi, run, thấy như bị bóp nghẹt ngực, khó thở, tê đầu ngón tay và quanh miệng, sợ mình sắp chết hoặc ngất. Lên đỉnh sau chừng 10 phút, cả cơn khoảng 20–30 phút rồi hết hẳn, giữa các cơn khỏe. Khoảng 6 cơn trong 5 tuần, 2 tuần gần đây dày hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm cơn hoảng sợ"
+    },
+    {
+     "id": "khong_gang_suc",
+     "noi_dung": "Cơn không liên quan gắng sức: chạy xe máy, leo 4 tầng không lên cơn. Cơn xảy ra lúc ngồi họp, lúc nằm xem điện thoại, một lần thức dậy lúc 3 giờ sáng. Đau kiểu nặng, thắt giữa ngực, không lan tay hay hàm, không đổi theo hít sâu hay tư thế.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn không do gắng sức, không lan"
+    },
+    {
+     "id": "ruou_khoi_phat",
+     "noi_dung": "Cơn đầu tiên 5 tuần trước, khoảng 3 giờ sáng sau đêm nhậu tất niên của công ty (khoảng 10 lon bia). Trong 6 cơn, 3 cơn xảy ra sau ngày uống bia, 3 cơn không dính đến rượu bia (giữa buổi họp, ban ngày).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau uống rượu bia nhưng cơn vẫn tái diễn khi không uống"
+    },
+    {
+     "id": "luong_ruou",
+     "noi_dung": "Uống bia cuối tuần và khi tiếp khách, khoảng 4–5 lon mỗi lần, 1–2 lần mỗi tuần. Không uống buổi sáng, không run tay khi nhịn, không từng co giật, không muốn uống thêm để bớt lo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng rượu, không có dấu hiệu lệ thuộc"
+    },
+    {
+     "id": "tranh_ne",
+     "noi_dung": "Sau cơn, lúc nào cũng lo 'sẽ lên cơn nữa'. Hơn một tháng nay tránh họp đông, tránh ngồi giữa phòng, không dám đi thang máy một mình, ra khỏi nhà phải nhìn trước chỗ có thể ra ngay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo cơn tái phát và hành vi né tránh trên 1 tháng"
+    },
+    {
+     "id": "dong_ho",
+     "noi_dung": "Đồng hồ thông minh ghi mạch 108–112 lần/phút trong cơn, tăng dần trong vài phút rồi giảm dần, không có lúc nhảy vọt hay tụt đột ngột. Mạch lúc nghỉ chừng 70–80.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhịp tim tăng dần, không bắt đầu và kết thúc đột ngột"
+    },
+    {
+     "id": "khong_cuong_giap",
+     "noi_dung": "Không sụt cân, ăn uống bình thường, không sợ nóng, không đi ngoài nhiều, không thấy cổ to. Ngủ được giữa các cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có hội chứng cường giáp"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Hai tháng trước khám họng, được kê amoxicillin–clavulanat 625 mg, uống chưa hết. Ba hôm nay tự uống 1 viên ×2 lần/ngày vì 'nóng rát họng, sợ nhiễm trùng lên tim'. Không sốt, không ho, họng chỉ hơi khô.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Kháng sinh toa cũ tự dùng lại, không có chỉ định"
+    },
+    {
+     "id": "ban",
+     "noi_dung": "Anh Hưng, bạn thân cùng tuổi, đồng nghiệp cũ, mới đặt stent mạch vành sau cơn đau ngực, nằm viện đúng tuần trước khi Quân lên cơn đầu. Quân sợ mình cũng bị bệnh tim và 'chết bất ngờ như vậy'. Chính anh Hưng bảo đi khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nếu chỉ hỏi chung 'em lo gì', Quân trả lời 'chỉ muốn kiểm tra thôi'. Chỉ kể khi bác sĩ hỏi vì sao hôm nay quyết định đi khám, hoặc có ai quen bị bệnh giống vậy, hoặc em sợ mình bị bệnh gì.",
+     "k": 1,
+     "y": "Động cơ thật: sợ bệnh tim như bạn thân"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không bệnh tim, hen, tiểu đường, động kinh. Cha tăng huyết áp, không ai trong nhà đột tử hay bệnh tim sớm. Không hút thuốc, không dùng chất kích thích, không thuốc thông mũi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, yếu tố nguy cơ tim mạch"
+    },
+    {
+     "id": "cafe",
+     "noi_dung": "Hai ly cà phê mỗi ngày, cuối quý thêm 1 lon nước tăng lực. Đang chạy quyết toán quý nên căng thẳng, ngủ ít.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Caffeine, căng thẳng công việc"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Khí sắc bình thường, vẫn thấy vui khi đi chơi, không nghĩ đến chuyện tự làm hại mình. Ngủ được, ăn được.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không trầm cảm, không ý tưởng tự sát"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi căng, nói nhanh. Da ấm, khô, không vã mồ hôi lúc khám. BMI 22,6.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Dáng vẻ gọn gàng, hợp tác. Khí sắc bình thường, hơi lo lắng khi nói về cơn. Lời nói mạch lạc, không hoang tưởng, không ảo giác. Nhận thức đủ, thấy rõ mình cần khám nhưng 'sợ mà không kiểm soát được'. Không ý tưởng tự sát.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói mạch lạc, hơi căng thẳng."
+    },
+    "dau_mat_co": {
+     "a": "Không bướu giáp, không nhân giáp sờ được, không lồi mắt, không co cơ mi, không hạch cổ.",
+     "k": 1
+    },
+    "run_nghi": {
+     "a": "Hai tay giơ thẳng không run, không rung giật cơ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3, không tiếng cọ. Không phù chân, tĩnh mạch cổ không nổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Lồng ngực cân đối. Rì rào phế nang rõ hai bên, không ran. Nhịp thở 18 l/p, không co kéo. Ấn thành ngực không đau.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, hai phổi thông khí đều.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 88 l/p, trục trung gian, PR 150 ms, QRS 90 ms, không sóng delta. QTc 410 ms. Không ST chênh, không sóng T đảo, không sóng Q bệnh lý.",
+     "n": "Cần: loại biến đổi thiếu máu cục bộ và đường dẫn phụ/loạn nhịp tại chỗ với 50.000 đ, có kết quả ngay (ESC 2023 Hình 5: ECG trong 10 phút khi nghi ACS; ESC 2019 SVT mục 8: SVT có thể bị nhầm là hoảng sợ, ECG 12 chuyển đạo là bắt buộc)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 1,9 mUI/L · FT4 15 pmol/L (trong giới hạn bình thường).",
+     "n": "Loại cường giáp (ATA 2016 mục B2: TSH nhạy và đặc hiệu nhất, dùng làm xét nghiệm sàng lọc đầu; Canada 2014 Bảng 7: TSH nằm trong xét nghiệm nền khi cần). Đắt nhất trong số tiền mang theo nhưng đổi quyết định: nếu bất thường thì đây là cường giáp chứ không phải hoảng sợ."
+    },
+    "glu": {
+     "v": "a",
+     "r": "4,9 mmol/L",
+     "n": "Rẻ (25.000 đ), phù hợp vì cơn có thể giống hạ đường huyết sau đêm uống bia (Canada 2014, mục Panic disorder: hạ đường huyết trong các bệnh cơ thể gây triệu chứng hoảng sợ). Không làm cũng không trừ điểm."
+    },
+    "trop": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "150.000 đ không đổi quyết định: 27 tuổi, không yếu tố nguy cơ, cơn không liên quan gắng sức, ECG bình thường, không đau lúc khám. HEART H-E-A-R = 0 (Backus 2013 Bảng 1: 0+0+≤45 tuổi+0), điểm 0–3 là nguy cơ thấp nhưng thang tính cả troponin nên chỉ để hỗ trợ. Có dấu hiệu mới thì quay lại làm. Ngưỡng 'xác suất bao nhiêu thì không cần troponin' không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Canada 2014 Bảng 7 liệt kê công thức máu 'khi cần'. Không có thiếu máu hay nhiễm trùng trên lâm sàng; ưu tiên ngân sách cho ECG và TSH."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Canada 2014 Bảng 7 liệt kê điện giải 'khi cần'. Không nôn, tiêu chảy hay dùng lợi tiểu; có thể làm sau nếu có thêm tiền hoặc triệu chứng gợi ý."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "250.000 đ vượt ngân sách và không đổi quyết định khi ECG, khám tim bình thường. ESC 2019 SVT mục 8 cần siêu âm tim khi đã xác định SVT, ở đây chưa có bằng chứng SVT."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Cơ sở không có X-quang.",
+     "n": "Không cần: SpO₂ 99%, phổi nghe bình thường, đau không theo nhịp thở, không đau màng phổi. Tràn khí màng phổi tự phát ở nam trẻ gầy thường khởi phát đột ngột kèm khó thở kéo dài chứ không từng cơn tự hết; nếu nghi thì dùng siêu âm phổi tại giường hoặc chuyển tuyến. (Nhận định lâm sàng của biên tập, không có trong tài liệu đã tải.)"
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ (chưa có agoraphobia rõ), mức vừa, khởi phát sau đêm uống bia",
+     "ok": 1,
+     "n": "Cơn hoảng sợ tái diễn không báo trước (≥4 triệu chứng, lên đỉnh trong vài phút) và ≥1 cơn kèm lo cơn tái phát hoặc thay đổi hành vi kéo dài ≥1 tháng, không do chất hay bệnh cơ thể (Canada 2014 Bảng 11, 12; DSM-5). Nhận diện sớm: bệnh nhân thường sợ mình bị nhồi máu cơ tim (WFSBP 2022 Bảng 5). Rượu bia là yếu tố khởi phát, không phải nguyên nhân duy nhất vì 3/6 cơn không dính rượu."
+    },
+    {
+     "t": "Hội chứng vành cấp",
+     "n": "27 tuổi, không yếu tố nguy cơ, không tiền sử gia đình sớm; cơn không do gắng sức, không lan, tự hết sau 20–30 phút; ECG bình thường; không đau lúc khám. HEART H-E-A-R = 0 (Backus 2013 Bảng 1). Không làm troponin do chi phí và xác suất rất thấp. Quay lại ngay nếu đau kéo dài trên 20 phút, đau khi gắng sức, vã mồ hôi lạnh với ECG đổi (ESC 2023 Hình 5)."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Không sụt cân, không sợ nóng, không bướu giáp, không lồi mắt, không run tay; TSH 1,9 và FT4 15 bình thường (ATA 2016 mục B2). ATA 2016 (phần biểu hiện lâm sàng): tăng hoạt adrenergic gây tim nhanh và lo âu, nên khi nghi vẫn cần TSH; ở đây TSH bình thường."
+    },
+    {
+     "t": "Loạn nhịp (nhịp nhanh trên thất, rung nhĩ)",
+     "n": "Cơn mạch tăng dần (108–112 theo đồng hồ), không bắt đầu và dừng đột ngột; ECG xoang, PR bình thường, không sóng delta (ESC 2019 SVT mục 8, 9.1.1). Không có Holter nên theo dõi có mốc: nếu có cơn tim đều, nhanh, bắt đầu và dừng đột ngột hoặc cảm giác đập ở cổ ('dấu ếch'), ghi ECG ngay trong cơn rồi tái khám."
+    },
+    {
+     "t": "Lo âu do rượu bia (hangover, cai rượu nhẹ) hoặc rối loạn sử dụng rượu",
+     "n": "Cơn đầu xảy ra sáng sau uống nặng nhưng 3 cơn sau không dính rượu; uống 1–2 lần/tuần, không uống sáng, không run tay, không co giật. Mức uống 4–5 lon/lần vượt ngưỡng ít nguy cơ (Canada 2026 Bảng 1, khuyến cáo 1, 3: hỏi mọi bệnh nhân, đánh giá khi vượt ngưỡng) nên cần tư vấn giảm."
+    },
+    {
+     "t": "Rối loạn lo âu lan tỏa",
+     "n": "Lo âu lan tỏa, dai dẳng, thường kéo dài khoảng 6 tháng (QĐ 2058/2020 Bài 22 mục 3.1.1). Ở đây lo xuất hiện thành cơn đột ngột lên đỉnh trong vài phút và lo chính là sợ cơn tái phát."
+    },
+    {
+     "t": "Tác dụng phụ hoặc bệnh do amoxicillin–clavulanat",
+     "n": "Triệu chứng là cơn, không phải liên tục; không dị ứng, không tiêu chảy, không sốt. Kháng sinh tự dùng lại không có chỉ định, cần ngưng (WHO AWaRe 2022 Bảng 2.3: tránh dùng kháng sinh còn thừa)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích bằng lời đơn giản: đây là cơn hoảng sợ, không phải nhồi máu; ECG và TSH bình thường; cho tờ thông tin viết tay về cơn hoảng sợ",
+     "v": "c",
+     "n": "Giải thích cơ chế triệu chứng cơ thể và lo âu trước khi điều trị (WFSBP 2022 mục Treatment: General principles); người đến khám vì cơn hoảng sợ cần được phát thông tin bằng văn bản (NICE CG113 2011, khuyến cáo 1.3.6). Nên đáp trực tiếp nỗi sợ giống bạn thân."
+    },
+    {
+     "t": "Bắt đầu sertralin 25 mg (nửa viên 50 mg) mỗi sáng sau ăn trong 7 ngày đầu, dự kiến tăng 50 mg nếu dung nạp",
+     "v": "c",
+     "n": "SSRI là thuốc đầu tay cho rối loạn hoảng sợ (WFSBP 2022 Bảng 9, LoE A/RG 1; mhGAP 2023 ANX1; NICE CG113 1.3.25: SSRI đã được cấp phép cho hoảng sợ, sertralin nằm trong danh sách). Khởi liều thấp, tăng chậm (NICE 1.3.27); bệnh nhân hoảng sợ nhạy với bồn chồn lúc đầu (WFSBP 2022 trang 86). Liều đích sertralin 50–200 mg/ngày (WFSBP 2022 Bảng 7; QĐ 2058/2020 Bài 22 mục 4.3). Con số 25 mg và 7 ngày không có trong tài liệu đã tải, là quyết định của người biên tập theo 'nửa liều hoặc ít hơn' (WFSBP trang 86)."
+    },
+    {
+     "t": "Báo trước tác dụng phụ đầu điều trị (bồn chồn, buồn nôn, mất ngủ, tăng lo thoáng qua), thuốc 4–12 tuần mới đủ tác dụng, không ngưng đột ngột",
+     "v": "c",
+     "n": "NICE CG113 1.3.23, 1.3.24, 1.3.30; Canada 2014 phần tóm tắt Panic disorder: 4–12 tuần để thuốc đầu tay có tác dụng."
+    },
+    {
+     "t": "Báo nguy cơ ý nghĩ tự hại ở người dưới 30 tuổi dùng SSRI và hẹn gặp lại trong 1 tuần",
+     "v": "c",
+     "n": "NICE CG113 1.2.30 (được 1.3.22 dẫn lại): dưới 30 tuổi cảnh báo, gặp lại trong 1 tuần, theo dõi nguy cơ hàng tuần trong tháng đầu."
+    },
+    {
+     "t": "Hướng dẫn CBT ngắn dạng tự học có hướng dẫn hoặc trực tuyến (rẻ, làm tại nhà), tập thư giãn thở chậm và tập thể dục đều đặn",
+     "v": "c",
+     "n": "mhGAP 2023 ANX2 (CBT ngắn, mạnh), ANX3 (nhiều hình thức, có tự học có hướng dẫn), ANX4, ANX5; NICE CG113 1.3.9, 1.3.11. Gói CBT đầy đủ 7–14 giờ (NICE 1.3.15) chưa thực tế với ngân sách và thời gian của bệnh nhân."
+    },
+    {
+     "t": "Hỏi lượng rượu, tư vấn ngưng uống nhiều trong thời gian điều trị, bỏ nước tăng lực, giảm cà phê",
+     "v": "c",
+     "n": "Canada 2026 khuyến cáo 3, 4 (vượt ngưỡng thì đánh giá nguy cơ và tư vấn cắt giảm); QĐ 2058/2020 Bài 22 mục 4.1: tránh lạm dụng rượu; Canada 2014 mục Panic disorder: cơn hoảng sợ có thể liên quan caffeine, chất kích thích, rượu."
+    },
+    {
+     "t": "Ngưng amoxicillin–clavulanat còn thừa, không tự dùng lại kháng sinh",
+     "v": "c",
+     "n": "Họng chỉ khô, không sốt, không ho: không có chỉ định kháng sinh. WHO AWaRe 2022 Bảng 2.3: bệnh nhân tránh dùng kháng sinh còn thừa."
+    },
+    {
+     "t": "Kê benzodiazepin (diazepam, alprazolam…) dùng đều hằng ngày để chữa hoảng sợ",
+     "v": "w",
+     "n": "mhGAP 2023 ANX6: không khuyến cáo benzodiazepin cho hoảng sợ (mạnh); NICE CG113 1.3.20: kết quả dài hạn kém hơn, không nên kê; Joint 2025: nguy cơ tăng khi phối hợp chất ức chế thần kinh trung ương như rượu, mà bệnh nhân uống bia 4–5 lon/lần. WFSBP 2022 Bảng 9 chỉ cho dùng khi kháng trị hoặc ghép trong vài tuần đầu và khi không có tiền sử lạm dụng chất."
+    },
+    {
+     "t": "Kê benzodiazepin liều thấp tối đa 7 ngày khi cơn nặng cấp",
+     "v": "a",
+     "n": "mhGAP 2023 ANX6: trong cấp cứu lo âu nặng có thể cân nhắc, tối đa 3–7 ngày; WFSBP 2022 Bảng 9 (LoE B/RG 2) cho ghép trong vài tuần đầu trước khi thuốc chống trầm cảm có tác dụng. Chấp nhận nhưng không cần ở bệnh nhân này: cơn tự hết sau 20–30 phút, bệnh nhân uống rượu."
+    },
+    {
+     "t": "Cho thêm kháng sinh hay thuốc tim 'cho chắc'",
+     "v": "h",
+     "n": "Không có chỉ định, tốn tiền của bệnh nhân đang hạn chế ngân sách và củng cố niềm tin 'tim có bệnh'. Phần kháng sinh: WHO AWaRe 2022 Bảng 2.3."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ (cơn hoảng sợ tái diễn không báo trước, lo cơn tái phát và né tránh trên 1 tháng)",
+     "Mức vừa, chưa có agoraphobia đầy đủ; yếu tố khởi phát là đêm uống bia, thêm căng thẳng cuối quý",
+     "Đã loại trừ tại chỗ bằng ECG và TSH: hội chứng vành cấp, cường giáp, loạn nhịp; không có dấu hiệu lệ thuộc rượu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: (1) tả một cơn từ đầu đến cuối, tần số, bao lâu hết, có liên quan gắng sức hay không; (2) khởi phát: cơn đầu sau đêm nhậu, rồi hỏi các cơn sau có dính rượu không để không dừng ở 'do rượu'; (3) thuốc đang dùng (phát hiện kháng sinh tự dùng), rượu, cà phê, thuốc lá, chất kích thích; (4) đồng hồ ghi mạch, tim nhanh có bắt đầu và dừng đột ngột không (phân biệt loạn nhịp); (5) sụt cân, sợ nóng, run (phân biệt cường giáp); (6) vì sao hôm nay quyết định đi khám để lộ nỗi sợ bệnh tim như anh Hưng.",
+     "Tiêu chuẩn: cơn là đợt sợ hãi hoặc khó chịu dữ dội lên đỉnh trong vài phút với ≥4 trong 13 triệu chứng (hồi hộp, vã mồ hôi, run, khó thở, nghẹt thở, đau ngực, buồn nôn, chóng mặt, ớn lạnh hay nóng, tê, cảm giác không thật, sợ mất kiểm soát, sợ chết); rối loạn hoảng sợ cần cơn không báo trước tái diễn và ≥1 cơn kèm ≥1 tháng lo cơn tái phát hoặc thay đổi hành vi (Canada 2014 Bảng 11, 12; DSM-5). Quân có 8 triệu chứng, 6 cơn, né họp đông và thang máy hơn 1 tháng. Cơn trung bình kéo dài 30–45 phút (WFSBP 2022 Bảng 5), phù hợp với 20–30 phút của Quân.",
+     "Vì sao không dừng ở 'do rượu': rượu bia là yếu tố khởi phát (cơn đầu 3 giờ sáng sau nhậu), nhưng 3/6 cơn xảy ra không dính rượu, nên chẩn đoán là rối loạn hoảng sợ chứ không chỉ 'lo âu sau uống rượu'. Rượu vẫn cần tư vấn giảm vì 4–5 lon mỗi lần vượt ngưỡng ít nguy cơ (Canada 2026 Bảng 1, khuyến cáo 1, 3).",
+     "Khám: tim, phổi, tuyến giáp, tay run, bụng bình thường; SpO₂ 99%, mạch 88 l/p (số đo tại chỗ, không cần nguồn). Nghe tim phổi bình thường không loại trừ ACS; ECG mới là bước quyết định.",
+     "Cận lâm sàng theo ngân sách khoảng 300.000 đ: ECG 50.000 (e) và TSH, FT4 180.000 (e) là hai xét nghiệm đổi quyết định, thêm glucose 25.000 (a), tổng 255.000 đ. Bỏ troponin 150.000, công thức máu, điện giải, siêu âm tim vì không đổi quyết định hôm nay. Không có X-quang: không ảnh hưởng vì không có dấu hiệu phổi hay màng phổi.",
+     "Loại trừ hội chứng vành cấp bằng bối cảnh lâm sàng và ECG (ESC 2023 Hình 5), theo nguyên tắc làm xét nghiệm tối thiểu cần thiết để loại trừ vấn đề cơ thể cấp khi gặp cơn hoảng sợ (NICE CG113 1.3.6). Loại cường giáp bằng TSH (ATA 2016 mục B2). Loại loạn nhịp bằng ECG 12 chuyển đạo (ESC 2019 SVT mục 8)."
+    ],
+    "phan_tich_xu_tri": [
+     "Mức độ vừa, kéo dài trên 1 tháng, bệnh nhân không đủ tiền và thời gian cho CBT trực tiếp: dùng SSRI kèm CBT ngắn tự học có hướng dẫn. NICE CG113 1.3.12: hoảng sợ vừa đến nặng thì CBT hoặc thuốc chống trầm cảm; mhGAP 2023 ANX1 (SSRI, có điều kiện) và ANX2 (CBT ngắn, mạnh); WFSBP 2022 Bảng 9: SSRI đầu tay, CBT cộng thuốc hiệu quả hơn CBT đơn thuần.",
+     "Chọn sertralin vì nằm trong danh sách SSRI cấp phép cho hoảng sợ (NICE 1.3.22, 1.3.25), liều 50–200 mg/ngày (WFSBP 2022 Bảng 7), có trong QĐ 2058/2020 Bài 22 mục 4.3 (bài lo âu lan tỏa; QĐ không có bài riêng cho hoảng sợ). Citalopram và escitalopram cần thận trọng khi vượt 40 mg và 20 mg vì kéo dài QTc (WFSBP 2022 Bảng 7 chú thích).",
+     "Khởi liều thấp và tăng chậm vì tăng lo thoáng qua đầu điều trị (NICE 1.3.23, 1.3.27; WFSBP 2022 trang 86). Dưới 30 tuổi: gặp lại trong 1 tuần, theo dõi hằng tuần trong tháng đầu (NICE 1.2.30).",
+     "Không dùng benzodiazepin đều đặn: mhGAP 2023 (mới nhất, khuyến cáo mạnh) làm đáp án; WFSBP 2022 cho phép ghép ngắn hạn nên chấm a.",
+     "Thời gian điều trị: nếu đáp ứng, tiếp tục ít nhất 6 tháng sau khi đạt liều tối ưu rồi giảm dần (NICE 1.3.27); WFSBP 2022 trang 94: thêm 6–12 tháng sau thuyên giảm. Lấy mốc 6–12 tháng sau thuyên giảm.",
+     "Đánh giá lại sau 12 tuần: không cải thiện thì đổi sang nhóm khác hoặc liệu pháp khác (NICE 1.3.28); sau 2 can thiệp vẫn còn triệu chứng đáng kể thì giới thiệu chuyên khoa tâm thần (NICE 1.3.35)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "25 mg (nửa viên) × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn, cùng giờ mỗi ngày",
+      "so_ngay": "7 ngày rồi tái khám (không ngưng đột ngột)",
+      "ghi_chu": "Khởi liều thấp, tăng chậm (NICE CG113 2011, 1.3.27); liều đích 50–200 mg/ngày (WFSBP 2022 Bảng 7). Liều 25 mg và 7 ngày là lựa chọn biên tập, không có trong tài liệu đã tải. Tác dụng phụ đầu điều trị thoáng qua (NICE 1.3.23)."
+     }
+    ],
+    "dan_do": [
+     "Cơn hoảng sợ rất khó chịu nhưng không gây nhồi máu hay đột tử; ECG và xét nghiệm tuyến giáp của em bình thường. Khi lên cơn: ngồi xuống, thở chậm, nhắc 'cơn sẽ hết sau chừng 20–30 phút', không bỏ chạy khỏi nơi đang ở (WFSBP 2022 Bảng 5 về thời gian cơn; mhGAP 2023 ANX4: thư giãn).",
+     "Uống sertralin nửa viên mỗi sáng; 7 ngày đầu có thể bồn chồn, buồn nôn, ngủ kém; thuốc 4–12 tuần mới phát huy đủ; không tự ngưng (NICE 1.3.23, 1.3.24, 1.3.30; Canada 2014).",
+     "Quay lại ngay nếu có ý nghĩ tự làm hại mình hoặc bồn chồn dữ dội (NICE 1.2.30). Đi cấp cứu nếu đau ngực kéo dài trên 20 phút, đau khi gắng sức, ngất, khó thở liên tục, hoặc tim đập nhanh đều bắt đầu và dừng đột ngột (ESC 2023 Hình 5; ESC 2019 SVT mục 8). Ngưỡng 20 phút do biên tập chọn, không có trong tài liệu đã tải.",
+     "Hạn chế bia rượu trong thời gian điều trị; bỏ nước tăng lực, giảm cà phê (Canada 2026 khuyến cáo 3, 4; Canada 2014).",
+     "Ngưng amoxicillin–clavulanat còn thừa, lần sau không tự dùng lại kháng sinh (WHO AWaRe 2022 Bảng 2.3).",
+     "Tập thể dục đều; vẫn đi họp, đi thang máy từng bước, không né tránh (mhGAP 2023 ANX5; Canada 2014: tập đối mặt). Tái khám sau 1 tuần (NICE CG113 1.2.30)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 1 tuần",
+   "tiep_don": "Tái khám sau 1 tuần theo hẹn. Bệnh nhân nói từ ngày thứ 3 uống thuốc bị bồn chồn, run tay, buồn nôn, ngủ kém. Sinh hiệu lúc tiếp đón: mạch 96 l/p, HA 120/76 mmHg, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, uống thuốc mấy hôm nay em thấy người bồn chồn, run tay, buồn nôn, ngủ cũng chập chờn. Em nghĩ thuốc này không hợp, hay là tim em có bệnh thật? Em định ngưng thuốc, mà làm thêm xét nghiệm nữa thì em hơi ngại tiền.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "120/76",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "trieu_chung_moi",
+     "noi_dung": "Từ ngày thứ 3 uống thuốc: bồn chồn, run nhẹ hai tay, buồn nôn nhẹ buổi sáng, ngủ chập chờn, tim đập nhanh hơn lúc nghỉ. Không đau ngực kiểu mới, không sốt, không tiêu chảy, không phát ban.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Triệu chứng mới sau khi bắt đầu sertralin"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Uống nửa viên sertralin 50 mg mỗi sáng sau ăn đủ 7 ngày, không quên liều nào. Đã bỏ amoxicillin–clavulanat từ hôm khám, không uống thuốc hay thực phẩm chức năng nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, không dùng thêm thuốc tương tác"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Triệu chứng mới bắt đầu sau khi uống thuốc 3 ngày và nhẹ dần từ hôm qua. Trước khi uống thuốc không có buồn nôn hay run tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Liên hệ thời gian với thuốc"
+    },
+    {
+     "id": "con",
+     "noi_dung": "Trong tuần có 2 cơn hoảng sợ như trước (một cơn ban đêm, một cơn sau tối tiếp khách uống 4 lon bia), cơn vẫn 20–30 phút. Chưa thấy giảm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn chưa giảm sau 1 tuần, một cơn sau uống bia"
+    },
+    {
+     "id": "tu_hai",
+     "noi_dung": "Khi bác sĩ hỏi thẳng, em nói không có ý nghĩ tự làm hại mình hay 'biến mất cho xong'; chỉ bực vì mất ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có ý nghĩ tự hại sau khởi đầu SSRI (người dưới 30 tuổi)"
+    },
+    {
+     "id": "muon_ngung",
+     "noi_dung": "Em tưởng thuốc không hợp hoặc tim em có bệnh thật nên mới run, định ngưng thuốc và hỏi có phải làm thêm xét nghiệm tim nữa không, vì tiền còn ít.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ý định ngưng thuốc, lo thêm chi phí"
+    },
+    {
+     "id": "tim_nhanh",
+     "noi_dung": "Hôm qua đồng hồ báo mạch lúc nghỉ 92–98, tăng dần theo cảm giác bồn chồn, không có lúc nhảy vọt. Không ngất, không đau ngực.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Mạch tăng nhẹ, không giống cơn nhịp nhanh kịch phát"
+    },
+    {
+     "id": "ket_qua_cu",
+     "noi_dung": "Từ lần khám trước em không còn nghĩ đến chuyện anh Hưng nhiều như trước, nhưng nghe tin anh Hưng vừa tái khám ổn thì thấy nhẹ người.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nỗi sợ bệnh tim giảm"
+    }
+   ],
+   "kham": {
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, khí sắc trung bình, hơi mệt vì mất ngủ. Lo về thuốc nhưng không hoang tưởng, không ảo giác, không ý tưởng tự sát hay ý định làm hại bản thân.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, hơi mệt, nói mạch lạc."
+    },
+    "run_nghi": {
+     "a": "Run nhẹ, biên độ nhỏ, tần số nhanh khi giơ hai tay thẳng; không run khi nghỉ, không rung giật cơ, không tăng phản xạ gân xương, không clonus.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Da ấm, ẩm nhẹ lòng bàn tay, không sốt, không vã mồ hôi, đồng tử bình thường. BMI 22,6.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p, hai phổi thông khí đều.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không chướng, nhu động ruột bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 96 l/p, PR 150 ms, QRS 90 ms, QTc 412 ms, không ST–T bất thường, không sóng delta.",
+     "n": "Không bắt buộc và không trừ điểm. ECG lượt 1 bình thường, hôm nay mạch tăng nhẹ, tăng dần theo bồn chồn. QTc chỉ là vấn đề đối với citalopram, escitalopram vượt liều (WFSBP 2022 Bảng 7 chú thích), sertralin không nằm trong chú thích đó. 50.000 đ."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "Không cần lặp lại.",
+     "n": "TSH, FT4 lượt 1 bình thường chưa đến 2 tuần; triệu chứng mới xuất hiện sau khi dùng thuốc, nên lặp lại chỉ tốn 180.000 đ."
+    },
+    "trop": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Không có đau ngực kiểu mới; ECG lượt 1 bình thường. Giữ nguyên lập luận lượt 1."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Không sốt, không tiêu chảy, không triệu chứng nhiễm trùng hay thiếu máu."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ đang điều trị sertralin 25 mg tuần đầu, chưa đáp ứng (quá sớm để đánh giá)",
+     "ok": 1,
+     "n": "Thuốc cần 4–12 tuần mới đủ tác dụng (Canada 2014 phần tóm tắt Panic disorder; NICE CG113 1.3.24); 2 cơn trong 1 tuần chưa phải thất bại. Cơn sau uống bia vẫn xảy ra."
+    },
+    {
+     "t": "Tác dụng phụ khởi đầu của sertralin: bồn chồn, run nhẹ, buồn nôn, mất ngủ, tăng lo thoáng qua",
+     "ok": 1,
+     "n": "Khởi phát ngày 3 sau thuốc, nhẹ dần; NICE CG113 1.3.23 báo trước tăng lo thoáng qua; WFSBP 2022 trang 86: bệnh nhân hoảng sợ dễ ngưng thuốc vì bồn chồn lúc đầu, buồn nôn, chóng mặt, đau đầu."
+    },
+    {
+     "t": "Hội chứng vành cấp hoặc bệnh tim mới",
+     "n": "Không đau ngực kiểu mới, ECG lượt 1 bình thường, khám tim phổi không đổi; run và buồn nôn xuất hiện sau thuốc 3 ngày (ESC 2023 Hình 5 nếu nghi thì ECG ngay)."
+    },
+    {
+     "t": "Loạn nhịp hoặc cường giáp",
+     "n": "Mạch 96 tăng nhẹ theo bồn chồn, không bắt đầu và dừng đột ngột; TSH lượt 1 bình thường; run biên độ nhỏ, không bướu giáp (ESC 2019 SVT mục 8; ATA 2016 mục B2)."
+    },
+    {
+     "t": "Hội chứng serotonin",
+     "n": "Chỉ dùng một thuốc serotonergic liều thấp, không sốt, không rung giật cơ, không tăng phản xạ, không clonus (NICE CG113 1.3.4 dặn tránh dùng nhiều thuốc serotonergic). Tiêu chuẩn chẩn đoán hội chứng serotonin không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ý nghĩ tự hại khởi phát do SSRI ở người dưới 30 tuổi",
+     "n": "Đã hỏi thẳng, không có (NICE CG113 1.2.30: theo dõi nguy cơ hằng tuần trong tháng đầu)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích triệu chứng mới là tác dụng phụ khởi đầu thoáng qua, đã nhẹ dần; khuyên không ngưng thuốc",
+     "v": "c",
+     "n": "NICE CG113 1.3.23, 1.3.24; WFSBP 2022 trang 86. Giữ người bệnh trong điều trị là phần quan trọng vì bệnh nhân dễ bỏ thuốc lúc này."
+    },
+    {
+     "t": "Giữ sertralin 25 mg thêm 7 ngày rồi tăng lên 50 mg nếu dung nạp, không tăng nhanh",
+     "v": "c",
+     "n": "Khởi liều thấp, tăng liều từ từ đến khi đáp ứng (NICE CG113 1.3.27); liều đích 50–200 mg/ngày (WFSBP 2022 Bảng 7). Mốc 7 ngày do biên tập chọn, không có trong tài liệu đã tải. Theo NICE CG113 1.2.31 có thể theo dõi sát hoặc giảm liều khi tác dụng phụ nhẹ và chấp nhận được."
+    },
+    {
+     "t": "Hỏi thẳng ý nghĩ tự hại và hẹn gặp lại sau 1 tuần",
+     "v": "c",
+     "n": "NICE CG113 1.2.30: dưới 30 tuổi, theo dõi hằng tuần trong tháng đầu."
+    },
+    {
+     "t": "Cách giảm bồn chồn và mất ngủ: uống thuốc buổi sáng, bỏ cà phê chiều và nước tăng lực, không uống bia, thở chậm, tập thể dục nhẹ",
+     "v": "c",
+     "n": "Canada 2014 mục Panic disorder (caffeine liên quan cơn hoảng sợ); Canada 2026 khuyến cáo 3, 4; mhGAP 2023 ANX4, ANX5. Cơn sau tối bia cho thấy rượu vẫn là tác nhân khởi phát cơn."
+    },
+    {
+     "t": "Không làm lại ECG, TSH, troponin vì không đổi quyết định; tiết kiệm tiền cho thuốc",
+     "v": "c",
+     "n": "ECG và TSH lượt 1 bình thường, triệu chứng mới trùng thời điểm bắt đầu thuốc và đang nhẹ dần. ECG lặp lại chấm a."
+    },
+    {
+     "t": "Ngưng sertralin ngay vì tác dụng phụ",
+     "v": "a",
+     "n": "NICE CG113 1.2.31 (đoạn lo âu lan tỏa) cho phép ngưng thuốc và chọn thuốc khác hoặc liệu pháp tâm lý khi có tác dụng phụ sớm. Chấp nhận được nhưng tác dụng phụ nhẹ và đang giảm nên không cần; ngưng đột ngột ở liều 25 mg tuần đầu ít nguy cơ cai nhưng bỏ lỡ cơ hội điều trị (NICE 1.3.30)."
+    },
+    {
+     "t": "Thêm benzodiazepin liều thấp tối đa 7 ngày cho mất ngủ và bồn chồn",
+     "v": "a",
+     "n": "mhGAP 2023 ANX6: không khuyến cáo, chỉ cân nhắc 3–7 ngày trong cấp cứu lo âu nặng; WFSBP 2022 Bảng 9 (LoE B/RG 2): ghép vài tuần đầu. Chấp nhận nhưng thận trọng vì bệnh nhân còn uống bia (Joint 2025)."
+    },
+    {
+     "t": "Tăng ngay sertralin lên 100 mg để cắt cơn nhanh",
+     "v": "w",
+     "n": "Tăng nhanh làm nặng bồn chồn đầu điều trị và dễ bỏ thuốc (WFSBP 2022 trang 86; NICE CG113 1.3.27: tăng từ từ)."
+    },
+    {
+     "t": "Đổi sang thuốc khác hoặc thêm thuốc thứ hai vì chưa đáp ứng",
+     "v": "w",
+     "n": "Mới 1 tuần ở liều thấp. NICE CG113 1.3.28 và 1.3.26: đổi thuốc khi không cải thiện sau 12 tuần; WFSBP 2022: trước khi coi là kháng trị cần kiểm tra liều và thời gian thử đủ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ đang điều trị sertralin 25 mg tuần đầu, chưa đáp ứng (còn quá sớm)",
+     "Tác dụng phụ khởi đầu của sertralin (bồn chồn, run nhẹ, buồn nôn, mất ngủ), nhẹ và đang giảm",
+     "Không có ý nghĩ tự hại; rượu bia vẫn kích hoạt cơn"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: (1) hỏi cơn trong tuần, mức đỡ so với trước; (2) hỏi tuân thủ thuốc, thuốc khác (đã bỏ kháng sinh chưa); (3) hỏi triệu chứng mới bắt đầu khi nào so với thuốc; (4) hỏi thẳng ý nghĩ tự hại (người dưới 30 tuổi, NICE CG113 1.2.30); (5) hỏi rượu bia, cà phê; (6) khám tâm thần, run, tim, bụng.",
+     "Triệu chứng mới là dữ kiện đắt nhất: ngày 3 sau thuốc, nhẹ dần, không có đau ngực kiểu mới, không sốt hay phản xạ tăng: phù hợp với tác dụng phụ khởi đầu của SSRI (NICE CG113 1.3.23; WFSBP 2022 trang 86). Bẫy cần tránh: kết luận 'tim có bệnh' hoặc 'thuốc không hợp' rồi cho làm lại xét nghiệm tốn tiền hoặc ngưng thuốc.",
+     "Cơn chưa giảm sau 7 ngày không phải thất bại: thuốc đầu tay cần 4–12 tuần (Canada 2014 phần tóm tắt Panic disorder), phản hồi của bác sĩ phải nói rõ mốc đó.",
+     "Không cần ECG, TSH hay troponin lặp lại: mạch 96 tăng nhẹ theo bồn chồn, không có triệu chứng tim mới (ECG lượt 1 bình thường). ECG lặp lại chấm a, các xét nghiệm khác chấm n, tiết kiệm tiền cho bệnh nhân."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ liều thấp thêm một tuần cho tác dụng phụ qua đi rồi mới tăng, vì tăng chậm là nguyên tắc (NICE CG113 1.3.27) và bệnh nhân hoảng sợ rất dễ ngưng thuốc vì bồn chồn lúc đầu (WFSBP 2022 trang 86). Tăng nhanh lên 100 mg chấm w; ngưng thuốc chấm a (NICE 1.2.31).",
+     "Hẹn lại sau 1 tuần theo dõi nguy cơ tự hại hằng tuần trong tháng đầu (NICE 1.2.30), về lâu dài đánh giá mỗi vài tuần và quyết định ở mốc 12 tuần (NICE 1.3.28). Khoảng cách giữa các lần tái khám sau tháng đầu không có số cụ thể cho hoảng sợ trong tài liệu đã tải (NICE 1.2.32 là cho lo âu lan tỏa).",
+     "Benzodiazepin: theo mâu thuẫn nguồn đã ghi, mhGAP 2023 là đáp án (không khuyến cáo, tối đa 3–7 ngày trong cấp cứu); thêm ngắn ngày chấm a.",
+     "Rượu: cơn thứ hai trong tuần xảy ra sau tối bia, chứng minh yếu tố khởi phát còn hoạt động; tư vấn lại theo Canada 2026 khuyến cáo 3, 4."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "25 mg (nửa viên) × 1 lần/ngày trong 7 ngày nữa; nếu dung nạp thì 50 mg (1 viên) × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "7 ngày rồi tái khám; điều trị ít nhất 6–12 tháng sau thuyên giảm",
+      "ghi_chu": "Tăng liều từ từ (NICE CG113 2011, 1.3.27); liều đích 50–200 mg/ngày (WFSBP 2022 Bảng 7); thời gian ít nhất 6 tháng sau liều tối ưu (NICE 1.3.27) và thêm 6–12 tháng sau thuyên giảm (WFSBP 2022 trang 94). Mốc 7 ngày do biên tập chọn, không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Run, buồn nôn, mất ngủ sau 3 ngày dùng thuốc thường nhẹ dần trong vài ngày; đừng tự ngưng. Nếu run tăng nhiều, sốt, rung giật cơ, tiêu chảy nặng hoặc có ý nghĩ tự làm hại mình thì đến ngay (NICE CG113 1.3.23, 1.2.30).",
+     "Thuốc cần 4–12 tuần mới thấy đỡ rõ rệt; chưa hết cơn sau 1 tuần là bình thường (Canada 2014; NICE 1.3.24).",
+     "Không uống bia, không nước tăng lực, bỏ cà phê chiều; vẫn đi họp và đi thang máy từng bước (Canada 2026 khuyến cáo 3, 4; Canada 2014; mhGAP 2023 ANX5).",
+     "Chưa cần làm thêm xét nghiệm tim hay tuyến giáp; khi có đau ngực kéo dài, đau khi gắng sức, ngất hoặc tim đập nhanh đều bắt đầu và dừng đột ngột thì quay lại ngay (ESC 2023 Hình 5; ESC 2019 SVT mục 8).",
+     "Tái khám sau 1 tuần (NICE CG113 1.2.30)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Quân tuân thủ thuốc. Tuần 3 sertralin lên 50 mg, tuần 6 lên 100 mg vì còn khoảng 1 cơn mỗi tuần (trong khoảng 50–200 mg, WFSBP 2022 Bảng 7); tuần 8 còn một cơn mỗi hai tuần; tuần 14 hết cơn hẳn và không còn né họp, thang máy. Hồi phục chậm hơn mong đợi ('một tuần là hết') nhưng đúng quỹ đạo của thuốc đầu tay 4–12 tuần (Canada 2014), nên bác sĩ không đổi thuốc sớm. Giữ thuốc ít nhất 6–12 tháng sau thuyên giảm rồi giảm dần (NICE CG113 1.3.27; WFSBP 2022 trang 94). Anh Hưng vẫn tái khám tốt; Quân giảm bia xuống còn dưới một lần mỗi tuần.",
+ "nhieu": [
+  "Amoxicillin–clavulanat uống lại theo toa cũ: không sốt, không ho, không liên quan cơn; chỉ cần ngưng và dặn không dùng lại kháng sinh thừa (WHO AWaRe 2022 Bảng 2.3).",
+  "Rượu bia: cơn đầu sau đêm nhậu dễ khiến kết luận 'do rượu'. 3/6 cơn xảy ra không dính rượu, nên vẫn là rối loạn hoảng sợ; rượu là yếu tố khởi phát và duy trì.",
+  "Đồng hồ thông minh báo mạch 108–112 trong cơn và cà phê, nước tăng lực cuối quý: gây lo ngại loạn nhịp hay cường giáp, nhưng mạch tăng dần, ECG và TSH bình thường.",
+  "Ngân sách 300.000 đ: ECG và TSH là hai xét nghiệm đổi quyết định; troponin, công thức máu, điện giải, siêu âm tim không đổi quyết định."
+ ],
+ "bai_hoc_bien": [
+  "Không đủ tiền xét nghiệm: hỏi 'xét nghiệm nào làm đổi quyết định hôm nay' trước khi chỉ định. Ở đây ECG (50.000 đ) và TSH, FT4 (180.000 đ) loại được hội chứng vành cấp, loạn nhịp, cường giáp; troponin 150.000 đ không đổi quyết định vì xác suất thấp.",
+  "Rối loạn hoảng sợ là chẩn đoán có tiêu chuẩn dương tính (cơn không báo trước, lo cơn tái phát ≥1 tháng, né tránh), không phải chẩn đoán loại trừ. Chỉ dừng lại ở 'do rượu' hay 'nhồi máu' là sai.",
+  "Động cơ thật là sợ bệnh tim như bạn thân đặt stent. Không hỏi ra thì ECG bình thường vẫn không làm nguôi nỗi sợ.",
+  "Triệu chứng mới ở tái khám 1 tuần là tác dụng phụ khởi đầu của SSRI, không phải bệnh mới: nối thời điểm với ngày bắt đầu thuốc, không ngưng thuốc, không làm lại xét nghiệm tốn kém.",
+  "Hồi phục chậm hơn mong đợi vẫn là quỹ đạo bình thường: đợi 4–12 tuần, tăng liều từ từ; đánh giá đổi thuốc ở mốc 12 tuần."
+ ],
+ "diem_nho": [
+  "Cơn hoảng sợ: đợt sợ hãi hoặc khó chịu dữ dội lên đỉnh trong vài phút, ≥4 trong 13 triệu chứng; rối loạn hoảng sợ cần cơn không báo trước tái diễn và ≥1 tháng lo cơn tái phát hoặc đổi hành vi (Canada 2014 Bảng 11, 12).",
+  "Điều trị đầu tay: SSRI (WFSBP 2022 Bảng 9; mhGAP 2023 ANX1) và CBT ngắn (mhGAP 2023 ANX2); không kê benzodiazepin đều đặn (mhGAP 2023 ANX6; NICE CG113 1.3.20).",
+  "Dưới 30 tuổi dùng SSRI: cảnh báo, gặp lại trong 1 tuần, theo dõi hằng tuần trong tháng đầu (NICE CG113 1.2.30).",
+  "Thuốc 4–12 tuần mới đủ tác dụng (Canada 2014); không cải thiện sau 12 tuần mới đổi nhóm (NICE 1.3.28); điều trị ít nhất 6–12 tháng sau thuyên giảm (NICE 1.3.27; WFSBP 2022 trang 94)."
+ ],
+ "nguon": [
+  "WHO – mhGAP guideline 2023 (ấn bản 3) – TL-0573 – ANX1–ANX7 (khuyến cáo ANX1, ANX2, ANX3, ANX4, ANX5, ANX6).",
+  "NICE – CG113 Generalised anxiety disorder and panic disorder in adults (2011, cập nhật 2020) – TL-0598 – khuyến cáo 1.2.30–1.2.32 (lo âu lan tỏa, dẫn lại ở 1.3.22), 1.3.1–1.3.36 (hoảng sợ).",
+  "WFSBP 2022 – Guidelines for treatment of anxiety, OCD and PTSD, Part I (World J Biol Psychiatry 2022;24:79-117) – TL-0587 – Bảng 5 (trang 84), Bảng 7 và phần Dosing (trang 86–87), Bảng 9 và phần Long-term treatment (trang 94–95).",
+  "Canadian clinical practice guidelines for anxiety, PTSD and OCD (Katzman 2014, BMC Psychiatry) – TL-0596 – Bảng 7, Bảng 11, Bảng 12, Bảng 15, phần tóm tắt Panic disorder.",
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp (kho cũ tltk-10000-ca) – Bài 22 Rối loạn lo âu lan tỏa, mục 3.1.1, 4.1, 4.3 (không có bài riêng về rối loạn hoảng sợ).",
+  "Wood E và cs. – Screening for high-risk drinking and alcohol use disorder (CMAJ 2026;198:E655) – kho cũ tltk-10000-ca (10 Tâm thần cơ bản) – Bảng 1, khuyến cáo 1, 3, 4.",
+  "ESC 2023 – Guidelines for the management of acute coronary syndromes – TL-0069 – Hình 5 (đánh giá A.C.S., ECG trong 10 phút).",
+  "ESC 2019 – Guidelines for the management of patients with supraventricular tachycardia – TL-0687 – mục 8 (đánh giá ban đầu), 9.1.1.",
+  "ATA 2016 – Guidelines for diagnosis and management of hyperthyroidism – TL-0324 – mục B2 (đánh giá sinh hóa) và phần biểu hiện lâm sàng.",
+  "Backus BE và cs. – A prospective validation of the HEART score (Int J Cardiol 2013;168:2153) – TL-0110 – Bảng 1 và tóm tắt.",
+  "WHO – AWaRe antibiotic book 2022 – TL-0018 – Bảng 2.3 (nhóm Bệnh nhân).",
+  "Joint Clinical Practice Guideline on Benzodiazepine Tapering (ASAM và cs. 2025) – kho cũ tltk-10000-ca (10 Tâm thần cơ bản) – phần mở đầu và Bảng 2 (nguy cơ phối hợp benzodiazepin với rượu)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-11): viết theo tài liệu đã tải; đã đọc TL-0573 ANX1–7, TL-0598 mục 1.2.30–1.2.32 và 1.3.1–1.3.36, TL-0587 Bảng 5, 7, 9 và phần Dosing, TL-0596 Bảng 7, 11, 12, 15, QĐ 2058 Bài 22, Canada 2026 Bảng 1, ESC 2023 Hình 5, ESC 2019 SVT mục 8, ATA 2016 mục B2, TL-0110 Bảng 1, AWaRe 2022 Bảng 2.3.",
+  "Không có trong tài liệu đã tải: liều khởi đầu sertralin 25 mg cụ thể cho hoảng sợ và mốc tăng liều sau 7 ngày (chỉ có 'nửa liều hoặc ít hơn', WFSBP trang 86, và 'tăng từ từ', NICE 1.3.27); lịch tái khám sau tháng đầu cho hoảng sợ (NICE 1.2.32 chỉ cho lo âu lan tỏa); ngưỡng xác suất để bỏ troponin; tiêu chuẩn hội chứng serotonin; ngưỡng thời gian đau ngực 20 phút để đi cấp cứu; QĐ 2058 không có bài riêng cho rối loạn hoảng sợ.",
+  "Mâu thuẫn nguồn về benzodiazepin: mhGAP 2023 (không khuyến cáo, 3–7 ngày trong cấp cứu) so WFSBP 2022 Bảng 9 (cho ghép vài tuần đầu hoặc kháng trị) và QĐ 2058/2020 Bài 22 (liệt kê benzodiazepin cho lo âu lan tỏa); đáp án theo mhGAP 2023, cách WFSBP chấm a, dùng đều đặn kéo dài chấm w. Đề xuất chép vào tai-lieu/mau_thuan.md."
+ ]
+}
