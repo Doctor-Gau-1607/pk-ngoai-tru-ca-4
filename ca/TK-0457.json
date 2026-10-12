@@ -1,0 +1,867 @@
+{
+ "ma_ca": "TK-0457",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-12)",
+ "benh": "TK_run_vo_can",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Run vô căn",
+  "chan_doan_phai_loai_tru": [
+   "Parkinson",
+   "Cường giáp"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau ăn hải sản",
+  "thuoc_dang_dung": "Không",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư"
+ },
+ "benh_nhan": {
+  "ten": "Trần Văn Bảy",
+  "tuoi": 54,
+  "gioi": "Nam",
+  "nghe": "Nông dân (trồng lúa và rau màu, tự phun thuốc trừ sâu)",
+  "can_nang": 62,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là 'chú Bảy'. Ông xưng 'tui' (hoặc 'con' khi nói với bác sĩ lớn tuổi hơn), gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, thật thà, nói chậm, ít kể bệnh nếu không được hỏi nhưng trả lời đầy đủ và hợp tác. Ngại bị chê 'bệnh vặt', giấu nỗi sợ trong lòng.",
+  "kieu_nhieu": "Hợp tác tốt: trả lời rõ, mang theo cả cái chén bị đổ canh để minh họa, làm đúng mọi yêu cầu khám. Nhiễu nhẹ do nhận định sai của người nhà và hàng xóm (hải sản làm 'thừa i-ốt', 'ông Sáu cũng run rồi chết'), không phải do thái độ.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#a9764f",
+   "toc": "#2b2623",
+   "kieuToc": "ngan",
+   "ao": "#6b7a5a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Hai tay run, cầm chén hay đổ; lo không biết bị bệnh gì",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nam 54 tuổi, nông dân, đi một mình bằng xe máy từ ruộng lên khám lúc 8 giờ sáng. Mang theo chiếc chén sứ cũ, nói 'cầm chén này mà đổ canh hoài'. Nét mặt lo, hay xoa hai bàn tay. Sinh hiệu lúc tiếp đón: mạch 74 l/p, HA 128/80 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, tay tui run, cầm chén canh mà đổ ra hết. Hôm đám giỗ bữa trước tui quê quá trời. Chắc tại bữa đó tui ăn hải sản nhiều.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "128/80",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai tay run, nhất là lúc cầm chén, cầm muỗng. Tuần trước ở đám giỗ tui làm đổ chén canh trước mặt họ hàng nên đi khám cho biết bệnh gì.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra; mức ảnh hưởng chức năng"
+    },
+    {
+     "id": "hai_san",
+     "noi_dung": "Bữa giỗ tui ăn nhiều ghẹ, sò huyết, uống khoảng 4 ly rượu đế. Sáng hôm sau tay run dữ nên tui nghĩ do hải sản, người ta nói hải sản nhiều i-ốt gây bướu cổ, run tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: sau ăn hải sản (nhận định sai của người bệnh); rượu"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Thật ra run khoảng 5 năm nay, hồi đầu nhẹ, chỉ lúc uống nước hay ký tên. Ba năm nay run rõ hơn. Tay phải hơi nhiều hơn tay trái. Chưa bao giờ run lúc ngồi yên xem tivi, tay để trên đùi thì không run.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian ≥ 3 năm, hai bên, run khi tư thế hoặc động tác, không run nghỉ",
+     "dieu_kien_lo": "Ông kể khi bác sĩ hỏi run từ bao giờ, run lúc nào (nghỉ hay khi làm việc), bên nào."
+    },
+    {
+     "id": "tinh_chat",
+     "noi_dung": "Tay giơ ra hoặc cầm chén, bưng muỗng, xỏ kim thì run. Lo, mệt, uống cà phê thì run nhiều hơn. Thỉnh thoảng người ta nói đầu tui cũng lắc nhẹ khi nói chuyện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Run tư thế và động tác; nặng thêm khi lo, mệt"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Ba tui già cũng run tay, run cả đầu, người ta bảo 'già thì run'. Anh Hai tui hơi run tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình dương tính",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi gia đình có ai bị run, bệnh thần kinh."
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Uống 1–2 ly rượu thì tay bớt run chừng nửa tiếng. Thường tối uống 2–3 ly rượu đế, không uống sáng, không thấy run nặng lên khi nghỉ rượu: hồi bị cảm tui nghỉ rượu một tuần, tay vẫn run y như cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Run đỡ khi uống rượu; không cai rượu gây run; không loạn dùng rượu"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Ăn uống bình thường, cân nặng 62 kg mấy năm nay không đổi. Không sợ nóng, không ra mồ hôi nhiều, không hồi hộp, ngủ ngon, đi cầu ngày một lần, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng cường giáp"
+    },
+    {
+     "id": "khong_parkinson",
+     "noi_dung": "Đi đứng bình thường, không chậm chạp, chữ ký vẫn cỡ cũ nhưng run. Mặt không đơ. Không táo bón, ngửi mùi bình thường, ngủ không la hét hay đạp người. Không đau đầu, không nôn, không yếu tay chân, không nói ngọng, không nhìn mờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu parkinson, không dấu hiệu thần kinh khu trú"
+    },
+    {
+     "id": "thuoc_doc",
+     "noi_dung": "Tui không uống thuốc gì thường xuyên, không thuốc bắc, không thuốc hen, không thuốc tuyến giáp. Mỗi sáng 3 ly cà phê sữa đá. Phun thuốc trừ sâu ở ruộng rau, đeo khẩu trang và bao tay, không có cảm giác lạ sau khi phun; run có từ trước khi tui trồng rau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: không; caffeine; phơi nhiễm thuốc trừ sâu (nhiễu)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Tui không bị hen, tiểu đường, bệnh tim, mạch chậm hay ngất. Không từng té đập đầu. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử cần cho chọn thuốc (hen, nhịp chậm, tiểu đường)"
+    },
+    {
+     "id": "so_ung_thu",
+     "noi_dung": "Thật ra tui sợ bị ung thư não. Ông Sáu hàng xóm năm ngoái cũng bắt đầu run tay, mấy tháng sau chụp thấy u não, mất hồi tháng ba. Tui lo mình giống ổng mà không dám nói ai.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật đến khám: sợ mắc ung thư",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chú lo nhất điều gì, sợ bệnh gì, hoặc vì sao hôm nay quyết định đi khám."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, da ấm khô, không vã mồ hôi. Cân nặng 62 kg, cao 163 cm (BMI 23,3).",
+     "k": 0,
+     "hien": "Ông tỉnh, da khô ấm, vẻ lo lắng."
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không âm thổi. Mắt không lồi, không co kéo mi. Đầu lắc nhẹ kiểu 'không' khi nói chuyện, biên độ nhỏ, mất khi nằm nghỉ.",
+     "k": 1,
+     "hien": "Cổ không thấy bướu. Đầu hơi lắc khi ông nói chuyện."
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran rít.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, thở êm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ. Dây sọ bình thường, không rung giật nhãn cầu. Sức cơ 5/5 bốn chi. Phản xạ gân xương đều, Babinski âm tính. Cảm giác bình thường. Ngón tay–mũi: có run khi vận động nhưng không tăng dần khi tới đích, không loạn đo. Không dấu khu trú.",
+     "k": 1,
+     "hien": "Sức cơ, cảm giác đều hai bên, không liệt, nhãn cầu đảo đủ."
+    },
+    "mat_giong_chu_viet": {
+     "a": "Nét mặt linh hoạt, chớp mắt bình thường, giọng nói rõ, không run giọng. Viết một câu: nét chữ run, lượn sóng nhưng cỡ chữ đều (khoảng 5 mm), không nhỏ dần về cuối dòng. Vẽ xoắn ốc Archimedes: đường răng cưa, các vòng không đều.",
+     "k": 1,
+     "hien": "Mặt linh hoạt, giọng bình thường. Chữ viết run, lượn sóng, cỡ chữ đều. Đường xoắn ốc vẽ bị răng cưa."
+    },
+    "run_nghi": {
+     "a": "Ngồi tay đặt trên đùi, đếm ngược 100 trừ 7: không run (kể cả khi đi bộ vài bước). Giơ hai tay ra trước: run tư thế hai bên, biên độ nhỏ đến vừa, cân xứng, tay phải hơn. Cầm ly rót nước, đưa thìa lên miệng: run biên độ tăng nhẹ, nước sóng sánh; không tăng dần khi tới đích. Phân tâm không làm run biến mất hay đổi tần số. Tần số không đo được tại phòng khám (đo chính xác bằng cảm biến chuyển động hoặc điện cơ, MDS 2018).",
+     "k": 1,
+     "hien": "Ngồi yên tay đặt đùi: tay không run. Giơ hai tay ra trước: hai tay run, tay phải nhiều hơn. Bưng ly nước: nước sóng sánh."
+    },
+    "dong_tac_cham": {
+     "a": "Gõ ngón cái với ngón trỏ, mở nắm bàn tay, sấp ngửa: nhanh, đều, biên độ không giảm, không ngắt quãng, hai bên như nhau (không chậm vận động theo định nghĩa MDS 2015).",
+     "k": 1,
+     "hien": "Gõ ngón tay và sấp ngửa bàn tay nhanh, đều, hai bên bằng nhau."
+    },
+    "tang_truong_luc": {
+     "a": "Trương lực bình thường ở cổ, cổ tay, khuỷu, gối hai bên; nghiệm pháp tăng cường (gập duỗi tay đối bên) không làm lộ cứng; không dấu bánh xe răng cưa.",
+     "k": 1,
+     "hien": "Cử động thụ động các khớp tay, cổ nhẹ nhàng, không sức cản."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng dậy khỏi ghế không chống tay. Đi bước dài, hai tay đung đưa đều, quay người hai bước. Đi nối gót thẳng hàng bình thường. Romberg âm tính. Nghiệm pháp kéo: giữ được thăng bằng.",
+     "k": 1,
+     "hien": "Ông đứng lên không cần vịn, đi bước dài, tay đung đưa đều, quay người gọn, đi nối gót không loạng choạng."
+    }
+   },
+   "cls": {
+    "tsh": {
+     "v": "e",
+     "r": "TSH 1,7 mUI/L · FT4 15 pmol/L (trong giới hạn bình thường).",
+     "ab": 0,
+     "n": "Run hai tay có thể do cường giáp (run sinh lý tăng cường; MDS 2018 (TL-0478), mục Enhanced physiological tremor và Bảng 2 'Hyperthyroidism'). TSH là xét nghiệm sàng lọc đầu, nhạy và đặc hiệu nhất; khi nghi ngờ cao thì thêm FT4 và T3 toàn phần (ATA 2016 (TL-0324), mục B2). Loại bệnh trong sổ cái, đổi quyết định điều trị."
+    },
+    "glu": {
+     "v": "a",
+     "r": "Glucose máu đói 5,2 mmol/L.",
+     "ab": 0,
+     "bang": {
+      "glu": 5.2
+     },
+     "n": "Chẩn đoán run vô căn không cần. Làm để chắc không tiểu đường trước khi dùng chẹn beta, vì thuốc này thận trọng ở người tiểu đường do che dấu hạ đường huyết (Hopfner 2024 (nguồn bổ sung tự tìm), mục Propranolol for tremor treatment). Hỏi tiền sử đã đủ; làm hay không không trừ điểm."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 74 l/p, PR bình thường, không block.",
+     "ab": 0,
+     "n": "Chống chỉ định propranolol khi nhịp chậm nặng hoặc block nhĩ thất độ 2–3 (Hopfner 2024 (nguồn bổ sung tự tìm)). Mạch 74 và tim đều đã cho biết đủ; tài liệu đã tải không nêu ECG thường quy trước khi dùng. Chấp nhận, không bắt buộc."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "Không có dấu thiếu máu, nhiễm trùng hay bệnh hệ thống; không tài liệu đã tải nào nêu công thức máu trong chẩn đoán run vô căn."
+    },
+    "creat": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "Không có trong tài liệu đã tải chỉ định xét nghiệm chức năng thận hay điện giải cho run vô căn điển hình."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "Run đối xứng 5 năm, không đau đầu, không nôn, không dấu thần kinh khu trú: không giống u não. MDS 2018 xếp u não là nguyên nhân (Bảng 2) của run thứ phát và ghi khởi phát đột ngột, xấu đi từng bậc là tiêu chuẩn loại trừ run vô căn. Tài liệu đã tải không có khuyến cáo chụp não cho run vô căn điển hình; chụp SPECT FP-CIT chỉ khi không phân biệt được run vô căn với hội chứng parkinson (NICE NG71 2017, 1.2.6), ca này phân biệt được bằng khám. Nỗi sợ của ông được giải bằng khám và lời giải thích."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Run vô căn (hội chứng run vô căn), đáp ứng tiêu chuẩn: run tư thế và động tác hai tay, 5 năm, không dấu thần kinh khác",
+     "ok": 1,
+     "n": "MDS 2018 (TL-0478), mục Essential tremor: (1) hội chứng run đơn thuần của hai tay khi vận động, (2) ≥ 3 năm, (3) có hoặc không run ở vị trí khác (đầu), (4) không loạn trương lực, thất điều, parkinson. Tiền sử gia đình và run đỡ khi uống rượu thường gặp nhưng không nằm trong định nghĩa. Run đầu nhẹ không loại trừ."
+    },
+    {
+     "t": "Parkinson / hội chứng parkinson",
+     "n": "Loại trừ: hội chứng parkinson cần chậm vận động có giảm biên độ kèm run nghỉ hoặc cứng ống chì; run tư thế và run vận động đơn thuần không đủ (MDS 2015 (TL-0489), mục I Criteria for Parkinsonism). Ông không run nghỉ, gõ ngón nhanh đều, trương lực bình thường, dáng đi bình thường. Run nghỉ của Parkinson thường một bên, giảm khi làm động tác (MDS 2018 (TL-0478))."
+    },
+    {
+     "t": "Cường giáp (run sinh lý tăng cường do cường giáp)",
+     "n": "Loại trừ: không sút cân, sợ nóng, hồi hộp, mạch 74, tuyến giáp không to, mắt không lồi, TSH và FT4 bình thường (ATA 2016 (TL-0324), mục B2). Run sinh lý tăng cường thường kéo dài ngắn hơn 3 năm nhiều (MDS 2018 (TL-0478)); ông run 5 năm."
+    },
+    {
+     "t": "Run sinh lý tăng cường do lo âu, mệt, cà phê, rượu",
+     "n": "Là yếu tố làm nặng, không phải nguyên nhân chính: run đã 5 năm, có trước bữa tiệc. Lo âu và mệt làm run tăng (MDS 2018 (TL-0478), mục Enhanced physiological tremor). Cà phê: không có trong tài liệu đã tải; giảm cà phê là lời dặn thận trọng."
+    },
+    {
+     "t": "Run do cai rượu hoặc do độc chất (thuốc trừ sâu)",
+     "n": "Cai rượu và độc chất (DDT, lindane, mangan, thủy ngân...) nằm trong nhóm nguyên nhân run thứ phát (MDS 2018 (TL-0478), Bảng 2). Loại: nghỉ rượu một tuần mà run không đổi; run có từ trước khi phun thuốc; không dấu thần kinh khác. Không có trong tài liệu đã tải cách đo hoặc tiêu chuẩn nhiễm độc thuốc trừ sâu."
+    },
+    {
+     "t": "U não hoặc tổn thương thần kinh khu trú",
+     "n": "Loại trừ lâm sàng: không đau đầu, nôn, yếu liệt, rối loạn thị lực, ngôn ngữ; khám thần kinh bình thường. U não là nguyên nhân của run thứ phát (MDS 2018 (TL-0478), Bảng 2). Ông Sáu của hàng xóm là trường hợp khác, không suy ra cho ông."
+    },
+    {
+     "t": "Run vô căn plus, run loạn trương lực, run chức năng",
+     "n": "Không có dấu thần kinh nhẹ (đi nối gót bình thường, không tư thế loạn trương lực, không run nghỉ); run chức năng đặc trưng bởi dễ phân tâm, đổi tần số, khởi phát đột ngột (MDS 2018 (TL-0478), mục Functional Tremor, ET plus): ông không có."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi chú lo nhất điều gì, rồi giải thích: khám không thấy dấu hiệu u não hay Parkinson, đây là run vô căn, lành tính về mạng sống nhưng kéo dài",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp, không cần nguồn. Chẩn đoán lâm sàng theo MDS 2018, mục Essential tremor. Nỗi sợ ẩn chỉ lộ khi được hỏi."
+    },
+    {
+     "t": "Xét nghiệm TSH (± FT4) để loại cường giáp; không chụp não, không làm xét nghiệm khác",
+     "v": "c",
+     "n": "ATA 2016 (TL-0324), mục B2; MDS 2018 (TL-0478), Bảng 2. Không có chỉ định chụp não (xem cls)."
+    },
+    {
+     "t": "Hỏi hen, mạch chậm, block, tiểu đường, rồi khởi propranolol, tăng chậm theo tuần, dừng tăng khi có tác dụng phụ",
+     "v": "c",
+     "n": "AAN 2011 (TL-0494): propranolol và primidon là thuốc hiệu quả đã xác lập (mức A); propranolol là thuốc duy nhất được FDA chấp thuận cho run vô căn. Hopfner 2024 (nguồn bổ sung tự tìm): tăng 20 mg propranolol mỗi tuần, chia 3 lần/ngày; có tác dụng phụ thì không tăng nữa; không dùng khi nhịp chậm nặng hoặc block nhĩ thất độ 2–3, chống chỉ định khi hen, thận trọng khi tiểu đường. Liều khởi đầu, liều đích và liều tối đa: không có trong tài liệu đã tải (Hopfner chỉ nêu mốc 320 mg sau 4,5 tháng)."
+    },
+    {
+     "t": "Primidon liều rất thấp làm thuốc thay thế hoặc phối hợp",
+     "v": "a",
+     "n": "AAN 2011 (TL-0494) (mức A). Hopfner 2024 (nguồn bổ sung tự tìm): khởi liều rất thấp (25 mg buổi tối, tăng 25 mg mỗi 72 giờ), nhiều người bỏ thuốc trong 3 tháng đầu vì buồn nôn, chóng mặt, loạng choạng, buồn ngủ. Chọn propranolol trước vì ông 54 tuổi, đi xe máy và làm ruộng nên ít chấp nhận buồn ngủ, loạng choạng."
+    },
+    {
+     "t": "Cho levodopa hoặc thuốc điều trị Parkinson 'để thử'",
+     "v": "w",
+     "n": "Không có hội chứng parkinson (MDS 2015 (TL-0489), mục I) nên không có chỉ định."
+    },
+    {
+     "t": "Cho thuốc kháng giáp hoặc kiêng hải sản vì 'thừa i-ốt'",
+     "v": "w",
+     "n": "TSH, FT4 bình thường; không có cường giáp (ATA 2016 (TL-0324), mục B2). Hải sản chỉ là sự kiện trùng thời gian; không có trong tài liệu đã tải bằng chứng hải sản gây run."
+    },
+    {
+     "t": "Cho levetiracetam hoặc 3,4-diaminopyridin",
+     "v": "w",
+     "n": "AAN 2011 (TL-0494): hai thuốc này không nên cân nhắc cho run chi của run vô căn (mức B)."
+    },
+    {
+     "t": "Dặn không dùng rượu làm thuốc chữa run; giảm cà phê; hẹn tái khám sau 5 tuần để chỉnh liều",
+     "v": "c",
+     "n": "Rượu có thể làm run bớt ngắn hạn nhưng không đủ ổn định để đưa vào định nghĩa (MDS 2018 (TL-0478)); Hopfner 2024 ghi đáp ứng rượu không đặc hiệu cho một loại run. Không có trong tài liệu đã tải nguồn nêu tác hại cụ thể hay mốc tái khám; 5 tuần chọn theo bước tăng thuốc hằng tuần (Hopfner 2024 (nguồn bổ sung tự tìm))."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Run vô căn (hội chứng run vô căn, MDS 2018): run tư thế và động tác hai tay, 5 năm, kèm run đầu nhẹ, tiền sử gia đình dương tính (cha, anh)",
+     "Loại trừ: hội chứng parkinson (không chậm vận động, cứng, run nghỉ), cường giáp (TSH 1,7, FT4 15), run do cai rượu/độc chất, u não",
+     "Yếu tố làm nặng: lo âu, cà phê, sau tiệc rượu; yếu tố khởi phát tự gán: hải sản (không có cơ sở)",
+     "Lý do thật đến khám: sợ ung thư não như ông Sáu hàng xóm",
+     "Hướng xử trí: ngoại trú, propranolol tăng chậm, tái khám sau 5 tuần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi run bắt đầu bao lâu, lúc nghỉ hay lúc làm việc, một hay hai bên, gia đình, rượu, thuốc/độc chất, triệu chứng giáp, triệu chứng parkinson và dấu hiệu cảnh báo thần kinh → khám tuyến giáp, thần kinh, rồi khám run theo ba tình huống (nghỉ, giữ tư thế, vận động), chậm vận động, trương lực, dáng đi → TSH → chẩn đoán → xử trí.",
+     "Vì sao là run vô căn: hai tay, tư thế và động tác, 5 năm (≥ 3 năm), không dấu thần kinh khác (MDS 2018 (TL-0478)). Vì sao không phải Parkinson: hội chứng parkinson bắt buộc có chậm vận động giảm biên độ cộng run nghỉ hoặc cứng ống chì; ông không có (MDS 2015 (TL-0489)). Run nghỉ trong Parkinson giảm khi làm động tác, run của ông thì xuất hiện chính lúc làm động tác.",
+     "Vì sao hải sản không phải nguyên nhân: run có từ 5 năm; TSH bình thường. Bữa tiệc chỉ khiến run lộ ra (xấu hổ trước người thân) và rượu đế rồi tỉnh rượu có thể làm run rõ hơn tạm thời.",
+     "Lý do thật: sợ ung thư não. Người kể 'tui quê' nhưng đến vì ông Sáu. Hỏi 'chú lo nhất điều gì' mới nghe được."
+    ],
+    "phan_tich_xu_tri": [
+     "Propranolol là thuốc đầu tay có bằng chứng mức A (AAN 2011 (TL-0494)). Hỏi hen, mạch chậm, tiểu đường trước khi kê. Tăng chậm 20 mg/tuần, chia 3 lần/ngày, dừng tăng khi có tác dụng phụ (Hopfner 2024 (nguồn bổ sung tự tìm)). Liều khởi đầu và liều đích: không có trong tài liệu đã tải.",
+     "Primidon cũng mức A nhưng khó dung nạp lúc khởi đầu; để dành làm thuốc thêm hoặc đổi (Hopfner 2024 (nguồn bổ sung tự tìm)).",
+     "Không chụp não, không xét nghiệm thừa; TSH là xét nghiệm duy nhất đổi quyết định (ATA 2016 (TL-0324), mục B2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Propranolol",
+      "ham_luong": "Viên 40 mg (dùng 1/2 viên = 20 mg)",
+      "lieu": "Tuần 1: 20 mg/ngày. Mỗi tuần tăng thêm 20 mg/ngày (tuần 2: 40 mg, tuần 3: 60 mg), chia 3 lần/ngày. Dừng tăng ngay nếu mệt nhiều, chóng mặt khi đứng, tim chậm.",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng, trưa, tối",
+      "so_ngay": "5 tuần đến lần tái khám",
+      "ghi_chu": "Hopfner 2024 (nguồn bổ sung tự tìm): bước tăng 20 mg/tuần, chia 3 lần/ngày, có tác dụng phụ thì không tăng thêm. Liều 20 mg tuần đầu là suy từ bước tăng, tài liệu không nêu liều khởi đầu. Mức A cho run vô căn: AAN 2011 (TL-0494). Không dùng khi nhịp chậm nặng, block nhĩ thất độ 2–3; chống chỉ định hen; thận trọng tiểu đường (Hopfner 2024 (nguồn bổ sung tự tìm)). Ông không có các bệnh này."
+     }
+    ],
+    "dan_do": [
+     "Chú bị 'run vô căn': bệnh thường có trong gia đình (ba và anh chú), kéo dài nhiều năm, không phải ung thư não và không phải Parkinson. Khám của bác sĩ không thấy dấu hiệu nào của hai bệnh đó.",
+     "Hải sản không gây ra run của chú. Chú không cần kiêng hải sản.",
+     "Uống thuốc đều theo bảng tăng liều. Mệt nhiều, chóng mặt khi đứng dậy, tim đập chậm, khò khè, khó thở: ngưng tăng và báo ngay.",
+     "Đừng uống rượu để chữa run; giảm cà phê xuống 1 ly mỗi sáng.",
+     "Khi thấy mới xuất hiện: chậm chạp, đi bước ngắn, run lúc nghỉ, đau đầu, yếu tay chân, nói khó thì khám lại ngay.",
+     "Tái khám sau 5 tuần, mang theo vỏ thuốc."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 5 tuần",
+   "tiep_don": "Tái khám sau 5 tuần, đi một mình, mang theo vỏ thuốc. Ông cười nhẹ: 'đỡ chút chút'. Sinh hiệu lúc tiếp đón: mạch 62 l/p, HA 116/72 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ, uống thuốc thì tay đỡ chừng một phần ba, cầm chén bớt đổ. Mà ký tên vẫn run. Hổng biết thuốc này có hợp tui không, hay đổi thuốc khác?",
+   "sinh_hieu": {
+    "mach": 62,
+    "ha": "116/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "do_mot_phan",
+     "noi_dung": "Uống đều thì tay bớt run chừng một phần ba, nhất là lúc bưng chén. Ký tên, xỏ kim vẫn run. Vài việc ngoài ruộng đỡ hơn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến: đỡ một phần"
+    },
+    {
+     "id": "lieu",
+     "noi_dung": "Tuần ba tui uống tới 60 mg một ngày (ba lần, mỗi lần 20 mg). Từ đó thấy mệt lừ, đứng lên hơi choáng nên tui giữ nguyên, không tăng thêm như bác sĩ dặn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Liều hiện tại 60 mg/ngày; tác dụng phụ giới hạn tăng liều",
+     "dieu_kien_lo": "Ông kể khi bác sĩ hỏi uống liều nào, có tăng liều theo hẹn không, có tác dụng phụ không."
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Tui uống đủ ba lần mỗi ngày, quên chừng ba lần trong năm tuần, cầm vỏ thuốc đây, bác sĩ đếm coi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt: không phải nguyên nhân của đáp ứng một phần",
+     "dieu_kien_lo": "Ông kể khi bác sĩ hỏi uống có đều không, có quên liều không, hoặc xin xem vỏ thuốc."
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Mệt, tay chân hơi lạnh. Không khò khè, không khó thở, không ngất, ngủ ngon, không ác mộng. Cương dương như trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ nhẹ; không dấu hiệu chống chỉ định xuất hiện"
+    },
+    {
+     "id": "yeu_to_khac",
+     "noi_dung": "Cà phê vẫn 3 ly mỗi sáng vì không có cà phê uể oải. Rượu giảm còn 1–2 ly mỗi tối, không uống để trị run nữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố làm nặng: cà phê vẫn nhiều"
+    },
+    {
+     "id": "khong_moi",
+     "noi_dung": "Không có gì mới. Đi đứng vẫn bình thường, chữ vẫn cỡ cũ, không cứng người, không đau đầu, không táo bón.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu thần kinh mới"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: HA 118/74, mạch 62. Đứng 3 phút: HA 112/70, mạch 70, hơi choáng thoáng qua. Chênh 6/4 mmHg: không hạ huyết áp tư thế.",
+     "k": 1,
+     "hien": "Nằm: HA 118/74, mạch 62. Đứng 3 phút: HA 112/70, mạch 70, ông nói hơi choáng một lúc."
+    },
+    "tim": {
+     "a": "Tim đều 62 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 62 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran rít.",
+     "k": 1,
+     "hien": "Thở êm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "run_nghi": {
+     "a": "Tay để trên đùi: không run. Giơ hai tay: run tư thế hai bên, biên độ giảm khoảng một phần ba so với lượt 1, tay phải vẫn hơn. Rót nước, đưa thìa lên miệng: nước còn sánh nhẹ. Không có run nghỉ mới, không tăng dần khi tới đích.",
+     "k": 1,
+     "hien": "Ngồi yên: tay không run. Giơ hai tay: run nhẹ hơn lần trước. Bưng ly nước: nước sóng sánh ít."
+    },
+    "mat_giong_chu_viet": {
+     "a": "Viết tên: nét run nhẹ hơn lượt 1, cỡ chữ đều, không nhỏ dần. Xoắn ốc Archimedes đỡ răng cưa.",
+     "k": 1,
+     "hien": "Chữ viết còn run nhẹ, cỡ chữ đều. Đường xoắn ốc đỡ răng cưa."
+    },
+    "dong_tac_cham": {
+     "a": "Gõ ngón, sấp ngửa nhanh đều, không giảm biên độ.",
+     "k": 1,
+     "hien": "Gõ ngón tay nhanh đều hai bên."
+    },
+    "tang_truong_luc": {
+     "a": "Trương lực bình thường, không cứng ống chì.",
+     "k": 0
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng dậy không chống tay, bước dài, tay đung đưa đều, đi nối gót bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "tsh": {
+     "v": "n",
+     "r": "Không làm lại.",
+     "n": "TSH, FT4 bình thường 5 tuần trước; không triệu chứng giáp mới, mạch 62 dưới thuốc. Lặp lại không đổi quyết định (nguồn: ATA 2016 (TL-0324), mục B2, cho chỉ định xét nghiệm ban đầu; không có trong tài liệu đã tải khuyến cáo lặp)."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 60 l/p, PR bình thường, không block.",
+     "ab": 0,
+     "n": "Mạch 62 dưới propranolol; chống chỉ định khi nhịp chậm nặng hoặc block nhĩ thất độ 2–3 (Hopfner 2024 (nguồn bổ sung tự tìm)). Chấp nhận, không bắt buộc."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "Không dấu thần kinh mới; đáp ứng một phần với thuốc không nghĩa là có tổn thương khác. Không có trong tài liệu đã tải khuyến cáo chụp não khi run vô căn đáp ứng một phần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Run vô căn, đáp ứng một phần với propranolol 60 mg/ngày; liều bị giới hạn bởi mệt, chưa phải thất bại điều trị",
+     "ok": 1,
+     "n": "Giảm khoảng một phần ba, tuân thủ tốt. AAN 2011 (TL-0494): 30–50% bệnh nhân không đáp ứng với propranolol hoặc primidon, nên đáp ứng một phần là thường gặp. Hopfner 2024 (nguồn bổ sung tự tìm): có tác dụng phụ thì không tăng liều. Thất bại điều trị cần dùng đủ liều dung nạp được; chưa có tiêu chí thời gian trong tài liệu đã tải."
+    },
+    {
+     "t": "Tác dụng phụ của propranolol: mệt, choáng nhẹ khi đứng, mạch 62",
+     "n": "Hạ huyết áp, mệt là tác dụng phụ (Hopfner 2024 (nguồn bổ sung tự tìm)); không hạ huyết áp tư thế, không khò khè, mạch 62 chưa là nhịp chậm nặng."
+    },
+    {
+     "t": "Parkinson / hội chứng parkinson mới lộ",
+     "n": "Loại trừ: vẫn không chậm vận động, không cứng, không run nghỉ (MDS 2015 (TL-0489), mục I). ET có thể tiến thành hội chứng run phối hợp khi xuất hiện dấu mới (MDS 2018 (TL-0478)), nên khám lại mỗi lần."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Loại trừ: TSH, FT4 bình thường 5 tuần trước; không triệu chứng mới; mạch 62 (ATA 2016 (TL-0324), mục B2)."
+    },
+    {
+     "t": "Không tuân thủ, hoặc còn yếu tố làm nặng (cà phê 3 ly)",
+     "n": "Tuân thủ tốt (quên 3 lần trong 5 tuần). Cà phê vẫn nhiều có thể làm run nhiều hơn; không có trong tài liệu đã tải bằng chứng về caffeine."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kiểm tra tuân thủ, liều hiện tại, tác dụng phụ (mệt, choáng, hen, mạch) trước khi kết luận thuốc chưa hiệu quả",
+     "v": "c",
+     "n": "Đáp ứng một phần phải phân biệt với chưa đủ liều hoặc không uống. Hopfner 2024 (nguồn bổ sung tự tìm): tác dụng phụ thì không tăng liều. Chưa tiêu chuẩn thất bại trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ propranolol 60 mg/ngày, chia 3 lần, chưa tăng thêm khi đang mệt, chưa đổi thuốc",
+     "v": "c",
+     "n": "Hopfner 2024 (nguồn bổ sung tự tìm): không tăng liều khi có tác dụng phụ. Mốc 320 mg của Hopfner chỉ nêu cách tăng từng bước, không nêu liều tối đa chấp nhận."
+    },
+    {
+     "t": "Thêm primidon liều rất thấp (phối hợp) hoặc đổi sang primidon",
+     "v": "a",
+     "n": "AAN 2011 (TL-0494) (mức A). Hopfner 2024 (nguồn bổ sung tự tìm): phối hợp primidon 250 mg và propranolol 80 mg hiệu quả hơn từng thuốc; khởi 25 mg buổi tối, tăng 25 mg mỗi 72 giờ, không tăng trên 500 mg/ngày nếu không đáp ứng; hay bỏ thuốc trong 3 tháng đầu. Chấp nhận nếu ông muốn đỡ thêm trước mùa gặt; thuốc dạng hỗn dịch khó có ở tuyến cơ sở (không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Giảm cà phê (3 ly xuống 1 ly) và dặn lại không dùng rượu làm thuốc",
+     "v": "c",
+     "n": "Cà phê: không có trong tài liệu đã tải; lo âu, mệt làm run nặng thêm (MDS 2018 (TL-0478))."
+    },
+    {
+     "t": "Chụp não hoặc chuyển chuyên khoa thần kinh vì chưa đỡ hẳn",
+     "v": "a",
+     "n": "Chưa cần: không dấu mới. Chuyển khi vẫn không đáp ứng sau khi thử các thuốc mức A–B (AAN 2011 (TL-0494); thuốc mức B: alprazolam, atenolol, gabapentin đơn trị, sotalol, topiramate). Chấp nhận nếu bệnh nhân lo."
+    },
+    {
+     "t": "Đổi sang levodopa, hay kết luận 'Parkinson' vì không đáp ứng hoàn toàn",
+     "v": "w",
+     "n": "Không có hội chứng parkinson (MDS 2015 (TL-0489), mục I)."
+    },
+    {
+     "t": "Hẹn tái khám 2–3 tháng (vào lúc trước và sau mùa gặt), dặn quay lại sớm nếu có chậm chạp, run nghỉ, cứng",
+     "v": "c",
+     "n": "Mốc tái khám: không có trong tài liệu đã tải. Cảnh báo dấu mới: ET có thể tiến thành hội chứng khác (MDS 2018 (TL-0478), mục Essential tremor)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Run vô căn, đáp ứng một phần với propranolol 60 mg/ngày (giảm khoảng 1/3), liều bị giới hạn bởi mệt",
+     "Tác dụng phụ nhẹ của propranolol (mệt, choáng thoáng qua), không hạ huyết áp tư thế",
+     "Không có hội chứng parkinson, không cường giáp",
+     "Hướng xử trí: ngoại trú, giữ liều, giảm cà phê, cân nhắc primidon liều thấp, tái khám"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi mức đỡ, liều đang uống, quên liều, tác dụng phụ, yếu tố làm nặng, dấu hiệu mới → đo mạch, HA nằm–đứng, khám phổi (nghe khò khè) → khám run, chậm vận động, trương lực, dáng đi → chẩn đoán lại.",
+     "Vùng xám 'đỡ một phần': (1) chẩn đoán sai? Không, không dấu parkinson; (2) thuốc sai? Không, mức A; (3) không tuân thủ? Không, quên 3 lần; (4) chưa đủ liều? Có, dừng ở 60 mg vì mệt (Hopfner 2024 (nguồn bổ sung tự tìm)); (5) yếu tố làm nặng còn đó (cà phê, lo mùa gặt). AAN 2011 (TL-0494): 30–50% không đáp ứng với một trong hai thuốc đầu tay, nên đáp ứng một phần là bình thường.",
+     "Đây là hồi phục chậm/đáp ứng hạn chế, chưa phải thất bại điều trị: cần làm hết các bước trên trước khi đổi."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ propranolol 60 mg/ngày vì tăng thêm khi có tác dụng phụ là trái ghi chú của Hopfner 2024 (nguồn bổ sung tự tìm).",
+     "Thêm primidon liều rất thấp là lựa chọn có bằng chứng (Hopfner 2024 (nguồn bổ sung tự tìm): phối hợp hiệu quả hơn từng thuốc; AAN 2011 (TL-0494) mức A) nhưng tăng nguy cơ buồn nôn, chóng mặt; chấp nhận không bắt buộc. Quyết định cùng bệnh nhân.",
+     "Không chụp ảnh thần kinh, không lặp TSH, không dùng thuốc Parkinson."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Propranolol",
+      "ham_luong": "Viên 40 mg (dùng 1/2 viên = 20 mg)",
+      "lieu": "20 mg × 3 lần/ngày (60 mg/ngày), giữ nguyên, không tự tăng",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng, trưa, tối",
+      "so_ngay": "8 tuần đến lần tái khám",
+      "ghi_chu": "Hopfner 2024 (nguồn bổ sung tự tìm): có tác dụng phụ thì không tăng thêm; chia 3 lần/ngày. Liều tối đa chấp nhận: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Đáp ứng 1/3 là bình thường với thuốc này, chưa phải thuốc hỏng. Cứ uống đều ba lần mỗi ngày, đừng tự bỏ vì thấy 'đỡ rồi' hay vì 'sợ hại tim'.",
+     "Mệt, choáng khi đứng dậy: đứng lên từ từ. Khò khè, khó thở, ngất, tim chậm rõ: ngưng thuốc và đến khám ngay.",
+     "Giảm cà phê còn 1 ly; không uống rượu để chữa run.",
+     "Quay lại sớm nếu: đi chậm, bước ngắn, tay run lúc nghỉ, người cứng, đau đầu, yếu tay chân.",
+     "Nếu mùa gặt cần tay vững hơn, bàn lại thêm thuốc thứ hai với bác sĩ; không tự thêm thuốc."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · tái khám sau 4 tháng",
+   "tiep_don": "Gần 4 tháng sau lượt 2, ông tự đến lúc 9 giờ sáng, tay đặt trên đùi nhưng khi đưa giấy khám thì tay run rõ. Không mang theo thuốc. Sinh hiệu lúc tiếp đón: mạch 72 l/p, HA 130/82 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "loi_mo": "Bác sĩ ơi, tay tui run lại y như hồi đầu, có khi tệ hơn. Thuốc hết rồi. Em gái tui kêu đi chụp cộng hưởng từ cho chắc, kẻo bỏ sót bệnh gì.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "130/82",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tai_phat",
+     "noi_dung": "Tay run lại như hồi đầu từ khoảng sáu tuần nay. Mệt, thiếu ngủ là run nhiều hơn. Gặt xong không cầm nổi chén cơm cho vững.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Tái phát triệu chứng"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Uống tới hơn hai tháng thì hết thuốc, thấy đỡ nên không mua nữa. Nghe người ta nói uống thuốc 'huyết áp, tim' hoài hại, rồi bận mùa gặt ở xa. Không ai dặn bỏ, tui tự bỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguyên nhân tái phát: tự ngưng thuốc, không phải chẩn đoán sai",
+     "dieu_kien_lo": "Ông kể khi bác sĩ hỏi còn uống thuốc không, ngưng từ bao giờ và vì sao."
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Run lại nên tui uống rượu đế trở lại, 4–5 ly mỗi tối cho tay đỡ, có hôm uống thêm buổi sáng. Cà phê vẫn 3 ly.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tự chữa bằng rượu; tăng lượng rượu",
+     "dieu_kien_lo": "Ông kể khi bác sĩ hỏi uống rượu, cà phê bao nhiêu từ khi run lại."
+    },
+    {
+     "id": "khong_moi",
+     "noi_dung": "Không có gì mới. Đi đứng như cũ, chữ ký cỡ cũ, mặt không đơ, không cứng, không táo bón, ngửi mùi được. Không đau đầu, nôn, yếu liệt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu mới sau 9 tháng"
+    },
+    {
+     "id": "mri",
+     "noi_dung": "Em gái nói chụp cộng hưởng từ cho yên tâm. Tui nghe 'ông Sáu' nên run lại là sợ lại. Nếu bác sĩ nói không cần thì tui nghe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yêu cầu chụp cộng hưởng từ: nỗi lo ung thư quay lại",
+     "dieu_kien_lo": "Ông nói khi bác sĩ hỏi vì sao nghĩ tới chụp hình, hoặc hỏi nỗi lo hiện tại."
+    }
+   ],
+   "kham": {
+    "tim": {
+     "a": "Tim đều 72 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran rít.",
+     "k": 0,
+     "hien": "Thở êm.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "run_nghi": {
+     "a": "Tay trên đùi: không run. Giơ hai tay ra trước: run tư thế hai bên, biên độ trở về như lượt 1, tay phải hơn. Đầu lắc nhẹ khi nói chuyện. Rót nước: sánh nhiều. Không run nghỉ, không run một bên mới.",
+     "k": 1,
+     "hien": "Ngồi yên: tay không run. Giơ hai tay: run rõ như lần đầu. Bưng ly nước: nước sóng sánh nhiều."
+    },
+    "mat_giong_chu_viet": {
+     "a": "Nét mặt linh hoạt, giọng rõ. Chữ viết run, cỡ chữ đều, không nhỏ dần.",
+     "k": 0
+    },
+    "dong_tac_cham": {
+     "a": "Gõ ngón, mở nắm, sấp ngửa nhanh đều, không giảm biên độ.",
+     "k": 1,
+     "hien": "Gõ ngón tay và sấp ngửa nhanh đều."
+    },
+    "tang_truong_luc": {
+     "a": "Trương lực bình thường, nghiệm pháp tăng cường không lộ cứng.",
+     "k": 1,
+     "hien": "Cử động thụ động các khớp tay nhẹ nhàng."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng dậy không chống tay, bước dài, tay đung đưa đều, quay người hai bước, đi nối gót bình thường, kéo giữ thăng bằng tốt.",
+     "k": 1,
+     "hien": "Ông đứng, đi, quay người gọn, đi nối gót không loạng choạng."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, dây sọ bình thường, sức cơ 5/5, phản xạ đều, Babinski âm tính, không rung giật nhãn cầu, không loạn đo.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ct_nao": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "Khám lại không có dấu thần kinh mới (không chậm vận động, cứng, run nghỉ, thất điều); triệu chứng trở lại do ngưng thuốc. MDS 2018 chẩn đoán run vô căn bằng lâm sàng và loại trừ khi khởi phát đột ngột, xấu đi từng bậc. Tài liệu đã tải không có khuyến cáo chụp não cho trường hợp này; không có chỉ định SPECT (NICE NG71 2017, 1.2.6) vì phân biệt được bằng khám. Giải thích cho ông thay vì chụp."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "Không làm lại.",
+     "n": "Bình thường 9 tháng trước; không triệu chứng giáp mới. Không có trong tài liệu đã tải khuyến cáo lặp TSH khi run tái phát sau ngưng thuốc."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 72 l/p, PR bình thường.",
+     "ab": 0,
+     "n": "Khi định dùng lại chẹn beta; không bắt buộc (Hopfner 2024 (nguồn bổ sung tự tìm): chống chỉ định khi nhịp chậm nặng hoặc block nhĩ thất độ 2–3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Run vô căn, tái phát triệu chứng sau tự ngưng propranolol; không phải thất bại điều trị, không phải chẩn đoán sai",
+     "ok": 1,
+     "n": "Run trở về đúng mẫu lượt 1; khám lại không có dấu mới (chậm vận động, cứng, run nghỉ, thất điều); nguyên nhân là ngưng thuốc không hỏi ý kiến. MDS 2018 (TL-0478): ET có thể tiến thành hội chứng khác nên khám lại mỗi lần."
+    },
+    {
+     "t": "Parkinson / hội chứng parkinson",
+     "n": "Loại trừ lại sau 9 tháng: gõ ngón nhanh đều, trương lực bình thường, không run nghỉ, dáng đi bình thường (MDS 2015 (TL-0489), mục I). NICE NG71 (2017, 1.2.5) khuyên xem lại chẩn đoán Parkinson khi xuất hiện dấu không điển hình; ở đây chưa có."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Loại trừ: không triệu chứng giáp mới; TSH, FT4 bình thường 9 tháng trước (ATA 2016 (TL-0324), mục B2)."
+    },
+    {
+     "t": "Yếu tố làm nặng: tăng rượu 4–5 ly/ngày, cà phê 3 ly, thiếu ngủ mùa gặt",
+     "n": "Mệt, thiếu ngủ, lo âu làm run nặng (MDS 2018 (TL-0478)). Rượu làm run bớt ngắn hạn nhưng ông dùng như thuốc; tài liệu đã tải không nêu tác hại cụ thể. Cai rượu cũng là nguyên nhân run thứ phát (MDS 2018 (TL-0478), Bảng 2): hỏi cai rượu khi nghỉ."
+    },
+    {
+     "t": "U não hoặc tổn thương khu trú (nỗi lo ông Sáu quay lại)",
+     "n": "Không đau đầu, nôn, yếu liệt; khám thần kinh bình thường; run đối xứng 5 năm và trở lại ngay khi ngưng thuốc. Không có chỉ định chụp."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lý do ngưng thuốc, không trách; xác định hiểu lầm 'thuốc tim hại' và mùa gặt",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp. Nguyên nhân tái phát: tự ngưng thuốc."
+    },
+    {
+     "t": "Khám lại tìm dấu mới (chậm vận động, cứng, run nghỉ, loạn trương lực, nối gót) và ghi lại",
+     "v": "c",
+     "n": "MDS 2018 (TL-0478): ET có thể tiến thành hội chứng run phối hợp khi xuất hiện dấu thần kinh khác; MDS 2015 (TL-0489) định nghĩa hội chứng parkinson."
+    },
+    {
+     "t": "Dùng lại propranolol, tăng từ liều thấp mỗi tuần 20 mg, chia 3 lần/ngày, tới liều từng dung nạp (60 mg/ngày)",
+     "v": "c",
+     "n": "Hopfner 2024 (nguồn bổ sung tự tìm): tăng chậm 20 mg/tuần; có tác dụng phụ thì không tăng nữa. Tài liệu không nêu cách dùng lại sau khi ngưng 6 tuần; chọn tăng chậm là thận trọng (suy luận). Mức A: AAN 2011 (TL-0494)."
+    },
+    {
+     "t": "Không chụp cộng hưởng từ hay CT sọ; giải thích bằng kết quả khám",
+     "v": "c",
+     "n": "Xem cls. Tài liệu đã tải không có khuyến cáo chụp não cho ca này."
+    },
+    {
+     "t": "Dặn bỏ dần rượu, không dùng rượu thay thuốc; không đột ngột bỏ rượu nếu uống nhiều và hằng ngày, báo bác sĩ",
+     "v": "c",
+     "n": "MDS 2018 (TL-0478): cai rượu là nguyên nhân run (Bảng 2); Hopfner 2024: đáp ứng với rượu không đặc hiệu cho loại run. Mức rượu nguy hiểm và cách cai: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dùng propranolol theo nhu cầu (uống trước việc cần tay vững) thay cho dùng đều",
+     "v": "a",
+     "n": "Hopfner 2024 (nguồn bổ sung tự tìm): có người dùng khi cần (ví dụ phát biểu), cải thiện ngắn hạn 30–75% (trung bình 44%) theo đo gia tốc, kinh nghiệm dài hạn hạn chế. Ông run khi làm việc hằng ngày nên dùng đều là chính."
+    },
+    {
+     "t": "Nếu vẫn chưa đỡ đủ: thêm primidon liều thấp hoặc chuyển chuyên khoa thần kinh cân nhắc thuốc mức B hay can thiệp mức C",
+     "v": "a",
+     "n": "AAN 2011 (TL-0494): primidon mức A; alprazolam, atenolol, gabapentin đơn trị, sotalol, topiramate mức B; nadolol, nimodipine, clonazepam, botulinum toxin A, kích thích não sâu, cắt đồi thị mức C. Hopfner 2024 (nguồn bổ sung tự tìm): primidon khởi liều rất thấp."
+    },
+    {
+     "t": "Cho thuốc Parkinson hoặc 'thuốc bổ thần kinh'",
+     "v": "w",
+     "n": "Không có hội chứng parkinson (MDS 2015 (TL-0489), mục I); thuốc bổ thần kinh không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 8 tuần, rồi định kỳ; dặn quay lại sớm khi có dấu mới",
+     "v": "c",
+     "n": "Mốc tái khám: không có trong tài liệu đã tải. 8 tuần để chỉnh thuốc theo bước tăng hằng tuần (Hopfner 2024 (nguồn bổ sung tự tìm))."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Run vô căn, tái phát triệu chứng do tự ngưng propranolol (không phải chẩn đoán sai, không phải thất bại điều trị)",
+     "Khám lại không có hội chứng parkinson; không cường giáp; không dấu thần kinh khu trú",
+     "Yếu tố làm nặng: rượu 4–5 ly/ngày tự chữa, cà phê, thiếu ngủ mùa gặt",
+     "Lý do thật: nỗi sợ ung thư não quay lại khi run lại; em gái đề nghị chụp cộng hưởng từ",
+     "Hướng xử trí: dùng lại propranolol tăng chậm, không chụp hình, tái khám 8 tuần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi vì sao run lại, còn uống thuốc không → khai thác ngưng thuốc, rượu, cà phê, dấu mới → khám lại run, chậm vận động, trương lực, dáng đi, thần kinh → chẩn đoán.",
+     "Tái phát: (1) chẩn đoán sai? Không: không dấu parkinson sau 9 tháng, run đúng mẫu lượt 1; (2) nguyên nhân nền chưa xử lý? Có: run vô căn là bệnh mạn, thuốc chỉ giảm triệu chứng; (3) tuân thủ? Chính là nguyên nhân: tự ngưng; (4) yếu tố làm nặng: rượu, cà phê, thiếu ngủ.",
+     "Lý do thật: nỗi sợ u não. Chụp hình lúc này chỉ làm tăng nỗi sợ nếu có phát hiện tình cờ và không đổi xử trí; giải thích bằng khám lặp lại dấu bình thường."
+    ],
+    "phan_tich_xu_tri": [
+     "Khởi lại propranolol từ liều thấp, tăng 20 mg/tuần, dừng khi có tác dụng phụ (Hopfner 2024 (nguồn bổ sung tự tìm)); mức A (AAN 2011 (TL-0494)).",
+     "Không có trong tài liệu đã tải: liều tối đa, thời điểm bắt đầu lại sau ngưng; hai điểm này tự suy.",
+     "Nếu không đỡ đủ: primidon mức A, thuốc mức B/C hoặc chuyển chuyên khoa (AAN 2011 (TL-0494))."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Propranolol",
+      "ham_luong": "Viên 40 mg (dùng 1/2 viên = 20 mg)",
+      "lieu": "Tuần 1: 20 mg/ngày; tăng thêm 20 mg/ngày mỗi tuần tới 60 mg/ngày (20 mg × 3 lần), dừng tăng nếu mệt, choáng, tim chậm",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng, trưa, tối",
+      "so_ngay": "8 tuần đến lần tái khám, dùng liên tục",
+      "ghi_chu": "Hopfner 2024 (nguồn bổ sung tự tìm): tăng 20 mg/tuần, chia 3 lần/ngày. Mức A: AAN 2011 (TL-0494). Không dùng khi nhịp chậm nặng, block nhĩ thất độ 2–3, hen (Hopfner 2024 (nguồn bổ sung tự tìm))."
+     }
+    ],
+    "dan_do": [
+     "Run vô căn là bệnh kéo dài; thuốc chỉ giảm run khi còn uống. Tay run lại vì đã ngưng thuốc, không phải bệnh nặng hơn hay ung thư.",
+     "Đừng tự ngưng thuốc. Nếu thấy 'sợ hại tim' hay hết thuốc, nhắn hoặc đến hỏi, đừng bỏ.",
+     "Rượu không phải thuốc; giảm dần, nếu uống nhiều mỗi ngày thì đừng bỏ đột ngột mà hỏi bác sĩ. Cà phê còn 1 ly.",
+     "Chụp cộng hưởng từ chưa cần vì khám lại bình thường; sẽ chụp nếu có dấu mới: đau đầu, nôn, yếu liệt, đi chậm, run lúc nghỉ.",
+     "Tái khám sau 8 tuần."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tái khám sau 5 tuần: đỡ khoảng một phần ba với propranolol 60 mg/ngày, giữ liều vì mệt, bác sĩ giữ liều, giảm cà phê và hẹn 2–3 tháng. Mùa gặt đến, ông thấy đỡ, thuốc hết, nghe 'thuốc tim hại' nên tự ngưng, uống rượu đế 4–5 ly mỗi tối để trị run. Gần 4 tháng sau run trở lại như ban đầu; ông quay lại, em gái đòi chụp cộng hưởng từ. Khám lại không dấu mới nên chẩn đoán run vô căn giữ nguyên; dùng lại propranolol từ liều thấp, không chụp hình, hẹn 8 tuần. Tái phát do tự ngưng thuốc và rượu, không do chẩn đoán sai.",
+ "nhieu": [
+  "Hải sản 'thừa i-ốt': trùng thời điểm với tiệc, dễ kết luận do hải sản hoặc do cường giáp; TSH bình thường và run 5 năm.",
+  "Bệnh nhân hợp tác tốt: dễ kết luận nhanh khi không có nhiễu hành vi; vẫn phải hỏi lý do thật và nỗi sợ.",
+  "Rượu làm run đỡ: dễ nghĩ cai rượu hoặc nghiện rượu, hoặc coi là bằng chứng thuận lợi chẩn đoán; không nằm trong định nghĩa ET.",
+  "Thuốc trừ sâu và nghề nông: dễ quy kết ngộ độc; run có trước khi phun thuốc, không dấu thần kinh khác.",
+  "Run đầu nhẹ và hàng xóm bị u não: không loại trừ ET, nhưng gợi tìm dấu cảnh báo.",
+  "Nguồn lực đầy đủ: cám dỗ chụp cộng hưởng từ, SPECT, xét nghiệm tràn lan."
+ ],
+ "bai_hoc_bien": [
+  "Run vô căn là chẩn đoán lâm sàng theo tình huống kích hoạt (nghỉ, tư thế, vận động) và thời gian ≥ 3 năm; khám 3 tình huống là việc then chốt (MDS 2018).",
+  "Hội chứng parkinson cần chậm vận động có giảm biên độ kèm run nghỉ hoặc cứng ống chì; chỉ run tư thế/vận động không đủ (MDS 2015 mục I).",
+  "Lý do thật là nỗi sợ ung thư não từ người hàng xóm; chỉ lộ khi hỏi 'chú lo nhất điều gì'. Lời đầu 'quê trước họ hàng' chỉ là lý do nêu ra.",
+  "Đỡ một phần: kiểm tuân thủ và liều trước khi kết luận thất bại; propranolol bị giới hạn bởi tác dụng phụ, AAN 2011 nói 30–50% không đáp ứng một trong hai thuốc đầu tay.",
+  "Tái phát sau ngưng thuốc tự ý là chuyện của bệnh mạn tính và hiểu lầm 'thuốc tim hại', không phải chẩn đoán sai; phải khám lại tìm dấu mới mỗi lần vì ET có thể tiến thành hội chứng khác (MDS 2018).",
+  "Nguồn lực đầy đủ không có nghĩa là làm hết: TSH đổi quyết định, chụp não không."
+ ],
+ "diem_nho": [
+  "Run vô căn (MDS 2018): hội chứng run tay hai bên khi tư thế/vận động, ≥ 3 năm, có hoặc không run vị trí khác, không loạn trương lực, thất điều, parkinson; < 3 năm gọi là run chưa xác định; có dấu thần kinh nhẹ không rõ ý nghĩa là ET plus; run nghỉ trong ET xếp vào ET plus.",
+  "Hội chứng parkinson (MDS 2015): chậm vận động (chậm kèm giảm biên độ hoặc tốc độ) cộng run nghỉ 4–6 Hz hoặc cứng ống chì; run tư thế/vận động đơn thuần không đủ.",
+  "Cường giáp gây run sinh lý tăng cường; TSH là xét nghiệm sàng lọc đầu (ATA 2016 mục B2); run sinh lý tăng cường thường ngắn hơn 3 năm (MDS 2018).",
+  "Thuốc: propranolol và primidon mức A; 30–50% không đáp ứng; levetiracetam và 3,4-diaminopyridin không nên dùng (mức B) (AAN 2011).",
+  "Propranolol: tăng 20 mg/tuần, chia 3 lần/ngày, dừng tăng khi có tác dụng phụ; không dùng khi nhịp chậm nặng/block độ 2–3; chống chỉ định hen; thận trọng tiểu đường (Hopfner 2024)."
+ ],
+ "nguon": [
+  "MDS 2018 – Consensus Statement on the Classification of Tremors (TL-0478), Mov Disord 2018;33:75–87: mục Axis 1 (kích hoạt, rest tremor), mục Essential Tremor và khung 'Exclusion criteria', ET plus, Enhanced physiological tremor, Tremor combined with parkinsonism, Functional Tremor; Bảng 2 (nguyên nhân: cường giáp, thuốc, độc chất, cai rượu, u não).",
+  "MDS 2015 – Clinical Diagnostic Criteria for Parkinson's Disease (TL-0489): mục I Criteria for Parkinsonism, Bảng 1, tiêu chuẩn loại trừ tuyệt đối.",
+  "AAN 2011 – Evidence-based guideline update: treatment of essential tremor (TL-0494; kho cũ có thêm bản chữ): Abstract, mục New Recommendations, Clinical context.",
+  "ATA 2016 – Hyperthyroidism and other causes of thyrotoxicosis (TL-0324): mục B2 Biochemical evaluation.",
+  "NICE NG71 2017 – Parkinson's disease in adults (TL-0485): khuyến cáo 1.2.5 và 1.2.6.",
+  "Nguồn bổ sung tự tìm: Hopfner F, Buhmann C, Classen J, et al. Tips and tricks in tremor treatment. J Neural Transm 2024;131(10):1229–1246, https://doi.org/10.1007/s00702-024-02806-x (PMC11489236) – mục Propranolol for tremor treatment, Primidone for essential tremor.",
+  "Không có trong tài liệu đã tải: liều khởi đầu, liều đích và liều tối đa của propranolol/primidon cho run vô căn; thuốc dạng viên nhỏ ở Việt Nam; mốc tái khám; chỉ định chụp ảnh thần kinh cho run vô căn điển hình; vai trò của caffeine; tác hại cụ thể của dùng rượu chữa run; cách dùng lại thuốc sau ngưng."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: Sonnet, 12/10/2026. Tài liệu đã đọc: TL-0478 (MDS 2018), TL-0489 (MDS 2015), TL-0494 (AAN 2011), TL-0324 (ATA 2016, mục B2), TL-0485 (NICE NG71, 1.2.1–1.2.6), tham khảo TL-0039 (QĐ 3879/2014: propranolol cho cường giáp, không dùng làm liều run vô căn); nguồn bổ sung PubMed: Hopfner 2024.",
+  "Liều propranolol/primidon dựa chủ yếu vào một bài tổng quan (Hopfner 2024) vì các tài liệu đã tải không nêu liều cho run vô căn; liều tuần 1 (20 mg/ngày) suy từ bước tăng 20 mg/tuần. Cần bác sĩ kiểm tra.",
+  "Khám 'run_nghi', 'dong_tac_cham', 'tang_truong_luc', 'dang_di_thang_bang', 'mat_giong_chu_viet' dùng mục danh mục đã có (TK-0479). Không đề xuất danh mục mới. Không có SPECT FP-CIT và MRI trong danh mục CLS: ghi trong n của ct_nao.",
+  "Không có mâu thuẫn nguồn mới để đưa vào sổ."
+ ]
+}
