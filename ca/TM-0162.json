@@ -1,0 +1,508 @@
+{
+ "ma_ca": "TM-0162",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_viem_xoang_man",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm xoang mạn",
+  "chan_doan_phai_loai_tru": [
+   "U hốc mũi",
+   "Nấm xoang"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Pha chế",
+  "yeu_to_khoi_phat": "Sau ăn hải sản",
+  "thuoc_dang_dung": "Không",
+  "ly_do_that_su_den_kham": "Khó khăn tài chính, ngại xét nghiệm"
+ },
+ "benh_nhan": {
+  "ten": "Trần Minh Khôi",
+  "tuoi": 27,
+  "gioi": "Nam",
+  "nghe": "Nhân viên pha chế quán cà phê",
+  "can_nang": 62,
+  "chieu_cao": 171,
+  "xung_ho": "Bác sĩ gọi anh Khôi. Anh xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Khôi 27 tuổi, pha chế ca chiều tối ở một quán cà phê, thuê trọ, gửi tiền về quê. Hiền, ít nói, hay cười trừ, ngại làm phiền và ngại bị la. Quen tự mua thuốc ở hiệu thuốc vì sợ bị bắt đi xét nghiệm tốn tiền.",
+  "kieu_nhieu": "Giấu tiền sử: trả lời ngắn 'dạ không', không tự kể đã uống kháng sinh nhiều đợt và đang hút thuốc lá điện tử vì sợ bị trách. Nếu bị hỏi dồn bằng câu đóng thì chỉ 'dạ, dạ'; hỏi riêng, nhẹ nhàng về thuốc mua ở hiệu thuốc và về thói quen hút thì anh mới kể. Hỏi giá trước khi đồng ý làm xét nghiệm.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a985",
+   "toc": "#1d1512",
+   "kieuToc": "ngan",
+   "ao": "#2f3b4a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nghẹt mũi, chảy mũi đặc mấy tháng nay, nặng hơn từ sau bữa lẩu hải sản",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Trần Minh Khôi, 27 tuổi, nhân viên pha chế, tự đến khám vì nghẹt mũi, chảy mũi mấy tháng, nặng hơn từ hôm kia. Anh nói ít, hỏi giá trước khi đồng ý làm gì. Sinh hiệu: nhiệt độ 36,8 °C, mạch 78 l/p, HA 118/74 mmHg, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 62 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Khôi bị giữ nhập viện vì 'viêm xoang nặng' dù không sốt, không phù quanh mắt, không đau đầu dữ dội, không dấu thần kinh. Anh mất nhiều ngày công, viện phí vượt xa số tiền mang theo, quản lý quán không muốn nhận lại. Không có dấu cảnh báo biến chứng ổ mắt hay nội sọ cần chuyển ngay (EPOS 2020, Hình 1.6.1, khung dấu hiệu cảnh báo, tr. 13), nên nhập viện không đem lại lợi ích điều trị và còn dạy anh sợ đi khám lần sau.",
+    "chuyen_tuyen": "Anh bị chuyển ngay lên bệnh viện tuyến trên để chụp CT và hội chẩn, trong khi chưa từng được dùng rửa mũi và corticoid xịt mũi, là bước đầu của đường điều trị bệnh viêm xoang mạn lan tỏa hai bên (EPOS 2020, mục 1.6.2, tr. 16; Hình 1.6.1, tr. 13). Anh tốn tiền xe, tiền CT và nghỉ làm cả ngày, đúng điều anh sợ nhất. Anh dễ nản, tự mua thuốc ở hiệu thuốc trở lại và bỏ tái khám."
+   },
+   "loi_mo": "Bác sĩ ơi, em bị nghẹt mũi với chảy mũi hoài mấy tháng nay. Hôm kia ăn lẩu hải sản xong là nặng hẳn, chắc em bị dị ứng hải sản rồi. Bác sĩ cho em thuốc dị ứng, loại nào rẻ rẻ thôi nha.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "118/74",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nghẹt mũi, chảy mũi đặc, tức má, ngửi kém mấy tháng nay; hai hôm nay nặng hơn sau bữa lẩu hải sản. Anh nghĩ mình dị ứng hải sản và muốn xin thuốc rẻ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai) và yếu tố đổ lỗi: hải sản"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 5 tháng trước (khoảng 20 tuần) anh bị cảm kèm sổ mũi. Sốt hết sau một tuần nhưng nghẹt mũi và chảy mũi không hết; từ đó không có quãng nào mũi hoàn toàn sạch. Có ngày đỡ, có ngày nặng, không theo mùa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian triệu chứng > 12 tuần là mốc phân biệt viêm xoang mạn với cấp (EPOS 2020, mục 2.1.3.3, tr. 32; QĐ 5643/2015, Viêm mũi xoang mạn tính, mục 1, tr. 98)"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Nghẹt mũi cả hai bên, thay phiên bên nặng bên nhẹ. Chảy mũi đặc vàng xanh, dịch xuống họng nên hay hắng giọng, buổi sáng ho khan. Tức nặng hai má và giữa trán, nhất là khi cúi đầu. Ngửi kém rõ: bạn đồng nghiệp nhắc anh pha lệch hương. Bạn gái nói hơi thở anh hôi. Không tự ngửi thấy mùi thối trong mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đủ ≥ 2 triệu chứng, trong đó có nghẹt mũi/chảy mũi, ± đau mặt, ± giảm ngửi, hai bên (EPOS 2020, mục 2.1.3.3; QĐ 5643/2015, mục 3.1.1)"
+    },
+    {
+     "id": "dot_nang",
+     "noi_dung": "Hai ngày nay mủ nhiều hơn, tức má tăng, hắt hơi vài cái. Không sốt, không ớn lạnh, mi mắt không sưng, không nhìn đôi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đợt nặng lên trên nền mạn tính; chưa có dấu hiệu cảnh báo"
+    },
+    {
+     "id": "hai_san",
+     "noi_dung": "Anh ăn tôm cua từ nhỏ, chưa bao giờ nổi mề đay, phù môi, khó thở hay đau bụng sau ăn. Bữa lẩu cay tối thứ bảy làm chảy mũi nhiều lúc ăn, hôm sau mũi đặc và tức hơn. Không ngứa mắt, không ngứa mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố đánh lạc hướng: không có dị ứng thức ăn typ tức thì; thời điểm trùng nhau không chứng minh nhân quả"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Mũi bị hai bên. Không chảy máu mũi, không đóng vảy, không đau dữ dội, không tê má, không răng lung lay, không sưng quanh mắt, không nhìn đôi, không mờ mắt, không đau đầu dữ dội, không sốt cao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu cảnh báo (triệu chứng một bên, chảy máu, đóng vảy, cacosmia, đau dữ dội, dấu hiệu ổ mắt/thần kinh): loại u và biến chứng (EPOS 2020, Hình 1.6.1, tr. 13; QĐ 5643/2015, U ác tính mũi xoang, mục 3, tr. 123)"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không hắt hơi thành tràng buổi sáng, không ngứa mũi mắt theo mùa, không chàm, không hen hay khò khè. Thỉnh thoảng uống ibuprofen đau đầu, không khò khè sau thuốc. Chưa dị ứng thuốc nào (đã uống amoxicillin).",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại viêm mũi dị ứng và bệnh đường hô hấp đi kèm (QĐ 5643/2015, mục 3.2, tr. 99; AAO-HNSF 2025, KAS 8)"
+    },
+    {
+     "id": "rang",
+     "noi_dung": "Không đau răng hàm trên, chưa nhổ hay trám răng trong năm qua.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại viêm xoang do răng (QĐ 5643/2015, Viêm mũi xoang do nấm, mục 3.2, tr. 121)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khỏe, không đái tháo đường, không biết nhiễm HIV, không bệnh mạn, không dùng corticoid hay thuốc ức chế miễn dịch. Chưa mổ mũi, chưa chấn thương mũi, không ngáy. Chưa từng bị viêm xoang trước đây.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có suy giảm miễn dịch/đái tháo đường: bớt nghĩ nấm xoang xâm lấn (QĐ 5643/2015, Viêm mũi xoang do nấm, mục 3.1.3, tr. 120; EPOS 2020, Hình 1.6.2)"
+    },
+    {
+     "id": "kscs",
+     "noi_dung": "Trong 5 tháng qua anh tự mua 3 đợt kháng sinh ở hiệu thuốc: hai đợt amoxicillin vài ngày, một đợt azithromycin 3 ngày, kèm thuốc ho. Mỗi lần đỡ vài ngày rồi lại như cũ. Đợt cuối cách đây khoảng 3 tuần, hiện không uống thuốc nào. Anh chưa từng rửa mũi hay xịt thuốc mũi bài bản.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Đã dùng kháng sinh nhiều đợt không hiệu quả: không dùng thêm kháng sinh thường quy; chưa thử điều trị nền",
+     "dieu_kien_lo": "Khi bác sĩ hỏi riêng, không phán xét, về thuốc mua ở hiệu thuốc, thuốc đã tự uống hay kháng sinh trong mấy tháng qua"
+    },
+    {
+     "id": "vape",
+     "noi_dung": "Anh hút thuốc lá điện tử 2 năm nay, gần như mỗi ngày, hút trong giờ nghỉ sau quầy. Anh giấu vì quán cấm và sợ bị mắng.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Khói thuốc là yếu tố nguy cơ cần bỏ (QĐ 5643/2015, mục 6, tr. 101; EPOS 2020, mục 1.5.1, tr. 10: CRS phổ biến hơn ở người hút thuốc)",
+     "dieu_kien_lo": "Khi bác sĩ hỏi về hút thuốc lá, thuốc lá điện tử, khói bụi, hoặc hỏi nhẹ nhàng về thói quen trong giờ nghỉ"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Pha chế ca chiều đến 1 giờ sáng trong quán điều hòa lạnh, tiếp xúc hương liệu và đá. Cần ngửi và nếm để pha đúng hương vị. Ngửi kém làm anh pha lệch, quản lý đã nhắc hai lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề cần khứu giác: giảm ngửi ảnh hưởng thu nhập; lời giải thích cần nói rõ khả năng hồi phục"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Lương khoảng chín triệu mỗi tháng, trả tiền trọ và gửi về quê; hôm nay mang theo khoảng năm trăm nghìn. Anh hỏi giá từng xét nghiệm, nghe CT hơn một triệu là định bỏ về. Nếu bác sĩ nói rõ xét nghiệm nào đổi cách điều trị thì anh nghe.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ràng buộc tài chính: xếp ưu tiên"
+    },
+    {
+     "id": "tam_ly",
+     "noi_dung": "Lý do thật anh đến lúc này: anh trì hoãn nhiều tháng vì sợ bị chỉ định chụp phim, xét nghiệm tốn tiền. Anh chỉ đến vì ngửi kém đã làm anh pha sai và sợ mất việc. Anh mong bác sĩ nói rõ anh có bị mất khứu giác luôn không.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: lo mất việc, lo chi phí. Cần trấn an bằng kế hoạch chi phí thấp",
+     "dieu_kien_lo": "Khi bác sĩ hỏi anh lo nhất điều gì, hoặc hỏi ảnh hưởng của bệnh đến công việc và sinh hoạt"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, thể trạng trung bình. Không sốt. Niêm mạc hồng. Hơi thở hơi hôi.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Ấn đau nhẹ hai má và gốc mũi, không sưng đỏ, không phù mi. Gõ trán không đau. Không sờ thấy hạch cổ.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng: dịch nhầy mủ chảy dọc thành sau họng, niêm mạc đỏ nhẹ, amidan không to. Tai: màng nhĩ hai bên bình thường. Mũi (soi trước): niêm mạc phù đỏ, cuốn dưới hai bên to, có dịch nhầy mủ ở sàn mũi, vách ngăn lệch nhẹ sang phải. Không thấy khối.",
+     "k": 1
+    },
+    "noi_soi_mui": {
+     "a": "Nội soi ống mềm hai bên: dịch mủ nhầy chảy ra từ khe giữa hai bên, niêm mạc khe giữa phù nề, cuốn giữa phải hơi to. Không có polyp ở khe giữa, không khối, không mảng khô nâu đen hay khối nấm, không loét, không chảy máu. Vòm họng không có khối. (Tiêu chuẩn dấu hiệu nội soi: mủ nhầy hoặc phù nề ở khe giữa, EPOS 2020, mục 2.1.2.1, tr. 31; chưa thấy polyp nên là thể không polyp, mục 2.1.4.1, tr. 32.)",
+     "k": 1
+    },
+    "thu_khuu_giac": {
+     "a": "Thử từng bên bằng ba mùi quen thuộc (cà phê, xà phòng, chanh): nhận ra 1/3 mùi bên phải, 1/3 mùi bên trái; mô tả 'mùi nhạt, biết có mà không phân biệt'. Giảm ngửi hai bên mức vừa, không mất hoàn toàn. (Nên đo khứu giác khách quan vì người bệnh thường không tự đánh giá đúng, EPOS 2020, mục 1.5.4.2, tr. 15; bộ test chuẩn như UPSIT hay Sniffin' Sticks không có sẵn ở phòng khám nên dùng mùi quen thuộc, mức cụ thể do biên tập chọn.)",
+     "k": 1
+    },
+    "mat": {
+     "a": "Thị lực 10/10 hai mắt. Không phù mi, không lồi mắt, vận nhãn đủ các hướng, không nhìn đôi, đồng tử đều phản xạ tốt.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, tần số 78 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran. Không khò khè.",
+     "k": 0,
+     "hien": "Nhịp thở 16 l/p.",
+     "media": [
+      {
+       "vi_tri": "Hai phế trường",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 7,6 G/L · Neutrophil 60% · Hb 148 g/L · TC 262 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 60.0,
+      "neu": 4.6,
+      "lym_pct": 30.0,
+      "lym": 2.3,
+      "mono_pct": 6.0,
+      "mono": 0.46,
+      "eos_pct": 3.5,
+      "eos": 0.27,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 5.2,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 87.0,
+      "mch": 29.0,
+      "mchc": 338,
+      "rdw": 13.0,
+      "plt": 262
+     },
+     "n": "Không cần: không đổi xử trí và anh không đủ tiền. Công thức máu không dùng để chẩn đoán viêm xoang mạn. Xét nghiệm miễn dịch chỉ xét khi bệnh dai dẳng hoặc tái phát (AAO-HNSF 2025, KAS 9, mức Option; EPOS 2020, Hình 1.6.2, tr. 14)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 3 mg/L",
+     "ab": 0,
+     "bang": {
+      "crp": 3
+     },
+     "n": "Không cần: viêm xoang mạn là bệnh viêm, không tiêu chuẩn theo CRP. Không đổi xử trí."
+    },
+    "xq_xoang": {
+     "v": "n",
+     "r": "Mờ nhẹ hai xoang hàm, không rõ mức dịch.",
+     "ab": 1,
+     "n": "Không cần: phim X-quang thông thường không còn chỉ định trong viêm xoang mạn (EPOS 2020, mục 1.5.4.2, tr. 15); QĐ 5643/2015 (mục 3.1.2, tr. 98) cũng ghi hình ảnh không rõ, ít sử dụng."
+    },
+    "ct_xoang": {
+     "v": "a",
+     "r": "CT mũi xoang: dày niêm mạc xoang hàm hai bên và sàng trước hai bên, mờ khe giữa và phức hợp lỗ ngách hai bên; vách ngăn lệch nhẹ sang phải; cuốn giữa phải bóng hơi nhẹ. Không polyp, không khối, không tiêu xương, không vôi hóa trong xoang.",
+     "ab": 1,
+     "n": "Chấp nhận nhưng chưa bắt buộc: CT là chuẩn vàng hình ảnh (EPOS 2020, mục 1.5.4.2, tr. 15); AAO-HNSF 2025 KAS 7b cho phép xác nhận bằng nội soi hoặc khám mũi trước, không bắt buộc CT. Đường điều trị EPOS 2020 (Hình 1.6.1, tr. 13) đưa CT vào tuyến chuyên khoa sau 6–12 tuần điều trị nền không đỡ, trừ khi một bên hoặc nghi u. Cùng đoạn ghi một số nghiên cứu gần đây cho rằng CT sớm có thể rẻ hơn dùng kháng sinh kéo dài theo kinh nghiệm. QĐ 5643/2015 (mục 3.1.2, tr. 99) liệt kê CT là cận lâm sàng. Anh không đủ tiền nên làm sau nội soi nếu thật sự cần."
+    },
+    "test_lay_da": {
+     "v": "n",
+     "r": "Âm tính với dị nguyên hít thường gặp và hải sản.",
+     "ab": 0,
+     "n": "Chưa cần ở lượt đầu: làm dị nguyên khi điều trị nền 6–12 tuần không đỡ (EPOS 2020, Hình 1.6.2, tr. 14); AAO-HNSF 2025 KAS 9: xét nghiệm dị ứng là Option. Lời kể không gợi dị ứng thức ăn tức thì."
+    },
+    "ige_tong": {
+     "v": "n",
+     "r": "IgE toàn phần 62 IU/mL",
+     "ab": 0,
+     "n": "Chưa cần, như test lẩy da (EPOS 2020, Hình 1.6.2, tr. 14)."
+    },
+    "glu": {
+     "v": "n",
+     "r": "Glucose 5,0 mmol/L",
+     "ab": 0,
+     "bang": {
+      "glu": 5.0
+     },
+     "ghi_chu_mau": "Mẫu lấy lúc khám, anh không nhịn đói.",
+     "n": "Không cần: anh 27 tuổi, không triệu chứng đái tháo đường, hình ảnh nội soi không gợi nấm. Đái tháo đường và suy giảm miễn dịch là yếu tố nguy cơ nấm xâm lấn (QĐ 5643/2015, mục 3.1.3, tr. 120)."
+    },
+    "virus_mau": {
+     "v": "n",
+     "r": "HBsAg, anti-HCV, HIV âm tính.",
+     "ab": 0,
+     "n": "Không cần: không có yếu tố nguy cơ. Đánh giá miễn dịch dành cho viêm xoang mạn dai dẳng hoặc tái phát (AAO-HNSF 2025, KAS 8 và 9)."
+    },
+    "ct_nao": {
+     "n": "Không cần: không đau đầu dữ dội, không dấu thần kinh. Chỉ làm khi nghi biến chứng nội sọ (EPOS 2020, Hình 1.6.1, tr. 13)."
+    },
+    "soi_nam": {
+     "n": "Không cần: soi KOH dành cho bệnh phẩm da, móng, tóc; không dùng chẩn đoán nấm xoang. Nội soi không thấy khối nấm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mũi xoang mạn không polyp, lan tỏa hai bên, đợt nặng lên (viêm xoang mạn)",
+     "ok": 1,
+     "n": "Triệu chứng > 12 tuần (khoảng 20 tuần), nghẹt mũi và chảy mũi mủ, tức má và giảm ngửi, hai bên; nội soi có mủ nhầy và phù nề khe giữa, không polyp (EPOS 2020, mục 2.1.2.1 và 2.1.3.3, tr. 31–32; QĐ 5643/2015, Viêm mũi xoang mạn tính, mục 1 và 3.1.1, tr. 98). Có bằng chứng khách quan bằng nội soi (AAO-HNSF 2025, KAS 7b, mức Strong, cho phép soi mũi trước hoặc nội soi hoặc CT). Hai ngày nặng hơn là đợt nặng lên trên nền mạn tính; AAO-HNSF 2025 KAS 7a mô tả CRS là bệnh viêm có thể có đợt nhiễm khuẩn. Ghi chú: bản chữ TL-0547 là bài tóm tắt tiếng Thái của CPG, số KAS lấy theo bài tóm tắt."
+    },
+    {
+     "t": "U hốc mũi, xoang (lành hoặc ác tính)",
+     "n": "Loại trừ: bệnh hai bên, không chảy máu, không đóng vảy, không đau dữ dội, không tê má hay răng lung lay, không lồi mắt hay nhìn đôi; nội soi không thấy khối. Triệu chứng một bên, chảy máu là dấu hiệu cảnh báo cần chuyển ngay (EPOS 2020, Hình 1.6.1, tr. 13). U mũi xoang thường khởi phát giống viêm xoang mạn nhưng một bên và đôi khi chảy máu (QĐ 5643/2015, U lành tính mũi xoang, Mở đầu, tr. 84; U ác tính mũi xoang, mục 3, tr. 123). ESMO-EURACAN 2025 (Clinical diagnosis): triệu chứng thường gặp là nghẹt mũi và chảy mũi một bên, đau mặt/răng, chảy máu cam; cần nội soi và sinh thiết. Tuổi 27 và bệnh hai bên làm khả năng thấp, nhưng nếu điều trị nền không đỡ hoặc có một bên thì phải nội soi lại, CT, sinh thiết."
+    },
+    {
+     "t": "Nấm xoang (u nấm, thể xâm lấn, thể dị ứng với nấm)",
+     "n": "Loại trừ: u nấm thường ở một xoang, hay một bên (QĐ 5643/2015, Viêm mũi xoang do nấm, mục 3.2, tr. 121); thể xâm lấn nặng chỉ ở người suy giảm miễn dịch hoặc đái tháo đường, kèm đau mặt, sốt, chảy mũi lẫn máu, tổn thương ổ mắt (mục 3.1.3, tr. 120; EPOS 2020, Hình 1.6.2, tr. 14). Anh không có các yếu tố này, nội soi không thấy khối nâu đen hay polyp, CT (nếu làm) không có vôi hóa. Thể dị ứng với nấm liên quan polyp (QĐ 5643/2015, mục 3.1.4, tr. 121), anh không có polyp. Thuốc kháng nấm không có lợi trong viêm xoang mạn thông thường (EPOS 2020, Bảng 1.6.1, tr. 19)."
+    },
+    {
+     "t": "Viêm mũi dị ứng (hoặc dị ứng hải sản)",
+     "n": "Loại trừ lâm sàng: viêm mũi dị ứng hắt hơi, ngứa mũi, chảy nước mũi trong, không mủ ở khe giữa, cuốn nhợt (QĐ 5643/2015, mục 3.2, tr. 99). Anh có mủ ở khe giữa, không ngứa, ăn hải sản từ nhỏ không có phản ứng tức thì. Thời điểm trùng nhau không chứng minh nhân quả; bằng chứng kiêng hải sản giúp viêm xoang mạn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm mũi xoang cấp do vi khuẩn",
+     "n": "Loại trừ: viêm xoang cấp kéo dài dưới 12 tuần (EPOS 2020, mục 2.1.3.1, tr. 32); bệnh của anh khoảng 20 tuần. Hai ngày nặng hơn không sốt, không phù mi nên là đợt nặng lên trên nền mạn tính, không phải một đợt cấp độc lập. Đây cũng là chỗ dễ neo vào chẩn đoán 'xoang cấp' và kê tiếp kháng sinh lần thứ tư."
+    },
+    {
+     "t": "Polyp mũi (viêm xoang mạn có polyp)",
+     "n": "Loại trừ: nội soi không có polyp ở khe giữa. Định nghĩa CRS có polyp: polyp hai bên thấy được ở khe giữa qua nội soi (EPOS 2020, mục 2.1.4.1, tr. 32). QĐ 5643/2015 (Bệnh polyp mũi) ghi polyp là thoái hóa niêm mạc có thể do viêm mũi xoang mạn."
+    },
+    {
+     "t": "Viêm xoang do răng",
+     "n": "Loại trừ: không đau răng hàm trên, chưa can thiệp răng, bệnh hai bên. Viêm xoang do răng thường một bên (QĐ 5643/2015, mục 3.2 bài nấm xoang, tr. 121: cần khám răng, chụp panorama khi nghi). AAO-HNSF 2025 KAS 14 xếp viêm xoang do răng là thể thứ phát."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về điều trị ngoại trú, hẹn tái khám; không nhập viện, không chuyển tuyến ngay",
+     "v": "c",
+     "n": "Không có dấu hiệu cảnh báo (EPOS 2020, Hình 1.6.1, tr. 13); viêm xoang mạn lan tỏa hai bên chưa đáp ứng điều trị nền thì mới chuyển tuyến chuyên khoa sau 6–12 tuần (cùng hình). Mốc tái khám sớm do biên tập chọn."
+    },
+    {
+     "t": "Rửa mũi bằng nước muối đẳng trương hằng ngày",
+     "v": "c",
+     "n": "EPOS 2020 (Bảng 1.6.1, tr. 19): rửa mũi nước muối đẳng trương hoặc Ringer lactat có hiệu quả; khuyên không dùng nước muối ưu trương vì tác dụng phụ. AAO-HNSF 2025 KAS 11 (Recommendation): rửa mũi nước muối và/hoặc corticoid xịt mũi. QĐ 5643/2015 (mục 4.3.1, tr. 99): rửa mũi nước mũi sinh lý. Số lần mỗi ngày và thể tích: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Corticoid xịt mũi hằng ngày, dạy kỹ thuật xịt, dùng liên tục ít nhất 12 tuần",
+     "v": "c",
+     "n": "EPOS 2020 (Bảng 1.6.1, tr. 18): bằng chứng 1a, dùng dài hạn hiệu quả và an toàn, không khuyên liều cao hơn; mục 6.1.5.4, tr. 223–224: thường dùng từ 12 tuần trở lên. QĐ 5643/2015 (mục 4.3.1, tr. 99–100): corticoid xịt. Hiệu quả ở CRS không polyp nhỏ hơn có polyp (EPOS 2020, mục 6.1.5.3, SMD −0,30 so với −0,93), cần nói rõ để anh kiên nhẫn."
+    },
+    {
+     "t": "Về kháng sinh: không kê kháng sinh thường quy cho viêm xoang mạn, hoặc kháng sinh uống khoảng 2–3 tuần theo hướng dẫn trong nước",
+     "v": "c",
+     "n": "Hai nguồn khác nhau. QĐ 5643/2015 (Viêm mũi xoang mạn tính, mục 4.3.1, tr. 99): kháng sinh thường 2–3 tuần. EPOS 2020 (Hình 1.6.1, tr. 13; mục 1.6.2, tr. 16) khuyên tránh kháng sinh trong điều trị ban đầu, Bảng 1.6.1 (tr. 18) cho rằng hiệu quả của đợt kháng sinh ngắn chưa chắc; AAO-HNSF 2025 KAS 14 khuyên không dùng kháng sinh theo kinh nghiệm trong CRS (trừ thể thứ phát như do răng, hoặc có biến chứng). Khác nhau do năm (2015 và 2020/2025) và bằng chứng; EPOS 2020 mục 1.6.2 cũng ghi chính các hướng dẫn quốc tế chưa thống nhất về kháng sinh trong điều trị nội khoa tối ưu. Ghi cả hai cách, xem sổ mâu thuẫn. Nhắc anh đã dùng ba đợt kháng sinh không đỡ."
+    },
+    {
+     "t": "Corticoid uống ngắn ngày",
+     "v": "a",
+     "n": "QĐ 5643/2015 (mục 4.3.1, tr. 99) liệt kê corticoid uống; EPOS 2020 (Bảng 1.6.1, tr. 18) cho 1–2 đợt mỗi năm có thể có ích khi bệnh chưa kiểm soát, bằng chứng chủ yếu ở thể có polyp. Không phải bước đầu ở anh (không polyp); chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Xịt co mạch ngắn (không quá 3 ngày) khi quá nghẹt để rửa mũi dễ hơn",
+     "v": "a",
+     "n": "EPOS 2020 (Bảng 1.6.1, tr. 18): nói chung không dùng thuốc co mạch trong CRS, có thể thêm tạm thời khi mũi rất nghẹt. QĐ 5643/2015 (Viêm mũi xoang cấp, mục 4.2.1, tr. 111): oxymetazolin ngắn ngày, ví dụ 3 ngày."
+    },
+    {
+     "t": "Xịt co mạch (oxymetazolin, xylometazolin) liên tục kéo dài",
+     "v": "w",
+     "n": "QĐ 5643/2015 (Viêm mũi xoang cấp, mục 4.2.1, tr. 111): xịt kéo dài có thể làm bệnh nặng hơn; EPOS 2020 (Bảng 1.6.1, tr. 18): nói chung không dùng co mạch trong CRS."
+    },
+    {
+     "t": "Thuốc kháng nấm (uống hoặc xịt) vì nghĩ nấm xoang",
+     "v": "w",
+     "n": "EPOS 2020 (Bảng 1.6.1, tr. 19): bằng chứng 1a (−), khuyên không dùng kháng nấm trong CRS; AAO-HNSF 2025 KAS 12: khuyên không dùng. Không có dấu hiệu nấm."
+    },
+    {
+     "t": "Bỏ thuốc lá điện tử và tránh khói, chất kích thích",
+     "v": "c",
+     "n": "QĐ 5643/2015 (Viêm mũi xoang mạn tính, mục 6, tr. 101): không hút thuốc lá, hạn chế rượu bia, tránh tác nhân kích thích. EPOS 2020 (Hình 1.6.1, tr. 13): tránh yếu tố làm nặng. Tác hại riêng của thuốc lá điện tử trên viêm xoang mạn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trấn an cụ thể: khứu giác thường cải thiện khi viêm được điều trị, hứa tái khám có đo lại; không cần kiêng hải sản vì chưa có phản ứng dị ứng",
+     "v": "c",
+     "n": "EPOS 2020 (mục 1.5.4.1, tr. 15): giảm ngửi do CRS có tỉ lệ cải thiện tốt nếu điều trị CRS, dù không phải lúc nào cũng bền. Kiêng hải sản: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau khoảng 2 tuần (kiểm tra kỹ thuật, tuân thủ), đánh giá lại ở tuần 6–12; không đỡ thì chuyển tai mũi họng làm CT, nội soi, xét nghiệm dị ứng; có dấu hiệu cảnh báo thì đến ngay",
+     "v": "c",
+     "n": "EPOS 2020 (Hình 1.6.1, tr. 13; Hình 1.6.2, tr. 14): theo dõi 6–12 tuần, không cải thiện thì chuyển tuyến và làm CT, test lẩy da, xét nghiệm; mục 1.6.1 (tr. 16): phẫu thuật nội soi là bước tiếp theo khi điều trị nội khoa tối ưu thất bại. QĐ 5643/2015 (mục 4.3.2, tr. 100): chỉ định mổ khi nội khoa tối đa không kết quả hoặc có dị hình giải phẫu. Mốc 2 tuần do biên tập chọn."
+    },
+    {
+     "t": "Cho nhập viện hoặc chuyển tuyến ngay",
+     "v": "h",
+     "n": "Không có dấu hiệu cảnh báo (EPOS 2020, Hình 1.6.1, tr. 13): tốn kém, làm anh sợ khám lại, không lợi ích."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mũi xoang mạn không polyp, lan tỏa hai bên, đang đợt nặng lên",
+     "Giảm ngửi mức vừa hai bên do viêm xoang mạn",
+     "Yếu tố nguy cơ: hút thuốc lá điện tử; đã tự dùng ba đợt kháng sinh không hiệu quả",
+     "Yếu tố đánh lạc hướng: nghi dị ứng hải sản (không có bằng chứng)",
+     "Đã loại trừ: u hốc mũi xoang, nấm xoang, polyp mũi, viêm mũi dị ứng, viêm xoang cấp do vi khuẩn, viêm xoang do răng"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: thời gian khoảng 20 tuần không có quãng sạch, nghẹt hai bên, mủ, tức má, giảm ngửi (EPOS 2020, mục 2.1.3.3, tr. 32). Anh nói ít nên phải hỏi riêng thuốc mua ở hiệu thuốc (ba đợt kháng sinh), hút thuốc lá điện tử, nghề nghiệp, lý do thật. Hỏi cờ đỏ: một bên, chảy máu, đóng vảy, đau dữ dội, mắt, thần kinh, mùi thối (EPOS 2020, Hình 1.6.1, tr. 13). Hỏi dị ứng, hen, nhạy cảm thuốc giảm đau, đái tháo đường, suy giảm miễn dịch, răng.",
+     "Khám: dấu ấn đau xoang, mắt (thị lực, vận nhãn), họng, tai; soi mũi trước rồi nội soi mũi là bước then chốt vì chẩn đoán CRS cần bằng chứng khách quan (AAO-HNSF 2025, KAS 7b; EPOS 2020, mục 2.1.2.1, tr. 31). Nội soi hơn soi mũi trước vì thấy được khe giữa và loại khối, polyp nhỏ (AAO-HNSF 2025, KAS 10). Đo khứu giác theo từng bên (EPOS 2020, mục 1.5.4.2, tr. 15).",
+     "Cận lâm sàng: nguồn lực đầy đủ nhưng anh không đủ tiền, nên chỉ làm cái đổi quyết định. Nội soi mũi đủ để xác nhận và loại u, nấm. Không cần công thức máu, CRP, X-quang xoang, test dị ứng, IgE ở lượt này. CT xoang chấp nhận được nhưng chưa bắt buộc (xem n của ct_xoang).",
+     "Dừng lại nghĩ lại (diagnostic timeout): trước khi kê kháng sinh lần thứ tư vì 'xoang cấp' hoặc kê thuốc dị ứng vì 'dị ứng hải sản', hỏi lại: triệu chứng kéo dài bao lâu, đã dùng gì, có dấu hiệu cảnh báo không, nội soi thấy gì. Thời gian ≥ 12 tuần là viêm xoang mạn chứ không phải cấp (EPOS 2020, mục 2.1.3.3, tr. 32); thời điểm trùng với bữa hải sản không đủ chứng minh dị ứng."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị nền là rửa mũi nước muối đẳng trương và corticoid xịt mũi dùng đều ít nhất 12 tuần (EPOS 2020, Bảng 1.6.1, tr. 18–19, mục 6.1.5.4, tr. 223–224; AAO-HNSF 2025, KAS 11; QĐ 5643/2015, mục 4.3.1, tr. 99–100). Rửa mũi trước rồi xịt thuốc để thuốc tiếp xúc tốt: thứ tự này không có trong tài liệu đã tải.",
+     "Kháng sinh: hai cách được ghi trong tài liệu: không kê thường quy (EPOS 2020, Hình 1.6.1; AAO-HNSF 2025, KAS 14) hoặc 2–3 tuần (QĐ 5643/2015, mục 4.3.1). Anh đã dùng ba đợt không hiệu quả; ca không ép chọn một bên.",
+     "Không dùng thuốc dị ứng hay kiêng hải sản vì không có bằng chứng dị ứng. Không kháng nấm. Không co mạch kéo dài.",
+     "Hẹn tái khám 2 tuần để kiểm tra kỹ thuật và tuân thủ (EPOS 2020 nhấn mạnh giáo dục kỹ thuật và tuân thủ, Hình 1.6.2, tr. 14), rồi đánh giá ở tuần 6–12; không đỡ thì chuyển tuyến chuyên khoa (Hình 1.6.1). Cần nói trước với anh rằng bệnh mạn, có thể phải mổ nếu thuốc không đủ (QĐ 5643/2015, mục 4.3.2, tr. 100)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% rửa mũi (túi hoặc bình rửa mũi, dùng nước đun sôi để nguội hoặc nước đóng chai)",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mỗi bên mũi; thể tích và số lần mỗi ngày không có trong tài liệu đã tải, dùng hằng ngày (thường sáng và tối)",
+      "duong": "Rửa mũi",
+      "thoi_diem": "Trước khi xịt thuốc mũi",
+      "so_ngay": "Hằng ngày, kéo dài (ít nhất 12 tuần)",
+      "ghi_chu": "EPOS 2020, Bảng 1.6.1, tr. 19: nước muối đẳng trương, không dùng ưu trương; AAO-HNSF 2025 KAS 11; QĐ 5643/2015, mục 4.3.1. Dùng nước sạch (đun sôi để nguội/đóng chai) là nhận xét của bài tóm tắt TL-0547, không phải khuyến cáo của CPG."
+     },
+     {
+      "thuoc": "Mometasone furoat xịt mũi (hoặc fluticasone furoat/propionat xịt mũi)",
+      "ham_luong": "Dạng xịt mũi, hàm lượng mỗi nhát theo nhãn sản phẩm (không có trong tài liệu đã tải)",
+      "lieu": "Xịt mỗi bên mũi; số nhát theo nhãn. Trong thử nghiệm CRS: mometasone 200 µg × 2 lần/ngày sau mổ; EPOS 2020 không khuyên liều cao hơn liều viêm mũi gấp đôi",
+      "duong": "Xịt mũi",
+      "thoi_diem": "Sau khi rửa mũi, hướng đầu xịt ra ngoài (xa vách ngăn)",
+      "so_ngay": "Ít nhất 12 tuần, tái khám sau 2 tuần",
+      "ghi_chu": "EPOS 2020, Bảng 1.6.1, tr. 18 và mục 6.1.5.4, tr. 223–224 (không khác nhau giữa các loại corticoid); QĐ 5643/2015, mục 4.3.1. Hướng đầu xịt ra ngoài: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh uống (tùy chọn theo QĐ 5643/2015)",
+      "ham_luong": "Tên thuốc và liều: không có trong tài liệu đã tải cho viêm xoang mạn",
+      "lieu": "Không kê thường quy; nếu kê theo QĐ 5643/2015: thường 2–3 tuần",
+      "duong": "Uống",
+      "thoi_diem": "Theo thuốc chọn",
+      "so_ngay": "Không kê / 2–3 tuần",
+      "ghi_chu": "QĐ 5643/2015, mục 4.3.1, tr. 99 so với EPOS 2020 Hình 1.6.1, AAO-HNSF 2025 KAS 14. Ca này đáp án chính không kê (đã dùng 3 đợt không đỡ), cách kia chấp nhận; xem sổ mâu thuẫn."
+     },
+     {
+      "thuoc": "Thuốc lá điện tử",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Ngừng",
+      "duong": "Hít",
+      "thoi_diem": "Ngay",
+      "so_ngay": "Từ nay",
+      "ghi_chu": "QĐ 5643/2015, mục 6, tr. 101."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: viêm xoang mạn là viêm niêm mạc kéo dài, không phải chỉ nhiễm khuẩn, nên điều trị chính là rửa mũi và xịt thuốc đều, không phải uống kháng sinh nhiều đợt (EPOS 2020, mục 1.6.2, tr. 16; AAO-HNSF 2025, KAS 14). Thuốc xịt thường cần vài tuần mới thấy hiệu quả (EPOS 2020 dùng ≥ 12 tuần, mục 6.1.5.4).",
+     "Khứu giác của anh giảm vừa, chưa mất hẳn, thường cải thiện khi điều trị viêm (EPOS 2020, mục 1.5.4.1, tr. 15) nhưng không đảm bảo; hẹn đo lại. Nói với quản lý quán để tạm ghi hương vị, nhờ đồng nghiệp nếm kiểm lại.",
+     "Chi phí thấp: lúc này chưa cần chụp CT hay xét nghiệm máu; nếu 6–12 tuần chưa đỡ thì mới cần CT (EPOS 2020, Hình 1.6.1). Mua thuốc xịt mũi loại thường dùng, không cần loại đắt (EPOS 2020: không khác nhau giữa các loại corticoid, mục 6.1.5.4).",
+     "Không tự mua kháng sinh nữa; không dùng thuốc xịt co mạch quá 3 ngày; ngừng thuốc lá điện tử (QĐ 5643/2015, mục 6, tr. 101).",
+     "Hải sản: anh chưa có dấu hiệu dị ứng, không cần kiêng; nếu sau ăn nổi mề đay, phù môi, khó thở thì phải đi khám ngay vì đó là dị ứng thật. Bằng chứng kiêng hải sản làm bệnh xoang nhẹ đi: không có trong tài liệu đã tải.",
+     "Đến ngay nếu: sốt cao, sưng đỏ quanh mắt, nhìn đôi, giảm thị lực, đau đầu dữ dội, cổ cứng, chảy máu mũi, đau hoặc tê một bên mặt (EPOS 2020, Hình 1.6.1, tr. 13).",
+     "Tái khám sau 2 tuần (kiểm tra kỹ thuật xịt và rửa mũi); đánh giá lại ở tuần 6–12; nếu chưa đỡ sẽ chuyển tai mũi họng để CT và bàn phẫu thuật nếu cần (EPOS 2020, Hình 1.6.1; QĐ 5643/2015, mục 4.3.2, tr. 100)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Khôi rửa mũi và xịt thuốc đều, tái khám tuần 2 thấy kỹ thuật đúng nhưng chỉ đỡ nghẹt ít. Tuần 6 có một đợt nặng lên khiến anh nghỉ làm 3 ngày. Đến tuần 10, các triệu chứng giảm chưa đến một nửa, ngửi vẫn kém, nên theo mốc 6–12 tuần anh được chuyển tai mũi họng (EPOS 2020, Hình 1.6.1). CT cho thấy dày niêm mạc hai bên, vách ngăn lệch và cuốn giữa phải bóng hơi cản trở lỗ ngách. Đây là chỉ định mổ nội soi khi điều trị nội khoa tối đa không kết quả hoặc có dị hình giải phẫu (QĐ 5643/2015, mục 4.3.2, tr. 100). Anh nghỉ việc 2 tuần, mất thu nhập, vay bạn bè trả viện phí, sau mổ tiếp tục xịt và rửa mũi. Quyết định ban đầu vẫn đúng; kết cục xấu không chứng minh xử trí sai, vì nhiều thể viêm xoang mạn cần phẫu thuật (EPOS 2020, mục 1.6.2, tr. 16).",
+ "nhieu": [
+  "Giấu tiền sử: anh trả lời 'dạ không' về thuốc đã dùng; chỉ khi bác sĩ hỏi riêng, không phán xét, về thuốc mua ở hiệu thuốc thì anh kể 3 đợt kháng sinh tự mua.",
+  "Thuốc lá điện tử: không tự kể vì quán cấm và sợ bị mắng; lộ khi hỏi nhẹ nhàng về thói quen hút.",
+  "Đánh lạc hướng: nghi dị ứng hải sản, thật ra đợt nặng lên trùng ngẫu nhiên với bữa lẩu; không có phản ứng dị ứng tức thì.",
+  "Lý do thật: sợ mất việc vì ngửi kém và sợ chi phí; xét nghiệm tốn tiền nên anh hỏi giá, bác sĩ phải nói rõ cái nào đổi quyết định.",
+  "Thuốc đang dùng: không (đợt kháng sinh cuối đã ngưng khoảng 3 tuần trước)."
+ ],
+ "bai_hoc_bien": [
+  "Triệu chứng nghẹt mũi, chảy mũi mủ hai bên > 12 tuần là viêm xoang mạn; cần bằng chứng khách quan bằng nội soi hoặc CT, nội soi mũi rẻ hơn CT và đủ ở lượt đầu (AAO-HNSF 2025, KAS 7b; EPOS 2020, mục 2.1.2.1).",
+  "Dấu cảnh báo cần loại u và biến chứng: triệu chứng một bên, chảy máu, đóng vảy, mùi thối, đau dữ dội, dấu hiệu ổ mắt/thần kinh (EPOS 2020, Hình 1.6.1, tr. 13).",
+  "Điều trị nền là rửa mũi đẳng trương và corticoid xịt mũi ≥ 12 tuần, đánh giá lại ở 6–12 tuần (EPOS 2020, Hình 1.6.1; AAO-HNSF 2025, KAS 11).",
+  "Kháng sinh trong viêm xoang mạn: nguồn khác nhau (QĐ 5643/2015 kê 2–3 tuần; EPOS 2020 và AAO-HNSF 2025 khuyên không kê thường quy); ghi cả hai.",
+  "Chống outcome bias: xử trí đúng vẫn có thể ra kết cục xấu, như phải mổ sau khi điều trị nội khoa tối đa thất bại; không đánh giá quyết định chỉ qua kết cục.",
+  "Hỏi lại không phán xét về thuốc tự mua và thói quen hút để lộ tiền sử bị giấu."
+ ],
+ "diem_nho": [
+  "Chẩn đoán CRS người lớn: ≥ 2 triệu chứng (một trong đó nghẹt mũi hoặc chảy mũi) ± đau mặt ± giảm ngửi, ≥ 12 tuần, kèm dấu nội soi hoặc CT (EPOS 2020, mục 2.1.2.1, 2.1.3.3).",
+  "CRS không polyp: không có polyp thấy được ở khe giữa qua nội soi (EPOS 2020, mục 2.1.4.1, tr. 32).",
+  "Bảng điều trị EPOS 2020: corticoid xịt mũi (1a), rửa mũi nước muối đẳng trương (Ia), không khuyên kháng nấm (1a −) và nước muối ưu trương (Bảng 1.6.1, tr. 18–19).",
+  "Chỉ định mổ nội soi: điều trị nội khoa tối đa không kết quả hoặc có dị hình giải phẫu cản trở dẫn lưu (QĐ 5643/2015, mục 4.3.2, tr. 100); EPOS 2020 mục 1.6.1 (tr. 16): có thể cân nhắc khi điểm Lund-Mackay ≥ 1, điều trị ≥ 8 tuần và SNOT-22 sau điều trị ≥ 20.",
+  "Mâu thuẫn đã ghi trong sổ: kháng sinh trong viêm xoang mạn (xem TM-0162_mau_thuan.md)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng (TL-0130) – ĐÃ ĐỌC Viêm mũi xoang mạn tính (mục 1–6, tr. 98–101); Viêm mũi xoang do nấm (tr. 119–122); Viêm mũi xoang cấp (mục 4.2.1, tr. 111); U lành tính mũi xoang (tr. 84–86); U ác tính mũi xoang (mục 3, tr. 123).",
+  "EPOS 2020 – European Position Paper on Rhinosinusitis and Nasal Polyps (Rhinology 2020;58 Suppl S29; TL-0087) – ĐÃ ĐỌC mục 1.2.2, 1.5.4, 1.6 (Hình 1.6.1, 1.6.2, Bảng 1.6.1), 2.1.2–2.1.4, 6.1.5.",
+  "AAO-HNSF – Clinical Practice Guideline: Adult Sinusitis Update 2025 (Otolaryngol Head Neck Surg 2025;173 Suppl 1; TL-0547) – ĐÃ ĐỌC bản chữ của TL-0547, là bài tóm tắt tiếng Thái các KAS 7a, 7b, 8–12, 14; chưa đối chiếu toàn văn CPG.",
+  "ESMO-EURACAN 2025 – Sinonasal malignancy (ESMO Open 2025;10(2):104121; TL-0550) – ĐÃ ĐỌC mục Clinical diagnosis."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-12) – viết: Sonnet. Tài liệu đã đọc: TL-0130 (các mục nêu trên), TL-0087 (các mục nêu trên), TL-0547 (bản chữ tóm tắt tiếng Thái), TL-0550 (Clinical diagnosis).",
+  "Thiếu trong tài liệu đã tải: liều từng nhát, số nhát, số lần mỗi ngày của corticoid xịt mũi; thể tích và số lần rửa mũi; thứ tự rửa mũi trước xịt thuốc; tác hại riêng của thuốc lá điện tử; bằng chứng kiêng hải sản; liều kháng sinh cho viêm xoang mạn trong QĐ 5643; toàn văn AAO-HNSF 2025 (chỉ có bài tóm tắt).",
+  "Mâu thuẫn mới (kháng sinh trong viêm xoang mạn): xem TM-0162_mau_thuan.md. Ghi cả hai cách trong xu_tri.",
+  "Đề xuất danh mục: khám noi_soi_mui và thu_khuu_giac (TM-0162_de_xuat_danh_muc.json); ca dùng hai id này nên kiểm tra phải chạy trên bản kho đã thêm.",
+  "Số liệu xét nghiệm (CTM, CRP, glucose, IgE) và kết quả CT là số liệu phụ do biên soạn cho khớp bệnh cảnh. Mốc tái khám 2 tuần, thang đo khứu giác bằng mùi quen thuộc do biên tập chọn.",
+  "Kết cục (mổ nội soi sau 10 tuần) là thiết kế của ca theo biến loai_ket_cuc, không có trong tài liệu như một con số tiên lượng."
+ ]
+}
