@@ -1,0 +1,584 @@
+{
+ "ma_ca": "TT-0156",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TT_mat_ngu_man",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn giấc ngủ (mất ngủ mạn)",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Ngưng thở khi ngủ"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Buôn bán nhỏ (tạp hóa trước nhà)",
+  "yeu_to_khoi_phat": "Sau chuyến đi xa ngồi lâu (xe khách về quê dự giỗ)",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi dùng kéo dài",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Lụa",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Buôn bán tạp hóa nhỏ trước nhà ở thị trấn",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà' hoặc 'cụ'. Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ' hoặc 'cậu/cô'. Bà Hà gọi mẹ là 'má', xưng 'con'.",
+  "tinh_cach": "Nói nhiều, nhanh chuyện, hay lo, tin vào kinh nghiệm truyền nước và thuốc kháng sinh 'cho mau khỏi'. Hơi cứng đầu nhưng nghe lời khi được giải thích bằng ví dụ gần gũi. Ít hiểu biết y khoa: gọi nghẹt mũi là 'xoang', huyết áp là 'áp huyết'.",
+  "kieu_nhieu": "Đòi truyền dịch: ngay từ đầu bà xin 'chai nước biển cho khỏe', nhắc lại nhiều lần khi bác sĩ hỏi bệnh và khi bác sĩ không kê kháng sinh hay thuốc ngủ. Nhiễu giảm khi bác sĩ giải thích cụ thể lợi ích–nguy cơ của truyền dịch cho bà và đưa câu nói thay thế; nếu bị gạt đi 'không cần' mà không giải thích thì bà càng đòi, thậm chí nói sẽ tự đi truyền chỗ khác.",
+  "nguoi_nha": "Con gái, chị Hà, 52 tuổi, đưa mẹ đi, cùng bán tạp hóa. Lo cho mẹ, phụ họa chuyện truyền nước vì 'hồi trước mẹ truyền xong ngủ ngon'. Biết mẹ nhỏ mũi mỗi đêm nhưng nghĩ là thuốc vô hại. Không biết mẹ nhìn đồng hồ nhiều lần và nằm xem tivi trên giường.",
+  "ten_nguoi_nha": "Chị Hà (con gái)",
+  "ngoai_hinh": {
+   "da": "#d9a984",
+   "toc": "#d8d4cf",
+   "kieuToc": "hoi",
+   "ao": "#8a6f9a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e0b08a",
+    "toc": "#2a1d18",
+    "kieuToc": "bui",
+    "ao": "#6d7b5c",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mất ngủ, nghẹt mũi",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 79 tuổi, buôn bán tạp hóa nhỏ, đến khám cùng con gái vì mất ngủ lâu ngày, ba tuần nay nặng hơn sau khi đi xe khách về quê dự giỗ. Bà xin thuốc kháng sinh và muốn được truyền dịch. Sinh hiệu lúc tiếp đón: HA 138/78 mmHg, mạch 76 l/p, nhiệt 36,7 °C, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Lụa 79 tuổi, nặng 46 kg, bị cho nhập viện truyền dịch vì mất ngủ và nghẹt mũi, trong khi ăn uống bình thường, Na 139 và không có dấu hiệu nặng. Nằm phòng lạ, ồn, đèn sáng, bà càng không ngủ được và thức đêm lạc hướng; người cao tuổi rất dễ lú lẫn khi nằm viện và dùng thuốc an thần (AGS Beers 2023 Bảng 2). Bà ra viện vẫn nhỏ mũi mỗi đêm, nghẹt mũi dội ngược không được xử lý, quán đóng cửa vài ngày và tốn viện phí.",
+    "chuyen_tuyen": "Bà được gửi lên bệnh viện tuyến trên khám tai mũi họng và chụp CT xoang vì nghi 'viêm xoang nặng'. Nội soi tại chỗ đã thấy cuốn phù nề, không mủ; viêm xoang cấp vi khuẩn không đủ tiêu chuẩn (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 3.1.1) nên chuyến đi chủ yếu tốn tiền, một ngày xe khách cho người 79 tuổi và mất ngày trông quán. Mất ngủ mạn, thuốc nhỏ mũi và nhật ký ngủ vẫn chưa được xử lý nên bà vẫn trằn trọc."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi ngủ không được, nghẹt mũi hoài, chắc xoang nặng rồi. Bác sĩ cho tôi thuốc kháng sinh, truyền cho tôi chai nước biển là tôi ngủ ngon liền à.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/78",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà Hà (con gái) kể: mẹ mất ngủ lâu rồi, ba tuần nay nặng hơn từ khi đi xe khách về quê dự giỗ. Bà Lụa nói mình bị 'viêm xoang' làm nghẹt mũi nên không ngủ được, xin bác sĩ cho thuốc kháng sinh và truyền cho một chai nước biển, 'hồi trước truyền xong ngủ ngon lắm'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và kỳ vọng kháng sinh, truyền dịch"
+    },
+    {
+     "id": "kieu_ngu",
+     "noi_dung": "Nằm giường từ 20 giờ, trằn trọc 1–2 tiếng mới chợp mắt. Thức lúc 1–2 giờ sáng đi tiểu một lần rồi khó ngủ lại, nằm đến 4 giờ 30 thì dậy hẳn. Tự ước ngủ được khoảng 4–5 tiếng. Ban ngày hay gật gù trên ghế, ngủ trưa lúc ngồi trông quán cả tiếng đồng hồ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mô tả đêm ngủ cụ thể: khó vào giấc, thức giữa đêm, thức sớm, ngủ gật ngày"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Mất ngủ khoảng 14 tháng, từ sau Tết năm ngoái, mỗi tuần 4–5 đêm. Ba tuần nay, từ sau chuyến xe khách về quê, gần như đêm nào cũng vậy. Trước đó bà ngủ ngon, ngủ một mạch tới sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần suất, thời gian kéo dài (đủ tiêu chuẩn mạn) và đợt nặng lên gần đây"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đi xe khách về quê dự giỗ, ngồi gần 6 tiếng, ngủ chập chờn trên xe, ở nhà họ hàng giường lạ, ăn giỗ khuya. Từ đó đêm nào cũng trằn trọc hơn và ban ngày ngủ gà ngủ gật để bù. Đây là đợt nặng lên trên nền mất ngủ có từ trước, không phải lúc khởi đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: đi xa ngồi lâu làm đảo nhịp ngủ, thêm ngủ ngày"
+    },
+    {
+     "id": "thuoc_mui",
+     "noi_dung": "Nhỏ mũi lọ thuốc co mạch (loại ghi xylometazolin, mua ở nhà thuốc không đơn) mỗi tối trước khi nằm và nhỏ thêm mỗi lần thức giữa đêm vì nghẹt, khoảng 3–4 lần mỗi đêm, trên một năm nay. Mỗi lọ dùng hơn hai tuần là hết. Thuốc hết thì nghẹt mũi nặng hơn, không thở nổi bằng mũi.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Bà không nghĩ đây là 'thuốc'. Hỏi chung 'có uống thuốc gì không' thì nói 'không, chỉ thuốc nhỏ mũi thôi'. Chỉ kể rõ số lần nhỏ và thời gian khi bác sĩ hỏi cụ thể tên thuốc nhỏ mũi, số lần nhỏ mỗi đêm, dùng bao lâu.",
+     "y": "Thuốc nhỏ mũi kéo dài (nguồn gây nghẹt mũi dội ngược, thức giấc)"
+    },
+    {
+     "id": "trieu_chung_mui",
+     "noi_dung": "Nghẹt mũi hai bên, chảy ít dịch trong, không chảy mủ, không đau mặt, không sốt, không hôi miệng, không giảm mùi. Nghẹt nhiều nhất khi nằm và khi thuốc hết tác dụng. Kéo dài nhiều tháng, không có đợt cảm sốt nào ba tuần nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng mũi xoang: không có dấu hiệu viêm xoang do vi khuẩn"
+    },
+    {
+     "id": "tinh_hinh",
+     "noi_dung": "Hay lo: lo quán, lo con cháu, lo đau lưng. Thích ngủ sớm vì 'già rồi nằm cho đỡ mỏi', nằm trên giường xem tivi, nhìn đồng hồ nhiều lần. Ngủ trưa 1–2 tiếng. Uống trà đặc vài tách buổi chiều khi ngồi quán. Không uống rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố duy trì: nằm giường lâu, ngủ trưa dài, trà đặc, nhìn đồng hồ"
+    },
+    {
+     "id": "khi_sac",
+     "noi_dung": "Vẫn thích xem phim bộ, vẫn thương cháu, ăn ngon, không buồn bã, không thấy mình vô dụng, không nghĩ tới chết. Lo lắng chủ yếu về chuyện mất ngủ và tiền thuốc.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có buồn không' thì bà nói 'tại không ngủ nên mệt'. Chỉ trả lời đầy đủ khi bác sĩ hỏi riêng về hứng thú sinh hoạt, ăn uống, cảm giác vô dụng và ý nghĩ về cái chết.",
+     "y": "Sàng lọc trầm cảm: khí sắc, hứng thú, ý nghĩ tự hại"
+    },
+    {
+     "id": "ngay_chap",
+     "noi_dung": "Ngáy nhẹ khi nằm ngửa do nghẹt mũi, con gái ngủ chung nhà không nghe tiếng ngừng thở, không tỉnh dậy ngộp thở, không đau đầu buổi sáng. Buồn ngủ ban ngày là do ngủ ít, không ngủ gật khi lái xe vì bà không lái.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc ngưng thở khi ngủ"
+    },
+    {
+     "id": "chan",
+     "noi_dung": "Hai bắp chân không đau, không sưng, không nóng đỏ sau chuyến xe. Không khó thở, không đau ngực. Không có cảm giác bồn chồn khó chịu ở chân khi nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ huyết khối sau ngồi lâu và hội chứng chân không yên"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Thỉnh thoảng uống viên thuốc cảm chữa ngạt mũi. Không dùng thuốc ngủ, không uống thuốc kháng histamin tự mua. Có tăng huyết áp, uống amlodipin 5 mg mỗi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng khác (thuốc cảm, thuốc huyết áp)"
+    },
+    {
+     "id": "tiet_nieu",
+     "noi_dung": "Dậy tiểu 1 lần mỗi đêm, không buốt, không són. Không khát nhiều, không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "te_nga",
+     "noi_dung": "Chưa té lần nào. Đi lại trong nhà vững, đôi khi vịn tường khi đứng lên nhanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ té ngã (ảnh hưởng chọn thuốc)"
+    },
+    {
+     "id": "nhieu_truyen",
+     "noi_dung": "Bà xin truyền nước biển: 'cho khỏe, cho ngủ'. Con gái cũng phụ họa, nói trước đây người quen truyền xong là ngủ ngon. Bà ăn uống bình thường, không nôn, không tiêu chảy, uống nước được.",
+     "che_do": "giau",
+     "k": 0,
+     "dieu_kien_lo": "Bà chỉ đòi truyền khi bác sĩ không kê thuốc ngủ hoặc kháng sinh; khi bác sĩ giải thích lợi ích–nguy cơ cụ thể và đưa lời thay thế, bà nghe được."
+    },
+    {
+     "id": "noi_o",
+     "noi_dung": "Sống với vợ chồng con gái ở thị trấn, quán tạp hóa nhỏ ngay trước nhà, bà ngồi trông quán từ 6 giờ sáng đến 20 giờ. Có điện thoại, ít khi ra khỏi nhà.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 138/78, tay trái 136/76 mmHg. Hai tay chênh dưới 10 mmHg.",
+     "k": 0
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/78 mmHg, mạch 76 l/p; đứng 3 phút 128/74 mmHg, mạch 82 l/p. Giảm 10 mmHg, không chóng mặt.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, dáng nhỏ gầy, hơi mệt. Cân nặng 46 kg, cao 150 cm, BMI 20,4 kg/m². Niêm hồng, không phù.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Vòng cổ 32 cm. Không hạch cổ. Tuyến giáp không to. Tĩnh mạch cổ không nổi.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi đỏ sẫm, bóng, cuốn dưới phù nề hai bên, ít dịch trong. Không mủ ở khe mũi, không chảy mủ sau họng. Họng không đỏ, amidan không to. Gõ vùng má, trán không đau.",
+     "k": 1,
+     "hien": "Mũi ngạt hai bên khi thở, mở miệng thở nhẹ."
+    },
+    "noi_soi_mui": {
+     "a": "Cuốn dưới hai bên phù nề, đỏ sẫm, bóng, che gần kín đường thở. Không mủ ở khe giữa, không polyp, vách ngăn hơi lệch nhẹ.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, gan lách không sờ thấy.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân cân đối (chu vi bằng nhau), không sưng, không nóng, không đau khi bóp, không dấu ấn lõm. Mạch mu chân hai bên rõ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ. Dây sọ bình thường. Sức cơ 5/5 bốn chi, phản xạ gân xương đều hai bên. Không run, không cứng.",
+     "k": 0
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng lên khỏi ghế không vịn được, đi vững, quay người hơi chậm. Chưa phát hiện nguy cơ té ngã rõ.",
+     "k": 1
+    },
+    "nhan_thuc_moca": {
+     "a": "Làm đủ khoảng 12 phút, tỉnh táo. Trừ liên tiếp và nhớ lại từ chưa tốt, phù hợp thiếu ngủ và tuổi; định hướng, ngôn ngữ, thị giác không gian tốt. Điểm cắt: không có trong tài liệu đã tải.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, hợp tác, nói nhiều khi kể chuyện mũi và thuốc. Khí sắc không trầm, tươi lên khi nhắc cháu nội. Tư duy mạch lạc, không hoang tưởng, không ảo giác. Lo lắng có chủ đề rõ: chuyện mất ngủ và bệnh xoang. Không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói nhiều về chuyện mũi và giấc ngủ."
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "a",
+     "r": "5,6 mmol/L",
+     "n": "Nền hợp lý ở người 79 tuổi chưa kiểm tra; ESRS 2023 Bảng 4 liệt kê xét nghiệm 'khi có chỉ định', QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê xét nghiệm sinh hóa. Không bắt buộc."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,5 G/L · Hb 118 g/L · TC 245 G/L",
+     "bang": {
+      "wbc": 6.5,
+      "neu_pct": 60.0,
+      "neu": 3.9,
+      "lym_pct": 30.0,
+      "lym": 1.95,
+      "mono_pct": 7.0,
+      "mono": 0.46,
+      "eos_pct": 2.5,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.1,
+      "hgb": 118,
+      "hct": 0.36,
+      "mcv": 88.0,
+      "mch": 29.0,
+      "mchc": 328,
+      "rdw": 13.5,
+      "plt": 245
+     },
+     "n": "Thiếu máu nhẹ đẳng sắc hợp với tuổi, không có dấu nhiễm trùng (bạch cầu không tăng): không ủng hộ kháng sinh. Làm hay không đều không trừ điểm."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,8 mmol/L · Creatinin 78 µmol/L · eGFR 66 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.8,
+      "creat": 78,
+      "egfr": 66
+     },
+     "n": "Có ích nếu cần chọn thuốc về sau; không bắt buộc (ESRS 2023 Bảng 4)."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 139 · K 4,1 · Cl 103 mmol/L",
+     "n": "Natri bình thường, không có chỉ định bù dịch (QĐ 2058/2020 Bài 27 mục 4.3 chỉ nhắc nuôi dưỡng đường tĩnh mạch trong trường hợp cần thiết)."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 2,1 mIU/L · FT4 13 pmol/L (trong giới hạn bình thường)",
+     "n": "Loại cường giáp gây mất ngủ: ESRS 2023 Bảng 4 (chức năng tuyến giáp khi có chỉ định); QĐ 2058/2020 Bài 27 mục 3.2 yêu cầu loại nguyên nhân thực tổn. Không bắt buộc vì không có triệu chứng cường giáp."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 22 · ALT 19 U/L",
+     "n": "Không bắt buộc (ESRS 2023 Bảng 4)."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 76 l/p, trục trung gian, PR 170 ms, QRS 90 ms. Không ST chênh, không rung nhĩ.",
+     "n": "ECG nằm trong danh sách xét nghiệm của QĐ 2058/2020 Bài 27 mục 3.1.2 và ESRS 2023 Bảng 4 (khi có chỉ định); không bắt buộc, giúp trấn an."
+    },
+    "ddimer": {
+     "v": "n",
+     "n": "Đi xe khách 6 tiếng cách đây 3 tuần nhưng hai chân không sưng đau, không khó thở, không đau ngực: không có chỉ định. Tiêu chuẩn tiền xét nghiệm huyết khối tĩnh mạch sâu: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "n",
+     "n": "Không sốt, không mủ, không đau mặt: CRP không thay đổi quyết định kháng sinh."
+    },
+    "xq_xoang": {
+     "v": "n",
+     "n": "Hình ảnh xoang không cần cho nghẹt mũi mạn không mủ, không dấu hiệu viêm xoang cấp do vi khuẩn (TL-0130 QĐ 5643/2015, Viêm mũi xoang cấp tính mục 3.1.1)."
+    },
+    "ct_xoang": {
+     "v": "n",
+     "n": "Không có chỉ định ở tuyến này; nội soi mũi đã cho thấy cuốn phù nề, không mủ."
+    },
+    "ct_nao": {
+     "v": "n",
+     "n": "Không dấu thần kinh khu trú, không đau đầu dữ dội: không có chỉ định."
+    },
+    "dien_nao": {
+     "v": "n",
+     "n": "Điện não đồ nằm trong danh sách CLS của QĐ 2058/2020 Bài 27 mục 3.1.2 nhưng không có chỉ định ở bệnh nhân này."
+    },
+    "abdus": {
+     "v": "n",
+     "n": "Siêu âm ổ bụng có trong danh sách CLS của QĐ 2058/2020 Bài 27 mục 3.1.2, nhưng không có triệu chứng bụng và cơ sở không có máy siêu âm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn giấc ngủ: mất ngủ mạn (khó vào giấc, thức giữa đêm, thức sớm), đợt nặng lên sau chuyến đi xa; yếu tố duy trì: nằm giường quá lâu, ngủ trưa dài, trà đặc buổi chiều, nghẹt mũi dội ngược do dùng thuốc nhỏ mũi co mạch kéo dài",
+     "ok": 1,
+     "n": "Than phiền khó vào giấc, khó duy trì giấc ngủ, 4–5 đêm/tuần trong 14 tháng, gần đây gần như mọi đêm, gây buồn ngủ ngày và mệt, không có nguyên nhân thực tổn rõ trên khám và xét nghiệm. Đạt tiêu chuẩn ICD-10 (≥ 3 lần/tuần ít nhất 1 tháng, QĐ 2058/2020 Bài 27 mục 3.1.1) và ICSD-3 (≥ 3 lần/tuần ít nhất 3 tháng, ESRS 2023 Bảng 2). Chuyến xe là yếu tố làm nặng, không phải khởi phát. Thuốc nhỏ mũi dùng kéo dài làm nặng nghẹt mũi (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 4.2.1: xịt kéo dài có thể làm bệnh nặng hơn)."
+    },
+    {
+     "t": "Viêm mũi do dùng thuốc co mạch kéo dài (nghẹt mũi dội ngược)",
+     "ok": 1,
+     "n": "Cuốn dưới phù nề đỏ sẫm, ít dịch, không mủ, khởi đầu gắn với nhỏ mũi hằng đêm trên một năm. ARIA-EAACI 2024–2025 Phần I: gợi ý không dùng thuốc co mạch mũi kéo dài hơn 5 ngày và không dùng ở người cao tuổi (có điều kiện, chứng cứ rất thấp; khuyến cáo xét viêm mũi dị ứng). Tiêu chuẩn chẩn đoán 'viêm mũi do thuốc': không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm mũi xoang cấp do vi khuẩn",
+     "n": "Không đủ tiêu chuẩn: không sốt, không mủ, không đau mặt; nghẹt mũi nhiều tháng, không triệu chứng nặng dần sau 5–7 ngày hay kéo dài trên 10 ngày sau cảm (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 3.1.1). Không có chỉ định kháng sinh."
+    },
+    {
+     "t": "Trầm cảm",
+     "n": "Loại trừ: khí sắc không trầm, còn hứng thú xem phim và thương cháu, ăn ngon, không ý nghĩ tự hại. Thể nhẹ cần ít nhất 2 trong 3 triệu chứng đặc trưng và kéo dài ít nhất 2 tuần (QĐ 2058/2020 Bài 20 mục 3.1.1). Phải hỏi riêng vì người cao tuổi thường nói 'tại không ngủ nên mệt' (ESRS 2023 mục 3.5). Hỏi lại khi tái khám."
+    },
+    {
+     "t": "Ngưng thở khi ngủ (OSA), kể cả mất ngủ kèm ngưng thở",
+     "n": "Ít gợi ý: BMI 20,4, vòng cổ 32 cm, ngáy nhẹ chỉ khi nằm ngửa và nghẹt mũi, không ngừng thở chứng kiến, không đau đầu sáng. ESRS 2023 mục 3.5 nêu cần sàng lọc OSA (ví dụ STOP-Bang) ở người mất ngủ; cách tính điểm và điểm cắt: không có trong tài liệu đã tải. Nếu không đáp ứng điều trị: đa ký (ESRS 2023 Bảng 4, mục 3.4)."
+    },
+    {
+     "t": "Mất ngủ do thuốc hoặc chất (thuốc nhỏ mũi co mạch, thuốc cảm, trà đặc)",
+     "n": "Trà đặc và thuốc cảm góp phần duy trì; ESRS 2023 mục 3.5 và QĐ 2058/2020 Bài 27 mục 3.1.1 yêu cầu loại rối loạn do chất hoặc thuốc. Tác động trực tiếp của thuốc nhỏ mũi lên giấc ngủ: không có trong tài liệu đã tải; kết nối 'nghẹt mũi dội ngược làm thức giấc' là suy luận lâm sàng."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu sau ngồi xe lâu",
+     "n": "Hai bắp chân không sưng đau, bằng nhau, không khó thở, không đau ngực. Tiêu chuẩn Wells: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Suy giảm nhận thức, sa sút trí tuệ",
+     "n": "MoCA không phát hiện suy giảm rõ; mất điểm ở chú ý và nhớ lại phù hợp thiếu ngủ. Điểm cắt MoCA: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích rõ: đây là mất ngủ mạn chứ không phải 'viêm xoang nhiễm trùng'; không kê kháng sinh",
+     "v": "c",
+     "n": "Không đủ tiêu chuẩn viêm mũi xoang cấp do vi khuẩn (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 3.1.1): không mủ, không sốt, không đau mặt, bạch cầu bình thường. Chẩn đoán xác định cần soi mũi/nội soi (cùng mục)."
+    },
+    {
+     "t": "Liệu pháp không dùng thuốc làm đầu tay: CBT-I hoặc dạng ngắn (kiểm soát kích thích, giờ dậy cố định, bỏ ngủ trưa, giới hạn thời gian nằm giường theo nhật ký ngủ, thư giãn), kèm giáo dục vệ sinh giấc ngủ",
+     "v": "c",
+     "n": "CBT-I đa thành phần là khuyến cáo mạnh (AASM 2021 khuyến cáo 1); liệu pháp hành vi ngắn, kiểm soát kích thích, hạn chế giấc ngủ là khuyến cáo có điều kiện (AASM 2021 khuyến cáo 2, 3, 4); CBT-I đầu tay (ESRS 2023 Bảng 16, mức A). QĐ 2058/2020 Bài 27 mục 4.3 chỉ nêu giáo dục vệ sinh giấc ngủ; AASM 2021 khuyến cáo 6 và ESRS 2023 mục 4.1.1 gợi ý không dùng vệ sinh giấc ngủ đơn thuần. Vệ sinh giấc ngủ nằm trong CBT-I nên dặn kèm vẫn đúng (sổ mâu thuẫn, mục TT-0161). Mức độ siết giới hạn thời gian nằm giường ở người 79 tuổi gầy, nguy cơ té: không có trong tài liệu đã tải, nên làm từ từ."
+    },
+    {
+     "t": "Ngừng dùng thuốc nhỏ mũi co mạch kéo dài; thay bằng rửa mũi nước muối sinh lý, hẹn theo dõi nghẹt mũi dội ngược",
+     "v": "c",
+     "n": "QĐ 5643/2015, Viêm mũi xoang cấp tính mục 4.2.1: xịt oxymetazolin chỉ ngắn hạn (ví dụ 3 ngày), xịt kéo dài có thể làm bệnh nặng hơn; rửa mũi nước muối sinh lý giúp giữ ẩm, làm sạch dịch. ARIA-EAACI 2024–2025 Phần I: gợi ý không dùng thuốc co mạch mũi kéo dài > 5 ngày, và không dùng cho người cao tuổi. Cách ngừng (ngay hay giảm dần) và thời gian nghẹt mũi dội ngược kéo dài bao lâu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xịt corticoid mũi một thời gian để giảm phù nề cuốn mũi khi bỏ thuốc nhỏ mũi",
+     "v": "a",
+     "n": "QĐ 5643/2015, Viêm mũi xoang cấp tính mục 4.2.1: xịt corticoid vào mũi có thể làm giảm tiết dịch, ít ảnh hưởng toàn thân; ARIA-EAACI 2024–2025 Phần I: thuốc co mạch chỉ ngắn hạn khi bắt đầu corticoid mũi trong viêm mũi dị ứng. Chỉ định cụ thể cho viêm mũi do thuốc: không có trong tài liệu đã tải. Chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Lần này chưa kê thuốc ngủ, ưu tiên CBT-I; hoặc nếu bà và bác sĩ cùng quyết định dùng thuốc thì chỉ ngắn hạn (không quá 4 tuần) kèm CBT-I, không dùng benzodiazepin hoặc thuốc nhóm Z",
+     "v": "c",
+     "n": "ESRS 2023 mục 1.4, Bảng 16, Hình 1: CBT-I trước, thuốc khi CBT-I chưa đủ, ngắn hạn tối đa 4 tuần (A). AASM 2026 khuyến cáo 2: gợi ý không phối hợp CBT-I với thuốc thay vì CBT-I đơn thuần (có điều kiện, chứng cứ thấp); khuyến cáo 1: phối hợp tốt hơn thuốc đơn thuần. QĐ 2058/2020 Bài 27 mục 4.1, 4.3 và AASM 2017 khuyến cáo 2, 4–6 liệt kê/gợi ý benzodiazepin, zolpidem…; AGS Beers 2023 Bảng 2: tránh benzodiazepin và nhóm Z từ 65 tuổi (nguy cơ lú lẫn, té ngã, gãy xương; mạnh). Bà 79 tuổi, 46 kg, đứng lên nhanh phải vịn tường: chọn bên thận trọng hơn. Thuốc thay thế riêng cho người trên 75 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc nhóm Z (diazepam, zolpidem…) hằng đêm ngay từ đầu cho bà, không làm CBT-I",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2: tránh benzodiazepin và nhóm Z ở người ≥ 65 tuổi (delirium, té ngã, gãy xương, nhập viện; chứng cứ vừa, khuyến cáo mạnh). ESRS 2023 mục 4.2.1: dung nạp, phụ thuộc, lú lẫn ban đêm, té ngã. Bà 79 tuổi, gầy 46 kg, hơi vịn khi đứng. QĐ 2058/2020 Bài 27 mục 4.3 và AASM 2017 không giới hạn tuổi nên khác nguồn (xem sổ mâu thuẫn mục TT-0161)."
+    },
+    {
+     "t": "Kê kháng sinh vì 'viêm xoang nặng hay trào ngược' hoặc để bà yên tâm",
+     "v": "w",
+     "n": "Không có dấu hiệu viêm mũi xoang do vi khuẩn (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 3.1.1). Kháng sinh không giúp ngủ và không nằm trong điều trị mất ngủ (QĐ 2058/2020 Bài 27 mục 4.3). Tác dụng phụ của kháng sinh ở người 79 tuổi, 46 kg: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đồng ý truyền dịch cho bà 'cho ngủ ngon'",
+     "v": "w",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3 chỉ nhắc 'nuôi dưỡng đường tĩnh mạch… trong những trường hợp cần thiết', không phải điều trị mất ngủ. Bà ăn uống tốt, Na 139, không mất nước. Truyền dịch không có trong ESRS 2023 hay AASM cho mất ngủ."
+    },
+    {
+     "t": "Bỏ trà đặc buổi chiều; bỏ ngủ trưa dài; không nằm xem tivi trên giường; dậy cùng giờ mỗi sáng",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3: không cà phê, thuốc lá buổi tối, thức dậy giờ cố định, chỉ đi ngủ khi buồn ngủ. AASM 2021 (kiểm soát kích thích): chỉ lên giường khi buồn ngủ, không dùng giường làm việc khác, không ngủ trưa. Riêng trà đặc: nội dung về caffeine nằm trong cà phê của QĐ 2058; lượng cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích nghẹt mũi nặng hơn trong 1–3 tuần đầu bỏ thuốc nhỏ mũi và dặn quay lại khi sốt, mủ, đau mặt, hoặc sau 5–7 ngày triệu chứng mũi nặng dần",
+     "v": "c",
+     "n": "QĐ 5643/2015, Viêm mũi xoang cấp tính mục 3.1.1: nghĩ tới viêm xoang vi khuẩn khi nhiễm virus sau 5–7 ngày xấu đi hoặc kéo dài > 10 ngày. Khoảng '1–3 tuần' nghẹt mũi dội ngược: không có trong tài liệu đã tải, là mốc hẹn tái khám do người soạn chọn."
+    },
+    {
+     "t": "Hỏi riêng bà về tâm trạng, ý nghĩ tự hại; trả lời nỗi sợ 'bệnh xoang nặng'",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.5: sàng lọc trầm cảm/lo âu đi kèm; người bệnh có thể giấu. QĐ 2058/2020 Bài 20 mục 3.1.1: tiêu chuẩn giai đoạn trầm cảm. Nếu không hỏi riêng, bà ra về vẫn tin mình mắc 'xoang mạn' và tự mua kháng sinh."
+    },
+    {
+     "t": "Dặn ghi nhật ký ngủ 7–14 ngày, hẹn tái khám khoảng 2 tuần; không đáp ứng thì xét đa ký",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.2: nhật ký ngủ 7–14 ngày; Bảng 4 và mục 3.4: đa ký khi nghi rối loạn ngủ khác hoặc kháng trị (A). Khoảng cách 2 tuần là lựa chọn biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Melatonin giải phóng chậm dùng tối đa 3 tháng (trên 55 tuổi)",
+     "v": "a",
+     "n": "ESRS 2023 mục 4.2.6 và Bảng 16 (B): melatonin giải phóng chậm cho người > 55 tuổi, tối đa 3 tháng; AASM 2017 khuyến cáo 12 (có điều kiện): không dùng melatonin. Khác nhau do đối tượng và năm (sổ mâu thuẫn, mục TT-0161); lưu hành ở Việt Nam: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn giấc ngủ: mất ngủ mạn (14 tháng), đợt nặng lên sau chuyến đi xa ngồi lâu",
+     "Yếu tố duy trì: nằm giường lâu, ngủ trưa dài, trà đặc, nghẹt mũi dội ngược do thuốc nhỏ mũi co mạch dùng kéo dài",
+     "Không có trầm cảm, chưa có gợi ý ngưng thở khi ngủ",
+     "Không có viêm mũi xoang cấp do vi khuẩn, không có huyết khối tĩnh mạch sâu",
+     "Bệnh kèm: tăng huyết áp đang điều trị amlodipin 5 mg"
+    ],
+    "phan_tich_chan_doan": [
+     "Vì sao là mất ngủ mạn: khó vào giấc, thức giữa đêm, thức sớm 4–5 đêm/tuần trong 14 tháng, gần đây gần như mọi đêm; ban ngày gật gù, mệt (QĐ 2058/2020 Bài 27 mục 3.1.1 tiêu chuẩn ICD-10: ≥ 3 lần/tuần, ≥ 1 tháng; ESRS 2023 Bảng 2: ≥ 3 lần/tuần, ≥ 3 tháng).",
+     "Chuyến xe khách là yếu tố làm nặng, không phải nguyên nhân khởi phát: bà đã mất ngủ từ trước chuyến đi. Ngồi 6 tiếng, giường lạ, ngủ gật ngày làm lệch nhịp ngủ. Khám hai bắp chân bình thường nên không nghĩ huyết khối tĩnh mạch sâu (tiêu chuẩn Wells: không có trong tài liệu đã tải).",
+     "Điều bà tin là 'viêm xoang' thực ra là cuốn mũi phù nề đỏ sẫm do nhỏ thuốc co mạch 3–4 lần mỗi đêm trên một năm. QĐ 5643/2015 mục 4.2.1: xịt co mạch ngắn hạn, kéo dài có thể làm bệnh nặng hơn; ARIA-EAACI 2024–2025 Phần I: gợi ý không dùng > 5 ngày và không dùng ở người cao tuổi. Nghẹt mũi làm bà thức giấc và nhỏ thêm (suy luận lâm sàng, tài liệu đã tải không nêu).",
+     "Không có viêm xoang cấp do vi khuẩn: không mủ, không sốt, không đau mặt, bạch cầu bình thường, nội soi không mủ (QĐ 5643/2015 mục 3.1.1).",
+     "Loại trừ trầm cảm và ngưng thở khi ngủ như trong phần chẩn đoán loại trừ; hỏi riêng về khí sắc vì bà dễ nói 'tại không ngủ nên mệt' (ESRS 2023 mục 3.5). Applicability Note: người ≥ 75 tuổi thường bị loại khỏi thử nghiệm; mức chứng cứ CBT-I cho nhóm tuổi này trong các hướng dẫn đã tải: không có số liệu riêng.",
+     "Lý do thật đến khám: tin có 'viêm xoang' nên xin kháng sinh và truyền dịch. Phải hỏi ra và trả lời, không chỉ kê đơn."
+    ],
+    "phan_tich_xu_tri": [
+     "Ưu tiên không dùng thuốc: CBT-I hoặc dạng ngắn là đầu tay (AASM 2021 khuyến cáo 1–4; ESRS 2023 Bảng 16, A). Với bà: giờ dậy cố định, bỏ ngủ trưa dài (chỉ ngủ ngắn nếu cần), chỉ lên giường khi buồn ngủ, rời giường khi không ngủ được, bỏ trà đặc buổi chiều. Giới hạn nằm giường tăng dần, tránh siết quá nhanh vì bà 79 tuổi và có nguy cơ té (mức siết cụ thể: không có trong tài liệu đã tải).",
+     "Ngừng thuốc nhỏ mũi kéo dài, thay bằng rửa mũi nước muối sinh lý (QĐ 5643/2015 mục 4.2.1), có thể xịt corticoid mũi theo chỉ định (a). Báo trước nghẹt mũi sẽ nặng lên một thời gian để bà không hoảng và nhỏ lại thuốc.",
+     "Không kháng sinh vì không đủ tiêu chuẩn viêm xoang vi khuẩn (QĐ 5643/2015 mục 3.1.1). Không truyền dịch vì không mất nước, ăn uống được; truyền dịch không thuộc điều trị mất ngủ (QĐ 2058/2020 Bài 27 mục 4.3).",
+     "Không kê benzodiazepin hoặc nhóm Z hằng đêm (Beers 2023 Bảng 2; ESRS 2023 mục 4.2.1). Nếu sau CBT-I vẫn cần thuốc và bà đồng ý: ngắn hạn tối đa 4 tuần (ESRS 2023 Bảng 16), kèm quyết định chung; BYT 2020 và AASM 2017 liệt kê thuốc mà không giới hạn tuổi nên khác cách ghi (xem sổ mâu thuẫn mục TT-0161).",
+     "Câu thay thế khi bà đòi truyền dịch: 'Bà ăn uống bình thường nên cơ thể không thiếu nước; truyền dịch không làm bà ngủ được mà còn phải nằm phòng lạ, dễ lú lẫn. Mình sửa cái mũi và nếp ngủ trước, hai tuần nữa con xem lại.' (không có trong tài liệu đã tải, là gợi ý giao tiếp).",
+     "Hẹn tái khám 2 tuần với nhật ký ngủ; không đáp ứng thì xét đa ký (ESRS 2023 mục 3.2, 3.4, Bảng 4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) rửa mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mũi 2 lần/ngày, mỗi bên mũi một lượng đủ ướt (lượng cụ thể: không có trong tài liệu đã tải)",
+      "duong": "Rửa mũi",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "Đến khi hết nghẹt mũi dội ngược; tái khám 2 tuần",
+      "ghi_chu": "Rửa mũi nước muối sinh lý giúp giữ ẩm và làm sạch dịch trong hốc mũi (QĐ 5643/2015, Viêm mũi xoang cấp tính mục 4.2.1)."
+     },
+     {
+      "thuoc": "Corticoid xịt mũi (ví dụ mometason hoặc fluticason, nếu cần)",
+      "ham_luong": "Theo chế phẩm; liều và số ngày: không có trong tài liệu đã tải",
+      "lieu": "Theo chỉ dẫn nhà sản xuất",
+      "duong": "Xịt mũi",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Ngắn hạn, đánh giá lại khi tái khám",
+      "ghi_chu": "QĐ 5643/2015 mục 4.2.1: xịt corticoid mũi giúp giảm tiết dịch, ít ảnh hưởng toàn thân. Chỉ định cho viêm mũi do thuốc: không có trong tài liệu đã tải. Chấm a."
+     },
+     {
+      "thuoc": "Không kê thuốc nhỏ mũi co mạch",
+      "ham_luong": "-",
+      "lieu": "Ngừng xylometazolin",
+      "duong": "-",
+      "thoi_diem": "Từ đêm nay",
+      "so_ngay": "-",
+      "ghi_chu": "QĐ 5643/2015 mục 4.2.1; ARIA-EAACI 2024–2025 Phần I. Cách ngừng ngay hay giảm dần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Thuốc ngủ",
+      "ham_luong": "-",
+      "lieu": "Chưa kê lần này",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "CBT-I trước (ESRS 2023 Bảng 16). Nếu về sau cần: ngắn hạn tối đa 4 tuần; benzodiazepin và nhóm Z nên tránh ở người ≥ 65 tuổi (AGS Beers 2023 Bảng 2)."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg × 1 lần/ngày, tiếp tục",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Dùng lâu dài theo bác sĩ điều trị",
+      "ghi_chu": "Không thay đổi; không liên quan mất ngủ (liều và theo dõi amlodipin: QĐ 5904/2019 Phần 3 mục G)."
+     }
+    ],
+    "dan_do": [
+     "Mất ngủ của bà là mất ngủ mạn, có thể chữa, không phải 'viêm xoang' phải dùng kháng sinh (QĐ 5643/2015 mục 3.1.1).",
+     "Bỏ thuốc nhỏ mũi co mạch, dùng nước muối rửa mũi. Mấy ngày đầu nghẹt mũi nặng lên, đừng nhỏ lại; nếu quá khó chịu quay lại khám.",
+     "Dậy cùng một giờ mỗi sáng, bỏ ngủ trưa dài, chỉ lên giường khi buồn ngủ, không xem tivi trên giường, không nhìn đồng hồ; bỏ trà đặc từ buổi chiều (QĐ 2058/2020 Bài 27 mục 4.3; AASM 2021 khuyến cáo 3).",
+     "Ghi nhật ký ngủ 7–14 ngày: giờ lên giường, giờ chợp mắt, số lần thức, giờ dậy (ESRS 2023 mục 3.2). Tái khám sau khoảng 2 tuần.",
+     "Dặn con gái: không tự mua kháng sinh, thuốc ngủ, thuốc cảm cho bà. Thuốc cảm có thể chứa chất làm tăng huyết áp (không có trong tài liệu đã tải cho thuốc cụ thể của bà).",
+     "Quay lại sớm nếu sốt, chảy mủ mũi, đau mặt, té ngã, lú lẫn, buồn bã kéo dài hoặc có ý nghĩ tự hại (QĐ 5643/2015 mục 3.1.1; QĐ 2058/2020 Bài 20 mục 3.1.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai tuần đầu bà bỏ thuốc nhỏ mũi nhưng nghẹt mũi nặng hơn, bà nhỏ lại hai đêm rồi gọi điện hỏi lại và quay về nước muối. Đến tuần thứ 3–4 nghẹt mũi giảm rõ, giờ dậy cố định và bỏ ngủ trưa dài giúp ngủ được khoảng 5–6 tiếng. Giấc ngủ cải thiện chậm hơn bà mong, sau 2 tháng vẫn còn đêm thức giữa đêm. Bà không cần thuốc ngủ và không còn đòi truyền dịch. Đây là quỹ đạo chậm nhưng đúng hướng ở người 79 tuổi; cần lo thêm khi nhật ký ngủ không cải thiện sau 4–6 tuần, khí sắc xấu đi, hoặc có ngáy to kèm ngừng thở (đa ký).",
+ "nhieu": [
+  "Đòi truyền dịch: bà ăn uống tốt, Na 139, không mất nước; truyền dịch không điều trị mất ngủ và không có trong hướng dẫn mất ngủ đã tải (QĐ 2058/2020 Bài 27 mục 4.3 chỉ nhắc nuôi dưỡng tĩnh mạch khi cần thiết). Cần giải thích lợi ích–nguy cơ cụ thể và đưa câu nói thay thế.",
+  "Chuyến xe khách ngồi 6 tiếng: gợi nghĩ huyết khối tĩnh mạch sâu nhưng chân không sưng đau, không khó thở; là dữ kiện nhiễu và yếu tố làm nặng mất ngủ."
+ ],
+ "bai_hoc_bien": [
+  "Lý do thật đến khám là xin kháng sinh vì tin 'viêm xoang'; hỏi 'chị lo điều gì, mong muốn gì hôm nay' lộ ra yêu cầu kháng sinh và truyền dịch.",
+  "Thuốc nhỏ mũi tự mua là thuốc dễ bị quên khi hỏi 'có uống thuốc gì không'; phải hỏi tên thuốc nhỏ mũi, số lần mỗi đêm, thời gian dùng.",
+  "Người ≥ 75 tuổi: tránh benzodiazepin và thuốc nhóm Z; CBT-I hiệu chỉnh từ từ; nhóm bị loại khỏi nhiều thử nghiệm nên mức chứng cứ riêng cho nhóm này còn hạn chế.",
+  "Đòi truyền dịch: từ chối kèm lý do cụ thể cho người bệnh và câu thay thế (mất ngủ cần chữa nếp ngủ và mũi), không chỉ nói 'không cần'.",
+  "Không cài bẫy: giá trị dạy học nằm ở quy trình chặt: lịch sử giấc ngủ, thuốc, loại trừ trầm cảm và ngưng thở, nhật ký ngủ."
+ ],
+ "diem_nho": [
+  "Mất ngủ mạn: ≥ 3 lần/tuần: ≥ 1 tháng (ICD-10, QĐ 2058/2020 Bài 27 mục 3.1.1) hoặc ≥ 3 tháng (ICSD-3, ESRS 2023 Bảng 2).",
+  "CBT-I là đầu tay; thuốc ngủ chỉ ngắn hạn tối đa 4 tuần (ESRS 2023 Bảng 16; AASM 2021 khuyến cáo 1; AASM 2026 khuyến cáo 1–2).",
+  "Từ 65 tuổi tránh benzodiazepin và nhóm Z (AGS Beers 2023 Bảng 2).",
+  "Thuốc co mạch mũi chỉ ngắn hạn (QĐ 5643/2015 mục 4.2.1: ví dụ 3 ngày; ARIA-EAACI 2024–2025 Phần I: không quá 5 ngày, không dùng ở người cao tuổi).",
+  "Viêm mũi xoang do vi khuẩn khi triệu chứng xấu đi sau 5–7 ngày hoặc kéo dài > 10 ngày (QĐ 5643/2015 mục 3.1.1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 27 (mục 3.1.1, 3.1.2, 3.2, 4.1, 4.3); Bài 20 mục 3.1.1.",
+  "BYT – QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh tai mũi họng – TL-0130 – Viêm mũi xoang cấp tính mục 3.1.1, 4.2.1.",
+  "ESRS 2023 – The European Insomnia Guideline, J Sleep Res 2023;32:e14035 – TL-0464 – mục 1.4, 3.2, 3.4, 3.5, 4.1.1, 4.2.1, 4.2.6; Bảng 2, 4, 16; Hình 1.",
+  "AASM 2021 – Behavioral and psychological treatments for chronic insomnia disorder in adults, J Clin Sleep Med 2021;17(2):255-262 – TL-0470 – khuyến cáo 1–6.",
+  "AASM 2017 – Pharmacologic treatment of chronic insomnia in adults, J Clin Sleep Med 2017;13(2):307-349 – TL-0482 – khuyến cáo 2, 4–6, 12.",
+  "AASM 2026 – Combination treatment for chronic insomnia disorder in adults, J Clin Sleep Med 2026;22(1) – TL-0448 – khuyến cáo 1, 2.",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2 (benzodiazepin; thuốc nhóm Z).",
+  "ARIA-EAACI 2024–2025, Allergic rhinitis and its impact on asthma, Part I intranasal treatments – TL-0546 – khuyến cáo về thuốc co mạch mũi."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (16/10/2026): viết theo TL-0443 Bài 27, Bài 20; TL-0464; TL-0470; TL-0482; TL-0448; TL-0022 Bảng 2; TL-0130 (QĐ 5643/2015); TL-0546 (ARIA 2024–2025). Cách ghi benzodiazepin/nhóm Z, melatonin, vệ sinh giấc ngủ theo mục TT-0161 trong sổ mâu thuẫn.",
+  "Thiếu tài liệu: tiêu chuẩn viêm mũi do thuốc và cách ngừng thuốc co mạch mũi; STOP-Bang; điểm cắt MoCA; tiêu chuẩn Wells; liều corticoid mũi; mức siết giới hạn nằm giường ở người ≥ 75 tuổi; thuốc ngủ riêng cho người ≥ 75 tuổi. Đã ghi 'không có trong tài liệu đã tải'.",
+  "Ca một lượt, loại kết cục 'khỏi chậm hơn dự kiến' thể hiện ở trường ket_cuc; khoa_cls khóa siêu âm (abdus ghi n)."
+ ]
+}
