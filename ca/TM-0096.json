@@ -1,0 +1,861 @@
+{
+ "ma_ca": "TM-0096",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_viem_ket_mac_nhu_nhi",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm kết mạc (virus/vi khuẩn/dị ứng)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm màng bồ đào",
+   "Glôcôm cấp",
+   "Viêm giác mạc"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau bữa ăn nhiều đạm (cháo trứng, tôm, thịt)",
+  "thuoc_dang_dung": "Paracetamol liều thông thường",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Lê Bảo Châu",
+  "tuoi": 0.67,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.0,
+  "chieu_cao": 69,
+  "xung_ho": "Bé gái 8 tháng, chưa nói được, hay ê a, biết nhận người lạ và mếu khi bị chạm vào mặt. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' với bác sĩ và gọi bé là 'con' hoặc 'cháu Châu'.",
+  "tinh_cach": "Mẹ 31 tuổi, kế toán, đi một mình bế bé, sắp hết nghỉ thai sản. Chị nói nhanh, tay run, điện thoại đầy ảnh mắt bé chụp mỗi giờ; vừa nghe đồng nghiệp kể con 'đau mắt đỏ rồi thủng mắt' và đọc mạng 'đau mắt đỏ gây mù'. Bé tỉnh, hay cười, bú tốt, chớp mắt phải nhiều, khóc to khi bị chạm vào mặt và nín khi được mẹ bế.",
+  "kieu_nhieu": "Sợ hãi quá mức: mẹ phóng đại ('mắt đỏ như máu', 'ghèn chảy suốt đêm'), hỏi đi hỏi lại 'có bị mù không', 'có thủng giác mạc không', đòi kháng sinh uống, chụp, khám chuyên khoa, nhập viện. Trấn an chung chung chỉ làm mẹ hỏi lại. Mẹ dịu xuống khi bác sĩ khám giác mạc trước mặt mẹ, nói rõ từng dấu hiệu nguy hiểm bé KHÔNG có và đưa tiêu chí quay lại. Mẹ không tự kể lý do thật (giấy nhà trẻ) và chuyện bé hay ướt nước mắt từ nhỏ.",
+  "nguoi_nha": "Mẹ bé, chị Hạnh (Ngô Thị Hạnh), 31 tuổi, đi một mình bế bé. Mọi câu hỏi do mẹ trả lời (nguoi_noi = nguoi_nha); bé chỉ ê a và khóc. Cha đi công tác dài ngày, bà ngoại ở quê.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hạnh)",
+  "ngoai_hinh": {
+   "da": "#f3cfae",
+   "toc": "#2a1b14",
+   "kieuToc": "tre",
+   "ao": "#cfe3f1",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#ecc09b",
+    "toc": "#1f1713",
+    "kieuToc": "dai",
+    "ao": "#e3a8b6",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé đỏ mắt phải, chảy ghèn hai ngày",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 8 tháng, 8 kg, mẹ đưa đến vì mắt phải đỏ, chảy nước mắt và ghèn 2 ngày, sổ mũi 3 ngày. Sinh hiệu: nhiệt 37,9 °C, mạch 128 l/p, nhịp thở 34 l/p, SpO₂ 98%. Bé tỉnh, cười, bú được.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé Châu lên bệnh viện mắt ngay là quá tay: giác mạc trong, không bắt màu fluorescein, bé nhìn theo, không sợ sáng, không mủ nhiều, không có tiêu chí chuyển (AAO Conjunctivitis PPP 2018, Provider and Setting); adenovirus thường tự lui sau 5–14 ngày (Bảng 1). Chị Hạnh đưa bé đến nơi đông người khi bé đang lây, tốn một ngày công, có thể bị kê kháng sinh hoặc corticoid nhỏ mắt không cần, và vẫn chưa có giấy cho nhà trẻ.",
+    "nhap_vien": "Nhập viện theo yêu cầu của chị Hạnh không có chỉ định: bé bú tốt, cười, niêm mạc ẩm, nguy cơ thấp (NICE NG143 mục 1.2.7); đa số viêm kết mạc điều trị ngoại trú (AAO Conjunctivitis PPP 2018, Provider and Setting). Nằm viện làm bé lây và bị lây chéo, tốn kém, và mẹ càng tin mắt con nặng."
+   },
+   "loi_mo": "Bác sĩ ơi, mắt con em đỏ ngầu, ghèn chảy suốt, em sợ lắm! Có bị hỏng mắt, bị mù không bác sĩ? Hôm kia bà nấu cháo nhiều đạm con ăn hết, hay là con bị dị ứng đạm?",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "37,9",
+    "nhip_tho": 34,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mắt phải đỏ, chảy nước mắt và ghèn 2 ngày, sổ mũi 3 ngày. Mẹ rất lo vì sợ bé bị mù.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "ghen",
+     "noi_dung": "Ghèn lúc đầu loãng như nước, trong; sáng ngủ dậy mi hơi dính; hôm nay có chút nhầy trắng. Không có mủ vàng xanh đặc. Mắt trái chưa đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất ghèn, một hay hai mắt"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Mẹ đo nách 38,2 °C hôm kia và 38,3 °C hôm qua, cho paracetamol siro 80 mg, tổng 3 lần, cách nhau hơn 6 giờ; hôm nay chưa sốt lại. Sổ mũi trong, ho nhẹ, bú mẹ và ăn cháo như thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, hô hấp trên, bú; thuốc đang dùng"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé không nheo mắt, không sợ ánh sáng, không quay mặt đi chỗ sáng, vẫn nhìn theo mẹ và với đồ chơi; không dụi mắt liên tục; không nôn, không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau/sợ sáng, thị giác ở nhũ nhi; dấu hiệu nguy hiểm"
+    },
+    {
+     "id": "lay",
+     "noi_dung": "Cuối tuần trước bé chơi với anh họ 4 tuổi đang đỏ mắt, sổ mũi. Nhà dùng chung khăn mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người đau mắt đỏ"
+    },
+    {
+     "id": "dam",
+     "noi_dung": "Tối trước khi mắt đỏ, bà nấu cháo hai lòng đỏ trứng, tôm xay, thịt nạc, bé ăn hết bát. Sau đó không mề đay, không sưng môi mặt, không nôn, không tiêu chảy, không dụi mắt vì ngứa. Trứng và tôm đã ăn vài lần trước không sao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bữa cháo nhiều đạm: loại trừ dị ứng thức ăn",
+     "nhieu": 1
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Sinh thường đủ tháng 3,2 kg, mẹ khám thai đủ, không nhiễm khuẩn mắt sau sinh. Tiêm chủng đủ. Không chàm, hen, dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "nuoc_mat",
+     "noi_dung": "Từ khoảng 2 tháng tuổi mắt phải bé hay ướt nước mắt, nhất là khi gió hay lúc cảm; thỉnh thoảng sáng dậy có ghèn nhầy trắng, lau bông là hết. Mẹ nghĩ 'trẻ con ai chẳng thế' nên không kể.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Ướt nước mắt từ nhỏ (gợi ý tắc lệ đạo)",
+     "dieu_kien_lo": "Mẹ không tự kể. Chỉ nói khi bác sĩ hỏi mắt bé trước đợt này có hay chảy nước mắt, có ghèn buổi sáng không."
+    },
+    {
+     "id": "so_hai",
+     "noi_dung": "Đồng nghiệp có con 'đau mắt đỏ rồi thủng mắt phải mổ'; chị đọc mạng 'đau mắt đỏ gây mù'. Chị chụp ảnh mắt bé mỗi giờ, hỏi đi hỏi lại 'có thủng giác mạc không', đòi kháng sinh uống, khám chuyên khoa, nhập viện.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nỗi sợ quá mức của mẹ",
+     "nhieu": 1
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thứ Hai tuần sau chị hết nghỉ thai sản, đi làm lại; bé gửi nhà trẻ tư thục Hoa Mai, nhà trẻ yêu cầu giấy khám sức khỏe có dấu cơ sở y tế. Chị sợ mắt còn đỏ nhà trẻ không nhận nên muốn 'khám kỹ, hết hẳn rồi xin giấy luôn', vì thế đòi thuốc mạnh nhất. Bà ngoại ở quê.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: cần giấy khám sức khỏe cho nhà trẻ",
+     "nhieu": 1,
+     "dieu_kien_lo": "Mẹ không tự nói. Chỉ kể khi bác sĩ hỏi kế hoạch sắp tới của bé (đi nhà trẻ, ai trông bé), hoặc hỏi 'ngoài chuyện mắt chị còn muốn nhờ gì không', hoặc hỏi vì sao chị vội xin thuốc mạnh."
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Mắt phải: mi phù nhẹ, kết mạc nhãn cầu cương tụ lan tỏa, phù nhẹ, vài chấm xuất huyết dưới kết mạc; kết mạc sụn mi dưới có phản ứng dạng hột nhỏ, không giả mạc. Tiết tố loãng trong lẫn ít nhầy trắng, không mủ. Giác mạc trong, đồng tử tròn đều 3 mm, phản xạ tốt. Bé nhìn theo mặt mẹ và đồ chơi, không quấy khi che từng mắt. Ấn góc trong mắt phải: nước mắt đọng bờ mi, ít nhầy trắng trào ra điểm lệ dưới. Mắt trái bình thường.",
+     "k": 1,
+     "hien": "Mắt phải đỏ, có ghèn. Mắt trái không đỏ. Bé nhìn theo đồ chơi và mặt mẹ khi che từng mắt."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi đèn xanh: giác mạc hai mắt trong, không bắt màu, không ổ thâm nhiễm.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước tai phải sờ thấy nhỏ, di động, bé không phản ứng đau; bên trái chưa sờ thấy. Hạch dưới hàm nhỏ.",
+     "k": 1,
+     "hien": "Sờ vùng trước tai, dưới hàm, cổ hai bên."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: dịch trong. Họng đỏ nhẹ. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "da": {
+     "a": "Không mề đay, không ban, không phù môi mặt.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, cười, chơi được, môi hồng, niêm mạc ẩm, thóp phẳng, khóc có nước mắt: không mất nước.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p. Không co lõm lồng ngực. Phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 34 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 128 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 128 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "test_adeno": {
+     "v": "a",
+     "r": "Test nhanh kháng nguyên adenovirus dịch kết mạc: dương tính",
+     "n": "Không bắt buộc: nhạy 88–89%, đặc hiệu 91–94%, giúp tránh kháng sinh không cần (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Viral). Chẩn đoán lâm sàng đã đủ; cơ sở không có test thì không trừ điểm."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Không cần: tiết tố loãng, không mủ; cấy khi tái phát, nặng, mạn hoặc không đáp ứng (AAO 2018, Diagnostic Tests – Cultures)."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Hb 118 g/L · BC 8,4 G/L (lympho ưu thế) · TC 310 G/L",
+     "n": "Không cần (AAO Conjunctivitis PPP 2018, Diagnostic Tests)."
+    },
+    "ige_tong": {
+     "v": "n",
+     "r": "IgE toàn phần 12 kU/L",
+     "n": "Không cần: không ngứa, một mắt, có hạch trước tai; dị ứng cấp có ngứa, phù mọng, nhú to (QĐ 40/QĐ-BYT 2015, Viêm kết mạc dị ứng cấp tính mục 3)."
+    },
+    "echo": {
+     "n": "Cơ sở không có siêu âm, và không cần: QĐ 40/QĐ-BYT 2015 chỉ nêu siêu âm mắt khi nghi viêm màng bồ đào làm đục dịch kính (Viêm màng bồ đào trước, mục 3b)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc cấp do virus (nghĩ adenovirus) mắt phải ở nhũ nhi 8 tháng, chưa biến chứng giác mạc",
+     "ok": 1,
+     "n": "Một mắt trước, tiết tố loãng, hạch trước tai, phản ứng dạng hột, xuất huyết dưới kết mạc, sốt nhẹ, sổ mũi, tiếp xúc anh họ đỏ mắt (AAO Conjunctivitis PPP 2018, Bảng 1 Adenoviral; QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 3a)."
+    },
+    {
+     "t": "Viêm kết mạc dị ứng (do bữa cháo nhiều đạm)",
+     "n": "Dị ứng cấp: ngứa, bỏng rát, mi phù mọng, nhú to (QĐ 40/QĐ-BYT 2015, Viêm kết mạc dị ứng cấp tính mục 3). Bé một mắt, có hạch trước tai, sốt, không mề đay hay triệu chứng tiêu hóa: bữa cháo chỉ trùng thời điểm."
+    },
+    {
+     "t": "Viêm kết mạc vi khuẩn",
+     "n": "Điển hình: mủ vàng xanh đặc, dính mi, không hạch (AAO Conjunctivitis PPP 2018, Bảng 1 Bacterial); bé tiết tố loãng, màng nhĩ bình thường (nhũ nhi hay kèm tắc lệ đạo, viêm tai giữa, viêm họng: Bảng 1 Infant). Nếu tiết tố chuyển mủ đặc cần xét lại."
+    },
+    {
+     "t": "Viêm kết mạc do lậu cầu, Chlamydia (nhiễm từ mẹ)",
+     "n": "Lậu cầu sơ sinh khởi phát 1–7 ngày sau sinh, Chlamydia 5–19 ngày (AAO Conjunctivitis PPP 2018, Bảng 1); bé 8 tháng, mẹ khám thai đủ, không mủ rầm rộ."
+    },
+    {
+     "t": "Viêm giác mạc",
+     "n": "Giác mạc trong, không bắt màu fluorescein, bé không sợ sáng, không nheo mắt (QĐ 40/QĐ-BYT 2015, Viêm màng bồ đào trước mục 3d: viêm loét giác mạc có tổn thương trên giác mạc)."
+    },
+    {
+     "t": "Viêm màng bồ đào trước",
+     "n": "Đỏ nông, không cương tụ rìa, đồng tử tròn đều, phản xạ tốt, bé không đau/sợ sáng (QĐ 40/QĐ-BYT 2015, Viêm màng bồ đào trước mục 3a, 3c, 3d)."
+    },
+    {
+     "t": "Glôcôm cấp",
+     "n": "Cơn cấp: đau nhức, nhìn mờ, đồng tử giãn méo, giác mạc phù mờ, nhãn áp rất cao (QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng nguyên phát mục 3a); bé giác mạc trong, đồng tử đều, bú và chơi bình thường. Glôcôm bẩm sinh ở nhũ nhi: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích bệnh do virus, tự lui 5–14 ngày; hỗ trợ: lau mắt gạc sạch thấm NaCl 0,9%, chườm lạnh, nước mắt nhân tạo. Kháng sinh nhỏ mắt: không dùng (AAO 2018) hoặc tobramycin 0,3% (QĐ 40/2015)",
+     "v": "c",
+     "n": "Ghi cả hai (sổ mâu thuẫn, mục TM-0072). AAO Conjunctivitis PPP 2018 (Bảng 1 Adenoviral; Treatment – Adenoviral): tự giới hạn, tránh kháng sinh vì tác dụng phụ, dùng nước mắt nhân tạo hoặc chườm lạnh. QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b), QĐ 708/2015 (Viêm kết mạc cấp mục 4.1): rửa NaCl 0,9%, nhỏ aminoglycosid (tobramycin). Khác nhau vì QĐ 40 viết chung cho viêm kết mạc cấp (gồm lậu cầu, bạch hầu), AAO 2018 (mới hơn) tách thể adenovirus. Tobramycin 0,3% trẻ ≥ 2 tháng: 1–2 giọt mỗi 4 giờ (nguồn bổ sung tự tìm: https://drugs.com/dosage/tobramycin-ophthalmic.html); số ngày cho thể virus, số lần chườm/lau mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phòng lây: rửa tay xà phòng, khăn riêng, không dùng chung đồ; bé tránh tiếp xúc người khác 10–14 ngày kể từ khi mắt sau cùng khởi phát (hoặc 7 ngày theo nhiều tác giả); chưa gửi nhà trẻ",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Prevention): nhiều tác giả coi 7 ngày từ khởi phát mắt sau cùng là thời gian lây, nghiên cứu khác ít nhất 10–14 ngày; Treatment – Adenoviral: 10–14 ngày [I+, Good, Strong]; virus sống tới 28 ngày trên bề mặt. Mốc 7 ngày chấm a (sổ mâu thuẫn TM-0072)."
+    },
+    {
+     "t": "Giấy khám sức khỏe cho nhà trẻ: hôm nay không ghi 'Bình thường'; ghi 'Có vấn đề về sức khỏe: viêm kết mạc cấp', hẹn khám lại, hoặc hoãn lập giấy đến khi hết bệnh",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT, Phụ lục XXIV, Mẫu số 01, mục 2.2 ('Mí mắt và kết mạc: Bình thường / Sưng đỏ / Chảy ghèn, mủ') và mục Kết luận (Bình thường / Có nguy cơ mắc lao / Có vấn đề về sức khỏe, hẹn khám lần sau). Quy định nhà trẻ về nhận trẻ đỏ mắt: không có trong tài liệu đã tải (sổ mâu thuẫn, mục giấy khám khi trẻ đang bệnh cấp)."
+    },
+    {
+     "t": "Trấn an có cấu trúc: khám giác mạc trước mặt mẹ, nêu từng dấu hiệu nguy hiểm bé KHÔNG có (nhìn theo, không sợ sáng, giác mạc trong), dặn tiêu chí quay lại; không làm xét nghiệm chiều lòng",
+     "v": "c",
+     "n": "Tiêu chí chuyển nhãn khoa: mất thị lực, đau vừa-nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng, tái phát (AAO Conjunctivitis PPP 2018, Provider and Setting). Kỹ năng giao tiếp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol chỉ khi sốt làm bé khó chịu, không dùng thường quy (hôm nay 37,9 °C, bé vui, bú tốt)",
+     "v": "c",
+     "n": "NICE NG143 mục 1.6.4–1.6.5 (khi khó chịu, không chỉ để hạ nhiệt), mục 1.2.11; WHO Pocket book 2013 (chương 10, Antipyretic treatment, tr. 304–305): từ 2 tháng, ≥ 39 °C và khó chịu. QĐ 3312/2015 hạ sốt khi > 38 °C, chấm a (sổ mâu thuẫn, mục hạ sốt). Liều 10–15 mg/kg/lần (8 kg: 80–120 mg), ≤ 60 mg/kg/24 giờ (QĐ 3312, Co giật do sốt mục 4.1). Mẹ cho 80 mg (10 mg/kg): đúng liều."
+    },
+    {
+     "t": "Nhỏ corticoid (prednisolon acetat, fluorometholon)",
+     "v": "w",
+     "n": "AAO Conjunctivitis PPP 2018 (Treatment – Adenoviral): chỉ cho thể nặng (phù mi nhiều, tróc biểu mô, viêm kết mạc màng), theo dõi nhãn áp; trên mô hình động vật làm virus thải lâu hơn. QĐ 40/QĐ-BYT 2015 (mục 4b): thận trọng. Bé nhẹ, 8 tháng: không có chỉ định."
+    },
+    {
+     "t": "Kháng sinh toàn thân hoặc ofloxacin/ciprofloxacin uống",
+     "v": "h",
+     "n": "QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b) và QĐ 708/2015 (mục 4.2): chống chỉ định dưới 16 tuổi. Kháng sinh toàn thân chỉ cho lậu cầu, bạch hầu."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện mắt ngay",
+     "v": "w",
+     "n": "Không có tiêu chí chuyển; đa số điều trị ngoại trú (AAO Conjunctivitis PPP 2018, Provider and Setting). Bé đang lây: tăng nguy cơ lây chéo."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc cấp do virus (nghĩ adenovirus), mắt phải, nhũ nhi 8 tháng",
+     "Chưa tổn thương giác mạc; không dấu hiệu viêm màng bồ đào hay glôcôm",
+     "Không có bằng chứng dị ứng thức ăn: bữa cháo chỉ trùng thời điểm",
+     "Bé đang lây, nguy cơ sang mắt trái và người nhà; chưa thể cấp giấy 'Bình thường' cho nhà trẻ",
+     "Ướt nước mắt từ nhỏ: ghi nhận"
+    ],
+    "phan_tich_chan_doan": [
+     "Một mắt trước, ghèn loãng, sổ mũi, sốt nhẹ, anh họ đỏ mắt; khám có hạch trước tai, phản ứng dạng hột, xuất huyết dưới kết mạc, giác mạc trong (AAO Conjunctivitis PPP 2018, Bảng 1 Adenoviral). Test nhanh adenovirus không bắt buộc.",
+     "Không phải dị ứng: không ngứa dụi, không mề đay, một mắt, có hạch và sốt (QĐ 40/QĐ-BYT 2015, Viêm kết mạc dị ứng cấp tính mục 3). Không làm IgE cho bữa cháo.",
+     "Loại trừ bệnh nặng: viêm giác mạc (fluorescein âm), viêm màng bồ đào trước (cương tụ rìa, đồng tử co, sợ sáng), glôcôm cấp (đau nhức, giác mạc phù, đồng tử giãn méo) (QĐ 40/QĐ-BYT 2015, Viêm màng bồ đào trước mục 3; Glôcôm góc đóng nguyên phát 3a). Nhũ nhi 'đau, sợ sáng' biểu hiện bằng quấy, nheo mắt, quay mặt đi: bé không có.",
+     "Ghi nhận nhưng chưa kết luận: ướt nước mắt từ 2 tháng, ấn góc trong có ít nhầy trào. Nhũ nhi bị viêm kết mạc vi khuẩn thường có tắc lệ đạo (AAO Conjunctivitis PPP 2018, Bảng 1 Infant); viêm túi lệ mạn có chảy nước mắt thường xuyên, mủ nhầy (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 3a). Hiện chưa sưng đỏ đau vùng túi lệ."
+    ],
+    "phan_tich_xu_tri": [
+     "Hỗ trợ; kháng sinh nhỏ mắt không dùng (AAO 2018) hoặc tobramycin (QĐ 40/2015) đều đúng. Không corticoid, không kháng sinh toàn thân, không fluoroquinolon.",
+     "Phòng lây là phần quan trọng nhất: 10–14 ngày từ mắt sau cùng (AAO 2018), mắt trái chưa đỏ nên mốc chưa tính xong.",
+     "Giấy nhà trẻ ghi trung thực 'Có vấn đề về sức khỏe', hẹn khám lại (TT 25/2026/TT-BYT, Phụ lục XXIV, Mẫu số 01, mục 2.2, Kết luận). Giải thích: thuốc mạnh không làm bé hết lây sớm hơn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% và gạc/bông sạch",
+      "ham_luong": "0,9%",
+      "lieu": "Lau từ góc trong ra góc ngoài, mỗi lần một gạc",
+      "duong": "Lau/rửa mắt",
+      "thoi_diem": "Mỗi khi có ghèn, nhất là buổi sáng",
+      "so_ngay": "Đến khi hết ghèn",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Tobramycin nhỏ mắt (tùy chọn theo QĐ 40/2015; AAO 2018 khuyên tránh ở thể virus)",
+      "ham_luong": "0,3%",
+      "lieu": "1–2 giọt vào mắt phải",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Mỗi 4 giờ lúc bé thức",
+      "so_ngay": "Không có trong tài liệu đã tải cho thể virus",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015 (mục 4b); QĐ 708/2015 (mục 2.5); liều: nguồn bổ sung tự tìm: https://drugs.com/dosage/tobramycin-ophthalmic.html. Không dùng kháng sinh thì bỏ dòng này."
+     },
+     {
+      "thuoc": "Paracetamol (siro trẻ em), chỉ khi sốt làm bé khó chịu",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "80–120 mg/lần (10–15 mg/kg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt và quấy; cách nhau ít nhất 6 giờ",
+      "so_ngay": "Những ngày còn sốt khó chịu; tối đa 4 lần/24 giờ (≤ 60 mg/kg/ngày = 480 mg)",
+      "ghi_chu": "NICE NG143 mục 1.6.4–1.6.6; WHO Pocket book 2013 Annex 2; QĐ 3312/2015 (Co giật do sốt mục 4.1)."
+     }
+    ],
+    "dan_do": [
+     "Mắt bé do virus, tự lui trong 5–14 ngày; thuốc mạnh hay kháng sinh uống không làm lui nhanh hơn (AAO 2018, Bảng 1).",
+     "Lau hết ghèn bằng gạc sạch thấm nước muối 0,9%, mỗi lần một gạc, rửa tay sau khi lau; chườm lạnh khi bé khó chịu. Khăn, gối, đồ chơi riêng và lau sạch; rửa tay xà phòng (AAO 2018, Prevention).",
+     "Chưa gửi bé đi nhà trẻ: còn lây 10–14 ngày kể từ khi mắt sau cùng đỏ (AAO 2018). Giấy hôm nay ghi 'Có vấn đề về sức khỏe', hẹn khám lại (TT 25/2026/TT-BYT, Phụ lục XXIV, Mẫu số 01); nhà trẻ nhận hay không: không có trong tài liệu đã tải.",
+     "Đưa bé đến ngay nếu quấy khóc nheo mắt, sợ sáng, mắt đục hoặc có vết trắng, mi sưng đỏ lan, mủ vàng xanh nhiều, nhìn không theo vật, bỏ bú, sốt ≥ 5 ngày (AAO 2018, Provider and Setting; NICE NG143 mục 1.7.3).",
+     "Tái khám sau 5–6 ngày (mốc cụ thể: không có trong tài liệu đã tải); kể thêm chuyện bé hay ướt nước mắt từ nhỏ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 6 ngày",
+   "tiep_don": "Tái khám sau 6 ngày. Mắt phải đã đỡ, nhưng mắt trái đỏ và chảy nước từ 3 ngày nay; mẹ hoảng vì 'chưa hết mà còn sang mắt kia'. Sinh hiệu: nhiệt 36,9 °C, mạch 122 l/p, nhịp thở 32 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển bé Châu lên bệnh viện mắt vì 'sang mắt kia' là hiểu sai diễn tiến: adenovirus thường khởi phát lần lượt hai mắt và lui sau 5–14 ngày (AAO Conjunctivitis PPP 2018, Bảng 1). Giác mạc vẫn trong, bé nhìn theo, không sợ sáng nên chưa có tiêu chí chuyển (Provider and Setting). Bé đang lây, đưa đến nơi đông người vừa phơi nhiễm vừa lây người khác, và tuyến trên cũng chỉ hướng dẫn chăm sóc như đã làm.",
+    "theo_doi": "Giữ bé theo dõi tại phòng khám hoặc đổi sang kháng sinh/corticoid 'mạnh hơn' vì mẹ sợ thuốc không tác dụng là sai hướng: thể virus không đáp ứng kháng sinh, corticoid không cần cho thể nhẹ và có thể làm virus thải lâu hơn trên mô hình động vật (AAO Conjunctivitis PPP 2018, Treatment – Adenoviral). Mẹ càng tin 'thuốc yếu, bệnh nặng' và dễ gửi bé đi nhà trẻ quá sớm."
+   },
+   "loi_mo": "Bác sĩ ơi, mắt phải con đỡ rồi mà giờ mắt trái lại đỏ, ghèn chảy hoài. Thuốc không ăn rồi phải không bác sĩ? Em sợ thủng mắt, bác sĩ cho con thuốc mạnh hơn nha!",
+   "sinh_hieu": {
+    "mach": 122,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 32,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Mắt phải bớt đỏ, ghèn ít dần từ ngày thứ 4. Mắt trái đỏ, ướt nước và có ghèn loãng từ 3 ngày nay. Không sốt, bú tốt, chơi bình thường.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến hai mắt"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé không nheo mắt, không sợ sáng, nhìn theo mẹ và đồ chơi, không quấy đêm vì đau mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau/sợ sáng/giảm thị giác ở nhũ nhi"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Mẹ lau mắt bằng gạc thấm nước muối, rửa tay đều, bé ở nhà với mẹ. Không dùng thuốc nhỏ mắt hay kháng sinh nào khác. Khăn riêng cho bé, nhưng anh họ vẫn qua chơi một lần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ chăm sóc và phòng lây"
+    },
+    {
+     "id": "so_hai",
+     "noi_dung": "Mẹ chụp ảnh hai mắt mỗi sáng để so, nhắn hỏi nhiều người; hỏi có nên đổi thuốc, chụp, tiêm cho 'chắc'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nỗi sợ quá mức của mẹ",
+     "nhieu": 1
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Mẹ hỏi liên tục 'bao giờ mới cho đi nhà trẻ, giấy bao giờ có'; chị xin thêm phép một tuần, sếp chỉ cho đến cuối tuần sau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giấy khám sức khỏe, thời gian nghỉ",
+     "nhieu": 1
+    },
+    {
+     "id": "nuoc_mat",
+     "noi_dung": "Mắt phải bé vẫn hay ứa nước mắt, sáng dậy còn chút nhầy trắng ở góc trong dù đã bớt đỏ. Mẹ cho là bệnh chưa dứt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ướt nước mắt kéo dài ở mắt phải"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Mắt phải: kết mạc nhãn cầu còn cương tụ nhẹ, tiết tố ít, không mủ; giác mạc trong. Mắt trái: mi phù nhẹ, cương tụ lan tỏa, tiết tố loãng trong, phản ứng dạng hột nhỏ, không giả mạc. Đồng tử hai mắt tròn đều, phản xạ tốt. Bé nhìn theo đồ chơi, không quấy khi che từng mắt. Ấn góc trong mắt phải: ít nhầy trắng trào ra điểm lệ, nước mắt đọng bờ mi.",
+     "k": 1,
+     "hien": "Mắt phải đỡ đỏ, mắt trái đỏ. Bé nhìn theo đồ chơi, che từng mắt không quấy."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi đèn xanh: giác mạc hai mắt trong, không bắt màu, không ổ thâm nhiễm.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước tai trái sờ thấy nhỏ, di động, không đau; hạch phải đã nhỏ hơn.",
+     "k": 1,
+     "hien": "Sờ vùng trước tai hai bên."
+    },
+    "toan_than": {
+     "a": "Tỉnh, cười, bú tốt, niêm mạc ẩm: không mất nước.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Mũi sạch, họng hơi đỏ nhẹ. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 32 l/p. Không co lõm lồng ngực, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 32 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 122 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 122 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "test_adeno": {
+     "v": "a",
+     "r": "Test nhanh kháng nguyên adenovirus dịch kết mạc mắt trái: dương tính",
+     "n": "Không bắt buộc, không đổi xử trí (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Viral)."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Chưa cần: tiết tố loãng, không mủ, mắt phải đang đỡ (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Cultures: khi tái phát, nặng, mạn hoặc không đáp ứng)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc adenovirus lần lượt hai mắt: mắt phải đang lui, mắt trái ngày thứ 3; diễn tiến bình thường, chưa biến chứng giác mạc",
+     "ok": 1,
+     "n": "Thường khởi phát lần lượt hai mắt, tự lui 5–14 ngày (AAO Conjunctivitis PPP 2018, Bảng 1 Adenoviral); hạch trước tai, phản ứng dạng hột; giác mạc trong. Đỡ một phần ở mắt phải là hồi phục bình thường, không phải thất bại điều trị."
+    },
+    {
+     "t": "Thất bại điều trị / bội nhiễm vi khuẩn",
+     "n": "Không mủ vàng xanh đặc, mắt phải đang bớt; bội nhiễm sẽ tăng mủ, phù mi nhiều (AAO Conjunctivitis PPP 2018, Bảng 1 Bacterial; Bacterial Conjunctivitis: quay lại sau 3–4 ngày nếu không đỡ)."
+    },
+    {
+     "t": "Viêm giác mạc (chấm biểu mô, thâm nhiễm dưới biểu mô)",
+     "n": "Giác mạc trong, không bắt màu fluorescein, bé không sợ sáng; đây là biến chứng có thể gặp của thể virus (QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 3a, 5; AAO Conjunctivitis PPP 2018, Bảng 1) nên cần xem lại giác mạc."
+    },
+    {
+     "t": "Viêm màng bồ đào trước, glôcôm cấp",
+     "n": "Không cương tụ rìa, đồng tử đều, bé không đau/sợ sáng, giác mạc trong (QĐ 40/QĐ-BYT 2015, Viêm màng bồ đào trước mục 3; Glôcôm góc đóng nguyên phát mục 3a)."
+    },
+    {
+     "t": "Tắc lệ đạo / viêm túi lệ mạn phối hợp",
+     "n": "Ướt nước mắt từ nhỏ và nhầy trào góc trong mắt phải gợi ý, nhưng chưa sưng đỏ đau vùng túi lệ (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 3a); chưa đủ chẩn đoán khi viêm kết mạc virus đang diễn tiến: ghi nhận, theo dõi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục hỗ trợ (lau mắt NaCl 0,9%, chườm lạnh, nước mắt nhân tạo), không đổi thuốc mạnh hơn. Kháng sinh nhỏ mắt: không dùng (AAO 2018) hoặc tobramycin 0,3% (QĐ 40/2015)",
+     "v": "c",
+     "n": "Hai nguồn như lượt 1 (sổ mâu thuẫn, mục TM-0072): AAO Conjunctivitis PPP 2018 (Treatment – Adenoviral) tránh kháng sinh; QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b) nhỏ aminoglycosid. Mắt phải đỡ sau 4 ngày, mắt trái ngày 3: trong khoảng 5–14 ngày (Bảng 1)."
+    },
+    {
+     "t": "Giải thích 'đỡ một phần' là diễn tiến bình thường; tính lại thời gian lây từ mắt trái: tránh tiếp xúc 10–14 ngày kể từ khi mắt trái khởi phát (còn khoảng 7–11 ngày), hoặc 7 ngày theo nhiều tác giả; chưa gửi nhà trẻ",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Prevention; Treatment – Adenoviral [I+, Good, Strong]). Mốc 7 ngày chấm a (sổ mâu thuẫn TM-0072)."
+    },
+    {
+     "t": "Giấy khám sức khỏe: vẫn không ghi 'Bình thường'; ghi 'Có vấn đề về sức khỏe: viêm kết mạc cấp hai mắt, đang hồi phục', hẹn khám lại",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT, Phụ lục XXIV, Mẫu số 01, mục 2.2 và Kết luận; quy định nhà trẻ: không có trong tài liệu đã tải. Việc xin nghỉ phép của mẹ: ngoài phạm vi tài liệu."
+    },
+    {
+     "t": "Ghi nhận mắt phải hay ướt nước mắt, nhầy ở góc trong; dặn quay lại sớm nếu ghèn nhầy mủ tái lại sau khi hết đỏ",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Provider and Setting: chuyển nhãn khoa khi tái phát); QĐ 40/QĐ-BYT 2015 (Viêm túi lệ mục 3)."
+    },
+    {
+     "t": "Nhỏ corticoid hoặc dùng kháng sinh toàn thân cho mắt trái",
+     "v": "w",
+     "n": "AAO Conjunctivitis PPP 2018 (Treatment – Adenoviral): corticoid chỉ cho thể nặng; QĐ 40/QĐ-BYT 2015 (mục 4b): thận trọng corticoid, kháng sinh toàn thân chỉ cho lậu cầu, bạch hầu."
+    },
+    {
+     "t": "Ofloxacin hoặc ciprofloxacin uống",
+     "v": "h",
+     "n": "QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b): chống chỉ định dưới 16 tuổi."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc adenovirus lần lượt hai mắt: mắt phải lui, mắt trái ngày thứ 3",
+     "Đỡ một phần ở mắt phải là diễn tiến bình thường; chưa bội nhiễm, chưa tổn thương giác mạc",
+     "Còn trong thời kỳ lây, tính từ mắt trái",
+     "Ghi nhận ướt nước mắt từ nhỏ, nhầy ở góc trong mắt phải: chưa chẩn đoán, theo dõi"
+    ],
+    "phan_tich_chan_doan": [
+     "So với lượt 1: mắt phải bớt đỏ, ghèn ít; mắt trái mới đỏ ngày thứ 3, hạch trước tai trái mới sờ thấy. Phân biệt 'hồi phục chậm bình thường' với 'thất bại điều trị': thất bại là mủ tăng, phù mi nhiều, giác mạc tổn thương, bé đau/sợ sáng (AAO Conjunctivitis PPP 2018, Bảng 1); bé không có.",
+     "Fluorescein hai mắt vẫn âm tính, bé nhìn theo. Viêm giác mạc chấm biểu mô là biến chứng có thể gặp (QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 5): xem lại giác mạc ở lần sau."
+    ],
+    "phan_tich_xu_tri": [
+     "Mốc lây tính từ mắt trái (khởi phát 3 ngày trước): còn khoảng 7–11 ngày theo 10–14 ngày (hoặc 7 ngày từ mắt thứ hai, AAO 2018, Prevention). Giấy hôm nay vẫn ghi có vấn đề, hẹn khám lại khi đủ mốc."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% và gạc/bông sạch",
+      "ham_luong": "0,9%",
+      "lieu": "Lau từ góc trong ra góc ngoài, mỗi lần một gạc",
+      "duong": "Lau/rửa mắt",
+      "thoi_diem": "Khi có ghèn",
+      "so_ngay": "Đến khi hết ghèn",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b). Số lần/ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Tobramycin nhỏ mắt (tùy chọn, như lượt 1)",
+      "ham_luong": "0,3%",
+      "lieu": "1–2 giọt vào mắt trái",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Mỗi 4 giờ lúc bé thức",
+      "so_ngay": "Không có trong tài liệu đã tải cho thể virus",
+      "ghi_chu": "QĐ 40/2015 (mục 4b); AAO 2018 khuyên tránh ở thể virus."
+     }
+    ],
+    "dan_do": [
+     "Mắt phải đỡ, mắt trái mới đỏ là diễn tiến bình thường của bệnh do virus, thường lui trong 5–14 ngày; không cần thuốc mạnh hơn (AAO 2018, Bảng 1).",
+     "Tiếp tục lau mắt bằng gạc thấm nước muối 0,9%, chườm lạnh khi khó chịu; rửa tay xà phòng; khăn, gối, đồ chơi riêng; không cho trẻ đang đỏ mắt chơi gần bé.",
+     "Bé còn lây khoảng 7–11 ngày nữa tính từ mắt trái (AAO 2018); chưa gửi nhà trẻ. Giấy hôm nay ghi 'Có vấn đề về sức khỏe, đang hồi phục', hẹn khám lại (TT 25/2026/TT-BYT, Phụ lục XXIV, Mẫu số 01). Quy định nhà trẻ: không có trong tài liệu đã tải.",
+     "Đưa bé đến ngay nếu mủ vàng xanh nhiều, mi sưng đỏ lan, quấy khóc nheo mắt, sợ sáng, mắt đục, nhìn không theo vật, bỏ bú, sốt (AAO 2018, Provider and Setting; NICE NG143 mục 1.7.3). Ghèn nhầy mủ tái lại hoặc mắt phải còn ứa nước mắt: khám lại sớm."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 3 tuần",
+   "tiep_don": "Khám lại sau 3 tuần. Hai mắt đã hết đỏ khoảng 1 tuần, bé được gửi nhà trẻ 4 ngày trước, nay mắt phải lại chảy ghèn vàng đặc 3 ngày. Sinh hiệu: nhiệt 36,8 °C, mạch 126 l/p, nhịp thở 32 l/p, SpO₂ 99%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho bé Châu về nhỏ thêm một đợt kháng sinh như trước rồi hẹn tái khám là chữa triệu chứng mà bỏ nguyên nhân: đây là đợt ghèn mủ thứ hai trên cùng mắt phải, tái phát là tiêu chí chuyển nhãn khoa (AAO Conjunctivitis PPP 2018, Provider and Setting). Bé tiếp tục ướt nước mắt, ghèn mủ lại sau mỗi lần ngừng thuốc; viêm túi lệ mạn không điều trị gây viêm kết mạc, viêm giác mạc, đợt cấp, áp xe túi lệ, thậm chí viêm tổ chức hốc mắt (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 5), còn điều trị sớm tắc ống lệ mũi mới phòng được viêm túi lệ mạn (mục 6). Bé lại nghỉ nhà trẻ, mẹ mất thêm ngày công.",
+    "nhap_vien": "Nhập viện cho bé Châu là quá tay: không sốt, không sưng đỏ đau vùng túi lệ, giác mạc trong; đa số viêm kết mạc điều trị ngoại trú (AAO Conjunctivitis PPP 2018, Provider and Setting). Nằm viện không gỡ chỗ tắc lệ đạo, chỉ tốn kém và làm mẹ hoảng thêm."
+   },
+   "loi_mo": "Bác sĩ ơi, mắt phải con lại ghèn vàng đặc, dính tịt mi mỗi sáng. Em làm đúng hết mà sao nó cứ tái lại hoài, hay mắt con có bệnh gì nặng? Em sợ lắm bác sĩ!",
+   "sinh_hieu": {
+    "mach": 126,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 32,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hai mắt hết đỏ khoảng 1 tuần, bé gửi nhà trẻ 4 ngày trước. Từ 3 ngày nay mắt phải ghèn vàng đặc, dính mi mỗi sáng, ướt nước mắt cả ngày; mắt trái không đỏ. Không sốt, bú tốt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến tái phát"
+    },
+    {
+     "id": "nuoc_mat",
+     "noi_dung": "Mắt phải ướt nước mắt gần như thường xuyên từ lúc 2 tháng tuổi, nhất là khi gió; trước đợt đỏ mắt đầu cũng đã có ghèn nhầy trắng buổi sáng. Mẹ nghĩ do bụi hoặc do tật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ướt nước mắt kéo dài từ nhỏ (tắc lệ đạo)",
+     "dieu_kien_lo": "Mẹ chỉ nói rõ khi bác sĩ hỏi ướt nước mắt bắt đầu từ lúc nào, có thường xuyên không, ghèn nhầy trắng buổi sáng từ bao giờ."
+    },
+    {
+     "id": "nha_tre",
+     "noi_dung": "Nhà trẻ có 2 bạn sổ mũi, không bạn nào đỏ mắt theo cô báo. Mẹ vẫn lau gạc thấm nước muối, không dùng thuốc nhỏ mắt nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc, tuân thủ (tái nhiễm hay nguyên nhân nền)"
+    },
+    {
+     "id": "nguy_hiem",
+     "noi_dung": "Bé không nheo mắt, không sợ sáng, không quấy khi sờ góc mắt, nhìn theo tốt. Không sưng đỏ góc trong mắt, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu viêm túi lệ cấp, tổn thương giác mạc"
+    },
+    {
+     "id": "so_hai",
+     "noi_dung": "Chị khóc: 'lần trước thuốc không ăn, lần này lại ghèn, chắc con em bệnh nặng'; hỏi có phải mổ không, có mù không, đòi nhập viện hoặc truyền kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nỗi sợ quá mức của mẹ",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Mắt phải: kết mạc nhãn cầu cương tụ nhẹ, tiết tố vàng đặc dính mi, nước mắt tràn bờ mi; không giả mạc, không nhú to. Giác mạc trong, đồng tử tròn đều, phản xạ tốt. Ấn vùng túi lệ phải: không sưng nóng đỏ, ấn thấy nhầy mủ trào ra điểm lệ. Mắt trái bình thường. Bé nhìn theo đồ chơi, che từng mắt không quấy.",
+     "k": 1,
+     "hien": "Mắt phải đỏ nhẹ, ghèn vàng đặc, nước mắt tràn bờ mi. Mắt trái không đỏ. Bé nhìn theo đồ chơi và mặt mẹ."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi đèn xanh: giác mạc hai mắt trong, không bắt màu, không ổ thâm nhiễm.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch trước tai hai bên. Vùng túi lệ phải không sưng nóng đỏ, bé không phản ứng đau.",
+     "k": 1,
+     "hien": "Sờ vùng trước tai, quanh hốc mắt, dưới hàm."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi sạch, họng bình thường, màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, cười, bú tốt: không sốt, không mất nước.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 32 l/p, phổi không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 32 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim nhanh đều 126 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 126 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "phet_ket_mac": {
+     "v": "e",
+     "ab": 1,
+     "r": "Nhuộm Gram: nhiều bạch cầu đa nhân, trực khuẩn Gram âm nhỏ. Cấy dịch kết mạc: Haemophilus influenzae, nhạy tobramycin (trả lời sau 48–72 giờ).",
+     "n": "Nên làm: ghèn mủ tái phát, cấy giúp chọn thuốc (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Cultures: hữu ích khi tái phát, mạn hoặc không đáp ứng; QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 3b: nhuộm Gram, nuôi cấy). Lấy mẫu trước khi nhỏ kháng sinh."
+    },
+    "test_adeno": {
+     "v": "a",
+     "r": "Test nhanh kháng nguyên adenovirus dịch kết mạc: âm tính",
+     "n": "Không bắt buộc; mủ vàng đặc, không hạch, không phản ứng dạng hột nên ít nghĩ virus (AAO Conjunctivitis PPP 2018, Bảng 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc vi khuẩn mắt phải TÁI PHÁT trên nền tắc lệ đạo bẩm sinh (nghi viêm túi lệ mạn), chưa biến chứng giác mạc",
+     "ok": 1,
+     "n": "Ghèn vàng đặc dính mi, ướt nước mắt từ 2 tháng tuổi, ấn túi lệ trào nhầy mủ, không sưng nóng đỏ đau (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 3a: viêm túi lệ mạn). Ở nhũ nhi tắc lệ đạo là yếu tố thuận lợi cho viêm kết mạc vi khuẩn (AAO Conjunctivitis PPP 2018, Bảng 1 Infant). Đợt tái phát cùng mắt, cùng triệu chứng nền."
+    },
+    {
+     "t": "Tái nhiễm virus ở nhà trẻ (adenovirus)",
+     "n": "Mủ vàng đặc, một mắt, không hạch trước tai, không phản ứng dạng hột, test âm tính, không bạn đỏ mắt (AAO Conjunctivitis PPP 2018, Bảng 1); không giải thích ướt nước mắt từ nhỏ."
+    },
+    {
+     "t": "Viêm túi lệ cấp, áp xe túi lệ",
+     "n": "Chưa sưng nóng đỏ đau vùng túi lệ, không sốt, không dò (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 3a); nếu có thì kháng sinh toàn thân (cefuroxime 10 mg/kg × 2 lần/ngày × 5–7 ngày cho trẻ, mục 4b) và chuyển chuyên khoa."
+    },
+    {
+     "t": "Viêm giác mạc, viêm màng bồ đào trước, glôcôm cấp",
+     "n": "Giác mạc trong, không bắt màu, đồng tử đều, bé không đau/sợ sáng (QĐ 40/QĐ-BYT 2015, Viêm màng bồ đào trước mục 3; Glôcôm góc đóng nguyên phát mục 3a)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển khám nhãn khoa (nhi) để đánh giá lệ đạo; trong lúc chờ vẫn điều trị đợt này tại chỗ",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Provider and Setting): chuyển khi tái phát hoặc không đáp ứng. QĐ 40/QĐ-BYT 2015 (Viêm túi lệ mục 4b): thông lệ đạo cho viêm túi lệ do tắc lệ đạo bẩm sinh; mục 6: điều trị sớm tắc ống lệ mũi phòng viêm túi lệ mạn. Tuổi thông lệ đạo, xoa bóp túi lệ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lấy dịch kết mạc nhuộm Gram và cấy TRƯỚC khi nhỏ kháng sinh",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Diagnostic Tests – Cultures); QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 3b)."
+    },
+    {
+     "t": "Kháng sinh nhỏ mắt phổ rộng 5–7 ngày (tobramycin 0,3% 1–2 giọt mỗi 4 giờ lúc bé thức) hoặc không dùng, chỉ lau mắt và theo dõi chờ chuyên khoa",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Bacterial Conjunctivitis – Mild): tự giới hạn; kháng sinh nhỏ mắt phổ rộng 5–7 ngày rút ngắn bệnh, giảm lây, không thuốc nào ưu việt, là quyết định cá nhân. QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b), QĐ 708/2015 (mục 4.1, 2.5): aminoglycosid. Liều tobramycin trẻ ≥ 2 tháng: nguồn bổ sung tự tìm: https://drugs.com/dosage/tobramycin-ophthalmic.html."
+    },
+    {
+     "t": "Giấy cho nhà trẻ: ghi 'Có vấn đề về sức khỏe: viêm kết mạc tái phát nghi tắc lệ đạo, đã chuyển nhãn khoa', hẹn khám lại",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT, Phụ lục XXIV, Mẫu số 01, mục 2.2 và Kết luận ('chuyển cơ sở khám bệnh, chữa bệnh để khám chuyên khoa')."
+    },
+    {
+     "t": "Trấn an có cấu trúc: không phải bệnh nặng, không đe dọa thị lực lúc này; nguyên nhân là chỗ tắc đường dẫn nước mắt cần chuyên khoa; dặn quay lại ngay nếu sưng nóng đỏ đau góc trong mắt, sốt, mi sưng, bé quấy sợ sáng, mắt đục",
+     "v": "c",
+     "n": "QĐ 40/QĐ-BYT 2015 (Viêm túi lệ mục 3a, 5: đợt cấp, áp xe, viêm tổ chức hốc mắt); AAO Conjunctivitis PPP 2018 (Provider and Setting)."
+    },
+    {
+     "t": "Kháng sinh toàn thân (cefuroxime uống) ngay lúc này",
+     "v": "w",
+     "n": "Chỉ cho viêm túi lệ cấp (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 4b); bé chưa sưng nóng đỏ đau. Viêm kết mạc: toàn thân chỉ cho lậu cầu, bạch hầu (Viêm kết mạc cấp mục 4b)."
+    },
+    {
+     "t": "Nhỏ corticoid, hoặc nhập viện cho bé",
+     "v": "w",
+     "n": "Không có chỉ định: đa số điều trị ngoại trú (AAO Conjunctivitis PPP 2018, Provider and Setting); corticoid không có vai trò ở viêm kết mạc vi khuẩn nhẹ (Treatment – Bacterial không nêu)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc vi khuẩn mắt phải tái phát (đợt thứ hai trong 3 tuần), chưa biến chứng",
+     "Nền: nghi tắc lệ đạo bẩm sinh mắt phải, viêm túi lệ mạn (ướt nước mắt từ nhỏ, ấn túi lệ trào nhầy mủ)",
+     "Không phải tái nhiễm virus, không viêm túi lệ cấp, giác mạc không tổn thương",
+     "Cần chuyển nhãn khoa đánh giá, điều trị lệ đạo"
+    ],
+    "phan_tich_chan_doan": [
+     "So với hai lượt trước: ghèn vàng đặc một mắt, không hạch trước tai, không phản ứng dạng hột, test adenovirus âm tính: khác kiểu virus (AAO Conjunctivitis PPP 2018, Bảng 1). Tái phát cùng mắt phải, sau khi mắt hết đỏ khoảng 1 tuần.",
+     "Ướt nước mắt từ 2 tháng, ghèn nhầy buổi sáng trước cả đợt đỏ mắt đầu, ấn túi lệ trào nhầy mủ: chỗ tắc đường dẫn nước mắt (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 3a). Nguyên nhân nền chưa xử lý nên xong đợt cấp vẫn tái phát. Tái nhiễm ở nhà trẻ là khả năng khác nhưng không bạn nào đỏ mắt và không có đặc điểm virus.",
+     "Lý do chuyển: tái phát là tiêu chí chuyển nhãn khoa (AAO Conjunctivitis PPP 2018, Provider and Setting). Điều trị chuyên khoa tắc lệ đạo bẩm sinh là thông lệ đạo (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 4b); thời điểm thích hợp: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Cấy trước, nhỏ kháng sinh sau (AAO 2018). Kháng sinh nhỏ mắt hoặc không dùng đều chấp nhận ở viêm kết mạc vi khuẩn nhẹ (AAO 2018: cá nhân hóa; QĐ 40/2015, QĐ 708/2015: aminoglycosid); chỉnh thuốc theo kết quả cấy.",
+     "Không kháng sinh toàn thân, fluoroquinolon, corticoid, nhập viện."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Tobramycin nhỏ mắt (tùy chọn, ưu tiên khi mủ nhiều)",
+      "ham_luong": "0,3%",
+      "lieu": "1–2 giọt vào mắt phải",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Mỗi 4 giờ lúc bé thức, sau khi lau hết ghèn",
+      "so_ngay": "5–7 ngày (AAO 2018)",
+      "ghi_chu": "AAO Conjunctivitis PPP 2018 (Bacterial Conjunctivitis – Mild); QĐ 40/QĐ-BYT 2015 (mục 4b); liều: nguồn bổ sung tự tìm: https://drugs.com/dosage/tobramycin-ophthalmic.html. Lấy cấy trước khi nhỏ."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% và gạc/bông sạch",
+      "ham_luong": "0,9%",
+      "lieu": "Lau từ góc trong ra góc ngoài, mỗi lần một gạc",
+      "duong": "Lau/rửa mắt",
+      "thoi_diem": "Mỗi khi có ghèn",
+      "so_ngay": "Đến khi khám chuyên khoa",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b). Số lần/ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Ghèn tái đi tái lại nhiều khả năng do đường dẫn nước mắt bị tắc từ nhỏ, cần bác sĩ nhãn khoa xử lý tận gốc; không phải bệnh nặng đe dọa thị lực lúc này (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 3, 4b).",
+     "Mang bé khám nhãn khoa nhi theo giấy chuyển, mang theo kết quả cấy. Xoa bóp túi lệ tại nhà: không có trong tài liệu đã tải, chờ chuyên khoa hướng dẫn.",
+     "Cho bé ở nhà đến khi hết mủ; giấy ghi 'Có vấn đề về sức khỏe, đã chuyển nhãn khoa' (TT 25/2026/TT-BYT, Phụ lục XXIV, Mẫu số 01). Quy định nhà trẻ: không có trong tài liệu đã tải.",
+     "Đưa bé đến ngay nếu sưng nóng đỏ đau góc trong mắt, sốt, mi sưng đỏ lan, mắt đục, bé quấy nheo mắt sợ sáng (QĐ 40/2015, Viêm túi lệ mục 3a, 5; AAO 2018, Provider and Setting). Lau mắt gạc thấm NaCl 0,9%, nhỏ thuốc đủ 5–7 ngày theo toa."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé được khám nhãn khoa nhi. Kết quả cấy: Haemophilus influenzae nhạy tobramycin. Chẩn đoán tắc ống lệ mũi phải bẩm sinh, được thông lệ đạo; ghèn mủ không tái lại, giác mạc không biến chứng, thị giác bình thường. Bé đi nhà trẻ trở lại sau khi hết mủ. (Chi tiết chuyên khoa: không có trong tài liệu đã tải.)",
+ "nhieu": [
+  "Sợ hãi quá mức của mẹ: nhiễu hành vi, không phải triệu chứng của bé.",
+  "Bữa cháo nhiều đạm: trùng thời điểm, không mề đay, không ngứa, không triệu chứng tiêu hóa.",
+  "Paracetamol mẹ cho (80 mg, 10 mg/kg) đúng liều; sốt 38,2–38,3 °C hai ngày là của bệnh virus.",
+  "Không có siêu âm: không cần cho viêm kết mạc; siêu âm mắt chỉ khi nghi viêm màng bồ đào làm đục dịch kính (QĐ 40/2015, Viêm màng bồ đào trước mục 3b)."
+ ],
+ "bai_hoc_bien": [
+  "Sợ hãi quá mức: khám giác mạc trước mặt mẹ, nêu dấu hiệu nguy hiểm bé không có, đưa tiêu chí quay lại; không chiều lòng bằng xét nghiệm hay kháng sinh.",
+  "Lý do thật là giấy nhà trẻ: hỏi kế hoạch sắp tới của bé; ghi trung thực 'Có vấn đề về sức khỏe', hẹn khám lại (TT 25/2026/TT-BYT, Mẫu 01).",
+  "Đỡ một phần: mắt này đỡ mà mắt kia mới đỏ là diễn tiến bình thường của adenovirus, không phải thất bại điều trị; tính mốc lây từ mắt sau cùng.",
+  "Tái phát: ghèn mủ trở lại cùng một mắt ở nhũ nhi ướt nước mắt từ nhỏ: nghĩ tắc lệ đạo, cấy dịch, chuyển nhãn khoa thay vì lặp lại kháng sinh.",
+  "Nhũ nhi không khai được: đau, sợ sáng nhận ra qua quấy, nheo mắt, quay mặt; thị giác qua nhìn theo vật, che từng mắt."
+ ],
+ "diem_nho": [
+  "Viêm kết mạc adenovirus: tự lui 5–14 ngày, lần lượt hai mắt, hạch trước tai; tránh tiếp xúc 10–14 ngày từ mắt sau cùng (AAO 2018, Bảng 1; Treatment – Adenoviral).",
+  "Kháng sinh nhỏ mắt thể virus: AAO 2018 tránh; QĐ 40/2015 mục 4b dùng aminoglycosid; toàn thân chỉ cho lậu cầu, bạch hầu; fluoroquinolon chống chỉ định dưới 16 tuổi.",
+  "Chuyển nhãn khoa: mất thị lực, đau vừa-nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng, tái phát (AAO 2018, Provider and Setting).",
+  "Viêm túi lệ mạn: chảy nước mắt thường xuyên, mủ nhầy trào khi ấn; thông lệ đạo cho tắc lệ đạo bẩm sinh; cefuroxime 10 mg/kg × 2 lần/ngày × 5–7 ngày cho viêm túi lệ cấp ở trẻ (QĐ 40/2015, Viêm túi lệ mục 3, 4b).",
+  "Paracetamol trẻ: 10–15 mg/kg/lần, ≤ 60 mg/kg/24 giờ; chỉ khi khó chịu (NICE NG143 mục 1.6.4–1.6.5; QĐ 3312/2015)."
+ ],
+ "nguon": [
+  "AAO – Conjunctivitis Preferred Practice Pattern 2018 (Ophthalmology 2019;126(1):P94-P169) – TL-0266 – ĐÃ ĐỌC: Bảng 1 (Adenoviral, Allergic, Bacterial, Infant); Diagnostic Tests (Cultures, Viral); Prevention; Treatment – Adenoviral, Bacterial (Mild); Provider and Setting; Counseling",
+  "BYT – QĐ 40/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – TL-0242 – ĐÃ ĐỌC: Viêm kết mạc cấp (mục 3–5); Viêm kết mạc dị ứng cấp tính (mục 3); Viêm túi lệ (mục 3–6); Viêm màng bồ đào trước (mục 3); Glôcôm góc đóng nguyên phát (mục 3a)",
+  "BYT – QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Sử dụng kháng sinh trong nhãn khoa (mục 2.5; Viêm kết mạc cấp mục 4.1, 4.2); Viêm màng não mủ mục 4.2",
+  "BYT – TT 25/2026/TT-BYT – TL-0668 – ĐÃ ĐỌC: Phụ lục XXIV, Mẫu số 01 (mục 2.2; Kết luận)",
+  "BYT – QĐ 3312/QĐ-BYT 2015 – TL-0037 – ĐÃ ĐỌC (theo sổ mâu thuẫn): Co giật do sốt mục 4.1",
+  "NICE NG143 (2021, bản 2025) – TL-0262 – ĐÃ ĐỌC: mục 1.2.7, 1.2.11, 1.6.4–1.6.6, 1.7.3; Bảng 1",
+  "WHO Pocket book 2013 – TL-0250 – ĐÃ ĐỌC: chương 10 (Antipyretic treatment, tr. 304–305); Annex 2",
+  "Nguồn bổ sung tự tìm: liều tobramycin nhỏ mắt 0,3% trẻ từ 2 tháng, https://drugs.com/dosage/tobramycin-ophthalmic.html (16/10/2026)"
+ ],
+ "ghi_chu_bien_tap": [
+  "16/10/2026 – bản 1: viết theo đặc tả sổ cái TM-0096 (nhũ nhi 8 tháng, 3 lượt, sợ hãi quá mức, không có siêu âm, đỡ một phần, tái phát, lý do thật xin giấy nhà trẻ, paracetamol, khởi phát sau bữa cháo nhiều đạm).",
+  "Tài liệu đã đọc: TL-0266, TL-0242, TL-0015 (phần nhãn khoa), TL-0668, TL-0262, TL-0250.",
+  "Thiếu tài liệu: tắc lệ đạo bẩm sinh ở nhũ nhi (tuổi thông lệ đạo, xoa bóp túi lệ, tỷ lệ tự khỏi); glôcôm bẩm sinh; quy định nhà trẻ về nhận trẻ đỏ mắt; liều tobramycin nhũ nhi (lấy từ drugs.com). TL-0555 thực là Dry Eye PPP, không dùng.",
+  "Mâu thuẫn kháng sinh nhỏ mắt thể virus (AAO 2018 và QĐ 40/2015): theo mục TM-0072, ghi cả hai trong một mục xu_tri c."
+ ]
+}
