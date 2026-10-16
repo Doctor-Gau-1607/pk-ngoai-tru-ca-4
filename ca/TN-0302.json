@@ -1,0 +1,507 @@
+{
+ "ma_ca": "TN-0302",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TN_viem_nieu_dao_STI",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Viêm niệu đạo / bệnh lây qua đường TD",
+  "chan_doan_phai_loai_tru": [
+   "Nhiễm khuẩn tiết niệu",
+   "Viêm TLT"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Bộ đội",
+  "yeu_to_khoi_phat": "Khởi phát âm thầm từ từ",
+  "thuoc_dang_dung": "Tự mua amoxicillin",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Thu Hằng",
+  "tuoi": 44,
+  "gioi": "Nữ",
+  "nghe": "Quân nhân chuyên nghiệp, kế toán tại một đơn vị bộ đội",
+  "can_nang": 56,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi chị là 'chị Hằng'. Chị tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nghiêm, kỷ luật, nói ngắn gọn như báo cáo công vụ, quen chịu đựng và ghét 'làm to chuyện'. Rất sợ mang tiếng trong đơn vị. Ngại chuyện kín: bị hỏi thẳng về quan hệ tình dục thì đỏ mặt, im một lúc rồi trả lời nhỏ, nhất là khi có người khác trong phòng. Chồng là sĩ quan hải quân công tác ngoài đảo, hai con đang học.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: chị chỉ mang khoảng 900.000 đồng tiền mặt vì tháng này vừa gửi tiền học cho con, và không muốn dùng thẻ bảo hiểm quân y vì sợ hồ sơ về đến đơn vị. Chị hỏi giá từng xét nghiệm, hay nói 'cái này để sau được không', chỉ đồng ý khi bác sĩ giải thích xét nghiệm đó làm đổi cách xử trí hôm nay. Chị cũng ngại chuyển viện vì lo tốn tiền và lộ chuyện.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d4a07a",
+   "toc": "#2b2420",
+   "kieuToc": "ngan",
+   "ao": "#6b7350",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Tiểu buốt, tiểu rắt hơn 10 ngày, đã tự uống kháng sinh 5 ngày chưa hết",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT. Có xét nghiệm, siêu âm (kể cả siêu âm tử cung - phần phụ qua đầu dò âm đạo) và xét nghiệm kép lậu - Chlamydia cho kết quả sau khoảng 4 giờ. Phòng khám không có giường nội trú và không truyền kháng sinh theo dõi qua đêm; bệnh viện có khoa sản - phụ khoa và ngoại cách khoảng 25 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Lê Thị Thu Hằng, 44 tuổi, quân nhân chuyên nghiệp, kế toán tại một đơn vị bộ đội, đến phòng khám sau giờ làm việc. Chị khai tiểu buốt, tiểu rắt hơn 10 ngày, đã tự mua kháng sinh uống 5 ngày. Sinh hiệu: mạch 104 l/p, HA 108/68 mmHg, nhiệt độ 38,7 °C, nhịp thở 20 l/p, SpO₂ 98%, cân nặng 56 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Hằng được kê thêm kháng sinh uống theo ý chị rồi cho về. Sốt 38,7 °C, lắc cổ tử cung đau, ống dẫn trứng dày và ấn đau hố chậu phải chưa loại trừ ruột thừa đều thuộc tiêu chuẩn nhập viện (CDC STI 2021 tr. 96; WHO 2021 tr. 62). Tối đó chị sốt cao hơn, đau hố chậu phải tăng, tự đi cấp cứu giữa đêm và chậm điều trị thêm một ngày. Điều trị muộn làm tăng nguy cơ đau vùng chậu mạn, chửa ngoài tử cung, vô sinh (WHO 2021 tr. 61; QĐ 5165/2021 mục 1), và anh Khải vẫn chưa được điều trị nên có thể tái nhiễm cho chị (CDC 2021 tr. 97).",
+    "theo_doi": "Chị được giữ lại phòng khám theo dõi vài giờ rồi cho về nhà, hẹn mai quay lại. Phòng khám không có giường nội trú, không truyền kháng sinh tĩnh mạch qua đêm, chị lại ở một mình và sẽ không dám nhờ ai. Kháng sinh đường tĩnh mạch bị lùi tới sáng hôm sau, ruột thừa vẫn chưa được loại trừ, nên chị mất thêm đúng khoảng thời gian mà điều trị sớm có thể ngăn biến chứng (CDC 2021 tr. 96, tr. 66).",
+    "cap_cuu": "Chị bị gọi xe cấp cứu 115 như một cấp cứu ngoại khoa. Bụng mềm, không đề kháng, không phản ứng dội, không khối bụng, huyết động ổn, nên chưa thuộc nhóm phải chuyển khẩn ngoại - phụ khoa (WHO 2021 tr. 59, Hình 6 tr. 60); chị cần chuyển có kế hoạch với đường truyền và bàn giao. Xe cấp cứu trước cổng đơn vị là điều chị sợ nhất (lộ chuyện), nên chị có thể từ chối đi giữa chừng."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi bị tiểu buốt, tiểu rắt hơn mười ngày rồi. Tôi tự mua kháng sinh uống năm ngày mà vẫn không hết. Chắc là viêm bàng quang, bác sĩ kê giùm tôi thuốc mạnh hơn cho tôi về, tôi còn việc ở đơn vị.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "108/68",
+    "nhiet": "38,7",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": [
+     "Sốt 38,7 °C",
+     "Mạch 104 l/p"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tiểu buốt, tiểu rắt khoảng 10 ngày, mỗi lần chỉ ra ít, rát nhất lúc cuối bãi. Chị tự cho là viêm bàng quang, chỉ muốn xin kháng sinh 'mạnh hơn' rồi về đơn vị.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "thuoc_tu_uong",
+     "noi_dung": "Ngày thứ ba của đợt tiểu buốt, chị tự mua ở tiệm thuốc amoxicillin 500 mg, uống ngày 3 lần × 5 ngày, đủ liều, hết cách đây 2 ngày. Hai ngày đầu bớt rát rồi buốt trở lại. Không có thuốc nào khác, không uống rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự mua: tên, liều, số ngày, đáp ứng"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khởi phát từ từ. Khoảng 3 tuần trước chị chỉ thấy âm hộ ẩm ướt, hơi ngứa rát. Rát khi đi tiểu bắt đầu cách đây 10 ngày rồi tăng dần, không có thời điểm nào đột ngột.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến âm thầm, từ từ"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Hai ngày nay ớn lạnh, ra mồ hôi về chiều, chưa đo nhiệt độ ở nhà. Không nôn, không buồn nôn, ăn uống được, nuốt thuốc được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, nôn (tiêu chuẩn nhập viện)"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Khoảng 5 ngày nay đau âm ỉ vùng bụng dưới, hơi lệch về bên phải, tăng khi đi lại, xóc xe, hết hẳn khi nằm yên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể về đau bụng, đau vùng chậu, đau khi đi lại, xóc xe; hỏi chung 'còn gì khác không' thì chị đáp 'không có gì'.",
+     "k": 1,
+     "y": "Đau bụng dưới (dấu hiệu lên đường sinh dục trên)"
+    },
+    {
+     "id": "khi_hu",
+     "noi_dung": "Khoảng 3 tuần nay khí hư màu vàng đục, hơi hôi, nhiều hơn bình thường; lần quan hệ cuối có dính ít máu. Chị xấu hổ nên không nói.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng về khí hư, ra dịch âm đạo, ra máu sau quan hệ, hoặc nói thẳng rằng tiểu buốt ở phụ nữ có thể do bệnh phụ khoa và cần hỏi thêm; trước đó chị chỉ nói 'tôi chỉ bị đường tiểu'.",
+     "k": 1,
+     "y": "Khí hư mủ, chảy máu sau quan hệ"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Chồng công tác ngoài đảo 8 tháng nay, chưa về. Khoảng 7 tuần trước chị có hai lần quan hệ không dùng bao cao su với một người quen cũ tên Khải ở thành phố khác; không có bạn tình nào khác, từ đó không quan hệ nữa. Chị có số điện thoại anh Khải nhưng chưa dám liên lạc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng, kín đáo, chỉ hai người trong phòng, về quan hệ tình dục, bạn tình, bao cao su; câu hỏi chung 'chị có chồng chưa' thì chị chỉ nói chồng đang đi công tác xa.",
+     "k": 1,
+     "y": "Bạn tình trong 60 ngày, không dùng bao cao su"
+    },
+    {
+     "id": "kinh_nguyet",
+     "noi_dung": "Kinh đều 28–30 ngày, lần cuối cách đây 14 ngày, lượng bình thường, không trễ kinh. Không dùng thuốc tránh thai, không đặt vòng. Sinh thường hai con, không sảy thai, không nạo thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kinh nguyệt, tránh thai, loại trừ thai"
+    },
+    {
+     "id": "tien_su_ngoai_khoa",
+     "noi_dung": "Chưa từng mổ bụng, chưa cắt ruột thừa. Phết tế bào cổ tử cung cách đây 2 năm bình thường. Chưa từng bị bệnh lây qua đường tình dục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử ngoại khoa, phụ khoa"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc nào đã biết, kể cả penicillin (amoxicillin vừa uống 5 ngày không nổi mẩn) và cephalosporin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng thuốc (trước khi tiêm ceftriaxone)"
+    },
+    {
+     "id": "tiet_nieu",
+     "noi_dung": "Không đau hông lưng hai bên, nước tiểu không đỏ, không tiểu ra sỏi, không đái dắt thành cơn đột ngột.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ viêm thận - bể thận, sỏi"
+    },
+    {
+     "id": "tai_chinh",
+     "noi_dung": "Chị mang theo khoảng 900.000 đồng tiền mặt. Tháng này vừa gửi tiền học cho con nên không còn dư. Chị không muốn dùng thẻ bảo hiểm quân y vì khám ngoài đơn vị là việc riêng, sợ hồ sơ về đơn vị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ràng buộc tài chính: xếp ưu tiên xét nghiệm"
+    },
+    {
+     "id": "ngai_chuyen_vien",
+     "noi_dung": "Nghe chuyển viện chị lo tốn tiền và sợ lộ; chị đồng ý đi nếu được giải thích cần thiết, được hứa giữ kín và xin nghỉ phép năm thay vì giấy bệnh viện gửi đơn vị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thái độ với chuyển tuyến"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: chị sợ mình bị 'bệnh xã hội' sau lần quan hệ đó và sợ lây cho chồng khi anh về phép. Chị quá xấu hổ nên giả vờ chỉ bị tiểu buốt, hy vọng một liều kháng sinh mạnh là xong mà không phải khai chuyện ngoài chồng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi chị lo nhất điều gì, hứa giữ kín thông tin, hoặc hỏi thẳng chị có lo mắc bệnh lây qua đường tình dục không;",
+     "k": 1,
+     "y": "Động cơ thật: sợ bệnh lây qua đường tình dục"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, da nóng, môi hơi khô, niêm mạc hồng nhạt. Nét mặt căng, tránh nhìn thẳng khi bị hỏi chuyện riêng.",
+     "k": 1,
+     "hien": "Chị ngồi thẳng lưng, nét mặt căng, nói ngắn từng câu."
+    },
+    "bung": {
+     "a": "Bụng không chướng. Ấn đau hạ vị hai bên, rõ hơn ở hố chậu phải; điểm McBurney đau nhẹ; không đề kháng, không phản ứng dội, Rovsing âm tính; không cầu bàng quang, không khối.",
+     "k": 1,
+     "hien": "Bụng không chướng; chị co người nhẹ khi ấn vùng bụng dưới."
+    },
+    "phu_khoa": {
+     "a": "Âm hộ ẩm, lỗ niệu đạo đỏ, miết niệu đạo ra ít dịch đục. Mỏ vịt: mủ vàng đục chảy ra từ lỗ cổ tử cung, cổ tử cung đỏ, dễ chảy máu khi chạm tăm bông; âm đạo nhiều dịch vàng, hơi hôi. Khám hai tay: lắc cổ tử cung đau rõ (chị nhăn mặt, nắm chặt mép bàn), tử cung ấn đau nhẹ, phần phụ phải dày và đau nhiều, phần phụ trái đau nhẹ, không sờ rõ khối. Không ra máu âm đạo.",
+     "k": 1,
+     "hien": "Chị căng cứng vùng chậu, nắm chặt mép bàn khám."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau, chạm thận âm tính; trên xương mu đau nhẹ, không cầu bàng quang.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 104 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "e",
+     "r": "Âm tính.",
+     "n": "Đau bụng dưới ở phụ nữ còn kinh phải loại trừ thai ngoài tử cung và thai trước khi dùng thuốc; có thai là tiêu chuẩn nhập viện của viêm vùng chậu (WHO 2021 mục 9.1 tr. 59; CDC STI 2021 tr. 96). Rẻ (20.000 đồng) và đổi quyết định."
+    },
+    "sa_chau": {
+     "v": "e",
+     "r": "Siêu âm qua bụng và đầu dò âm đạo: tử cung kích thước bình thường, nội mạc mỏng. Ống dẫn trứng hai bên dày thành, bên phải chứa ít dịch (đường kính khoảng 9 mm). Buồng trứng phải to nhẹ (khoảng 4,0 × 3,0 cm), ranh giới kém rõ, chưa thấy khối phức hợp ống dẫn trứng - buồng trứng rõ hay ổ áp xe khu trú. Ít dịch túi cùng Douglas (khoảng 12 mm). Buồng trứng trái bình thường. Ruột thừa không quan sát rõ do hơi ruột.",
+     "ab": 1,
+     "n": "Siêu âm đầu dò âm đạo thấy ống dẫn trứng dày chứa dịch, có hoặc không dịch tự do vùng chậu, là tiêu chuẩn đặc hiệu của viêm vùng chậu (CDC STI 2021 tr. 95). Không có CT, siêu âm là hình ảnh học duy nhất nhưng không loại trừ được ruột thừa hay ổ áp xe nhỏ. 200.000 đồng, đáng tiền."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Bạch cầu 2+, nitrit âm tính, hồng cầu vết, protein vết, glucose âm tính, ceton âm tính.",
+     "ab": 1,
+     "n": "Que thử là xét nghiệm nước tiểu rẻ nhất (15.000 đồng); EAU 2026 mục 3.4.3.d khuyến cáo dùng que thử để chẩn đoán viêm bàng quang. Nitrit âm tính làm viêm bàng quang do vi khuẩn kém khả dĩ."
+    },
+    "soi_huyet_trang": {
+     "v": "u",
+     "r": "Nhiều bạch cầu (trên 10 bạch cầu/vi trường 400), không thấy Trichomonas, không thấy tế bào đầu mối, KOH không có sợi nấm.",
+     "ab": 1,
+     "n": "Đa số phụ nữ viêm vùng chậu có mủ cổ tử cung hoặc bạch cầu trên phiến đồ tươi; không có cả hai thì viêm vùng chậu ít khả dĩ (CDC STI 2021 tr. 95). Bạch cầu trên 10/vi trường 400 gợi ý viêm cổ tử cung (CDC 2021 tr. 64). Đồng thời loại trừ Trichomonas, viêm âm đạo do vi khuẩn, nấm (QĐ 5165/2021 mục 2.3.2). Rẻ (60.000 đồng), làm ngay tại chỗ."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 15,6 G/L (neutrophil 83%) · Hb 121 g/L · TC 362 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 15.6,
+      "neu_pct": 83.0,
+      "neu": 12.95,
+      "lym_pct": 11.0,
+      "lym": 1.72,
+      "mono_pct": 5.0,
+      "mono": 0.78,
+      "eos_pct": 0.8,
+      "eos": 0.12,
+      "baso_pct": 0.2,
+      "baso": 0.03,
+      "rbc": 4.2,
+      "hgb": 121,
+      "hct": 0.37,
+      "mcv": 88.0,
+      "mch": 29.0,
+      "mchc": 330,
+      "rdw": 13.4,
+      "plt": 362
+     },
+     "n": "Bạch cầu tăng ủng hộ nhiễm khuẩn nặng nhưng không đổi quyết định chuyển tuyến; Có thể để bệnh viện làm khi nhập viện."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 98 mg/L.",
+     "bang": {
+      "crp": 98
+     },
+     "n": "CRP tăng là tiêu chuẩn phụ làm tăng độ đặc hiệu của viêm vùng chậu (CDC STI 2021 tr. 95) nhưng chị đã đủ ba tiêu chuẩn tối thiểu, sốt và mủ cổ tử cung; 80.000 đồng không đổi quyết định hôm nay."
+    },
+    "naat_sti": {
+     "v": "u",
+     "r": "C. trachomatis dương tính · N. gonorrhoeae âm tính.",
+     "ab": 1,
+     "n": "NAAT kép (khoảng 600.000 đồng, 4 giờ) xác nhận căn nguyên và cần cho xử trí bạn tình, nhưng không đổi quyết định chuyển tuyến hôm nay vì phác đồ viêm vùng chậu phải phủ cả lậu lẫn Chlamydia và NAAT lậu âm tính vẫn không loại trừ nhiễm khuẩn đường sinh dục trên (CDC STI 2021 tr. 95; QĐ 5165/2021 mục 2.2.3; QĐ 5169/2021 mục 2.2, 2.4). Chẩn đoán lâm sàng được phép khi thiếu điều kiện (QĐ 5165/2021 mục 2.3.1). Làm tại chỗ hết phần lớn ngân sách; lấy mẫu rồi để bệnh viện làm cũng hợp lý."
+    },
+    "cay_lau_cau": {
+     "v": "a",
+     "r": "Đã lấy dịch cổ tử cung nuôi cấy lậu cầu và gửi theo hồ sơ; kết quả sau khoảng 48 giờ: không mọc lậu cầu.",
+     "n": "Nuôi cấy là tiêu chuẩn vàng và cho kháng sinh đồ (QĐ 5165/2021 mục 2.2.2), cần khi nghi thất bại điều trị (CDC STI 2021 tr. 72). Lấy mẫu trước khi tiêm kháng sinh; kết quả không về kịp hôm nay."
+    },
+    "giang_mai": {
+     "v": "u",
+     "r": "RPR không phản ứng.",
+     "n": "Phải xét nghiệm giang mai và HIV khi chẩn đoán lậu, Chlamydia, viêm vùng chậu (QĐ 5165/2021 mục 3.1; CDC STI 2021 tr. 97), nhưng không đổi xử trí hôm nay; có thể làm khi nhập viện để dành ngân sách cho siêu âm và thử thai."
+    },
+    "test_nhanh_virus": {
+     "v": "u",
+     "r": "HBsAg âm tính. Anti-HCV âm tính. Anti-HIV âm tính.",
+     "n": "Xét nghiệm HIV bắt buộc kèm theo (QĐ 5165/2021 mục 3.1; CDC STI 2021 tr. 97); làm ở bệnh viện hoặc lúc tái khám để tiết kiệm."
+    },
+    "ct_bung": {
+     "v": "a",
+     "r": "Ống dẫn trứng hai bên dày, ít dịch túi cùng; ruột thừa không dày, không sỏi phân.",
+     "thay_the": "sa_chau",
+     "n": "Cơ sở không có CT. Tài liệu đã tải nêu siêu âm đầu dò âm đạo hoặc MRI là tiêu chuẩn đặc hiệu của viêm vùng chậu (CDC STI 2021 tr. 95) và không đưa CT vào chẩn đoán; việc loại trừ ruột thừa bằng hình ảnh hoặc quan sát trực tiếp thuộc bệnh viện nhận. Chỉ định CT cho đau hạ vị ở nữ: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm niệu đạo - cổ tử cung do bệnh lây qua đường tình dục (nhiều khả năng Chlamydia trachomatis, có thể đồng nhiễm lậu), đã lan lên đường sinh dục trên: viêm vùng chậu cấp mức vừa - nặng; chưa loại trừ được ruột thừa",
+     "ok": 1,
+     "n": "Tiểu buốt kéo dài, khí hư mủ, mủ cổ tử cung, dễ chảy máu khi chạm (CDC STI 2021 tr. 63-64); lắc cổ tử cung đau + phần phụ đau (ba tiêu chuẩn tối thiểu), sốt trên 38,3 °C, bạch cầu trên phiến đồ tươi, siêu âm ống dẫn trứng dày chứa dịch (CDC 2021 tr. 95). Bạn tình mới trong 60 ngày không dùng bao cao su. Amoxicillin không thuộc phác đồ lậu (QĐ 5165/2021 mục 3.2.1) hay Chlamydia ở người không có thai (QĐ 5169/2021 mục 3.2.1), nên chưa từng được điều trị đúng."
+    },
+    {
+     "t": "Nhiễm khuẩn tiết niệu (viêm bàng quang, viêm thận - bể thận)",
+     "n": "Chẩn đoán viêm bàng quang ở nữ dựa trên triệu chứng đường tiểu dưới và không có khí hư, không sốt (EAU 2026 mục 3.4.1, 3.4.3.a). Chị có sốt, khí hư mủ, mủ cổ tử cung. Hố thắt lưng không đau, chạm thận âm tính, nitrit âm tính nên viêm thận - bể thận kém khả dĩ. Mốc mở lại: nitrit dương tính, đau hông lưng."
+    },
+    {
+     "t": "Viêm tuyến tiền liệt (Viêm TLT; khung loại trừ của sổ cái)",
+     "n": "Nữ giới không có tuyến tiền liệt nên không áp dụng; phần tương ứng trong ca là tìm nguồn viêm sinh dục - tiết niệu qua khám phụ khoa (viêm cổ tử cung, niệu đạo). Tài liệu đã tải mô tả viêm tuyến tiền liệt cho nam (EAU 2026 mục 3.10)."
+    },
+    {
+     "t": "Viêm ruột thừa cấp / cấp cứu ngoại khoa khác (xoắn buồng trứng)",
+     "n": "Đau hố chậu phải, sốt, bạch cầu tăng, siêu âm không thấy rõ ruột thừa nên không loại trừ được; điểm lệch: đau hai bên, không đề kháng, không phản ứng dội, có lắc cổ tử cung đau. Không loại trừ được ngoại khoa là tiêu chuẩn nhập viện (CDC STI 2021 tr. 96; WHO 2021 tr. 62). Mốc mở lại: bụng cứng, phản ứng dội, sốc (WHO 2021 tr. 59)."
+    },
+    {
+     "t": "Thai ngoài tử cung / có thai",
+     "n": "Kinh đều, lần cuối cách đây 14 ngày, test thai âm tính, không ra máu bất thường (WHO 2021 mục 9.1 tr. 59). Có thai là tiêu chuẩn nhập viện và chống chỉ định doxycyclin (CDC 2021 tr. 96; QĐ 5169/2021 mục 3.2.1)."
+    },
+    {
+     "t": "Áp xe vòi trứng - buồng trứng",
+     "n": "Chưa thấy khối phức hợp hay ổ áp xe khu trú trên siêu âm đầu dò âm đạo, nhưng không có CT và buồng trứng phải to ranh giới kém rõ nên không loại trừ được; nghi áp xe là lý do nhập viện (CDC STI 2021 tr. 96; WHO 2021 tr. 62). Mốc mở lại: sốt kéo dài sau 72 giờ kháng sinh tĩnh mạch."
+    },
+    {
+     "t": "Viêm âm đạo (viêm âm đạo do vi khuẩn, Trichomonas, nấm Candida) đơn độc",
+     "n": "Soi tươi không thấy Trichomonas, tế bào đầu mối hay sợi nấm (QĐ 5165/2021 mục 2.3.2). Viêm âm đạo do vi khuẩn thường kèm viêm vùng chậu nên phác đồ có metronidazole vẫn điều trị luôn (CDC STI 2021 tr. 96). Không giải thích được sốt và đau hố chậu phải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến ngay trong buổi lên bệnh viện có khoa sản - phụ khoa và ngoại để nhập viện, kháng sinh tĩnh mạch và loại trừ ruột thừa, ổ áp xe",
+     "v": "c",
+     "n": "Sốt 38,7 °C (trên 38,5 °C) và chưa loại trừ được cấp cứu ngoại khoa là tiêu chuẩn nhập viện (CDC STI 2021 tr. 96); WHO 2021 (tr. 62) cũng nêu chẩn đoán không chắc, không loại trừ được cấp cứu ngoại khoa, nghi áp xe vùng chậu. QĐ 5165/2021 mục 3.1: lậu chủ yếu ngoại trú, chỉ nội trú khi có biến chứng. Phòng khám không có giường và không theo dõi qua đêm."
+    },
+    {
+     "t": "Lấy mẫu dịch cổ tử cung (NAAT và cấy lậu) và nước tiểu trước khi dùng kháng sinh, ghi giờ lấy mẫu, gửi kèm hồ sơ",
+     "v": "c",
+     "n": "Xét nghiệm lậu nên lấy trước khi bắt đầu điều trị (CDC STI 2021 tr. 97); NAAT trên mẫu cổ tử cung, âm đạo hoặc nước tiểu (CDC 2021 tr. 64; QĐ 5165/2021 mục 2.2.3); cấy cho kháng sinh đồ (QĐ 5165/2021 mục 2.2.2)."
+    },
+    {
+     "t": "Gọi điện bàn giao cho bệnh viện nhận (chẩn đoán, sốt, khám phụ khoa, siêu âm, đã/chưa dùng thuốc, dị ứng, test thai âm tính, giờ lấy mẫu); viết giấy chuyển tuyến",
+     "v": "c",
+     "n": "Để bệnh viện bắt đầu kháng sinh ngay khi chị tới: điều trị phải bắt đầu ngay khi có chẩn đoán dự kiến (CDC STI 2021 tr. 96). Cấu trúc bàn giao (SBAR): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đặt đường truyền tĩnh mạch, theo dõi sinh hiệu trước và trong khi chuyển; đi xe có nhân viên y tế",
+     "v": "c",
+     "n": "WHO 2021 Hình 6 tr. 60: trước khi chuyển bệnh nhân đau bụng dưới cần chuyển khẩn, đặt đường truyền và hồi sức nếu cần. Dịch truyền loại gì, tốc độ, thuốc hạ sốt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiêm bắp ceftriaxone liều đầu tại phòng khám sau khi đã lấy mẫu, trước khi chuyển",
+     "v": "a",
+     "n": "Điều trị cần bắt đầu sớm (CDC STI 2021 tr. 96); liều IM trong phác đồ viêm vùng chậu là 500 mg (CDC tr. 97), lậu 1 g (WHO 2024 Bảng 1) hoặc 250 mg (QĐ 5165/2021 mục 3.2.1; WHO 2021 Bảng 6). Liều đầu trước vận chuyển và khoảng cách với liều tĩnh mạch ở bệnh viện: không có trong tài liệu đã tải, nên chấm a, không chấm c."
+    },
+    {
+     "t": "Phác đồ kháng sinh tĩnh mạch viêm vùng chậu tại bệnh viện: ceftriaxone 1 g tĩnh mạch mỗi 24 giờ + doxycyclin 100 mg mỗi 12 giờ (ưu tiên uống) + metronidazole 500 mg mỗi 12 giờ, chuyển sang uống khi cải thiện, đủ 14 ngày; hoặc phác đồ thay thế (cefotetan hay cefoxitin + doxycyclin; ampicillin-sulbactam + doxycyclin)",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 96: phác đồ tĩnh mạch khuyến cáo và thay thế; chuyển sang uống khi cải thiện (thường 24-48 giờ). Phác đồ khi đã cải thiện: ceftriaxone 500 mg IM + doxycyclin + metronidazole 14 ngày (CDC tr. 97) hoặc ceftriaxone 250 mg IM + azithromycin 1 g + doxycyclin + metronidazole 14 ngày (WHO 2021 Bảng 6; WHO đang sửa vì kháng azithromycin). Xem sổ mâu thuẫn mục phác đồ viêm vùng chậu."
+    },
+    {
+     "t": "Điều trị bạn tình trong 60 ngày (anh Khải): khám, xét nghiệm và điều trị thử nghiệm Chlamydia, lậu; chị không quan hệ cho đến khi xong thuốc, hết triệu chứng và bạn tình đã điều trị",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 97: bạn tình trong 60 ngày trước khởi phát cần được đánh giá, xét nghiệm và điều trị, dù căn nguyên là gì; kiêng đến khi điều trị xong. QĐ 5165/2021 mục 3.1 (60 ngày, kiêng trong điều trị và 7 ngày sau); QĐ 5169/2021 mục 3.1 (kiêng 7 ngày sau khi bắt đầu điều trị)."
+    },
+    {
+     "t": "Xét nghiệm HIV và giang mai (khi nhập viện), xét nghiệm lại lậu - Chlamydia sau 3 tháng",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 97: mọi phụ nữ viêm vùng chậu xét nghiệm lậu, Chlamydia, HIV, giang mai; xét nghiệm lại sau 3 tháng. QĐ 5165/2021 mục 3.1; QĐ 5169/2021 mục 3.3."
+    },
+    {
+     "t": "Giải thích lý do chuyển tuyến, hứa giữ kín thông tin, để chị tự quyết định có báo đơn vị hay xin nghỉ phép; viết giấy chuyển tuyến chỉ nêu viêm vùng chậu cần nằm viện",
+     "v": "c",
+     "n": "Chị chỉ đồng ý đi khi được giải thích và đảm bảo kín đáo (lời khai ngai_chuyen_vien). Quy định bảo mật và giấy tờ quân nhân: không có trong tài liệu đã tải, đánh giá của ca."
+    },
+    {
+     "t": "Kê kháng sinh uống 'mạnh hơn' theo yêu cầu: amoxicillin liều cao hoặc kéo dài, hoặc ciprofloxacin/levofloxacin đơn độc, rồi cho về",
+     "v": "w",
+     "n": "Các chủng lậu lưu hành ở Mỹ không đủ nhạy với penicillin (CDC STI 2021 tr. 74); fluoroquinolon không còn dùng cho lậu do đề kháng (CDC 2021 tr. 72) và không khuyến cáo trong viêm vùng chậu (CDC 2021 tr. 97); amoxicillin không thuộc phác đồ lậu hay Chlamydia ở người không có thai (QĐ 5165/2021 mục 3.2.1; QĐ 5169/2021 mục 3.2.1)."
+    },
+    {
+     "t": "Điều trị ngoại trú ceftriaxone bắp + doxycyclin 14 ngày + metronidazole 14 ngày, hẹn 72 giờ",
+     "v": "w",
+     "n": "Phác đồ ngoại trú dành cho viêm vùng chậu nhẹ - vừa (CDC STI 2021 tr. 96-97); chị có sốt trên 38,5 °C và chưa loại trừ ngoại khoa là tiêu chuẩn nhập viện (CDC tr. 96; WHO 2021 tr. 62)."
+    },
+    {
+     "t": "Điều trị như viêm bàng quang (nitrofurantoin, fosfomycin hoặc kháng sinh tiết niệu khác), hạ sốt, rồi cho về",
+     "v": "h",
+     "n": "Bỏ sót viêm vùng chậu đang tiến triển; điều trị muộn làm tăng nguy cơ đau vùng chậu mạn, chửa ngoài tử cung, vô sinh (WHO 2021 tr. 61; CDC STI 2021 tr. 66) và viêm bàng quang không kèm sốt, khí hư (EAU 2026 mục 3.4.1, 3.4.3.a)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm niệu đạo - cổ tử cung cấp do bệnh lây qua đường tình dục (nhiều khả năng Chlamydia trachomatis, có thể đồng nhiễm lậu), đã lan lên đường sinh dục trên: viêm vùng chậu cấp mức vừa - nặng (lắc cổ tử cung đau, phần phụ đau, sốt 38,7 °C, mủ cổ tử cung, bạch cầu trên phiến đồ tươi, siêu âm ống dẫn trứng dày chứa dịch)",
+     "Chưa loại trừ được viêm ruột thừa và áp xe vòi trứng - buồng trứng khi không có CT: lý do chuyển tuyến lên bệnh viện có khoa sản - phụ khoa và ngoại",
+     "Đã loại trừ ở mức khả dĩ: viêm bàng quang, viêm thận - bể thận, thai và thai ngoài tử cung (test thai âm tính); viêm tuyến tiền liệt không áp dụng ở nữ",
+     "Yếu tố liên quan: tự uống amoxicillin 5 ngày (không đúng phác đồ), khởi phát âm thầm, giấu triệu chứng vì ngại ngùng, bạn tình trong 60 ngày chưa điều trị, ngân sách xét nghiệm hạn chế"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (tiểu buốt, thuốc đã dùng, sốt, đau bụng, khí hư, kinh nguyệt, quan hệ tình dục, bạn tình, dị ứng) → khám (bụng, mỏ vịt, hai tay, hố thắt lưng) → CLS ưu tiên theo tiền (thử thai, siêu âm tử cung - phần phụ, que thử nước tiểu, soi tươi dịch âm đạo) → chẩn đoán → chuyển tuyến. Chị chỉ nói 'tiểu buốt'; phải hỏi riêng, kín đáo về khí hư và quan hệ tình dục.",
+     "Vì sao không phải viêm bàng quang: viêm bàng quang ở nữ được chẩn đoán dựa trên triệu chứng đường tiểu dưới và không có khí hư, và được định nghĩa là không có sốt, đau hông lưng (EAU 2026 mục 3.4.1, 3.4.3.a, 3.4.3.d). Chị có sốt 38,7 °C, khí hư mủ, mủ cổ tử cung; hố thắt lưng không đau và nitrit âm tính nên viêm thận - bể thận kém khả dĩ.",
+     "Triệu chứng nghèo nàn là bình thường: dưới 50% phụ nữ nhiễm lậu có khí hư, tiểu buốt, đau bụng dưới (QĐ 5165/2021 mục 2.1.1), 70% phụ nữ nhiễm Chlamydia không có biểu hiện (QĐ 5169/2021 mục 2.1.1). Đồng nhiễm Chlamydia gặp ở 10-40% người bị lậu (QĐ 5165/2021 mục 1) nên nên xét nghiệm lậu cho mọi bệnh nhân Chlamydia (QĐ 5169/2021 mục 2.4).",
+     "Viêm cổ tử cung: hai dấu hiệu chính là mủ hoặc nhầy mủ ở cổ tử cung và chảy máu dễ khi chạm; chị có cả hai (CDC STI 2021 tr. 63-64). Bạch cầu trên 10/vi trường 400 ở dịch âm đạo là chỉ điểm nhạy của viêm cổ tử cung (CDC tr. 64). Vì viêm cổ tử cung có thể là dấu hiệu nhiễm khuẩn đường sinh dục trên nên phải tìm dấu viêm vùng chậu và xét nghiệm lậu, Chlamydia (CDC tr. 64).",
+     "Viêm vùng chậu: chỉ cần một trong ba tiêu chuẩn tối thiểu (lắc cổ tử cung đau, tử cung đau, phần phụ đau) là có chỉ định điều trị theo kinh nghiệm; tiêu chuẩn phụ làm tăng độ đặc hiệu: sốt trên 38,3 °C, mủ cổ tử cung, nhiều bạch cầu trên phiến đồ tươi, CRP hoặc tốc độ máu lắng tăng, xét nghiệm lậu - Chlamydia dương tính; siêu âm đầu dò âm đạo thấy ống dẫn trứng dày chứa dịch là tiêu chuẩn đặc hiệu (CDC STI 2021 tr. 95). WHO 2021 (mục 9.1, tr. 59): lắc cổ tử cung đau hoặc ấn đau bụng dưới thì điều trị viêm vùng chậu ngay lần khám đó.",
+     "NAAT chỉ xác nhận căn nguyên; âm tính ở cổ tử cung không loại trừ nhiễm khuẩn đường sinh dục trên (CDC STI 2021 tr. 95). Xếp ưu tiên khi thiếu tiền: NAAT (khoảng 600.000 đồng) không đổi quyết định hôm nay, thử thai (20.000 đồng) và siêu âm (200.000 đồng) thì đổi; chẩn đoán dựa vào lâm sàng được phép khi không đủ điều kiện (QĐ 5165/2021 mục 2.3.1; QĐ 5169/2021 mục 2.3).",
+     "Vì sao chuyển tuyến: tiêu chuẩn nhập viện của CDC gồm không loại trừ được cấp cứu ngoại khoa (ví dụ viêm ruột thừa), áp xe vòi trứng - buồng trứng, có thai, bệnh nặng, nôn hoặc nhiệt độ trên 38,5 °C, không theo hoặc không dung nạp được phác đồ uống, không đáp ứng điều trị uống (CDC STI 2021 tr. 96). Chị có sốt 38,7 °C và ấn đau hố chậu phải; siêu âm không thấy rõ ruột thừa và không có CT nên không loại trừ được ruột thừa hay ổ áp xe nhỏ. WHO 2021 (tr. 62) cũng liệt kê chẩn đoán không chắc, không loại trừ được cấp cứu ngoại khoa, nghi áp xe vùng chậu. Phòng khám không có giường.",
+     "Chưa cần cấp cứu: không đề kháng thành bụng, không phản ứng dội, không khối bụng, không ra máu âm đạo quá mức, không trễ kinh, không mới sinh hay sảy (WHO 2021 mục 9.1, tr. 59, Hình 6 tr. 60). Các dấu này mới buộc chuyển khẩn; vậy chuyển tuyến có kế hoạch là đúng, gọi 115 là quá tay.",
+     "Thuốc tự mua: amoxicillin không nằm trong phác đồ lậu (QĐ 5165/2021 mục 3.2.1) hay Chlamydia ở người không có thai (QĐ 5169/2021 mục 3.2.1; chỉ là lựa chọn ở phụ nữ có thai: mục 3.2.3, WHO 2024 Bảng 2); chủng lậu lưu hành ở Mỹ không đủ nhạy với penicillin (CDC 2021 tr. 74). Chị chưa từng được điều trị theo phác đồ quy định nên không gọi là 'thất bại điều trị' theo định nghĩa QĐ 5165/2021 mục 3.2.3. Điều trị chậm liên quan biến chứng như viêm vùng chậu (CDC 2021 tr. 66); chị đã có triệu chứng 3 tuần và 5 ngày dùng thuốc sai.",
+     "Lý do thật và nhiễu: chị sợ 'bệnh xã hội' nhưng xấu hổ nên xin thuốc mạnh hơn. Hỏi 'chị lo nhất điều gì' trong phòng riêng và hứa giữ kín mới lấy được chuyện bạn tình. Chị không đủ tiền: xét nghiệm nào đổi quyết định thì giải thích rõ và làm, xét nghiệm còn lại để bệnh viện làm."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến ngay trong buổi, nhập viện kháng sinh tĩnh mạch: ceftriaxone 1 g tĩnh mạch mỗi 24 giờ + doxycyclin 100 mg uống hoặc tĩnh mạch mỗi 12 giờ + metronidazole 500 mg uống hoặc tĩnh mạch mỗi 12 giờ; doxycyclin nên uống vì truyền tĩnh mạch đau; khi cải thiện lâm sàng (thường 24-48 giờ) chuyển sang uống doxycyclin 100 mg × 2 lần/ngày + metronidazole 500 mg × 2 lần/ngày, đủ 14 ngày (CDC STI 2021 tr. 96). Thay thế: cefotetan 2 g mỗi 12 giờ hoặc cefoxitin 2 g mỗi 6 giờ + doxycyclin; ampicillin-sulbactam 3 g mỗi 6 giờ + doxycyclin (CDC tr. 96).",
+     "Phác đồ IM hoặc uống cho thể nhẹ - vừa (không phải chị lúc này): ceftriaxone 500 mg IM liều đơn (1 g nếu từ 150 kg) + doxycyclin 100 mg × 2 lần/ngày × 14 ngày + metronidazole 500 mg × 2 lần/ngày × 14 ngày; không đáp ứng sau 72 giờ thì đánh giá lại, nhập viện (CDC tr. 97). WHO 2021 (Bảng 6, tr. 62): ceftriaxone 250 mg IM + azithromycin 1 g + doxycyclin 100 mg × 2 lần/ngày × 14 ngày + metronidazole 400 hoặc 500 mg × 2 lần/ngày × 14 ngày; WHO ghi đang sửa liều vì đề kháng azithromycin và giảm nhạy cephalosporin; WHO 2024 (Bảng 1) nâng ceftriaxone lên 1 g IM cho lậu. Hai nguồn khác nhau do năm và nguồn lực (CDC chỉ dùng ceftriaxone vì lo đề kháng azithromycin, tr. 72), cả hai cách đều chấp nhận; xem sổ mâu thuẫn.",
+     "Trước chuyển: lấy NAAT và cấy lậu trước kháng sinh (CDC tr. 97, 64); tiêm bắp liều ceftriaxone đầu là chấp nhận được vì điều trị phải bắt đầu ngay khi có chẩn đoán dự kiến (CDC tr. 96), nhưng liều và khoảng cách với liều tĩnh mạch đầu ở bệnh viện không có trong tài liệu đã tải. Đặt đường truyền, theo dõi sinh hiệu, bàn giao qua điện thoại (WHO 2021 Hình 6 tr. 60). Dịch truyền, thuốc hạ sốt, an toàn vận chuyển: không có trong tài liệu đã tải.",
+     "Bạn tình: tất cả bạn tình trong 60 ngày trước khởi phát cần được khám, xét nghiệm và điều trị thử nghiệm Chlamydia, lậu (CDC tr. 97; QĐ 5165/2021 mục 3.1); nếu khó đưa đến khám thì điều trị bạn tình qua người bệnh (EPT) là một hướng (CDC tr. 97). Chồng chị không quan hệ 8 tháng nay nên không thuộc diện 60 ngày.",
+     "Theo dõi: sau điều trị phải cải thiện (hết sốt, giảm đau bụng, giảm đau lắc cổ tử cung) trong dưới 3 ngày; xét nghiệm lại lậu - Chlamydia sau 3 tháng (CDC tr. 97; QĐ 5169/2021 mục 3.3), HIV và giang mai (CDC tr. 97; QĐ 5165/2021 mục 3.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ceftriaxon (liều đầu tại phòng khám, trước khi chuyển)",
+      "ham_luong": "Lọ bột pha tiêm 1 g",
+      "lieu": "500 mg (CDC STI 2021 tr. 97) hoặc 1 g (WHO 2024 Bảng 1, lậu) hoặc 250 mg (QĐ 5165/2021 mục 3.2.1; WHO 2021 Bảng 6), tiêm bắp liều đơn",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Một lần, sau khi lấy mẫu NAAT và cấy, ngay trước khi chuyển",
+      "so_ngay": "1 liều",
+      "ghi_chu": "Ba liều của ba nguồn (sổ mâu thuẫn TN-0415); CDC dùng 1 g nếu từ 150 kg. Tiêm bắp 1 g có thể đau, pha lidocain (WHO 2024 Bảng 1, ghi chú). Chị không dị ứng thuốc. Liều đầu trước vận chuyển và khoảng cách với liều tĩnh mạch ở bệnh viện: không có trong tài liệu đã tải; ghi giờ và liều đã tiêm vào giấy chuyển."
+     },
+     {
+      "thuoc": "Ceftriaxon (tại bệnh viện)",
+      "ham_luong": "Lọ bột pha tiêm 1 g",
+      "lieu": "1 g mỗi 24 giờ",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Bệnh viện bắt đầu ngay khi nhập viện",
+      "so_ngay": "Đến khi cải thiện lâm sàng (thường 24-48 giờ) rồi chuyển phác đồ uống; tổng 14 ngày",
+      "ghi_chu": "CDC STI 2021 tr. 96. Do bác sĩ bệnh viện chỉ định; thay thế cefotetan hoặc cefoxitin hoặc ampicillin-sulbactam (CDC tr. 96)."
+     },
+     {
+      "thuoc": "Doxycyclin",
+      "ham_luong": "Viên 100 mg",
+      "lieu": "100 mg × 2 lần/ngày (mỗi 12 giờ)",
+      "duong": "Uống (ưu tiên uống vì truyền tĩnh mạch đau)",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "14 ngày",
+      "ghi_chu": "CDC STI 2021 tr. 96-97; WHO 2021 Bảng 6 (14 ngày). Không dùng cho phụ nữ mang thai (QĐ 5169/2021 mục 3.2.1); test thai của chị âm tính. Phủ cả Chlamydia (không biến chứng 7 ngày: WHO 2024 Bảng 2)."
+     },
+     {
+      "thuoc": "Metronidazole",
+      "ham_luong": "Viên 500 mg hoặc dịch truyền 500 mg",
+      "lieu": "500 mg × 2 lần/ngày (mỗi 12 giờ); WHO 2021 Bảng 6 cũng nêu 400 mg",
+      "duong": "Uống hoặc tĩnh mạch",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "14 ngày",
+      "ghi_chu": "CDC STI 2021 tr. 96-97; WHO 2021 Bảng 6 (400 hoặc 500 mg × 2 lần/ngày × 14 ngày). Phủ vi khuẩn kỵ khí và viêm âm đạo do vi khuẩn thường kèm theo (CDC tr. 96). Rượu: WHO 2021 Bảng 4 dặn tránh rượu; CDC 2021 tr. 85 không thấy bằng chứng phản ứng giống disulfiram nên không cần kiêng (xem sổ mâu thuẫn); chị không uống rượu."
+     }
+    ],
+    "dan_do": [
+     "Giải thích vì sao phải đi bệnh viện hôm nay: viêm đã lên cao trong vùng chậu, đang sốt, chưa loại trừ được ruột thừa; chậm điều trị có thể dẫn đến đau vùng chậu mạn, chửa ngoài tử cung và vô sinh (QĐ 5165/2021 mục 1; QĐ 5169/2021 mục 2.1.2; WHO 2021 tr. 61). Chị không có lỗi vì bị bệnh; điều quan trọng là điều trị ngay.",
+     "Giữ kín: giấy chuyển tuyến chỉ ghi chẩn đoán cần nằm viện; chị tự quyết định có báo đơn vị hay xin nghỉ phép.",
+     "Anh Khải phải đi khám, xét nghiệm và điều trị dù không có triệu chứng; chị không quan hệ với bất kỳ ai cho đến khi chị uống hết thuốc, hết triệu chứng và anh Khải đã điều trị xong (CDC STI 2021 tr. 97). Mốc theo hai văn bản Bộ Y tế: 7 ngày sau kết thúc điều trị (QĐ 5165/2021 mục 3.1) hoặc 7 ngày sau khi bắt đầu điều trị Chlamydia không biến chứng (QĐ 5169/2021 mục 3.1); với viêm vùng chậu 14 ngày, kiêng suốt đợt điều trị là thận trọng hơn.",
+     "Không tự mua kháng sinh uống thêm; uống đủ 14 ngày kể cả khi hết sốt và hết đau. Uống rượu khi dùng metronidazole: WHO 2021 dặn tránh, CDC 2021 không thấy cần kiêng.",
+     "Trên đường đi, nếu bụng cứng, đau dữ dội, chóng mặt, ngất hoặc nôn nhiều (dấu cần xử trí khẩn: WHO 2021 tr. 59) thì báo ngay nhân viên đi cùng.",
+     "Xét nghiệm HIV, giang mai khi nhập viện; xét nghiệm lại lậu - Chlamydia sau 3 tháng, bất kể anh Khải đã điều trị hay chưa (CDC STI 2021 tr. 97; QĐ 5169/2021 mục 3.3). Không đủ tiền thì nói với bác sĩ bệnh viện để xếp thứ tự ưu tiên."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hằng đồng ý đi sau khi được hứa giữ kín, đến bệnh viện cùng chiều. Nhập viện hai ngày với kháng sinh tĩnh mạch, hết sốt và bớt đau bụng; bệnh viện chụp lại siêu âm không thấy áp xe, ruột thừa bình thường, rồi chuyển sang thuốc uống đủ 14 ngày. NAAT cho kết quả Chlamydia dương tính, lậu âm tính; HIV, giang mai âm tính. Anh Khải đi khám và điều trị sau khi chị nhắn tin. Chị mất vài ngày phép năm chứ không phải giấy bệnh gửi về đơn vị, và hẹn xét nghiệm lại sau 3 tháng.",
+ "nhieu": [
+  "Tự mua amoxicillin 5 ngày: hai ngày đầu đỡ tạo cảm giác 'thuốc có tác dụng' nên chị xin loại 'mạnh hơn'; amoxicillin không thuộc phác đồ lậu hay Chlamydia ở người không có thai (QĐ 5165/2021 mục 3.2.1; QĐ 5169/2021 mục 3.2.1) và lậu lưu hành không đủ nhạy với penicillin (CDC STI 2021 tr. 74).",
+  "Tiểu buốt + sốt dễ nghĩ viêm thận - bể thận: nhưng chị có khí hư mủ, mủ cổ tử cung, hố thắt lưng không đau, nitrit âm tính (EAU 2026 mục 3.4.1, 3.4.3.a).",
+  "Không đủ tiền: chị chỉ mang khoảng 900.000 đồng và không dùng thẻ bảo hiểm quân y. NAAT khoảng 600.000 đồng không đổi quyết định hôm nay, trong khi thử thai và siêu âm đổi quyết định; CT không có. Xếp ưu tiên: xét nghiệm đổi quyết định trước, xét nghiệm hỗ trợ (NAAT, HIV, giang mai, CRP, cấy) để bệnh viện làm.",
+  "Giấu triệu chứng thật vì ngại: khí hư mủ, đau bụng dưới và bạn tình chỉ lộ khi hỏi riêng, kín đáo; lý do thật (sợ bệnh xã hội, sợ lây cho chồng) lộ khi hỏi chị lo gì.",
+  "Nghề bộ đội: sợ hồ sơ về đơn vị, ngại chuyển viện; cần giải thích và đảm bảo kín."
+ ],
+ "bai_hoc_bien": [
+  "Tiểu buốt ở phụ nữ có sốt hoặc khí hư là chưa thể kết luận viêm bàng quang: viêm bàng quang được chẩn đoán khi có triệu chứng đường tiểu dưới, không khí hư, không sốt (EAU 2026 mục 3.4.1, 3.4.3.a). Luôn hỏi riêng về khí hư, quan hệ tình dục, kinh nguyệt rồi khám mỏ vịt và hai tay.",
+  "Lâm sàng viêm vùng chậu đủ để điều trị: chỉ cần lắc cổ tử cung đau, hoặc ấn tử cung, phần phụ đau ở phụ nữ có nguy cơ (CDC STI 2021 tr. 95; WHO 2021 mục 9.1, tr. 59). Đừng đợi NAAT.",
+  "Chuyển tuyến vì tiêu chuẩn cụ thể, không vì 'cho chắc': sốt trên 38,5 °C, không loại trừ được cấp cứu ngoại khoa, nghi áp xe, có thai, không uống được, không đáp ứng thuốc uống (CDC 2021 tr. 96; WHO 2021 tr. 62). Không có CT thì siêu âm đầu dò là hình ảnh học duy nhất và nó không loại trừ được ruột thừa.",
+  "Khi thiếu tiền: xét nghiệm đổi quyết định hôm nay (thử thai, siêu âm, soi tươi, que thử) làm trước; xét nghiệm xác nhận (NAAT, cấy, HIV, giang mai) để bệnh viện làm, nhưng lấy mẫu trước kháng sinh.",
+  "Hỏi riêng, hứa giữ kín, không phán xét, rồi mới xử lý bạn tình trong 60 ngày (CDC 2021 tr. 97; QĐ 5165/2021 mục 3.1)."
+ ],
+ "diem_nho": [
+  "Viêm cổ tử cung: mủ hoặc nhầy mủ ở cổ tử cung, chảy máu dễ khi chạm; bạch cầu trên 10/vi trường 400 ở dịch âm đạo; điều trị theo kinh nghiệm doxycyclin 100 mg × 2 lần/ngày × 7 ngày (CDC STI 2021 tr. 63-64).",
+  "Viêm vùng chậu: ba tiêu chuẩn tối thiểu (lắc cổ tử cung đau, tử cung đau, phần phụ đau); tiêu chuẩn phụ: sốt trên 38,3 °C, mủ cổ tử cung, bạch cầu trên phiến đồ tươi, CRP hoặc tốc độ máu lắng tăng, NAAT dương tính; siêu âm ống dẫn trứng dày chứa dịch là đặc hiệu (CDC 2021 tr. 95).",
+  "Tiêu chuẩn nhập viện: không loại trừ được cấp cứu ngoại khoa, áp xe vòi trứng - buồng trứng, có thai, bệnh nặng hoặc nôn hoặc nhiệt độ trên 38,5 °C, không theo hoặc không dung nạp phác đồ uống, không đáp ứng thuốc uống (CDC 2021 tr. 96).",
+  "Bạn tình trong 60 ngày phải được điều trị; xét nghiệm lại sau 3 tháng; xét nghiệm HIV, giang mai (CDC 2021 tr. 97; QĐ 5165/2021 mục 3.1; QĐ 5169/2021 mục 3.3)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5165/QĐ-BYT 2021 (Hướng dẫn chẩn đoán và điều trị bệnh Lậu) – TL-0499 – mục 1, 2.1, 2.1.1, 2.2.1, 2.2.2, 2.2.3, 2.3.1, 2.3.2, 3.1, 3.2.1, 3.2.3 (toàn văn).",
+  "BYT – QĐ 5169/QĐ-BYT 2021 (Chlamydia trachomatis) – TL-0498 – mục I, 2.1.1, 2.1.2, 2.2, 2.3, 2.4, 3.1, 3.2.1, 3.2.3, 3.3 (toàn văn).",
+  "CDC STI Treatment Guidelines 2021 (Workowski, MMWR Recomm Rep 2021;70(4)) – TL-0370 – Cervicitis tr. 63-65; Chlamydial Infections tr. 65-66; Gonococcal Infections tr. 71-74; Pelvic Inflammatory Disease tr. 94-97; Bacterial Vaginosis tr. 85 (metronidazole và rượu).",
+  "WHO 2021, Guidelines for the management of symptomatic STIs – TL-0502 – mục 9 Lower abdominal pain: 9.1 (tr. 59), Hình 6 (tr. 60), 9.1.1 (tr. 61), 9.2 và Bảng 6 (tr. 62); Bảng 4 (metronidazole).",
+  "WHO 2024, Updated recommendations for the treatment of N. gonorrhoeae, C. trachomatis and syphilis – TL-0501 – Bảng 1 (lậu), Bảng 2 (Chlamydia).",
+  "EAU Urological Infections 2026 – TL-0512 – mục 3.4.1, 3.4.3.a, 3.4.3.d (viêm bàng quang), 3.10 (viêm niệu đạo nam, tham khảo)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 16/10/2026. Đã đọc: TL-0499, TL-0498 (toàn văn); TL-0370 (tr. 63-66, 71-74, 94-98, 85); TL-0502 mục 9 và Bảng 4; TL-0501 Bảng 1-2; TL-0512 mục 3.4, 3.10.",
+  "Mâu thuẫn đã có trong sổ, ghi cả hai: liều ceftriaxone 250/500/1.000 mg (TN-0415); phác đồ viêm vùng chậu (TN-0278); doxycyclin 7 ngày hoặc azithromycin (TN-0289). Mâu thuẫn mới đề xuất (xem TN-0302_mau_thuan.md): metronidazole và rượu (WHO 2021 Bảng 4 so với CDC 2021 tr. 85); mốc kiêng quan hệ (QĐ 5165 mục 3.1 so với QĐ 5169 mục 3.1 và CDC).",
+  "Thiếu tài liệu đã tải: liều ceftriaxone đầu trước vận chuyển và khoảng cách với liều tĩnh mạch ở bệnh viện; dịch truyền, thuốc hạ sốt trước chuyển; cấu trúc bàn giao (SBAR) và an toàn vận chuyển; chỉ định CT cho đau hạ vị ở phụ nữ; quy định bảo mật hồ sơ quân nhân và chế độ nghỉ; viêm niệu đạo ở nữ (tài liệu chủ yếu mô tả ở nam: EAU 2026 mục 3.10, CDC tr. 59-63). Danh mục: không cần thêm mục mới.",
+  "Thiết kế: một lượt, ket_luan chuyen_tuyen (bệnh viện có phụ - ngoại cách 25 km, phòng khám không giường). Sốt 38,7 °C và chưa loại trừ ruột thừa là hai tiêu chuẩn nhập viện của CDC; khác TN-0278 (khối phần phụ, 2 lượt, nhập viện). Ngân sách 900.000 đồng: thử thai 20.000 + siêu âm 200.000 + que thử 15.000 + soi tươi 60.000 = 295.000; thêm NAAT 600.000 thành 895.000, hết sạch ngân sách, không còn tiền công thức máu."
+ ]
+}
