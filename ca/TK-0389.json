@@ -1,0 +1,830 @@
+{
+ "ma_ca": "TK-0389",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soát nguồn với kho 576 tài liệu (2026-10-18)",
+ "benh": "TK_dong_kinh_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Động kinh (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "Ngất",
+   "TIA",
+   "Hạ đường huyết"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau chơi thể thao",
+  "thuoc_dang_dung": "NSAID tự mua",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm",
+  "loai_ket_cuc": "Biến chứng do bỏ sót"
+ },
+ "benh_nhan": {
+  "ten": "Hồ Bảo Nghi",
+  "tuoi": 0.58,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 7.6,
+  "chieu_cao": 67,
+  "xung_ho": "Bé gái 7 tháng, chưa nói được, khóc khi bị khám, tìm mẹ. Mẹ kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em', gọi bé là 'bé Nghi' hoặc 'con'. Bố (anh Tín) đi làm ca, không đi cùng.",
+  "tinh_cach": "Mẹ 28 tuổi, công nhân may ở khu công nghiệp, nói nhanh, hay lo, sợ mất việc và bị trừ công; tin 'truyền chai nước' làm con khỏe nhanh. Hiểu biết y khoa ít, gọi cơn của bé là 'giật mình'. Bé Nghi vốn hiền, nay ít cười, hay lơ đãng.",
+  "kieu_nhieu": "Đòi truyền dịch: mẹ xin 'truyền chai nước cho con khỏe, đỡ giật' và nhắc lại mỗi khi bác sĩ giải thích. Bị gạt đi bằng 'không cần đâu chị' thì mẹ nghi bác sĩ qua loa, dọa đưa con đi chỗ khác; giải thích bằng chính điều đã thấy ở bé (còn bú, còn tỉnh, chưa mất nước) và nói rõ việc cần là đến nơi có điện não thì mẹ nghe. Lý do thật (giấy nghỉ ốm) chỉ nói khi được hỏi về công việc, nỗi lo, giấy tờ cần.",
+  "nguoi_nha": "Mẹ bé, chị Nhàn, 28 tuổi, bế bé đi khám; mẹ trả lời mọi câu hỏi (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Nhàn)",
+  "ngoai_hinh": {
+   "da": "#f1cfae",
+   "toc": "#1c1512",
+   "kieuToc": "tre",
+   "ao": "#cfe3f0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e6b996",
+    "toc": "#231a15",
+    "kieuToc": "dai",
+    "ao": "#c9a0b4",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé 7 tháng giật mình nhiều lần mấy ngày nay, mẹ xin truyền nước cho khỏe",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Phòng khám nhi tư ở khu công nghiệp không làm được xét nghiệm nào (không máu, không sinh hóa), vì vậy cũng không có X-quang, CT, MRI, nội soi. Có nhiệt kế, ống nghe, máy đo huyết áp nhi, máy thử đường huyết mao mạch, que thử nước tiểu và máy điện tim; không có máy điện não. Bệnh viện Nhi tỉnh có khoa thần kinh nhi cách 35 km (khoảng 50 phút xe)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Nhàn bế bé Nghi, 7 tháng, nặng 7,6 kg, đến phòng khám nhi tư ở khu công nghiệp vì khoảng 10 ngày nay bé 'giật mình' nhiều lần, mẹ muốn 'truyền chai nước cho con khỏe'. Điều dưỡng Linh đo: nhiệt 36,8 °C, mạch 128 l/p, nhịp thở 34 l/p, SpO₂ 99%. Bé tỉnh, hơi quấy, bú được.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bé Nghi về nhà hẹn tái khám 1–2 tuần trong khi các chuỗi co thắt vẫn xảy ra mỗi ngày và bé tiếp tục mất dần kỹ năng (cười đáp, nhìn theo). Mẹ không biết đó là cơn động kinh nên không coi là khẩn. NICE NG217 mục 6.3.1 yêu cầu chuyển khẩn trong 24 giờ; chậm điều trị liên quan tiên lượng phát triển xấu hơn (phần giải thích mục 6.3; ILAE 2025 tr. 11).",
+    "theo_doi": "Giữ bé vài giờ rồi cho về: phòng khám không có điện não, MRI hay thuốc đặc hiệu nên chờ không làm thêm được gì (NICE NG217 mục 6.3.1); mẹ mất nửa ngày công.",
+    "nhap_vien": "Nhập bé vào bệnh viện huyện hoặc giữ truyền dịch theo yêu cầu của mẹ: bé không mất nước, không có chỉ định truyền (không có trong tài liệu đã tải), nơi nhập không có điện não giấc ngủ, MRI nên phải chuyển tiếp muộn hơn (NICE NG217 mục 6.3.1).",
+    "cap_cuu": "Gọi 115 vào khoa cấp cứu như bé đang co giật là quá tay: bé tỉnh, không tím, SpO₂ 99%, mỗi co thắt chỉ vài giây. Điều bé cần là đánh giá thần kinh nhi có điện não giấc ngủ (NICE NG217 mục 6.3.1), không phải hồi sức; mẹ càng hoảng."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu nhà em mấy bữa nay cứ giật mình hoài, ngủ dậy là giật, em sợ lắm. Bác sĩ cho cháu truyền chai nước biển cho khỏe được không, em thấy người ta truyền xong con khỏe liền.",
+   "sinh_hieu": {
+    "mach": 128,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 34,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khoảng 10 ngày nay bé 'giật mình' nhiều lần, hay gặp khi vừa ngủ dậy và sau bú. Mẹ nghĩ do cuối tuần bố đưa bé ra sân bóng đá mini xem, trời nắng, ồn, bé khóc nhiều rồi ngủ muộn. Mẹ xin truyền nước cho bé khỏe.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "chuoi_co",
+     "noi_dung": "Bé gập người ra trước, hai tay giơ lên ôm ngực, đầu gục, mỗi cái khoảng 1 giây, lặp 5–10 giây một cái thành chuỗi 10–20 cái, thỉnh thoảng khóc xen giữa. Lúc đầu 1 chuỗi mỗi ngày, 3 ngày nay 4–5 chuỗi, hay vào sáng khi vừa tỉnh. Giữa các chuỗi bé tỉnh, bú được. Không tím, không ngừng thở, không sùi bọt mép.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mô tả cơn: gập người từng chuỗi, thành loạt, khi vừa tỉnh"
+    },
+    {
+     "id": "video",
+     "noi_dung": "Mẹ quay được hai đoạn video: bé nằm ngửa, gập người và giơ hai tay lên từng nhịp, khoảng 12 cái liên tiếp mỗi 5–8 giây, mắt hơi trợn lên, sau cùng khóc.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Video chuỗi co thắt",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi mẹ có quay phim hoặc chụp lại cơn của bé không, hoặc xin xem cơn."
+    },
+    {
+     "id": "phat_trien",
+     "noi_dung": "Trước đây bé hiền, cười đáp, nhìn theo mẹ, lật sấp lúc 6 tháng. Khoảng 1 tuần nay bé ít cười, ít nhìn theo mẹ, không với đồ chơi như trước, nằm lơ đãng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thoái lui phát triển trong 1 tuần"
+    },
+    {
+     "id": "kham_truoc",
+     "noi_dung": "6 ngày trước mẹ đưa bé ra phòng khám nhi tư gần chợ. Bác sĩ nói 'giật mình sinh lý, có thể trào ngược', dặn bế đầu cao sau bú và cho một thuốc uống mẹ không nhớ tên; không xem video, không hẹn tái khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lần khám trước đã gán 'giật mình/trào ngược'"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Ba ngày nay, mỗi khi bé quấy khóc, mẹ cho uống ibuprofen siro mua ở nhà thuốc vì sợ bé 'đau bụng, mọc răng', mỗi ngày 1–2 lần. Mẹ không đo thân nhiệt vì thấy người không nóng.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc tự mua: NSAID (ibuprofen)",
+     "dieu_kien_lo": "Hỏi chung 'bé đang uống thuốc gì' mẹ chỉ nói 'thuốc bác sĩ hôm trước cho'. Chỉ kể ibuprofen khi bác sĩ hỏi cụ thể thuốc tự mua, thuốc hạ sốt, giảm đau hay cho bé uống gì khi quấy.",
+     "nhieu": 1
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Bé ngồi xe đẩy, không té, không ai bế tung hay lắc, không đập đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: sân bóng; không có chấn thương đầu"
+    },
+    {
+     "id": "sinh_thai",
+     "noi_dung": "Sinh mổ đủ tháng 38 tuần, nặng 3,1 kg, khóc ngay, không ngạt, không vàng da nặng. Trước nay bú tốt, lên cân đều. Gia đình hai bên không ai bị động kinh hay co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh, phát triển, gia đình"
+    },
+    {
+     "id": "sot_nhiem",
+     "noi_dung": "Bé không sốt, không ho, không nôn, không tiêu chảy, không ai trong nhà ốm, không ngộ độc. Cữ bú gần nhất cách đây khoảng 40 phút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ sốt, nhiễm trùng, ngộ độc"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Công ty may của chị Nhàn chỉ cho nghỉ có lương khi có giấy của cơ sở y tế ghi con đang bệnh; chị đã nghỉ mấy buổi, sợ bị trừ công, nên muốn 'có giấy' và 'truyền một chai cho con khỏe nhanh, để mai đi làm lại'.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật: xin giấy nghỉ ốm; đòi truyền dịch",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi mẹ làm nghề gì, mẹ lo điều gì, vì sao mẹ muốn truyền, hoặc mẹ có cần giấy tờ gì.",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân nặng 7,6 kg, dài 67 cm, vòng đầu 42,5 cm, tăng trưởng đều. Bé tỉnh, hơi quấy nhưng dỗ nín, ít cười đáp khi chọc; môi hồng, niêm mạc ẩm, mắt không trũng, mao mạch hồi sắc 2 giây. Không vàng da, không phù, không bầm tím.",
+     "k": 1,
+     "hien": "Cân 7,6 kg. Tỉnh, quấy nhẹ, ít cười đáp. Môi hồng, mắt không trũng."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm, khoảng 2 × 2 cm. Hình dạng đầu cân đối, không dị tật mặt, không bướu máu, không dấu bầm sau tai hay quanh mắt. Cổ mềm, không hạch.",
+     "k": 1,
+     "hien": "Thóp phẳng, mềm. Đầu mặt cân đối. Cổ mềm."
+    },
+    "than_kinh": {
+     "a": "Trong lúc khám, bé thức dậy sau giấc ngắn và có một chuỗi 9 lần gập người ra trước, hai tay giơ lên, mắt hơi trợn, mỗi lần khoảng 1 giây, cách nhau 5–6 giây, rồi khóc; sau chuỗi vẫn tỉnh. Ngoài cơn: giảm trương lực thân nhẹ, giữ đầu kém hơn tuổi; chi đối xứng, không liệt khu trú, phản xạ gân xương đối xứng; theo vật kém, ít cười đáp. Không rung giật nhãn cầu.",
+     "k": 1,
+     "hien": "Quan sát được một chuỗi 9 lần gập người, tay giơ lên, mỗi lần khoảng 1 giây, cách nhau 5–6 giây, rồi bé khóc. Ngoài cơn bé tỉnh, hơi kém theo vật."
+    },
+    "da": {
+     "a": "Da hồng. Không dát giảm sắc tố hình lá, không đốm cà phê sữa, không bớt mạch máu ở mặt.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 128 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 128 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 34 l/p, đều, không rút lõm, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 34 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối, gan lách không to. Rốn khô.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "4,9 mmol/L (khoảng 40 phút sau bú)",
+     "n": "NICE NG217 mục 1.2.3: hạ đường huyết có thể gây co giật; QĐ 2058/2020 bài 35 mục 3.2 (tr. 187): chẩn đoán dựa vào định lượng đường huyết."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 130 l/p, QRS và khoảng QT bình thường, không bất thường dẫn truyền.",
+     "n": "NICE NG217 mục 1.2.2: điện tim sau cơn nghi động kinh đầu để loại nguyên nhân tim."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Glucose âm tính, ceton âm tính, protein âm tính, bạch cầu âm tính, nitrit âm tính.",
+     "n": "Không ceton niệu, không dấu nhiễm trùng tiểu; giá trị nền để so sánh."
+    },
+    "dien_nao": {
+     "v": "a",
+     "r": "Phòng khám không có máy điện não. Điện não giấc ngủ phải làm ở bệnh viện Nhi tỉnh.",
+     "n": "NICE NG217 mục 6.3.1: điện não giấc ngủ là phần của đánh giá khẩn tại tuyến ba; QĐ 2058/2020 bài 35 mục 3.1.4a (tr. 187)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Co thắt động kinh ở nhũ nhi, nghi hội chứng co thắt trẻ nhỏ (IESS), chưa xác nhận bằng điện não, kèm thoái lui phát triển",
+     "ok": 1,
+     "n": "Chuỗi gập người đối xứng 1 giây thành loạt, hay khi vừa thức, quan sát ngay tại phòng khám; tăng dần 10 ngày; giảm cười và theo vật (ILAE 2025 tr. 11–12; QĐ 2058/2020 bài 35 mục 3.1.2, tr. 186). Điện não giấc ngủ để xác nhận (NICE NG217 mục 6.3.1)."
+    },
+    {
+     "t": "Ngất",
+     "n": "Không mất trương lực, không ngã, điện tim bình thường (QĐ 2058/2020 bài 35 mục 3.2, tr. 187; NICE NG217 mục 1.2.2)."
+    },
+    {
+     "t": "Cơn thiếu máu não thoáng qua (TIA)",
+     "n": "TIA là suy giảm chức năng thần kinh khu trú cấp do thiếu máu não (QĐ 5331/2020, mục Đột quỵ thoáng qua, tr. 17–18); bé 7 tháng, cơn đối xứng, lặp thành chuỗi nhiều lần mỗi ngày. Tỷ lệ TIA ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ đường huyết",
+     "n": "Đường huyết mao mạch 4,9 mmol/L sau bú 40 phút (NICE NG217 mục 1.2.3; QĐ 2058/2020 bài 35 mục 3.2). Ngưỡng ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giật mình sinh lý, đau bụng, trào ngược",
+     "n": "Không phù hợp: loạt 10–20 cái đều nhịp, tăng dần, không liên quan cữ bú, kèm giảm tương tác; xem video (NICE NG217 mục 1.2.1)."
+    },
+    {
+     "t": "Co giật do sốt, viêm màng não – não",
+     "n": "Không sốt, thóp phẳng, cổ mềm, tỉnh giữa các chuỗi (QĐ 2058/2020 bài 35 mục 1, tr. 184: không do sốt cao hay nguyên nhân cấp tính)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Gọi bác sĩ thần kinh nhi bệnh viện Nhi tỉnh và chuyển bé trong ngày (không quá 24 giờ) để làm điện não giấc ngủ, MRI và điều trị cắt co thắt; kèm video và giấy chuyển",
+     "v": "c",
+     "n": "NICE NG217 mục 6.3.1 (dưới 2 tuổi nghi co thắt trẻ nhỏ: trong 24 giờ hỏi ý kiến và chuyển khẩn, gồm điện não giấc ngủ); mục 3.1.4 (dưới 3 tuổi gửi dịch vụ động kinh nhi tuyến ba trong 2 tuần, mục 6.3.1 chặt hơn); ILAE 2025 tr. 11."
+    },
+    {
+     "t": "Hỏi theo chuyên đề: mô tả cơn, xin video, sinh – phát triển – gia đình, hỏi thẳng mọi thuốc tự mua, hỏi mẹ về công việc và nỗi lo",
+     "v": "c",
+     "n": "NICE NG217 mục 1.2.1: hỏi kỹ người chăm sóc, dùng lời kể và video."
+    },
+    {
+     "t": "Đo đường huyết mao mạch và điện tim tại phòng khám, không chờ kết quả khác để chuyển",
+     "v": "c",
+     "n": "NICE NG217 mục 1.2.2–1.2.3; QĐ 2058/2020 bài 35 mục 3.2 (tr. 187)."
+    },
+    {
+     "t": "Dặn mẹ an toàn: nằm ngửa mặt phẳng, không bế tung hay lắc, quay phim cơn; gọi 115 nếu co giật toàn thân từ 5 phút, tím, ngừng thở",
+     "v": "c",
+     "n": "NICE NG217 mục 1.1.8 (nhận biết cơn, an toàn, liên hệ ai khi có cơn); mục 7.1.1 (từ 5 phút là trạng thái động kinh)."
+    },
+    {
+     "t": "Từ chối truyền dịch; giải thích bé còn bú, tỉnh, chưa mất nước, truyền dịch không cắt co thắt; điều có ích là đến nơi có điện não hôm nay",
+     "v": "c",
+     "n": "Không tài liệu đã tải nào chỉ định truyền dịch cho động kinh/co thắt trẻ nhỏ: 'không có trong tài liệu đã tải'. Không lợi ích, mất thời gian chuyển tuyến."
+    },
+    {
+     "t": "Cấp giấy xác nhận bé đang bệnh, cần khám thần kinh nhi gấp, đúng thực tế, để mẹ xin nghỉ",
+     "v": "a",
+     "n": "Thủ tục giấy nghỉ ốm: TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm, chưa đối chiếu bản hiện hành). Không cấp giấy sai sự thật."
+    },
+    {
+     "t": "Cho thuốc an thần hoặc thuốc chống động kinh (phenobarbital, diazepam, valproat) uống tại phòng khám trước khi chuyển",
+     "v": "w",
+     "n": "QĐ 2058/2020 bài 35 mục 4.1 (tr. 188): chỉ dùng thuốc kháng động kinh khi đã xác định chắc loại cơn và hội chứng; NICE NG217 mục 6.3.4–6.3.5: thuốc đặc hiệu do tuyến ba."
+    },
+    {
+     "t": "Truyền dịch tĩnh mạch theo yêu cầu của mẹ rồi cho về",
+     "v": "w",
+     "n": "Không có chỉ định (không có trong tài liệu đã tải); trì hoãn chuyển tuyến (NICE NG217 mục 6.3.1)."
+    },
+    {
+     "t": "Cho về, hẹn tái khám sau 1–2 tuần vì bé tỉnh và cơn ngắn",
+     "v": "h",
+     "n": "NICE NG217 mục 6.3.1 và phần giải thích: bệnh não động kinh nặng cần xử trí khẩn, điều trị sớm gắn tiên lượng tốt hơn; ILAE 2025 tr. 11: chậm trễ làm xấu kết cục phát triển."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Co thắt động kinh ở nhũ nhi gái 7 tháng, nghi hội chứng co thắt trẻ nhỏ (IESS), khởi phát khoảng 10 ngày, tăng dần; chưa có điện não",
+     "Thoái lui phát triển (giảm cười đáp, theo vật) khoảng 1 tuần; nguyên nhân chưa rõ, cần MRI ở tuyến trên",
+     "Đã loại tại giường: hạ đường huyết (4,9 mmol/L), bất thường điện tim; ngất và TIA không phù hợp",
+     "Bối cảnh: mẹ đòi truyền dịch, cần giấy nghỉ ốm, ibuprofen tự mua, lần khám trước gán 'giật mình/trào ngược'"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) hỏi bệnh kỹ, xin video, hỏi thuốc tự mua và lý do thật của mẹ; (2) khám sinh hiệu, tăng trưởng, thóp, thần kinh (quan sát một chuỗi), da; (3) đường huyết mao mạch, điện tim, que thử nước tiểu; (4) chẩn đoán; (5) xử trí khẩn.",
+     "Vì sao nghĩ co thắt trẻ nhỏ: chuỗi gập người, tay giơ lên 1 giây, lặp 5–10 giây thành loạt 10–20 cái, hay khi vừa thức, bé 7 tháng, kèm giảm cười đáp và theo vật. ILAE 2025 (tr. 11–12): nhận biết kịp thời và dùng thuốc đặc hiệu không chậm trễ là điều quan trọng nhất ở nhũ nhi; QĐ 2058/2020 bài 35 mục 3.1.2 (tr. 186): hội chứng West (co thắt gấp trẻ em). Không phải 'giật mình': giật mình sinh lý không thành loạt đều nhịp, không tăng dần, không kèm thoái lui; video là bằng chứng quyết định (NICE NG217 mục 1.2.1).",
+     "Định nghĩa động kinh (ILAE 2014 Bảng 1): ≥ 2 cơn không do yếu tố khởi phát cách > 24 giờ, hoặc 1 cơn + nguy cơ tái phát ≥ 60%, hoặc hội chứng động kinh; chuỗi cơn trong 24 giờ coi là một cơn. Xác nhận hội chứng cần điện não (QĐ 2058/2020 bài 35 mục 3.1.4a), thuộc tuyến trên; không dùng điện não để loại trừ (NICE NG217 mục 1.2.6).",
+     "Loại trừ: ngất (không mất trương lực, điện tim bình thường); TIA là thiếu máu não khu trú cấp, tỷ lệ ở nhũ nhi không có trong tài liệu đã tải (QĐ 5331/2020); hạ đường huyết (4,9 mmol/L; NICE NG217 mục 1.2.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển khẩn trong 24 giờ, gọi điện trước (NICE NG217 mục 6.3.1). Thuốc đặc hiệu (prednisolon liều cao + vigabatrin) do bác sĩ thần kinh nhi chỉ định (mục 6.3.4–6.3.5), trước khi dùng prednisolon phải nói tác dụng phụ, xét nghiệm kháng thể thủy đậu, phát thẻ steroid (mục 6.3.7). Phòng khám không kê; QĐ 2058/2020 bài 35 mục 4.1 (tr. 188) chưa dùng thuốc khi chưa xác định chắc loại cơn.",
+     "Từ chối truyền dịch bằng lập luận nguy cơ – lợi ích: bé không mất nước, truyền dịch không cắt co thắt, tốn thời gian chuyển tuyến; nguy cơ cụ thể ở nhũ nhi không có trong tài liệu đã tải. Câu thay thế: 'Chai nước không làm hết giật được. Thứ giúp con nhanh nhất là điện não và thuốc ở bệnh viện Nhi hôm nay.'"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc chống động kinh, thuốc an thần hay dịch truyền tại phòng khám",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "QĐ 2058/2020 bài 35 mục 4.1 (tr. 188): chỉ dùng thuốc kháng động kinh khi đã xác định chắc loại cơn và hội chứng; NICE NG217 mục 6.3.1, 6.3.4: điều trị đặc hiệu do bác sĩ thần kinh nhi tuyến ba. Ngưng ibuprofen tự mua; liều ibuprofen nhũ nhi: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Đi ngay hôm nay đến khoa thần kinh nhi bệnh viện Nhi tỉnh (35 km), mang video và giấy chuyển; phòng khám đã gọi trước (NICE NG217 mục 6.3.1: trong 24 giờ).",
+     "Quay phim mọi chuỗi giật, ghi giờ và số lần; cho bé nằm ngửa trên mặt phẳng, không bế tung, không lắc (NICE NG217 mục 1.1.8).",
+     "Gọi 115 nếu co giật toàn thân kéo dài từ 5 phút, tím, ngừng thở, li bì khó đánh thức (NICE NG217 mục 7.1.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 10 ngày",
+   "tiep_don": "Chị Nhàn bế bé Nghi tái khám sau 10 ngày, mang giấy ra viện của bệnh viện Nhi tỉnh: bé nằm 4 ngày, đã làm điện não giấc ngủ và MRI sọ não, được cho thuốc về nhà (prednisolon liều cao và vigabatrin), thẻ steroid, hẹn điện não giấc ngủ lần hai sau 2 ngày. Chị nói bé vẫn giật, 'thuốc chưa ăn thua', bú kém, xin truyền nước. Cân 7,8 kg. Nhiệt 36,9 °C, mạch 132 l/p, nhịp thở 34 l/p, SpO₂ 99%, huyết áp 98/58 mmHg.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "chuyen_tuyen": "Đưa bé trở lại bệnh viện Nhi ngay hôm nay vì 'thuốc không hiệu quả' trong khi toa chưa được dùng đủ: tuyến trên có thể coi là thất bại điều trị bậc một và chuyển sang thuốc bậc hai (NICE NG217 mục 6.3.10–6.3.11) dù nguyên nhân là liều thấp. Cần sửa cách dùng thuốc, gọi báo bác sĩ điều trị và giữ lịch điện não ngày kia (mục 6.3.2); mẹ mất thêm một ngày công.",
+    "ve_hen": "Cho về hẹn 2–3 tuần: không ai đo huyết áp, đường niệu hằng tuần khi dùng prednisolon (NICE NG217 mục 6.3.8, 6.3.2: xem lại ít nhất mỗi tuần) và không ai sửa cách cho thuốc nên co thắt tiếp tục, bé tiếp tục chậm phát triển.",
+    "nhap_vien": "Nhập viện chỉ để 'truyền nước, chờ thuốc ngấm' theo yêu cầu của mẹ: không mất nước, không có chỉ định, tốn kém mà nguyên nhân thật (cách cho thuốc) chưa được sửa (QĐ 2058/2020 bài 35 mục 4.1, tr. 188)."
+   },
+   "loi_mo": "Bác sĩ ơi, em cho cháu uống thuốc bệnh viện rồi mà cháu vẫn giật, có khi còn nhiều hơn. Cháu bú kém, quấy hoài. Bác sĩ cho cháu truyền chai nước để có sức đi, em cũng cần giấy để nghỉ thêm mấy bữa.",
+   "sinh_hieu": {
+    "mach": 132,
+    "ha": "98/58",
+    "nhiet": "36,9",
+    "nhip_tho": 34,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tien_trinh",
+     "noi_dung": "Bé nằm Khoa Thần kinh bệnh viện Nhi 4 ngày. Giấy ra viện: điện não giấc ngủ có loạn nhịp đồng bộ kiểu hypsarrhythmia; MRI sọ não không thấy tổn thương cấu trúc rõ; đã xét nghiệm kháng thể thủy đậu; chẩn đoán hội chứng co thắt trẻ nhỏ. Thuốc về nhà: prednisolon liều cao uống chia 2 lần và vigabatrin uống 2 lần mỗi ngày; có thẻ steroid.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau chuyển tuyến: chẩn đoán, thuốc, lịch hẹn"
+    },
+    {
+     "id": "tan_suat",
+     "noi_dung": "Từ khi về nhà, bé vẫn giật mỗi ngày 3–4 chuỗi, mỗi chuỗi 10–15 cái, không giảm so với trước khi nằm viện; có hôm nhiều hơn vì bé quấy. Bé không có cơn dạng khác (không co giật cả người, không lệch mắt một bên).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần suất chuỗi co thắt không giảm"
+    },
+    {
+     "id": "thuoc_tuan_thu",
+     "noi_dung": "Prednisolon: từ ngày thứ ba ở nhà chị chỉ cho uống một nửa liều ghi trong toa, vì sợ 'thuốc nội tiết làm con tròn mặt, yếu xương, đổ bệnh' theo lời bà nội và một người quen. Vigabatrin: cho đủ 2 lần mỗi ngày đúng toa. Chị không nói điều này với ai ở bệnh viện.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Giảm nửa liều prednisolon: không tuân thủ toa",
+     "dieu_kien_lo": "Hỏi chung 'bé uống thuốc đủ chưa' chị nói 'đủ, đúng hết'. Chỉ lộ khi bác sĩ hỏi từng thuốc: cho bao nhiêu mỗi lần, mấy lần mỗi ngày, bao nhiêu ngày, hoặc yêu cầu xem toa và chai thuốc, hoặc hỏi nỗi lo về thuốc.",
+     "nhieu": 1
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Bé quấy hơn, bú giảm nhẹ (còn khoảng 4 cữ), mặt hơi tròn. Không sốt, không ho, không nôn, phân vàng, tiểu như thường; không ai trong nhà bị thủy đậu hay zona.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ và dấu hiệu nhiễm trùng trong khi dùng steroid"
+    },
+    {
+     "id": "ibuprofen_tiep",
+     "noi_dung": "Mỗi khi bé quấy, chị vẫn cho ibuprofen siro, khoảng 1–2 lần mỗi ngày, vì nghĩ bé đau; không nói với bệnh viện.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tiếp tục ibuprofen tự mua cùng lúc với steroid",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi cụ thể thuốc tự mua, thuốc hạ sốt hoặc giảm đau, hoặc 'bé quấy thì chị làm gì'.",
+     "nhieu": 1
+    },
+    {
+     "id": "lich_hen",
+     "noi_dung": "Hẹn điện não giấc ngủ lần hai tại bệnh viện Nhi sau 2 ngày; bệnh viện dặn đo huyết áp và thử nước tiểu hằng tuần, mẹ nhờ phòng khám gần nhà làm giúp. Có số điện thoại khoa thần kinh nhi trên giấy ra viện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lịch EEG lần hai và theo dõi hằng tuần"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Chị đã hết phép; công ty cần giấy của phòng khám mới cho nghỉ tiếp có lương; chị vẫn nghĩ truyền một chai nước thì con 'có sức, thuốc ngấm' và chị bớt lo.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật: giấy nghỉ ốm tiếp; đòi truyền dịch",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi mẹ có cần giấy tờ gì, công việc thế nào, hoặc vì sao mẹ muốn truyền.",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 7,8 kg (tăng 200 g sau 10 ngày), dài 67,5 cm, vòng đầu 42,7 cm. Bé tỉnh, quấy nhẹ, mặt hơi tròn; niêm mạc ẩm, không tưa, mắt không trũng, mao mạch hồi sắc 2 giây; không phù, không nhiễm trùng da.",
+     "k": 1,
+     "hien": "Cân 7,8 kg. Tỉnh, quấy nhẹ, mặt hơi tròn. Mắt không trũng, niêm mạc ẩm."
+    },
+    "than_kinh": {
+     "a": "Trong lúc khám bé có một chuỗi 8 lần gập người ra trước, hai tay giơ lên, mỗi lần khoảng 1 giây, cách nhau 5 giây, rồi bé khóc. Ngoài cơn: giảm trương lực thân nhẹ, theo vật kém, ít cười đáp, chi đối xứng, không dấu thần kinh khu trú.",
+     "k": 1,
+     "hien": "Quan sát được một chuỗi 8 lần gập người, tay giơ lên, mỗi lần khoảng 1 giây. Ngoài cơn bé kém theo vật, ít cười."
+    },
+    "da": {
+     "a": "Da hồng, không ban, không phát ban bọng nước (không thủy đậu hay zona), không nhiễm trùng da.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "que_nt": {
+     "v": "e",
+     "r": "Glucose âm tính, ceton âm tính, protein âm tính, bạch cầu và nitrit âm tính.",
+     "n": "NICE NG217 mục 6.3.8: theo dõi đường niệu hằng tuần khi dùng prednisolon."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "5,2 mmol/L (khoảng 1 giờ sau bú)",
+     "n": "Bổ sung khi dùng steroid và bú kém; ngưỡng ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "dien_nao": {
+     "v": "a",
+     "r": "Phòng khám không có máy điện não. Điện não giấc ngủ lần hai đã hẹn tại bệnh viện Nhi sau 2 ngày.",
+     "n": "NICE NG217 mục 6.3.2: lặp lại điện não giấc ngủ 2 tuần sau bắt đầu điều trị, tuyến ba làm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng co thắt trẻ nhỏ đã chẩn đoán (điện não hypsarrhythmia), chưa cắt cơn sau khoảng 8 ngày vì không tuân thủ toa: chỉ dùng nửa liều prednisolon",
+     "ok": 1,
+     "n": "Còn 3–4 chuỗi mỗi ngày, quan sát tại phòng khám; hỏi từng thuốc mới lộ nửa liều. QĐ 2058/2020 bài 35 mục 4.1 (tr. 188): không cắt được cơn thì xét chọn thuốc sai hay bệnh nhân không tuân thủ."
+    },
+    {
+     "t": "Thất bại điều trị bậc một thật sự (kháng thuốc)",
+     "n": "Chưa kết luận được khi chưa dùng đủ liều (NICE NG217 mục 6.3.10 chỉ bàn thuốc bậc hai khi bậc một không thành công)."
+    },
+    {
+     "t": "Tác dụng phụ steroid hoặc vigabatrin nặng",
+     "n": "Quấy và mặt tròn nhẹ; không sốt, không ói, huyết áp 98/58, đường niệu âm tính. Ngưỡng bình thường ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm trùng mới khi dùng steroid; mất nước, hạ đường huyết do bú kém",
+     "n": "Không sốt, không bọng nước, không tưa, không tiếp xúc thủy đậu (NICE NG217 mục 6.3.7); bé bú 4 cữ, tiểu như thường, đường huyết 5,2 mmol/L: không có chỉ định truyền dịch (không có trong tài liệu đã tải)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi từng thuốc (liều, số lần, số ngày), xem toa và thẻ steroid để tìm nguyên nhân không đỡ trước khi nói thuốc thất bại",
+     "v": "c",
+     "n": "QĐ 2058/2020 bài 35 mục 4.1 (tr. 188); NICE NG217 mục 6.3.10."
+    },
+    {
+     "t": "Giải thích vì sao phải dùng đủ liều prednisolon, trả lời từng nỗi sợ; không tự giảm hay ngưng; báo ngay khoa thần kinh nhi nếu có tác dụng phụ",
+     "v": "c",
+     "n": "NICE NG217 mục 6.3.7: trao đổi tác dụng phụ steroid, thẻ steroid, khi nào đi khám. Liều theo BNF trẻ em (mục 6.3.8): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gọi khoa thần kinh nhi báo bé dùng nửa liều prednisolon trong 8 ngày, co thắt chưa giảm; giữ lịch điện não giấc ngủ lần hai",
+     "v": "c",
+     "n": "NICE NG217 mục 6.3.10 (trao đổi bác sĩ động kinh nhi tuyến ba); mục 6.3.2 (điện não giấc ngủ lặp lại 2 tuần sau bắt đầu thuốc)."
+    },
+    {
+     "t": "Đo huyết áp và thử đường niệu hằng tuần tại phòng khám trong lúc dùng prednisolon; hẹn tái khám sau 3 ngày rồi mỗi tuần",
+     "v": "c",
+     "n": "NICE NG217 mục 6.3.8, 6.3.2."
+    },
+    {
+     "t": "Từ chối truyền dịch; cho bú nhiều cữ nhỏ, theo dõi tã ướt",
+     "v": "c",
+     "n": "Không dấu mất nước; truyền dịch không có trong tài liệu đã tải cho bệnh này."
+    },
+    {
+     "t": "Dặn ngưng ibuprofen tự mua khi dùng prednisolon",
+     "v": "a",
+     "n": "Tương tác và liều nhũ nhi: không có trong tài liệu đã tải; thận trọng của người soạn."
+    },
+    {
+     "t": "Cấp giấy xác nhận bé đang điều trị, cần mẹ chăm và tái khám hằng tuần, đúng thực tế",
+     "v": "a",
+     "n": "TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm)."
+    },
+    {
+     "t": "Đổi sang thuốc bậc hai (levetiracetam, valproat, topiramat) tại phòng khám",
+     "v": "w",
+     "n": "NICE NG217 mục 6.3.10–6.3.11: thuốc bậc hai do tuyến ba quyết định sau khi bậc một không thành công."
+    },
+    {
+     "t": "Truyền dịch theo yêu cầu rồi cho về, hẹn tái khám 3 tuần",
+     "v": "w",
+     "n": "Không có chỉ định (không có trong tài liệu đã tải); bỏ lỡ theo dõi hằng tuần (NICE NG217 mục 6.3.2, 6.3.8)."
+    },
+    {
+     "t": "Tự ngưng prednisolon vì mẹ lo tác dụng phụ",
+     "v": "h",
+     "n": "Mất cơ hội cắt co thắt; ngưng corticoid theo hướng dẫn tuyến ba (NICE NG217 mục 6.3.8; hướng dẫn suy thượng thận không có trong tài liệu đã tải)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng co thắt trẻ nhỏ đã xác nhận ở tuyến ba, đang điều trị bậc một ngày thứ 8",
+     "Không đỡ vì không tuân thủ: mẹ dùng nửa liều prednisolon từ ngày thứ ba; vigabatrin đủ liều",
+     "Tác dụng phụ steroid nhẹ (quấy, bú giảm, mặt tròn); huyết áp 98/58, đường niệu âm tính; chưa nhiễm trùng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) đọc giấy ra viện, lịch hẹn; (2) hỏi từng thuốc, hỏi bé quấy thì mẹ làm gì, hỏi nỗi sợ về thuốc; (3) khám cân, huyết áp, miệng, da, thần kinh; (4) que thử nước tiểu, đường huyết mao mạch; (5) kết luận 'không đỡ do dùng thiếu liều' trước khi nói kháng thuốc; (6) xử trí.",
+     "Truy nguyên 'không đỡ': sai chẩn đoán? (không: điện não, MRI đã làm); sai thuốc? (đúng hướng NICE NG217 mục 6.3.4); không tuân thủ? (có: nửa liều prednisolon); biến chứng? (chưa); đề kháng? (chưa đánh giá được vì chưa đủ liều). QĐ 2058/2020 bài 35 mục 4.1 (tr. 188) dặn xét chọn thuốc sai hoặc bệnh nhân không tuân thủ.",
+     "Hỏi chung 'uống đủ chưa' sẽ nhận 'đủ'; chỉ hỏi từng thuốc và 'chị lo gì về thuốc' mới ra. Đây là điểm gãy thứ hai (điểm gãy thứ nhất: 10 ngày co thắt chưa được nhận ra trước lượt 1). Kết luận thất bại sớm làm bé nhận thuốc bậc hai không cần thiết (NICE NG217 mục 6.3.10)."
+    ],
+    "phan_tich_xu_tri": [
+     "Gọi tuyến trên cùng ngày (NICE NG217 mục 6.3.10); giữ lịch điện não giấc ngủ lần hai (mục 6.3.2); tái khám tại chỗ sau 3 ngày rồi mỗi tuần để đo huyết áp, đường niệu (mục 6.3.2, 6.3.8).",
+     "Từ chối truyền dịch: bé còn bú, tiểu bình thường, đường huyết 5,2 mmol/L. Câu thay thế: 'Con có sức là nhờ thuốc được uống đủ, chai nước không giúp thuốc ngấm nhanh hơn; em sẽ giúp chị cho thuốc đúng và theo dõi mỗi tuần.' Nguy cơ truyền dịch cụ thể: không có trong tài liệu đã tải.",
+     "Giấy nghỉ ốm đáp ứng lý do thật (TT 56/2017 như trên). Thuốc bậc hai do tuyến ba quyết định (NICE NG217 mục 6.3.10–6.3.11)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Prednisolon (thuốc tuyến ba đã kê)",
+      "ham_luong": "Theo toa bệnh viện Nhi; hàm lượng không có trong tài liệu đã tải",
+      "lieu": "Dùng đủ toa tuyến ba, không giảm nửa liều; liều theo BNF trẻ em (NICE NG217 mục 6.3.8), không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Chia 2 lần theo toa",
+      "so_ngay": "Theo bác sĩ thần kinh nhi, không tự ngưng",
+      "ghi_chu": "NICE NG217 mục 6.3.4, 6.3.7, 6.3.8 (đang dùng, giữ nguyên toa tuyến ba). Giữ thẻ steroid; theo dõi huyết áp và đường niệu hằng tuần."
+     },
+     {
+      "thuoc": "Vigabatrin (thuốc tuyến ba đã kê)",
+      "ham_luong": "Theo toa bệnh viện Nhi; hàm lượng không có trong tài liệu đã tải",
+      "lieu": "Giữ nguyên toa; tăng liều do bác sĩ thần kinh nhi quyết định nếu co thắt không ngừng (NICE NG217 mục 6.3.9)",
+      "duong": "Uống",
+      "thoi_diem": "2 lần mỗi ngày theo toa",
+      "so_ngay": "Theo bác sĩ thần kinh nhi",
+      "ghi_chu": "NICE NG217 mục 6.3.4, 6.3.9 (đang dùng, giữ nguyên). Liều theo BNF trẻ em: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Ngưng ibuprofen siro tự mua",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không dùng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Từ hôm nay",
+      "ghi_chu": "Tương tác với prednisolon và liều nhũ nhi: không có trong tài liệu đã tải (đã ngưng là thận trọng của người soạn, không có trong tài liệu)."
+     }
+    ],
+    "dan_do": [
+     "Cho bé uống ĐỦ cả hai thuốc đúng toa, không chia đôi liều, không bỏ buổi; ghi giờ cho thuốc vào sổ (NICE NG217 mục 6.3.7).",
+     "Đi điện não giấc ngủ lần hai ngày kia tại bệnh viện Nhi, mang thẻ steroid và sổ ghi chuỗi co thắt (NICE NG217 mục 6.3.2).",
+     "Tái khám phòng khám sau 3 ngày rồi mỗi tuần: đo huyết áp, thử nước tiểu (NICE NG217 mục 6.3.8).",
+     "Đến ngay nếu sốt, tiếp xúc người bị thủy đậu hoặc zona, nổi bọng nước, nôn nhiều, bỏ bú, li bì, hoặc co giật toàn thân từ 5 phút (NICE NG217 mục 6.3.7, 7.1.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 6 tuần",
+   "tiep_don": "Chị Nhàn bế bé Nghi, nay 9 tháng, nặng 8,6 kg, tái khám sau 6 tuần. Chị nói bé từng hết giật hơn 3 tuần, nay 3 ngày nay giật lại, sáng nay còn có một cơn lạ hơn, chị 'thấy thuốc không ăn thua nữa'; bé bú kém, chị lại xin truyền nước và xin thêm giấy. Nhiệt 36,9 °C, mạch 124 l/p, nhịp thở 32 l/p, SpO₂ 99%, huyết áp 94/56 mmHg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bé Nghi về nhà hẹn 1–2 tuần dù co thắt đã quay lại và có thêm loại cơn mới. NICE NG217 mục 6.3.3: co thắt tái phát phải lặp lại điện não giấc ngủ; mục 1.1.2: cơn tái phát sau thuyên giảm cần chuyển khẩn. Thêm ngày co thắt, bé vốn chậm vận động, mẹ chưa có kế hoạch xử trí cơn kéo dài.",
+    "theo_doi": "Phòng khám tự tăng liều hoặc thêm thuốc qua điện thoại rồi theo dõi: nâng liều vigabatrin phải bàn với bác sĩ thần kinh nhi (NICE NG217 mục 6.3.9), thuốc bậc hai do tuyến ba chọn (mục 6.3.10–6.3.11); cơn mới chưa được điện não hay MRI lần hai (mục 1.3.6).",
+    "nhap_vien": "Nhập bệnh viện huyện hoặc giữ truyền dịch 'cho có sức': không có chỉ định (không có trong tài liệu đã tải), nơi nhập không có điện não giấc ngủ nên phải chuyển tiếp muộn hơn.",
+    "cap_cuu": "Gọi 115 như bé đang co giật là quá tay: cơn sáng nay chỉ 1–2 phút, đã hết, bé tỉnh dần, SpO₂ 99%, không phải trạng thái động kinh (NICE NG217 mục 7.1.1: từ 5 phút). Cần đánh giá chuyên khoa 24 giờ và kế hoạch cấp cứu cá nhân (mục 7.3.3)."
+   },
+   "loi_mo": "Bác sĩ ơi, cháu hết giật mấy tuần rồi mà mấy bữa nay giật lại, sáng nay còn trợn mắt sang một bên, tay trái giật, em hết hồn. Thuốc không ăn thua rồi. Cháu bú ít, bác sĩ cho truyền chai nước, với cho em xin giấy nghỉ thêm.",
+   "sinh_hieu": {
+    "mach": 124,
+    "ha": "94/56",
+    "nhiet": "36,9",
+    "nhip_tho": 32,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bé hết co thắt khoảng 3 tuần sau lần tái khám trước. Ba ngày nay co thắt trở lại, 2 chuỗi mỗi ngày, mỗi chuỗi 6–10 cái, hay vào buổi sáng khi vừa thức. Sáng nay còn một cơn khác: mắt trợn lệch sang trái, tay trái giật nhịp khoảng 1–2 phút, rồi bé mệt, ngủ gà khoảng 20 phút mới tỉnh. Không sốt, không ho, không nôn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: co thắt tái phát và một cơn khác kiểu"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Sau khi được hướng dẫn, chị cho bé uống đủ cả hai thuốc đúng toa, ghi sổ từng buổi, không bỏ bữa nào. Bệnh viện cho giảm dần rồi ngưng prednisolon theo lịch khoảng 1 tuần trước; vigabatrin vẫn uống đủ 2 lần. Chị không còn cho ibuprofen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt; prednisolon đã ngưng theo lịch, vigabatrin còn"
+    },
+    {
+     "id": "dien_nao_2",
+     "noi_dung": "Điện não giấc ngủ lần hai: giấy bệnh viện ghi cải thiện rõ, hết dạng hypsarrhythmia; sau đó bé hết co thắt. Chị chưa được dặn thuốc cắt cơn tại nhà, chưa có kế hoạch cấp cứu viết sẵn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng lần đầu; chưa có kế hoạch cấp cứu cá nhân"
+    },
+    {
+     "id": "co_moi",
+     "noi_dung": "Cơn sáng nay chỉ xảy ra một lần: bé đang nằm, mắt và đầu quay sang trái, tay trái giật đều khoảng 1–2 phút, mặt hơi tím nhẹ, không ngừng thở; xong ngủ gà. Chị có quay lại được phần cuối. Trước đây không có cơn kiểu này.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Loại cơn mới: khu trú, lệch mắt – đầu trái, giật tay trái",
+     "dieu_kien_lo": "Hỏi chung 'có gì khác không' chị chỉ nói 'giật lại'. Chỉ kể chi tiết khi bác sĩ hỏi cơn sáng nay ra sao, có cơn nào khác kiểu không, hoặc xin xem video.",
+     "nhieu": 1
+    },
+    {
+     "id": "phat_trien",
+     "noi_dung": "Bé chưa lật lại được, ngồi chưa vững, bập bẹ ít, cười ít hơn so với bạn cùng tháng; sau khi hết co thắt bé có tươi hơn nhưng vẫn chậm. Chị lo vì trước 6 tháng bé lật được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phát triển còn chậm, chưa lấy lại kỹ năng cũ"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Chị đã đi làm lại nhưng bà nội trông con xin nghỉ vì mệt; công ty cần giấy mới cho chị nghỉ thêm; chị vẫn tin truyền một chai nước thì con 'lại sức' sau cơn.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật: giấy nghỉ ốm; đòi truyền dịch",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi ai trông con, mẹ có cần giấy tờ gì, hoặc vì sao mẹ muốn truyền.",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Cân 8,6 kg, dài 70 cm, vòng đầu 43,5 cm. Bé tỉnh, hơi mệt, bú hơi kém; mặt hết tròn, niêm mạc ẩm, mắt không trũng, mao mạch hồi sắc 2 giây. Không phù, không sốt.",
+     "k": 1,
+     "hien": "Cân 8,6 kg. Tỉnh, hơi mệt. Niêm mạc ẩm, mắt không trũng."
+    },
+    "than_kinh": {
+     "a": "Trong lúc khám bé có một chuỗi 6 lần gập người ra trước, hai tay giơ lên, mỗi lần khoảng 1 giây, cách nhau 5–6 giây, rồi khóc. Ngoài cơn: giảm trương lực thân nhẹ, chi đối xứng, không liệt khu trú, theo vật tốt hơn lần đầu nhưng chưa lật được, chưa ngồi vững; không dấu thần kinh khu trú sau cơn sáng nay.",
+     "k": 1,
+     "hien": "Quan sát được một chuỗi 6 lần gập người, tay giơ lên, mỗi lần khoảng 1 giây. Ngoài cơn bé chưa lật, chưa ngồi vững."
+    },
+    "tim": {
+     "a": "Tim đều 124 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 124 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "5,0 mmol/L (khoảng 1 giờ sau bú, 5 giờ sau cơn)",
+     "n": "NICE NG217 mục 1.2.3, 7.1.4: loại hạ đường huyết ở bé bú kém sau cơn."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Glucose âm tính, ceton âm tính, protein và bạch cầu âm tính.",
+     "n": "Nền sau ngưng prednisolon; không bắt buộc."
+    },
+    "dien_nao": {
+     "v": "a",
+     "r": "Phòng khám không có máy điện não. Cần điện não giấc ngủ lặp lại ở bệnh viện Nhi.",
+     "n": "NICE NG217 mục 6.3.3: lặp lại điện não giấc ngủ khi co thắt tái phát."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Động kinh ở nhũ nhi: hội chứng co thắt trẻ nhỏ tái phát sau thuyên giảm kèm cơn khu trú mới (lệch mắt – đầu trái, giật tay trái), theo dõi dài hạn; tuân thủ thuốc; chậm phát triển",
+     "ok": 1,
+     "n": "Co thắt hết hơn 3 tuần rồi tái phát, quan sát tại phòng khám; cơn mới một bên 1–2 phút. NICE NG217 mục 6.3.3 và phần giải thích; ILAE 2014 (Bảng 1): đủ tiêu chuẩn động kinh; ILAE 2025: cơn khu trú."
+    },
+    {
+     "t": "Hạ đường huyết",
+     "n": "Đường huyết mao mạch 5,0 mmol/L sau bú (NICE NG217 mục 1.2.3; QĐ 2058/2020 bài 35 mục 3.2)."
+    },
+    {
+     "t": "Ngất",
+     "n": "Cơn mới là lệch mắt – đầu và giật tay một bên, không mất trương lực, tim đều (QĐ 2058/2020 bài 35 mục 3.2, tr. 187)."
+    },
+    {
+     "t": "Cơn thiếu máu não thoáng qua (TIA)",
+     "n": "Cơn giật dương tính một bên kèm ngủ gà sau cơn, không yếu liệt khu trú sau cơn; TIA là thiếu máu não cấp (QĐ 5331/2020, mục Đột quỵ thoáng qua, tr. 17–18); tỷ lệ ở nhũ nhi không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Gọi bác sĩ thần kinh nhi bệnh viện Nhi và chuyển bé trong 24 giờ để lặp lại điện não giấc ngủ, đánh giá thuốc, cân nhắc MRI bổ sung và thuốc bậc hai",
+     "v": "c",
+     "n": "NICE NG217 mục 6.3.3 (co thắt tái phát: lặp lại điện não giấc ngủ), 6.3.1, 1.1.2, 1.3.6, 6.3.10–6.3.11, 3.1.4."
+    },
+    {
+     "t": "Hỏi kỹ cơn mới (xem video), kiểm tra tuân thủ từng thuốc, thuốc khác kể cả thuốc nam",
+     "v": "c",
+     "n": "NICE NG217 mục 1.2.1, 7.1.5."
+    },
+    {
+     "t": "Đo đường huyết mao mạch, khám thần kinh sau cơn",
+     "v": "c",
+     "n": "NICE NG217 mục 1.2.3, 7.1.4."
+    },
+    {
+     "t": "Hướng dẫn mẹ xử trí cơn và lập kế hoạch cấp cứu cá nhân với bác sĩ thần kinh nhi; gọi 115 nếu cơn từ 5 phút",
+     "v": "c",
+     "n": "NICE NG217 mục 7.1.1–7.1.3, 7.3.2–7.3.3. Liều nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Từ chối truyền dịch; cho bú nhiều cữ nhỏ",
+     "v": "c",
+     "n": "Đường huyết 5,0 mmol/L, tiểu như thường; truyền dịch không có trong tài liệu đã tải cho bệnh này."
+    },
+    {
+     "t": "Cấp giấy xác nhận bé cần theo dõi động kinh, đúng thực tế",
+     "v": "a",
+     "n": "TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm)."
+    },
+    {
+     "t": "Tăng liều vigabatrin hoặc thêm thuốc chống động kinh tại phòng khám, qua điện thoại",
+     "v": "w",
+     "n": "NICE NG217 mục 6.3.9–6.3.11: do tuyến ba quyết định."
+    },
+    {
+     "t": "Truyền dịch theo yêu cầu rồi cho về",
+     "v": "w",
+     "n": "Không có chỉ định (không có trong tài liệu đã tải); mất thời gian (NICE NG217 mục 6.3.1)."
+    },
+    {
+     "t": "Cho về, hẹn tái khám 1–2 tuần xem co thắt có tự hết không",
+     "v": "h",
+     "n": "NICE NG217 mục 6.3.3, 1.1.2; ILAE 2025 tr. 11."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Động kinh ở nhũ nhi gái 9 tháng: hội chứng co thắt trẻ nhỏ tái phát sau thuyên giảm hơn 3 tuần, kèm cơn khu trú mới (lệch mắt – đầu trái, giật tay trái 1–2 phút)",
+     "Đủ tiêu chuẩn động kinh (ILAE 2014 Bảng 1); tuân thủ thuốc tốt, prednisolon đã ngưng theo lịch, vigabatrin còn dùng",
+     "Chậm phát triển vận động và giao tiếp sau thời gian co thắt chưa được nhận ra",
+     "Đã loại: sốt, nhiễm trùng, hạ đường huyết (5,0 mmol/L); ngất và TIA không phù hợp; chưa có kế hoạch cấp cứu cá nhân"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) hỏi cơn mới từng chi tiết, xem video, tuân thủ từng thuốc, ai trông con, mẹ cần gì; (2) khám cân, thóp, thần kinh, quan sát chuỗi co thắt; (3) đường huyết mao mạch; (4) chẩn đoán; (5) gọi tuyến trên và chuyển.",
+     "Khác lượt 2: mẹ dùng thuốc đủ (loại nguyên nhân không tuân thủ), co thắt hết hơn 3 tuần rồi tái phát khi bỏ prednisolon, và có cơn khu trú mới. NICE NG217 phần giải thích mục 6.3: theo dõi cả tái phát co thắt lẫn loại cơn khác.",
+     "Tiêu chuẩn động kinh: ≥ 2 cơn không do yếu tố khởi phát cách > 24 giờ, hoặc hội chứng động kinh (ILAE 2014 Bảng 1; QĐ 2058/2020 bài 35 mục 1, tr. 184). Hậu quả của việc bỏ sót trước lượt 1 vẫn hiện diện: bé chưa lấy lại kỹ năng; chậm điều trị liên quan kết cục xấu hơn (NICE NG217 phần giải thích mục 6.3; ILAE 2025 tr. 11)."
+    ],
+    "phan_tich_xu_tri": [
+     "Gọi và chuyển trong 24 giờ (NICE NG217 mục 6.3.1, 6.3.3, 1.1.2); tuyến ba làm điện não giấc ngủ lặp lại, MRI bổ sung (mục 1.3.5–1.3.6), thuốc bậc hai nếu cần (mục 6.3.10–6.3.11).",
+     "Kế hoạch cấp cứu cá nhân: cơn từ 5 phút là trạng thái động kinh, midazolam đường má hoặc diazepam trực tràng ngoài bệnh viện nếu chưa có kế hoạch riêng (NICE NG217 mục 7.1.1–7.1.3, 7.3.3); bác sĩ thần kinh nhi kê thuốc và ghi liều.",
+     "Từ chối truyền dịch: 'Con có sức là nhờ ăn bú và thuốc đúng; chai nước không ngăn cơn quay lại. Việc cần nhất là đưa con tới bệnh viện Nhi hôm nay.' Nguy cơ cụ thể ở nhũ nhi: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Vigabatrin (thuốc tuyến ba đã kê)",
+      "ham_luong": "Theo toa bệnh viện Nhi; không có trong tài liệu đã tải",
+      "lieu": "Giữ nguyên toa; không tự tăng liều, tăng liều do bác sĩ thần kinh nhi quyết định (NICE NG217 mục 6.3.9)",
+      "duong": "Uống",
+      "thoi_diem": "2 lần mỗi ngày theo toa",
+      "so_ngay": "Theo bác sĩ thần kinh nhi",
+      "ghi_chu": "NICE NG217 mục 6.3.4, 6.3.9 (đang dùng, giữ nguyên). Liều theo BNF trẻ em: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Thuốc cắt cơn tại nhà (midazolam đường má hoặc diazepam trực tràng) — do bác sĩ thần kinh nhi kê khi lập kế hoạch cấp cứu cá nhân",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải; không tự mua hoặc tự cho",
+      "duong": "Đường má hoặc trực tràng",
+      "thoi_diem": "Chỉ khi cơn co giật kéo dài từ 5 phút, rồi gọi 115",
+      "so_ngay": "Khi có cơn kéo dài, theo kế hoạch",
+      "ghi_chu": "NICE NG217 mục 7.1.1–7.1.3, 7.3.3 (nguồn). Phòng khám không kê hôm nay; tuyến ba thống nhất kế hoạch trong 24 giờ."
+     }
+    ],
+    "dan_do": [
+     "Đi ngay hôm nay, muộn nhất trong 24 giờ, đến khoa thần kinh nhi bệnh viện Nhi; phòng khám gọi trước; mang sổ ghi chuỗi co thắt, video cơn mới, toa thuốc (NICE NG217 mục 6.3.1, 6.3.3).",
+     "Tiếp tục vigabatrin đúng toa, không tự tăng hay ngưng; không cho thuốc nam 'bổ não' khi chưa hỏi bác sĩ (NICE NG217 mục 6.3.9).",
+     "Gọi 115 nếu co giật từ 5 phút, tím, ngừng thở, li bì khó đánh thức; thuốc cắt cơn chỉ dùng khi bác sĩ tuyến ba đã kê và hướng dẫn (NICE NG217 mục 7.1.1–7.1.3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Nghi được đánh giá lại ở bệnh viện Nhi trong ngày: điện não giấc ngủ có co thắt tái phát kèm sóng khu trú; tuyến ba đổi sang thuốc bậc hai và lập kế hoạch cấp cứu cá nhân. Co thắt kiểm soát lại sau vài tuần, nhưng đến 12 tháng bé còn chậm vận động và ngôn ngữ (chưa ngồi vững, ít bập bẹ), cần thuốc chống động kinh lâu dài và tái khám thần kinh nhi mỗi tháng; chẩn đoán thành động kinh theo dõi dài hạn. Điểm gãy trong chuỗi quyết định: (1) 10 ngày mẹ gọi co thắt là 'giật mình' sau buổi ra sân bóng; (2) khám nhi tư gán 'giật mình/trào ngược', không xem video, không hẹn tái khám; (3) ibuprofen tự cho khi bé quấy, không ai hỏi; (4) mẹ giảm nửa liều prednisolon 8 ngày vì sợ tác dụng phụ và không nói. Cộng lại hơn 3 tuần chậm điều trị đầy đủ; chậm điều trị liên quan tiên lượng phát triển xấu hơn (NICE NG217 phần giải thích mục 6.3; ILAE 2025 tr. 11).",
+ "nhieu": [
+  "Đòi truyền dịch: cả ba lượt mẹ nhắc lại. Không tài liệu đã tải nào chỉ định truyền dịch cho động kinh hay co thắt trẻ nhỏ; từ chối bằng lập luận nguy cơ – lợi ích và câu thay thế ở dap_an. Truyền theo yêu cầu chấm 'w', ghi 'không có trong tài liệu đã tải' như sổ mâu thuẫn đã ghi nhận.",
+  "Lý do thật xin giấy nghỉ ốm: công ty may cần giấy cơ sở y tế; chỉ lộ khi hỏi nghề, nỗi lo, giấy tờ cần. Giải quyết bằng giấy xác nhận đúng thực tế (TT 56/2017, nguồn bổ sung tự tìm)."
+ ],
+ "bai_hoc_bien": [
+  "Co thắt trẻ nhỏ hay bị gọi nhầm 'giật mình/trào ngược': chuỗi gập người 1 giây lặp 5–10 giây thành loạt khi vừa thức, kèm giảm cười đáp; xin video (NICE NG217 mục 1.2.1; ILAE 2025 tr. 11–12).",
+  "'Không đỡ': hỏi từng thuốc, từng liều, từng nỗi sợ trước khi kết luận thuốc thất bại (QĐ 2058/2020 bài 35 mục 4.1, tr. 188; NICE NG217 mục 6.3.10).",
+  "Dùng prednisolon: huyết áp, đường niệu hằng tuần, thẻ steroid, xem lại hằng tuần, điện não lại sau 2 tuần (NICE NG217 mục 6.3.2, 6.3.7, 6.3.8); sau thuyên giảm xem lại mỗi tháng, tái phát thì lặp điện não (mục 6.3.3)."
+ ],
+ "diem_nho": [
+  "Nghi co thắt trẻ nhỏ < 2 tuổi: 24 giờ hỏi ý kiến và chuyển khẩn, điện não giấc ngủ (NICE NG217 mục 6.3.1).",
+  "Bậc một: prednisolon liều cao + vigabatrin, trừ nguy cơ cao tác dụng phụ steroid (chỉ vigabatrin) hoặc xơ cứng củ (vigabatrin trước) (mục 6.3.4–6.3.6); bậc hai do tuyến ba (6.3.10–6.3.11). Liều: BNF trẻ em, không có trong tài liệu đã tải."
+ ],
+ "nguon": [
+  "NICE NG217 2022 (TL-0466) – ĐÃ ĐỌC mục 1.1.2, 1.1.8, 1.2.1–1.2.6, 1.3.5–1.3.6, 3.1.4, 6.3 (6.3.1–6.3.11 và phần giải thích), 7.1.1–7.1.5, 7.3.",
+  "ILAE 2025 – Updated classification of epileptic seizures (Epilepsia 2025;66:1804; TL-0456) – tr. 11–12.",
+  "ILAE 2014 – A practical clinical definition of epilepsy (Epilepsia 2014;55:475; TL-0490) – Bảng 1.",
+  "Bộ Y tế – QĐ 2058/QĐ-BYT 2020 (TL-0443) bài 35: mục 1 (tr. 184), 3.1.2 (tr. 186), 3.1.4 (tr. 187), 3.2 (tr. 187), 4.1 (tr. 188).",
+  "Bộ Y tế – QĐ 5331/QĐ-BYT 2020 (TL-0030) mục Đột quỵ thoáng qua (tr. 17–18).",
+  "TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c – nguồn bổ sung tự tìm, đã ghi trong sổ mâu thuẫn; chưa đối chiếu bản hiện hành sau Luật BHXH 2024."
+ ],
+ "ghi_chu_bien_tap": [
+  "18/10/2026 – viết: Sonnet. Bản 1. Nhũ nhi gái 7 tháng, 3 lượt, hội chứng co thắt trẻ nhỏ (động kinh theo dõi); không có xét nghiệm nào; đòi truyền dịch; lý do thật xin giấy nghỉ ốm; ibuprofen tự mua; khởi phát sau sân bóng. ket_luan: chuyển tuyến – theo dõi – chuyển tuyến. Kết cục: biến chứng do bỏ sót.",
+  "Tài liệu đã đọc: TL-0466 (NICE NG217 mục 1.1, 1.2, 1.3, 3.1, 6.3, 7.1–7.3), TL-0456 (tr. 11–12), TL-0490 (Bảng 1), TL-0443 (bài 35), TL-0030 (TIA).",
+  "Chỗ thiếu tài liệu: liều prednisolon, vigabatrin, midazolam đường má, diazepam trực tràng cho nhũ nhi (BNF trẻ em); liều ibuprofen nhũ nhi và tương tác steroid; ngưỡng huyết áp, đường huyết nhũ nhi; tỷ lệ TIA ở nhũ nhi; nguy cơ truyền dịch không chỉ định; thủ tục giấy nghỉ ốm hiện hành; tư thế nằm nghiêng.",
+  "Diễn tiến tại bệnh viện Nhi (điện não, MRI, thuốc bậc hai, tiên lượng 12 tháng) là hư cấu hợp lý, không trích nguồn."
+ ]
+}
