@@ -1,0 +1,576 @@
+{
+ "ma_ca": "TM-0250",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_viem_hong_amidan_man",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm họng - amidan mạn",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư vòm/họng",
+   "Trào ngược"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Chủ quán ăn",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Quốc Bảo",
+  "tuoi": 29,
+  "gioi": "Nam",
+  "nghe": "Chủ quán ăn (bún bò), tự nấu và bán hàng",
+  "can_nang": 68,
+  "chieu_cao": 172,
+  "xung_ho": "Anh Bảo xưng 'em', gọi bác sĩ là 'bác sĩ'. Bà Nga xưng 'tôi' hoặc 'cô', gọi con là 'thằng Bảo' hoặc 'nó', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Anh Bảo trầm, sĩ diện, thương mẹ, làm quán từ 4 giờ sáng đến 21 giờ, hay lo xa, im lặng khi có mẹ ngồi cạnh, sợ khách biết mình bệnh. Bà Nga 57 tuổi, phụ quán, thương con, nói nhiều, quen quyết định thay con.",
+  "kieu_nhieu": "Thân nhân trả lời thay: bà Nga trả lời gần hết mọi câu, ngắt lời con ('nó có biết gì đâu bác sĩ'), nói điều bà đoán như điều đã chắc ('nó có uống rượu gì đâu', 'nó đâu có bệnh gì khác'). Anh Bảo chỉ nói thật những chuyện riêng tư (quan hệ tình dục, nỗi lo thật, số lon bia) khi bác sĩ mời bà ra ngoài hoặc hỏi riêng anh; còn có mẹ ngồi cạnh thì anh gật đầu theo mẹ hoặc nói 'dạ không'. Hỏi lại lần hai bằng câu hỏi cụ thể thì anh mới đính chính chuyện thuốc giảm đau hay bia.",
+  "nguoi_nha": "Mẹ, bà Lê Thị Nga, 57 tuổi, phụ quán, ngồi sát con. Bà biết: con đau họng khoảng hai tuần, hôi miệng, khạc 'hột trắng', bà mua paracetamol cho con uống, mấy tuần nay con đòi ăn cơm và bát đũa riêng. Bà KHÔNG biết chuyện bạn gái mới và quan hệ tình dục, số bia con uống, hay nỗi lo bệnh lây của con. Bà nghĩ con 'nóng trong, khói bếp' và muốn có kháng sinh 'cho dứt'.",
+  "ten_nguoi_nha": "Mẹ (bà Nga)",
+  "ngoai_hinh": {
+   "da": "#c99a73",
+   "toc": "#1c1714",
+   "kieuToc": "ngan",
+   "ao": "#4f6a85",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#bd8f6c",
+    "toc": "#6e6a68",
+    "kieuToc": "bui",
+    "ao": "#8c5f5f",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 2,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau họng hai tuần, hôi miệng, uống thuốc giảm đau thì đỡ, hết thuốc lại đau (mẹ đưa đi)",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám tư nhân cơ sở chỉ làm được xét nghiệm cơ bản: công thức máu, sinh hóa nền (đường, ure, creatinin, điện giải, AST/ALT, CRP) và tổng phân tích nước tiểu. Không có xét nghiệm nhanh, nuôi cấy hay huyết thanh chuyên sâu (liên cầu, ASLO, HIV, giang mai, lậu/chlamydia); không X-quang, siêu âm, CT, nội soi tiêu hóa. Còn dùng được: ống nghe, đèn soi họng và nội soi ống mềm mũi - họng - thanh quản do bác sĩ tự thao tác. Xét nghiệm chuyên sâu phải giới thiệu sang cơ sở khác."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Phạm Quốc Bảo, 29 tuổi, chủ quán bún bò, đến lúc 14 giờ chiều (sau giờ cao điểm) cùng mẹ vì đau họng và hôi miệng. Bà Nga ngồi sát bên và trả lời gần hết mọi câu; anh ngồi im, mắt nhìn xuống. Sinh hiệu: nhiệt độ 36,7 °C, mạch 74 l/p, HA 118/74 mmHg, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 68 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Bảo bị giữ lại nhập viện 'theo dõi gan, truyền kháng sinh và tìm bệnh lây', dù AST, ALT bình thường (QĐ 3610/2015, mục 3.2, tr. 21) và không có đợt cấp cần kháng sinh (QĐ 5643/2015, mục 4.1, tr. 144; WHO AWaRe 2022, tr. 46). Quán đóng cửa mấy ngày, bà Nga biết hết chuyện con giấu, viện phí tăng, anh tin mình nhiễm bệnh nặng. Kháng sinh không giúp viêm amidan mạn mà vẫn có thể gây tác dụng phụ (ACP/CDC 2016, tr. 425).",
+    "chuyen_tuyen": "Anh bị chuyển lên bệnh viện tỉnh 'khám chuyên khoa vì nghi ung thư và bệnh lây', dù khám và nội soi tại chỗ không thấy cờ đỏ nào (QĐ 5643/2015, Ung thư vòm tr. 284, Ung thư hạ họng tr. 267). Anh mất một ngày bán hàng và tiền đi lại, mẹ lo hơn, câu 'chuyển lên trên' khiến anh tin mình bệnh nặng; kết quả cuối vẫn là viêm amidan mạn và các xét nghiệm lây qua đường tình dục vẫn làm được ngoại trú."
+   },
+   "loi_mo": "Bác sĩ ơi, thằng Bảo nó đau họng hai tuần nay, hôi miệng nữa, uống thuốc giảm đau hoài mà hết thuốc là đau lại. Chắc do nó thức khuya nấu nước lèo, khói bếp. Bác sĩ cho nó thuốc kháng sinh mạnh cho dứt đi. Mà nó lạ lắm, mấy tuần nay đòi ăn cơm riêng, bát đũa riêng, hỏi thì nó bảo 'con sợ lây cảm cho mẹ'.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "118/74",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà Nga nói: 'Thằng Bảo nó đau họng hai tuần nay, hôi miệng, uống thuốc giảm đau hoài mà hết thuốc là đau lại. Tôi đưa nó đi khám cho dứt.' Anh Bảo ngồi im.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời mẹ)"
+    },
+    {
+     "id": "dien_tien_man",
+     "noi_dung": "Anh Bảo (khi được hỏi riêng về cả quá trình): vướng họng, khô rát nhất là sáng mới dậy, hơi thở hôi dù đánh răng, thỉnh thoảng khạc ra hạt trắng vàng nhỏ bóp thấy hôi, đã khoảng 8 tháng. Mỗi năm có 2–3 đợt đau họng sốt nhẹ, tự khỏi hoặc uống thuốc vài ngày. Không ngủ ngáy, không ngưng thở khi ngủ. Bà Nga chỉ nhớ 'hai tuần nay'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi bệnh bắt đầu từ khi nào, trước hai tuần này có bị gì không, mỗi năm bị mấy lần, hạt trắng và hơi thở hôi. Bà Nga hay đáp thay 'mới hai tuần'; hỏi thẳng anh thì anh mới kể 8 tháng.",
+     "k": 1,
+     "y": "Diễn tiến mạn, 2–3 đợt cấp/năm, dưới ngưỡng cắt amidan (QĐ 5643/2015, Viêm amidan mạn tính mục 3.1.1.2, tr. 142; mục 4.2.2.1, tr. 144)"
+    },
+    {
+     "id": "dot_gan_day",
+     "noi_dung": "Ba tuần trước (xem phần tình dục), bốn năm hôm sau họng đau rát hẳn, nuốt đau, sốt 37,8–38,0 °C trong 2 ngày (ngày 5–6), không ho, không sổ mũi. Sốt hết từ ngày thứ 7; từ đó chỉ còn đau rát âm ỉ, nhẹ hơn, và anh uống thuốc giảm đau đều đặn. Hai tuần nay không sốt, không ớn lạnh, ăn uống được, nuốt không nghẹn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi gần đây có đợt nào nặng hơn bình thường không, có sốt không, bao lâu, có ho sổ mũi không. Bà Nga chỉ nói 'nó nóng nóng vài bữa'.",
+     "k": 1,
+     "y": "Đợt cấp nhẹ đã qua; hiện không có viêm họng đỏ cấp nên không có chỉ định kháng sinh"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Bà Nga mua paracetamol 500 mg ở nhà thuốc đầu ngõ, hộp 10 vỉ. Anh Bảo uống 2 viên mỗi lần, ngày 4–5 lần (8–10 viên, tức 4–5 g mỗi ngày), đều đặn khoảng 14 ngày, có hôm uống thêm lúc nửa đêm vì đau họng. Không dùng thuốc cảm nào khác có paracetamol, không NSAID, không kháng sinh. Không buồn nôn, không vàng da, không đau hạ sườn phải, nước tiểu vàng bình thường.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Bà Nga nói 'có uống thuốc giảm đau thôi'. Chỉ ra số viên khi bác sĩ hỏi tên thuốc, hàm lượng, mỗi lần mấy viên, mấy lần/ngày, mấy ngày, và có thuốc cảm khác không.",
+     "k": 1,
+     "y": "Paracetamol 4–5 g/ngày × 14 ngày, vượt mức tối đa 4 g/24 giờ (QĐ 361/2014 Phụ lục Thuốc giảm đau mục 3.1, tr. 202; WHO AWaRe 2022 tr. 48)"
+    },
+    {
+     "id": "bia_thuoc",
+     "noi_dung": "Anh Bảo uống bia 3–4 lon mỗi đêm khi tiếp khách quen sau giờ đóng quán, khoảng 5 đêm mỗi tuần, nhiều năm nay, kể cả những đêm đang uống paracetamol. Hút thuốc lá 6–7 điếu mỗi ngày, khoảng 8 năm. Răng sâu hai cái chưa trám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà Nga nói 'nó uống chút xíu thôi'. Chỉ khai thật khi bác sĩ hỏi riêng anh bằng con số (mấy lon, mấy đêm, có uống bia lúc đang uống paracetamol không).",
+     "k": 1,
+     "y": "Rượu bia + paracetamol (QĐ 3610/2015 tr. 20); thuốc lá, rượu, răng miệng góp phần viêm họng mạn (QĐ 5643/2015, Viêm họng mạn tính mục 2, tr. 159)"
+    },
+    {
+     "id": "co_do_am",
+     "noi_dung": "Không sụt cân (68 kg, vẫn thế), không nuốt nghẹn, không nuốt đau tăng dần, không khàn tiếng kéo dài, không khạc hay xì ra máu, không ngạt mũi hay ù tai một bên, không đau tai một bên, không đau nửa đầu, không tự sờ thấy hạch cổ, không đổ mồ hôi đêm, không ho kéo dài.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi từng dấu hiệu: sụt cân, nuốt khó nuốt đau, khàn tiếng, ra máu, một bên mũi tai, hạch.",
+     "k": 1,
+     "y": "Rà cờ đỏ ung thư vòm (QĐ 5643/2015 tr. 284), hạ họng - thanh quản (tr. 267)"
+    },
+    {
+     "id": "trao_nguoc",
+     "noi_dung": "Không ợ nóng, không trớ thức ăn. Thỉnh thoảng (khoảng hai tuần một lần) sau đêm ăn khuya nhậu nhiều, nằm xuống thấy vị chua nhẹ ở cổ họng buổi sáng, rồi hết. Không đau thượng vị, không nôn, không đi ngoài phân đen. Đôi khi tằng hắng buổi sáng.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi ợ nóng, ợ chua, trớ, vị chua ở họng, ăn khuya rồi nằm ngay, đau thượng vị.",
+     "k": 1,
+     "y": "Chưa đủ để quy cho trào ngược (San Diego 2025; ACG 2022, ngoài thực quản KC 1–2)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không bệnh nền, không từng bị viêm gan hay vàng da, chưa từng thử men gan. Không dị ứng thuốc hay thức ăn. Chưa từng được chẩn đoán hay điều trị bệnh lây qua đường tình dục, chưa bao giờ xét nghiệm HIV. Chưa tiêm ngừa gì đáng nhớ. Không tiêm chích, không truyền máu.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi bệnh nền, bệnh gan, dị ứng thuốc, đã từng xét nghiệm HIV chưa (phần xét nghiệm HIV chỉ nói khi bà Nga không có mặt).",
+     "k": 1,
+     "y": "Dị ứng thuốc, bệnh gan trước khi kê thuốc"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Ba tuần trước anh quan hệ với một bạn gái mới quen hơn một tháng: quan hệ âm đạo có dùng bao cao su, còn quan hệ bằng miệng hai chiều (anh làm cho bạn gái và bạn gái làm cho anh) thì không dùng gì. Chỉ một lần với người này. Trước đó khoảng một năm không có bạn tình. Bạn gái không có triệu chứng gì anh biết, anh chưa hỏi bạn về xét nghiệm. Anh không có bạn tình nào khác trong 6 tháng qua.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ khai khi bác sĩ mời bà Nga ra ngoài hoặc hỏi riêng anh về đời sống tình dục (bạn tình, kiểu quan hệ, dùng bao cao su). Nếu hỏi trước mặt bà Nga, anh nói 'dạ không có' và liếc nhìn mẹ. Phải hỏi riêng cả quan hệ bằng miệng thì anh mới kể.",
+     "k": 1,
+     "y": "Phơi nhiễm đường miệng - họng (CDC STI 2021, Box 1, tr. 3)"
+    },
+    {
+     "id": "trieu_chung_sti",
+     "noi_dung": "Không tiểu buốt, không chảy dịch ở đầu dương vật, không loét hay nổi mụn nước ở bộ phận sinh dục, miệng không loét, không nổi ban ở thân mình, lòng bàn tay, bàn chân, không đau khớp, không sưng hạch bẹn hay nách, không mệt mỏi bất thường.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi dấu hiệu bệnh lây qua đường tình dục (tiểu buốt, dịch niệu đạo, loét, ban, hạch), chỉ khi bà Nga không có mặt.",
+     "k": 1,
+     "y": "Lậu hầu họng thường không triệu chứng (QĐ 5165/2021 mục 2.1.1); WHO AWaRe 2022 tr. 47"
+    },
+    {
+     "id": "nghe_quan",
+     "noi_dung": "Anh dậy 4 giờ sáng ninh xương, nấu nước lèo trong bếp nhiều hơi nước và khói than, bán đến 13 giờ, buổi chiều chuẩn bị đồ, mở lại 17–21 giờ, nói to với khách cả ngày. Anh nếm nước lèo và nêm nếm thức ăn bằng chính muỗng của mình. Mẹ phụ rửa chén và dọn bàn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi công việc hằng ngày, môi trường làm việc, giờ giấc.",
+     "k": 1,
+     "y": "Khói bụi, nói nhiều làm tăng triệu chứng (QĐ 5643/2015, Viêm họng mạn tính mục 2, 3.1.2, tr. 159)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều anh sợ nhất: đã mắc HIV hoặc bệnh lậu rồi lây cho mẹ, cho cháu gái 3 tuổi hay sang quán chơi, và cho khách. Từ khi đau họng anh ăn riêng, dùng bát muỗng riêng, không cho cháu hôn, nhưng không dám nói với ai vì xấu hổ. Anh mong được kê thuốc mạnh cho 'sạch hết' và xin xét nghiệm 'bệnh kia' thật kín đáo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng anh (mẹ ra ngoài) về điều anh lo nhất, vì sao ăn riêng, hoặc sau khi anh đã kể chuyện tình dục và bác sĩ hỏi tiếp 'anh sợ điều gì'. Anh nói nhỏ, xin bác sĩ đừng nói với mẹ.",
+     "k": 1,
+     "y": "Lý do thật: sợ lây bệnh cho người thân"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt nhưng ngại, tránh nhìn mẹ. BMI 23,0. Không sốt. Niêm mạc hồng, củng mạc không vàng. Không hạch nách, không hạch bẹn.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Hạch góc hàm hai bên 0,5–1 cm, mềm, di động, không đau (hạch phản ứng). Không có hạch cảnh giữa, hạch sau cơ ức đòn chũm, hạch thượng đòn hay hạch chẩm. Tuyến giáp không to. Khí quản ở giữa. Ấn góc hàm không đau.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng: niêm mạc đỏ sẫm và dày nhẹ, thành sau họng có nhiều hạt lympho nhỏ gồ lên, một ít dịch nhầy dọc thành sau. Hai amidan to độ A2 (bề ngang nhỏ hơn 1/3 khoảng cách giữa hai trụ trước), đối xứng, mặt gồ ghề có nhiều hốc, trụ trước đỏ sẫm; ấn dưới trụ trước thấy chất bã đậu trắng vàng hôi phòi ra, có một hạt cứng trắng nhỏ ở hốc amidan trái. Không loét, không khối, không phủ mủ, không mảng bóc được, không giả mạc, lưỡi gà cân đối. Không loét miệng, không mảng nấm. Tai: màng nhĩ hai bên bình thường. Mũi: niêm mạc hồng, không dịch mủ. (QĐ 5643/2015: Viêm amidan mạn tính mục 3.1.1.2, tr. 142; Viêm họng mạn tính mục 3.1.3, tr. 159–160.)",
+     "k": 1
+    },
+    "rang_ham_mat": {
+     "a": "Răng 36 và 46 sâu lớn, nhiều cao răng, viêm lợi nhẹ ở hàm dưới, lưỡi bựa trắng mỏng. Niêm mạc má, vòm miệng không loét, không mảng trắng.",
+     "k": 0
+    },
+    "noi_soi_mui": {
+     "a": "Nội soi ống mềm do bác sĩ tự thao tác: khe giữa hai bên sạch, vách ngăn gần thẳng. Vòm họng: nắp vòi nhĩ và hố Rosenmüller hai bên cân đối, niêm mạc hồng nhạt, không khối, không loét, không chảy máu. (Ung thư vòm có khối ở vòm và biểu hiện một bên: QĐ 5643/2015, Ung thư vòm mục 3.1.1, tr. 284.)",
+     "k": 1
+    },
+    "soi_thanh_quan": {
+     "a": "Nội soi ống mềm: nắp thanh môn, xoang lê hai bên không ứ đọng nước bọt, không u, không loét. Hai dây thanh trắng, bờ đều, di động đối xứng. Vùng liên phễu phù đỏ nhẹ. (Dấu liên phễu đỏ phù không đặc hiệu: San Diego 2025, Role of Laryngoscopy; ACG 2022, ngoài thực quản KC 5.)",
+     "k": 1
+    },
+    "da": {
+     "a": "Da và niêm mạc bình thường, không ban ở thân mình, lòng bàn tay, lòng bàn chân. Không vết loét, không mụn nước.",
+     "k": 0
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Dương vật, quy đầu bình thường, không loét, không mụn nước, không sẩn, miệng sáo không đỏ, không dịch khi vắt niệu đạo. Không hạch bẹn. Bìu bình thường.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, không đau hạ sườn phải, gan không to dưới bờ sườn, lách không sờ thấy, không vàng da.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, tần số 74 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran. Nhịp thở 16 l/p.",
+     "k": 0,
+     "hien": "Nhịp thở 16 l/p.",
+     "media": [
+      {
+       "vi_tri": "Hai phế trường",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 26 U/L · ALT 31 U/L (tham chiếu của phòng xét nghiệm < 40 U/L)",
+     "ab": 0,
+     "n": "Cần: paracetamol 4–5 g/ngày × 14 ngày kèm bia; người nghiện rượu và người dùng kéo dài có thể ngộ độc ở liều điều trị (QĐ 3610/2015, mục 2, tr. 20); xét nghiệm AST, ALT (mục 3.3, tr. 21); QĐ 361/2014 (Phụ lục Thuốc giảm đau mục 3.1, tr. 202): paracetamol có thể gây hại gan. Bình thường: chưa có bằng chứng tổn thương gan. Nếu AST hoặc ALT tăng ở người có tiền sử uống paracetamol thì xử trí như ngộ độc (N-acetylcystein, QĐ 3610/2015 mục 4.3, tr. 22–23), không còn là ca ngoại trú đơn giản. Ngưỡng liều và thời gian xác định ngộ độc mạn: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,6 G/L · Neutrophil 56% · Hb 148 g/L · TC 258 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 56.0,
+      "neu": 4.26,
+      "lym_pct": 34.0,
+      "lym": 2.58,
+      "mono_pct": 7.0,
+      "mono": 0.53,
+      "eos_pct": 2.5,
+      "eos": 0.19,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 5.0,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 88.0,
+      "mch": 29.6,
+      "mchc": 336,
+      "rdw": 12.9,
+      "plt": 258
+     },
+     "n": "Không bắt buộc: không sốt. Bạch cầu trên 10 G/L là tiêu chuẩn của viêm amidan cấp do vi khuẩn (QĐ 5643/2015, mục 3.1.2.1, tr. 143); viêm amidan mạn chẩn đoán bằng lâm sàng. WHO AWaRe 2022 (tr. 47): xét nghiệm máu thường không cần."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 4,8 mmol/L · Creatinin 84 µmol/L · eGFR 108 mL/ph/1,73m²",
+     "ab": 0,
+     "bang": {
+      "ure": 4.8,
+      "creat": 84,
+      "egfr": 108
+     },
+     "n": "Chấp nhận, không bắt buộc: ngộ độc paracetamol có thể tổn thương thận (QĐ 3610/2015 mục 1, tr. 20). Bình thường."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 2 mg/L",
+     "ab": 0,
+     "bang": {
+      "crp": 2
+     },
+     "n": "Không cần: không đổi xử trí; không có tiêu chuẩn CRP cho viêm amidan mạn trong QĐ 5643/2015."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Que thử 10 thông số bình thường",
+     "ab": 0,
+     "n": "Không cần: không tiểu buốt, không dịch niệu đạo. Nước tiểu thường không chẩn đoán được lậu, chlamydia (cần NAAT: QĐ 5165/2021 mục 2.2.3)."
+    },
+    "test_lien_cau": {
+     "n": "Cơ sở không có. Không cần: không sốt, không amidan phủ mủ, không hạch đau (Centor 0–2: thường không cần xét nghiệm, WHO AWaRe 2022, tr. 47–48). Mang liên cầu không cần kháng sinh (IDSA 2012, KC 12).",
+     "r": "Linh: \"Phòng khám mình không làm được xét nghiệm này ạ, phải giới thiệu anh sang cơ sở khác làm; hôm nay chưa có kết quả.\"",
+     "v": "n",
+     "ab": 0
+    },
+    "cay_hong_gas": {
+     "n": "Cơ sở không có. Không cần (IDSA 2012, KC 4, 12).",
+     "r": "Linh: \"Phòng khám mình không làm được xét nghiệm này ạ, phải giới thiệu anh sang cơ sở khác làm; hôm nay chưa có kết quả.\"",
+     "v": "n",
+     "ab": 0
+    },
+    "aslo": {
+     "n": "Cơ sở không có. ASLO dùng khi nghi amidan là ổ nhiễm gây biến chứng toàn thân (QĐ 5643/2015, mục 3.1.2.2, tr. 143); anh không có biến chứng.",
+     "r": "Linh: \"Phòng khám mình không làm được xét nghiệm này ạ, phải giới thiệu anh sang cơ sở khác làm; hôm nay chưa có kết quả.\"",
+     "v": "n",
+     "ab": 0
+    },
+    "naat_sti": {
+     "n": "Cơ sở không có. NAAT lậu/chlamydia làm ở cơ sở khác; bệnh phẩm hầu họng độ nhạy thấp hơn (QĐ 5165/2021 mục 2.2.3).",
+     "r": "Linh: \"Phòng khám mình không làm được xét nghiệm này ạ, phải giới thiệu anh sang cơ sở khác làm; hôm nay chưa có kết quả.\"",
+     "v": "a",
+     "ab": 0
+    },
+    "virus_mau": {
+     "n": "Cơ sở không có. HIV, giang mai làm ở cơ sở khác (giới thiệu); không có kết quả hôm nay.",
+     "r": "Linh: \"Phòng khám mình không làm được xét nghiệm này ạ, phải giới thiệu anh sang cơ sở khác làm; hôm nay chưa có kết quả.\"",
+     "v": "a",
+     "ab": 0
+    },
+    "giang_mai": {
+     "n": "Cơ sở không có. Giang mai kỳ hai có thể gây vết trợt ở amidan (QĐ 5643/2015, mục 3.2, tr. 143); anh không có vết trợt, ban. Làm ở cơ sở khác.",
+     "r": "Linh: \"Phòng khám mình không làm được xét nghiệm này ạ, phải giới thiệu anh sang cơ sở khác làm; hôm nay chưa có kết quả.\"",
+     "v": "a",
+     "ab": 0
+    },
+    "test_nhanh_virus": {
+     "n": "Cơ sở không có. Test nhanh kháng thể có thể âm ở người mới nhiễm (CDC STI 2021, tr. 25).",
+     "r": "Linh: \"Phòng khám mình không làm được xét nghiệm này ạ, phải giới thiệu anh sang cơ sở khác làm; hôm nay chưa có kết quả.\"",
+     "v": "a",
+     "ab": 0
+    },
+    "cxr": {
+     "n": "Cơ sở không có. Không cần: phổi sạch."
+    },
+    "sa_co": {
+     "n": "Cơ sở không có. Không cần: hạch phản ứng nhỏ, mềm."
+    },
+    "ct_co": {
+     "n": "Cơ sở không có. Không cần: không khối, không áp xe."
+    },
+    "noi_soi": {
+     "n": "Cơ sở không có. Không có chỉ định: không dấu báo động, chỉ vị chua thoáng qua (San Diego 2025, Esophageal Evaluation)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm họng - amidan mạn (viêm amidan mạn thể quá phát độ A2 có bã đậu và sỏi nhỏ ở hốc, kèm viêm họng mạn quá phát dạng hạt), đợt cấp nhẹ ba tuần trước đã qua",
+     "ok": 1,
+     "n": "Vướng họng, khô rát buổi sáng, hôi miệng 8 tháng, 2–3 đợt cấp mỗi năm; amidan to hai bên, mặt gồ ghề, bã đậu ở hốc; thành sau họng có hạt (QĐ 5643/2015, Viêm amidan mạn tính mục 3.1.1.2, tr. 142; Viêm họng mạn tính mục 3.1.2–3.1.3, tr. 159–160). Yếu tố góp phần: khói bếp, nói nhiều, thuốc lá, rượu bia, răng sâu (Viêm họng mạn tính mục 2, tr. 159)."
+    },
+    {
+     "t": "Ung thư vòm mũi họng",
+     "n": "Loại trừ lâm sàng: không triệu chứng mượn một bên (đau nửa đầu, ngạt mũi, ù tai, xì máu), không hạch cổ cứng; nội soi vòm cân đối, không khối (QĐ 5643/2015, Ung thư vòm mục 3.1.1, tr. 284). Sinh thiết khối vòm mới xác định (mục 3.1.2), không có chỉ định khi không thấy khối."
+    },
+    {
+     "t": "Ung thư amidan, ung thư hạ họng - thanh quản",
+     "n": "Loại trừ: hai amidan đối xứng, không loét, không cứng, không hạch cùng bên (QĐ 5643/2015, Viêm amidan mạn tính mục 3.2, tr. 143); không nuốt đau nuốt khó tăng dần, xoang lê sạch, dây thanh bình thường (Ung thư hạ họng mục 3, tr. 267). Ung thư hạ họng thường gặp 45–65 tuổi (tr. 266), anh 29 tuổi."
+    },
+    {
+     "t": "Trào ngược họng - thanh quản",
+     "n": "Chưa đủ cơ sở: triệu chứng họng-thanh quản không đồng nghĩa trào ngược, cần bằng chứng khách quan (San Diego 2025, Definition & Terminology). Anh không ợ nóng, không trớ, chỉ có vị chua thoáng qua sau đêm nhậu; dấu liên phễu đỏ không đặc hiệu (San Diego 2025; ACG 2022, ngoài thực quản KC 5); đã có nguyên nhân tại chỗ."
+    },
+    {
+     "t": "Viêm họng cấp do liên cầu hoặc virus",
+     "n": "Hiện không có: không sốt, không amidan sưng phủ mủ, không hạch đau (Centor 0–2: WHO AWaRe 2022, tr. 47–48). Viêm amidan cấp: sốt 38–39 °C, amidan sưng đỏ chấm mủ (QĐ 5643/2015, mục 3.1.1.1, tr. 141–142)."
+    },
+    {
+     "t": "Nhiễm lậu, chlamydia, giang mai hoặc HIV cấp tính đường họng",
+     "n": "Chưa loại trừ hết tại chỗ: có quan hệ bằng miệng không bao cao su ba tuần trước. Lậu hầu họng chủ yếu không triệu chứng hoặc đau họng nhẹ (QĐ 5165/2021 mục 2.1.1, 2.3.2); HIV cấp và bệnh lây qua đường tình dục là nguyên nhân hiếm của viêm họng (WHO AWaRe 2022, tr. 47). Không loét miệng, ban, hạch toàn thân hay dịch niệu đạo; giới thiệu xét nghiệm, chưa có bằng chứng để chẩn đoán."
+    },
+    {
+     "t": "Tổn thương gan do paracetamol liều cao kéo dài kết hợp rượu",
+     "n": "Loại trừ: không vàng da, không đau hạ sườn phải, gan không to; AST 26, ALT 31 U/L. Viêm gan nhiễm độc khi AST hoặc ALT trên 1000 (QĐ 3610/2015 mục 3.2, tr. 21). Nguy cơ còn nếu tiếp tục 4–5 g/ngày kèm rượu (mục 2, tr. 20)."
+    },
+    {
+     "t": "Nấm họng - miệng, tăng bạch cầu đơn nhân nhiễm trùng",
+     "n": "Loại trừ: không mảng trắng bóc được, không loét miệng; hạch góc hàm nhỏ phản ứng, không hạch toàn thân, không sốt kéo dài, công thức máu bình thường."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán lâm sàng viêm amidan mạn + viêm họng mạn sau khi hỏi bệnh sử đầy đủ, rà cờ đỏ, khám hạch cổ và nội soi mũi - vòm họng - thanh quản; không chờ hình ảnh hay sinh thiết",
+     "v": "c",
+     "n": "QĐ 5643/2015 (Viêm amidan mạn tính mục 3.1.1.2, tr. 142; Viêm họng mạn tính mục 3.3, tr. 160): chẩn đoán dựa vào cảm giác rối loạn và khám họng. Cờ đỏ ung thư loại trừ bằng khám và nội soi (Ung thư vòm mục 3.1.1, tr. 284; Ung thư hạ họng mục 3, tr. 267; San Diego 2025: soi thanh quản để loại trừ ung thư)."
+    },
+    {
+     "t": "Cho về điều trị ngoại trú, hẹn tái khám",
+     "v": "c",
+     "n": "Không có tiêu chuẩn nhập viện hay chuyển tuyến trong tài liệu đã tải cho viêm amidan mạn / viêm họng mạn không biến chứng; điều trị chính là cân nhắc phẫu thuật (QĐ 5643/2015, Viêm amidan mạn tính mục 4.1, tr. 144). Men gan bình thường nên không có chỉ định xử trí ngộ độc paracetamol (QĐ 3610/2015 mục 4.3, tr. 22)."
+    },
+    {
+     "t": "Mời bà Nga ra ngoài để hỏi riêng anh Bảo: bạn tình, kiểu quan hệ (kể cả bằng miệng), bao cao su, triệu chứng bệnh lây qua đường tình dục, và anh đang lo điều gì nhất",
+     "v": "c",
+     "n": "CDC STI 2021 (Box 1 'Five P's', tr. 3): hỏi bạn tình, kiểu quan hệ (âm đạo, hậu môn, miệng), bảo vệ, tiền sử bệnh lây qua đường tình dục, bằng ngôn ngữ không phán xét. Cách mời mẹ ra ngoài khéo léo là nhận xét biên tập."
+    },
+    {
+     "t": "Tư vấn và giới thiệu xét nghiệm HIV, giang mai, lậu/chlamydia (NAAT nước tiểu; phết họng nếu cơ sở làm được) ở cơ sở có, trong vài ngày tới; HIV Ag/Ab, thêm HIV RNA nếu lo nhiễm cấp, lặp lại sau vài tuần; bao cao su cho mọi kiểu quan hệ, kể cả bằng miệng, cho đến khi có kết quả",
+     "v": "c",
+     "n": "CDC STI 2021 (mục HIV Infection, tr. 24–25): xét nghiệm HIV cho mọi người đến khám bệnh lây qua đường tình dục; nghi nhiễm cấp thì làm HIV RNA, nếu âm thì lặp lại sau vài tuần; test nhanh kháng thể có thể âm ở người mới nhiễm; tư vấn dùng bao cao su; PEP chỉ khi phơi nhiễm dưới 72 giờ nên không áp dụng sau 3 tuần. QĐ 5165/2021 (mục 2.2.3): NAAT, mẫu hầu họng độ nhạy thấp. Khoảng 'vài tuần' cụ thể và số ngày giới thiệu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích nỗi sợ lây cho mẹ và cháu: nói rõ điều đã biết (lậu lây chủ yếu qua quan hệ tình dục; viêm amidan mạn là viêm của chính amidan) và điều chưa biết (kết quả xét nghiệm); không khẳng định 'chắc chắn không lây' khi chưa có kết quả",
+     "v": "c",
+     "n": "QĐ 5165/2021 (mục 1): lậu lây chủ yếu qua quan hệ tình dục. QĐ 5643/2015 (Viêm amidan mạn tính mục 1, tr. 141): viêm thường xuyên của chính amidan. Lây HIV, giang mai, chlamydia qua dùng chung bát đũa: không có trong tài liệu đã tải nên không khẳng định. Cấu trúc trấn an (gọi tên nỗi sợ - cho dữ kiện - nêu mốc - hẹn) là nhận xét biên tập."
+    },
+    {
+     "t": "Xét nghiệm AST, ALT ngay hôm nay vì paracetamol 4–5 g/ngày × 14 ngày kèm bia",
+     "v": "c",
+     "n": "QĐ 3610/2015 (Ngộ độc paracetamol mục 2, 3.3, tr. 20–21): người nghiện rượu và người dùng kéo dài có thể ngộ độc ở liều điều trị; xét nghiệm AST, ALT. QĐ 361/2014 (Phụ lục Thuốc giảm đau mục 3.1, tr. 202): có thể gây hại gan, chống chỉ định khi tăng men gan."
+    },
+    {
+     "t": "Chỉ dùng paracetamol khi đau: 500–1.000 mg mỗi lần, cách nhau ít nhất 6 giờ, tối đa 3 g mỗi 24 giờ, hoặc tối đa 4 g mỗi 24 giờ; không uống kèm bia rượu",
+     "v": "c",
+     "n": "Hai con số: 4 g/24 giờ, 500–1.000 mg mỗi lần cách 6–8 giờ (QĐ 361/2014 Phụ lục Thuốc giảm đau mục 3.1, tr. 202; WHO AWaRe 2022, tr. 48) hoặc 500–3.000 mg/24 giờ (bảng bậc 1, tr. 201), dưới 3 g/ngày cho nhóm nguy cơ cao có bệnh gan (Phụ lục NSAID mục 3.3, tr. 199). 3 g thận trọng hơn và hợp với người uống bia thường xuyên (QĐ 3610/2015 mục 2, tr. 20). Theo mục sổ 'Liều paracetamol tối đa'."
+    },
+    {
+     "t": "Tiếp tục paracetamol 4–5 g mỗi ngày như đang uống",
+     "v": "w",
+     "n": "Vượt mức tối đa 4 g/24 giờ (QĐ 361/2014 Phụ lục Thuốc giảm đau mục 3.1, tr. 202; WHO AWaRe 2022, tr. 48), lại uống bia thường xuyên (QĐ 3610/2015 mục 2, tr. 20)."
+    },
+    {
+     "t": "Không kê kháng sinh toàn thân cho viêm amidan mạn không có đợt cấp, kể cả theo yêu cầu của mẹ hay 'đề phòng bệnh lây'; giải thích vì sao",
+     "v": "c",
+     "n": "QĐ 5643/2015 (Viêm amidan cấp và mạn tính mục 4.1, tr. 144): kháng sinh chỉ khi nghi nhiễm khuẩn hoặc đe dọa biến chứng; viêm amidan mạn chủ yếu cân nhắc phẫu thuật. WHO AWaRe 2022 (tr. 46); IDSA 2012 (KC 4, 12); ACP/CDC 2016 (tr. 425): 5–25% người dùng kháng sinh có tác dụng phụ. Mục sổ 'Viêm họng đỏ cấp' không áp dụng vì hiện không có viêm họng đỏ cấp."
+    },
+    {
+     "t": "Kê kháng sinh ngay (amoxicillin, hoặc ceftriaxon kèm azithromycin) 'đề phòng lậu, chlamydia' khi chưa có triệu chứng, xét nghiệm hay chẩn đoán",
+     "v": "w",
+     "n": "Phác đồ lậu hầu họng của QĐ 5165/2021 (mục 3.2.2) dành cho người đã chẩn đoán; tài liệu đã tải không nêu điều trị theo kinh nghiệm sau phơi nhiễm khi chưa có chẩn đoán. WHO AWaRe 2022 (tr. 46): hầu hết viêm họng không cần kháng sinh."
+    },
+    {
+     "t": "Không chỉ định cắt amidan: 2–3 đợt viêm mỗi năm, không áp xe quanh amidan, không biến chứng, amidan chưa gây ngạt thở hay khó nuốt; giải thích vì sao",
+     "v": "c",
+     "n": "QĐ 5643/2015 (Viêm amidan mạn tính mục 4.2.2.1, tr. 144): chỉ định khi viêm nhiều lần (thường 5–6 lần/năm), biến chứng, hoặc quá phát gây khó thở/khó nuốt. AAO-HNSF 2019 (KC 1–2: 7/1 năm, 5/năm × 2 năm, 3/năm × 3 năm) chỉ cho trẻ 1–18 tuổi; tài liệu đã tải không có hướng dẫn tương đương cho người lớn. IDSA 2012 (KC 13): không cắt chỉ để giảm viêm họng liên cầu."
+    },
+    {
+     "t": "Hẹn mổ cắt amidan 'để hết hôi miệng và hết lo lây'",
+     "v": "w",
+     "n": "Không đủ chỉ định theo QĐ 5643/2015 (mục 4.2.2.1, tr. 144); phẫu thuật hiện nay chủ yếu dưới gây mê nội khí quản (mục 4.2.2.3, tr. 145). Số liệu nguy cơ phẫu thuật ở người lớn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Điều trị tại chỗ và loại bỏ yếu tố góp phần: súc họng dung dịch kiềm ấm, khám răng (sâu răng, cao răng), giảm hẳn bia rượu, bỏ thuốc lá, khẩu trang khi nấu bếp khói",
+     "v": "c",
+     "n": "QĐ 5643/2015 (Viêm họng mạn tính mục 4.1, tr. 160; mục 4.2.1–4.2.2, tr. 160–161: điều trị tại chỗ, súc họng thuốc làm se, kiềm tính, giảm thuốc lá và rượu, khẩu trang; mục 6, tr. 161: vệ sinh răng miệng). Công thức bicarbonat: Viêm amidan cấp tính mục 4.2.1, tr. 144."
+    },
+    {
+     "t": "Trào ngược nghi ngờ: chỉ biện pháp lối sống và theo dõi, đo/nội soi trào ngược nếu dai dẳng; HOẶC thử thuốc ức chế bơm proton theo QĐ 5643/2015",
+     "v": "c",
+     "n": "Cách A: lối sống, chưa dùng thuốc, khảo sát trào ngược khi triệu chứng họng đơn độc dai dẳng (San Diego 2025, Symptom Characterization & Role of Medical Trials; ACG 2022, ngoài thực quản KC 2). Cách B: PPI là thuốc chọn lựa cho trào ngược họng - thanh quản (QĐ 5643/2015, Trào ngược mục 6.3–6.4, tr. 181–182); nếu thử thì omeprazol 20 mg × 2 lần/ngày × 3 tháng (San Diego 2025; ACG 2022 KC 3: 8–12 tuần khi có cả triệu chứng thực quản điển hình). Khác năm (2015 và 2022/2025) và khác bằng chứng; xem sổ mâu thuẫn 'Trào ngược họng - thanh quản'. Anh chỉ có vị chua thoáng qua nên không bắt buộc PPI."
+    },
+    {
+     "t": "Tái khám sau khoảng 2 tuần (nhận kết quả xét nghiệm, đánh giá họng, hỏi lại paracetamol và bia); quay lại sớm nếu sốt, đau họng tăng, amidan phủ mủ, nuốt đau nuốt nghẹn tăng dần, khàn tiếng kéo dài, khạc hoặc xì ra máu, nổi hạch cứng, sụt cân, nghẹt mũi hay ù tai một bên, vàng da, đau hạ sườn phải, nổi ban hay loét sinh dục",
+     "v": "c",
+     "n": "Mốc 2 tuần do biên tập chọn (không có trong tài liệu đã tải). Dấu hiệu quay lại: ung thư vòm (QĐ 5643/2015, tr. 284), hạ họng - thanh quản (tr. 267), viêm amidan cấp (tr. 144), giang mai kỳ hai (tr. 143), viêm gan nhiễm độc (QĐ 3610/2015 mục 3.2, tr. 21). Số tuần khàn tiếng cần khám ngay: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm amidan mạn thể quá phát độ A2 hai bên, có bã đậu và sỏi nhỏ ở hốc amidan, không biến chứng, không có đợt cấp hiện tại (đợt cấp nhẹ ba tuần trước đã qua)",
+     "Viêm họng mạn quá phát dạng hạt kèm xuất tiết nhầy",
+     "Yếu tố góp phần: khói bếp và nói nhiều, thuốc lá 8 năm, bia 3–4 lon × 5 đêm/tuần, răng sâu và cao răng",
+     "Lạm dụng paracetamol (4–5 g/ngày × 14 ngày) kèm rượu bia, men gan bình thường",
+     "Đã loại trừ: ung thư vòm, amidan, hạ họng - thanh quản; viêm họng cấp liên cầu/virus; nấm họng; trào ngược họng - thanh quản chưa có bằng chứng. Bệnh lây qua đường tình dục (HIV, giang mai, lậu, chlamydia) chưa loại trừ được tại chỗ, cần giới thiệu xét nghiệm"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: tách mẹ ra để hỏi riêng; tính mạn (8 tháng) của vướng họng, hôi miệng, hạt trắng hôi; số đợt viêm cấp mỗi năm; đợt nặng ba tuần trước; từng cờ đỏ ung thư; thuốc với tên, hàm lượng, số viên, số ngày (paracetamol 4–5 g/ngày × 14 ngày); rượu bia, thuốc lá bằng con số; ợ nóng, trớ; bệnh gan, dị ứng thuốc; đời sống tình dục theo 5P và triệu chứng niệu đạo, loét, ban, hạch (CDC STI 2021, Box 1, tr. 3); cuối cùng hỏi anh lo điều gì nhất.",
+     "Khám: hạch cổ; họng, amidan A2 đối xứng, bã đậu, thành sau họng có hạt, không loét, không phủ mủ (QĐ 5643/2015, tr. 142–143, 159–160); nội soi vòm họng và thanh quản loại trừ khối (tr. 284, 267; San Diego 2025); da, niêm mạc miệng, hạch nách/bẹn, dương vật và niệu đạo tìm dấu bệnh lây qua đường tình dục (QĐ 5643/2015 mục 3.2, tr. 143); bụng tìm đau hạ sườn phải, gan to (QĐ 3610/2015, tr. 21).",
+     "Cận lâm sàng: chỉ có xét nghiệm cơ bản. AST, ALT đáng làm nhất vì paracetamol liều cao kèm rượu (QĐ 3610/2015, tr. 20–21), kết quả bình thường. Công thức máu, CRP, creatinin chấp nhận nhưng không đổi xử trí (WHO AWaRe 2022, tr. 47). Test liên cầu, cấy họng, ASLO không cần (IDSA 2012, KC 4, 12). HIV, giang mai, lậu/chlamydia giới thiệu (CDC STI 2021, tr. 24–25; QĐ 5165/2021 mục 2.2.3).",
+     "Chẩn đoán: viêm amidan mạn + viêm họng mạn điển hình (QĐ 5643/2015). Điểm dễ sai: (1) tin lời mẹ 'hai tuần' và kê kháng sinh; (2) không hỏi riêng nên bỏ sót chuyện tình dục, hoặc ngược lại hoảng sợ điều trị kháng sinh theo kinh nghiệm; (3) bỏ sót lạm dụng paracetamol kèm rượu vì chỉ nghe 'thuốc giảm đau'; (4) gán cho trào ngược vì vị chua và dấu liên phễu (ACG 2022 KC 1, 5; San Diego 2025); (5) không nhận ra nỗi sợ lây cho người thân là lý do khám thật."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú: không đợt cấp, không biến chứng, không cờ đỏ sau nội soi, men gan bình thường. Quyết định hôm nay không phụ thuộc kết quả HIV, giang mai, lậu/chlamydia, vì không đổi việc điều trị viêm amidan mạn và không có chỉ định kháng sinh.",
+     "Không kháng sinh vì không có viêm cấp (QĐ 5643/2015, tr. 144; WHO AWaRe 2022, tr. 46–47; IDSA 2012, KC 4, 12; ACP/CDC 2016, tr. 425). Giải thích: hạt trắng là bã đậu của viêm mạn, kháng sinh không 'dứt điểm'.",
+     "Paracetamol: bỏ thói quen 4–5 g/ngày. Tối đa 4 g (QĐ 361/2014 mục 3.1; AWaRe 2022) hoặc 3 g (bảng bậc 1 và nhóm nguy cơ cao, QĐ 361/2014); 3 g thận trọng hơn, hợp với người uống bia thường xuyên (QĐ 3610/2015, tr. 20). Dùng 4 g chấp nhận được.",
+     "Không cắt amidan: 2–3 đợt/năm so với 5–6, không biến chứng (QĐ 5643/2015, tr. 144); tiêu chuẩn Paradise (AAO-HNSF 2019) chỉ cho trẻ em.",
+     "Tại chỗ và loại yếu tố góp phần (QĐ 5643/2015, tr. 160–161): súc họng, răng miệng, bỏ thuốc lá, giảm rượu bia, khẩu trang.",
+     "Trào ngược: hai cách đều được chấp nhận (lối sống, khảo sát nếu dai dẳng theo San Diego 2025/ACG 2022; hoặc PPI theo QĐ 5643/2015 mục 6.3). Không bắt buộc PPI.",
+     "Bệnh lây qua đường tình dục: tư vấn kín đáo, giới thiệu xét nghiệm, HIV Ag/Ab thêm RNA nếu lo nhiễm cấp và lặp lại sau vài tuần (CDC STI 2021, tr. 24–25); bao cao su; không điều trị theo kinh nghiệm. Trấn an có cấu trúc rồi mới hẹn: nỗi sợ lây cho người thân là lý do khám thật; chỉ từ chối kháng sinh mà không trả lời nỗi sợ thì anh vẫn tự cô lập hoặc tự mua kháng sinh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri bicarbonat (natri hydrocarbonat) súc họng",
+      "ham_luong": "Nửa thìa cà phê pha trong một cốc nước ấm",
+      "lieu": "Một cốc mỗi lần súc",
+      "duong": "Súc họng, nhổ ra, không nuốt",
+      "thoi_diem": "Sáng sau khi thức dậy và tối trước khi ngủ (số lần: biên tập chọn)",
+      "so_ngay": "2–4 tuần rồi tái khám (biên tập chọn)",
+      "ghi_chu": "QĐ 5643/2015: công thức nửa thìa cà phê trong cốc nước ấm (Viêm amidan cấp tính mục 4.2.1, tr. 144); thể xuất tiết súc họng bằng thuốc làm se, kiềm tính (Viêm họng mạn tính mục 4.2.2, tr. 161). Số lần và thời gian cho viêm họng mạn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (acetaminophen) viên 500 mg, chỉ khi đau họng",
+      "ham_luong": "500 mg",
+      "lieu": "1–2 viên (500–1.000 mg) mỗi lần, cách nhau ít nhất 6 giờ, tối đa 6 viên (3 g) mỗi 24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau họng, sau ăn; không uống cùng bia rượu",
+      "so_ngay": "Vài ngày, dừng khi hết đau; còn phải uống quá 5–7 ngày thì quay lại khám (biên tập chọn)",
+      "ghi_chu": "Tối đa 4 g/24 giờ (QĐ 361/2014 Phụ lục Thuốc giảm đau mục 3.1, tr. 202; WHO AWaRe 2022, tr. 48) hoặc 500–3.000 mg/24 giờ (bảng bậc 1, tr. 201; dưới 3 g/ngày cho nhóm nguy cơ cao, Phụ lục NSAID mục 3.3, tr. 199). Chọn 3 g vì thận trọng hơn và anh uống bia thường xuyên (QĐ 3610/2015, tr. 20). Thời gian dùng tối đa: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Không kê kháng sinh; không kê PPI",
+      "ham_luong": "-",
+      "lieu": "-",
+      "duong": "-",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "Kháng sinh: không có đợt cấp (QĐ 5643/2015, tr. 144; WHO AWaRe 2022, tr. 46–47); chưa có chẩn đoán bệnh lây qua đường tình dục (QĐ 5165/2021 mục 3.2.2 dành cho người đã chẩn đoán). PPI: nếu thử thì omeprazol 20 mg × 2 lần/ngày × 3 tháng (San Diego 2025), khi có triệu chứng thực quản điển hình (ACG 2022, ngoài thực quản KC 3)."
+     }
+    ],
+    "dan_do": [
+     "Nói chung với bà Nga: cổ không có hạch cứng, hai amidan đối xứng, vòm họng và thanh quản bình thường; những điều ung thư thường để lại đã không thấy nên chưa cần CT hay sinh thiết (QĐ 5643/2015, tr. 143, 267, 284). Hạt trắng và hôi miệng là do viêm amidan mạn, không phải 'mủ cần kháng sinh'.",
+     "Nói riêng với anh Bảo: chuyện quan hệ bằng miệng ba tuần trước cần xét nghiệm HIV, giang mai, lậu/chlamydia kín đáo ở cơ sở có xét nghiệm trong vài ngày tới, có thể phải làm lại HIV sau vài tuần (CDC STI 2021, tr. 24–25); chưa có kết quả thì chưa kết luận; dùng bao cao su cho mọi kiểu quan hệ. Không tự nói với mẹ nếu anh chưa đồng ý (cách giữ kín: nhận xét biên tập).",
+     "Bát đũa: lậu lây chủ yếu qua quan hệ tình dục (QĐ 5165/2021 mục 1); khả năng lây HIV, giang mai, chlamydia qua dùng chung bát đũa không có trong tài liệu đã tải nên bác sĩ không khẳng định, hẹn nói rõ khi có kết quả. Quy định nghỉ bếp của người chế biến thức ăn: không có trong tài liệu đã tải.",
+     "Paracetamol: bỏ thói quen 4–5 g mỗi ngày; chỉ uống khi đau, tối đa 6 viên 500 mg mỗi 24 giờ, cách nhau ít nhất 6 giờ; không uống kèm bia rượu; xem nhãn thuốc cảm vì nhiều loại có paracetamol (QĐ 3610/2015, tr. 20). Vàng da, đau hạ sườn phải, buồn nôn nhiều thì khám ngay (tr. 21).",
+     "Súc họng nước bicarbonat ấm sáng và tối; đánh răng hai lần mỗi ngày, trám răng sâu, lấy cao răng; giảm hẳn bia rượu, bỏ thuốc lá, khẩu trang khi nấu bếp khói (QĐ 5643/2015, tr. 160–161). Không ăn trong 3 giờ trước khi ngủ, kê đầu giường cao (mục 6.4, tr. 182).",
+     "Tái khám sau khoảng 2 tuần (biên tập chọn). Đến sớm nếu: sốt, đau họng tăng, amidan phủ mủ; nuốt đau hoặc nghẹn tăng dần; khàn tiếng kéo dài; khạc hoặc xì ra máu; nổi hạch cổ; sụt cân; nghẹt mũi hay ù tai một bên; vàng da; nổi ban, loét ở bộ phận sinh dục hoặc miệng (QĐ 5643/2015, tr. 143, 144, 267, 284; QĐ 3610/2015, tr. 21)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bốn ngày sau anh tự đến một cơ sở xét nghiệm gần nhà, làm HIV, giang mai, lậu/chlamydia: tất cả âm tính; HIV làm lại sau vài tuần theo hẹn, vẫn âm tính (kết quả là thiết kế của ca, không phải số liệu từ tài liệu). Anh ngừng thói quen uống paracetamol, chỉ uống khi đau, súc họng sáng tối, trám răng, bớt bia rượu, đeo khẩu trang khi nấu, và ăn chung với gia đình trở lại sau buổi tái khám tuần thứ hai. Họng bớt rát, hơi thở bớt hôi, thỉnh thoảng vẫn khạc vài hạt trắng. Khám lại: hai amidan vẫn A2, đối xứng, không loét, không hạch; men gan vẫn bình thường. Viêm họng mạn dai dẳng, dễ tái phát nếu không loại bỏ nguyên nhân (QĐ 5643/2015, Viêm họng mạn tính mục 5, tr. 161). Kết cục này là thiết kế của ca theo biến 'ổn định, khỏi bệnh'.",
+ "nhieu": [
+  "Thân nhân trả lời thay: bà Nga kể 'hai tuần', 'thuốc giảm đau thôi', 'nó uống chút xíu'; anh Bảo gật theo. Phải hỏi riêng anh để có thời gian thật (8 tháng), số viên paracetamol, số lon bia và chuyện quan hệ tình dục.",
+  "Lý do thật: sợ lây HIV hoặc lậu cho mẹ, cháu và khách; ăn riêng bát đũa; xấu hổ không dám nói. Khởi phát 'sau quan hệ tình dục' làm anh tin mình đã nhiễm bệnh, trong khi viêm amidan mạn có từ trước.",
+  "Thuốc đang dùng: paracetamol 4–5 g/ngày × 14 ngày kèm bia, bị mẹ xem nhẹ; cần AST/ALT.",
+  "Đánh lạc hướng: đợt đau họng sốt nhẹ ngay sau phơi nhiễm dễ khiến nghĩ bệnh lây đường tình dục hoặc viêm họng cấp cần kháng sinh; vị chua thoáng qua và dấu liên phễu đỏ dễ gán cho trào ngược.",
+  "Ràng buộc nguồn lực: chỉ có xét nghiệm cơ bản; quyết định hôm nay bằng hỏi, khám, nội soi, AST/ALT và giới thiệu xét nghiệm HIV, giang mai, lậu/chlamydia ở nơi khác."
+ ],
+ "bai_hoc_bien": [
+  "Thân nhân trả lời thay: tách bệnh nhân ra hỏi riêng điều nhạy cảm (tình dục, rượu bia, thuốc tự dùng) và nỗi lo thật, bằng ngôn ngữ không phán xét (CDC STI 2021, Box 1, tr. 3).",
+  "Hỏi thuốc bằng con số: tên, hàm lượng, số viên, số lần, số ngày. Paracetamol 4–5 g/ngày kéo dài kèm rượu cần AST/ALT (QĐ 3610/2015, tr. 20–21); tối đa 4 g hoặc 3 g (QĐ 361/2014; WHO AWaRe 2022).",
+  "Viêm amidan mạn không dùng kháng sinh khi không có đợt cấp; vấn đề là có đủ chỉ định cắt không (QĐ 5643/2015, tr. 144–145). Tiêu chuẩn Paradise (AAO-HNSF 2019) chỉ cho trẻ em.",
+  "Đau họng sau phơi nhiễm đường miệng: lậu hầu họng thường không triệu chứng; không điều trị theo kinh nghiệm khi chưa có chẩn đoán; giới thiệu xét nghiệm và hẹn làm lại HIV sau vài tuần (QĐ 5165/2021 mục 2.1.1; CDC STI 2021, tr. 24–25).",
+  "Không khẳng định điều tài liệu chưa nói (lây qua bát đũa, quy định nghỉ bếp): nói rõ điều đã biết, chưa biết và mốc có kết quả.",
+  "Triệu chứng họng mạn không đồng nghĩa trào ngược; soi thanh quản không chẩn đoán được (San Diego 2025; ACG 2022)."
+ ],
+ "diem_nho": [
+  "Amidan quá phát xếp A1/A2/A3 theo bề ngang so với khoảng cách hai trụ trước (1/4, 1/3, 1/2); thể xơ teo thường gặp ở người lớn (QĐ 5643/2015, mục 3.1.1.2, tr. 142).",
+  "Chỉ định cắt amidan: viêm nhiều lần (thường 5–6 lần/năm), biến chứng, quá phát gây khó thở hay khó nuốt; chống chỉ định tương đối khi đang viêm cấp, trên 50 tuổi (QĐ 5643/2015, mục 4.2.2.1–4.2.2.2, tr. 144–145).",
+  "Viêm gan nhiễm độc paracetamol khi AST hoặc ALT trên 1.000; liều ngộ độc cấp trên 150 mg/kg; người nghiện rượu có thể ngộ độc ở liều điều trị (QĐ 3610/2015, mục 2–3, tr. 20–21).",
+  "Lậu hầu họng chủ yếu không triệu chứng; NAAT mẫu hầu họng độ nhạy thấp (QĐ 5165/2021, mục 2.1.1, 2.2.3). Test nhanh kháng thể HIV có thể âm ở người mới nhiễm; PEP chỉ khi phơi nhiễm dưới 72 giờ (CDC STI 2021, tr. 24–25).",
+  "Mâu thuẫn trào ngược họng - thanh quản: QĐ 5643/2015 (PPI chọn lựa) so với San Diego 2025 và ACG 2022 (cần bằng chứng khách quan): ghi cả hai cách (sổ mâu thuẫn, ca đầu tiên TM-0248)."
+ ],
+ "nguon": [
+  "BYT – Quyết định 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng (TL-0130) – ĐÃ ĐỌC Viêm amidan cấp và mạn tính (tr. 141–146); Viêm họng cấp tính (tr. 155–158); Viêm họng mạn tính (tr. 159–161); Trào ngược mục 6.3–6.4 (tr. 181–182); Ung thư hạ họng (tr. 266–267); Ung thư vòm (tr. 284).",
+  "BYT – Quyết định 3610/QĐ-BYT 2015, Hướng dẫn chẩn đoán và xử trí ngộ độc (TL-0035) – ĐÃ ĐỌC Ngộ độc paracetamol (tr. 20–23).",
+  "BYT – Quyết định 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp (TL-0286) – ĐÃ ĐỌC Phụ lục Thuốc giảm đau (tr. 201–202) và Phụ lục NSAID, bảng nguy cơ cao (tr. 199).",
+  "BYT – Quyết định 5165/QĐ-BYT 2021, Hướng dẫn chẩn đoán và điều trị bệnh lậu (kho cũ tltk-10000-ca, 08 Tiết niệu - nam khoa; mã sổ TL-0499) – ĐÃ ĐỌC mục 1, 2.1.1, 2.2.3, 2.3.2, 3.2.2.",
+  "CDC – STI Treatment Guidelines 2021 (MMWR 2021;70(4); kho cũ tltk-10000-ca; mã sổ TL-0370) – ĐÃ ĐỌC Box 1 'Five P's' (tr. 3), mục HIV Infection (tr. 24–25).",
+  "WHO AWaRe Antibiotic Book 2022 (TL-0018) – ĐÃ ĐỌC Pharyngitis (tr. 46–48). ACP/CDC 2016 (Ann Intern Med 2016;164:425-434; TL-0156) – ĐÃ ĐỌC tr. 425. IDSA 2012 GAS Pharyngitis (CID 2012;55:e86–e102; TL-0158) – ĐÃ ĐỌC KC 4, 11, 12, 13. AAO-HNSF 2019 Tonsillectomy in Children (TL-0564) – ĐÃ ĐỌC KC 1–2 và phạm vi.",
+  "San Diego Consensus for Laryngopharyngeal Symptoms and LPRD 2025 (Am J Gastroenterol 2025;121(2):322–336; TL-0552) – ĐÃ ĐỌC Definition & Terminology, Role of Laryngoscopy, Symptom Characterization & Role of Medical Trials, Esophageal Evaluation. ACG 2022 GERD (TL-0212) – ĐÃ ĐỌC Extraesophageal GERD KC 1–6."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (18/10/2026) – viết: Sonnet. Tài liệu đã đọc: TL-0130, TL-0035, TL-0286, TL-0499 (kho cũ), TL-0370 (kho cũ), TL-0018, TL-0156, TL-0158, TL-0564, TL-0552, TL-0212 (các mục nêu trong 'nguon').",
+  "Thiếu trong tài liệu đã tải: hướng dẫn viêm amidan mạn người lớn ngoài QĐ 5643/2015; số lần súc họng, thời gian dùng, thời gian tái khám; ngưỡng liều và thời gian xác định ngộ độc paracetamol mạn; lây HIV, giang mai, chlamydia qua bát đũa; quy định người chế biến thức ăn; thời gian cửa sổ HIV cụ thể ('vài tuần'); điều trị theo kinh nghiệm sau phơi nhiễm miệng - họng; cách giữ kín thông tin với thân nhân.",
+  "Mâu thuẫn: dùng mục có sẵn 'Trào ngược họng - thanh quản' (TM-0248) và 'Liều paracetamol tối đa' (TH-0295). Đề xuất bổ sung paracetamol ở người uống rượu bia: TM-0250_mau_thuan.md. Mục 'Viêm họng đỏ cấp' không áp dụng (đợt cấp đã qua khoảng 2 tuần).",
+  "Số liệu phụ do biên tập chọn: sinh hiệu, công thức máu, AST/ALT, CRP, creatinin, hình ảnh nội soi, số lon bia, tái khám 2 tuần, kết cục xét nghiệm âm tính. Nội soi mũi - họng - thanh quản ống mềm do bác sĩ tự làm là giả định thiết kế. Khám da bình thường (k:0) nên không cần ảnh SCIN."
+ ]
+}
