@@ -1,0 +1,750 @@
+{
+ "ma_ca": "TT-0319",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "Rối loạn lo âu bệnh tật",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn lo âu bệnh tật",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh thực thể"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau ăn hải sản",
+  "thuoc_dang_dung": "Không",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Văn Lộc",
+  "tuoi": 33,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng dừa và nuôi tôm ở Bến Tre",
+  "can_nang": 64,
+  "chieu_cao": 167,
+  "xung_ho": "Bác sĩ gọi anh là 'anh Lộc'. Anh tự xưng 'tôi' hoặc 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, cẩn thận, tỉ mỉ, nói chuyện lễ phép. Học hết lớp 12, dùng điện thoại thông minh khá thạo, hay tra mạng ban đêm. Rất muốn được giúp nên kể đầy đủ, mang theo cả tập giấy kết quả cũ. Khi lo thì nói nhanh hơn, hay hỏi lại 'vậy có chắc không bác sĩ?'.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: trả lời rõ ràng, thành thật, mang theo hồ sơ, không giấu thông tin. Nỗi sợ ung thư tự nói ra khi được hỏi điều anh lo nhất; trấn an suông chỉ làm anh yên được vài giờ.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c58f68",
+   "toc": "#1e1713",
+   "kieuToc": "ngan",
+   "ao": "#5f7a8c",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đầy bụng, ợ hơi khoảng 4 tháng, muốn khám dạ dày",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 33 tuổi, làm nông (trồng dừa, nuôi tôm), đến khám vì đầy bụng, ợ hơi từng đợt khoảng 4 tháng nay. Đi một mình, mang theo một tập giấy xét nghiệm. Sinh hiệu lúc tiếp đón: mạch 86 l/p, HA 118/74 mmHg, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Lộc bị giữ lại nhập viện để nội soi, chụp CT bụng 'cho chắc' dù không có dấu hiệu báo động (không sụt cân, không thiếu máu, không nuốt nghẹn, không đi cầu phân đen, không nôn kéo dài; VNAGE 2023 Bảng 2). Kết quả bình thường chỉ làm anh yên được vài ngày; ICD-11 mô tả bệnh nhân lo bệnh có xu hướng đi khám và làm xét nghiệm lặp lại không cần thiết, quan hệ thầy thuốc–người bệnh xấu đi (ICD-11 CDDR 2024 mục 6B23, đặc điểm lâm sàng bổ sung). Anh tốn tiền và nghỉ nhiều ngày vườn dừa, còn nỗi sợ vẫn chưa được gọi tên.",
+    "chuyen_tuyen": "Anh Lộc được gửi lên bệnh viện tỉnh khám tiêu hóa vì 'nghi bệnh dạ dày'. Ở đó anh sẽ lại được nghe 'chưa thấy gì' nhưng không ai giải thích vì sao anh cứ lo; chuyên khoa tiêu hóa không gỡ được chuyện lo âu bệnh tật nên anh chuyển sang lo một bệnh khác (QĐ 2058/2020 Bài 25 mục 5: đi khám nhiều chuyên khoa gây tốn kém, có thể dẫn đến lo âu và trầm cảm). Anh mất thêm tiền xe và ngày công, trong khi chẩn đoán chính xác vẫn bị bỏ sót."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi bị đầy bụng, ợ hơi mấy tháng nay, chắc là bao tử có chuyện. Tôi có mang theo giấy xét nghiệm với siêu âm, bác sĩ xem giúp tôi.",
+   "sinh_hieu": {
+    "mach": 86,
+    "ha": "118/74",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đầy bụng, ợ hơi, thỉnh thoảng cồn cào vùng thượng vị khoảng 4 tháng nay. Anh muốn bác sĩ 'xem bao tử có bị gì không'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Bắt đầu sau tiệc cưới người quen: ăn ốc, tôm, ghẹ, đau bụng và tiêu chảy hai ngày rồi tự hết. Từ đó thỉnh thoảng đầy hơi, ợ hơi sau bữa ăn, khoảng ba bốn ngày một lần, mỗi lần một hai giờ. Không liên quan gắng sức.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau hải sản, triệu chứng nhẹ và không tiến triển"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không sụt cân (64 kg từ đầu năm), không nuốt nghẹn hay nuốt đau, không nôn, không nôn ra máu, không đi cầu phân đen hay có máu, không sốt, không thấy khối ở bụng, ăn uống bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu báo động"
+    },
+    {
+     "id": "hanh_vi",
+     "noi_dung": "Mỗi ngày tra mạng 2–3 giờ, nhất là ban đêm, bài nào cũng thấy 'đầy bụng, ợ hơi là dấu hiệu sớm của ung thư dạ dày'. Ngày vài chục lần sờ bụng xem có cục không, soi lưỡi trong gương, hỏi vợ 'em thấy bụng anh có to ra không'. Vợ nói không sao nhưng anh chỉ yên vài giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hành vi kiểm tra cơ thể, tìm thông tin và tìm trấn an lặp lại"
+    },
+    {
+     "id": "kq_cu",
+     "noi_dung": "Một tháng trước tự đi làm: công thức máu (Hb 148 g/L, bạch cầu 7,2 G/L), men gan và creatinin bình thường; siêu âm bụng hai lần ở hai nơi cách nhau ba tuần đều bình thường. Chưa nội soi. Chưa thử H. pylori.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xét nghiệm đã làm và bình thường, không cần lặp lại"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Nỗi lo thật: chú ruột mất vì ung thư dạ dày ba tháng trước, ông cũng bắt đầu bằng đầy bụng. Anh sợ mình bị bệnh đó, không dám nói với vợ vì sợ vợ lo. Anh biết nhiều người bảo 'chắc không có gì' nhưng đến tối lại không tin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật: sợ mắc ung thư; còn nhận ra có thể là quá lo (hiểu biết bệnh còn khá)"
+    },
+    {
+     "id": "anh_huong",
+     "noi_dung": "Ngủ chậm 1–2 giờ vì cầm điện thoại; ban ngày vẫn làm vườn nhưng hay dừng giữa chừng để sờ bụng, hay bỏ việc ra nhà hỏi vợ. Bỏ dở hai buổi chợ tuần trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức ảnh hưởng chức năng"
+    },
+    {
+     "id": "tram_cam",
+     "noi_dung": "Vẫn thấy vui khi con chơi, ăn ngon miệng, không buồn chán, không mất hứng thú, không nghĩ đến tự hại. Không lo nhiều chuyện khác (tiền, vườn, con), không có cơn hồi hộp bất ngờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt với trầm cảm, lo âu lan tỏa, hoảng sợ"
+    },
+    {
+     "id": "thuoc_chat",
+     "noi_dung": "Không dùng thuốc nào, không uống rượu quá mức, không hút thuốc, không cà phê nhiều, không dùng chất.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng: không"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Trước giờ khỏe, không bệnh nền, chưa mổ. Gia đình: chú ruột mất ung thư dạ dày; ba mẹ khỏe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử cá nhân, gia đình"
+    },
+    {
+     "id": "nhieu_gia",
+     "noi_dung": "Ăn tôm, ghẹ ở tiệc cưới cách đây 4 tháng: lúc đó có ngộ độc nhẹ tự hết. Anh nghĩ 'chắc hải sản làm hư bao tử'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Yếu tố khởi phát (không giải thích cho triệu chứng kéo dài 4 tháng)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nhìn lo lắng nhưng hợp tác. Niêm hồng, củng mạc không vàng, không sụt cân rõ, không hạch cổ hay hạch thượng đòn.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Nhịp đều, tần số 86 l/p, không tiếng thổi.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Phổi trong, không ran.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, cân đối, ấn nhẹ thượng vị hơi khó chịu nhưng không phản ứng thành bụng, không đề kháng, không sờ thấy khối, gan lách không to, nhu động ruột bình thường.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Gọn gàng, hợp tác, mạch lạc. Khí sắc không trầm, vui khi nhắc đến con. Lo lắng tập trung vào một chủ đề: sợ bị ung thư dạ dày. Hiểu biết bệnh còn: có lúc công nhận 'có thể mình quá lo' nhưng buổi tối lại không tin, không đến mức hoang tưởng. Không ảo giác, không ý tưởng tự hại, không mất ngủ do trầm cảm.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói rõ ràng, lo lắng khi nói về bụng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "Hb 148 g/L · BC 7,2 G/L · TC 262 G/L (kết quả đã mang theo, 1 tháng trước)",
+     "n": "Không có dấu hiệu báo động như thiếu máu, sụt cân (VNAGE 2023 Bảng 2); đã có kết quả bình thường 1 tháng trước nên làm lại không đổi xử trí. Lặp lại xét nghiệm cho người lo bệnh chỉ duy trì vòng lẩn quẩn tìm trấn an (ICD-11 CDDR 2024 mục 6B23, đặc điểm bổ sung)."
+    },
+    "hp_phan": {
+     "v": "a",
+     "r": "Kháng nguyên H. pylori trong phân: âm tính",
+     "n": "Người dưới 50 tuổi bị khó tiêu, không có dấu hiệu báo động: nên thử H. pylori bằng phương pháp không xâm lấn (Maastricht VI/Florence 2022, nhóm 2 Chẩn đoán, Statement 1). Làm một lần hợp lý vì chưa thử; kết quả âm tính cũng là dữ kiện cụ thể để trả lời nỗi lo."
+    },
+    "abdus": {
+     "v": "u",
+     "r": "Siêu âm bụng: bình thường (đã làm 2 lần, mang theo)",
+     "n": "Đã bình thường hai lần; làm lần thứ ba là xét nghiệm lặp lại để trấn an."
+    },
+    "noi_soi": {
+     "v": "u",
+     "r": "Chưa làm. Nếu làm: niêm mạc dạ dày bình thường.",
+     "n": "Không có dấu hiệu báo động, dưới 40 tuổi (VNAGE 2023 Bảng 2: khó tiêu mới khởi phát ≥ 40 tuổi ở nam, hoặc triệu chứng không đáp ứng PPI thực nghiệm). Có sẵn nội soi không làm thay đổi chẩn đoán lo âu; hẹn xem lại nếu xuất hiện dấu hiệu báo động."
+    },
+    "ct_bung": {
+     "v": "u",
+     "r": "Không làm.",
+     "n": "Không có chỉ định: không dấu hiệu báo động, khám bụng bình thường, siêu âm hai lần bình thường; nguồn lực đầy đủ không phải là chỉ định."
+    },
+    "afp": {
+     "v": "u",
+     "r": "Không làm.",
+     "n": "Dấu ấn ung thư không dùng để sàng lọc hay trấn an ở người không triệu chứng báo động; không có trong tài liệu đã tải một khuyến cáo dùng dấu ấn ung thư cho trường hợp này."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "Không làm.",
+     "n": "Không hồi hộp, run, sụt cân hay tiêu chảy kéo dài; QĐ 2058/2020 Bài 22 mục 3.2 chỉ nêu loại trừ cường giáp khi bệnh cảnh gợi ý. Có thể làm ở lượt sau nếu xuất hiện triệu chứng mới."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lo âu bệnh tật (ICD-11 6B23, mức hiểu biết trung bình đến tốt)",
+     "ok": 1,
+     "n": "Sợ dai dẳng bị bệnh nặng (ung thư dạ dày) kèm hành vi lặp lại: sờ bụng, tra mạng 2–3 giờ/ngày, tìm trấn an từ vợ và làm xét nghiệm nhiều lần; gây ảnh hưởng sinh hoạt (ICD-11 CDDR 2024 mục 6B23, đặc điểm thiết yếu). Mức hiểu biết tốt do có lúc chấp nhận quá lo (6B23.0). Lo vẫn dai dẳng dù đã có siêu âm và xét nghiệm bình thường (ngưỡng bình thường, cùng mục)."
+    },
+    {
+     "t": "Ung thư dạ dày, loét hoặc bệnh thực thể tiêu hóa khác",
+     "n": "Không có dấu hiệu báo động (VNAGE 2023 Bảng 2), 33 tuổi, khám bụng bình thường, Hb bình thường, siêu âm hai lần bình thường, kháng nguyên H. pylori âm tính. ICD-11 yêu cầu cân nhắc kỹ bệnh thực thể khi bệnh nhân có nguy cơ cao (ở đây có tiền sử gia đình người chú, nên cần loại trừ cẩn thận, nhưng không cần làm quá mức). Hẹn tái khám và dặn dấu hiệu quay lại."
+    },
+    {
+     "t": "Khó tiêu chức năng đơn thuần",
+     "n": "Đầy hơi ợ hơi nhẹ có thể thật sự tồn tại và được lo âu làm nặng thêm; không loại trừ cùng tồn tại. Hạn chế lo nhiều hơn nên là mục tiêu chính vì mức ảnh hưởng chức năng đến từ lo bệnh, không từ triệu chứng bụng (ICD-11 CDDR 2024 mục 6B23 ranh giới với rối loạn đau khổ cơ thể: người đau khổ cơ thể lo triệu chứng, người nghi bệnh lo mắc bệnh nặng)."
+    },
+    {
+     "t": "Rối loạn lo âu lan tỏa",
+     "n": "Không lo nhiều lĩnh vực (tiền, vườn, gia đình); nỗi lo giới hạn ở sức khỏe và kéo dài dù đã khám (ICD-11 CDDR 2024 mục 6B23, ranh giới với lo âu lan tỏa; QĐ 2058/2020 Bài 22 mục 3.1.1)."
+    },
+    {
+     "t": "Rối loạn hoảng sợ",
+     "n": "Không có cơn hồi hộp, khó thở, sợ chết bất ngờ (ICD-11 CDDR 2024 mục 6B23, ranh giới với rối loạn hoảng sợ)."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Ăn ngon, vui khi gặp con, không mất hứng thú, không nghĩ tự hại; lo bệnh không nằm trong một chùm triệu chứng trầm cảm (ICD-11 CDDR 2024 mục 6B23, ranh giới với rối loạn trầm cảm)."
+    },
+    {
+     "t": "Rối loạn hoang tưởng nghi bệnh hoặc loạn thần",
+     "n": "Anh công nhận có lúc quá lo, nội dung hợp lý về mặt y học, không ảo giác hay rối loạn tư duy (ICD-11 CDDR 2024 mục 6B23, ranh giới với rối loạn hoang tưởng)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích cấu trúc, đồng cảm: ghi nhận nỗi sợ ung thư vì chú ruột; nêu các dữ kiện (không dấu hiệu báo động, khám bình thường, siêu âm hai lần bình thường, Hb bình thường, H. pylori âm tính); nói rõ chẩn đoán lo âu về bệnh tật là một bệnh có điều trị chứ không phải 'giả bệnh'",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 25 mục 4.1: liệu pháp tâm lý là liệu pháp chủ đạo, kết hợp điều trị triệu chứng cơ thể; Bài 22 mục 4.1: giải thích hợp lý về các vấn đề và triệu chứng cơ thể. ICD-11 CDDR 2024 mục 6B23: người lo bệnh thường bị đánh giá là bệnh nhân 'tưởng tượng', quan hệ xấu đi nếu không được xem trọng. Kỹ thuật trấn an cụ thể: không có trong tài liệu đã tải; ca ghi cấu trúc theo thiết kế của ca."
+    },
+    {
+     "t": "Không chỉ định thêm xét nghiệm hay thăm dò hình ảnh lặp lại (nội soi, CT bụng, dấu ấn ung thư, làm lại công thức máu, siêu âm lần ba); chỉ làm xét nghiệm có chỉ định và hẹn xem lại nếu có dấu hiệu báo động",
+     "v": "c",
+     "n": "VNAGE 2023 Bảng 2 (dấu hiệu báo động); Maastricht VI 2022 nhóm 2 Statement 1; QĐ 2058/2020 Bài 25 mục 5: đi khám nhiều nơi gây tốn kém và dẫn đến lo âu, trầm cảm. Có đủ nguồn lực không phải chỉ định."
+    },
+    {
+     "t": "Hướng dẫn giảm hành vi duy trì lo: bớt tra mạng (ví dụ chỉ trong một khung giờ ngắn, không tra ban đêm), không sờ bụng và soi lưỡi nhiều lần, cùng vợ giảm trả lời trấn an lặp lại",
+     "v": "c",
+     "n": "ICD-11 CDDR 2024 mục 6B23: kiểm tra cơ thể, tìm thông tin, tìm trấn an lặp lại là hành vi thiết yếu của chẩn đoán; nghiên cứu về tìm thông tin y khoa quá mức qua mạng (cyberchondria): Starcevic & Berle 2013, Expert Rev Neurother 13(2):205-13 (nguồn bổ sung tự tìm, PubMed 23368807). Số giờ giới hạn cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thử kháng nguyên H. pylori trong phân một lần; nếu âm tính thì không điều trị diệt H. pylori",
+     "v": "a",
+     "n": "Maastricht VI 2022, nhóm 2 Statement 1: người dưới 50 tuổi khó tiêu, không dấu hiệu báo động, nên thử không xâm lấn. Không làm cũng chấp nhận được vì khó tiêu của anh nhẹ và đang lo bệnh."
+    },
+    {
+     "t": "Hẹn tái khám theo lịch cố định sau 4 tuần (không đợi đến khi lo), dặn dấu hiệu cần quay lại sớm: sụt cân, nuốt nghẹn, nôn kéo dài hoặc ra máu, đi cầu phân đen, thiếu máu",
+     "v": "c",
+     "n": "Dấu hiệu báo động: VNAGE 2023 Bảng 2. Khoảng cách 4 tuần: lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện tỉnh để nội soi, CT bụng cho yên tâm",
+     "v": "w",
+     "n": "Không có dấu hiệu báo động (VNAGE 2023 Bảng 2). Làm xét nghiệm đắt tiền để trấn an duy trì vòng lẩn quẩn, tốn kém và xấu đi quan hệ (ICD-11 CDDR 2024 mục 6B23; QĐ 2058/2020 Bài 25 mục 5)."
+    },
+    {
+     "t": "Kê benzodiazepin (diazepam, alprazolam) để bớt lo ngay hôm nay",
+     "v": "h",
+     "n": "Anh không có cơn lo cấp cần cắt ngay; mhGAP 2023 ANX6: không khuyến cáo benzodiazepin cho lo âu lan tỏa hoặc hoảng sợ, chỉ ngắn hạn 3–7 ngày cho lo âu cấp nặng. QĐ 2058/2020 Bài 25 mục 4.1 'hạn chế lạm dụng nhóm giải lo âu gây nghiện'. Chấm h vì chưa có chỉ định và có nguy cơ phụ thuộc."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lo âu bệnh tật (ICD-11 6B23.0, mức hiểu biết trung bình đến tốt); ICD-10 tương ứng nhóm rối loạn dạng cơ thể, QĐ 2058/2020 chỉ có Bài 25 cơ thể hóa nên không có bài riêng cho nghi bệnh",
+     "Hành vi duy trì: sờ bụng, tra mạng nhiều giờ, tìm trấn an từ vợ, làm xét nghiệm lặp lại",
+     "Khó tiêu nhẹ (đầy hơi, ợ hơi) không có dấu hiệu báo động",
+     "Chưa có bằng chứng bệnh thực thể: Hb bình thường, siêu âm bụng hai lần bình thường, kháng nguyên H. pylori âm tính",
+     "Không phải lo âu lan tỏa, hoảng sợ, trầm cảm, loạn thần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do → khởi phát và tính chất đầy hơi → dấu hiệu báo động (sụt cân, nuốt nghẹn, nôn, phân đen, thiếu máu) → hành vi (tra mạng, sờ bụng, xin trấn an) → kết quả đã làm → điều anh lo nhất → ảnh hưởng chức năng → khí sắc, ngủ, hoảng sợ → thuốc, chất, tiền sử gia đình.",
+     "Tiêu chuẩn: nỗi sợ dai dẳng mắc bệnh nặng, kèm hành vi lặp lại (kiểm tra cơ thể, tìm thông tin, tìm trấn an) và ảnh hưởng chức năng (ICD-11 CDDR 2024 mục 6B23 tr. 317). Anh có đủ: sợ ung thư dạ dày, tra mạng 2–3 giờ/ngày, sờ bụng hàng chục lần, bỏ dở công việc.",
+     "Mức hiểu biết 'trung bình đến tốt' khi phần lớn thời gian anh còn nghĩ khả năng mình quá lo (ICD-11 CDDR 2024 mục 6B23.0 tr. 318).",
+     "Ngưỡng bình thường: lo vẫn kéo dài dù đã khám và trấn an; nhưng vì anh có tiền sử gia đình ung thư dạ dày, cần ngưỡng cao hơn, nên phải loại trừ bệnh thực thể một cách hợp lý trước khi gán chẩn đoán (ICD-11 CDDR 2024 mục 6B23, ranh giới với bình thường tr. 319).",
+     "Loại trừ thực thể bằng lâm sàng: không có dấu hiệu báo động theo VNAGE 2023 Bảng 2 (khó tiêu mới khởi phát ở nam cần từ 40 tuổi mới tính); dưới 50 tuổi thử H. pylori không xâm lấn (Maastricht VI 2022 nhóm 2 Statement 1).",
+     "Phân biệt: lo âu lan tỏa lo nhiều chuyện (không có); hoảng sợ có cơn bất ngờ (không); trầm cảm có chùm triệu chứng khác (không); rối loạn đau khổ cơ thể lo triệu chứng chứ không lo mắc bệnh (ICD-11 CDDR 2024 mục 6B23 tr. 320–321).",
+     "Bẫy dễ gặp: coi tập kết quả bình thường là 'đã xong', hoặc làm thêm nội soi/CT cho đủ. Cả hai đều bỏ sót nỗi sợ thật và nuôi vòng lẩn quẩn."
+    ],
+    "phan_tich_xu_tri": [
+     "Mục tiêu lượt 1: nhận diện lo âu bệnh tật, xây dựng quan hệ, bắt đầu giảm hành vi duy trì, tránh làm thêm thăm dò. Lượt này chưa dùng thuốc để thầy thuốc và người bệnh còn thử hướng không thuốc trước; QĐ 2058/2020 Bài 25 mục 4.1 xếp liệu pháp tâm lý là chủ đạo.",
+     "Không làm xét nghiệm lặp lại: CTM, siêu âm đã bình thường. Chỉ làm kháng nguyên H. pylori (Maastricht VI 2022) vì chưa từng thử.",
+     "Nội soi, CT bụng, dấu ấn ung thư: không có chỉ định, dù nguồn lực đầy đủ. Làm 'cho chắc' có hại hơn lợi vì củng cố niềm tin 'chắc mình có bệnh nên bác sĩ mới làm'.",
+     "Tái khám theo lịch (không chờ lúc lo) để người bệnh không phải đi tìm khám ở nơi khác; quay lại sớm nếu có dấu hiệu báo động (VNAGE 2023 Bảng 2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc ở lượt này",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "Xem lại sau 4 tuần",
+      "ghi_chu": "Không kê benzodiazepin: mhGAP 2023 ANX6 không khuyến cáo (tối đa 3–7 ngày cho lo âu cấp nặng), QĐ 2058/2020 Bài 25 mục 4.1 hạn chế giải lo âu gây nghiện. Thuốc chống trầm cảm: xem lượt sau nếu không đỡ."
+     }
+    ],
+    "dan_do": [
+     "Chưa thấy dấu hiệu bệnh nặng ở bụng; đầy hơi, ợ hơi là triệu chứng thường gặp, sẽ theo dõi chứ không bỏ.",
+     "Nỗi sợ ung thư vì chú ruột là có thật và dễ hiểu; đây là tình trạng lo âu về bệnh tật, gặp ở người rất cẩn thận, và có thể điều trị.",
+     "Giảm tra mạng: chỉ một lần mỗi ngày, tối đa vài phút, không tra ban đêm. Bớt sờ bụng, soi lưỡi; nhờ vợ đừng trả lời trấn an mỗi lần hỏi.",
+     "Tập thở chậm, đi bộ hoặc làm vườn đều đặn (QĐ 2058/2020 Bài 22 mục 4.1: hoạt động thể lực, thư giãn). Tránh rượu và thuốc ngủ.",
+     "Quay lại ngay nếu sụt cân, nuốt nghẹn, nôn nhiều hoặc ra máu, đi cầu phân đen, da xanh xao.",
+     "Hẹn tái khám sau 4 tuần dù cảm thấy lo hay không (lịch hẹn theo thiết kế của ca, không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Anh Lộc tái khám đúng hẹn sau 4 tuần. Nói vẫn lo, bụng vẫn hay đầy hơi và 'chưa yên tâm'. Mang theo một tờ kết quả mới. Sinh hiệu: mạch 84 l/p, HA 116/72 mmHg, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Lộc được nhập viện tâm thần hoặc nội khoa để 'điều trị lo âu', trong khi anh tỉnh táo, hiểu biết còn tốt, không có ý tưởng tự hại và sinh hoạt gia đình bình thường; không có tiêu chuẩn nhập viện trong tài liệu đã tải cho tình huống này. Anh nghỉ vườn dừa nhiều ngày, thêm xấu hổ vì bị coi là 'bệnh thần kinh', và khả năng bỏ dở điều trị cao.",
+    "chuyen_tuyen": "Anh Lộc được gửi lên tuyến trên chụp CT hoặc nội soi lần nữa vì 'còn lo'. Cả nội soi trước đó cũng không thấy ung thư, nên xét nghiệm thêm chỉ chuyển nỗi sợ sang chỗ khác (ICD-11 CDDR 2024 mục 6B23: đi khám nhiều, làm xét nghiệm không cần thiết, quan hệ thầy thuốc–người bệnh xấu đi). Anh tốn kém vài triệu đồng, mất thêm vài ngày, trong khi điều trị đúng (liệu pháp tâm lý và thuốc) vẫn chưa bắt đầu."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi vẫn còn lo lắm. Tôi đã làm theo lời bác sĩ rồi mà đêm nào cũng thấy không yên. Tuần trước tôi tự đi nội soi cho chắc, kết quả đây.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "116/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Vẫn lo bị ung thư dạ dày, đầy bụng ợ hơi chưa đỡ, ngủ muộn. Tuần trước tự đi nội soi vì 'không chịu được nữa'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ, và đã tự đi làm thêm"
+    },
+    {
+     "id": "kq_noi_soi",
+     "noi_dung": "Nội soi dạ dày ở bệnh viện tỉnh (tờ kết quả đem theo): viêm dạ dày nông nhẹ vùng hang vị, không loét, không khối, không thấy tổn thương nghi ác tính; bác sĩ nội soi nói 'không có gì nguy hiểm'. Anh vẫn thắc mắc 'viêm thì có thành ung thư không'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả mới; viêm nông không giải thích cho mức lo; anh vẫn không yên"
+    },
+    {
+     "id": "thuc_hien",
+     "noi_dung": "Anh có làm một phần: tra mạng giảm còn khoảng 1 giờ/ngày nhưng vẫn tra ban đêm; vẫn sờ bụng hàng chục lần/ngày; hỏi vợ ít hơn nhưng chuyển sang hỏi bạn bè và bác sĩ tư nhân. Không biết 'giảm' bao nhiêu mới đủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ một phần, vẫn còn hành vi duy trì (một lý do không đỡ)"
+    },
+    {
+     "id": "trieu_chung_moi",
+     "noi_dung": "Không sụt cân (64 kg), không nuốt nghẹn, không nôn, không phân đen, không sốt, không hồi hộp, không run tay, không tiêu chảy kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có triệu chứng mới cần loại trừ thực thể"
+    },
+    {
+     "id": "khi_sac",
+     "noi_dung": "Ngủ muộn, hay thức giấc sớm vì nghĩ chuyện bệnh, nhưng vẫn ăn ngon, vẫn cười, không mất hứng thú, không ý nghĩ tự hại. Chưa từng dùng thuốc ngủ hay rượu để đỡ lo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không trầm cảm, không dùng chất"
+    },
+    {
+     "id": "anh_huong",
+     "noi_dung": "Bỏ 3 buổi chợ trong tháng, tốn thêm khoảng bốn triệu đồng cho nội soi và khám tư. Vợ bắt đầu bực vì thấy anh chỉ nói chuyện bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức ảnh hưởng chức năng và kinh tế tăng"
+    },
+    {
+     "id": "san_sang",
+     "noi_dung": "Anh đồng ý thử cách điều trị khác nếu bác sĩ nói giải thích rõ. Sợ thuốc 'gây nghiện' hoặc 'thuốc thần kinh'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhu cầu giải thích về thuốc, hợp tác"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm hồng, không sụt cân, không hạch.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn thượng vị không đau rõ, không khối, gan lách không to.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Hợp tác, mạch lạc, lo lắng khi nói về ung thư, nói nhanh hơn. Khí sắc không trầm, vẫn cười khi nói về con. Hiểu biết bệnh còn: biết 'lo hơi quá' nhưng 'không dám chắc'. Không hoang tưởng, không ảo giác, không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, hơi mất ngủ, lo lắng khi nói về bụng."
+    },
+    "tim": {
+     "a": "Nhịp đều 84 l/p, không tiếng thổi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "tsh": {
+     "v": "a",
+     "r": "TSH, FT4: trong giới hạn bình thường",
+     "n": "Chỉ xét khi cần loại trừ cường giáp gây lo âu (QĐ 2058/2020 Bài 22 mục 3.2); anh không có hồi hộp, run, sụt cân nên làm hoặc không làm đều chấp nhận."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Không làm (lần trước bình thường, không triệu chứng mới).",
+     "n": "Làm lại không đổi xử trí (ICD-11 CDDR 2024 mục 6B23: xét nghiệm lặp lại không cần thiết duy trì bệnh)."
+    },
+    "noi_soi": {
+     "v": "u",
+     "r": "Đã làm ở tuyến trên: viêm dạ dày nông nhẹ vùng hang vị, không loét, không khối.",
+     "n": "Nội soi lần này do bệnh nhân tự đi; không làm lại. Viêm dạ dày nông phổ biến, không giải thích cho mức lo; bình thường không có chỉ định nội soi lặp lại (VNAGE 2023 Bảng 2: chỉ khi có dấu hiệu báo động)."
+    },
+    "ct_bung": {
+     "v": "u",
+     "r": "Không làm.",
+     "n": "Nội soi và siêu âm đã bình thường; không dấu hiệu báo động."
+    },
+    "hp_phan": {
+     "v": "u",
+     "r": "Đã âm tính ở lượt 1 (nếu thử).",
+     "n": "Không cần làm lại."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lo âu bệnh tật chưa đỡ sau can thiệp bước đầu, hiểu biết còn, kèm lo âu mức vừa và mất ngủ khởi phát muộn",
+     "ok": 1,
+     "n": "Nỗi sợ ung thư dai dẳng và hành vi lặp lại vẫn còn, thậm chí thêm đi khám tư và nội soi tự yêu cầu (ICD-11 CDDR 2024 mục 6B23). Lý do chưa đỡ: thực hiện giảm hành vi chưa đủ, nội soi 'bình thường' lại gieo nghi 'viêm có thành ung thư không', chưa có điều trị chuyên biệt."
+    },
+    {
+     "t": "Bệnh thực thể mới hoặc bỏ sót (ung thư dạ dày, cường giáp, thiếu máu)",
+     "n": "Nội soi không thấy tổn thương nghi ác tính; không sụt cân, thiếu máu, nuốt nghẹn hay triệu chứng cường giáp. Thấy viêm dạ dày nông nhẹ là phát hiện thường gặp không giải thích mức lo."
+    },
+    {
+     "t": "Giai đoạn trầm cảm hoặc rối loạn lo âu lan tỏa xuất hiện sau",
+     "n": "Vẫn ăn ngon, vui, không mất hứng thú, không tự hại; vẫn chỉ lo về sức khỏe (ICD-11 CDDR 2024 mục 6B23 ranh giới với trầm cảm và lo âu lan tỏa). Tái đánh giá nếu có thêm lo nhiều chuyện hoặc mất hứng thú."
+    },
+    {
+     "t": "Lạm dụng chất hoặc thuốc gây lo âu",
+     "n": "Không rượu, không cà phê nhiều, không thuốc (QĐ 2058/2020 Bài 22 mục 3.2: loại trừ chất tác động tâm thần)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích lại chẩn đoán và vì sao chưa đỡ (hành vi kiểm tra và tìm trấn an nuôi lo, kết quả bình thường chỉ yên vài giờ); ghi nhận anh đã cố gắng; không làm thêm nội soi, CT hay xét nghiệm khác",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 25 mục 4.1 (liệu pháp tâm lý chủ đạo), mục 5 (đi khám nhiều gây tốn kém, dẫn đến lo âu và trầm cảm); ICD-11 CDDR 2024 mục 6B23 (thăm dò lặp lại, quan hệ xấu đi)."
+    },
+    {
+     "t": "Liệu pháp tâm lý có cấu trúc làm trụ cột, ví dụ liệu pháp nhận thức hành vi hướng vào lo bệnh (làm rõ vòng lẩn quẩn, thử giảm kiểm tra, tìm trấn an, tra mạng); nếu có chuyên viên tâm lý thì chuyển ngay, không có thì bác sĩ hướng dẫn tại phòng khám",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 25 mục 4.1, 4.3: liệu pháp tâm lý là chủ đạo; Bài 22 mục 4.1: giải thích hợp lý, tập đối mặt tình huống lo, thư giãn. mhGAP 2023 ANX2 (CBT ngắn có cấu trúc, mạnh) viết cho lo âu lan tỏa và hoảng sợ, không đặc hiệu cho lo bệnh nên chỉ ngoại suy. Bằng chứng riêng cho CBT trong lo âu bệnh tật và số buổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm thuốc ức chế tái hấp thu serotonin chọn lọc (SSRI) như sertralin 50 mg buổi sáng, đánh giá lại sau 2–4 tuần, kèm liệu pháp tâm lý, vì lo kéo dài, mất ngủ và chưa đỡ sau can thiệp bước đầu; hoặc chỉ tiếp tục liệu pháp tâm lý nếu anh từ chối thuốc",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 25 mục 4.3 liệt kê SSRI (sertralin 50–200 mg/24 giờ) cho rối loạn dạng cơ thể, 'khởi liều thấp, tăng dần'; Bài 22 mục 4.3 cũng nêu sertralin 50–200 mg. mhGAP 2023 ANX1 (SSRI có điều kiện, bằng chứng thấp) viết cho lo âu lan tỏa và hoảng sợ. Chỉ định đặc hiệu cho lo bệnh: không có trong tài liệu đã tải. Chấm a vì hai cách đều có cơ sở và quyết định chung với người bệnh (mhGAP 2023 ANX1, nhận xét: cân nhắc cùng người bệnh)."
+    },
+    {
+     "t": "Hướng dẫn cụ thể giảm hành vi duy trì lo, đặt mục tiêu theo tuần: khung giờ tra mạng, bớt sờ bụng, ngừng tìm khám tư thêm, nhờ vợ cùng hỗ trợ",
+     "v": "c",
+     "n": "ICD-11 CDDR 2024 mục 6B23 (hành vi thiết yếu); Starcevic & Berle 2013, PubMed 23368807 (nguồn bổ sung tự tìm). Mốc số giờ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tái khám sau 2 tuần để xem dung nạp thuốc và tiến triển, rồi lịch đều đặn mỗi 4 tuần",
+     "v": "c",
+     "n": "Khoảng cách tái khám: lựa chọn biên tập của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển nội soi hay CT lặp lại, hoặc nhập viện để cho yên tâm",
+     "v": "w",
+     "n": "Nội soi đã không thấy khối; không dấu hiệu báo động (VNAGE 2023 Bảng 2). ICD-11 CDDR 2024 mục 6B23, QĐ 2058/2020 Bài 25 mục 5."
+    },
+    {
+     "t": "Kê benzodiazepin dùng đều hằng ngày",
+     "v": "w",
+     "n": "mhGAP 2023 ANX6: không khuyến cáo benzodiazepin cho lo âu lan tỏa và hoảng sợ (mạnh); QĐ 2058/2020 Bài 25 mục 4.1 hạn chế lạm dụng nhóm gây nghiện. Tài liệu Bộ Y tế vẫn liệt kê diazepam, lorazepam, bromazepam, alprazolam (Bài 22 mục 4.3, Bài 25 mục 4.3) nên dùng ngắn hạn dưới 7 ngày vẫn chấp nhận được; dùng đều là w."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lo âu bệnh tật (ICD-11 6B23.0), chưa đỡ sau bước đầu không thuốc, kèm lo âu mức vừa và mất ngủ khởi phát muộn",
+     "Viêm dạ dày nông nhẹ vùng hang vị trên nội soi (phát hiện không giải thích mức lo)",
+     "Hành vi duy trì còn: tra mạng ban đêm, sờ bụng, đi khám tư, nội soi theo yêu cầu",
+     "Không dấu hiệu bệnh thực thể mới; không trầm cảm, không dùng chất"
+    ],
+    "phan_tich_chan_doan": [
+     "Không đỡ là câu hỏi chính của lượt: kiểm tra lần lượt chẩn đoán sai? thực hiện kém? hành vi duy trì? bệnh thực thể mới? yếu tố kèm (trầm cảm, dùng chất)? Ở đây chẩn đoán vẫn đúng, nguyên nhân là thực hiện giảm hành vi chưa đủ và trấn an bằng kết quả không giải quyết được nỗi sợ, thêm nội soi tự yêu cầu làm cho anh 'thử thách' kết quả (ICD-11 CDDR 2024 mục 6B23, đặc điểm bổ sung).",
+     "Hỏi lại có triệu chứng mới nghiêm trọng không: sụt cân, nuốt nghẹn, nôn, phân đen, hồi hộp, run, sốt; không có (VNAGE 2023 Bảng 2; QĐ 2058/2020 Bài 22 mục 3.2).",
+     "Tâm thần: khí sắc không trầm, không tự hại; lo giới hạn ở sức khỏe; hiểu biết còn (ICD-11 CDDR 2024 mục 6B23 tr. 318, 321).",
+     "Viêm dạ dày nông nhẹ trên nội soi là phát hiện thường gặp: nói rõ đây không phải tiền thân chắc chắn của ung thư để trả lời câu hỏi anh đang thắc mắc; mức độ nguy cơ chuyển thành ung thư: không có trong tài liệu đã tải nên không đưa con số."
+    ],
+    "phan_tich_xu_tri": [
+     "Không thêm thăm dò. Xét nghiệm duy nhất có thể cân nhắc là TSH/FT4 vì lo âu nên loại cường giáp, nhưng bệnh sử không gợi ý nên không bắt buộc (QĐ 2058/2020 Bài 22 mục 3.2).",
+     "Bước chuyển: từ giải thích và hướng dẫn chung sang điều trị cụ thể: liệu pháp tâm lý có cấu trúc làm trụ cột (QĐ 2058/2020 Bài 25 mục 4.1), thêm SSRI nếu anh đồng ý (Bài 25 mục 4.3; mhGAP 2023 ANX1 cho lo âu lan tỏa và hoảng sợ).",
+     "Thuốc: sertralin 50 mg là liều thấp nhất trong khoảng 50–200 mg/24 giờ của Bộ Y tế, theo nguyên tắc 'khởi liều thấp, tăng dần' (Bài 25 mục 4.1, 4.3). Liều 25 mg, thời gian khởi phát tác dụng và tác dụng phụ cụ thể: không có trong tài liệu đã tải.",
+     "Không dùng benzodiazepin đều đặn: mhGAP 2023 ANX6. Ngắn hạn 3–7 ngày cho lo âu cấp nặng chỉ khi có cơn cấp, không áp dụng ở anh.",
+     "Tái khám sau 2 tuần để hỏi dung nạp thuốc và bài tập hành vi, rồi mỗi 4 tuần: lịch cố định không phụ thuộc cảm giác lo (khoảng cách theo thiết kế của ca, không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "50 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "14 ngày rồi tái khám",
+      "ghi_chu": "QĐ 2058/2020 Bài 25 mục 4.3 và Bài 22 mục 4.3: sertralin 50–200 mg/24 giờ; Bài 25 mục 4.1: khởi liều thấp, tăng từ từ. Chỉ khi anh đồng ý sau khi được giải thích. Thời gian có tác dụng, tác dụng phụ, liều 25 mg: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Nội soi của anh cho thấy không có khối, không có loét; viêm dạ dày nông nhẹ rất thường gặp. Lo ung thư không phải vì anh yếu đuối mà vì não anh cảnh giác quá mức với tín hiệu của cơ thể.",
+     "Thử bài tập theo tuần (mốc theo thiết kế của ca, không có trong tài liệu đã tải): tra mạng một lần mỗi ngày, tối đa vài phút và không sau 8 giờ tối; không sờ bụng kiểm tra; khi muốn hỏi vợ 'có sao không', ghi vào giấy rồi chờ 15 phút.",
+     "Nếu dùng sertralin: uống đều mỗi sáng, không tự ngưng hay tăng liều, kể cho bác sĩ nếu thấy khó chịu. Thuốc không gây nghiện theo cách thuốc ngủ, nhưng ngưng đột ngột không nên (tác dụng khi ngưng thuốc: không có trong tài liệu đã tải; hỏi bác sĩ trước khi ngưng).",
+     "Không tự đi nội soi hay chụp CT nữa; nếu có dấu hiệu sụt cân, nuốt nghẹn, nôn, phân đen, quay lại ngay.",
+     "Tái khám sau 2 tuần (theo thiết kế của ca, không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Anh Lộc tái khám sau 8 tuần kể từ lần trước (đã có một lần tái khám sau 2 tuần giữa chừng). Nói thấy 'đỡ nhiều', ngủ được hơn. Có hỏi về một 'gói tầm soát ung thư toàn thân' mà đài phát thanh quảng cáo. Sinh hiệu: mạch 76 l/p, HA 114/70 mmHg, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Lộc nhập viện làm 'gói tầm soát toàn thân' gồm nhiều xét nghiệm và dấu ấn ung thư. Khi một chỉ số lệch nhẹ vô nghĩa (thường gặp khi làm nhiều xét nghiệm), nỗi sợ bùng lại, anh phải làm thêm thăm dò để 'chắc chắn' và quay lại vòng xin trấn an mà tám tuần điều trị đã giúp thoát ra. Không có chỉ định sàng lọc nào cho anh trong tài liệu đã tải.",
+    "chuyen_tuyen": "Anh Lộc được gửi lên tuyến trên làm sàng lọc vì 'còn lo'. Anh đang đỡ rõ, hành vi tìm trấn an đã giảm; chuyển tuyến lúc này gửi tín hiệu rằng bác sĩ cũng nghi anh có bệnh, làm lung lay điều trị và dễ làm anh bỏ thuốc, bỏ lịch hẹn (ICD-11 CDDR 2024 mục 6B23: bệnh mạn, tái phát; đi khám nhiều làm xấu quan hệ thầy thuốc–người bệnh)."
+   },
+   "loi_mo": "Dạ bác sĩ, giờ tôi đỡ nhiều rồi, ngủ được, ít sờ bụng hơn. Mà tôi nghe đài nói có gói tầm soát ung thư toàn thân, tôi có nên làm cho chắc không?",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "114/70",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đỡ rõ: chỉ còn đầy hơi nhẹ thỉnh thoảng; tra mạng khoảng 10–15 phút/ngày, sờ bụng thỉnh thoảng; hỏi 'có nên làm gói tầm soát ung thư toàn thân không'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng điều trị và cám dỗ làm sàng lọc"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống sertralin đều mỗi sáng. Tuần đầu hơi buồn nôn và buồn ngủ ban ngày, hết sau khoảng một tuần. Đi khám tâm lý theo hẹn và tập bài tập giảm kiểm tra. Không bỏ liều nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt, tác dụng phụ nhẹ đã hết"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Đi chợ đủ các buổi, ngủ khoảng 7 giờ, vợ nói anh 'nói chuyện khác ngoài bệnh'. Không còn bỏ dở việc để sờ bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chức năng hồi phục"
+    },
+    {
+     "id": "canh_bao_am",
+     "noi_dung": "Không sụt cân, không nuốt nghẹn, không nôn, không phân đen, không sốt, không triệu chứng mới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu báo động"
+    },
+    {
+     "id": "an_toan",
+     "noi_dung": "Không ý nghĩ tự hại, không bồn chồn bất thường, không mất ngủ nặng hơn, không tăng hưng phấn, không rối loạn tình dục đáng kể.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Theo dõi an toàn khi dùng thuốc"
+    },
+    {
+     "id": "quang_cao",
+     "noi_dung": "Nghe đài thấy gói khoảng bốn triệu đồng: 'nội soi, CT, dấu ấn ung thư'. Thấy lo trở lại ngay khi nghe. Anh nhớ lời bác sĩ dặn nhưng vẫn muốn hỏi 'cho chắc'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo lắng tái khơi dậy, nhưng chấp nhận hỏi trước"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tươi hơn, niêm hồng, cân nặng 64 kg (không đổi), không hạch.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn nhẹ không đau, không khối.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Thoải mái hơn, nói chậm, cười tự nhiên. Khí sắc bình thường. Lo về bệnh còn thoảng, tự nhận ra 'hơi quá lo' và nghe được giải thích. Không hoang tưởng, không ý tưởng tự hại, không dấu hiệu hưng phấn bất thường.",
+     "k": 1,
+     "hien": "Tỉnh, thoải mái hơn, hợp tác, nói rõ ràng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "Không làm.",
+     "n": "Không có chỉ định; không triệu chứng mới."
+    },
+    "noi_soi": {
+     "v": "u",
+     "r": "Không làm.",
+     "n": "Đã nội soi bình thường, không dấu hiệu báo động (VNAGE 2023 Bảng 2)."
+    },
+    "ct_bung": {
+     "v": "u",
+     "r": "Không làm.",
+     "n": "Không chỉ định."
+    },
+    "afp": {
+     "v": "u",
+     "r": "Không làm.",
+     "n": "Dấu ấn ung thư và gói tầm soát toàn thân không có trong tài liệu đã tải như một chỉ định cho người trẻ không triệu chứng báo động."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lo âu bệnh tật (ICD-11 6B23.0), đáp ứng điều trị tốt, đang ổn định",
+     "ok": 1,
+     "n": "Giảm rõ hành vi kiểm tra và tìm trấn an, chức năng hồi phục, ngủ được; còn lo thoảng khi gặp tín hiệu gợi nhớ (quảng cáo). ICD-11 CDDR 2024 mục 6B23 tr. 319: bệnh có xu hướng mạn tính và tái phát nên cần theo dõi lâu."
+    },
+    {
+     "t": "Bệnh thực thể tiêu hóa mới",
+     "n": "Không dấu hiệu báo động mới, cân nặng ổn định (VNAGE 2023 Bảng 2)."
+    },
+    {
+     "t": "Tác dụng phụ hoặc biến chứng do thuốc",
+     "n": "Buồn nôn nhẹ tuần đầu đã hết; không bồn chồn bất thường, không ý nghĩ tự hại. Chi tiết tác dụng phụ SSRI: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khen ngợi sự tuân thủ, nói rõ cơn lo trở lại khi nghe quảng cáo là bình thường; không làm gói tầm soát toàn thân vì không có triệu chứng báo động",
+     "v": "c",
+     "n": "VNAGE 2023 Bảng 2; ICD-11 CDDR 2024 mục 6B23 tr. 319 (làm xét nghiệm không cần thiết duy trì bệnh). Sàng lọc ung thư dạ dày cho người trẻ nguy cơ trung bình: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục sertralin 50 mg/ngày và liệu pháp tâm lý; không tăng liều vì đã đáp ứng; bàn với anh thời gian dùng và cách ngưng thuốc ở lần tái khám sau",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 25 mục 4.3 (sertralin 50–200 mg/24 giờ). Thời gian dùng thuốc duy trì, cách ngưng dần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lập kế hoạch phòng tái phát bằng chữ: dấu hiệu cảnh báo sớm (tra mạng quay lại, sờ bụng nhiều), việc cần làm, khi nào gọi bác sĩ; hẹn tái khám đều đặn (mỗi 4–6 tuần) theo lịch, không chờ lúc lo",
+     "v": "c",
+     "n": "ICD-11 CDDR 2024 mục 6B23 tr. 319: bệnh mạn và tái phát. Khoảng cách tái khám: lựa chọn biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Duy trì thói quen có lợi: hoạt động thể lực, thư giãn, hạn chế rượu và thuốc ngủ",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 22 mục 4.1; mhGAP 2023 ANX4, ANX5 (thư giãn, tập thể dục; có điều kiện, viết cho lo âu lan tỏa và hoảng sợ)."
+    },
+    {
+     "t": "Làm gói tầm soát ung thư toàn thân, hoặc nội soi và CT lần nữa theo yêu cầu",
+     "v": "w",
+     "n": "Không có chỉ định (VNAGE 2023 Bảng 2); nguy cơ dương tính giả và tái khởi động vòng tìm trấn an; nguồn lực đầy đủ không phải chỉ định."
+    },
+    {
+     "t": "Ngưng sertralin đột ngột hoặc kê benzodiazepin hằng ngày để 'chắc ăn'",
+     "v": "w",
+     "n": "Anh đã đỡ với liệu pháp hiện tại; mhGAP 2023 ANX6 không khuyến cáo benzodiazepin; QĐ 2058/2020 Bài 25 mục 4.1 hạn chế giải lo âu gây nghiện."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lo âu bệnh tật (ICD-11 6B23.0), đáp ứng tốt với liệu pháp tâm lý kết hợp sertralin 50 mg",
+     "Không có bệnh thực thể: nội soi dạ dày chỉ thấy viêm dạ dày nông nhẹ, không dấu hiệu báo động",
+     "Lo thoảng khi gặp yếu tố gợi nhớ (quảng cáo tầm soát), còn nguy cơ tái phát"
+    ],
+    "phan_tich_chan_doan": [
+     "Đánh giá đáp ứng theo chức năng (đi chợ đủ buổi, ngủ 7 giờ, hết bỏ dở việc), theo hành vi (tra mạng 10–15 phút, sờ bụng hiếm), theo niềm tin (nghe được giải thích). Không có thang điểm trong tài liệu đã tải để định lượng.",
+     "Bệnh thường mạn và tái phát (ICD-11 CDDR 2024 mục 6B23 tr. 319): đỡ rõ nhưng chưa phải là hết; một quảng cáo cũng làm lo trở lại.",
+     "Không dấu hiệu báo động mới (VNAGE 2023 Bảng 2); cân nặng ổn định.",
+     "An toàn: không ý nghĩ tự hại, không hưng phấn bất thường."
+    ],
+    "phan_tich_xu_tri": [
+     "Câu hỏi quan trọng là có làm gói tầm soát hay không: đáp án là không. Không có dấu hiệu báo động; nội soi đã làm bình thường; sàng lọc cho người trẻ không triệu chứng: không có trong tài liệu đã tải.",
+     "Cách trả lời: ghi nhận cơn lo, nêu dữ kiện, nhắc kế hoạch đã thống nhất, không phủ nhận bằng sự bực bội. Hỏi 'điều gì khiến anh lo khi nghe quảng cáo' để dùng làm bài tập hành vi.",
+     "Duy trì sertralin 50 mg và liệu pháp tâm lý; thời gian duy trì và cách giảm dần: không có trong tài liệu đã tải nên bàn lần tái khám sau, không tự ngưng.",
+     "Kế hoạch phòng tái phát và tái khám đều đặn để giảm nhu cầu đi tìm trấn an ở nơi khác (QĐ 2058/2020 Bài 25 mục 5)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "50 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "Đến lần tái khám sau (4–6 tuần)",
+      "ghi_chu": "Tiếp tục liều đang dùng, không tăng vì đã đáp ứng. QĐ 2058/2020 Bài 25 mục 4.3: khoảng liều 50–200 mg/24 giờ. Thời gian duy trì và cách ngưng: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Anh đã làm rất tốt: đỡ rõ sau thay đổi thói quen và uống thuốc đều.",
+     "Không cần gói tầm soát toàn thân: anh không có dấu hiệu báo động, nội soi đã bình thường. Khi lo trở lại, xem lại tờ kế hoạch thay vì tra mạng.",
+     "Uống sertralin mỗi sáng, không tự ngưng; bàn với bác sĩ khi tái khám.",
+     "Tiếp tục tập bài tập giảm kiểm tra, đi bộ, thư giãn.",
+     "Quay lại sớm nếu có sụt cân, nuốt nghẹn, nôn kéo dài hoặc ra máu, phân đen; hoặc nếu thấy buồn nhiều, không muốn sống.",
+     "Hẹn tái khám sau 4–6 tuần theo lịch (theo thiết kế của ca, không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau 12 tuần liệu pháp tâm lý và sertralin 50 mg, anh Lộc giảm rõ tra mạng và sờ bụng, ngủ được, hết bỏ dở công việc và không đi khám nơi khác. Cơn lo vẫn có thể trở lại khi gặp quảng cáo hay tin bệnh; anh theo lịch tái khám đều đặn và hồi phục ổn định.",
+ "nhieu": [
+  "Khởi phát sau tiệc hải sản: ngộ độc nhẹ cách đó 4 tháng là yếu tố khởi phát, không giải thích cho đầy hơi kéo dài.",
+  "Viêm dạ dày nông nhẹ trên nội soi lượt 2: phát hiện thường gặp, không giải thích mức lo.",
+  "Tập kết quả cũ bình thường mang theo: dễ khiến bác sĩ nghĩ 'đã làm đủ' mà bỏ qua việc hỏi nỗi lo."
+ ],
+ "bai_hoc_bien": [
+  "Bệnh nhân hợp tác tốt: chính vì họ cung cấp đủ thông tin nên bác sĩ dễ chỉ dừng ở kết quả xét nghiệm; câu hỏi về điều anh lo nhất mới ra lý do thật.",
+  "Nguồn lực đầy đủ không phải chỉ định: nội soi, CT, dấu ấn ung thư và gói tầm soát toàn thân đều không có chỉ định khi không có dấu hiệu báo động.",
+  "Không đỡ ở lượt 2: kiểm tra theo thứ tự chẩn đoán đúng? thực hiện được không? hành vi duy trì còn? triệu chứng mới? trầm cảm, dùng chất? rồi mới thêm điều trị.",
+  "Trấn an bằng kết quả bình thường chỉ yên vài giờ; điều trị gốc là liệu pháp tâm lý và giảm hành vi duy trì, thêm SSRI khi không đỡ.",
+  "Hẹn tái khám theo lịch giúp người bệnh không phải đi tìm khám nơi khác."
+ ],
+ "diem_nho": [
+  "ICD-11 6B23: sợ dai dẳng mắc bệnh nặng kèm hành vi lặp lại (kiểm tra cơ thể, tìm thông tin, tìm trấn an) hoặc né tránh, gây đau khổ hoặc suy giảm chức năng (CDDR 2024 tr. 317); đặc điểm bổ sung và ranh giới: tr. 318–321.",
+  "Dấu hiệu báo động ở người khó tiêu: khó nuốt tiến triển, thiếu máu, sụt cân không chủ ý, chảy máu tiêu hóa trên, nôn kéo dài, khối vùng thượng vị, khởi phát mới ở nam ≥ 40 tuổi, không đáp ứng PPI (VNAGE 2023 Bảng 2).",
+  "Người dưới 50 tuổi khó tiêu, không dấu hiệu báo động: thử H. pylori không xâm lấn (Maastricht VI 2022 nhóm 2 Statement 1).",
+  "Liệu pháp tâm lý là chủ đạo cho rối loạn dạng cơ thể; SSRI sertralin 50–200 mg/24 giờ; hạn chế benzodiazepin (QĐ 2058/2020 Bài 25 mục 4.1, 4.3); mhGAP 2023 ANX6 không khuyến cáo benzodiazepin cho lo âu lan tỏa, hoảng sợ.",
+  "Tài liệu đã tải không có khuyến cáo riêng cho điều trị lo âu bệnh tật: các mục ngoại suy ghi rõ trong ca."
+ ],
+ "nguon": [
+  "WHO – Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, 2024 – TL-0571 – mục 6B23 (tr. 317–321).",
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 25 (mục 3, 4.1, 4.3, 5); Bài 22 (mục 3.1.1, 3.2, 4.1, 4.3).",
+  "WHO – mhGAP guideline 2023 – TL-0573 – khuyến cáo ANX1, ANX2, ANX4, ANX5, ANX6 (viết cho lo âu lan tỏa và hoảng sợ; ngoại suy, đã ghi rõ).",
+  "VNAGE 2023 – Consensus on the management of Helicobacter pylori infection – TL-0179 – Bảng 2 (dấu hiệu báo động ở người khó tiêu).",
+  "Maastricht VI/Florence 2022 – Management of H. pylori infection – TL-0215 – nhóm 2 Chẩn đoán, Statement 1.",
+  "Nguồn bổ sung tự tìm: Starcevic V, Berle D. Cyberchondria: towards a better understanding of excessive health-related Internet use. Expert Rev Neurother 2013;13(2):205-13. PubMed 23368807, doi 10.1586/ern.12.162."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 18/10/2026. Đã đọc: TL-0571 mục 6B23 (đặc điểm thiết yếu, ranh giới); TL-0443 Bài 22 và Bài 25; TL-0573 khuyến cáo ANX1–ANX6; TL-0179 Bảng 2; TL-0215 nhóm 2 Statement 1.",
+  "Không có trong tài liệu đã tải: khuyến cáo điều trị riêng cho lo âu bệnh tật (CBT đặc hiệu, số buổi); bằng chứng SSRI riêng cho lo bệnh; liều khởi đầu sertralin 25 mg; thời gian khởi phát tác dụng, tác dụng phụ, thời gian duy trì và cách ngưng; khoảng cách tái khám; giới hạn giờ tra mạng; tiêu chuẩn thời gian bệnh (ICD-11 không nêu số tháng); sàng lọc ung thư dạ dày cho người trẻ; nguy cơ chuyển ung thư của viêm dạ dày nông.",
+  "QĐ 2058/2020 không có bài riêng cho nghi bệnh (chỉ Bài 25 cơ thể hóa); ca dùng ICD-11 6B23 làm tiêu chuẩn chẩn đoán.",
+  "Benzodiazepin: theo mục đã có trong sổ mâu thuẫn (mhGAP 2023 ANX6 so với tài liệu liệt kê thuốc của Bộ Y tế); dùng đều chấm w, ngắn hạn dưới 7 ngày chấp nhận."
+ ]
+}
