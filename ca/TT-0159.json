@@ -1,0 +1,784 @@
+{
+ "ma_ca": "TT-0159",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-18)",
+ "benh": "TT_mat_ngu_man",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn giấc ngủ (mất ngủ mạn)",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Ngưng thở khi ngủ"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Gia sư",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Minh Khôi",
+  "tuoi": 27,
+  "gioi": "Nam",
+  "nghe": "Gia sư dạy kèm Toán – Lý buổi tối cho học sinh lớp 10–12, chạy xe máy giữa ba nhà học sinh, ở chung nhà ba mẹ tại Biên Hòa",
+  "can_nang": 63,
+  "chieu_cao": 171,
+  "xung_ho": "Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'. Bác sĩ gọi anh là 'anh' hoặc 'anh Khôi'. Anh nhắc 'ba', 'mẹ'.",
+  "tinh_cach": "Lễ phép, nói nhanh, quen giảng bài nên kể có hệ thống nhưng vòng vo khi chạm chuyện nhà. Cầu toàn, tự ái khi bị cho là 'giả bệnh'. Hay tra mạng, dùng chữ như 'cường giao cảm', 'đột tử'. Ngại kể chuyện gia đình; bị hỏi chung thì đáp 'bình thường'.",
+  "kieu_nhieu": "Sợ hãi quá mức: đọc mạng thấy 'thiếu ngủ + huyết áp cao ở người trẻ dễ đột tử', lần nào cũng đòi CT não, siêu âm tim, Holter, đa ký, xét nghiệm hormone 'làm hết cho chắc, em trả tiền được'. Bị từ chối thì lo hơn, hỏi lại và dẫn bài báo. Trấn an chung chung làm anh nghi ngờ; anh chịu nghe khi được giải thích từng kết quả bình thường nghĩa là gì và vì sao không cần thêm. Điều anh thật sự cần là 'bằng chứng bệnh thật' đưa cho ba, chỉ nói khi được hỏi riêng.",
+  "ngoai_hinh": {
+   "da": "#d9a985",
+   "toc": "#1c1512",
+   "kieuToc": "ngan",
+   "ao": "#3b5b7a",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Hồi hộp, huyết áp cao ở tuổi trẻ, ngủ không ngon mấy tháng",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am",
+   "ct",
+   "noi_soi"
+  ],
+  "loi_bao": "Phòng khám tư chỉ làm được xét nghiệm cơ bản (công thức máu; sinh hóa nền gồm glucose, ure, creatinin, điện giải; tổng phân tích nước tiểu) và điện tim. Không có X-quang, siêu âm, CT, nội soi; không làm TSH, FT4, aldosteron–renin, đa ký, Holter, đo HA lưu động, điện não đồ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 27 tuổi, gia sư dạy buổi tối, đi khám một mình, nói mẹ 'bắt đi' vì dạo này hồi hộp, huyết áp cao ở tuổi trẻ và ngủ không ngon mấy tháng. Đang uống amlodipin 5 mg mỗi sáng do phòng khám gần nhà kê từ tháng 3. Sinh hiệu lúc tiếp đón: mạch 76 l/p, HA 138/88 mmHg (ngồi nghỉ 5 phút), nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 63 kg, cao 171 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Khôi khám tim phổi, thần kinh, tuyến giáp, mạch đùi, điện tim và xét nghiệm nền bình thường nên chưa có chỉ định đa ký ngay (ESRS 2023, mục 3.4, Bảng 4). Chuyển lên bệnh viện lớn làm anh nghỉ dạy, tốn tiền, rồi quay về với câu 'xét nghiệm bình thường' mà chưa ai hướng dẫn giờ dậy cố định, bỏ nước tăng lực, chạy xe an toàn (AASM 2021, khuyến cáo 1–3; ESRS 2023, Bảng 16).",
+    "nhap_vien": "Mất ngủ mạn không có chỉ định nhập viện: anh tỉnh táo, sinh hiệu ổn, xét nghiệm nền bình thường, không ý nghĩ tự hại (QĐ 2058/2020, Bài 27 mục 3.1.1; Bài 20 mục 3.1.1). Nằm viện làm anh nghỉ dạy, củng cố nỗi sợ 'mình bệnh nặng', ba càng có cớ nói anh 'làm quá', và dễ dẫn tới thuốc ngủ vốn chỉ khi CBT-I chưa đủ, tối đa 4 tuần (ESRS 2023, Bảng 16)."
+   },
+   "loi_mo": "Chào bác sĩ. Em mới 27 tuổi mà huyết áp cao, hồi trước đo 148/94 nên phải uống thuốc, em lo lắm. Dạo này đêm nào em cũng tỉnh lúc ba giờ sáng, tim đập thình thịch. Em đọc mạng nói thiếu ngủ cộng huyết áp cao ở người trẻ dễ đột tử, nên bác sĩ cho em chụp CT não, siêu âm tim, Holter, đa ký, xét nghiệm hormone đi, làm hết cho em yên tâm. Mẹ bắt em đi chứ em cũng ngủ được mà, chỉ là ngủ không sâu thôi.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/88",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Anh nói hồi hộp, huyết áp cao tuổi trẻ khiến anh sợ có bệnh nặng; về giấc ngủ chỉ nói 'ngủ không sâu'. Anh xin CT não, siêu âm tim, Holter, đa ký, xét nghiệm hormone.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra và yêu cầu xét nghiệm hàng loạt"
+    },
+    {
+     "id": "kieu_ngu",
+     "noi_dung": "Lên giường khoảng 0 giờ 15 sau khi soạn bài, lướt điện thoại đến khoảng 1 giờ mới tắt đèn, ngủ sau 30–45 phút, chập chờn. Khoảng 3 giờ 30 thức dậy tim đập mạnh, tỉnh táo, nằm nghĩ về huyết áp đến 5 giờ mới ngủ lại. Báo thức 7 giờ 30. Anh ước ngủ khoảng 5 giờ trong 7 giờ 15 phút nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mô tả một đêm cụ thể: giờ nằm, vào giấc, thức giữa đêm, giờ dậy"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Khoảng 5–6 đêm mỗi tuần, đã khoảng 5 tháng. Không nhớ lúc nào bắt đầu và không có sự kiện đáng kể (không bệnh, không thi cử, không đổi chỗ ở); từ khoảng tháng 5 'tự nhiên ngủ không ngon'. Trước đó ngủ ngon.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần suất, thời gian kéo dài; không rõ yếu tố khởi phát"
+    },
+    {
+     "id": "ban_ngay",
+     "noi_dung": "Ban ngày mệt, lờ đờ buổi chiều, hay quên giáo án, cáu với học sinh. Hai tuần nay có lần dừng đèn đỏ anh nhắm mắt vài giây bị xe sau bấm còi; tuần trước chạy xe về lúc 22 giờ 30 bị lệch sang làn bên, may không va. Chưa kể ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'ban ngày có buồn ngủ không' anh đáp 'mệt chứ không buồn ngủ'. Chỉ kể khi hỏi cụ thể về nhắm mắt hay ngủ gật khi lái xe, dừng đèn đỏ, suýt tai nạn.",
+     "k": 1,
+     "y": "Hậu quả ban ngày và cờ đỏ an toàn khi lái xe"
+    },
+    {
+     "id": "thoi_quen",
+     "noi_dung": "Cà phê sữa đá ba ly (sáng, khoảng 14 giờ, khoảng 17 giờ) và một lon nước tăng lực lúc 17 giờ 30 trước giờ dạy 'cho đỡ buồn ngủ'. Ngủ trưa 12 giờ 30–14 giờ. Soạn bài, lướt điện thoại, xem phim ngay trên giường. Không hút thuốc, không rượu, không tập thể dục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố duy trì: caffeine chiều, ngủ trưa, dùng giường để làm việc và điện thoại"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Amlodipin 5 mg mỗi sáng sau ăn sáng từ tháng 3, do phòng khám gần nhà kê sau hai lần đo 148/94 mmHg, không làm xét nghiệm; uống đều. Không dùng thuốc ngủ, an thần, corticoid, cần sa hay thực phẩm chức năng 'bổ thần kinh'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng và chất khác ảnh hưởng giấc ngủ"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Hỏi riêng và hỏi thẳng: không buồn kéo dài, vẫn thích dạy, ăn uống bình thường, không sụt cân, không thấy mình vô dụng hay có lỗi; bực và ngột ngạt khi ở nhà. Không nghĩ đến chết, không nghĩ tự làm hại mình.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lúc đầu anh nói 'em bình thường, chỉ ngủ không sâu'. Chỉ trả lời chi tiết khi hỏi riêng về tâm trạng, hứng thú, ăn uống, cảm giác có lỗi, ý nghĩ tự hại.",
+     "k": 1,
+     "y": "Sàng lọc trầm cảm và ý nghĩ tự hại"
+    },
+    {
+     "id": "ngay_ngung_tho",
+     "noi_dung": "Anh ngủ phòng riêng nên không ai nghe ngáy hay ngưng thở; không nhớ bị nghẹt thở khi thức giấc. Sáng không nhức đầu. Không khó chịu ở chân khi nằm; ngồi yên đọc sách không ngủ gật. Hồi hộp chỉ khi tỉnh lúc 3 giờ 30; ban ngày không hồi hộp, đau ngực, ngất, sụt cân, run tay, sợ nóng. Ba bị tăng huyết áp từ 52 tuổi; không ai đột quỵ khi trẻ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc OSA, chân không yên, nguyên nhân thực tổn/thứ phát, tiền sử gia đình"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Anh sống chung ba mẹ. Ba (58 tuổi) muốn anh bỏ nghề gia sư về phụ tiệm vật liệu xây dựng hoặc thi công chức; hai cha con to tiếng gần mỗi tuần, mẹ đứng giữa và khóc. Gần đây ba nói 'mất ngủ là giả bệnh để trốn việc'. Nhiều đêm ba mẹ cãi nhau ở phòng khách cạnh phòng anh đến khoảng 0 giờ; anh nằm nghe, tim đập. Anh không coi đó là yếu tố khởi phát vì đã có nhiều năm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có stress gì không' anh đáp 'công việc bình thường'. Chỉ kể khi hỏi riêng, hỏi ở nhà với ai, quan hệ với ba mẹ, mấy giờ nhà yên tĩnh.",
+     "k": 1,
+     "y": "Mâu thuẫn gia đình: nguồn căng thẳng và yếu tố duy trì"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật anh chịu đi khám: muốn có 'bằng chứng bệnh thật' đưa ba, mong ba thôi ép bỏ dạy và thôi gọi anh là giả bệnh. Vì vậy anh đòi nhiều xét nghiệm, hy vọng có kết quả bất thường; sợ bình thường thì ba càng nói anh giả bệnh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lúc đầu chỉ nói 'mẹ bắt em đi'. Chỉ nói thật khi hỏi anh mong gì ở buổi khám, hôm nay vì sao quyết định đi, hoặc ba mẹ nghĩ gì về chuyện ngủ của anh.",
+     "k": 1,
+     "y": "Động cơ thật: cần 'bằng chứng bệnh thật' trong mâu thuẫn với ba"
+    },
+    {
+     "id": "lo_so",
+     "noi_dung": "Anh đọc mạng rằng thiếu ngủ cộng huyết áp cao ở người trẻ có thể do 'u thượng thận', 'ngưng thở khi ngủ' hay dẫn tới 'đột tử', muốn làm hết cho chắc, 'em trả tiền được'. Anh ngại thuốc ngủ vì sợ ghiền. Phòng khám không có phần lớn các xét nghiệm này.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 138/88, tay trái 136/88 mmHg. Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, gọn, mệt, quầng thâm dưới mắt. 63 kg, cao 171 cm, BMI 21,5 kg/m². Mặt không tròn, không rạn da tím, không phù.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Vòng cổ 36 cm. Tuyến giáp không to, không nhân. Không hạch.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Mallampati độ II, amidan không to, lưỡi gà bình thường, vòm họng không chen hẹp rõ.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay và mạch đùi hai bên đều, đập cùng lúc. Không âm thổi ở cổ hay bụng.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ. Dây sọ, sức cơ, phản xạ, cảm giác bình thường. Không dấu màng não.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, mệt, nói nhanh, hợp tác; ngập ngừng, nhìn xuống khi hỏi chuyện nhà. Khí sắc không trầm. Lo lắng chủ đề rõ: bệnh tim, ngủ không đủ, bị coi là giả bệnh. Tư duy mạch lạc, không hoang tưởng. Không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói nhanh, mệt, lo lắng."
+    }
+   },
+   "cls": {
+    "creat": {
+     "v": "a",
+     "r": "Ure 4,6 mmol/L · Creatinin 84 µmol/L · eGFR 118 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.6,
+      "creat": 84,
+      "egfr": 118
+     },
+     "n": "Gợi ý nguyên nhân thận của tăng huyết áp trẻ (VSH/VNHA 2024 Đ2.4: B). Bình thường."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 140 · K 4,2 · Cl 103 mmol/L",
+     "bang": {
+      "na": 140,
+      "k": 4.2,
+      "cl": 103
+     },
+     "n": "Kali bình thường chưa loại hẳn cường aldosteron; aldosteron–renin không làm được tại đây (VSH/VNHA 2024 Đ2.4)."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 76 l/p, trục trung gian, PR 150 ms, QRS 90 ms. Không ST chênh, không sóng T đảo, không dày thất trái.",
+     "n": "Điện tim khi có chỉ định (ESRS 2023 Bảng 4). Giúp trấn an nỗi sợ bệnh tim; không đổi chẩn đoán."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "(Phòng khám không làm được TSH, FT4.)",
+     "n": "Cường giáp gây hồi hộp, mất ngủ, tăng huyết áp (ESRS 2023 Bảng 4; QĐ 2058/2020 Bài 27 mục 3.2). Không làm được; lâm sàng không gợi ý (mạch 76, không sụt cân, không run, tuyến giáp không to) nên không chuyển đi chỉ để làm; làm ở tuyến trên cùng đợt tầm soát tăng huyết áp trẻ (VSH/VNHA 2024 Đ2.4: E – nội tiết)."
+    },
+    "psg": {
+     "v": "a",
+     "r": "(Phòng khám không có đa ký hay máy đo ngưng thở khi ngủ tại nhà.)",
+     "n": "ESRS 2023 mục 3.4, Bảng 4 (A): đa ký khi nghi rối loạn thở khi ngủ hoặc mất ngủ kháng trị; AASM 2017 OSA khuyến cáo 2: khi có dấu hiệu tăng nguy cơ OSA vừa–nặng; khuyến cáo 1: bảng câu hỏi không thay đa ký. Anh BMI 21,5, vòng cổ 36 cm, Mallampati II, không ai chứng kiến ngáy: chưa đủ chỉ định ngay nhưng chưa loại hẳn; đặt mốc. Cách tính điểm STOP-Bang: không có trong tài liệu đã tải."
+    },
+    "ct_nao": {
+     "v": "n",
+     "n": "Không chỉ định: khám thần kinh bình thường, không đau đầu dữ dội (ESRS 2023 Bảng 4: CT/MRI khi có chỉ định). Cơ sở không có CT. Anh xin chụp 'cho yên tâm': giải thích không cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn giấc ngủ: mất ngủ mạn (khó vào giấc, thức lúc 3 giờ 30 khó ngủ lại), duy trì bởi caffeine chiều, ngủ trưa, giường dùng làm việc, tiếng cãi vã trong nhà, lo về giấc ngủ",
+     "ok": 1,
+     "n": "Khó vào giấc, khó duy trì giấc ngủ; 5–6 đêm/tuần, khoảng 5 tháng; mệt, quên, cáu, hai lần suýt tai nạn xe máy; không do bệnh thực tổn hay chất. Đạt ICD-10 (≥ 3 lần/tuần, ≥ 1 tháng: QĐ 2058/2020 Bài 27 mục 3.1.1) và ICSD-3 (≥ 3 lần/tuần, ≥ 3 tháng, kèm hậu quả ban ngày: ESRS 2023 Bảng 2). Không rõ yếu tố khởi phát không cản chẩn đoán."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Loại trừ: chỉ có mệt (1/3 triệu chứng đặc trưng), khí sắc không trầm, còn hứng thú, không ý nghĩ tự hại; thể nhẹ cần 2/3 triệu chứng đặc trưng và 2/7 phổ biến, ≥ 2 tuần (QĐ 2058/2020 Bài 20 mục 3.1.1). Hỏi riêng vì dễ bị giấu do kỳ thị (ESRS 2023 mục 3.5)."
+    },
+    {
+     "t": "Ngưng thở khi ngủ (OSA), kể cả mất ngủ kèm ngưng thở (COMISA)",
+     "n": "Chưa gợi ý nhưng chưa loại hẳn: BMI 21,5, vòng cổ 36 cm, Mallampati II, không ngủ gật khi ngồi yên; nhưng ngủ phòng riêng không ai chứng kiến, tăng huyết áp trước 40 tuổi, từng nhắm mắt khi lái. 30–40% người mất ngủ có thể có OSA, cần sàng lọc rồi đa ký nếu dương tính (ESRS 2023 mục 3.5; AASM 2017 OSA khuyến cáo 1–2). Đặt mốc."
+    },
+    {
+     "t": "Tăng huyết áp thứ phát (nội tiết, thận, mạch máu) hoặc cường giáp",
+     "n": "Lâm sàng không gợi ý: mạch đùi đều, kali, creatinin, nước tiểu bình thường, tuyến giáp không to. Tăng huyết áp trước 40 tuổi nên sàng lọc nguyên nhân thứ phát (VSH/VNHA 2024 Đ2.4); TSH, aldosteron–renin không làm được tại đây."
+    },
+    {
+     "t": "Mất ngủ do chất hoặc thuốc (cà phê, nước tăng lực, thuốc hạ áp)",
+     "n": "Cà phê, nước tăng lực là yếu tố duy trì (ESRS 2023 mục 3.5, Bảng 5). Amlodipin bắt đầu từ tháng 3, trước mất ngủ khoảng 2 tháng; ESRS 2023 mục 3.5 nêu chẹn beta, corticoid… và 'còn nhiều thuốc khác', không nêu amlodipin: không loại trừ hẳn, không tự ngưng, theo dõi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Liệu pháp không dùng thuốc làm đầu tay: CBT-I dạng ngắn (kiểm soát kích thích, giờ dậy cố định, bỏ ngủ trưa, thư giãn); bỏ nước tăng lực, cà phê chiều tối; chưa thu hẹp thời gian nằm vì anh chạy xe máy buổi tối và từng nhắm mắt khi lái",
+     "v": "c",
+     "n": "CBT-I đa thành phần là khuyến cáo mạnh (AASM 2021 khuyến cáo 1); liệu pháp hành vi ngắn 1–4 buổi, kiểm soát kích thích có điều kiện (khuyến cáo 2, 3); CBT-I đầu tay (ESRS 2023 Bảng 16). Hạn chế giấc ngủ có thể chống chỉ định ở người lái xe (AASM 2021 khuyến cáo 2, 4). QĐ 2058/2020 Bài 27 mục 4.3 chỉ nêu vệ sinh giấc ngủ, không cà phê buổi tối; AASM 2021 (khuyến cáo 6) và ESRS 2023 (mục 4.1.1) gợi ý không dùng vệ sinh giấc ngủ đơn thuần; dặn kèm trong CBT-I vẫn đúng. Giờ cắt caffeine: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhận diện cờ đỏ an toàn: dặn dừng xe nghỉ, không chạy xe khi buồn ngủ; hỏi riêng ý nghĩ tự hại",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.4 (người có nguy cơ tai nạn do mệt mỏi), mục 4.1.1 (theo dõi buồn ngủ, ảnh hưởng đến lái xe). Ý tưởng tự sát là triệu chứng phổ biến của trầm cảm nên phải hỏi thẳng (QĐ 2058/2020 Bài 20 mục 3.1.1). Biện pháp an toàn cụ thể hơn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lần khám này chưa kê thuốc ngủ, ưu tiên CBT-I; hoặc nếu cùng quyết định dùng thuốc thì chỉ ngắn hạn (không quá 4 tuần) kèm CBT-I",
+     "v": "c",
+     "n": "ESRS 2023 mục 1.2, Bảng 16, Hình 1: CBT-I trước, benzodiazepin và nhóm Z tối đa 4 tuần. AASM 2026 khuyến cáo 2: gợi ý không phối hợp thay vì CBT-I đơn thuần; khuyến cáo 1: phối hợp tốt hơn thuốc đơn thuần. QĐ 2058/2020 Bài 27 mục 4.1: tâm lý và thuốc có thể kết hợp."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc nhóm Z (diazepam, zolpidem…) hằng đêm, không hạn số ngày, cho anh đang chạy xe máy buổi tối, chưa làm CBT-I",
+     "v": "w",
+     "n": "ESRS 2023 mục 4.2.1: dung nạp, lệ thuộc, 'hangover' giảm khả năng lái xe, mất ngủ dội ngược; Bảng 16: tối đa 4 tuần. QĐ 2058/2020 Bài 27 mục 4.3 và AASM 2017 (khuyến cáo 2, 4–6) liệt kê thuốc này nhưng không nêu giới hạn thời gian; kê hằng đêm không hạn ngày không đúng bối cảnh anh."
+    },
+    {
+     "t": "Hỏi riêng và nói thẳng chuyện ba–con; ghi chẩn đoán là bệnh thật, không cấp giấy sai sự thật; gợi ý nói chuyện cùng mẹ hoặc ba khi anh đồng ý; trấn an có cấu trúc, từ chối chụp CT, Holter, siêu âm tim vì không có chỉ định",
+     "v": "c",
+     "n": "ESRS 2023 Bảng 4 (xung đột quan hệ; CT/MRI, điện tim chỉ khi có chỉ định). QĐ 2058/2020 Bài 27 mục 2, 6. Tư vấn gia đình cụ thể: không có trong tài liệu đã tải. Chiều lòng không giải quyết được nỗi sợ và mâu thuẫn thật."
+    },
+    {
+     "t": "Hẹn tái khám khoảng 2 tuần mang nhật ký ngủ; không đỡ dù làm đúng hoặc có dấu hiệu OSA mới thì đa ký; tăng huyết áp trước 40 tuổi cần tầm soát thứ phát cùng bác sĩ kê đơn hoặc tuyến trên",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.2 (nhật ký ≥ 7–14 ngày), mục 3.4, Bảng 4; VSH/VNHA 2024 Đ2.4. Khoảng 2 tuần là lựa chọn biên tập, không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn giấc ngủ: mất ngủ mạn (vào giấc chậm, thức 3 giờ 30 khó ngủ lại; ngủ khoảng 5 giờ trong 7 giờ 15 phút nằm), 5–6 đêm/tuần, khoảng 5 tháng, kèm suy giảm ban ngày (mệt, quên, cáu, hai lần suýt tai nạn xe máy)",
+     "Không rõ yếu tố khởi phát; duy trì bởi cà phê và nước tăng lực chiều, ngủ trưa, giường dùng làm việc và điện thoại, tiếng cãi vã trong nhà, lo về giấc ngủ và huyết áp",
+     "Tăng huyết áp phát hiện ở tuổi 26, đang dùng amlodipin 5 mg, cần tầm soát nguyên nhân thứ phát; chưa có trầm cảm; OSA chưa gợi ý nhưng chưa loại hẳn; lý do thật đi khám: cần 'bằng chứng bệnh thật' để ba thôi ép bỏ nghề gia sư (mâu thuẫn gia đình)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: anh nói hồi hộp, huyết áp cao chứ không nói 'mất ngủ'; phải hỏi một đêm cụ thể và hậu quả ban ngày; nhật ký ngủ 7–14 ngày và ISI (khoảng 16 điểm, mức vừa 15–21) (ESRS 2023, mục 3.2). Đạt mất ngủ mạn theo ICD-10 (≥ 1 tháng: QĐ 2058/2020, Bài 27 mục 3.1.1) và ICSD-3 (≥ 3 tháng: ESRS 2023, Bảng 2).",
+     "Không điển hình, dễ bỏ sót: người trẻ mang chẩn đoán tăng huyết áp nên câu chuyện bị kéo sang tim mạch; giấc ngủ, ngủ gật khi lái xe, mâu thuẫn gia đình chỉ lộ khi hỏi chi tiết và hỏi riêng (ESRS 2023, mục 3.5).",
+     "Loại trừ trầm cảm: anh chỉ có mệt, mất ngủ chỉ là 1 trong 7 triệu chứng phổ biến (QĐ 2058/2020, Bài 20 mục 3.1.1). Loại trừ OSA: sàng lọc rồi đa ký nếu dương tính (ESRS 2023, mục 3.5); bảng câu hỏi không thay đa ký (AASM 2017 OSA khuyến cáo 1); anh ngủ phòng riêng nên đặt mốc đa ký. Cách tính điểm STOP-Bang: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "CBT-I hoặc dạng ngắn 1–4 buổi là đầu tay (AASM 2021 khuyến cáo 1–3; ESRS 2023 Bảng 16): chỉ lên giường khi buồn ngủ, không ngủ được thì ra khỏi giường, giường chỉ để ngủ, giờ dậy cố định, không ngủ ngày. Cờ đỏ hai lần nhắm mắt khi lái xe: hạn chế giấc ngủ có thể chống chỉ định ở người lái xe (AASM 2021 khuyến cáo 2, 4; ESRS 2023 mục 4.1.1) nên chưa thu hẹp thời gian nằm. Bỏ nước tăng lực, cà phê chiều tối (QĐ 2058/2020, Bài 27 mục 4.3).",
+     "Thuốc ngủ không phải đầu tay: CBT-I trước, benzodiazepin và nhóm Z tối đa 4 tuần, 'hangover' giảm khả năng lái xe (ESRS 2023, Bảng 16, mục 4.2.1); AASM 2026 khuyến cáo 1–2; QĐ 2058/2020 (Bài 27 mục 4.1, 4.3) cho kết hợp nhưng dặn hạn chế nhóm gây nghiện. Không làm xét nghiệm không chỉ định để 'tạo bằng chứng' (ESRS 2023, Bảng 4); mâu thuẫn gia đình là yếu tố duy trì (ESRS 2023 Bảng 4; QĐ 2058/2020 Bài 27 mục 2, 6).",
+     "Tăng huyết áp trước 40 tuổi cần sàng lọc nguyên nhân thứ phát (VSH/VNHA 2024, Đ2.4: A – OSA, cường aldosteron; B – thận; C – catecholamin; D – thuốc; E – nội tiết): giao bác sĩ kê đơn hoặc tuyến trên, không phải lý do chuyển tuyến khẩn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin (thuốc huyết áp đang dùng)",
+      "ham_luong": "5 mg/viên (đang dùng)",
+      "lieu": "5 mg × 1 lần/ngày, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng sau ăn sáng",
+      "so_ngay": "Tiếp tục theo bác sĩ kê đơn",
+      "ghi_chu": "Đang dùng, giữ nguyên, không tự ngưng (VSH/VNHA 2024, Đ5). Amlodipin dùng từ tháng 3, trước mất ngủ khoảng 2 tháng; ESRS 2023 mục 3.5 không nêu amlodipin nhưng 'còn nhiều thuốc khác': theo dõi, đổi thuốc do bác sĩ kê đơn quyết."
+     },
+     {
+      "thuoc": "Không kê thuốc ngủ lần khám này; ngừng nước tăng lực, cà phê chiều tối",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến lần tái khám",
+      "ghi_chu": "ESRS 2023 Bảng 16, Hình 1; AASM 2026 khuyến cáo 2 (có điều kiện); QĐ 2058/2020 Bài 27 mục 4.3. Anh còn chạy xe buổi tối (ESRS 2023 mục 4.2.1)."
+     }
+    ],
+    "dan_do": [
+     "Mất ngủ mạn là bệnh thật và chữa được không cần thuốc ngủ; điện tim, xét nghiệm nền bình thường; CBT-I bền, không gây lệ thuộc (ESRS 2023, mục 4.1.1).",
+     "Giờ dậy cố định mỗi sáng (ví dụ 7 giờ 30, cả cuối tuần). Chỉ lên giường khi buồn ngủ; không ngủ được thì ra chỗ yên tĩnh. Giường chỉ để ngủ: không soạn bài, điện thoại, xem phim. Không ngủ trưa dài (AASM 2021, kiểm soát kích thích). Không cà phê, nước tăng lực chiều tối (QĐ 2058/2020, Bài 27 mục 4.3).",
+     "An toàn: buồn ngủ, nhắm mắt thì dừng xe nghỉ; không chạy khi đang buồn ngủ; sắp lại buổi dạy muộn hoặc nhờ đưa đón (ESRS 2023, mục 4.1.1; AASM 2021, khuyến cáo 4).",
+     "Tiếp tục uống amlodipin mỗi sáng, không tự ngưng; đo HA tại nhà (VSH/VNHA 2024, Đ5). Không tự mua hay xin thuốc ngủ, an thần (ESRS 2023, mục 1.2). Ghi nhật ký ngủ 7–14 ngày (ESRS 2023, mục 3.2); tái khám sau khoảng 2 tuần (lựa chọn biên tập).",
+     "Đi khám ngay nếu lại ngủ gật khi lái xe, đau ngực, khó thở, ngất, yếu liệt, nhìn mờ (HA ≥ 180/120 mmHg kèm tổn thương cơ quan đích là tăng huyết áp cấp: VSH/VNHA 2024, Hình 10). Báo sớm nếu buồn chán, nghĩ đến chết (QĐ 2058/2020, Bài 20 mục 3.1.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 3 tuần (hẹn 2 tuần nhưng anh bận dạy), đi một mình, mang nhật ký ngủ ghi 12 đêm. Anh nói 'em làm theo bác sĩ rồi mà vẫn ngủ không được', mệt hơn và hồi hộp nhiều hơn. Sinh hiệu: mạch 92 l/p, HA 154/96 mmHg, nhiệt 36,8 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 62,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Khôi mới làm được nửa kế hoạch (còn nước tăng lực, giờ dậy lung tung, ngưng thuốc hạ áp) nên chưa phải mất ngủ kháng trị để chỉ định đa ký (ESRS 2023, mục 3.4, Bảng 4). Chuyển tuyến làm anh nghỉ dạy, tốn tiền; nếu đa ký bình thường anh vẫn về với các yếu tố duy trì chưa gỡ. Bạn cùng phòng không thấy ngáy hay ngưng thở nên chưa có dấu hiệu OSA mới (AASM 2017 OSA, khuyến cáo 2).",
+    "nhap_vien": "HA 154/96 mmHg sau 5 ngày tự ngưng amlodipin, không đau ngực, khó thở, dấu thần kinh khu trú, xa ngưỡng tăng huyết áp cấp (≥ 180/120 mmHg kèm tổn thương cơ quan đích: VSH/VNHA 2024, Hình 10); uống lại thuốc là đủ. Nhập viện làm anh nghỉ dạy, ba có thêm cớ nói 'làm quá'. Mất ngủ mạn không có chỉ định nằm viện (QĐ 2058/2020, Bài 27 mục 3.1.1)."
+   },
+   "loi_mo": "Em làm theo bác sĩ dặn mà không đỡ, còn tệ hơn. Em nghĩ do thuốc huyết áp làm mất ngủ nên bỏ mấy hôm rồi, mà tim còn đập mạnh hơn. Chắc em bị bệnh gì nặng, bác sĩ làm đa ký với siêu âm tim cho em đi. Em đâu có giả bệnh.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "154/96",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Nhật ký 12 đêm: lên giường trung bình 0 giờ 10, ngủ khoảng 1 giờ 45, thức 3 giờ 30 rồi nằm gần đến 5 giờ, dậy từ 7 giờ 30 đến 10 giờ 30. Tổng ngủ khoảng 5 giờ trong 7 giờ 50 phút nằm (hiệu suất khoảng 64%). Không đêm nào ngủ trọn. ISI khoảng 17 điểm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Nhật ký ngủ: hiệu suất ngủ, mức không đỡ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Anh bỏ cà phê chiều, tắt điện thoại sớm hơn 2 đêm. Không làm: vẫn uống 1–2 lon nước tăng lực mỗi ngày (17 giờ và 21 giờ) vì sợ ngủ gật khi dạy và lái xe; giờ dậy thay đổi vì ngủ bù; thức lúc 3 giờ 30 ra phòng khách gặp ba mẹ còn thức nên quay lại giường lướt điện thoại; ngủ trưa vẫn 1,5 giờ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có làm theo dặn không' anh đáp 'dạ có hết'. Chỉ kể khi hỏi từng việc: giờ dậy, khi thức giữa đêm làm gì, nước tăng lực mấy lon, ngủ trưa bao lâu.",
+     "k": 1,
+     "y": "Mức tuân thủ từng thành phần: yếu tố duy trì còn nguyên"
+    },
+    {
+     "id": "tu_ngung_thuoc",
+     "noi_dung": "Sau tuần đầu, anh đọc mạng 'thuốc huyết áp gây mất ngủ, hồi hộp' nên tự ngưng amlodipin 5 mg từ 5 ngày nay, không báo ai. HA tại nhà 150–158/94–100 mmHg; hồi hộp nhiều hơn; giấc ngủ không khá hơn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'thuốc huyết áp vẫn uống đều chứ' anh đáp 'dạ' hoặc lảng. Chỉ nói khi hỏi sáng nay có uống amlodipin không, bỏ từ ngày nào, HA tại nhà dạo này.",
+     "k": 1,
+     "y": "Tự ngưng thuốc hạ áp"
+    },
+    {
+     "id": "ngu_gat_xe",
+     "noi_dung": "Tuần trước chạy xe về lúc 22 giờ 30, ngủ gật vài giây, xe trượt lề, anh ngã nhẹ: trầy đầu gối phải, hư gương xe. Anh vẫn đi dạy bằng xe máy 4 buổi/tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cờ đỏ an toàn: ngủ gật khi lái xe, đã ngã xe"
+    },
+    {
+     "id": "ban_phong",
+     "noi_dung": "Hai đêm tuần trước dạy xong muộn, anh ngủ nhờ nhà anh Tín (đồng nghiệp). Anh Tín nói anh ngủ êm, không ngáy, không ngưng thở; hai đêm đó anh vẫn thức lúc 3 giờ 30. Ở nhà, ba mẹ cãi nhau gần như mỗi tối đến khoảng 0 giờ, có hai đêm ba nói to về chuyện anh đi khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thông tin người nằm cạnh (OSA) và tiếng ồn trong nhà"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Buồn và tủi vì bị gọi là giả bệnh nhưng vẫn thích dạy, ăn được, không sụt cân. Không nghĩ đến chết hay tự hại. Không rượu, không thuốc ngủ hay an thần. Đau đầu gáy hai buổi sáng; không đau ngực, khó thở, yếu liệt, nhìn mờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi lại trầm cảm, ý nghĩ tự hại, chất; triệu chứng tổn thương cơ quan đích khi HA tăng"
+    },
+    {
+     "id": "lo_so",
+     "noi_dung": "Anh chắc mình bị 'ngưng thở khi ngủ' hoặc bệnh tim, xin đa ký, siêu âm tim, MRI não 'phải có kết quả bất thường thì ba mới tin'. Khi bác sĩ giải thích anh hơi bực rồi im lặng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 154/96, tay trái 152/96 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt, quầng thâm. 62,5 kg. Trầy đầu gối phải 3 cm đã khô, không sưng khớp, đi lại bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, dây sọ, sức cơ, cảm giác bình thường. Không dấu thần kinh khu trú.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Mệt, hơi bực khi bị từ chối, sau đó chịu nghe giải thích. Khí sắc không trầm, còn hứng thú. Lo lắng chủ đề rõ (bệnh tim, bị coi là giả bệnh). Không hoang tưởng. Không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, mệt, lo lắng, hợp tác."
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 92 l/p, trục trung gian, PR 150 ms, QRS 90 ms. Không ST chênh, không sóng T đảo, không dày thất trái.",
+     "n": "Làm lại để trấn an cơn hồi hộp; không đổi chẩn đoán (ESRS 2023 Bảng 4: điện tim khi có chỉ định). Không bắt buộc."
+    },
+    "psg": {
+     "v": "a",
+     "r": "(Phòng khám không có đa ký hay máy đo ngưng thở khi ngủ tại nhà.)",
+     "n": "Chưa chỉ định: chưa thực hiện đủ CBT-I nên chưa thể gọi là kháng trị (ESRS 2023 mục 3.4, Bảng 4), người ngủ cùng không thấy ngáy hay ngưng thở (AASM 2017 OSA khuyến cáo 2 chưa đủ dấu hiệu). Đặt mốc: không đỡ sau khoảng 4 tuần thực hiện đúng hoặc có dấu hiệu OSA mới thì đa ký."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn giấc ngủ: mất ngủ mạn không đỡ sau 3 tuần vì yếu tố duy trì còn nguyên và thực hiện CBT-I một phần",
+     "ok": 1,
+     "n": "Quy trình khi 'không đỡ': (1) sai chẩn đoán? nhật ký vẫn là mất ngủ mạn, không ngáy ngưng thở, không buồn bã; (2) sai thuốc? chưa dùng thuốc ngủ, ngưng amlodipin 5 ngày không cải thiện ngủ; (3) không tuân thủ? có, một phần; (4) biến chứng? ngủ gật, ngã xe, HA tăng; (5) đề kháng? chưa thể nói vì chưa làm đủ (ESRS 2023 Hình 1)."
+    },
+    {
+     "t": "Mất ngủ kháng trị hoặc ngưng thở khi ngủ",
+     "n": "Chưa đủ cơ sở: chưa làm đúng CBT-I; bạn cùng phòng không thấy ngáy hay ngưng thở. Đa ký khi kháng trị hoặc nghi OSA (ESRS 2023 mục 3.4, Bảng 4; AASM 2017 OSA khuyến cáo 2). Đặt mốc."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Loại trừ lại: buồn, tủi vì bị coi là giả bệnh nhưng còn hứng thú, ăn được, không sụt cân, không ý nghĩ tự hại (QĐ 2058/2020 Bài 20 mục 3.1.1); ESRS 2023 mục 3.5 yêu cầu chủ động hỏi."
+    },
+    {
+     "t": "Mất ngủ do thuốc hạ áp (amlodipin)",
+     "n": "Không ủng hộ: ngưng 5 ngày mà ngủ không khá hơn, HA tăng. ESRS 2023 mục 3.5 không nêu amlodipin nhưng nói 'còn nhiều thuốc khác'. Không tự ngưng; đổi thuốc do bác sĩ kê đơn quyết (VSH/VNHA 2024, Đ5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục CBT-I dạng ngắn, làm cho khả thi: giờ dậy cố định kể cả sau đêm tệ; bỏ ngủ bù và ngủ trưa dài; thức giữa đêm thì ra chỗ yên tĩnh không dùng điện thoại; bỏ nước tăng lực; chưa thu hẹp thời gian nằm",
+     "v": "c",
+     "n": "AASM 2021 khuyến cáo 1–3 (kiểm soát kích thích); hạn chế giấc ngủ có thể chống chỉ định ở người lái xe và khi buồn ngủ ban ngày quá mức (khuyến cáo 4); ESRS 2023 mục 4.1.1: theo dõi buồn ngủ, ảnh hưởng lái xe. Thất bại do chưa thực hiện đủ không phải thất bại của CBT-I."
+    },
+    {
+     "t": "Uống lại amlodipin 5 mg theo đơn, không tự ngưng; đo HA tại nhà; báo bác sĩ kê đơn về nghi ngờ thuốc gây mất ngủ",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ5 (đầy đủ tuân thủ); HA 154/96 mmHg thuộc dải 140–179/90–119 mmHg, không tổn thương cơ quan đích (Hình 10). Đổi nhóm thuốc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "An toàn khi lái xe: không dùng nước tăng lực thay cho nghỉ ngơi; dừng xe nghỉ khi buồn ngủ; dời hoặc rút ngắn buổi dạy muộn, nhờ đưa đón; khai báo vụ ngã xe để được theo dõi",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.4 (nguy cơ tai nạn do mệt mỏi), mục 4.1.1 (theo dõi buồn ngủ, ảnh hưởng lái xe). Lượng caffeine an toàn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chưa kê thuốc ngủ, ưu tiên làm đủ CBT-I; hoặc nếu cùng quyết định dùng thuốc thì chỉ ngắn hạn (không quá 4 tuần) kèm CBT-I",
+     "v": "c",
+     "n": "ESRS 2023 mục 1.2, Bảng 16, Hình 1: thuốc khi CBT-I không đủ, tối đa 4 tuần. AASM 2026 khuyến cáo 2: phối hợp không hơn CBT-I đơn thuần; khuyến cáo 1: hơn thuốc đơn thuần. QĐ 2058/2020 Bài 27 mục 4.1, 4.3: kết hợp, hạn chế nhóm gây nghiện. Khác nhau do năm và so sánh trực tiếp."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc nhóm Z hằng đêm vì 'không đỡ' cho người chạy xe máy ban đêm vừa ngã xe, chưa làm đủ CBT-I",
+     "v": "w",
+     "n": "ESRS 2023 mục 4.2.1: dung nạp, lệ thuộc, 'hangover' giảm khả năng lái xe, mất ngủ dội ngược; Bảng 16: tối đa 4 tuần. Chưa làm đủ CBT-I mà đổi sang thuốc là sai hướng; QĐ 2058/2020 và AASM 2017 liệt kê thuốc nhưng không nêu giới hạn thời gian."
+    },
+    {
+     "t": "Chưa đa ký ngay; hẹn đa ký nếu sau khoảng 4 tuần thực hiện đúng vẫn không đỡ hoặc có dấu hiệu OSA mới (ngáy, ngưng thở, buồn ngủ rõ khi ngồi yên)",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.4, Bảng 4; AASM 2017 OSA khuyến cáo 1–2. 4 tuần là lựa chọn biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi lại gia đình; đề nghị một buổi nói chuyện chung với mẹ hoặc ba; ghi chẩn đoán đúng, không cấp giấy sai sự thật",
+     "v": "c",
+     "n": "ESRS 2023 Bảng 4 (xung đột quan hệ); QĐ 2058/2020 Bài 27 mục 2, 6. Tư vấn gia đình cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chiều lòng chụp MRI não, siêu âm tim, làm hàng loạt xét nghiệm ngay vì anh sợ",
+     "v": "w",
+     "n": "Chưa có chỉ định (ESRS 2023 Bảng 4: khi có chỉ định); phòng khám cũng không có. Chiều lòng làm nỗi sợ nặng thêm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn giấc ngủ: mất ngủ mạn không đỡ sau 3 tuần (hiệu suất ngủ khoảng 64%, ISI khoảng 17) vì yếu tố duy trì còn nguyên: 1–2 lon nước tăng lực/ngày, giờ dậy 7 giờ 30–10 giờ 30, ngủ trưa 1,5 giờ, điện thoại trên giường, tiếng cãi vã trong nhà",
+     "Biến cố mới: tự ngưng amlodipin 5 ngày (HA 154/96 mmHg); ngủ gật khi lái xe và ngã xe (cờ đỏ an toàn). Không trầm cảm; OSA chưa gợi ý; chưa kháng trị. Lý do thật vẫn là mâu thuẫn với ba"
+    ],
+    "phan_tich_chan_doan": [
+     "Khi 'không đỡ' hỏi theo thứ tự: đúng chẩn đoán chưa, đúng thuốc chưa, có tuân thủ không, có biến chứng không, có thật kháng trị chưa (ESRS 2023, mục 3.4, Bảng 4, Hình 1). Hỏi chung 'có làm theo dặn không' nghe 'dạ có hết'; phải hỏi từng việc. Nước tăng lực là cách anh chống ngủ gật khi lái xe: nỗi sợ làm mất ngủ duy trì.",
+     "Phải hỏi từng thuốc: anh tự ngưng amlodipin vì tin 'thuốc gây mất ngủ'. ESRS 2023 mục 3.5 nêu chẹn beta, corticoid… và 'còn nhiều thuốc khác', không nêu amlodipin; ngưng 5 ngày giấc ngủ không khá hơn nên không ủng hộ. HA 154/96 mmHg thuộc dải 140–179/90–119 mmHg, không tổn thương cơ quan đích (VSH/VNHA 2024, Hình 10): xử trí ngoại trú.",
+     "Cờ đỏ: ngủ gật và ngã xe là nguy cơ tai nạn thật (ESRS 2023, mục 3.4, 4.1.1); biện pháp là an toàn lái xe và gỡ lý do dùng nước tăng lực, không phải thêm thuốc an thần. Hỏi lại trầm cảm: vẫn không đủ (QĐ 2058/2020, Bài 20 mục 3.1.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Đổi thất bại do không tuân thủ thành khả thi, không đổi thuốc: thức giữa đêm ra chỗ yên tĩnh không dùng điện thoại, giờ dậy cố định hợp lịch dạy (AASM 2021, kiểm soát kích thích; ESRS 2023, mục 4.1.1); chưa thu hẹp thời gian nằm vì lái xe (AASM 2021, khuyến cáo 4). Uống lại amlodipin, đo HA tại nhà (VSH/VNHA 2024, Đ5); vẫn cần tầm soát thứ phát (Đ2.4). Bỏ nước tăng lực, không dùng caffeine thay nghỉ khi lái xe (QĐ 2058/2020, Bài 27 mục 4.3); lượng caffeine an toàn: không có trong tài liệu đã tải.",
+     "Thuốc ngủ: ghi cả hai hướng (ESRS 2023 Bảng 16 và AASM 2026 khuyến cáo 2: CBT-I trước; QĐ 2058/2020 và AASM 2017 cho dùng thuốc không giới hạn thời gian). Anh chưa làm đủ CBT-I, chạy xe ban đêm, vừa ngã xe nên chưa kê; nếu cùng quyết định thì tối đa 4 tuần kèm CBT-I. Đa ký: đặt mốc (ESRS 2023, mục 3.4; AASM 2017 OSA khuyến cáo 2). Gia đình: nói chuyện cùng mẹ hoặc ba khi anh đồng ý (QĐ 2058/2020, Bài 27 mục 2, 6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin (uống lại)",
+      "ham_luong": "5 mg/viên (đang dùng)",
+      "lieu": "5 mg × 1 lần/ngày, như đơn cũ",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng sau ăn sáng",
+      "so_ngay": "Tiếp tục theo bác sĩ kê đơn",
+      "ghi_chu": "Không tự ngưng (VSH/VNHA 2024, Đ5). Giữ nguyên thuốc đang dùng; đổi thuốc do bác sĩ kê đơn quyết định."
+     },
+     {
+      "thuoc": "Không kê thuốc ngủ lần khám này",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến lần tái khám",
+      "ghi_chu": "ESRS 2023 Bảng 16, Hình 1; AASM 2026 khuyến cáo 2. Nếu cùng quyết định dùng: tối đa 4 tuần kèm CBT-I."
+     }
+    ],
+    "dan_do": [
+     "Giờ dậy cố định kể cả sau đêm tệ, không ngủ bù đến 10 giờ; bỏ ngủ trưa dài; giường chỉ để ngủ; thức giữa đêm thì ra chỗ khác, không điện thoại (AASM 2021, kiểm soát kích thích). Bỏ nước tăng lực; buồn ngủ khi dạy hay lái xe thì dừng nghỉ (QĐ 2058/2020, Bài 27 mục 4.3; ESRS 2023, mục 4.1.1).",
+     "Uống lại amlodipin mỗi sáng, đo HA tại nhà ghi lại, mang sổ HA khi tái khám (VSH/VNHA 2024, Đ5). Không lái xe khi buồn ngủ; đi khám ngay nếu đau ngực, khó thở, ngất, yếu liệt, nhìn mờ, đau đầu dữ dội (VSH/VNHA 2024, Hình 10). Tái khám sau khoảng 2–4 tuần (lựa chọn biên tập; ESRS 2023, mục 3.2)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Tái khám sau khoảng 10 tuần, đi một mình. Ba tuần đầu sau lượt trước anh ngủ khá hơn (khoảng 6 giờ/đêm), uống amlodipin đều; ba tuần nay mất ngủ trở lại như trước và bực bội. Sinh hiệu: mạch 80 l/p, HA 136/86 mmHg, nhiệt 36,6 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 62 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Mất ngủ tái phát không có chỉ định nhập viện: anh tỉnh táo, HA 136/86 mmHg, không ý nghĩ tự hại, chỉ dùng diazepam của bạn 8 đêm nên không cần cai nội trú (QĐ 2058/2020, Bài 27 mục 3.1.1; Bài 20 mục 3.1.1; Joint 2025: hướng dẫn giảm liều không áp dụng cho dùng dưới 2 tuần). Nằm khoa tâm thần cho ba đúng cái nhãn 'bệnh tâm thần' để ép anh nghỉ dạy, còn xung đột gia đình thì không ai gỡ.",
+    "chuyen_tuyen": "Chuyển lên chuyên khoa tâm thần làm anh mất 1–2 ngày dạy và dễ nhận thêm thuốc an thần, trong khi anh cần một buổi nhắc lại CBT-I và gỡ yếu tố duy trì (ESRS 2023, mục 4.1.1; Bảng 16). Chưa có trầm cảm, ý nghĩ tự hại hay rối loạn sử dụng chất để cần chuyên khoa (QĐ 2058/2020, Bài 20 mục 3.1.1).",
+    "theo_doi": "Giữ anh lại phòng khám vài giờ không giải quyết vấn đề nào: không có chỉ định theo dõi sinh hiệu. Điều cần là buổi tư vấn có thời gian, nhật ký ngủ và kế hoạch an toàn khi lái xe (ESRS 2023, Bảng 16; mục 4.1.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, em tưởng khỏi rồi mà ba tuần nay em lại không ngủ được như trước, còn tệ hơn. Chắc cách bác sĩ chỉ không có tác dụng lâu. Em có xin của bạn mấy viên thuốc an thần, uống vô ngủ được. Bác sĩ cho em xin thuốc đó đi, rồi viết cho em tờ giấy để đưa ba coi.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "136/86",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tai_phat",
+     "noi_dung": "Ba tuần sau lượt trước anh ngủ khoảng 6 giờ, thức 1 lần, ISI xuống khoảng 9 điểm. Ba tuần nay quay lại: lên giường 0 giờ, vào giấc sau hơn một tiếng, thức 3 giờ rồi khó ngủ lại, ngày mệt, bực bội. ISI khoảng 18.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Tái phát sau cải thiện: mốc thời gian"
+    },
+    {
+     "id": "su_kien",
+     "noi_dung": "Ba tuần trước anh và ba cãi dữ dội: ba đòi anh nghỉ dạy hết học kỳ, nói 'đi khám cả tháng cũng chẳng ra bệnh', xé phiếu khám và nhật ký ngủ của anh; mẹ khóc. Anh đập cửa phòng, từ đó nằm nghĩ mãi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung anh đáp 'không có gì khác'. Chỉ kể khi hỏi điều gì thay đổi trước khi ngủ kém lại, dạo này ở nhà ra sao, nhật ký còn ghi không.",
+     "k": 1,
+     "y": "Biến cố gia đình trước khi tái phát: nguyên nhân nền chưa xử lý"
+    },
+    {
+     "id": "hanh_vi_cu",
+     "noi_dung": "Anh ngừng ghi nhật ký ngủ sau khi ba xé, quay lại lướt điện thoại trên giường đến 1 giờ, ngủ nướng đến 10 giờ cuối tuần, uống lại 1–2 lon nước tăng lực mỗi ngày, ngủ trưa 2 giờ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi hỏi từng thói quen: giờ dậy cuối tuần, giờ tắt điện thoại, nước tăng lực, ngủ trưa, còn ghi nhật ký không.",
+     "k": 1,
+     "y": "Hành vi duy trì quay lại, bỏ nhật ký ngủ"
+    },
+    {
+     "id": "thuoc_ban",
+     "noi_dung": "Hai tuần trước anh xin của bạn một vỉ 10 viên 'thuốc an thần' (diazepam 5 mg), uống 1–2 viên mỗi tối, tổng 8 đêm, còn 2 viên. Đêm uống ngủ được khoảng 6 giờ nhưng sáng hôm sau lờ đờ, hai lần chạy xe đi dạy thấy lâng lâng; hai đêm không uống thì thức lúc 2 giờ. Một đêm cuối tuần anh uống một chai bia cùng viên thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' anh đáp 'chỉ thuốc huyết áp'. Chỉ nói khi hỏi có xin hay mua thuốc ngủ, an thần không, ai đưa, mấy viên, có kèm bia, chạy xe sau đó chưa.",
+     "k": 1,
+     "y": "Tự dùng benzodiazepin của bạn, kèm bia, chạy xe sau đó"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Anh bực, tủi, chán ở nhà, vẫn thích dạy; ăn được, không sụt cân; không buồn cả ngày. Có lúc nghĩ 'ước gì dọn ra ở riêng', không nghĩ đến chết hay tự làm hại mình, không có kế hoạch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi lại trầm cảm và ý nghĩ tự hại sau biến cố"
+    },
+    {
+     "id": "thuoc_ha_ap",
+     "noi_dung": "Anh uống amlodipin đều từ sau lượt trước; HA đo ở nhà 130–140/80–90 mmHg. Không đau đầu gáy, không hồi hộp ban ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc hạ áp, HA tại nhà"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Anh nói nếu bác sĩ cho thuốc ngủ mạnh và viết giấy thì ba sẽ thấy anh 'có bệnh thật'. Anh bực khi bác sĩ không đồng ý nhưng chịu nghe giải thích; mẹ nhắn muốn đi cùng lần sau, ba chưa chịu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Động cơ cũ vẫn còn: cần 'bằng chứng bệnh thật'"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 136/86, tay trái 134/86 mmHg.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt, quầng thâm dưới mắt. Cân nặng 62 kg. Đầu gối phải lành sẹo, đi lại bình thường. Không run tay.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p."
+    },
+    "tam_than": {
+     "a": "Mệt, bực, nói nhanh khi nhắc chuyện ba; khi được nghe thì dịu lại. Khí sắc không trầm, còn hứng thú. Lo lắng chủ đề rõ (bị coi là giả bệnh, ngủ không được). Không hoang tưởng, không ảo giác. Không ý tưởng tự sát hay tự hại. Không dấu hiệu say hay cai thuốc.",
+     "k": 1,
+     "hien": "Tỉnh, mệt, bực bội, hợp tác."
+    }
+   },
+   "cls": {
+    "psg": {
+     "v": "a",
+     "r": "(Phòng khám không có đa ký hay máy đo ngưng thở khi ngủ tại nhà.)",
+     "n": "Chưa chỉ định: mất ngủ đã đáp ứng CBT-I ba tuần rồi tái phát sau biến cố, không ngáy hay ngưng thở, nên đây không phải mất ngủ kháng trị (ESRS 2023 mục 3.4, Bảng 4; AASM 2017 OSA khuyến cáo 2). Nhắc lại mốc nếu có dấu hiệu OSA mới."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn giấc ngủ: mất ngủ mạn tái phát sau đáp ứng ba tuần, do xung đột gia đình và hành vi duy trì quay lại; có tự dùng diazepam của bạn 8 đêm",
+     "ok": 1,
+     "n": "Tái phát: nguyên nhân nền (mâu thuẫn với ba) chưa xử lý, tuân thủ giảm sau khi nhật ký bị xé, chẩn đoán từ đầu đúng (từng đáp ứng CBT-I). ESRS 2023 mục 4.1.1: hiệu quả CBT-I bền nhưng có thể cần buổi nhắc lại; AASM 2021: theo dõi sau điều trị và xử trí triệu chứng còn lại."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Loại trừ lại sau biến cố: bực, tủi nhưng còn hứng thú, ăn được, không sụt cân, không ý nghĩ chết hay tự hại (QĐ 2058/2020 Bài 20 mục 3.1.1)."
+    },
+    {
+     "t": "Ngưng thở khi ngủ",
+     "n": "Không ủng hộ: mất ngủ đáp ứng CBT-I rồi tái phát sau biến cố cụ thể; BMI 21; không ai thấy ngáy hay ngưng thở (ESRS 2023 mục 3.5; AASM 2017 OSA khuyến cáo 1–2). Giữ mốc đa ký nếu có dấu hiệu mới."
+    },
+    {
+     "t": "Dùng thuốc an thần của người khác (benzodiazepin ngắn ngày) kèm bia khi lái xe",
+     "n": "Mới 8 đêm, chưa tới lệ thuộc; mất ngủ dội ngược khi ngừng có thể xảy ra (ESRS 2023 mục 4.2.1). Hướng dẫn giảm liều không áp dụng cho dùng dưới 2 tuần (Joint 2025, phạm vi); nhiều người dùng dưới 1 tháng ngừng được không cần giảm dần (Joint 2025, khuyến cáo 2). Rượu bia cộng thuốc và lái xe là nguy cơ cần dặn rõ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Buổi nhắc lại CBT-I: khôi phục nhật ký ngủ, giờ dậy cố định, giường chỉ để ngủ, bỏ nước tăng lực và ngủ nướng; hạn chế giấc ngủ chỉ khi hết nguy cơ buồn ngủ khi lái xe",
+     "v": "c",
+     "n": "ESRS 2023 mục 4.1.1: hiệu quả CBT-I bền, có thể cần buổi nhắc lại; AASM 2021: theo dõi sau điều trị, khuyến cáo 1–4; không thu hẹp thời gian nằm khi lái xe (khuyến cáo 4)."
+    },
+    {
+     "t": "Ngừng 2 viên diazepam còn lại, không xin thêm, không uống kèm rượu bia, không chạy xe sau khi uống; báo trước có thể mất ngủ vài đêm",
+     "v": "c",
+     "n": "ESRS 2023 mục 4.2.1 (dung nạp, 'hangover' ảnh hưởng lái xe, mất ngủ dội ngược khi ngừng); Joint 2025 (dùng dưới 1 tháng thường ngừng được không cần giảm dần, khuyến cáo 2; hướng dẫn không áp dụng cho dùng dưới 2 tuần)."
+    },
+    {
+     "t": "Chưa kê thuốc ngủ, ưu tiên làm lại CBT-I; hoặc nếu cùng quyết định dùng thuốc thì chỉ ngắn hạn (không quá 4 tuần) kèm CBT-I",
+     "v": "c",
+     "n": "ESRS 2023 mục 1.2, Bảng 16, Hình 1; AASM 2026 khuyến cáo 1, 2; QĐ 2058/2020 Bài 27 mục 4.1, 4.3. Khác nhau do năm và so sánh trực tiếp."
+    },
+    {
+     "t": "Kê benzodiazepin hằng đêm, hoặc cấp giấy 'bệnh nặng' để đưa ba, trong khi nguyên nhân nền và thuốc tự dùng chưa xử lý",
+     "v": "w",
+     "n": "ESRS 2023 Bảng 16, mục 4.2.1; QĐ 2058/2020 Bài 27 mục 4.1 (hạn chế nhóm gây nghiện), mục 5 (biến chứng lạm dụng thuốc giải lo âu). Thuốc không gỡ được xung đột; giấy sai sự thật làm hại lòng tin."
+    },
+    {
+     "t": "Gọi tên nguyên nhân nền (xung đột với ba); mời mẹ và nếu được ba đến một buổi; thỏa thuận nơi ngủ yên và lịch dạy; hỏi lại trầm cảm, ý nghĩ tự hại, bia rượu; ghi chẩn đoán đúng sự thật",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 2, 6; Bài 20 mục 3.1.1; ESRS 2023 Bảng 4, mục 3.5. Tư vấn gia đình cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám 2 tuần mang nhật ký ngủ; đa ký nếu không đỡ dù làm đúng hoặc có dấu hiệu OSA mới",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.2, 3.4, Bảng 4. Khoảng 2 tuần là lựa chọn biên tập, không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn giấc ngủ: mất ngủ mạn tái phát sau ba tuần đáp ứng (ISI từ khoảng 9 lên khoảng 18) sau cuộc cãi lớn với ba; hành vi duy trì quay lại, nhật ký bị xé",
+     "Tự dùng diazepam 5 mg của bạn 8 đêm, một lần kèm bia, chạy xe lâng lâng hai sáng (cờ đỏ an toàn). Không trầm cảm, không ý nghĩ tự hại; OSA không ủng hộ; HA ổn. Lý do thật vẫn là mâu thuẫn gia đình"
+    ],
+    "phan_tich_chan_doan": [
+     "Tái phát có ba câu hỏi: nguyên nhân nền chưa xử lý? (có: xung đột với ba); tuân thủ giảm? (có: bỏ nhật ký, nước tăng lực, ngủ nướng); chẩn đoán sai từ đầu? (không: từng đáp ứng CBT-I, không dấu hiệu OSA hay trầm cảm). Hỏi chung 'có gì thay đổi' nghe 'không có gì'; phải hỏi từng thứ.",
+     "Trầm cảm: vẫn không đủ tiêu chuẩn (QĐ 2058/2020, Bài 20 mục 3.1.1); hỏi thẳng ý nghĩ tự hại mọi lần (ESRS 2023, mục 3.5). Diazepam của bạn 8 đêm: không dùng hướng dẫn giảm liều (Joint 2025, phạm vi); mất ngủ dội ngược khi ngừng khó tránh (ESRS 2023, mục 4.2.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Buổi nhắc lại CBT-I: khôi phục nhật ký ngủ, giờ dậy; hạn chế giấc ngủ chỉ khi hết nguy cơ buồn ngủ khi lái xe (ESRS 2023, mục 4.1.1; AASM 2021, khuyến cáo 4). Ngừng diazepam của bạn, không kèm rượu bia, không chạy xe sau khi uống (ESRS 2023, mục 4.2.1; Joint 2025).",
+     "Thuốc ngủ: ghi cả hai hướng (ESRS 2023 Bảng 16 và AASM 2026 khuyến cáo 2: CBT-I trước, thuốc tối đa 4 tuần; QĐ 2058/2020 liệt kê thuốc không giới hạn thời gian); chưa kê vì anh chưa ổn định, đang chạy xe, vừa tự dùng thuốc. Nguyên nhân nền: gọi tên xung đột, mời mẹ (và ba nếu được) một buổi (QĐ 2058/2020, Bài 27 mục 2, 6); ghi chẩn đoán đúng sự thật, không cấp giấy 'bệnh nặng'."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ngừng diazepam 5 mg xin của bạn (còn 2 viên)",
+      "ham_luong": "5 mg/viên (không phải thuốc của anh)",
+      "lieu": "Không dùng thêm",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Từ hôm nay",
+      "ghi_chu": "ESRS 2023 mục 4.2.1; Joint 2025 (dùng dưới 1 tháng thường ngừng được không cần giảm dần; hướng dẫn không áp dụng cho dùng dưới 2 tuần). Không uống kèm rượu bia."
+     },
+     {
+      "thuoc": "Amlodipin (tiếp tục)",
+      "ham_luong": "5 mg/viên (đang dùng)",
+      "lieu": "5 mg × 1 lần/ngày, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng sau ăn sáng",
+      "so_ngay": "Tiếp tục theo bác sĩ kê đơn",
+      "ghi_chu": "Đang dùng, giữ nguyên, không tự ngưng (VSH/VNHA 2024, Đ5)."
+     },
+     {
+      "thuoc": "Không kê thuốc ngủ lần khám này",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến lần tái khám",
+      "ghi_chu": "ESRS 2023 Bảng 16, Hình 1; AASM 2026 khuyến cáo 2. Nếu cùng quyết định dùng: tối đa 4 tuần kèm CBT-I."
+     }
+    ],
+    "dan_do": [
+     "Tái phát sau biến cố là thường gặp, không có nghĩa CBT-I thất bại; hiệu quả CBT-I bền và có thể cần buổi nhắc lại (ESRS 2023, mục 4.1.1). Ghi nhật ký ngủ (cất chỗ khác), giờ dậy cố định cả cuối tuần, giường chỉ để ngủ, bỏ nước tăng lực, bỏ ngủ trưa dài (AASM 2021, kiểm soát kích thích).",
+     "Không dùng thuốc an thần của người khác, không uống rượu bia để ngủ; không lái xe khi buồn ngủ hay sau khi uống thuốc, bia (QĐ 2058/2020, Bài 27 mục 4.3; ESRS 2023, mục 4.2.1).",
+     "Đưa mẹ cùng đến lần tái khám. Đi khám sớm nếu buồn chán kéo dài, nghĩ đến chết, ngủ gật khi lái xe (QĐ 2058/2020, Bài 20 mục 3.1.1). Tái khám sau khoảng 2 tuần với nhật ký ngủ và sổ HA (lựa chọn biên tập; ESRS 2023, mục 3.2)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tái phát: sau lượt 2 anh Khôi uống lại amlodipin, bỏ nước tăng lực, giờ dậy cố định, ngủ khá hơn ba tuần, rồi trở lại như cũ sau cuộc cãi lớn với ba, bỏ nhật ký, tự dùng diazepam của bạn. Tái phát không do chẩn đoán sai hay CBT-I vô hiệu mà do nguyên nhân nền (xung đột gia đình) chưa xử lý và tuân thủ tụt; giải pháp là buổi nhắc lại CBT-I, ngừng thuốc tự dùng, gỡ xung đột cùng mẹ và ba, không phải thuốc ngủ hay giấy bệnh nặng.",
+ "nhieu": [
+  "Sợ hãi quá mức: đòi CT não, siêu âm tim, Holter, đa ký, xét nghiệm hormone 'làm hết cho chắc'; không có chỉ định (ESRS 2023, Bảng 4) và phòng khám không có; phải trấn an có cấu trúc chứ không chiều lòng.",
+  "Hồi hộp và huyết áp cao ở tuổi trẻ kéo cuộc khám sang tim mạch; mất ngủ chỉ lộ khi hỏi một đêm cụ thể (ESRS 2023, mục 3.2).",
+  "Nước tăng lực chống ngủ gật khi lái xe: tưởng an toàn nhưng là yếu tố duy trì mất ngủ (QĐ 2058/2020, Bài 27 mục 4.3)."
+ ],
+ "bai_hoc_bien": [
+  "Không điển hình: người trẻ, đã có chẩn đoán tăng huyết áp, không kêu 'mất ngủ'; câu chuyện bị kéo sang tim mạch. Giấc ngủ, ngủ gật khi lái xe và mâu thuẫn gia đình chỉ lộ khi hỏi chi tiết và hỏi riêng (ESRS 2023, mục 3.5).",
+  "Khi không đỡ (lượt 2) chạy quy trình: đúng chẩn đoán? đúng thuốc? tuân thủ? biến chứng? kháng trị thật chưa? Chưa làm đủ CBT-I thì chưa đổi sang thuốc ngủ hay đa ký (ESRS 2023, mục 3.4, Bảng 4, Hình 1).",
+  "Cờ đỏ cần gọi tên: ngủ gật khi lái xe, ngã xe, dùng thuốc an thần và bia rồi chạy xe; hạn chế giấc ngủ có thể chống chỉ định ở người lái xe (AASM 2021, khuyến cáo 4).",
+  "Tái phát: nguyên nhân nền chưa xử lý, tuân thủ, hay chẩn đoán sai từ đầu; có thể cần buổi nhắc lại CBT-I (ESRS 2023, mục 4.1.1). Lý do thật là cần 'bằng chứng bệnh thật' trước ba: ghi chẩn đoán đúng, không chiều lòng xét nghiệm hay giấy sai sự thật."
+ ],
+ "diem_nho": [
+  "Mất ngủ mạn: ≥ 3 đêm/tuần, ≥ 3 tháng (ESRS 2023 Bảng 2) hoặc ≥ 1 tháng (QĐ 2058/2020 Bài 27 mục 3.1.1), có hậu quả ban ngày.",
+  "CBT-I đầu tay (AASM 2021 khuyến cáo 1; ESRS 2023 Bảng 16); thuốc ngủ khi CBT-I chưa đủ, benzodiazepin và nhóm Z tối đa 4 tuần.",
+  "Người lái xe: hạn chế giấc ngủ có thể chống chỉ định (AASM 2021 khuyến cáo 4); tăng huyết áp trước 40 tuổi cần tầm soát thứ phát, trong đó có OSA (VSH/VNHA 2024 Đ2.4)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT 2020 – TL-0443 – Bài 27 (mục 2, 3.1.1, 3.1.2, 3.2, 4.1, 4.3, 5, 6); Bài 20 mục 3.1.1; Bài 22 mục 3.1.1.",
+  "ESRS 2023, The European Insomnia Guideline, J Sleep Res 2023;32:e14035 – TL-0464 – mục 1.2, 3.2, 3.4, 3.5, 4.1.1, 4.2.1; Bảng 2, 4, 5, 16; Hình 1.",
+  "AASM 2021, Behavioral and psychological treatments for chronic insomnia, J Clin Sleep Med 2021;17(2):255-262 – TL-0470 – khuyến cáo 1–6.",
+  "AASM 2026, Combination treatment for chronic insomnia, J Clin Sleep Med 2026;22(1) – TL-0448 – khuyến cáo 1, 2.",
+  "AASM 2017, Pharmacologic treatment of chronic insomnia – TL-0482 – khuyến cáo 2, 4–6 (theo sổ mâu thuẫn).",
+  "AASM 2017, Diagnostic testing for adult OSA, J Clin Sleep Med 2017;13(3):479-504 (bản chữ kho cũ tltk-10000-ca) – khuyến cáo 1, 2.",
+  "VSH/VNHA 2024, Chiến lược thực hành lâm sàng quản lý tăng huyết áp tại Việt Nam – TL-0288 – Đ2.4, Đ5, Hình 10.",
+  "Joint Guideline on Benzodiazepine Tapering, J Gen Intern Med 2025 (bản chữ kho cũ) – phạm vi, khuyến cáo 2."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 18/10/2026, viết: Sonnet. Đã đọc: TL-0443 (Bài 27, 20, 22); TL-0464 (mục 1.2, 3, 4.1.1, 4.2.1, Bảng 2/4/5/16, Hình 1); TL-0470; TL-0448 (khuyến cáo); AASM 2017 OSA bản chữ kho cũ; TL-0288 (Đ2.4, Đ5, Hình 10); Joint 2025 (phạm vi, khuyến cáo 2). AASM 2017 thuốc ngủ (TL-0482) dẫn theo sổ mâu thuẫn.",
+  "Không có trong tài liệu đã tải: cách tính điểm STOP-Bang; giờ cắt và lượng caffeine an toàn; biện pháp an toàn lái xe cụ thể; thuốc và liều thuốc ngủ cho người 27 tuổi; đổi nhóm thuốc hạ áp khi nghi gây mất ngủ; tư vấn gia đình cụ thể; khoảng tái khám (2 tuần, 2–4 tuần, mốc 4 tuần đa ký là lựa chọn biên tập).",
+  "Khác biệt nguồn ghi cả hai cách (sổ mâu thuẫn, ca TT-0161; Beers không áp dụng vì 27 tuổi): thuốc ngủ benzodiazepin/nhóm Z; phối hợp CBT-I với thuốc; vệ sinh giấc ngủ đơn thuần. Ghi nhận thêm: hạn chế giấc ngủ ở người lái xe (AASM 2021 có thể chống chỉ định; ESRS 2023 đánh giá, theo dõi buồn ngủ); chẹn beta (BYT 2020 liệt kê propranolol trong điều trị mất ngủ, ESRS 2023 xếp chẹn beta là thuốc có thể gây mất ngủ) không dùng ở ca này vì thuốc hạ áp là amlodipin."
+ ]
+}
