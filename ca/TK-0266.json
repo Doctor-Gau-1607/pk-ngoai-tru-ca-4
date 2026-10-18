@@ -1,0 +1,560 @@
+{
+ "ma_ca": "TK-0266",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-18)",
+ "benh": "TK_tien_dinh_ngoai_bien_viem_tk_tien_dinh",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Rối loạn tiền đình ngoại biên (viêm TK tiền đình)",
+  "chan_doan_phai_loai_tru": [
+   "Đột quỵ",
+   "BPPV"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "nghe_nghiep": "Chủ quán ăn",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Trần Quốc Việt",
+  "tuoi": 34,
+  "gioi": "Nam",
+  "nghe": "Chủ quán cơm bình dân",
+  "can_nang": 70,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh xưng 'em', gọi bác sĩ là 'bác sĩ'. Bà Lụa (mẹ) xưng 'tôi', gọi con là 'thằng Việt' hoặc 'nó', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Ít nói, trọng thể diện, hay lo xa nhưng không muốn mẹ và vợ lo theo. Quen đau mỏi vì làm bếp nên tự mua thuốc uống, ngại bỏ buổi bán. Khi nôn và quay anh nằm im, mắt nhắm, trả lời ngắn.",
+  "kieu_nhieu": "Thân nhân trả lời thay: bà Lụa trả lời gần hết câu hỏi, hay đoán hộ và nói quá ('trúng gió', 'nôn ói cả ngày', 'đau đầu dữ lắm'), đòi truyền nước và 'chích thuốc bổ'. Bà không biết: lượng paracetamol con tự uống, chuyện vợ chồng tối hôm trước, lượng bia, nỗi sợ lây của con. Anh Việt hỏi chung thì theo lời mẹ; chỉ kể thật khi bác sĩ hỏi riêng anh (mời bà ra ngoài hoặc nhờ điều dưỡng Linh đưa bà đi làm thủ tục).",
+  "nguoi_nha": "Mẹ",
+  "ten_nguoi_nha": "Võ Thị Lụa",
+  "ngoai_hinh": {
+   "da": "#c79a72",
+   "toc": "#1d1a18",
+   "kieuToc": "ngan",
+   "ao": "#6d7f6a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#b98a63",
+    "toc": "#b9b4aa",
+    "kieuToc": "bui",
+    "ao": "#8a6a52",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 3,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Chóng mặt quay, nôn từ sáng thứ Hai; mẹ đưa đi khám, xin truyền nước và tiêm thuốc bổ",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm đường huyết, ure, creatinin, điện giải, AST, ALT, CRP, tổng phân tích nước tiểu). Không có X-quang, siêu âm, CT, MRI, không có phòng đo thính lực, thử nhiệt hay đo vận nhãn bằng video. Bệnh viện tỉnh cách khoảng 45 km (gần một giờ ô tô)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nam 34 tuổi, chủ quán cơm bình dân, mẹ là bà Lụa đưa đi bằng taxi. Anh nằm nghiêng phải trên ghế dài ở phòng chờ, mắt nhắm, một tay giữ thùng nôn nhỏ, trả lời rất ngắn. Bà Lụa kể thay: con chóng mặt, nôn từ sáng thứ Hai, nay đã sang ngày thứ hai. Cân nặng 70 kg, cao 168 cm. Sinh hiệu lúc tiếp đón (nằm): mạch 72 l/p, HA 126/78 mmHg, nhiệt 36,8 °C, nhịp thở 18, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện không đổi được xử trí: HINTS plus ngoại biên, anh đi độc lập (mất vững mức 1) và uống được sau liều chống nôn đầu (GRACE-3 2023, tóm tắt tr. 444; Bảng 3 tr. 458). Nằm viện nhiều ngày thì quán đóng cửa, mất thu nhập, vợ mang thai 30 tuần ở nhà với con nhỏ; nằm bất động, truyền dịch và ức chế tiền đình kéo dài còn cản sự bù trừ (GRACE-3 2023 tr. 474; TL-0451 tr. S363, tối đa 2–3 ngày).",
+    "chuyen_tuyen": "Chuyển bệnh viện tỉnh chụp CT hay MRI khi HINTS plus đã ngoại biên: GRACE-3 2023 khuyến cáo mạnh không dùng CT sọ để phân biệt đột quỵ với viêm thần kinh tiền đình (khuyến cáo 5, tr. 447) và không dùng MRI làm xét nghiệm đầu tiên khi có người khám được HINTS (khuyến cáo 6); TL-0451 Bảng 3 chỉ chuyển khẩn khi nặng hoặc nghi trung ương. Anh ngồi ô tô gần một giờ khi còn nôn, tốn thêm một ngày quán và tiền xe, kết quả nhiều khả năng không đổi xử trí.",
+    "cap_cuu": "Gọi 115 hay kích hoạt đường dây đột quỵ là quá mức: không có dấu thần kinh khu trú, ba thành phần HINTS ngoại biên, nghe không giảm mới (GRACE-3 2023, Bảng 4, tr. 460). QĐ 5331/2020 (Chương 5 mục I) dặn dân gọi cấp cứu khi chóng mặt kèm dấu thần kinh khác; người đã được khám đúng thì không còn lý do đó. Anh bị đưa đi xe cấp cứu, chờ nhiều giờ, bà Lụa hoảng thêm, quán đóng cửa thêm một ngày."
+   },
+   "loi_mo": "Bác sĩ ơi, thằng Việt nhà tôi bị trúng gió từ hôm qua tới giờ, chóng mặt, nôn ói cả ngày, đầu đau dữ lắm. Tôi cạo gió rồi mà không đỡ. Bác sĩ truyền cho nó chai nước với chích thuốc bổ cho khỏe lại giùm tôi.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "126/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "(Bà Lụa kể) Thằng Việt bị 'trúng gió', chóng mặt, nôn từ hôm qua, ôm đầu kêu đau, không ăn uống được. Bà cạo gió sáng nay không đỡ, muốn được truyền nước và tiêm thuốc bổ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám theo lời người nhà (có đoán hộ và nói quá)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "(Chính anh nói) Sáng thứ Hai khoảng 5 giờ 30 thức dậy đi vệ sinh thì nhà cửa quay vòng vòng, phải bám tường. Từ đó quay liên tục, nằm yên cũng quay, trở mình hay ngoái đầu thì quay mạnh hơn, nằm nghiêng phải đỡ chút. Chưa lúc nào hết hẳn. Nôn khoảng sáu lần hôm qua, sáng nay hai lần. Trước đó chưa từng chóng mặt kiểu này.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát cấp, vertigo liên tục hơn 24 giờ, không theo cơn ngắn"
+    },
+    {
+     "id": "khong_theo_tu_the",
+     "noi_dung": "Không có những cơn quay ngắn vài chục giây chỉ khi nằm xuống, ngửa đầu hay cúi nhặt đồ rồi hết ngay. Quay liên tục từ sáng thứ Hai, chỉ nặng thêm khi cử động đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt BPPV (cơn ngắn theo tư thế) với hội chứng tiền đình cấp liên tục"
+    },
+    {
+     "id": "khong_trung_uong",
+     "noi_dung": "(Chính anh nói) Không đau đầu, chỉ ôm đầu vì quay và buồn nôn. Không yếu hay tê tay chân, không méo miệng, không nói khó, không nhìn đôi, không mờ mắt, không nuốt vướng, không ngất, không co giật. 'Đau đầu dữ lắm' là lời bà Lụa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng thần kinh trung ương (Bárány AUVP 2022, mục 4.2 và ghi chú 13)"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Không ù tai, không nặng tai, không đau tai, không chảy dịch, nghe hai tai như nhau. Không nổi mụn nước ở tai hay mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tai: không giảm nghe, không ù (loại viêm mê nhĩ, Ménière, nhồi máu AICA, zona tai)"
+    },
+    {
+     "id": "chan_thuong_co",
+     "noi_dung": "Không té ngã, không va đập đầu hay cổ, không ai nắn bóp vặn cổ. Vai gáy và lưng đau mỏi âm ỉ hơn một năm do đứng bếp, không đau cổ mới, không đau dữ dội ra sau gáy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chấn thương cổ, bóc tách động mạch đốt sống; đau vai gáy cũ là mạn, không phải mới"
+    },
+    {
+     "id": "quan_he",
+     "noi_dung": "Tối Chủ nhật khoảng 22 giờ anh quan hệ với vợ như thường lệ, không gắng sức bất thường, không đổi tư thế cổ lạ, không đau đầu dữ dội lúc hay sau quan hệ, không choáng. Ngủ lúc 23 giờ, 5 giờ 30 thức dậy thì quay. Anh không nói chuyện này trước mặt mẹ.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Yếu tố khởi phát: sau quan hệ tình dục (thời điểm trùng); kiểm tra gắng sức, Valsalva, đau đầu sét đánh, bóc tách",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng anh (mời bà Lụa ra ngoài) về sinh hoạt tối hôm trước, gắng sức mạnh, đau đầu đột ngột hay quan hệ vợ chồng. Hỏi chung 'có làm gì lạ không' lúc bà Lụa ngồi cạnh thì anh nói 'không có gì'."
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Hơn ba tuần nay anh uống paracetamol 500 mg mua ở tiệm thuốc, mỗi lần 2 viên, ngày 4–5 lần (8–10 viên, tức 4–5 g mỗi ngày), hai tuần gần đây thường 10 viên vì quán đông khách, đau vai gáy và lưng nhiều. Chiều thứ Hai uống 2 viên thì nôn ra, hôm nay chưa uống. Không dùng thuốc cảm hay thuốc giảm đau nào khác. Bà Lụa không biết con uống nhiều vậy.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc đang dùng: paracetamol liều cao kéo dài (QĐ 3610/2015 bài ngộ độc paracetamol, mục 2: dùng kéo dài, nghiện rượu là nguy cơ)",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng anh, hoặc hỏi cụ thể 'đau vai gáy thì uống gì', 'thuốc giảm đau mua ngoài', 'mỗi ngày mấy viên'. Hỏi chung 'có uống thuốc gì không' lúc bà Lụa ngồi cạnh thì bà nói 'đâu có uống thuốc gì' và anh im lặng."
+    },
+    {
+     "id": "ruou_bia",
+     "noi_dung": "Uống bia 2–3 lon mỗi tối khi tiếp khách quen, tối Chủ nhật 3 lon. Không rượu mạnh, không say. Từ thứ Hai đến nay không uống giọt nào vì nôn. Hút thuốc lá 5–6 điếu mỗi ngày. Không ma túy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu bia (nguy cơ gan khi dùng paracetamol), thuốc lá (yếu tố nguy cơ mạch máu)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa có bệnh mạn tính, chưa biết có tăng huyết áp hay tiểu đường (chưa khám sức khỏe định kỳ). Chưa từng đau nửa đầu, đột quỵ, bệnh gan hay bệnh tim. Không dị ứng thuốc. Gia đình không ai bị đột quỵ sớm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, yếu tố nguy cơ mạch máu, đau nửa đầu, bệnh gan"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Mở quán cơm từ 5 giờ sáng đến 9 giờ tối, tự đứng bếp, mẹ phụ rửa chén, có một nhân viên bưng bê. Nay đóng cửa hai ngày. Vợ là chị Ngọc mang thai 30 tuần ở nhà với con gái 3 tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề nghiệp, ràng buộc nghỉ việc, hoàn cảnh gia đình"
+    },
+    {
+     "id": "cao_gio",
+     "noi_dung": "Sáng nay bà Lụa cạo gió lưng, cổ bằng dầu và đồng xu. Chiều thứ Hai bà mua gói điện giải cho con uống nhưng con nôn ra. Chưa dùng kháng sinh hay thuốc tiêm nào.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Việc đã làm trước khi đến khám (cạo gió, điện giải); dấu cạo gió trên da"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Thật ra anh lo nhất là bệnh này 'do virus' và lây. Anh đọc trên mạng 'viêm tiền đình do virus, lây sang bà bầu dễ dị tật thai', mà tối Chủ nhật còn gần vợ. Hai đêm nay anh tự ra ngủ ngoài phòng khách, không dám ẵm con. Anh không dám nói với mẹ sợ mẹ hoảng, không nói với vợ sợ vợ lo cho thai. Anh đi khám mong được nói rõ có lây hay không.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: sợ lây bệnh cho vợ đang mang thai và con nhỏ",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng anh (mời bà Lụa ra ngoài) điều anh lo nhất, vì sao hai đêm nay ngủ riêng hay tránh con, hoặc hỏi vợ con ở nhà. Hỏi chung thì anh nói 'em chỉ muốn hết chóng mặt'."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Anh tỉnh, tiếp xúc được, nằm nghiêng phải, mắt nhắm, nôn khan khi mở mắt hay quay đầu. Vùng gáy và lưng trên có nhiều vệt đỏ sẫm song song do cạo gió sáng nay, không phồng nước. Củng mạc trắng, không vàng da. Môi hơi khô, véo da mất nhanh. Cân nặng 70 kg.",
+     "k": 1,
+     "hien": "Anh nằm nghiêng phải, mắt nhắm, tỉnh. Gáy và lưng trên có vệt đỏ do cạo gió. Củng mạc trắng, môi hơi khô."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 126/78 mmHg, mạch 72. Ngồi dậy 1 phút: 122/76 mmHg, mạch 80, quay nhiều và buồn nôn nhưng không choáng kiểu sắp ngất. HA không giảm, mạch tăng 8 l/p: không có hạ huyết áp tư thế (GRACE-3 2023, Hình 1 chú thích: hạ huyết áp tư thế là nguyên nhân tiền đình tạm thời).",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 72 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, gan không to dưới bờ sườn, ấn hạ sườn phải không đau, không dấu hiệu cổ trướng. Lách không sờ thấy.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Cổ mềm, không cứng gáy. Ấn dọc cột sống cổ không điểm đau, không đau dọc cơ ức đòn chũm hay chỗ sờ động mạch cảnh, không âm thổi động mạch cổ. Cơ thang hai bên căng cứng, xoay cổ đủ tầm nhưng quay nhiều hơn mỗi lần xoay. Không hạch, tuyến giáp bình thường.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Ống tai ngoài hai bên sạch, màng nhĩ hai bên bình thường, sáng, không mụn nước ở vành tai hay ống tai (không gợi ý Ramsay Hunt), không chảy dịch. Họng không đỏ.",
+     "k": 1
+    },
+    "am_thoa": {
+     "a": "Weber không lệch, Rinne dương tính hai bên: không giảm nghe dẫn truyền hay tiếp nhận (Bárány AUVP 2022, mục 4.3.4: dùng Rinne, Weber để phân loại giảm nghe).",
+     "k": 0,
+     "hien": "Weber ở giữa, Rinne hai bên bình thường."
+    },
+    "nghe_thi_tham": {
+     "a": "Cọ ngón tay sát tai: nghe như nhau hai bên, rõ cả hai. Không giảm nghe một bên mới xuất hiện (HINTS plus, GRACE-3 2023 Bảng 4, tr. 460; Bárány AUVP 2022, mục 4.3.4).",
+     "k": 1,
+     "hien": "Nghe cọ ngón tay hai bên như nhau."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, nói rõ nhưng chậm vì nôn. Thần kinh sọ: thị trường đối diện bình thường, đồng tử đều phản xạ tốt, vận nhãn đủ các hướng không liệt, cảm giác mặt đều, không méo mặt, lưỡi giữa, nuốt bình thường. Sức cơ 5/5 bốn chi, cảm giác nông bình thường, phản xạ gân xương đều, Babinski âm tính. Ngón–mũi và gót–gối chính xác, không loạn nhịp luân phiên, không thất điều chi.",
+     "k": 1
+    },
+    "hints_van_nhan": {
+     "a": "Nhìn thẳng: rung giật nhãn cầu ngang kèm thành phần xoay nhẹ, pha nhanh sang phải, một chiều ở mọi hướng nhìn; mạnh hơn khi nhìn sang phải, yếu đi khi nhìn sang trái nhưng không đổi chiều; giảm khi nhìn cố định ngón tay và rõ hơn khi che mắt (Bárány AUVP 2022, ghi chú 7: tuân theo định luật Alexander, giảm khi nhìn cố định). Đẩy đầu nhanh: quay sang trái mắt trượt khỏi mục tiêu và có cú giật bắt kịp biên độ lớn; sang phải mắt giữ được mục tiêu. Che mắt luân phiên: không lệch dọc. Không nhìn đôi. Cả ba thành phần ngoại biên, nghe không giảm mới: HINTS plus ngoại biên (GRACE-3 2023, Bảng 4, tr. 460), phù hợp tổn thương tiền đình trái (Bárány AUVP 2022, mục 3.1 tiêu chí B, C).",
+     "k": 1,
+     "hien": "Nhìn thẳng: nhãn cầu giật liên tục sang phải, nhìn sang trái thì yếu đi nhưng vẫn giật sang phải, nhìn cố định ngón tay thì giảm. Đẩy đầu nhanh sang trái: mắt trượt khỏi mục tiêu rồi giật bắt kịp; sang phải: giữ được mục tiêu. Che mắt luân phiên: mắt không dịch chuyển dọc."
+    },
+    "dang_di_thang_bang": {
+     "a": "Ngồi tự giữ thân. Đứng được không cần đỡ nhưng dang chân rộng và nghiêng trái; đi thẳng được vài bước một mình, lệch dần sang trái, phải đưa tay chạm tường; không đi nối gót được; Romberg nhắm mắt ngả sang trái. Mất vững mức 1: mất thăng bằng nhẹ đến vừa khi đi, vẫn đi độc lập (GRACE-3 2023, Bảng 3, tr. 458). Ngả về bên tổn thương, theo hướng pha chậm (Bárány AUVP 2022, mục 4.2c, 4.3.6).",
+     "k": 1,
+     "hien": "Ngồi tự giữ thân. Đứng không cần đỡ, dang chân rộng, nghiêng trái. Đi vài bước một mình, lệch trái, phải chạm tường."
+    },
+    "dix_hallpike": {
+     "a": "Không làm lúc này: anh đang có rung giật tự phát liên tục khi ngồi. Nếu làm, anh quay mạnh hơn và nôn, chỉ thấy rung giật tự phát có sẵn, không thấy rung giật xoay–lên khởi phát muộn, ngắn, tự hết như BPPV. Dix–Hallpike dành cho hội chứng theo cơn khởi phát bởi tư thế (GRACE-3 2023, khuyến cáo 11, tr. 447; TL-0451 Bảng 1).",
+     "k": 0,
+     "hien": "Anh nằm ngửa đầu lệch: quay nhiều hơn, nôn khan, mắt vẫn giật sang phải như lúc ngồi."
+    },
+    "co_xuong_khop": {
+     "a": "Cơ thang và cơ cạnh cột sống thắt lưng hai bên căng, ấn đau lan tỏa nhẹ, không điểm đau ở thân đốt sống. Tầm vận động thắt lưng đủ. Đau cơ mạn do đứng bếp, không liên quan cơn quay.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 5,6 mmol/L.",
+     "n": "Hạ đường huyết nằm trong nhóm bệnh dễ nhầm với đột quỵ (QĐ 5331/2020, Chương 2 mục I.4); anh ăn rất ít hai ngày nay. Rẻ, nhanh, nên làm; kết quả bình thường không đổi hướng xử trí."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 52 U/L, ALT 68 U/L (khoảng tham chiếu phòng xét nghiệm của cơ sở: dưới 40 U/L). Tăng nhẹ, dưới 2 lần giới hạn trên.",
+     "ab": 1,
+     "n": "Không cần để chẩn đoán viêm thần kinh tiền đình, nhưng cần vì anh khai paracetamol 4–5 g/ngày hơn ba tuần và uống bia: QĐ 3610/2015 (ngộ độc paracetamol, mục 3.3) nêu AST, ALT trong sinh hóa; QĐ 361/2014 (thoái hóa cột sống thắt lưng, mục 4.2.2, tr. 132) ghi paracetamol không quá 4 g/ngày, có thể hại gan; ACG 2017 khuyến cáo 1 (lặp lại xét nghiệm), 11 (hỏi thuốc tự mua). Ngưỡng bình thường cụ thể: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,4 G/L, Hb 148 g/L, tiểu cầu 238 G/L; công thức bạch cầu bình thường.",
+     "n": "Không có nhiễm khuẩn (không sốt, tai bình thường). Không giúp chẩn đoán viêm thần kinh tiền đình (Bárány AUVP 2022 mục 4.4 không liệt kê) nhưng làm cũng không sai và giúp trấn an anh không nhiễm virus toàn thân.",
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 60,
+      "neu": 4.4,
+      "lym_pct": 30,
+      "lym": 2.2,
+      "mono_pct": 7,
+      "mono": 0.5,
+      "eos_pct": 2,
+      "eos": 0.1,
+      "baso_pct": 1,
+      "baso": 0.1,
+      "rbc": 4.9,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 90,
+      "mch": 30.2,
+      "mchc": 336,
+      "rdw": 13.0,
+      "plt": 238
+     }
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 139 mmol/L, K 3,7 mmol/L, Cl 101 mmol/L.",
+     "n": "Anh nôn sáu lần, ăn uống ít nhưng điện giải bình thường. Không cần thường quy ở người trẻ uống được.",
+     "bang": {
+      "na": 139,
+      "k": 3.7,
+      "cl": 101
+     }
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 4,6 mmol/L, creatinin 84 µmol/L, eGFR 109.",
+     "n": "Chức năng thận bình thường, không mất nước nặng. Không đổi xử trí.",
+     "bang": {
+      "ure": 4.6,
+      "creat": 84,
+      "egfr": 109
+     }
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 2 mg/L.",
+     "n": "Không có nhiễm khuẩn; nguyên nhân giả định là virus tái hoạt (Bárány AUVP 2022, mục 4.8). Không cần cho chẩn đoán.",
+     "bang": {
+      "crp": 2
+     }
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Tỷ trọng 1,025, ceton vết, không bạch cầu, nitrit, protein, glucose, hồng cầu.",
+     "n": "Chỉ cho biết anh hơi cô đặc do nôn và ăn ít; không đổi xử trí."
+    },
+    "thinh_luc_do": {
+     "v": "n",
+     "r": "Cơ sở không có phòng đo thính lực; không có chỉ định ở lượt này.",
+     "n": "Bárány AUVP 2022 mục 4.5.3: làm thính lực khi bệnh sử hoặc khám gợi ý giảm nghe; anh không có (cọ ngón tay, Rinne, Weber bình thường)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thần kinh tiền đình bên trái (hội chứng tiền đình cấp ngoại biên một bên), ngày thứ hai",
+     "ok": 1,
+     "n": "Bárány AUVP 2022, mục 3.1: khởi phát cấp, vertigo liên tục từ 24 giờ, rung giật ngoại biên một chiều, giảm VOR bên đối diện, không dấu trung ương; anh đủ cả (khởi phát 5 giờ 30 sáng thứ Hai, khám chiều thứ Ba khoảng 33 giờ). Nguyên nhân virus có khả năng nhưng chưa chứng minh (mục 4.8; QĐ 5643/2015, Chóng mặt, mục 2.2). Quan hệ tình dục đêm trước chỉ là thời điểm trùng: Bárány mục 4.2 ghi không có yếu tố khởi phát đi trước; liên hệ nhân quả: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng men gan nhẹ, nghi do paracetamol liều cao kéo dài (4–5 g/ngày hơn ba tuần), có thể góp phần bia",
+     "ok": 1,
+     "n": "AST 52, ALT 68 U/L, không vàng da, gan không to. Liều gây ngộ độc cấp trên 150 mg/kg (QĐ 3610/2015, mục 3): anh uống 1 g mỗi lần, chưa đạt ngưỡng cấp, nhưng mục 2 nêu ngộ độc có thể xảy ra khi dùng kéo dài hoặc ở người nghiện rượu; QĐ 361/2014 ghi tối đa 4 g/ngày và có thể hại gan. Tìm nguyên nhân khác của men gan: ACG 2017 khuyến cáo 16."
+    },
+    {
+     "t": "Đột quỵ tuần hoàn sau (tiểu não, thân não, nhồi máu mê nhĩ/AICA)",
+     "n": "Loại trừ lâm sàng, không cần hình ảnh. Ba thành phần HINTS ngoại biên, không lệch dọc, nghe không giảm mới, không dấu thần kinh khu trú, mất vững mức 1 (nguy cơ đột quỵ 7%, GRACE-3 2023 Bảng 3, tr. 458). Anh 34 tuổi, hút thuốc, đau vai gáy mạn, quan hệ đêm trước: đã hỏi chấn thương cổ, gắng sức, đau đầu dữ dội và khám cổ vì yếu tố nguy cơ mạch máu thường vắng ở bóc tách động mạch đốt sống, nhóm 15–49 tuổi có 15% đột quỵ do bóc tách động mạch cổ (GRACE-3, thảo luận khuyến cáo 4–7). HINTS chỉ tin cậy khi người khám được huấn luyện (khuyến cáo 1)."
+    },
+    {
+     "t": "BPPV (chóng mặt kịch phát tư thế lành tính)",
+     "n": "Loại trừ: vertigo liên tục hơn 24 giờ kể cả khi nằm yên, có rung giật tự phát, không có cơn ngắn theo tư thế. Dix–Hallpike chỉ dành cho hội chứng theo cơn (GRACE-3 2023, khuyến cáo 11; TL-0451 Bảng 1)."
+    },
+    {
+     "t": "Bệnh Ménière, viêm mê nhĩ, zona tai hay rò ngoại dịch sau gắng sức",
+     "n": "Không ù tai, không nghe kém, không đau tai, màng nhĩ bình thường, không mụn nước (Bárány AUVP 2022, mục 4.3.4, 4.5.3, ghi chú 13). Rò ngoại dịch thường kèm nghe kém (QĐ 5643/2015, Chóng mặt, mục 2.1c); anh không gắng sức bất thường, nghe bình thường."
+    },
+    {
+     "t": "Chóng mặt do mất nước, hạ đường huyết, hạ huyết áp tư thế hay rượu",
+     "n": "Tỉnh táo, HA tư thế không giảm, đường huyết 5,6 mmol/L, điện giải bình thường, không uống bia hai ngày nay. Không giải thích được rung giật một chiều và HIT bất thường (QĐ 5331/2020, Chương 2 mục I.4: hạ đường huyết, rối loạn nước điện giải dễ nhầm đột quỵ)."
+    },
+    {
+     "t": "Đau nửa đầu tiền đình hoặc chóng mặt do thuốc",
+     "n": "Chưa từng đau nửa đầu, không đau đầu; thuốc duy nhất là paracetamol, không phải thuốc độc tai hay an thần (Bárány AUVP 2022, mục 4.6). Cơn đầu tiên, kéo dài hơn 24 giờ."
+    },
+    {
+     "t": "Nhiễm virus toàn thân lây từ người sang người (cúm, quai bị, sốt virus khác)",
+     "n": "Không sốt, không đau họng, không phát ban, bạch cầu và CRP bình thường. Tài liệu đã tải không mô tả viêm thần kinh tiền đình lây giữa người; cơ chế đề xuất là HSV-1 sẵn trong hạch tiền đình tái hoạt (Bárány AUVP 2022, mục 4.8)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khám vận nhãn HINTS plus (rung giật, đẩy đầu, che mắt luân phiên, nghe) và dáng đi trước khi kết luận ngoại biên",
+     "v": "c",
+     "n": "GRACE-3 2023 khuyến cáo 2, 3 (tr. 447); Bảng 4 (tr. 460)."
+    },
+    {
+     "t": "Không chuyển tuyến chụp CT/MRI vì HINTS plus ngoại biên",
+     "v": "c",
+     "n": "GRACE-3 2023 khuyến cáo 5, 6 (tr. 447), tóm tắt tr. 444. Cơ sở cũng không có CT, MRI."
+    },
+    {
+     "t": "Hỏi riêng người bệnh, tách khỏi người nhà: thuốc tự mua, rượu bia, sinh hoạt đêm trước, nỗi lo thật",
+     "v": "c",
+     "n": "ACG 2017 khuyến cáo 11: hỏi thuốc kê đơn, không kê đơn, thuốc nam khi men gan bất thường; QĐ 3610/2015 mục 3.1: hỏi chính xác liều, thời gian dùng paracetamol. Cách mời người nhà ra ngoài: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng paracetamol liều cao kéo dài; không dùng thêm paracetamol hay thuốc cảm chứa paracetamol cho đến khi biết men gan",
+     "v": "c",
+     "n": "QĐ 361/2014 (thoái hóa cột sống thắt lưng, mục 4.2.2, tr. 132): không quá 4 g/ngày, thuốc có thể hại gan; QĐ 3610/2015 mục 2: nguy cơ khi dùng kéo dài hoặc nghiện rượu."
+    },
+    {
+     "t": "Xét nghiệm AST, ALT; hẹn kiểm tra lại men gan sau khi ngưng paracetamol liều cao",
+     "v": "c",
+     "n": "QĐ 3610/2015 mục 3.3; ACG 2017 khuyến cáo 1, 16. Thời điểm lặp lại cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc chống nôn ngắn ngày: domperidon, ondansetron hoặc metoclopramid, tối đa 2–3 ngày hoặc không quá 3–5 ngày",
+     "v": "c",
+     "n": "TL-0451 (Bảng 3 tr. S366; tr. S363): tối đa 2–3 ngày để không cản bù trừ. GRACE-3 2023 (tr. 444): không quá 3–5 ngày. Anh 34 tuổi nên không áp dụng hạn chế AGS Beers 2023 (≥ 65 tuổi). Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho uống điện giải/nước từng ngụm sau thuốc chống nôn, ăn nhẹ khi hết nôn; chỉ truyền tĩnh mạch nếu không uống được",
+     "v": "c",
+     "n": "Anh mất nước nhẹ, uống được sau liều đầu. Lượng nước: không có trong tài liệu đã tải. Truyền huyết thanh ngọt ưu trương có trong QĐ 5643/2015 (mục 4.1a) nhưng không cần nếu uống được."
+    },
+    {
+     "t": "Nghỉ yên trong những giờ đầu còn quay nhiều (QĐ 5643), rồi đi lại sớm và tập phục hồi tiền đình tại nhà theo tờ hướng dẫn, không nằm bất động kéo dài",
+     "v": "c",
+     "n": "QĐ 5643/2015 (mục 4.1a): cơn cấp ở phòng yên tĩnh, tránh cử động. GRACE-3 2023 (tr. 444): mọi người viêm thần kinh tiền đình đi phục hồi tiền đình dù có dùng steroid hay không; TL-0451 Bảng 3: tập tại nhà bằng tờ hướng dẫn, video. Hai giai đoạn khác nhau (cơn cấp, phục hồi)."
+    },
+    {
+     "t": "Giải thích bệnh là viêm dây thần kinh tiền đình, nghi tái hoạt virus sẵn có chứ không phải nhiễm từ người khác; trấn an về vợ và con",
+     "v": "c",
+     "n": "Bárány AUVP 2022 mục 4.8: HSV-1 tái hoạt có khả năng nhưng chưa chứng minh; QĐ 5643/2015 (mục 2.2): viêm ngược dòng do virus. Tài liệu đã tải không nêu lây giữa người; nguy cơ cho thai: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám 2–4 tuần; về ngay khi có dấu hiệu cảnh báo",
+     "v": "c",
+     "n": "TL-0451 Bảng 3: tái khám sau 2–4 tuần. Bárány AUVP 2022 ghi chú 13, 16: dấu thần kinh hay triệu chứng tai mới thì xét lại. Dấu hiệu gọi cấp cứu: QĐ 5331/2020, Chương 5 mục I."
+    },
+    {
+     "t": "Nghỉ bán vài ngày, không đứng bếp lửa, không lái xe, không leo cao cho đến khi đi vững và quay đầu không còn choáng",
+     "v": "c",
+     "n": "Số ngày nghỉ và hạn chế công việc: không có trong tài liệu đã tải; chọn theo mất vững mức 1 (GRACE-3 2023 Bảng 3) và nguy cơ ngã, bỏng khi đứng bếp."
+    },
+    {
+     "t": "Corticoid uống ngắn ngày sau khi thảo luận lợi và hại với bệnh nhân (đến trong 3 ngày)",
+     "v": "a",
+     "n": "GRACE-3 2023 khuyến cáo 14 (tr. 447, 472–474): quyết định chung cho người đến trong 3 ngày, bằng chứng rất thấp; hại xuất huyết tiêu hóa, tăng đường huyết. TL-0451 Bảng 3: cân nhắc steroid. Anh ngày thứ hai, uống bia, men gan tăng nhẹ: dùng hay không đều đúng. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cinnarizin ± dimenhydrinat tối đa 2–3 ngày, hoặc huyết thanh ngọt ưu trương theo QĐ 5643",
+     "v": "a",
+     "n": "TL-0451 (tr. S363, Bảng 3): tối đa 2–3 ngày. QĐ 5643/2015 (mục 4.1a): huyết thanh ngọt ưu trương, tanganil, seduxen. GRACE-3 2023 (tr. 474): ức chế tiền đình ngắn ngày hợp lý, dùng dài cản bù trừ."
+    },
+    {
+     "t": "Tiếp tục hoặc kê thêm paracetamol quá 4 g/ngày để giảm đau vai gáy, lưng",
+     "v": "w",
+     "n": "QĐ 361/2014 (mục 4.2.2, tr. 132; mục 4.2.1, tr. 137): tối đa 4 g/ngày, có thể hại gan; Phụ lục NSAID mục 3.3: dưới 3 g/ngày khi có bệnh gan. Anh men gan tăng nhẹ và uống bia."
+    },
+    {
+     "t": "Dùng thuốc chống chóng mặt/ức chế tiền đình dài ngày (nhiều tuần) hoặc nằm bất động chờ hết quay",
+     "v": "w",
+     "n": "GRACE-3 2023 (tr. 474): quá vài ngày bị khuyên không nên vì cản bù trừ và có tác dụng phụ; TL-0451 (tr. S363): tối đa 2–3 ngày."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng tiền đình cấp ngoại biên một bên, thứ nhất là viêm thần kinh tiền đình bên trái (AUVP) ngày thứ hai, HINTS plus ngoại biên (Bárány 2022, mục 3.1; GRACE-3 2023, Bảng 4)",
+     "Mất vững mức 1: đi độc lập nhưng lệch trái (GRACE-3 2023, Bảng 3), nguy cơ ngã, bỏng khi đứng bếp",
+     "Tăng men gan nhẹ (AST 52, ALT 68 U/L), nghi do paracetamol 4–5 g/ngày kéo dài hơn ba tuần, có thể góp phần bia (QĐ 361/2014; QĐ 3610/2015 mục 2)",
+     "Đau cơ vai gáy, thắt lưng mạn do đứng bếp, lý do anh tự dùng quá liều paracetamol",
+     "Người nhà trả lời thay (mẹ) che mất thông tin then chốt: thuốc tự mua, chuyện đêm trước, nỗi sợ của anh",
+     "Lý do thật: sợ bệnh do virus lây sang vợ mang thai 30 tuần và con 3 tuổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (liên tục, hơn 24 giờ theo Bárány AUVP 2022 mục 3.1, không theo cơn, không dấu thần kinh khu trú, không ù tai, không chấn thương cổ) → sinh hiệu, tư thế → khám vận nhãn (HINTS plus), dáng đi → CLS tối thiểu (đường huyết mao mạch; AST, ALT vì thuốc) → chẩn đoán → xử trí (GRACE-3 2023, tr. 444).",
+     "Nhiễu thân nhân: bà Lụa nói 'trúng gió', 'đau đầu dữ lắm', không biết con uống paracetamol, quan hệ đêm trước, nỗi sợ lây. Hỏi chung 'có uống thuốc gì không' nhận câu trả lời 'không' sai; hỏi riêng anh mới có dữ kiện đúng.",
+     "Anh đủ ba thành phần ngoại biên cộng nghe không giảm mới (GRACE-3 2023, Bảng 4, tr. 460); Bárány AUVP mục 3.1 đạt đủ tiêu chí; tuổi 34 phù hợp tuổi khởi phát 30–60 (mục 4.1). Trẻ không loại trừ đột quỵ (GRACE-3, thảo luận khuyến cáo 4–7), nên hỏi chấn thương cổ, gắng sức, đau đầu dữ dội và khám cổ. Quan hệ tình dục đêm trước không phải nguyên nhân (Bárány mục 4.2; liên hệ nhân quả: không có trong tài liệu đã tải).",
+     "Giới hạn: HINTS chỉ đáng tin khi người khám được huấn luyện (GRACE-3 2023, khuyến cáo 1, tr. 447); HIT có thể sai ở nhồi máu AICA nên cần cọ ngón tay (khuyến cáo 3). Cơ sở không có CT, MRI và GRACE-3 cũng không cần khi HINTS plus ngoại biên (khuyến cáo 5, 6).",
+     "Paracetamol: QĐ 361/2014 tối đa 4 g/ngày, có thể hại gan; QĐ 3610/2015 mục 3 liều ngộ độc cấp trên 150 mg/kg (khoảng 10,5 g với 70 kg), mục 2 nguy cơ khi dùng kéo dài hoặc nghiện rượu. Anh vượt 4 g/ngày kéo dài, chưa đạt ngưỡng cấp, men gan tăng nhẹ: ngưng liều cao, theo dõi men gan. Chỉ định N-acetylcystein cho ngộ độc mạn: không có trong tài liệu đã tải (QĐ 3610 nêu NAC cho ngộ độc cấp)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về và hẹn tái khám: viêm thần kinh tiền đình chẩn đoán lâm sàng, xử trí không cần hình ảnh (GRACE-3 2023, tr. 444). Anh đi độc lập (mức 1), uống được sau liều chống nôn đầu, không dấu trung ương nên không cần nhập viện hay chuyển tuyến (TL-0451 Bảng 3). Giữ tại phòng khám đến khi uống được, ngồi và đi được.",
+     "Thuốc chống nôn, chống chóng mặt chỉ vài ngày: TL-0451 nêu 2–3 ngày, GRACE-3 nêu không quá 3–5 ngày; cả hai đúng. Anh 34 tuổi nên metoclopramid dùng được, khác người ≥ 65 tuổi (AGS Beers 2023).",
+     "Corticoid: lựa chọn sau thảo luận, bằng chứng rất thấp, đến trong 3 ngày; anh ngày thứ hai (GRACE-3 2023 khuyến cáo 14). Anh uống bia, men gan tăng nhẹ, nên nói rõ hại. Dùng hay không đều đúng. Liều: không có trong tài liệu đã tải.",
+     "Paracetamol: ngưng liều cao, giải thích vì sao thuốc không kê đơn vẫn hại gan khi uống nhiều, kéo dài. Nếu sau này cần giảm đau cơ: không quá 4 g/ngày (QĐ 361/2014 mục 4.2.1) hoặc dưới 3 g/ngày khi có bệnh gan (Phụ lục NSAID mục 3.3); vì men gan đang tăng nên chọn mức thận trọng hơn và chỉ sau khi có kết quả men gan. Điều trị đau cơ ngoài thuốc: không có trong tài liệu đã tải.",
+     "Đáp ứng mẹ: không truyền dịch hay tiêm 'thuốc bổ' thường quy; giải thích nguyên nhân thật, đưa cái bà cần (thuốc hết nôn, nước uống, cách chăm con). Cạo gió, giác hơi: không có trong tài liệu đã tải.",
+     "Lý do thật: trấn an anh trung thực: nguyên nhân giả định là tái hoạt virus sẵn có (Bárány mục 4.8), tài liệu không nêu lây giữa người, nguy cơ cho thai không có trong tài liệu đã tải; vợ khám thai định kỳ, báo bác sĩ sản nếu sốt, phát ban (nhận xét thực hành)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Domperidon (hoặc ondansetron, metoclopramid)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải (theo tờ hướng dẫn thuốc)",
+      "duong": "Uống (ondansetron có thể tiêm)",
+      "thoi_diem": "Khi buồn nôn; liều đầu tại phòng khám",
+      "so_ngay": "Tối đa 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3 2023)",
+      "ghi_chu": "TL-0451 HNO 2025, Bảng 3 (tr. S366), tr. S363; GRACE-3 2023 tóm tắt tr. 444."
+     },
+     {
+      "thuoc": "Điện giải uống (oresol)",
+      "ham_luong": "Gói pha theo hướng dẫn trên gói",
+      "lieu": "Từng ngụm nhỏ sau thuốc chống nôn, theo khát (số ml: không có trong tài liệu đã tải)",
+      "duong": "Uống",
+      "thoi_diem": "Sau liều chống nôn, rải đều trong ngày",
+      "so_ngay": "1–2 ngày hoặc đến khi ăn uống lại",
+      "ghi_chu": "Nhận xét theo mất nước nhẹ; lượng nước: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Cinnarizin ± dimenhydrinat (tùy chọn)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Khi còn quay nhiều",
+      "so_ngay": "Tối đa 2–3 ngày",
+      "ghi_chu": "TL-0451 tr. S363 và Bảng 3; GRACE-3 2023 tr. 474 (không dùng kéo dài)."
+     },
+     {
+      "thuoc": "Corticoid uống (tùy chọn sau thảo luận)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải (các thử nghiệm dùng phác đồ khác nhau)",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu trong 3 ngày kể từ khởi phát",
+      "so_ngay": "Ngắn ngày; số ngày: không có trong tài liệu đã tải",
+      "ghi_chu": "GRACE-3 2023 khuyến cáo 14 (tr. 447, 472–474); hại xuất huyết tiêu hóa, tăng đường huyết. Anh uống bia, men gan tăng nhẹ. TL-0451 Bảng 3."
+     },
+     {
+      "thuoc": "Ngưng paracetamol liều cao (không kê paracetamol đợt này)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Nếu sau này cần: dưới 3 g/ngày (có bệnh gan, QĐ 361/2014 Phụ lục NSAID mục 3.3) hoặc không quá 4 g/ngày (QĐ 361/2014 mục 4.2.1)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ dùng lại sau khi có kết quả men gan lặp lại",
+      "so_ngay": "Không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 361/2014 (mục 4.2.2, tr. 132): thuốc có thể hại gan; QĐ 3610/2015 mục 2, 3.3; ACG 2017 khuyến cáo 1, 11, 16."
+     }
+    ],
+    "dan_do": [
+     "Anh bị viêm dây thần kinh tiền đình bên trái: dây thần kinh thăng bằng của tai bị viêm, nghi do virus sẵn có trong cơ thể tái hoạt (QĐ 5643/2015, mục 2.2; Bárány AUVP 2022, mục 4.8). Tài liệu không nói bệnh lây giữa người, nên anh không cần ngủ riêng hay tránh ẵm con vì chuyện lây; nếu vợ hay con sốt, phát ban thì đi khám bình thường. Nguy cơ cho thai: không có trong tài liệu đã tải, vợ cứ khám thai theo lịch.",
+     "Ngưng paracetamol liều cao, không uống thêm thuốc cảm chứa paracetamol. Uống nhiều, kéo dài hại gan, anh đã có men gan tăng nhẹ (QĐ 361/2014; QĐ 3610/2015). Đau vai gáy, lưng: nghỉ, giãn cơ, chỉnh tư thế làm bếp (nhận xét thực hành, không có trong tài liệu đã tải). Hạn chế bia đến khi kiểm lại men gan.",
+     "Thuốc chống nôn chỉ vài ngày, không dùng kéo dài. Ăn uống lại từng chút, uống nước đủ. Cạo gió, giác hơi không cần.",
+     "Không nằm im cả ngày: khi hết nôn, tập nhìn và xoay đầu nhẹ theo tờ hướng dẫn mỗi ngày, có người ở cạnh; ngày đầu đi chậm, bám tay vịn (GRACE-3 2023, tr. 444; TL-0451 Bảng 3).",
+     "Nghỉ bán vài ngày; không đứng bếp lửa, không lái xe, không leo cao đến khi đi vững và quay đầu không còn choáng; số ngày nghỉ: không có trong tài liệu đã tải. Nhờ nhân viên và mẹ trông quán.",
+     "Đưa anh đi cấp cứu ngay nếu yếu liệt tay chân, méo miệng, nói khó, nhìn đôi, tê, lơ mơ, đau đầu dữ dội, đi không vững hơn, mất thính lực hay ù tai mới (QĐ 5331/2020, Chương 5 mục I; Bárány AUVP 2022, ghi chú 13, 16).",
+     "Tái khám sau 2–4 tuần (TL-0451 Bảng 3), sớm hơn nếu còn quay nhiều, có cơn quay ngắn khi trở mình, vàng da, tiểu sẫm màu hay đau hạ sườn phải; nhắc lại men gan. Hồi phục thường mất vài tuần chứ không phải vài ngày."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Việt về nhà, nôn hết sau hai ngày, đi không cần bám sau khoảng một tuần; anh ngưng paracetamol liều cao, men gan lúc tái khám đã giảm gần về bình thường. Vì nghĩ 'hết nôn là khỏi', anh mở lại quán từ ngày thứ tám, đứng bếp cả buổi, và không tập phục hồi tiền đình đều vì sợ quay lại. Đến tuần thứ ba anh vẫn lâng lâng, chao nghiêng khi quay đầu nhanh, nhìn dòng xe qua lại hay đứng bếp ồn nóng; ngủ chập chờn vì lo. Tái khám tuần thứ tư anh bực mình: 'sao lâu vậy bác sĩ, em tưởng một tuần là hết'. Khám không còn rung giật tự phát, thăng bằng gần bình thường, không dấu thần kinh khu trú hay triệu chứng tai mới. Đây là quỹ đạo hồi phục bình thường nhưng chậm so với kỳ vọng: triệu chứng tĩnh giảm sau vài tuần, thiếu hụt động của phản xạ tiền đình–mắt không bù hết (Bárány AUVP 2022, mục 4.7.1, 4.7.2); trong các thử nghiệm GRACE-3 2023 tổng hợp, 73–80% người bệnh còn triệu chứng sau 1 tháng (tr. 472–473, bằng chứng rất thấp). Anh được tập phục hồi tiền đình có hướng dẫn và dần đỡ. Cần lo khi có cơn quay ngắn khi trở mình (BPPV sau AUVP: 13/104 người BPPV có tiền sử AUVP, Bárány mục 4.1), có dấu thần kinh hay nghe giảm mới (ghi chú 13, 16), hoặc chóng mặt dai dẳng kèm né vận động, lo âu (chóng mặt chức năng thứ phát, 25/162 người có tiền sử AUVP, mục 4.1) thì chuyển chuyên khoa.",
+ "nhieu": [
+  "Thân nhân trả lời thay: bà Lụa nói 'trúng gió', 'đau đầu dữ lắm', đòi truyền nước và tiêm thuốc bổ; thông tin then chốt (paracetamol 4–5 g/ngày, chuyện đêm trước, nỗi sợ lây cho vợ có thai) chỉ lộ khi hỏi riêng anh.",
+  "Quan hệ tình dục đêm trước là thời điểm trùng, không phải nguyên nhân (Bárány AUVP 2022, mục 4.2); dùng để hỏi gắng sức, đau đầu đột ngột, chấn thương cổ khi cần loại bóc tách động mạch đốt sống.",
+  "Paracetamol liều cao kéo dài là thuốc tự mua bị bỏ sót: dẫn đến AST, ALT tăng nhẹ và phải ngưng, không phải thuốc gây chóng mặt."
+ ],
+ "bai_hoc_bien": [
+  "Hội chứng tiền đình cấp: HINTS plus bởi người được huấn luyện thay CT; ngoại biên thì không cần hình ảnh (GRACE-3 2023 khuyến cáo 2, 3, 5, 6).",
+  "Người nhà trả lời thay: tách bệnh nhân ra hỏi riêng về thuốc tự mua, rượu, sinh hoạt, nỗi lo thật; câu hỏi chung ('có uống thuốc gì không') nhận câu trả lời sai.",
+  "Thuốc không kê đơn cũng có trần liều và hại gan khi dùng nhiều, kéo dài (QĐ 361/2014; QĐ 3610/2015): hỏi tên thuốc, số viên mỗi ngày, số tuần.",
+  "Viêm thần kinh tiền đình hồi phục trong vài tuần, thiếu hụt động không bù hết (Bárány AUVP 2022, mục 4.7): nói trước quỹ đạo này, hẹn tái khám 2–4 tuần (TL-0451)."
+ ],
+ "diem_nho": [
+  "Viêm thần kinh tiền đình (Bárány 2022, mục 3.1): vertigo liên tục ≥ 24 giờ, rung giật ngoại biên một chiều, giảm VOR bên đối diện, không dấu trung ương, không triệu chứng tai.",
+  "HINTS plus ngoại biên: rung giật một chiều, HIT có cú giật bắt kịp, không lệch dọc, không giảm nghe mới (GRACE-3 2023 Bảng 4). Không CT sọ để loại đột quỵ (khuyến cáo 5).",
+  "Chống nôn, ức chế tiền đình tối đa 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3); steroid trong 3 ngày sau thảo luận (khuyến cáo 14); mọi người đi phục hồi tiền đình.",
+  "Paracetamol tối đa 4 g/ngày (QĐ 361/2014), dưới 3 g/ngày khi có bệnh gan (Phụ lục NSAID mục 3.3); liều ngộ độc cấp trên 150 mg/kg (QĐ 3610/2015); dùng kéo dài hay rượu làm tăng nguy cơ."
+ ],
+ "nguon": [
+  "GRACE-3 2023 – Edlow JA và cs., Acad Emerg Med 2023;30:442-486 – TL-0072 – tóm tắt tr. 444, Box 1 khuyến cáo 1–15 (tr. 447), Bảng 3 (tr. 458), Bảng 4 (tr. 460), thảo luận khuyến cáo 4–7, corticoid (tr. 472–474), thuốc ức chế tiền đình (tr. 474).",
+  "Bárány Society 2022 – Strupp M và cs., Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res 2022;32:389-406 – TL-0465 – mục 3.1, ghi chú 5, 7, 10–13, 16; mục 4.1–4.8.",
+  "TL-0451 – Tarnutzer và cs., HNO 2025;73(Suppl 3):357-369 – Bảng 1, tr. S363, Bảng 3 (tr. S366).",
+  "BYT – QĐ 5643/QĐ-BYT 2015 (TL-0130) – bài Chóng mặt, mục 2.1c, 2.2, 3.1, 4.1a (tr. 72–78).",
+  "BYT – QĐ 5331/QĐ-BYT 2020 (TL-0030) – Chương 2 mục I.3–I.4, Chương 5 mục I.",
+  "BYT – QĐ 361/QĐ-BYT 2014 (TL-0286) – Bệnh thoái hóa cột sống thắt lưng mục 4.2.2 (tr. 132), Hội chứng đau thắt lưng mục 4.2.1 (tr. 137), Phụ lục NSAID mục 3.3.",
+  "BYT – QĐ 3610/QĐ-BYT 2015 (TL-0035) – bài Ngộ độc paracetamol, mục 2, 3, 3.3 (tr. 20–21).",
+  "ACG Clinical Guideline 2017 – Kwo PY và cs., Evaluation of abnormal liver chemistries. Am J Gastroenterol 2017 – kho cũ tltk-10000-ca (mục 13), bảng khuyến cáo 1, 11, 16."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-10-18, viết: Sonnet. Tài liệu đã đọc: TL-0072 (tóm tắt, Box 1, Bảng 3–4, khuyến cáo 4–7, 14, thuốc ức chế tiền đình); TL-0465 (mục 3, 4.1–4.8); TL-0451 (Bảng 1, S363, Bảng 3); TL-0130 bài Chóng mặt; TL-0030; TL-0286; TL-0035; ACG 2017 (kho cũ).",
+  "Thiếu tài liệu: (1) liều domperidon, ondansetron, metoclopramid, cinnarizin, dimenhydrinat, corticoid; (2) thời gian nghỉ việc, hạn chế đứng bếp; (3) lây của viêm thần kinh tiền đình và nguy cơ cho thai; (4) NAC và thời điểm xét nghiệm lại men gan khi ngộ độc paracetamol mạn; (5) lượng nước bù; (6) điều trị đau cơ vai gáy ngoài thuốc; (7) liên hệ nhân quả quan hệ tình dục – viêm thần kinh tiền đình; (8) ngưỡng bình thường AST/ALT.",
+  "Mâu thuẫn đã có trong sổ (ghi cả hai): thời gian chống nôn/ức chế tiền đình 2–3 ngày (TL-0451) hoặc 3–5 ngày (GRACE-3); thuốc theo QĐ 5643/TL-0451 so với Beers 2023 (không áp dụng vì 34 tuổi); liều paracetamol tối đa (mục 'Liều paracetamol tối đa ở người cao tuổi hoặc tăng huyết áp': bệnh gan dưới 3 g/ngày). Ghi nhận nhỏ: QĐ 5643 mục 4.1a nghỉ yên trong cơn cấp so với GRACE-3/TL-0451 đi lại sớm, tập phục hồi; hai giai đoạn khác nhau.",
+  "Yếu tố khởi phát 'sau quan hệ tình dục' dựng là thời điểm trùng. 'Sợ lây bệnh cho người thân' dựng là nỗi sợ virus lây sang vợ có thai và con nhỏ; trả lời theo cơ chế tái hoạt HSV-1 (Bárány mục 4.8), ghi rõ phần không có trong tài liệu.",
+  "Không có mục danh mục mới. CT, MRI bị khóa tự động (thiếu X-quang, siêu âm). Không ảnh da. Tim dùng tệp bình thường (mạch 72)."
+ ]
+}
