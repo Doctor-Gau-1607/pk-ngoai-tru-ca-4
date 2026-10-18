@@ -1,0 +1,788 @@
+{
+ "ma_ca": "TM-0057",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_viem_ket_mac_nong_dan_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm kết mạc (virus/vi khuẩn/dị ứng)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm màng bồ đào",
+   "Glôcôm cấp",
+   "Viêm giác mạc"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Khiêng vật nặng",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Trần Văn Bảy",
+  "tuoi": 66,
+  "gioi": "Nam",
+  "nghe": "Nông dân",
+  "can_nang": 57,
+  "chieu_cao": 163,
+  "xung_ho": "Ông Bảy, 66 tuổi, nông dân trồng lúa, nói giọng quê, xưng 'tôi', gọi bác sĩ là 'bác sĩ' hoặc 'cậu', hay kể vòng vo; lúc nào cũng cầm nón lá và cái khăn rằn vắt vai.",
+  "tinh_cach": "Chất phác, thương con cháu, hay lo xa. Nghe người trong xóm kể 'đỏ mắt không uống kháng sinh là mù', nên đến khám trong trạng thái hoảng; tin rằng thuốc kháng sinh là thuốc 'mạnh nhất, nhỏ hay uống đều trị hết'. Dễ nghe theo khi được giải thích bằng ví dụ cụ thể và thấy bác sĩ khám kỹ.",
+  "kieu_nhieu": "Sợ hãi quá mức: ông hỏi đi hỏi lại 'có bị mù không bác sĩ', 'có lây sang mắt kia, sang thằng cháu không', tay hay đưa lên dụi mắt rồi giật mình bỏ xuống; phóng đại ('đỏ như máu', 'ghèn chảy cả đêm'); cứ muốn xin kháng sinh uống và nhỏ 'cho chắc ăn'. Nỗi sợ là hành vi, không phải triệu chứng của mắt.",
+  "nguoi_nha": "Bà Lụa, vợ ông, 63 tuổi, đi cùng, ngồi bên cạnh, hay chen vào kể ('đêm qua ông than cộm mắt') và nhắc ông hỏi thuốc kháng sinh. Ông Bảy vẫn là người trả lời chính.",
+  "ten_nguoi_nha": "Vợ (bà Lụa)",
+  "ngoai_hinh": {
+   "da": "#a9784f",
+   "toc": "#cfcac2",
+   "kieuToc": "ngan",
+   "ao": "#8a7a5a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#b98a64",
+    "toc": "#cfcac2",
+    "kieuToc": "dai",
+    "ao": "#6f8a7a",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 2,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đỏ mắt phải, cộm và chảy ghèn ba ngày",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Ngoài giờ (tối thứ Sáu), kỹ thuật viên xét nghiệm đã về: phòng khám không làm được xét nghiệm tối nay, kể cả test nhanh adenovirus, nhuộm Gram và cấy dịch kết mạc, công thức máu, CRP; mẫu gửi đi (nếu có) chỉ có kết quả sáng hôm sau, cấy sau 48 giờ. Còn dùng được: đèn pin, đèn khe cầm tay có ánh sáng xanh cobalt để soi fluorescein, bảng thị lực, ống nghe, huyết áp kế, máy đo SpO₂, thuốc xịt hen và buồng đệm. Bệnh viện huyện có khoa Mắt, làm việc giờ hành chính, cách 14 km. Quyết định tối nay phải dựa vào hỏi bệnh và khám lâm sàng."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Trần Văn Bảy, 66 tuổi, nông dân, đi cùng vợ, đến phòng khám lúc 19 giờ tối thứ Sáu vì mắt phải đỏ, cộm và chảy ghèn từ ngày thứ Tư. Có hen đang xịt thuốc. Sinh hiệu: mạch 78, huyết áp 138/82, nhiệt độ 37,6 °C, nhịp thở 18, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Đưa ông Bảy lên bệnh viện mắt ngay trong đêm là quá tay: thị lực 8/10, không đau, giác mạc không bắt màu, ghèn không mủ, không có tiêu chí chuyển (AAO Conjunctivitis PPP 2018, Provider and Setting). Chuyến đi 14 km ban đêm của người 66 tuổi bị hen không giúp gì hơn, lại có thể bị kê kháng sinh hoặc corticoid không cần (AAO Conjunctivitis PPP 2018, Treatment).",
+    "nhap_vien": "Nhập viện không có chỉ định: viêm kết mạc điều trị ngoại trú, không đau, không giảm thị lực, toàn trạng tốt (AAO Conjunctivitis PPP 2018, Provider and Setting). Ông nằm viện nhiều ngày, mất công gặt, tốn viện phí, có thể bị lây nhiễm chéo và vẫn nhận kháng sinh không cần, càng củng cố niềm tin 'phải có kháng sinh mới khỏi'."
+   },
+   "loi_mo": "Bác sĩ ơi, mắt tôi đỏ lòm một bên, thấy cả máu đỏ tươi ở lòng trắng, ghèn chảy cả đêm. Tôi sợ lắm, có phải bị mù không bác sĩ? Mà lây sang mắt kia với thằng cháu không? Bác sĩ kê cho tôi thuốc kháng sinh uống với thuốc nhỏ cho chắc ăn đi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "138/82",
+    "nhiet": "37,6",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mắt phải đỏ, cộm xốn và chảy ghèn từ sáng thứ Tư, nay là ngày thứ 3. Ông rất sợ bị mù, nghe xóm nói 'đỏ mắt mà không uống kháng sinh là hỏng mắt'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chiều thứ Ba ông khiêng liền gần chục bao lúa ướt, mỗi bao khoảng 50 kg, từ ruộng lên xe, gồng sức, mặt đỏ gay. Sáng thứ Tư thức dậy thấy mắt phải đỏ, có đám đỏ tươi ở lòng trắng góc ngoài. Ông và bà đều cho là 'đứt mạch máu do khiêng nặng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: gắng sức, đám đỏ tươi ở lòng trắng"
+    },
+    {
+     "id": "ghen",
+     "noi_dung": "Ghèn lúc đầu loãng như nước, về sau có chút nhầy trắng; sáng ngủ dậy mi hơi dính nhưng lau là ra. Không có mủ vàng xanh đặc, không ghèn hình thành lại ngay sau khi lau. Cảm giác cộm như có hạt cát, ngứa rất ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất ghèn, ngứa hay cộm, một hay hai mắt"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Thằng cháu nội 4 tuổi đi nhà trẻ bị đỏ mắt cách đây 6 ngày, ông hay bế cháu và lau mặt cho cháu bằng cái khăn rằn của ông. Vợ ông chưa đỏ mắt. Mắt trái ông hiện chưa đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người đỏ mắt, dùng chung khăn"
+    },
+    {
+     "id": "canh_bao",
+     "noi_dung": "Không đau nhức sâu trong mắt, không sợ ánh sáng, nhìn vẫn rõ như thường (chỉ hơi mờ khi ghèn che), không thấy quầng sáng quanh đèn, không đau đầu, không buồn nôn hay nôn. Không bị bụi, mạt sắt, hóa chất bắn vào mắt; không đeo kính áp tròng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi dấu hiệu nặng: đau, sợ sáng, giảm thị lực, quầng sáng, nôn"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Hai ngày nay hơi gai rét, đau mỏi người, sổ mũi trong, ho nhẹ; đo nách 37,6 độ tối qua. Không sốt cao, không khó thở hơn thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng cúm kèm theo"
+    },
+    {
+     "id": "tien_su_mat",
+     "noi_dung": "Không từng bị bệnh mắt nào, chưa mổ mắt, không bị zona hay mụn nước quanh mắt, không có tiền sử cườm nước hay viêm màng bồ đào, mắt không đeo kính. Không có bệnh suy giảm miễn dịch. Dị ứng: không dị ứng thuốc; mùa gặt hay hắt hơi và ngứa mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử mắt, herpes/zona, miễn dịch, dị ứng"
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Ông bị hen từ hơn 10 năm, mang theo bình xịt salbutamol, xịt khoảng 1–2 lần mỗi tuần khi khó thở lúc làm đồng bụi; chưa bao giờ nhập viện vì hen. Mấy hôm nay không thấy khó thở nặng hơn. Ông không dùng thuốc nhỏ mắt nào, không dùng thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc xịt hen; tiền sử hen"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông đến chủ yếu để xin thuốc kháng sinh (uống và nhỏ). Ông tin 'phải có kháng sinh mới khỏi và mới không lây sang mắt kia, sang cháu'. Nếu bác sĩ không kê, ông sẽ tự ra hiệu thuốc mua.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: muốn được kê kháng sinh",
+     "dieu_kien_lo": "Khi bác sĩ hỏi ông mong muốn gì từ lần khám này, hoặc hỏi ông nghe ai nói gì về thuốc, hoặc hỏi ông đã có ý định mua thuốc nào"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực không kính: mắt phải 8/10, mắt trái 9/10. Mắt phải: mi phù nhẹ, kết mạc nhãn cầu cương tụ lan tỏa, phù nhẹ; đám xuất huyết dưới kết mạc đỏ tươi khoảng 6 × 4 mm ở góc ngoài kèm vài chấm xuất huyết nhỏ rải rác; kết mạc sụn mi dưới có phản ứng dạng hột (nang); tiết tố loãng, trong lẫn nhầy trắng, không mủ, không giả mạc. Đồng tử hai mắt đều 3 mm, phản xạ ánh sáng tốt, không co nhỏ hay méo. Mắt trái không đỏ.",
+     "k": 1,
+     "hien": "Mắt phải đỏ, có ghèn loãng và một đám đỏ tươi ở lòng trắng góc ngoài. Mắt trái không đỏ. Ông đọc được bảng thị lực: mắt phải 8/10, mắt trái 9/10."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi ánh sáng xanh cobalt: giác mạc hai mắt trong, không bắt màu, không ổ thâm nhiễm, không hình cành cây.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "nhan_ap": {
+     "a": "Ước lượng bằng hai ngón tay trỏ qua mi trên: nhãn cầu phải và trái đều mềm, đều nhau, không căng cứng. Không dùng nhãn áp kế chạm vào mắt đang viêm kết mạc để tránh lây (AAO Conjunctivitis PPP 2018, Prevention).",
+     "k": 1,
+     "hien": "Đo nhãn áp bằng ngón tay hai mắt."
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước tai phải sờ thấy nhỏ, di động, hơi đau khi ấn; bên trái chưa sờ thấy. Không hạch dưới hàm to.",
+     "k": 1,
+     "hien": "Sờ vùng trước tai, dưới hàm, cổ hai bên."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi: niêm mạc hồng, dịch trong. Họng đỏ nhẹ, không mủ. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da mặt và quanh mắt: không mụn nước, không ban dọc theo nhánh thần kinh sinh ba. Mi mắt không sưng mọng, không quầng thâm quanh mắt.",
+     "k": 1,
+     "hien": "Quan sát da mi, da vùng trán và mũi cùng bên."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm, không ran rít hay ran ngáy, thở ra không kéo dài.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p, không co kéo."
+    },
+    "day_mat": {
+     "a": "Không có chỉ định lúc này: không giảm thị lực, không nghi bệnh võng mạc.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_adeno": {
+     "v": "n",
+     "n": "Cơ sở không có xét nghiệm tối nay và không bắt buộc: chẩn đoán virus làm được bằng bệnh sử và khám (hạch trước tai, nang, xuất huyết, đang có người nhà đỏ mắt, cúm kèm theo). Test nhanh có độ nhạy 88–89%, độ đặc hiệu 91–94% giúp tránh kháng sinh không cần (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Viral). Không có kết quả để quyết định tối nay."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Không cần và cơ sở không làm được: ghèn loãng, không mủ; cấy kết mạc chỉ hữu ích khi tái phát, nặng, mạn hoặc không đáp ứng thuốc (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Cultures)."
+    },
+    "ctm": {
+     "v": "n",
+     "n": "Không cần, và cơ sở không làm được tối nay: viêm kết mạc không cần xét nghiệm máu (AAO Conjunctivitis PPP 2018, Diagnostic Tests)."
+    },
+    "crp": {
+     "v": "n",
+     "n": "Không cần, và cơ sở không làm được tối nay (AAO Conjunctivitis PPP 2018, Diagnostic Tests)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc cấp do virus (nghĩ adenovirus) mắt phải, kèm xuất huyết dưới kết mạc, chưa tổn thương giác mạc",
+     "ok": 1,
+     "n": "Khởi phát cấp, một mắt trước, tiết tố loãng, hạch trước tai, phản ứng dạng nang, xuất huyết dưới kết mạc, triệu chứng cúm, cháu nội đỏ mắt 6 ngày trước (AAO Conjunctivitis PPP 2018, Bảng 1 Adenoviral; QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 3, hình thái do virus). Giác mạc không bắt màu fluorescein."
+    },
+    {
+     "t": "Xuất huyết dưới kết mạc đơn thuần do gắng sức khiêng vật nặng",
+     "n": "Xuất huyết dưới kết mạc đơn thuần không kèm cương tụ lan tỏa, ghèn, nang và hạch. Ở ông Bảy kết mạc cương tụ lan tỏa, có ghèn và hạch trước tai; AAO Conjunctivitis PPP 2018 (Bảng 1 Adenoviral) liệt kê xuất huyết dưới kết mạc và chấm xuất huyết là dấu hiệu đặc trưng của adenovirus. Liên quan giữa gắng sức và xuất huyết dưới kết mạc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm kết mạc vi khuẩn",
+     "n": "Điển hình mủ vàng xanh đặc, mi dính, hình thành lại rất nhanh sau khi lau (QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 3d); ông chỉ có tiết tố loãng, nhầy trắng, có hạch trước tai. AAO Conjunctivitis PPP 2018 (Treatment – Bacterial, mild) cho thể nhẹ thường tự lui."
+    },
+    {
+     "t": "Viêm kết mạc dị ứng",
+     "n": "Dị ứng cấp: ngứa, bỏng rát, mi sưng mọng, kết mạc phù mọng nước, nhú to (QĐ 40/QĐ-BYT 2015, Viêm kết mạc dị ứng cấp tính mục 3); thường hai mắt (AAO Conjunctivitis PPP 2018, Bảng 1 Allergic). Ông ngứa rất ít, một mắt, có hạch, sốt gai rét. Ông có hen và mùa gặt hay hắt hơi nên phải nhớ khả năng này về sau."
+    },
+    {
+     "t": "Viêm giác mạc (loét giác mạc)",
+     "n": "Cần đau nhức, sợ ánh sáng, nhìn mờ, cương tụ rìa, ổ loét bắt màu fluorescein (QĐ 40/QĐ-BYT 2015, Viêm loét giác mạc do vi khuẩn mục 3a). Ông không đau sâu, không sợ sáng, thị lực 8/10, giác mạc không bắt màu."
+    },
+    {
+     "t": "Viêm màng bồ đào trước cấp",
+     "n": "Cần đau nhức, sợ sáng, chảy nước mắt, cương tụ rìa, tủa sau giác mạc, đồng tử co/dính (QĐ 40/QĐ-BYT 2015, Viêm màng bồ đào trước mục 3a). Ông không đau, không sợ sáng, đồng tử đều 3 mm, phản xạ tốt, cương tụ lan tỏa chứ không ở rìa. Soi đèn khe tìm tế bào tiền phòng: không có đèn khe đầy đủ ngoài giờ."
+    },
+    {
+     "t": "Glôcôm góc đóng cấp",
+     "n": "Đau nhức mắt lan nửa đầu, nhìn mờ, quầng xanh đỏ quanh đèn, nôn, thị lực giảm nhiều, nhãn áp rất cao, đồng tử giãn méo, giác mạc phù (QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng nguyên phát mục 3a). Ông không có triệu chứng nào, nhãn cầu mềm, đồng tử đều 3 mm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích bệnh do virus, tự lui 5–14 ngày, không cần thuốc đặc trị; điều trị hỗ trợ: rửa mắt bằng NaCl 0,9% sạch, lau từ góc trong ra góc ngoài, mỗi lần một gạc; nước mắt nhân tạo; chườm lạnh",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Bảng 1 Adenoviral: tự lui trong 5–14 ngày; Treatment – Adenoviral: nước mắt nhân tạo, chườm lạnh, giảm đau uống để giảm triệu chứng; không có điều trị tiệt trừ). QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b: rửa mắt NaCl 0,9%, nước mắt nhân tạo; mục 5: thể virus khỏi sau 5–10 ngày). Hai nguồn cùng ý, chỉ khác khoảng ngày. Số lần rửa/nhỏ mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh nhỏ mắt: không dùng (thể virus) HOẶC nhỏ aminoglycosid (tobramycin) theo phác đồ viêm kết mạc cấp",
+     "v": "c",
+     "n": "Ghi cả hai (sổ mâu thuẫn, mục TM-0072). AAO Conjunctivitis PPP 2018 (Treatment – Adenoviral): tránh kháng sinh vì có thể gây độc. QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b; QĐ 708/QĐ-BYT 2015 mục 2.5): nhỏ aminoglycosid hoặc fluoroquinolon. Khác nhau do QĐ 40 gộp chung viêm kết mạc cấp, AAO tách riêng thể adenovirus và mới hơn."
+    },
+    {
+     "t": "Phòng lây: rửa tay xà phòng, khăn mặt và khăn rằn riêng (giặt nước nóng), không dụi mắt, không bế hay lau mặt cho cháu, tránh tiếp xúc người khác 10–14 ngày kể từ khi mắt sau cùng bị đỏ",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Prevention: rửa tay bằng xà phòng, dùng khăn riêng; Treatment – Adenoviral: hạn chế tiếp xúc 10–14 ngày từ khởi phát ở mắt bị sau cùng [I+, Good, Strong]). Một số tác giả coi 7 ngày là thời gian lây (Prevention), mốc 10–14 ngày thận trọng hơn. Mắt trái chưa đỏ nên mốc chưa bắt đầu tính."
+    },
+    {
+     "t": "Dặn quay lại ngay khi: đau nhức mắt, sợ ánh sáng, nhìn mờ hoặc giảm thị lực, ghèn đặc mủ nhiều, đau đầu kèm buồn nôn",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Provider and Setting): chuyển nhãn khoa khi mất thị lực, đau vừa hoặc nặng, tiết tố mủ nhiều, tổn thương giác mạc. QĐ 40/QĐ-BYT 2015 (Glôcôm góc đóng nguyên phát mục 3a) cho triệu chứng đau nhức, buồn nôn, quầng sáng."
+    },
+    {
+     "t": "Hẹn tái khám sau khoảng 1 tuần, sớm hơn nếu có dấu hiệu cảnh báo; lúc tái khám đo thị lực và soi giác mạc lại",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Treatment – Adenoviral): ca nặng có loét biểu mô giác mạc hoặc viêm kết mạc màng khám lại trong 1 tuần; ca không dùng corticoid quay lại nếu còn đỏ, đau, giảm thị lực sau 2–3 tuần. Mốc tái khám 1 tuần cho ca nhẹ ở người 66 tuổi, ngoài giờ không có đèn khe đầy đủ là lựa chọn của ca; mốc đúng 1 tuần cho ca nhẹ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh uống (amoxicillin, cephalexin, ciprofloxacin…) theo ý ông bà",
+     "v": "w",
+     "n": "QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b): toàn thân chỉ cho viêm kết mạc do lậu cầu, bạch hầu. AAO Conjunctivitis PPP 2018 (Treatment): tránh kháng sinh bừa bãi; thể adenovirus tránh kháng sinh."
+    },
+    {
+     "t": "Kê hoặc để ông tự mua thuốc nhỏ mắt có corticoid, kể cả thuốc phối hợp kháng sinh–corticoid",
+     "v": "w",
+     "n": "AAO Conjunctivitis PPP 2018 (Treatment; Socioeconomic Considerations – Adenoviral): corticoid có thể kéo dài nhiễm adenovirus và làm nặng thêm HSV; thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp. QĐ 40/QĐ-BYT 2015 (mục 4b): thận trọng corticoid."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc cấp do virus (nghĩ adenovirus) mắt phải, ngày thứ 3",
+     "Kèm xuất huyết dưới kết mạc và hạch trước tai phải; chưa tổn thương giác mạc",
+     "Không có dấu hiệu viêm màng bồ đào trước, glôcôm góc đóng cấp, viêm giác mạc",
+     "Bệnh nền: hen (thuốc xịt salbutamol), đang ổn",
+     "Nguồn lây: cháu nội đỏ mắt, dùng chung khăn"
+    ],
+    "phan_tich_chan_doan": [
+     "Ngày 3, một mắt trước, ghèn loãng, cộm hơn ngứa, hạch trước tai phải, nang kết mạc sụn mi, xuất huyết dưới kết mạc, gai rét, sổ mũi, và cháu nội đỏ mắt 6 ngày trước: bộ dấu hiệu của adenovirus (AAO Conjunctivitis PPP 2018, Bảng 1 Adenoviral; QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 3).",
+     "Đám đỏ tươi ở lòng trắng không phải do khiêng bao lúa mà là một dấu hiệu của chính viêm kết mạc adenovirus (AAO Conjunctivitis PPP 2018, Bảng 1: petechial and subconjunctival hemorrhage). Liên quan giữa gắng sức và xuất huyết dưới kết mạc không có trong tài liệu đã tải; lưu ý bác sĩ không được dừng ở 'chỉ là đứt mạch máu'.",
+     "Loại trừ bệnh nặng: giác mạc không bắt màu fluorescein (viêm giác mạc); không đau, không sợ sáng, đồng tử đều (viêm màng bồ đào trước); nhãn cầu mềm, không quầng sáng, không nôn, thị lực 8/10 (glôcôm cấp) (QĐ 40/QĐ-BYT 2015, mục Viêm loét giác mạc 3a; Viêm màng bồ đào trước 3a; Glôcôm góc đóng 3a).",
+     "Không làm test nhanh, cấy hay máu: tối nay cơ sở không có, và cũng không bắt buộc (AAO Conjunctivitis PPP 2018, Diagnostic Tests). Nhãn áp đo bằng ngón tay, không chạm nhãn áp kế vào mắt đang viêm (AAO Conjunctivitis PPP 2018, Prevention)."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị chính là hỗ trợ và phòng lây; kháng sinh nhỏ mắt không dùng (AAO Conjunctivitis PPP 2018) hoặc tobramycin (QĐ 40/QĐ-BYT 2015 mục 4b) đều đúng. Kháng sinh uống không có chỉ định (QĐ 40/QĐ-BYT 2015 mục 4b).",
+     "Hẹn tái khám 1 tuần là lựa chọn an toàn của ca vì ngoài giờ không có đèn khe đầy đủ và bệnh nhân lớn tuổi, mắt kia dễ bị lây; mốc này không phải số liệu của tài liệu.",
+     "Điểm khó của ca là lý do thật: ông tin 'không có kháng sinh sẽ mù và lây sang cháu'. Phải trấn an bằng dữ kiện cụ thể từ chính cuộc khám của ông (giác mạc trong, thị lực tốt, không đau) rồi mới giải thích vì sao kháng sinh không giúp."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (dung dịch rửa mắt) và gạc vô khuẩn",
+      "ham_luong": "0,9%",
+      "lieu": "Lau từ góc trong ra góc ngoài, mỗi lần một gạc",
+      "duong": "Rửa/lau mắt",
+      "thoi_diem": "Mỗi khi có ghèn, nhất là buổi sáng",
+      "so_ngay": "Đến khi hết ghèn",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 4b. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Nước mắt nhân tạo, loại không chất bảo quản nếu có, giữ lạnh",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "1 giọt vào mắt phải khi thấy cộm",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Khi cộm; có thể để ngăn mát tủ lạnh",
+      "so_ngay": "Đến khi hết cộm",
+      "ghi_chu": "AAO Conjunctivitis PPP 2018 (Treatment – Adenoviral); QĐ 40/QĐ-BYT 2015 (mục 4b). Số lần và thời gian: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Tobramycin nhỏ mắt (tùy chọn theo QĐ 40/2015; AAO 2018 khuyên tránh ở thể virus)",
+      "ham_luong": "0,3%",
+      "lieu": "1–2 giọt vào mắt phải",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Mỗi 4 giờ khi thức",
+      "so_ngay": "Không có trong tài liệu đã tải cho thể virus",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015 mục 4b; QĐ 708/QĐ-BYT 2015 mục 2.5; liều: nguồn bổ sung tự tìm, https://drugs.com/dosage/tobramycin-ophthalmic.html (16/10/2026). Không bắt buộc, không kê nếu chọn đường AAO."
+     }
+    ],
+    "dan_do": [
+     "Mắt ông bị virus, tự lui trong 5–14 ngày; kháng sinh nhỏ hay uống không làm bệnh lui nhanh hơn và có thể gây hại (AAO Conjunctivitis PPP 2018, Treatment). Lời thoại: 'Ông Bảy yên tâm, tôi vừa nhỏ thuốc nhuộm soi mắt ông, lòng đen trong, không có vết loét, ông nhìn được 8/10, nên mắt chưa hỏng. Bệnh này do virus, thuốc kháng sinh chỉ diệt vi khuẩn, ông uống vào vừa tốn tiền vừa hại bao tử, hại gan mà mắt không khỏi nhanh hơn. Tôi không kê kháng sinh cho mắt ông, nhưng tôi giao ông cách làm cho mắt mau khỏi và không lây sang cháu.'",
+     "Lau ghèn bằng gạc sạch thấm nước muối 0,9%, mỗi lần một gạc, từ góc trong ra ngoài rồi bỏ; rửa tay xà phòng trước và sau khi lau; chườm lạnh, nhỏ nước mắt nhân tạo khi cộm.",
+     "Phòng lây: khăn mặt, khăn rằn, gối riêng, giặt nước nóng; không dụi mắt; không bế, không lau mặt cho cháu; tránh tiếp xúc người khác 10–14 ngày từ khi mắt sau cùng đỏ (AAO Conjunctivitis PPP 2018, Treatment – Adenoviral). Nếu mắt trái đỏ thì mốc tính lại từ lúc đó.",
+     "Vẫn xịt salbutamol khi khó thở như thường lệ.",
+     "Quay lại ngay nếu đau nhức mắt, sợ ánh sáng, nhìn mờ, ghèn đặc mủ, nhức đầu buồn nôn (AAO Conjunctivitis PPP 2018, Provider and Setting). Hẹn tái khám sau khoảng 1 tuần."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ông Bảy tái khám tối thứ Sáu tuần sau, 7 ngày sau lần trước, ngày thứ 10 của bệnh, đi cùng vợ. Mắt phải đỡ nhiều nhưng 3 ngày nay mắt trái đỏ. Sinh hiệu: mạch 76, huyết áp 134/80, nhiệt độ 36,9 °C, nhịp thở 18, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển ông Bảy lên bệnh viện mắt ngay là quá tay: mắt phải đã đỡ, thị lực 9/10 hai mắt, không đau, giác mạc không bắt màu, chưa có tiêu chí chuyển (AAO Conjunctivitis PPP 2018, Provider and Setting). Ông tốn công, tốn tiền đi lại, ngồi phòng khám đông và có nguy cơ bị kê kháng sinh hoặc corticoid không cần.",
+    "nhap_vien": "Nhập viện không có chỉ định: không đau, không giảm thị lực, tiết tố không mủ (AAO Conjunctivitis PPP 2018, Provider and Setting). Ông nằm viện cách ly vài ngày, mất công gặt, và hiểu lầm rằng bệnh 'nặng' nên càng đòi kháng sinh."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc bác sĩ cho không ăn rồi! Mắt phải bớt mà mắt trái đỏ lên luôn, lan hết rồi! Bây giờ phải cho tôi kháng sinh mạnh vào chứ, không thì tôi mù mất, lại lây sang bà nhà với thằng cháu nữa!",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "134/80",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám đúng hẹn, ngày thứ 10 của bệnh. Mắt phải đỡ nhiều: ghèn còn ít, bớt cộm, đỡ đỏ. Nhưng 3 ngày nay mắt TRÁI mới đỏ, cộm, chảy nước và hơi ghèn. Ông hoảng: 'thuốc không ăn rồi, lan sang mắt kia rồi'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: mắt phải đỡ, mắt trái mới đỏ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ông làm đúng lời dặn: rửa bằng nước muối, mua nước mắt nhân tạo, dùng khăn riêng, không bế cháu. Chỉ có một chuyện: ông mệt, hay dụi mắt phải bằng mu bàn tay rồi lỡ chạm mắt trái. Không nhỏ thuốc nào khác, không mua kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ điều trị, thói quen dụi mắt"
+    },
+    {
+     "id": "canh_bao",
+     "noi_dung": "Không đau nhức mắt, không sợ ánh sáng, không chói, nhìn rõ như trước; không quầng sáng, không nhức đầu, không buồn nôn. Ghèn mắt trái loãng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu cảnh báo (đau, sợ sáng, mờ, ghèn mủ)"
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Bà Lụa và thằng cháu chưa đỏ mắt. Cháu đã đi học lại, ông không bế cháu mấy hôm nay.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Người nhà có bị lây không"
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Hen ổn, vẫn xịt salbutamol 1–2 lần/tuần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hen và thuốc xịt"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông vẫn muốn xin kháng sinh: 'hồi đó bác sĩ không cho, giờ lan sang mắt kia, lần này kê đi cho chắc'. Ông tin kháng sinh sẽ chặn không cho lan sang cháu.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: muốn kháng sinh, nay lấy cớ 'lan sang mắt kia'",
+     "dieu_kien_lo": "Khi bác sĩ hỏi ông kỳ vọng gì hôm nay, hoặc hỏi ông có định tự mua thuốc không"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực: mắt phải 9/10, mắt trái 9/10. Mắt phải: kết mạc cương tụ nhạt, mi hết phù, đám xuất huyết dưới kết mạc nhạt, chuyển vàng nâu, thu còn khoảng 3 mm; tiết tố rất ít; nang vẫn còn nhẹ. Mắt trái: kết mạc cương tụ lan tỏa, phù nhẹ, nang kết mạc sụn mi dưới, tiết tố nước, không mủ, không xuất huyết. Đồng tử đều, phản xạ tốt hai mắt.",
+     "k": 1,
+     "hien": "Mắt phải đỡ đỏ, ghèn còn ít. Mắt trái đỏ, ghèn loãng. Thị lực bảng: phải 9/10, trái 9/10."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein hai mắt, ánh sáng xanh cobalt: giác mạc trong, không bắt màu, không ổ thâm nhiễm.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "nhan_ap": {
+     "a": "Ước lượng bằng ngón tay: hai nhãn cầu mềm, đều nhau.",
+     "k": 0,
+     "hien": "Đo nhãn áp bằng ngón tay."
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước tai phải còn sờ thấy nhỏ, không đau nữa; hạch trước tai trái mới sờ thấy nhỏ, hơi đau.",
+     "k": 1,
+     "hien": "Sờ vùng trước tai hai bên."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi và họng bình thường, hết chảy mũi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_adeno": {
+     "v": "n",
+     "n": "Cơ sở không làm được tối nay và không cần: mắt thứ hai đỏ theo sau mắt thứ nhất là kiểu thường gặp của adenovirus (AAO Conjunctivitis PPP 2018, Bảng 1: unilateral or bilateral, often sequentially bilateral)."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Không cần: tiết tố loãng, không mủ, không tái phát, đang đáp ứng một phần; cấy chỉ khi tái phát, nặng, mạn hoặc không đáp ứng (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Cultures)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc cấp do virus (adenovirus): mắt phải đang hồi phục, mắt trái mới mắc (đỏ lần lượt hai mắt), chưa tổn thương giác mạc",
+     "ok": 1,
+     "n": "Mắt phải đỡ rõ sau 10 ngày, mắt trái nang, tiết tố nước, hạch trước tai mới; kiểu đỏ lần lượt hai mắt (AAO Conjunctivitis PPP 2018, Bảng 1 Adenoviral; tự lui 5–14 ngày). Giác mạc hai mắt không bắt màu."
+    },
+    {
+     "t": "Thất bại điều trị / nhiễm khuẩn bội nhiễm",
+     "n": "Mắt phải đỡ, tiết tố không chuyển mủ, không đau, thị lực tốt: không có dấu hiệu thất bại. Mắt trái mới đỏ là do virus lan, không phải do thiếu kháng sinh (AAO Conjunctivitis PPP 2018, Treatment – Adenoviral)."
+    },
+    {
+     "t": "Thâm nhiễm dưới biểu mô giác mạc (biến chứng muộn của adenovirus)",
+     "n": "Thường xuất hiện từ tuần thứ hai, gây mờ, chói (AAO Conjunctivitis PPP 2018, Treatment – Adenoviral). Ông thị lực 9/10, không chói, giác mạc không bắt màu; phải dặn quay lại nếu mờ hoặc chói. Soi đèn khe đầy đủ: không có ngoài giờ."
+    },
+    {
+     "t": "Viêm giác mạc, viêm màng bồ đào trước, glôcôm cấp",
+     "n": "Không đau, không sợ sáng, không nôn, thị lực 9/10, đồng tử đều, nhãn cầu mềm, giác mạc không bắt màu (QĐ 40/QĐ-BYT 2015, các bài Viêm loét giác mạc 3a, Viêm màng bồ đào trước 3a, Glôcôm góc đóng 3a)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: mắt trái đỏ sau mắt phải là diễn tiến thường gặp của adenovirus, không phải thất bại điều trị; tiếp tục hỗ trợ: rửa NaCl 0,9%, nước mắt nhân tạo, chườm lạnh cả hai mắt",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Bảng 1 Adenoviral: often sequentially bilateral; Treatment – Adenoviral). QĐ 40/QĐ-BYT 2015 (Viêm kết mạc cấp mục 4b, mục 5: khỏi sau 5–10 ngày)."
+    },
+    {
+     "t": "Kháng sinh nhỏ mắt: không dùng HOẶC tobramycin theo phác đồ viêm kết mạc cấp",
+     "v": "c",
+     "n": "Ghi cả hai (sổ mâu thuẫn, mục TM-0072): AAO Conjunctivitis PPP 2018 tránh kháng sinh ở thể adenovirus; QĐ 40/QĐ-BYT 2015 mục 4b nhỏ aminoglycosid hoặc fluoroquinolon."
+    },
+    {
+     "t": "Tính lại mốc lây: tránh tiếp xúc người khác 10–14 ngày kể từ khi mắt trái đỏ; giữ khăn riêng, rửa tay, không dụi mắt, kể cả lúc ngủ",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Treatment – Adenoviral: 10–14 ngày từ khởi phát ở mắt bị sau cùng [I+, Good, Strong]; Prevention: 7 ngày là mốc nhiều người dùng)."
+    },
+    {
+     "t": "Dặn quay lại sớm khi mờ mắt, chói, sợ ánh sáng, đau (nghĩ thâm nhiễm dưới biểu mô giác mạc) và khám lại nếu sau 2–3 tuần còn đỏ",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Treatment – Adenoviral): thâm nhiễm dưới biểu mô thường từ tuần thứ hai; quay lại nếu còn đỏ, đau, giảm thị lực sau 2–3 tuần; ca nhẹ chỉ cần theo dõi, có mờ/chói mới xét corticoid liều tối thiểu."
+    },
+    {
+     "t": "Kê kháng sinh uống hoặc corticoid nhỏ mắt vì 'lan sang mắt kia'",
+     "v": "w",
+     "n": "QĐ 40/QĐ-BYT 2015 (mục 4b): toàn thân chỉ cho lậu cầu, bạch hầu. AAO Conjunctivitis PPP 2018 (Treatment): corticoid có thể kéo dài nhiễm adenovirus; chỉ xét khi viêm kết mạc nặng (chemosis, màng) hoặc có thâm nhiễm gây mờ, và phải theo dõi sát."
+    },
+    {
+     "t": "Chuyển nhãn khoa hoặc nhập viện ngay vì mắt thứ hai đỏ",
+     "v": "w",
+     "n": "Không có tiêu chí: thị lực 9/10, không đau, giác mạc không bắt màu (AAO Conjunctivitis PPP 2018, Provider and Setting)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc cấp do virus (adenovirus), ngày 10: mắt phải đang hồi phục, mắt trái mới đỏ",
+     "Giác mạc hai mắt không tổn thương; thị lực 9/10 hai mắt",
+     "Chưa có thâm nhiễm dưới biểu mô, chưa bội nhiễm",
+     "Hen ổn"
+    ],
+    "phan_tich_chan_doan": [
+     "Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm: mắt phải đỡ rõ, tiết tố không mủ, không đau, thị lực tốt, giác mạc trong; mắt trái bị sau là kiểu thường gặp (AAO Conjunctivitis PPP 2018, Bảng 1: tự lui 5–14 ngày, đỏ lần lượt hai mắt). Không phải thất bại.",
+     "Mắt thứ hai lây qua thói quen dụi bằng tay: bài học phòng lây, không phải thiếu kháng sinh (AAO Conjunctivitis PPP 2018, Prevention).",
+     "Thâm nhiễm dưới biểu mô chưa có biểu hiện ở thời điểm này."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ nguyên điều trị hỗ trợ, tính lại mốc phòng lây từ mắt trái, dặn dấu hiệu mờ/chói để bắt sớm thâm nhiễm dưới biểu mô.",
+     "Chỉ khi thấy mờ, chói hoặc đau mới chuyển nhãn khoa; hiện chưa cần."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% và gạc vô khuẩn",
+      "ham_luong": "0,9%",
+      "lieu": "Lau từ góc trong ra góc ngoài, mỗi mắt một gạc riêng",
+      "duong": "Rửa/lau mắt",
+      "thoi_diem": "Mỗi khi có ghèn",
+      "so_ngay": "Đến khi hết ghèn",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 4b. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Nước mắt nhân tạo, giữ lạnh",
+      "ham_luong": "Theo dạng sẵn có",
+      "lieu": "1 giọt vào mỗi mắt khi cộm",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Khi cộm",
+      "so_ngay": "Đến khi hết cộm",
+      "ghi_chu": "AAO Conjunctivitis PPP 2018 (Treatment – Adenoviral); QĐ 40/QĐ-BYT 2015 (mục 4b). Số lần: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Lời thoại: 'Ông Bảy thấy không, mắt phải đỡ rồi là thuốc rửa mắt và cách phòng lây đã làm việc. Mắt trái đỏ theo là chuyện thường của bệnh virus này, không phải vì thiếu kháng sinh. Kháng sinh không chặn được virus, uống thêm chỉ hại người (AAO Conjunctivitis PPP 2018, Treatment). Tôi không kê kháng sinh, nhưng ông cứ làm tiếp như lời dặn.'",
+     "Tránh tiếp xúc người khác 10–14 ngày kể từ lúc mắt trái đỏ, không bế cháu (AAO Conjunctivitis PPP 2018, Treatment – Adenoviral).",
+     "Quay lại ngay nếu mờ mắt, chói, sợ sáng, đau mắt; nếu sau 2–3 tuần còn đỏ cũng đến khám (AAO Conjunctivitis PPP 2018, Treatment – Adenoviral)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Ông Bảy trở lại tối thứ Hai, hơn 2 tuần sau lần trước, đi cùng vợ, vì cả hai mắt đỏ lại 2 ngày, ngứa nhiều, hắt hơi. Sinh hiệu: mạch 80, huyết áp 140/84, nhiệt độ 36,8 °C, nhịp thở 20, SpO₂ 96%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho ông Bảy về hẹn lại ở phòng khám mà không gửi nhãn khoa là bỏ qua tiêu chí chuyển (AAO Conjunctivitis PPP 2018, Provider and Setting: tái phát). Ông sẽ lại đỏ mắt mỗi mùa gặt, tự nhỏ thuốc kháng sinh–corticoid của hàng xóm: có nguy cơ tăng nhãn áp, đục thể thủy tinh khi dùng corticoid kéo dài (AAO Conjunctivitis PPP 2018, Bảng 2 chú thích) và làm nặng thêm nếu là HSV (AAO Conjunctivitis PPP 2018, Treatment).",
+    "nhap_vien": "Nhập viện không có chỉ định: không đau, không giảm thị lực, giác mạc không bắt màu (AAO Conjunctivitis PPP 2018, Provider and Setting). Ông nằm viện vài ngày giữa mùa gặt, tốn tiền, không cắt được nguyên nhân là bụi rơm.",
+    "cap_cuu": "Gọi cấp cứu tối nay là quá tay: không đau, không giảm thị lực, tiết tố không mủ (AAO Conjunctivitis PPP 2018, Provider and Setting). Ông bị đưa đi đêm, lo sợ thêm, tốn kém, trong khi khoa Mắt chỉ khám giờ hành chính."
+   },
+   "loi_mo": "Bác sĩ ơi, bệnh tái lại rồi! Hai mắt tôi đỏ lại, ngứa muốn chết, lần trước không uống kháng sinh nên nó mới tái. Lần này cho tôi kháng sinh đi, không là tôi mù thật đó!",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "140/84",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hơn 2 tuần sau lần trước, cả hai mắt đã hết đỏ khoảng 5 ngày thì 2 ngày nay đỏ lại cả hai mắt, ngứa nhiều, chảy nước mắt trong, hắt hơi. Ông hoảng: 'bệnh tái lại rồi, lần này phải cho kháng sinh'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: đỏ lại hai mắt"
+    },
+    {
+     "id": "ngua",
+     "noi_dung": "Ngứa rát hai mắt là chính, nhất là buổi chiều sau khi làm đồng; ghèn rất ít, loãng, trong lẫn nhầy. Không đau sâu, không sợ sáng, nhìn rõ. Mắt đỏ xuất hiện cùng hắt hơi liên tục, ngứa mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngứa hay cộm, tính chất ghèn, hai mắt, kèm hắt hơi"
+    },
+    {
+     "id": "di_nguyen",
+     "noi_dung": "Ông đang gặt lúa mùa mấy ngày nay, phơi và đập lúa, bụi rơm, phấn lúa bay đầy mặt. Thường mỗi mùa gặt ông đều hắt hơi, ngứa mắt vài ngày, đeo khẩu trang giấy nhưng không đeo kính. Không thấy người nhà đỏ mắt, cháu không bị lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: bụi rơm, mùa gặt; người xung quanh"
+    },
+    {
+     "id": "khong_sot",
+     "noi_dung": "Không sốt, không đau mỏi người, không sổ mũi đặc, không hạch quanh tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, triệu chứng cúm, hạch"
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Mấy hôm gặt lúa ông ho khò khè nhẹ về đêm, xịt salbutamol 4 lần trong tuần; không khó thở nặng. Ông cũng hay ngạt mũi và hắt hơi mỗi mùa gặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hen và thuốc xịt; cơ địa dị ứng"
+    },
+    {
+     "id": "tu_xu_ly",
+     "noi_dung": "Hàng xóm đưa chai thuốc nhỏ mắt có chữ 'kháng sinh – chống viêm', ông chưa dám nhỏ, mang theo cho bác sĩ xem. Thành phần trên nhãn: kháng sinh phối hợp corticoid.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tự mua thuốc nhỏ mắt"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông vẫn muốn 'kháng sinh cho chắc' vì cho rằng lần trước không uống kháng sinh nên bệnh mới tái lại.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: muốn kháng sinh; tin bệnh tái do không uống kháng sinh",
+     "dieu_kien_lo": "Khi bác sĩ hỏi ông nghĩ vì sao bệnh tái, hoặc hỏi ông định dùng thuốc gì"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực: mắt phải 9/10, mắt trái 9/10. Hai mắt: mi phù nhẹ, kết mạc nhãn cầu cương tụ nhạt lan tỏa kèm phù (chemosis nhẹ), kết mạc sụn mi hồng nhạt có nhú nhỏ, tiết tố nước lẫn ít nhầy trắng; không mủ, không xuất huyết, không giả mạc. Đồng tử đều 3 mm, phản xạ tốt.",
+     "k": 1,
+     "hien": "Hai mắt đỏ nhạt, mi hơi phù, tiết tố loãng. Thị lực phải 9/10, trái 9/10."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein hai mắt: giác mạc trong, không bắt màu; không thâm nhiễm dưới biểu mô quan sát được bằng đèn cầm tay.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "nhan_ap": {
+     "a": "Ước lượng bằng ngón tay: hai nhãn cầu mềm, đều nhau.",
+     "k": 0,
+     "hien": "Đo nhãn áp bằng ngón tay."
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch trước tai hai bên.",
+     "k": 1,
+     "hien": "Sờ vùng trước tai hai bên."
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi nhợt, phù nề, dịch trong. Họng không đỏ. Màng nhĩ bình thường.",
+     "k": 1,
+     "hien": "Soi mũi họng."
+    },
+    "phoi": {
+     "a": "Vài ran rít nhẹ cuối thì thở ra hai đáy phổi, không ran ẩm; nhịp thở 20 l/p.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p."
+    }
+   },
+   "cls": {
+    "test_adeno": {
+     "v": "n",
+     "n": "Cơ sở không làm được tối nay và không cần: không hạch, không sốt, ngứa là chính, hai mắt cùng lúc sau tiếp xúc bụi (AAO Conjunctivitis PPP 2018, Bảng 1 Allergic)."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Cơ sở không làm được tối nay; cấy kết mạc hữu ích ở tái phát, nặng, mạn hoặc không đáp ứng (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Cultures), nhưng ở đây tiết tố loãng, ngứa là chính, không mủ: để nhãn khoa quyết."
+    },
+    "ige_tong": {
+     "v": "n",
+     "n": "Cơ sở không làm được tối nay; xét nghiệm tìm dị nguyên khi có điều kiện (QĐ 40/QĐ-BYT 2015, Viêm kết mạc dị ứng cấp tính mục 3b) nên để tuyến sau, không cần cho quyết định tối nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc dị ứng (bụi rơm, phấn lúa mùa gặt) hai mắt, tái phát sau đợt viêm kết mạc adenovirus đã khỏi",
+     "ok": 1,
+     "n": "Hai mắt cùng lúc, ngứa là chính, tiết tố nước nhầy, chemosis, nhú, hắt hơi, cơ địa hen, mỗi mùa gặt đều bị, không hạch, không sốt (AAO Conjunctivitis PPP 2018, Bảng 1 Allergic: bilateral, chemosis, watery discharge, mild mucous discharge, recurrent, thường kèm viêm mũi dị ứng; QĐ 40/QĐ-BYT 2015, Viêm kết mạc dị ứng cấp tính mục 2–3: dị nguyên là bụi, phấn hoa)."
+    },
+    {
+     "t": "Tái nhiễm adenovirus (tái phát viêm kết mạc virus)",
+     "n": "Không hạch trước tai, không sốt, không xuất huyết, không có người lây xung quanh, ngứa nhiều và hắt hơi, 5 ngày hết hoàn toàn rồi mới đỏ lại (AAO Conjunctivitis PPP 2018, Bảng 1 Adenoviral). Tái nhiễm chính xác: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm kết mạc vi khuẩn bội nhiễm",
+     "n": "Không mủ, không mi dính đặc (QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 3d)."
+    },
+    {
+     "t": "Thâm nhiễm dưới biểu mô giác mạc sau adenovirus",
+     "n": "Thị lực 9/10, không chói, giác mạc không bắt màu (AAO Conjunctivitis PPP 2018, Treatment – Adenoviral). Đèn cầm tay chưa loại trừ hẳn vết nhỏ: nhãn khoa soi đèn khe."
+    },
+    {
+     "t": "Viêm giác mạc, viêm màng bồ đào, glôcôm cấp, herpes",
+     "n": "Không đau, không sợ sáng, thị lực 9/10, giác mạc không bắt màu, nhãn cầu mềm, đồng tử đều, không mụn nước (QĐ 40/QĐ-BYT 2015; AAO Conjunctivitis PPP 2018, Bảng 1 HSV)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hẹn khám nhãn khoa (bệnh viện huyện) vào ngày làm việc kế tiếp để soi đèn khe, đo nhãn áp, loại trừ biến chứng giác mạc và tìm dị nguyên; tối nay xử trí ban đầu tại chỗ",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Provider and Setting): bác sĩ không chuyên mắt chuyển khám nhãn khoa khi tái phát (recurrent episodes) hoặc không đáp ứng. QĐ 40/QĐ-BYT 2015 (Viêm kết mạc dị ứng mục 4b): triệu chứng toàn thân nặng thì chuyển chuyên khoa dị ứng. Chuyển ngay trong đêm: không có chỉ định, giờ khám ngoại trú là giờ hành chính."
+    },
+    {
+     "t": "Tránh dị nguyên và biện pháp tại chỗ: rửa mắt NaCl 0,9%, chườm lạnh, nước mắt nhân tạo (để lạnh), đeo kính râm hoặc kính bảo hộ khi gặt, tắm gội trước khi ngủ, giặt quần áo thường xuyên, không dụi mắt",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Treatment – Seasonal/Perennial Allergic): kính râm làm hàng rào, chườm lạnh, nước mắt nhân tạo lạnh, tránh dụi, tránh dị nguyên, tắm trước khi ngủ, giặt quần áo; QĐ 40/QĐ-BYT 2015 (mục 4b): ngừng tiếp xúc dị nguyên, rửa mắt NaCl."
+    },
+    {
+     "t": "Thuốc kháng histamin nhỏ mắt (H1 thế hệ 2, vd olopatadin 2 lần/ngày) HOẶC loratadin 10 mg uống 1 viên/ngày",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Treatment – Seasonal/Perennial; Bảng 2: olopatadin 2 lần/ngày) [I+, Good, Strong]; cảnh báo kháng histamin uống có thể làm khô mắt. QĐ 40/QĐ-BYT 2015 (Viêm kết mạc dị ứng cấp tính mục 4b): loratadin 10 mg/ngày (người lớn). Hai cách đều đúng; AAO ưu tiên nhỏ tại chỗ, QĐ 40 có thuốc uống."
+    },
+    {
+     "t": "Không kê kháng sinh; thu giữ chai thuốc nhỏ kháng sinh–corticoid, dặn không nhỏ",
+     "v": "w",
+     "n": "AAO Conjunctivitis PPP 2018 (Treatment; Socioeconomic): thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp; corticoid dài ngày có thể tăng nhãn áp, đục thể thủy tinh (Bảng 2, chú thích); tránh kháng sinh bừa bãi."
+    },
+    {
+     "t": "Nhỏ corticoid tại chỗ ngắn ngày ngay tại phòng khám",
+     "v": "a",
+     "n": "QĐ 40/QĐ-BYT 2015 (Viêm kết mạc dị ứng mục 4b): prednisolon acetat 1% hoặc fluorometholon 0,1% 6–8 lần/ngày vài ngày đầu. AAO Conjunctivitis PPP 2018: chỉ thêm 1–2 tuần khi triệu chứng không kiểm soát, chọn loại ít tác dụng phụ. Ở ông Bảy mới tái phát, chưa thử thuốc kháng histamin nên chấp nhận được nhưng không ưu tiên; nên để nhãn khoa theo dõi nhãn áp và giác mạc."
+    },
+    {
+     "t": "Dặn quay lại ngay khi đau mắt, giảm thị lực, sợ sáng, ghèn đặc mủ; xịt salbutamol khi khó thở, khám hen riêng",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (Provider and Setting). Phác đồ hen và khám hen: không có trong tài liệu đã tải cho ca này."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc dị ứng hai mắt (bụi rơm, phấn lúa mùa gặt), tái phát",
+     "Cơ địa dị ứng: hen và viêm mũi dị ứng; đã khỏi viêm kết mạc adenovirus trước đó",
+     "Giác mạc hai mắt không tổn thương, thị lực 9/10",
+     "Cần nhãn khoa soi đèn khe để loại trừ biến chứng và xác nhận"
+    ],
+    "phan_tich_chan_doan": [
+     "Hai mắt cùng lúc, ngứa là chính, chemosis, nhú, tiết tố nước nhầy, hắt hơi, hen, đúng mùa gặt, mỗi mùa gặt đều bị, không hạch, không sốt: viêm kết mạc dị ứng (AAO Conjunctivitis PPP 2018, Bảng 1 Allergic; QĐ 40/QĐ-BYT 2015, Viêm kết mạc dị ứng cấp tính mục 3, mục 5: tái phát khi lại tiếp xúc dị nguyên).",
+     "Tái phát ở ca này là đợt bệnh KHÁC cơ chế, không phải thất bại của lần trước: nguyên nhân nền chưa xử lý là cơ địa dị ứng và dị nguyên nghề nghiệp, không phải thiếu kháng sinh.",
+     "Điều chưa chắc bằng đèn cầm tay: thâm nhiễm dưới biểu mô, bội nhiễm; lý do để nhãn khoa soi đèn khe vì tái phát (AAO Conjunctivitis PPP 2018, Provider and Setting)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển nhãn khoa vào ngày làm việc kế tiếp, xử trí ban đầu tối nay, không cần cấp cứu.",
+     "Kháng histamin nhỏ hoặc uống đều đúng; thu giữ thuốc nhỏ phối hợp; không kháng sinh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% và gạc vô khuẩn",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mắt, mỗi mắt một gạc",
+      "duong": "Rửa mắt",
+      "thoi_diem": "Sau khi làm đồng, trước khi ngủ",
+      "so_ngay": "Đến khi hết ngứa",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015, Viêm kết mạc dị ứng mục 4b (rửa mắt bằng nước muối sinh lý). Số lần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Olopatadin nhỏ mắt (kháng histamin H1/ổn định dưỡng bào), tùy chọn",
+      "ham_luong": "0,1%",
+      "lieu": "1 giọt mỗi mắt, 2 lần/ngày",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "Không có trong tài liệu đã tải",
+      "ghi_chu": "AAO Conjunctivitis PPP 2018, Bảng 2 (olopatadin 0,1%, 2 lần/ngày). Số ngày: không có trong tài liệu đã tải. Nhãn khoa quyết."
+     },
+     {
+      "thuoc": "Loratadin, tùy chọn thay cho nhỏ mắt",
+      "ham_luong": "10 mg",
+      "lieu": "1 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một lần/ngày",
+      "so_ngay": "Không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015, Viêm kết mạc dị ứng cấp tính mục 4b (người lớn, trẻ ≥ 12 tuổi: 1 viên/ngày). AAO cảnh báo kháng histamin uống có thể làm khô mắt."
+     }
+    ],
+    "dan_do": [
+     "Lời thoại: 'Ông Bảy, lần này mắt ông đỏ vì bụi rơm, phấn lúa, hợp với cơ địa dị ứng của ông, không phải vi trùng quay lại. Lần trước không uống kháng sinh mà vẫn khỏi là ví dụ rõ nhất kháng sinh không cần. Tôi không kê kháng sinh. Chai thuốc kháng sinh trộn thuốc chống viêm của hàng xóm ông đừng nhỏ, loại thuốc đó dùng bừa dễ làm mắt nặng hơn.'",
+     "Đeo kính râm hoặc kính bảo hộ khi gặt, tắm gội trước khi ngủ, giặt quần áo sau buổi gặt, không dụi mắt, chườm lạnh, nhỏ nước mắt nhân tạo để lạnh (AAO Conjunctivitis PPP 2018, Treatment – Seasonal/Perennial).",
+     "Sáng thứ Hai mang theo thuốc và giấy này đi khám nhãn khoa bệnh viện huyện (khoa Mắt) để soi đèn khe, đo nhãn áp (AAO Conjunctivitis PPP 2018, Provider and Setting).",
+     "Quay lại ngay nếu đau mắt, nhìn mờ, sợ sáng, ghèn đặc mủ. Hen: xịt salbutamol khi khó thở, hẹn khám hen riêng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sáng thứ Ba ông Bảy được khoa Mắt bệnh viện huyện soi đèn khe: hai mắt viêm kết mạc dị ứng, không thâm nhiễm giác mạc, nhãn áp bình thường. Ông được hướng dẫn thuốc kháng histamin nhỏ mắt, đeo kính bảo hộ khi gặt và hẹn khám hen riêng; chai thuốc kháng sinh–corticoid của hàng xóm được bỏ. Nội dung kết quả khám nhãn khoa do ca tự thiết kế, không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Sợ hãi quá mức của ông Bảy: nhiễu hành vi (hỏi đi hỏi lại 'có mù không'), không phải triệu chứng thực thể.",
+  "Đám đỏ tươi ở lòng trắng sau khi khiêng bao lúa: dễ làm lạc hướng sang 'đứt mạch máu', thực ra là dấu hiệu của adenovirus.",
+  "Mắt trái đỏ theo ở lượt 2: giống 'thuốc không ăn' nhưng là diễn tiến bình thường.",
+  "Thuốc xịt hen: không liên quan viêm kết mạc ở lượt 1–2, nhưng là chỉ dấu cơ địa dị ứng cho lượt 3.",
+  "Chai thuốc nhỏ kháng sinh–corticoid của hàng xóm ở lượt 3."
+ ],
+ "bai_hoc_bien": [
+  "Sợ hãi quá mức: khám giác mạc ngay trước mặt ông, đọc thị lực, nêu từng dấu hiệu nguy hiểm ông không có rồi mới trấn an; không cho xét nghiệm hay kháng sinh để 'chiều lòng'.",
+  "Lý do thật là kháng sinh: hỏi ông mong gì, nghe ai nói gì; từ chối bằng lời cụ thể, giao việc tay làm được (rửa mắt, khăn riêng).",
+  "Đỡ một phần: mắt này đỡ, mắt kia mới đỏ là diễn tiến thường gặp của adenovirus, không phải thất bại điều trị; chỉ đổi hướng khi có đau, mờ, sợ sáng, mủ.",
+  "Tái phát: tự hỏi do nhiễm lại, dị ứng, hay chẩn đoán sai từ đầu; ở ca này là đợt dị ứng khác cơ chế, và tái phát là tiêu chí chuyển nhãn khoa.",
+  "Ngoài giờ không có xét nghiệm: quyết định bằng hỏi, khám, fluorescein, ước lượng nhãn áp."
+ ],
+ "diem_nho": [
+  "Viêm kết mạc adenovirus: tự lui 5–14 ngày, đỏ lần lượt hai mắt, hạch trước tai, xuất huyết dưới kết mạc là dấu hiệu của chính bệnh; tránh tiếp xúc 10–14 ngày từ mắt sau cùng (AAO Conjunctivitis PPP 2018, Bảng 1 và Treatment).",
+  "Kháng sinh nhỏ mắt thể virus: AAO 2018 tránh; QĐ 40/2015 mục 4b nhỏ aminoglycosid hoặc fluoroquinolon; toàn thân chỉ cho lậu cầu, bạch hầu.",
+  "Corticoid nhỏ mắt: kéo dài nhiễm adenovirus, làm nặng HSV; thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp (AAO 2018, Treatment và Socioeconomic).",
+  "Viêm kết mạc dị ứng: ngứa, hai mắt, dị nguyên (bụi, phấn); kháng histamin nhỏ (AAO 2018, Bảng 2) hoặc loratadin 10 mg (QĐ 40/2015); tái phát khi lại tiếp xúc dị nguyên.",
+  "Chuyển nhãn khoa: mất thị lực, đau vừa-nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng, tái phát (AAO 2018, Provider and Setting)."
+ ],
+ "nguon": [
+  "AAO – Conjunctivitis Preferred Practice Pattern 2018 (Ophthalmology 2019;126(1):P94-P169) – TL-0266 – ĐÃ ĐỌC: Bảng 1 (Adenoviral, Allergic, HSV); Diagnostic Tests; Prevention; Treatment – Seasonal/Perennial Allergic, Adenoviral, Bacterial (mild); Bảng 2; Provider and Setting; Counseling; Socioeconomic",
+  "BYT – QĐ 40/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – TL-0242 – ĐÃ ĐỌC: Viêm kết mạc cấp (mục 3–5); Viêm kết mạc dị ứng cấp tính (mục 2–6); Viêm loét giác mạc do vi khuẩn (mục 3a); Viêm màng bồ đào trước (mục 3a); Glôcôm góc đóng nguyên phát (mục 3a)",
+  "BYT – QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – theo sổ mâu thuẫn (mục TM-0072): Sử dụng kháng sinh trong nhãn khoa mục 2.5",
+  "Nguồn bổ sung tự tìm: liều tobramycin nhỏ mắt 0,3%, https://drugs.com/dosage/tobramycin-ophthalmic.html (16/10/2026, dùng lại từ TM-0096)"
+ ],
+ "ghi_chu_bien_tap": [
+  "18/10/2026 – bản 1: viết theo đặc tả sổ cái TM-0057 (nam 66 tuổi, nông dân, 3 lượt, sợ hãi quá mức, ngoài giờ không có kỹ thuật viên, tái phát).",
+  "Tài liệu đã đọc: TL-0266 (AAO 2018), TL-0242 (QĐ 40/2015), TL-0015 (theo sổ). TL-0555 trong kho là Dry Eye PPP (sổ mâu thuẫn ghi nhận) nên không dùng. TL-0047 (glôcôm góc đóng cấp 2026) không đọc lại, dùng QĐ 40 mục 3a. TL-0546 (ARIA) không dùng.",
+  "Thiếu tài liệu: liên quan giữa gắng sức khiêng nặng và xuất huyết dưới kết mạc; số lần/ngày rửa mắt, nước mắt nhân tạo; số ngày dùng olopatadin; tái nhiễm adenovirus; mốc tái khám đúng 1 tuần cho ca nhẹ; kết quả khám nhãn khoa ở kết cục do ca tự thiết kế.",
+  "Thiết kế: lượt 3 tái phát là viêm kết mạc dị ứng (cùng nhóm chẩn đoán đích); ket_luan lượt 3 là chuyen_tuyen (hẹn nhãn khoa ngày làm việc) theo tiêu chí tái phát của AAO 2018; chuyển ngay trong đêm không có chỉ định.",
+  "Mâu thuẫn: áp dụng đúng mục sổ 'Kháng sinh nhỏ mắt trong viêm kết mạc cấp do virus' (TM-0072); kháng histamin uống/nhỏ ghi cả hai (AAO Bảng 2 và QĐ 40 mục 4b)."
+ ]
+}
