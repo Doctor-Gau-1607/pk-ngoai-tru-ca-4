@@ -1,0 +1,739 @@
+{
+ "ma_ca": "TK-0258",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-19)",
+ "benh": "TK_tien_dinh_ngoai_bien_viem_tk_tien_dinh",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Rối loạn tiền đình ngoại biên (viêm TK tiền đình)",
+  "chan_doan_phai_loai_tru": [
+   "Đột quỵ",
+   "BPPV"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nội trợ (ở nhà trông con nhỏ 18 tháng, nấu ăn, vợ đi làm)",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát (thức dậy là bị, không cảm sốt, không chấn thương, không thuốc mới)",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng (amlodipin 5 mg buổi sáng)",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng (đã ngã trong nhà tắm và són tiểu vì không kịp vào nhà vệ sinh; chỉ nói là 'xin kiểm tra huyết áp')"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Minh Tuấn",
+  "tuoi": 32,
+  "gioi": "Nam",
+  "nghe": "Nội trợ (ở nhà trông con 18 tháng, vợ làm nhân viên ngân hàng)",
+  "can_nang": 78,
+  "chieu_cao": 170,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh xưng 'em', gọi bác sĩ là 'bác sĩ'. Vợ Hạnh gọi chồng là 'anh', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hay nói, hay lo, quen kể từ chuyện con cái, chuyện ăn uống rồi mới tới bệnh. Tự ái nhẹ, sợ bị coi là 'đàn ông ở nhà mà còn yếu'. Ngại nói chuyện té ngã và tiểu không kịp trước mặt vợ.",
+  "kieu_nhieu": "Kể lể lộn xộn: bắt đầu từ tô mì tôm, con ho, thuốc huyết áp, đổi nước mắm, lúc nhớ thì quay lại chuyện chóng mặt; trả lời một câu hỏi bằng ba chuyện khác. Hỏi gọn từng ý, tóm lại cho anh xác nhận thì anh trả lời rõ. Hỏi chung thì anh nói 'đi được, chỉ hơi choáng thôi'.",
+  "nguoi_nha": "Vợ",
+  "ten_nguoi_nha": "Ngô Thị Hạnh",
+  "ngoai_hinh": {
+   "da": "#d3a77f",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#5b6f8a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e0b894",
+    "toc": "#1f1a17",
+    "kieuToc": "dai",
+    "ao": "#8a5b5b",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Chóng mặt, buồn nôn từ sáng hôm kia; xin đo huyết áp và lấy thêm thuốc hạ áp",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm đường huyết, ure, creatinin, điện giải, AST, ALT, CRP, tổng phân tích nước tiểu) và điện tim. Không có X-quang, siêu âm, CT, MRI, không có phòng đo thính lực, thử nhiệt hay đo vận nhãn bằng video. Bệnh viện tỉnh cách khoảng 45 km (gần một giờ ô tô)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nam 32 tuổi, nội trợ, vợ Hạnh chở đến bằng xe máy, anh ngồi sau ôm eo vợ, mặt xanh, tay bám yên xe. Vợ đứng cạnh, ẵm con trai 18 tháng. Anh nói chóng mặt, buồn nôn từ sáng hôm kia, nghĩ do huyết áp nên đến xin đo huyết áp và lấy thêm thuốc hạ áp. Anh nói nhiều, nhảy từ chuyện này sang chuyện khác. Sinh hiệu lúc tiếp đón (ngồi): mạch 84 l/p, HA 152/96 mmHg, nhiệt 36,8 °C, nhịp thở 18, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện huyện không đổi được xử trí: ba thành phần HINTS ngoại biên, nghe không giảm mới, anh đi được dù lệch (mất vững mức 1) và uống được sau liều chống nôn đầu (GRACE-3 2023, tr. 444; Bảng 3, 4). Vợ phải nghỉ làm ở nhà trông con 18 tháng; anh nằm giường lâu thì chậm bù trừ, ức chế tiền đình kéo dài cản bù trừ (GRACE-3 tr. 474; TL-0451 tr. S363).",
+    "chuyen_tuyen": "Chuyển bệnh viện tỉnh cách 45 km chụp CT hay MRI khi HINTS đã ngoại biên: GRACE-3 2023 khuyến cáo mạnh không dùng CT sọ (khuyến cáo 5, tr. 447) và không dùng MRI làm xét nghiệm đầu tiên khi có người khám được HINTS (khuyến cáo 6). Anh ngồi ô tô gần một giờ khi còn buồn nôn, tốn xe và một ngày, kết quả nhiều khả năng không đổi xử trí.",
+    "cap_cuu": "Gọi 115 hay kích hoạt đường dây đột quỵ là quá mức: không dấu thần kinh khu trú, HINTS ngoại biên, nghe không giảm mới (GRACE-3 2023, Bảng 4, tr. 460). Anh bị đưa đi xe cấp cứu, chờ nhiều giờ, con nhỏ gửi hàng xóm, vợ hoảng và anh càng ngại kể chuyện ngã."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Em tên Tuấn, em ở nhà trông thằng cu, vợ em đi làm ngân hàng. Hôm kia em ăn tô mì tôm mặn quá, hay là tại cái nước mắm mới mua, mà thằng cu nó cũng ho ho, rồi sáng dậy em thấy nhà nó cứ quay quay... À mà em uống thuốc huyết áp mấy năm rồi, thuốc viên trắng nhỏ, mấy bữa nay nôn nên em bỏ hai bữa. Chắc em lên huyết áp đó bác sĩ, bác sĩ đo giùm em rồi cho em lấy thêm thuốc là được. Em đi được, không sao đâu, chỉ hơi choáng thôi.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "152/96",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chóng mặt, buồn nôn từ sáng hôm kia. Anh nghĩ do huyết áp nên đến xin đo huyết áp và lấy thêm thuốc hạ áp.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nói ra; lý do thật còn giấu"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Sáng hôm kia khoảng 5 giờ, anh thức dậy đi tiểu thì thấy nhà quay tròn, nôn ngay, phải bò lại giường. Từ đó quay liên tục, không lúc nào hết, nằm yên vẫn quay, mở mắt hay quay đầu thì quay mạnh hơn, nằm nghiêng sang phải thì đỡ hơn một chút. Nôn năm lần hôm kia, ba lần hôm nay. Chưa có cơn quay ngắn từng cơn nào trước đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vertigo liên tục trên 24 giờ, không theo cơn, không theo tư thế (Bárány AUVP 2022, mục 3.1 tiêu chí A)"
+    },
+    {
+     "id": "khong_ro_nguyen_nhan",
+     "noi_dung": "Hỏi kỹ ba tuần qua: không sốt, ho nhiều, đau họng, tiêu chảy, chấn thương đầu cổ, thuốc mới, rượu bia tuần này hay gắng sức. Anh tự nghi tô mì tôm mặn, nước mắm mới, con ho, mất ngủ vì con quấy, nhưng không chuyện nào xảy ra ngay trước khi quay. Không có nguyên nhân rõ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không rõ yếu tố khởi phát; những chuyện anh kể là nhiễu"
+    },
+    {
+     "id": "thuoc_ha_ap",
+     "noi_dung": "Tăng huyết áp phát hiện cách đây hai năm khi khám sức khỏe, uống amlodipin 5 mg buổi sáng. Hai sáng nay nôn nên bỏ thuốc. Huyết áp đo ở hiệu thuốc hôm qua 150/95. Mẹ anh cũng bị cao huyết áp. Anh chưa tìm hiểu nguyên nhân tăng huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc hạ áp đang dùng; THA ở người dưới 40 tuổi"
+    },
+    {
+     "id": "nguy_co_mach",
+     "noi_dung": "Cao 170 cm, 78 kg. Hút thuốc lá 5 điếu mỗi ngày từ năm 25 tuổi. Bia cuối tuần, khoảng hai lon. Không đái tháo đường, chưa đo mỡ máu, không bệnh tim, chưa từng đột quỵ. Mẹ cao huyết áp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ mạch máu: THA, hút thuốc (Bárány vascular 2022, mục 4)"
+    },
+    {
+     "id": "khong_trung_uong",
+     "noi_dung": "Không đau đầu dữ dội, đau gáy, yếu liệt, méo miệng, nói khó, nuốt sặc, nhìn đôi, tê mặt hay người, ngất, co giật, đau ngực, hồi hộp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng thần kinh trung ương (Bárány AUVP 2022, tiêu chí B và D)"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Không ù tai, không đau tai, không chảy dịch, không nghe kém, không đầy tức tai. Chưa từng nghe kém bên nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tai: không có (HINTS plus; Bárány AUVP 2022, tiêu chí B)"
+    },
+    {
+     "id": "theo_tu_the",
+     "noi_dung": "Không có cơn quay ngắn vài chục giây khi nằm xuống, trở mình hay ngửa đầu. Chỉ có một cơn quay liên tục từ sáng hôm kia. Không đau nửa đầu, không sợ ánh sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt BPPV (từng cơn theo tư thế), Ménière, đau nửa đầu tiền đình"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Anh ở nhà trông con trai 18 tháng, nấu cơm, bế con, tắm cho con. Vợ đi làm ngân hàng, đi sớm về tối. Mẹ vợ ở xa, chỉ lên cuối tuần. Hôm kia vợ phải xin nghỉ nửa ngày, hôm nay xin cả ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguồn lực chăm sóc, nguy cơ ngã khi bế con; ảnh hưởng nghề nội trợ"
+    },
+    {
+     "id": "nhieu_kien",
+     "noi_dung": "Anh kể lòng vòng: tô mì tôm, nước mắm, con ho, mẹ vợ, rồi chốt 'chắc tại huyết áp'. Muốn có kết luận 'chỉ là huyết áp' và đơn thuốc rồi về.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Kiểu nhiễu kể lể lộn xộn; cần cấu trúc hóa lại bệnh sử"
+    },
+    {
+     "id": "giau_te_nga",
+     "noi_dung": "Thật ra sáng hôm kia anh không đứng nổi, phải bò vào nhà vệ sinh, có một lần không kịp nên tiểu ra quần, anh tự giặt giấu vợ. Chiều hôm kia anh trượt ngã trong nhà tắm, đập vai trái vào tường. Anh xấu hổ vì 'đàn ông ở nhà trông con mà yếu thế', sợ vợ lo. Tiểu bình thường khi kịp tới nhà vệ sinh, không tê vùng hậu môn, không yếu chân. Hôm nay anh đi được vài chục bước nhưng phải bám tường.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi vợ ra ngoài (bác sĩ mời vợ bế con ra ghế chờ hoặc hỏi riêng anh) VÀ bác sĩ hỏi tế nhị: có lần nào té, loạng choạng, hay không kịp vào nhà vệ sinh chưa. Hỏi chung 'đi lại có khó không' anh nói 'đi được, chỉ hơi choáng thôi'.",
+     "y": "Triệu chứng thật bị giấu: mất vững nặng ngày đầu, ngã, són tiểu do không kịp; nguy cơ ngã khi ở nhà một mình"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Anh tỉnh, tiếp xúc tốt, nói nhiều, nằm nghiêng phải thì đỡ; ngồi thẳng thì tái, nôn khan khi quay đầu. Môi hơi khô, da véo mất nhanh, không phù. Cân nặng 78 kg, BMI 27.",
+     "k": 1,
+     "hien": "Anh ngồi tay bám ghế, mặt tái, nói nhiều. Môi hơi khô."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 152/96 mmHg, mạch 84. Ngồi 1 phút: 148/94, mạch 90, quay nhiều hơn. Đứng được vài giây khi có người đỡ, 144/92, mạch 96, quay mạnh nên dừng. Huyết áp không tụt khi đổi tư thế: chóng mặt không do hạ huyết áp tư thế. Huyết áp 152/96 lúc đang quay, buồn nôn, lo lắng và bỏ hai liều thuốc.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Ống tai ngoài hai bên sạch, màng nhĩ hai bên bình thường, không mụn nước ở vành tai, ống tai hay họng (không gợi ý Ramsay Hunt, Bárány AUVP 2022, bảng 1). Họng không đỏ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, nói rõ, không méo mặt, lưỡi giữa. Sức cơ 5/5 bốn chi, cảm giác nông đều hai bên, phản xạ gân xương đều, Babinski âm tính. Ngón–mũi và gót–gối chính xác, không run mục đích, không loạn nhịp luân phiên. Không cứng gáy.",
+     "k": 1
+    },
+    "hints_van_nhan": {
+     "a": "Nhìn thẳng: rung giật nhãn cầu ngang kèm thành phần xoay, pha nhanh sang trái, một chiều, mạnh hơn khi nhìn sang trái, yếu đi khi nhìn sang phải nhưng không đổi chiều ở mọi hướng nhìn; giảm khi nhìn cố định ngón tay. Đẩy đầu nhanh: quay sang phải thì mắt trượt khỏi mục tiêu rồi có cú giật bắt kịp biên độ lớn (Bárány AUVP 2022, ghi chú 10); quay sang trái mắt giữ được mục tiêu. Che mắt luân phiên: không lệch dọc. Không nhìn đôi. Cả ba thành phần ngoại biên (GRACE-3 2023, Bảng 4, tr. 460), phù hợp tổn thương tiền đình phải (Bárány AUVP, mục 3.1 tiêu chí B, C).",
+     "k": 1,
+     "hien": "Nhìn thẳng: nhãn cầu giật liên tục sang trái, nhìn sang phải thì yếu đi nhưng vẫn giật sang trái. Đẩy đầu nhanh sang phải: mắt trượt khỏi mục tiêu rồi giật bắt kịp; sang trái: mắt giữ được mục tiêu. Che mắt luân phiên: mắt không dịch chuyển dọc."
+    },
+    "nghe_thi_tham": {
+     "a": "Cọ ngón tay sát tai: nghe rõ như nhau hai bên, thì thầm nghe đủ hai tai. Không có giảm nghe một bên mới xuất hiện (HINTS plus, GRACE-3 2023 Bảng 4, tr. 460).",
+     "k": 1,
+     "hien": "Nghe cọ ngón tay hai bên như nhau, đều rõ."
+    },
+    "dang_di_thang_bang": {
+     "a": "Ngồi tự giữ thân. Đứng được khi tựa tường, hai chân dang rộng. Đi vài chục bước phải bám tường, lệch hẳn sang phải, quay người chậm; Romberg không làm được vì nghiêng phải. Mất vững mức 1: đi được nhưng chao đảo (GRACE-3 2023, Bảng 3, tr. 458: 7% mức 1 là đột quỵ). Nghiêng về bên tổn thương, hợp tổn thương ngoại biên (QĐ 5643/2015, Chóng mặt, mục 3.1e).",
+     "k": 1,
+     "hien": "Ngồi tự giữ thân. Đứng phải tựa tường. Đi được vài chục bước, bám tường, lệch sang phải."
+    },
+    "dix_hallpike": {
+     "a": "Không phải nghiệm pháp để làm lúc này: anh đang có rung giật tự phát liên tục khi ngồi. Nếu làm, anh quay mạnh hơn và nôn, chỉ thấy rung giật tự phát sẵn có chứ không thấy rung giật xoay–lên khởi phát muộn, ngắn, tự hết như BPPV. Dix–Hallpike dành cho hội chứng theo cơn khởi phát bởi tư thế (GRACE-3 2023, khuyến cáo 11, tr. 447; TL-0451 Bảng 2, tr. S362).",
+     "k": 0,
+     "hien": "Anh nằm ngửa đầu lệch: quay nhiều hơn, nôn khan, mắt vẫn giật sang trái như lúc ngồi."
+    },
+    "co_xuong_khop": {
+     "a": "Vai trái có vệt bầm tím nhạt khoảng 6 cm ở mặt ngoài, ấn đau nhẹ, giơ tay đủ biên độ, không biến dạng, không điểm đau chói xương. Anh nói: 'đụng cái tủ'. Vết bầm khớp với ngã trong nhà tắm anh giấu. Không có X-quang ở cơ sở; khám lâm sàng không gợi ý gãy xương (cách quyết định chụp hay không: không có trong tài liệu đã tải).",
+     "k": 1,
+     "hien": "Vai trái có vệt bầm tím nhạt. Anh nói 'đụng cái tủ'."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 5,9 mmol/L.",
+     "n": "Hạ đường huyết nằm trong nhóm bệnh dễ nhầm với đột quỵ (QĐ 5331/2020, Chương 2 mục I.4); rẻ, nhanh. Kết quả bình thường không đổi hướng xử trí."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 82 l/p, đều, không rung nhĩ, trục bình thường, không dày thất trái, QTc 420 ms, không ST–T bất thường.",
+     "n": "Anh trẻ nhưng có THA, hút thuốc; rung nhĩ là yếu tố nguy cơ mạch máu (Bárány vascular 2022, mục 2.1.2 tiêu chí B4). Điện tim bình thường nhưng không thay được khám vận nhãn. QTc cần biết trước khi cho ondansetron hay domperidon (liều và chống chỉ định: không có trong tài liệu đã tải)."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 138 mmol/L, K 3,6 mmol/L, Cl 100 mmol/L.",
+     "n": "Anh nôn tám lần, ăn ít, đang dùng amlodipin: điện giải bình thường. Không cần thường quy ở người trẻ uống được.",
+     "bang": {
+      "na": 138,
+      "k": 3.6,
+      "cl": 100
+     }
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 4,3 mmol/L, creatinin 88 µmol/L, eGFR 107.",
+     "n": "Chức năng thận bình thường, không mất nước nặng. THA ở người dưới 40 tuổi cần sàng lọc nguyên nhân thứ phát (VSH/VNHA 2024, Đ2.4, tr. 19) nhưng việc này làm sau, khi hết chóng mặt.",
+     "bang": {
+      "ure": 4.3,
+      "creat": 88,
+      "egfr": 107
+     }
+    },
+    "thinh_luc_do": {
+     "v": "n",
+     "r": "Cơ sở không có phòng đo thính lực; không có chỉ định ở lượt này.",
+     "n": "Bárány AUVP 2022, mục 4.5.3: làm thính lực khi bệnh sử hoặc khám gợi ý giảm nghe; anh không có (cọ ngón tay bình thường)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thần kinh tiền đình bên phải (hội chứng tiền đình cấp ngoại biên một bên), ngày thứ hai; mất vững mức 1; mất nước nhẹ do nôn",
+     "ok": 1,
+     "n": "Bárány AUVP 2022, mục 3.1: khởi phát cấp, vertigo liên tục từ 24 giờ, rung giật ngoại biên một chiều, giảm VOR bên đối diện, không dấu trung ương, không triệu chứng tai. Không rõ yếu tố khởi phát là bình thường (mục 4.2). QĐ 5643/2015, mục 2.2: thường do virus."
+    },
+    {
+     "t": "Tăng huyết áp đang điều trị amlodipin 5 mg, chưa đạt mục tiêu (152/96 khi đang quay, bỏ hai liều)",
+     "ok": 1,
+     "n": "VSH/VNHA 2024 (TL-0288), Đ3: mục tiêu < 130/80 mmHg nếu dung nạp. Huyết áp đo lúc đang quay và nôn không đại diện; cần đo lại khi ổn. THA trước 40 tuổi: sàng lọc nguyên nhân thứ phát (Đ2.4, tr. 19)."
+    },
+    {
+     "t": "Đột quỵ tuần hoàn sau (tiểu não, thân não, nhồi máu mê nhĩ)",
+     "n": "Loại trừ lâm sàng, chưa bằng hình ảnh. Anh 32 tuổi nhưng có THA, hút thuốc: yếu tố nguy cơ mạch máu cần cảnh giác (Bárány vascular 2022, mục 2.1.2 B4; mục 4: từ ba yếu tố nguy cơ, nguy cơ đột quỵ gấp 5,51 lần). HINTS đủ ba thành phần ngoại biên, không nhìn đôi, không dấu khu trú, nghe không giảm mới (GRACE-3 2023, khuyến cáo 2, 3). Mất vững mức 1 (Bảng 3: 7%). GRACE-3 không dùng CT (khuyến cáo 5)."
+    },
+    {
+     "t": "BPPV (chóng mặt kịch phát tư thế lành tính)",
+     "n": "Loại trừ: vertigo liên tục trên 24 giờ kể cả khi nằm yên, không có cơn ngắn theo tư thế, có rung giật tự phát liên tục. BPPV là rung giật lên–xoay ngắn khi làm Dix–Hallpike, khuyến cáo 11 áp dụng cho thể theo cơn (GRACE-3 2023, tr. 447; TL-0451 Bảng 2, tr. S362). Làm Dix–Hallpike lúc này chỉ khiến anh quay và nôn thêm."
+    },
+    {
+     "t": "Bệnh Ménière hoặc viêm mê nhĩ (nhiễm khuẩn, zona tai)",
+     "n": "Không ù tai, không nghe kém, không đau tai, màng nhĩ bình thường, không mụn nước. Ménière là cơn ngắn, kèm triệu chứng ốc tai (Bárány AUVP 2022, bảng 1, mục 4.6; TL-0451 tr. S364)."
+    },
+    {
+     "t": "Chóng mặt do hạ huyết áp tư thế hoặc do thuốc hạ áp (amlodipin)",
+     "n": "Huyết áp không tụt khi đứng; HA 152/96; rung giật tự phát một chiều và HIT bất thường không do thuốc. Amlodipin dùng hai năm, không đổi liều. Lời giải 'chắc tại huyết áp' che mất việc khám mắt (TL-0451 tr. S363: chỉ khi chóng mặt khi ngồi dậy mà không có rung giật mới tìm hạ huyết áp tư thế)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khám vận nhãn HINTS plus (rung giật, đẩy đầu, che mắt luân phiên, nghe) và dáng đi trước khi kết luận ngoại biên; cấu trúc lại bệnh sử từng ý cho anh xác nhận",
+     "v": "c",
+     "n": "GRACE-3 2023 khuyến cáo 2, 3 (tr. 447); Bảng 4 (tr. 460); Bảng 3 (tr. 458) cho mất vững. Anh có THA và hút thuốc nên càng không bỏ bước này. Người khám cần được huấn luyện (khuyến cáo 1). Cách cấu trúc hóa bệnh sử với người kể lan man: không có trong tài liệu đã tải (nhận xét thực hành)."
+    },
+    {
+     "t": "Không chuyển tuyến chụp CT/MRI vì HINTS plus ngoại biên; cơ sở cũng không có CT, MRI",
+     "v": "c",
+     "n": "GRACE-3 2023 khuyến cáo 5, 6 (tr. 447), tóm tắt tr. 444. MRI chỉ khi HINTS trung ương hoặc chưa rõ (khuyến cáo 7). Cần dặn rõ dấu hiệu quay lại, vì anh có yếu tố nguy cơ mạch máu."
+    },
+    {
+     "t": "Hỏi riêng anh, tách khỏi vợ: có té, loạng choạng, không kịp vào nhà vệ sinh; khám vai, đánh giá nguy cơ ngã khi ở nhà một mình với con",
+     "v": "c",
+     "n": "Hỏi riêng và cách hỏi tế nhị: không có trong tài liệu đã tải (nhận xét thực hành). Mất vững làm tăng nguy cơ ngã, mức đánh giá theo GRACE-3 2023 Bảng 3 (tr. 458). Cơ sở không có X-quang nên quyết định chụp vai: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc chống nôn ngắn ngày: domperidon, ondansetron hoặc metoclopramid, tối đa 2–3 ngày hoặc không quá 3–5 ngày",
+     "v": "c",
+     "n": "TL-0451 (Bảng 3 tr. S366; tr. S363): tối đa 2–3 ngày để không cản bù trừ. GRACE-3 2023 (tr. 444): không quá 3–5 ngày. Anh 32 tuổi nên không áp dụng AGS Beers 2023 (≥ 65 tuổi). Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho uống nước, oresol từng ngụm sau thuốc chống nôn; ăn nhẹ khi hết nôn; chỉ truyền tĩnh mạch nếu không uống được",
+     "v": "c",
+     "n": "Anh mất nước nhẹ (môi khô, ceton niệu +), uống được sau liều chống nôn đầu. Lượng nước: không có trong tài liệu đã tải. Truyền huyết thanh ngọt ưu trương có trong QĐ 5643/2015 (mục 4.1a) nhưng không cần nếu uống được."
+    },
+    {
+     "t": "Tiếp tục amlodipin 5 mg khi uống được; đo huyết áp tại nhà sáng tối; không tự tăng thuốc hạ áp để chữa chóng mặt; hẹn đánh giá THA khi hết chóng mặt",
+     "v": "c",
+     "n": "Huyết áp cao lúc đang quay, nôn và bỏ thuốc; mục tiêu < 130/80 mmHg nếu dung nạp (VSH/VNHA 2024, Đ3). Xử trí THA ngay trong cơn chóng mặt cấp và liều điều chỉnh: không có trong tài liệu đã tải. THA < 40 tuổi cần sàng lọc nguyên nhân thứ phát (Đ2.4, tr. 19)."
+    },
+    {
+     "t": "Đi lại sớm, tập phục hồi tiền đình tại nhà theo tờ hướng dẫn, không nằm bất động kéo dài; nghỉ yên ở những giờ đầu còn quay nhiều",
+     "v": "c",
+     "n": "QĐ 5643/2015 (mục 4.1a): cơn cấp ở phòng yên tĩnh, tránh cử động. GRACE-3 2023 (tr. 444): mọi người viêm thần kinh tiền đình đi phục hồi tiền đình dù có dùng steroid hay không; TL-0451 Bảng 3: tập tại nhà bằng tờ hướng dẫn, video. Hai giai đoạn khác nhau (cơn cấp, phục hồi)."
+    },
+    {
+     "t": "Dặn người ở cùng khi bế con, tắm, đi vệ sinh; bỏ bế con một mình, đặt con chỗ an toàn trước khi đứng dậy; ngồi tắm",
+     "v": "c",
+     "n": "Nhận xét thực hành theo mất vững mức 1 (GRACE-3 2023 Bảng 3) và vết bầm vai do ngã; biện pháp cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn kiểm tra lại sau 4–5 ngày và tái khám 2–4 tuần; về ngay nếu có dấu hiệu cảnh báo",
+     "v": "c",
+     "n": "TL-0451 Bảng 3: tái khám sau 2–4 tuần. Hẹn 4–5 ngày vì anh ở nhà một mình với con nhỏ và từng ngã: lựa chọn của ca, không có trong tài liệu. Dấu hiệu gọi cấp cứu: QĐ 5331/2020, Chương 5 mục I."
+    },
+    {
+     "t": "Corticoid uống ngắn ngày sau khi thảo luận lợi và hại (anh đến ngày thứ hai)",
+     "v": "a",
+     "n": "GRACE-3 2023 khuyến cáo 14 (tr. 447, 472–474): quyết định chung cho người đến trong 3 ngày, bằng chứng rất thấp, hại: xuất huyết tiêu hóa, tăng đường huyết. Anh THA chưa kiểm soát nên dùng hay không đều đúng (anh quyết không dùng). Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dùng thuốc chống chóng mặt, ức chế tiền đình nhiều tuần hoặc nằm bất động chờ hết quay",
+     "v": "w",
+     "n": "GRACE-3 2023 (tr. 474): quá vài ngày bị khuyên không nên vì cản bù trừ; TL-0451 (tr. S363): tối đa 2–3 ngày."
+    },
+    {
+     "t": "Cinnarizin ± dimenhydrinat tối đa 2–3 ngày",
+     "v": "a",
+     "n": "TL-0451 (tr. S363, Bảng 3); GRACE-3 2023 (tr. 474)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng tiền đình cấp ngoại biên một bên, thứ nhất là viêm thần kinh tiền đình bên phải (AUVP) ngày thứ hai, HINTS plus ngoại biên (Bárány 2022, mục 3.1; GRACE-3 2023, Bảng 4)",
+     "Mất vững mức 1: đi được nhưng chao đảo, bám tường, lệch phải (GRACE-3 2023, Bảng 3); đã ngã một lần trong nhà tắm (vai trái bầm), một lần són tiểu vì không kịp vào nhà vệ sinh",
+     "Mất nước nhẹ do nôn, ăn uống ít (môi khô, ceton niệu +)",
+     "Tăng huyết áp 32 tuổi đang điều trị amlodipin 5 mg, chưa đạt mục tiêu; THA trước 40 tuổi cần sàng lọc nguyên nhân thứ phát (VSH/VNHA 2024, Đ2.4)",
+     "Yếu tố nguy cơ mạch máu: THA, hút thuốc, BMI 27 (Bárány vascular 2022, mục 4): cảnh giác với đột quỵ tuần hoàn sau, đã loại trừ lâm sàng",
+     "Không rõ yếu tố khởi phát (bình thường với viêm thần kinh tiền đình, Bárány mục 4.2)",
+     "Lý do thật: ngại nói té ngã và són tiểu, chỉ xin đo huyết áp và lấy thuốc"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (liên tục, hơn 24 giờ theo Bárány AUVP 2022 mục 3.1, không theo cơn, không dấu thần kinh khu trú, không ù tai) → sinh hiệu, tư thế → khám vận nhãn (HINTS plus), dáng đi → CLS tối thiểu → chẩn đoán → xử trí (GRACE-3 2023, tr. 444).",
+     "Nhiễu kể lể lộn xộn: mì tôm, nước mắm, con ho, thuốc huyết áp. Không chuyện nào là yếu tố khởi phát. Kỹ thuật: hỏi từng ý, tóm lại cho anh xác nhận ('sáng hôm kia 5 giờ anh thức dậy thì quay liền, đúng không?'). Cách cấu trúc hóa bệnh sử: không có trong tài liệu đã tải, nhận xét thực hành.",
+     "Anh đủ ba thành phần ngoại biên cộng nghe không giảm mới (GRACE-3 2023, Bảng 4, tr. 460; khuyến cáo 2, 3, 5, 6, tr. 447); Bárány AUVP mục 3.1 đạt đủ tiêu chí. Anh trẻ nhưng có THA, hút thuốc: không loại trừ đột quỵ (Bárány vascular 2022, mục 4), nên khám mắt chứ không dừng ở 'huyết áp'. HINTS chỉ đáng tin khi người khám được huấn luyện (khuyến cáo 1); MRI chỉ khi HINTS trung ương hoặc chưa rõ (khuyến cáo 7); cơ sở cũng không có CT, MRI.",
+     "Lý do thật (nguồn: nhận xét thực hành): anh xin đo huyết áp để khỏi nói chuyện ngã và són tiểu. Mất vững mức 1 hôm nay nhưng ngày đầu nặng hơn (GRACE-3 Bảng 3); nếu tin 'đi được, hơi choáng' (mức 1 theo GRACE-3 Bảng 3, tr. 458) sẽ đánh giá thấp nguy cơ ngã khi ở một mình với con 18 tháng. Vết bầm vai trái lộ ra khi khám; hỏi riêng, tế nhị mới biết."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về và hẹn lại sớm: viêm thần kinh tiền đình chẩn đoán lâm sàng, xử trí không cần hình ảnh (GRACE-3 2023, tr. 444). Anh đi được (mức 1), uống được sau liều chống nôn đầu, không dấu trung ương nên không nhập viện hay chuyển tuyến (TL-0451 Bảng 3: chuyển khẩn khi nặng hoặc nghi trung ương). Hẹn kiểm tra sau 4–5 ngày vì ở một mình với con nhỏ (lựa chọn của ca, không có trong tài liệu).",
+     "Thuốc chống nôn chỉ vài ngày: TL-0451 nêu 2–3 ngày, GRACE-3 nêu không quá 3–5 ngày; cả hai đúng. Anh 32 tuổi nên metoclopramid dùng được (khác ≥ 65 tuổi, AGS Beers 2023). Corticoid: quyết định chung trong 3 ngày (GRACE-3 khuyến cáo 14); anh THA chưa ổn nên dùng hay không đều đúng.",
+     "Huyết áp: tiếp tục thuốc đang dùng, đo nhà, không tăng liều trong cơn cấp; đánh giá lại khi hết chóng mặt, mục tiêu < 130/80 và sàng lọc THA thứ phát (VSH/VNHA 2024, Đ2.4, Đ3); cách chỉnh liều: không có trong tài liệu đã tải. Phục hồi tiền đình sớm (GRACE-3 tr. 444; TL-0451 Bảng 3). Người ở cạnh khi tắm, bế con, đi vệ sinh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Domperidon (hoặc ondansetron, metoclopramid)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải (theo tờ hướng dẫn thuốc)",
+      "duong": "Uống (ondansetron có thể tiêm)",
+      "thoi_diem": "Khi buồn nôn; liều đầu tại phòng khám",
+      "so_ngay": "Tối đa 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3 2023)",
+      "ghi_chu": "TL-0451 HNO 2025, Bảng 3 (tr. S366), tr. S363; GRACE-3 2023 tr. 444. Anh 32 tuổi, không áp dụng AGS Beers 2023."
+     },
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói pha theo hướng dẫn trên gói",
+      "lieu": "Từng ngụm nhỏ sau thuốc chống nôn, theo khát (số ml: không có trong tài liệu đã tải)",
+      "duong": "Uống",
+      "thoi_diem": "Sau liều chống nôn, rải đều trong ngày",
+      "so_ngay": "1–2 ngày hoặc đến khi ăn uống lại",
+      "ghi_chu": "Mất nước nhẹ; lượng nước: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng, giữ nguyên)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên mỗi sáng, uống lại khi hết nôn",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau khi uống được",
+      "so_ngay": "Tiếp tục; đánh giá lại khi hết chóng mặt",
+      "ghi_chu": "Mục tiêu < 130/80 mmHg nếu dung nạp (VSH/VNHA 2024, Đ3). Không tăng liều trong cơn cấp: nhận xét thực hành, không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Corticoid uống (tùy chọn sau thảo luận)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải (các thử nghiệm dùng phác đồ khác nhau)",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu trong 3 ngày từ khởi phát",
+      "so_ngay": "Ngắn ngày; số ngày: không có trong tài liệu đã tải",
+      "ghi_chu": "GRACE-3 2023 khuyến cáo 14 (tr. 447, 472–474), nguồn đã nêu: hại xuất huyết tiêu hóa, tăng đường huyết. Anh THA nên cân nhắc; đã thống nhất không dùng."
+     }
+    ],
+    "dan_do": [
+     "Anh bị viêm thần kinh tiền đình bên phải: dây thần kinh thăng bằng của tai bị viêm, thường do virus (QĐ 5643/2015, mục 2.2). Không phải do huyết áp, không phải yếu đuối, và nhiều người bị mà không rõ lý do (Bárány AUVP 2022, mục 4.2).",
+     "Anh cứ nói thật chuyện té ngã và đi vệ sinh không kịp: đó là do nhà quay, rất thường gặp và không có gì phải xấu hổ. Biết rồi bác sĩ mới dặn đúng cách phòng ngã.",
+     "Đưa anh đi cấp cứu ngay nếu yếu liệt tay chân, méo miệng, nói khó, nhìn đôi, tê, lơ mơ, đau đầu dữ dội, đi không vững hơn (QĐ 5331/2020, Chương 5 mục I; Bárány AUVP 2022, ghi chú 13).",
+     "Uống nước chín và oresol từng ngụm nhỏ. Thuốc chống nôn chỉ vài ngày. Khi bớt nôn thì tập nhìn và xoay đầu nhẹ theo tờ hướng dẫn (GRACE-3 2023 tr. 444).",
+     "Có người ở cạnh khi anh tắm, bế con, đi vệ sinh; ngồi khi tắm; không lái xe, không leo cao. Đặt con chỗ an toàn trước khi đứng dậy.",
+     "Tiếp tục thuốc huyết áp mỗi sáng khi uống được, đo huyết áp nhà và ghi lại, không tự uống thêm thuốc hạ áp. Kiểm tra lại sau 4–5 ngày, tái khám sau 2–4 tuần (TL-0451 Bảng 3); quay lại sớm nếu nôn không uống được."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 5 ngày",
+   "tiep_don": "Anh Tuấn tái khám theo hẹn, vợ Hạnh đưa đi, anh ngồi co ro, hai tay bám thành ghế, đầu giữ thẳng như sợ quay. Anh nói 'em vẫn chưa đỡ chút nào, còn nặng hơn' và kể lại hết cả tuần, lẫn lộn thứ tự các ngày. Vợ nói sáng nay anh đứng dậy rồi ngã ngồi. Sinh hiệu lúc tiếp đón (ngồi): mạch 88 l/p, HA 158/98 mmHg, nhiệt 36,8 °C, nhịp thở 18, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện khi cơn quay ngắn theo tư thế có thể giải quyết ngay tại phòng khám bằng nghiệm pháp đưa sỏi: GRACE-3 2023 (tr. 444; khuyến cáo 11, 15) khuyến cáo Epley tại chỗ, không cần hình ảnh nếu đáp ứng. Anh nằm viện nhiều ngày, vợ nghỉ làm thêm, anh nằm bất động và càng sợ cử động trong khi chưa ai chữa nguyên nhân.",
+    "chuyen_tuyen": "Chuyển tuyến tỉnh chụp MRI hay khám chuyên khoa khi chưa thử đưa sỏi: GRACE-3 2023 (tr. 444) chỉ cân nhắc MRI-DWI khi rung giật không điển hình hoặc đưa sỏi thất bại; TL-0451 (Bảng 3) chuyển chuyên khoa khi không đáp ứng. Anh đi ô tô gần một giờ trong cơn quay khi nằm, tốn thêm một ngày, trong khi thủ thuật làm được ngay tại đây.",
+    "cap_cuu": "Gọi 115 vì 'ngã và nặng hơn' là quá mức: không có dấu thần kinh khu trú mới, rung giật khi Dix–Hallpike đúng kiểu BPPV (GRACE-3 2023, khuyến cáo 11; Bárány vascular 2022, mục 5.1). Anh chờ nhiều giờ ở cấp cứu và bị chụp CT sọ vốn không giúp loại đột quỵ (GRACE-3 khuyến cáo 5, 12) mà vẫn không ai làm nghiệm pháp đưa sỏi."
+   },
+   "loi_mo": "Bác sĩ ơi, em vẫn chưa đỡ, còn tệ hơn. Cái quay quay nó đỡ rồi mà người em cứ chao chao, đứng lên là muốn té. Em uống thuốc đủ, em cũng ráng tập như tờ giấy mà chóng mặt hơn nên em nằm luôn. À thằng cu nó mới mọc răng, hôm qua mẹ em lên... Sáng nay em ngồi dậy cái té ngồi luôn. Hay là huyết áp em lên cao quá hả bác sĩ?",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "158/98",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn, 'vẫn chưa đỡ, còn tệ hơn'. Người chao đảo, đứng lên muốn ngã, sáng nay ngã ngồi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám; 'không đỡ'"
+    },
+    {
+     "id": "dieu_tri_da_lam",
+     "noi_dung": "Anh uống thuốc chống nôn đủ ba ngày, hết nôn từ thứ Bảy, ăn uống lại. Không uống steroid vì sợ huyết áp. Uống lại amlodipin 5 mg mỗi sáng. Về nhà anh tập theo tờ hướng dẫn hai ngày, rồi thấy chóng mặt hơn nên ngừng, nằm gần như cả ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ điều trị lượt 1: đã làm đủ và đúng"
+    },
+    {
+     "id": "cuoc_quay_cu",
+     "noi_dung": "Cơn quay liên tục hết từ hôm thứ Bảy, nhà không quay mãi nữa. Nhưng người vẫn nghiêng sang phải, đi phải bám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Quay liên tục đã hết, mất vững còn (diễn tiến chậm của viêm thần kinh tiền đình, Bárány AUVP 2022, mục 4.7.1: triệu chứng tĩnh giảm sau vài tuần)"
+    },
+    {
+     "id": "con_tu_the",
+     "noi_dung": "Hai ngày nay mỗi khi nằm xuống, trở mình sang phải hay ngửa đầu lấy đồ chơi trên kệ thì nhà quay dữ dội khoảng nửa phút rồi hết, buồn nôn. Ngồi yên thì không quay. Anh kể gộp là 'chóng mặt hơn' vì tưởng cùng một bệnh; hỏi tách từng lúc mới ra kiểu từng cơn ngắn theo tư thế.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn chóng mặt ngắn theo tư thế mới xuất hiện: gợi BPPV hậu viêm thần kinh tiền đình (Bárány AUVP 2022, mục 4.1)"
+    },
+    {
+     "id": "ngat_ngay",
+     "noi_dung": "Sáng nay ngồi dậy khỏi giường thì quay và ngã ngồi xuống thảm, mông và khuỷu phải trầy nhẹ, không đập đầu, không mất ý thức. Hôm kia bế con đứng lên thì quay, suýt làm rơi con, may vợ đỡ kịp. Từ đó anh sợ, không dám bế con.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Té ngã mới, nguy cơ ngã; diễn tiến xấu không do sai xử trí"
+    },
+    {
+     "id": "khong_trung_uong",
+     "noi_dung": "Không đau đầu, không yếu liệt, không méo miệng, không nói khó, không nhìn đôi, không tê, không ngất, không ù tai, không nghe kém đi. Không có triệu chứng mới ngoài cơn quay theo tư thế.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu thần kinh mới hoặc triệu chứng tai mới: không có (Bárány AUVP 2022, ghi chú 13, 16)"
+    },
+    {
+     "id": "huyet_ap_nha",
+     "noi_dung": "Huyết áp đo ở nhà sáng tối 145–160/90–100 từ khi uống lại amlodipin. Chưa tăng thuốc. Anh lo huyết áp gây nặng hơn, nên đến khám và nằm lì trong nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "THA chưa kiểm soát; nỗi lo 'huyết áp'"
+    },
+    {
+     "id": "so_van_dong",
+     "noi_dung": "Anh sợ mỗi lần xoay đầu hay nằm xuống lại quay, nên đi chậm, giữ đầu thẳng, không dám ra chợ. Ngủ chập chờn, phải nhờ mẹ vợ lên trông con. Anh áy náy vì 'đàn ông mà để vợ mẹ vợ gánh'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Né vận động, lo âu sau viêm thần kinh tiền đình: nguy cơ chóng mặt chức năng thứ phát (Bárány AUVP 2022, mục 4.1)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Anh tỉnh, ngồi co ro, giữ đầu cứng thẳng, bám ghế. Không mất nước (môi ẩm, véo da mất nhanh). Cân nặng 77 kg.",
+     "k": 1,
+     "hien": "Anh ngồi giữ đầu thẳng cứng, tay bám ghế."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 154/94 mmHg, mạch 84. Ngồi 1 phút: 152/94, mạch 88. Đứng 1 phút: 148/92, mạch 94, chao đảo nhưng không choáng ngất. Không hạ huyết áp tư thế; huyết áp vẫn trên mục tiêu < 130/80 (VSH/VNHA 2024, Đ3).",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, nói rõ, không méo mặt. Sức cơ 5/5 bốn chi, cảm giác đều, phản xạ gân xương đều, Babinski âm tính. Ngón–mũi, gót–gối chính xác, không loạn nhịp luân phiên. Không cứng gáy. Không có dấu thần kinh khu trú mới.",
+     "k": 1
+    },
+    "hints_van_nhan": {
+     "a": "Nhìn thẳng: không còn rung giật tự phát. Che mắt vài giây: rung giật ngang rất nhẹ sang trái (nhắm hay che cố định làm rõ rung giật, Bárány AUVP 2022, mục 4.3.1). Đẩy đầu nhanh: quay sang phải vẫn có cú giật bắt kịp biên độ lớn, sang trái giữ được mục tiêu (thiếu hụt phản xạ tiền đình–mắt bên phải chưa hồi phục hết, Bárány AUVP, mục 4.7.2). Che mắt luân phiên: không lệch dọc. Không nhìn đôi. Không có dấu trung ương mới. HINTS chính thức dành cho hội chứng đang có rung giật liên tục (GRACE-3 2023, khuyến cáo 2); ở đây dùng để xác nhận không có dấu trung ương xuất hiện thêm.",
+     "k": 1,
+     "hien": "Nhìn thẳng: mắt không giật. Che mắt vài giây: giật nhẹ sang trái. Đẩy đầu nhanh sang phải: mắt trượt rồi giật bắt kịp; sang trái: mắt giữ được. Mắt không lệch dọc."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi được nhưng chao đảo, lệch phải, quay người chậm và phải dang chân; nhắm mắt đứng chụm chân nghiêng phải. Mất vững mức 1 (GRACE-3 2023, Bảng 3, tr. 458), không nặng hơn lượt 1. Không dấu tiểu não (ngón–mũi và nghiệm pháp luân phiên bình thường).",
+     "k": 1,
+     "hien": "Đi được, chao đảo, lệch phải, quay người chậm."
+    },
+    "dix_hallpike": {
+     "a": "Dix–Hallpike bên phải (đầu quay phải 45°, nằm ngửa đầu treo): sau khoảng 3 giây xuất hiện rung giật lên–xoay, cực trên mắt xoay về phía tai phải (hướng đất), kèm quay dữ dội và buồn nôn, tăng rồi giảm, tự hết sau khoảng 25 giây; ngồi dậy thì quay nhẹ, rung giật đảo chiều ngắn. Lặp lại: yếu hơn. Dix–Hallpike bên trái: không rung giật, không quay. Nghiệm pháp lăn ngang hai bên: không rung giật ngang. Đây là BPPV ống bán khuyên sau bên phải (GRACE-3 2023, khuyến cáo 11, tr. 447; hình Dix–Hallpike panel 2; TL-0451 Hình 3a, tr. S364). Rung giật điển hình nên không cần hình ảnh (GRACE-3 tr. 444); rung giật không điển hình mới nghĩ tổn thương trung ương (Bárány vascular 2022, mục 5.1).",
+     "k": 1,
+     "hien": "Dix–Hallpike phải: sau vài giây mắt giật xoay–lên, anh quay dữ dội, kêu 'nhà quay', buồn nôn, khoảng nửa phút thì hết. Bên trái: không có gì. Lăn ngang hai bên: không giật."
+    },
+    "co_xuong_khop": {
+     "a": "Mông phải và khuỷu phải trầy xước nông, không sưng, không biến dạng, vận động khớp đủ biên độ, không điểm đau chói xương. Vai trái vết bầm cũ đã nhạt vàng. Không đập đầu, không sưng đầu. Cơ sở không có X-quang; khám lâm sàng không gợi ý gãy xương (ngưỡng chụp: không có trong tài liệu đã tải).",
+     "k": 1,
+     "hien": "Mông phải và khuỷu phải trầy nông. Vai trái bầm cũ nhạt."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 5,7 mmol/L.",
+     "n": "Không cần cho chẩn đoán lượt này; làm cũng không sai."
+    },
+    "thinh_luc_do": {
+     "v": "n",
+     "r": "Cơ sở không có phòng đo thính lực; không có chỉ định.",
+     "n": "Không giảm nghe, không ù tai (Bárány AUVP 2022, mục 4.5.3)."
+    },
+    "mri_so_nao": {
+     "v": "n",
+     "r": "Cơ sở không có MRI; không có chỉ định.",
+     "n": "GRACE-3 2023 (tr. 444; khuyến cáo 13): không dùng MRI thường quy cho hội chứng theo tư thế điển hình; chỉ cân nhắc MRI-DWI khi rung giật không điển hình hoặc điều trị đưa sỏi thất bại. TL-0451 (Bảng 3): chuyển chuyên khoa, MRI khi điều trị không đáp ứng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thần kinh tiền đình bên phải, ngày thứ 7, còn thiếu hụt phản xạ tiền đình–mắt (HIT phải bất thường), mất vững mức 1",
+     "ok": 1,
+     "n": "Bárány AUVP 2022, mục 3.1; mục 4.7.1–4.7.2: triệu chứng tĩnh giảm sau vài tuần, thiếu hụt động không bù hết. Diễn tiến 'không đỡ' ở đây là hồi phục chậm cộng một bệnh thứ hai chen vào, không phải thất bại điều trị lượt 1."
+    },
+    {
+     "t": "BPPV ống bán khuyên sau bên phải, xuất hiện sau viêm thần kinh tiền đình",
+     "ok": 1,
+     "n": "Bárány AUVP 2022, mục 4.1: người AUVP có thể bị BPPV ống sau hậu nhiễm (13/104 người BPPV có tiền sử AUVP), giải thích bởi dây thần kinh tiền đình dưới thường được tha và viêm mê nhĩ làm sỏi dễ bong. Dix–Hallpike phải điển hình (GRACE-3 2023, khuyến cáo 11). Ở lượt 1 chưa có cơn theo tư thế nên loại trừ đúng; lượt này mới xuất hiện."
+    },
+    {
+     "t": "Tăng huyết áp chưa đạt mục tiêu (158/98 mmHg, đo nhà 145–160/90–100) với amlodipin 5 mg",
+     "ok": 1,
+     "n": "VSH/VNHA 2024, Đ3: mục tiêu < 130/80 mmHg nếu dung nạp; chỉnh điều trị khi hết chóng mặt. THA < 40 tuổi: sàng lọc thứ phát (Đ2.4, tr. 19)."
+    },
+    {
+     "t": "Chấn thương nhẹ phần mềm do ngã (mông, khuỷu phải)",
+     "ok": 1,
+     "n": "Trầy nông, không đau xương, không đập đầu. Cơ sở không có X-quang; ngưỡng chụp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đột quỵ tuần hoàn sau (tiểu não, thân não)",
+     "n": "Vẫn loại trừ lâm sàng: không dấu trung ương mới, triệu chứng mới là cơn ngắn theo tư thế với rung giật lên–xoay điển hình, tự hết (GRACE-3 2023, khuyến cáo 11, 12). Yếu tố nguy cơ mạch máu còn, nhưng chỉ nghi trung ương khi rung giật vị trí không điển hình (Bárány vascular 2022, mục 5.1). Dấu mới hay triệu chứng tai mới thì xét lại (Bárány AUVP, ghi chú 16)."
+    },
+    {
+     "t": "Chóng mặt chức năng thứ phát (PPPD)",
+     "n": "Chưa đủ: PPPD cần chóng mặt dai dẳng ≥ 3 tháng (TL-0451 tr. S364). Anh mới một tuần nhưng đã né vận động, lo âu: nguy cơ (Bárány AUVP 2022, mục 4.1: 25/162 người chóng mặt chức năng thứ phát có tiền sử AUVP)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi tách từng mốc (quay liên tục hết khi nào, cơn ngắn theo tư thế từ khi nào), rồi làm Dix–Hallpike hai bên và nghiệm pháp lăn ngang để xác định kiểu BPPV và bên bị",
+     "v": "c",
+     "n": "GRACE-3 2023 (tr. 444, Hình 1; khuyến cáo 11, tr. 447); TL-0451 Hình 3a, 3b (tr. S364), Bảng 2 (tr. S362). Cách hỏi tóm tắt cho người kể lộn xộn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm nghiệm pháp Epley (hoặc Semont-plus) cho tai phải ngay tại phòng khám; giữ mỗi tư thế 30–60 giây; lặp lại Dix–Hallpike để đánh giá đáp ứng",
+     "v": "c",
+     "n": "GRACE-3 2023 khuyến cáo 15 (tr. 447) và tóm tắt tr. 444: Epley tại chỗ bởi người được huấn luyện. TL-0451 khuyến cáo 7 (tr. S364): Semont-plus hoặc Epley cho ống sau; Hình 3c: nghỉ mỗi tư thế ít nhất 30–60 giây; lặp lại nghiệm pháp sau điều trị, lặp liệu pháp nếu còn triệu chứng."
+    },
+    {
+     "t": "Không chụp CT; không chụp MRI vì rung giật điển hình và chưa thử đưa sỏi; chỉ cân nhắc MRI-DWI hoặc hội chẩn nếu rung giật không điển hình hay Epley thất bại lặp lại",
+     "v": "c",
+     "n": "GRACE-3 2023 khuyến cáo 12, 13 (tr. 447) và tóm tắt tr. 444. TL-0451 tr. S364: dấu hiệu cảnh báo gồm liệu pháp lặp lại không đáp ứng, rung giật không điển hình, dấu thần kinh khu trú."
+    },
+    {
+     "t": "Không kê thuốc ức chế tiền đình (meclizin, cinnarizin, dimenhydrinat) để chữa cơn quay theo tư thế; chỉ cho thuốc chống nôn trước thủ thuật nếu cần",
+     "v": "c",
+     "n": "GRACE-3 2023 (tóm tắt tr. 444): không dùng thuốc ức chế tiền đình ngoại trú như meclizin cho BPPV. TL-0451 Bảng 3: chống nôn hoặc an thần tiền mê trước thủ thuật nếu cần."
+    },
+    {
+     "t": "Giải thích: cơn quay theo tư thế là bệnh thứ hai chen vào sau viêm dây thần kinh, không phải điều trị lượt trước thất bại; có thể còn choáng vài ngày sau thủ thuật; nguy cơ tái phát khoảng 15–20% trong 12 tháng; người ở cạnh khi bế con, tắm; tránh cúi nhanh, ngửa đầu quá mức vài ngày đầu",
+     "v": "c",
+     "n": "TL-0451 tr. S364: sau liệu pháp thành công còn chao đảo, buồn ngủ vài ngày; nguy cơ BPPV tái phát khoảng 15–20% trong 12 tháng. Bárány AUVP 2022 mục 4.1: BPPV hậu viêm thần kinh tiền đình. Hạn chế tư thế sau thủ thuật: không có trong tài liệu đã tải (nhận xét thực hành). Nguy cơ ngã: GRACE-3 2023, Bảng 3."
+    },
+    {
+     "t": "Tiếp tục tập phục hồi tiền đình tại nhà theo tờ hướng dẫn khi hết cơn quay theo tư thế; không nằm bất động; không né vận động",
+     "v": "c",
+     "n": "GRACE-3 2023 (tr. 444): chuyển mọi người viêm thần kinh tiền đình đi phục hồi tiền đình. TL-0451 Bảng 3: VRT tại nhà bằng tờ hướng dẫn, video, ứng dụng; tái khám sau 2–4 tuần. Né vận động nuôi dưỡng chóng mặt chức năng thứ phát (Bárány AUVP 2022, mục 4.1)."
+    },
+    {
+     "t": "Hẹn kiểm tra lại sau 3–7 ngày (điện thoại hoặc trực tiếp) và tái khám 2–4 tuần",
+     "v": "c",
+     "n": "TL-0451 Bảng 3: BPPV kiểm tra sau 3–7 ngày; viêm thần kinh tiền đình tái khám sau 2–4 tuần. Chuyển chuyên khoa nếu điều trị không đáp ứng (Bảng 3, cột cuối)."
+    },
+    {
+     "t": "Huyết áp: giữ amlodipin 5 mg; đo nhà sáng tối 7 ngày; đánh giá chỉnh thuốc khi hết chóng mặt, mục tiêu < 130/80; sàng lọc THA thứ phát và ngưng thở khi ngủ",
+     "v": "c",
+     "n": "VSH/VNHA 2024 (TL-0288), Đ3: mục tiêu < 130/80 nếu dung nạp; Đ2.4 (tr. 19): THA < 40 tuổi sàng lọc thứ phát. Chỉnh thuốc cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi nỗi sợ vận động, giấc ngủ, lo âu; khuyến khích ra ngoài từng chút; chuyển chuyên khoa tiền đình nếu dai dẳng ≥ 3 tháng",
+     "v": "c",
+     "n": "TL-0451 tr. S364: chóng mặt dai dẳng ≥ 3 tháng thì nghĩ chóng mặt chức năng; điều trị đa mô thức (Bảng 3). Câu hỏi cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho thuốc chống chóng mặt, ức chế tiền đình (cinnarizin, dimenhydrinat, meclizin) nhiều tuần để chữa cơn quay theo tư thế",
+     "v": "w",
+     "n": "GRACE-3 2023 (tóm tắt tr. 444): không dùng thuốc ức chế tiền đình ngoại trú cho BPPV; quá vài ngày cản bù trừ (tr. 474). TL-0451 tr. S363: tối đa 2–3 ngày."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thần kinh tiền đình bên phải ngày thứ 7, quay liên tục đã hết, còn thiếu hụt phản xạ tiền đình–mắt phải (Bárány AUVP 2022, mục 3.1, 4.7)",
+     "BPPV ống bán khuyên sau bên phải, hậu viêm thần kinh tiền đình (Bárány AUVP, mục 4.1; GRACE-3 2023, khuyến cáo 11; TL-0451 Hình 3a)",
+     "Mất vững mức 1; ngã ngồi sáng nay, trầy mông và khuỷu phải; suýt đánh rơi con (GRACE-3 2023, Bảng 3)",
+     "Tăng huyết áp chưa đạt mục tiêu với amlodipin 5 mg (VSH/VNHA 2024, Đ3); THA trước 40 tuổi cần sàng lọc thứ phát (Đ2.4)",
+     "Né vận động, lo âu: nguy cơ chóng mặt chức năng thứ phát (Bárány AUVP, mục 4.1)",
+     "Lý do nhiễu: người bệnh kể lộn xộn làm lẫn hai triệu chứng; ngại ngùng chuyện són tiểu còn lại"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (tách mốc: quay liên tục hết từ khi nào, cơn ngắn theo tư thế từ khi nào, dấu thần kinh hay tai mới) → sinh hiệu → thần kinh, vận nhãn, dáng đi → Dix–Hallpike, lăn ngang → chẩn đoán → xử trí (GRACE-3 2023, tr. 444; Hình 1).",
+     "'Không đỡ': quy trình thất bại điều trị. Sai chẩn đoán? Lượt 1 đủ ba thành phần ngoại biên, lượt này không dấu trung ương mới, HIT phải vẫn bất thường: chẩn đoán đầu giữ nguyên. Sai thuốc? Thuốc chống nôn ngắn ngày đúng (TL-0451, GRACE-3). Không tuân thủ? Anh uống đủ, tập hai ngày. Biến chứng? Có: BPPV ống sau hậu viêm (13/104 người BPPV có tiền sử AUVP, Bárány AUVP mục 4.1).",
+     "Kết cục 'xử trí đúng nhưng diễn tiến xấu': lượt 1 đúng đáp án, vẫn có cơn quay theo tư thế mới, ngã, sợ hãi. Không kết luận ngược 'lượt trước sai' (chống outcome bias). Chao đảo kéo dài là hồi phục chậm bình thường (Bárány AUVP, mục 4.7.1, 4.7.2; GRACE-3 tr. 472–473).",
+     "Nhiễu kể lộn xộn: anh gộp mọi thứ vào 'chóng mặt hơn' và 'huyết áp'; chỉ khi hỏi tách mốc, tình huống (nằm xuống, trở mình, ngồi yên) mới ra cơn ngắn. Dix–Hallpike là chìa khóa vì lượt 1 không làm được. Vẫn nghĩ đột quỵ vì THA, hút thuốc nhưng không dấu trung ương (Bárány vascular, mục 5.1; GRACE-3 khuyến cáo 11–13); dấu mới thì xét lại (Bárány AUVP, ghi chú 13, 16)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về sau Epley tại phòng khám, không nhập viện, không chuyển tuyến: GRACE-3 2023 khuyến cáo Epley tại chỗ cho pc-BPPV, không cần hình ảnh nếu đáp ứng (tr. 444; khuyến cáo 15). MRI hay chuyên khoa chỉ khi rung giật không điển hình hay Epley thất bại (TL-0451 Bảng 3).",
+     "Không kê ức chế tiền đình cho cơn quay theo tư thế (GRACE-3 tr. 444); chống nôn chỉ trước thủ thuật nếu cần (TL-0451 Bảng 3). Đã ngoài 3 ngày nên không còn chỉ định bàn steroid (khuyến cáo 14). Phục hồi tiền đình tại nhà tiếp tục; né vận động nuôi chóng mặt chức năng (Bárány AUVP mục 4.1). Hẹn 3–7 ngày, tái khám 2–4 tuần (TL-0451 Bảng 3).",
+     "Huyết áp: không chỉnh thuốc ngay trong ngày vì lo, vừa làm thủ thuật; đo nhà 7 ngày rồi chỉnh theo mục tiêu < 130/80, sàng lọc THA thứ phát (VSH/VNHA 2024, Đ3, Đ2.4); cách chỉnh liều: không có trong tài liệu đã tải. An toàn: người ở cạnh khi bế con, tắm."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc ức chế tiền đình (meclizin, cinnarizin, dimenhydrinat)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "GRACE-3 2023, tóm tắt tr. 444: không dùng thuốc ức chế tiền đình ngoại trú cho BPPV; tr. 474: dùng kéo dài cản bù trừ. TL-0451 tr. S363, Bảng 3."
+     },
+     {
+      "thuoc": "Thuốc chống nôn trước thủ thuật (domperidon, ondansetron hoặc metoclopramid) nếu cần",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Trước khi làm Epley nếu buồn nôn",
+      "so_ngay": "1 lần; tối đa 2–3 ngày nếu cần thêm (TL-0451)",
+      "ghi_chu": "TL-0451 Bảng 3 (BPPV): chống nôn hoặc an thần tiền mê trước thủ thuật nếu cần; tr. S363."
+     },
+     {
+      "thuoc": "Amlodipin (đang dùng, giữ nguyên)",
+      "ham_luong": "5 mg",
+      "lieu": "1 viên mỗi sáng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Tiếp tục; chỉnh sau 7 ngày đo huyết áp nhà",
+      "ghi_chu": "Mục tiêu < 130/80 mmHg nếu dung nạp (VSH/VNHA 2024, Đ3). Cách chỉnh liều: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cơn quay mỗi khi nằm xuống hay trở mình là bệnh thứ hai chen vào sau viêm thần kinh tiền đình, do các hạt sỏi nhỏ trong tai bong ra (TL-0451 tr. S363–S364; Bárány AUVP 2022, mục 4.1). Bác sĩ vừa làm thủ thuật đưa sỏi về chỗ cũ. Việc anh làm trước đó không sai.",
+     "Vài ngày tới anh còn thấy chao chao, buồn ngủ; có thể bị lại khoảng 15–20% trong một năm (TL-0451 tr. S364); nếu bị lại, anh quay lại hoặc tập tự đưa sỏi theo tờ hướng dẫn.",
+     "Tiếp tục tập mắt–đầu nhẹ theo tờ hướng dẫn mỗi ngày và đi lại; nằm lì chỉ làm lâu hồi phục (GRACE-3 2023 tr. 444; Bárány AUVP mục 4.1).",
+     "Đi cấp cứu ngay nếu nhìn đôi, tê hoặc yếu tay chân, méo miệng, nói khó, đau đầu dữ dội, nghe giảm hoặc ù tai mới, đi không vững hơn (QĐ 5331/2020, Chương 5 mục I; Bárány AUVP ghi chú 13).",
+     "Có người ở cạnh khi bế con, tắm, đi vệ sinh; vài ngày đầu tránh cúi nhanh, ngửa đầu quá mức (hạn chế này không có trong tài liệu đã tải). Không ngại nói với vợ chuyện ngã hay đi vệ sinh không kịp: đó là do nhà quay.",
+     "Đo huyết áp nhà sáng tối 7 ngày mang tới; kiểm tra lại sau 3–7 ngày và tái khám sau 2–4 tuần (TL-0451 Bảng 3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Tuấn về nhà sau lượt 1 đúng đáp án: hết nôn sau ba ngày, uống thuốc chống nôn đủ, tập hai ngày. Cơn quay liên tục hết, nhưng chưa đầy hai ngày sau xuất hiện cơn quay ngắn khi nằm xuống, trở mình sang phải, kèm ngã và suýt đánh rơi con; anh sợ, nằm lì. Lượt 2: HIT phải vẫn bất thường, Dix–Hallpike phải điển hình của BPPV ống sau (Bárány AUVP 2022, mục 4.1: 13/104 người BPPV có tiền sử AUVP). Anh được làm Epley tại chỗ, lặp lại Dix–Hallpike âm tính, về nhà với tờ phục hồi tiền đình. Ba ngày sau cơn theo tư thế hết, còn chao nhẹ; tuần thứ ba đi vững gần bình thường, bắt đầu bế con lại, và anh kể với vợ chuyện ngã. Bài học: quyết định đúng ở lượt 1 vẫn gặp diễn tiến xấu (bệnh thứ hai chen vào, ngã) không có nghĩa lượt trước sai (chống outcome bias). Chao đảo kéo dài là hồi phục chậm bình thường (Bárány AUVP, mục 4.7); BPPV hậu viêm và chóng mặt chức năng thứ phát là hai biến cố cần nghĩ tới khi 'không đỡ' (mục 4.1; TL-0451 tr. S364).",
+ "nhieu": [
+  "Kể lể lộn xộn: tô mì tôm mặn, nước mắm mới, con ho, thuốc huyết áp, mẹ vợ, chuyện mọc răng; chen vào vài chi tiết đúng. Phải chặn lịch sự, hỏi từng ý và tóm lại cho anh xác nhận.",
+  "Lời giải 'chắc tại huyết áp' dễ chịu, che mất việc phải khám vận nhãn; huyết áp 152/96 đo lúc đang quay và bỏ thuốc.",
+  "Lý do thật giấu vì ngại: té ngã và són tiểu vì không kịp vào nhà vệ sinh; chỉ lộ khi hỏi riêng, tế nhị."
+ ],
+ "bai_hoc_bien": [
+  "Hội chứng tiền đình cấp: HINTS plus bởi người được huấn luyện thay CT; ngoại biên thì không cần hình ảnh (GRACE-3 2023 khuyến cáo 2, 3, 5, 6, tr. 447). Người trẻ có THA, hút thuốc vẫn phải khám mắt, không dừng ở 'huyết áp' (Bárány vascular 2022, mục 4).",
+  "Người kể lộn xộn: cấu trúc hóa bệnh sử, hỏi tách mốc thời gian và tư thế; câu hỏi chung nhận câu trả lời chung.",
+  "Triệu chứng thật bị giấu vì ngại: tạo chỗ riêng tư, hỏi tế nhị về té ngã và tiểu không kịp; ý nghĩa an toàn khi ở nhà một mình với con nhỏ.",
+  "'Không đỡ' là câu hỏi: sai chẩn đoán? sai thuốc? không tuân thủ? biến chứng? Ở đây là biến chứng (BPPV hậu viêm, Bárány AUVP mục 4.1) và hồi phục chậm bình thường; xử trí lượt 1 không sai."
+ ],
+ "diem_nho": [
+  "Viêm thần kinh tiền đình (Bárány 2022, mục 3.1): vertigo liên tục ≥ 24 giờ, rung giật ngoại biên một chiều, giảm VOR bên đối diện, không dấu trung ương, không triệu chứng tai; ngày 7 còn thiếu hụt HIT, không bù hết (mục 4.7.2).",
+  "HINTS plus ngoại biên: rung giật một chiều, HIT có cú giật bắt kịp, không lệch dọc, không giảm nghe mới (GRACE-3 2023 Bảng 4, tr. 460); chỉ dùng khi có rung giật tự phát.",
+  "Dix–Hallpike dương tính điển hình: rung giật lên–xoay hướng về tai bị, khởi phát muộn, ngắn dưới 1 phút, tự hết; điều trị Epley (GRACE-3 khuyến cáo 11, 15; TL-0451 Hình 3). Sau thủ thuật còn chao đảo vài ngày, tái phát 15–20%/12 tháng (tr. S364)."
+ ],
+ "nguon": [
+  "GRACE-3 2023 – Edlow JA và cs., Acad Emerg Med 2023;30:442-486 – TL-0072 – tóm tắt tr. 444, Box 1 khuyến cáo 1–15 (tr. 447), Bảng 3 (tr. 458), Bảng 4 (tr. 460), corticoid (tr. 472–474), thuốc ức chế tiền đình (tr. 474), kết luận t-EVS.",
+  "Bárány Society 2022 – Strupp M và cs., Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res 2022;32:389-406 – TL-0465 – mục 3.1, bảng 1, ghi chú 5, 10–13, 16; mục 4.1–4.3, 4.5–4.8.",
+  "Bárány Society 2022 – Vascular vertigo and dizziness: diagnostic criteria. J Vestib Res 2022;32:205-222 – TL-0468 – mục 2.1.2, 2.1.3, mục 4 (dịch tễ), mục 5.1.",
+  "TL-0451 – Tarnutzer và cs., HNO 2025;73(Suppl 3):357-369 – Bảng 1–3, tr. S362–S366, Hình 3.",
+  "BYT – QĐ 5643/QĐ-BYT 2015 (TL-0130) – bài Chóng mặt, mục 2.2, 3.1e, 4.1a.",
+  "BYT – QĐ 5331/QĐ-BYT 2020 (TL-0030) – Chương 2 mục I.4, Chương 5 mục I.",
+  "VSH/VNHA 2024 – Chiến lược thực hành lâm sàng quản lý tăng huyết áp tại Việt Nam – TL-0288 – Đ2.4 (tr. 19), Đ3."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-10-19, viết: Sonnet. Tài liệu đã đọc: TL-0072 (tóm tắt, Box 1, Bảng 3–4, kết luận t-EVS, corticoid, thuốc ức chế tiền đình); TL-0465 (mục 3, ghi chú, 4.1–4.8); TL-0468 (mục 2.1.2, 4, 5.1); TL-0451 (Bảng 1–3, S362–S366, Hình 3); TL-0130 bài Chóng mặt; TL-0030; TL-0288 (Đ2.4, Đ3).",
+  "Thiếu tài liệu: (1) liều domperidon, ondansetron, metoclopramid, cinnarizin, corticoid; (2) liều và cách chỉnh amlodipin; (3) ngưỡng chụp X-quang chấn thương nhẹ, cách cấu trúc hóa bệnh sử; (4) hạn chế tư thế sau Epley (AAO-HNS 2017, TL-0483, chưa có toàn văn); (5) lượng nước bù; (6) mức béo ở người Việt (BMI 27).",
+  "Mâu thuẫn đã có trong sổ (ghi cả hai): thời gian chống nôn/ức chế tiền đình 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3) (mục TK-0267); thuốc chống nôn theo QĐ 5643/TL-0451 so với Beers 2023: không áp dụng vì 32 tuổi. Ghi nhận nhỏ như TK-0266: QĐ 5643 nghỉ yên trong cơn cấp, GRACE-3/TL-0451 tập sớm; hai giai đoạn khác nhau.",
+  "Thiết kế: 'không đỡ' dựng bằng hồi phục chậm bình thường cộng BPPV ống sau hậu viêm (Bárány AUVP mục 4.1) và ngã; BPPV loại trừ đúng ở lượt 1 rồi xuất hiện ở lượt 2. Steroid: ca chọn 'không dùng' (chấm a). Dix–Hallpike lượt 1 k:0, lượt 2 k:1.",
+  "Không có mục danh mục mới. CT, MRI bị khóa tự động (thiếu X-quang, siêu âm). Không ảnh da. Tim dùng tệp bình thường (mạch 84, 88). Dix–Hallpike lượt 1 k:0, lượt 2 k:1."
+ ]
+}
