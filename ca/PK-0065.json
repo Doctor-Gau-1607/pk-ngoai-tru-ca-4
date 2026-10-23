@@ -1,0 +1,811 @@
+{
+ "ma_ca": "PK-0065",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-10-23",
+ "benh": "PK_roi_loan_kinh_nguyet_tien_man_kinh",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Rối loạn kinh nguyệt",
+  "chan_doan_phai_loai_tru": [
+   "Có thai",
+   "Bệnh tuyến giáp",
+   "PCOS",
+   "U xơ"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Nhân viên bán thuốc",
+  "yeu_to_khoi_phat": "Sau gắng sức nặng",
+  "thuoc_dang_dung": "Thuốc ho thảo dược",
+  "ly_do_that_su_den_kham": "Sợ mắc lao",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Thị Thu Hà",
+  "tuoi": 47,
+  "gioi": "Nữ",
+  "nghe": "Nhân viên bán thuốc tại một nhà thuốc tư; đứng quầy cả ngày, hay khiêng thùng hàng khi nhập thuốc",
+  "can_nang": 54,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi chị là 'chị Hà'. Chị tự xưng 'chị', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhẹn, nói chuyện lưu loát vì quen tư vấn thuốc cho khách; tự tra mạng và hay tự chẩn đoán ('chắc em bị động tử cung do khiêng hàng'). Đã ly hôn bốn năm, sống cùng con gái 17 tuổi; ngại bị đánh giá chuyện riêng tư và sợ đồng nghiệp biết mình đi khám phụ khoa.",
+  "kieu_nhieu": "Giấu tiền sử: khi bị hỏi chung chung ('có bệnh gì khác không', 'có chồng không', 'có tiếp xúc ai bệnh không') thì trả lời 'không có gì đâu bác sĩ'. Hai mảnh bị giấu: (1) bạn trai mới hai tháng nay, thường không dùng bao cao su; (2) đồng nghiệp cùng quầy vừa được chẩn đoán lao phổi và chị đang ho ba tuần. Chị chỉ kể khi bác sĩ hỏi riêng tư, cụ thể, giọng không phán xét và giải thích vì sao cần biết; hoặc khi được hỏi điều gì làm chị lo nhất.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a679",
+   "toc": "#20150f",
+   "kieuToc": "ngan",
+   "ao": "#8a6f9e",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Kinh nguyệt thất thường mấy tháng nay, kỳ này ra máu 12 ngày chưa dứt",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 47 tuổi, nhân viên bán thuốc, đến khám vì kinh nguyệt thất thường vài tháng nay, kỳ này ra máu đã 12 ngày vẫn chưa dứt. Chị đi một mình. Sinh hiệu lúc tiếp đón: HA 112/70 mmHg, mạch 90 l/p, nhiệt 36,9 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Chị Hà chỉ được dặn 'chờ xem, sắp mãn kinh thì kinh loạn là bình thường', không có thuốc và không có xét nghiệm. Ra máu bất thường ở tuổi tiền mãn kinh cần được đánh giá chứ không chỉ chờ (QĐ 315/2015, Rong kinh rong huyết tiền mãn kinh mục 2.4.2: phải loại trừ nguyên nhân ác tính), và công thức máu phải làm cho mọi người ra máu nhiều (NICE NG88 2018, mục 1.2.6). Chị tiếp tục ra máu, thiếu máu nặng dần, vẫn ho mà chưa ai hỏi tới nên nỗi sợ lao không được giải tỏa.",
+    "nhap_vien": "Chị Hà bị giữ lại nhập viện để cầm máu dù huyết động ổn định (HA 112/70, mạch 90) và Hb chỉ giảm nhẹ; rong huyết cơ năng tiền mãn kinh điều trị ngoại trú bằng progestin được (QĐ 315/2015, Rong kinh rong huyết mục 3.2.2 và Bảng 1). Chị nghỉ việc cả tuần, tốn viện phí, đồng nghiệp biết chuyện riêng, còn nỗi lo thật (ho, tiếp xúc người bệnh lao) vẫn chưa được hỏi.",
+    "cap_cuu": "Chị Hà bị chuyển cấp cứu vì 'ra máu âm đạo'. Chị tỉnh, HA 112/70 mmHg, mạch 90 l/p, không choáng, không đau bụng dữ dội nên không có chỉ định cấp cứu; FIGO 2018 chỉ gọi là chảy máu cấp khi lượng máu đủ nhiều để cần can thiệp ngay (FIGO 2018, mục 2). Chị mất nửa ngày ở phòng cấp cứu, tốn kém, rồi vẫn được cho về với đúng loại thuốc mà phòng khám có thể kê.",
+    "chuyen_tuyen": "Chị Hà được gửi thẳng lên bệnh viện sản để soi buồng tử cung và sinh thiết nội mạc ngay lần đầu. Chị chưa có bằng chứng nguy cơ cao nội mạc hay tổn thương cấu trúc (nội mạc dày 9 mm đều, tử cung bình thường, không béo phì, không tiền sử gia đình), nên được phép điều trị thuốc trước (NICE NG88 2018, mục 1.3.1; FIGO 2018, Hình 6B). Chị mất ngày công, chịu thủ thuật sớm, trong khi ca này chưa dùng thử thuốc nên chưa tới mức 'điều trị không kết quả' (NICE NG88 2018, mục 1.3.10)."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy tháng nay kinh nguyệt của tôi loạn lắm, lúc ra sớm lúc ra muộn. Kỳ này ra máu hơn mười ngày rồi chưa hết, chắc tại hôm trước khiêng thùng hàng nặng nên động tử cung. Bác sĩ cho tôi thuốc cầm máu là được.",
+   "sinh_hieu": {
+    "mach": 90,
+    "ha": "112/70",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi khám vì kinh nguyệt loạn mấy tháng nay; kỳ này bắt đầu 12 ngày trước và chưa dứt. Chị nghĩ do khiêng thùng thuốc nặng nên 'động tử cung'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và quan niệm của người bệnh"
+    },
+    {
+     "id": "chu_ky",
+     "noi_dung": "Trước đây kinh đều 28–30 ngày, 5 ngày, lượng vừa, không đau; đều như vậy đến hết năm ngoái. Từ khoảng ba tháng nay chu kỳ lúc 19 ngày, lúc 52 ngày; kỳ này cách kỳ trước 47 ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mô hình chu kỳ: trước đó đều, nay thất thường (rối loạn phóng noãn)"
+    },
+    {
+     "id": "luong",
+     "noi_dung": "Kỳ này 4 ngày đầu ra rỉ, từ ngày thứ 5 ra nhiều hơn, thấm 5–6 miếng/ngày, có vài cục nhỏ bằng đồng xu. Mấy hôm nay chóng mặt khi đứng dậy nhanh, mệt hơn. Không đau bụng dưới nhiều, không ra máu sau quan hệ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng, thời gian ra máu; triệu chứng thiếu máu"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Hai tuần trước chị khiêng nhiều thùng thuốc nhập hàng, hôm sau thấy máu ra nhiều hơn nên cho rằng 'động tử cung'. Thực ra máu đã rỉ từ trước khi khiêng hàng. Không té ngã, không đau bụng khi khiêng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát (gắng sức) không phải nguyên nhân; thời điểm bắt đầu ra máu có trước",
+     "nhieu": 1
+    },
+    {
+     "id": "bung_bua",
+     "noi_dung": "Bốn tháng nay hay nóng bừng mặt, ban đêm ra mồ hôi ướt áo hai ba lần, tỉnh giấc giữa đêm. Chị tưởng đó là 'đổ mồ hôi trộm' của bệnh lao. Không hồi hộp, không run tay, không sụt cân, không sợ nóng kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiền mãn kinh (bốc hỏa, mồ hôi đêm) và sàng lọc triệu chứng giáp"
+    },
+    {
+     "id": "san_phu",
+     "noi_dung": "Hai lần sinh thường (con 20 và 17 tuổi), không sẩy thai, không nạo. Chưa từng làm Pap hay xét nghiệm HPV. Không đặt vòng, không dùng thuốc tránh thai. Không mổ vùng bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sản phụ khoa; tầm soát ung thư cổ tử cung"
+    },
+    {
+     "id": "quan_he",
+     "noi_dung": "Đã ly hôn bốn năm. Hai tháng nay có bạn trai, quan hệ 2–3 lần/tuần, phần lớn không dùng bao cao su; kỳ kinh đầu tiên sau khi quen anh ấy là kỳ cách 19 ngày. Chị không muốn đồng nghiệp hay con gái biết.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'chị có chồng chưa', 'có quan hệ không' thì chị đáp 'ly hôn rồi, không có gì đâu bác sĩ'. Chỉ kể khi bác sĩ hỏi riêng tư, nói rõ là hỏi để loại trừ có thai và nhiễm khuẩn lây qua đường tình dục, giọng không phán xét; hoặc khi hỏi về bao cao su, về người bạn tình hiện tại.",
+     "k": 1,
+     "y": "Tiền sử tình dục: nguy cơ có thai và bệnh lây qua đường tình dục"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan từng cơn khoảng ba tuần nay, bắt đầu sau một đợt cảm; sáng sớm ho nhiều hơn. Không ho ra máu, không khó thở, không đau ngực, không sốt rõ. Cân nặng vẫn 54 kg như cũ, ăn uống bình thường.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có triệu chứng nào khác không' thì chị đáp 'cũng không có gì'. Chỉ nói khi bác sĩ hỏi cụ thể về ho, sốt, khó thở, mồ hôi đêm, hoặc khi bác sĩ nghe thấy chị ho trong lúc khám.",
+     "k": 1,
+     "y": "Ho kéo dài trên 2 tuần: hỏi triệu chứng hô hấp"
+    },
+    {
+     "id": "tiep_xuc_lao",
+     "noi_dung": "Chị Lụa, đồng nghiệp ngồi cùng quầy với chị gần một năm, tuần trước được chẩn đoán lao phổi (soi đờm dương tính) và đã nghỉ làm đi điều trị. Quầy thuốc nhỏ, hai người ngồi sát nhau, ít khi mở cửa.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi về người quanh mình có ho kéo dài, có bệnh lao, hoặc khi hỏi điều gì làm chị lo nhất.",
+     "k": 1,
+     "y": "Tiếp xúc gần với ca lao phổi AFB dương tính"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật chị đi khám hôm nay: chị sợ mình bị lao vì ho ba tuần, ra mồ hôi đêm, lại ngồi cạnh chị Lụa; chị cũng sợ máu kinh ra như vậy là 'lao lan xuống tử cung'. Chị tự mua siro ho thảo dược về uống, nhưng càng đọc mạng càng lo, nên mượn chuyện kinh nguyệt để đi khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm chị lo nhất, chị nghĩ mình bị bệnh gì, hoặc vì sao hôm nay chị quyết định đi khám.",
+     "k": 1,
+     "y": "Động cơ thật: sợ mắc lao"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Đang uống siro ho thảo dược mua ở quầy, nhãn ghi chiết xuất cao thảo dược, không ghi hàm lượng từng vị; uống ba lần/ngày khoảng hai tuần nay, ho đỡ ít. Không dùng thuốc nội tiết, thuốc tránh thai, thuốc giảm đau chống viêm, aspirin hay thuốc kháng đông. Không uống thuốc nam, ngải cứu hay ích mẫu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng, kể cả thuốc tự mua và thuốc thảo dược"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không đái tháo đường, không bệnh tuyến giáp, không bệnh gan thận. Không từng chảy máu kéo dài sau nhổ răng hay sinh nở, không hay chảy máu cam, không bầm tím dễ. Kinh nguyệt từ thời trẻ không bao giờ ra nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc rối loạn đông máu bằng bệnh sử và bệnh nội khoa kèm theo"
+    },
+    {
+     "id": "androgen",
+     "noi_dung": "Không mọc lông râu, không nổi mụn trứng cá, không rụng tóc từng mảng. Cân nặng nhiều năm nay ổn định. Hai lần sinh con đều có thai tự nhiên sau vài tháng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu cường androgen, không tiền sử vô sinh hay kinh thưa từ trẻ (loại trừ PCOS)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ bị cao huyết áp. Không ai trong gia đình ruột thịt bị ung thư vú, buồng trứng, nội mạc tử cung hay đại tràng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình ung thư (yếu tố nguy cơ nội mạc)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, ho nhẹ vài tiếng khi nói chuyện. Cân nặng 54 kg, cao 156 cm, BMI 22,2. Niêm mạc mắt hồng nhạt, lòng bàn tay nhạt nhẹ. Không rậm lông, không mụn trứng cá, không da dầu.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân. Hạch cổ, hạch thượng đòn không sờ thấy. Tĩnh mạch cổ không nổi.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 90 l/p, T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 90 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran, không tiếng thở phế quản.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, di động đều hai bên, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối, không gan lách to. Hố chậu hai bên không đau.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "HA nằm 112/70, mạch 90; sau 1 phút đứng HA 106/68, mạch 98. Hơi choáng nhẹ nhưng chưa đủ tiêu chuẩn hạ huyết áp tư thế.",
+     "k": 0
+    },
+    "phu_khoa": {
+     "a": "Âm hộ, âm đạo bình thường, không viêm, không khí hư mủ. Mỏ vịt: máu đỏ sẫm ít chảy ra từ lỗ cổ tử cung; cổ tử cung trơn láng, không polyp thò ra, không loét, không dễ chảy máu khi chạm. Khám hai tay: tử cung ngả trước, kích thước gần bình thường, mật độ chắc, di động, không đau; phần phụ hai bên không khối, không đau; lắc cổ tử cung không đau.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "e",
+     "r": "Que thử thai nước tiểu (điều dưỡng Linh làm tại giường): ÂM TÍNH.",
+     "n": "Phụ nữ còn khả năng sinh sản ra máu bất thường phải loại trừ thai trước hết (FIGO 2018, mục 6.1; QĐ 315/2015, Rong kinh rong huyết mục 2.2), nhất là khi người bệnh chưa nói thật về đời sống tình dục."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 104 g/L · MCV 78,6 fL · BC 6,8 G/L · TC 380 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 62.0,
+      "neu": 4.22,
+      "lym_pct": 29.0,
+      "lym": 1.97,
+      "mono_pct": 6.0,
+      "mono": 0.41,
+      "eos_pct": 2.0,
+      "eos": 0.14,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 4.2,
+      "hgb": 104,
+      "hct": 0.33,
+      "mcv": 78.6,
+      "mch": 24.8,
+      "mchc": 315,
+      "rdw": 15.2,
+      "plt": 380
+     },
+     "n": "Thiếu máu nhẹ, hồng cầu nhỏ nhược sắc, gợi ý thiếu sắt do mất máu: Hb 90–120 g/L là thiếu máu nhẹ (QĐ 1832/2022, Thiếu máu mục 2.1a). Công thức máu cho mọi người ra máu nhiều (NICE NG88 2018, mục 1.2.6; FIGO 2018, mục 6.1)."
+    },
+    "sa_chau": {
+     "v": "e",
+     "r": "Siêu âm đầu dò âm đạo: tử cung ngả trước 80 × 46 × 38 mm, cơ tử cung đồng nhất, không u xơ, không dấu adenomyosis. Nội mạc dày 9 mm, đều, không polyp. Buồng trứng phải 24 × 15 mm, trái 22 × 14 mm, vài nang nhỏ, không u. Không dịch túi cùng, không túi thai.",
+     "n": "Siêu âm đầu dò âm đạo nên làm sớm để tìm polyp, u xơ (FIGO 2018, mục 6.5; QĐ 315/2015, Rong kinh rong huyết mục 2.2) và cho độ dày nội mạc khi chọn người cần lấy mẫu (FIGO 2018, mục 6.4). Ngưỡng độ dày nội mạc để sinh thiết: không có trong tài liệu đã tải."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,9 mIU/L · FT4 trong giới hạn bình thường.",
+     "n": "NICE NG88 2018 mục 1.2.10: không làm xét nghiệm giáp trừ khi có dấu hiệu bệnh giáp; QĐ 315/2015, Rong kinh rong huyết mục 2.1 yêu cầu chú ý dấu hiệu nhược giáp. Ca có bốc hỏa, mồ hôi đêm nên làm cũng hợp lý: làm hay không đều không trừ điểm."
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "r": "Ferritin 9 ng/mL · sắt huyết thanh 6 µmol/L · độ bão hòa transferrin 11%.",
+     "ab": 1,
+     "n": "Ferritin < 30 ng/mL và/hoặc bão hòa transferrin < 30% xác định thiếu sắt (QĐ 1832/2022, Thiếu máu thiếu sắt mục 4.1); FIGO 2018 mục 6.1 đề nghị đo ferritin, NICE NG88 2018 mục 1.2.8 đã bỏ. Chấp nhận, không bắt buộc (sổ mâu thuẫn, PK-0188)."
+    },
+    "cxr": {
+     "v": "e",
+     "r": "X-quang ngực thẳng: hai phế trường sáng đều, không thâm nhiễm, không hang, không tràn dịch màng phổi; rốn phổi không to, bóng tim bình thường.",
+     "n": "Ho kéo dài trên 2 tuần là triệu chứng nghi lao quan trọng nhất; X-quang là một tiêu chuẩn chẩn đoán (QĐ 162/2024, Phần II mục 1.1 Bảng 1 và mục 3.2.1b). Cơ sở không có CT nên dùng X-quang + vi sinh."
+    },
+    "xpert": {
+     "v": "e",
+     "r": "Đờm khạc buổi sáng (điều dưỡng Linh hướng dẫn): Xpert MTB/RIF Ultra không phát hiện M. tuberculosis; soi trực tiếp AFB âm tính.",
+     "n": "Người nghi lao phổi cần xét nghiệm vi sinh phát hiện vi khuẩn lao như soi AFB và xét nghiệm sinh học phân tử nhanh (QĐ 162/2024, Phần II mục 3.2.1c và 3.2.2). Âm tính một mẫu không thay được việc theo dõi nếu ho còn kéo dài."
+    },
+    "ct_nguc": {
+     "v": "u",
+     "r": "CT ngực (nếu có): nhu mô phổi bình thường, không nốt, không hạch trung thất.",
+     "thay_the": "cxr",
+     "n": "Cơ sở không có CT. X-quang bình thường và Xpert âm tính thì CT ngực không phải bước đầu (QĐ 162/2024, Phần II mục 3.2.1). Gọi CT ngực ở nơi không có CT là chưa đúng quy trình thay thế."
+    },
+    "naat_sti": {
+     "v": "u",
+     "r": "NAAT nước tiểu: Chlamydia trachomatis và Neisseria gonorrhoeae ÂM TÍNH.",
+     "n": "Có bạn tình mới không dùng bao cao su (QĐ 315/2015, Rong kinh rong huyết mục 2.1); Chlamydia nội mạc liên quan ra máu bất thường (FIGO 2018, mục 6.4). Chỉ làm đúng khi người bệnh đã kể về bạn tình mới."
+    },
+    "fsh_lh": {
+     "v": "a",
+     "r": "FSH 26 IU/L · LH 17 IU/L · estradiol 0,21 nmol/L (kết quả dao động, không dùng để chẩn đoán).",
+     "n": "QĐ 315/2015, Rong kinh rong huyết mục 2.2 liệt kê xét nghiệm nội tiết 'tùy tình huống'; NICE NG88 2018 mục 1.2.9 và NICE NG23 mục 1.3.1, 1.3.4 không làm thường quy ở tuổi ≥ 45. Ghi cả hai; làm hay không đều không trừ điểm."
+    },
+    "prl": {
+     "n": "Không tiết sữa, không đau đầu nhìn mờ; NICE NG88 2018 mục 1.2.9 không làm xét nghiệm nội tiết thường quy. Prolactin chỉ làm khi nghi tăng prolactin."
+    },
+    "androgen": {
+     "n": "Không rậm lông, mụn trứng cá, rụng tóc; chu kỳ đều nhiều chục năm và có thai tự nhiên, không đủ tiêu chuẩn nghi PCOS (International PCOS 2023, khuyến cáo 1.7.3: chẩn đoán PCOS sau mãn kinh khi có tiền sử kinh thưa kèm cường androgen tuổi 20–40)."
+    },
+    "inr": {
+     "n": "Bệnh sử âm tính (không chảy máu từ lúc có kinh đầu, không tiền sử gia đình): chưa có chỉ định sàng lọc rối loạn đông máu (NICE NG88 2018, mục 1.2.7; FIGO 2018, mục 6.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn kinh nguyệt tiền mãn kinh: chảy máu tử cung bất thường do rối loạn phóng noãn (AUB-O), kèm thiếu máu thiếu sắt nhẹ",
+     "ok": 1,
+     "n": "Kinh đều nhiều chục năm, 3 tháng nay chu kỳ 19–52 ngày (chu kỳ bình thường 24–38 ngày, dao động quá 7–9 ngày là bất thường: FIGO 2018, mục 3.1 và 6.2), ra máu 12 ngày (> 8 ngày: FIGO 2018, Bảng 1; > 7 ngày: QĐ 315/2015 mục 1), tuổi 47, bốc hỏa. Siêu âm không tổn thương cấu trúc, không dấu hiệu rối loạn đông máu: AUB-O (FIGO 2018, Hình 6B)."
+    },
+    {
+     "t": "Có thai",
+     "n": "Que thử thai âm tính. Chưa mãn kinh thì vẫn phải loại trừ thai dù kinh loạn (FIGO 2018, mục 6.1)."
+    },
+    {
+     "t": "Bệnh tuyến giáp (cường giáp, nhược giáp)",
+     "n": "Không hồi hộp, run, sụt cân; tuyến giáp không to; TSH 1,9 mIU/L bình thường (QĐ 315/2015, Rong kinh rong huyết mục 2.1; NICE NG88 2018, mục 1.2.10). Mồ hôi đêm do bốc hỏa."
+    },
+    {
+     "t": "Hội chứng buồng trứng đa nang (PCOS)",
+     "n": "Chu kỳ đều đến năm ngoái, hai lần có thai tự nhiên, không cường androgen, buồng trứng không đa nang: không đủ tiêu chuẩn (International PCOS 2023, khuyến cáo 1.1.1 và 1.7.3)."
+    },
+    {
+     "t": "U xơ tử cung",
+     "n": "Tử cung không to, mật độ đều, siêu âm cơ tử cung đồng nhất, không nhân (FIGO 2018, mục 6.5; QĐ 315/2015, U xơ tử cung)."
+    },
+    {
+     "t": "Polyp, tăng sản hoặc ung thư nội mạc tử cung",
+     "n": "Chưa loại hẳn: tuổi 47 là mốc cân nhắc lấy mẫu nội mạc (FIGO 2018, mục 6.4: thường từ 45 tuổi). Nội mạc 9 mm đều, BMI 22, không tiền sử gia đình: nguy cơ thấp nên điều trị thuốc trước, lấy mẫu khi thuốc không kết quả (NICE NG88 2018, mục 1.3.1, 1.3.10; QĐ 315/2015, mục 2.4.2)."
+    },
+    {
+     "t": "Rối loạn đông máu",
+     "n": "Bệnh sử có cấu trúc âm tính: không chảy máu từ lúc có kinh đầu, không chảy máu sau nhổ răng, không tiền sử gia đình (FIGO 2018, mục 6.3, Bảng 3; NICE NG88 2018, mục 1.2.7)."
+    },
+    {
+     "t": "Viêm nhiễm đường sinh dục, bệnh lây qua đường tình dục",
+     "n": "Cổ tử cung không viêm, không khí hư mủ, lắc cổ tử cung không đau, NAAT âm tính (FIGO 2018, mục 6.4)."
+    },
+    {
+     "t": "Lao phổi (ho ba tuần, tiếp xúc gần, mồ hôi đêm)",
+     "n": "Phải nghĩ tới vì ho > 2 tuần và tiếp xúc ca AFB dương tính (QĐ 162/2024, Phần II mục 1.1). X-quang bình thường, Xpert không phát hiện MTB, cân nặng ổn định; mồ hôi đêm là bốc hỏa (NICE NG23 mục 1.3.1). Theo dõi nếu ho kéo dài."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cầm máu và điều hòa nội mạc bằng progestogen uống chu kỳ (ví dụ medroxyprogesterone 10 mg/ngày × 10 ngày) hoặc thuốc không nội tiết (tranexamic acid 250–500 mg × 3 lần/ngày đến khi ngừng ra máu, hoặc NSAID)",
+     "v": "c",
+     "n": "QĐ 315/2015, Rong kinh rong huyết Bảng 1 (tiền mãn kinh: medroxyprogesterone 10 mg/ngày × 10 ngày/tháng) và mục 3.2.2 (progestin 10 mg/ngày × 10 ngày từ ngày 16, 3 vòng liền); NICE NG88 2018, mục 1.5.3: tranexamic acid, NSAID, thuốc tránh thai kết hợp hoặc progestogen uống chu kỳ. Liều tranexamic: QĐ 456/2026 (u xơ) mục VIII: 250 hoặc 500 mg × 3 lần/ngày, tối đa 750–2.000 mg/24 giờ. Khác bối cảnh: ghi cả hai."
+    },
+    {
+     "t": "Bổ sung sắt uống, kèm điều trị nguyên nhân mất máu",
+     "v": "c",
+     "n": "QĐ 1832/2022, Thiếu máu mục 4.2.1a: sắt (II) sulfat + acid folic (50 mg sắt/viên) 2–4 viên/ngày (100–200 mg/ngày), 3–6 tháng; Thiếu máu thiếu sắt mục 5.1: tiếp tục thêm 3 tháng sau khi Hb bình thường; mục 5.2: 2 mg sắt/kg/ngày (54 kg ≈ 108 mg/ngày) uống lúc đói hoặc cùng bữa nếu kích ứng dạ dày. Cả hai mức đều gồm liều 100 mg/ngày."
+    },
+    {
+     "t": "Hoàn tất loại trừ lao: X-quang ngực + xét nghiệm đờm (Xpert hoặc AFB), tái khám nếu ho còn kéo dài",
+     "v": "c",
+     "n": "QĐ 162/2024, Phần II mục 1.1 Bảng 1, mục 3.2.1, 3.2.2."
+    },
+    {
+     "t": "Hỏi riêng tư về quan hệ tình dục, loại trừ thai và bệnh lây qua đường tình dục, tư vấn tránh thai",
+     "v": "c",
+     "n": "QĐ 315/2015, Rong kinh rong huyết mục 2.1 (tiền sử tình dục xác định nguy cơ bệnh lây qua đường tình dục); NICE NG23 mục 1.2.3 (cung cấp thông tin tránh thai cho người có triệu chứng mãn kinh). Khả năng thụ thai và hiệu quả từng biện pháp tránh thai ở tuổi tiền mãn kinh: không có trong tài liệu đã tải (ESE 2025 chỉ nêu khả năng thụ thai nhỏ ở suy buồng trứng sớm)."
+    },
+    {
+     "t": "Hoãn tầm soát ung thư cổ tử cung (Pap/HPV) đến khi hết ra máu, sau đó làm; lịch HPV mỗi 5 năm",
+     "v": "c",
+     "n": "QĐ 3792/2024, Xét nghiệm HPV mục 3.1.2: phụ nữ 25–65 tuổi đã quan hệ tình dục, ưu tiên 30–49; điều kiện không ra máu âm đạo; chu kỳ 5 năm nếu dùng HPV DNA/mRNA nguy cơ cao."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần, đánh giá chu kỳ, Hb, tuân thủ thuốc; dặn quay lại sớm nếu ra máu nhiều hơn, chóng mặt, ngất",
+     "v": "c",
+     "n": "Mốc ra máu sau liều progestin cuối 2–7 ngày (QĐ 315/2015, Bảng 1). Thời điểm tái khám 4 tuần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển tuyến sản ngay để soi buồng tử cung và sinh thiết",
+     "v": "a",
+     "n": "Không sai về an toàn (FIGO 2018, mục 6.4: lấy mẫu nội mạc cân nhắc từ 45 tuổi), nhưng khi nguy cơ thấp NICE NG88 2018 mục 1.3.1 cho phép điều trị thuốc trước. Chấp nhận như hướng thay thế, không phải đáp án."
+    },
+    {
+     "t": "Nạo hoặc sinh thiết 'mù' nội mạc tử cung ngay tại phòng khám",
+     "v": "w",
+     "n": "NICE NG88 2018 mục 1.3.11: không sinh thiết mù, chỉ lấy mẫu khi soi buồng tử cung (QĐ 315/2015 mục 3.2.2 coi nạo là điều trị tốt); phòng khám không có điều kiện thủ thuật."
+    },
+    {
+     "t": "Cắt tử cung ngay vì ra máu ở tuổi gần mãn kinh",
+     "v": "w",
+     "n": "NICE NG88 2018, mục 1.5.6: chỉ xét phẫu thuật sau khi điều trị thuốc không kết quả và đã chẩn đoán nguyên nhân; QĐ 315/2015 mục 3.2.3 chỉ xét khi thuốc không hiệu quả."
+    },
+    {
+     "t": "Xét nghiệm TSH, FT4; FSH, LH, estradiol",
+     "v": "a",
+     "n": "Xem ghi chú ở cận lâm sàng (NICE NG88 2018, mục 1.2.9, 1.2.10; QĐ 315/2015, mục 2.1, 2.2)."
+    },
+    {
+     "t": "Cho kháng sinh phổ rộng hoặc thuốc chống lao thử; truyền máu hoặc estrogen tiêm liều cao",
+     "v": "w",
+     "n": "Không có nhiễm khuẩn, Xpert không phát hiện MTB (QĐ 162/2024, Phần II mục 3.2.2); Hb 104 g/L, huyết động ổn định (QĐ 1832/2022, Thiếu máu mục 4.1: duy trì Hb tối thiểu 80 g/L); estrogen liều cao dành cho ra máu cấp (QĐ 315/2015, Bảng 1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chảy máu tử cung bất thường do rối loạn phóng noãn (AUB-O), giai đoạn tiền mãn kinh, ra máu kéo dài 12 ngày",
+     "Thiếu máu hồng cầu nhỏ nhược sắc nhẹ do thiếu sắt (Hb 104 g/L, ferritin 9 ng/mL)",
+     "Đã loại trừ: có thai, bệnh tuyến giáp, PCOS, u xơ tử cung, rối loạn đông máu, nhiễm khuẩn đường sinh dục; chưa loại hẳn polyp/tăng sản nội mạc",
+     "Ho kéo dài sau nhiễm, X-quang và Xpert âm tính; lý do thật đến khám là sợ mắc lao",
+     "Yếu tố nhiễu: khiêng hàng nặng không phải nguyên nhân; thuốc ho thảo dược không giải thích được chảy máu (thành phần không rõ)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: mô hình chu kỳ trước và sau; lượng và thời gian ra máu; triệu chứng thiếu máu; tiền sử sản phụ khoa và tình dục (hỏi riêng tư, không phán xét); bốc hỏa, mồ hôi đêm; tiền sử đông máu; thuốc kể cả thuốc ho thảo dược; điều gì làm chị lo nhất. Người giấu tiền sử chỉ mở lời khi được hỏi cụ thể và an toàn.",
+     "Khám: dấu thiếu máu, tuyến giáp, hạch cổ, phổi, bụng, phụ khoa bằng mỏ vịt và hai tay (QĐ 315/2015, Rong kinh rong huyết mục 2.1). Cận lâm sàng: thử thai trước hết (FIGO 2018, mục 6.1); công thức máu (NICE NG88 2018, mục 1.2.6); siêu âm đầu dò âm đạo (FIGO 2018, mục 6.5); X-quang ngực và Xpert đờm vì ho (QĐ 162/2024, Phần II mục 3.2.1, 3.2.2). Không có CT: dùng X-quang + vi sinh.",
+     "Phân loại FIGO: chu kỳ 24–38 ngày bình thường, dao động quá 7–9 ngày hoặc ra máu > 8 ngày là bất thường (FIGO 2018, mục 3.1, 6.2, Bảng 1); QĐ 315/2015 mục 1 ghi > 7 ngày: ca có 12 ngày thỏa cả hai. Bệnh sử đông máu âm tính, siêu âm không polyp/u xơ/adenomyosis: AUB-O (FIGO 2018, Hình 6B).",
+     "Vì sao chưa phải ung thư nội mạc: nguy cơ thấp nên điều trị thuốc trước, lấy mẫu qua soi khi thuốc không kết quả (NICE NG88 2018, mục 1.3.1, 1.3.10; FIGO 2018, mục 6.4). Vì sao ho chưa phải lao: khởi phát sau cảm, X-quang bình thường, Xpert âm tính, cân nặng ổn định (QĐ 162/2024, Phần II mục 3.2.1); mồ hôi đêm là bốc hỏa (NICE NG23 mục 1.3.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Progestogen uống chu kỳ (QĐ 315/2015, Bảng 1 và mục 3.2.2; NICE NG88 2018, mục 1.5.3) hoặc tranexamic acid, NSAID (NICE NG88 2018, mục 1.5.3). Ca chọn medroxyprogesterone vì đã có nguồn liều. Bổ sung sắt vì Hb 104, ferritin 9 (QĐ 1832/2022, Thiếu máu mục 4.2.1a; Thiếu máu thiếu sắt mục 4.1, 5.1).",
+     "LNG-IUS là đầu tay khi không có tổn thương (NICE NG88 2018, mục 1.5.2) nhưng chưa đặt trước khi loại trừ bệnh lý nội mạc ở người ≥ 45 tuổi ra máu dai dẳng. Mâu thuẫn nạo niêm mạc (QĐ 315/2015, mục 3.2.2) so với không sinh thiết mù (NICE NG88 2018, mục 1.3.11) chưa cần chọn ở lượt 1 vì chưa tới lúc lấy mẫu.",
+     "Tư vấn: ra máu không do khiêng hàng; giải tỏa nỗi sợ lao bằng kết quả X-quang và Xpert; nhắc tránh thai; hoãn Pap/HPV tới khi hết ra máu (QĐ 3792/2024, mục 3.1.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Medroxyprogesterone acetate",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn tối, cùng giờ mỗi ngày",
+      "so_ngay": "10 ngày; lặp lại từ ngày 16 của các chu kỳ sau nếu có kinh trở lại (tối đa 3 vòng theo QĐ 315/2015 mục 3.2.2)",
+      "ghi_chu": "QĐ 315/2015, Rong kinh rong huyết Bảng 1 (10 mg/ngày × 10 ngày/tháng; ra máu xuất hiện 2–7 ngày sau viên cuối) và mục 3.2.2. Dặn uống đủ 10 ngày; sau ngừng 2–7 ngày có máu bong niêm mạc là dự kiến. Thay thế bằng tranexamic acid 250–500 mg × 3 lần/ngày đến khi ngừng ra máu, tối đa 750–2.000 mg/24 giờ (QĐ 456/2026 mục VIII; NICE NG88 2018, mục 1.5.3): chỉ dùng một trong hai, phối hợp với progestin không có trong tài liệu đã tải. Chống chỉ định, tác dụng phụ: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Sắt (II) sulfat + acid folic",
+      "ham_luong": "50 mg sắt nguyên tố/viên",
+      "lieu": "2 viên/ngày (100 mg sắt)",
+      "duong": "Uống",
+      "thoi_diem": "Lúc đói; nếu khó chịu dạ dày thì uống trong bữa ăn; uống cùng nước cam hoặc vitamin C",
+      "so_ngay": "3–6 tháng, tiếp thêm 3 tháng sau khi Hb bình thường",
+      "ghi_chu": "QĐ 1832/2022, Thiếu máu mục 4.2.1a (100–200 mg/ngày, 2–4 viên 50 mg, 3–6 tháng); Thiếu máu thiếu sắt mục 5.1, 5.2 (2 mg/kg/ngày ≈ 108 mg cho 54 kg; thêm vitamin C; phân đen, táo bón không phải xuất huyết tiêu hóa)."
+     }
+    ],
+    "dan_do": [
+     "Máu ra không phải do khiêng hàng; nghỉ ngơi khi chóng mặt.",
+     "Uống đủ 10 ngày thuốc (QĐ 315/2015, Bảng 1), đừng bỏ giữa chừng vì lo 'thuốc nội tiết' hay buồn nôn; khó chịu thì nhắn lại cho bác sĩ.",
+     "Ghi lịch ra máu. Quay lại ngay nếu thấm quá 1 miếng/giờ trong 2 giờ (ngưỡng thực hành, không có trong tài liệu đã tải), chóng mặt muốn ngất, đau bụng dữ dội.",
+     "Ho còn sau 2 tuần, ho ra máu, sốt chiều hoặc sụt cân thì làm lại xét nghiệm đờm (QĐ 162/2024, Phần II mục 1.1). Nhắc chị Lụa điều trị đủ, mở cửa quầy cho thoáng.",
+     "Chưa mãn kinh nên vẫn có thể mang thai: dùng bao cao su mỗi lần quan hệ, cũng phòng bệnh lây qua đường tình dục.",
+     "Hết ra máu thì làm HPV/Pap (QĐ 3792/2024, mục 3.1.2); tái khám sau 4 tuần."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Tái khám sau 4 tuần. Chị Hà nói đã uống thuốc theo đơn nhưng máu chỉ ngưng được ba ngày rồi ra lại, đến nay vẫn rỉ rả và có hôm ra nhiều, tính ra gần bốn tuần ra máu gần như liên tục; chóng mặt, mệt hơn trước. Sinh hiệu lúc tiếp đón: HA 106/66 mmHg, mạch 98 l/p, nhiệt 36,8 °C, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Hà được đổi sang liều progestogen cao hơn hoặc thêm một vỉ thuốc nữa rồi hẹn bốn tuần sau. Chị đã ra máu gần bốn tuần, Hb đã tụt thêm và chưa có mẫu nội mạc: ra máu dai dẳng ở người 47 tuổi, chưa được điều trị đủ, thì phải lấy mẫu nội mạc, tốt nhất trong lúc soi buồng tử cung (FIGO 2018, mục 6.4; NICE NG88 2018, mục 1.3.10). Chị tiếp tục mất máu, thiếu máu nặng dần, và nếu có polyp hay tăng sản thì bệnh bị bỏ sót thêm một tháng.",
+    "nhap_vien": "Chị Hà nhập viện nội trú để truyền máu và cầm máu. Chị tỉnh, mạch 98 l/p, Hb 88 g/L, không choáng; chưa có chỉ định truyền máu (QĐ 1832/2022, Thiếu máu mục 4.1: duy trì Hb tối thiểu 80 g/L) và điều cần làm là soi buồng tử cung, sinh thiết, không phải nằm viện. Chị nghỉ việc dài ngày, tốn viện phí, phơi nhiễm thêm nguy cơ lây bệnh trong bệnh viện trong khi chưa có kế hoạch chẩn đoán.",
+    "cap_cuu": "Chị Hà bị chuyển cấp cứu vì 'băng huyết'. Ra máu của chị là rỉ kéo dài, không sốc, không đau bụng dữ dội nên không phải chảy máu cấp theo FIGO (FIGO 2018, mục 2). Chị bị truyền dịch, xét nghiệm lặp lại, có thể bị nạo cấp cứu khi chưa chuẩn bị, trong khi thứ chị cần là cuộc hẹn soi buồng tử cung có kế hoạch.",
+    "theo_doi": "Chị Hà chỉ được dặn uống sắt và theo dõi thêm vì 'sắp mãn kinh sẽ tự hết'. Đã ra máu gần bốn tuần, một lượt điều trị thuốc không đủ liều và Hb 88 g/L; ở tuổi 47, ra máu dai dẳng chưa giải thích được thì phải lấy mẫu nội mạc (FIGO 2018, mục 6.4). Chị thiếu máu vừa, kiệt sức, nỗi sợ ung thư mới nổi lên vì không ai giải thích, và dễ bỏ khám vì nghĩ bác sĩ không quan tâm."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi uống thuốc rồi mà máu vẫn ra, ngưng được mấy hôm lại ra. Người cứ choáng choáng, đứng lên là xây xẩm. Không biết thuốc này có hợp với tôi không.",
+   "sinh_hieu": {
+    "mach": 98,
+    "ha": "106/66",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám vì uống thuốc theo đơn nhưng máu vẫn ra gần bốn tuần, chóng mặt, mệt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Uống thuốc từ ngày được kê, ba ngày đầu máu ngưng hẳn; ngày thứ tư thôi thuốc thì máu ra lại, từ đó rỉ rả, có hôm thấm 4–5 miếng. Mệt, chóng mặt khi đứng lên, hồi hộp nhẹ. Không sốt, không đau bụng dưới, không khí hư hôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sau điều trị"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Chị chỉ uống medroxyprogesterone được 4 viên rồi bỏ, vì buồn nôn và vì chị Lụa nói 'thuốc nội tiết gây ung thư vú'. Viên sắt uống được một tuần rồi bỏ vì táo bón và sợ phân đen là chảy máu dạ dày. Chị không dám nói thật ở lượt đầu vì ngại bị bác sĩ trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'chị uống thuốc đủ chưa' thì chị đáp 'uống rồi bác sĩ'. Chỉ thừa nhận khi bác sĩ hỏi cụ thể từng thuốc, hỏi còn mấy viên trong vỉ, hoặc hỏi có tác dụng phụ gì khiến chị khó uống không.",
+     "k": 1,
+     "y": "Tuân thủ điều trị: chỉ 4/10 viên progestogen, bỏ sắt"
+    },
+    {
+     "id": "quan_he",
+     "noi_dung": "Vẫn quan hệ với bạn trai 2 lần/tuần, trước khi ra máu lại có một lần không dùng bao cao su. Chị nghĩ 'đang ra máu thì không thể có thai'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi lại về quan hệ gần đây và bao cao su, giải thích rằng ra máu không loại trừ có thai.",
+     "k": 1,
+     "y": "Nguy cơ có thai khi người bệnh nghĩ ra máu thì không có thai"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho giảm nhiều, chỉ còn ho ít buổi sáng; không sốt, không ra máu, ăn uống bình thường. Chị Lụa đang uống thuốc lao được ba tuần. Chị vẫn hơi lo nhưng đỡ khi biết kết quả xét nghiệm đờm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Theo dõi ho kéo dài sau lượt 1"
+    },
+    {
+     "id": "dau_hieu",
+     "noi_dung": "Không đau bụng dưới, không chướng bụng, không sụt cân đáng kể, không ra máu qua hậu môn hay nước tiểu, không ra máu sau quan hệ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu cảnh báo bệnh lý ác tính hay nguồn chảy máu khác"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Đã ngưng siro ho thảo dược từ tuần trước. Ngoài thuốc được kê, không dùng thêm thuốc nào, không thuốc nam hay thuốc đông y cầm máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng và thuốc tự mua"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt. Niêm mạc mắt và lòng bàn tay nhợt rõ hơn lượt trước. Cân nặng 53,5 kg. Không phù, không vàng da.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "HA nằm 106/66, mạch 98; đứng 1 phút HA 94/60, mạch 112. Chóng mặt nhẹ khi đứng. Chưa đủ tiêu chuẩn hạ huyết áp tư thế nhưng mạch tăng 14 l/p, gợi ý mất máu mạn tính.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 98 l/p, T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 98 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "phu_khoa": {
+     "a": "Mỏ vịt: máu đỏ sẫm rỉ từ lỗ cổ tử cung, có ít cục nhỏ; cổ tử cung trơn láng, không loét, không polyp thò ra. Khám hai tay: tử cung ngả trước, kích thước gần bình thường, không đau; phần phụ không khối.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "e",
+     "r": "Que thử thai nước tiểu (điều dưỡng Linh làm tại giường): ÂM TÍNH.",
+     "n": "Lặp lại vì ở lượt này người bệnh mới thừa nhận còn quan hệ không dùng bao cao su; ra máu không loại trừ thai (FIGO 2018, mục 6.1)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 88 g/L · MCV 74 fL · BC 7,2 G/L · TC 430 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 61.0,
+      "neu": 4.39,
+      "lym_pct": 30.0,
+      "lym": 2.16,
+      "mono_pct": 6.0,
+      "mono": 0.43,
+      "eos_pct": 2.0,
+      "eos": 0.14,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 3.9,
+      "hgb": 88,
+      "hct": 0.29,
+      "mcv": 74.0,
+      "mch": 22.6,
+      "mchc": 303,
+      "rdw": 17.1,
+      "plt": 430
+     },
+     "n": "Hb giảm từ 104 xuống 88 g/L: thiếu máu vừa (Hb 60 đến dưới 90 g/L, QĐ 1832/2022, Thiếu máu mục 2.1a), hồng cầu nhỏ nhược sắc. Công thức máu cho mọi người ra máu nhiều (NICE NG88 2018, mục 1.2.6)."
+    },
+    "naat_sti": {
+     "v": "u",
+     "r": "NAAT nước tiểu: Chlamydia trachomatis và Neisseria gonorrhoeae ÂM TÍNH.",
+     "n": "Ra máu dai dẳng ở người có bạn tình mới: loại trừ nhiễm Chlamydia nội mạc (FIGO 2018, mục 6.4; QĐ 315/2015, Rong kinh rong huyết mục 2.1). Nếu lượt 1 đã làm thì không cần làm lại."
+    },
+    "sa_chau": {
+     "v": "u",
+     "r": "Siêu âm đầu dò âm đạo: tử cung 82 × 47 × 39 mm, cơ tử cung đồng nhất, không u xơ. Nội mạc dày 12 mm, đều, một vùng tăng âm nhẹ ở đáy chưa loại trừ được polyp nhỏ. Hai buồng trứng bình thường. Không dịch túi cùng.",
+     "n": "Nội mạc dày lên so với 9 mm ở lượt 1 và còn nghi ngờ polyp: siêu âm không 100% nhạy ngay cả khi tốt, polyp nhỏ có thể bị bỏ sót (FIGO 2018, mục 6.5). Làm lại là hợp lý, nhưng đáp án vẫn là soi buồng tử cung và lấy mẫu (NICE NG88 2018, mục 1.3.4, 1.3.10). Ngưỡng độ dày nội mạc: không có trong tài liệu đã tải."
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "r": "Ferritin 7 ng/mL · độ bão hòa transferrin 9%.",
+     "ab": 1,
+     "n": "Thiếu sắt nặng hơn lượt 1 (QĐ 1832/2022, Thiếu máu thiếu sắt mục 4.1). Chấp nhận, không bắt buộc (NICE NG88 2018 mục 1.2.8 đã bỏ)."
+    },
+    "inr": {
+     "v": "a",
+     "r": "PT/INR bình thường (INR 1,0).",
+     "n": "Bệnh sử âm tính nên không bắt buộc (NICE NG88 2018, mục 1.2.7; FIGO 2018, mục 6.3); QĐ 1832/2022, Thiếu máu thiếu sắt mục 3.2 liệt kê đông máu khi chảy máu bất thường. Chấp nhận (sổ mâu thuẫn, PK-0188)."
+    },
+    "tsh": {
+     "n": "Đã có TSH bình thường ở lượt 1; không cần làm lại."
+    },
+    "cxr": {
+     "n": "Đã chụp X-quang bình thường ở lượt 1, ho đang giảm: không cần chụp lại."
+    },
+    "xpert": {
+     "n": "Đã có Xpert không phát hiện MTB ở lượt 1, ho giảm dần: không cần làm lại; chỉ làm lại nếu ho kéo dài hoặc có dấu mới (QĐ 162/2024, Phần II mục 1.1)."
+    },
+    "fsh_lh": {
+     "n": "Không đổi quyết định điều trị (NICE NG88 2018, mục 1.2.9)."
+    },
+    "ct_bung": {
+     "n": "Không có chỉ định, cơ sở không có CT; đánh giá tử cung bằng siêu âm đầu dò âm đạo và soi buồng tử cung (FIGO 2018, mục 6.5)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ra máu tử cung bất thường kéo dài do rối loạn phóng noãn tiền mãn kinh (AUB-O) chưa được điều trị đủ vì bỏ thuốc; thiếu máu thiếu sắt vừa (Hb 88 g/L); chưa loại trừ bệnh lý nội mạc (polyp, tăng sản)",
+     "ok": 1,
+     "n": "Không đỡ vì tuân thủ kém (4/10 viên progestogen, bỏ sắt), không phải kháng thuốc. Ra máu dai dẳng chưa giải thích hoặc điều trị chưa đủ thì phải lấy mẫu nội mạc, tốt nhất cùng soi buồng tử cung (FIGO 2018, mục 6.4; NICE NG88 2018, mục 1.3.10; QĐ 315/2015, mục 2.4.2)."
+    },
+    {
+     "t": "Thất bại điều trị do kháng progestogen thật sự",
+     "n": "Mới dùng 4 viên, không đủ liều để kết luận thất bại thuốc; ba ngày đầu máu đã ngưng, bong lại khi ngừng thuốc (QĐ 315/2015, Bảng 1: ra máu xuất hiện sau viên cuối)."
+    },
+    {
+     "t": "Có thai (kể cả thai ngoài tử cung)",
+     "n": "Que thử thai âm tính; nhắc lại vì chị vừa thừa nhận quan hệ không an toàn (FIGO 2018, mục 6.1)."
+    },
+    {
+     "t": "Rối loạn đông máu",
+     "n": "Bệnh sử âm tính, PT/INR bình thường (FIGO 2018, mục 6.3). Giáp, PCOS, u xơ đã loại trừ ở lượt 1."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Ho giảm dần, X-quang bình thường và Xpert âm tính (QĐ 162/2024, Phần II mục 3.2.1, 3.2.2); chỉ theo dõi."
+    },
+    {
+     "t": "Nhiễm khuẩn nội mạc, bệnh lây qua đường tình dục",
+     "n": "NAAT âm tính, không sốt, không đau bụng (FIGO 2018, mục 6.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến sản phụ khoa để soi buồng tử cung và lấy mẫu nội mạc (sinh thiết qua soi, hoặc nạo niêm mạc tử cung tại bệnh viện)",
+     "v": "c",
+     "n": "NICE NG88 2018, mục 1.3.10 (sinh thiết khi soi cho người ra máu dai dẳng và điều trị chưa thành công), 1.3.11 (không sinh thiết mù), 1.5.6 (điều trị không kết quả: chuyển chuyên khoa); FIGO 2018, mục 6.4 (ra máu dai dẳng chưa giải thích hoặc điều trị chưa đủ: phải lấy mẫu nội mạc, không đủ mẫu thì soi buồng và sinh thiết); QĐ 315/2015 mục 3.2.2 (nạo niêm mạc là điều trị triệu chứng tốt nhất ở tiền mãn kinh) và mục 3.2 (điều trị ở tuyến huyện trở lên). Mâu thuẫn kỹ thuật nạo/sinh thiết so với soi buồng rồi sinh thiết: ghi cả hai, một mục c."
+    },
+    {
+     "t": "Khai thác lại tuân thủ một cách không phán xét (đếm vỉ thuốc, hỏi tác dụng phụ), giải thích về nỗi lo thuốc nội tiết",
+     "v": "c",
+     "n": "Nguyên nhân không đỡ cần tìm trước khi gọi là thất bại điều trị; QĐ 315/2015 mục 3.2.2 và Bảng 1 là liều chuẩn đã dùng ở lượt 1. Tác dụng phụ của medroxyprogesterone và nguy cơ ung thư vú: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục sắt uống (đã bỏ thuốc nên kê lại, dặn xử trí táo bón, phân đen)",
+     "v": "c",
+     "n": "QĐ 1832/2022, Thiếu máu mục 4.2.1a (100–200 mg/ngày, 3–6 tháng); Thiếu máu thiếu sắt mục 5.1, 5.2 (phân đen, táo bón không phải xuất huyết tiêu hóa). Sắt tĩnh mạch chỉ khi thiếu máu thiếu sắt nặng/rất nặng hoặc không hấp thu được sắt uống (mục 5.1): chưa cần."
+    },
+    {
+     "t": "Cầm máu tạm trong lúc chờ soi: tranexamic acid hoặc NSAID",
+     "v": "c",
+     "n": "NICE NG88 2018, mục 1.5.9 (nêu trong bối cảnh u xơ ≥ 3 cm, chờ chẩn đoán/điều trị): tranexamic acid và/hoặc NSAID; mục 1.5.10: dùng chừng nào còn có ích. Liều tranexamic: QĐ 456/2026 mục VIII, 250 hoặc 500 mg × 3 lần/ngày, tối đa 750–2.000 mg/24 giờ. NSAID liều: không có trong tài liệu đã tải cho chỉ định này."
+    },
+    {
+     "t": "Thử thai lặp lại và hỏi lại tiền sử tình dục, tư vấn tránh thai",
+     "v": "c",
+     "n": "FIGO 2018, mục 6.1; QĐ 315/2015, Rong kinh rong huyết mục 2.1; NICE NG23 mục 1.2.3."
+    },
+    {
+     "t": "Hẹn tái khám sau soi (kết quả mô bệnh học) và hoàn tất tầm soát cổ tử cung khi hết ra máu",
+     "v": "c",
+     "n": "QĐ 3792/2024, Xét nghiệm HPV mục 3.1.2 (điều kiện không ra máu âm đạo; chu kỳ 5 năm với HPV). Sau khi loại trừ bệnh lý nội mạc: NICE NG88 2018, mục 1.5.2 xét LNG-IUS đầu tay khi không có tổn thương; nên chờ ít nhất 6 chu kỳ để thấy hiệu quả (mục 1.4.3)."
+    },
+    {
+     "t": "Đặt LNG-IUS ngay tại phòng khám",
+     "v": "w",
+     "n": "NICE NG88 2018, mục 1.5.2 đầu tay khi 'không có bệnh lý xác định'; ở người ≥ 45 tuổi ra máu dai dẳng chưa lấy mẫu nội mạc thì chưa loại trừ bệnh lý (mục 1.3.10); đặt khi chưa khám chuyên khoa và chưa có mô bệnh học là sớm."
+    },
+    {
+     "t": "Lặp lại đúng đơn cũ hoặc tăng liều progestogen rồi hẹn 4 tuần mà không lấy mẫu nội mạc",
+     "v": "w",
+     "n": "FIGO 2018, mục 6.4: ra máu dai dẳng điều trị chưa đủ phải lấy mẫu nội mạc; NICE NG88 2018, mục 1.3.10 (điều trị chưa thành công)."
+    },
+    {
+     "t": "Truyền máu ngay hoặc nhập viện nội trú",
+     "v": "w",
+     "n": "Hb 88 g/L, mạch 98, huyết động ổn định; chỉ truyền khi Hb dưới 80 g/L hoặc mất bù (QĐ 1832/2022, Thiếu máu mục 4.1; Thiếu máu thiếu sắt mục 5.1)."
+    },
+    {
+     "t": "Cắt tử cung ngay, kháng sinh phổ rộng hoặc thuốc chống lao thử",
+     "v": "w",
+     "n": "NICE NG88 2018, mục 1.5.6 (phẫu thuật sau khi đã chẩn đoán nguyên nhân); QĐ 315/2015 mục 3.2.3; không có bằng chứng nhiễm khuẩn hay lao (QĐ 162/2024, Phần II mục 3.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ra máu tử cung bất thường kéo dài do rối loạn phóng noãn tiền mãn kinh (AUB-O), điều trị chưa đủ do bỏ thuốc (4/10 viên progestogen)",
+     "Thiếu máu thiếu sắt vừa: Hb 88 g/L, ferritin 7 ng/mL",
+     "Chưa loại trừ polyp hoặc tăng sản nội mạc: nội mạc dày 12 mm, cần lấy mẫu qua soi buồng tử cung",
+     "Đã loại trừ: có thai, nhiễm khuẩn, rối loạn đông máu, bệnh giáp, PCOS, u xơ, lao phổi (theo dõi)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi diễn tiến sau thuốc → hỏi cụ thể từng thuốc đã uống (đếm vỉ) để lộ chuyện bỏ thuốc và nỗi sợ 'thuốc nội tiết gây ung thư vú' → hỏi lại quan hệ gần đây (ra máu không loại trừ thai) → khám dấu thiếu máu, huyết áp tư thế, khám phụ khoa → thử thai, công thức máu, siêu âm → kết luận.",
+     "Quy trình 'không đỡ': đúng chẩn đoán? đúng thuốc, đủ liều? có dùng thuốc? Chẩn đoán lượt 1 vẫn đúng, thuốc đúng, nhưng chị dùng 4/10 viên progestogen nên không kết luận thuốc thất bại. Tuy vậy ra máu gần bốn tuần, Hb 104 → 88 g/L, nội mạc dày lên, tuổi 47: đã tới mốc lấy mẫu nội mạc (FIGO 2018, mục 6.4; NICE NG88 2018, mục 1.3.10).",
+     "Thiếu máu vừa vì Hb 60 đến dưới 90 g/L (QĐ 1832/2022, Thiếu máu mục 2.1a); chưa truyền máu khi Hb ≥ 80 g/L và huyết động ổn định (mục 4.1). Không có CT: siêu âm đầu dò âm đạo (FIGO 2018, mục 6.5), rồi soi buồng tử cung và sinh thiết ở tuyến trên."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến sản phụ khoa vì ra máu dai dẳng ở người ≥ 45 tuổi, điều trị chưa thành công (NICE NG88 2018, mục 1.3.10, 1.5.6; FIGO 2018, mục 6.4); ghi cả hai kỹ thuật (QĐ 315/2015 so với NICE). Trong lúc chờ: sắt uống, tranexamic acid hoặc NSAID (NICE NG88 2018, mục 1.5.9, 1.5.10), không tăng liều progestogen vô căn cứ.",
+     "Sau mô bệnh học lành tính: LNG-IUS đầu tay khi không có tổn thương cấu trúc (NICE NG88 2018, mục 1.5.2) hoặc progestin chu kỳ 3 vòng (QĐ 315/2015, mục 3.2.2). Sai: truyền máu/nhập viện khi Hb ≥ 80 g/L (QĐ 1832/2022, Thiếu máu mục 4.1); cắt tử cung khi chưa có mô bệnh học; đặt LNG-IUS khi chưa lấy mẫu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sắt (II) sulfat + acid folic",
+      "ham_luong": "50 mg sắt nguyên tố/viên",
+      "lieu": "2 viên/ngày (100 mg sắt)",
+      "duong": "Uống",
+      "thoi_diem": "Lúc đói; khó chịu dạ dày thì uống trong bữa ăn; kèm vitamin C hoặc nước cam",
+      "so_ngay": "3–6 tháng, tiếp thêm 3 tháng sau khi Hb bình thường",
+      "ghi_chu": "QĐ 1832/2022, Thiếu máu mục 4.2.1a; Thiếu máu thiếu sắt mục 5.1, 5.2. Táo bón và phân đen là thường gặp, không phải xuất huyết tiêu hóa; uống thêm nước và chất xơ."
+     },
+     {
+      "thuoc": "Tranexamic acid",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Trong những ngày còn ra máu, trong lúc chờ soi",
+      "so_ngay": "Đến khi ngừng ra máu hoặc đến ngày soi; tối đa 750–2.000 mg/24 giờ",
+      "ghi_chu": "QĐ 456/2026 (u xơ tử cung) mục VIII; NICE NG88 2018, mục 1.5.9, 1.5.10. Không dùng khi bệnh đông máu bẩm sinh hoặc tiền sử huyết khối (chị không có). Không phối hợp thuốc nội tiết trong lúc chờ (QĐ 456/2026 không khuyến cáo phối hợp với thuốc tránh thai; với progestin: không có trong tài liệu đã tải)."
+     }
+    ],
+    "dan_do": [
+     "Chị không sai khi bỏ thuốc vì lo; cùng chọn cách dễ uống hơn và báo bác sĩ nếu bỏ thuốc.",
+     "Đến bệnh viện sản soi buồng tử cung, lấy mẫu nội mạc trong vài ngày tới; mang theo kết quả công thức máu, siêu âm, đơn thuốc; uống thuốc giảm đau trước thủ thuật theo hướng dẫn (NICE NG88 2018, mục 1.3.5).",
+     "Đi cấp cứu ngay nếu thấm quá 1 miếng/giờ trong 2 giờ (ngưỡng thực hành, không có trong tài liệu đã tải), ngất, đau bụng dữ dội, sốt.",
+     "Dùng bao cao su mỗi lần quan hệ; uống sắt đều, táo bón thì uống nhiều nước, ăn rau; hết ra máu thì làm HPV/Pap (QĐ 3792/2024, mục 3.1.2); ho còn thì làm lại xét nghiệm đờm."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Tại bệnh viện tuyến trên chị Hà được soi buồng tử cung: nội mạc dày nhẹ, không polyp, sinh thiết cho hình ảnh nội mạc pha tăng sinh, không tăng sản, không ác tính. Chị được đặt LNG-IUS (NICE NG88 2018, mục 1.5.2) và được giải thích phải chờ vài chu kỳ mới thấy hiệu quả (mục 1.4.3). Sau ba tháng ra máu ít, Hb về 118 g/L; chị vẫn uống sắt, ho đã hết, xét nghiệm HPV âm tính. Kết cục tốt, quy trình đúng: nguyên nhân gây khó khăn không phải thuốc kém mà là chuyện không dám nói và nỗi sợ lao.",
+ "nhieu": [
+  "Gắng sức khiêng hàng: máu đã rỉ trước khi khiêng; hoạt động thể lực không làm 'động tử cung' hay gây rối loạn kinh (không có tài liệu đã tải cho thấy ngược lại).",
+  "Thuốc ho thảo dược: nhãn không ghi thành phần từng vị; ảnh hưởng lên kinh nguyệt: không có trong tài liệu đã tải. Điều đáng chú ý là chị đã ho ba tuần và tiếp xúc ca lao.",
+  "Mồ hôi đêm: giống lao nhưng do bốc hỏa tiền mãn kinh khi có thay đổi chu kỳ (NICE NG23 mục 1.3.1)."
+ ],
+ "bai_hoc_bien": [
+  "Giấu tiền sử: hai mảnh quan trọng (bạn tình mới và tiếp xúc ca lao) chỉ lộ khi hỏi riêng tư, cụ thể, không phán xét. Câu hỏi mở 'điều gì làm chị lo nhất' đưa ra lý do thật (sợ lao).",
+  "Không điển hình: đáng nghĩ 'chỉ là tiền mãn kinh' nhưng phải tính cả thai, giáp, đông máu, cấu trúc, nội mạc và bệnh lây qua đường tình dục; tuổi ≥ 45 là mốc cân nhắc lấy mẫu nội mạc.",
+  "Không đỡ: trước khi gọi là thất bại điều trị phải hỏi người bệnh đã dùng thuốc thế nào (đếm vỉ), rồi mới xét chẩn đoán sai.",
+  "Không có CT: với ho kéo dài dùng X-quang + Xpert; với tử cung dùng siêu âm đầu dò âm đạo và soi buồng tử cung, không cần CT.",
+  "Ổn định, khỏi bệnh: trọng tâm ở quy trình hỏi, khám, loại trừ và biết lúc nào lấy mẫu nội mạc."
+ ],
+ "diem_nho": [
+  "Chu kỳ bình thường 24–38 ngày; ra máu bình thường ≤ 8 ngày; dao động giữa chu kỳ ngắn nhất và dài nhất bình thường 7–9 ngày tùy tuổi (FIGO 2018, mục 3.1, 6.2, Bảng 1). QĐ 315/2015 ghi rong kinh, rong huyết là ra máu quá 7 ngày (mục 1).",
+  "Phụ nữ trong tuổi sinh đẻ ra máu bất thường: thử thai và công thức máu trước, siêu âm đầu dò âm đạo sớm (FIGO 2018, mục 6.1, 6.5; NICE NG88 2018, mục 1.2.6).",
+  "Tuổi ≥ 45 hoặc điều trị thuốc không kết quả: cân nhắc lấy mẫu nội mạc, trong lúc soi buồng tử cung; không sinh thiết mù (FIGO 2018, mục 6.4; NICE NG88 2018, mục 1.3.10, 1.3.11).",
+  "Ho kéo dài trên 2 tuần là triệu chứng nghi lao quan trọng nhất; cần X-quang ngực và xét nghiệm vi sinh (QĐ 162/2024, Phần II mục 1.1, 3.2.1).",
+  "Thiếu máu thiếu sắt: Hb 90–120 g/L nhẹ, 60 đến dưới 90 g/L vừa (QĐ 1832/2022, Thiếu máu mục 2.1a); ferritin < 30 ng/mL hoặc bão hòa transferrin < 30% (Thiếu máu thiếu sắt mục 4.1)."
+ ],
+ "nguon": [
+  "FIGO 2018 – Munro MG và cs, The two FIGO systems for normal and abnormal uterine bleeding (Int J Gynaecol Obstet 2018;143:393–408) – TL-0642 – mục 2, 3.1, 6.1–6.5, Bảng 1, Hình 6B.",
+  "NICE NG88 Heavy menstrual bleeding (2018, cập nhật 2026) – TL-0640 – mục 1.2.1–1.2.10, 1.3.1–1.3.11, 1.4.3, 1.5.2, 1.5.3, 1.5.6, 1.5.9, 1.5.10.",
+  "BYT – QĐ 315/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa – TL-0036 (kho cũ) – Rong kinh rong huyết mục 1, 2.1, 2.2, 2.4.2, 3.2, Bảng 1, 3.2.2, 3.2.3.",
+  "BYT – QĐ 162/QĐ-BYT 2024, Chẩn đoán, điều trị và dự phòng bệnh lao – TL-0123 – Phần II mục 1.1 Bảng 1, 3.2.1, 3.2.2.",
+  "BYT – QĐ 1832/QĐ-BYT 2022, Một số bệnh lý huyết học (kho cũ) – Thiếu máu mục 2.1a, 4.1, 4.2.1a; Thiếu máu thiếu sắt mục 4.1, 5.1, 5.2.",
+  "BYT – QĐ 456/QĐ-BYT 2026, Xử trí u xơ cơ tử cung (kho cũ; bản chữ lỗi mã hóa nhưng đọc được liều) – mục VIII, tranexamic acid.",
+  "BYT – QĐ 3792/QĐ-BYT 2024, Dự phòng và kiểm soát ung thư cổ tử cung (kho cũ) – mục 3.1.2.",
+  "International PCOS Guideline 2023 (Teede HJ và cs) – TL-0624 – khuyến cáo 1.1.1, 1.7.3. NICE NG23 Menopause (kho cũ) – mục 1.2.3, 1.3.1, 1.3.4. ACCP 2006 Postinfectious cough – TL-0160 (chỉ gọi tên ho sau nhiễm)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-23: viết ca PK-0065 (AUB-O tiền mãn kinh; lượt 1 điều trị thuốc, lượt 2 không đỡ do bỏ thuốc, chuyển tuyến soi buồng tử cung/sinh thiết).",
+  "Tài liệu đã đọc: FIGO 2018 mục 2, 3.1, 6.1–6.5; NICE NG88 mục 1.2–1.5; QĐ 315/2015 Rong kinh rong huyết; QĐ 162/2024 Phần II mục 1.1, 3.2; QĐ 1832/2022 Thiếu máu mục 2.1, 4 và Thiếu máu thiếu sắt mục 4–5; QĐ 456/2026 (tranexamic); QĐ 3792/2024 mục 3.1.2; PCOS 2023 khuyến cáo 1.1, 1.7; NICE NG23 mục 1.2.3, 1.3.",
+  "Thiếu tài liệu: ngưỡng độ dày nội mạc để sinh thiết ở tiền mãn kinh; liều NSAID cho rong kinh; tác dụng phụ medroxyprogesterone; thời điểm tái khám 4 tuần; phối hợp tranexamic với progestin; hiệu quả tránh thai tiền mãn kinh; thành phần thuốc ho thảo dược; điều trị ho sau nhiễm ở người lớn.",
+  "Đề xuất danh mục mới: pap_hpv, soi_buong_tc. Mâu thuẫn mới đề xuất: nạo niêm mạc (QĐ 315/2015) so với sinh thiết trong soi buồng tử cung (NICE NG88; FIGO 2018): xem PK-0065_mau_thuan.md."
+ ]
+}
