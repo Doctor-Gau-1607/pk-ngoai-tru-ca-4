@@ -1,0 +1,432 @@
+{
+ "ma_ca": "TK-0382",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – soát nguồn với kho tài liệu (2026-10-23)",
+ "benh": "TK_dong_kinh_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Động kinh (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "Ngất",
+   "TIA",
+   "Hạ đường huyết"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau ăn hải sản",
+  "thuoc_dang_dung": "Không",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Lê Gia Bảo",
+  "tuoi": 0.67,
+  "gioi": "Nam",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 8.4,
+  "chieu_cao": 71,
+  "xung_ho": "Bé trai 8 tháng, chưa nói được, hơi lạ người nên bám mẹ nhưng dỗ là nín. Mẹ kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em', gọi bé là 'bé Bảo' hoặc 'con'. Bà nội đi cùng, ngồi cạnh.",
+  "tinh_cach": "Mẹ 31 tuổi, kế toán, nói rõ ràng, bình tĩnh, trả lời đủ ý và mang theo sổ tiêm chủng, đoạn video quay được. Lo âu bên trong nhưng cố giữ bình tĩnh; ít chủ động nói ra nỗi sợ nhất của mình. Bé Bảo vốn nghịch, hay cười, đang ngồi vững và bập bẹ.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: mẹ trả lời thẳng, không giấu, đưa video khi được hỏi. Tuy vậy mẹ chỉ kể cơn sáng nay và nghi do cháo tôm; lần giật trước 16 ngày và nỗi sợ ung thư não chỉ lộ khi bác sĩ hỏi đúng (đã từng có lần nào giống vậy chưa; mẹ đang lo điều gì nhất).",
+  "nguoi_nha": "Mẹ bé, chị Thảo, 31 tuổi, bế bé đi khám; bà nội đi cùng, thỉnh thoảng bổ sung. Mẹ trả lời mọi câu hỏi (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ bé (chị Thảo)",
+  "ngoai_hinh": {
+   "da": "#f1cfae",
+   "toc": "#1c1512",
+   "kieuToc": "tre",
+   "ao": "#e3efd5",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e6b996",
+    "toc": "#231a15",
+    "kieuToc": "dai",
+    "ao": "#b8c9dd",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé trai 8 tháng, sáng nay bị một cơn co giật sau bữa cháo tôm đầu tiên, mẹ sợ dị ứng hải sản",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Thảo bế bé Bảo, 8 tháng, nặng 8,4 kg, cùng bà nội đến phòng khám ngoại trú bệnh viện đa khoa tỉnh lúc gần trưa. Sáng nay khoảng 9 giờ 40 bé bị một cơn co giật khoảng 2 phút, hơn hai tiếng sau bữa cháo tôm đầu tiên. Điều dưỡng Linh đo: nhiệt 36,9 °C, mạch 122 l/p, nhịp thở 32 l/p, SpO₂ 99%. Bé tỉnh, nhìn quanh, bú được, hơi lạ người.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bé Bảo về nhà, hẹn tái khám tại phòng khám sau 1 tháng, không có hẹn khám chuyên khoa nhi thần kinh. Hai cơn không sốt cách nhau 16 ngày đã đủ định nghĩa động kinh (ILAE 2014 Bảng 2; QĐ 2058/2020 bài 35 mục 1), nguy cơ cơn không sốt tái diễn cao nhất trong 6–12 tháng (NICE NG217 mục 1.1.5). Gia đình tiếp tục kiêng hải sản, tin nguyên nhân là thức ăn, nên cơn kế tiếp ở nhà sẽ bị hiểu là 'lại ăn nhầm'; bé không có điện não, MRI hay kế hoạch xử trí cơn và nỗi sợ ung thư của mẹ không được giải quyết (NICE NG217 mục 1.1.1, 3.1.4: khám chuyên khoa trong 2 tuần).",
+    "theo_doi": "Giữ bé tại phòng khám vài giờ rồi cho về với lời dặn 'có cơn thì quay lại'. Bé đã tỉnh hẳn hơn hai tiếng, không có cơn nào khi quan sát nên giữ thêm không làm rõ được loại cơn hay nguyên nhân; mẹ mất nửa ngày làm việc mà vẫn chưa có hẹn nơi có điện não nhi và MRI (NICE NG217 mục 1.2.5, 1.3.1, 3.1.4).",
+    "nhap_vien": "Nhập bé vào khoa nhi của bệnh viện này nằm vài ngày 'để theo dõi và chờ điện não, MRI'. Bé không còn cơn, đo được đường huyết bình thường, SpO₂ 99%, không có chỉ định nằm viện; NICE NG217 mục 1.1.1 và 3.1.4 chỉ yêu cầu khám chuyên khoa trong 2 tuần. MRI nhũ nhi cần an thần hoặc gây mê, nên làm tại nơi có đủ điều kiện và bác sĩ chẩn đoán hình ảnh nhi (mục 1.3.3–1.3.4), nằm lại đây chỉ làm chậm hẹn tuyến ba, tốn kém và dễ nhiễm bệnh chéo.",
+    "cap_cuu": "Gọi 115 đưa bé vào khoa cấp cứu như đang trong cơn kéo dài. Cơn đã dừng từ sáng, bé tỉnh, bú được, không tím, SpO₂ 99%; chưa có cơn nào từ 5 phút trở lên, nên không phải trạng thái động kinh (NICE NG217 mục 7.1.1). Việc cần là hẹn khám nhi thần kinh trong 2 tuần (mục 3.1.4), không phải hồi sức; cả nhà thêm hoảng hốt và bà nội càng tin bé 'bị trúng gió, ngộ độc'."
+   },
+   "loi_mo": "Bác sĩ ơi, sáng nay cháu nhà em tự nhiên co giật, mắt trợn, tay chân giật giật, em sợ lắm. Sáng nay em mới cho cháu ăn cháo tôm lần đầu, không biết cháu có bị dị ứng hải sản không. Bác sĩ xem giúp em.",
+   "sinh_hieu": {
+    "mach": 122,
+    "ha": "Không đo",
+    "nhiet": "36,9",
+    "nhip_tho": 32,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Sáng nay khoảng 9 giờ 40 bé đang ngồi trên ghế ăn dặm chơi thì ngừng cười, mắt và đầu quay sang bên phải, tay phải và mép phải giật nhịp nhàng, gọi không quay lại. Cơn kéo dài khoảng 2 phút, môi hơi tím. Sau cơn bé lịm đi khoảng 15 phút rồi tỉnh. Mẹ nghĩ do cháo tôm ăn lúc 7 giờ 30 sáng nay (cháo tôm đầu tiên, bé ăn nửa bát).",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và mô tả cơn sáng nay"
+    },
+    {
+     "id": "con_truoc",
+     "noi_dung": "Cách đây 16 ngày, ban đêm, bé cũng có một lần tương tự ngắn hơn (khoảng 1 phút): mắt đưa sang phải, tay phải giật, rồi ngủ li bì. Hôm ấy bé không ăn gì lạ, không sốt. Mẹ cho là 'giật mình vì lạnh' nên không đi khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn thứ nhất cách 16 ngày, không sốt, không liên quan hải sản",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi bé đã từng có lần nào như vậy trước đây chưa, hoặc hỏi tiền sử các cơn tương tự."
+    },
+    {
+     "id": "video",
+     "noi_dung": "Bà nội quay được khoảng 40 giây cuối của cơn sáng nay: bé nằm trong lòng mẹ, đầu và mắt lệch sang phải, tay phải và khóe miệng phải giật, gọi tên không đáp, không có tiếng khóc. Mẹ còn một đoạn 20 giây quay nốt lúc bé lịm.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Video cơn: giật nửa người phải, đáp ứng giảm",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi có ai quay phim hoặc chụp lại cơn không, hoặc xin xem cơn."
+    },
+    {
+     "id": "hai_san",
+     "noi_dung": "Cháo tôm lúc 7 giờ 30: bé ăn nửa bát, không nổi mề đay, không phù môi hay mặt, không nôn, không khò khè, không tiêu chảy. Cơn xảy ra hơn 2 giờ sau. Cơn đầu tiên cách đây 16 ngày xảy ra khi bé chưa từng ăn tôm, cua hay cá biển. Từ lúc ăn tới giờ bé không nổi ban và vẫn bú bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố 'sau ăn hải sản' (nhiễu): không có biểu hiện dị ứng",
+     "dieu_kien_lo": "Lộ khi bác sĩ hỏi chi tiết giờ ăn, bé có nổi ban, nôn, khò khè hay sưng môi mặt không, hoặc hỏi lần co giật trước bé có ăn tôm cua không."
+    },
+    {
+     "id": "sot_nhiem",
+     "noi_dung": "Bé không sốt, không ho, không nôn, không tiêu chảy trong cả hai lần; không ai trong nhà ốm; không bỏ bú, không quấy khóc bất thường; không nhìn thấy thóp phồng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ sốt, nhiễm trùng thần kinh trung ương"
+    },
+    {
+     "id": "chan_thuong",
+     "noi_dung": "Bé chưa từng té, đập đầu, không bị lắc hay bế tung. Không uống thuốc hay nước lá nào, không ngộ độc, không có hóa chất hay thuốc để trong tầm tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không chấn thương đầu, không ngộ độc, không dùng thuốc"
+    },
+    {
+     "id": "sinh_pt",
+     "noi_dung": "Sinh thường đủ tháng 39 tuần, nặng 3,2 kg, khóc ngay, không ngạt, không vàng da phải chiếu đèn. Bú mẹ hoàn toàn đến 6 tháng, từ đó ăn dặm và bú mẹ; sữa mẹ, không dùng vitamin D, thỉnh thoảng được tắm nắng. Lật 5 tháng, ngồi vững 7 tháng, bập bẹ, cười đáp, vươn tay lấy đồ chơi như trước. Tiêm chủng đủ theo lịch. Gia đình hai bên không ai bị động kinh hay co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh, phát triển bình thường, gia đình"
+    },
+    {
+     "id": "sau_con",
+     "noi_dung": "Từ cơn thứ nhất đến nay bé vẫn bú, chơi, ngủ bình thường, không yếu tay chân, không thoái lui kỹ năng. Giờ cơn sáng nay đã qua hơn 2 giờ, bé tỉnh táo.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Giữa các cơn bé bình thường"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Chú ruột của chồng chị Thảo vừa mất cách đây 1 năm vì ung thư não, lúc phát hiện bệnh cũng 'bắt đầu bằng co giật'. Mẹ sợ bé Bảo cũng bị u não nên mới đi khám sớm trong ngày, nhưng khi vào phòng chỉ nói về cháo tôm vì sợ nghe câu trả lời.",
+     "che_do": "giau",
+     "k": 0,
+     "y": "Lý do thật: sợ ung thư (u não)",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi mẹ đang lo điều gì nhất, trong nhà có ai bị bệnh thần kinh hoặc ung thư không, hoặc mẹ có nghĩ tới bệnh gì khác ngoài dị ứng không.",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, nhìn quanh, theo vật tốt, cười đáp khi mẹ chọc, hơi quấy khi lạ người. Môi hồng, niêm mạc ẩm, mắt không trũng, mao mạch hồi sắc dưới 2 giây. Không vàng da, không phù, không bầm tím.",
+     "k": 1,
+     "hien": "Cân 8,4 kg. Tỉnh, cười đáp, theo vật. Môi hồng, niêm mạc ẩm."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 8,4 kg, chiều dài 71 cm, vòng đầu 44 cm. Tăng trưởng đều theo đường tăng trưởng, vòng đầu không to bất thường. Điểm phần trăm cụ thể không có trong tài liệu đã tải.",
+     "k": 0,
+     "hien": "Cân 8,4 kg, dài 71 cm, vòng đầu 44 cm."
+    },
+    "dau_mat_co": {
+     "a": "Thóp trước phẳng, mềm, khoảng 1,5 × 1,5 cm. Đầu mặt cân đối, không bướu máu, không vết bầm da đầu. Cổ mềm, không hạch, không dấu màng não.",
+     "k": 1,
+     "hien": "Thóp phẳng, mềm. Đầu mặt cân đối. Cổ mềm."
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, tai và mũi không dịch, không dấu nhiễm trùng hô hấp trên.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Hai đồng tử đều, phản xạ ánh sáng tốt, mắt nhìn theo đèn pin, không lác, không rung giật nhãn cầu.",
+     "k": 0,
+     "hien": "Đồng tử đều, theo đèn tốt."
+    },
+    "day_mat": {
+     "a": "Gai thị hồng rõ bờ, không phù gai, không xuất huyết võng mạc. Bé nhũ nhi khó hợp tác nên chỉ nhìn được gai thị thoáng qua.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Khám ngoài cơn: bé tỉnh, nhìn theo vật, cười đáp; ngồi vững có đỡ. Trương lực cơ bình thường, hai bên đối xứng; vận động tứ chi tự nhiên, không yếu nửa người, phản xạ gân xương đều hai bên,. Không rung giật nhãn cầu. Tại phòng khám không quan sát thấy cơn.",
+     "k": 1,
+     "hien": "Ngoài cơn bé tỉnh, vận động hai bên đều, không liệt. Chưa thấy cơn trong lúc khám."
+    },
+    "da": {
+     "a": "Da hồng, không ban mề đay, không phù môi hay mi mắt. Không dát giảm sắc tố hình lá, không đốm cà phê sữa, không bớt mạch máu ở mặt.",
+     "k": 1,
+     "hien": "Da hồng, không nổi ban."
+    },
+    "tim": {
+     "a": "Tim đều 122 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 122 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 32 l/p, đều, không rút lõm, không khò khè. Rì rào phế nang rõ hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 32 l/p. Không rút lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không khối, gan lách không to. Rốn khô.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "4,8 mmol/L (khoảng 30 phút sau cữ bú)",
+     "n": "NICE NG217 mục 1.2.3: rối loạn chuyển hóa, gồm hạ đường huyết, có thể gây co giật; QĐ 2058/2020 bài 35 mục 3.2 (tr. 187): chẩn đoán hạ đường huyết dựa vào định lượng. Ngưỡng cụ thể ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 124 l/p, QRS và khoảng QT bình thường, không bất thường dẫn truyền.",
+     "n": "NICE NG217 mục 1.2.2: điện tim sau cơn nghi động kinh đầu để tìm bệnh tim bắt chước cơn."
+    },
+    "canxi": {
+     "v": "u",
+     "r": "Canxi toàn phần 2,38 mmol/L",
+     "n": "QĐ 2058/2020 bài 35 mục 3.2 (tr. 187): hạ canxi gây co giật hay gặp ở trẻ nhỏ; bé bú mẹ, ăn dặm, không bổ sung vitamin D. Ngưỡng canxi nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 138 · K 4,5 · Cl 104 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 4.5,
+      "cl": 104
+     },
+     "n": "Rối loạn chuyển hóa là nguyên nhân cấp tính cần loại trước khi gọi động kinh (QĐ 2058/2020 bài 35 mục 1, tr. 184; NICE NG217 mục 1.2.3). Riêng ngưỡng natri nhũ nhi: không có trong tài liệu đã tải."
+    },
+    "dien_nao": {
+     "v": "u",
+     "r": "Điện não đồ ghi 30 phút, bé ngủ sau bú: nhịp nền phù hợp tuổi. Có các sóng nhọn xen sóng chậm khu trú vùng thái dương – trung tâm bên trái (giữ nguyên khi ngủ), không có loạn nhịp cao điện thế (hypsarrhythmia).",
+     "ab": 1,
+     "n": "NICE NG217 mục 1.2.5, 1.2.7: cân nhắc điện não khi thức, càng sớm càng tốt (lý tưởng trong 72 giờ sau cơn); mục 1.2.6: điện não bình thường không loại trừ động kinh. Điện não chỉ hỗ trợ; vẫn phải đến tuyến ba đọc bởi bác sĩ nhi thần kinh (mục 3.1.4)."
+    },
+    "mri_so_nao": {
+     "v": "a",
+     "r": "Chưa chụp được tại đây hôm nay: nhũ nhi cần an thần hoặc gây mê, phải chụp ở nơi có bác sĩ gây mê nhi và bác sĩ chẩn đoán hình ảnh nhi (đặt lịch cùng đợt khám tuyến ba, trong 6 tuần).",
+     "n": "NICE NG217 mục 1.3.1: MRI cho trẻ đã chẩn đoán động kinh, trong 6 tuần sau khi giới thiệu; mục 1.3.3–1.3.4: bàn rủi ro an thần/gây mê và chụp theo protocol, đọc bởi bác sĩ chẩn đoán hình ảnh nhi. Đây là cách trả lời nỗi sợ u não, không chụp vội trong ngày."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Động kinh ở nhũ nhi: hai cơn cục bộ có suy giảm ý thức, không sốt, không có yếu tố khởi phát, cách nhau 16 ngày; nguyên nhân chưa rõ, chờ MRI",
+     "ok": 1,
+     "n": "Hai cơn không sốt, không do rối loạn chuyển hóa (đường huyết, canxi, natri bình thường), cách nhau hơn 24 giờ (ILAE 2014 Bảng 2 mục 1, tr. 477; QĐ 2058/2020 bài 35 mục 1, tr. 184). Cơn một bên (đầu mắt quay phải, tay và mép phải giật), đáp ứng giảm: cơn cục bộ có suy giảm ý thức (ILAE 2025 tr. 4, 6: nhũ nhi khó đánh giá nhận thức, dùng đáp ứng). Nguyên nhân (cấu trúc?) chưa rõ, cần MRI (NICE NG217 mục 1.3.1)."
+    },
+    {
+     "t": "Ngất",
+     "n": "Không mất trương lực tư thế, có giật nhịp một bên và mắt lệch; điện tim bình thường (QĐ 2058/2020 bài 35 mục 3.2, tr. 187; NICE NG217 mục 1.2.2)."
+    },
+    {
+     "t": "Cơn thiếu máu não thoáng qua (TIA)",
+     "n": "TIA là suy giảm khu trú thoáng qua do thiếu máu não, gồm yếu liệt hay mất cảm giác 'âm tính' (QĐ 5331/2020, mục 6 Đột quỵ thoáng qua, tr. 18); bé có giật nhịp dương tính, lặp lại, hai cơn cùng bên. Tần suất TIA ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạ đường huyết",
+     "n": "Đường huyết mao mạch 4,8 mmol/L, cơn không liên quan nhịn bú (QĐ 2058/2020 bài 35 mục 3.2; NICE NG217 mục 1.2.3). Ngưỡng nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phản ứng dị ứng hải sản (kể cả phản vệ) gây cơn",
+     "n": "Tiêu chuẩn phản vệ cần biểu hiện da – niêm mạc kèm hô hấp, huyết áp hoặc tiêu hóa nặng (WAO Anaphylaxis 2020 Bảng 2); bé không ban, không phù, không khò khè, không nôn, và cơn đầu xảy ra khi chưa ăn hải sản. Co giật không nằm trong tiêu chuẩn."
+    },
+    {
+     "t": "Co giật do sốt, viêm màng não – não",
+     "n": "Không sốt, thóp phẳng, cổ mềm, tỉnh táo giữa các cơn (QĐ 2058/2020 bài 35 mục 1: động kinh loại trừ sốt cao và nguyên nhân cấp tính)."
+    },
+    {
+     "t": "Co thắt trẻ nhỏ (hội chứng West)",
+     "n": "Không gập người thành chuỗi, không thoái lui phát triển, cơn lệch về một bên và kéo dài phút (NICE NG217 mục 6.3.1: nghi co thắt trẻ nhỏ cần xử trí trong 24 giờ; ILAE 2025 tr. 11–12). Điện não không có hypsarrhythmia."
+    },
+    {
+     "t": "Nhịn thở, trào ngược, giật mình sinh lý",
+     "n": "Không khóc trước cơn, không tím sau khóc, kéo dài 2 phút, có video giật một bên và lịm sau cơn (NICE NG217 mục 1.2.1: dùng lời kể và video)."
+    },
+    {
+     "t": "U não, tổn thương cấu trúc khác",
+     "n": "Chưa loại được bằng khám: nguyên nhân cấu trúc là một nguyên nhân của động kinh ở trẻ em (QĐ 2058/2020 bài 35 mục 2); cần MRI (NICE NG217 mục 1.2.4, 1.3.1). Tỷ lệ u não ở nhũ nhi có động kinh: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giới thiệu khẩn đến bác sĩ nhi thần kinh / dịch vụ động kinh nhi tuyến ba, hẹn trong vòng 2 tuần; gửi video, kết quả hôm nay và giấy giới thiệu",
+     "v": "c",
+     "n": "NICE NG217 mục 1.1.1 (nghi cơn đầu: khám trong 2 tuần), mục 3.1.4 (trẻ dưới 3 tuổi nghi động kinh: tuyến ba nhi trong 2 tuần). QĐ 2058/2020 bài 35 mục 4.1 (tr. 188): thuốc chỉ dùng khi đã chắc loại cơn và hội chứng, nên do chuyên khoa quyết."
+    },
+    {
+     "t": "Hỏi theo chuyên đề: mô tả cơn, hỏi cơn trước đó, xin video, giờ ăn và biểu hiện dị ứng, sốt, chấn thương, thuốc, sinh – phát triển – gia đình; hỏi mẹ lo điều gì nhất",
+     "v": "c",
+     "n": "NICE NG217 mục 1.2.1: hỏi kỹ người chăm sóc, dùng lời kể và video; mục 2.1.11 (Box 1): để gia đình nêu mối lo."
+    },
+    {
+     "t": "Đường huyết mao mạch và điện tim ngay tại phòng khám",
+     "v": "c",
+     "n": "NICE NG217 mục 1.2.2–1.2.3; QĐ 2058/2020 bài 35 mục 3.2 (tr. 187)."
+    },
+    {
+     "t": "Giải thích hai cơn cách nhau là động kinh, hải sản không phải nguyên nhân; trả lời nỗi sợ u não: chưa loại trừ được bằng khám, MRI sắp xếp trong 6 tuần ở tuyến ba",
+     "v": "c",
+     "n": "ILAE 2014 Bảng 2; NICE NG217 mục 1.1.7, 1.3.1. Không có tài liệu đã tải nào nêu hải sản gây cơn động kinh. Không khẳng định 'không có u' khi chưa có MRI."
+    },
+    {
+     "t": "Dặn mẹ cách nhận biết cơn, sơ cứu an toàn, quay phim, gọi 115 nếu cơn từ 5 phút trở lên, và tự đưa bé đến ngay nếu có cơn thứ ba trong lúc chờ hẹn",
+     "v": "c",
+     "n": "NICE NG217 mục 1.1.8–1.1.9 (nhận biết cơn, sơ cứu, liên hệ ai); mục 7.1.1 (từ 5 phút là trạng thái động kinh); mục 7.2.1 (3 cơn tự cắt trong 24 giờ là cấp cứu)."
+    },
+    {
+     "t": "Điện não ngay tại phòng khám nếu có (ghi khi bé ngủ sau bú), không dùng để loại trừ bệnh",
+     "v": "a",
+     "n": "NICE NG217 mục 1.2.5–1.2.7; mục 1.2.6."
+    },
+    {
+     "t": "Đặt lịch MRI sọ não (an thần/gây mê nhi) cùng đợt khám tuyến ba trong 6 tuần, không chụp vội trong ngày",
+     "v": "a",
+     "n": "NICE NG217 mục 1.3.1, 1.3.3–1.3.4."
+    },
+    {
+     "t": "Kê thuốc chống động kinh (levetiracetam, phenobarbital, valproat…) ngay tại phòng khám",
+     "v": "w",
+     "n": "QĐ 2058/2020 bài 35 mục 4.1 (tr. 188): chỉ điều trị khi đã chắc loại cơn và hội chứng; thuốc do nhi thần kinh quyết sau điện não và MRI (NICE NG217 mục 3.1.4)."
+    },
+    {
+     "t": "Chụp CT sọ não để 'tìm u' trong ngày",
+     "v": "w",
+     "n": "NICE NG217 mục 1.3.1–1.3.2: MRI là chọn lựa; CT chỉ khi MRI chống chỉ định; mục 1.3.7: không CT ở động kinh đã biết khi cơn điển hình. Phơi nhiễm bức xạ ở nhũ nhi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho kiêng hoàn toàn hải sản và mọi thức ăn lạ để 'phòng cơn'",
+     "v": "a",
+     "n": "Không có trong tài liệu đã tải chứng cứ hải sản gây cơn động kinh; chỉ cần theo dõi nếu thực sự có phản ứng dị ứng (WAO 2020 Bảng 2). Không cấm là hợp lý, kiêng thận trọng cũng không gây hại."
+    },
+    {
+     "t": "Cho về, hẹn tái khám 1 tháng tại phòng khám, không giới thiệu chuyên khoa",
+     "v": "h",
+     "n": "NICE NG217 mục 1.1.1, 3.1.4: giới thiệu trong 2 tuần; mục 1.1.5: nguy cơ cơn không sốt tái diễn cao trong 6–12 tháng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Động kinh ở nhũ nhi nam 8 tháng: 2 cơn cục bộ có suy giảm ý thức, không sốt, không do rối loạn chuyển hóa, cách nhau 16 ngày; nguyên nhân chưa rõ (cần MRI).",
+     "Đã loại tại chỗ: hạ đường huyết (4,8 mmol/L), hạ canxi (2,38 mmol/L), rối loạn natri (138 mmol/L), bất thường điện tim; ngất và TIA không phù hợp; không có phản ứng dị ứng hải sản.",
+     "Bối cảnh: hải sản trùng hợp, không phải nguyên nhân; mẹ sợ ung thư (u não) vì người thân mất vì ung thư não sau một cơn co giật."
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) hỏi bệnh theo chuyên đề: mô tả cơn, hỏi cơn trước, xin video, giờ ăn và triệu chứng dị ứng, sốt, chấn thương, thuốc, sinh – phát triển – gia đình, mối lo của mẹ (NICE NG217 mục 1.2.1); (2) khám toàn thân, thóp, thần kinh, da; (3) đường huyết mao mạch, điện tim, canxi, điện giải, điện não nếu có; (4) chẩn đoán; (5) giới thiệu khẩn nhi thần kinh.",
+     "Vì sao là động kinh: hai cơn không sốt, không yếu tố khởi phát, không rối loạn chuyển hóa, cách nhau hơn 24 giờ (ILAE 2014 Bảng 2 mục 1; QĐ 2058/2020 bài 35 mục 1). Cả hai cơn cùng kiểu: mắt đầu quay phải, tay phải và mép phải giật, đáp ứng giảm, lịm sau cơn: cơn cục bộ có suy giảm ý thức; ở trẻ dưới 4–5 tuổi khó đánh giá nhận thức nên dùng đáp ứng (ILAE 2025 tr. 4, 6). Gọi tên chi tiết (cơn cục bộ, thùy não) cần điện não và MRI (QĐ 2058/2020 bài 35 mục 3.1).",
+     "Vì sao không phải do cháo tôm: không ban, không phù, không nôn, không khò khè; cơn đầu xảy ra khi bé chưa ăn hải sản; phản vệ cần biểu hiện đa cơ quan (WAO 2020 Bảng 2). Nếu chỉ dừng ở 'dị ứng' thì bỏ lỡ chẩn đoán động kinh và để cơn tái diễn ở nhà.",
+     "Loại trừ: ngất (không mất trương lực, điện tim bình thường); TIA (không có dấu thiếu sót khu trú âm tính; tần suất ở nhũ nhi không có trong tài liệu đã tải); hạ đường huyết (4,8 mmol/L). Vì sao không làm công thức máu, CRP, chọc dò tủy, CT, IgE hải sản, test lẩy da: không sốt, thóp phẳng, cổ mềm, tỉnh; tìm nhiễm trùng hay dị nguyên không giải thích hai cơn; CT chỉ khi MRI chống chỉ định (NICE NG217 mục 1.3.2).",
+     "Điện não: bất thường khu trú củng cố chẩn đoán nhưng bình thường không loại trừ (NICE NG217 mục 1.2.6). MRI cần cho mọi trẻ đã chẩn đoán động kinh (mục 1.3.1) và là cách trả lời nỗi sợ u não; kết quả chỉ có sau khi chụp, nên hôm nay phải nói thật là chưa loại trừ được, không trấn an quá mức."
+    ],
+    "phan_tich_xu_tri": [
+     "Giới thiệu nhi thần kinh trong 2 tuần (NICE NG217 mục 1.1.1 và 3.1.4); không phải cấp cứu vì bé tỉnh, không có cơn kéo dài. Gửi video, kết quả đường huyết, điện tim, điện giải, canxi, điện não. Thuốc chống động kinh do tuyến ba kê sau khi rõ loại cơn (QĐ 2058/2020 bài 35 mục 4.1, tr. 188).",
+     "Nói với mẹ: thức ăn không gây ra hai cơn này; nhưng chưa loại trừ được nguyên nhân thực thể nên bé cần MRI trong 6 tuần ở nơi có an thần nhi (NICE NG217 mục 1.3.1, 1.3.3). Mẹ không có lỗi vì lần đầu tưởng 'giật mình'. Trong thời gian chờ hẹn, điều quan trọng nhất là người chăm bé nhận ra cơn và biết sơ cứu (mục 1.1.8).",
+     "Kế hoạch xử trí cơn kéo dài / thuốc cấp cứu cá nhân hoá do tuyến ba lập (NICE NG217 mục 7.1.2, 7.2.4, 7.3.3); liều midazolam má hay diazepam trực tràng cho nhũ nhi: không có trong tài liệu đã tải, không kê tại phòng khám."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc chống động kinh, thuốc chống dị ứng hay dịch truyền tại phòng khám",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "QĐ 2058/2020 bài 35 mục 4.1 (tr. 188): chỉ điều trị thuốc khi chắc loại cơn và hội chứng; NICE NG217 mục 3.1.4: nhi thần kinh tuyến ba quyết. Không có phản ứng dị ứng nên không cần thuốc kháng histamin hay adrenalin (WAO 2020 Bảng 2). Bé không sốt nên không cần thuốc hạ sốt."
+     }
+    ],
+    "dan_do": [
+     "Hẹn khám nhi thần kinh / dịch vụ động kinh nhi bệnh viện Nhi trong vòng 2 tuần, mang sổ tiêm chủng và video hai đoạn; phòng khám đã gửi giấy giới thiệu (NICE NG217 mục 1.1.1, 3.1.4). MRI sọ não sắp xếp trong 6 tuần, bé sẽ cần an thần hoặc gây mê, bác sĩ tuyến ba giải thích rủi ro (mục 1.3.1, 1.3.3).",
+     "Khi có cơn: đặt bé nằm nghiêng trên mặt phẳng, bỏ vật cứng quanh bé, không nhét gì vào miệng, bấm giờ và quay phim (NICE NG217 mục 1.1.8). Gọi 115 nếu cơn kéo dài từ 5 phút, hoặc có từ 3 cơn trong 24 giờ, tím không hồi phục, ngừng thở (mục 7.1.1, 7.2.1).",
+     "Nếu bé có thêm cơn trong lúc chờ: tự đưa bé đến phòng khám/cấp cứu ngay, không chờ ngày hẹn (NICE NG217 mục 1.1.9).",
+     "An toàn hằng ngày: không để bé một mình trong bồn nước hay trên giường cao, luôn có người lớn đỡ khi tắm (NICE NG217 Box 1, mục 2.1.11: tắm vòi thay vì ngâm bồn, chăm trẻ nhỏ an toàn). Không buộc phải kiêng hải sản vì cơn; nếu bé thật sự nổi mề đay, sưng môi, nôn, khò khè sau khi ăn thì báo ngay.",
+     "Chăm sóc ngày thường như cũ: bú mẹ, ăn dặm, tiêm chủng đủ. Mối lo của mẹ về bệnh nặng được ghi nhận; tuyến ba sẽ xem MRI trước khi nói chắc điều gì."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bé Bảo được nhi thần kinh khám trong 9 ngày: điện não thức – ngủ có ổ nhọn khu trú thái dương bên trái, MRI sọ não (an thần) không thấy khối u; mẹ nhẹ nhõm. Bé bắt đầu một thuốc chống động kinh đơn trị liệu (chi tiết thuốc, liều: không có trong tài liệu đã tải) và hết cơn 4 tháng. Sau đó mẹ tự ngưng thuốc vì thấy 'con khỏe rồi' và sợ tác dụng phụ, không thông báo cho bác sĩ; 3 tuần sau bé tái phát cơn như cũ, và gia đình quay lại. Theo NICE NG217 mục 1.1.2 cần khám khẩn trong 2 tuần khi tái phát sau thời gian lui bệnh; QĐ 2058/2020 bài 35 (mục 3 phòng bệnh và mục 4.1) dặn không ngừng thuốc đột ngột và loại trừ không tuân thủ trước khi coi là kháng thuốc. Điểm gãy: (1) lần đầu mẹ gọi cơn là 'giật mình' nên không đi khám; (2) sáng nay mẹ gán cho cháo tôm; (3) sau điều trị hiệu quả, mẹ không hiểu thuốc phải duy trì. Diễn tiến sau khi giới thiệu là hư cấu hợp lý, không trích nguồn.",
+ "nhieu": [
+  "Bệnh nhân hợp tác tốt: mẹ trả lời rõ, đưa video; nhưng chỉ kể cơn sáng nay và nghi hải sản. Giá trị dạy học nằm ở chỗ bác sĩ có chủ động hỏi cơn trước và mối lo hay không.",
+  "Yếu tố khởi phát 'sau ăn hải sản' là nhiễu hợp lý: cơn xảy ra sau bữa tôm đầu tiên, nhưng không biểu hiện dị ứng và cơn trước xảy ra khi chưa ăn; nếu chấp nhận 'dị ứng' thì bỏ lỡ động kinh (WAO 2020 Bảng 2).",
+  "Lý do thật sợ ung thư: chú ruột chồng mất vì ung thư não sau khởi phát bằng co giật; mẹ chỉ nói khi được hỏi mối lo. Trả lời trung thực: chưa loại được tổn thương cấu trúc, MRI sẽ làm trong 6 tuần (NICE NG217 mục 1.3.1)."
+ ],
+ "bai_hoc_bien": [
+  "Hai cơn không sốt cách hơn 24 giờ, không do chuyển hóa là đủ định nghĩa động kinh dù cơn rất ít (ILAE 2014 Bảng 2; QĐ 2058/2020 bài 35 mục 1). Luôn hỏi 'đã từng có lần nào như vậy chưa'.",
+  "Yếu tố khởi phát tưởng là nguyên nhân phải được kiểm bằng thời gian, triệu chứng dị ứng và tiền sử lần trước; phản vệ cần đa cơ quan (WAO 2020 Bảng 2). Diagnostic timeout: 'điều gì không được giải thích bởi dị ứng hải sản?' → cơn trước khi ăn tôm, giật một bên, lịm sau cơn.",
+  "Với nhũ nhi nghi cơn đầu, giới thiệu khẩn trong 2 tuần; chỉ kê thuốc khi tuyến ba đã chắc loại cơn (NICE NG217 mục 1.1.1, 3.1.4; QĐ 2058/2020 bài 35 mục 4.1).",
+  "Nỗi sợ ung thư: hỏi thẳng mẹ lo điều gì, trả lời không hứa suông; MRI là cách chắc chắn nhất (NICE NG217 mục 1.2.4, 1.3.1).",
+  "Không dùng điện não để loại trừ (NICE NG217 mục 1.2.6); không chụp CT khi chưa có lý do (mục 1.3.2). Tái phát sau lui bệnh: nghi không tuân thủ trước, khám lại trong 2 tuần (mục 1.1.2; QĐ 2058/2020 bài 35 mục 4.1)."
+ ],
+ "diem_nho": [
+  "Nghi cơn động kinh đầu ở trẻ: giới thiệu nhi chuyên khoa trong 2 tuần; dưới 3 tuổi → tuyến ba nhi trong 2 tuần (NICE NG217 mục 1.1.1, 3.1.4). Nghi co thắt trẻ nhỏ (chuỗi gập người) thì chặt hơn: 24 giờ (mục 6.3.1).",
+  "Định nghĩa thực hành: ≥ 2 cơn không có yếu tố khởi phát cách > 24 giờ (ILAE 2014 Bảng 2 mục 1, tr. 477; QĐ 2058/2020 bài 35 mục 1).",
+  "Cơn từ 5 phút trở lên là trạng thái động kinh, gọi 115; 3 cơn tự cắt trong 24 giờ là cấp cứu (NICE NG217 mục 7.1.1, 7.2.1). Liều thuốc nhũ nhi: không có trong tài liệu đã tải."
+ ],
+ "nguon": [
+  "NICE NG217 2022 (TL-0466) – ĐÃ ĐỌC mục 1.1.1–1.1.9, 1.2.1–1.2.7, 1.3.1–1.3.4, 1.3.7, 2.1.11 (Box 1), 3.1.4, 6.3.1, 7.1.1–7.1.3, 7.2.1–7.2.4, 7.3.",
+  "ILAE 2014 – A practical clinical definition of epilepsy (Epilepsia 2014;55:475; TL-0490) – Bảng 2 (tr. 477).",
+  "ILAE 2025 – Updated classification of epileptic seizures (Epilepsia 2025;66:1804; TL-0456) – tr. 4, 6, 11–12.",
+  "Bộ Y tế – QĐ 2058/QĐ-BYT 2020 (TL-0443) bài 35: mục 1 (tr. 184), 2, 3.1, 3.2 (tr. 187), 3 phòng bệnh (tr. 190), 4.1 (tr. 188).",
+  "Bộ Y tế – QĐ 5331/QĐ-BYT 2020 (TL-0030) mục 6 Đột quỵ thoáng qua (tr. 18).",
+  "WAO Anaphylaxis Guidance 2020 (TL-0025) – Bảng 2 (tiêu chuẩn phản vệ)."
+ ],
+ "ghi_chu_bien_tap": [
+  "23/10/2026 – viết: Sonnet. Bản 1. Nhũ nhi trai 8 tháng, 1 lượt; cơn cục bộ có suy giảm ý thức lần 2 (cơn 1 cách 16 ngày); khởi phát 'sau ăn hải sản' (nhiễu); lý do thật sợ ung thư; nguồn lực đầy đủ. ket_luan: chuyen_tuyen (giới thiệu nhi thần kinh 2 tuần, không cấp cứu). Kết cục: tái phát (ngừng thuốc tự ý).",
+  "Tài liệu đã đọc: TL-0466 (NICE NG217 các mục nêu ở nguon), TL-0490 (Bảng 2), TL-0456 (tr. 4, 6, 11–12), TL-0443 (bài 35), TL-0030 (TIA), TL-0025 (Bảng 2 phản vệ).",
+  "Chỗ thiếu tài liệu: ngưỡng đường huyết, canxi, natri ở nhũ nhi; tần suất TIA/u não ở nhũ nhi; liều thuốc chống động kinh và thuốc cấp cứu (midazolam má, diazepam trực tràng) cho nhũ nhi; điểm phần trăm tăng trưởng; chứng cứ hải sản liên quan cơn động kinh; rủi ro an thần/gây mê MRI nhũ nhi.",
+  "Kết quả điện não, điện giải, canxi và diễn tiến ở bệnh viện Nhi (MRI, thuốc, tái phát) là hư cấu hợp lý, không trích nguồn. Cân nặng, chiều dài, vòng đầu là số liệu thiết kế. Ghi chú: bản này dùng ILAE 2014 'Bảng 2' (bản chữ ghi Table 2); ca TK-0389 ghi nhầm 'Bảng 1'."
+ ]
+}
