@@ -1,0 +1,526 @@
+{
+ "ma_ca": "TM-0440",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_glocom_goc_dong_cap",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Glôcôm góc đóng cấp (phát hiện)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm kết mạc",
+   "Viêm màng bồ đào"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Nông dân đã nghỉ hưu",
+  "yeu_to_khoi_phat": "Sau căng thẳng công việc",
+  "thuoc_dang_dung": "Thuốc dị ứng theo mùa tự mua",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Văn Tư",
+  "tuoi": 68,
+  "gioi": "Nam",
+  "nghe": "Nông dân đã nghỉ hưu (còn phụ con gặt lúa)",
+  "can_nang": 58,
+  "chieu_cao": 160,
+  "xung_ho": "Ông 68 tuổi, xưng 'tôi', gọi bác sĩ là 'bác sĩ' hoặc 'cậu/cô bác sĩ' tùy tuổi; gọi con trai là 'thằng Hải'. Con trai (anh Hải, 40 tuổi) xưng 'con', gọi ông là 'ba'.",
+  "tinh_cach": "Ông Tư cứng đầu, chịu đựng, ngại tốn tiền và sợ nghe chữ 'mổ' hay 'mù'. Kể bệnh ngắn, hay nhắc 'cho tôi chai nước truyền là khỏe, lần trước truyền xong hết mệt'. Nhắm một mắt lại, tay đỡ trán.",
+  "kieu_nhieu": "Giấu tiền sử: ông chỉ kể 'nhức đầu, buồn nôn, mệt, mắt đỏ do hôm qua cãi nhau tức quá'. Không tự nói đã uống thuốc dị ứng mấy ngày nay, không nói mấy tháng nay chiều tối hay mờ mắt, nhìn đèn thấy quầng màu, và mẹ ông từng bị 'đau mắt rồi mù'. Chỉ khi bác sĩ hỏi lại nhẹ nhàng, không phán xét, từng việc một (thuốc đã uống, mắt trước đây có lúc nào mờ, người nhà ai có bệnh mắt) ông mới nói; bị hỏi dồn thì ông cụt lời.",
+  "nguoi_nha": "Con trai, anh Hải, 40 tuổi, chở ba đi khám. Anh biết ba ngại nói chuyện thuốc nhưng không rõ chi tiết; khi được hỏi anh kể ba có hộp thuốc dị ứng để ở đầu giường.",
+  "ten_nguoi_nha": "Con trai (anh Hải)",
+  "ngoai_hinh": {
+   "da": "#c99a73",
+   "toc": "#8f8f8f",
+   "kieuToc": "ngan",
+   "ao": "#7a6a4f",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "dau",
+   "nguoiNha": {
+    "da": "#c4946b",
+    "toc": "#1d1512",
+    "kieuToc": "ngan",
+    "ao": "#4a6a8a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Nhức đầu, buồn nôn, đỏ mắt phải",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Phạm Văn Tư, 68 tuổi, nông dân đã nghỉ hưu, con trai đưa đến. Nhăn mặt, tay đỡ trán phải, nhắm mắt phải, nói đau đầu, buồn nôn, mắt đỏ. Sinh hiệu: nhiệt 36,9 °C, mạch 88 l/p, huyết áp 160/95 mmHg, nhịp thở 20 l/p, SpO₂ 97%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Ông Tư về nhà với thuốc đỡ đau và nhỏ mắt kháng sinh, hẹn mai khám lại. Đêm đó mắt phải đau hơn, nôn nhiều, ông ở nhà vì sợ tốn tiền. Nhãn áp rất cao kéo dài làm tổn thương thần kinh thị xảy ra nhanh và không hồi phục (AAO PACD PPP 2026, Natural History; QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng, mục 5a: không điều trị thì dẫn đến mù). Mắt trái chưa được dự phòng, nguy cơ cơn cấp mắt kia (AAO 2026, Fellow-eye management).",
+    "nhap_vien": "Ông được nhận nằm khoa nội ở huyện truyền dịch theo ý ông, nhưng ở đó không có đèn khe, nhãn áp kế, laser nên không thể cắt mống mắt chu biên. Nhãn áp chỉ hạ một phần nhờ thuốc, mất thêm nửa ngày đến một ngày trong khi thần kinh thị tiếp tục tổn thương; acetazolamid chỉ dùng trong thời gian chờ phẫu thuật và có nhiều tác dụng phụ toàn thân (QĐ 40/2015, mục 4b). Chi phí nằm viện thêm, ông vẫn phải chuyển tuyến sau đó.",
+    "theo_doi": "Ông được theo dõi tại phòng khám 2–3 giờ sau nhỏ thuốc và uống acetazolamid, đỡ nhức nên nghĩ đã xong và cho về. Nhãn áp có thể hạ tạm nhưng cơn chưa được 'cắt' bằng laser; tắc nghẽn đồng tử vẫn còn, dính góc tiếp tục hình thành (AAO 2026, Surgery; Management – cắt mống mắt chu biên là điều trị đúng). Ông có nguy cơ cơn tái phát trong vài ngày mà không ai theo dõi."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi nhức đầu dữ lắm, buồn nôn nữa, mắt phải đỏ. Chắc tôi bị nóng trong người, hồi qua cãi nhau tức quá. Bác sĩ cho tôi truyền chai nước là khỏe.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "160/95",
+    "nhiet": "36,9",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": [
+     "Huyết áp tăng theo cơn đau"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Từ chiều hôm qua mắt phải đỏ, nhức, rồi nhức lan lên nửa đầu bên phải. Đêm không ngủ được, sáng nay buồn nôn, nôn 2 lần ra nước, người mệt rã. Mắt phải nhìn mờ như qua màn sương.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: nhức mắt phải lan nửa đầu, nhìn mờ, buồn nôn (triệu chứng cơ năng cơn cấp, QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng nguyên phát, mục 3a)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chiều tối hôm qua ông cãi nhau với thương lái về giá lúa gặt cho nhà con, tức giận, ngồi một lúc ở góc hiên mờ tối thì thấy mắt phải nhức tăng dần, một lúc sau mới đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát chiều tối sau xúc động mạnh (mục 3a), đồng tử giãn nửa vời trong chỗ tối (mục 2a)"
+    },
+    {
+     "id": "quang",
+     "noi_dung": "Nhìn bóng đèn trong nhà thấy có quầng nhiều màu xanh đỏ quanh đèn, bên mắt phải. Không thấy chớp sáng, không thấy màn đen che.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Quầng xanh đỏ quanh đèn (mục 3a); loại trừ bong võng mạc"
+    },
+    {
+     "id": "thi_luc",
+     "noi_dung": "Mắt phải nhìn mờ nhiều, chỉ thấy bóng người, không đếm được ngón tay ở xa. Mắt trái nhìn bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thị lực giảm nhiều (mục 3a)"
+    },
+    {
+     "id": "ghen",
+     "noi_dung": "Mắt chảy nước, hơi sợ chói, không có ghèn mủ, không ngứa. Mi mắt không dính vào buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiết tố: không phải viêm kết mạc"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Đau đầu bên phải dữ dội, buồn nôn, nôn nước 2 lần, vã mồ hôi lạnh. Không sốt, không tê yếu tay chân, không nói ngọng, không té ngã, không chấn thương đầu, không đau ngực, khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân của cơn cấp (nôn, vã mồ hôi); loại trừ nguyên nhân đau đầu-nôn khác (mục 3a)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Ông chỉ kể 'thuốc huyết áp thì không uống, không có bệnh gì'. Anh Hải kể ba có hộp thuốc dị ứng 'clorpheniramin 4 mg' mua ở tiệm thuốc, uống 2 viên chia 2 lần mỗi ngày, được 3 ngày vì sổ mũi, ngứa mũi theo mùa lúa trổ.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc kháng cholinergic có thể gây giãn đồng tử và khởi phát cơn góc đóng (AAO PACD PPP 2026, mục History và Management – PACS: thuốc dị ứng, cảm cúm)",
+     "dieu_kien_lo": "Ông không tự kể. Lộ khi bác sĩ hỏi 'mấy hôm nay ông có uống thuốc gì, kể cả thuốc tự mua, thuốc dị ứng, thuốc cảm không?' hoặc hỏi người nhà đi cùng."
+    },
+    {
+     "id": "tien_cu",
+     "noi_dung": "Mấy tháng nay, thỉnh thoảng chiều tối ông bị mờ mắt, nhức nhẹ hai bên đầu, nhìn đèn có quầng, ngủ một giấc là hết. Ông tưởng 'mắt già' và không dám nói vì sợ phải đi mổ, tốn tiền.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Các đợt tăng nhãn áp bán cấp trước đó (mục 3a, glôcôm góc đóng bán cấp: giảm thị lực, quầng quanh đèn, đau nhức nhẹ tự qua)",
+     "dieu_kien_lo": "Ông không tự kể. Lộ khi bác sĩ hỏi nhẹ nhàng 'trước đây có lúc nào mắt bị mờ, nhìn đèn có quầng rồi tự hết không?' và cam đoan chuyện đó rất thường gặp, không phán xét."
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ ông ngày xưa 'đau mắt đỏ nhức đầu rồi mù một bên' khi khoảng 70 tuổi, không biết bệnh gì. Ông nhớ mà không nói.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tiền sử gia đình có cơn góc đóng là yếu tố nguy cơ (AAO PACD PPP 2026, Risk Factors, Natural History)",
+     "dieu_kien_lo": "Lộ khi bác sĩ hỏi trong nhà có ai bị bệnh mắt, mù, đau mắt nhức đầu."
+    },
+    {
+     "id": "kinh",
+     "noi_dung": "Trước giờ nhìn gần phải đưa ra xa mới đọc được báo, mua kính lão từ khoảng 50 tuổi, ông nói 'mắt mình viễn'. Không cận, chưa mổ mắt, chưa chấn thương mắt, không nhỏ thuốc mắt nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viễn thị là yếu tố nguy cơ (AAO PACD PPP 2026, Risk Factors)"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không tăng huyết áp biết được, không đái tháo đường, không hen hay bệnh phổi, không bệnh tim. Hút thuốc lào ít, không rượu. Không dị ứng thuốc, chưa dùng thuốc sulfa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền: cần biết trước khi dùng chẹn bêta, acetazolamid (thận trọng bệnh phổi, tim, mạch – QĐ 40/QĐ-BYT 2015, mục 4b)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông nói thẳng: 'Cho tôi truyền chai nước đi bác sĩ. Lần trước tôi mệt đầu cũng được truyền chai nước là hết ngay.' Ông không tin thuốc uống, cho rằng mắt chỉ là 'nóng đỏ' nhờ truyền nước mát là xuống. Ông cũng sợ nghe chữ chuyển bệnh viện tuyến trên vì tốn tiền, không ai trông ruộng.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: muốn được truyền dịch",
+     "dieu_kien_lo": "Ông chỉ nhắc 'truyền nước' khi bác sĩ hỏi 'ông mong tôi giúp được gì cho ông hôm nay?'; đầu buổi chỉ than nhức đầu và buồn nôn."
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Sáng chưa ăn gì vì buồn nôn, uống ít nước. Đại tiện bình thường, tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ăn uống, tiêu tiểu",
+     "nhieu": 1
+    },
+    {
+     "id": "ruong",
+     "noi_dung": "Ông còn phụ con gặt lúa, thức sớm làm đồng, chiều đi bán. Lo trả tiền phân bón nên gần đây hay mất ngủ, hay bực.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề nghiệp, stress",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Mắt phải: mi sưng nhẹ, kết mạc cương tụ đỏ sẫm quanh rìa (cương tụ rìa, màu tím), giác mạc phù mờ như hơi nước, không thấy rõ mống mắt; đồng tử giãn nửa vời 5–6 mm, hình bầu dục dọc, gần như không co khi chiếu đèn pin; tiền phòng nông (đèn pin chiếu nghiêng từ thái dương: mống mắt phồng, phần phía mũi nằm trong bóng); không có ghèn mủ, không thấy tủa sau giác mạc. Thị lực mắt phải đếm ngón tay 1 m, không cải thiện qua kính lỗ. Mắt trái: kết mạc trắng, giác mạc trong, đồng tử 3 mm co tốt, tiền phòng nông (đèn pin chiếu nghiêng thấy bóng liềm ở phần mũi), thị lực 6/10 không kính. QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng nguyên phát, mục 3a: mắt cương tụ đỏ, giác mạc phù mờ, đồng tử giãn méo, giảm phản xạ ánh sáng, tiền phòng nông; mắt còn lại thường tiền phòng nông và góc hẹp. Không có mủ, không tủa viêm, không co nhỏ đồng tử nên khác với viêm kết mạc và viêm màng bồ đào.",
+     "k": 1,
+     "hien": "Mắt phải đỏ, mờ như có hơi nước. Thị lực đếm ngón tay 1 m. Mắt trái bình thường, thị lực 6/10."
+    },
+    "nhan_ap": {
+     "a": "Nhãn áp mắt phải rất cao: ước lượng bằng ngón tay cứng như đá (Tn+3); đo nhãn áp kế Schiøtz 58 mmHg. Mắt trái: mềm bình thường, 17 mmHg. Nhãn áp tăng rất cao là dấu hiệu thực thể của cơn cấp (QĐ 40/QĐ-BYT 2015, mục 3a). Đo nhãn áp cả hai mắt (AAO PACD PPP 2026, Intraocular pressure measurement). Con số mmHg là số liệu minh họa của ca, tài liệu đã tải không cho giá trị cụ thể.",
+     "k": 1,
+     "hien": "Đo nhãn áp hai mắt (mắt phải cứng hơn rõ rệt)."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein: giác mạc mắt phải phù mờ, nhìn qua đèn xanh thấy bề mặt hơi lấm tấm nhưng không có ổ loét, không có tổn thương hình cành cây, không bắt màu thành mảng. Giác mạc mắt trái trong, không bắt màu. Giác mạc phù (microcystic edema) là dấu của cơn cấp (AAO PACD PPP 2026, Slit-lamp biomicroscopy).",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "day_mat": {
+     "a": "Mắt phải: không soi được đáy mắt do phù giác mạc (QĐ 40/2015, mục 3a: đáy mắt rất khó soi do phù các môi trường trong suốt). Mắt trái: đĩa thị hồng, bờ rõ, lõm đĩa/đĩa khoảng 0,3, mạch máu bình thường. Không giãn đồng tử để soi vì nguy cơ gây cơn góc đóng ở mắt lành (AAO PACD PPP 2026, Other components of the initial evaluation).",
+     "k": 0,
+     "hien": "Không soi rõ đáy mắt phải."
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nhăn mặt vì đau, vã mồ hôi nhẹ. Da niêm hồng, không vàng da, không mất nước nặng.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, 88 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran, không khò khè.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không điểm đau, gan lách không sờ thấy. Buồn nôn do đau mắt chứ không do bệnh tiêu hóa.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, GCS 15, không liệt khu trú, không dấu màng não, không nói khó. Cổ mềm. Không có yếu tay chân. Đau đầu bên phải liên quan mắt.",
+     "k": 1,
+     "hien": "Khám thần kinh sơ bộ."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "Hb 142 g/L · BC 9,8 G/L (Neu 72%, Lym 21%) · TC 238 G/L",
+     "n": "Không cần để chẩn đoán; chấp nhận khi chuẩn bị chuyển tuyến. Bạch cầu tăng nhẹ do đau, stress. Tài liệu đã tải không có chỉ định xét nghiệm máu cho cơn glôcôm góc đóng.",
+     "bang": {
+      "wbc": 9.8,
+      "neu_pct": 72,
+      "neu": 7.06,
+      "lym_pct": 21,
+      "lym": 2.06,
+      "hgb": 142,
+      "plt": 238
+     }
+    },
+    "lyte": {
+     "v": "a",
+     "bang": {
+      "na": 138,
+      "k": 3.9,
+      "cl": 101
+     },
+     "n": "Hữu ích trước khi dùng acetazolamid vì thuốc có nhiều tác dụng phụ toàn thân và cần bổ sung kali (QĐ 40/QĐ-BYT 2015, mục 4b). Không bắt buộc nếu chuyển ngay."
+    },
+    "creat": {
+     "v": "a",
+     "bang": {
+      "creat": 82,
+      "egfr": 85
+     },
+     "n": "Chấp nhận trước khi dùng acetazolamid, mannitol; tài liệu đã tải không nêu ngưỡng chức năng thận cho các thuốc này."
+    },
+    "glu_mm": {
+     "v": "n",
+     "r": "Đường huyết mao mạch 6,4 mmol/L",
+     "n": "Không cần: không nghi hạ hay tăng đường huyết, chỉ buồn nôn do đau."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 3 mg/L",
+     "n": "Không cần: không nghi nhiễm trùng, không giúp phân biệt với viêm kết mạc hay viêm màng bồ đào."
+    },
+    "test_adeno": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "Không cần: không có ghèn, không hạch trước tai, nhức sâu; dấu hiệu giác mạc phù và đồng tử giãn không hợp với viêm kết mạc virus."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Không cần: không có mủ."
+    },
+    "ecg": {
+     "v": "n",
+     "r": "Nhịp xoang 88 l/p, không bất thường",
+     "n": "Không cần cho chẩn đoán. Buồn nôn, vã mồ hôi dễ khiến nghĩ đến tim mạch nhưng bệnh nhân không đau ngực, không khó thở."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Glôcôm góc đóng nguyên phát cơn cấp mắt phải (nghẽn đồng tử), khởi phát sau xúc động và uống thuốc dị ứng kháng cholinergic; có dấu hiệu bán cấp trước đó; mắt trái tiền phòng nông, nguy cơ cao",
+     "ok": 1,
+     "n": "Nhức mắt lan nửa đầu, nhìn mờ, quầng xanh đỏ quanh đèn, buồn nôn và nôn; thị lực giảm nhiều (đếm ngón tay 1 m), nhãn áp tăng rất cao, giác mạc phù mờ, đồng tử giãn méo gần như không co, tiền phòng nông; khởi phát chiều tối sau xúc động mạnh (QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng nguyên phát, mục 3a – chẩn đoán xác định). Cơn cấp: mắt đỏ, đau, đồng tử giãn nửa vời, giác mạc phù (AAO PACD PPP 2026, Highlighted Findings). Soi góc tiền phòng để khẳng định góc đóng: không làm được ở cơ sở này, ghi cho tuyến trên (gonioscopy – AAO PACD PPP 2026, Gonioscopy)."
+    },
+    {
+     "t": "Viêm kết mạc cấp",
+     "n": "Loại trừ: viêm kết mạc cấp ra dử mắt nhiều, cương tụ nông, không ảnh hưởng đến thị lực (QĐ 40/QĐ-BYT 2015, Viêm màng bồ đào trước cấp tính, mục 3d, chẩn đoán phân biệt). Ông đỏ sẫm quanh rìa, thị lực đếm ngón tay, giác mạc phù, không có ghèn, đồng tử giãn."
+    },
+    {
+     "t": "Viêm màng bồ đào trước tăng nhãn áp",
+     "n": "Loại trừ: có tủa sau giác mạc, đồng tử dính, co nhỏ (QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng, mục 3a, chẩn đoán phân biệt). Ông có đồng tử giãn, không tủa viêm. Lưu ý: trong cơn cấp cũng có thể có phản ứng viêm màng bồ đào nên phải nhìn đồng tử giãn của mắt bệnh và tiền phòng nông, góc hẹp của mắt thứ hai (QĐ 40/QĐ-BYT 2015, Lưu ý mục 3a); ở ông mắt trái có tiền phòng nông."
+    },
+    {
+     "t": "Glôcôm góc mở hoặc glôcôm thứ phát (tân mạch mống mắt, thuốc gây phù thể mi – topiramate, sulfonamid)",
+     "n": "Ít nghĩ: mắt đối bên tiền phòng nông, góc hẹp, bệnh khởi phát cấp sau đồng tử giãn trong chỗ tối; không dùng topiramate hay sulfonamid, không đái tháo đường, không huyết khối tĩnh mạch võng mạc (AAO PACD PPP 2026, Differential Diagnosis: angle đóng hai bên và góc mở rộng ở mắt kia gợi bệnh khác). Soi góc tiền phòng cần ở tuyến trên."
+    },
+    {
+     "t": "Đau đầu – nôn do nguyên nhân thần kinh hoặc tiêu hóa (xuất huyết não, đau nửa đầu, ngộ độc thực phẩm)",
+     "n": "Ít nghĩ: không liệt khu trú, cổ mềm, không sốt, có triệu chứng mắt đặc hiệu (đỏ một mắt, đồng tử giãn, nhãn áp rất cao). Tài liệu đã tải không có tiêu chuẩn chẩn đoán xuất huyết não hay đau nửa đầu cho ca này. CT sọ não bị khóa ở cơ sở không có X-quang và không cần."
+    },
+    {
+     "t": "Cơn tăng huyết áp",
+     "n": "Ít nghĩ: huyết áp 160/95 mmHg chỉ tăng theo đau, không có tiền sử, không có tổn thương cơ quan đích. Tiêu chuẩn chẩn đoán tăng huyết áp: không có trong tài liệu đã tải cho ca này; dặn đo lại sau khi hết đau."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra đây là cấp cứu mắt, nói rõ cho ông và con trai: nếu không hạ nhãn áp kịp thời sẽ mù; cần chuyển ngay bệnh viện có chuyên khoa mắt trong ngày",
+     "v": "c",
+     "n": "QĐ 40/QĐ-BYT 2015 (Tiến triển, mục 5a): glôcôm góc đóng cơn cấp nếu không được điều trị, nhãn áp tăng cao kéo dài sẽ dẫn đến mù; (mục 4a) tích cực, khẩn trương hạ nhãn áp bằng thuốc. AAO PACD PPP 2026 (Acute attack management): hạ nhãn áp sớm để giảm triệu chứng và nguy cơ tổn thương thần kinh thị; sau đó cắt mống mắt chu biên bằng laser (LPI) hoặc phẫu thuật; điều trị bằng phẫu thuật là bắt buộc (QĐ 40, mục 4b). Cơ sở không có chuyên khoa mắt nên không làm được laser."
+    },
+    {
+     "t": "Hạ nhãn áp tại chỗ trước khi chuyển: acetazolamid uống 0,25 g × 2 viên (0,5 g) rồi tiếp 2–4 viên/ngày; nếu nôn nhiều không uống được thì tiêm tĩnh mạch acetazolamid 500 mg",
+     "v": "c",
+     "n": "QĐ 40/QĐ-BYT 2015 (mục 4b, Toàn thân): uống acetazolamide 0,25 g × 2–4 viên/ngày, hoặc tiêm tĩnh mạch 500 mg × 1 ống nếu nôn nhiều (bản chữ in '500g', hiểu là 500 mg theo câu liền sau 'tiêm 500 mg và uống 500 mg'); chỉ dùng trong thời gian chờ phẫu thuật, không dùng kéo dài, cần bổ sung kali. AAO PACD PPP 2026 (Acute attack management) không nêu liều; thuốc ức chế tạo thủy dịch có thể kém tác dụng lúc đầu khi thể mi thiếu máu do nhãn áp rất cao."
+    },
+    {
+     "t": "Nhỏ mắt phải: pilocarpin 1% mỗi 15–20 phút cho đến khi đồng tử co lại và nhãn áp hạ, rồi 1 giờ/lần; phối hợp thuốc chẹn bêta giao cảm (nếu không có hen, tim) hoặc thuốc ức chế anhydrase carbonic nhỏ mắt. Biết giới hạn: nhãn áp rất cao thì đồng tử có thể không co, vẫn phải chuyển",
+     "v": "c",
+     "n": "QĐ 40/QĐ-BYT 2015 (mục 4b, Tại mắt): tra thuốc co đồng tử cứ 15–20 phút/lần đến khi đồng tử co và nhãn áp hạ, sau đó 1 giờ/lần; phối hợp chẹn bêta giao cảm 2 lần/ngày (thận trọng bệnh phổi, tim, mạch) hoặc ức chế anhydrase carbonic 2–3 lần/ngày. AAO PACD PPP 2026 (Acute attack management): khi nhãn áp rất cao cơ vòng đồng tử thiếu máu nên không đáp ứng thuốc co đồng tử; thuốc co đồng tử có thể mở góc khi đồng tử co được. Nồng độ pilocarpin 1% theo QĐ 40 mục 4b cho mắt thứ hai; nồng độ cho mắt bệnh và chẹn bêta: không có trong tài liệu đã tải, ca ghi pilocarpin 1% theo cùng thuốc."
+    },
+    {
+     "t": "Bảo vệ mắt trái: chuyển kèm dặn tuyến trên cắt mống mắt chu biên mắt trái sớm; trong lúc chờ có thể nhỏ pilocarpin 1% mắt trái theo QĐ 40/2015 hoặc, theo AAO 2026, ưu tiên cắt mống mắt chu biên sớm (laser) cho mắt lành, không dùng thuốc co đồng tử kéo dài thay laser",
+     "v": "c",
+     "n": "Nguồn A: QĐ 40/QĐ-BYT 2015 (mục 4b, Tại mắt): để đề phòng cơn ở mắt thứ hai nên tra 1–2 giọt pilocarpin 1% cho mắt thứ hai. Nguồn B: AAO PACD PPP 2026 (Fellow-eye management): mắt lành phải đánh giá, làm LPI dự phòng sớm nếu góc hẹp vì khoảng một nửa mắt lành bị cơn cấp trong 5 năm, cơn có thể xảy ra trong vài ngày; điều trị thuốc co đồng tử kéo dài không thay thế LPI, khoảng 40% mắt lành dùng thuốc co đồng tử vẫn bị cơn trong 5 năm. Hai nguồn khác nhau vì năm, nguồn lực (QĐ 40 là cầu nối tại tuyến không laser, AAO là xử trí tại cơ sở đủ laser); cả hai cách đều có chỗ."
+    },
+    {
+     "t": "Dừng ngay thuốc dị ứng clorpheniramin; dặn không dùng thuốc cảm, thuốc dị ứng, thuốc say tàu xe, thuốc an thần, nhỏ mắt giãn đồng tử khi chưa hỏi bác sĩ mắt",
+     "v": "c",
+     "n": "AAO PACD PPP 2026 (Management – PACS và History): thuốc có đặc tính kháng cholinergic (thuốc thông mũi, cảm cúm, dị ứng, thuốc ngủ, thuốc tâm thần, say tàu xe) có thể gây giãn đồng tử và khởi phát cơn cấp; thuốc nhỏ mắt giãn đồng tử cũng có thể khởi phát. Thuốc thay thế cho chứng ngứa mũi theo mùa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm đau, chống nôn nhẹ nhàng trong lúc chuyển; ghi lại giờ, thuốc đã cho, nhãn áp trước và sau để gửi kèm; con trai đi cùng trên xe, không để ông tự đi",
+     "v": "c",
+     "n": "QĐ 40/QĐ-BYT 2015 (mục 4b): thuốc giảm đau, an thần là một phần điều trị toàn thân. Tên thuốc, liều giảm đau và chống nôn: không có trong tài liệu đã tải. AAO PACD PPP 2026 (Counseling and Referral): hội chẩn hoặc chuyển chuyên khoa khi chẩn đoán hoặc xử trí khó. Tiêu chuẩn chuyển tuyến chi tiết của tuyến huyện ở Việt Nam: không có trong tài liệu đã tải; ca dùng nguyên tắc cấp cứu của hai nguồn trên."
+    },
+    {
+     "t": "Giải thích cho ông lý do chưa truyền chai nước thường: chai nước không hạ nhãn áp; thuốc truyền duy nhất có tác dụng ở đây là thuốc hạ nhãn áp (acetazolamid tĩnh mạch, mannitol 20% truyền nhanh) do bệnh viện mắt quyết định. Nghe lo ngại về tiền và ruộng, giải thích chuyển tuyến là để giữ mắt",
+     "v": "c",
+     "n": "QĐ 40/QĐ-BYT 2015 (mục 4b): khi nhãn áp tăng rất cao có thể bổ sung thuốc thẩm thấu như truyền tĩnh mạch nhanh mannitol 20% × 200 mL hoặc uống glycerol 50% (1 mL/kg). AAO PACD PPP 2026: thuốc thẩm thấu toàn thân (mannitol) có thể cần để hạ nhanh nhãn áp. Việc dịch truyền thường (NaCl 0,9%, glucose) không có vai trò hạ nhãn áp: không có trong tài liệu đã tải, không phải đáp án. Chi phí chuyển tuyến và bảo hiểm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Truyền tĩnh mạch NaCl 0,9% hoặc glucose theo ý ông để 'cho khỏe', rồi theo dõi",
+     "v": "a",
+     "n": "Không hại trực tiếp nhưng không hạ nhãn áp, làm chậm chuyển tuyến. Tài liệu đã tải không nêu vai trò dịch truyền thường trong cơn cấp. Chấm chấp nhận chỉ khi vẫn chuyển ngay và đã dùng thuốc hạ nhãn áp."
+    },
+    {
+     "t": "Gọi tuyến trên báo trước (SBAR): nam 68 tuổi, mắt phải nhãn áp rất cao, thị lực đếm ngón tay, đã dùng acetazolamid ± nhỏ pilocarpin, mắt trái tiền phòng nông, đã uống clorpheniramin; đề nghị hạ nhãn áp và cắt mống mắt chu biên cả hai mắt",
+     "v": "a",
+     "n": "AAO PACD PPP 2026 (Acute attack management; Fellow-eye management): LPI sớm cho mắt bệnh khi giác mạc đủ trong và cho mắt lành. Chuẩn SBAR không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhỏ nhỏ mắt kháng sinh (tobramycin) và dặn tái khám sau vài ngày vì nghĩ 'đau mắt đỏ'",
+     "v": "w",
+     "n": "QĐ 40/QĐ-BYT 2015 (mục 5a): cơn cấp không được điều trị thì nhãn áp cao kéo dài dẫn đến mù. Kháng sinh nhỏ mắt không hạ nhãn áp; chẩn đoán viêm kết mạc bị loại trừ (xem chan_doan)."
+    },
+    {
+     "t": "Nhỏ corticoid (dexamethasone) nghĩ 'viêm màng bồ đào' rồi cho về",
+     "v": "w",
+     "n": "QĐ 40/QĐ-BYT 2015 (mục 3a, Lưu ý): trong cơn cấp có thể có phản ứng viêm, nhưng phải nhận ra đồng tử giãn và tiền phòng nông; điều trị trọng tâm là hạ nhãn áp (mục 4a). Corticoid chỉ dùng sau mổ laser/phẫu thuật (AAO PACD PPP 2026, Surgery and Postoperative Care)."
+    },
+    {
+     "t": "Nhỏ thuốc giãn đồng tử (atropin, tropicamid) để soi đáy mắt cho rõ",
+     "v": "h",
+     "n": "AAO PACD PPP 2026 (History; Other components of the initial evaluation): nhỏ thuốc giãn đồng tử có thể khởi phát cơn cấp; chống chỉ định khi nghi góc đóng chưa điều trị, đặc biệt trong cơn cấp (đồng tử đang giãn nửa vời, thuốc co đồng tử mới là hướng điều trị)."
+    },
+    {
+     "t": "Tiếp tục cho ông dùng clorpheniramin vì 'dị ứng theo mùa'",
+     "v": "h",
+     "n": "AAO PACD PPP 2026 (History; Management – PACS): thuốc dị ứng, cảm cúm có đặc tính kháng cholinergic có thể gây giãn đồng tử và khởi phát cơn góc đóng cấp."
+    },
+    {
+     "t": "Cho về nhà uống acetazolamid và hẹn tái khám tuần sau",
+     "v": "w",
+     "n": "QĐ 40/QĐ-BYT 2015 (mục 4b): acetazolamid chỉ dùng trong thời gian chờ phẫu thuật, không kéo dài; điều trị bằng phẫu thuật (cắt mống mắt chu biên) là bắt buộc. AAO PACD PPP 2026 (Acute attack management): LPI phải làm sớm nhất khi an toàn; để chậm làm tổn thương thần kinh thị phát triển nhanh (Natural History)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Glôcôm góc đóng nguyên phát cơn cấp mắt phải, thể có nghẽn đồng tử (nhãn áp rất cao, giác mạc phù, đồng tử giãn nửa vời, tiền phòng nông, thị lực ĐNT 1 m)",
+     "Yếu tố khởi phát: giãn đồng tử trong chỗ tối sau xúc động mạnh, kèm uống clorpheniramin (thuốc dị ứng có tác dụng kháng cholinergic) 3 ngày",
+     "Tiền sử giấu: các đợt mờ mắt, quầng quanh đèn buổi chiều vài tháng nay (nghĩ cơn bán cấp), mẹ từng mù một bên sau đau mắt; viễn thị",
+     "Mắt trái: tiền phòng nông, góc nghi hẹp, nguy cơ cơn cấp cao, cần cắt mống mắt chu biên dự phòng",
+     "Đã loại trừ viêm kết mạc, viêm màng bồ đào trước tăng nhãn áp; đau đầu-nôn do nguyên nhân thần kinh hay tiêu hóa không nghĩ tới",
+     "Huyết áp 160/95 mmHg do đau, cần đo lại sau khi hết đau; muốn được truyền dịch (lý do thật đến khám)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: (1) Hỏi bệnh: khởi phát, đau mắt lan nửa đầu, quầng xanh đỏ, nhìn mờ, buồn nôn, ghèn, thuốc đã dùng (kể cả thuốc tự mua), tiền sử các đợt mờ mắt, người nhà có ai bị bệnh mắt, kính viễn (AAO PACD PPP 2026, History). (2) Khám: thị lực hai mắt, đồng tử, kết mạc, giác mạc, tiền phòng, nhãn áp hai mắt (Physical Examination). (3) CLS: không cần cho chẩn đoán; soi góc tiền phòng (gonioscopy) làm ở tuyến mắt. (4) Chẩn đoán, loại trừ. (5) Hạ nhãn áp và chuyển tuyến ngay.",
+     "Vì sao là glôcôm góc đóng cấp: bệnh khởi phát đột ngột, thường chiều tối sau xúc động mạnh; nhức mắt, nhức lan nửa đầu, nhìn mờ như qua màn sương, đèn có quầng xanh đỏ, buồn nôn, nôn, vã mồ hôi; thị lực giảm nhiều, nhãn áp tăng rất cao, mắt cương tụ đỏ, giác mạc phù mờ, đồng tử giãn méo, giảm hoặc mất phản xạ, tiền phòng nông (QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng nguyên phát, mục 3a). Mắt còn lại thường có tiền phòng nông và góc hẹp (mục 3a). AAO 2026 (Highlighted Findings): triệu chứng đau mắt, đau đầu, buồn nôn nôn, nhìn mờ có quầng; dấu hiệu nhãn áp rất cao, phù giác mạc, cương tụ kết mạc và thượng củng mạc, đồng tử giãn nửa vời.",
+     "Vì sao hay bị lỡ: ông giấu tiền sử. Lời kể ban đầu chỉ là 'nhức đầu, buồn nôn, mệt' nên dễ nghĩ bệnh nội khoa, thần kinh hay tiêu hóa và cho truyền dịch. Chi tiết quyết định nằm ở 3 thứ chỉ lộ khi hỏi lại nhẹ nhàng: thuốc dị ứng clorpheniramin (thuốc kháng cholinergic gây giãn đồng tử – AAO PACD PPP 2026, History), đợt mờ mắt quầng quanh đèn vài tháng nay (glôcôm góc đóng bán cấp – QĐ 40/QĐ-BYT 2015, mục 3b), mẹ mù một bên (tiền sử gia đình – AAO PACD PPP 2026, Risk Factors). Yếu tố nguy cơ khác: tuổi cao, viễn thị (Risk Factors). Giới nam ít gặp hơn nữ nhưng không loại trừ (Risk Factors: nữ là yếu tố nguy cơ).",
+     "Vì sao không phải viêm kết mạc: viêm kết mạc cấp ra dử nhiều, cương tụ nông, không ảnh hưởng thị lực (QĐ 40/QĐ-BYT 2015, Viêm màng bồ đào trước cấp tính, mục 3d). Ông không có ghèn, thị lực đếm ngón tay, giác mạc phù, đồng tử giãn, cương tụ rìa sẫm.",
+     "Vì sao không phải viêm màng bồ đào: viêm màng bồ đào tăng nhãn áp có tủa sau giác mạc, đồng tử dính, co nhỏ (QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng, mục 3a, chẩn đoán phân biệt). Ông có đồng tử giãn, mắt đối bên tiền phòng nông, không có tủa. Nhớ lưu ý: cơn cấp cũng có thể có phản ứng viêm, nên không dựa vào 'có viêm' để loại glôcôm.",
+     "Không có X-quang: không ảnh hưởng chẩn đoán. CT sọ não bị khóa nhưng không cần; chẩn đoán dựa vào hỏi bệnh, thị lực, đồng tử, nhãn áp, tiền phòng. Thiếu soi góc tiền phòng và OCT: ghi cho tuyến trên, không có ở cơ sở. Chọn xét nghiệm máu, điện giải, creatinin chỉ nhằm chuẩn bị dùng acetazolamid, tài liệu đã tải không đặt thành bắt buộc."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: chuyển tuyến ngay đến bệnh viện có khoa mắt sau khi đã bắt đầu hạ nhãn áp, vì cắt mống mắt chu biên bằng laser hoặc phẫu thuật là bắt buộc (QĐ 40/QĐ-BYT 2015, mục 4b) và nên làm sớm nhất khi an toàn sau khi hạ nhãn áp (AAO PACD PPP 2026, Acute attack management). Tuyến huyện không có đèn khe, soi góc, laser.",
+     "Hạ nhãn áp: toàn thân acetazolamid 0,25 g × 2–4 viên/ngày hoặc tiêm tĩnh mạch 500 mg khi nôn nhiều, kèm kali; tại mắt pilocarpin 1% mỗi 15–20 phút cho đến khi đồng tử co, rồi 1 giờ/lần, kèm chẹn bêta hoặc ức chế anhydrase carbonic nhỏ mắt (QĐ 40/QĐ-BYT 2015, mục 4b). Thuốc thẩm thấu (mannitol 20% 200 mL truyền nhanh hoặc glycerol 50% 1 mL/kg) khi nhãn áp rất cao do tuyến trên quyết định. AAO 2026: các thuốc ức chế tạo thủy dịch có thể kém hiệu quả lúc nhãn áp rất cao; thuốc co đồng tử có thể không đáp ứng do thiếu máu cơ vòng; khi đó dùng thêm thuốc thẩm thấu, nhấn giác mạc, laser tạo hình mống mắt, chọc tiền phòng. Hai nguồn bổ sung cho nhau, không mâu thuẫn.",
+     "Mắt lành: QĐ 40/2015 dặn nhỏ pilocarpin 1% để phòng cơn ở mắt thứ hai, AAO 2026 dặn làm LPI dự phòng sớm cho mắt lành vì khoảng một nửa mắt lành bị cơn trong 5 năm, có thể trong vài ngày, và thuốc co đồng tử kéo dài không thay được LPI (khoảng 40% mắt lành dùng thuốc co đồng tử vẫn bị cơn trong 5 năm). Ghi cả hai (xem xu_tri).",
+     "Dừng thuốc kháng cholinergic: clorpheniramin phải ngừng; dặn tránh thuốc cảm, thuốc dị ứng, thuốc ngủ, thuốc say tàu xe (AAO PACD PPP 2026, Management – PACS).",
+     "Lý do thật 'muốn truyền dịch': không cho dịch thường, giải thích hợp lý và nghe nỗi lo chi phí, không ai trông ruộng. Nói rõ chỉ có thuốc truyền hạ nhãn áp mới có ích và được dùng ở bệnh viện mắt. Cách thuyết phục tăng khả năng ông chấp nhận chuyển tuyến.",
+     "Không làm: nhỏ giãn đồng tử, nhỏ kháng sinh/corticoid rồi cho về, cho về uống acetazolamid dài ngày."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Acetazolamid",
+      "ham_luong": "250 mg (0,25 g)",
+      "lieu": "2 viên (500 mg) liều đầu, sau đó theo bác sĩ mắt; tổng 2–4 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Ngay tại phòng khám trước khi chuyển",
+      "so_ngay": "Chỉ trong thời gian chờ phẫu thuật, không kéo dài",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015 (mục 4b): 0,25 g × 2–4 viên/ngày; chỉ dùng chờ phẫu thuật; bổ sung kali. Nếu nôn nhiều: tiêm tĩnh mạch 500 mg (bản chữ in '500g'). Liều đầu 2 viên là diễn giải khoảng 2–4 viên/ngày, không có trong tài liệu đã tải một cách riêng."
+     },
+     {
+      "thuoc": "Pilocarpin nhỏ mắt phải",
+      "ham_luong": "1%",
+      "lieu": "1–2 giọt mỗi lần",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Mỗi 15–20 phút cho đến khi đồng tử co và nhãn áp hạ, sau đó 1 giờ/lần, duy trì 3–4 lần/ngày",
+      "so_ngay": "Đến khi làm laser",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015 (mục 4b, Tại mắt). Nồng độ 1% nêu cho mắt thứ hai; nồng độ cho mắt bệnh không có trong tài liệu đã tải. AAO 2026: có thể không đáp ứng khi nhãn áp rất cao."
+     },
+     {
+      "thuoc": "Thuốc chẹn bêta giao cảm nhỏ mắt (vd timolol) nhỏ mắt phải",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "1 giọt",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "2 lần/ngày",
+      "so_ngay": "Chờ phẫu thuật",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015 (mục 4b): chẹn bêta giao cảm 2 lần/ngày, thận trọng bệnh phổi, tim, mạch. Ông Tư không hen, không bệnh tim; mạch 88. Tên thuốc, nồng độ cụ thể: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Pilocarpin nhỏ mắt trái (phòng ngừa)",
+      "ham_luong": "1%",
+      "lieu": "1–2 giọt",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Một lần, rồi tuyến trên quyết định laser cắt mống mắt chu biên mắt trái",
+      "so_ngay": "Tạm thời cho đến LPI",
+      "ghi_chu": "Theo QĐ 40/QĐ-BYT 2015 (mục 4b). AAO 2026 (Fellow-eye management): thuốc co đồng tử mạn không thay LPI; làm LPI dự phòng sớm."
+     },
+     {
+      "thuoc": "Thuốc giảm đau",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải",
+      "duong": "Uống hoặc theo bác sĩ",
+      "thoi_diem": "Khi đau nhiều",
+      "so_ngay": "Trong thời gian chuyển",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015 (mục 4b): thuốc giảm đau, an thần. Tên, liều: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Clorpheniramin 4 mg (thuốc dị ứng ông tự mua)",
+      "ham_luong": "4 mg",
+      "lieu": "NGỪNG",
+      "duong": "Uống",
+      "thoi_diem": "Dừng ngay",
+      "so_ngay": "Không dùng lại khi chưa hỏi bác sĩ mắt",
+      "ghi_chu": "AAO PACD PPP 2026 (History; Management – PACS): thuốc dị ứng có tính kháng cholinergic có thể gây cơn cấp."
+     }
+    ],
+    "dan_do": [
+     "Bệnh của ông là cơn tăng nhãn áp cấp, nhãn áp mắt phải đang rất cao nên đau, mờ, buồn nôn; để lâu có thể mù vĩnh viễn (QĐ 40/QĐ-BYT 2015, mục 5a). Cần đi bệnh viện có khoa mắt ngay trong hôm nay, con trai đi cùng.",
+     "Truyền chai nước thường không làm hạ nhãn áp; thuốc cần cho ông là thuốc hạ nhãn áp, ở bệnh viện mắt sẽ làm laser nhỏ cắt mống mắt để mở đường thoát cho nước trong mắt, đa số làm trong ngày, ít đau.",
+     "Ngừng ngay thuốc dị ứng clorpheniramin; về sau không tự mua thuốc cảm, thuốc dị ứng, thuốc ngủ, thuốc say tàu xe; trước khi đi khám mắt báo bác sĩ nhãn khoa rằng đã từng bị cơn cấp.",
+     "Mắt trái cũng nằm trong vùng nguy hiểm: nửa số mắt còn lại bị cơn cấp trong 5 năm nếu không làm laser (AAO PACD PPP 2026, Fellow-eye management). Đề nghị bác sĩ mắt cắt mống mắt cả hai bên.",
+     "Con cháu, anh em ruột của ông nên đi khám mắt; người trên 40 tuổi khám mắt mỗi năm, người ruột thịt của bệnh nhân glôcôm khám mỗi 6 tháng (QĐ 40/QĐ-BYT 2015, mục 6).",
+     "Về sau theo dõi lâu dài nhãn áp, đĩa thị, thị trường (AAO PACD PPP 2026, Follow-up Evaluation). Nếu nhức mắt, đỏ, mờ trở lại: đi khám ngay, không chờ qua đêm.",
+     "Nếu ông ngại đi: gọi cho con ông (anh Hải) và nhờ trạm y tế xã, hoặc xe cấp cứu; chi phí tùy bảo hiểm: không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Tư được hạ nhãn áp ngay tại phòng khám rồi con trai chở lên bệnh viện mắt tỉnh trong buổi sáng. Ở đó nhãn áp mắt phải hạ xuống nhưng chậm, giác mạc phù mất dần sau 2 ngày nên laser cắt mống mắt chu biên phải làm muộn hơn dự kiến; mắt trái được cắt mống mắt chu biên dự phòng. Thị lực mắt phải tăng từ đếm ngón tay lên 3/10 sau 2 tuần, và chỉ khoảng 5/10 sau 3 tháng do còn dính góc một phần, phải nhỏ thuốc hạ nhãn áp lâu dài, theo dõi thị trường. Ông ngừng clorpheniramin, bỏ ý định 'truyền nước', và con trai được dặn đi khám mắt (diễn tiến mang tính minh họa của ca; tiên lượng tùy giai đoạn lúc đến khám – QĐ 40/2015, mục 5a; sau cơn cấp có thể tổn thương thần kinh thị tiến triển – AAO PACD PPP 2026, Natural History).",
+ "nhieu": [
+  "Giấu tiền sử: ông không tự kể thuốc dị ứng clorpheniramin, các đợt mờ mắt quầng quanh đèn vài tháng, mẹ mù một bên; chỉ ra khi hỏi lại nhẹ nhàng từng việc.",
+  "Lời kể 'nhức đầu, buồn nôn, mệt, tức giận' dễ gợi nội khoa, thần kinh hoặc tiêu hóa; cùng với huyết áp 160/95 dễ nghĩ cơn tăng huyết áp.",
+  "Mắt đỏ dễ nghĩ viêm kết mạc, nhưng đỏ sẫm quanh rìa, giác mạc phù, không ghèn, đồng tử giãn.",
+  "Ông đòi 'truyền chai nước' và ngại tốn tiền chuyển tuyến; cần giải thích thay vì cho dịch thường hay cho về.",
+  "Không có X-quang: CT sọ bị khóa, không cần; chẩn đoán dựa vào thị lực, đồng tử, tiền phòng, nhãn áp."
+ ],
+ "bai_hoc_bien": [
+  "Đau đầu-nôn kèm một mắt đỏ, nhìn mờ ở người trên 60 tuổi: nghĩ glôcôm góc đóng cấp, đo nhãn áp và nhìn đồng tử trước khi nghĩ đến thần kinh hoặc tiêu hóa.",
+  "Hỏi mọi thuốc tự mua (thuốc dị ứng, cảm, ngủ, say tàu xe) vì kháng cholinergic có thể làm giãn đồng tử và khởi phát cơn cấp (AAO 2026, History).",
+  "Hỏi lại không phán xét về các đợt mờ mắt, quầng quanh đèn đã qua và tiền sử gia đình; ông giấu vì sợ mổ, sợ tốn tiền.",
+  "Cơn cấp là cấp cứu mắt: hạ nhãn áp ngay rồi chuyển, không cho về, không nhỏ giãn đồng tử, không điều trị như viêm kết mạc.",
+  "Mắt lành cũng cần được bảo vệ bằng cắt mống mắt chu biên sớm; chỉ dùng thuốc co đồng tử là giải pháp tạm.",
+  "Lý do thật 'muốn truyền dịch': dịch thường không hạ nhãn áp, giải thích và gắn với lý do chuyển tuyến.",
+  "Khỏi chậm hơn dự kiến: nhãn áp hạ chậm, giác mạc phù lâu, thị lực hồi phục từng phần; cần theo dõi nhãn áp, đĩa thị, thị trường lâu dài (AAO 2026, Follow-up Evaluation)."
+ ],
+ "diem_nho": [
+  "Glôcôm góc đóng nguyên phát cơn cấp: khởi phát chiều tối sau xúc động mạnh, nhức mắt lan nửa đầu, quầng xanh đỏ quanh đèn, buồn nôn, thị lực giảm nhiều, nhãn áp rất cao, giác mạc phù, đồng tử giãn méo, tiền phòng nông (QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng nguyên phát, mục 3a).",
+  "Hạ nhãn áp: acetazolamid 0,25 g × 2–4 viên/ngày hoặc tiêm tĩnh mạch 500 mg, pilocarpin tại mắt mỗi 15–20 phút, chẹn bêta hoặc ức chế anhydrase carbonic nhỏ mắt, mannitol 20% 200 mL khi quá cao (QĐ 40/2015, mục 4b); cắt mống mắt chu biên bằng laser hoặc phẫu thuật là bắt buộc (mục 4b).",
+  "AAO 2026: dấu hiệu AACC là đau mắt, nhức đầu, buồn nôn, nhìn mờ có quầng; nhãn áp rất cao, phù giác mạc, cương tụ, đồng tử giãn nửa vời; điều trị nội khoa trước rồi LPI, cắt mống mắt hay lấy thể thủy tinh.",
+  "Mắt lành: khoảng một nửa bị cơn cấp trong 5 năm, thuốc co đồng tử mạn không thay LPI (AAO PACD PPP 2026, Fellow-eye management).",
+  "Thuốc kháng cholinergic (thuốc dị ứng, cảm, ngủ) có thể khởi phát cơn cấp ở mắt có góc hẹp (AAO PACD PPP 2026, History; Management – PACS).",
+  "Yếu tố nguy cơ: tiền sử gia đình, tuổi cao, nữ, người châu Á, viễn thị, tiền phòng nông (AAO PACD PPP 2026, Risk Factors).",
+  "Phòng bệnh: người trên 40 tuổi khám mắt mỗi năm, người ruột thịt của bệnh nhân glôcôm mỗi 6 tháng (QĐ 40/2015, mục 6)."
+ ],
+ "nguon": [
+  "BYT – QĐ 40/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – TL-0242 – ĐÃ ĐỌC: Glôcôm góc đóng nguyên phát (mục 1–6); chẩn đoán phân biệt viêm màng bồ đào tăng nhãn áp (mục 3a). Bản chữ có lỗi in 'Acetazolamide 500g' (hiểu là 500 mg).",
+  "AAO – Primary Angle-Closure Disease Preferred Practice Pattern 2026 (Ophthalmology 2026;133(4):P153-P201) – TL-0047 – ĐÃ ĐỌC: Highlighted Findings; Risk Factors; Natural History; Diagnosis – History, Physical Examination, Gonioscopy; Management – PACS, Acute Angle-Closure Crisis (Acute attack management, Fellow-eye management), Surgery and Postoperative Care, Follow-up Evaluation; Clinician and Setting; Counseling and Referral"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (25/10/2026) – viết: Sonnet. Tài liệu đã đọc: TL-0242 (QĐ 40/2015) mục Glôcôm góc đóng nguyên phát; TL-0047 (AAO PACD PPP 2026) các mục ghi ở nguon.",
+  "Thiếu trong tài liệu đã tải: nồng độ pilocarpin cho mắt bệnh và nồng độ/tên thuốc chẹn bêta nhỏ mắt; tên và liều thuốc giảm đau, chống nôn; vai trò của dịch truyền thường; giá trị nhãn áp mmHg theo ngưỡng; tiêu chuẩn chuyển tuyến của tuyến huyện; tiêu chuẩn chẩn đoán tăng huyết áp và đau đầu thần kinh. Số liệu thị lực, nhãn áp 58 mmHg, thời gian hồi phục là số liệu minh họa của ca.",
+  "Mâu thuẫn/khác nhau: pilocarpin 1% mắt lành (QĐ 40/2015) và LPI mắt lành sớm (AAO 2026) – ghi cả hai (xem TM-0440_mau_thuan.md). QĐ 40 và AAO về thuốc co đồng tử khi nhãn áp rất cao: bổ sung, không mâu thuẫn.",
+  "Mục khám/CLS: dùng id có sẵn (mat, nhan_ap, giac_mac_fluorescein, day_mat, than_kinh); soi góc tiền phòng và đèn khe không có trong danh mục nên nhập vào mô tả 'mat'. Không có đề xuất danh mục mới.",
+  "Ca không có ảnh da/ảnh mắt (không có trong kho, mô tả bằng chữ)."
+ ]
+}
