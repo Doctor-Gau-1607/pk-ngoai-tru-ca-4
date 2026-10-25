@@ -1,0 +1,484 @@
+{
+ "ma_ca": "TK-0448",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-10-25, soát nguồn với kho tài liệu đã tải",
+ "benh": "TK_dau_dau_lam_dung_thuoc",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Đau đầu do lạm dụng thuốc giảm đau",
+  "chan_doan_phai_loai_tru": [
+   "Migraine mạn",
+   "U não"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Đáp án là chuyển tuyến",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Chủ quán ăn",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Quốc Hùng",
+  "tuoi": 34,
+  "gioi": "Nam",
+  "nghe": "Chủ quán cơm bình dân",
+  "can_nang": 64,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'tôi' hoặc 'anh', gọi bác sĩ là 'bác sĩ'. Vợ xưng 'em', gọi anh Hùng là 'anh ấy' hoặc 'chồng em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Làm bếp quán cơm 12 giờ mỗi ngày, quen chịu đau, ít than, quen tự mua thuốc ở nhà thuốc. Trầm, ngại nói chuyện kín, sợ làm phiền người thân. Từ hôm nay đau nặng và nôn, đeo khẩu trang, ngồi cách xa vợ, nói nhỏ, mắt nheo vì đau. Sợ mình bị bệnh lây nhưng giấu vợ.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Lan (vợ) nhanh miệng, lo lắng, trả lời hầu hết câu hỏi và hay rút gọn: 'anh ấy đau đầu quen rồi', 'uống vài viên thôi', 'tự nhiên đau'. Chị ngại kể chuyện vợ chồng trước bác sĩ. Anh Hùng ngồi im, gật; nếu bác sĩ hỏi thẳng anh thì anh trả lời ngắn (nguoi_noi = benh_nhan). Số viên thuốc thật, hoàn cảnh đau bùng nổ và nỗi sợ lây bệnh chỉ lộ khi bác sĩ hỏi cụ thể hoặc hỏi riêng anh (mời chị ra ngoài).",
+  "nguoi_nha": "Vợ, chị Nguyễn Thị Lan, 32 tuổi, bán hàng cùng chồng ở quán, đưa anh đi khám; nói nhanh, lo, hay nói chung chung và rút gọn (nguoi_noi = nguoi_nha). Khi bác sĩ hỏi thẳng anh Hùng thì anh trả lời ngắn (nguoi_noi = benh_nhan).",
+  "ten_nguoi_nha": "Vợ (chị Lan)",
+  "ngoai_hinh": {
+   "da": "#d9ae88",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#6f8fb5",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e8b590",
+    "toc": "#2b1e17",
+    "kieuToc": "dai",
+    "ao": "#a56b8a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau đầu nhiều năm, mấy hôm nay nặng hơn, nôn",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, CRP, sinh hóa nền, tổng phân tích nước tiểu); không có X-quang, siêu âm, CT, MRI, nội soi và không có các xét nghiệm chuyên sâu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 34 tuổi, chủ quán cơm bình dân, do vợ đưa đến vì đau đầu đã nhiều năm, mấy hôm nay đau nặng hơn, nôn và uống thuốc không đỡ. Vợ nói thay phần lớn. Anh đeo khẩu trang, ngồi cách xa vợ. Sinh hiệu lúc tiếp đón: HA 132/84 mmHg, mạch 84 l/p, nhiệt 37,1 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Anh Hùng được cho về nhà với lời dặn bỏ paracetamol và hẹn tái khám, như một ca đau đầu do lạm dụng thuốc, trong khi cơn đau sấm sét sau giao hợp kèm nôn và cứng cổ chưa được loại trừ chảy máu dưới nhện. Nếu có phình mạch, cơn đau này có thể là cơn báo trước (10–43% trường hợp) và chẩn đoán sót có thể dẫn đến tàn tật nặng hoặc tử vong (AHA/ASA 2023 (TL-0070), mục Evaluation for aSAH, Synopsis). Anh vẫn sợ lây nên ở nhà một mình, đeo khẩu trang, và có thể trì hoãn đến viện khi nặng thêm.",
+    "theo_doi": "Anh Hùng nằm lại phòng khám 'theo dõi vài giờ' và uống thêm thuốc giảm đau. Phòng khám không có CT hay chọc dò, theo dõi lâm sàng không loại trừ được xuất huyết dưới nhện; khuyến cáo là CT sọ rồi chọc dò dịch não tủy khi đến sau 6 giờ (AHA/ASA 2023 (TL-0070), khuyến cáo 2). Mất thêm nhiều giờ, thuốc giảm đau có thể làm mờ diễn tiến, và cuối cùng vẫn phải chuyển.",
+    "nhap_vien": "Anh Hùng nhập khoa nội ở cơ sở hiện tại để truyền giảm đau và chống nôn vài ngày, nhưng cơ sở không có CT hay chọc dò dịch não tủy nên vẫn không có chẩn đoán (AHA/ASA 2023 (TL-0070), khuyến cáo 1–2). Anh tốn tiền nằm viện, quán bỏ không, và nguy cơ chẩn đoán muộn như khi cho về; cuối cùng vẫn phải chuyển tuyến sau khi mất thời gian."
+   },
+   "loi_mo": "Chào bác sĩ. Chồng em đau đầu mấy năm nay rồi, uống thuốc quen thì thôi. Mấy hôm nay đau dữ hơn, nôn nữa, uống thuốc không bớt nên em đưa đi khám. Anh ấy ít nói lắm, để em nói cho.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "132/84",
+    "nhiet": "37,1",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Vợ kể: anh Hùng đau đầu mấy năm nay, mấy hôm nay đau nặng hơn hẳn, uống thuốc không đỡ, nôn mấy lần. Chị đưa anh đi khám vì thấy anh 'không bình thường'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám theo lời người nhà"
+    },
+    {
+     "id": "an_rieng",
+     "noi_dung": "Vợ kể: hai hôm nay anh tự ngủ riêng, ăn bát đũa riêng, đeo khẩu trang cả ở nhà, không chịu bế con trai 4 tuổi; hỏi thì anh gạt đi, nói 'cứ để anh yên'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Dấu hiệu nỗi sợ lây bệnh (gợi lý do thật)"
+    },
+    {
+     "id": "dau_nen",
+     "noi_dung": "Hai năm nay đau đầu gần như mỗi ngày, ước khoảng 25 ngày mỗi tháng: âm ỉ hai bên thái dương và trán, như bị siết quanh đầu, không giật theo mạch, không báo trước. Không buồn nôn, không sợ ánh sáng hay tiếng ồn, không đau một bên. Trước đó chỉ thỉnh thoảng 1–2 lần mỗi tuần, nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau đầu nền: kiểu căng, không đặc điểm migraine, tần suất ≥ 15 ngày/tháng"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Thật ra anh uống paracetamol 500 mg khoảng 8 viên mỗi ngày (4 g), gần như ngày nào cũng uống, hơn hai năm nay; mua nguyên hộp lớn ở nhà thuốc đầu ngõ, đang để trong túi. Đôi khi thêm viên thuốc cảm. Không dùng thuốc nào khác. Anh từng thử bỏ thuốc một lần, đau dữ hơn nên uống lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Vợ chỉ nói 'anh uống vài viên thôi'. Chỉ có số thật khi bác sĩ hỏi cụ thể số viên mỗi ngày và số ngày mỗi tháng, xin xem hộp thuốc, hoặc hỏi thẳng anh Hùng.",
+     "k": 1,
+     "y": "Mức dùng thuốc giảm đau (số viên/ngày, số ngày/tháng, thời gian)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tối hôm kia (khoảng 40 giờ trước), đang quan hệ vợ chồng, đúng lúc cực khoái anh đau bùng nổ sau gáy như bị đập mạnh, đạt đỉnh trong vài giây. Anh nôn hai lần, nằm bất động nhiều giờ. Chưa từng có cơn đau nào như vậy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Vợ chỉ nói 'tự nhiên đau dữ lắm', ngại kể chuyện vợ chồng trước bác sĩ. Chỉ kể rõ hoàn cảnh khởi phát và tốc độ đạt đỉnh khi bác sĩ hỏi cụ thể đau bắt đầu lúc đang làm gì, nhanh hay từ từ (hoặc hỏi riêng anh).",
+     "k": 1,
+     "y": "Đau đầu sấm sét khởi phát khi gắng sức/giao hợp (cờ đỏ)"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau cơn đó vẫn còn đau liên tục, mức 7/10, đau sau gáy lan lên đỉnh đầu, khác hẳn kiểu đau mọi ngày; 8 viên paracetamol hôm qua gần như không bớt. Cổ cứng, sợ cúi đầu. Tổng cộng nôn ba lần, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đổi tính chất đau, cứng cổ, đáp ứng kém với thuốc"
+    },
+    {
+     "id": "co_do_am",
+     "noi_dung": "Không sốt, không co giật, không ngất, không yếu liệt hay tê tay chân, không nói khó, không nhìn đôi hoặc mờ, không chấn thương đầu. Không ho, hắt hơi hay rặn gây đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ khác (sốt, thần kinh khu trú, chấn thương)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không có cao huyết áp, đái tháo đường, ung thư, HIV hay bệnh gan đã biết. Không bị chấn thương đầu. Uống bia cuối tuần 2–3 lon. Không hút thuốc. Chưa chụp CT hay MRI đầu bao giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử bệnh nền, nguy cơ"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Anh sợ mình bị bệnh lây: một khách quen ở quán mới nhập viện vì viêm màng não, nghe nói đau đầu, nôn, cứng cổ giống anh. Anh sợ lây cho vợ, con 4 tuổi và hai nhân viên nên ngủ riêng, đeo khẩu trang, không dám đụng vào con; vì sợ nên giấu vợ chuyện này.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng anh Hùng (mời vợ ra ngoài) về nỗi lo, hoặc hỏi vì sao đeo khẩu trang, ngủ riêng, né con. Hỏi chung 'có lo gì không' thì nói 'không'.",
+     "k": 1,
+     "y": "Lý do thật: sợ lây bệnh cho người thân"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Chủ quán cơm bình dân, đứng bếp khoảng 12 giờ mỗi ngày, ngủ 5 giờ mỗi đêm, tiếp xúc nhiều người. Không đi nước ngoài hay đến vùng dịch.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ hay đau nửa đầu. Cha mẹ không ai bị đột quỵ hay phình mạch não mà gia đình biết.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, mặt nhăn vì đau, đeo khẩu trang. Da niêm hồng, không vàng da. Gầy vừa, không phù.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Glasgow 15 điểm. Gập cổ bị hạn chế, cằm không chạm ngực được vì đau và cứng cổ. Kernig và Brudzinski âm tính. Không liệt mặt, sức cơ 5/5 bốn chi, cảm giác đều, phản xạ gân xương đều hai bên, không Babinski, đi đứng vững.",
+     "k": 1,
+     "hien": "Tỉnh, trả lời đúng. Cúi cổ sát ngực không được, kêu đau."
+    },
+    "day_mat": {
+     "a": "Gai thị hai bên rõ bờ, không phù, có mạch đập tĩnh mạch võng mạc. Không xuất huyết võng mạc.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Đồng tử hai bên 3 mm, tròn đều, phản xạ ánh sáng tốt. Vận nhãn đủ các hướng, không song thị, thị lực không giảm.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ. Tuyến giáp không to. Không ấn đau xoang, không đau vùng cơ cổ khi ấn.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở đều.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không sờ thấy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "Hb 146 g/L · BC 8,3 G/L · TC 268 G/L",
+     "bang": {
+      "wbc": 8.3,
+      "neu_pct": 63.0,
+      "neu": 5.23,
+      "lym_pct": 28.0,
+      "lym": 2.32,
+      "mono_pct": 6.0,
+      "mono": 0.5,
+      "eos_pct": 2.5,
+      "eos": 0.21,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.9,
+      "hgb": 146,
+      "hct": 0.43,
+      "mcv": 88.0,
+      "mch": 29.8,
+      "mchc": 340,
+      "rdw": 13.2,
+      "plt": 268
+     },
+     "n": "Không tăng bạch cầu, không gợi ý nhiễm trùng nặng. Cận lâm sàng cơ bản không loại trừ được xuất huyết dưới nhện hay u não."
+    },
+    "crp": {
+     "v": "u",
+     "r": "3 mg/L",
+     "n": "CRP bình thường, không sốt: ít gợi ý viêm màng não, nhưng bộ ba sốt – cứng cổ – rối loạn tri giác không có cũng không loại trừ nhiễm trùng thần kinh (SNNOOP10, mục Systemic symptoms). Chỉ dịch não tủy mới loại trừ."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 38 · ALT 52 U/L",
+     "ab": 1,
+     "n": "Tăng nhẹ ALT sau hơn 2 năm dùng paracetamol 4 g/ngày; ngưỡng can thiệp cho men gan tăng nhẹ không có trong tài liệu đã tải. QĐ 3610/2015 (Ngộ độc paracetamol, mục 2): dùng kéo dài hoặc phối hợp nhiều thuốc chứa paracetamol có thể gây ngộ độc."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 4,6 mmol/L · Creatinin 82 µmol/L · eGFR 108 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.6,
+      "creat": 82,
+      "egfr": 108
+     },
+     "n": "Thường quy trước chuyển tuyến; không đổi quyết định."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 138 · K 4,0 · Cl 102 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 4.0,
+      "cl": 102
+     },
+     "n": "Nôn nhiều lần: kiểm tra điện giải. Bình thường."
+    },
+    "glu": {
+     "v": "a",
+     "r": "5,4 mmol/L",
+     "bang": {
+      "glu": 5.4
+     },
+     "n": "Loại trừ hạ/tăng đường huyết khi đau đầu kèm nôn. Bình thường."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Không protein · Không glucose · Không hồng cầu",
+     "n": "Không đóng góp vào chẩn đoán."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 84 l/p, không biến đổi ST–T.",
+     "n": "Không bắt buộc; không có trong khuyến cáo đã tải cho đau đầu sấm sét. Làm hay không đều không trừ điểm."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "n",
+     "r": "Dịch trong, hồng cầu 4/µL, không xanthochromia, protein và đường bình thường.",
+     "n": "Không nên chọc dò khi chưa có CT: AHA/ASA 2023 (Evaluation for aSAH, khuyến cáo 2) quy định CT sọ không cản quang trước, nếu âm mới chọc dò khi đến muộn > 6 giờ. Cơ sở này không có CT; chuyển tuyến để làm đủ quy trình."
+    },
+    "paracetamol_mau": {
+     "v": "n",
+     "r": "Dưới ngưỡng phát hiện",
+     "n": "Không giúp chẩn đoán MOH (dựa trên số ngày dùng thuốc, ICHD-3 8.2.3.1) và không đổi xử trí hôm nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau đầu do lạm dụng thuốc giảm đau (paracetamol) trên nền đau đầu kiểu căng thẳng",
+     "ok": 1,
+     "n": "Đau đầu ≥ 15 ngày/tháng ở người có đau đầu nguyên phát từ trước, dùng paracetamol ≥ 15 ngày/tháng trên 3 tháng (khoảng 25 ngày/tháng, hơn 2 năm) (ICHD-3 2018 (TL-0480), 8.2 và 8.2.3.1). Đây là chẩn đoán đích của đau đầu nền, nhưng KHÔNG giải thích được cơn đau mới."
+    },
+    {
+     "t": "Đau đầu cấp kiểu sấm sét khởi phát khi giao hợp: chưa loại trừ xuất huyết dưới nhện (cần chuyển tuyến loại trừ khẩn)",
+     "ok": 1,
+     "n": "Đau bùng nổ đạt đỉnh trong vài giây, nôn, cứng cổ, hạn chế gập cổ; đáp ứng Ottawa SAH Rule ở 4/6 tiêu chí: khởi phát khi gắng sức, thunderclap, cổ cứng/đau, hạn chế gập cổ (Ottawa SAH Rule (Perry 2013, TL-0106), Abstract; AHA/ASA 2023 (TL-0070), Bảng 3). ICHD-3 2018 (TL-0480), 4.3 ghi chú 1: đau đầu sấm sét sau hoạt động tình dục bắt buộc phải loại trừ xuất huyết dưới nhện và các nguyên nhân mạch máu khác."
+    },
+    {
+     "t": "Migraine mạn",
+     "n": "Không có đặc điểm migraine (không một bên, không giật theo mạch, không buồn nôn/sợ ánh sáng trước đây); ICHD-3 2018 (TL-0480), 1.3 cần ≥ 8 ngày/tháng có đặc điểm migraine và tiền sử ≥ 5 cơn migraine. Ghi chú 5 của mục 1.3: nguyên nhân thường gặp nhất của bệnh cảnh giống migraine mạn là lạm dụng thuốc, nếu đủ cả hai thì mã cả hai. Ở đây chưa đủ tiêu chuẩn migraine mạn."
+    },
+    {
+     "t": "U não / tăng áp lực nội sọ",
+     "n": "Đau đổi tính chất và có nôn nên không thể bỏ qua; gai thị rõ bờ, không phù, không dấu thần kinh khu trú, không tiền sử ung thư (SNNOOP10 (Do 2019, TL-0476): nguy cơ u não ở người đau đầu không có tiền sử ung thư < 0,1%). Nhưng chỉ hình ảnh học mới loại trừ hẳn (đau mới/đổi kiểu cũng là cờ đỏ, mục Pattern change)."
+    },
+    {
+     "t": "Viêm màng não / viêm não",
+     "n": "Không sốt, CRP 3 mg/L, bạch cầu bình thường, tri giác tỉnh. Nhưng thiếu bộ ba sốt – cứng cổ – rối loạn tri giác không loại trừ nhiễm trùng thần kinh (SNNOOP10 (Do 2019, TL-0476), mục Systemic symptoms); chỉ dịch não tủy phân biệt hẳn, làm ở tuyến trên."
+    },
+    {
+     "t": "Đau đầu nguyên phát liên quan hoạt động tình dục (ICHD-3 4.3)",
+     "n": "Là chẩn đoán loại trừ: ICHD-3 2018 (TL-0480), 4.3 ghi chú 1: bắt buộc loại trừ XHDN và các nguyên nhân mạch máu khác; đau đầu sấm sét nguyên phát (4.4) là chẩn đoán cuối cùng, chỉ khi mọi nguyên nhân thực thể đã được loại trừ, gồm hình ảnh não và mạch máu và/hoặc dịch não tủy bình thường. Chưa thể ghi hôm nay."
+    },
+    {
+     "t": "Nguyên nhân mạch máu khác: hội chứng co thắt mạch não có hồi phục, huyết khối tĩnh mạch não, bóc tách động mạch, xuất huyết não",
+     "n": "Cùng nhóm nguyên nhân thứ phát của đau đầu sấm sét (ICHD-3 2018 (TL-0480), 4.3 ghi chú 1; SNNOOP10 (Do 2019, TL-0476), mục Onset sudden). Cần hình ảnh mạch máu ở tuyến trên."
+    },
+    {
+     "t": "Ngộ độc/tổn thương gan do paracetamol",
+     "n": "ALT 52 U/L tăng nhẹ, không vàng da, liều 4 g/ngày chưa vượt ngưỡng tối đa 4 g/ngày (QĐ 361/2014 mục 4.2.1, TL-0286); ngưỡng gây ngộ độc cấp > 150 mg/kg (QĐ 3610/2015, TL-0035, mục 3). Theo dõi men gan, không phải việc cấp bách hôm nay."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến ngay trong ngày sang bệnh viện có CT sọ, chọc dò dịch não tủy và thần kinh/ngoại thần kinh, không cho về nhà; chuyển bằng xe cứu thương có nhân viên y tế",
+     "v": "c",
+     "n": "AHA/ASA 2023 (TL-0070), mục Evaluation for aSAH: khuyến cáo 1 (COR 1): đau đầu khởi phát cấp nặng cần khám và xét nghiệm khẩn để chẩn đoán/loại trừ XHDN; khuyến cáo 2 (COR 1): đến > 6 giờ: CT sọ không cản quang, nếu âm tính thì chọc dò dịch não tủy. Anh đến sau khoảng 40 giờ nên cần cả hai. Cơ sở không có CT. Chi tiết loại phương tiện vận chuyển: không có trong tài liệu đã tải (chọn xe có nhân viên y tế vì còn nôn và cứng cổ)."
+    },
+    {
+     "t": "Gọi báo trước cho tuyến trên và bàn giao có cấu trúc (SBAR): tình huống, bệnh sử (giờ khởi phát, đạt đỉnh trong vài giây, nôn, cứng cổ, 4/6 tiêu chí Ottawa), đánh giá (nghi XHDN), đề nghị (CT, CTA, dịch não tủy)",
+     "v": "c",
+     "n": "Tiêu chí chuyển tuyến: không loại trừ được nguyên nhân đe dọa tính mạng và không có CT/chọc dò tại chỗ (AHA/ASA 2023 (TL-0070), khuyến cáo 1–2). Cấu trúc SBAR là kỹ năng bàn giao, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trước khi chuyển: cho nằm yên tĩnh, theo dõi tri giác, mạch, huyết áp, SpO₂ trong lúc chờ xe; ghi rõ giờ khởi phát; cho vợ đi cùng; gửi kèm kết quả xét nghiệm và hộp paracetamol",
+     "v": "c",
+     "n": "Theo dõi và chuẩn bị trước chuyển là nguyên tắc chung; chi tiết cụ thể (mức huyết áp mục tiêu, thuốc chống nôn, tư thế) không có trong tài liệu đã tải nên không ghi con số."
+    },
+    {
+     "t": "Tách anh Hùng ra hỏi riêng (mời vợ ra ngoài) để khai thác hoàn cảnh khởi phát, số thuốc thật sự và điều anh lo nhất",
+     "v": "c",
+     "n": "Thân nhân trả lời thay thường rút gọn hoặc tránh chuyện kín; hai điều then chốt (cơn đau sấm sét khi giao hợp, số viên thật) chỉ lộ khi hỏi cụ thể hoặc hỏi riêng. Kỹ thuật tách bệnh nhân: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích nỗi sợ lây: hiện không sốt, CRP bình thường nên viêm màng não ít khả năng, nhưng chưa loại trừ hẳn nên cần chuyển khám; trong lúc chờ đeo khẩu trang là hợp lý, bệnh chính nhiều khả năng không phải bệnh lây",
+     "v": "a",
+     "n": "Trấn an đúng mức, không hứa suông: thiếu bộ ba sốt – cứng cổ – rối loạn tri giác không loại trừ nhiễm trùng thần kinh (SNNOOP10 (Do 2019, TL-0476), mục Systemic symptoms). Chi tiết lây truyền: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích đau đầu do lạm dụng paracetamol là chẩn đoán nền; kế hoạch ngừng thuốc sẽ làm sau khi tuyến trên loại trừ nguyên nhân thứ phát",
+     "v": "a",
+     "n": "EAN 2020 (TL-0473), Tóm tắt: bước đầu là giáo dục và tư vấn; thuốc giảm đau đơn thuần (paracetamol) có thể ngừng đột ngột. Đúng nhưng không phải ưu tiên hôm nay khi có cờ đỏ."
+    },
+    {
+     "t": "Cho về nhà, dặn ngừng ngay paracetamol, hẹn tái khám",
+     "v": "w",
+     "n": "Bỏ qua cơn đau sấm sét; chẩn đoán muộn XHDN có hậu quả nặng, cơn đau báo trước (sentinel) gặp ở 10–43% (AHA/ASA 2023 (TL-0070), mục Evaluation for aSAH, Synopsis)."
+    },
+    {
+     "t": "Cho thêm thuốc giảm đau mạnh hoặc thuốc an thần rồi theo dõi tại phòng khám vài giờ",
+     "v": "w",
+     "n": "Che lấp diễn tiến và làm chậm hình ảnh/chọc dò; phòng khám không có CT nên theo dõi không loại trừ được XHDN (AHA/ASA 2023 (TL-0070), khuyến cáo 2). Không có trong tài liệu đã tải khuyến cáo dùng thuốc giảm đau mạnh thay cho CT."
+    },
+    {
+     "t": "Kê ngay thuốc dự phòng (topiramat) và cho về",
+     "v": "w",
+     "n": "EAN 2020 (TL-0473), PICO 4: topiramat là khuyến cáo yếu cho MOH, chỉ khi đã chẩn đoán chắc là MOH; đang có cờ đỏ nên chưa phải lúc."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau đầu do lạm dụng thuốc giảm đau (paracetamol 4 g/ngày, ≥ 15 ngày/tháng, hơn 2 năm), trên nền đau đầu kiểu căng thẳng (ICHD-3 8.2.3.1)",
+     "Đau đầu cấp kiểu sấm sét khởi phát khi giao hợp, kèm nôn, cứng cổ, hạn chế gập cổ: chưa loại trừ xuất huyết dưới nhện (cờ đỏ)",
+     "Không sốt, CRP bình thường, chưa gợi ý nhiễm trùng thần kinh nhưng chưa loại trừ",
+     "ALT 52 U/L tăng nhẹ do dùng paracetamol kéo dài",
+     "Lý do thật đến khám: sợ lây bệnh cho vợ, con và nhân viên (nghĩ mình bị viêm màng não)",
+     "Hướng xử trí: chuyển tuyến ngay để CT sọ, chọc dò dịch não tủy ± CTA"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: nghe lời vợ, rồi hỏi cụ thể số viên paracetamol và số ngày mỗi tháng; hỏi cơn đau mới bắt đầu thế nào, nhanh hay chậm, đang làm gì; hỏi sốt, thần kinh, chấn thương; tách anh Hùng hỏi riêng nỗi lo. Câu hỏi chung chung chỉ cho 'vài viên' và 'tự nhiên đau'.",
+     "Khám: gập cổ hạn chế, Kernig/Brudzinski âm tính, không dấu thần kinh khu trú, gai thị rõ bờ không phù. Cận lâm sàng cơ bản (CTM, CRP, men gan, điện giải, đường máu) không có hình ảnh học nên không loại trừ được XHDN hay u não.",
+     "Vì sao có đau đầu do lạm dụng thuốc: đau đầu ≥ 15 ngày/tháng trên nền đau đầu nguyên phát, dùng paracetamol ≥ 15 ngày/tháng trên 3 tháng (ICHD-3 2018 (TL-0480), 8.2 và 8.2.3.1). Anh dùng khoảng 25 ngày/tháng trong hơn 2 năm. Từng thử bỏ thuốc thì đau dữ hơn, cũng gặp trong MOH.",
+     "Vì sao đây là bẫy: đau đầu hằng ngày, uống paracetamol nhiều, trẻ tuổi, nói 'vẫn như mọi khi' khiến bác sĩ dừng ở chẩn đoán MOH (neo, đóng sớm). Nhưng cơn đau mới khác hẳn: bùng nổ đạt đỉnh trong vài giây, khởi phát khi giao hợp, nôn, cứng cổ. SNNOOP10 (Do 2019, TL-0476): khởi phát đột ngột (thunderclap), thay đổi kiểu đau/đau mới, và dùng thuốc giảm đau quá mức là các cờ đỏ/cam; thunderclap có XHDN ở 6,2% trong 2.131 người đau đầu đạt đỉnh trong 1 giờ không có dấu thần kinh, và ở 25% trong 148 cơn thunderclap.",
+     "Vì sao nghi XHDN: Ottawa SAH Rule (cho người tỉnh > 15 tuổi, đau đầu nặng không do chấn thương đạt đỉnh trong 1 giờ) cần xét nghiệm tiếp nếu có ≥ 1 trong: tuổi ≥ 40, đau/cứng cổ, ngất có chứng kiến, khởi phát khi gắng sức, thunderclap, hạn chế gập cổ (AHA/ASA 2023 (TL-0070), Bảng 3). Anh có 4/6; độ nhạy 100%, độ đặc hiệu 15,3% (Ottawa SAH Rule (Perry 2013, TL-0106), Abstract). ICHD-3 2018 (TL-0480), 4.3 ghi chú 1: đau đầu sấm sét khi hoạt động tình dục bắt buộc loại trừ XHDN, huyết khối tĩnh mạch não, bóc tách động mạch, co thắt mạch não có hồi phục, u nang, xuất huyết não; ",
+     "Vì sao không phải migraine mạn: không có đặc điểm migraine; ICHD-3 2018 (TL-0480), 1.3 cần ≥ 8 ngày/tháng có đặc điểm migraine. Vì sao chưa thể kết luận không phải u não: gai thị rõ bờ và không dấu khu trú làm giảm khả năng nhưng đau đổi kiểu mới và có nôn nên cần hình ảnh (SNNOOP10 (Do 2019, TL-0476), mục Pattern change, Papilledema).",
+     "Điểm 'sentinel': cơn đau báo trước vỡ phình mạch gặp 10–43% (AHA/ASA 2023 (TL-0070), mục Evaluation for aSAH, Synopsis); chẩn đoán sót hoặc muộn có thể gây tử vong hay tàn tật nặng (cùng nguồn).",
+     "Vì sao chưa chẩn đoán đau đầu nguyên phát khi giao hợp: phải loại trừ nguyên nhân thực thể trước (ICHD-3 4.3 ghi chú 1; 4.4 chỉ là chẩn đoán cuối cùng khi hình ảnh não, mạch máu và/hoặc dịch não tủy bình thường)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến vì cơ sở chỉ có xét nghiệm cơ bản, không có CT hay chọc dò. Đến sau khoảng 40 giờ (> 6 giờ): cần CT sọ không cản quang, nếu âm tính thì chọc dò dịch não tủy tìm xanthochromia (AHA/ASA 2023 (TL-0070), khuyến cáo 2, COR 1). CT trong 6 giờ đầu có độ nhạy 98,7%; sau đó giảm nên cần chọc dò (cùng nguồn, Synopsis). CTA là bước kế tiếp khi CT dương tính; DSA khi nghi cao mà CTA âm/không rõ (AHA/ASA 2023 (TL-0070), khuyến cáo 5).",
+     "Việc làm trước chuyển: theo dõi sinh hiệu và tri giác, ghi giờ khởi phát, gửi kèm xét nghiệm và hộp paracetamol, người nhà đi cùng, bàn giao SBAR qua điện thoại. Chi tiết dùng thuốc giảm đau, huyết áp mục tiêu, tư thế: không có trong tài liệu đã tải.",
+     "Không bắt đầu ngừng paracetamol tại phòng khám hôm nay: ngừng thuốc và giáo dục là bước điều trị MOH (EAN 2020 (TL-0473), Tóm tắt), làm khi đã loại trừ nguyên nhân thứ phát. Khi đó triệu chứng cai thường kéo dài 2–10 ngày (trung bình 3,5 ngày), dài nhất ở người dùng thuốc giảm đau đơn thuần (khoảng 10 ngày) (EAN 2020 (TL-0473), PICO 6).",
+     "Lý do thật: nỗi sợ lây bệnh phải được hỏi ra và trả lời, vì nếu không anh tiếp tục cách ly, giấu triệu chứng và có thể trì hoãn quay lại."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Thuốc giảm đau/chống nôn trước chuyển",
+      "ham_luong": "Không kê mới tại phòng khám",
+      "lieu": "Không có trong tài liệu đã tải liều/thuốc giảm đau trước chuyển cho nghi xuất huyết dưới nhện ở tuyến cơ sở",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Quyết định thuốc để tuyến nhận bệnh theo kết quả CT/dịch não tủy; không dùng thêm paracetamol quá 4 g/ngày (QĐ 361/2014 mục 4.2.1, TL-0286: tối đa 4 g/ngày)."
+     },
+     {
+      "thuoc": "Paracetamol (đang dùng, kế hoạch sau khi loại trừ nguyên nhân thứ phát)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "Ngừng đột ngột paracetamol hằng ngày (EAN 2020, Tóm tắt: thuốc giảm đau đơn thuần có thể ngừng đột ngột)",
+      "duong": "Uống",
+      "thoi_diem": "Sau khi tuyến trên loại trừ xuất huyết dưới nhện, u não, viêm màng não",
+      "so_ngay": "Triệu chứng cai 2–10 ngày, trung bình 3,5 ngày (EAN 2020, PICO 6)",
+      "ghi_chu": "Thuốc cứu cánh trong giai đoạn cai: các thuốc dùng cho cơn migraine cấp, kể cả naproxen, corticoid (EAN 2020, PICO 6); liều cụ thể không có trong tài liệu đã tải. Dự phòng: topiramat/botulinum toxin A/kháng thể CGRP (EAN 2020, PICO 4), liều không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Anh Hùng cần được chụp CT sọ và chọc dò dịch não tủy ngay hôm nay: cơn đau mới sau khi quan hệ vợ chồng, kèm nôn và cứng cổ, phải loại trừ chảy máu dưới nhện trước khi nghĩ đến chuyện khác. Đi xe cứu thương, không tự chạy xe máy.",
+     "Nói với anh Hùng: hiện không sốt, xét nghiệm máu không có dấu nhiễm trùng nên viêm màng não ít khả năng, nhưng chưa thể khẳng định; bệnh viện sẽ làm rõ. Anh nên đeo khẩu trang đến khi có kết quả, nhưng không cần cách ly với vợ con quá mức hay giấu vợ.",
+     "Mang theo hộp paracetamol và kể thật với bác sĩ tuyến trên số viên mỗi ngày; không tự uống thêm thuốc cảm hay thuốc giảm đau trong lúc chờ chuyển.",
+     "Khi tuyến trên đã loại trừ nguyên nhân nguy hiểm, kế hoạch với đau đầu do thuốc: giải thích mối liên hệ giữa uống thuốc hằng ngày và đau đầu hằng ngày, ngừng paracetamol đột ngột, chuẩn bị tinh thần là 1–2 tuần đầu đau có thể nặng hơn rồi bớt, ghi nhật ký đau đầu (EAN 2020, Tóm tắt, PICO 5–6).",
+     "Quay lại cấp cứu ngay nếu đau bùng nổ lần nữa, lơ mơ, co giật, yếu liệt, nói khó, nhìn đôi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Hùng được chuyển bằng xe cứu thương trong buổi chiều. Ở bệnh viện tỉnh, CT sọ không cản quang và CTA không thấy chảy máu hay phình mạch, dịch não tủy không có hồng cầu hay xanthochromia, MRI sọ bình thường. Chẩn đoán cuối: đau đầu sấm sét đã loại trừ nguyên nhân thực thể, ghi nhận 'probable' liên quan hoạt động tình dục, cộng đau đầu do lạm dụng paracetamol. Bác sĩ thần kinh giải thích, anh hết sợ lây, ngừng paracetamol, qua tuần đầu đau nặng rồi giảm. Quyết định chuyển đúng dù kết cục lành tính: đánh giá theo dữ kiện lúc ra quyết định, không theo kết quả.",
+ "nhieu": [
+  "Vợ trả lời thay và nói 'uống vài viên', 'tự nhiên đau': rút gọn số viên (thực tế 8 viên/ngày) và bỏ qua hoàn cảnh khởi phát. Phải hỏi cụ thể hoặc hỏi riêng anh.",
+  "Đau đầu hằng ngày, uống paracetamol nhiều năm, 'vẫn như mọi khi': neo vào chẩn đoán đau đầu do lạm dụng thuốc, dễ bỏ qua cơn đau sấm sét mới.",
+  "Khách ở quán bị viêm màng não làm anh sợ lây; anh đeo khẩu trang, ngủ riêng: hành vi này là manh mối động cơ, không phải bằng chứng nhiễm trùng (không sốt, CRP 3 mg/L)."
+ ],
+ "bai_hoc_bien": [
+  "Đau đầu mạn trên nền lạm dụng thuốc không loại trừ đau đầu thứ phát: khi đau đổi kiểu, khởi phát đột ngột hoặc đi kèm nôn, cứng cổ thì xử trí theo cờ đỏ, không theo chẩn đoán nền (SNNOOP10 2019).",
+  "Ottawa SAH Rule chỉ có độ đặc hiệu 15,3%: một người có 4/6 tiêu chí không thể được cho về dựa trên cảm giác 'chắc là đau đầu do thuốc'; cơ sở không có CT thì chuyển tuyến (AHA/ASA 2023).",
+  "Đến sau 6 giờ thì CT một mình chưa đủ, cần chọc dò dịch não tủy; không tự chọc dò tại phòng khám khi chưa có CT.",
+  "Thân nhân trả lời thay: tách bệnh nhân ra hỏi riêng mới lộ số thuốc thật, hoàn cảnh khởi phát và nỗi sợ lây bệnh.",
+  "Chuyển tuyến kịp thời có thể có kết cục lành tính; đó vẫn là quyết định đúng."
+ ],
+ "diem_nho": [
+  "Đau đầu do lạm dụng paracetamol: đau đầu ≥ 15 ngày/tháng trên nền đau đầu nguyên phát và dùng paracetamol ≥ 15 ngày/tháng trong > 3 tháng (ICHD-3 2018, 8.2 và 8.2.3.1).",
+  "Ottawa SAH Rule: người tỉnh > 15 tuổi, đau đầu nặng không do chấn thương đạt đỉnh trong 1 giờ; cần xét nghiệm tiếp nếu có ≥ 1: tuổi ≥ 40, đau/cứng cổ, ngất có chứng kiến, khởi phát khi gắng sức, thunderclap, hạn chế gập cổ (AHA/ASA 2023, Bảng 3).",
+  "Đến > 6 giờ sau khởi phát hoặc có dấu thần kinh mới: CT sọ không cản quang, nếu âm tính thì chọc dò dịch não tủy; đến < 6 giờ và không dấu thần kinh: CT chất lượng cao do bác sĩ chẩn đoán hình ảnh đọc là đủ (AHA/ASA 2023, khuyến cáo 2–3).",
+  "Cơn đau báo trước (sentinel headache) gặp ở 10–43% xuất huyết dưới nhện do phình mạch (AHA/ASA 2023, Synopsis).",
+  "Đau đầu sấm sét khi hoạt động tình dục: bắt buộc loại trừ XHDN và các nguyên nhân mạch máu khác trước khi chẩn đoán 4.3 (ICHD-3 2018, 4.3 ghi chú 1).",
+  "Cai thuốc giảm đau đơn thuần: ngừng đột ngột được; triệu chứng cai 2–10 ngày, trung bình 3,5 ngày (EAN 2020, Tóm tắt, PICO 6)."
+ ],
+ "nguon": [
+  "AHA/ASA 2023 – Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage – TL-0070 – mục Evaluation for aSAH (khuyến cáo 1–5, Synopsis), Bảng 3 (Ottawa SAH Rule).",
+  "Perry JJ và cs. 2013 – Clinical decision rules to rule out subarachnoid hemorrhage (JAMA) – TL-0106 – Abstract, Box 1.",
+  "Do TP và cs. 2019 – Red and orange flags for secondary headaches: SNNOOP10 – TL-0476 – Bảng 1; các mục Onset sudden (thunderclap), Pattern change, Papilledema, Systemic symptoms, Neoplasm.",
+  "IHS 2018 – ICHD-3 – TL-0480 – 1.3 (Chronic migraine, ghi chú 5), 4.3 và 4.4, 8.2, 8.2.3.1.",
+  "EAN 2020 – Guideline on the management of medication-overuse headache – TL-0473 – Tóm tắt, PICO 4–6.",
+  "BYT – QĐ 361/QĐ-BYT 2014, Hội chứng đau thắt lưng, mục 4.2.1 (paracetamol tối đa 4 g/ngày) – TL-0286.",
+  "BYT – QĐ 3610/QĐ-BYT 2015, Ngộ độc paracetamol, mục 2–3 – TL-0035."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25 (viết: Sonnet): ca 1 lượt, bản 1. Đã đọc: TL-0070 (AHA/ASA 2023, Evaluation for aSAH, Bảng 3), TL-0106 (Ottawa SAH Rule 2013), TL-0476 (SNNOOP10), TL-0480 (ICHD-3: 1.3, 4.3, 8.2), TL-0473 (EAN 2020: Tóm tắt, PICO 4–6), TL-0286 (mục 4.2.1), TL-0035 (Ngộ độc paracetamol).",
+  "Thiếu tài liệu: thuốc giảm đau/chống nôn và huyết áp mục tiêu trước chuyển khi nghi XHDN; liều topiramat/thuốc cắt cơn trong giai đoạn cai; ngưỡng can thiệp men gan tăng nhẹ; mức khuyến cáo tách riêng bệnh nhân khi người nhà trả lời thay. Đã ghi 'không có trong tài liệu đã tải'.",
+  "Khởi phát ~40 giờ trước: chọn để áp dụng khuyến cáo AHA/ASA 2023 (đến > 6 giờ: CT rồi chọc dò). Kết cục ở tuyến trên là kịch bản minh họa, không phải dữ kiện chấm."
+ ]
+}
