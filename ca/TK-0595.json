@@ -1,0 +1,707 @@
+{
+ "ma_ca": "TK-0595",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TK_hoi_chung_chan_khong_yen",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Hội chứng chân không yên",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh TK ngoại biên",
+   "Thiếu sắt"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Quốc Bảo",
+  "tuoi": 34,
+  "gioi": "Nam",
+  "nghe": "Nội trợ (ở nhà trông con, vợ đi làm)",
+  "can_nang": 70,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, hay lo, nói chuyện lan man, dễ nhảy từ chuyện chân sang chuyện con cái, mẹ vợ, tiền chợ. Ngại bị cho là 'có vấn đề thần kinh' nên nói giảm.",
+  "kieu_nhieu": "Kể lể lộn xộn: mở đầu bằng chuyện con ốm, huyết áp, vợ đi làm ca; chỉ vài chi tiết chuyên môn lẫn trong đó. Bác sĩ hỏi gom từng ý (vị trí, giờ, cảm giác, cái gì làm đỡ) thì anh trả lời được rõ; hỏi chung chung thì lại kể sang chuyện khác.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a67f",
+   "toc": "#1a1412",
+   "kieuToc": "ngan",
+   "ao": "#6b7f5a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Mỏi chân về đêm, mất ngủ, xin thuốc ngủ",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, nước tiểu, xét nghiệm sắt). Không có X-quang, siêu âm, CT, nội soi, điện cơ, đa ký giấc ngủ và không truyền sắt tĩnh mạch."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Phạm Quốc Bảo, 34 tuổi, nội trợ, tăng huyết áp đang uống amlodipin. Đến vì mỏi chân và mất ngủ về đêm hơn một năm, xin thuốc ngủ. Sinh hiệu: HA 128/80 mmHg, mạch 76 l/p, cân nặng 70 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Bảo được chuyển lên tuyến trên ngay từ lần đầu để 'khám chuyên sâu'. Anh mất thêm một ngày không trông con và tiền đi lại, trong khi thuốc đầu tay gabapentinoid làm được tại phòng khám và là khuyến cáo mạnh (AASM 2025 (TL-0455) khuyến cáo 2, 3). Anh dễ ngại và bỏ dở vì đang sợ bị coi là bệnh thần kinh.",
+    "nhap_vien": "Anh Bảo nhập viện để 'theo dõi giấc ngủ' dù không có dấu hiệu nặng hay cấp cứu. Nằm viện không giải quyết được yếu tố làm nặng ở nhà (diphenhydramin, cà phê) và làm anh càng nghĩ mình bị bệnh nặng; việc cần làm là xử trí yếu tố làm nặng và bắt đầu thuốc đầu tay (AASM 2025 (TL-0455) GPS 2, khuyến cáo 2).",
+    "theo_doi": "Anh Bảo được trấn an rồi về, không hẹn tái khám và không dặn bỏ diphenhydramin, cà phê. Giấc ngủ tiếp tục 4–5 giờ, anh vẫn suýt ngủ gật khi chở con, nguy cơ tai nạn còn nguyên; yếu tố làm nặng là điều phải xử trí trước (AASM 2025 (TL-0455) GPS 2, tr. 140)."
+   },
+   "loi_mo": "Bác sĩ ơi, dạo này con em hay sốt vặt, vợ thì đi làm ca, mẹ vợ cứ nói em... mà thôi. Em bị mỏi chân, tối nào cũng không ngủ được, bác sĩ cho em xin thuốc ngủ. À, em có uống thuốc huyết áp nữa, không biết có sao không.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "128/80",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hơn một năm nay, gần như tối nào chân cũng mỏi, nhức, khó chịu, nằm không yên, ngủ không được. Ban ngày thì ổn. Anh muốn xin thuốc ngủ hoặc thuốc bổ thần kinh cho dễ ngủ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai ban đầu)"
+    },
+    {
+     "id": "lan_man",
+     "noi_dung": "Kể chuyện con trai 5 tuổi hay sốt vặt, vợ đi làm ca nên anh một mình trông con, mẹ vợ hay góp ý, tiền chợ tăng. Nói thêm huyết áp có uống thuốc nhưng 'không biết có liên quan không'.",
+     "che_do": "tu_ke",
+     "k": 0
+    },
+    {
+     "id": "cam_giac",
+     "noi_dung": "Cảm giác như có kiến bò, rần rần sâu trong bắp chân hai bên, không phải đau nhói. Có thôi thúc phải cử động chân. Đứng dậy đi lại, duỗi chân thì dịu ngay, ngồi xuống vài phút lại bị lại. Không phải tê như mang vớ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể cảm giác trong chân là gì, có thôi thúc muốn cử động không, hoặc đứng dậy đi lại thì thế nào. Hỏi chung 'bị sao' thì chỉ nói 'mỏi chân, mất ngủ'.",
+     "y": "Tiêu chí 1 và 3: thôi thúc cử động, đỡ khi vận động"
+    },
+    {
+     "id": "gio_giac",
+     "noi_dung": "Từ khoảng 6–7 giờ chiều đã bắt đầu, nặng nhất từ 10 giờ đêm đến 1 giờ sáng. Ngồi xem ti vi, ngồi ô tô lâu, ngồi họp phụ huynh cũng bị. Buổi sáng và giữa trưa gần như không có dù ngồi yên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chí 2 và 4: khi nghỉ ngơi, nặng về chiều tối và đêm"
+    },
+    {
+     "id": "tan_suat",
+     "noi_dung": "Khoảng 5–6 đêm mỗi tuần, kéo dài hơn một năm, tăng dần. Đêm nào nặng anh phải đi lại trong nhà một đến hai tiếng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mạn tính, kéo dài, tần suất"
+    },
+    {
+     "id": "giac_ngu",
+     "noi_dung": "Ngủ được khoảng 4–5 giờ, khó vào giấc. Ban ngày mệt, cáu gắt, có lần suýt ngủ gật khi chở con đi học.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ảnh hưởng giấc ngủ, an toàn"
+    },
+    {
+     "id": "khang_histamin",
+     "noi_dung": "Mấy tháng nay tối nào cũng uống một viên thuốc 'dị ứng ngủ ngon' mua ở tiệm (diphenhydramin 25 mg) cho dễ ngủ. Anh thấy chân còn nặng hơn nhưng nghĩ do mất ngủ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể thuốc ngủ, thuốc dị ứng, thuốc tự mua uống buổi tối. Hỏi chung 'đang uống thuốc gì' thì chỉ nói thuốc huyết áp.",
+     "y": "Thuốc làm nặng triệu chứng"
+    },
+    {
+     "id": "ca_phe",
+     "noi_dung": "Uống 3–4 ly cà phê mỗi ngày, ly cuối khoảng 5 giờ chiều. Rượu bia ít, cuối tuần vài lon bia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cà phê, rượu bia"
+    },
+    {
+     "id": "thuoc_ha_ap",
+     "noi_dung": "Uống amlodipin 5 mg buổi sáng khoảng 2 năm nay (phát hiện HA 150/95 ở đợt khám công ty cũ). Huyết áp ở nhà khoảng 125–130/80. Không dùng thuốc khác, không thuốc chống nôn, thuốc tâm thần, thuốc chống trầm cảm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng"
+    },
+    {
+     "id": "khong_than_kinh",
+     "noi_dung": "Không tê bì kiểu mang vớ, không yếu chân, không đau lan từ lưng, không chuột rút cứng cục cơ, không sưng chân, không đau khớp. Ban ngày đi bộ không đau. Không đái tháo đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ bệnh thần kinh ngoại biên, chuột rút, bệnh khớp, phù"
+    },
+    {
+     "id": "mat_mau",
+     "noi_dung": "Ăn thịt cá bình thường, không đi ngoài phân đen hay có máu, không đau bụng, không sút cân, không chảy máu cam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ thiếu sắt do mất máu"
+    },
+    {
+     "id": "ngung_tho",
+     "noi_dung": "Vợ nói anh không ngáy to, không thấy ngừng thở. Ban ngày không buồn ngủ gật khi ngồi yên đọc sách, chỉ mệt vì mất ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ngưng thở khi ngủ (yếu tố làm nặng)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ anh cũng hay 'bồn chồn chân' buổi tối, bà quen chịu không đi khám.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Lo vì mất ngủ nhưng không buồn chán, vẫn thích chơi với con, không nghĩ tới chuyện tự hại.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: anh ngại vì mỗi tối phải ngồi dậy đi vòng quanh nhà, đạp chân liên tục, làm vợ mất ngủ; vợ từng nói 'anh bị thần kinh à', rồi chuyển sang ngủ phòng con. Anh sợ mình có bệnh thần kinh hay tâm thần nên chỉ dám nói 'mỏi chân mất ngủ' để xin thuốc ngủ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi đêm của anh diễn ra thế nào, vợ phản ứng ra sao, anh đang lo điều gì nhất, hoặc sau khi bác sĩ trấn an đây là bệnh thường gặp.",
+     "y": "Động cơ thật: sợ bị coi là bệnh thần kinh, ngại kể"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt mỏi. Niêm mạc mắt hồng, không vàng da. BMI 24,8.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Hai chân không phù, không giãn tĩnh mạch nổi, bắp chân mềm, không đau khi bóp, không nóng đỏ. Không thấy cử động chân khi ngồi nói chuyện.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Sức cơ 5/5 bốn chi. Phản xạ gân gối, gót hai bên bình thường. Cảm giác nông (chạm, kim) và rung âm thoa ngón chân bình thường hai bên. Không dấu thần kinh khu trú, Lasègue âm tính.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch mu chân, chày sau bắt rõ hai bên, chân ấm, không có dấu hiệu thiếu máu chi.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng không điểm đau, các khớp gối, cổ chân không sưng nóng, tầm vận động đủ.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da chân bình thường, không loét, không giãn mạch, không rụng lông. Không móng thìa.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Hơi lo lắng và ngượng khi nói về những đêm đi lại. Khí sắc ổn, tư duy mạch lạc, không ý tưởng tự hại, không hoang tưởng.",
+     "k": 0
+    },
+    "ha_tu_the": {
+     "a": "Nằm 128/80, đứng 3 phút 124/80 mmHg, không triệu chứng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,1 G/L · Hb 148 g/L · MCV 89,8 fL · TC 255 G/L",
+     "bang": {
+      "wbc": 7.1,
+      "neu_pct": 58.0,
+      "neu": 4.1,
+      "lym_pct": 32.0,
+      "lym": 2.3,
+      "mono_pct": 6.0,
+      "mono": 0.43,
+      "eos_pct": 3.0,
+      "eos": 0.21,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 4.9,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 89.8,
+      "mch": 30.2,
+      "mchc": 336,
+      "rdw": 13.0,
+      "plt": 255
+     },
+     "n": "Không thiếu máu (Hb ≥ 130 g/L ở nam: BSG 2021 (TL-0219) tr. 4), hồng cầu không nhỏ."
+    },
+    "ferritin_sat": {
+     "v": "e",
+     "r": "Ferritin 88 ng/mL · Sắt huyết thanh 15 µmol/L · Độ bão hòa transferrin 24% (lấy máu buổi sáng, ngưng sắt 24 giờ)",
+     "ab": 0,
+     "n": "AASM 2025 (TL-0455) Good Practice Statement 1 (tr. 140): mọi RLS có ý nghĩa lâm sàng cần ferritin và TSAT, lấy buổi sáng, không dùng sắt 24 giờ trước. Ferritin 88 không thiếu sắt theo BSG 2021 (TL-0219) (SF ≥ 45 µg/L, tr. 4) nhưng nằm trong khoảng 75–100 ng/mL mà AASM 2025 (TL-0455) chỉ cho sắt tĩnh mạch. Cơ sở làm được xét nghiệm này nhưng không có sắt tĩnh mạch."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose đói 5,0 mmol/L",
+     "n": "Loại trừ đái tháo đường gây bệnh thần kinh."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 82 µmol/L · eGFR 105 mL/ph/1,73m² · Ure 4,6 mmol/L",
+     "n": "Bệnh thận mạn là nguyên nhân thứ phát của RLS (AASM 2025 (TL-0455) tr. 139: ESRD tăng tỉ lệ RLS)."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Không có protein, glucose, hồng cầu, bạch cầu.",
+     "n": "Tổng phân tích nước tiểu bình thường."
+    },
+    "b12": {
+     "v": "u",
+     "r": "Vitamin B12 huyết thanh trong giới hạn bình thường.",
+     "n": "Thiếu B12 gây bệnh thần kinh ngoại biên: không có triệu chứng và khám bình thường nên là xét nghiệm hỗ trợ."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 24 · ALT 28 U/L"
+    },
+    "psg": {
+     "n": "Cơ sở không có. IRLSSG 2014 (TL-0491) chẩn đoán RLS bằng 5 tiêu chí lâm sàng; chỉ định đa ký giấc ngủ không có trong tài liệu đã tải cho ca này."
+    },
+    "ct_nao": {
+     "n": "Không có chỉ định; khám thần kinh bình thường."
+    },
+    "mri_so_nao": {
+     "n": "Không có chỉ định; khám thần kinh bình thường."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng chân không yên nguyên phát, mạn tính, có ý nghĩa lâm sàng (mất ngủ, mệt ban ngày), có yếu tố làm nặng: diphenhydramin, cà phê",
+     "ok": 1,
+     "n": "Đủ 5 tiêu chí: thôi thúc cử động chân, xuất hiện khi nghỉ, đỡ khi đi lại, nặng về chiều tối và đêm, không do bệnh khác (IRLSSG 2014 (TL-0491) Bảng 1). Triệu chứng trung bình ≥ 2 lần/tuần trong 1 năm: thể mạn tính (IRLSSG 2014 (TL-0491) Bảng 1, mục A). Ferritin 88 nên chưa phải RLS do thiếu sắt."
+    },
+    {
+     "t": "Bệnh thần kinh ngoại biên",
+     "n": "Không tê kiểu mang vớ, cảm giác và phản xạ bình thường, glucose 5,0, B12 bình thường. Bệnh thần kinh dễ gặp tiêu chí 1–4 nhưng có tê bì (IRLSSG 2014 (TL-0491) Bảng 3); cũng có thể cùng tồn tại với RLS."
+    },
+    {
+     "t": "Thiếu sắt / thiếu máu thiếu sắt",
+     "n": "Hb 148 g/L, MCV 89,8, ferritin 88 ng/mL, TSAT 24%, không mất máu (BSG 2021 (TL-0219) tr. 4: SF < 30 µg/L là dự trữ sắt thấp, cut-off 45). Không thiếu sắt, nhưng ferritin vẫn có ý nghĩa điều trị RLS (AASM 2025 (TL-0455) tr. 140)."
+    },
+    {
+     "t": "Chuột rút, suy tĩnh mạch, phù chân, viêm khớp",
+     "n": "Không cục cơ cứng, không phù, không giãn tĩnh mạch, khớp bình thường (IRLSSG 2014 (TL-0491) Bảng 3)."
+    },
+    {
+     "t": "Mất ngủ mạn nguyên phát",
+     "n": "Mất ngủ ở đây là hậu quả của thôi thúc cử động chân vào buổi tối (ESRS 2023, TL-0464: RLS là bệnh đồng mắc cần tìm). Không dùng thuốc ngủ làm đích."
+    },
+    {
+     "t": "Ngưng thở khi ngủ làm nặng RLS",
+     "n": "Không ngáy, không ngừng thở, BMI 24,8. AASM 2025 (TL-0455) GPS 2 (tr. 140) nêu ngưng thở khi ngủ chưa điều trị là yếu tố làm nặng."
+    },
+    {
+     "t": "Rối loạn lo âu / bệnh tâm thần",
+     "n": "Khám tâm thần bình thường, lo lắng thứ phát vì mất ngủ và ngại đêm. Lo âu là bệnh dễ nhầm RLS (IRLSSG 2014 Bảng 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích đây là hội chứng chân không yên (bệnh thần kinh cảm giác - vận động thường gặp, không phải bệnh tâm thần) dựa trên 5 tiêu chí; trấn an anh",
+     "v": "c",
+     "n": "IRLSSG 2014 (TL-0491) Bảng 1; AASM 2025 (TL-0455) mục Giới thiệu (RLS gây mất ngủ ở khoảng 90% người bệnh). Đáp ứng đúng nỗi sợ ẩn của anh."
+    },
+    {
+     "t": "Ngưng diphenhydramin buổi tối, bỏ cà phê từ chiều, hạn chế rượu bia: xử trí yếu tố làm nặng là bước đầu tiên",
+     "v": "c",
+     "n": "AASM 2025 (TL-0455) GPS 2 (tr. 140): bước đầu là xử trí yếu tố làm nặng như rượu, cà phê, thuốc kháng histamin, thuốc serotonin, kháng dopamin và ngưng thở khi ngủ chưa điều trị."
+    },
+    {
+     "t": "Xét nghiệm ferritin và độ bão hòa transferrin (buổi sáng, không sắt 24 giờ trước) cùng CTM, glucose, creatinin, B12",
+     "v": "c",
+     "n": "AASM 2025 (TL-0455) GPS 1 (tr. 140). Glucose, creatinin, B12 để loại trừ bệnh thần kinh và nguyên nhân thứ phát (IRLSSG 2014 (TL-0491) Bảng 3)."
+    },
+    {
+     "t": "Gabapentin hoặc pregabalin uống buổi tối, bắt đầu liều thấp, tăng dần theo đáp ứng",
+     "v": "c",
+     "n": "AASM 2025 (TL-0455) khuyến cáo 2 và 3 (mạnh, bằng chứng trung bình). Liều khởi đầu và tăng liều: không có trong tài liệu đã tải; ca chọn gabapentin 300 mg tối. Tác dụng phụ buồn ngủ, chóng mặt (AASM 2025 (TL-0455) tr. 148)."
+    },
+    {
+     "t": "Dặn tác dụng phụ buồn ngủ, chóng mặt; cẩn thận khi chở con, lái xe",
+     "v": "c",
+     "n": "AASM 2025 (TL-0455) tr. 148: nhóm gabapentinoid gây chóng mặt, buồn ngủ."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần để đánh giá đáp ứng, tác dụng phụ",
+     "v": "c",
+     "n": "Mốc 4 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Pramipexole hoặc ropinirole làm thuốc đầu tay",
+     "v": "a",
+     "n": "Mâu thuẫn giữa nguồn: AAN 2016 (nguồn bổ sung tự tìm, doi 10.1212/WNL.0000000000003388) xếp pramipexole Level A, ropinirole Level B; AASM 2025 (TL-0455) khuyến cáo 12 và 14 không dùng thường quy vì bùng phát triệu chứng (augmentation, tr. 139, 148), vẫn dùng được cho người ưu tiên hiệu quả ngắn hạn. Chấm a, không phải đáp án đầu tay."
+    },
+    {
+     "t": "Cho sắt uống (ferrous sulfate)",
+     "v": "w",
+     "n": "AASM 2025 (TL-0455) GPS 1 (tr. 140): ferritin 75–100 ng/mL chỉ dùng sắt tĩnh mạch; sắt uống hấp thu kém khi ferritin > 50–75 (tr. 148). Ferritin 88, TSAT 24% không đủ ngưỡng sắt uống."
+    },
+    {
+     "t": "Cho thuốc ngủ benzodiazepin (clonazepam)",
+     "v": "w",
+     "n": "AASM 2025 (TL-0455) khuyến cáo 17: không dùng clonazepam. Thuốc ngủ chỉ che triệu chứng, không xử trí thôi thúc cử động."
+    },
+    {
+     "t": "Tiếp tục diphenhydramin cho dễ ngủ",
+     "v": "h",
+     "n": "Thuốc kháng histamin làm nặng RLS (AASM 2025 (TL-0455) GPS 2, tr. 140)."
+    },
+    {
+     "t": "Chuyển tuyến ngay trong lượt đầu",
+     "v": "w",
+     "n": "Thuốc bước đầu (gabapentinoid, mạnh) làm được tại phòng khám (AASM 2025 (TL-0455) khuyến cáo 2, 3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng chân không yên nguyên phát, thể mạn tính, có ý nghĩa lâm sàng (mất ngủ, mệt ban ngày, suýt ngủ gật)",
+     "Yếu tố làm nặng: diphenhydramin buổi tối, cà phê 3–4 ly/ngày",
+     "Ferritin 88 ng/mL, TSAT 24%: không thiếu sắt, Hb bình thường",
+     "Tăng huyết áp ổn dưới amlodipin 5 mg"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: gom lời kể lan man bằng câu hỏi theo từng tiêu chí: cảm giác trong chân, thôi thúc cử động, giờ trong ngày, nghỉ ngơi và đi lại ra sao. Lời khai ban đầu 'mỏi chân, mất ngủ' chưa đủ chẩn đoán.",
+     "5 tiêu chí IRLSSG đều đạt (IRLSSG 2014 (TL-0491) Bảng 1): thôi thúc cử động chân kèm cảm giác khó chịu; xuất hiện hoặc nặng khi nghỉ; đỡ một phần hoặc hoàn toàn khi đi lại, duỗi chân; nặng về chiều tối, đêm; không do bệnh khác giải thích hoàn toàn. Thể mạn tính khi ≥ 2 lần/tuần trong 1 năm; có ý nghĩa lâm sàng khi gây khổ sở, rối loạn giấc ngủ, năng lượng (IRLSSG 2014 (TL-0491) Bảng 1).",
+     "Khám: không phù, không giãn tĩnh mạch, cảm giác, phản xạ, sức cơ bình thường, chống bệnh thần kinh ngoại biên, bệnh rễ, bệnh mạch ngoại biên, bệnh khớp (IRLSSG 2014 (TL-0491) Bảng 3). Bệnh thần kinh có thể cùng tồn tại nên cần khám thần kinh và glucose, B12.",
+     "Xét nghiệm: CTM, ferritin, TSAT, glucose, creatinin, B12 bình thường. Ferritin 88 ng/mL không phải thiếu sắt (BSG 2021 (TL-0219) tr. 4) nhưng nằm trong khoảng 75–100 ng/mL, điều trị sắt chỉ bằng đường tĩnh mạch nếu cần (AASM 2025 (TL-0455) GPS 1, tr. 140).",
+     "Lý do thật: ngại bị cho là bệnh thần kinh, tâm thần. Chỉ lộ khi bác sĩ hỏi đêm diễn ra thế nào và vợ phản ứng ra sao."
+    ],
+    "phan_tich_xu_tri": [
+     "Bước đầu là xử trí yếu tố làm nặng: ngưng diphenhydramin, bỏ cà phê chiều tối, hạn chế rượu; rà ngưng thở khi ngủ (AASM 2025 (TL-0455) GPS 2, tr. 140). Ảnh hưởng của amlodipin lên RLS: không có trong tài liệu đã tải, giữ nguyên thuốc hạ áp.",
+     "Gabapentin hoặc pregabalin là khuyến cáo mạnh (bằng chứng trung bình) (AASM 2025 (TL-0455) khuyến cáo 2, 3); gabapentin enacarbil cũng mạnh nhưng chi phí cao, ca không có. Không dùng thường quy đồng vận dopamin: nguy cơ bùng phát triệu chứng sau thời gian dùng, các triệu chứng có thể kéo dài (AASM 2025 (TL-0455) khuyến cáo 11–14, tr. 148). AAN 2016 xếp pramipexole Level A; hai nguồn khác năm và cách cân nhắc nguy cơ lâu dài.",
+     "Không cho sắt uống vì ferritin 88 ng/mL (khoảng 75–100: chỉ sắt tĩnh mạch, AASM 2025 (TL-0455) GPS 1). Không cho clonazepam (AASM 2025 (TL-0455) khuyến cáo 17). Không cần chuyển tuyến ngay vì thuốc bước đầu làm được tại chỗ.",
+     "Hẹn 4 tuần: đánh giá đáp ứng, tác dụng phụ (buồn ngủ, chóng mặt: AASM 2025 (TL-0455) tr. 148). Nếu không đáp ứng đủ, chuyển tuyến để xét sắt tĩnh mạch hoặc phương án khác."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Gabapentin",
+      "ham_luong": "300 mg/viên",
+      "lieu": "1 viên mỗi tối; nếu sau 1 tuần chưa đỡ và dung nạp tốt thì tăng lên 2 viên mỗi tối",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, khoảng 1–2 giờ trước giờ ngủ",
+      "so_ngay": "28 ngày",
+      "ghi_chu": "Thuốc đầu tay (AASM 2025 (TL-0455) khuyến cáo 2, mạnh). Liều, giờ uống và mốc tăng liều: không có trong tài liệu đã tải; lựa chọn của ca theo thực hành. Có thể thay bằng pregabalin (khuyến cáo 3). Dặn buồn ngủ, chóng mặt."
+     },
+     {
+      "thuoc": "Diphenhydramin (thuốc anh đang tự mua)",
+      "ham_luong": "25 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "Thuốc kháng histamin làm nặng RLS (AASM 2025 (TL-0455) GPS 2, tr. 140)."
+     }
+    ],
+    "dan_do": [
+     "Đây là bệnh thần kinh thường gặp, không phải bệnh tâm thần; nói với vợ để vợ hiểu.",
+     "Ngưng thuốc 'dị ứng ngủ ngon'; không uống cà phê sau trưa, hạn chế rượu bia.",
+     "Uống gabapentin buổi tối; nếu chóng mặt, buồn ngủ sáng hôm sau thì không chở con, không lái xe và báo bác sĩ.",
+     "Ghi nhật ký giờ khởi phát triệu chứng, số đêm ngủ được (thực hành, không có trong tài liệu đã tải); tái khám sau 4 tuần.",
+     "Đi khám sớm hơn nếu chân yếu, tê bì kiểu mang vớ, đi ngoài phân đen hoặc triệu chứng xuất hiện cả ban ngày."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Tái khám sau 4 tuần. Triệu chứng chân vẫn còn, chỉ đỡ ít; uống gabapentin nhưng chóng mặt, buồn ngủ. Sinh hiệu: HA 126/78 mmHg, mạch 74 l/p.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Anh Bảo được tăng gabapentin hoặc thêm đồng vận dopamin rồi cho về. Chóng mặt và buồn ngủ ban ngày nặng hơn nên nguy cơ tai nạn khi chở con tăng; đồng vận dopamin lâu dài có thể làm bùng phát triệu chứng, khiến RLS nặng và đến sớm hơn trong ngày (AASM 2025 (TL-0455) tr. 139, 148). Ferritin 75–100 vẫn chưa được điều trị bằng sắt tĩnh mạch (AASM 2025 (TL-0455) GPS 1).",
+    "nhap_vien": "Anh Bảo nhập viện nội khoa tại tuyến này để điều trị mất ngủ. Nằm viện không có sắt tĩnh mạch và không giải quyết điều cần làm là truyền sắt (AASM 2025 (TL-0455) khuyến cáo 4); anh tốn chi phí, vắng nhà để con không ai trông.",
+    "cap_cuu": "Anh Bảo bị chuyển cấp cứu vì mất ngủ và chóng mặt do thuốc. Anh tỉnh, sinh hiệu ổn, không dấu hiệu thần kinh khu trú nên không phải cấp cứu; việc đúng là giới thiệu chuyên khoa theo kế hoạch để truyền sắt tĩnh mạch (AASM 2025 (TL-0455) khuyến cáo 4).",
+    "theo_doi": "Anh Bảo tiếp tục theo dõi tại nhà không đổi điều trị. Thôi thúc vẫn 5 đêm/tuần, ngủ 4–5 giờ, mệt mỏi và cáu gắt ảnh hưởng việc trông con; sắt tĩnh mạch là khuyến cáo mạnh chưa được thực hiện (AASM 2025 (TL-0455) khuyến cáo 4, GPS 1)."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc uống đều mà em vẫn bị, chỉ đỡ chút xíu. Lên 600 thì chóng mặt, sáng ngủ gật, hôm kia suýt tông xe chở con. Em giảm xuống lại rồi. Bác sĩ coi có cách nào khác không.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "126/78",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "trieu_chung2",
+     "noi_dung": "Sau khi bỏ thuốc dị ứng và cà phê chiều, tuần đầu uống gabapentin 300 mg tối thấy đỡ chút ít, tăng lên 600 mg thì chóng mặt, sáng hôm sau buồn ngủ, một lần suýt tông xe khi chở con. Anh tự giảm lại 300 mg. Hiện vẫn bị thôi thúc cử động chân khoảng 5 đêm mỗi tuần, ngủ 4–5 giờ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng một phần, bị giới hạn liều bởi tác dụng phụ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống đều mỗi tối, không bỏ đêm nào; còn lại đúng số viên theo ngày. Đã ngưng hẳn thuốc 'dị ứng ngủ ngon', chỉ uống một ly cà phê buổi sáng, không rượu bia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, đã bỏ yếu tố làm nặng"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Triệu chứng vẫn bắt đầu 6–7 giờ chiều khi ngồi yên, không xuất hiện thêm vào ban ngày, không lan sang tay. Không dùng thuốc nào khác. Anh đã nói với vợ; vợ hiểu hơn và đã ngủ lại chung phòng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn biến, không có dấu hiệu bất thường mới"
+    },
+    {
+     "id": "khong_moi",
+     "noi_dung": "Không tê bì, không yếu chân, không đau lưng lan chân, không đi ngoài phân đen, không sút cân, không ngáy hay ngừng thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà dấu hiệu chẩn đoán khác"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Ngoài chóng mặt, buồn ngủ, không phù, không tăng cân, không nhìn mờ, không thay đổi tâm trạng. Ban ngày vẫn mệt và cáu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ của thuốc"
+    },
+    {
+     "id": "moi_truong",
+     "noi_dung": "Con ốm đã khỏi. Anh vẫn trông con một mình ban ngày và bắt buộc phải chở con đi học.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Anh nói thật hơn: không còn ngại, chỉ muốn ngủ được mà không phải uống liều gây chóng mặt. Hỏi có cách nào khác không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mục tiêu điều trị của người bệnh"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt. Niêm mạc hồng.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Sức cơ, phản xạ, cảm giác bình thường như lần trước. Không dấu thần kinh mới.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù, không giãn tĩnh mạch, bắp chân mềm.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "ha_tu_the": {
+     "a": "Nằm 126/78, đứng 3 phút 122/78 mmHg, không chóng mặt khi đứng dậy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "Hb 146 g/L · MCV 89 fL · TC 250 G/L",
+     "n": "Không cần lặp lại, chưa có lý do."
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "r": "Ferritin 88 ng/mL · TSAT 24% (kết quả lượt trước, không đổi).",
+     "n": "Không cần lặp lại; gabapentinoid không đổi chỉ số sắt. Dùng kết quả cũ để giới thiệu (AASM 2025 (TL-0455) GPS 1)."
+    },
+    "b12": {
+     "v": "a",
+     "r": "Đã bình thường lượt trước.",
+     "n": "Không cần lặp lại."
+    },
+    "psg": {
+     "n": "Cơ sở không có; không thay đổi quyết định."
+    },
+    "mri_so_nao": {
+     "n": "Không có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng chân không yên mạn tính, đáp ứng không đủ với gabapentin, liều bị giới hạn bởi chóng mặt và buồn ngủ; ferritin 75–100 ng/mL nên cần sắt tĩnh mạch ở tuyến có điều kiện",
+     "ok": 1,
+     "n": "Triệu chứng 5 đêm/tuần, tuân thủ tốt, đã bỏ diphenhydramin và cà phê, thuốc chỉ đỡ một phần ở liều dung nạp được. Sắt tĩnh mạch ferric carboxymaltose khuyến cáo mạnh (AASM 2025 (TL-0455) khuyến cáo 4) và ferritin 75–100 chỉ dùng sắt tĩnh mạch (AASM 2025 (TL-0455) GPS 1)."
+    },
+    {
+     "t": "Không tuân thủ thuốc",
+     "n": "Số viên còn lại khớp, uống đều mỗi tối."
+    },
+    {
+     "t": "Sai chẩn đoán (bệnh thần kinh ngoại biên, chuột rút, lo âu)",
+     "n": "Khám thần kinh bình thường, không tê, đủ 5 tiêu chí (IRLSSG 2014 (TL-0491) Bảng 1, 3); glucose và B12 lượt trước bình thường."
+    },
+    {
+     "t": "Còn yếu tố làm nặng (kháng histamin, cà phê, rượu, ngưng thở khi ngủ)",
+     "n": "Đã ngưng; không ngáy, không ngừng thở (AASM 2025 (TL-0455) GPS 2)."
+    },
+    {
+     "t": "Bùng phát triệu chứng do thuốc dopaminergic (augmentation)",
+     "n": "Anh chưa dùng thuốc dopaminergic; triệu chứng vẫn từ chiều tối, không lan thêm (AASM 2025 (TL-0455) tr. 139: bùng phát xảy ra với tác nhân dopaminergic)."
+    },
+    {
+     "t": "Thiếu sắt",
+     "n": "Hb bình thường, ferritin 88 ng/mL, không mất máu (BSG 2021 (TL-0219) tr. 4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Rà lại các lý do không đỡ: tuân thủ, yếu tố làm nặng, chẩn đoán, tác dụng phụ, chỉ số sắt",
+     "v": "c",
+     "n": "Quy trình thất bại điều trị; AASM 2025 (TL-0455) GPS 1, 2; IRLSSG 2014 (TL-0491) Bảng 3."
+    },
+    {
+     "t": "Chuyển tuyến chuyên khoa thần kinh/giấc ngủ để xét sắt tĩnh mạch (ferric carboxymaltose) và phương án khác",
+     "v": "c",
+     "n": "AASM 2025 (TL-0455) khuyến cáo 4 (mạnh) và GPS 1: ferritin 75–100 ng/mL chỉ dùng sắt tĩnh mạch. Cơ sở không có sắt tĩnh mạch. Liều và lịch truyền: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuẩn bị chuyển tuyến: thư giới thiệu có kết quả ferritin/TSAT/CTM, thuốc đã dùng và liều, đáp ứng, tác dụng phụ; hẹn tuyến trên và tái khám sau đó",
+     "v": "c",
+     "n": "Nội dung bàn giao theo thực hành; không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ gabapentin 300 mg tối trong lúc chờ, dặn không lái xe, không chở con khi buồn ngủ hoặc chóng mặt",
+     "v": "c",
+     "n": "AASM 2025 (TL-0455) tr. 148: buồn ngủ, chóng mặt. Chấp nhận giảm xuống liều dung nạp."
+    },
+    {
+     "t": "Đổi sang pregabalin",
+     "v": "a",
+     "n": "Cùng nhóm khuyến cáo mạnh (AASM 2025 (TL-0455) khuyến cáo 3); cùng nguy cơ chóng mặt, buồn ngủ (AASM 2025 (TL-0455) tr. 148). Không bắt buộc."
+    },
+    {
+     "t": "Thêm pramipexole hoặc ropinirole",
+     "v": "a",
+     "n": "AAN 2016 (nguồn bổ sung tự tìm) có; AASM 2025 (TL-0455) khuyến cáo 12, 14 không dùng thường quy nhưng cho phép khi thuốc khác không hiệu quả hoặc không dung nạp (tr. 148); cần theo dõi bùng phát triệu chứng. Chấp nhận, không là đáp án ưu tiên."
+    },
+    {
+     "t": "Tăng gabapentin lên liều cao hơn cho đến khi hết triệu chứng",
+     "v": "w",
+     "n": "Đã có chóng mặt và suýt tai nạn ở 600 mg; gabapentinoid gây chóng mặt, buồn ngủ (AASM 2025 tr. 148)."
+    },
+    {
+     "t": "Cho sắt uống",
+     "v": "w",
+     "n": "Ferritin 88 ng/mL: AASM 2025 (TL-0455) GPS 1 chỉ sắt tĩnh mạch."
+    },
+    {
+     "t": "Cho clonazepam hoặc thuốc ngủ",
+     "v": "w",
+     "n": "AASM 2025 (TL-0455) khuyến cáo 17: không dùng clonazepam."
+    },
+    {
+     "t": "Cho ngưng thuốc và tiếp tục theo dõi tại nhà không hẹn",
+     "v": "w",
+     "n": "Triệu chứng đáng kể, ảnh hưởng an toàn khi chở con."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng chân không yên mạn tính, đáp ứng không đủ với gabapentinoid ở liều dung nạp được",
+     "Ferritin 88 ng/mL, TSAT 24%, không thiếu sắt nhưng thuộc khoảng 75–100: chỉ định sắt tĩnh mạch theo AASM",
+     "Tác dụng phụ gabapentin (chóng mặt, buồn ngủ) ảnh hưởng an toàn khi chở con",
+     "Đã loại: không tuân thủ, sai chẩn đoán, yếu tố làm nặng còn, bùng phát do thuốc dopaminergic"
+    ],
+    "phan_tich_chan_doan": [
+     "Không đỡ: rà bằng thứ tự tuân thủ, yếu tố làm nặng, chẩn đoán, thuốc đủ liều chưa, nguyên nhân thứ phát.",
+     "Tuân thủ tốt (số viên khớp). Yếu tố làm nặng đã xử trí: ngưng diphenhydramin, giảm cà phê, không rượu, không ngưng thở khi ngủ (AASM 2025 (TL-0455) GPS 2).",
+     "Chẩn đoán vẫn là RLS: đủ 5 tiêu chí, khám thần kinh bình thường, glucose và B12 bình thường (IRLSSG 2014 (TL-0491) Bảng 1, 3).",
+     "Thuốc: đáp ứng một phần, tăng liều bị giới hạn bởi chóng mặt, buồn ngủ (AASM 2025 (TL-0455) tr. 148), nên 'không đủ liều' không phải do tuân thủ kém.",
+     "Sắt: ferritin 88 ng/mL nằm trong 75–100, chỉ dùng sắt tĩnh mạch (AASM 2025 (TL-0455) GPS 1); ferric carboxymaltose khuyến cáo mạnh (khuyến cáo 4). Cơ sở không có sắt tĩnh mạch nên chuyển tuyến."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến chuyên khoa thần kinh/giấc ngủ để truyền ferric carboxymaltose (AASM 2025 (TL-0455) khuyến cáo 4) và cân nhắc phương án khác nếu cần (AASM 2025 (TL-0455) khuyến cáo 3, 9, 10). Liều, lịch truyền sắt: không có trong tài liệu đã tải.",
+     "Chuẩn bị trước chuyển: viết thư giới thiệu có kết quả, đơn thuốc, tác dụng phụ; dặn không lái xe khi buồn ngủ, hẹn tuyến trên, hẹn tái khám sau điều trị.",
+     "Trong lúc chờ: giữ gabapentin 300 mg tối; không dùng đồng vận dopamin tại tuyến này vì nguy cơ bùng phát triệu chứng (AASM 2025 (TL-0455) khuyến cáo 12, 14) nên để chuyên khoa quyết định.",
+     "Không tăng thêm liều gabapentin, không cho sắt uống, không cho benzodiazepin."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Gabapentin",
+      "ham_luong": "300 mg/viên",
+      "lieu": "1 viên mỗi tối",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, 1–2 giờ trước khi ngủ",
+      "so_ngay": "Đến khi đi khám tuyến trên (khoảng 2 tuần)",
+      "ghi_chu": "Giữ liều dung nạp, không tăng thêm (AASM 2025 (TL-0455) tr. 148: chóng mặt, buồn ngủ). Liều: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Mang theo thư giới thiệu và kết quả ferritin, TSAT, CTM; hỏi truyền sắt tĩnh mạch.",
+     "Không chở con, không lái xe khi chóng mặt hoặc buồn ngủ.",
+     "Giữ bỏ cà phê chiều, không rượu bia, không thuốc ngủ tự mua.",
+     "Báo ngay nếu thôi thúc cử động xuất hiện sớm từ sáng, lan sang tay, hoặc chân yếu, tê bì."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Bảo được chuyển lên khoa thần kinh/giấc ngủ tuyến trên, truyền ferric carboxymaltose; vài tuần sau triệu chứng giảm rõ, ngủ đủ hơn, anh giảm gabapentin về liều thấp và không còn chóng mặt khi chở con. Vợ hiểu bệnh, hai vợ chồng ngủ lại chung phòng.",
+ "nhieu": [
+  "Kể lể lộn xộn: con ốm, mẹ vợ, tiền chợ; bác sĩ cần hỏi gom theo 5 tiêu chí IRLSSG để cấu trúc bệnh sử.",
+  "Xin thuốc ngủ: không phải đích điều trị; thuốc ngủ và thuốc kháng histamin làm nặng hoặc che bệnh.",
+  "Lý do thật giấu vì ngại (sợ bệnh thần kinh/tâm thần): lộ khi hỏi vợ phản ứng ra sao và trấn an."
+ ],
+ "bai_hoc_bien": [
+  "RLS là chẩn đoán lâm sàng bằng 5 tiêu chí; lời khai 'mỏi chân, mất ngủ' phải hỏi thôi thúc cử động, giờ, nghỉ ngơi và đi lại (IRLSSG 2014 (TL-0491) Bảng 1).",
+  "Luôn hỏi thuốc làm nặng (kháng histamin, thuốc serotonin, kháng dopamin), cà phê, rượu, ngưng thở khi ngủ (AASM 2025 (TL-0455) GPS 2, tr. 140).",
+  "Mọi RLS có ý nghĩa lâm sàng cần ferritin và TSAT; 'ferritin bình thường' theo tiêu chuẩn thiếu máu (≥ 45 µg/L: BSG 2021 (TL-0219) tr. 4) chưa phải là hết vấn đề sắt trong RLS (AASM 2025 (TL-0455) GPS 1).",
+  "Không đỡ: rà tuân thủ, yếu tố làm nặng, chẩn đoán, liều, tác dụng phụ rồi mới chuyển tuyến; chuẩn bị thư giới thiệu và an toàn khi lái xe/chở con (AASM 2025 (TL-0455) tr. 148).",
+  "Đồng vận dopamin không còn là thuốc đầu tay theo AASM 2025 (TL-0455) (nguy cơ bùng phát triệu chứng); AAN 2016 vẫn xếp Level A."
+ ],
+ "diem_nho": [
+  "5 tiêu chí RLS: thôi thúc cử động; khi nghỉ; đỡ khi vận động; chiều tối - đêm; không do bệnh khác (IRLSSG 2014 (TL-0491) Bảng 1). Mạn tính: ≥ 2 lần/tuần trong 1 năm.",
+  "Ferritin ≤ 75 ng/mL hoặc TSAT < 20%: sắt uống hoặc tĩnh mạch; ferritin 75–100: chỉ sắt tĩnh mạch (AASM 2025 (TL-0455) GPS 1, tr. 140). Lấy máu buổi sáng, ngưng sắt 24 giờ.",
+  "Khuyến cáo mạnh: gabapentin enacarbil, gabapentin, pregabalin, ferric carboxymaltose tĩnh mạch (AASM 2025 (TL-0455) khuyến cáo 1–4).",
+  "Không dùng thường quy levodopa, pramipexole, ropinirole, rotigotine; không dùng clonazepam, carbamazepin, valerian, bupropion (AASM 2025 (TL-0455) khuyến cáo 11–19); không dùng cabergolin (mạnh, khuyến cáo 20).",
+  "Bệnh dễ nhầm: chuột rút, bệnh thần kinh ngoại biên, bệnh rễ, suy tĩnh mạch, phù, viêm khớp, lo âu, akathisia (IRLSSG 2014 (TL-0491) Bảng 3)."
+ ],
+ "nguon": [
+  "AASM 2025 (Winkelman, J Clin Sleep Med 2025;21(1):137-152; TL-0455) – ĐÃ ĐỌC Good Practice Statement 1–3 (tr. 140), khuyến cáo 1–28 (tr. 137–138, 141–147), bàn luận (tr. 148).",
+  "IRLSSG 2014 (Allen, Sleep Med 2014;15:860-73; TL-0491) – ĐÃ ĐỌC Bảng 1 (tiêu chuẩn), Bảng 3 (bệnh dễ nhầm).",
+  "BSG 2021 thiếu máu thiếu sắt (Snook, Gut 2021; TL-0219) – ĐÃ ĐỌC khuyến cáo 3–5 và mục Định nghĩa (tr. 4): Hb ngưỡng nam < 130 g/L, ferritin < 15, < 30, cut-off 45 µg/L.",
+  "ESRS 2023 mất ngủ (TL-0464) – chỉ tham khảo RLS là bệnh đồng mắc.",
+  "Nguồn bổ sung tự tìm: AAN 2016, Practice guideline summary: Treatment of RLS in adults, Neurology 2016, doi 10.1212/WNL.0000000000003388 (PMID 27856776, qua PubMed, chỉ đọc tóm tắt): pramipexole Level A, ropinirole Level B, sắt khi ferritin ≤ 75 μg/L."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25: viết ca TK-0595. Tài liệu đọc: TL-0455 (GPS 1–3, khuyến cáo 1–28, bàn luận tr. 148), TL-0491 (Bảng 1, 3), TL-0219 (khuyến cáo 3–5, Định nghĩa tr. 4), PubMed AAN 2016 (tóm tắt).",
+  "Không có trong tài liệu đã tải: liều khởi đầu, giờ uống và cách tăng liều gabapentin/pregabalin cho RLS; liều và lịch truyền ferric carboxymaltose; ảnh hưởng của amlodipin lên RLS; mốc tái khám 4 tuần; xét nghiệm sắt tính là xét nghiệm cơ bản ở cơ sở. Các chỗ này ghi trong n/ghi_chu.",
+  "Đồng vận dopamin: AAN 2016 (Level A pramipexole) và AASM 2025 (khuyến cáo 12, 14 không dùng thường quy) khác nhau; ca chấm a (không chấm w), xem TK-0595_mau_thuan.md."
+ ]
+}
