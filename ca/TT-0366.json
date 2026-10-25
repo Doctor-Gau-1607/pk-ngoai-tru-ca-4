@@ -1,0 +1,895 @@
+{
+ "ma_ca": "TT-0366",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TT_roi_loan_an_uong",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn ăn uống (sàng lọc)",
+  "chan_doan_phai_loai_tru": [
+   "Cường giáp",
+   "Bệnh tiêu hóa"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Thợ sơn (đội sơn nhà và công trình)",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị (bác sĩ tim mạch đổi thuốc kháng đông cách đây 3 tuần)",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng (rivaroxaban)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe để nhận việc"
+ },
+ "benh_nhan": {
+  "ten": "Trần Mỹ Duyên",
+  "tuoi": 24,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn trong đội sơn nhà và công trình",
+  "can_nang": 43,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi cô là 'em' hoặc 'chị Duyên'. Duyên tự xưng 'em', gọi bác sĩ là 'bác sĩ'. Mẹ cô, bà Hoa, tự xưng 'cô' hoặc 'mẹ', gọi con là 'Duyên'.",
+  "tinh_cach": "Kín đáo, nói ít, nhanh nhẹn, hay chống chế 'em không sao đâu'. Lo cho công việc và tiền, hay đọc mạng tự chẩn đoán. Né tránh khi hỏi chuyện ăn uống, nghe được khi bác sĩ không phán xét.",
+  "kieu_nhieu": "Tự uống thuốc: Duyên đã tự mua viên giảm cân thảo mộc và trà thải độc uống 5 ngày. Hỏi chung 'có uống thuốc gì không' thì chỉ nhắc thuốc tim, coi thảo mộc không phải thuốc. Chỉ kể ra khi bác sĩ hỏi cụ thể tên, ngày bắt đầu, liều. Tiêu chảy, hồi hộp, run tay do viên làm cô nghĩ mình bị cường giáp.",
+  "nguoi_nha": "Lượt 1 đi một mình. Mẹ, bà Hoa, 51 tuổi bán rau, đi cùng lượt 2–3. Lo cho con nhưng hay nhắc 'ăn đi con', làm Duyên bực. Không biết con cân nhiều lần mỗi ngày.",
+  "ten_nguoi_nha": "Bà Hoa (mẹ)",
+  "ngoai_hinh": {
+   "da": "#d9a984",
+   "toc": "#2a1d18",
+   "kieuToc": "dai",
+   "ao": "#5fa8c9",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d3a07a",
+    "toc": "#3a3a3a",
+    "kieuToc": "bui",
+    "ao": "#8a6f9a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 2,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, sụt cân, tiêu chảy, hồi hộp; xin khám tổng quát",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 24 tuổi, thợ sơn, đi khám một mình vì mệt, sụt cân, mấy hôm nay tiêu chảy và hồi hộp, muốn khám tổng quát. Đang uống thuốc kháng đông theo toa của bác sĩ tim mạch. Sinh hiệu lúc tiếp đón: mạch 108 l/p, HA 96/60 mmHg, nhiệt 36,5 °C, nhịp thở 18 l/p, SpO₂ 98%, cân nặng 43 kg, cao 158 cm.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Duyên về nhà với lời dặn 'ráng ăn nhiều lên', không được giới thiệu chuyên khoa. Cô vẫn ăn một bữa mỗi ngày và uống tiếp viên 'thải độc' vì tin giúp thon gọn, trong khi thuốc nhuận tràng không làm giảm hấp thu năng lượng mà còn làm mất kali (NICE NG69 2017, 1.10.7). Rối loạn ăn uống cần được đánh giá và điều trị sớm (NICE NG69, 1.2.1, 1.2.10); cô vốn xấu hổ, dễ không quay lại sau một buổi khám chỉ nói chuyện ăn uống (NICE NG69, 1.1.1).",
+    "nhap_vien": "Duyên bị nhập viện nội khoa để truyền dịch và nuôi ăn dù K 3,2 mmol/L, không ngất, ECG không rối loạn nguy hiểm. NICE NG69 1.10.3 chỉ đặt nhập viện cấp cứu khi rối loạn điện giải nặng, suy dinh dưỡng nặng, mất nước nặng hoặc dấu hiệu suy cơ quan; 1.11.2 không dùng ngưỡng BMI tuyệt đối. Cô mất việc đang chờ nhận, coi nhập viện như hình phạt vì 'ăn kiêng', dễ giấu hành vi và bỏ điều trị về sau."
+   },
+   "loi_mo": "Chào bác sĩ. Em thấy mệt, tim đập nhanh, mấy bữa nay đi cầu hoài. Em đọc mạng thì nghi em bị cường giáp, bác sĩ khám tuyến giáp giúp em. Em ăn uống bình thường, ráng ăn lắm mà vẫn sụt cân.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "96/60",
+    "nhiet": "36,5",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Duyên nói mình mệt, tim đập nhanh, sụt cân và đi cầu nhiều lần mấy hôm nay. Cô nghi cường giáp vì đọc trên mạng, xin khám tuyến giáp và 'khám tổng quát'. Cô nói ăn uống bình thường và không hiểu sao vẫn sụt cân.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, nghi cường giáp"
+    },
+    {
+     "id": "sut_can",
+     "noi_dung": "Cân nặng 53 kg khoảng 5 tháng trước, giờ 43 kg; 3 tháng gần đây sụt khoảng 7 kg. Mẹ và bạn bảo cô gầy, nhưng soi gương cô vẫn thấy bụng và đùi 'to', sợ lên cân. Cô cân mình 2–3 lần mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sụt cân nhiều, sợ béo, hình ảnh cơ thể méo mó"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Từ khoảng 5 tháng nay cô ăn một bữa mỗi ngày: ít cơm, rau luộc, tránh dầu mỡ và tinh bột; ban ngày uống nước lọc, cà phê đen. Cô ghi calo bằng điện thoại, ăn xong thấy tội lỗi. Không ăn dồn từng cơn, không tự gây nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn hạn chế, đếm calo, không ăn quá độ"
+    },
+    {
+     "id": "tu_uong_thuoc",
+     "noi_dung": "Năm ngày trước cô mua trên mạng viên 'giảm cân thảo mộc' (bao bì không ghi rõ thành phần) uống 2 viên buổi sáng và trà 'thải độc' mỗi tối. Từ ngày thứ 2 cô đi cầu phân lỏng 3–4 lần/ngày, đau quặn bụng, hồi hộp, hơi run tay, khô miệng. Cô cho là 'thảo mộc' nên không phải thuốc.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' thì cô chỉ kể thuốc tim. Chỉ kể ra viên giảm cân và trà thải độc, ngày bắt đầu, liều, khi bác sĩ hỏi cụ thể về thực phẩm chức năng, thảo mộc, trà hoặc thuốc giảm cân, thuốc nhuận tràng tự mua.",
+     "y": "Tự uống thuốc 5 ngày làm sai lệch bệnh cảnh (tiêu chảy, mạch nhanh, run)"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Trước 5 ngày nay cô táo bón nhẹ, không đau bụng, không sốt, không nôn, không phân đen hay máu, không đi cầu đêm. Tiêu chảy chỉ bắt đầu sau khi uống viên và trà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiêu hóa mới 5 ngày, không dấu hiệu bệnh tiêu hóa"
+    },
+    {
+     "id": "kinh_nguyet",
+     "noi_dung": "Cô ngừng thuốc tránh thai 11 tháng trước sau khi bị huyết khối chân; kinh trở lại đều sau khoảng 7 tháng. Đã mất kinh gần 4 tháng nay. Cô không quan hệ tình dục trong 6 tháng qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất kinh thứ phát khoảng 4 tháng"
+    },
+    {
+     "id": "thuoc_kd",
+     "noi_dung": "Cô bị huyết khối tĩnh mạch sâu cẳng chân trái 11 tháng trước khi đang uống thuốc tránh thai. Cô uống warfarin, ba tuần trước bác sĩ tim mạch đổi sang rivaroxaban mỗi tối vì chỉ số INR 'lên xuống thất thường mấy tháng'. Cô không chảy máu cam, không bầm. Chưa kể chuyện ăn uống với bác sĩ tim mạch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc kháng đông đang dùng, vừa đổi thuốc"
+    },
+    {
+     "id": "tam_trang_scoff",
+     "noi_dung": "Khí sắc không buồn, còn thích đi cà phê với bạn, ngủ hơi chập chờn do đói. Không ý nghĩ tự hại. Về các câu SCOFF: không tự gây nôn; sợ mất kiểm soát ăn; sụt hơn 6,3 kg trong 3 tháng; thấy mình mập dù mọi người nói gầy; thức ăn chi phối cả ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ trầm cảm, tự hại; 4/5 điểm SCOFF"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Cô cần giấy khám sức khỏe trong 3 ngày để nhận việc trong đội sơn công trình cao tầng, làm trên giàn giáo. Cô sợ mất việc nên sợ bị chẩn đoán 'bệnh'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi về công việc, giấy tờ hoặc cô mong muốn gì hôm nay.",
+     "y": "Lý do thật: xin giấy chứng nhận sức khỏe để làm việc trên cao"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy, hơi mệt. Cân nặng 43 kg, cao 158 cm, BMI 17,2 kg/m². Niêm nhạt nhẹ, môi và lưỡi khô, da khô, lông tơ mịn ở lưng, tay chân lạnh. Không phù, không vàng da.",
+     "k": 1,
+     "hien": "Dáng gầy, hơi mệt, tay chân lạnh, môi khô."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 98/60 mmHg, mạch 100 l/p; đứng 3 phút 86/54 mmHg, mạch 120 l/p, hơi choáng, không ngất.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không âm thổi. Không lồi mắt, không co kéo mi. Không hạch cổ. Răng không mòn men.",
+     "k": 1
+    },
+    "run_nghi": {
+     "a": "Run nhẹ, mịn khi duỗi tay; không run lúc nghỉ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều, nhanh 108 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim đều, nhanh khoảng 108 l/p."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng lõm, mềm, ấn đau nhẹ lan tỏa dọc khung đại tràng, không điểm đau khu trú, nhu động ruột tăng nhẹ. Không phản ứng thành bụng, gan lách không to.",
+     "k": 1
+    },
+    "suc_co": {
+     "a": "Gốc chi giảm nhẹ: ngồi xổm đứng lên phải chống tay vào gối.",
+     "k": 0,
+     "hien": "Ngồi xổm đứng lên phải chống tay."
+    },
+    "tam_than": {
+     "a": "Hợp tác, nói ít, né tránh khi hỏi chuyện ăn. Khí sắc không trầm, tư duy mạch lạc, không hoang tưởng, không ảo giác. Lo lắng xoay quanh cân nặng và hình dáng. Không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Hợp tác, kín đáo, lo lắng về cân nặng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 4,2 G/L · Hb 121 g/L · TC 215 G/L",
+     "bang": {
+      "wbc": 4.2,
+      "neu_pct": 48.0,
+      "neu": 2.0,
+      "lym_pct": 40.0,
+      "lym": 1.7,
+      "mono_pct": 8.0,
+      "mono": 0.34,
+      "eos_pct": 3.0,
+      "eos": 0.13,
+      "baso_pct": 1.0,
+      "baso": 0.04,
+      "rbc": 4.1,
+      "hgb": 121,
+      "hct": 0.37,
+      "mcv": 90.0,
+      "mch": 29.5,
+      "mchc": 328,
+      "rdw": 13.2,
+      "plt": 215
+     },
+     "n": "Bình thường, không bắt buộc (QĐ 2058/2020 Bài 26 mục 3.1.2)."
+    },
+    "glu": {
+     "v": "a",
+     "r": "4,2 mmol/L",
+     "n": "Đường máu thấp-bình thường khi ăn rất ít; NICE NG69 2017 1.2.6 nêu hạ đường huyết không giải thích được là gợi ý rối loạn ăn uống."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 137 · K 3,2 · Cl 100 mmol/L",
+     "bang": {
+      "na": 137,
+      "k": 3.2,
+      "cl": 100
+     },
+     "ab": 1,
+     "n": "Hạ kali nhẹ: NICE NG69 1.10.1 yêu cầu đánh giá điện giải khi nghi hành vi thanh lọc (nhuận tràng, lợi tiểu); 1.10.4 bù kali đường uống."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 7,4 mmol/L · Creatinin 78 µmol/L · eGFR 96 mL/ph/1,73m²",
+     "bang": {
+      "ure": 7.4,
+      "creat": 78,
+      "egfr": 96
+     },
+     "n": "Mất nước nhẹ, thận bảo tồn; cần vì đang dùng kháng đông uống (chỉnh liều điều trị theo thận/cân nặng: không có trong tài liệu đã tải; QĐ 3908/2023 Bảng 6 chỉ là liều dự phòng)."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang nhanh 108 l/p, QTc 415 ms, T dẹt nhẹ V3–V5, không sóng U rõ, không block, không loạn nhịp.",
+     "ab": 1,
+     "n": "NICE NG69 1.10.2: xét ECG khi sụt cân nhanh, thanh lọc bằng nhuận tràng, điện giải bất thường, dùng thuốc không kê đơn; 1.8.17 theo dõi QT, hạ kali. QĐ 2058/2020 Bài 26 mục 3.1.2 có điện tâm đồ."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 1,9 mIU/L · FT4 14 pmol/L (trong giới hạn của phòng xét nghiệm)",
+     "n": "TSH bình thường loại trừ nhiễm độc giáp (ATA 2016 mục B2, Recommendation 1); QĐ 2058/2020 Bài 26 mục 3.1.2 có hormon tuyến giáp."
+    },
+    "bhcg": {
+     "v": "a",
+     "r": "Âm tính",
+     "n": "Loại có thai khi mất kinh (chỉ định cụ thể: không có trong tài liệu đã tải)."
+    },
+    "fsh_lh": {
+     "v": "a",
+     "r": "FSH 3,1 · LH 1,2 mIU/mL · estradiol thấp (62 pmol/L)",
+     "ab": 1,
+     "n": "Hợp rối loạn trục dưới đồi–tuyến yên–sinh dục do thiếu cân (QĐ 2058/2020 Bài 26 mục 3.1.1, 3.1.2)."
+    },
+    "celiac": {
+     "v": "a",
+     "r": "Anti-tTG IgA âm tính",
+     "n": "Kém hấp thu là chẩn đoán phân biệt (QĐ 2058/2020 Bài 26 mục 3.2); không bắt buộc khi tiêu chảy chỉ 5 ngày."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Gan, thận, tụy bình thường; quai ruột ít dịch, thành ruột không dày; không dịch ổ bụng.",
+     "n": "QĐ 2058/2020 Bài 26 mục 3.1.2 có siêu âm ổ bụng; thay thế khi không có CT."
+    },
+    "ct_bung": {
+     "v": "n",
+     "r": "Cơ sở không có CT.",
+     "thay_the": "abdus",
+     "n": "Không cần: lâm sàng và xét nghiệm đủ; nếu cần hình ảnh thì siêu âm bụng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chán ăn tâm thần (ICD-11 6B80.0, BMI 17,2; ICD-10 F50.0), có dùng thuốc nhuận tràng/viên giảm cân 5 ngày; biến chứng mất kinh thứ phát",
+     "ok": 1,
+     "n": "Sụt từ 53 xuống 43 kg (khoảng 19%), BMI 17,2; ăn hạn chế, đếm calo, sợ béo, cân nhiều lần mỗi ngày, mất kinh 4 tháng. ICD-10: cân nặng thấp hơn ít nhất 15% so với cân nặng phải có, tránh thức ăn gây béo kèm thuốc tẩy, sợ béo, mất kinh (QĐ 2058/2020 Bài 26 mục 3.1.1). ICD-11: BMI < 18,5 kg/m² ở người lớn, hành vi hạn chế/thanh lọc, bận tâm cân nặng; BMI 14,0–18,5 là 6B80.0 (WHO ICD-11 CDDR 2024, 6B80, tr. 398–399). ICD-10 tính theo % cân nặng, ICD-11 theo BMI, cùng kết quả ở ca này. Thể hạn chế hay ăn–thanh lọc (6B80.00/01) chưa chốt vì thanh lọc mới 5 ngày."
+    },
+    {
+     "t": "Hạ kali nhẹ, mất nước nhẹ và hạ huyết áp tư thế do nhịn ăn kèm thuốc nhuận tràng/viên giảm cân tự mua",
+     "ok": 1,
+     "n": "K 3,2, ure tăng, HA đứng 86/54 mmHg. Hạ huyết áp tư thế, nhịp nhanh tư thế là yếu tố nguy cơ y khoa (WHO ICD-11 CDDR 2024, 6B80, tr. 400). Nhuận tràng không giảm hấp thu năng lượng (NICE NG69 2017, 1.10.7). Thành phần viên thảo mộc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiền sử huyết khối tĩnh mạch sâu, đang dùng thuốc kháng đông uống (rivaroxaban), mới đổi từ warfarin 3 tuần",
+     "ok": 1,
+     "n": "Bệnh kèm cần giữ thuốc, kiểm tra chức năng thận, nguy cơ chảy máu khi ngã (nhịp nhanh, hạ huyết áp tư thế, làm việc trên cao). Cách điều chỉnh khi thay đổi cân nặng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Loại trừ: tuyến giáp không to, không lồi mắt, TSH 1,9 mIU/L (ATA 2016 mục B2: TSH bình thường loại trừ nhiễm độc giáp). Mạch nhanh, run xuất hiện sau khi uống viên giảm cân (suy luận lâm sàng; thành phần viên không rõ)."
+    },
+    {
+     "t": "Bệnh tiêu hóa (Crohn, kém hấp thu, celiac, nhiễm trùng ruột)",
+     "n": "Loại trừ: tiêu chảy chỉ 5 ngày sau thuốc, trước đó táo bón; không sốt, không máu trong phân, anti-tTG âm tính, siêu âm bụng bình thường. Bệnh cơ thể thường kèm nhận thức rõ sụt cân, không sợ béo như chán ăn tâm thần (QĐ 2058/2020 Bài 26 mục 3.2)."
+    },
+    {
+     "t": "Trầm cảm",
+     "n": "Loại trừ lúc này: khí sắc không trầm, còn thích đi chơi, không tự hại. Trầm cảm sút cân do mất ngon, không méo mó hình ảnh cơ thể (QĐ 2058/2020 Bài 26 mục 3.2; Bài 20 mục 3.1.1). Hỏi lại vì chán ăn tâm thần liên quan trầm cảm, nguy cơ tự sát cao (Bài 26 mục 1)."
+    },
+    {
+     "t": "Có thai hoặc mất kinh do nguyên nhân khác sau ngừng thuốc tránh thai",
+     "n": "β-hCG âm tính; mất kinh đi cùng sụt cân nhiều, FSH/LH, estradiol thấp. Nguyên nhân nội tiết khác: không có trong tài liệu đã tải để loại từng bước."
+    },
+    {
+     "t": "Cuồng ăn tâm thần hoặc rối loạn ăn uống vô độ",
+     "n": "Không có cơn ăn quá độ và mất kiểm soát lặp lại, BMI thấp. ICD-11: chán ăn tâm thần phân biệt với cuồng ăn bằng cân nặng rất thấp (WHO ICD-11 CDDR 2024, 6B80, tr. 403; 6B81 tr. 404)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích bình tĩnh, nghiêm túc, không đổ lỗi: đây không phải cường giáp; mối nguy là thiếu ăn và thuốc giảm cân; thăm khám đầu tiên đã là một phần điều trị",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 26 mục 4.3: thăm khám ban đầu xem như trị liệu, thái độ nghiêm túc nhưng thân thiện; NICE NG69 2017 1.1.3: hỏi người bệnh hiểu gì về rối loạn ăn uống và sửa quan niệm sai."
+    },
+    {
+     "t": "Giới thiệu ngay khám chuyên khoa tâm thần/dịch vụ rối loạn ăn uống, phối hợp nhà dinh dưỡng, giữ phòng khám theo dõi thể chất",
+     "v": "c",
+     "n": "NICE NG69 1.2.10: nghi rối loạn ăn uống thì giới thiệu ngay; 1.3.1, 1.3.20: hỗ trợ đa chuyên ngành, theo dõi cân nặng và sức khỏe thể chất. QĐ 2058/2020 Bài 26 mục 4.1: kết hợp tâm lý, dinh dưỡng. Chưa có tiêu chí nhập viện (NICE NG69 1.10.3)."
+    },
+    {
+     "t": "Ngừng ngay viên giảm cân, trà thải độc; giải thích nhuận tràng không giảm hấp thu năng lượng",
+     "v": "c",
+     "n": "NICE NG69 1.10.7: nhuận tràng và lợi tiểu không giảm hấp thu calo; khuyên giảm dần rồi ngừng (ở đây dùng mới 5 ngày nên ngừng). Thành phần viên thảo mộc không rõ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bù kali đường uống, uống đủ nước; kiểm lại K máu và mạch, HA tư thế sau khoảng 1 tuần",
+     "v": "c",
+     "n": "NICE NG69 1.10.1, 1.10.4: đánh giá điện giải khi thanh lọc, bù đường uống trừ khi hấp thu kém hoặc rối loạn nặng. Liều kali và khoảng cách kiểm lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không nhịn đói: ăn đều ba bữa chính và bữa phụ theo kế hoạch của nhà dinh dưỡng; uống đa vitamin–khoáng chất",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 26 mục 4.3: không được nhịn đói, ăn đều đặn thức ăn giàu năng lượng; NICE NG69 1.3.21: đa vitamin–khoáng chất đến khi khẩu phần đủ. Năng lượng và số bữa cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ nguyên thuốc kháng đông, không tự ngưng; báo bác sĩ tim mạch về sụt cân, ăn kiêng, tiêu chảy và hỏi lại liều",
+     "v": "a",
+     "n": "Chỉnh liều thuốc kháng đông theo cân nặng hoặc chức năng thận khi điều trị: không có trong tài liệu đã tải (QĐ 3908/2023 Bảng 6 chỉ là liều dự phòng). Thận trọng nguy cơ chảy máu khi ngã là suy luận lâm sàng."
+    },
+    {
+     "t": "Chưa cấp giấy đủ sức khỏe làm việc trên giàn giáo; giải thích nguy cơ choáng, ngã khi đang dùng kháng đông; nên làm việc thấp, nhẹ trong thời gian điều trị",
+     "v": "a",
+     "n": "WHO ICD-11 CDDR 2024, 6B80, tr. 400: hạ huyết áp tư thế, nhịp nhanh tư thế là yếu tố nguy cơ; NICE NG69 1.1.5: đánh giá tác động của công việc. Quy định giấy khám sức khỏe, làm việc trên cao: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc chống trầm cảm ngay lúc này",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 26 mục 4.3 liệt kê SSRI, SNRI, 3 vòng; NICE NG69 1.3.24 không dùng thuốc đơn độc. Hai nguồn khác cách, cả hai chấp nhận; ca không trầm cảm nên chưa cần (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Dùng điểm SCOFF để chẩn đoán xác định",
+     "v": "w",
+     "n": "SCOFF chỉ gợi ý nghi ngờ (Morgan 1999: ≥ 2 điểm); NICE NG69 1.2.5: không dùng công cụ sàng lọc làm phương pháp duy nhất để xác định rối loạn ăn uống."
+    },
+    {
+     "t": "Nhập viện ngay hoặc chuyển cấp cứu",
+     "v": "w",
+     "n": "Không có điện giải nặng, mất nước nặng, suy dinh dưỡng nặng hay suy cơ quan (NICE NG69 1.10.3); không dùng ngưỡng BMI tuyệt đối (1.11.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chán ăn tâm thần, cân nặng thấp đáng kể (BMI 17,2; ICD-11 6B80.0), ICD-10 F50.0; có thanh lọc bằng thuốc nhuận tràng/viên giảm cân 5 ngày",
+     "Mất kinh thứ phát khoảng 4 tháng do rối loạn trục sinh dục thứ phát",
+     "Hạ kali nhẹ, mất nước nhẹ, hạ huyết áp tư thế, nhịp nhanh do viên giảm cân và nhịn ăn",
+     "Tiền sử huyết khối tĩnh mạch sâu, đang dùng rivaroxaban (mới đổi từ warfarin)",
+     "Loại trừ: cường giáp, bệnh tiêu hóa, trầm cảm, có thai"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi ăn uống, hành vi cân nặng, SCOFF, tên thuốc/thảo mộc tự mua → khám cân/BMI, mạch, HA nằm–đứng, tuyến giáp, bụng → điện giải, ECG, TSH, β-hCG → chẩn đoán → xử trí.",
+     "Chán ăn tâm thần: sụt khoảng 19% cân nặng, BMI 17,2, sợ béo, bận tâm cân nặng, mất kinh (QĐ 2058/2020 Bài 26 mục 3.1.1; WHO ICD-11 CDDR 2024, 6B80, tr. 398–399). NICE không dùng một ngưỡng duy nhất để quyết định điều trị (NICE NG69 1.2.8).",
+     "SCOFF 4/5 điểm (≥ 2 là nghi). Morgan 1999: nhạy 100%, đặc hiệu 87,5% ở bệnh nhân chuyên khoa; USPSTF 2022 gộp ở người lớn: nhạy 84%, đặc hiệu 80%; mẫu khác nhau nên số khác nhau. Chỉ là sàng lọc, không thay chẩn đoán (NICE NG69 1.2.5).",
+     "Cường giáp và bệnh tiêu hóa là hai chẩn đoán cần loại trừ do mạch nhanh, run, tiêu chảy. Mạch nhanh, run, tiêu chảy bắt đầu sau viên giảm cân; TSH bình thường (ATA 2016 mục B2); xét nghiệm và siêu âm bụng không bệnh tiêu hóa (QĐ 2058/2020 Bài 26 mục 3.2).",
+     "Thanh lọc và nhịn ăn gây K 3,2, hạ huyết áp tư thế; chưa đạt mức điện giải nặng, suy dinh dưỡng nặng hay suy cơ quan (NICE NG69 1.10.3) nên điều trị ngoại trú có theo dõi.",
+     "Lý do thật là giấy sức khỏe để làm việc trên giàn giáo; cô giấu vì sợ mất việc."
+    ],
+    "phan_tich_xu_tri": [
+     "Giới thiệu ngay chuyên khoa tâm thần và nhà dinh dưỡng, bác sĩ nội khoa giữ theo dõi thể chất (NICE NG69 1.2.10, 1.3.1, 1.3.20; QĐ 2058/2020 Bài 26 mục 4.1).",
+     "Ngừng viên giảm cân và trà thải độc; nói rõ nhuận tràng không giảm hấp thu calo (NICE NG69 1.10.7).",
+     "Bù kali đường uống, kiểm lại K, mạch, HA tư thế, cân nặng sau khoảng 1 tuần (NICE NG69 1.10.1, 1.10.4; liều và khoảng cách: không có trong tài liệu đã tải).",
+     "Không nhịn đói, ăn đều đặn; đa vitamin–khoáng chất (QĐ 2058/2020 Bài 26 mục 4.3; NICE NG69 1.3.21).",
+     "Kháng đông giữ nguyên, báo bác sĩ tim mạch; chưa cấp giấy làm việc trên giàn giáo lúc này."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kali clorid uống",
+      "ham_luong": "Theo chế phẩm sẵn có (hàm lượng và liều: không có trong tài liệu đã tải)",
+      "lieu": "Theo chế phẩm; liều không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Đến khi kiểm lại K máu (hẹn sau khoảng 1 tuần)",
+      "ghi_chu": "nguồn: Bù kali đường uống khi điện giải bất thường mức không nặng (NICE NG69 2017, 1.10.4)."
+     },
+     {
+      "thuoc": "Đa vitamin và khoáng chất",
+      "ham_luong": "Theo chế phẩm thích hợp tuổi người lớn",
+      "lieu": "1 viên theo chế phẩm",
+      "duong": "Uống",
+      "thoi_diem": "Sau bữa ăn chính",
+      "so_ngay": "Đến khi khẩu phần đủ nhu cầu",
+      "ghi_chu": "nguồn: NICE NG69 2017, 1.3.21: đa vitamin–khoáng chất đến khi khẩu phần đủ; số viên cụ thể theo chế phẩm."
+     },
+     {
+      "thuoc": "Rivaroxaban (thuốc kháng đông đang dùng)",
+      "ham_luong": "Giữ nguyên theo toa bác sĩ tim mạch",
+      "lieu": "Giữ nguyên, không đổi",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi tối như cũ",
+      "so_ngay": "Theo bác sĩ tim mạch",
+      "ghi_chu": "Đang dùng, giữ nguyên; điều chỉnh khi thay đổi cân nặng/thận: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bệnh này không phải cường giáp. Cân nặng thấp và nhịn ăn làm tim chậm/nhanh thất thường, tụt huyết áp, mất kinh; cần ăn đều, không nhịn đói (QĐ 2058/2020 Bài 26 mục 4.3).",
+     "Dừng hẳn viên giảm cân, trà thải độc, thuốc nhuận tràng; chúng không làm giảm hấp thu calo (NICE NG69 1.10.7).",
+     "Ăn đều ba bữa chính, thêm bữa phụ theo kế hoạch của nhà dinh dưỡng, uống đủ nước, uống đa vitamin–khoáng chất (NICE NG69 1.3.21).",
+     "Đến khám chuyên khoa tâm thần trong tuần này; tái khám sau khoảng 1 tuần để cân, đo mạch, HA tư thế, thử kali (khoảng cách tái khám: không có trong tài liệu đã tải).",
+     "Chưa leo giàn giáo, làm việc trên cao lúc này vì dễ choáng, ngã khi uống kháng đông; làm việc thấp, nhẹ. Báo ngay nếu ngất, chảy máu, phân đen, ngã (suy luận lâm sàng).",
+     "Tiếp tục thuốc kháng đông, cho bác sĩ tim mạch biết về ăn uống, tiêu chảy; không tự mua thuốc, thực phẩm chức năng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám sau 3 tuần (hẹn 1 tuần nhưng bận công trình), đi cùng mẹ là bà Hoa. Duyên đã ngừng viên giảm cân, uống kali vài ngày, đã đến khám tâm thần một lần và được hẹn trị liệu mỗi tuần. Cô nói cân lên 'chút xíu' và xin giấy sức khỏe vì công ty đang chờ. Sinh hiệu: mạch 54 l/p, HA 98/60 mmHg, nhiệt 36,2 °C, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 43,9 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Duyên bị nhập viện chỉ vì cân lên 0,9 kg 'chưa đủ', trong khi mạch 54 l/p nhưng K 4,0 mmol/L, QTc bình thường và cân đang tăng. NICE NG69 2017 1.11.2 không dùng ngưỡng cân hay BMI tuyệt đối; 1.11.3 dựa vào tốc độ sụt cân (ví dụ > 1 kg/tuần), mạch < 40 l/p, QT dài. Cô mất buổi trị liệu hằng tuần đang có, mẹ phải nghỉ bán hàng, và cô thấy mình bị phạt, dễ giấu bữa ăn (NICE NG69 1.11.13: nằm lâu có nguy cơ thể chế hóa).",
+    "chuyen_tuyen": "Cô bị chuyển hẳn lên bệnh viện tuyến trên để 'xử lý tiếp', nhóm trị liệu và phòng khám đứt liên lạc, lịch hẹn mỗi tuần bị bỏ. NICE NG69 1.1.11 yêu cầu điều phối chặt khi nhiều dịch vụ cùng tham gia. Hai bà con đi xa chỉ để làm lại ECG, điện giải đã làm; trong lúc chờ lịch mới, cô lại bỏ bữa."
+   },
+   "loi_mo": "Em làm theo bác sĩ rồi mà cân lên có chút xíu à. Em sợ ăn nhiều lên là mập. Bác sĩ cấp giùm em tờ giấy sức khỏe đi, công ty đang chờ.",
+   "sinh_hieu": {
+    "mach": 54,
+    "ha": "98/60",
+    "nhiet": "36,2",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tien_trien",
+     "noi_dung": "Ngưng viên giảm cân và trà thải độc từ sau buổi khám đầu; hết tiêu chảy sau 3 ngày. Cô uống kali 5 ngày rồi bỏ. Đã gặp bác sĩ tâm thần một lần cách đây 8 ngày, hẹn trị liệu mỗi tuần. Chưa gặp nhà dinh dưỡng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đã ngừng thuốc tự mua, bắt đầu theo chuyên khoa"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Cô ăn hai bữa mỗi ngày thay vì một, vẫn né cơm và đồ chiên, vẫn đếm calo. Cô cân 2 lần mỗi ngày, mỗi lần thấy tăng 0,3–0,5 kg là hoảng sợ, uống thêm nước lạnh trước bữa. Mẹ nấu thêm nhưng cô gạt bớt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỡ một phần: ăn nhiều hơn nhưng vẫn hạn chế, sợ tăng cân"
+    },
+    {
+     "id": "hanh_vi",
+     "noi_dung": "Một lần cách đây 10 ngày, sau bữa cơm gia đình cô móc họng nôn vì sợ béo, rồi hoảng sợ không làm nữa. Không dùng lại nhuận tràng, thuốc lợi tiểu hay viên giảm cân. Không tập thể dục thêm ngoài công việc.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể về nôn, móc họng, thuốc nhuận tràng, thuốc lợi tiểu, tập luyện thêm sau khi ăn.",
+     "y": "Hành vi thanh lọc còn sót, mới 1 lần"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Cô còn chóng mặt khi đứng dậy nhanh, hay lạnh tay chân, mệt. Chưa ngất, chưa té. Chưa có kinh trở lại. Cô tự xin chuyển sang sơn nền nhà thấp, không lên giàn giáo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng thể chất còn: chóng mặt tư thế, chưa có kinh"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Cô còn thích đi chơi với bạn, ngủ đỡ hơn. Không ý nghĩ tự hại. Mẹ sẵn lòng nấu ăn cùng nhưng hay nhắc 'ăn đi con' làm cô bực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không trầm cảm; gia đình hỗ trợ nhưng dễ gây căng thẳng"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Công ty cho thêm một tháng. Cô muốn có giấy 'đủ sức khỏe' ngay, sợ mất chỗ. Cô hứa 'em sẽ ăn thêm' nếu được cấp giấy.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do thật: xin giấy sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy. Cân nặng 43,9 kg, BMI 17,6 kg/m². Môi hết khô, da còn khô, lông tơ ở lưng, tay chân hơi lạnh.",
+     "k": 1,
+     "hien": "Gầy, tay chân hơi lạnh."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 100/60 mmHg, mạch 56 l/p; đứng 3 phút 92/58 mmHg, mạch 76 l/p, hơi choáng.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, chậm 54 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 54 l/p."
+    },
+    "bung": {
+     "a": "Bụng lõm, mềm, không đau, nhu động bình thường.",
+     "k": 0
+    },
+    "suc_co": {
+     "a": "Ngồi xổm đứng lên còn phải chống tay nhẹ.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Hợp tác hơn lượt đầu, vẫn bận tâm cân nặng và sợ tăng cân. Khí sắc không trầm, tư duy mạch lạc, không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Hợp tác, lo về cân nặng."
+    }
+   },
+   "cls": {
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 4,0 · Cl 102 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.0,
+      "cl": 102
+     },
+     "n": "K đã về bình thường; NICE NG69 2017 1.10.1 theo dõi điện giải khi còn hành vi thanh lọc (một lần nôn)."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang chậm 54 l/p, QTc 420 ms, không block, không loạn nhịp.",
+     "ab": 1,
+     "n": "NICE NG69 1.10.2: xét ECG khi nhịp chậm, hạ huyết áp, cân nặng thay đổi; mạch 54 chưa tới mức < 40 l/p cần nhập viện (NICE NG69 1.11.3)."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "Không cần lặp: TSH lượt trước 1,9 mIU/L; mạch chậm không gợi cường giáp.",
+     "n": "ATA 2016 mục B2: TSH bình thường loại trừ nhiễm độc giáp."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chán ăn tâm thần (6B80.0), đỡ một phần: cân nặng tăng 0,9 kg, còn hạn chế ăn, sợ tăng cân và còn mất kinh",
+     "ok": 1,
+     "n": "Cân 43,9 kg (BMI 17,6) vẫn dưới 18,5 (WHO ICD-11 CDDR 2024, 6B80, tr. 398). Ăn hai bữa thay một, còn hạn chế, một lần nôn. Hồi phục chậm khác thất bại sớm: cân tăng, điện giải ổn, chưa vượt tiêu chí nhập viện (NICE NG69 2017 1.11.3). Một lần nôn chưa đủ tần suất cuồng ăn tâm thần (≥ 1 lần/tuần trong ≥ 1 tháng, WHO ICD-11 6B81, tr. 404)."
+    },
+    {
+     "t": "Nhịp xoang chậm và hạ huyết áp tư thế do suy dinh dưỡng, chưa đạt tiêu chí nhập viện",
+     "ok": 1,
+     "n": "Mạch 54 l/p, đứng HA 92/58 mmHg và mạch tăng 20 l/p. ICD-11 nêu nhịp chậm, hạ huyết áp tư thế là yếu tố nguy cơ y khoa (WHO ICD-11 CDDR 2024, 6B80, tr. 400). NICE NG69 1.11.3: nhập viện khi mạch < 40 l/p, QT dài, sụt cân nhanh (ví dụ > 1 kg/tuần) hoặc tình trạng thể chất xấu đi; chưa có."
+    },
+    {
+     "t": "Tiền sử huyết khối tĩnh mạch sâu, đang dùng rivaroxaban, không chảy máu",
+     "ok": 1,
+     "n": "Bệnh kèm giữ nguyên thuốc, báo bác sĩ tim mạch về cân nặng; cách chỉnh liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thất bại điều trị sớm cần nhập viện",
+     "n": "Không: cân tăng, K 4,0, QTc 420 ms, không ngất, đã bắt đầu trị liệu chuyên khoa. NICE NG69 1.11.2 không dùng ngưỡng cân tuyệt đối; 1.11.4 không nhập viện chỉ để trị liệu tâm lý."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục điều trị ngoại trú đa chuyên ngành: trị liệu tâm lý hằng tuần ở chuyên khoa, thêm nhà dinh dưỡng, phòng khám theo dõi thể chất",
+     "v": "c",
+     "n": "NICE NG69 2017 1.3.1, 1.3.20: hỗ trợ đa chuyên ngành, theo dõi cân nặng, sức khỏe thể chất; NICE 1.3.4: trị liệu cá nhân CBT-ED, MANTRA hoặc SSCM; QĐ 2058/2020 Bài 26 mục 4.1 và 4.3: liệu pháp tâm lý cá nhân, nhóm, gia đình, dinh dưỡng."
+    },
+    {
+     "t": "Cân cùng một cân, cùng giờ mỗi tuần tại phòng khám, chia sẻ kết quả với bệnh nhân; khuyên giảm số lần tự cân ở nhà",
+     "v": "c",
+     "n": "NICE NG69 1.3.3: cân nặng và chia sẻ kết quả với bệnh nhân; 1.3.1: theo dõi cân nặng. Số lần tự cân ở nhà nên giảm: không có trong tài liệu đã tải (suy luận lâm sàng)."
+    },
+    {
+     "t": "Nói rõ cho bệnh nhân và mẹ khi nào phải nhập viện: sụt cân nhanh (ví dụ > 1 kg/tuần), mạch < 40 l/p, QT dài, ngất, điện giải nặng, tình trạng thể chất xấu đi",
+     "v": "c",
+     "n": "NICE NG69 1.11.3 và 1.10.3. Không dùng ngưỡng cân tuyệt đối (1.11.2)."
+    },
+    {
+     "t": "Hướng dẫn mẹ hỗ trợ ăn uống, không ép hay trách, tham gia buổi giáo dục gia đình",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 26 mục 4.3: liệu pháp gia đình phối hợp giáo dục; NICE NG69 1.1.4: người nhà thường mặc cảm có lỗi."
+    },
+    {
+     "t": "Khuyên dừng hẳn hành vi nôn, nhuận tràng, lợi tiểu và không tập luyện quá mức",
+     "v": "c",
+     "n": "NICE NG69 1.10.7, 1.10.8."
+    },
+    {
+     "t": "Chưa cấp giấy 'đủ sức khỏe làm việc trên cao'; cấp giấy ghi đúng tình trạng hiện tại, tạm làm việc thấp, nhẹ; hẹn đánh giá lại khi cân và mạch ổn",
+     "v": "a",
+     "n": "Quy định giấy khám sức khỏe: không có trong tài liệu đã tải. Cơ sở: mạch 54 và hạ huyết áp tư thế là yếu tố nguy cơ (WHO ICD-11 CDDR 2024, 6B80, tr. 400), thêm kháng đông; NICE NG69 1.1.5: tính đến tác động của công việc."
+    },
+    {
+     "t": "Nhập viện vì cân mới tăng 0,9 kg 'chưa đủ'",
+     "v": "w",
+     "n": "NICE NG69 1.11.2: không dùng ngưỡng cân/BMI tuyệt đối khi quyết định nhập viện; chưa có tiêu chí 1.11.3."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chán ăn tâm thần (6B80.0), đỡ một phần: cân 43,9 kg (BMI 17,6), còn hạn chế ăn, còn sợ tăng cân, chưa có kinh",
+     "Nhịp xoang chậm 54 l/p và hạ huyết áp tư thế do suy dinh dưỡng, K đã về 4,0 mmol/L",
+     "Một lần nôn sau bữa ăn 10 ngày trước, chưa đủ tiêu chuẩn cuồng ăn tâm thần",
+     "Tiền sử huyết khối tĩnh mạch sâu, đang dùng rivaroxaban, không chảy máu"
+    ],
+    "phan_tich_chan_doan": [
+     "Đỡ một phần: hết tiêu chảy, K bình thường, ăn hai bữa, cân tăng 0,9 kg; còn hạn chế ăn, đếm calo, một lần nôn, chưa có kinh. Cân tăng, điện giải ổn, QTc 420 ms, mạch chưa dưới 40 nên là hồi phục chậm, không phải thất bại sớm (NICE NG69 2017 1.11.3).",
+     "Mạch 54 l/p bây giờ mới thấy rõ vì lượt đầu mạch nhanh do viên giảm cân; nhịp chậm là dấu thực của suy dinh dưỡng (WHO ICD-11 CDDR 2024, 6B80, tr. 400).",
+     "Không dùng ngưỡng cân hay BMI tuyệt đối để nhập viện (NICE NG69 1.11.2); đã bắt đầu trị liệu chuyên khoa; chưa cần chuyển tuyến lại.",
+     "Lý do thật vẫn là giấy sức khỏe: cô hứa ăn thêm nếu được cấp giấy; bác sĩ trả lời trung thực về nguy cơ làm việc trên cao và hẹn khi nào có thể xem lại."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú đa chuyên ngành: trị liệu tâm lý (CBT-ED, MANTRA hoặc SSCM; NICE NG69 1.3.4), nhà dinh dưỡng (1.3.20), phòng khám theo dõi cân, mạch, HA tư thế, kali (1.3.1).",
+     "Báo trước tiêu chí nhập viện cho cô và mẹ (NICE NG69 1.11.3, 1.10.3).",
+     "Mẹ tham gia nhưng không ép; liệu pháp gia đình (QĐ 2058/2020 Bài 26 mục 4.3; NICE NG69 1.1.4).",
+     "Giấy sức khỏe: ghi đúng tình trạng, tạm làm việc thấp (quy định chi tiết: không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Đa vitamin và khoáng chất",
+      "ham_luong": "Theo chế phẩm",
+      "lieu": "1 viên theo chế phẩm",
+      "duong": "Uống",
+      "thoi_diem": "Sau bữa ăn chính",
+      "so_ngay": "Tiếp tục đến khi khẩu phần đủ",
+      "ghi_chu": "nguồn: NICE NG69 2017, 1.3.21."
+     },
+     {
+      "thuoc": "Rivaroxaban (thuốc kháng đông đang dùng)",
+      "ham_luong": "Giữ nguyên theo toa bác sĩ tim mạch",
+      "lieu": "Giữ nguyên, không đổi",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi tối như cũ",
+      "so_ngay": "Theo bác sĩ tim mạch",
+      "ghi_chu": "Đang dùng, giữ nguyên; chỉnh liều theo cân nặng: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cân tăng là tin tốt; cân lên chậm và sợ là bình thường. Đừng ngừng điều trị khi thấy mình 'tròn ra' (QĐ 2058/2020 Bài 26 mục 4.3).",
+     "Đi trị liệu mỗi tuần, gặp nhà dinh dưỡng; cân tại phòng khám mỗi tuần, ở nhà cân ít hơn.",
+     "Không nôn, không nhuận tràng, không lợi tiểu, không tập luyện quá mức (NICE NG69 1.10.7, 1.10.8). Nếu lỡ nôn, nói với bác sĩ ngay, súc miệng bằng nước súc miệng không acid, không đánh răng ngay (NICE NG69 1.10.6).",
+     "Mẹ: hỗ trợ bữa ăn, không ép hay trách, tham gia buổi giáo dục gia đình (QĐ 2058/2020 Bài 26 mục 4.3).",
+     "Tái khám sau 2–3 tuần để cân, ECG, điện giải; xem lại giấy sức khỏe khi cân, mạch, HA tư thế ổn (khoảng cách tái khám: không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Tái khám sau khoảng 10 tuần, đi cùng mẹ. Trị liệu hằng tuần và gặp nhà dinh dưỡng đều đặn. Cô vui, nói kinh nguyệt đã trở lại, xin giấy sức khỏe để nhận việc. Sinh hiệu: mạch 62 l/p, HA 106/66 mmHg, nhiệt 36,6 °C, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 47,6 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Duyên bị nhập viện dù cân 47,6 kg (BMI 19,1), mạch 62 l/p, K 4,2 mmol/L, kinh đã trở lại. Không có chỉ định: NICE NG69 2017 1.11.1 chỉ nhập viện khi sức khỏe thể chất bị tổn hại nặng mà không xử trí được ngoại trú. Cô mất lượt nhận việc đã chờ, hiểu rằng 'lên cân là bị phạt', có thể nảy lại nỗi sợ tăng cân, bỏ ăn.",
+    "chuyen_tuyen": "Cô bị gửi lại tuyến trên làm lại toàn bộ khám và xét nghiệm dù mọi chỉ số ổn. Cô tốn ngày công, tiền đi lại, và nhận thông điệp 'vẫn đang bệnh nặng' khiến cô nghi ngờ kết quả điều trị. Nhóm trị liệu đang theo cô bị gián đoạn (NICE NG69 1.1.11 yêu cầu điều phối khi nhiều dịch vụ cùng tham gia)."
+   },
+   "loi_mo": "Bác sĩ ơi, em lên cân rồi, có kinh lại rồi nữa. Giờ cho em tờ giấy sức khỏe để nhận việc nha. Em còn hơi lo lên cân nữa là mập.",
+   "sinh_hieu": {
+    "mach": 62,
+    "ha": "106/66",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tien_trien",
+     "noi_dung": "Cô trị liệu hằng tuần, gặp nhà dinh dưỡng hai lần. Ăn ba bữa chính và hai bữa phụ, ăn cơm lại, đã bỏ đếm calo. Cân tại nhà còn một lần mỗi tuần. Kinh nguyệt trở lại cách đây 3 tuần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Hồi phục cân nặng, kinh trở lại"
+    },
+    {
+     "id": "hanh_vi",
+     "noi_dung": "Không nôn, không dùng nhuận tràng, lợi tiểu hay viên giảm cân từ lượt trước. Không tập luyện quá mức ngoài công việc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không còn hành vi thanh lọc"
+    },
+    {
+     "id": "lo_tai_phat",
+     "noi_dung": "Cô vẫn thấy lo khi áo chật hoặc ăn bữa tiệc, những hôm đó muốn bỏ bữa kế tiếp; chưa làm, kể lại với bác sĩ trị liệu. Cô nghĩ bây giờ 'khỏi rồi' nên thôi trị liệu.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi về nỗi lo cân nặng, hình ảnh cơ thể, áp lực, ý định ngừng trị liệu hoặc ăn tiệc.",
+     "y": "Còn nguy cơ tái phát, ý định ngừng điều trị sớm"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Cô đã làm sơn nhà thấp 2 tháng, không choáng. Công ty muốn nhận cô làm đội sơn giàn giáo, cần giấy khám sức khỏe. Cô vẫn uống rivaroxaban, không bầm hay chảy máu; bác sĩ tim mạch hẹn tái khám 1 tháng nữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giấy sức khỏe, công việc trên cao, thuốc kháng đông"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hồng hào, tay chân ấm. Cân nặng 47,6 kg, cao 158 cm, BMI 19,1 kg/m². Da còn hơi khô, không lông tơ mới.",
+     "k": 1,
+     "hien": "Hồng hào hơn, tay chân ấm."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 106/66 mmHg, mạch 62 l/p; đứng 3 phút 104/66 mmHg, mạch 74 l/p, không choáng.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 62 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 62 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "Tim đều, khoảng 60 l/p, T1, T2 rõ."
+      }
+     ]
+    },
+    "suc_co": {
+     "a": "Ngồi xổm đứng lên không cần chống tay.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Tươi, hợp tác, nói được về nỗi lo cân nặng. Khí sắc ổn, tư duy mạch lạc, không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Tươi hơn, hợp tác."
+    }
+   },
+   "cls": {
+    "lyte": {
+     "v": "a",
+     "r": "Na 139 · K 4,2 · Cl 102 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.2,
+      "cl": 102
+     },
+     "n": "Điện giải bình thường; theo dõi khi từng có hành vi thanh lọc (NICE NG69 2017 1.10.1)."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 62 l/p, QTc 410 ms, không block, không loạn nhịp.",
+     "n": "NICE NG69 1.10.2: ECG khi từng nhịp chậm, cân nặng thay đổi; nay đã bình thường."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chán ăn tâm thần, đang hồi phục cân nặng bình thường (ICD-11 6B80.2), BMI 19,1; không còn thanh lọc; kinh trở lại",
+     "ok": 1,
+     "n": "BMI 19,1 trên 18,5 kg/m², kinh nguyệt trở lại, không nôn/nhuận tràng. ICD-11 giữ chẩn đoán 'in recovery' đến khi hồi phục hoàn toàn và duy trì, gồm duy trì cân nặng và hết hành vi giảm cân ít nhất khoảng 1 năm sau ngừng điều trị (WHO ICD-11 CDDR 2024, 6B80.2, tr. 399). Cô còn lo cân nặng, nguy cơ tái phát, nên chưa gọi là 'khỏi hoàn toàn'."
+    },
+    {
+     "t": "Nguy cơ tái phát và ý định ngừng trị liệu sớm",
+     "ok": 1,
+     "n": "Chán ăn tâm thần có thể tiến triển mạn tính (QĐ 2058/2020 Bài 26 mục 5); ICD-11: nhiều người có một giai đoạn mạn (6B80, tr. 401); NICE NG69 2017 1.11.4: không xuất viện chỉ vì đạt cân khỏe."
+    },
+    {
+     "t": "Tiền sử huyết khối tĩnh mạch sâu, đang dùng rivaroxaban, ổn",
+     "ok": 1,
+     "n": "Không chảy máu; giữ thuốc, theo bác sĩ tim mạch."
+    },
+    {
+     "t": "Tái phát hoặc thất bại điều trị",
+     "n": "Không: cân tăng 3,7 kg trong 10 tuần, mạch 62, HA tư thế bình thường, K 4,2, kinh trở lại, không thanh lọc."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về ngoại trú, duy trì trị liệu tâm lý và gặp nhà dinh dưỡng; khuyên không ngừng điều trị chỉ vì đã đạt cân",
+     "v": "c",
+     "n": "NICE NG69 2017 1.11.4 (nguyên tắc cho chăm sóc nội trú, vận dụng ở đây): không dừng chăm sóc chỉ vì đạt cân khỏe; 1.3.1: hỗ trợ và theo dõi liên tục; ICD-11 6B80.2 tr. 399: giữ chẩn đoán đến hồi phục lâu dài."
+    },
+    {
+     "t": "Hẹn theo dõi cân, mạch, HA, xét nghiệm định kỳ; tối thiểu mỗi năm một lần và sớm hơn nếu cân giảm hoặc thanh lọc trở lại",
+     "v": "c",
+     "n": "NICE NG69 1.10.10: rà soát sức khỏe thể chất và tâm thần ít nhất hằng năm (cân/BMI, HA, xét nghiệm, ECG khi thanh lọc hoặc cân đổi nhiều). Khoảng cách trong giai đoạn đầu duy trì: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấp giấy khám sức khỏe ghi đúng tình trạng hiện tại; cân nặng và huyết áp tư thế ổn nên có thể làm lại việc trên cao có tăng dần và theo dõi, báo bác sĩ khi choáng",
+     "v": "a",
+     "n": "Quy định giấy khám sức khỏe và tiêu chuẩn làm việc trên cao: không có trong tài liệu đã tải. Cơ sở chuyên môn: hết nhịp chậm, hết hạ huyết áp tư thế (WHO ICD-11 CDDR 2024, 6B80, tr. 400), thêm bác sĩ tim mạch đồng ý thuốc kháng đông."
+    },
+    {
+     "t": "Lập kế hoạch dự phòng tái phát: nhận ra dấu hiệu sớm (bỏ bữa, đếm calo, cân lại nhiều lần), nói với nhóm trị liệu, mẹ biết khi nào gọi",
+     "v": "c",
+     "n": "NICE NG69 1.3.5 (CBT-ED có nội dung dự phòng tái phát); QĐ 2058/2020 Bài 26 mục 6."
+    },
+    {
+     "t": "Chưa cần đo mật độ xương",
+     "v": "a",
+     "n": "NICE NG69 1.10.15: cân nhắc đo sau 2 năm thiếu cân ở người lớn, hoặc sớm hơn nếu đau xương, gãy xương tái diễn; ca thiếu cân chưa đến 2 năm."
+    },
+    {
+     "t": "Kết thúc theo dõi vì đã đạt cân bình thường, không hẹn lại",
+     "v": "w",
+     "n": "NICE NG69 1.11.4 (không xuất viện chỉ vì đạt cân khỏe); ICD-11 6B80.2, tr. 399 (giữ chẩn đoán đến khi duy trì ổn định khoảng 1 năm); QĐ 2058/2020 Bài 26 mục 5 (có thể mạn tính)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chán ăn tâm thần, đang hồi phục cân nặng bình thường (6B80.2): BMI 19,1, kinh trở lại, không thanh lọc",
+     "Nguy cơ tái phát: còn lo cân nặng, có ý định ngừng trị liệu sớm",
+     "Tiền sử huyết khối tĩnh mạch sâu, đang dùng rivaroxaban, không chảy máu"
+    ],
+    "phan_tich_chan_doan": [
+     "Ổn định, khỏi bệnh theo diễn tiến: cân 43 → 43,9 → 47,6 kg, mạch 108 (do viên giảm cân) → 54 → 62 l/p, HA tư thế hết hạ, K 3,2 → 4,0 → 4,2, kinh trở lại (số liệu ca, nguồn chẩn đoán ở dưới).",
+     "BMI 19,1 trên ngưỡng 18,5 kg/m² (WHO ICD-11 CDDR 2024, 6B80, tr. 398) nên không còn thỏa tiêu chuẩn cân nặng thấp; ICD-11 vẫn giữ chẩn đoán trong hồi phục đến khi duy trì khoảng 1 năm (6B80.2, tr. 399). Ca này là đã khỏi trên lâm sàng nhưng cần theo dõi, không phải kết thúc chẩn đoán.",
+     "QĐ 2058/2020 Bài 26 mục 5: chán ăn tâm thần có thể mạn tính; Bài 26 mục 6: phòng bệnh bằng thói quen ăn đều, không nhịn đói.",
+     "Giấy sức khỏe: đủ dữ kiện xác nhận tình trạng hiện tại; quy định chi tiết: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, duy trì trị liệu và dinh dưỡng (NICE NG69 1.11.4, 1.3.1).",
+     "Theo dõi cân, HA, mạch, xét nghiệm định kỳ tối thiểu mỗi năm (NICE NG69 1.10.10).",
+     "Kế hoạch dự phòng tái phát (NICE NG69 1.3.5; QĐ 2058/2020 Bài 26 mục 6).",
+     "Giấy khám sức khỏe ghi đúng tình trạng (quy định: không có trong tài liệu đã tải).",
+     "Chưa cần đo mật độ xương (NICE NG69 1.10.15)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Đa vitamin và khoáng chất",
+      "ham_luong": "Theo chế phẩm",
+      "lieu": "1 viên theo chế phẩm",
+      "duong": "Uống",
+      "thoi_diem": "Sau bữa ăn chính",
+      "so_ngay": "Đến khi khẩu phần ổn định đủ nhu cầu (theo nhà dinh dưỡng)",
+      "ghi_chu": "nguồn: NICE NG69 2017, 1.3.21."
+     },
+     {
+      "thuoc": "Rivaroxaban (thuốc kháng đông đang dùng)",
+      "ham_luong": "Giữ nguyên theo toa bác sĩ tim mạch",
+      "lieu": "Giữ nguyên, không đổi",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi tối như cũ",
+      "so_ngay": "Theo bác sĩ tim mạch",
+      "ghi_chu": "Đang dùng, giữ nguyên; thời gian dùng và chỉnh liều: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cân, mạch, huyết áp, kinh nguyệt đã ổn nhờ ăn đều và trị liệu; đừng ngừng trị liệu vì thấy khỏi (NICE NG69 1.11.4).",
+     "Tiếp tục ba bữa chính, bữa phụ, không bỏ bữa sau tiệc hay khi áo chật; nói sớm với nhóm trị liệu khi thèm bỏ bữa, cân lại nhiều lần hoặc đếm calo trở lại (QĐ 2058/2020 Bài 26 mục 6).",
+     "Cân một lần mỗi tuần; tái khám để cân, đo mạch, HA, xét nghiệm, ít nhất mỗi năm một lần (NICE NG69 1.10.10).",
+     "Không dùng viên giảm cân, nhuận tràng, trà thải độc (NICE NG69 1.10.7).",
+     "Tiếp tục rivaroxaban theo bác sĩ tim mạch, cho họ biết nếu cân hoặc ăn uống thay đổi nhiều."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau lượt 1 Duyên ngừng viên giảm cân, hết tiêu chảy, K về 4,0; đi khám tâm thần và được trị liệu hằng tuần. Lượt 2, đỡ một phần: cân tăng 0,9 kg, còn hạn chế ăn, một lần nôn, mạch 54, chưa có kinh. Cô tiếp tục trị liệu cùng nhà dinh dưỡng và có mẹ hỗ trợ. Lượt 3, sau khoảng 13 tuần từ lần đầu: cân 47,6 kg (BMI 19,1), mạch 62, huyết áp tư thế bình thường, kinh trở lại, không thanh lọc. Cô khỏi trên lâm sàng, nhưng ICD-11 vẫn giữ chẩn đoán đang hồi phục đến khi duy trì khoảng 1 năm (6B80.2). Nguy cơ tái phát còn nếu cô ngừng trị liệu sớm. Cô nhận giấy khám sức khỏe ghi đúng tình trạng và trở lại việc trên cao có tăng dần.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: viên giảm cân thảo mộc và trà thải độc gây tiêu chảy, đau bụng, hồi hộp, run, làm giống cường giáp và bệnh tiêu hóa; lượt 1 mạch nhanh che dấu nhịp chậm của suy dinh dưỡng, lượt 2 mạch chậm mới lộ. Phải hỏi cụ thể tên, ngày bắt đầu, liều (Duyên không coi thảo mộc là thuốc).",
+  "Duyên tự nghĩ mình bị cường giáp và nói 'ăn bình thường'; TSH bình thường (ATA 2016 mục B2).",
+  "Thuốc kháng đông vừa đổi từ warfarin ('INR lên xuống'); nguyên nhân cụ thể: không có trong tài liệu đã tải."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi cân nặng 5 tháng trước, số bữa, đếm calo, cân mấy lần, SCOFF (Morgan 1999) khi sụt cân không rõ nguyên nhân; SCOFF chỉ gợi ý (NICE NG69 1.2.5).",
+  "Mạch nhanh, run, tiêu chảy kèm sụt cân dễ nghĩ cường giáp hoặc bệnh tiêu hóa; hỏi thuốc/thảo mộc tự mua rồi xét nghiệm TSH, CRP; đừng chẩn đoán nhầm.",
+  "Cân nặng thấp, nhịp chậm, hạ huyết áp tư thế, điện giải là thước đo nguy cơ; không dùng một ngưỡng BMI để nhập viện (NICE NG69 1.11.2, 1.11.3).",
+  "Lý do thật là giấy sức khỏe: hỏi 'hôm nay cô mong gì', trả lời trung thực về an toàn làm việc trên cao khi nhịp chậm và dùng kháng đông.",
+  "Đỡ một phần: phân biệt hồi phục chậm (cân tăng, sinh hiệu ổn) với thất bại sớm (sụt > 1 kg/tuần, mạch < 40, QT dài).",
+  "Đạt cân không phải hết bệnh: ICD-11 giữ chẩn đoán đến khi duy trì ổn định khoảng 1 năm (6B80.2)."
+ ],
+ "diem_nho": [
+  "ICD-10 (BYT): cân nặng ≥ 15% thấp hơn cân phải có, sợ béo, mất kinh (QĐ 2058/2020 Bài 26 mục 3.1.1). ICD-11: BMI < 18,5 kg/m² ở người lớn; 14,0–18,5 là cân nặng thấp đáng kể (WHO ICD-11 CDDR 2024, 6B80, tr. 398–399).",
+  "SCOFF ≥ 2 điểm là nghi (Morgan 1999); không dùng riêng để chẩn đoán (NICE NG69 2017 1.2.5).",
+  "Điều trị: trị liệu tâm lý cá nhân (CBT-ED, MANTRA hoặc SSCM) đa chuyên ngành; không dùng thuốc đơn độc (NICE NG69 1.3.4, 1.3.24).",
+  "Nhập viện khi điện giải, suy dinh dưỡng, mất nước nặng, hoặc mạch < 40, QT dài, sụt > 1 kg/tuần; không có ngưỡng BMI tuyệt đối (NICE NG69 1.10.3, 1.11.2, 1.11.3).",
+  "Nhuận tràng và lợi tiểu không giảm hấp thu calo (NICE NG69 1.10.7)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 26 (mục 1, 3.1.1, 3.1.2, 3.2, 4.1, 4.3, 5, 6); Bài 20 mục 3.1.1.",
+  "NICE NG69 2017 (cập nhật 12/2020), Eating disorders: recognition and treatment – kho cũ tltk-10000-ca (Tâm thần cơ bản/Quốc tế) – khuyến cáo 1.1.1–1.1.5, 1.1.11, 1.2.1–1.2.10, 1.3.1–1.3.5, 1.3.20, 1.3.21, 1.3.24, 1.7.1, 1.8.17, 1.10.1–1.10.10, 1.10.15, 1.11.1–1.11.4, 1.11.13.",
+  "WHO – Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders 2024 – TL-0571 – 6B80 (tr. 398–403), 6B81 (tr. 404).",
+  "USPSTF 2022 – Screening for Eating Disorders in Adolescents and Adults, JAMA 2022;327(11):1061-1067 – TL-0586 (bản chữ cũng nằm ở tệp TL-0583).",
+  "Morgan JF, Reid F, Lacey JH. The SCOFF questionnaire. BMJ 1999;319:1467-8 – TL-0601.",
+  "ATA 2016 – Guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis, Thyroid 2016;26:1343-1421 – TL-0324 – mục B2 (Recommendation 1).",
+  "BYT – QĐ 3908/QĐ-BYT 2023, Hướng dẫn dự phòng thuyên tắc huyết khối tĩnh mạch – kho cũ – Bảng 6 (liều dự phòng, không dùng cho điều trị)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (25/10/2026): viết theo TL-0443 Bài 26, Bài 20; NICE NG69; TL-0571 (6B80, 6B81); TL-0586; TL-0601; TL-0324 B2; QĐ 3908/2023 Bảng 6.",
+  "Thiếu tài liệu (đã ghi 'không có trong tài liệu đã tải'): APA 2023 (bản chữ TL-0583 trùng TL-0586); liều kali; khoảng cách theo dõi; chỉnh liều kháng đông điều trị; quy định giấy khám sức khỏe, làm việc trên cao; thành phần viên thảo mộc.",
+  "Khóa CT; ct_bung khai v n kèm thay_the abdus. Không dùng ảnh da. Mâu thuẫn mới: xem TT-0366_mau_thuan.md."
+ ]
+}
