@@ -1,0 +1,837 @@
+{
+ "ma_ca": "TT-0399",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-25)",
+ "benh": "TT_adhd_thanh_nien",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn tăng động giảm chú ý (trẻ/thanh niên)",
+  "chan_doan_phai_loai_tru": [
+   "Lo âu",
+   "Rối loạn học tập"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Ngư dân",
+  "yeu_to_khoi_phat": "Sau đợt không khí lạnh",
+  "thuoc_dang_dung": "Không rõ loại thuốc đang dùng",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Thị Thu Trang",
+  "tuoi": 21,
+  "gioi": "Nữ",
+  "nghe": "Phụ cha đi ghe lưới rê ở Sa Huỳnh, Quảng Ngãi: thu lưới, vá lưới, bán cá ở chợ cảng; học hết lớp 9 thì nghỉ",
+  "can_nang": 48,
+  "chieu_cao": 156,
+  "xung_ho": "Chị xưng 'em', gọi bác sĩ là 'bác sĩ'; gọi mẹ là 'mẹ', gọi cha là 'cha'. Bác sĩ gọi chị là 'cô Trang' hoặc 'em'.",
+  "tinh_cach": "Vui vẻ, nói nhanh, hay lạc đề, ngồi không yên, dễ xin lỗi và tự trách khi bị la. Hay hỏi lại câu hỏi; hay quên những gì vừa dặn.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: nói 'em khỏe lắm', 'ai cũng hay quên', 'chắc do lạnh'. Chỉ kể cụ thể khi bác sĩ hỏi chức năng (việc cha giao, vá lưới, bán cá, số viên thuốc) thay vì hỏi 'có bị gì không'. Từ chối xét nghiệm máu vì sợ kim và lời mẹ ('lấy máu yếu người').",
+  "nguoi_nha": "Mẹ, bà Lụa, 48 tuổi, bán cá ở chợ cảng, tin 'trời lạnh làm con quên', cho con uống 'bổ não' mà không biết thành phần. Lượt 2 và 3 mẹ đi cùng, chi tiết đủ khi được hỏi hồi nhỏ.",
+  "ten_nguoi_nha": "Bà Lụa (mẹ)",
+  "ngoai_hinh": {
+   "da": "#c58f6b",
+   "toc": "#1f1a17",
+   "kieuToc": "buoc",
+   "ao": "#3f6f8a",
+   "aoKieu": "phong",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#b98563",
+    "toc": "#6b625b",
+    "kieuToc": "buoc",
+    "ao": "#8a5a44",
+    "aoKieu": "so_mi"
+   }
+  }
+ },
+ "ly_do_kham": "Muốn kiểm tra tổng quát, hay quên",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 21 tuổi, phụ cha đi ghe lưới ở Sa Huỳnh (Quảng Ngãi), đến khám một mình vì 'muốn kiểm tra tổng quát'. Cô nói chuyện nhanh, hay lạc sang chuyện khác. Sinh hiệu lúc tiếp đón: mạch 78 l/p, HA 108/68 mmHg, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 99%, cân nặng 48 kg, cao 156 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chị Trang chưa có thông tin từ mẹ hay cha, chưa có học bạ, nên lên khoa Tâm thần tuyến tỉnh hôm nay thì bác sĩ ở đó cũng phải hỏi lại từ đầu. Chị nghỉ một chuyến ghe (mất công, tốn tiền xe và tiền khám) trong lúc chưa tin mình có bệnh, nhiều khả năng ngại và không quay lại. Chẩn đoán ADHD cần bệnh sử nhiều bối cảnh và người quan sát (NICE NG87 2018, 1.3.1; QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 3: thông tin từ nhiều nguồn); thu thập thông tin này tại phòng khám trước rồi chuyển có hồ sơ sẽ hiệu quả hơn.",
+    "nhap_vien": "Chị tỉnh táo, không có ý tưởng tự hại, không loạn thần, sinh hiệu bình thường nên không có chỉ định nhập viện. Nằm viện làm chị mất tiền và mất ngày công, lại gắn thêm nhãn 'bệnh thần kinh' mà chị vốn đang sợ, trong khi điều cần làm là khai thác bệnh sử đủ bối cảnh (QĐ 2058/2020 Bài 30 mục 3.3; NICE NG87 2018, 1.3.1)."
+   },
+   "loi_mo": "Chào bác sĩ. Tại ghe nằm bờ cả hai tuần vì gió mùa nên em rảnh, đi khám tổng quát cho yên tâm thôi. Em khỏe lắm, chỉ hơi đãng trí chút, ai cũng vậy mà.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "108/68",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi kiểm tra tổng quát vì ghe nằm bờ hai tuần do đợt gió mùa đông bắc, rảnh rỗi. Chị cho là mình khỏe, chỉ 'hơi đãng trí'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra"
+    },
+    {
+     "id": "quen",
+     "noi_dung": "Hay quên nhiều thứ: để quên điện thoại, dao, kéo vá lưới, tiền bán cá; hỏi lại cha giao việc hai ba lần. Chị nói 'ai cũng quên'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có sao không' thì chị đáp 'không, hơi đãng trí thôi'. Kể cụ thể khi bác sĩ hỏi chức năng: mỗi ngày quên gì, mất đồ gì, bị nhắc mấy lần.",
+     "y": "Triệu chứng giảm chú ý/quên (chị giảm nhẹ)"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Hỏi chức năng: cha giao ba việc liền thì chỉ nhớ một; vá lưới được nửa tấm lại bỏ đi làm việc khác; ở bờ hai tuần nay có nhiều việc nhà bỏ dở dở dang; hay bị cha la 'sao nói trước quên sau'. Làm ngoài chợ thì nhớ giá nhưng hay nhầm hàng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi việc cụ thể trong ngày làm việc: vá lưới, bán cá, việc cha giao.",
+     "y": "Ảnh hưởng chức năng (cần hỏi chức năng thay vì cảm giác)"
+    },
+    {
+     "id": "khoi_dau",
+     "noi_dung": "Không phải mới sau đợt lạnh: từ nhỏ chị đã hay quên bút, làm bài không xong, ngồi không yên; ở nhà hai tuần nay chỉ thấy rõ hơn vì không có việc trên ghe giữ chị bận. Học hết lớp 9 thì nghỉ vì 'học không vô'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Nếu hỏi 'từ khi nào' chị trả lời 'mới dạo này'. Kể ra khi hỏi hồi nhỏ, thời đi học, cô giáo nhận xét thế nào.",
+     "y": "Khởi phát từ nhỏ, đợt lạnh chỉ làm lộ ra"
+    },
+    {
+     "id": "boi_canh",
+     "noi_dung": "Quên và bỏ dở xảy ra ở nhà, trên ghe lẫn ngoài chợ; không riêng nơi nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng ở nhiều bối cảnh"
+    },
+    {
+     "id": "tang_dong",
+     "noi_dung": "Ngồi ăn cơm chưa xong đã đứng lên đi lại; chân tay hay ngọ nguậy, trong người bồn chồn; nói nhiều, hay chen ngang người khác nói, cha chê 'như con khỉ'. Chị không thấy đó là bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tăng động/bồn chồn, xung động"
+    },
+    {
+     "id": "lo_au",
+     "noi_dung": "Không lo lắng quá mức, không hồi hộp từng cơn, không sợ hãi hay né tránh tình huống nào; chỉ thấy 'quê' khi bị la vì quên. Không lo nhiều chuyện khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lo âu (loại trừ)"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Ăn ngủ bình thường, vẫn thích xem điện thoại và nói chuyện với bạn. Dạo này hơi chán vì hay bị la nhưng chưa buồn kéo dài; không nghĩ đến chuyện tự hại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc trầm cảm và ý tưởng tự hại"
+    },
+    {
+     "id": "hoc_tap",
+     "noi_dung": "Đọc chữ, viết tên, tính tiền bán cá đều ổn; không lẫn chữ, không chậm đọc. Cái khó là không giữ được tập trung để làm cho xong, không phải đọc hay tính toán.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt rối loạn học tập đặc hiệu (đọc, viết, tính)"
+    },
+    {
+     "id": "chat",
+     "noi_dung": "Uống 3–4 ly cà phê đen mỗi ngày. Mẹ mua cho một vỉ 'viên bổ não' ở tiệm thuốc, chị uống mỗi sáng hơn hai tháng, không nhớ tên, vỏ hộp mẹ giữ. Không uống rượu, không hút thuốc, không dùng chất khác.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' chị đáp 'không có'. Kể khi hỏi thuốc bổ, thực phẩm chức năng, thuốc mẹ mua, hoặc cà phê/nước tăng lực mỗi ngày.",
+     "y": "Thuốc đang dùng không rõ loại; caffeine; sàng lọc chất"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không co giật, không ngất, không chấn thương đầu, không đau ngực hay hồi hộp. Không sụt cân, không run tay, chịu nóng lạnh bình thường. Kinh nguyệt đều. Không bệnh mạn tính.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nội khoa có thể giống triệu chứng (cường giáp, thiếu máu, động kinh)"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Em trai 12 tuổi ở nhà bị cô giáo mời phụ huynh nhiều lần vì không ngồi yên. Mẹ cũng hay nói 'con giống hệt thằng nhỏ'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình (di truyền: QĐ 2058/2020 Bài 30 mục 2.1)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra chị sợ mình 'có bệnh ở đầu' hay 'đần' như cha hay la. Tháng trước chị quên cột dây neo, ghe trôi va vào đá ở cảng, may không hư nặng; cha nói 'còn vậy thì đừng theo ghe nữa'. Chị sợ mất việc, lúng túng không biết hỏi ai nên mượn cớ khám tổng quát.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Trả lời chung 'khám cho yên tâm'. Kể khi hỏi vì sao hôm nay quyết định đi, có chuyện gì xảy ra gần đây, cha mẹ nói gì, hay chị lo điều gì nhất.",
+     "y": "Lý do thật: sợ có bệnh, sợ mất việc sau sự cố trên ghe"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Nếu bác sĩ đề nghị xét nghiệm máu: chị từ chối, nói 'em sợ kim, mẹ nói lấy máu thì yếu người'. Giải thích một lần thì chị hiểu, vẫn không làm máu, nhưng đồng ý đo mạch, huyết áp, cân, và có thể làm điện tim nếu không đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Nói ngay khi bác sĩ đề nghị bất kỳ xét nghiệm máu nào.",
+     "y": "Từ chối xét nghiệm: giải thích một lần, tôn trọng, ghi hồ sơ, có phương án B"
+    },
+    {
+     "id": "lanh",
+     "noi_dung": "Chị nghĩ mình quên nhiều vì trời lạnh, 'lạnh làm đầu óc đơ ra'. Thực ra chị quên từ trước đợt lạnh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, da niêm hồng, nói nhanh, ngồi không yên, chân gõ liên tục. Cân nặng 48 kg, cao 156 cm, BMI 19,7 kg/m².",
+     "k": 0,
+     "hien": "Tỉnh, nói nhanh, chân gõ xuống sàn liên tục."
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, nói nhiều nhưng mạch lạc, hay chuyển đề tài, phải nhắc lại câu hỏi. Khí sắc bình thường, không hoang tưởng, không ảo giác, không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói nhanh, hay lạc đề, ngồi không yên."
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú, phản xạ đều hai bên, thị lực và thính lực thô bình thường.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không hạch cổ, mắt không lồi.",
+     "k": 0
+    },
+    "run_nghi": {
+     "a": "Không run.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    },
+    "nhan_thuc_moca": {
+     "a": "Làm được các phần; mất điểm ở phần chú ý và nhớ lại (làm vội, bỏ sót yêu cầu, hay hỏi lại) chứ không ở ngôn ngữ hay định hướng. Không gợi ý sa sút trí tuệ. Ngưỡng cắt và diễn giải MoCA ở người 21 tuổi: không có trong tài liệu đã tải; MoCA không dùng để chẩn đoán ADHD.",
+     "k": 0,
+     "hien": "Làm vội, bỏ sót yêu cầu, hay hỏi lại đề."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Chị Trang không đồng ý lấy máu: 'em sợ kim, với lại mẹ nói lấy máu thì yếu người'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: chẩn đoán ADHD dựa chủ yếu vào tiêu chuẩn lâm sàng (QĐ 2058/2020 Bài 30 mục 3.3); xét nghiệm thường quy ở mục 3.2 là để đánh giá bệnh kèm hay nguyên nhân khác, và không có dấu thiếu máu trên lâm sàng. Chị từ chối: tôn trọng, giải thích một lần, ghi hồ sơ (quy trình ghi nhận từ chối: không có trong tài liệu đã tải)."
+    },
+    "tsh": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Chị Trang không đồng ý lấy máu: 'em sợ kim, với lại mẹ nói lấy máu thì yếu người'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: không sụt cân, run, hồi hộp, không to giáp; chẩn đoán ADHD không cần xét nghiệm (QĐ 2058/2020 Bài 30 mục 3.3). Chỉ định TSH khi có đặc điểm cường giáp: ngưỡng cụ thể không có trong tài liệu đã tải."
+    },
+    "ecg": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Chị chưa muốn làm hôm nay vì 'chưa cần uống thuốc gì': ghi nhận, đề nghị làm khi có chỉ định.)",
+     "n": "Điện tim nằm trong xét nghiệm thường quy của QĐ 2058/2020 Bài 30 mục 3.2 và được lưu ý trước khi chỉ định methylphenidate (mục 4.2). NICE NG87 2018 (1.7.4) không cần ECG trước thuốc nếu không có đặc điểm 1.7.5. Chưa có chỉ định dùng thuốc ở lượt này nên chưa bắt buộc; không trừ điểm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nghi rối loạn tăng động giảm chú ý ở thanh niên (giảm chú ý, tăng động, xung động từ nhỏ, ở nhiều bối cảnh, ảnh hưởng chức năng), cần thêm thông tin người thân và học bạ để xác nhận",
+     "ok": 1,
+     "n": "Các nhóm triệu chứng giảm chú ý, tăng động, xung động ở nhà, trên ghe, ngoài chợ, có từ thời đi học và tiền sử em trai tương tự; chẩn đoán dựa vào tiêu chuẩn lâm sàng ICD-10 (QĐ 2058/2020 Bài 30 mục 3.3), gồm xuất hiện ở nhiều bối cảnh (tiêu chuẩn 3) và gây suy giảm chức năng (tiêu chuẩn 4). NICE NG87 2018 (1.3.3) cũng yêu cầu ≥ 2 bối cảnh quan trọng và suy giảm ở mức ít nhất vừa, và nhắc ADHD bị bỏ sót ở nữ (1.2.2). Chưa thể kết luận hôm nay vì chưa có người quan sát và học bạ (1.3.1)."
+    },
+    {
+     "t": "Rối loạn lo âu",
+     "n": "Loại trừ: không lo lắng thường trực, không hồi hộp từng cơn, không né tránh; chỉ xấu hổ khi bị la vì quên. QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 5 và mục 5 nêu lo âu là bệnh kèm hay cần loại trừ."
+    },
+    {
+     "t": "Rối loạn học tập đặc hiệu (đọc, viết, tính)",
+     "n": "Loại trừ: đọc, viết, tính tiền đều ổn; khó khăn là không giữ được chú ý để hoàn tất nhiệm vụ. QĐ 2058/2020 Bài 30 mục 3.1: khó khăn học tập là hậu quả của giảm chú ý, không do kém thông minh. Bệnh đồng mắc thường gặp (Úc 2023, mục Co-occurring conditions), cần ghi nhận nếu xuất hiện."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Không đủ: khí sắc chưa trầm kéo dài, ăn ngủ bình thường, không ý tưởng tự hại; QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 5 yêu cầu loại trừ trầm cảm. Cần hỏi lại khi tái khám vì nguy cơ trầm cảm tăng (mục 5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khai thác chức năng và bệnh sử thời đi học; hẹn khám lại có mẹ hoặc cha đi cùng, mang học bạ và hộp thuốc mẹ mua",
+     "v": "c",
+     "n": "Chẩn đoán cần thông tin nhiều nguồn và nhiều bối cảnh (QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 3; NICE NG87 2018 1.3.1). Chị phủ nhận nên phải hỏi bằng việc cụ thể trong ngày thay vì hỏi cảm giác."
+    },
+    {
+     "t": "Ghi nhận chị từ chối xét nghiệm máu; giải thích một lần vì sao chưa bắt buộc; phương án B: khám lâm sàng, đo mạch, huyết áp, cân nặng, làm điện tim khi có chỉ định; làm xét nghiệm khi có dấu hiệu mới",
+     "v": "c",
+     "n": "Chẩn đoán ADHD không cần xét nghiệm (QĐ 2058/2020 Bài 30 mục 3.3). Quyền từ chối của người bệnh và cách ghi nhận: không có trong tài liệu đã tải; nguyên tắc chung: giải thích một lần, tôn trọng, ghi hồ sơ, mời quay lại khi cần."
+    },
+    {
+     "t": "Giải thích nhẹ nhàng rằng quên và bỏ dở việc có thể có nguyên nhân y khoa cần đánh giá thêm, không phải do 'đần' hay lười; chưa gắn nhãn bệnh khi chưa đủ thông tin",
+     "v": "c",
+     "n": "Trả lời nỗi sợ thật của chị (xem ly_do_that). Không tránh được khi chẩn đoán còn nghi (NICE NG87 2018 1.3.1)."
+    },
+    {
+     "t": "Giảm cà phê xuống còn 1 ly; mang hộp 'bổ não' lần sau; tạm dùng danh sách kiểm tra bằng giấy cho việc trên ghe (dây neo, chốt tời, phao), nhờ cha mẹ nhắc có kế hoạch",
+     "v": "c",
+     "n": "Điều chỉnh môi trường là bước đầu cho người lớn trước khi cân nhắc thuốc (NICE NG87 2018 1.5.15). Mức caffeine cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn khám lại sau 2 tuần cùng mẹ; dặn quay lại sớm nếu buồn kéo dài, chán sống hoặc có sự cố an toàn trên ghe",
+     "v": "c",
+     "n": "Nguy cơ trầm cảm và chất gây nghiện tăng ở người ADHD (QĐ 2058/2020 Bài 30 mục 5). Khoảng cách hẹn 2 tuần là lựa chọn thực tế (ghe ra khơi lại), không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho chị làm bộ câu hỏi sàng lọc ADHD tự điền (ví dụ ASRS) để hỗ trợ",
+     "v": "a",
+     "n": "Chấp nhận được nhưng không dùng để chẩn đoán: ASRS có độ nhạy/độ đặc hiệu < 80% ở dân thường, sàng lọc dương tính phải được khám lâm sàng toàn diện (Úc 2023, mục Screening); NICE NG87 2018 (1.3.2): không chẩn đoán chỉ bằng thang điểm."
+    },
+    {
+     "t": "Kê thuốc kích thần (methylphenidate) ngay hôm nay",
+     "v": "w",
+     "n": "Thuốc kích thần xếp nhóm gây nghiện, cần chỉ định và theo dõi chặt chẽ (QĐ 2058/2020 Bài 30 mục 4.2); khởi trị do người có chuyên môn (NICE NG87 2018 1.7.2) sau đánh giá đầy đủ (1.7.4). Chưa đủ thông tin chẩn đoán."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nghi rối loạn tăng động giảm chú ý ở thanh niên nữ 21 tuổi, bắt đầu từ nhỏ, ở nhiều bối cảnh (nhà, ghe, chợ), ảnh hưởng chức năng nghề nghiệp, chưa đủ thông tin để xác nhận",
+     "Chưa phát hiện lo âu, trầm cảm, rối loạn học tập đặc hiệu, bệnh thực tổn trên lâm sàng; xét nghiệm máu chị từ chối (đã ghi nhận)",
+     "Lý do thật đi khám: sợ có bệnh ở đầu và sợ mất việc sau sự cố ghe trôi va đá"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: hỏi chức năng cụ thể (việc cha giao, vá lưới, bán cá), thời gian đi học, tiền sử em trai, thuốc bổ, cà phê, rồi lý do thật hôm nay. Hỏi cảm giác ('có sao không') chỉ nhận 'không' vì chị giảm nhẹ.",
+     "Khám: tâm thần (tỉnh, hay lạc đề, ngồi không yên), thần kinh, giáp, tim phổi bình thường. Không có dấu thực tổn.",
+     "Chưa kết luận: cần thêm người quan sát và học bạ (NICE NG87 2018 1.3.1; QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 2: khởi phát trước 7 tuổi, NICE 1.3.3 không loại trừ khi không rõ thời điểm khởi phát).",
+     "Cận lâm sàng: chị từ chối xét nghiệm máu; chẩn đoán ADHD không cần xét nghiệm (QĐ 2058/2020 Bài 30 mục 3.3). Xét nghiệm thường quy ở mục 3.2 (công thức máu, sinh hóa, nước tiểu, điện tim) nhằm tìm bệnh kèm; NICE NG87 2018 (1.8.10) không làm thường quy khi không có chỉ định lâm sàng."
+    ],
+    "phan_tich_xu_tri": [
+     "Ghi nhận từ chối vào hồ sơ, giải thích một lần, phương án B là theo dõi lâm sàng và làm xét nghiệm khi có dấu mới. Không ép, không dọa.",
+     "Chưa dùng thuốc ở lượt này: khởi thuốc kích thần do người có chuyên môn (NICE NG87 2018 1.7.2) và nhóm thuốc gây nghiện cần theo dõi chặt (QĐ 2058/2020 Bài 30 mục 4.2).",
+     "Hẹn lại sau khoảng 2 tuần (khoảng cách cụ thể: không có trong tài liệu đã tải) có mẹ đi cùng, mang học bạ và hộp thuốc."
+    ],
+    "don_thuoc": [],
+    "dan_do": [
+     "Cô Trang đừng lo là 'đần': quên và bỏ dở việc có thể có nguyên nhân y khoa và gỡ được. Hai tuần nữa cô quay lại cùng mẹ, mang học bạ lớp 1–9 và hộp thuốc bổ mẹ mua.",
+     "Giảm cà phê còn 1 ly mỗi sáng. Ngừng 'viên bổ não' khi chưa biết tên thuốc hoặc đến khi bác sĩ xem hộp (thành phần: không có trong tài liệu đã tải).",
+     "Trên ghe: viết giấy các việc phải làm khi cập bến (dây neo, chốt tời, phao) và dán gần nơi cô hay đứng; nhờ cha nhắc một lần theo giấy.",
+     "Quay lại ngay nếu thấy buồn nhiều ngày, không muốn sống, hoặc có sự cố nguy hiểm trên ghe."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Hai tuần sau, chị Trang tái khám cùng mẹ (bà Lụa, 48 tuổi) và mang theo học bạ, vỉ thuốc. Chị không đỡ, thậm chí nặng hơn: ghe ra khơi lại, chị quên khóa chốt tời nên tuột mất một mảnh lưới, cha mắng nặng, chị khóc và ăn ít mấy ngày nay. Sinh hiệu lúc tiếp đón: mạch 84 l/p, HA 110/70 mmHg, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 99%, cân nặng 47,5 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Không bác sĩ nào có thẩm quyền khởi thuốc cho chị: thuốc kích thần xếp nhóm gây nghiện, cần chỉ định và theo dõi chặt (QĐ 2058/2020 Bài 30 mục 4.2) và chỉ do người có chuyên môn khởi trị (NICE NG87 2018 1.7.2). Chị tiếp tục quên, cha tiếp tục mắng, chị càng tự ti trong khi ADHD làm tăng nguy cơ trầm cảm và lo âu (QĐ 2058/2020 Bài 30 mục 5). Một chuyến ghe sau chị lại có thể gây sự cố, lần này có thể nặng hơn mất mảnh lưới.",
+    "nhap_vien": "Chị không có ý tưởng tự hại, không loạn thần, sinh hiệu ổn, chỉ buồn phản ứng vì bị la mắng nên không có chỉ định nhập viện. Nằm viện làm chị mất ngày công, thêm gánh chi phí cho gia đình ngư dân, và không thay được việc cần làm: đánh giá chính thức và khởi trị bởi chuyên khoa (NICE NG87 2018 1.3.1, 1.7.2)."
+   },
+   "loi_mo": "Dạ bác sĩ, lần này mẹ đi với em. Em ra khơi lại rồi mà em quên khóa chốt tời, mất cả mảnh lưới. Cha la dữ lắm. Em… em thấy mình hỏng thiệt rồi.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "110/70",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ghe ra khơi 5 ngày, chị quên khóa chốt tời nên lưới tuột mất một mảnh, thiệt hại khoảng ba triệu; cha mắng nặng. Mấy ngày nay chị khóc, ăn ít, tự nói mình 'hỏng rồi'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn biến: không đỡ, hậu quả thực và buồn phản ứng"
+    },
+    {
+     "id": "me_nhieu",
+     "noi_dung": "Mẹ nói từ nhỏ chị đã vậy: mẹ gọi tên ba lần mới quay lại, hay làm rơi đồ, nói liên tục, không ngồi yên ăn hết bữa. Mẹ tưởng 'con gái tuổi dậy thì nghịch' rồi lớn sẽ hết, không hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi mẹ chung 'con có bệnh gì không' thì mẹ nói 'chắc do lạnh'. Kể rõ khi hỏi hồi nhỏ, ở nhà, ở trường, có khác chị em không.",
+     "y": "Người nhà xác nhận khởi phát từ nhỏ, kéo dài (tiêu chuẩn 2, 3)"
+    },
+    {
+     "id": "hoc_ba",
+     "noi_dung": "Học bạ tiểu học lớp 1–5 cô giáo ghi: 'hay mất tập trung, hay quên đồ dùng học tập, làm bài chưa xong, thường nói chuyện riêng'; lớp 8–9 học lực yếu, có nhận xét 'cần chú ý hơn'. Không ghi chép bị chậm đọc hay viết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Có khi bác sĩ xem học bạ hoặc hỏi nhận xét của cô giáo.",
+     "y": "Bằng chứng khởi phát trước 7 tuổi và nhiều bối cảnh; không phải rối loạn học tập"
+    },
+    {
+     "id": "dem_trieu",
+     "noi_dung": "Hỏi kỹ từng việc cho thấy: hay không chú ý chi tiết, hay mắc lỗi bất cẩn (nhầm hàng, quên chốt), khó giữ chú ý, như không nghe khi bị gọi, không làm xong việc cha giao, khó sắp xếp, né việc cần tập trung, đánh mất đồ, dễ bị phân tán, hay quên sinh hoạt: đủ 7 trong 9 mục giảm chú ý. Tăng động: ngọ nguậy tay chân, đứng lên khi cần ngồi, cảm giác bồn chồn, đủ 3. Xung động: chen ngang, nói quá nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đủ số triệu chứng theo QĐ 2058/2020 Bài 30 mục 3.3 (nhóm 1 ≥ 6, nhóm 2 ≥ 3, nhóm 3 ≥ 1), kéo dài ≥ 6 tháng"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Mẹ: sinh đủ tháng, không ngạt, không viêm não màng não, không chấn thương đầu; mẹ không uống rượu, không hút thuốc khi mang thai chị. Không co giật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ/nguyên nhân khác (QĐ 2058/2020 Bài 30 mục 2.2, 2.3)"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Mấy ngày nay chị buồn, khóc, ăn ít vì bị la và mất lưới. Trước đó không buồn kéo dài. Không có ý định tự sát hay tự hại, nói 'em hỏng nhưng em không dám làm gì dại'. Ngủ được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi thẳng 'có nghĩ đến tự làm hại bản thân không'; hỏi chung chị nói 'không sao'.",
+     "y": "Sàng lọc trầm cảm và ý tưởng tự hại (loại trừ; chú ý buồn phản ứng)"
+    },
+    {
+     "id": "hop_thuoc",
+     "noi_dung": "Mẹ đem vỉ 'bổ não': ghi ginkgo biloba, hàm lượng mờ không đọc được, ngày uống 1 viên. Chị uống đều hơn hai tháng, không thấy khác. Chị vẫn uống 3–4 ly cà phê/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xác định thuốc đang dùng (trước đây không rõ loại)"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Chị vẫn không chịu lấy máu. Đồng ý làm điện tim vì 'không đau, rẻ'. Mẹ cũng thấy 'lấy máu không cần, hỏi có thuốc nào uống là hết quên không'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Nói khi bác sĩ đề nghị xét nghiệm hoặc điện tim.",
+     "y": "Từ chối xét nghiệm máu, chấp nhận phương án B (điện tim)"
+    },
+    {
+     "id": "so_thuoc",
+     "noi_dung": "Mẹ lo 'thuốc cho người tăng động là thuốc gây nghiện, uống vào nghiện luôn' vì nghe hàng xóm nói. Chị cũng sợ. Họ chịu nghe nếu được giải thích rõ và nếu thuốc do bác sĩ chuyên khoa theo dõi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ nhắc đến việc dùng thuốc hoặc hỏi mẹ chị lo điều gì.",
+     "y": "Nỗi sợ về thuốc; cần giải thích minh bạch"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mắt đỏ do khóc, tiếp xúc tốt. Cân nặng 47,5 kg. Niêm hồng.",
+     "k": 0,
+     "hien": "Tỉnh, mắt hơi đỏ, ngồi sát mẹ."
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, khí sắc buồn phản ứng với sự việc nhưng cười được khi nói chuyện khác, không vô cảm. Nói nhanh, hay chen ngang, chân tay không yên. Không hoang tưởng, không ảo giác, không ý tưởng tự sát hay tự hại, không lời nói liều.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói nhanh, mắt đỏ, ngồi không yên."
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Giáp không to, không hạch.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "a",
+     "ab": 0,
+     "r": "Nhịp xoang 82 l/p, trục trung gian, PR 150 ms, QRS 86 ms, không ST chênh, không sóng T đảo.",
+     "n": "Chị đồng ý (phương án B, 50.000 đ). QĐ 2058/2020 Bài 30 mục 4.2 lưu ý làm điện tim trước khi chỉ định methylphenidate; NICE NG87 2018 (1.7.4) không cần điện tim trừ khi có đặc điểm ở 1.7.5 hay bệnh kèm dùng thuốc nguy cơ tim. Chị không có đặc điểm 1.7.5 nên làm hay không đều được; có kết quả sẵn gửi kèm chuyển tuyến."
+    },
+    "ctm": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Chị Trang không đồng ý lấy máu: 'em sợ kim, với lại mẹ nói lấy máu thì yếu người'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc; chẩn đoán ADHD dựa vào tiêu chuẩn lâm sàng (QĐ 2058/2020 Bài 30 mục 3.3). NICE NG87 2018 (1.8.10): không xét nghiệm máu thường quy khi không có chỉ định lâm sàng. Chị từ chối: tuyến trên có thể đề nghị lại nếu cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn tăng động giảm chú ý ở thanh niên (đủ tiêu chuẩn lâm sàng ICD-10), kèm buồn phản ứng sau hậu quả trên ghe",
+     "ok": 1,
+     "n": "Giảm chú ý 7/9 (≥ 6), tăng động 3 (≥ 3), xung động ≥ 1, kéo dài > 6 tháng, khởi phát trước 7 tuổi theo học bạ và mẹ, xuất hiện ở nhà, trường, ghe, chợ, gây suy giảm nghề nghiệp, đã loại trừ lo âu, trầm cảm, phát triển lan tỏa (QĐ 2058/2020 Bài 30 mục 3.3, tiêu chuẩn 1–5). NICE NG87 2018 (1.3.3): triệu chứng đáp ứng DSM-5 hoặc ICD-11, suy giảm ít nhất mức vừa, ≥ 2 bối cảnh. Chẩn đoán chính thức do chuyên khoa (1.3.1)."
+    },
+    {
+     "t": "Rối loạn lo âu",
+     "n": "Vẫn loại trừ: không lo thường trực; nỗi sợ hiện tại gắn với hậu quả cụ thể. QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 5 và mục 5."
+    },
+    {
+     "t": "Rối loạn học tập đặc hiệu",
+     "n": "Vẫn loại trừ: học bạ không ghi chậm đọc, viết, tính; các nhận xét là mất tập trung, quên, không hoàn tất. QĐ 2058/2020 Bài 30 mục 3.1; Úc 2023 (Co-occurring conditions): rối loạn học tập đặc hiệu có thể đi cùng ADHD."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Chưa đủ: buồn mấy ngày sau sự cố, còn cười, ngủ được, không ý tưởng tự hại; theo dõi vì nguy cơ trầm cảm tăng ở ADHD (QĐ 2058/2020 Bài 30 mục 5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển khoa Tâm thần tuyến tỉnh (tâm thần người lớn hoặc nhi–thanh thiếu niên có kinh nghiệm ADHD) để xác nhận chẩn đoán và cân nhắc khởi trị thuốc, kèm giấy chuyển ghi đủ tiêu chuẩn, học bạ, điện tim",
+     "v": "c",
+     "n": "Chẩn đoán do người có chuyên môn (NICE NG87 2018 1.3.1; người lớn nghi ADHD được giới thiệu đánh giá: 1.2.10); thuốc kích thần chỉ định và theo dõi chặt (QĐ 2058/2020 Bài 30 mục 4.2). Tên cơ sở cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích về thuốc: methylphenidate là nhóm thuốc kiểm soát nên do chuyên khoa chỉ định và theo dõi; điều trị gồm thuốc kết hợp tâm lý xã hội",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 30 mục 4.1–4.2; NICE NG87 2018 (1.5.18) can thiệp tâm lý có cấu trúc. Trả lời nỗi sợ 'nghiện' của chị và mẹ mà không hứa hẹn quá mức."
+    },
+    {
+     "t": "Ghi nhận chị tiếp tục từ chối xét nghiệm máu; làm điện tim vì chị đồng ý; xét nghiệm khác để tuyến trên quyết định",
+     "v": "c",
+     "n": "Điện tim: QĐ 2058/2020 Bài 30 mục 4.2 (làm trước khi chỉ định) hoặc chỉ khi có đặc điểm nguy cơ tim mạch, NICE NG87 2018 (1.7.4–1.7.5, 1.8.10). Hai nguồn khác năm, bối cảnh; làm điện tim cho chị là đúng ở cả hai cách (xem mau_thuan.md)."
+    },
+    {
+     "t": "Sàng lọc ý tưởng tự hại, nói chuyện với chị và mẹ để giảm tự trách; dặn dấu hiệu nguy hiểm cần đến ngay",
+     "v": "c",
+     "n": "Nguy cơ trầm cảm ở người ADHD (QĐ 2058/2020 Bài 30 mục 5); nội dung giao tiếp cụ thể: không bắt buộc nguồn."
+    },
+    {
+     "t": "Trong lúc chờ: tiếp tục giảm cà phê, danh sách kiểm tra trên ghe, cha mẹ nhắc theo kế hoạch; hẹn tái khám sau khi có kết quả tuyến trên",
+     "v": "c",
+     "n": "Điều chỉnh môi trường (NICE NG87 2018 1.5.15). Thời gian tái khám: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho chị uống tiếp viên ginkgo biloba mẹ mua như điều trị ADHD",
+     "v": "w",
+     "n": "QĐ 2058/2020 Bài 30 mục 4.2 chỉ nêu ginkgo trong nhóm nuôi dưỡng tế bào thần kinh (không liều, không bằng chứng hiệu quả); thuốc đầu tay là kích thần hoặc atomoxetine. Bằng chứng ginkgo với ADHD: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn tăng động giảm chú ý ở thanh niên nữ 21 tuổi, đủ tiêu chuẩn lâm sàng ICD-10: giảm chú ý 7/9, tăng động 3, xung động, khởi phát trước 7 tuổi, nhiều bối cảnh, suy giảm chức năng nghề nghiệp",
+     "Hậu quả do chưa được chẩn đoán và điều trị: sự cố trên ghe (mất lưới), bị la mắng, buồn phản ứng, nguy cơ tự ti và trầm cảm",
+     "Đã loại trừ lo âu, rối loạn học tập đặc hiệu; chưa đủ tiêu chuẩn trầm cảm; không có dấu thực tổn",
+     "Chị từ chối xét nghiệm máu (ghi nhận), đồng ý điện tim"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: lấy thông tin từ mẹ và học bạ để xác nhận khởi phát trước 7 tuổi và nhiều bối cảnh (QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 2, 3); đếm từng triệu chứng theo ba nhóm; hỏi thẳng ý tưởng tự hại.",
+     "Khám: tâm thần, tim phổi, thần kinh bình thường, buồn phản ứng. Sàng lọc tim mạch (không ngất, đau ngực, đột tử trẻ trong gia đình) vì sắp xét thuốc (NICE NG87 2018 1.7.5).",
+     "Phân biệt: lo âu, rối loạn học tập, trầm cảm, lưỡng cực, tic (QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 5, mục 3.4). Từ chối xét nghiệm máu không cản trở chẩn đoán (QĐ 2058/2020 mục 3.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến vì cần chuyên khoa xác nhận và khởi trị thuốc nhóm gây nghiện, không phải vì cấp cứu (QĐ 2058/2020 Bài 30 mục 4.2; NICE NG87 2018 1.3.1, 1.7.2).",
+     "Thuốc đầu tay cho người lớn: methylphenidate hoặc lisdexamfetamine (NICE NG87 2018 1.7.11); QĐ 2058/2020 (mục 4.2) xếp methylphenidate và atomoxetine cùng là lựa chọn hàng đầu, còn NICE chỉ dùng atomoxetine khi không dung nạp hoặc không đáp ứng kích thần (1.7.15). Hai nguồn khác năm và khác bối cảnh; chọn thuốc là việc của chuyên khoa.",
+     "Quyền từ chối xét nghiệm: ghi hồ sơ, giải thích một lần, mời quay lại khi cần."
+    ],
+    "don_thuoc": [],
+    "dan_do": [
+     "Cô Trang và bác Lụa lên khoa Tâm thần tuyến tỉnh theo giấy chuyển; mang học bạ, vỉ ginkgo, kết quả điện tim.",
+     "Cô không 'hỏng' và không 'đần': bác sĩ thấy một tập hợp triệu chứng có từ nhỏ, có tên gọi và có cách điều trị. Thuốc nếu dùng sẽ do bác sĩ chuyên khoa theo dõi kỹ, không để mẹ con tự mua.",
+     "Trên ghe: khi thu lưới đọc to danh sách (chốt tời, dây neo, phao); nhờ cha kiểm tra chéo trước khi ra khơi vài chuyến đầu.",
+     "Quay lại hoặc đến cơ sở y tế ngay nếu cô nghĩ tới chuyện tự làm hại mình."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Sáu tuần sau, chị Trang tái khám cùng mẹ. Khoa Tâm thần tuyến tỉnh đã xác nhận ADHD và cho methylphenidate giải phóng kéo dài 18 mg uống buổi sáng, hẹn tái khám tuyến tỉnh sau 4 tuần nữa. Sau 5 tuần chị vẫn thấy không đỡ, còn hồi hộp và ăn kém. Sinh hiệu lúc tiếp đón: mạch 104 l/p, HA 124/78 mmHg, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 99%, cân nặng 46,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Giữ chị lại phòng khám vài giờ chỉ để theo dõi mạch 104 l/p là không cần: chị tỉnh, huyết áp 124/78 mmHg, không đau ngực, không khó thở, mạch nhanh khớp với cà phê, nước tăng lực chồng lên thuốc kích thần. Chị mất một buổi ra khơi, càng tin 'thuốc này nguy hiểm' rồi tự bỏ thuốc. Việc cần làm là đếm viên, bỏ chất kích thích, đo lại mạch, huyết áp ở lần hẹn gần và báo chuyên khoa (NICE NG87 2018 1.8.9, 1.9.2–1.9.4).",
+    "nhap_vien": "Mạch 104 l/p, huyết áp 124/78 mmHg không đạt ngưỡng phải giảm liều hay chuyển tuyến sớm (NICE NG87 2018 1.8.11: nhịp tim nghỉ kéo dài trên 120 l/p, loạn nhịp hoặc huyết áp tâm thu quá cao ở hai lần đo). Nằm viện khiến chị tốn kém, dễ bỏ điều trị về sau, và không sửa được nguyên nhân: uống thuốc không đều và phối hợp quá nhiều chất kích thích.",
+    "chuyen_tuyen": "Chuyển sớm hơn lịch hẹn khi chưa có nhịp tim > 120 l/p kéo dài, loạn nhịp hay huyết áp cao (NICE NG87 2018 1.8.11) làm chị mất thêm một chuyến ghe và tiền đi lại, trong khi lịch hẹn 4 tuần còn đó. Việc nên làm là liên lạc chuyên khoa nêu rõ vấn đề tuân thủ và caffeine để họ quyết định chỉnh liều (NICE 1.7.26–1.7.27)."
+   },
+   "loi_mo": "Dạ em uống thuốc rồi mà vẫn quên như cũ, lại còn hồi hộp, ăn không vô. Chắc thuốc không hợp em, bác sĩ ơi.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "124/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đã uống methylphenidate 18 mg sáng theo đơn tuyến tỉnh 5 tuần nhưng thấy không đỡ, còn hồi hộp, ăn ít, ngủ muộn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ sau điều trị: chạy quy trình thất bại điều trị"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Hỏi số viên cụ thể: được kê 30 viên, còn 14 viên; chị chỉ uống những ngày ở bờ, ra khơi 3–5 ngày thì để quên hoặc 'tiếc không dám uống' vì sợ hết. Có ngày uống buổi trưa nên tối không ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc đều không' chị đáp 'có'. Chỉ kể khi bác sĩ hỏi số viên còn lại, ngày ra khơi có uống không, uống vào giờ nào.",
+     "y": "Không tuân thủ là nguyên nhân chính (NICE NG87 2018 1.9.2: triệu chứng ADHD gây khó nhớ uống thuốc)"
+    },
+    {
+     "id": "cafe",
+     "noi_dung": "Vì thuốc 'chưa thấy tác dụng' nên trên ghe chị uống thêm cà phê 4–5 ly và hai chai nước tăng lực mỗi chuyến cho tỉnh, kể cả lúc uống thuốc. Hồi hộp rõ nhất những ngày đó.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có dùng gì khác không' chị đáp 'không'. Kể khi hỏi cà phê, nước tăng lực, thuốc bổ, bao nhiêu mỗi ngày.",
+     "y": "Chồng chất chất kích thích (caffeine) gây hồi hộp, mạch nhanh"
+    },
+    {
+     "id": "ginkgo",
+     "noi_dung": "Chị vẫn uống ginkgo mẹ mua mỗi sáng cùng viên thuốc tuyến tỉnh, vì nghĩ 'thêm cho chắc'. Không báo bác sĩ tuyến tỉnh.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Kể khi hỏi hộp 'bổ não' còn uống không.",
+     "y": "Dùng thêm thuốc bổ không báo"
+    },
+    {
+     "id": "so_nghien",
+     "noi_dung": "Chị và mẹ vẫn sợ nghiện nên chỉ uống khi 'thấy cần'; mẹ cũng giữ thuốc, chia cho chị từng viên. Hai mẹ con tiếc tiền thuốc (chi phí tuyến tỉnh), muốn 'để dành'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Kể khi hỏi vì sao không uống mỗi ngày hoặc hai mẹ con lo điều gì về thuốc.",
+     "y": "Lý do không tuân thủ: sợ nghiện, tiếc tiền, dùng 'khi cần'"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Hồi hộp, ăn giảm vì mất cảm giác đói buổi sáng, sụt 1 kg trong 5 tuần, ngủ muộn khi uống buổi trưa. Không đau ngực, không ngất, không co giật, không giật cơ hay tic, không khó chịu nặng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ của thuốc kích thần cần theo dõi (NICE NG87 2018 1.8.5–1.8.9, 1.8.13, 1.8.17)"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Sau khi tuyến tỉnh giải thích, chị đỡ tự trách, không còn nghĩ mình 'hỏng'. Không ý tưởng tự hại. Vẫn buồn khi bị cha nhắc chuyện mất lưới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi thẳng tự hại.",
+     "y": "Theo dõi cảm xúc và an toàn sau khi có chẩn đoán"
+    },
+    {
+     "id": "ke_don",
+     "noi_dung": "Đơn tuyến tỉnh: methylphenidate giải phóng kéo dài 18 mg uống sáng mỗi ngày, hẹn khám lại tuyến tỉnh sau 4 tuần. Chị đưa đơn và giấy ra viện.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xác định thuốc và liều đang dùng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy hơn lần trước. Cân nặng 46,5 kg (giảm 1 kg so với lần trước), BMI 19,1 kg/m².",
+     "k": 1,
+     "hien": "Tỉnh, gầy, ngồi không yên nhưng ít hơn lần trước."
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, khí sắc ổn, bớt tự trách. Nói nhanh nhưng ít chen ngang hơn. Không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói nhanh."
+    },
+    "tim": {
+     "a": "Tim đều 104 l/p, T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "T1, T2 rõ, nhịp nhanh đều."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    },
+    "run_nghi": {
+     "a": "Không run tay.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Không tic vận động, không giật cơ, phản xạ đều.",
+     "k": 0
+    },
+    "ha_hai_tay": {
+     "a": "HA hai tay 124/78 và 122/78 mmHg, tương đương nhau.",
+     "k": 1,
+     "hien": "HA hai tay tương đương nhau."
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "a",
+     "ab": 0,
+     "r": "Nhịp xoang 102 l/p, trục trung gian, PR 148 ms, QRS 86 ms, không ST chênh, không sóng T đảo.",
+     "n": "Chị đồng ý làm lại vì hồi hộp; nhịp xoang nhanh nhẹ, không loạn nhịp. NICE NG87 2018 (1.8.10): không làm ECG thường quy trừ khi có chỉ định lâm sàng, hồi hộp là chỉ định hợp lý; 1.8.11: ngưỡng phản ứng khi nhịp tim nghỉ kéo dài > 120 l/p hoặc loạn nhịp. Chị chưa đạt ngưỡng."
+    },
+    "ctm": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Chị Trang không đồng ý lấy máu: 'em sợ kim, với lại mẹ nói lấy máu thì yếu người'. Đã giải thích một lần, chị tự quyết; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: NICE NG87 2018 (1.8.10) không xét nghiệm máu thường quy khi dùng thuốc ADHD nếu không có chỉ định lâm sàng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn tăng động giảm chú ý đang điều trị methylphenidate nhưng chưa đáp ứng vì dùng thuốc không đều và chồng caffeine, kèm tác dụng phụ nhẹ (hồi hộp, mạch nhanh nhẹ, chán ăn, sụt cân 1 kg)",
+     "ok": 1,
+     "n": "Không đỡ do không tuân thủ (còn 14/30 viên, bỏ thuốc khi ra khơi), dùng thuốc sai giờ, uống thêm cà phê và nước tăng lực, thêm ginkgo không báo. Khi dùng đúng giờ có đáp ứng một phần nên chưa thể coi là thuốc thất bại; NICE NG87 2018 (1.7.12): cân nhắc đổi thuốc sau 6 tuần dùng đủ liều mà không đạt, chị chưa đạt điều kiện đó (1.9.2: triệu chứng ADHD khiến khó tuân thủ)."
+    },
+    {
+     "t": "Rối loạn lo âu mới xuất hiện",
+     "n": "Loại trừ: hồi hộp trùng với các ngày dùng nhiều caffeine, không có lo âu lan tỏa hay cơn hoảng; NICE NG87 2018 (1.7.18): lo âu kèm theo vẫn có cùng lựa chọn thuốc."
+    },
+    {
+     "t": "Tác dụng phụ tim mạch nặng của thuốc kích thần",
+     "n": "Loại trừ: mạch 104 l/p, huyết áp 124/78, điện tim nhịp xoang, không loạn nhịp, không đau ngực/ngất; chưa đạt ngưỡng nhịp tim > 120 l/p kéo dài, loạn nhịp hoặc huyết áp quá cao hai lần đo (NICE NG87 2018 1.8.11)."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Loại trừ: khí sắc cải thiện sau khi có chẩn đoán, không ý tưởng tự hại (QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 5, mục 5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi và đếm số viên còn lại, giờ uống, ngày ra khơi, thuốc/nước uống kích thích khác; nhận ra nguyên nhân không đỡ là dùng thuốc không đều và chồng caffeine, chưa phải thuốc thất bại",
+     "v": "c",
+     "n": "Triệu chứng ADHD làm khó nhớ uống thuốc, cần thông báo đầy đủ lợi hại (NICE NG87 2018 1.9.2–1.9.3). Cân nhắc đổi thuốc chỉ sau 6 tuần dùng đủ liều (1.7.12–1.7.13)."
+    },
+    {
+     "t": "Không tự chỉnh liều methylphenidate tại phòng khám này; gọi/ghi thư cho khoa Tâm thần tuyến tỉnh báo tuân thủ kém, caffeine, ginkgo, mạch 104, sụt 1 kg",
+     "v": "c",
+     "n": "Chỉnh liều và khởi trị do người có chuyên môn ADHD (NICE NG87 2018 1.7.2, 1.7.26–1.7.27); chăm sóc phối hợp chỉ sau khi chỉnh liều ổn định (1.7.29). Liều chi tiết: QĐ 2058/2020 Bài 30 mục 4.2 (methylphenidate 18–72 mg/ngày, tùy lứa tuổi); lịch chỉnh liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Uống thuốc vào buổi sáng mỗi ngày kể cả ngày ra khơi; bỏ nước tăng lực, giảm cà phê còn 1 ly; dùng hộp chia thuốc theo ngày, hẹn giờ điện thoại, mẹ kiểm tra",
+     "v": "c",
+     "n": "Chiến lược hỗ trợ tuân thủ (NICE NG87 2018 1.9.4); dạng giải phóng kéo dài dùng một lần/ngày giúp tuân thủ và giảm lạm dụng (1.7.20). Hạn chế caffeine cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngừng viên ginkgo, hoặc hỏi chuyên khoa; không thêm thuốc bổ không rõ vào thuốc kích thần",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 30 mục 4.2 chỉ liệt kê ginkgo trong nhóm nuôi dưỡng, không liều, không bằng chứng; tương tác với methylphenidate: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Theo dõi mạch, huyết áp, cân nặng mỗi lần tái khám; biết ngưỡng báo chuyên khoa: nhịp tim nghỉ kéo dài > 120 l/p, loạn nhịp, huyết áp tâm thu quá cao hai lần đo",
+     "v": "c",
+     "n": "NICE NG87 2018 (1.8.5, 1.8.9, 1.8.11). Cân người lớn mỗi 6 tháng (1.8.5) nhưng đã sụt 1 kg trong 5 tuần nên theo dõi sát hơn; nếu sụt cân đáng lo: chiến lược tăng ăn (1.8.6)."
+    },
+    {
+     "t": "Hẹn tái khám tại phòng khám sau 1–2 tuần để đo mạch, huyết áp, cân và đếm viên; vẫn giữ lịch tuyến tỉnh sau 4 tuần",
+     "v": "c",
+     "n": "Thời gian tái khám cụ thể: không có trong tài liệu đã tải; NICE NG87 2018 (1.8.4, 1.8.9) yêu cầu theo dõi theo mức độ và kiểm mạch, huyết áp khi đổi liều. Trưởng nhóm: hướng đúng của lượt là cho về hẹn tái khám (ve_hen); mốc 1–2 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng liều methylphenidate hoặc đổi sang atomoxetine/thuốc khác ngay tại phòng khám",
+     "v": "w",
+     "n": "Chị chưa dùng đủ liều đều đặn nên chưa đủ điều kiện đổi thuốc (NICE NG87 2018 1.7.12–1.7.15); thuốc kích thần nhóm gây nghiện do chuyên khoa chỉnh (QĐ 2058/2020 Bài 30 mục 4.2; NICE 1.7.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn tăng động giảm chú ý ở thanh niên nữ 21 tuổi, đã được chuyên khoa xác nhận và đang dùng methylphenidate giải phóng kéo dài 18 mg sáng 5 tuần",
+     "Chưa đáp ứng do không tuân thủ (còn 14/30 viên), uống sai giờ, chồng caffeine và nước tăng lực, thêm ginkgo không báo, sợ nghiện và tiếc tiền thuốc",
+     "Tác dụng phụ nhẹ: hồi hộp, mạch 104 l/p, chán ăn, sụt 1 kg; điện tim nhịp xoang 102 l/p",
+     "Không có dấu hiệu nguy hiểm: không loạn nhịp, huyết áp 124/78, không tự hại; chị tiếp tục từ chối xét nghiệm máu"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh theo quy trình thất bại điều trị: sai chẩn đoán? sai thuốc? không tuân thủ? tác dụng phụ? chất khác? Đếm viên, hỏi giờ uống, ngày ra khơi, cà phê, nước tăng lực, thuốc bổ (NICE NG87 2018 1.9.2–1.9.4).",
+     "Khám: mạch, huyết áp, cân nặng, tim phổi, thần kinh, tic (NICE NG87 2018 1.8.5, 1.8.9, 1.8.13). Mạch 104 l/p, nghe tim nhanh đều, không âm thổi.",
+     "Điện tim hôm nay: nhịp xoang 102 l/p, không loạn nhịp; ngưỡng can thiệp là nhịp nghỉ kéo dài > 120 l/p, loạn nhịp hoặc huyết áp quá cao hai lần đo (NICE NG87 2018 1.8.11).",
+     "Kết luận: thất bại do không tuân thủ và chồng chất chất kích thích, không phải sai chẩn đoán hay thuốc không hiệu quả; chẩn đoán đúng theo ICD-10 (QĐ 2058/2020 Bài 30 mục 3.3) và đã được chuyên khoa xác nhận."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn tái khám sát, không chỉnh liều: chỉnh liều và đổi thuốc do chuyên khoa (NICE NG87 2018 1.7.2, 1.7.26–1.7.27, 1.7.12–1.7.15); chăm sóc phối hợp sau khi ổn định (1.7.29).",
+     "Gọi/viết thư chuyên khoa báo các phát hiện để họ quyết định chỉnh liều hoặc thời điểm uống.",
+     "Hỗ trợ tuân thủ: hộp chia thuốc, hẹn giờ, mẹ nhắc, uống sáng cả ngày ra khơi, giải thích nỗi sợ nghiện, bàn chi phí (NICE NG87 2018 1.9.3–1.9.5).",
+     "Bỏ nước tăng lực, giảm cà phê; ngừng ginkgo hoặc hỏi chuyên khoa."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Methylphenidate giải phóng kéo dài (thuốc đang dùng theo đơn khoa Tâm thần tuyến tỉnh)",
+      "ham_luong": "18 mg/viên",
+      "lieu": "1 viên/lần",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng mỗi ngày kể cả ngày ra khơi",
+      "so_ngay": "Theo đơn tuyến tỉnh đến lần tái khám",
+      "ghi_chu": "Phòng khám không chỉnh liều. Khoảng liều methylphenidate 18–72 mg/ngày tùy lứa tuổi (QĐ 2058/2020 Bài 30 mục 4.2); lịch chỉnh liều: không có trong tài liệu đã tải; dạng một lần/ngày giúp tuân thủ (NICE NG87 2018 1.7.20). Thuốc nhóm gây nghiện, cần theo dõi chặt (QĐ 2058/2020 mục 4.2)."
+     }
+    ],
+    "dan_do": [
+     "Thuốc cô Trang uống đúng một viên buổi sáng mỗi ngày, kể cả ngày ra khơi; để thuốc trong hộp chia theo ngày và đặt hẹn giờ điện thoại; mẹ kiểm tra hộp.",
+     "Không uống nước tăng lực; giảm cà phê còn 1 ly buổi sáng. Ngừng viên ginkgo hoặc hỏi bác sĩ tuyến tỉnh.",
+     "Tái khám tại phòng khám sau 1–2 tuần, mang hộp thuốc để đếm viên; vẫn đi tuyến tỉnh đúng hẹn. (mốc 1–2 tuần: không có trong tài liệu đã tải, lựa chọn của ca; NICE NG87 2018 1.8.9 theo dõi mạch, huyết áp khi dùng thuốc)",
+     "Đến ngay cơ sở y tế nếu đau ngực, ngất, tim đập nhanh liên tục trên 120 l/p (ngưỡng báo chuyên khoa: NICE NG87 2018 1.8.11), hoặc có ý nghĩ tự hại."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Biến chứng do bỏ sót nhiều năm nhưng vẫn dừng được ở mức chưa nặng. Chị Trang bị bỏ sót từ nhỏ: học bạ lớp 1–5 ghi mất tập trung, quên đồ, làm bài không xong, nhưng không ai nghĩ đến bệnh; chị bị gắn nhãn 'đần', nghỉ học sau lớp 9, rồi lộ ra khi ở nhà vì ghe nằm bờ sau đợt gió mùa. Điểm gãy: hỏi cảm giác thì chị luôn đáp 'không sao'; chỉ hỏi chức năng, học bạ và người nhà mới đủ chẩn đoán. Ca kết thúc tốt vừa phải: chẩn đoán được chuyên khoa xác nhận, methylphenidate dùng đúng sẽ có đáp ứng; chị đang học tuân thủ, bớt caffeine, giữ lịch tái khám.",
+ "nhieu": [
+  "Phủ nhận triệu chứng: chị chỉ nói 'đãng trí', 'ai cũng vậy'. Muốn có thông tin phải hỏi chức năng cụ thể và người nhà (NICE NG87 2018, 1.3.1; QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 3).",
+  "Lượt 2: buồn phản ứng sau mất lưới chưa phải trầm cảm (QĐ 2058/2020 Bài 30 mục 3.3 tiêu chuẩn 5).",
+  "Lượt 3: hồi hộp, mạch 104 l/p do chồng caffeine và thuốc kích thần, chưa đạt ngưỡng nguy hiểm (NICE NG87 2018, 1.8.11)."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi cảm giác thì nhận 'không sao'; hỏi chức năng (việc cha giao, vá lưới, số viên thuốc còn lại) mới ra triệu chứng và hậu quả. Luôn có thông tin người nhà và học bạ (NICE NG87 2018, 1.3.1; QĐ 2058/2020 Bài 30 mục 3.3).",
+  "ADHD ở nữ dễ bị bỏ sót hoặc chẩn đoán nhầm, và dễ bị gắn nhãn 'đần, lười' (NICE NG87 2018, 1.2.2).",
+  "Từ chối xét nghiệm: tôn trọng, giải thích một lần, ghi hồ sơ, phương án B (lâm sàng, mạch, huyết áp, cân, điện tim khi chị đồng ý); chẩn đoán ADHD không cần xét nghiệm (QĐ 2058/2020 Bài 30 mục 3.3; NICE NG87 2018, 1.8.10).",
+  "Không đỡ sau điều trị: kiểm tuân thủ (đếm viên), chất kích thích khác và thuốc bổ trước khi nghĩ thuốc thất bại (NICE NG87 2018, 1.9.2, 1.7.12)."
+ ],
+ "diem_nho": [
+  "Tiêu chuẩn ICD-10: giảm chú ý ≥ 6 triệu chứng, tăng động ≥ 3, xung động ≥ 1, ≥ 6 tháng, khởi phát trước 7 tuổi, nhiều bối cảnh, suy giảm chức năng, loại trừ lan tỏa, hưng cảm, trầm cảm, lo âu (QĐ 2058/2020 Bài 30 mục 3.3); NICE NG87 2018 (1.3.3) dùng DSM-5/ICD-11 và không loại trừ khi không rõ thời điểm khởi phát.",
+  "Thuốc: methylphenidate 18–72 mg/ngày, atomoxetine khởi đầu 0,5 mg/kg/ngày (QĐ 2058/2020 Bài 30 mục 4.2); NICE NG87 2018 (1.7.11): người lớn dùng lisdexamfetamine hoặc methylphenidate đầu tay. Khởi trị do chuyên khoa (1.7.2).",
+  "Điện tim trước methylphenidate: QĐ 2058/2020 (4.2) nên làm; NICE NG87 2018 (1.7.4, 1.8.10) không cần trừ khi có đặc điểm 1.7.5."
+ ],
+ "nguon": [
+  "QĐ 2058/QĐ-BYT 2020, Bài 30 Rối loạn tăng động giảm chú ý (mục 2.1, 2.2, 2.3, 3.1–3.4, 4.1, 4.2, 5) (TL-0443)",
+  "NICE NG87 2018 (cập nhật 2019, bản NICE 2026): ADHD diagnosis and management (1.2.2, 1.2.10, 1.3.1–1.3.5, 1.5.15–1.5.18, 1.7.2, 1.7.4, 1.7.5, 1.7.11–1.7.15, 1.7.20, 1.7.26–1.7.29, 1.8.4–1.8.11, 1.9.2–1.9.4, 1.10) (tltk-10000-ca, 10 Tâm thần cơ bản/Quốc tế)",
+  "Úc 2023: The Australian evidence-based clinical practice guideline for ADHD. Aust N Z J Psychiatry 2023;57(8):1101–1116 (Screening and identification; Co-occurring conditions) (TL-0584)",
+  "TL-0037 (QĐ 3312/2015) và TL-0591 (AAP 2019): có trong danh sách nhưng không dùng trực tiếp cho thanh niên 21 tuổi."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-10-25. Tài liệu đã đọc: QĐ 2058/2020 Bài 30 (TL-0443); NICE NG87 (kho cũ, mục 1.2–1.10); Úc 2023 (TL-0584, bản bài báo tóm tắt, không có từng khuyến cáo đánh số).",
+  "Không có trong tài liệu đã tải: liều methylphenidate khởi đầu và lịch chỉnh liều (NICE chỉ dẫn BNF); mức caffeine tối đa; thành phần/hiệu quả ginkgo với ADHD và tương tác với methylphenidate; điểm cắt MoCA ở người trẻ; số liệu nghiện khi dùng đúng chỉ định; quy trình ghi nhận từ chối xét nghiệm; tên cơ sở chuyên khoa.",
+  "Mâu thuẫn nguồn: điện tim trước methylphenidate (QĐ 2058 mục 4.2 và NICE 1.7.4/1.8.10) và vị trí atomoxetine (QĐ 2058 mục 4.2 và NICE 1.7.15); đã ghi cả hai cách ở từng chỗ, mục chung trong TT-0399_mau_thuan.md.",
+  "Thiết kế (tự quyết): người bệnh dùng ECG làm phương án B vì chị đồng ý và rẻ; chuyển tuyến ở lượt 2 vì thuốc kích thần nhóm gây nghiện cần chuyên khoa; lượt 3 theo dõi vì chưa có chỉ định đổi liều.",
+  "Chị Trang chưa dùng ảnh da/media đặc biệt; tim nhanh lượt 3 dùng AT-TIM-NHANH-01 (mạch 104)."
+ ]
+}
