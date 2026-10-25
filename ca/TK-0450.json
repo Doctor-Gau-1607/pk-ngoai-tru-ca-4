@@ -1,0 +1,493 @@
+{
+ "ma_ca": "TK-0450",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-10-25, soát nguồn với kho tài liệu đã tải",
+ "benh": "TK_dau_dau_lam_dung_thuoc",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Đau đầu do lạm dụng thuốc giảm đau",
+  "chan_doan_phai_loai_tru": [
+   "Migraine mạn",
+   "U não"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Hưu trí (cựu công nhân xưởng cơ khí)",
+  "yeu_to_khoi_phat": "Sau uống rượu bia",
+  "thuoc_dang_dung": "Kháng sinh theo toa cũ",
+  "ly_do_that_su_den_kham": "Bạn bè có bệnh tương tự"
+ },
+ "benh_nhan": {
+  "ten": "Lương Văn Hải",
+  "tuoi": 67,
+  "gioi": "Nam",
+  "nghe": "Hưu trí (cựu công nhân xưởng cơ khí)",
+  "can_nang": 58,
+  "chieu_cao": 164,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông tự xưng 'tôi' hoặc 'bác', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hơn ba triệu tiền lương hưu mỗi tháng, tính từng đồng, ngại tốn kém. Nói chậm, thẳng, hay hỏi 'cái này bao nhiêu tiền?' trước khi đồng ý làm gì. Tin thuốc mua ở tiệm đầu xóm, quen 'đau thì uống'. Đi một mình bằng xe đạp, mỗi sáng ra công viên đánh cờ tướng với mấy ông bạn. Hiểu biết y khoa ít, gọi thuốc theo màu vỏ và tên tiệm thuốc.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: mỗi lần bác sĩ nêu một xét nghiệm hay chụp hình, ông hỏi giá và hỏi 'có bỏ được không, cái nào thật sự cần?'; từ chối cái nào ông thấy 'làm cho chắc' mà không đổi cách chữa, nhưng đồng ý ngay cái bác sĩ giải thích được là để quyết định thuốc. Ông không tự nói lý do thật sự đến khám (nỗi sợ u não vì bạn cờ vừa phát hiện u); chỉ nói khi bác sĩ hỏi điều ông lo nhất, vì sao đến đúng hôm nay, hoặc có ai quen bị bệnh tương tự.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#9a958f",
+   "kieuToc": "ngan",
+   "ao": "#8aa08c",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Đau đầu nhiều năm, mấy hôm nay nặng hơn sau bữa nhậu",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang (nên cũng không có CT, MRI). Làm được xét nghiệm máu, nước tiểu cơ bản và điện tim."
+ },
+ "ket_cuc": "Ông Hải bỏ hẳn ibuprofen từ hôm đó. Ba ngày đầu đau nặng hơn, ngủ chập chờn, ông uống paracetamol hai ngày theo hướng dẫn rồi bớt; khoảng 10 ngày sau cơn đau nhẹ dần. Tái khám sau 2 tuần, đau đầu còn 3–4 ngày mỗi tuần, nhẹ, không phải dùng thuốc; công thức máu và creatinin không có gì đáng ngại. Sau 2 tháng, nhật ký ghi đau đầu khoảng 8 ngày mỗi tháng, mức 2–3/10, không dùng thuốc giảm đau. Nghe giải thích, ông bớt sợ u não. Đây là kịch bản minh họa cho kết cục 'ổn định, khỏi bệnh', không phải dữ kiện chấm; mức cải thiện phù hợp với các nghiên cứu ngừng thuốc ngoại trú trong EAN 2020 (TL-0473), PICO 3 và 5.",
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 67 tuổi, hưu trí (cựu công nhân xưởng cơ khí), đi khám một mình bằng xe đạp vì đau đầu nhiều năm, mấy hôm nay nặng hơn sau một bữa nhậu cuối tuần. Ông cho là bị viêm xoang vì đã uống mấy viên kháng sinh cũ mà không đỡ. Sinh hiệu lúc tiếp đón: HA 138/84 mmHg, mạch 76 l/p, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Hải bị giữ nằm viện vài ngày để truyền giảm đau và chụp hình sọ, trong khi không có cờ đỏ: đau đầu cùng kiểu nhiều năm, đáy mắt không phù gai, không dấu thần kinh khu trú, không tiền sử ung thư (SNNOOP10 (Do 2019, TL-0476), các mục Pattern change, Papilledema, Neoplasm in history). Với hơn ba triệu lương hưu mỗi tháng, viện phí là gánh nặng lớn. Người đau đầu do lạm dụng thuốc không phức tạp xử trí được ở tuyến cơ sở, và ngừng thuốc ngoại trú vẫn hiệu quả (EAN 2020 (TL-0473), PICO 3 và 5, Box 3). Nằm viện còn khiến ông tin mình mắc bệnh nặng, đúng nỗi sợ u não đang ôm.",
+    "chuyen_tuyen": "Ông Hải được gửi lên bệnh viện tỉnh chụp MRI sọ ngay trong hôm nay vì lo u não. Nhưng không có cờ đỏ nào cho thấy cần chụp gấp: đau đầu không đổi kiểu, không phù gai thị, không dấu thần kinh, không tiền sử ung thư (nguy cơ tìm thấy u não ở người đau đầu không có tiền sử ung thư dưới 0,1%, SNNOOP10 (Do 2019, TL-0476), mục Neoplasm in history). Chi phí MRI và đi lại (MRI sọ ước 2.500.000 đ theo danh mục của app) gần bằng cả tháng lương hưu của ông, và kết quả bình thường cũng không đổi việc phải ngừng ibuprofen. Ông có thể về nhà yên tâm tạm thời nhưng vẫn tiếp tục uống thuốc, đau đầu hằng ngày không hết.",
+    "theo_doi": "Ông Hải ở lại phòng khám tiêm hoặc uống thêm thuốc giảm đau để theo dõi vài giờ rồi mới về. Cách này tiếp tục đưa thuốc giảm đau vào người bệnh trong khi điều trị chính là ngừng thuốc đang bị lạm dụng (EAN 2020 (TL-0473), Tóm tắt; Box 3). Ông dễ hiểu nhầm rằng phải có thuốc mạnh hơn mới hết đau, nên về nhà lại mua thuốc nhiều hơn và đau đầu dai dẳng thêm."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đau đầu cả chục năm nay rồi, mấy hôm nay nó nặng hơn. Chắc tôi bị viêm xoang, tôi uống mấy viên kháng sinh cũ ở nhà mà không bớt. Bác sĩ khám sơ sơ cho tôi thôi, tôi không có nhiều tiền đâu.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/84",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ông kể: đau đầu từ hồi còn đi làm, mấy năm nay gần như ngày nào cũng đau. Cuối tuần trước đi ăn đám cưới con bạn, uống bia, sáng hôm sau đau nặng hơn hẳn và bốn hôm nay vẫn nặng hơn mọi khi. Ông tin mình bị viêm xoang.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám theo lời bệnh nhân"
+    },
+    {
+     "id": "dau_nen",
+     "noi_dung": "Đau đầu từ khoảng 20 năm nay, lúc đầu thưa. Từ chừng 5–6 năm nay gần như hằng ngày, khoảng 25 ngày mỗi tháng. Đau cả hai bên thái dương và trán, như bị đội mũ chật hoặc siết quanh đầu, mức 4–5/10, âm ỉ cả ngày, không giật theo mạch, không báo trước. Không buồn nôn, không sợ ánh sáng hay tiếng ồn, không đau một bên. Đi bộ, leo cầu thang không làm nặng thêm. Kiểu đau này giữ nguyên nhiều năm, không đổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau đầu nền kiểu căng thẳng mạn, không đặc điểm migraine, ≥ 15 ngày/tháng, kiểu đau ổn định nhiều năm"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Thật ra ông uống ibuprofen 400 mg, mua từng vỉ ở tiệm thuốc đầu xóm, thường 3 viên mỗi ngày (sáng, trưa, tối), khoảng 24–26 ngày mỗi tháng, đã hơn 4 năm. Bốn hôm nay lên 4–5 viên mỗi ngày. Uống vào thì dịu được vài tiếng. Từng bỏ thuốc 2–3 ngày thì đau dữ hơn nên uống lại. Không dùng thuốc giảm đau nào khác, không uống thuốc ngủ hay thuốc an thần.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Ông chỉ nói 'tôi có uống thuốc đau đầu'. Chỉ có số thật khi bác sĩ hỏi tên thuốc, số viên mỗi ngày, số ngày mỗi tháng, thời gian dùng, hoặc xin xem vỉ thuốc.",
+     "k": 1,
+     "y": "Mức dùng thuốc giảm đau (loại, số viên/ngày, số ngày/tháng, thời gian)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tối thứ bảy tuần trước ông uống khoảng 5–6 lon bia (bình thường chỉ 1–2 lon, 2–3 lần mỗi tuần). Sáng chủ nhật dậy đau đầu nặng hơn, mức 6–7/10, cùng vị trí và cùng kiểu với cơn đau hằng ngày, chỉ nặng hơn. Không đột ngột, không nôn, không sốt. Đến nay đã bốn ngày, uống 4–5 viên ibuprofen mỗi ngày vẫn chỉ dịu một chút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: rượu bia làm nặng đợt đau, không phải đau đầu sấm sét"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Tám tháng trước ông bị cảm kéo dài, một phòng khám tư kê amoxicillin/acid clavulanic 625 mg; ông uống thiếu, còn dư 6 viên. Ba hôm nay ông tự uống nốt, 2 viên mỗi ngày, vì tin đau đầu là do viêm xoang; không đỡ. Không nghẹt mũi, không chảy mũi mủ hay dịch đục, không sốt, không đau vùng má, đau không tăng khi cúi đầu. Ông cũng không ngửi kém. Hiện không còn viên nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: kháng sinh theo toa cũ (tự dùng, không có chỉ định); không có triệu chứng viêm mũi xoang"
+    },
+    {
+     "id": "co_do_am",
+     "noi_dung": "Không sốt, không chấn thương đầu, không co giật, không ngất. Không yếu liệt hay tê tay chân, không nói khó, không nhìn đôi hay mờ mắt thoáng qua. Đau không làm ông thức giấc, không nặng hơn khi nằm, không tăng khi ho, hắt hơi hay rặn. Không đau da đầu khi chải tóc, không đau mỏi hàm khi nhai. Không sụt cân, không ra mồ hôi đêm, chưa từng bị ung thư. Chưa chụp CT hay MRI đầu bao giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ SNNOOP10 và dấu hiệu viêm động mạch thái dương; đều âm tính"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Mấy tháng nay thỉnh thoảng ợ nóng, khó chịu nhẹ vùng trên rốn sau khi uống thuốc, nhất là lúc đói. Không đau dữ dội, không nôn máu, không đi cầu phân đen. Chưa từng loét dạ dày. Không có tăng huyết áp, đái tháo đường, bệnh thận hay bệnh gan đã biết; huyết áp lần đo gần nhất 'bình thường'. Không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ tiêu hóa, thận, huyết áp khi dùng NSAID dài ngày ở người > 60 tuổi uống rượu"
+    },
+    {
+     "id": "tam_tri",
+     "noi_dung": "Mấy đêm nay ngủ chập chờn vì lo, bình thường ngủ được khoảng 6 giờ. Không buồn chán, vẫn đi đánh cờ và đọc báo mỗi sáng, ăn uống được. Không có ý nghĩ tự hại. Không dùng thuốc ngủ hay thuốc an thần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có bệnh tâm thần đáng kể kèm theo (điều kiện để chỉ giáo dục và ngừng thuốc ngoại trú)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông Sáu, bạn cờ tướng cùng tuổi, cũng đau đầu uống thuốc nhiều năm, tuần trước đi chụp MRI thì phát hiện u não, đang chờ lên tỉnh mổ. Nghe tin, ông Hải mất ngủ hai đêm vì sợ mình cũng bị như vậy; ông sợ nghe điều xấu và sợ tốn tiền nên nói là 'đi khám viêm xoang' chứ không nói ra.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều ông lo nhất, vì sao đến khám đúng hôm nay, hay có ai quen bị bệnh tương tự. Hỏi chung 'có lo gì không' thì ông nói 'không, đau đầu thì đi khám thôi'.",
+     "k": 1,
+     "y": "Lý do thật: sợ bị u não như bạn"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Lương hưu hơn ba triệu mỗi tháng, vợ bán rau ngoài chợ, các con làm xa. Ông có thẻ bảo hiểm y tế nhưng ngại các xét nghiệm phải trả thêm. Ông xin 'làm cái nào thật cần thôi'.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, dáng gầy, da niêm hồng, không vàng da, không phù. Mặt nhăn nhẹ vì đau, không có vẻ nhiễm trùng.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Ấn vùng trán, hai gò má, hai bên sống mũi không đau; gõ nhẹ trán và hai má không đau tăng. Động mạch thái dương hai bên đập đều, mềm, không đau; da đầu không đau khi sờ. Ấn đau vùng cơ thái dương, cơ nhai và cơ thang hai bên (tăng đau cơ quanh sọ). Khớp thái dương hàm há ngậm bình thường, không đau. Không hạch cổ, tuyến giáp không to.",
+     "k": 1,
+     "hien": "Ấn trán, má không đau. Ấn cơ thái dương và cơ vai gáy hai bên thấy đau. Động mạch thái dương đập đều, không đau."
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi hồng, cuốn mũi không phù nề, soi mũi trước không có mủ hay dịch đục ở khe giữa, không thấy polyp. Họng không đỏ, không dịch chảy xuống họng. Màng nhĩ bình thường.",
+     "k": 1,
+     "hien": "Soi mũi trước: niêm mạc hồng, không dịch mủ. Họng không đỏ."
+    },
+    "mat": {
+     "a": "Đồng tử 3 mm đều hai bên, phản xạ ánh sáng tốt, vận nhãn đủ các hướng, không song thị. Thị lực đọc được chữ nhỏ khi đeo kính, thị trường đối diện bình thường.",
+     "k": 0
+    },
+    "day_mat": {
+     "a": "Gai thị hai bên hồng, bờ rõ, không phù; có mạch đập tĩnh mạch võng mạc; không xuất huyết võng mạc.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Glasgow 15 điểm. Gập cổ tự do, cằm chạm ngực, Kernig và Brudzinski âm tính. Dây sọ bình thường, không liệt mặt. Sức cơ 5/5 bốn chi, cảm giác đều, phản xạ gân xương đều hai bên, không Babinski. Nghiệm pháp ngón tay–mũi và gót–gối chính xác, đi đứng vững, Romberg âm tính.",
+     "k": 1,
+     "hien": "Tỉnh, trả lời đúng. Cúi cổ chạm ngực được. Không liệt, đi đứng vững."
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở đều.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ vùng thượng vị, không phản ứng thành bụng, gan lách không sờ thấy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "Hb 138 g/L · BC 6,8 G/L · TC 245 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 60.0,
+      "neu": 4.08,
+      "lym_pct": 30.0,
+      "lym": 2.04,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.5,
+      "hgb": 138,
+      "hct": 0.41,
+      "mcv": 90.0,
+      "mch": 30.5,
+      "mchc": 336,
+      "rdw": 13.4,
+      "plt": 245
+     },
+     "n": "Không thiếu máu: loại bớt lo ngại mất máu tiêu hóa âm thầm sau hơn 4 năm dùng ibuprofen ở người > 60 tuổi có uống rượu (nhóm nguy cơ tiêu hóa, QĐ 361/2014 (TL-0286) Phụ lục NSAID mục 3.3). Không đổi chẩn đoán đau đầu; tiêu chí chỉ định công thức máu trong trường hợp này không có trong tài liệu đã tải."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 5,6 mmol/L · Creatinin 96 µmol/L · eGFR 75 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.6,
+      "creat": 96,
+      "egfr": 75
+     },
+     "n": "Nên kiểm tra chức năng thận khi dùng NSAID dài ngày ở người cao tuổi (QĐ 361/2014 (TL-0286) Phụ lục NSAID mục 3.3: theo dõi creatinin và điện giải đồ ở nhóm nguy cơ cao; AGS Beers 2023 (TL-0022) Bảng 2: NSAID có thể gây tổn thương thận). eGFR giảm nhẹ theo tuổi, chưa phải suy thận; làm một lần làm mốc trước khi chọn bất kỳ thuốc nào ở lần tái khám."
+    },
+    "mau_lang": {
+     "v": "a",
+     "r": "14 mm/giờ",
+     "n": "Không bắt buộc: đau đầu đã nhiều năm, không đau da đầu, không đau hàm khi nhai nên viêm động mạch thái dương rất ít nghĩ (ICHD-3 2018 (TL-0480) mục 6.4.1: đau đầu dai dẳng mới xuất hiện ở người > 60 tuổi phải nghĩ tới; ông không có đau da đầu hay đau hàm khi nhai, hai dấu hiệu nằm trong tiêu chí). Ngưỡng tốc độ máu lắng: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "a",
+     "r": "3 mg/L",
+     "n": "Bình thường, không sốt, không gợi ý viêm hệ thống (SNNOOP10 (Do 2019, TL-0476), mục Systemic symptoms). Làm hay không đều chấp nhận được; với ngân sách hạn chế thì bỏ được."
+    },
+    "ecg": {
+     "v": "n",
+     "r": "Nhịp xoang 76 l/p, không biến đổi ST–T.",
+     "n": "Không liên quan đến đau đầu của ông và tốn tiền không cần thiết cho người đang tính từng đồng (không có chỉ định trong các nguồn đã tải cho đau đầu mạn)."
+    },
+    "xq_xoang": {
+     "v": "n",
+     "r": "Các xoang sáng, thông thoáng.",
+     "n": "Cơ sở không có X-quang. Dù có cũng không nên chụp: ông không có mủ mũi, không đau xoang; ICHD-3 2018 (TL-0480) mục 11.5.1 (tr. 154–155): chỉ thấy thay đổi trên hình ảnh xoang không đủ để chẩn đoán đau đầu do viêm xoang; QĐ 5643/2015 (TL-0130) Viêm mũi xoang cấp tính mục 3.1.2 (tr. 109): hình ảnh trong viêm xoang cấp không rõ ràng trừ khi có biến chứng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau đầu do lạm dụng thuốc giảm đau (ibuprofen, NSAID) trên nền đau đầu kiểu căng thẳng mạn tính",
+     "ok": 1,
+     "n": "Đau đầu ≥ 15 ngày/tháng (khoảng 25 ngày/tháng) ở người có đau đầu nguyên phát từ trước, dùng ibuprofen ≥ 15 ngày/tháng trên 3 tháng (khoảng 24–26 ngày/tháng, hơn 4 năm) (ICHD-3 2018 (TL-0480) mục 8.2 và 8.2.3.2, tr. 122–124; EAN 2020 (TL-0473) Box 1). Đau nền thuộc đau đầu kiểu căng thẳng mạn: ≥ 15 ngày/tháng trên 3 tháng, hai bên, kiểu bóp chặt, nhẹ–vừa, không nôn, không nặng khi đi bộ, kèm ấn đau cơ quanh sọ (ICHD-3 2018 (TL-0480) mục 2.3 và 2.3.1, tr. 37). Khi có lạm dụng thuốc, ICHD yêu cầu ghi cả hai chẩn đoán 2.3 và 8.2 (ICHD-3 2018 (TL-0480) mục 2.3, ghi chú 3, tr. 38)."
+    },
+    {
+     "t": "Đau đầu muộn do rượu bia (hangover) làm đợt đau nặng thêm",
+     "n": "Bia 5–6 lon rồi đau nặng hơn sáng hôm sau là yếu tố làm nặng, không phải chẩn đoán chính. Đau đầu muộn do rượu bia phải tự hết trong vòng 72 giờ (ICHD-3 2018 (TL-0480) mục 8.1.4.2, tr. 118); ông đã đau nặng bốn ngày, và nền đau hằng ngày có sẵn. Bia rượu còn là yếu tố nguy cơ tái phát sau ngừng thuốc (EAN 2020 (TL-0473), PICO 7)."
+    },
+    {
+     "t": "Migraine mạn",
+     "n": "Không có đặc điểm migraine (không một bên, không giật theo mạch, không buồn nôn, không sợ ánh sáng/tiếng ồn). Migraine mạn đòi hỏi ≥ 8 ngày/tháng có đặc điểm migraine (ICHD-3 2018 (TL-0480) mục 1.3; mục 2.3 ghi chú 1). MOH thường trên nền migraine (khoảng 80%) nhưng ở đây nền là đau đầu căng thẳng (EAN 2020 (TL-0473) Giới thiệu, tr. 2)."
+    },
+    {
+     "t": "U não",
+     "n": "Nỗi sợ thật của ông. Lâm sàng không ủng hộ: kiểu đau không đổi nhiều năm, không dấu thần kinh khu trú, đáy mắt không phù gai, không tiền sử ung thư; nguy cơ u não ở người đau đầu không có tiền sử ung thư dưới 0,1% (SNNOOP10 (Do 2019, TL-0476), mục Neoplasm in history). Tuổi > 65 là cờ đỏ khi đau đầu khởi phát sau tuổi đó (SNNOOP10 (Do 2019, TL-0476), mục Older age); ông đau từ 20 năm trước. Cơ sở không có CT/MRI nên loại trừ bằng lâm sàng và theo dõi có mốc."
+    },
+    {
+     "t": "Đau đầu do viêm xoang (viêm mũi xoang cấp do vi khuẩn)",
+     "n": "Giả thuyết của ông. Không có mủ mũi, nghẹt mũi, giảm ngửi, sốt hay đau khi ấn vùng xoang; đau ở trán–thái dương cả hai bên, kiểu bóp chặt giống đau đầu căng thẳng. ICHD-3 2018 (TL-0480) mục 11.5.1, ghi chú 1: đau đầu căng thẳng và migraine dễ bị nhầm với đau đầu do viêm xoang, có hay không có mủ mũi giúp phân biệt. QĐ 5643/2015 (TL-0130) Viêm mũi xoang cấp tính mục 3.2.3 (tr. 110): 'cảm giác căng ở vùng trán như đeo đai' là của đau đầu, không phải của viêm xoang. Kháng sinh không có chỉ định."
+    },
+    {
+     "t": "Viêm động mạch thái dương (đau đầu do viêm động mạch tế bào khổng lồ)",
+     "n": "Tuổi > 60 nên phải nghĩ tới (ICHD-3 2018 (TL-0480) mục 6.4.1, nhận xét), nhưng đau đã nhiều năm, không đau da đầu, không đau mỏi hàm khi nhai, không mờ mắt, động mạch thái dương mềm và không đau, tốc độ máu lắng 14 mm/giờ. Trong tiêu chí 6.4.1, đau da đầu hoặc đau hàm khi nhai là một trong các bằng chứng nhân quả; ông không có."
+    },
+    {
+     "t": "Tăng huyết áp gây đau đầu / tác dụng phụ của NSAID lên huyết áp và thận",
+     "n": "HA 138/84 mmHg, eGFR 75. NSAID dùng lâu có thể làm tăng huyết áp và tổn thương thận (AGS Beers 2023 (TL-0022) Bảng 2, mục thuốc giảm đau); ngừng thuốc và đo lại huyết áp khi tái khám."
+    },
+    {
+     "t": "Đau đầu thứ phát nguy hiểm (xuất huyết dưới nhện, huyết khối tĩnh mạch não, viêm màng não, khối choán chỗ)",
+     "n": "Không đau bùng nổ trong vài giây, cứng cổ, sốt, thay đổi tri giác hay dấu thần kinh; kiểu đau không đổi, không tăng dần (SNNOOP10 (Do 2019, TL-0476), mục Onset sudden, Systemic symptoms, Pattern change, Progressive headache)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích đau đầu hằng ngày của ông chủ yếu do chính thuốc giảm đau uống kéo dài (đau đầu do lạm dụng thuốc), không phải viêm xoang; giải thích khám và xét nghiệm chưa thấy dấu hiệu u não",
+     "v": "c",
+     "n": "Giáo dục và tư vấn là bước đầu; chỉ khuyên ngừng thuốc là khởi đầu phù hợp ở người lạm dụng thuốc giảm đau đơn thuần không có bệnh tâm thần nặng, làm được ở tuyến cơ sở (EAN 2020 (TL-0473), Tóm tắt; PICO 3, khuyến cáo mức trung bình; Box 3)."
+    },
+    {
+     "t": "Ngừng hẳn ibuprofen và mọi thuốc giảm đau tự mua (kể cả thuốc cảm, thuốc 'đau đầu' có thành phần giảm đau), ngừng đột ngột, theo dõi ngoại trú",
+     "v": "c",
+     "n": "Thuốc giảm đau đơn thuần có thể ngừng đột ngột (EAN 2020 (TL-0473), Tóm tắt; Box 3); ngừng ngoại trú thường hiệu quả ở MOH đơn giản (PICO 5, tr. 7–8, khuyến cáo mạnh). Ông dùng 1.200–2.000 mg/ngày, vượt hoặc sát mức 400–1.200 mg/24 giờ của bảng liều (QĐ 361/2014 (TL-0286) Phụ lục, Bảng liều NSAID, tr. 200); NSAID dùng mạn ở người cao tuổi nên tránh (AGS Beers 2023 (TL-0022) Bảng 2)."
+    },
+    {
+     "t": "Báo trước giai đoạn cai: đau đầu có thể nặng hơn, buồn nôn, ngủ kém, bồn chồn khoảng 2–10 ngày rồi bớt; cho paracetamol cứu cánh trong tuần đầu",
+     "v": "c",
+     "n": "Triệu chứng cai 2–10 ngày (trung bình 3,5 ngày), lâu nhất khoảng 10 ngày với thuốc giảm đau (EAN 2020 (TL-0473), PICO 6, tr. 8); thuốc cứu cánh: chứng cứ thấp, khuyến cáo yếu. EAN nêu acetaminophen 1.000 mg theo nhu cầu; người cao tuổi gầy giới hạn dưới 3 g/ngày (QĐ 361/2014 (TL-0286) Phụ lục NSAID mục 3.3, tr. 199; sổ mâu thuẫn 'Liều paracetamol tối đa ở người cao tuổi'). Thời hạn cứu cánh riêng cho thuốc giảm đau đơn thuần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh, không bổ sung thuốc giảm đau, không chụp X-quang/CT xoang; dặn không tự dùng lại kháng sinh cũ",
+     "v": "c",
+     "n": "Không có triệu chứng viêm mũi xoang vi khuẩn (mủ mũi, nghẹt mũi, sốt, đau mặt) nên không có chỉ định kháng sinh (QĐ 5643/2015 (TL-0130) mục 3.1.1, tr. 108; mục 3.2.3, tr. 110; ICHD-3 2018 (TL-0480) mục 11.5.1, ghi chú 1)."
+    },
+    {
+     "t": "Đưa ra mốc theo dõi: tái khám sau 2 tuần, đánh giá lại sau 2 tháng; ghi nhật ký đau đầu và ngày dùng thuốc từ hôm nay",
+     "v": "c",
+     "n": "Theo dõi sát và nhật ký giảm tái phát; phần lớn tái phát trong năm đầu (EAN 2020 (TL-0473), PICO 7, tr. 9–10). Thành công tính ở 2 tháng: về dạng từng đợt và dùng thuốc dưới 10 ngày/tháng (EAN 2020 (TL-0473), PICO 3, nghiên cứu Rossi). Sau ngừng thuốc phải đánh giá lại chẩn đoán (ICHD-3 2018 (TL-0480) mục 2.3, ghi chú 3, tr. 38). Mốc 2 tuần do ca chọn (qua giai đoạn cai khoảng 10 ngày, EAN PICO 6), tài liệu không nêu."
+    },
+    {
+     "t": "Chỉ làm xét nghiệm tối thiểu cho kinh tế của ông: công thức máu và chức năng thận; bỏ điện tim, CRP, X-quang xoang",
+     "v": "c",
+     "n": "Hai xét nghiệm phát hiện tác hại của NSAID dài ngày ở người > 60 tuổi uống rượu và làm mốc trước khi chọn thuốc (QĐ 361/2014 (TL-0286) Phụ lục NSAID mục 3.3: yếu tố nguy cơ tiêu hóa; theo dõi creatinin và điện giải đồ). Các xét nghiệm còn lại không đổi xử trí hôm nay."
+    },
+    {
+     "t": "Hỏi ra và trả lời nỗi lo u não: nêu lý do lâm sàng thấy u não rất khó xảy ra, và dặn những dấu hiệu mới sẽ cần chụp hình ngay",
+     "v": "c",
+     "n": "Kiểu đau không đổi nhiều năm, không dấu thần kinh, không phù gai, không tiền sử ung thư: nguy cơ u não dưới 0,1% (SNNOOP10 (Do 2019, TL-0476), mục Neoplasm in history). Đau đổi kiểu, mới hoặc tăng dần là cờ đỏ cần hình ảnh học (mục Pattern change, Progressive headache). Kỹ thuật trấn an: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn bỏ bia rượu trong thời gian cai thuốc",
+     "v": "a",
+     "n": "Rượu bia là yếu tố dự báo tái phát (EAN 2020 (TL-0473), PICO 7, tr. 9) và yếu tố nguy cơ tiêu hóa của NSAID (QĐ 361/2014 (TL-0286) Phụ lục NSAID mục 3.3). Lượng bia an toàn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chưa kê thuốc dự phòng đau đầu hôm nay; xét lại khi tái khám nếu giáo dục và ngừng thuốc không hiệu quả",
+     "v": "a",
+     "n": "Thuốc dự phòng dành cho người giáo dục không hiệu quả (EAN 2020 (TL-0473), Tóm tắt; Box 3). Topiramate, onabotulinum toxin A, kháng thể CGRP có bằng chứng cho migraine mạn kèm MOH (PICO 4, khuyến cáo yếu); thuốc và liều cho đau đầu căng thẳng mạn ở người cao tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gửi chụp MRI sọ theo hẹn (không khẩn) để yên tâm",
+     "v": "a",
+     "n": "Không có cờ đỏ nên không cần ngay (SNNOOP10 (Do 2019, TL-0476)); an toàn nhưng tốn kém (MRI sọ 2.500.000 đ theo danh mục của app) và cơ sở không có CT/MRI. Chỉ cần khi đau đổi kiểu, tăng dần, có dấu thần kinh, hoặc vẫn đau ≥ 15 ngày/tháng dù ngừng thuốc 2 tháng (mốc 2 tháng do ca chọn)."
+    },
+    {
+     "t": "Tiếp tục ibuprofen hoặc đổi sang NSAID khác (diclofenac, naproxen, celecoxib) cho 'đỡ hại dạ dày'",
+     "v": "w",
+     "n": "Mọi thuốc giảm đau không opioid, kể cả NSAID, tính chung một nhóm khi xét lạm dụng (ICHD-3 2018 (TL-0480) mục 8.2.3, nhận xét) nên đổi thuốc vẫn duy trì MOH; NSAID mạn ở người cao tuổi nên tránh (AGS Beers 2023 (TL-0022) Bảng 2). Naproxen trong EAN chỉ là cứu cánh ngắn ngày trong tuần đầu."
+    },
+    {
+     "t": "Kê thuốc giảm đau mạnh hơn hoặc thuốc phối hợp (paracetamol + codein, tramadol, thuốc có caffeine) để 'dứt cơn'",
+     "v": "w",
+     "n": "Thuốc phối hợp hay gây MOH nhất; người lạm dụng opioid tái phát sau cai cao nhất (ICHD-3 2018 (TL-0480) mục 8.2.4 và 8.2.5, nhận xét). Thuốc bậc 2 trong QĐ 361/2014 (TL-0286) Phụ lục thuốc giảm đau mục 3.2 dành cho đau cơ xương khớp."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin/acid clavulanic, quinolon) vì ông tin bị viêm xoang",
+     "v": "w",
+     "n": "Không có chẩn đoán viêm mũi xoang vi khuẩn (ICHD-3 2018 (TL-0480) mục 11.5.1, ghi chú 1); QĐ 5643/2015 (TL-0130) mục 4.2.1 (tr. 111) nêu vi khuẩn gây viêm xoang ngày càng kháng thuốc."
+    },
+    {
+     "t": "Kê thuốc an thần hoặc thuốc ngủ nhóm benzodiazepin cho ông ngủ và 'đỡ đau'",
+     "v": "w",
+     "n": "Thuốc an thần là yếu tố nguy cơ của MOH (EAN 2020 (TL-0473), Giới thiệu, tr. 2); tránh benzodiazepin ở người ≥ 65 tuổi (AGS Beers 2023 (TL-0022) Bảng 2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau đầu do lạm dụng thuốc giảm đau (ibuprofen 400 mg, 3–5 viên/ngày, khoảng 25 ngày/tháng, hơn 4 năm) — NSAID-overuse headache (ICHD-3 8.2.3.2)",
+     "Trên nền đau đầu kiểu căng thẳng mạn tính kèm tăng đau cơ quanh sọ (ICHD-3 2.3.1); khi có lạm dụng thuốc ghi cả hai chẩn đoán (ICHD-3 2.3, ghi chú 3)",
+     "Đợt nặng thêm 4 ngày nay sau bữa nhậu cuối tuần: yếu tố làm nặng (rượu bia), không phải đau đầu sấm sét hay cờ đỏ",
+     "Không có cờ đỏ của đau đầu thứ phát; không có viêm mũi xoang vi khuẩn; không thiếu máu; chức năng thận giảm nhẹ theo tuổi",
+     "Dùng kháng sinh cũ tự ý, không có chỉ định, không hiệu quả",
+     "Lý do thật đến khám: sợ bị u não như ông bạn cờ tướng",
+     "Hướng xử trí: giáo dục, ngừng thuốc đột ngột ngoại trú, cứu cánh ngắn bằng paracetamol, nhật ký đau đầu, hẹn tái khám có mốc"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: đặc điểm đau đầu nền (số năm, ngày mỗi tháng, vị trí, kiểu, kèm buồn nôn/sợ ánh sáng); tên thuốc, số viên mỗi ngày, số ngày mỗi tháng, thời gian dùng (ông chỉ nói 'thuốc đau đầu'); yếu tố khởi phát đợt nặng (bia); kháng sinh cũ và triệu chứng mũi xoang; cờ đỏ; tiêu hóa–thận–huyết áp; tâm trạng; cuối cùng nỗi lo thật ('ông lo nhất điều gì', 'vì sao đến hôm nay', 'có ai quen bị bệnh giống ông không').",
+     "Khám: ấn xoang không đau, soi mũi trước không mủ; ấn đau cơ quanh sọ; động mạch thái dương mềm; đáy mắt bờ rõ; thần kinh bình thường, gập cổ tự do. Cận lâm sàng chọn theo ngân sách: công thức máu và creatinin (hợp lý vì NSAID dài ngày ở người 67 tuổi uống rượu), còn điện tim, CRP, X-quang xoang có thể bỏ.",
+     "Vì sao là MOH: đau đầu ≥ 15 ngày/tháng trên nền đau đầu nguyên phát, dùng NSAID ≥ 15 ngày/tháng trong > 3 tháng, và không có chẩn đoán khác giải thích tốt hơn (ICHD-3 2018 (TL-0480) mục 8.2 và 8.2.3.2, tr. 122–124). Ông còn từng tự bỏ thuốc 2–3 ngày thì đau dữ hơn rồi uống lại; hành vi của một số người MOH giống phụ thuộc thuốc (ICHD-3 2018 (TL-0480) mục 8.2, nhận xét, tr. 123). MOH là nguyên nhân phổ biến nhất của đau đầu thứ phát và thường điều trị được (SNNOOP10 (Do 2019, TL-0476), mục Painkiller overuse).",
+     "Nền là đau đầu căng thẳng mạn, không phải migraine mạn: đau hai bên, bóp chặt, nhẹ–vừa, không buồn nôn, không sợ ánh sáng/tiếng ồn, không nặng khi đi bộ (ICHD-3 2018 (TL-0480) mục 2.3, tr. 37); không có ngày nào mang đặc điểm migraine nên không đủ ≥ 8 ngày/tháng của mục 1.3. Vì vậy bằng chứng dự phòng của EAN (cho migraine) không áp thẳng.",
+     "Bia 5–6 lon làm nặng đợt này nhưng đau đầu muộn do rượu bia tự hết trong 72 giờ (ICHD-3 2018 (TL-0480) mục 8.1.4.2, tr. 118), còn ông đau nặng bốn ngày trên nền MOH. Đau cùng vị trí, cùng kiểu, tăng dần từ từ, không bùng nổ, không nôn, không cứng cổ: không giống đau đầu sấm sét (SNNOOP10 (Do 2019, TL-0476), mục Onset sudden).",
+     "Không nghĩ viêm xoang: không mủ mũi, nghẹt mũi, giảm ngửi, sốt hay đau khi ấn xoang; đau căng trán–thái dương như đội mũ chật. Đau đầu căng thẳng và migraine dễ bị gọi nhầm là đau xoang; có hay không có mủ mũi giúp phân biệt (ICHD-3 2018 (TL-0480) mục 11.5.1, ghi chú 1, tr. 154; QĐ 5643/2015 (TL-0130) mục 3.2.3, tr. 110).",
+     "Cờ đỏ SNNOOP10 đối chiếu từng mục đều âm tính (toàn thân, ung thư, thần kinh, khởi phát đột ngột, gắng sức/ho, phù gai thị, đổi kiểu hay tăng dần). Riêng 'tuổi' là cờ khi đau đầu khởi phát sau 65 tuổi; ông đau từ 20 năm trước (SNNOOP10 (Do 2019, TL-0476), Bảng 1; mục Older age). Lạm dụng thuốc giảm đau là cờ cam, chính là chẩn đoán đích.",
+     "Tạm dừng chẩn đoán trước khi chốt (diagnostic timeout): (1) Dữ kiện nào chẩn đoán này không giải thích? Cơn nặng thêm 4 ngày giải thích bằng bia cộng nền MOH, không còn dữ kiện thừa. (2) Mình có bị neo vào 'viêm xoang' của bệnh nhân không? Không có triệu chứng mũi xoang nào. (3) Mình có bị neo vào 'MOH nên chắc lành' mà bỏ qua u não không? Đã đối chiếu SNNOOP10 và có mốc theo dõi. (4) Điều bệnh nhân thật sự lo là gì? Nỗi sợ u não vì ông bạn cờ. Đối chiếu bằng danh sách cờ đỏ (SNNOOP10 (Do 2019, TL-0476), Bảng 1).",
+     "Vì sao chưa chắc loại hẳn u não: cơ sở không có CT/MRI. Cách thay thế là loại trừ bằng lâm sàng (kiểu đau ổn định nhiều năm, đáy mắt, thần kinh, không tiền sử ung thư) và theo dõi có mốc: nếu đau đổi kiểu, tăng dần, xuất hiện dấu thần kinh, nôn, hoặc vẫn đau ≥ 15 ngày/tháng sau ngừng thuốc 2 tháng thì cần hình ảnh học (SNNOOP10 (Do 2019, TL-0476), mục Pattern change, Progressive headache; EAN 2020 (TL-0473), PICO 3). Ngưỡng cụ thể 2 tháng để chụp hình: không có trong tài liệu đã tải, ca tự chọn."
+    ],
+    "phan_tich_xu_tri": [
+     "Giáo dục và ngừng thuốc ngoại trú là đầu tay: chỉ khuyên ngừng thuốc phù hợp cho người lạm dụng thuốc giảm đau đơn thuần không có bệnh tâm thần nặng, bác sĩ đa khoa làm được (khuyến cáo trung bình, chứng cứ thấp) (EAN 2020 (TL-0473), PICO 3, tr. 4–5). Nghiên cứu Rossi: thành công > 70% sau 2 tháng (nền migraine); cohort Na Uy 109 người đau đầu mạn đa số kiểu căng thẳng: ngày dùng thuốc 22 xuống 6 mỗi tháng, 76% hết lạm dụng sau 18 tháng (PICO 3, tr. 4; không đối chứng). Việc ông tự bỏ thuốc 2–3 ngày rồi uống lại là tự bỏ không hướng dẫn, chưa phải thất bại sau tư vấn; nếu ngừng có hướng dẫn mà thất bại thì cần chuyên khoa (PICO 3).",
+     "Ngừng đột ngột hay giảm dần: với thuốc giảm đau đơn thuần, ngừng đột ngột hoặc hạn chế đều được (EAN 2020 (TL-0473), Tóm tắt; Box 3). Ngừng đột ngột giảm số ngày đau nhiều hơn (−42% so với −22%) (EAN 2020 (TL-0473), PICO 5, tr. 7). Thuốc dùng để cắt cơn cai trong lúc ngừng: cứu cánh yếu, chứng cứ thấp (EAN 2020 (TL-0473), PICO 6). Cần cảnh báo trước: 2–10 ngày đầu có thể đau tăng, buồn nôn, ngủ kém, bồn chồn.",
+     "Thuốc cứu cánh ở người 67 tuổi, 58 kg: EAN nêu acetaminophen 1.000 mg theo nhu cầu và naproxen 500 mg tối đa 3 ngày trong tuần đầu (EAN 2020 (TL-0473), PICO 6, tr. 9) nhưng người cao tuổi gầy có nguy cơ tiêu hóa, thận khi dùng NSAID nên tránh nếu có thể và giới hạn paracetamol dưới 3 g/ngày (QĐ 361/2014 (TL-0286) Phụ lục NSAID mục 3.3; AGS Beers 2023 (TL-0022) Bảng 2). Vì vậy ca chọn paracetamol, không chọn naproxen (xem tệp mâu thuẫn).",
+     "Dự phòng: chỉ dành cho người giáo dục không hiệu quả; sau ngừng thuốc có thể không cần dự phòng nữa (EAN 2020 (TL-0473), Tóm tắt; PICO 5, tr. 8: hơn một nửa bệnh nhân trở lại dạng từng đợt và không cần). Bằng chứng topiramate, onabotulinum toxin A, kháng thể CGRP là cho migraine mạn kèm MOH (EAN 2020 (TL-0473), PICO 4, tr. 5–6), không phải cho đau đầu căng thẳng mạn ở người cao tuổi.",
+     "Chọn xét nghiệm khi ít tiền: câu hỏi mỗi xét nghiệm là 'kết quả có đổi quyết định hôm nay không?'. Công thức máu (thiếu máu do NSAID?) và creatinin (an toàn khi dùng bất kỳ thuốc nào sau này, làm mốc) đáng làm, tổng khoảng 100.000 đ theo danh mục. Tốc độ máu lắng chấp nhận được nhưng bỏ được. Điện tim, CRP, X-quang xoang không đổi quyết định. CT/MRI sọ không có ở cơ sở và cũng không cần ngay vì không có cờ đỏ.",
+     "Mốc theo dõi: tái khám sau 2 tuần để xem qua giai đoạn cai (2–10 ngày) và đo lại huyết áp; đánh giá lại sau 2 tháng vì thành công của ngừng thuốc được đo ở 2 tháng (EAN 2020 (TL-0473), PICO 3, PICO 6) và các lần theo dõi sát, nhật ký giúp giảm tái phát (EAN 2020 (TL-0473), PICO 7). Mốc 2 tuần do ca tự chọn. Nhật ký đau đầu ghi mỗi ngày: có đau không, mức độ, có uống thuốc gì.",
+     "Chưa kết luận 'bệnh nặng': người nhà ông bạn cờ tướng bị u não là chuyện khác; ông cần được nghe rõ vì sao ông khác (kiểu đau ổn định, khám bình thường) và khi nào sẽ cần chụp, thay vì được chụp ngay cho yên tâm (tốn tiền, mà cơ sở không có)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ibuprofen (thuốc ông tự mua) — NGỪNG",
+      "ham_luong": "Viên 400 mg",
+      "lieu": "Ngừng hoàn toàn, ngừng đột ngột ngay từ hôm nay",
+      "duong": "Uống",
+      "thoi_diem": "Không uống nữa từ hôm nay",
+      "so_ngay": "Triệu chứng cai thường 2–10 ngày, trung bình 3,5 ngày, thuốc giảm đau đơn thuần lâu nhất khoảng 10 ngày (EAN 2020, PICO 6)",
+      "ghi_chu": "Ngừng đột ngột được với thuốc giảm đau đơn thuần (EAN 2020 (TL-0473), Tóm tắt; Box 3). Ông đang dùng 3–5 viên 400 mg/ngày (1.200–2.000 mg) trong khi bảng liều NSAID ghi 400–1.200 mg/24 giờ (QĐ 361/2014 (TL-0286) Phụ lục NSAID, Bảng liều, tr. 200); NSAID dùng mạn ở người cao tuổi nên tránh (AGS Beers 2023 (TL-0022) Bảng 2)."
+     },
+     {
+      "thuoc": "Paracetamol (thuốc cứu cánh ngắn ngày)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1–2 viên mỗi lần (500–1.000 mg), cách nhau 6–8 giờ, chỉ khi đau nặng; tổng dưới 3 g/ngày (tối đa 5 viên 500 mg mỗi ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau nặng không chịu nổi",
+      "so_ngay": "Chỉ trong tuần đầu cai thuốc (7 ngày đầu); số ngày dùng thuốc mục tiêu dưới 10 ngày/tháng (EAN 2020, PICO 3)",
+      "ghi_chu": "QĐ 361/2014 (TL-0286) Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg/lần, cách 6–8 giờ) và Phụ lục NSAID mục 3.3, tr. 199 (người cao tuổi, gầy, tăng huyết áp: acetaminophen dưới 3 g/ngày); EAN 2020, PICO 6: acetaminophen 1.000 mg theo nhu cầu làm thuốc cứu cánh. Mốc 'tuần đầu' lấy từ phác đồ COMOESTAS ngày 1–7 trong EAN (áp cho người lạm dụng triptan); EAN không nêu thời hạn riêng cho thuốc giảm đau đơn thuần. Không đủ tài liệu để nêu mức an toàn khi uống bia cùng paracetamol: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh (amoxicillin/acid clavulanic) — KHÔNG kê, không uống lại",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không kê",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Không có chẩn đoán viêm mũi xoang vi khuẩn (QĐ 5643/2015 (TL-0130) mục 3.1.1, tr. 108; ICHD-3 2018 (TL-0480) mục 11.5.1, ghi chú 1). Kháng sinh không điều trị đau đầu này."
+     },
+     {
+      "thuoc": "Thuốc dự phòng đau đầu — chưa kê hôm nay",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Chưa kê; xét lại ở tái khám 2 tháng nếu ngừng thuốc mà đau vẫn ≥ 15 ngày/tháng",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Dự phòng khi giáo dục và ngừng thuốc không hiệu quả (EAN 2020 (TL-0473), Tóm tắt; Box 3). Thuốc, liều cho đau đầu căng thẳng mạn ở người cao tuổi: không có trong tài liệu đã tải (PICO 4 chỉ cho migraine mạn)."
+     }
+    ],
+    "dan_do": [
+     "Nói với ông Hải: đau đầu hằng ngày của bác chủ yếu do chính thuốc giảm đau bác uống gần như mỗi ngày nhiều năm nay (ibuprofen). Không phải viêm xoang, nên kháng sinh không giúp gì và đừng tự uống lại. Khám và kết quả cho thấy rất khó là u não, nhưng bác sẽ được hẹn theo dõi để chắc chắn.",
+     "Ngừng hẳn ibuprofen và mọi thuốc giảm đau tự mua (xem kỹ thuốc cảm, thuốc 'bổ đầu' có thành phần giảm đau). 2–10 ngày đầu đau có thể nặng hơn, buồn nôn, ngủ kém, bồn chồn rồi bớt; đây là dấu hiệu thuốc đang rời khỏi cơ thể, không phải bệnh nặng thêm (EAN 2020 (TL-0473), PICO 6).",
+     "Khi đau không chịu nổi trong tuần đầu mới uống paracetamol 500 mg, 1–2 viên mỗi lần, cách ít nhất 6 giờ, tối đa 5 viên mỗi ngày (QĐ 361/2014 (TL-0286)); sau tuần đầu cố gắng không uống, dùng thuốc dưới 10 ngày mỗi tháng (EAN 2020 (TL-0473), PICO 3).",
+     "Ghi nhật ký đau đầu mỗi ngày: có đau không, nặng mức nào, có uống thuốc gì; mang theo khi tái khám (EAN 2020 (TL-0473), PICO 7). Hạn chế bia rượu, nhất là trong 2 tháng đầu (EAN 2020 (TL-0473), PICO 7; ICHD-3 2018 (TL-0480) mục 8.1.4.2).",
+     "Tái khám sau 2 tuần (mốc do ca chọn, không có trong tài liệu đã tải). Sau 2 tháng đánh giá lại; nếu vẫn đau ≥ 15 ngày/tháng dù đã ngừng thuốc, sẽ bàn dự phòng và chụp hình sọ ở tuyến trên.",
+     "Quay lại khám sớm hoặc đi cấp cứu nếu: đau bùng nổ như búa đập, đau đổi kiểu hoặc tăng dần, nôn nhiều, sốt kèm cứng cổ, yếu liệt hay tê, nói khó, nhìn đôi hay mờ mắt, lú lẫn, co giật, đau da đầu hay mỏi hàm khi nhai kèm mờ mắt (SNNOOP10 (Do 2019, TL-0476), các mục Onset sudden, Systemic symptoms, Pattern change, Progressive headache; ICHD-3 2018 (TL-0480) mục 6.4.1)."
+    ]
+   }
+  }
+ ],
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: ông hỏi giá từng việc; phải chọn xét nghiệm đổi quyết định (công thức máu, creatinin) và bỏ phần còn lại.",
+  "Tự chẩn đoán 'viêm xoang' kèm kháng sinh toa cũ: dễ neo rồi kê kháng sinh hay chụp xoang, trong khi không có triệu chứng mũi xoang nào.",
+  "Bữa nhậu cuối tuần: giải thích quá gọn 'do bia', trong khi đau do rượu tự hết trong 72 giờ còn ông đau nặng bốn ngày trên nền đau 25 ngày mỗi tháng.",
+  "Nỗi sợ ẩn: ông bạn cờ vừa phát hiện u não; không hỏi 'ông lo nhất điều gì' thì không lộ."
+ ],
+ "bai_hoc_bien": [
+  "Đau đầu hằng ngày dài hạn ở người uống thuốc giảm đau gần mỗi ngày là đau đầu do lạm dụng thuốc cho đến khi chứng minh điều ngược lại: hỏi tên thuốc, số viên mỗi ngày, số ngày mỗi tháng (ICHD-3 2018, 8.2).",
+  "MOH được điều trị bằng giáo dục và ngừng thuốc, thường làm được ngoại trú tuyến cơ sở; giải thích nguyên nhân và báo trước giai đoạn cai là phần chính của điều trị (EAN 2020, PICO 3 và 5).",
+  "Có cờ đỏ hay không phải được rà từng mục, không dựa vào cảm giác 'chắc lành': kiểu đau không đổi nhiều năm, đáy mắt, thần kinh, tiền sử ung thư (SNNOOP10 2019). Tuổi ≥ 65 chỉ là cờ đỏ khi đau khởi phát sau tuổi đó.",
+  "Không có hình ảnh học vẫn có thể ra quyết định an toàn: loại trừ lâm sàng cộng mốc theo dõi và dấu hiệu quay lại sớm.",
+  "Khi bệnh nhân hạn chế tiền, mỗi xét nghiệm phải trả lời 'có đổi quyết định hôm nay không?'; giải thích lý do bỏ xét nghiệm là một phần giữ lòng tin."
+ ],
+ "diem_nho": [
+  "Tiêu chuẩn MOH do NSAID: đau đầu ≥ 15 ngày/tháng ở người có đau đầu nguyên phát từ trước và dùng NSAID ≥ 15 ngày/tháng trong > 3 tháng; paracetamol cũng ≥ 15 ngày/tháng; triptan, ergot, opioid, thuốc phối hợp chỉ cần ≥ 10 ngày/tháng (ICHD-3 2018, 8.2, 8.2.1–8.2.5, tr. 122–125).",
+  "Đau đầu căng thẳng mạn: ≥ 15 ngày/tháng trên 3 tháng; khi có lạm dụng thuốc thì ghi cả 2.3 và 8.2, sau ngừng thuốc đánh giá lại (ICHD-3 2018, 2.3 và ghi chú 3, tr. 37–38).",
+  "Chỉ khuyên ngừng thuốc là đủ làm bước đầu ở người lạm dụng thuốc giảm đau đơn thuần không có bệnh tâm thần nặng; thuốc giảm đau đơn thuần ngừng đột ngột được; cai kéo dài 2–10 ngày (EAN 2020, PICO 3, 5, 6).",
+  "Nguy cơ tái phát cao nhất trong năm đầu; nhật ký đau đầu và theo dõi sát giảm tái phát; rượu bia và hút thuốc là yếu tố dự báo tái phát (EAN 2020, PICO 7).",
+  "Nguy cơ u não ở người đau đầu không có tiền sử ung thư dưới 0,1%; đau đổi kiểu, mới < 3 tháng hoặc tăng dần là cờ đỏ cần hình ảnh học (SNNOOP10 2019, mục Neoplasm in history, Pattern change, Progressive headache).",
+  "Người cao tuổi: NSAID dùng mạn nên tránh (AGS Beers 2023, Bảng 2); người cao tuổi, gầy hay tăng huyết áp dùng paracetamol dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3)."
+ ],
+ "nguon": [
+  "EAN 2020 – Guideline on the management of medication-overuse headache – TL-0473 – Tóm tắt, Giới thiệu, Box 1 (tr. 1–2), PICO 3 (tr. 4–5), PICO 4 (tr. 5–6), PICO 5 (tr. 6–8), PICO 6 (tr. 8–9), PICO 7 (tr. 9–10), Box 3 (tr. 10).",
+  "IHS 2018 – ICHD-3 – TL-0480 – 1.3 Migraine mạn, 2.3 Đau đầu căng thẳng mạn và ghi chú 1, 3 (tr. 37–38), 6.4.1, 8.1.4.2 (tr. 118), 8.2 (tr. 122–123), 8.2.3–8.2.5 (tr. 123–125), 11.5.1 (tr. 154–155).",
+  "Do TP và cs. 2019 – Red and orange flags for secondary headaches: SNNOOP10 list – TL-0476 – Bảng 1; các mục Systemic symptoms, Neoplasm in history, Onset sudden (thunderclap), Older age, Pattern change or recent onset, Papilledema, Progressive headache, Painkiller overuse (MOH).",
+  "BYT – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Phụ lục: Hướng dẫn sử dụng NSAID mục 3.3 (tr. 197–199), Bảng liều NSAID (tr. 200); Hướng dẫn sử dụng thuốc giảm đau mục 3.1–3.2.",
+  "AGS Beers 2023 – Updated AGS Beers Criteria for potentially inappropriate medication use in older adults – TL-0022 – Bảng 2 (NSAID không chọn lọc COX-2, benzodiazepin).",
+  "BYT – QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh tai mũi họng – TL-0130 – Viêm mũi xoang cấp tính mục 3.1.1–3.1.2 (tr. 108–109), 3.2.3 (tr. 110), 4.2.1 (tr. 111)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-25 (viết: Sonnet): ca 1 lượt, bản 1. Đã đọc: TL-0473 (EAN: Tóm tắt, Box 1, PICO 1–7, Box 3), TL-0480 (ICHD-3: 1.3, 2.3, 6.4.1, 8.1.4.2, 8.2, 11.5.1), TL-0476 (SNNOOP10), TL-0286 (QĐ 361/2014 Phụ lục NSAID mục 3.3, bảng liều, thuốc giảm đau), TL-0022 (Beers 2023 Bảng 2), TL-0130 (QĐ 5643/2015). Tham khảo ca TK-0448 (cùng chẩn đoán, khác cốt truyện) và mục sổ mâu thuẫn 'Liều paracetamol tối đa ở người cao tuổi'.",
+  "Thiếu tài liệu: thời hạn thuốc cứu cánh riêng cho người lạm dụng thuốc giảm đau đơn thuần; thuốc dự phòng và liều cho đau đầu căng thẳng mạn ở người cao tuổi; lượng bia an toàn; ngưỡng tốc độ máu lắng; tiêu chí chỉ định công thức máu khi dùng NSAID dài ngày; mốc tái khám 2 tuần và mốc 2 tháng để chụp hình (ca tự chọn, đã ghi trong n). Đã ghi 'không có trong tài liệu đã tải'.",
+  "Kháng sinh toa cũ là thuốc đang dùng theo sổ cái, đóng vai trò mồi neo (không có viêm xoang thật). Bia là yếu tố làm nặng, đã đối chiếu mốc 72 giờ của ICHD 8.1.4.2. Nơi điều trị: ngoại trú, vì không cờ đỏ, không bệnh tâm thần nặng, không opioid/an thần (EAN 2020, PICO 3, 5).",
+  "Kết cục ở tái khám (2 tuần, 2 tháng) là kịch bản minh họa, không phải dữ kiện chấm. Ca có một lượt nên không có lượt sau; neu_sai chỉ dùng hậu quả của lựa chọn quá tay hoặc chưa đúng.",
+  "Cơ sở không có X-quang nên cũng không có CT/MRI (khoa_cls nhóm xquang). Ngân sách người bệnh khiến chỉ còn hai xét nghiệm đáng làm (công thức máu, creatinin)."
+ ]
+}
