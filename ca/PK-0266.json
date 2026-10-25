@@ -1,0 +1,737 @@
+{
+ "ma_ca": "PK-0266",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "PK_pap_bat_thuong_cin1",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Tầm soát ung thư cổ tử cung (Pap bất thường)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm CTC",
+   "Ung thư CTC"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Hướng dẫn viên du lịch",
+  "yeu_to_khoi_phat": "Sau stress công việc",
+  "thuoc_dang_dung": "Thuốc dị ứng tự mua",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Ngọc Diệp",
+  "tuoi": 28,
+  "gioi": "Nữ",
+  "nghe": "Hướng dẫn viên du lịch nội địa, dẫn đoàn khách đi Tây Bắc và miền Trung, mỗi tháng ở nhà chừng mười ngày",
+  "can_nang": 50,
+  "chieu_cao": 160,
+  "xung_ho": "Bác sĩ gọi chị là 'chị Diệp'. Chị tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhảu, hoạt ngôn, quen nói chuyện với khách nên pha trò để che lo lắng. Ngủ ít, ăn uống thất thường theo lịch tour, hay nghe đồng nghiệp mách 'truyền một chai là khỏe'. Sợ nghe chữ 'ung thư' và sợ bị mắng vì từng bỏ hẹn khám.",
+  "kieu_nhieu": "Giấu tiền sử: mở đầu bằng mệt, mất ngủ và xin truyền dịch; đưa tờ Pap ra như chuyện phụ ('bác sĩ bên đó nói hơi viêm thôi'). Hỏi chung chung 'trước đây có làm Pap chưa' thì đáp 'lâu rồi, bình thường'. Chuyện Pap bất thường cách đây hai năm rưỡi mà chị không đi soi, chuyện hút thuốc lá và chuyện có bạn trai mới chỉ lộ khi bác sĩ hỏi từng việc bằng giọng không phán xét, giải thích vì sao cần biết, và hỏi lại lần hai.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c0916a",
+   "toc": "#1f1814",
+   "kieuToc": "dai",
+   "ao": "#4f7a6e",
+   "aoKieu": "polo",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Mệt mỏi, mất ngủ, xin truyền dịch; mang theo kết quả Pap bất thường",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám không có máy X-quang (kéo theo không có CT, nội soi tiêu hóa). Có xét nghiệm cơ bản, siêu âm, que thử thai, soi tươi dịch âm đạo, lấy mẫu phụ khoa gửi HPV/tế bào học, soi cổ tử cung và sinh thiết cổ tử cung gửi giải phẫu bệnh."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nữ 28 tuổi, tên Phạm Ngọc Diệp, hướng dẫn viên du lịch, đi một mình đến phòng khám lúc 17 giờ chiều thứ Sáu, vừa dẫn đoàn về hôm qua. Xin 'khám tổng quát' vì mệt, ngủ kém; hỏi lễ tân có truyền dịch được không. Cầm theo một tờ kết quả tế bào học cổ tử cung làm ở đợt khám sức khỏe của công ty tám ngày trước. Sinh hiệu lúc tiếp đón: mạch 72 l/p, HA 100/65 mmHg, nhiệt độ 36,8 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Chị Diệp nghe 'chỉ hơi viêm', không làm HPV, hẹn lặp Pap sau 6–12 tháng. Với ASC-US ở tuổi ≥ 25, phải làm HPV kèm theo ngay và nếu HPV dương thì soi cổ tử cung, vì nguy cơ CIN3+ tức thời khoảng 4,2% đã vượt ngưỡng 4% (ASCCP 2019, mục E.2, Hình 2; mục Kết luận, 'Reflex testing'; QĐ 3792/2024, Phần 4 mục 1.2). Chị lại quen bỏ hẹn, nên nhiều khả năng sẽ không quay lại vào năm sau và tổn thương được để yên.",
+    "nhap_vien": "Chị Diệp được nhập viện truyền dịch, vitamin vài ngày để 'lại sức'. Mất mấy ngày công đúng mùa tour, tốn chi phí, trong khi tài liệu đã tải không có chỉ định truyền dịch cho mệt mỏi, mất ngủ khi ăn uống được, sinh hiệu ổn; việc cần làm là soi cổ tử cung do HPV dương vẫn chưa được hẹn.",
+    "chuyen_tuyen": "Chị Diệp được chuyển thẳng lên bệnh viện ung bướu 'cho chắc'. QĐ 3792/2024, Phần 6 mục 3.2 chỉ chuyển thẳng khi nghi ngờ ung thư; ở đây cổ tử cung nhẵn, không sùi loét, cơ sở đã làm được HPV, soi và sinh thiết. Chị sợ hãi nghĩ mình bị ung thư, tốn thêm một đến hai tuần chờ lịch, và nhiều khả năng bỏ cuộc giữa chừng."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Dạo này em mệt lắm, cả tháng nay ngủ không được, vừa nhắm mắt là nhớ chuyện đoàn khách. Bác sĩ cho em truyền chai nước biển hay vitamin gì đó cho lại sức đi, hồi trước chị đồng nghiệp truyền một chai là khỏe re, em còn phải chạy tour tuần sau. À, em có tờ khám sức khỏe công ty hôm trước, bác sĩ bên đó nói hơi viêm thôi, bác sĩ xem giùm em luôn.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "100/65",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Em mệt, ngủ không được cả tháng nay. Em muốn bác sĩ cho truyền chai nước biển hay vitamin cho khỏe lại, tuần sau còn dẫn đoàn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra: mệt, mất ngủ, xin truyền dịch"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba tuần trước đoàn của em gặp sự cố: xe hỏng giữa đèo, khách làm to chuyện, công ty bắt em giải trình. Từ đó em thức khuya viết báo cáo, ngủ 3–4 tiếng, mệt về chiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau stress công việc"
+    },
+    {
+     "id": "pap",
+     "noi_dung": "Tờ kết quả em cầm đây: tế bào học cổ tử cung nhúng dịch, 'tế bào vảy không điển hình, ý nghĩa chưa xác định (ASC-US)', mẫu đạt chất lượng, chưa làm HPV. Em làm lúc công ty tổ chức khám, bác sĩ bên đó bảo hơi viêm, uống thuốc là hết.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Kết quả Pap: ASC-US, chưa có HPV"
+    },
+    {
+     "id": "pap_cu",
+     "noi_dung": "Cách đây khoảng hai năm rưỡi em có làm một lần ở phòng khám khác, tờ ghi 'tổn thương nội biểu mô vảy độ thấp', bác sĩ dặn đi soi cổ tử cung. Em sợ nên không đi, vứt luôn tờ giấy. Từ đó tới giờ chưa làm lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung chung thì chị đáp 'lâu rồi, bình thường'. Chỉ nói khi bác sĩ hỏi cụ thể lần làm gần nhất, kết quả, lời dặn, giải thích vì sao cần biết và không trách; hoặc hỏi lại lần hai.",
+     "k": 1,
+     "y": "Pap bất thường (LSIL) cách đây 2,5 năm, không đi soi"
+    },
+    {
+     "id": "thuoc_la",
+     "noi_dung": "Em hút thuốc lá khoảng nửa gói mỗi ngày từ lúc đi làm, mấy tuần nay stress hút nhiều hơn. Em không nói với ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung thì chị cười 'thỉnh thoảng thôi'. Chỉ nói số lượng khi bác sĩ hỏi mỗi ngày mấy điếu và nói rõ hỏi để đánh giá nguy cơ cổ tử cung, không để mắng.",
+     "k": 1,
+     "y": "Hút thuốc lá khoảng nửa gói/ngày (yếu tố nguy cơ)"
+    },
+    {
+     "id": "ban_tinh",
+     "noi_dung": "Em có bạn trai mới được năm tháng. Hai đứa dùng bao cao su không đều, nhất là lúc em đi tour về mệt. Trước đó em có hai bạn trai nữa. Em chưa bao giờ tiêm ngừa HPV.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chuyện quan hệ tình dục chung chung thì chị né ('em không có gì đâu'). Chỉ kể khi bác sĩ hỏi riêng, nhẹ nhàng, nói rõ vì sao cần (nguy cơ nhiễm HPV và bệnh lây qua đường tình dục), cam đoan giữ kín; hoặc hỏi riêng về bao cao su và về tiêm ngừa HPV.",
+     "k": 1,
+     "y": "Bạn tình mới 5 tháng, dùng bao cao su không đều, chưa tiêm ngừa HPV"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Khí hư em ít, trong, không ngứa, không hôi. Không ra máu giữa kỳ kinh, không ra máu sau quan hệ, không đau bụng dưới, không đau khi quan hệ. Không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng gợi ý viêm hay ung thư cổ tử cung"
+    },
+    {
+     "id": "kinh",
+     "noi_dung": "Kinh em đều 28–30 ngày, ngày đầu kỳ vừa rồi cách đây ba tuần, đã sạch từ mười sáu ngày trước. Em dùng bao cao su để tránh thai, chưa từng mang thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kinh nguyệt đều, chưa có thai, biện pháp tránh thai"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Em có uống loratadin 10 mg khi nổi mề đay hoặc ngứa mũi vì bụi trên xe, mua ở nhà thuốc, chừng vài lần mỗi tháng, hôm nay chưa uống. Không dùng thuốc ngủ, không thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc dị ứng tự mua (loratadin)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra em chỉ muốn được truyền một chai cho nhẹ người, nằm nghỉ một chút. Em nghĩ có thuốc vào thì ngủ ngon, khỏi lo. Tờ Pap em đưa là tiện thể.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lý do thật: muốn được truyền dịch, nằm nghỉ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói nhanh, hơi mệt mỏi. Cao 160 cm, nặng 50 kg (BMI 19,5). Da niêm hồng, không nhợt, không phù, không vàng da, môi ẩm.",
+     "k": 1,
+     "hien": "Chị tỉnh táo, nói nhanh, mắt thâm quầng nhẹ; da niêm hồng, thể trạng gầy vừa."
+    },
+    "tim": {
+     "a": "Tim đều 72 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p. Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm, không đau hạ vị, không phản ứng thành bụng, không sờ thấy khối; gan lách không to.",
+     "k": 0,
+     "hien": "Bụng phẳng, mềm, chị không đau khi ấn."
+    },
+    "phu_khoa": {
+     "a": "Âm hộ bình thường. Mỏ vịt: khí hư ít, trong, không mùi. Cổ tử cung hồng, nhẵn, có vùng lộ tuyến nhỏ quanh lỗ ngoài; không loét, không khối sùi, không mủ nhầy ở ống cổ tử cung, chạm bông không chảy máu. Không máu trong âm đạo. Khám hai tay: tử cung kích thước bình thường, ngả trước, di động, không đau lắc cổ tử cung, hai phần phụ không khối, không đau.",
+     "k": 1,
+     "hien": "Chị đồng ý khám; thấy cổ tử cung hồng, nhẵn, khí hư ít và trong; khám hai tay chị không đau."
+    }
+   },
+   "cls": {
+    "pap_hpv": {
+     "v": "e",
+     "r": "Xét nghiệm HPV nguy cơ cao (điều dưỡng Linh phụ lấy mẫu bằng bàn chải cổ tử cung sau khi đặt mỏ vịt, chị không ra máu và không viêm âm đạo cấp): DƯƠNG TÍNH. Định týp từng phần: HPV 16 âm tính, HPV 18 âm tính, nhóm 12 týp nguy cơ cao khác dương tính (chưa định týp mở rộng). Tế bào học mang theo (nhúng dịch, 8 ngày trước): ASC-US, mẫu đạt.",
+     "ab": 1,
+     "n": "ASC-US phải làm xét nghiệm HPV kèm theo (ASCCP 2019, mục Kết luận, 'Reflex testing'; QĐ 3792/2024, Phần 5 mục 1.2.1 nêu phân tầng nguy cơ bằng xét nghiệm HPV, tế bào học, soi cổ tử cung). Lấy mẫu khi không viêm âm đạo cấp, không ra máu (QĐ 3792/2024, Phần 3 mục 3.1.2) nên phải khám trước. HPV dương + ASC-US: nguy cơ CIN3+ tức thời khoảng 4,2% ≥ ngưỡng 4% nên soi cổ tử cung (ASCCP 2019, mục E.2, Hình 2; QĐ 3792/2024, Phần 4 mục 1.2)."
+    },
+    "soi_huyet_trang": {
+     "v": "u",
+     "r": "Soi tươi dịch âm đạo - cổ tử cung: bạch cầu ít (dưới 10/vi trường 400), không thấy Trichomonas, không tế bào đầu mối, KOH không sợi nấm.",
+     "n": "Loại viêm cổ tử cung/âm đạo cấp. Viêm cổ tử cung có hai dấu chính: mủ nhầy ống cổ tử cung hoặc chảy máu kéo dài khi chạm bông nhẹ; không có bạch cầu > 10/vi trường thì viêm cổ tử cung ít khả năng (CDC STI 2021, mục Cervicitis; QĐ 315/2015, Tổn thương lành tính CTC, mục 2.1.1, 2.2)."
+    },
+    "naat_sti": {
+     "v": "a",
+     "r": "NAAT Chlamydia trachomatis và Neisseria gonorrhoeae (mẫu cổ tử cung): âm tính cả hai.",
+     "n": "Chấp nhận được: nữ ≥ 25 tuổi có bạn tình mới nên tầm soát chlamydia (CDC STI 2021, mục Chlamydial Infections). Không bắt buộc vì không có dấu hiệu viêm cổ tử cung."
+    },
+    "test_thai": {
+     "v": "u",
+     "r": "Que thử thai nước tiểu (điều dưỡng Linh làm tại giường): ÂM TÍNH.",
+     "n": "Thai kỳ hạn chế can thiệp tổn thương cổ tử cung (QĐ 3792/2024, Phần 5 mục 1.2.2, lưu ý; Phần 4 mục 2.2.2)."
+    },
+    "cxr": {
+     "n": "Không có máy X-quang và cũng không có chỉ định: không triệu chứng hô hấp, không nghi ung thư xâm lấn. Nếu sau này là ung thư xâm lấn thì đánh giá lan rộng bằng MRI, PET-CT ở tuyến trên (QĐ 315/2015, Ung thư CTC, mục 2.2.4)."
+    },
+    "soi_ctc": {
+     "n": "Hẹn làm ở lượt sau, tránh ngày hành kinh vì máu che tầm nhìn (QĐ 3792/2024, Phần 4 mục 1.3 bước 4). Thời hạn tối đa phải soi: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tế bào học cổ tử cung bất thường: ASC-US, HPV nguy cơ cao dương tính (không phải 16/18), chưa có mô bệnh học; nguy cơ CIN3+ tức thời khoảng 4,2% nên cần soi cổ tử cung",
+     "ok": 1,
+     "n": "Pap ASC-US + HPV(+) là chỉ định soi cổ tử cung (QĐ 3792/2024, Phần 4 mục 1.2; ASCCP 2019, mục E.2, Hình 2). Đây đã là kết quả bất thường nên xử trí theo nguy cơ chứ không theo chu kỳ sàng lọc thường quy. Mức tăng nguy cơ do Pap LSIL cũ chưa xử trí: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mất ngủ, mệt mỏi liên quan stress công việc, chưa thấy nguyên nhân thực thể",
+     "ok": 1,
+     "n": "Khởi phát sau sự cố công việc, sinh hiệu ổn, khám không bất thường. Hướng dẫn về mất ngủ do stress: không có trong tài liệu đã tải (nhận định lâm sàng). Stress gây tế bào bất thường: không có trong tài liệu đã tải; nguyên nhân là nhiễm HPV nguy cơ cao (QĐ 3792/2024, Phần 1 mục 2)."
+    },
+    {
+     "t": "Viêm cổ tử cung (nguyên nhân 'hơi viêm' theo lời bác sĩ khám công ty)",
+     "n": "Loại trừ: không mủ nhầy ống cổ tử cung, không chảy máu khi chạm bông, khí hư ít và trong, bạch cầu ít, NAAT âm tính (CDC STI 2021, mục Cervicitis; QĐ 315/2015, Tổn thương lành tính CTC, mục 2.1.1). Cervicitis kéo dài còn có thể do loạn sản ở vùng lộ tuyến (CDC STI 2021, mục Cervicitis, Etiology) nên 'viêm' không được dùng làm lý do bỏ qua HPV và soi."
+    },
+    {
+     "t": "Ung thư cổ tử cung",
+     "n": "Chưa thấy dấu hiệu: không ra máu bất thường hoặc sau giao hợp, cổ tử cung nhẵn không khối sùi (QĐ 315/2015, Ung thư CTC, mục 2.1). Giai đoạn tại chỗ nghèo triệu chứng nên cần soi và mô bệnh học mới loại hẳn (mục 2.3). Tiến triển từ HPV đến ung thư thường mất khoảng 10–20 năm (QĐ 3792/2024, Phần 1 mục 3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: Pap ASC-US kèm HPV nguy cơ cao dương tính chưa phải ung thư nhưng cần soi cổ tử cung; nguyên nhân là HPV, không phải 'viêm' hay stress",
+     "v": "c",
+     "n": "Phần lớn tổn thương do HPV tự thoái triển sau khoảng 1–3 năm; nếu HPV nguy cơ cao tồn tại kèm yếu tố nguy cơ thì tiến triển trong 10–20 năm (QĐ 3792/2024, Phần 1 mục 3). Yếu tố nguy cơ: nhiều bạn tình, hút thuốc lá, nhiễm khuẩn lây qua đường tình dục (Phần 1 mục 2)."
+    },
+    {
+     "t": "Hẹn soi cổ tử cung (kèm sinh thiết nếu bất thường) sau khi sạch kinh, ngày giờ cụ thể phù hợp lịch tour; không chờ lặp Pap",
+     "v": "c",
+     "n": "HPV(+) với ASC-US: nguy cơ CIN3+ 4,2% ≥ 4% nên soi (ASCCP 2019, mục E.2, Hình 2; QĐ 3792/2024, Phần 4 mục 1.2). Cơ sở đủ điều kiện ưu tiên phân tầng nguy cơ (Phần 5 mục 1.2.1, 1.3). Chị từng bỏ hẹn nên cần hẹn cụ thể; cách nhắc hẹn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không truyền dịch, vitamin; giải thích vì sao và hướng dẫn ngủ, nghỉ, không dùng thuốc ngủ",
+     "v": "c",
+     "n": "Không tài liệu đã tải nào chỉ định truyền dịch cho mệt mỏi, mất ngủ khi ăn uống được và sinh hiệu ổn (theo mục ghi nhận 'truyền dịch theo yêu cầu' trong sổ mâu thuẫn). Hướng dẫn giấc ngủ cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn bỏ thuốc lá, quan hệ tình dục an toàn (bao cao su), vắc xin HPV",
+     "v": "c",
+     "n": "Dự phòng cấp 1: quan hệ tình dục an toàn, tránh hút thuốc lá (QĐ 3792/2024, Phần 1 mục 5.2.1); vắc xin HPV có tác dụng ở nữ 9–45 tuổi (Phần 2 mục 2.3). Hiệu quả khi đã có tổn thương: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh hoặc đặt thuốc phụ khoa chữa 'viêm cổ tử cung' theo kết quả Pap",
+     "v": "w",
+     "n": "Không có dấu hiệu viêm cổ tử cung và NAAT âm tính (CDC STI 2021, mục Cervicitis); HPV không có thuốc đặc hiệu, đa số tự thoái triển (QĐ 3792/2024, Phần 1 mục 3)."
+    },
+    {
+     "t": "Hẹn lặp Pap sau 6–12 tháng, không làm HPV, không soi",
+     "v": "w",
+     "n": "ASC-US phải làm HPV kèm theo; HPV dương thì soi cổ tử cung (ASCCP 2019, mục E.2; mục Kết luận, 'Reflex testing')."
+    },
+    {
+     "t": "Đốt điện, laser hoặc cắt cổ tử cung ngay vì HPV dương khi chưa có soi và mô bệnh học",
+     "v": "w",
+     "n": "Điều trị tức thời chỉ khi nguy cơ CIN3+ ≥ 25–60% (ASCCP 2019, mục E.3), chị khoảng 4,2%. 'Sàng lọc và điều trị' dành cho nơi hạn chế soi và mô bệnh học (QĐ 3792/2024, Phần 5 mục 1.2.2); phòng khám này có soi, sinh thiết."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Pap ASC-US, HPV nguy cơ cao dương tính (không phải 16/18), nguy cơ CIN3+ tức thời khoảng 4,2%: chỉ định soi cổ tử cung",
+     "Yếu tố nguy cơ: hút thuốc lá, bạn tình mới và bao cao su không đều, chưa tiêm ngừa HPV, Pap LSIL cách đây 2,5 năm chưa được soi",
+     "Loại trừ viêm cổ tử cung (khám, soi tươi, NAAT); chưa có dấu hiệu ung thư, chờ soi và sinh thiết",
+     "Mất ngủ, mệt mỏi do stress công việc; lý do thật: muốn truyền dịch; viêm mũi dị ứng, dùng loratadin khi cần",
+     "Hướng xử trí: cho về, hẹn soi cổ tử cung sau sạch kinh"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: nghe lý do (mệt, mất ngủ, xin truyền dịch) → xin xem tờ kết quả → hỏi riêng từng việc về Pap cũ, hút thuốc, quan hệ tình dục, kinh nguyệt, ra máu, khí hư (không phán xét, hỏi lại lần hai) → khám toàn thân, phụ khoa bằng mỏ vịt và hai tay → soi tươi, HPV (sau khi loại viêm cấp, ra máu), có thể NAAT, thử thai → chẩn đoán → xử trí.",
+     "Pap ASC-US ở tuổi ≥ 25: làm HPV kèm theo; HPV(+) là chỉ định soi (ASCCP 2019, mục E.2, Hình 2; QĐ 3792/2024, Phần 4 mục 1.2). Tiền sử LSIL bị bỏ qua là mảnh bệnh sử quan trọng, chỉ lộ khi không bị phán xét.",
+     "Bẫy nhẹ: lời 'hơi viêm thôi' dễ dẫn đến kháng sinh; viêm cổ tử cung chỉ nghĩ khi có mủ nhầy hoặc chảy máu khi chạm (CDC STI 2021, mục Cervicitis).",
+     "Tuổi và tần suất sàng lọc có hai cách ghi do năm, bằng chứng, nguồn lực khác nhau: HPV mỗi 5 năm từ 25 tuổi hoặc tế bào học mỗi 3 năm từ 21 tuổi (QĐ 3792/2024, Phần 3 mục 2; ACS 2025, phần Giới thiệu); tế bào học mỗi 3 năm ở 21–29 tuổi (USPSTF 2018, mức A); bắt đầu từ 30 tuổi (WHO 2021, khuyến cáo 5, 8). Chị đã có Pap bất thường nên xử trí theo nguy cơ."
+    ],
+    "phan_tich_xu_tri": [
+     "Không truyền dịch: chị ăn uống được, sinh hiệu ổn; không tài liệu đã tải chỉ định. Nói thẳng, tôn trọng nhu cầu nghỉ ngơi và hướng sang việc có lợi (ngủ, nghỉ, giảm thuốc lá).",
+     "Không kháng sinh, không đốt hay cắt: nguy cơ 4,2% đủ ngưỡng soi chứ chưa đủ ngưỡng điều trị (ASCCP 2019, mục E.2, E.3).",
+     "Sai nguy hiểm nhất: coi là 'viêm' rồi cho về, hoặc hẹn lặp Pap một năm sau, khi chị có hai lần bất thường mà một lần chưa được xử trí."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc mới (không truyền dịch, không kháng sinh, không thuốc ngủ)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "HPV không có thuốc đặc hiệu, đa số tự thoái triển (QĐ 3792/2024, Phần 1 mục 3); không có viêm cổ tử cung (CDC STI 2021, mục Cervicitis). Loratadin 10 mg khi cần: giữ nguyên, đang dùng."
+     }
+    ],
+    "dan_do": [
+     "Chị chưa bị ung thư. Cần soi cổ tử cung để xem trực tiếp; phần lớn tổn thương do HPV tự lành sau khoảng 1–3 năm (QĐ 3792/2024, Phần 1 mục 3).",
+     "Hẹn soi sau khi sạch kinh vài ngày, chọn ngày chị chắc chắn ở nhà; đổi lịch thì nhắn phòng khám. Bác sĩ không trách chuyện lần trước, nhưng lần này rất cần chị quay lại.",
+     "Hạn chế rồi bỏ thuốc lá; dùng bao cao su đều; nói với bạn trai về việc đi khám; hỏi tiêm vắc xin HPV (QĐ 3792/2024, Phần 2 mục 2.3).",
+     "Ngủ đủ, ăn đúng bữa, không tự mua thuốc ngủ; nếu một tuần nữa vẫn mất ngủ nặng hoặc có sụt cân, hồi hộp thì khám lại. Truyền dịch không giúp ngủ ngon hơn.",
+     "Quay lại ngay nếu ra máu âm đạo bất thường hoặc sau quan hệ, đau bụng dưới, khí hư hôi hoặc ra mủ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · hẹn soi cổ tử cung (hai tuần sau)",
+   "tiep_don": "Chị Diệp quay lại đúng hẹn, sau lượt trước hai tuần (đã được giải thích kết quả HPV, hẹn soi cổ tử cung, không truyền dịch). Chị nói ngủ đỡ khoảng một nửa so với trước nhưng chưa hết mệt chiều, và còn run vì sợ soi. Kinh vừa sạch hai ngày trước. Sinh hiệu lúc tiếp đón: mạch 70 l/p, HA 105/65 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Bác sĩ thấy tổn thương 'nhẹ' nên không sinh thiết, chỉ hẹn soi lại sau 6 tháng. Chị có HPV dương nên không thuộc nhóm nguy cơ thấp nhất; chỉ được bỏ qua sinh thiết khi hình ảnh soi hoàn toàn bình thường, còn ở đây có vùng trắng, nên phải sinh thiết định hướng 2–4 mảnh (ASCCP 2019, mục H.1). Bỏ sinh thiết có thể bỏ sót CIN2+: ngay cả khi hình ảnh soi hoàn toàn bình thường ở nhóm nguy cơ thấp nhất, nguy cơ CIN2+ ẩn vẫn 1–7% (ASCCP 2019, mục H.1), mà chị lại hay mất theo dõi.",
+    "chuyen_tuyen": "Chị Diệp bị chuyển lên tuyến trên chỉ để làm sinh thiết. QĐ 3792/2024, Phần 6 mục 3.2 chỉ chuyển khi nghi ngờ ung thư hoặc không đủ điều kiện; phòng khám có soi và sinh thiết (Phần 4 mục 2.1), soi không thấy sùi loét. Chị phải chờ lịch thêm một đến hai tuần, nghĩ mình bị ung thư, và nguy cơ bỏ cuộc giữa chừng cao hơn."
+   },
+   "loi_mo": "Dạ em đến đúng hẹn nè bác sĩ. Em ngủ được hơn trước, chừng 5 tiếng, mà chiều vẫn mệt, tay chân rã rời. Soi cổ tử cung có đau không bác sĩ, có phải cắt gì không? Em lo quá. Hay là bác sĩ cho em truyền chai nước biển xong rồi mình làm, cho em đỡ run?",
+   "sinh_hieu": {
+    "mach": 70,
+    "ha": "105/65",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Em đến soi cổ tử cung như bác sĩ hẹn. Em lo, hỏi có đau không và xin truyền dịch cho đỡ run.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: soi cổ tử cung theo hẹn; vẫn nhắc xin truyền dịch"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ hôm khám trước em cố ngủ sớm, nay được chừng 5 tiếng, thức giấc lúc 4 giờ sáng là nhớ chuyện công ty. Đỡ mệt hơn trước một nửa nhưng chiều vẫn mệt. Em chưa đi tour, xin nghỉ phép được 10 ngày. Em vẫn hút thuốc nhưng giảm còn chừng 3–4 điếu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mệt, mất ngủ đỡ một phần; hút thuốc giảm chưa bỏ"
+    },
+    {
+     "id": "ra_mau",
+     "noi_dung": "Cách đây khoảng mười ngày, sau lần quan hệ, em thấy dính ít máu hồng trên giấy một lần rồi hết. Em không nói lần trước vì nghĩ chuyện nhỏ, sợ bác sĩ bảo là ung thư.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'dạo này có gì mới không' thì chị đáp 'không có gì'. Chỉ kể khi bác sĩ hỏi cụ thể lại về ra máu: giữa kỳ kinh, sau quan hệ, sau lần khám trước; giải thích vì sao phải hỏi lại và nói rõ ra máu sau quan hệ có thể do lộ tuyến.",
+     "k": 1,
+     "y": "Ra ít máu hồng sau quan hệ một lần, cách đây 10 ngày"
+    },
+    {
+     "id": "kinh",
+     "noi_dung": "Kinh vừa sạch cách đây hai ngày, như mọi tháng. Em chưa quan hệ từ lúc sạch kinh, dùng bao cao su khi có quan hệ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngày chu kỳ, chưa quan hệ sau sạch kinh"
+    },
+    {
+     "id": "bat_thuong",
+     "noi_dung": "Không đau bụng dưới, không đau khi quan hệ, khí hư không đổi, không sốt, không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không triệu chứng khác"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Vẫn chỉ loratadin 10 mg, hai lần trong hai tuần vì bụi, không dùng thuốc ngủ. Không dị ứng thuốc, không dị ứng latex.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc, dị ứng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, đỡ mệt mỏi hơn lần trước, hơi run tay vì lo lắng. Da niêm hồng, không nhợt.",
+     "k": 0,
+     "hien": "Chị tỉnh táo, tay hơi run, da niêm hồng."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau hạ vị.",
+     "k": 0,
+     "hien": "Bụng mềm, chị không đau khi ấn."
+    },
+    "phu_khoa": {
+     "a": "Mỏ vịt: cổ tử cung hồng, nhẵn, lộ tuyến nhỏ quanh lỗ ngoài (khoảng 1 cm), chạm bông ở vùng lộ tuyến hơi rỉ máu hồng nhạt; không loét, không khối sùi, không mủ nhầy ở ống cổ tử cung; khí hư ít, trong. Khám hai tay: tử cung bình thường, không đau lắc, phần phụ không khối.",
+     "k": 1,
+     "hien": "Chị hơi căng thẳng khi đặt mỏ vịt; thấy cổ tử cung hồng, nhẵn, có vùng lộ tuyến nhỏ chạm vào hơi rỉ máu hồng."
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "u",
+     "r": "Que thử thai nước tiểu (điều dưỡng Linh làm tại giường): ÂM TÍNH.",
+     "n": "Thử trước thủ thuật: thai kỳ hạn chế can thiệp và không nạo ống cổ tử cung (QĐ 3792/2024, Phần 4 mục 2.2.2; Phần 5 mục 1.2.2, lưu ý)."
+    },
+    "soi_ctc": {
+     "v": "e",
+     "r": "Soi cổ tử cung (thang IFCPC 2011): đánh giá tổng quát đạt, thấy toàn bộ ranh giới lát – trụ, vùng chuyển tiếp týp 1. Sau acid acetic 3–5%: vùng biểu mô trắng mỏng, bờ không đều dạng bản đồ ở 11–1 giờ cạnh ranh giới lát – trụ, kèm lát đá mịn và chấm đáy mịn rải rác. Test Lugol: vùng trắng bắt iod lốm đốm. Không mạch máu không điển hình, không loét, không sùi. Lộ tuyến nhỏ quanh lỗ ngoài, chạm bông rỉ máu nhẹ. Kết luận hình ảnh: thay đổi độ 1 (nhẹ), không nghi xâm lấn.",
+     "ab": 1,
+     "n": "Chỉ định (QĐ 3792/2024, Phần 4 mục 1.2); acid acetic, Lugol (mục 1.3 bước 7, 10); IFCPC 2011 độ 1: lát đá mịn, chấm đáy mịn, biểu mô trắng mỏng, bờ không đều (Bảng 4.1). Lát đá, chấm đáy, vết trắng, vùng không bắt iod là hình ảnh bất thường cần sinh thiết (QĐ 315/2015, Ung thư CTC, mục 2.2.1)."
+    },
+    "sinh_thiet_ctc": {
+     "v": "e",
+     "r": "Sinh thiết định hướng bằng kìm: hai mảnh (một ở vùng trắng 12 giờ, một ở ranh giới lát – trụ 11 giờ), cố định formol 10%, gửi giải phẫu bệnh; chảy máu ít, cầm bằng Monsel và gạc ép. Không nạo ống cổ tử cung vì thấy toàn bộ tổn thương và vùng chuyển tiếp týp 1. Kết quả hẹn trả sau vài ngày.",
+     "n": "HPV dương, có vùng trắng nên không thuộc nhóm nguy cơ thấp nhất: sinh thiết định hướng tối thiểu 2, tối đa 4 mảnh vào các vùng trắng (ASCCP 2019, mục H.1); hai mảnh, một ở ranh giới lát – trụ, một ở giữa tổn thương (QĐ 315/2015, Ung thư CTC, mục 2.2.3). Formol 10% hoặc cồn 96°, cầm máu bằng gạc hoặc Monsel (QĐ 3792/2024, Phần 4 mục 1.3, 2.1.3). Nạo ống cổ tử cung chấp nhận khi thấy tổn thương (ASCCP 2019, mục H.1). Số ngày trả kết quả: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hình ảnh soi cổ tử cung thay đổi độ 1 (nghi CIN 1) tại 11–1 giờ, chờ mô bệnh học",
+     "ok": 1,
+     "n": "Biểu mô trắng mỏng, lát đá mịn, chấm đáy mịn, bờ không đều là thay đổi độ 1 (QĐ 3792/2024, Phần 4, Bảng 4.1); hình ảnh nhẹ vẫn không loại trừ CIN2+ nên cần mô bệnh học (ASCCP 2019, mục H.1)."
+    },
+    {
+     "t": "Lộ tuyến cổ tử cung nhỏ, dễ rỉ máu khi chạm, giải thích ra máu sau quan hệ",
+     "ok": 1,
+     "n": "Lộ tuyến hẹp không triệu chứng không cần điều trị (QĐ 315/2015, Tổn thương lành tính CTC, mục 3.1). Ra máu sau giao hợp cũng là dấu hiệu ung thư xâm lấn nên chỉ coi là lành tính khi soi không sùi loét và có mô bệnh học (QĐ 315/2015, Ung thư CTC, mục 2.1)."
+    },
+    {
+     "t": "Ung thư cổ tử cung xâm lấn",
+     "n": "Loại trừ trên lâm sàng và soi: không khối sùi, loét sâu, mạch máu không điển hình (QĐ 315/2015, Ung thư CTC, mục 2.1, 2.2.1; QĐ 3792/2024, Bảng 4.1). Chờ mô bệnh học. Nếu xâm lấn thì chuyển tuyến chuyên sâu (QĐ 3792/2024, Phần 6 mục 3.2), đánh giá lan rộng bằng MRI, PET-CT (QĐ 315/2015, mục 2.2.4); phòng khám không có X-quang, CT."
+    },
+    {
+     "t": "Viêm cổ tử cung",
+     "n": "Không mủ nhầy ống cổ tử cung, bạch cầu ít, NAAT âm tính; rỉ máu khi chạm ở lộ tuyến chưa đủ chẩn đoán viêm (CDC STI 2021, mục Cervicitis)."
+    },
+    {
+     "t": "CIN 2–3 (HSIL) đã có sẵn",
+     "n": "Soi không khẳng định hay loại trừ được; cần mô bệnh học (ASCCP 2019, mục H.1). Nếu CIN 2/3 thì điều trị (QĐ 3792/2024, Phần 5 mục 1.1; ASCCP 2019, mục I.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích soi và sinh thiết trước khi làm, xin đồng ý; cho chị hít thở sâu, nằm nghỉ thay vì truyền dịch",
+     "v": "c",
+     "n": "Báo trước có thể khó chịu, giảm đau bằng thuốc tê tại chỗ nếu cần (QĐ 3792/2024, Phần 4 mục 1.3 bước 11). Không tài liệu đã tải chỉ định truyền dịch cho lo lắng trước thủ thuật."
+    },
+    {
+     "t": "Sinh thiết định hướng 2–4 mảnh vào các vùng trắng (gồm một mảnh ở ranh giới lát – trụ), cố định formol 10%, gửi giải phẫu bệnh",
+     "v": "c",
+     "n": "Tối thiểu 2, tối đa 4 mảnh (ASCCP 2019, mục H.1); hai mảnh gồm ranh giới lát – trụ và giữa tổn thương (QĐ 315/2015, Ung thư CTC, mục 2.2.3); formol 10% (QĐ 3792/2024, Phần 4 mục 2.1.3 bước 3). Hai nguồn khác số mảnh vì ASCCP tính theo số vùng trắng, QĐ 315/2015 nêu tổn thương một ổ; chị một ổ nên hai mảnh đủ."
+    },
+    {
+     "t": "Cầm máu tại chỗ, dặn sau sinh thiết và hẹn ngày lấy kết quả mô bệnh học",
+     "v": "c",
+     "n": "Chảy máu có thể nhét gạc rút sau 12 giờ hoặc bôi Monsel (QĐ 3792/2024, Phần 4 mục 1.3 bước 11). Thời gian kiêng quan hệ, đặt thuốc sau sinh thiết: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chưa điều trị tổn thương (đốt, laser, cắt) trong buổi này, chờ mô bệnh học",
+     "v": "c",
+     "n": "Laser cho CIN2/3 đã có mô bệnh học hoặc CIN1 tồn tại ≥ 2 năm (QĐ 3792/2024, Phần 5 mục 2.1.2.1); điều trị tức thời không sinh thiết chỉ khi nguy cơ ≥ 25% (ASCCP 2019, mục E.3), chị khoảng 4,2%."
+    },
+    {
+     "t": "Truyền dịch trước thủ thuật cho chị 'đỡ run'",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải; chị không mất nước, sinh hiệu ổn."
+    },
+    {
+     "t": "Không sinh thiết vì hình ảnh 'chỉ nhẹ', hẹn soi lại sau 6 tháng",
+     "v": "w",
+     "n": "Chị HPV dương và có vùng trắng, không thuộc nhóm không cần sinh thiết (ASCCP 2019, mục H.1)."
+    },
+    {
+     "t": "Cắt hoặc khoét chóp ngay tại phòng khám",
+     "v": "h",
+     "n": "Cắt khi chưa có mô bệnh học và nguy cơ chỉ ~4,2% là quá mức, ảnh hưởng thai kỳ sau (ASCCP 2019, mục I.3, rationale)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Soi cổ tử cung thay đổi độ 1 (nghi CIN 1) ở 11–1 giờ, vùng chuyển tiếp týp 1, soi đạt; đã sinh thiết hai mảnh, chờ mô bệnh học",
+     "Lộ tuyến cổ tử cung nhỏ rỉ máu khi chạm, giải thích ra máu sau quan hệ; chưa thấy ung thư xâm lấn trên soi",
+     "Mất ngủ, mệt mỏi đỡ một phần sau khi bớt stress; hút thuốc giảm, chưa bỏ",
+     "Hướng xử trí: sinh thiết tại chỗ, cho về, hẹn lấy kết quả"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi diễn tiến (ngủ, mệt đã đỡ hơn một nửa) và hỏi lại cụ thể về ra máu, quan hệ vì lần trước chị chưa nói hết → ngày chu kỳ, thử thai → khám phụ khoa → soi với acid acetic và Lugol → sinh thiết định hướng → chẩn đoán tạm → xử trí.",
+     "Đỡ một phần không phải thất bại điều trị: mệt, mất ngủ chưa dùng thuốc nào để 'thất bại'; chỉ giảm một nửa khi bớt stress. Cần hỏi lại triệu chứng báo động (ra máu, đau chậu, sụt cân), không chỉ hỏi 'đỡ chưa'.",
+     "Ra ít máu sau quan hệ cần để ý vì có thể gặp ở ung thư xâm lấn (QĐ 315/2015, Ung thư CTC, mục 2.1); ở chị soi thấy lộ tuyến rỉ máu, không sùi loét, nhiều khả năng lành tính, vẫn cần mô bệnh học.",
+     "Hình ảnh nhẹ vẫn phải sinh thiết khi HPV dương (ASCCP 2019, mục H.1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Sinh thiết 2–4 mảnh định hướng, gửi giải phẫu bệnh; chưa điều trị vì chưa có mô bệnh học và nguy cơ CIN3+ tức thời khoảng 4,2% (ASCCP 2019, mục E.2, E.3).",
+     "Không truyền dịch dù chị xin lần nữa: nói tử tế, giải thích từng bước thủ thuật.",
+     "Hẹn lấy kết quả theo ngày cụ thể trước chuyến đi, ghi số điện thoại của chị."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc (không kháng sinh, không thuốc giảm đau thường quy)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Sau sinh thiết chỉ cần cầm máu tại chỗ bằng gạc hoặc Monsel (QĐ 3792/2024, Phần 4 mục 1.3 bước 11); thuốc giảm đau sau sinh thiết: không có trong tài liệu đã tải. Loratadin khi cần: giữ nguyên, đang dùng."
+     }
+    ],
+    "dan_do": [
+     "Có thể ra ít máu hồng hoặc dịch nâu đen (từ thuốc cầm máu) vài ngày; ra máu nhiều, sốt, đau bụng dưới, dịch hôi thì quay lại ngay (thời gian bình thường: không có trong tài liệu đã tải).",
+     "Chưa quan hệ, chưa đặt thuốc âm đạo cho đến khi được cho phép (thời gian cụ thể: không có trong tài liệu đã tải).",
+     "Quay lại lấy kết quả đúng hẹn, kể cả khi thấy khỏe; mang theo tờ hẹn.",
+     "Giữ giờ ngủ đều, giảm tiếp thuốc lá; mất ngủ nặng hơn, hồi hộp, sụt cân thì khám lại."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · nhận kết quả giải phẫu bệnh (một tuần sau)",
+   "tiep_don": "Một tuần sau sinh thiết, chị Diệp đến lấy kết quả. Phiếu giải phẫu bệnh: cổ tử cung hai mảnh, hình ảnh tổn thương trong biểu mô vảy độ thấp (LSIL, CIN 1) kèm dấu hiệu nhiễm HPV, không có tổn thương nội biểu mô vảy độ cao (CIN 2–3), không có ung thư xâm lấn. Chị nói ngủ được 6 tiếng nhưng vẫn thức giấc sớm, bớt mệt nhiều, hút thuốc còn vài điếu. Ngày kia chị lại phải dẫn đoàn đi 12 ngày. Sinh hiệu lúc tiếp đón: mạch 68 l/p, HA 105/65 mmHg, nhiệt độ 36,6 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chị Diệp bị chuyển lên bệnh viện chuyên khoa để cắt cổ tử cung bằng vòng điện (LEEP) vì sợ 'để lại ung thư'. CIN 1 thoái triển cao, nhất là ở người trẻ, và chỉ cân nhắc điều trị khi CIN 1 tồn tại ≥ 2 năm hoặc người bệnh khó tuân thủ (ASCCP 2019, mục I.5; QĐ 3792/2024, Phần 5 mục 1.1). Chị chịu thủ thuật không cần thiết, ảnh hưởng thai kỳ sau (ASCCP 2019, mục I.3, rationale), tốn thời gian ngay lúc phải đi tour.",
+    "nhap_vien": "Chị Diệp được nhập viện làm thủ thuật cắt đốt ngay trong tuần để 'dứt điểm'. Điều trị đốt hay cắt cho CIN 1 mới chẩn đoán lần đầu là quá mức khi chưa tồn tại ≥ 2 năm (ASCCP 2019, mục I.5); chị mất nhiều ngày công, chịu biến chứng chảy máu, nhiễm trùng của thủ thuật, và vẫn phải xét nghiệm HPV theo dõi sau điều trị."
+   },
+   "loi_mo": "Dạ em lấy kết quả nè bác sĩ. Em đọc không hiểu hết, thấy chữ 'độ thấp' với 'không ung thư' mà em vẫn sợ. Có phải đốt hay cắt gì không bác sĩ? Ngày kia em đi tour mười hai ngày rồi, mà nằm viện thì em không cách nào được. Em ngủ đỡ hơn, đỡ mệt nhiều, chỉ còn thức sớm thôi.",
+   "sinh_hieu": {
+    "mach": 68,
+    "ha": "105/65",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Em đến lấy kết quả sinh thiết, không hiểu hết, muốn biết có phải đốt hay cắt không. Ngày kia em đi tour 12 ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: nhận kết quả, hỏi có phải điều trị"
+    },
+    {
+     "id": "ket_qua",
+     "noi_dung": "Phiếu giải phẫu bệnh: hai mảnh sinh thiết cổ tử cung là tổn thương nội biểu mô vảy độ thấp (LSIL, CIN 1) kèm biến đổi do HPV; không CIN 2–3, không ung thư xâm lấn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Mô bệnh học: CIN 1, không CIN 2–3, không xâm lấn"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Em ngủ chừng 6 tiếng, vẫn thức dậy lúc 4–5 giờ sáng rồi khó ngủ lại. Mệt đỡ nhiều, chiều chỉ còn hơi uể oải. Em hút thuốc còn 2–3 điếu, đang cố bỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỡ một phần: ngủ 6 giờ, thức sớm; thuốc lá giảm"
+    },
+    {
+     "id": "sau_sinh_thiet",
+     "noi_dung": "Sau sinh thiết em ra máu hồng ít 3–4 ngày rồi hết; chưa quan hệ lại; không sốt, không đau bụng, không khí hư hôi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Sau sinh thiết, không biến chứng"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Thành thật là lần trước em sợ nên bỏ hẹn soi, nhưng lần này em đã làm đủ. Đi tour thì em khó hẹn giờ được, tháng nào cũng đi 3–4 chuyến, nhưng em có thể thu xếp một ngày trong năm nếu bác sĩ nhắn trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử bỏ hẹn; khả năng thu xếp tái khám hằng năm"
+    },
+    {
+     "id": "hpv_vacxin",
+     "noi_dung": "Em chưa tiêm ngừa HPV, nhưng nghe nói tiêm cho người đã nhiễm cũng có lợi. Bạn trai em chưa đi khám, vẫn dùng bao cao su không đều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chưa tiêm vắc xin; bạn tình chưa khám"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Em hết xin truyền dịch rồi, nghỉ được mấy hôm em thấy đỡ. Giờ em chỉ muốn biết mình có ung thư không.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không còn đòi truyền dịch; lo ung thư"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tươi tỉnh hơn lần trước, da niêm hồng, mắt bớt thâm quầng.",
+     "k": 0,
+     "hien": "Chị tươi tỉnh hơn, da niêm hồng."
+    },
+    "phu_khoa": {
+     "a": "Mỏ vịt: cổ tử cung hồng, nhẵn, vết sinh thiết ở 11–12 giờ đã lành một phần, không chảy máu, không mủ. Khám hai tay: tử cung bình thường, không đau, phần phụ không khối.",
+     "k": 1,
+     "hien": "Chị nằm thoải mái; vết sinh thiết đã lành, không chảy máu, cổ tử cung nhẵn."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau.",
+     "k": 0,
+     "hien": "Bụng mềm, chị không đau."
+    }
+   },
+   "cls": {
+    "pap_hpv": {
+     "n": "Chưa làm lại lúc này; HPV đã dương, mô bệnh học đã có. Xét nghiệm HPV (hoặc đồng xét nghiệm) làm lại sau 12 tháng (ASCCP 2019, mục E.1, Hình 2). Mẫu nên do nhân viên y tế lấy; nếu không thể thì mẫu tự lấy ở âm đạo chấp nhận được sau khi cùng quyết định (TL-0616, JLGTD 2025;29:144–152, Khuyến cáo 6)."
+    },
+    "test_thai": {
+     "v": "a",
+     "r": "Que thử thai nước tiểu: ÂM TÍNH.",
+     "n": "Chấp nhận được; không đổi xử trí CIN 1."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tổn thương nội biểu mô vảy độ thấp cổ tử cung (LSIL, CIN 1) có nhiễm HPV nguy cơ cao (không 16/18), sau Pap ASC-US; không CIN 2–3, không ung thư xâm lấn",
+     "ok": 1,
+     "n": "Mô bệnh học là chẩn đoán xác định (QĐ 315/2015, Ung thư CTC, mục 2.2.3). CIN 1 là biểu hiện mô học của nhiễm HPV, sinh học tương đương ASC-US/HPV dương và LSIL nên xử trí giống nhau (ASCCP 2019, mục I.5, rationale)."
+    },
+    {
+     "t": "Ung thư cổ tử cung",
+     "n": "Loại trừ: mô bệnh học hai mảnh không có xâm lấn, lâm sàng và soi không nghi ngờ (QĐ 315/2015, Ung thư CTC, mục 2.3). Không cần MRI, PET-CT; phòng khám không có X-quang, CT."
+    },
+    {
+     "t": "Viêm cổ tử cung",
+     "n": "Loại trừ từ các lượt trước (không mủ nhầy, bạch cầu ít, NAAT âm tính; CDC STI 2021, mục Cervicitis)."
+    },
+    {
+     "t": "Mất ngủ liên quan stress công việc, đã đỡ một phần",
+     "ok": 1,
+     "n": "Ngủ 6 giờ, mệt đã đỡ nhiều; chưa cần thuốc. Hướng dẫn mất ngủ do stress: không có trong tài liệu đã tải (nhận định lâm sàng)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích CIN 1 là biểu hiện nhẹ của nhiễm HPV, thường tự thoái triển, chưa phải ung thư, chưa cần đốt hay cắt",
+     "v": "c",
+     "n": "Phần lớn tổn thương do HPV tự thoái triển sau khoảng 1–3 năm (QĐ 3792/2024, Phần 1 mục 3); CIN 1 thoái triển cao, nhất là ở người trẻ (ASCCP 2019, mục I.5, rationale)."
+    },
+    {
+     "t": "Theo dõi bằng xét nghiệm HPV (hoặc đồng xét nghiệm) sau 12 tháng, không điều trị ngay; hoặc, nếu khó bảo đảm tái khám, điều trị tổn thương (đốt, laser, cắt) sau khi bàn với chị",
+     "v": "c",
+     "n": "ASCCP 2019: sau soi có CIN 1 trở xuống, trước đó là kết quả bất thường nhẹ, thì theo dõi 1 năm bằng xét nghiệm dựa trên HPV (mục E.1, Hình 2); chỉ cân nhắc điều trị nếu CIN 1 tồn tại ≥ 2 năm (mục I.5). QĐ 3792/2024, Phần 5 mục 1.1: CIN 1 theo dõi hoặc điều trị nếu khả năng tuân thủ theo dõi/sàng lọc thấp (laser CIN 1 tồn tại ≥ 2 năm: mục 2.1.2.1). Khác nhau do bối cảnh: ASCCP giả định theo dõi tốt, BYT tính tới tuân thủ và nguồn lực. Chị đã bỏ hẹn một lần nhưng lần này đến đủ và hứa tái khám mỗi năm nên theo dõi hợp lý; điều trị cũng đúng nếu chị khó đến."
+    },
+    {
+     "t": "Hẹn xét nghiệm HPV sau 12 tháng bằng lịch cụ thể, nhắn nhắc trước; âm tính thì lặp lại sau 3 năm, HPV dương hoặc bất thường thì soi lại",
+     "v": "c",
+     "n": "Theo dõi 1 năm âm tính thì quay lại sau 3 năm; bất thường lần nữa thì soi (ASCCP 2019, Hình 2). Mẫu do nhân viên y tế lấy là ưu tiên; nếu không thể thì mẫu tự lấy chấp nhận được sau khi cùng quyết định (TL-0616, Khuyến cáo 6). Cách nhắc hẹn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn bỏ hẳn thuốc lá, bao cao su đều, khuyên bạn trai đi khám, tiêm vắc xin HPV",
+     "v": "c",
+     "n": "Quan hệ tình dục an toàn, tránh hút thuốc lá (QĐ 3792/2024, Phần 1 mục 5.2.1); vắc xin HPV có tác dụng ở nữ 9–45 tuổi (Phần 2 mục 2.3). Hiệu quả khi đã có tổn thương: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cắt vòng điện (LEEP) hoặc khoét chóp ngay vì chị 'sợ để lại ung thư'",
+     "v": "w",
+     "n": "CIN 1 không phải chỉ định cắt ngay (ASCCP 2019, mục I.5); điều trị khi tồn tại ≥ 2 năm hoặc khó theo dõi (QĐ 3792/2024, Phần 5 mục 1.1)."
+    },
+    {
+     "t": "Nói 'không có gì', không hẹn theo dõi nữa",
+     "v": "w",
+     "n": "CIN 1 sau Pap bất thường vẫn cần xét nghiệm dựa trên HPV sau 1 năm (ASCCP 2019, Hình 2); chị lại từng bỏ hẹn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "LSIL (CIN 1) cổ tử cung do HPV nguy cơ cao (không 16/18), sau Pap ASC-US; không CIN 2–3, không ung thư xâm lấn",
+     "Loại trừ: ung thư cổ tử cung (mô bệnh học), viêm cổ tử cung (các lượt trước)",
+     "Mất ngủ do stress đỡ một phần; viêm mũi dị ứng, loratadin khi cần",
+     "Hướng xử trí: không điều trị ngay; HPV sau 12 tháng; bỏ thuốc lá, bao cao su, vắc xin HPV"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: nghe chị kể từ sinh thiết đến nay (biến chứng, quan hệ, thuốc) → đọc kết quả mô bệnh học cùng chị → khám phụ khoa kiểm tra vết sinh thiết → hỏi lại khả năng tuân thủ (đã bỏ hẹn, đi tour liên tục) → chẩn đoán → xử trí.",
+     "Điểm khó không ở chẩn đoán mà ở chọn theo dõi hay điều trị: ASCCP ưu tiên theo dõi, BYT cho phép điều trị nếu khó tuân thủ.",
+     "Đỡ một phần là bình thường (ngủ 6 giờ, thức sớm còn lại), chưa cần thuốc: nhận định lâm sàng, tài liệu đã tải không bàn.",
+     "Sau theo dõi HPV 1 năm âm tính thì quay lại sau 3 năm (ASCCP 2019, Hình 2); khoảng sàng lọc thường quy ở lượt 1."
+    ],
+    "phan_tich_xu_tri": [
+     "Theo dõi 12 tháng (ASCCP 2019, mục E.1, Hình 2) hoặc điều trị nếu khó tuân thủ (QĐ 3792/2024, Phần 5 mục 1.1): ghi cả hai, cùng chọn với chị, cả hai đúng. Nếu điều trị: đốt, laser hoặc LEEP tại cơ sở đủ điều kiện, sau khi sạch kinh 3–5 ngày (Phần 5 mục 2.1.1.3), không khi mang thai (mục 2.1.1.2).",
+     "Không cắt ngay; không bỏ rơi chị: hẹn có ngày, có người nhắc."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc (không kháng sinh, không thuốc điều trị HPV, không thuốc ngủ)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "HPV không có thuốc đặc hiệu; CIN 1 theo dõi hoặc điều trị thủ thuật (ASCCP 2019, mục I.5; QĐ 3792/2024, Phần 5 mục 1.1). Loratadin khi cần: giữ nguyên, đang dùng."
+     }
+    ],
+    "dan_do": [
+     "Kết quả không phải ung thư; đây là tổn thương nhẹ do HPV, thường tự lành. Quan trọng nhất là quay lại xét nghiệm HPV đúng hẹn sau 12 tháng; âm tính thì 3 năm sau mới kiểm tra lại (ASCCP 2019, Hình 2).",
+     "Nếu không thể đến đúng hẹn vì đi tour, nhắn phòng khám sớm để dời ngày hoặc bàn cách lấy mẫu khác.",
+     "Bỏ hẳn thuốc lá, bao cao su đều, khuyên bạn trai đi khám, hỏi tiêm vắc xin HPV (QĐ 3792/2024, Phần 1 mục 5.2.1; Phần 2 mục 2.3).",
+     "Khám lại nếu mất ngủ nặng hơn; ra máu bất thường, đau bụng dưới, khí hư hôi thì quay lại sớm."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Diệp không phải điều trị gì ngoài theo dõi. Trong chuyến đi 12 ngày chị nhận tin nhắc hẹn, và mười hai tháng sau chị quay lại đúng hẹn: HPV nguy cơ cao âm tính, chị đã bỏ thuốc lá sau hai lần cố gắng và tiêm vắc xin HPV. Theo ASCCP 2019 (Hình 2), kết quả âm tính ở lần theo dõi sau soi đưa chị về chu kỳ 3 năm. Kết cục tốt, quy trình đúng: Pap ASC-US được làm HPV, soi và sinh thiết thay vì bị coi là 'viêm'; điều suýt làm hỏng ca là chuyện chị từng bỏ hẹn và lý do thật chị đến (muốn truyền dịch), chỉ gỡ được khi bác sĩ hỏi không phán xét.",
+ "nhieu": [
+  "Giấu tiền sử: chị chỉ nói 'lâu rồi, bình thường' về Pap trước đây; Pap LSIL cách đây 2,5 năm và việc bỏ soi chỉ lộ khi hỏi cụ thể lần làm gần nhất, kết quả, lời dặn, bằng giọng không phán xét và hỏi lại lần hai. Hút thuốc lá và bạn tình mới cũng vậy.",
+  "Lý do thật (muốn truyền dịch, nằm nghỉ) che lý do cần khám: tờ Pap bị đưa ra như chuyện phụ ('hơi viêm thôi'). Bác sĩ nói thẳng, không truyền dịch nhưng đáp ứng nhu cầu nghỉ ngơi, và không để chị rời đi khi chưa có hẹn soi.",
+  "Lời 'hơi viêm' của nơi khám trước dễ dẫn đến kháng sinh; loratadin tự mua là thông tin phụ.",
+  "Ra ít máu sau quan hệ chỉ kể ở lượt 2 khi hỏi lại cụ thể; khám ra lộ tuyến rỉ máu khi chạm, vẫn phải loại ung thư bằng soi và mô bệnh học."
+ ],
+ "bai_hoc_bien": [
+  "Pap ASC-US: làm HPV kèm theo; HPV dương đã đủ ngưỡng soi cổ tử cung (nguy cơ CIN3+ tức thời khoảng 4,2% ≥ 4%; ASCCP 2019, mục E.2, Hình 2). 'Viêm' không giải thích Pap bất thường.",
+  "Hỏi tiền sử nhạy cảm (Pap cũ, thuốc lá, quan hệ tình dục) từng việc, giải thích vì sao cần, không phán xét, hỏi lại lần hai; người bệnh giấu vì sợ bị mắng.",
+  "Không truyền dịch theo yêu cầu khi không có chỉ định, nhưng đừng bỏ qua nhu cầu thật (nghỉ ngơi, được lắng nghe) và đừng để nó che việc quan trọng.",
+  "Soi nhẹ vẫn phải sinh thiết khi HPV dương (ASCCP 2019, mục H.1). CIN 1: theo dõi hoặc điều trị tùy khả năng tuân thủ (ASCCP 2019, mục I.5; QĐ 3792/2024, Phần 5 mục 1.1).",
+  "Đỡ một phần ở mệt, mất ngủ không phải thất bại điều trị; hỏi lại triệu chứng báo động, đừng dừng ở 'đỡ chưa'."
+ ],
+ "diem_nho": [
+  "ASC-US + HPV nguy cơ cao dương: soi cổ tử cung ± sinh thiết (QĐ 3792/2024, Phần 4 mục 1.2; ASCCP 2019, mục E.2).",
+  "Soi cổ tử cung IFCPC 2011: độ 1 gồm lát đá mịn, chấm đáy mịn, biểu mô trắng mỏng, bờ không đều (QĐ 3792/2024, Bảng 4.1); sinh thiết định hướng 2–4 mảnh (ASCCP 2019, mục H.1).",
+  "CIN 1: HPV sau 12 tháng (ASCCP 2019, Hình 2; mục I.5) hoặc điều trị nếu khó tuân thủ (QĐ 3792/2024, Phần 5 mục 1.1); âm tính thì quay lại sau 3 năm.",
+  "Yếu tố nguy cơ: nhiều bạn tình, hút thuốc lá, nhiễm khuẩn lây qua đường tình dục (QĐ 3792/2024, Phần 1 mục 2); phần lớn tổn thương tự thoái triển sau 1–3 năm (mục 3).",
+  "Viêm cổ tử cung: mủ nhầy ống cổ tử cung hoặc chảy máu kéo dài khi chạm bông (CDC STI 2021, mục Cervicitis); không dùng để bỏ qua HPV và soi."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 3792/QĐ-BYT ngày 17/12/2024, Hướng dẫn dự phòng và kiểm soát ung thư cổ tử cung – TL-0605 – Phần 1 mục 2, 3, 5.2.1; Phần 2 mục 2.3; Phần 3 mục 2, 3.1.2; Phần 4 mục 1.2–1.4 (Bảng 4.1), 2.1, 2.2.2; Phần 5 mục 1.1–1.3, 2.1.1, 2.1.2; Phần 6 mục 3.2.",
+  "ASCCP 2019 Risk-Based Management Consensus Guidelines (Perkins RB và cs., J Low Genit Tract Dis 2020;24(2):102–131) – TL-0632 và bản đầy đủ kho cũ tltk-10000-ca – mục E.1–E.3, H.1, I.2, I.3, I.5, Hình 2, phần Kết luận ('Reflex testing').",
+  "Bộ Y tế – QĐ 315/QĐ-BYT năm 2015, Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa – TL-0036 – Tổn thương lành tính CTC (mục 2.1.1, 2.2, 3.1); Ung thư CTC (mục 2.1, 2.2.1, 2.2.3, 2.2.4, 2.3).",
+  "CDC – STI Treatment Guidelines 2021 (MMWR 2021;70(4)) – kho cũ tltk-10000-ca – mục Cervicitis; Chlamydial Infections.",
+  "WHO 2021 – Guideline for screening and treatment of cervical pre-cancer lesions – TL-0612 – khuyến cáo 5, 8. USPSTF 2018 (JAMA 2018;320(7):674–686) – TL-0641. ACS 2025 (kho cũ tltk-10000-ca) – phần Giới thiệu.",
+  "Wentzensen N và cs., Self-Collected Vaginal Specimens for HPV Testing (J Low Genit Tract Dis 2025;29(2):144–152) – TL-0616 – Khuyến cáo 6."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 25/10/2026 (Sonnet 5.5). Đã đọc: TL-0605 (Phần 1, 2.3, 3, 4, 5, 6); TL-0632/ASCCP 2019 mục E, H, I.2–I.5, Hình 2, Kết luận; TL-0036 Tổn thương lành tính CTC và Ung thư CTC; CDC STI 2021 Cervicitis, Chlamydial Infections; TL-0612 khuyến cáo 5, 8; TL-0641; ACS 2025; TL-0616 khuyến cáo 5, 6.",
+  "Chỗ thiếu tài liệu (đã ghi 'không có trong tài liệu đã tải'): thời hạn tối đa phải soi sau HPV dương; mức tăng nguy cơ do Pap LSIL cũ; stress gây tế bào bất thường; hướng dẫn mất ngủ do stress; truyền dịch theo yêu cầu; kiêng quan hệ, thuốc giảm đau sau sinh thiết; số ngày trả giải phẫu bệnh; hiệu quả vắc xin HPV khi đã có tổn thương; cách nhắc hẹn.",
+  "Sổ mâu thuẫn: tuổi bắt đầu, chu kỳ sàng lọc UTCTC (BYT 2024, ACS 2025, USPSTF 2018, WHO 2021) và CIN 1 theo dõi (ASCCP 2019) so với điều trị nếu khó tuân thủ (BYT 2024); xem PK-0266_mau_thuan.md.",
+  "Không ảnh da. Ràng buộc 'không X-quang' chỉ mang tính mô tả vì ca không cần X-quang. Danh mục đề xuất: soi_ctc, sinh_thiet_ctc (xem PK-0266_de_xuat_danh_muc.json)."
+ ]
+}
