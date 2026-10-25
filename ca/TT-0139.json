@@ -1,0 +1,797 @@
+{
+ "ma_ca": "TT-0139",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-25)",
+ "benh": "TT_mat_ngu_man",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn giấc ngủ (mất ngủ mạn)",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Ngưng thở khi ngủ"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Lễ tân khách sạn",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất",
+  "thuoc_dang_dung": "Vitamin, thực phẩm chức năng",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc"
+ },
+ "benh_nhan": {
+  "ten": "Lâm Quốc Bảo",
+  "tuoi": 29,
+  "gioi": "Nam",
+  "nghe": "Lễ tân khách sạn ba sao ở Đà Nẵng, ca sáng cố định 6 giờ–14 giờ, đi làm bằng xe máy",
+  "can_nang": 68,
+  "chieu_cao": 172,
+  "xung_ho": "Bác sĩ gọi 'anh Bảo' hoặc 'anh'. Anh xưng 'em', gọi 'bác sĩ'.",
+  "tinh_cach": "Lịch sự, cầu toàn, hay tra mạng và ghi chú vào điện thoại. Nói năng chừng mực kiểu lễ tân, ít khi phàn nàn nhưng lo xa về sức khỏe. Hay hỏi 'có hại gan, hại thần kinh không bác sĩ'. Ngại bị coi là 'có vấn đề tâm lý'.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: tự mua 'thuốc ngủ nhẹ' ở nhà thuốc, uống 5 đêm, không nhớ tên. Hỏi 'có uống thuốc gì không' anh đáp 'chỉ vitamin'; sáng lờ đờ, miệng khô, tim đập mạnh do thuốc làm anh tưởng là do hóa chất hoặc vitamin. Chỉ nói đúng tên, liều, số đêm khi bác sĩ hỏi cụ thể thuốc mua ở nhà thuốc, thuốc để ngủ; anh có ảnh vỉ thuốc trong điện thoại.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d4a373",
+   "toc": "#1c1917",
+   "kieuToc": "ngan",
+   "ao": "#2f4b6e",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nghi nhiễm độc sau khi khách sạn xịt thuốc diệt côn trùng, ngủ kém nhiều tháng, nghi thuốc đang dùng có tác dụng phụ",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 29 tuổi, lễ tân khách sạn, đi khám một mình vì cho rằng mình bị ảnh hưởng thần kinh sau khi khách sạn xịt thuốc diệt côn trùng, ngủ không ngon nhiều tháng; mấy hôm nay tự mua thuốc ngủ uống, sáng lờ đờ nên lo tác dụng phụ. Sinh hiệu: mạch 80 l/p, HA 118/72 mmHg, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 68 kg, cao 172 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Bảo không có hội chứng cường cholin (đồng tử 3 mm, mạch 80, không run cơ, tỉnh táo), tiếp xúc cách 5 tháng, nên chuyển trung tâm chống độc không có cơ sở (QĐ 3610/2015, Bài 6, mục 2.1). Anh nghỉ làm, tốn tiền, còn diphenhydramin tự mua, nước tăng lực và giờ giấc ngủ chưa ai chỉnh nên mất ngủ y nguyên (ESRS 2023, mục 3.5, Hình 1; AASM 2021, khuyến cáo 1–3).",
+    "nhap_vien": "Anh tỉnh táo, sinh hiệu và khám bình thường, không ý nghĩ tự hại; Bài 27 QĐ 2058/2020 không nêu chỉ định nhập viện cho mất ngủ mạn. Nằm viện làm anh tin mình 'nhiễm độc nặng', lo thêm, và dễ được cho thuốc ngủ khi thuốc tự mua chưa được khai thác (ESRS 2023, Bảng 16: CBT-I đầu tay)."
+   },
+   "loi_mo": "Chào bác sĩ. Hồi tháng 5 khách sạn em xịt thuốc diệt rệp, em đứng ở sảnh cả buổi, từ đó ngủ không ngon. Em uống vitamin bổ thần kinh mà không đỡ. Mấy hôm nay em mua thuốc ngủ uống thì sáng ra lờ đờ, miệng khô, tim đập mạnh, em sợ tác dụng phụ. Bác sĩ xem em có bị nhiễm độc gì không?",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "118/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nghi mình bị ảnh hưởng thần kinh do hóa chất diệt rệp, ngủ kém, sợ thuốc đang uống có hại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra"
+    },
+    {
+     "id": "kieu_ngu",
+     "noi_dung": "Lên giường khoảng 22 giờ 30, 30–40 phút là ngủ. Khoảng 2–3 giờ sáng giật mình thức, tim đập mạnh, người nóng, nghĩ chuyện hóa chất; không ngủ lại được đến 4 giờ 30 báo thức. Ước ngủ 4,5–5 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kiểu mất ngủ duy trì giấc ngủ, thức sớm; vào giấc không khó"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Gần như mọi đêm từ tháng 5 đến nay, khoảng 5 tháng. Trước đó ngủ tốt kể cả hai năm làm ca đêm. Hiện làm ca sáng cố định hơn một năm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần suất và thời gian (đạt tiêu chuẩn mạn)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Hôm khách sạn xịt diệt rệp tầng 4, anh đứng ở sảnh khoảng 2 giờ, mùi nồng, cay mũi, đau đầu và buồn nôn nhẹ, hết trong chiều đó. Không biết tên thuốc. Không co giật, run, vã mồ hôi, tiêu chảy, nhìn mờ hay khó thở. Đêm đó mất ngủ vì lo, từ đó 'sợ không ngủ'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau tiếp xúc hóa chất: nhẹ, thoáng qua, không hội chứng cường cholin"
+    },
+    {
+     "id": "thoi_quen",
+     "noi_dung": "Dậy 4 giờ 30 mỗi ngày làm việc. Hay ngủ chiều khoảng một tiếng vì mệt. Tối lướt điện thoại trên giường đến 23 giờ, hay xem tin về độc chất. Cà phê một ly sáng. Không thuốc lá, bia thỉnh thoảng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố duy trì: ngủ chiều, màn hình trên giường"
+    },
+    {
+     "id": "nuoc_tang_luc",
+     "noi_dung": "Mỗi ngày uống hai lon nước tăng lực, lon thứ hai vào khoảng 14–15 giờ 'cho tỉnh táo'. Anh không coi đó là cà phê.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'cà phê, trà' anh chỉ nói một ly cà phê sáng. Chỉ nói khi hỏi cụ thể nước tăng lực, nước ngọt có caffeine hoặc đồ uống buổi chiều.",
+     "y": "Caffeine ẩn trong nước tăng lực"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Từ 5 đêm trước, mua ở nhà thuốc 'thuốc ngủ nhẹ, không gây nghiện', uống 2 viên lúc 21 giờ 30 mỗi đêm. Ảnh vỉ trong điện thoại: diphenhydramin 25 mg. Vẫn thức lúc 3 giờ; sáng lờ đờ, khô miệng, tim đập nhanh. Sáng hôm qua chạy xe máy thấy lơ mơ phải ghé quán nghỉ 10 phút.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' anh đáp 'chỉ vitamin'. Chỉ khai khi hỏi thuốc mua ở nhà thuốc, thuốc để ngủ, tên thuốc, số viên, số đêm; chuyện lơ mơ khi chạy xe chỉ nói khi hỏi về đi lại hoặc tác dụng phụ buổi sáng.",
+     "y": "Thuốc tự mua 5 ngày (kháng histamin thế hệ 1) và hậu quả khi lái xe"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Từ một tuần sau vụ xịt thuốc mua online vitamin tổng hợp 'bổ thần kinh, giải độc': 2 viên sáng, 1 viên tối. Nhãn ghi vitamin B1, B6, B12, C, kẽm; không ghi caffeine hay thảo dược. Đêm thức giấc tim đập mạnh có từ tháng đầu, trước khi uống vitamin, nhưng anh cho rằng vitamin làm nặng thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thực phẩm chức năng đang dùng và thời điểm so với triệu chứng"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Khi hỏi riêng: không buồn, vẫn đá bóng chủ nhật, ăn ngon, lo chủ yếu về sức khỏe và hóa chất. Không nghĩ tự hại. Mệt vì thiếu ngủ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mặc định nói 'em chỉ lo thôi, không sao'. Chỉ nói chi tiết khi hỏi về tâm trạng, hứng thú, ăn uống, ý nghĩ chán sống hoặc tự hại.",
+     "y": "Sàng lọc trầm cảm, ý nghĩ tự hại"
+    },
+    {
+     "id": "ngung_tho",
+     "noi_dung": "Bạn cùng phòng nói anh ngáy nhẹ, không thấy ngưng thở. Không đau đầu sáng, không ngủ gật ban ngày, chân không khó chịu khi nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc ngưng thở khi ngủ, chân không yên"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không bệnh mạn tính, không corticoid, không thuốc nào khác ngoài vitamin và thuốc tự mua. Gia đình không ai bệnh tâm thần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, thuốc gây mất ngủ"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật đi khám ngay hôm nay: từ khi uống thuốc ngủ và vitamin anh thấy tim đập mạnh, miệng khô, người lờ đờ, sợ thuốc cộng với hóa chất làm hại gan, thận, thần kinh.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Lúc đầu chỉ nói 'em sợ nhiễm độc'. Chỉ nói thật khi hỏi anh lo điều gì nhất, vì sao quyết định đi khám hôm nay, hoặc có thấy thuốc nào làm khó chịu không.",
+     "y": "Động cơ thật: nghi tác dụng phụ của thuốc"
+    },
+    {
+     "id": "te_tay",
+     "noi_dung": "Anh nói đầu ngón tay đôi khi tê và cho là dấu hiệu nhiễm độc thần kinh. Thực ra tê khi gõ máy tính lâu hoặc nằm đè tay, hết khi đổi tư thế.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi lo. BMI 23,0 kg/m². Da ấm khô, không vã mồ hôi, niêm hồng.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Đồng tử hai bên 3 mm, đều, phản xạ ánh sáng tốt.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Vòng cổ 37 cm. Tuyến giáp không to. Không hạch.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, không thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, dây sọ bình thường. Sức cơ 5/5, phản xạ gân xương đều, không rung giật cơ, không run. Tinel và Phalen âm tính.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Gọn gàng, lịch sự, lo lắng có chủ đề (hóa chất, thuốc), khí sắc không trầm, tư duy mạch lạc, không hoang tưởng. Không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói chuyện lưu loát, vẻ lo lắng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,9 G/L · Hb 148 g/L · TC 262 G/L",
+     "n": "ESRS 2023, Bảng 4: công thức máu trong xét nghiệm 'khi có chỉ định'; trấn an nỗi lo nhiễm độc. Không bắt buộc."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,7 mUI/L · FT4 14 pmol/L (bình thường)",
+     "n": "Thức giấc tim đập mạnh nên loại cường giáp là hợp lý (ESRS 2023, Bảng 4; QĐ 2058/2020 Bài 27 mục 3.2). Không bắt buộc."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 22 · ALT 20 U/L",
+     "n": "Anh lo gan do thuốc và hóa chất; men gan bình thường (ESRS 2023, Bảng 4). Chấp nhận, không bắt buộc."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 78 l/p, PR 150 ms, QRS 90 ms, QTc 405 ms, không ST–T bất thường.",
+     "n": "Hồi hộp về đêm và đang dùng kháng histamin: chấp nhận (ESRS 2023, Bảng 4). Không đổi chẩn đoán."
+    },
+    "psg": {
+     "v": "n",
+     "n": "Chưa chỉ định: không dấu gợi ý ngưng thở hay vận động chi chu kỳ; ESRS 2023, mục 3.4: đa ký không cần để chẩn đoán mất ngủ, chỉ khi nghi rối loạn giấc ngủ khác, mất ngủ không đáp ứng điều trị hoặc nguy cơ tai nạn do mệt. Xét lại nếu không đáp ứng."
+    },
+    "ct_nao": {
+     "v": "n",
+     "n": "Không dấu thần kinh khu trú, không đau đầu dữ dội: không có chỉ định (ESRS 2023, Bảng 4: CT/MRI 'khi có chỉ định')."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn giấc ngủ: mất ngủ mạn (thức giữa đêm, thức sớm), khoảng 5 tháng, khởi phát sau tiếp xúc hóa chất, duy trì bởi lo âu về giấc ngủ, ngủ chiều, nước tăng lực, màn hình trên giường và thuốc kháng histamin tự mua",
+     "ok": 1,
+     "n": "Khó duy trì giấc ngủ, thức sớm, gần mọi đêm, ảnh hưởng chức năng (mệt, lờ đờ khi lái xe); đạt ICD-10 (≥ 3 lần/tuần, ≥ 1 tháng: QĐ 2058/2020 Bài 27 mục 3.1.1) và ICSD-3 (≥ 3 lần/tuần, ≥ 3 tháng: ESRS 2023, Bảng 2). Hóa chất là yếu tố khởi phát, không phải nguyên nhân độc chất còn lại. Không điển hình: người trẻ, vào giấc dễ, thức kèm hồi hộp, gán hết cho hóa chất."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Loại trừ: không khí sắc trầm, còn hứng thú (đá bóng), ăn ngon, không tự hại; không đủ 2/3 triệu chứng đặc trưng (QĐ 2058/2020 Bài 20 mục 3.1.1). Phải hỏi riêng (ESRS 2023, mục 3.5)."
+    },
+    {
+     "t": "Ngưng thở khi ngủ (OSA, COMISA)",
+     "n": "Không gợi ý: BMI 23, vòng cổ 37 cm, ngáy nhẹ, bạn không thấy ngưng thở, không buồn ngủ ban ngày. ESRS 2023, mục 3.5: sàng lọc OSA bằng công cụ như STOP-Bang ở mọi người mất ngủ; dương tính thì đa ký hoặc đo tại nhà. Cách tính và điểm cắt STOP-Bang: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm độc thần kinh mạn do hóa chất diệt côn trùng",
+     "n": "Loại trừ lâm sàng: tiếp xúc nhẹ, hết trong ngày, không hội chứng cường cholin (đồng tử 3 mm, mạch 80, không run, không vã mồ hôi); tiêu chuẩn ngộ độc phospho hữu cơ cần bệnh sử cấp rõ ràng và hội chứng cường cholin (QĐ 3610/2015, Bài 6 mục 2.1). Độc tính của hoạt chất khác phospho hữu cơ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mất ngủ liên quan chất hoặc thuốc: diphenhydramin tự mua, nước tăng lực",
+     "n": "Là yếu tố duy trì và làm nặng thêm triệu chứng buổi sáng, không phải nguyên nhân khởi phát (mất ngủ có trước thuốc 5 tháng). ESRS 2023, mục 3.5 và Bảng 5 (caffeine); AASM 2017, khuyến cáo 11 và ESRS 2023, mục 4.2.5: không dùng kháng histamin. Vitamin gây mất ngủ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cường giáp, rối loạn lo âu",
+     "n": "TSH, FT4 bình thường, không sụt cân, không run. Lo lắng có chủ đề (hóa chất, thuốc), không lan tỏa."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Liệu pháp hành vi ngắn hoặc CBT-I làm đầu tay: kiểm soát kích thích (chỉ lên giường khi buồn ngủ, bỏ điện thoại trên giường, bỏ ngủ chiều, giờ dậy cố định), kèm giáo dục giấc ngủ; ghi nhật ký ngủ",
+     "v": "c",
+     "n": "AASM 2021: CBT-I khuyến cáo 1 (mạnh); liệu pháp hành vi ngắn khuyến cáo 2 và kiểm soát kích thích khuyến cáo 3 (có điều kiện); ESRS 2023, Bảng 16 (A). QĐ 2058/2020 Bài 27 mục 4.3 chỉ nêu vệ sinh giấc ngủ; AASM 2021 khuyến cáo 6 và ESRS 2023 mục 4.1.1 gợi ý không dùng đơn thuần. Nhật ký 7–14 ngày (ESRS 2023, mục 3.2)."
+    },
+    {
+     "t": "Ngừng diphenhydramin tự mua; giảm và bỏ nước tăng lực (nhất là buổi chiều); không tự mua thuốc ngủ",
+     "v": "c",
+     "n": "AASM 2017, khuyến cáo 11 và ESRS 2023, mục 4.2.5, Bảng 16 (A): không dùng kháng histamin cho mất ngủ; QĐ 2058/2020 Bài 27 mục 4.3: không cà phê, thuốc lá nhất là buổi tối; ESRS 2023, mục 3.5, Bảng 5. Cách ngừng và giờ cắt caffeine: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lần này chưa kê thuốc ngủ, ưu tiên liệu pháp hành vi; hoặc nếu cùng quyết định dùng thuốc thì ngắn hạn tối đa 4 tuần kèm liệu pháp hành vi",
+     "v": "c",
+     "n": "ESRS 2023, Bảng 16, Hình 1: thuốc khi CBT-I không hiệu quả, BZ/BZRA ≤ 4 tuần (A). AASM 2026, khuyến cáo 1 (phối hợp tốt hơn thuốc đơn thuần) và khuyến cáo 2 (gợi ý không phối hợp thay vì CBT-I đơn thuần), cả hai có điều kiện; QĐ 2058/2020 Bài 27 mục 4.1 cho phép kết hợp tâm lý và thuốc, hạn chế nhóm gây nghiện."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc nhóm Z (zolpidem...) uống hằng đêm ngay, không hỏi thuốc đã tự mua, không hỏi chuyện lái xe",
+     "v": "w",
+     "n": "ESRS 2023, mục 4.2.1: dung nạp, phụ thuộc, lú lẫn, té ngã, hiệu ứng sót buổi sáng làm giảm khả năng lái xe; thuốc ngắn hạn tối đa 4 tuần. Anh chạy xe máy lúc 4 giờ 45 sáng và đã lơ mơ khi lái; Beers 2023 không áp dụng vì 29 tuổi."
+    },
+    {
+     "t": "Giải thích tiếp xúc hóa chất: khám không có hội chứng cường cholin, không có chỉ định chuyển trung tâm chống độc hay xét nghiệm độc chất; nói thật rằng mất ngủ mạn cần điều trị riêng",
+     "v": "c",
+     "n": "QĐ 3610/2015, Bài 6 mục 2.1: tiêu chuẩn chẩn đoán gồm bệnh sử cấp, hội chứng cường cholin và xét nghiệm; anh không đủ. Hóa chất chỉ là yếu tố khởi phát (ESRS 2023, mục 3.5). Xét nghiệm độc chất ở tiếp xúc nhẹ đã qua 5 tháng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Vitamin thực phẩm chức năng: tạm ngưng hai tuần để xem có liên quan hay không, hoặc giữ nguyên đều được; không dùng thêm 'thuốc giải độc' hay thuốc bổ thần kinh",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3 có nêu bổ sung vitamin nhóm B trong dinh dưỡng; không tài liệu đã tải cho thấy vitamin gây mất ngủ hay hồi hộp."
+    },
+    {
+     "t": "Dặn không chạy xe khi lơ mơ, ghi nhật ký ngủ, hẹn tái khám khoảng 2 tuần; không đáp ứng thì đánh giá lại",
+     "v": "c",
+     "n": "ESRS 2023, mục 3.2 (nhật ký 7–14 ngày), mục 4.1.1 (theo dõi buồn ngủ và ảnh hưởng đến lái xe); mốc đa ký khi không đáp ứng: ESRS 2023, mục 3.4. Khoảng 2 tuần là lựa chọn biên tập, không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn giấc ngủ: mất ngủ mạn (thức giữa đêm, thức sớm), gần mọi đêm khoảng 5 tháng, ảnh hưởng chức năng ban ngày",
+     "Khởi phát sau tiếp xúc hóa chất nhẹ, thoáng qua; duy trì bởi lo sợ không ngủ, ngủ chiều, màn hình trên giường, nước tăng lực, diphenhydramin 25 mg × 2 viên/đêm tự mua 5 ngày (lờ đờ, khô miệng, lơ mơ khi lái xe)",
+     "Không trầm cảm, chưa gợi ý ngưng thở khi ngủ, không hội chứng cường cholin; lý do thật: sợ thuốc cộng hóa chất gây hại"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: kiểu mất ngủ, thời gian 5 tháng; hỏi cụ thể thuốc mua ở nhà thuốc, thuốc để ngủ, nước tăng lực; hỏi người cùng phòng về ngáy, ngưng thở; hỏi riêng tâm trạng (ESRS 2023, Bảng 4, mục 3.5).",
+     "Vì sao là mất ngủ mạn: than phiền khó duy trì giấc ngủ, ≥ 3 lần/tuần, kéo dài 5 tháng (đạt cả ngưỡng 1 tháng ICD-10 và 3 tháng ICSD-3), ảnh hưởng chức năng (QĐ 2058/2020 Bài 27 mục 3.1.1; ESRS 2023, Bảng 2).",
+     "Khám: đồng tử 3 mm, mạch 80, da khô ấm, không run, thần kinh bình thường: không hội chứng cường cholin (QĐ 3610/2015, Bài 6 mục 2.1). Khám giáp, tim, tâm thần để loại trừ cường giáp, trầm cảm.",
+     "Cận lâm sàng không cần để chẩn đoán; đa ký chưa chỉ định (ESRS 2023, mục 3.4). Công thức máu, TSH, men gan, ECG chỉ để trấn an (Bảng 4).",
+     "Nhiễu thuốc tự mua: khô miệng, lờ đờ, tim đập nhanh buổi sáng là do diphenhydramin, không phải bằng chứng nhiễm độc; bỏ qua thì dễ tìm bệnh sai hướng hoặc kê thêm thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Đầu tay là liệu pháp hành vi ngắn hoặc CBT-I (AASM 2021, khuyến cáo 1–3; ESRS 2023, Bảng 16 A). Chưa áp dụng hạn chế giấc ngủ vì anh chạy xe máy và đã lơ mơ một lần (AASM 2021, ghi chú khuyến cáo 1, 2, 4: có thể chống chỉ định ở nghề rủi ro cao; ESRS 2023 mục 4.1.1: theo dõi buồn ngủ và lái xe).",
+     "Thuốc ngủ: không bắt buộc; nếu cùng quyết định thì ngắn hạn ≤ 4 tuần kèm liệu pháp hành vi (ESRS 2023, Bảng 16, Hình 1; AASM 2026 khuyến cáo 1–2). Kê nhóm Z hằng đêm cho người chạy xe máy sáng sớm là sai (ESRS 2023 mục 4.2.1).",
+     "Nỗi lo thật: khám không thấy ngộ độc nhưng mất ngủ mạn cần điều trị; vitamin tạm ngưng hoặc giữ nguyên đều chấp nhận được.",
+     "Tái khám có mốc: mang nhật ký ngủ, hỏi lại tâm trạng, thuốc, caffeine, an toàn lái xe; không đỡ thì xem lại tuân thủ, yếu tố làm nặng, rồi đa ký (ESRS 2023, mục 3.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ngừng diphenhydramin 25 mg tự mua",
+      "ham_luong": "25 mg/viên (đang uống 2 viên/đêm)",
+      "lieu": "Ngừng dùng làm thuốc ngủ; không tự mua thuốc ngủ khác",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng buổi tối",
+      "so_ngay": "Từ hôm nay",
+      "ghi_chu": "AASM 2017, khuyến cáo 11; ESRS 2023, mục 4.2.5, Bảng 16 (A). Cách ngừng dần hay ngay: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Không kê thuốc ngủ lần khám này",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến lần tái khám",
+      "ghi_chu": "ESRS 2023, Bảng 16, Hình 1: liệu pháp hành vi trước; nếu cần thuốc thì ngắn hạn ≤ 4 tuần, không tăng liều (AASM 2026 khuyến cáo 2). Liều thuốc cụ thể cho người 29 tuổi: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Vitamin thực phẩm chức năng đang dùng (B1, B6, B12, C, kẽm)",
+      "ham_luong": "Theo nhãn",
+      "lieu": "Tạm ngưng 2 tuần để xem có liên quan; hoặc giữ nguyên đều được",
+      "duong": "Uống",
+      "thoi_diem": "Không uống buổi tối nếu cần dùng",
+      "so_ngay": "2 tuần rồi xem lại",
+      "ghi_chu": "QĐ 2058/2020 Bài 27 mục 4.3 (dinh dưỡng, vitamin nhóm B). Không có tài liệu đã tải nêu vitamin gây mất ngủ; thời điểm uống tối ưu: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: không thấy dấu hiệu nhiễm độc; đây là mất ngủ mạn, chữa bằng liệu pháp hành vi, bền hơn thuốc (ESRS 2023, mục 4.1.1).",
+     "Giờ dậy cố định mỗi ngày, chỉ lên giường khi buồn ngủ, thức quá lâu thì ra khỏi giường, giường chỉ để ngủ (bỏ điện thoại, không đọc tin độc chất trên giường), bỏ ngủ chiều (AASM 2021, mô tả kiểm soát kích thích a–e).",
+     "Bỏ nước tăng lực, đặc biệt buổi chiều; chỉ cà phê buổi sáng ít; không rượu để ngủ (QĐ 2058/2020 Bài 27 mục 4.3).",
+     "Không tự mua thuốc ngủ; mang vỉ thuốc khi tái khám. Không chạy xe khi còn lờ đờ, buồn ngủ (ESRS 2023, mục 4.1.1).",
+     "Ghi nhật ký ngủ mỗi sáng 7–14 ngày: giờ lên giường, giờ ngủ, số lần thức, giờ dậy (ESRS 2023, mục 3.2).",
+     "Tái khám sau khoảng 2 tuần; đến sớm nếu ngáy to kèm ngưng thở, buồn ngủ gục ban ngày, buồn chán, ý nghĩ tự hại, hoặc có biểu hiện run, vã mồ hôi, co giật (QĐ 2058/2020 Bài 20 mục 3.1.1; QĐ 3610/2015 Bài 6)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Anh Lâm Quốc Bảo, 29 tuổi, tái khám sau 2 tuần, mang nhật ký ngủ 12 ngày. Anh nói đã làm theo gần hết (bỏ thuốc ngủ tự mua, tạm ngưng vitamin, giảm nước tăng lực, bỏ ngủ chiều) nhưng 'không đỡ chút nào, còn tệ hơn tuần trước'. Sinh hiệu: mạch 84 l/p, HA 120/74 mmHg, nhiệt 36,6 °C, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 67 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Hẹn chuyên khoa giấc ngủ lúc này là sớm: anh mới thực hiện nửa vời, tuần trước trực đêm 4 đêm, vẫn uống nước tăng lực và dùng lại thuốc hai đêm; các yếu tố này chưa được chỉnh (ESRS 2023, mục 3.5, Hình 1). Đa ký thuộc nhóm mất ngủ không đáp ứng sau CBT-I hoặc thuốc (ESRS 2023, mục 3.4), anh chưa tới mốc đó.",
+    "nhap_vien": "Không có chỉ định nhập viện: sinh hiệu bình thường, tỉnh táo, không ý nghĩ tự hại (QĐ 2058/2020, Bài 27 không nêu chỉ định nhập viện). Nằm viện có thể ngủ khá vài đêm rồi quay lại như cũ khi về ca đêm và nước tăng lực; dễ bị cho thuốc ngủ, trong khi triệu chứng thường tái phát sau ngừng thuốc (ESRS 2023, mục 4.1.1)."
+   },
+   "loi_mo": "Chào bác sĩ. Em làm đúng như bác sĩ dặn mà không đỡ, còn tệ hơn. Tuần trước khách sạn thiếu người, em phải trực ca đêm bốn đêm, mấy hôm đó em cũng uống lại hai đêm thuốc kia để ngủ ban ngày. Nhật ký em ghi đây. Em có bị gì nặng hơn không bác sĩ, hay vitamin em bỏ rồi mà vẫn vậy?",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "120/74",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "nhat_ky",
+     "noi_dung": "Nhật ký 12 ngày: nằm giường trung bình 7 giờ 40, ngủ ước 5 giờ 10, hiệu suất giấc ngủ khoảng 67%. Thức giữa đêm 1–2 lần, thường 2–3 giờ sáng, tim đập mạnh. Giờ dậy cố định 4 giờ 30 khi làm ca sáng; bỏ ngủ chiều được 10/12 ngày; vẫn lướt điện thoại trên giường 4 đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dữ liệu nhật ký và mức tuân thủ"
+    },
+    {
+     "id": "ca_dem",
+     "noi_dung": "Tuần trước đồng nghiệp nghỉ ốm, anh trực ca đêm 22 giờ–6 giờ bốn đêm (ngày 5–8 của nhật ký), ngủ ban ngày chập chờn; quay lại ca sáng vẫn khó ngủ hơn. Tháng sau có thể phải xoay ca đêm lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố làm nặng: ca đêm tạm thời, nguy cơ xoay ca"
+    },
+    {
+     "id": "caffeine",
+     "noi_dung": "Ca sáng giảm còn một lon nước tăng lực buổi sáng; đêm trực uống 3 lon để tỉnh, về uống thêm một lon. Cà phê sáng một ly.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Caffeine còn dùng, nhất là ca đêm"
+    },
+    {
+     "id": "thuoc_dung_lai",
+     "noi_dung": "Bỏ diphenhydramin từ ngày hẹn. Dùng lại 2 viên × 2 đêm trong tuần trực đêm để ngủ ban ngày. Bỏ vitamin 14 ngày, giấc ngủ và chuyện tim đập đêm không khác.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Anh nói 'em làm đúng hết'. Chỉ khai dùng lại thuốc khi hỏi thẳng 'hai tuần qua có uống lại viên nào để ngủ không', hoặc hỏi cách ngủ ban ngày sau ca đêm.",
+     "y": "Dùng lại thuốc tự mua; bỏ vitamin không đổi triệu chứng"
+    },
+    {
+     "id": "an_toan",
+     "noi_dung": "Sáng thứ bảy sau đêm trực thứ tư, 6 giờ 20 chạy xe máy về, lơ mơ lạng sang làn bên cạnh, xe sau bóp còi, không va chạm. Anh thấy sợ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi hỏi về lái xe, chạy xe sau trực đêm, hoặc có lần nào suýt xảy ra chuyện.",
+     "y": "Suýt tai nạn do buồn ngủ khi lái"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Hỏi riêng: vẫn đi đá bóng chủ nhật, ăn ngon, không buồn, không nghĩ tự hại. Thấy bực vì thiếu ngủ và lo mình 'hỏng luôn'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói chi tiết khi hỏi lại tâm trạng, hứng thú, ý nghĩ tự hại.",
+     "y": "Đánh giá lại tâm trạng"
+    },
+    {
+     "id": "ngung_tho",
+     "noi_dung": "Bạn cùng phòng vẫn không thấy ngưng thở, ngáy nhẹ. Buồn ngủ ban ngày chỉ sau đêm trực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lại ngưng thở, buồn ngủ ban ngày"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Bỏ vitamin vẫn không đỡ nên anh bớt lo vitamin 'làm hại'; còn lo hóa chất để lại di chứng và mất ngủ cả đời.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi lo còn lại"
+    },
+    {
+     "id": "isi",
+     "noi_dung": "Nếu cho trả lời ISI: khoảng 17 điểm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đo mức độ nặng (không bắt buộc)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt, quầng thâm mắt. Da ấm khô, không vã mồ hôi.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1, T2 rõ, không thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "tam_than": {
+     "a": "Hơi mệt, hợp tác, lo về giấc ngủ, khí sắc không trầm, tập trung tốt. Không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, hơi mệt."
+    }
+   },
+   "cls": {
+    "psg": {
+     "v": "n",
+     "n": "Chưa chỉ định: anh chưa làm trọn liệu pháp hành vi và đang có yếu tố làm nặng chưa chỉnh (ca đêm, caffeine, thuốc tự mua). ESRS 2023, mục 3.4: đa ký cho mất ngủ không đáp ứng CBT-I hoặc thuốc, nghi rối loạn ngủ khác, hay nguy cơ tai nạn do mệt ở người lái xe nghề nghiệp; anh không phải tài xế nghề nghiệp."
+    },
+    "tsh": {
+     "v": "n",
+     "n": "Đã bình thường ở lượt 1, không có triệu chứng mới: làm lại không cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mất ngủ mạn, chưa đáp ứng liệu pháp hành vi ngắn vì thực hiện nửa vời cộng yếu tố làm nặng (ca đêm tạm thời, caffeine, dùng lại diphenhydramin), có suýt tai nạn do buồn ngủ khi lái",
+     "ok": 1,
+     "n": "Quy trình thất bại điều trị: không phải sai chẩn đoán (lâm sàng và khám không đổi); không phải sai thuốc (liệu pháp hành vi là đầu tay, AASM 2021 khuyến cáo 1–3); đã bỏ vitamin 14 ngày mà không đổi; nguyên nhân là tuân thủ chưa đủ và ca đêm phá nhịp thức ngủ, caffeine cao (ESRS 2023, mục 3.5, Hình 1: nhịp thức ngủ không đồng bộ, chất ảnh hưởng giấc ngủ). Không biến chứng nội khoa."
+    },
+    {
+     "t": "Trầm cảm",
+     "n": "Loại trừ lại: vẫn còn hứng thú, ăn ngon, không tự hại; không đủ 2/3 triệu chứng đặc trưng (QĐ 2058/2020 Bài 20 mục 3.1.1)."
+    },
+    {
+     "t": "Ngưng thở khi ngủ",
+     "n": "Vẫn không gợi ý (BMI 22,6, ngáy nhẹ, buồn ngủ chỉ sau ca đêm); đa ký khi nghi ngờ lâm sàng hoặc không đáp ứng (ESRS 2023, mục 3.4, 3.5)."
+    },
+    {
+     "t": "Rối loạn nhịp thức ngủ do làm ca đêm",
+     "n": "Chưa phải: chỉ trực đêm 4 đêm, mất ngủ có từ trước, ca sáng cố định vẫn mất ngủ. Tiêu chuẩn chẩn đoán rối loạn do làm ca: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Rà lại thất bại điều trị và tiếp tục liệu pháp hành vi có điều chỉnh: giờ dậy cố định kể cả cuối tuần, bỏ điện thoại trên giường, bỏ ngủ chiều, nhật ký tiếp; chưa áp dụng hạn chế giấc ngủ vì chạy xe máy sáng sớm và đã suýt tai nạn",
+     "v": "c",
+     "n": "AASM 2021, khuyến cáo 2, 3 và ghi chú: hạn chế giấc ngủ có thể chống chỉ định ở nghề rủi ro cao như lái xe; ESRS 2023, mục 4.1.1: đánh giá phù hợp, theo dõi buồn ngủ và lái xe, điều chỉnh khi cần (hai tài liệu bổ trợ nhau, mục ghi nhận trong sổ). Số giờ nằm giường nên đặt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xin giữ ca sáng cố định; nếu buộc trực đêm thì không uống lại thuốc tự mua và không chạy xe máy khi buồn ngủ (nghỉ, nhờ người đưa về)",
+     "v": "c",
+     "n": "ESRS 2023, mục 3.5, Hình 1: nhịp thức ngủ không đồng bộ thì can thiệp nhịp sinh học; mục 4.1.1: theo dõi buồn ngủ và ảnh hưởng lái xe. Phác đồ cụ thể cho người làm ca (ánh sáng, giờ ngủ): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bỏ nước tăng lực và caffeine nhất là buổi chiều và sau ca đêm; không uống lại diphenhydramin",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023, mục 3.5 và Bảng 5; AASM 2017, khuyến cáo 11; ESRS 2023, mục 4.2.5, Bảng 16 (A)."
+    },
+    {
+     "t": "Chưa kê thuốc ngủ, tiếp tục liệu pháp hành vi; hoặc thuốc ngắn hạn tối đa 4 tuần sau quyết định chung kèm liệu pháp hành vi",
+     "v": "c",
+     "n": "ESRS 2023, Bảng 16, Hình 1; AASM 2026, khuyến cáo 1 (có điều kiện) và 2 (có điều kiện); QĐ 2058/2020 Bài 27 mục 4.1 (mục sổ về phối hợp CBT-I với thuốc đã có)."
+    },
+    {
+     "t": "Kê zolpidem hoặc benzodiazepin hằng đêm để 'cứu' tuần trực đêm hoặc tăng liều thuốc đã tự mua, không xử lý ca đêm và không hỏi chuyện lái xe",
+     "v": "w",
+     "n": "ESRS 2023, mục 4.2.1: hiệu ứng sót làm giảm khả năng lái xe, dung nạp, phụ thuộc, tối đa 4 tuần; anh đã suýt tai nạn và chạy xe sau ca đêm. AASM 2017 (khuyến cáo 2, 4, 5, 6) có gợi ý các thuốc này nhưng không xét bối cảnh lái xe."
+    },
+    {
+     "t": "Hẹn tái khám khoảng 4 tuần với nhật ký; không đáp ứng dù làm đúng thì đa ký và CBT-I đầy đủ",
+     "v": "c",
+     "n": "ESRS 2023, mục 3.4 (đa ký), mục 4.1.1 (CBT-I 4–8 buổi); AASM 2021, khuyến cáo 1. Khoảng 4 tuần là lựa chọn biên tập."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mất ngủ mạn chưa đáp ứng liệu pháp hành vi ngắn sau 2 tuần: hiệu suất giấc ngủ khoảng 67%, ISI khoảng 17",
+     "Yếu tố làm nặng: trực đêm bốn đêm, nước tăng lực 1–3 lon/ngày, dùng lại diphenhydramin 2 đêm, điện thoại trên giường; suýt tai nạn xe máy sau đêm trực",
+     "Không trầm cảm, không gợi ý ngưng thở; bỏ vitamin 14 ngày không đổi nên không phải nguyên nhân"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: mở nhật ký, hỏi đêm nào trực, uống lại thuốc không, nước tăng lực mấy lon; hỏi riêng chuyện lái xe vì anh giấu (ESRS 2023, mục 3.2, 3.5).",
+     "Quy trình khi không đỡ: sai chẩn đoán? Không, kiểu mất ngủ và khám không đổi. Sai thuốc? Không, đầu tay là liệu pháp hành vi (AASM 2021 khuyến cáo 1–3). Không tuân thủ? Một phần: vẫn lướt điện thoại, caffeine, dùng lại thuốc. Biến chứng? Có suýt tai nạn khi lái xe. Đề kháng? Chưa đủ cơ sở vì chưa làm trọn liệu pháp.",
+     "Trầm cảm và ngưng thở: vẫn không đủ tiêu chuẩn / không gợi ý (QĐ 2058/2020 Bài 20 mục 3.1.1; ESRS 2023, mục 3.4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ nguyên hướng hành vi nhưng gỡ các yếu tố làm nặng; không hạn chế giấc ngủ vì lái xe (AASM 2021, ghi chú khuyến cáo 1, 2, 4; ESRS 2023 mục 4.1.1).",
+     "Xử lý ca đêm: xin giữ ca sáng; nếu buộc trực đêm thì không dùng lại thuốc tự mua, không chạy xe khi buồn ngủ. Phác đồ nhịp sinh học: không có trong tài liệu đã tải.",
+     "Thuốc: không bắt buộc; nếu dùng thì ≤ 4 tuần kèm hành vi (ESRS 2023, Bảng 16, Hình 1; AASM 2026 khuyến cáo 1–2). Nhóm Z hằng đêm cho người chạy xe sáng sớm chấm w (ESRS 2023, mục 4.2.1).",
+     "Tái khám 4 tuần; mốc đổi hướng: vẫn không đỡ dù tuân thủ thì đa ký và CBT-I đầy đủ (ESRS 2023, mục 3.4, 4.1.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc ngủ lần khám này",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến lần tái khám",
+      "ghi_chu": "ESRS 2023, Bảng 16, Hình 1; AASM 2026 khuyến cáo 2. Nếu cùng quyết định dùng: ≤ 4 tuần, không tăng liều, không lái xe khi còn buồn ngủ (ESRS 2023, mục 4.2.1); liều khởi đầu: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Không dùng lại diphenhydramin 25 mg và nước tăng lực",
+      "ham_luong": "25 mg/viên",
+      "lieu": "Không dùng làm thuốc ngủ; nước tăng lực bỏ dần",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng buổi chiều tối",
+      "so_ngay": "Từ hôm nay",
+      "ghi_chu": "AASM 2017, khuyến cáo 11; ESRS 2023, mục 4.2.5, mục 3.5; QĐ 2058/2020 Bài 27 mục 4.3."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: không đỡ vì tuần trực đêm, caffeine và thuốc tự mua phá nhịp ngủ, không phải bệnh nặng hơn; vitamin không phải nguyên nhân.",
+     "Chỉ lên giường khi buồn ngủ, dậy cùng giờ cả ngày nghỉ, bỏ điện thoại khỏi giường, không ngủ chiều (AASM 2021, kiểm soát kích thích a–e).",
+     "Xin quản lý ca sáng cố định. Nếu bắt buộc trực đêm: không uống lại thuốc ngủ tự mua; nếu thấy buồn ngủ khi hết ca thì không chạy xe, nhờ người đưa hoặc nghỉ tại chỗ (ESRS 2023, mục 4.1.1: theo dõi buồn ngủ và lái xe).",
+     "Bỏ nước tăng lực, nhất là buổi chiều và sau ca đêm (QĐ 2058/2020 Bài 27 mục 4.3).",
+     "Tiếp tục nhật ký (ESRS 2023, mục 3.2); tái khám khoảng 4 tuần, sớm hơn nếu lơ mơ khi lái xe, ngưng thở, buồn chán hoặc ý nghĩ tự hại."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Anh Lâm Quốc Bảo, 29 tuổi, tái khám sau 4 tuần, mang nhật ký 14 ngày. Anh đã được giữ ca sáng cố định, không uống thuốc ngủ, chỉ còn một lon nước tăng lực buổi sáng, nhưng ngủ vẫn chưa đỡ: 'em làm đúng hết rồi mà vẫn thức lúc 2–3 giờ'. Sinh hiệu: mạch 78 l/p, HA 116/72 mmHg, nhiệt 36,6 °C, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 67 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Hẹn lại và tiếp tục liệu pháp ngắn như cũ dù anh đã tuân thủ 4 tuần (ca sáng cố định, bỏ thuốc, giảm caffeine) mà hiệu suất giấc ngủ chỉ đạt khoảng 74%: không đổi hướng khi ESRS 2023, mục 3.4 xem mất ngủ không đáp ứng là chỉ định đa ký để tìm rối loạn giấc ngủ ẩn, và mục 4.1.1 đặt CBT-I đầy đủ 4–8 buổi do chuyên viên. Anh mất thêm nhiều tuần thiếu ngủ, nản và dễ quay lại tự mua thuốc ngủ.",
+    "nhap_vien": "Không có chỉ định nhập viện: anh tỉnh táo, sinh hiệu bình thường (QĐ 2058/2020, Bài 27 không nêu chỉ định nhập viện). Nằm viện làm anh nghỉ làm, tốn tiền, và cho thuốc ngủ ngay là đi ngược thứ tự CBT-I trước, thuốc sau (ESRS 2023, Bảng 16, Hình 1)."
+   },
+   "loi_mo": "Chào bác sĩ. Quản lý cho em ca sáng cố định cả tháng rồi, em bỏ thuốc, nước tăng lực chỉ còn một lon sáng, em dậy đúng 4 giờ 30. Nhật ký em ghi đủ 14 ngày. Em vẫn thức 2–3 giờ sáng, tim đập mạnh. Em có phải bị bệnh gì khác không bác sĩ, hay chỉ cần uống thuốc ngủ cho xong?",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "116/72",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "nhat_ky",
+     "noi_dung": "Nhật ký 14 ngày, tuân thủ tốt: dậy 4 giờ 30 mọi ngày kể cả cuối tuần (14/14), bỏ ngủ chiều 13/14 ngày, không điện thoại trên giường 12/14 đêm. Nằm giường trung bình 7 giờ 15, ngủ ước 5 giờ 30, hiệu suất giấc ngủ khoảng 76%. Vào giấc dễ, thức lúc 2–3 giờ sáng gần mọi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dữ liệu nhật ký sau 4 tuần tuân thủ"
+    },
+    {
+     "id": "yeu_to",
+     "noi_dung": "Từ lượt trước: không uống diphenhydramin hay thuốc ngủ nào, không rượu, một lon nước tăng lực buổi sáng, không trực đêm. Vitamin vẫn ngưng (6 tuần), không đổi triệu chứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xác nhận loại hết yếu tố làm nặng"
+    },
+    {
+     "id": "ngung_tho",
+     "noi_dung": "Bạn cùng phòng mới nói anh ngáy nhẹ khi nằm ngửa, không ngưng thở, không giật mình thở dốc. Không đau đầu sáng, ban ngày không buồn ngủ gục, chân không khó chịu, không giật chân khi ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lại ngưng thở, chân không yên"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Hỏi riêng: vẫn đá bóng, ăn ngon, không buồn, không nghĩ tự hại; bực và lo vì vẫn thiếu ngủ dù làm đúng.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói chi tiết khi hỏi lại tâm trạng, hứng thú, ý nghĩ tự hại.",
+     "y": "Đánh giá lại tâm trạng"
+    },
+    {
+     "id": "ban_ngay",
+     "noi_dung": "Ban ngày mệt vừa, tập trung được, không ngủ gật; chạy xe không còn lơ mơ nhưng ngại; ISI khoảng 15.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hậu quả ban ngày và an toàn lái xe"
+    },
+    {
+     "id": "mong_doi",
+     "noi_dung": "Anh muốn 'uống thuốc ngủ cho xong' nhưng sợ nghiện; đồng ý gặp chuyên viên giấc ngủ nếu được giải thích rõ; ngại chi phí.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kỳ vọng và chia sẻ quyết định"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Anh không còn nghĩ hóa chất hay vitamin là thủ phạm; nay lo 'có bệnh gì ẩn' và mất ngủ kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi lo còn lại sau 2 lượt"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt. BMI 22,6 kg/m². Da ấm khô.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1, T2 rõ, không thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, lo vừa về giấc ngủ, khí sắc không trầm. Không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác."
+    }
+   },
+   "cls": {
+    "psg": {
+     "v": "a",
+     "r": "Hiệu suất giấc ngủ 76%, tổng thời gian ngủ 5 giờ 20, thức nhiều giai đoạn 2–3 giờ sáng. AHI 2 lần/giờ, SpO₂ thấp nhất 95%, chỉ số vận động chi chu kỳ 3 lần/giờ. Không có cơn ngưng thở hay giật chi đáng kể.",
+     "n": "ESRS 2023, mục 3.4: đa ký cho mất ngủ không đáp ứng điều trị, để tìm rối loạn giấc ngủ ẩn; không cần để chẩn đoán mất ngủ. AASM 2017 (chẩn đoán OSA) chỉ dùng đa ký khi nguy cơ OSA vừa–nặng; hai tài liệu khác mục đích, ca được phép làm vì không đáp ứng. Chấp nhận, không bắt buộc: có thể để tuyến chuyên khoa làm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mất ngủ mạn không đáp ứng liệu pháp hành vi ngắn dù tuân thủ 4 tuần, không có rối loạn giấc ngủ khác trên đa ký (nếu làm)",
+     "ok": 1,
+     "n": "Đã loại các yếu tố làm nặng (ca đêm, caffeine, thuốc tự mua, vitamin) và tuân thủ tốt mà hiệu suất giấc ngủ chỉ 76%, ISI khoảng 15: mất ngủ mạn thật sự, cần CBT-I đầy đủ 4–8 buổi do chuyên viên (ESRS 2023, mục 4.1.1; AASM 2021, khuyến cáo 1)."
+    },
+    {
+     "t": "Ngưng thở khi ngủ, vận động chi chu kỳ",
+     "n": "Loại trừ: không gợi ý lâm sàng (BMI 22,6, ngáy nhẹ, không ngưng thở) và đa ký nếu làm cho AHI 2 lần/giờ (ESRS 2023, mục 3.4, 3.5). Ngưỡng AHI chẩn đoán OSA: không có trong tài liệu đã tải (TL-0481 chỉ có phần phụ lục)."
+    },
+    {
+     "t": "Giai đoạn trầm cảm, rối loạn lo âu",
+     "n": "Loại trừ lại: còn hứng thú, ăn ngon, không tự hại (QĐ 2058/2020 Bài 20 mục 3.1.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hẹn bác sĩ giấc ngủ hoặc chuyên viên tâm lý lâm sàng làm CBT-I đầy đủ (4–8 buổi), kèm nhật ký và kết quả; điều chỉnh hạn chế giấc ngủ cho người chạy xe máy",
+     "v": "c",
+     "n": "ESRS 2023, mục 4.1.1: CBT-I 4–8 buổi do chuyên viên; Bảng 16: CBT-I đầu tay (A), mất ngủ không đáp ứng thì đánh giá lại. AASM 2021, khuyến cáo 1 (mạnh). Nơi có chuyên viên tại địa phương: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đa ký nếu chưa làm (có thể ở tuyến chuyên khoa)",
+     "v": "a",
+     "n": "ESRS 2023, mục 3.4: đa ký cho mất ngủ không đáp ứng, nghi rối loạn ngủ khác; AASM 2017 chẩn đoán OSA: chỉ khi nguy cơ OSA vừa–nặng (ghi nhận, hai mục đích khác nhau)."
+    },
+    {
+     "t": "Chưa kê thuốc ngủ; hoặc nếu cùng quyết định dùng thuốc thì ngắn hạn tối đa 4 tuần kèm CBT-I, không lái xe khi còn buồn ngủ",
+     "v": "c",
+     "n": "ESRS 2023, Bảng 16, Hình 1 (thuốc khi CBT-I chưa đủ, BZ/BZRA ≤ 4 tuần); AASM 2026 khuyến cáo 1–2 (có điều kiện); QĐ 2058/2020 Bài 27 mục 4.1. Liều và thuốc cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc nhóm Z hằng đêm kéo dài để 'cho xong', không CBT-I",
+     "v": "w",
+     "n": "ESRS 2023, mục 4.2.1, Bảng 16: chỉ ngắn hạn ≤ 4 tuần, dung nạp, phụ thuộc, hiệu ứng sót khi lái xe; QĐ 2058/2020 Bài 27 mục 5: biến chứng của lạm dụng thuốc giải lo âu. Anh chạy xe máy lúc sáng sớm và sợ nghiện."
+    },
+    {
+     "t": "Tiếp tục nhật ký ngủ, giờ dậy cố định, tránh caffeine buổi chiều; dặn dấu hiệu cần đến sớm",
+     "v": "c",
+     "n": "ESRS 2023, mục 3.2, 4.1.1; QĐ 2058/2020 Bài 27 mục 4.3 và mục 5 (phát hiện muộn có thể dẫn đến lo âu, trầm cảm)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mất ngủ mạn không đáp ứng liệu pháp hành vi ngắn sau 6 tuần theo dõi; hiệu suất giấc ngủ 74–76%, ISI khoảng 15",
+     "Đã loại yếu tố làm nặng (ca đêm, caffeine, thuốc tự mua, vitamin); đa ký không thấy ngưng thở hay vận động chi chu kỳ; không trầm cảm",
+     "Cần CBT-I đầy đủ do chuyên viên; không dùng thuốc ngủ kéo dài"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: kiểm tra tuân thủ bằng nhật ký trước khi kết luận 'không đáp ứng'; xác nhận lại thuốc, caffeine; hỏi người cùng phòng về ngáy, ngưng thở; hỏi lại tâm trạng (ESRS 2023, mục 3.2, 3.5).",
+     "Vì sao tới ngưỡng chuyển: đã tuân thủ trọn 4 tuần, loại hết yếu tố làm nặng mà vẫn không đỡ; ESRS 2023, mục 3.4 khuyến cáo đa ký ở mất ngủ không đáp ứng để tìm rối loạn giấc ngủ ẩn (A), mục 4.1.1 CBT-I đầy đủ 4–8 buổi.",
+     "Đa ký (nếu làm): không OSA, không vận động chi chu kỳ (ESRS 2023, mục 3.4: không cần cho chẩn đoán mất ngủ). AASM 2017 OSA chỉ dùng đa ký khi nguy cơ OSA vừa–nặng.",
+     "Điểm gãy nếu bỏ sót: không hỏi thuốc tự mua và chuyện lái xe, không xử lý ca đêm, kê thuốc ngủ thay cho điều trị yếu tố duy trì (xem kết cục)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển/hẹn CBT-I đầy đủ do chuyên viên là bước tiếp theo hợp lý khi liệu pháp ngắn ở phòng khám chưa đủ (ESRS 2023, mục 4.1.1; AASM 2021 khuyến cáo 1 mạnh). Điều chỉnh hạn chế giấc ngủ vì anh chạy xe máy (AASM 2021, ghi chú; ESRS 2023, mục 4.1.1).",
+     "Thuốc ngủ không phải bước đầu: nếu cần thì ngắn hạn ≤ 4 tuần kèm CBT-I (ESRS 2023, Bảng 16, Hình 1; AASM 2026 khuyến cáo 1–2 có điều kiện); kê dài hạn hằng đêm chấm w. Anh sợ nghiện, hợp hướng CBT-I (ESRS 2023, mục 4.1.1).",
+     "Chuyển tuyến kèm tóm tắt: nhật ký 14 ngày, thuốc đã ngừng, kết quả đa ký, an toàn lái xe. Mẫu chuyển tuyến: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc ngủ lần khám này",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến khi bắt đầu CBT-I",
+      "ghi_chu": "ESRS 2023, Bảng 16, Hình 1; AASM 2026 khuyến cáo 2. Nếu cùng quyết định dùng thuốc ngắn hạn: ≤ 4 tuần, kèm CBT-I, không tăng liều (ESRS 2023, mục 4.2.1); chọn thuốc và liều: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: không có bệnh ẩn nào được tìm thấy; mất ngủ của anh chữa được bằng CBT-I đầy đủ, hiệu quả bền hơn thuốc và không gây nghiện (ESRS 2023, mục 4.1.1).",
+     "Giữ giờ dậy cố định, nhật ký ngủ, bỏ ngủ chiều, bỏ điện thoại trên giường, hạn chế nước tăng lực (AASM 2021, kiểm soát kích thích; QĐ 2058/2020 Bài 27 mục 4.3).",
+     "Không tự mua thuốc ngủ; khi thấy buồn ngủ lúc lái xe thì dừng nghỉ, không chạy tiếp (ESRS 2023, mục 4.1.1).",
+     "Mang nhật ký và kết quả đa ký khi đến chuyên khoa; đến sớm nếu buồn chán kéo dài, ý nghĩ tự hại, ngáy to ngưng thở hoặc ngủ gục ban ngày (QĐ 2058/2020 Bài 20 mục 3.1.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Đường đúng: anh Bảo bỏ diphenhydramin, giảm nước tăng lực, làm liệu pháp hành vi ngắn; lượt 2 gỡ ca đêm, caffeine, thuốc tự mua; lượt 3 được gửi làm CBT-I đầy đủ và loại ngưng thở khi ngủ. Anh hiểu hóa chất và vitamin không phải thủ phạm. Đường bỏ sót (biến chứng): bác sĩ nghe 'nhiễm độc, mất ngủ' và 'thuốc ngủ nhẹ' rồi kê zolpidem hằng đêm (hoặc benzodiazepin) cho nhanh, không hỏi tên thuốc anh đã tự mua, không hỏi chuyện đi xe máy lúc 4 giờ 45 sáng và sau ca đêm, không hẹn lại sớm. Anh uống thuốc kê đơn cộng diphenhydramin còn dư, ngủ được vài đêm. Một sáng sau đêm trực, 6 giờ 20, anh chạy xe máy về khi thuốc còn tác dụng, ngủ gục và ngã, gãy xương đòn. Hiệu ứng sót khi lái xe nêu ở ESRS 2023, mục 4.2.1; kháng histamin không được khuyến cáo (AASM 2017, khuyến cáo 11). Điểm gãy trong chuỗi quyết định: (1) không hỏi cụ thể thuốc mua ở nhà thuốc và nước tăng lực; (2) không hỏi nghề, ca trực và việc lái xe; (3) chọn thuốc nhóm Z thay vì liệu pháp hành vi và xử lý yếu tố làm nặng; (4) không hẹn tái khám có mốc. Tai nạn là kịch bản minh họa.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: diphenhydramin 25 mg × 2 viên/đêm gây khô miệng, lờ đờ, tim đập nhanh buổi sáng; anh gán cho hóa chất hay vitamin; hỏi chung chỉ nhận 'vitamin' (ESRS 2023, mục 3.5; AASM 2017, khuyến cáo 11).",
+  "Nỗi sợ nhiễm độc thần kinh, tê ngón tay do tư thế: khám bình thường, không hội chứng cường cholin (QĐ 3610/2015, Bài 6 mục 2.1).",
+  "Nước tăng lực 'không phải cà phê': caffeine ẩn duy trì mất ngủ, chỉ khai khi hỏi cụ thể (ESRS 2023, Bảng 5)."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi cụ thể thuốc mua ở nhà thuốc, thuốc để ngủ, tên, số viên, số đêm (ESRS 2023, mục 3.5).",
+  "Mất ngủ ở người đi làm ca và chạy xe máy: hỏi lái xe, ca trực; không kê thuốc ngủ hằng đêm khi chưa xử lý yếu tố làm nặng (ESRS 2023, mục 4.2.1, 4.1.1).",
+  "Không đỡ thì chạy quy trình: chẩn đoán, thuốc, tuân thủ (đọc nhật ký), yếu tố làm nặng, biến chứng, rồi mới đề kháng và đa ký (ESRS 2023, mục 3.4, 3.5).",
+  "Biến chứng do bỏ sót: truy nguyên điểm gãy ở bước hỏi bệnh và chọn thuốc."
+ ],
+ "diem_nho": [
+  "Mất ngủ mạn: ≥ 3 đêm/tuần, ≥ 3 tháng (ESRS 2023, Bảng 2) hoặc ≥ 1 tháng (QĐ 2058/2020 Bài 27 mục 3.1.1), có hậu quả ban ngày.",
+  "CBT-I đầu tay (AASM 2021, khuyến cáo 1 mạnh; ESRS 2023, Bảng 16 A); thuốc ngủ khi CBT-I chưa đủ, BZ/BZRA ≤ 4 tuần (ESRS 2023, Hình 1); kháng histamin không khuyến cáo (AASM 2017, khuyến cáo 11; ESRS 2023, Bảng 16 A).",
+  "Đa ký khi mất ngủ không đáp ứng điều trị hoặc nghi rối loạn ngủ khác (ESRS 2023, mục 3.4); sàng lọc OSA ở mọi người mất ngủ (mục 3.5)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 27 (mục 3.1.1, 3.2, 4.1, 4.3, 5); Bài 20 mục 3.1.1.",
+  "ESRS 2023 – The European Insomnia Guideline, J Sleep Res 2023;32:e14035 – TL-0464 – Bảng 2, 4, 5, 16; mục 3.2, 3.4, 3.5, 4.1.1, 4.2.1, 4.2.5; Hình 1.",
+  "AASM 2021 – Behavioral and psychological treatments for chronic insomnia disorder in adults, J Clin Sleep Med 2021;17(2):255-262 – TL-0470 – khuyến cáo 1–6, ghi chú nghề rủi ro cao, bảng mô tả can thiệp.",
+  "AASM 2017 – Pharmacologic treatment of chronic insomnia in adults, J Clin Sleep Med 2017;13(2):307-349 – TL-0482 – khuyến cáo 2, 4–6, 11.",
+  "AASM 2026 – Combination treatment for chronic insomnia disorder in adults, J Clin Sleep Med 2026;22(1) – TL-0448 – khuyến cáo 1, 2 và remark.",
+  "BYT – QĐ 3610/QĐ-BYT 2015, Hướng dẫn chẩn đoán và xử trí ngộ độc (kho cũ tltk-10000-ca) – Bài 6, mục 2.1, 2.2.",
+  "AASM 2017 – Diagnostic testing for adult OSA – TL-0481 – chỉ có phụ lục, không trích khuyến cáo."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 2026-10-25, viết: Sonnet. Đã đọc: TL-0443 (Bài 27 trọn, Bài 20 mục 3.1.1); TL-0464 ESRS 2023 (mục 3, 4.1.1, 4.2.1, 4.2.5, Bảng 2, 4, 5, 16, Hình 1); TL-0470 AASM 2021 (khuyến cáo, ghi chú nghề rủi ro cao, bảng can thiệp); TL-0482 AASM 2017 (khuyến cáo 1–14); TL-0448 AASM 2026 (khuyến cáo 1–2); QĐ 3610/2015 (Bài 6 mục 2.1–2.2, kho cũ).",
+  "Không có trong tài liệu đã tải: điểm cắt STOP-Bang; ngưỡng AHI chẩn đoán OSA; tiêu chuẩn rối loạn giấc ngủ do làm ca và phác đồ nhịp sinh học; liều, cách ngừng, tác dụng phụ diphenhydramin ở người trẻ; giờ cắt caffeine; hiệu ứng hóa chất diệt rệp lên giấc ngủ và độc tính hoạt chất khác phospho hữu cơ; tác động của vitamin lên giấc ngủ; liều thuốc ngủ; khoảng tái khám (2, 4 tuần là lựa chọn biên tập); số giờ nằm giường khi hạn chế giấc ngủ.",
+  "Mục sổ đã có, ghi cả hai cách (TT-0161): thuốc ngủ BZ/nhóm Z (Beers không áp dụng vì 29 tuổi); phối hợp CBT-I với thuốc; vệ sinh giấc ngủ đơn thuần; thời gian tối thiểu mất ngủ mạn (ca có 5 tháng). Ghi nhận như TT-0159/TT-0146: hạn chế giấc ngủ ở nghề rủi ro cao; đa ký. Không có mâu thuẫn mới.",
+  "Mức chấm theo sổ: BZ/nhóm Z hằng đêm hoặc kéo dài chấm w; phối hợp ngắn hạn gộp một mục c. Đa ký lượt 3 chấm a. Tai nạn trong ket_cuc là kịch bản minh họa."
+ ]
+}
