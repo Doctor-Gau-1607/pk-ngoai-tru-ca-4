@@ -1,0 +1,704 @@
+{
+ "ma_ca": "TK-0447",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TK_dau_dau_lam_dung_thuoc",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Đau đầu do lạm dụng thuốc giảm đau",
+  "chan_doan_phai_loai_tru": [
+   "Migraine mạn",
+   "U não"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Lao công (nhân viên vệ sinh khoa nội bệnh viện huyện)",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho",
+  "thuoc_dang_dung": "Thuốc ngủ an thần",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Mận",
+  "tuoi": 52,
+  "gioi": "Nữ",
+  "nghe": "Lao công (nhân viên vệ sinh khoa nội bệnh viện huyện)",
+  "can_nang": 52,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi bà là 'cô'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Cẩn thận, lo xa, nói nhanh, hay lướt điện thoại tìm bệnh. Tiết kiệm, ngại nghỉ làm vì bị trừ lương nên hay nói giảm. Quý bác sĩ nhưng dễ hoang mang khi nghe chữ 'tim', 'đột quỵ'. Hiểu biết y khoa ít.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: vào là nói ngay 'thiếu máu lên não', đòi chụp CT và thuốc bổ não, ngắt lời khi bác sĩ giải thích. Coi viên Panadol Extra và thuốc cảm là 'thuốc cho khỏe', chỉ kể khi bác sĩ hỏi cụ thể tên thuốc, số viên, số ngày. Nỗi sợ nhồi máu cơ tim giấu kín cho tới khi được hỏi cô còn lo gì.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c8956f",
+   "toc": "#2c2622",
+   "kieuToc": "bui",
+   "ao": "#4f7a6b",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau đầu kéo dài, sợ thiếu máu lên não, xin chụp CT",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT (nên cũng không có MRI sọ). Làm được xét nghiệm máu, nước tiểu, X-quang, siêu âm và điện tim."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Cô Trần Thị Mận, 52 tuổi, lao công khoa nội bệnh viện huyện, đi khám một mình sau ca sáng. Đau đầu gần như hằng ngày nhiều năm, mười ngày nay nặng hơn sau một đợt cảm. Cô đọc trên mạng thấy ghi 'đau đầu kéo dài là thiếu máu lên não' nên xin chụp CT và thuốc bổ não. Sinh hiệu: HA 128/80 mmHg, mạch 78 l/p, nhiệt 36,8 °C.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Cô Mận được chuyển lên bệnh viện tỉnh chụp CT/MRI sọ vì 'đau đầu mạn' dù không có cờ đỏ nào (u não < 0,1% ở người không tiền sử ung thư; chụp hình ở người không cờ đỏ phần lớn không thấy gì: SNNOOP10 (Do 2019, TL-0476) mục Neoplasm in history, Discussion). Cô mất ngày công và tiền đi lại, trong lúc chờ vẫn uống Panadol Extra mỗi ngày nên MOH không đổi, và cô càng tin mình có bệnh nặng chưa tìm ra (EAN 2020 (TL-0473) PICO 3, tr. 4–5).",
+    "nhap_vien": "Cô Mận nhập viện nội khoa 'để cai thuốc'. MOH chỉ do thuốc giảm đau đơn giản cai ngoại trú thành công tương đương nội trú; nội trú dành cho người dùng opioid, barbiturat, an thần dài hạn, nhiều thuốc hoặc đã thất bại trước đó (EAN 2020 (TL-0473) PICO 5, tr. 7–8; Box 3, tr. 10). Cô mất thu nhập cả tuần lễ, lo thêm vì nghĩ mình mắc bệnh nặng, và vẫn chưa được hỏi đến nỗi sợ nhồi máu cơ tim.",
+    "theo_doi": "Cô Mận chỉ được dặn 'nghỉ ngơi, bớt cà phê, đau thì tái khám' mà không nói gì về viên thuốc. Cô vẫn uống Panadol Extra mỗi ngày, đau đầu không đổi, nỗi sợ nhồi máu không được hỏi ra nên còn nguyên. Không có giải thích về thuốc, nhật ký và hẹn tái khám nghĩa là bỏ mất bước giáo dục, bước chính của điều trị MOH (EAN 2020 (TL-0473) PICO 3, tr. 4–5; PICO 7, tr. 9–10)."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi đau đầu hoài, mấy hôm nay nặng thêm. Tôi đọc trên mạng nói đau đầu kéo dài là thiếu máu lên não, sắp đột quỵ. Bác sĩ cho tôi chụp CT não với thuốc bổ não đi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "128/80",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau đầu gần như hằng ngày mấy năm nay, mười ngày nay nặng hơn. Cô đọc trên mạng thấy ghi đau đầu kéo dài là 'thiếu máu lên não, sắp đột quỵ', nên xin chụp CT và thuốc bổ não.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, chẩn đoán tự tra mạng"
+    },
+    {
+     "id": "kieu_dau",
+     "noi_dung": "Đau cả hai bên, từ gáy lan lên đỉnh đầu và hai thái dương, âm ỉ như bị siết, mức 4/10, đau suốt ngày. Không đập theo mạch, không buồn nôn, không chói mắt hay sợ tiếng ồn. Đi lại, cúi lau sàn không làm đau thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau kiểu căng thẳng, không giống migraine"
+    },
+    {
+     "id": "tan_suat",
+     "noi_dung": "Đau như vậy hơn 4 năm, trung bình khoảng 25 ngày mỗi tháng; những năm đầu chỉ vài ngày mỗi tháng. Từ khi cảm 10 ngày nay thì nặng hơn, 5/10, đau cả ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần suất ≥ 15 ngày/tháng, thời gian > 3 tháng"
+    },
+    {
+     "id": "thuoc_giam_dau",
+     "noi_dung": "Gần như ngày nào cũng uống viên 'Panadol Extra' (paracetamol 500 mg + caffeine 65 mg, theo vỏ hộp) mua ở tiệm thuốc đầu ngõ, 2–3 viên mỗi ngày, khoảng 25 ngày mỗi tháng, hơn một năm nay. Mười ngày nay thêm 2 viên thuốc cảm mỗi ngày (vỏ hộp có paracetamol). Cô coi đó là 'thuốc cảm, thuốc ngủ ngon cho khỏe', không phải thuốc đau đầu.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì cô chỉ kể thuốc ngủ. Chỉ kể và mang vỏ hộp ra khi bác sĩ hỏi cụ thể thuốc giảm đau, thuốc đau đầu, thuốc cảm tự mua, mỗi ngày mấy viên, mỗi tháng mấy ngày.",
+     "y": "Lạm dụng thuốc giảm đau kết hợp có caffeine"
+    },
+    {
+     "id": "dau_hieu_phu_thuoc",
+     "noi_dung": "Quên uống đến trưa là đầu nặng thêm, bồn chồn nên phải uống. Có lần thử nhịn hai ngày thì đau dữ hơn, buồn nôn, tay run, rồi uống lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu phụ thuộc thuốc"
+    },
+    {
+     "id": "khong_co_do",
+     "noi_dung": "Không có cơn đau sét đánh. Không sốt, không cứng cổ, không nôn vọt. Không yếu liệt, tê, nói ngọng, nhìn đôi. Đau không tăng khi ho, hắt hơi, đổi tư thế. Không chấn thương đầu, không tiền sử ung thư.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có cờ đỏ SNNOOP10"
+    },
+    {
+     "id": "khoi_phat_cam",
+     "noi_dung": "Hơn 10 ngày trước cô dọn buồng bệnh có người ho nhiều. Vài ngày sau sổ mũi, ho, nhức mình, không sốt cao. Nay hết sốt, còn ho khan nhẹ. Đau đầu nặng hơn từ lúc đó nên cô uống thêm thuốc cảm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: tiếp xúc người bệnh ho"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Hơn 8 tháng nay uống Seduxen 5 mg (diazepam) nửa đến một viên mỗi tối, mua không đơn ở tiệm thuốc vì ngủ chập chờn, thức dậy 3 giờ sáng để đi làm. Thử bỏ vài đêm thì không ngủ được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc ngủ an thần"
+    },
+    {
+     "id": "tim_nhoi",
+     "noi_dung": "Anh ruột 55 tuổi mất đột ngột vì nhồi máu cơ tim hai tháng trước, đang làm thì gục. Từ đó thỉnh thoảng cô nhói ngực trái vài giây, hồi hộp lúc căng thẳng hoặc sau cà phê, không liên quan gắng sức. Cô sợ mình 'giống anh', cho đau đầu là báo hiệu. Không dám nói vì sợ bị bảo có bệnh tim, tốn tiền, nghỉ làm.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cô còn lo gì, vì sao hôm nay mới đi khám, có đau ngực hay hồi hộp không, hoặc gia đình có ai bị bệnh tim. Khi nói ra thì xin 'khám tim luôn cho chắc'.",
+     "y": "Lý do thật: sợ nhồi máu cơ tim"
+    },
+    {
+     "id": "tien_su_dau_nua_dau",
+     "noi_dung": "Hồi 25–40 tuổi mỗi vài tháng lên một cơn đau nửa đầu bên phải, buồn nôn, nằm phòng tối ngủ là đỡ. Bốn năm nay không còn cơn như vậy mà chuyển thành đau đều hai bên.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Uống 2 ly cà phê sữa mỗi ngày (sáng, đầu giờ chiều), ngủ 4–5 giờ. Không hút thuốc, không uống rượu, không tăng huyết áp hay tiểu đường, mãn kinh 2 năm, chưa thử mỡ máu. Làm ca 5–13 giờ, hay hít hóa chất lau sàn, ngại nghỉ vì bị trừ lương.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói nhanh, hơi lo âu. Gầy (52 kg, cao 153 cm), da niêm hồng, không phù.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Ấn cơ thái dương, cơ thang và cơ chẩm hai bên đau (tăng đau cơ quanh sọ). Động mạch thái dương đập đều, mềm, da đầu không đau. Vận động cổ đủ, không hạch cổ, ấn vùng xoang không đau.",
+     "k": 1,
+     "hien": "Ấn cơ thái dương, cơ vai gáy hai bên thấy đau. Ấn vùng xoang không đau; động mạch thái dương đập đều."
+    },
+    "than_kinh": {
+     "a": "Glasgow 15. Cổ mềm, Kernig và Brudzinski âm tính. Dây sọ bình thường. Sức cơ 5/5 bốn chi, cảm giác đều, phản xạ gân xương đều hai bên, không Babinski. Đi đứng vững, Romberg âm tính.",
+     "k": 1,
+     "hien": "Tỉnh, trả lời đúng, cúi cổ chạm ngực được, không liệt, đi đứng vững."
+    },
+    "day_mat": {
+     "a": "Gai thị hai bên hồng, bờ rõ, không phù; có mạch đập tĩnh mạch võng mạc.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran. Ho khan nhẹ khi hít sâu.",
+     "k": 0,
+     "hien": "Nhịp thở 16 l/p, thở đều êm; thỉnh thoảng ho khan.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 78 l/p, trục bình thường, QRS hẹp, ST–T bình thường.",
+     "n": "Cô có nhói ngực, anh ruột mất vì nhồi máu cơ tim: điện tim là bước đầu của đánh giá nghi hội chứng vành cấp (ESC 2023 ACS (TL-0069) mục 3.2) và là thành phần E của HEART (Backus 2013 (TL-0110) Bảng 1). Tài liệu đã tải không có hướng dẫn riêng cho đau ngực ngoại trú ổn định."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "Hb 128 g/L · BC 6,9 G/L · TC 262 G/L",
+     "bang": {
+      "wbc": 6.9,
+      "neu_pct": 62.0,
+      "neu": 4.28,
+      "lym_pct": 30.0,
+      "lym": 2.07,
+      "mono_pct": 6.0,
+      "mono": 0.41,
+      "eos_pct": 1.5,
+      "eos": 0.1,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.35,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 90.0,
+      "mch": 29.4,
+      "mchc": 328,
+      "rdw": 13.2,
+      "plt": 262
+     },
+     "n": "Không thiếu máu, không bạch cầu tăng sau đợt cảm. Không bắt buộc cho chẩn đoán; tiêu chí chỉ định công thức máu trong đau đầu mạn: không có trong tài liệu đã tải."
+    },
+    "trop": {
+     "v": "n",
+     "n": "Nhói ngực vài giây, đã nhiều ngày, không đau cấp lúc này; HEART dùng cho đau ngực cấp ở cấp cứu (Backus 2013 (TL-0110)). Không làm."
+    },
+    "crp": {
+     "v": "n",
+     "n": "Không sốt, không cờ đỏ viêm/nhiễm trùng thần kinh (SNNOOP10 (Do 2019, TL-0476) mục Systemic symptoms including fever). Không làm."
+    },
+    "ct_nao": {
+     "v": "n",
+     "n": "Không có chỉ định: không cờ đỏ SNNOOP10 (u não < 0,1% ở người đau đầu không tiền sử ung thư, mục Neoplasm in history). Cơ sở cũng không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau đầu do lạm dụng thuốc giảm đau kết hợp có caffeine (paracetamol + caffeine) trên nền đau đầu căng thẳng mạn, nặng thêm do cảm cúm và thuốc cảm",
+     "ok": 1,
+     "n": "Đau đầu ≥ 15 ngày/tháng (khoảng 25) ở người có đau đầu nguyên phát từ trước, dùng thuốc kết hợp có caffeine ≥ 10 ngày/tháng trên 3 tháng (ICHD-3 2018 (TL-0480) mục 8.2, 8.2.5, tr. 122–124). Nền là đau đầu căng thẳng mạn có ấn đau cơ quanh sọ (mục 2.3, 2.3.1, tr. 37); khi có lạm dụng thuốc phải ghi cả hai (mục 2.3 ghi chú 3, tr. 38). Phụ nữ 40–50 tuổi gặp nhiều nhất (SNNOOP10 (Do 2019, TL-0476) mục Painkiller overuse)."
+    },
+    {
+     "t": "Migraine mạn",
+     "n": "Đau hiện tại hai bên, siết, không nôn, không chói mắt: không có đặc điểm migraine. Migraine mạn cần ≥ 8 ngày/tháng có đặc điểm migraine (ICHD-3 2018 (TL-0480) mục 1.3). Khoảng 50% ca giống migraine mạn trở về từng cơn sau khi ngừng thuốc nên chưa gắn nhãn trước khi cai (mục 1.3 ghi chú 5)."
+    },
+    {
+     "t": "U não hoặc tổn thương choán chỗ",
+     "n": "Không dấu thần kinh khu trú, đáy mắt không phù gai, không tiền sử ung thư, kiểu đau quen hơn 4 năm. Nguy cơ u não ở người đau đầu không tiền sử ung thư < 0,1% (SNNOOP10 (Do 2019, TL-0476) mục Neoplasm in history). Cơ sở không có CT/MRI nên loại trừ bằng lâm sàng và theo dõi có mốc."
+    },
+    {
+     "t": "Thiếu máu não, đột quỵ (nỗi sợ từ mạng)",
+     "n": "Không dấu thần kinh khu trú, khởi phát không đột ngột, kiểu đau không đổi nhiều năm: không có cờ đỏ (SNNOOP10 (Do 2019, TL-0476) mục Neurologic deficit, Onset of headache is sudden)."
+    },
+    {
+     "t": "Đau đầu thứ phát do nhiễm virus hô hấp",
+     "n": "Đợt cảm 10 ngày trước chỉ làm nặng thêm; đã hết sốt, không cứng cổ, đau hằng ngày có từ hơn 4 năm. Đau đầu kèm sốt mới là cờ cần tìm nhiễm trùng (SNNOOP10 (Do 2019, TL-0476) mục Systemic symptoms including fever)."
+    },
+    {
+     "t": "Bệnh mạch vành, hội chứng vành cấp",
+     "n": "Nhói ngực trái vài giây, không liên quan gắng sức, điện tim bình thường, không tăng huyết áp, tiểu đường hay hút thuốc. Triệu chứng hàng đầu của ACS là khó chịu ngực cấp kiểu đau, đè, thắt, nặng, bỏng (ESC 2023 ACS (TL-0069) mục 3.1.1). Còn tiền sử gia đình nên không bảo 'không có gì': cần giải thích và theo dõi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: đau đầu hằng ngày chủ yếu do chính viên thuốc giảm đau–caffeine uống kéo dài (đau đầu do lạm dụng thuốc) trên nền đau đầu căng thẳng, không phải thiếu máu não hay u; nói rõ khám chưa thấy dấu hiệu nguy hiểm",
+     "v": "c",
+     "n": "Giáo dục và tư vấn là bước đầu, làm được ở tuyến cơ sở; ngừng thuốc kèm lời khuyên đạt thành công > 70% sau 2 tháng ở MOH đơn giản (EAN 2020 (TL-0473) Tóm tắt; PICO 3, tr. 4–5; Box 3, tr. 10; ICHD-3 2018 (TL-0480) mục 8.2 Comments, tr. 122)."
+    },
+    {
+     "t": "Ngừng ngay Panadol Extra và mọi thuốc cảm/giảm đau tự mua, ngừng đột ngột tại nhà",
+     "v": "c",
+     "n": "Ngừng đột ngột dùng được và hiệu quả ở người lạm dụng thuốc giảm đau đơn giản: giảm số ngày đau 42% so với 22% khi vẫn cho dùng 2 ngày/tuần (EAN 2020 (TL-0473) PICO 5, tr. 7; Box 3, tr. 10). Co giật/ảo giác khi cai hiếm, kể cả thuốc có caffeine (PICO 6, tr. 8). EAN không tách riêng thuốc kết hợp có caffeine."
+    },
+    {
+     "t": "Giảm dần Panadol Extra (bớt 1 viên sau vài ngày) thay vì ngừng hẳn",
+     "v": "a",
+     "n": "EAN 2020 (TL-0473) PICO 5, tr. 7: ngừng đột ngột và giảm dần đều được đề xuất để tăng tuân thủ; ngừng hẳn hiệu quả hơn về số ngày đau. Lịch giảm cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo trước giai đoạn cai: đau đầu nặng hơn, buồn nôn, hồi hộp, tim đập nhanh, lo âu, ngủ kém khoảng 2–10 ngày; đau đầu do bỏ caffeine hết trong ≤ 7 ngày; đây không phải dấu hiệu bệnh tim hay đột quỵ",
+     "v": "c",
+     "n": "EAN 2020 (TL-0473) PICO 6, tr. 8: triệu chứng cai gồm đau đầu cai, buồn nôn, nôn, hạ huyết áp, tim nhanh, mất ngủ, chán ăn, bồn chồn, lo âu; kéo dài 2–10 ngày (trung bình 3,5), thuốc giảm đau khoảng 10 ngày. ICHD-3 2018 (TL-0480) mục 8.3.1, tr. 125: đau đầu cai caffeine (> 200 mg/ngày > 2 tuần) khởi phát ≤ 24 giờ, tự hết trong ≤ 7 ngày. Hàm lượng caffeine mỗi ly cà phê: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc cứu cánh 7 ngày đầu: paracetamol đơn chất 500–1.000 mg/lần khi đau nặng, tối đa 3 g/ngày, không dùng thuốc có caffeine",
+     "v": "c",
+     "n": "EAN 2020 (TL-0473) PICO 6, tr. 9: acetaminophen 1.000 mg theo nhu cầu trong ngày 1–7. QĐ 361/2014 (TL-0286) Phụ lục thuốc giảm đau mục 3.1, tr. 202: 500–1.000 mg/lần, cách 6–8 giờ, tối đa 4 g/24 giờ; Phụ lục NSAID mục 3.3, tr. 199: nhóm nguy cơ cao < 3 g/ngày. Ca chọn trần 3 g (thận trọng hơn): cô gầy, uống paracetamol dài ngày."
+    },
+    {
+     "t": "Naproxen 500 mg cứu cánh, tối đa 3 ngày trong tuần đầu",
+     "v": "a",
+     "n": "EAN 2020 (TL-0473) PICO 6, tr. 8–9: naproxen có lợi làm thuốc cứu cánh khi cai thuốc. Nguy cơ tiêu hóa của NSAID: QĐ 361/2014 (TL-0286) Phụ lục NSAID mục 3.3, tr. 198–199 (nữ giới là yếu tố nguy cơ trung bình). Chấp nhận, nhưng paracetamol đơn chất đơn giản hơn."
+    },
+    {
+     "t": "Phát nhật ký đau đầu ghi ngày đau và ngày uống thuốc; mục tiêu thuốc cắt cơn < 10 ngày/tháng; hẹn tái khám sau 2 tuần, đánh giá lại sau 2 tháng",
+     "v": "c",
+     "n": "EAN 2020 (TL-0473) PICO 7, tr. 9–10: nhật ký giấy giúp hạn chế tái phát; theo dõi sát mỗi 2 tháng có tỉ lệ tái phát 6,5%. Thành công sau 2 tháng là về dạng từng cơn và < 10 ngày dùng thuốc/tháng (PICO 3, tr. 4). IHS 2024 điều trị cắt cơn Bảng 2 câu 12: thuốc giảm đau/NSAID 2–3 ngày/tuần và < 10 ngày/tháng."
+    },
+    {
+     "t": "Làm điện tim và hỏi ra nỗi sợ nhồi máu cơ tim; giải thích điện tim bình thường, nhói vài giây không giống đau thắt ngực; dặn đi cấp cứu ngay nếu đau, đè, thắt ngực kéo dài",
+     "v": "c",
+     "n": "Lý do thật là anh ruột mất vì nhồi máu cơ tim. ESC 2023 ACS (TL-0069) mục 3.1.1, 3.2: triệu chứng hàng đầu là khó chịu ngực cấp kiểu đau, đè, thắt, nặng, bỏng; điện tim là công cụ đầu tay. HEART (Backus 2013 (TL-0110) Bảng 1, dành cho cấp cứu): bệnh sử ít nghi ngờ 0 + điện tim bình thường 0 + tuổi > 45–< 65 là 1 + yếu tố nguy cơ (tiền sử gia đình) 1; 0–3 là nhóm nguy cơ thấp; chưa có troponin. Hướng dẫn ngoại trú cho đau ngực không điển hình: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc ngủ diazepam: giữ nguyên liều, không ngừng đột ngột, không tăng; hẹn bàn kế hoạch giảm dần khi đau đầu đã ổn; dặn vệ sinh giấc ngủ",
+     "v": "c",
+     "n": "Joint CPG Benzodiazepine Tapering 2025 (TL-0575) Giới thiệu và Key takeaway 3: không ngừng benzodiazepine đột ngột ở người có thể đã phụ thuộc (phụ thuộc có thể xuất hiện sau vài tuần), vì có thể gây co giật, mê sảng. Dùng thuốc an thần là yếu tố nguy cơ MOH (EAN 2020 (TL-0473) PICO 1, tr. 3). CBT-I là điều trị đầu tay cho mất ngủ mạn, thuốc ngủ chỉ ngắn hạn ≤ 4 tuần (ESRS 2023 (TL-0464) Tóm tắt). Không cai hai thứ cùng lúc để dễ theo dõi: diễn giải của người soạn."
+    },
+    {
+     "t": "Không chụp CT/MRI hôm nay; dặn các dấu hiệu mới sẽ phải chuyển tuyến chụp ngay (đau sét đánh, yếu liệt, nói khó, nhìn đôi, sốt kèm cứng cổ, đau nặng dần)",
+     "v": "c",
+     "n": "Không cờ đỏ; chụp hình ở người không cờ đỏ phần lớn không phát hiện gì và làm tăng lo lắng (SNNOOP10 (Do 2019, TL-0476) mục Evidence for red and orange flags, Discussion). Các cờ cần chuyển tuyến: mục Onset sudden, Neurologic deficit, Papilledema, Progressive headache."
+    },
+    {
+     "t": "Gửi chụp MRI sọ theo hẹn (không khẩn) để cô yên tâm",
+     "v": "a",
+     "n": "Không có chỉ định (SNNOOP10 (Do 2019, TL-0476) Discussion), tốn tiền và ngày công khi cô chưa ngừng thuốc; chấp nhận vì cô rất lo và có người nhà mất đột ngột. Cơ sở không có CT/MRI nên phải chuyển tuyến."
+    },
+    {
+     "t": "Tiếp tục hoặc đổi sang thuốc giảm đau khác dùng hằng ngày (NSAID, paracetamol–codein, thuốc có caffeine) cho 'đỡ đau'",
+     "v": "w",
+     "n": "Tiếp tục nuôi MOH: ngưỡng lạm dụng ≥ 15 ngày/tháng với thuốc giảm đau đơn giản, ≥ 10 ngày/tháng với thuốc kết hợp (ICHD-3 2018 (TL-0480) mục 8.2.3, 8.2.5, tr. 123–124); cốt lõi điều trị là ngừng thuốc lạm dụng (EAN 2020 (TL-0473) PICO 5, tr. 7–8)."
+    },
+    {
+     "t": "Kê thuốc 'bổ não, hoạt huyết' hoặc truyền dịch theo yêu cầu cho 'thiếu máu não'",
+     "v": "w",
+     "n": "Không có trong tài liệu đã tải; củng cố niềm tin sai và trì hoãn việc ngừng thuốc giảm đau (EAN 2020 (TL-0473) PICO 3, tr. 4–5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau đầu do lạm dụng thuốc giảm đau kết hợp có caffeine (paracetamol 500 mg + caffeine 65 mg), ICHD-3 mã 8.2.5",
+     "Nền: đau đầu căng thẳng mạn có ấn đau cơ quanh sọ (ICHD-3 mã 2.3.1), trên tiền sử đau nửa đầu hồi trẻ",
+     "Đợt nặng thêm sau nhiễm virus hô hấp trên và dùng thêm thuốc cảm",
+     "Đau ngực thoáng qua không điển hình, lo âu về bệnh tim sau cái chết của anh ruột; điện tim bình thường",
+     "Mất ngủ mạn đang dùng diazepam không đơn hơn 8 tháng, có thể đã phụ thuộc",
+     "Caffeine nhiều (thuốc + cà phê): nguy cơ đau đầu cai caffeine khi ngừng"
+    ],
+    "phan_tich_chan_doan": [
+     "Đau đầu khoảng 25 ngày/tháng trên 4 năm; Panadol Extra (thuốc kết hợp có caffeine) khoảng 25 ngày/tháng hơn một năm: vượt ngưỡng ≥ 10 ngày/tháng trên 3 tháng (ICHD-3 2018 (TL-0480) mục 8.2.5, tr. 124). Thuốc cảm chứa paracetamol cộng thêm. Cô không coi đây là 'thuốc đau đầu' nên chỉ kể khi bác sĩ hỏi tên thuốc, số viên/ngày, số ngày/tháng.",
+     "Quên thuốc thì nặng, nhịn hai ngày thì run, buồn nôn: ICHD-3 mục 8.2 Comments, tr. 123 nói hành vi của một số bệnh nhân MOH giống các nghiện thuốc khác.",
+     "Nền đau đầu căng thẳng mạn: hai bên, siết, nhẹ–vừa, không nôn, không nặng thêm khi vận động, ấn đau cơ quanh sọ (ICHD-3 2018 (TL-0480) mục 2.3, tr. 37). Chưa gọi là migraine mạn vì thiếu 8 ngày/tháng có đặc điểm migraine (mục 1.3); chẩn đoán lại sau khi ngừng thuốc.",
+     "Không cờ đỏ SNNOOP10: không sốt, không dấu thần kinh, đáy mắt bình thường, không đột ngột, không tiền sử ung thư, tuổi 52 (cờ tuổi là khởi phát sau 65 tuổi) (SNNOOP10 (Do 2019, TL-0476)). Vì vậy không cần hình ảnh; cơ sở không có CT không đổi quyết định.",
+     "Lý do thật là sợ nhồi máu cơ tim sau khi anh ruột mất: cô không nói ngay, chỉ nói khi được hỏi cô còn lo gì. Điện tim bình thường và nhói vài giây không liên quan gắng sức cho phép giải thích có cơ sở; vẫn dặn dấu hiệu cần cấp cứu vì có tiền sử gia đình (ESC 2023 ACS (TL-0069) mục 3.1.1).",
+     "Chẩn đoán tự tra mạng 'thiếu máu lên não': không bác bỏ thô; dùng chính kết quả khám thần kinh và đáy mắt của cô để trả lời."
+    ],
+    "phan_tich_xu_tri": [
+     "Bước chính là giáo dục và ngừng thuốc lạm dụng, làm được ngoại trú (EAN 2020 (TL-0473) PICO 3, 5; Box 3). Không khởi thuốc dự phòng hôm nay: thứ tự EAN là giáo dục trước, dự phòng khi giáo dục không hiệu quả (Tóm tắt; Box 3, tr. 10).",
+     "Cô báo hồi hộp, tim đập nhanh có thể xuất hiện lúc cai: cần nói trước để cô không hoảng nghĩ là bệnh tim (EAN 2020 (TL-0473) PICO 6, tr. 8).",
+     "Thuốc cứu cánh tuần đầu: paracetamol đơn chất (EAN PICO 6, tr. 9), trần 3 g/ngày; tài liệu Việt (QĐ 361/2014) cho tới 4 g/ngày ở người không có nguy cơ, ca chọn mức thận trọng hơn.",
+     "Thuốc ngủ giữ nguyên liều; cai thuốc đau đầu trước, bàn kế hoạch giảm diazepam sau (Joint CPG Benzodiazepine Tapering 2025 (TL-0575) Key takeaway 3).",
+     "Không chụp hình: không cờ đỏ, và cơ sở không có CT; chỉ chuyển tuyến khi xuất hiện cờ đỏ (SNNOOP10 (Do 2019, TL-0476))."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Panadol Extra (paracetamol 500 mg + caffeine 65 mg) và thuốc cảm tự mua — NGỪNG",
+      "ham_luong": "Viên 500 mg + 65 mg",
+      "lieu": "Ngừng hoàn toàn",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Triệu chứng cai thường 2–10 ngày, thuốc giảm đau khoảng 10 ngày",
+      "ghi_chu": "EAN 2020 (TL-0473) Box 3, tr. 10; PICO 6, tr. 8. Thuốc cảm không thay thế bằng thuốc khác có paracetamol."
+     },
+     {
+      "thuoc": "Paracetamol (đơn chất, không caffeine) — thuốc cứu cánh",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1–2 viên/lần (500–1.000 mg), cách nhau ít nhất 6–8 giờ, chỉ khi đau nặng; tối đa 6 viên (3 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, khi đau nặng không chịu nổi",
+      "so_ngay": "Chỉ 7 ngày đầu",
+      "ghi_chu": "EAN 2020 (TL-0473) PICO 6, tr. 9 (1.000 mg theo nhu cầu); QĐ 361/2014 (TL-0286) Phụ lục thuốc giảm đau mục 3.1, tr. 202 (≤ 4 g/ngày) và Phụ lục NSAID mục 3.3, tr. 199 (< 3 g/ngày nhóm nguy cơ): ca chọn trần 3 g. Mốc 7 ngày lấy từ phác đồ COMOESTAS trong EAN."
+     },
+     {
+      "thuoc": "Diazepam (Seduxen) đang dùng — GIỮ NGUYÊN",
+      "ham_luong": "Viên 5 mg",
+      "lieu": "1/2–1 viên trước ngủ như cũ, không tăng, không tự ngừng",
+      "duong": "Uống",
+      "thoi_diem": "Tối trước ngủ",
+      "so_ngay": "Đến khi bàn kế hoạch giảm dần (lượt tái khám)",
+      "ghi_chu": "Đang dùng, giữ nguyên; không ngừng đột ngột (Joint CPG Benzodiazepine Tapering 2025 (TL-0575) Key takeaway 3). Bác sĩ không kê thêm."
+     }
+    ],
+    "dan_do": [
+     "Đau đầu hằng ngày của cô chủ yếu do viên thuốc uống kéo dài, không phải thiếu máu não; ngừng viên thuốc là cách chữa chính.",
+     "Ngừng Panadol Extra và thuốc cảm từ hôm nay; vài ngày đầu đau nặng hơn, buồn nôn, hồi hộp, ngủ kém là bình thường, thường qua trong 2–10 ngày (EAN 2020 (TL-0473) PICO 6, tr. 8). Đừng uống lại viên cũ; đau nặng chịu không nổi mới dùng paracetamol theo đơn, tối đa 6 viên mỗi ngày.",
+     "Ghi nhật ký mỗi ngày: có đau không, mức mấy trên 10, uống thuốc gì. Mang theo vỏ hộp mọi loại thuốc đã mua.",
+     "Giảm cà phê còn 1 ly buổi sáng; không uống cà phê, trà đặc buổi chiều.",
+     "Đừng tự ngừng thuốc ngủ; tối cố định giờ đi ngủ, tránh điện thoại trước ngủ. Sẽ bàn giảm thuốc ngủ dần ở lần sau.",
+     "Đi cấp cứu ngay nếu đau, đè, thắt ngực kéo dài, vã mồ hôi, khó thở; hoặc nếu đau đầu sét đánh, yếu liệt nửa người, nói khó, nhìn đôi, sốt kèm cứng cổ.",
+     "Tái khám sau 2 tuần mang nhật ký, đánh giá lại sau 2 tháng (EAN 2020 (TL-0473) PICO 3, 7). Điện tim bình thường là dấu hiệu tốt nhưng anh cô mất vì bệnh tim nên sẽ kiểm tra mỡ máu và huyết áp định kỳ."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Cô Mận tái khám sau hai tuần. Cô đã ngừng hẳn Panadol Extra và thuốc cảm, đau đầu hằng ngày thưa dần. Mấy hôm nay xuất hiện kiểu đau mới: hai cơn đau một bên phải, đập theo mạch, buồn nôn, chói mắt; cô hoảng vì sợ đột quỵ. Sinh hiệu: HA 124/78 mmHg, mạch 76 l/p, nhiệt 36,7 °C.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Cô Mận được đưa đi cấp cứu vì 'đau một bên đầu, buồn nôn, sợ đột quỵ'. Cô tỉnh, khám thần kinh bình thường, không đau sét đánh, cơn giống cơn cũ: không có cờ đỏ (SNNOOP10 (Do 2019, TL-0476) mục Onset sudden, Neurologic deficit). Cô mất ngày công và tiền, bị chụp hình không cần, trong khi điều cần là thuốc cắt cơn đúng cách và giới hạn số ngày dùng (IHS 2024 điều trị cắt cơn Bảng 2 câu 12).",
+    "chuyen_tuyen": "Cô Mận được chuyển tuyến trên để chụp MRI sọ vì cơn đau một bên mới. Cơn có đủ đặc điểm migraine, giống cơn hồi 30 tuổi, khám bình thường (ICHD-3 2018 (TL-0480) mục 1.1, tr. 19); hình ảnh ở người không cờ đỏ phần lớn bình thường (SNNOOP10 (Do 2019, TL-0476) Discussion). Cô tốn tiền, ngày công và vẫn chưa biết cách cắt cơn an toàn nên dễ quay lại thuốc cũ.",
+    "theo_doi": "Cô Mận chỉ được dặn 'có cơn thì uống thuốc giảm đau' mà không giới hạn số ngày hay loại thuốc. Cô dễ quay lại viên paracetamol–caffeine mỗi cơn, rồi uống thêm cả những ngày không đau để 'phòng', và MOH tái phát (hầu hết tái phát trong năm đầu: EAN 2020 (TL-0473) PICO 7, tr. 9). Không có nhật ký và hẹn tái khám thì không thấy sớm; giới hạn số ngày thuốc là điều cốt lõi (IHS 2024 điều trị cắt cơn Bảng 2 câu 12)."
+   },
+   "loi_mo": "Bác sĩ ơi, đầu tôi bớt đau hằng ngày rồi, nhưng mấy hôm nay lại có kiểu đau khác, đau nhói một bên phải, buồn nôn, ánh sáng chói là khó chịu. Tôi sợ nó là đột quỵ thật.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "124/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau đầu hằng ngày đã bớt từ ngày thứ 6 sau khi ngừng thuốc, nhưng mấy hôm nay có hai cơn đau một bên phải, buồn nôn, chói mắt, cô sợ đó là đột quỵ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám lượt 2, triệu chứng mới"
+    },
+    {
+     "id": "cai_thuoc",
+     "noi_dung": "Ngừng hẳn Panadol Extra và thuốc cảm từ hôm khám. Bốn ngày đầu đau nặng hơn, buồn nôn, tim đập nhanh, ra mồ hôi tay, ngủ kém; cô suýt uống lại nhưng nhớ lời dặn. Dùng paracetamol 500 mg × 2 viên trong 4 ngày của tuần đầu, không dùng thuốc nào khác. Từ ngày thứ 6 dịu dần. Cà phê giảm còn 1 ly mỗi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cai thuốc thành công, triệu chứng cai theo dự đoán"
+    },
+    {
+     "id": "nhat_ky",
+     "noi_dung": "Nhật ký trên lịch: 14 ngày qua có 5 ngày đau đầu, gồm 3 ngày đau âm ỉ hai bên nhẹ (2–3/10) và 2 ngày đau nửa đầu. Dùng paracetamol 3 ngày trong tuần thứ hai, không dùng thuốc có caffeine.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Số ngày đau và ngày dùng thuốc"
+    },
+    {
+     "id": "con_dau_moi",
+     "noi_dung": "Cơn đầu cách đây 5 ngày, cơn hai hôm kia. Đau bên phải từ thái dương tới sau hốc mắt, đập theo mạch, 7/10, đi lại làm đau thêm, buồn nôn (không nôn), chói mắt, sợ tiếng ồn, phải nằm phòng tối. Kéo dài nửa ngày đến cả ngày; paracetamol 1 g chỉ đỡ một phần. Giống các cơn hồi cô 30 tuổi. Không chớp sáng, không tê, không yếu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm migraine không aura, giống cơn cũ"
+    },
+    {
+     "id": "canh_bao",
+     "noi_dung": "Không đau sét đánh, không sốt, không cứng cổ, không nói khó, không yếu liệt, không lơ mơ, không nhìn đôi. Đau không tăng khi ho hay hắt hơi. Không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có cờ đỏ"
+    },
+    {
+     "id": "tim_mach",
+     "noi_dung": "Không đau ngực hay khó thở khi gắng sức. Những cơn nhói ngực trái đã hết từ tuần trước. Huyết áp đo ở trạm y tế chưa từng cao. Không tiểu đường, không hút thuốc, chưa thử mỡ máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đánh giá tim mạch trước khi dùng triptan"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Vẫn uống diazepam 5 mg nửa–một viên mỗi tối như dặn. Ngủ khoảng 5 giờ. Cô hỏi bỏ hẳn được chưa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc ngủ an thần"
+    },
+    {
+     "id": "mong_muon",
+     "noi_dung": "Cô muốn thuốc 'cắt cơn thật mạnh' và chụp MRI 'cho chắc' vì cơn một bên làm cô sợ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói chuyện thoải mái hơn lượt trước, không vẻ đau. Da niêm hồng.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Ấn đau cơ thang hai bên nhẹ hơn lượt trước. Động mạch thái dương đập đều, không đau. Cổ vận động đủ.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Glasgow 15. Cổ mềm, Kernig và Brudzinski âm tính. Dây sọ bình thường, không liệt mặt. Sức cơ 5/5 bốn chi, cảm giác đều, phản xạ đều hai bên, không Babinski. Đi đứng vững.",
+     "k": 1,
+     "hien": "Tỉnh, cúi cổ chạm ngực được, không liệt, đi đứng vững."
+    },
+    "day_mat": {
+     "a": "Gai thị hai bên hồng, bờ rõ, không phù; có mạch đập tĩnh mạch võng mạc.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "n",
+     "n": "Điện tim lượt 1 bình thường, không còn nhói ngực; không đổi xử trí. Không làm lại."
+    },
+    "ct_nao": {
+     "v": "n",
+     "n": "Cơn một bên giống cơn cũ hồi 30 tuổi, khám thần kinh và đáy mắt bình thường, không cờ đỏ (SNNOOP10 (Do 2019, TL-0476)). Cơ sở không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau đầu do lạm dụng thuốc giảm đau đang hồi phục sau ngừng thuốc; đau đầu căng thẳng nền; migraine không aura từng cơn xuất hiện trở lại",
+     "ok": 1,
+     "n": "MOH thường hết sau khi ngừng thuốc (ICHD-3 2018 (TL-0480) mục 8.2 Description, tr. 122); số ngày đau giảm từ khoảng 25 xuống khoảng 11/tháng, dùng thuốc < 10 ngày/tháng. Hai cơn mới đủ tiêu chuẩn migraine không aura: 4–72 giờ, một bên, đập theo mạch, nặng thêm khi đi lại, buồn nôn và chói mắt/sợ tiếng ồn (mục 1.1, tr. 19); cô có cơn tương tự hồi 30 tuổi."
+    },
+    {
+     "t": "Migraine mạn",
+     "n": "Số ngày đau khoảng 11/tháng, dưới 15 ngày: không đạt (ICHD-3 2018 (TL-0480) mục 1.3). Khoảng 50% ca giống migraine mạn trở về từng cơn sau khi ngừng thuốc (mục 1.3 ghi chú 5): đúng diễn tiến của cô."
+    },
+    {
+     "t": "U não, đột quỵ, xuất huyết (cơn một bên mới)",
+     "n": "Đau kiểu mới là cờ cam cần xem lại cờ đỏ (SNNOOP10 (Do 2019, TL-0476) mục Pattern change or recent onset). Đã xem: không sét đánh, không dấu thần kinh, đáy mắt bình thường, cơn giống hệt cơn cũ, hồi phục hoàn toàn giữa các cơn."
+    },
+    {
+     "t": "Đau đầu cai caffeine hoặc cai thuốc kéo dài",
+     "n": "Đau đầu cai caffeine tự hết ≤ 7 ngày (ICHD-3 2018 (TL-0480) mục 8.3.1, tr. 125), cai thuốc giảm đau khoảng 10 ngày (EAN 2020 (TL-0473) PICO 6, tr. 8); cô đã qua 2 tuần và cơn mới có đặc điểm migraine."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Công nhận cô đã cai thành công: số ngày đau giảm rõ, dùng thuốc ít; tiếp tục không dùng lại thuốc có caffeine hay thuốc cảm hằng ngày",
+     "v": "c",
+     "n": "Ngừng thuốc lạm dụng giúp trở về dạng từng cơn ở phần lớn bệnh nhân (EAN 2020 (TL-0473) PICO 5, tr. 8, khuyến cáo mạnh); mục tiêu < 10 ngày dùng thuốc/tháng (PICO 3, tr. 4)."
+    },
+    {
+     "t": "Giải thích cơn mới là đau nửa đầu vốn có của cô, lộ ra khi không còn thuốc 'che', không phải đột quỵ; không chụp hình; dặn dấu hiệu phải cấp cứu hoặc chuyển tuyến",
+     "v": "c",
+     "n": "Tiêu chuẩn migraine không aura (ICHD-3 2018 (TL-0480) mục 1.1, tr. 19); kiểm lại cờ đỏ vì đau kiểu mới (SNNOOP10 (Do 2019, TL-0476) mục Pattern change). Cờ cần chuyển ngay: đau sét đánh, dấu thần kinh khu trú, phù gai, sốt kèm cứng cổ, đau nặng dần (các mục Onset sudden, Neurologic deficit, Papilledema, Progressive headache)."
+    },
+    {
+     "t": "Cắt cơn: ibuprofen 400 mg uống sớm ngay khi bắt đầu cơn, sau ăn; thêm metoclopramide 10 mg nếu buồn nôn (hoặc paracetamol 1.000 mg)",
+     "v": "c",
+     "n": "IHS 2024 điều trị cắt cơn Bảng 1 (ibuprofen 400–600 mg, paracetamol 1.000 mg, metoclopramide 10 mg uống); Bảng 2 câu 4 (thêm thuốc chống nôn khi buồn nôn). Ibuprofen ≤ 1.200 mg/ngày (QĐ 361/2014 (TL-0286) Phụ lục NSAID, Bảng liều, tr. 200; uống sau ăn: mục 2) là mức thận trọng hơn mức 2,4 g/ngày của WHO AWaRe 2022 (theo sổ mâu thuẫn, mục NSAID tự chăm sóc)."
+    },
+    {
+     "t": "Giới hạn thuốc cắt cơn: 2–3 ngày/tuần và < 10 ngày/tháng; không quay lại thuốc có caffeine hay thuốc kết hợp; ghi nhật ký",
+     "v": "c",
+     "n": "IHS 2024 điều trị cắt cơn Bảng 2 câu 12: giảm đau/NSAID 2–3 ngày/tuần và < 10 ngày/tháng (thuốc kết hợp với triptan: 2 ngày/tuần, < 8 ngày/tháng). Ngưỡng MOH: ICHD-3 2018 (TL-0480) mục 8.2.3, 8.2.5, tr. 123–124. Paracetamol–caffeine có nguy cơ MOH và đau đầu cai caffeine (IHS 2024 điều trị cắt cơn Bảng 2 câu 15, phần người > 65 tuổi)."
+    },
+    {
+     "t": "Triptan (sumatriptan 50–100 mg) cho cơn nếu NSAID không đủ, sau khi đã hỏi và khám tim mạch",
+     "v": "a",
+     "n": "IHS 2024 điều trị cắt cơn Bảng 2 câu 1: đổi sang triptan cho cơn sau nếu thuốc giảm đau/NSAID dùng sớm, đủ liều không hiệu quả; câu 15–16: chỉ dùng khi không tăng huyết áp chưa kiểm soát hay bệnh tim mạch nặng; Bảng 1: sumatriptan uống 50–100 mg. Cô có tiền sử gia đình, điện tim bình thường: chấp nhận nhưng không phải bước đầu."
+    },
+    {
+     "t": "Dự phòng migraine: chưa khởi thuốc hôm nay, theo nhật ký 2 tháng rồi quyết định, hoặc khởi thuốc dự phòng migraine ngay",
+     "v": "c",
+     "n": "Hai cách đều đúng. Cách A: EAN 2020 (TL-0473) Tóm tắt, PICO 5 (tr. 8), Box 3 (tr. 10): giáo dục và ngừng thuốc trước, dự phòng nếu giáo dục không hiệu quả; sớm hay muộn chưa rõ. Cách B: IHS 2024 dự phòng Bảng 2 câu 1: gợi ý dự phòng khi ≥ 4 ngày đau đầu/tháng; câu 16: giảm thuốc lạm dụng đồng thời hoặc trước khi khởi dự phòng đều được. Khác nhau vì EAN 2020 là hướng dẫn riêng cho MOH, chưa có thử nghiệm so sánh dự phòng sớm/muộn; IHS 2024 mới hơn, dành cho migraine. Thuốc nếu chọn: propranolol 120–240 mg/ngày, topiramate 25–200 mg/ngày (không dùng ở phụ nữ còn khả năng có thai: EAN PICO 4, tr. 6), amitriptyline 25–150 mg/ngày (IHS 2024 dự phòng Bảng 1); liều khởi đầu và chuẩn độ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc ngủ: chưa ngừng hẳn; chọn kế hoạch giảm dần cùng cô, kèm vệ sinh giấc ngủ/CBT-I",
+     "v": "c",
+     "n": "Joint CPG Benzodiazepine Tapering 2025 (TL-0575) Key takeaway 3 và 5: không ngừng đột ngột; nhịp ban đầu thường giảm 5–10% mỗi 2–4 tuần, không quá 25% mỗi 2 tuần, người dùng liều thấp ngắn hơn 3 tháng có thể giảm nhanh hơn. CBT-I đầu tay, thuốc ngủ ngắn hạn ≤ 4 tuần (ESRS 2023 (TL-0464) Tóm tắt). Dạng thuốc có thể chia nhỏ cho từng bước giảm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần mang nhật ký, đánh giá lại ở mốc 2 tháng sau ngừng thuốc",
+     "v": "c",
+     "n": "EAN 2020 (TL-0473) PICO 7, tr. 9–10: theo dõi lượng thuốc bằng nhật ký và tái khám đều giúp hạn chế tái phát; ICHD-3 2018 (TL-0480) mục 1.3 ghi chú 5: chẩn đoán lại migraine sau khi cai. Mốc 4 tuần do người soạn chọn."
+    },
+    {
+     "t": "Cho cô dùng lại viên paracetamol–caffeine hoặc thuốc cảm để 'cắt cơn mạnh'",
+     "v": "w",
+     "n": "Dẫn về MOH: ICHD-3 2018 (TL-0480) mục 8.2.5, tr. 124; IHS 2024 điều trị cắt cơn Bảng 2 câu 15 cảnh báo paracetamol–caffeine gây MOH và đau đầu cai caffeine."
+    },
+    {
+     "t": "Kê thuốc opioid hoặc paracetamol–codein để cắt cơn",
+     "v": "w",
+     "n": "IHS 2024 điều trị cắt cơn Bảng 2 câu 11: tránh opioid. Opioid có tỉ lệ tái phát MOH cao nhất (ICHD-3 2018 (TL-0480) mục 8.2.4, tr. 124)."
+    },
+    {
+     "t": "Bảo cô ngừng ngay diazepam vì 'đã khỏi đau đầu'",
+     "v": "w",
+     "n": "Joint CPG Benzodiazepine Tapering 2025 (TL-0575) Giới thiệu, Key takeaway 3: không ngừng benzodiazepine đột ngột ở người có thể đã phụ thuộc."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau đầu do lạm dụng thuốc giảm đau kết hợp có caffeine (ICHD-3 mã 8.2.5), đang hồi phục sau 2 tuần ngừng thuốc",
+     "Migraine không aura từng cơn (ICHD-3 mã 1.1) xuất hiện trở lại khi thuốc không còn che",
+     "Đau đầu căng thẳng nền còn nhẹ",
+     "Mất ngủ mạn đang dùng diazepam, cần kế hoạch giảm dần",
+     "Lo âu về bệnh tim và đột quỵ đã giảm sau khi được giải thích"
+    ],
+    "phan_tich_chan_doan": [
+     "Cai thuốc thành công: ngày đau giảm từ khoảng 25 xuống khoảng 11/tháng, dùng paracetamol 3 ngày trong 14 ngày, không caffeine. Đây là kết quả kỳ vọng của ngừng thuốc (EAN 2020 (TL-0473) PICO 5, tr. 8). Triệu chứng cai (đau, buồn nôn, tim nhanh, ngủ kém) trong 5 ngày đầu khớp mô tả (EAN 2020 (TL-0473) PICO 6, tr. 8).",
+     "Triệu chứng mới là đau một bên, đập theo mạch, buồn nôn, chói mắt, sợ tiếng ồn, nặng thêm khi đi lại, kéo dài nửa ngày: đủ tiêu chuẩn migraine không aura (ICHD-3 2018 (TL-0480) mục 1.1, tr. 19) và giống cơn hồi 30 tuổi. Đây là migraine nền vốn bị che bởi đau đầu hằng ngày và thuốc, không phải bệnh mới.",
+     "Vẫn phải xem lại cờ đỏ vì đau kiểu mới (SNNOOP10 (Do 2019, TL-0476) mục Pattern change or recent onset): không sét đánh, không dấu thần kinh, không sốt, đáy mắt bình thường. Cơ sở không có CT nhưng không cần.",
+     "Chưa gọi migraine mạn: số ngày đau dưới 15/tháng (ICHD-3 2018 (TL-0480) mục 1.3 ghi chú 5: sau cai nhiều ca trở về từng cơn).",
+     "Nhiễu tự tra mạng 'đột quỵ' quay lại với cơn mới: dùng khám thần kinh, đáy mắt và lời mô tả cơn để trả lời, không hạ thấp nỗi sợ của cô."
+    ],
+    "phan_tich_xu_tri": [
+     "Cắt cơn theo bậc: NSAID/paracetamol sớm, thêm thuốc chống nôn khi buồn nôn; triptan khi không đáp ứng (IHS 2024 điều trị cắt cơn Bảng 2 câu 1, 4). Giới hạn ngày dùng để không tái tạo MOH (câu 12).",
+     "Dự phòng: hai cách đều đúng (EAN 2020 giáo dục trước, dự phòng nếu giáo dục không đủ; IHS 2024 gợi ý dự phòng khi ≥ 4 ngày đau đầu/tháng và cho khởi song song với giảm thuốc lạm dụng). Ca này chọn theo dõi nhật ký tới mốc 2 tháng vì cô đang đáp ứng tốt; nếu chọn dự phòng ngay cũng chấp nhận.",
+     "Triptan chỉ sau khi hỏi tim mạch: không tăng huyết áp chưa kiểm soát, không bệnh tim mạch nặng (IHS 2024 điều trị cắt cơn Bảng 2 câu 15–16). Anh ruột mất vì nhồi máu cơ tim nên cân nhắc kỹ, ưu tiên NSAID trước.",
+     "Thuốc ngủ: giảm dần cùng cô, không ngừng đột ngột (Joint CPG Benzodiazepine Tapering 2025 (TL-0575) Key takeaway 3, 5); bắt đầu CBT-I (ESRS 2023 (TL-0464) Tóm tắt).",
+     "Không chụp hình: cơn giống cơn cũ, khám bình thường; cơ sở không có CT/MRI."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ibuprofen — thuốc cắt cơn migraine",
+      "ham_luong": "Viên 400 mg",
+      "lieu": "1 viên khi bắt đầu cơn; nếu cần lặp lại sau ít nhất 6–8 giờ; tối đa 3 viên (1.200 mg)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Ngay khi bắt đầu cơn, sau ăn",
+      "so_ngay": "Chỉ khi có cơn; tối đa 2–3 ngày/tuần và < 10 ngày/tháng",
+      "ghi_chu": "IHS 2024 điều trị cắt cơn Bảng 1 (400–600 mg), Bảng 2 câu 12; QĐ 361/2014 (TL-0286) Phụ lục NSAID, Bảng liều, tr. 200 (400–1.200 mg/24 giờ): lấy trần 1.200 mg là mức thận trọng hơn. Khoảng cách 6–8 giờ do người soạn chọn, không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Metoclopramide — khi buồn nôn",
+      "ham_luong": "Viên 10 mg",
+      "lieu": "1 viên khi buồn nôn, tối đa 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng lúc với thuốc cắt cơn",
+      "so_ngay": "Chỉ khi có cơn",
+      "ghi_chu": "IHS 2024 điều trị cắt cơn Bảng 1 (10 mg uống) và Bảng 2 câu 4; 3 lần/ngày theo phác đồ COMOESTAS (EAN 2020 (TL-0473) PICO 6, tr. 9). Giới hạn số ngày dùng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol (đơn chất) — lựa chọn thay thế khi không dùng được NSAID",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "2 viên (1.000 mg) khi bắt đầu cơn, tối đa 3 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Chỉ khi có cơn; tính vào giới hạn 2–3 ngày/tuần",
+      "ghi_chu": "IHS 2024 điều trị cắt cơn Bảng 1 (1.000 mg); trần 3 g/ngày theo QĐ 361/2014 Phụ lục NSAID mục 3.3, tr. 199 (thận trọng hơn mức 4 g/ngày của Phụ lục thuốc giảm đau mục 3.1, tr. 202)."
+     },
+     {
+      "thuoc": "Diazepam (Seduxen) đang dùng — GIỮ NGUYÊN LIỀU",
+      "ham_luong": "Viên 5 mg",
+      "lieu": "1/2–1 viên trước ngủ như cũ",
+      "duong": "Uống",
+      "thoi_diem": "Tối trước ngủ",
+      "so_ngay": "Đến khi bắt đầu kế hoạch giảm dần đã thống nhất",
+      "ghi_chu": "Đang dùng, giữ nguyên; giảm dần theo Joint CPG Benzodiazepine Tapering 2025 (TL-0575) Key takeaway 5 (5–10% mỗi 2–4 tuần; không quá 25% mỗi 2 tuần)."
+     }
+    ],
+    "dan_do": [
+     "Cơn đau một bên lần này là đau nửa đầu vốn có của cô hồi trẻ, không phải đột quỵ; khám thần kinh và đáy mắt bình thường.",
+     "Khi vừa thấy cơn bắt đầu, uống ibuprofen 400 mg sau ăn, thêm thuốc chống nôn nếu buồn nôn; nằm phòng tối. Chỉ dùng thuốc cắt cơn tối đa 2–3 ngày mỗi tuần và dưới 10 ngày mỗi tháng (IHS 2024 điều trị cắt cơn Bảng 2 câu 12).",
+     "Không quay lại Panadol Extra, thuốc cảm, hay bất kỳ thuốc có caffeine hằng ngày; đau âm ỉ nhẹ hai bên thì nghỉ, chườm ấm, giãn cơ cổ, đừng uống thuốc.",
+     "Tiếp tục ghi nhật ký đau đầu và ngày dùng thuốc; mang theo lần sau.",
+     "Thuốc ngủ: cứ như cũ, không tự ngừng. Lần sau cùng bàn giảm từng bước nhỏ; ngủ đúng giờ, cà phê chỉ buổi sáng.",
+     "Đi cấp cứu ngay nếu đau sét đánh, yếu hoặc tê nửa người, nói khó, nhìn đôi hay mất thị lực, sốt kèm cứng cổ, đau nặng dần mỗi ngày, hoặc đau, đè, thắt ngực kéo dài.",
+     "Tái khám sau 4 tuần mang nhật ký (EAN 2020 (TL-0473) PICO 7, tr. 9–10); đo huyết áp và thử mỡ máu tại trạm y tế để yên tâm về tim."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Cô Mận không quay lại viên cũ. Sau 4 tuần cô còn một cơn đau nửa đầu mỗi tháng, đáp ứng ibuprofen 400 mg kèm metoclopramide, số ngày dùng thuốc dưới 6 ngày/tháng. Nhật ký sau 2 tháng: đau đầu căng thẳng nhẹ khoảng 5–6 ngày/tháng, 2–3/10, không dùng thuốc. Diazepam được giảm từng bước nhỏ, cô ngủ khoảng 6 giờ. Huyết áp và mỡ máu thử tại trạm y tế chưa đáng ngại, cô bớt sợ nhồi máu cơ tim. Đây là kịch bản minh họa cho kết cục 'ổn định, khỏi bệnh', không phải dữ kiện chấm; mức cải thiện phù hợp các nghiên cứu ngừng thuốc ngoại trú trong EAN 2020 (TL-0473) PICO 5.",
+ "nhieu": [
+  "Chẩn đoán tự tra mạng 'thiếu máu lên não' và yêu cầu CT/thuốc bổ não: trả lời bằng khám thần kinh, đáy mắt và SNNOOP10; cơ sở không có CT nhưng cũng không cần.",
+  "Viên Panadol Extra và thuốc cảm bị cô coi là 'thuốc cho khỏe': phải hỏi tên thuốc, số viên/ngày, số ngày/tháng mới ra lạm dụng."
+ ],
+ "bai_hoc_bien": [
+  "Đau đầu ≥ 15 ngày/tháng ở phụ nữ 40–50 tuổi: luôn hỏi cụ thể mọi thuốc tự mua, kể cả thuốc cảm, thuốc có caffeine (ICHD-3 2018 mục 8.2.5; SNNOOP10 mục Painkiller overuse).",
+  "Lý do thật (sợ nhồi máu cơ tim sau khi anh ruột mất) chỉ ra khi hỏi cô còn lo gì: giải thích bằng điện tim và dấu hiệu cần cấp cứu, không bảo 'không sao' trống không.",
+  "Triệu chứng cai (hồi hộp, tim nhanh, ngủ kém) có thể bị nhầm là bệnh tim: báo trước (EAN 2020 PICO 6, tr. 8).",
+  "Lượt tái khám với triệu chứng mới: xem lại cờ đỏ (đau kiểu mới là cờ cam), rồi nhận ra migraine nền lộ ra khi thuốc không còn che; chẩn đoán lại sau cai (ICHD-3 2018 mục 1.3 ghi chú 5).",
+  "Thuốc ngủ benzodiazepine dùng lâu: không cai đồng thời hai thứ, không ngừng đột ngột, giảm dần theo thỏa thuận (Joint CPG Benzodiazepine Tapering 2025)."
+ ],
+ "diem_nho": [
+  "MOH: đau đầu ≥ 15 ngày/tháng; lạm dụng > 3 tháng: thuốc kết hợp ≥ 10 ngày/tháng (8.2.5), giảm đau đơn giản ≥ 15 ngày/tháng (8.2.3) (ICHD-3 2018 tr. 122–124).",
+  "Thành công cai thuốc ngoại trú: về dạng từng cơn và < 10 ngày dùng thuốc/tháng sau 2 tháng; giáo dục đơn thuần > 70% (EAN 2020 PICO 3, tr. 4).",
+  "Triệu chứng cai 2–10 ngày (trung bình 3,5); thuốc giảm đau khoảng 10 ngày (EAN 2020 PICO 6, tr. 8). Đau đầu cai caffeine tự hết ≤ 7 ngày (ICHD-3 mục 8.3.1, tr. 125).",
+  "Cứu cánh tuần đầu: acetaminophen 1.000 mg hoặc naproxen 500 mg tối đa 3 ngày (EAN 2020 PICO 6, tr. 9).",
+  "Thuốc cắt cơn migraine: 2–3 ngày/tuần và < 10 ngày/tháng; thuốc kết hợp với triptan 2 ngày/tuần và < 8 ngày/tháng (IHS 2024 cắt cơn, Bảng 2 câu 12).",
+  "U não ở người đau đầu không tiền sử ung thư < 0,1%; cờ tuổi là khởi phát sau 65 tuổi (SNNOOP10 2019)."
+ ],
+ "nguon": [
+  "EAN 2020 – Guideline on the management of medication-overuse headache – TL-0473 – Tóm tắt, PICO 1 (tr. 3), PICO 3 (tr. 4–5), PICO 4 (tr. 5–6), PICO 5 (tr. 6–8), PICO 6 (tr. 8–9), PICO 7 (tr. 9–10), Box 3 (tr. 10).",
+  "IHS 2018 – ICHD-3 – TL-0480 – 1.1 (tr. 18–19), 1.3 và ghi chú 5, 2.3 và ghi chú 3 (tr. 37–38), 8.2 (tr. 122–123), 8.2.3–8.2.6 (tr. 123–125), 8.3.1 (tr. 125).",
+  "Do TP và cs. 2019 – Red and orange flags for secondary headaches: SNNOOP10 list – TL-0476 – các mục Systemic symptoms, Neoplasm in history, Neurologic deficit, Onset sudden, Older age, Pattern change or recent onset, Papilledema, Progressive headache, Painkiller overuse (MOH), Discussion.",
+  "IHS 2024 – Acute pharmacological treatment of migraine (kho cũ tltk-10000-ca, mục 07) – Bảng 1 (liều), Bảng 2 câu 1, 4, 11, 12, 15, 16.",
+  "IHS 2024 – Preventive pharmacological treatment of migraine (kho cũ tltk-10000-ca, mục 07) – Bảng 1 (liều), Bảng 2 câu 1, 16.",
+  "Joint Clinical Practice Guideline on Benzodiazepine Tapering 2025 – TL-0575 – Giới thiệu, Key takeaways 3 và 5.",
+  "ESRS 2023 – European Insomnia Guideline – TL-0464 – Tóm tắt (CBT-I đầu tay, thuốc ngủ ≤ 4 tuần).",
+  "ESC 2023 – Guidelines for the management of acute coronary syndromes – TL-0069 – mục 3.1.1, 3.2.",
+  "Backus 2013 – HEART score (Chest pain in the emergency room) – TL-0110 – Bảng 1.",
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014 (Cơ xương khớp) – TL-0286 – Phụ lục NSAID mục 2, 3.3, Bảng liều (tr. 197–200); Phụ lục thuốc giảm đau mục 3.1 (tr. 202)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-25): viết cho TK-0447, người soạn nhóm Sonnet. Khác TK-0450 (ông Hải, 67 tuổi, ibuprofen, 1 lượt): nữ 52 tuổi, thuốc kết hợp có caffeine, thuốc ngủ diazepam, nỗi sợ nhồi máu, 2 lượt với migraine nền lộ ra ở lượt 2.",
+  "Tài liệu đã đọc: TL-0473 (Tóm tắt, PICO 1, 3–7, Box 3); TL-0480 (1.1, 1.3, 2.3, 8.2–8.3.1); TL-0476 (các mục SNNOOP10); IHS 2024 cắt cơn (Bảng 1–2) và dự phòng (Bảng 1–2) ở kho cũ; TL-0575 (Giới thiệu, Key takeaways); TL-0464 (Tóm tắt); TL-0069 (mục 3.1.1, 3.2); TL-0110 (Bảng 1); TL-0286 (Phụ lục).",
+  "Không có trong tài liệu đã tải: hướng dẫn riêng cho đau ngực không điển hình ngoại trú; lịch giảm Panadol Extra; hàm lượng caffeine mỗi ly cà phê; liều khởi đầu và chuẩn độ thuốc dự phòng migraine; dạng bào chế diazepam cho từng bước giảm; giới hạn ngày dùng metoclopramide. Hàm lượng Panadol Extra (500 mg + 65 mg) lấy từ vỏ hộp thuốc, không từ tài liệu.",
+  "Mâu thuẫn mới: thời điểm khởi dự phòng migraine khi có MOH (EAN 2020 và IHS 2024 dự phòng) ghi trong TK-0447_mau_thuan.md. Dùng lại mục có sẵn: cứu cánh tuần đầu (TK-0450), ibuprofen ≤ 1.200 mg/ngày (HH-0266), paracetamol < 3 g/ngày (TM-0250)."
+ ]
+}
