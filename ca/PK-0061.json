@@ -1,0 +1,454 @@
+{
+ "ma_ca": "PK-0061",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "PK_roi_loan_kinh_nguyet",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Rối loạn kinh nguyệt",
+  "chan_doan_phai_loai_tru": [
+   "Có thai",
+   "Bệnh tuyến giáp",
+   "PCOS",
+   "U xơ"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Chủ quán ăn",
+  "yeu_to_khoi_phat": "Sau tự uống kháng sinh",
+  "thuoc_dang_dung": "Thuốc bôi ngoài da không rõ",
+  "ly_do_that_su_den_kham": "Sợ đột quỵ"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Thị Nhàn",
+  "tuoi": 48,
+  "gioi": "Nữ",
+  "nghe": "Chủ quán cơm bình dân",
+  "can_nang": 62,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi bà là 'chị'. Chị tự xưng 'tôi' hoặc 'chị', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Buôn bán nhỏ, nói nhanh, thẳng, hay bực vì đã mất mấy ngày bán đi khám mà chưa ai nói rõ. Cứng bề ngoài nhưng thật ra rất lo. Gọi huyết áp là 'áp huyết', gọi thuốc nội tiết là 'thuốc điều kinh'.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mở đầu kể lể và hơi hằn học ('đi ba chỗ rồi, tôi mệt lắm rồi'), cầm cả tập giấy, đòi 'đừng bắt tôi thử gì nữa'. Nếu bác sĩ ghi nhận công sức của chị và xem giấy cũ trước thì dịu lại, trả lời đầy đủ. Nếu bác sĩ vội vàng hoặc đòi làm lại hết thì cộc lốc, nói 'chỗ nào cũng thế'. Nỗi lo thật chỉ kể khi được hỏi đúng.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a47e",
+   "toc": "#2b2220",
+   "kieuToc": "bui",
+   "ao": "#8b6f9e",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Kinh nguyệt thất thường, kỳ vừa rồi ra máu 14 ngày",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am",
+   "tham_do"
+  ],
+  "loi_bao": "Cơ sở không có xét nghiệm nào (kể cả que thử thai, công thức máu, nội tiết), không có siêu âm, không có điện tim. Chỉ có khám lâm sàng, máy đo huyết áp và bộ khám phụ khoa."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 48 tuổi, chủ quán cơm bình dân, đến khám vì kinh nguyệt thất thường mấy tháng nay, kỳ vừa rồi ra máu 14 ngày. Chị nói đã đi khám ba nơi mà chưa nơi nào nói rõ bị gì, tay cầm một tập giấy. Cân nặng 62 kg, cao 153 cm. Sinh hiệu lúc tiếp đón: HA 148/92 mmHg, mạch 78 l/p, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Nhàn nhập viện để theo dõi rong kinh dù hiện không còn ra máu, mạch 78, niêm mạc hồng, không chóng mặt khi đứng. Chị bỏ quán cơm ít nhất 2 ngày, mất thu nhập, tốn viện phí, trong khi việc cần làm là thử thai, theo dõi huyết áp và hẹn tái khám (QĐ 315/2015 Rong kinh rong huyết mục 3.2: điều trị ngoại trú tại tuyến huyện trở lên). Chị thêm một lần chờ đợi mà vẫn chưa được giải thích nỗi lo đột quỵ, nên dễ bỏ thuốc như lần trước.",
+    "chuyen_tuyen": "Chị Nhàn được gửi ngay lên bệnh viện tuyến trên để siêu âm và lấy mẫu nội mạc, dù không có ra máu dai dẳng và nội mạc 8 mm cách đây 3 tháng. Chuyển tuyến lúc này chưa bắt buộc (FIGO 2018 mục 6.4: lấy mẫu khi ra máu dai dẳng hoặc điều trị không hiệu quả). Chị mất một ngày bán quán, tốn kém, chịu thêm một lần khám thứ tư mà không ai trả lời nỗi lo về thuốc nội tiết, nên nhiều khả năng không đi hoặc không quay lại."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đi ba chỗ rồi mà kinh nguyệt vẫn lúc có lúc không, kỳ vừa rồi ra cả hai tuần. Chắc tại tôi lỡ uống kháng sinh. Bác sĩ khám giùm, chứ đừng bắt tôi thử gì nữa nhé, tôi mệt lắm rồi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "148/92",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi khám vì mấy tháng nay kinh nguyệt lúc đến lúc không, kỳ vừa rồi ra máu cả 14 ngày. Đã đi khám ba nơi mà chưa nơi nào nói rõ bị gì.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "chu_ky",
+     "noi_dung": "Hai năm trước kinh đều 28–30 ngày, 4–5 ngày là hết. Khoảng 8 tháng nay thất thường: có lần 24 ngày, có lần 55 ngày, rồi 31 ngày, rồi 62 ngày. Kỳ gần nhất bắt đầu cách đây 9 tuần, kéo dài 14 ngày, hiện không ra máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mẫu chu kỳ: tần số, độ đều, thời gian (FIGO hệ 1)"
+    },
+    {
+     "id": "luong",
+     "noi_dung": "Kỳ vừa rồi 3 ngày đầu thay 5–6 băng mỗi ngày, có vài cục máu nhỏ bằng hạt đậu, phải nghỉ bán một ngày vì chóng mặt thoáng qua. Không ngất, không đau ngực. Những kỳ trước không nhiều như vậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng máu và ảnh hưởng chất lượng sống"
+    },
+    {
+     "id": "co_do_am",
+     "noi_dung": "Không ra máu giữa hai kỳ, không ra máu sau quan hệ, không đau bụng dưới, không đau khi quan hệ, không khí hư hôi. Chưa bao giờ ra máu sau khi hết kinh hẳn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu gợi ý tổn thương thực thể hoặc ác tính"
+    },
+    {
+     "id": "mang_kinh",
+     "noi_dung": "Từ khoảng 6 tháng nay đêm nóng bừng mặt, ra mồ hôi 2–3 lần mỗi tuần, ngủ chập chờn. Tưởng do bếp nóng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiền mãn kinh kèm theo"
+    },
+    {
+     "id": "thai",
+     "noi_dung": "Có hai con (24 và 20 tuổi), sinh thường. Chồng ở nhà, dùng bao cao su không đều, quan hệ lần cuối khoảng 3 tuần trước. Không đặt vòng, không uống thuốc tránh thai. Ngực không căng, không buồn nôn, không mệt lả.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng có thai: tiền sử tình dục, tránh thai"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Cân nặng ổn định, không run tay, không hồi hộp, không sợ lạnh hay sợ nóng quá mức, không táo bón, không rụng tóc nhiều, cổ không thấy to.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng gợi ý bệnh tuyến giáp"
+    },
+    {
+     "id": "pcos",
+     "noi_dung": "Kinh đều từ lúc có kinh năm 14 tuổi đến năm 46 tuổi. Không rậm lông, không mụn nhiều. Hai con đều có thai tự nhiên, không phải chữa hiếm muộn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử không gợi ý buồng trứng đa nang"
+    },
+    {
+     "id": "mau",
+     "noi_dung": "Không bầm tím nặng, không chảy máu cam hay chảy máu chân răng kéo dài, kinh nhiều không có từ lúc mới có kinh. Không dùng thuốc chống đông. Không bệnh gan.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc rối loạn đông máu bằng bệnh sử"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa đo huyết áp lần nào kể từ lúc sinh con, không biết có cao hay không. Không đái tháo đường. Hay nhức ê ẩm sau gáy lúc ngủ dậy, tưởng do thiếu ngủ. Không hút thuốc, không uống rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Huyết áp, thói quen: ảnh hưởng chọn thuốc nội tiết"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Mẹ mất năm 62 tuổi vì đột quỵ. Dì ruột cũng bị liệt nửa người. Không ai trong nhà bị ung thư tử cung hay ung thư đại tràng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình: tim mạch, ung thư"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Nơi thứ nhất (phòng mạch): cho thuốc cầm máu uống 3 ngày, không nhớ tên. Nơi thứ hai (bệnh viện huyện, 3 tháng trước): siêu âm và thử máu, nói 'tiền mãn kinh', hẹn tái khám nhưng bà không đi. Nơi thứ ba (phòng khám tư, 2 tuần trước): cho một vỉ thuốc nội tiết 'điều kinh', không đo huyết áp, không hỏi có thai hay không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Những nơi đã khám và điều đã làm"
+    },
+    {
+     "id": "ket_qua_cu",
+     "noi_dung": "Mang theo tờ siêu âm và tờ thử máu của bệnh viện huyện 3 tháng trước: tử cung kích thước bình thường, không thấy u, nội mạc 8 mm, hai buồng trứng không bất thường; Hb 121 g/L. Chưa làm thử thai lần nào, chưa soi tế bào cổ tử cung.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kết quả cũ đã có: tận dụng, không làm lại"
+    },
+    {
+     "id": "thuoc_kn",
+     "noi_dung": "Vỉ thuốc nội tiết nơi thứ ba chỉ uống 3 viên rồi bỏ, không nhớ tên, vỏ vỉ đã vứt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc nội tiết đã uống"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Khoảng 10 ngày trước kỳ ra máu 14 ngày bà bị đau họng, tự uống nửa vỉ amoxicillin còn dư, 5 ngày. Bà tin chính thuốc kháng sinh làm rối loạn kinh. Thực tế kinh đã thất thường từ 8 tháng trước đó.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "thuoc_boi",
+     "noi_dung": "Bôi hằng ngày một loại kem trị nám và ngứa lên mặt và hai cẳng chân, mua ở chợ, hũ không nhãn, đã khoảng 4 tháng. Không biết thành phần. Không uống thuốc nam, không dùng thực phẩm chức năng nội tiết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc dùng ngoài da không rõ thành phần"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Chủ quán cơm bình dân, dậy từ 4 giờ sáng, đứng bếp đến tối, nếm đồ ăn cả ngày, ăn mặn, ngủ khoảng 5 tiếng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề nghiệp: ăn mặn, thiếu ngủ"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Sợ nhất là đột quỵ giống mẹ. Nhà hàng xóm 50 tuổi mới bị liệt nửa người, người ta đồn do uống thuốc nội tiết. Nhận vỉ thuốc nội tiết xong bà không ngủ được nên bỏ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nếu bác sĩ chỉ hỏi chung 'có lo gì không' thì nói 'chỉ muốn hết ra máu thôi'. Chỉ kể chuyện mẹ và hàng xóm khi bác sĩ hỏi vì sao bỏ thuốc, hoặc hỏi nỗi lo nhất, hoặc hỏi gia đình có ai bị bệnh nặng.",
+     "k": 1,
+     "y": "Nỗi lo thật: đột quỵ và thuốc nội tiết"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Ngồi nghỉ 5 phút: tay phải 146/90, tay trái 144/90 mmHg; đo lại sau 2 phút: 146/92 mmHg. Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi cáu. Cân nặng 62 kg, cao 153 cm (BMI 26,5). Niêm mạc mắt hồng, lòng bàn tay hồng, không xuất huyết dưới da, không rậm lông, không mụn trứng cá, không rạn da tím, da hơi khô.",
+     "k": 1,
+     "hien": "Tỉnh, đi lại bình thường, niêm mạc mắt hồng. Cân nặng 62 kg, cao 153 cm."
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không đau. Không run tay. Không hạch cổ.",
+     "k": 1
+    },
+    "vu": {
+     "a": "Hai vú không khối, không tiết dịch núm vú, không sữa. Không hạch nách.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không sờ thấy khối trên xương mu. Không gan lách to.",
+     "k": 1
+    },
+    "phu_khoa": {
+     "a": "Âm hộ bình thường. Mỏ vịt: âm đạo hồng, ít dịch trong; cổ tử cung trơn láng, không loét, không polyp, không máu ở lỗ ngoài. Hai tay: tử cung ngả trước, kích thước bình thường, chắc, di động, không đau lắc cổ tử cung; hai phần phụ không sờ thấy khối, không đau.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "e",
+     "r": "Âm tính (nếu làm được)",
+     "n": "Cơ sở không có que thử thai. Thay bằng bệnh sử (quan hệ 3 tuần trước, bao cao su không đều), khám tử cung bình thường chắc, và cho bà mua que thử thai nước tiểu ở nhà thuốc trước khi uống thuốc nội tiết (FIGO 2018 mục 6.1: thử thai bằng nước tiểu hoặc huyết thanh đáng tin cậy; QĐ 315/2015 mục Mãn kinh – tiền mãn kinh 3.4.2: chống chỉ định nội tiết khi có thai hoặc nghi có thai)."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 121 g/L (kết quả cũ 3 tháng trước, trước đợt ra máu 14 ngày)",
+     "n": "NICE NG88 1.2.6: làm công thức máu ở mọi phụ nữ rong kinh/kinh nhiều. Cơ sở không có; dựa vào niêm mạc hồng, mạch 78 và không chóng mặt khi đứng; nếu mệt, hoa mắt hoặc ra máu nhiều lại thì khám tuyến trên."
+    },
+    "sa_chau": {
+     "v": "u",
+     "r": "Tử cung bình thường, nội mạc 8 mm (kết quả cũ 3 tháng trước)",
+     "n": "FIGO 2018 mục 6.5 và Hình 6B: siêu âm đầu dò âm đạo khi nguy cơ tổn thương cấu trúc; NICE NG88 1.3.12: siêu âm khi sờ thấy tử cung qua thành bụng, nghi khối, hoặc khám không kết luận được. Ca này không có chỉ định đó và đã có kết quả cũ, nên không làm lại."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "TSH, FT4 trong giới hạn bình thường",
+     "n": "Không cần: không có dấu hiệu bệnh giáp (NICE NG88 1.2.10: không thử hormone giáp ở rong kinh trừ khi có dấu hiệu khác)."
+    },
+    "fsh_lh": {
+     "v": "n",
+     "r": "FSH tăng nhẹ, dao động",
+     "n": "Không có ý nghĩa: ở tiền mãn kinh nội tiết không ổn định, chẩn đoán chủ yếu dựa lâm sàng (QĐ 315/2015 Mãn kinh – tiền mãn kinh mục 2.1); NICE NG88 1.2.9: không thử hormone nữ ở rong kinh."
+    },
+    "prl": {
+     "v": "n",
+     "r": "Prolactin trong giới hạn bình thường",
+     "n": "Không tiết sữa, không đau đầu kiểu u tuyến yên, không có chỉ định (QĐ 315/2015 Rong kinh rong huyết mục 2.1 chỉ nêu chú ý dấu hiệu tăng prolactin khi khám)."
+    },
+    "androgen": {
+     "v": "n",
+     "r": "Testosterone toàn phần trong giới hạn bình thường",
+     "n": "Không rậm lông, không mụn, kinh đều đến 46 tuổi: không gợi ý PCOS; không cần thử androgen (Monash/ESHRE 2023 Algorithm 1: chỉ khi kinh không đều kèm gợi ý cường androgen)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn kinh nguyệt giai đoạn tiền mãn kinh: chu kỳ không đều (24–62 ngày), một đợt ra máu kéo dài 14 ngày, lượng nhiều; nghĩ do không phóng noãn (AUB-O)",
+     "ok": 1,
+     "n": "Tuổi 48, kinh đều đến 46 tuổi rồi thất thường 8 tháng, kèm bốc hỏa về đêm: tiền mãn kinh, chẩn đoán chủ yếu dựa lâm sàng (QĐ 315/2015 Mãn kinh – tiền mãn kinh mục 2.1). Chu kỳ dài ngắn khác nhau 38 ngày, vượt mức bình thường ≤ 9 ngày ở tuổi 42–45 (FIGO 2018 Hình 1); khoảng bình thường 24–38 ngày, kéo dài ≤ 8 ngày (FIGO 2018 mục 6.2, Hình 1). Ra máu kiểu không đều và thất thường điển hình của rối loạn phóng noãn (FIGO 2018 mục 6.2)."
+    },
+    {
+     "t": "Tăng huyết áp (theo dõi, chưa xác nhận)",
+     "ok": 1,
+     "n": "HA phòng khám 144–148/90–92 mmHg qua 4 lần đo, nhức gáy buổi sáng, mẹ đột quỵ. Chẩn đoán cần xác nhận bằng HA tại nhà ≥ 135/85 hoặc HA 24 giờ ≥ 130/80 (VSH/VNHA 2024 Đ1.1; ESC 2024 Bảng 5). Đây là bệnh kèm, quyết định chọn thuốc nội tiết."
+    },
+    {
+     "t": "Có thai",
+     "n": "Không loại trừ hoàn toàn bằng lâm sàng: quan hệ 3 tuần trước, bao cao su không đều, chậm kinh 9 tuần. Ngực không căng, không buồn nôn, tử cung bình thường chắc, cổ tử cung không mềm hé. Chưa có que thử: bà phải mua que thử thai trước khi uống nội tiết (FIGO 2018 mục 6.1)."
+    },
+    {
+     "t": "Bệnh tuyến giáp",
+     "n": "Không có triệu chứng suy hoặc cường giáp, tuyến giáp không to, cân nặng ổn định. QĐ 315/2015 Rong kinh rong huyết mục 2.1 yêu cầu chú ý dấu hiệu nhược giáp khi khám; NICE NG88 1.2.10 chỉ thử hormone giáp khi có dấu hiệu."
+    },
+    {
+     "t": "Hội chứng buồng trứng đa nang (PCOS)",
+     "n": "Kinh đều từ 14 đến 46 tuổi, không rậm lông, không mụn, có hai con tự nhiên; PCOS cần kinh không đều kèm cường androgen hoặc hình ảnh buồng trứng đa nang, sau khi loại trừ nguyên nhân khác (Monash/ESHRE 2023 Algorithm 1). Kinh mới đổi sau 46 tuổi nên giải thích bằng tiền mãn kinh."
+    },
+    {
+     "t": "U xơ tử cung",
+     "n": "Không đau, không cảm giác chèn ép, tử cung bình thường chắc khi khám hai tay, siêu âm cũ không u. NICE NG88 1.3.12: chỉ làm siêu âm khi sờ thấy tử cung qua thành bụng, nghi khối hoặc khám không kết luận được. Không loại trừ polyp nhỏ (FIGO 2018 mục 6.5: siêu âm không nhạy 100%)."
+    },
+    {
+     "t": "Tăng sản hoặc ung thư nội mạc tử cung",
+     "n": "Chưa có yếu tố nguy cơ cao: không ra máu giữa kỳ hay sau mãn kinh, không đau, nội mạc 8 mm (kết quả cũ). Nhưng tuổi 48, BMI 26,5, nên phải theo dõi: tiền mãn kinh cần loại trừ nguyên nhân ác tính (QĐ 315/2015 Rong kinh rong huyết mục 2.4.2); lấy mẫu nội mạc khi ra máu dai dẳng hoặc điều trị không thành công (FIGO 2018 mục 6.4; NICE NG88 1.3.10)."
+    },
+    {
+     "t": "Rối loạn đông máu",
+     "n": "Không bầm tím, chảy máu cam, kinh nhiều không có từ lúc mới có kinh, không dùng thuốc chống đông. Bệnh sử có cấu trúc là công cụ sàng lọc đầu tiên (FIGO 2018 mục 6.3); chỉ thử đông máu khi nhiều từ lúc có kinh kèm tiền sử cá nhân/gia đình (NICE NG88 1.2.7)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán lâm sàng rối loạn kinh nguyệt tiền mãn kinh; dùng kết quả siêu âm, công thức máu cũ của bệnh viện huyện, không chỉ định lại xét nghiệm nội tiết, giáp, siêu âm",
+     "v": "c",
+     "n": "QĐ 315/2015 Mãn kinh – tiền mãn kinh mục 2.1: xét nghiệm nội tiết không có ý nghĩa ở tiền mãn kinh, chẩn đoán chủ yếu lâm sàng. NICE NG88 1.2.9, 1.2.10; 1.3.1: có thể điều trị mà không tìm nguyên nhân khi nguy cơ thấp. Cơ sở cũng không có xét nghiệm."
+    },
+    {
+     "t": "Loại trừ thai trước khi dùng nội tiết: dặn mua que thử thai nước tiểu ở nhà thuốc, âm tính mới uống thuốc",
+     "v": "c",
+     "n": "FIGO 2018 mục 6.1; QĐ 315/2015 Mãn kinh – tiền mãn kinh mục 3.4.2; QĐ 1359/2026 Viên thuốc tránh thai kết hợp mục 2.1: có thai hoặc nghi có thai là chống chỉ định. Cách mua que ở nhà thuốc là thay thế thực tế cho cơ sở không có xét nghiệm; tài liệu đã tải không nêu riêng."
+    },
+    {
+     "t": "Kê progestin uống theo chu kỳ (medroxyprogesteron acetat 10 mg/ngày × 10 ngày/tháng) hoặc đặt dụng cụ tử cung giải phóng levonorgestrel (chuyển tuyến trên)",
+     "v": "c",
+     "n": "Hai cách theo hai nguồn. QĐ 315/2015 Rong kinh rong huyết Bảng 1 (ô Mạn) và mục 3.2.2, Mãn kinh – tiền mãn kinh mục 2.2: progestin 10 mg/ngày × 10 ngày/tháng. NICE NG88 1.5.2 (LNG-IUS thuốc đầu tay khi không tổn thương) và 1.5.3 (progestogen uống theo chu kỳ khi không dùng được LNG-IUS). Ở đây progestin uống làm ngay tại chỗ; LNG-IUS cần cơ sở có thủ thuật. Xem tai-lieu/mau_thuan.md."
+    },
+    {
+     "t": "Khuyên chưa dùng thuốc tránh thai kết hợp lúc này vì HA 144–148/90–92 chưa xác nhận và bà rất sợ đột quỵ",
+     "v": "a",
+     "n": "QĐ 315/2015 Mãn kinh – tiền mãn kinh mục 2.2 vẫn nêu thuốc tránh thai kết hợp; QĐ 1359/2026 Viên thuốc tránh thai kết hợp mục 2.2: HA 140–159/90–99 là chống chỉ định tương đối, mục 2.1: ≥ 160/100 là tuyệt đối. Dùng được nhưng cần theo dõi HA, nên chấm chấp nhận."
+    },
+    {
+     "t": "Hướng dẫn đo huyết áp tại nhà, ghi sổ, mang đi tái khám để xác nhận tăng huyết áp",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ1.1; ESC 2024 Bảng 5: HA phòng khám ≥ 140/90 phải xác nhận bằng HA tại nhà ≥ 135/85. ESC 2024 mục 8.2.1.1 và các khuyến cáo tự đo HA tại nhà (I, B)."
+    },
+    {
+     "t": "Giảm muối còn khoảng 5 g muối mỗi ngày, hạn chế nếm nhiều khi nấu",
+     "v": "c",
+     "n": "ESC 2024 mục 8.2.1.1: natri khoảng 2 g/ngày, tương đương khoảng 5 g muối. Bà đứng bếp quán cơm, nếm thức ăn cả ngày."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tháng (ba vòng kinh) và chuyển tuyến sớm hơn để siêu âm, soi buồng tử cung, lấy mẫu nội mạc nếu ra máu dai dẳng, ra máu giữa kỳ, ra máu sau 12 tháng mất kinh hoặc điều trị không hiệu quả (nạo niêm mạc theo QĐ 315, hoặc sinh thiết qua soi buồng tử cung theo NICE/FIGO)",
+     "v": "c",
+     "n": "QĐ 315/2015 Rong kinh rong huyết mục 3.2.2: dùng progestin 3 vòng kinh liền; mục 3.2 và 2.4.2: điều trị tại tuyến huyện trở lên, loại trừ ác tính. FIGO 2018 mục 6.4 và NICE NG88 1.3.10–1.3.11 (không sinh thiết mù). Mốc 12 tháng mất kinh: QĐ 315 Mãn kinh – tiền mãn kinh mục 1. Xem tai-lieu/mau_thuan.md (nạo hay sinh thiết qua soi)."
+    },
+    {
+     "t": "Dặn khi nào quay lại ngay: ra máu nhiều lại, chóng mặt, ngất, đau bụng nhiều, nhức đầu dữ dội, yếu hoặc tê nửa người, méo miệng",
+     "v": "c",
+     "n": "Lời dặn an toàn. Ngưỡng ra máu bao nhiêu băng/giờ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê sẵn tranexamic acid hoặc thuốc kháng viêm không steroid để dùng khi ra máu nhiều lại",
+     "v": "a",
+     "n": "NICE NG88 1.5.3, 1.5.9: tranexamic acid hoặc NSAID khi cần điều trị trong lúc chờ khảo sát; QĐ 1359/2026 mục 4.3.2: ibuprofen. NSAID có thể làm tăng huyết áp (AHA/ACC 2025 Bảng 11); liều tranexamic acid, ibuprofen: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển tuyến ngay hôm nay để siêu âm và lấy mẫu nội mạc",
+     "v": "a",
+     "n": "Chấp nhận được (QĐ 315/2015 mục 3.2: điều trị tại tuyến huyện trở lên; FIGO 2018 mục 6.4: thường cân nhắc lấy mẫu từ 45 tuổi), nhưng chưa bắt buộc vì chưa có ra máu dai dẳng hay yếu tố nguy cơ cao."
+    },
+    {
+     "t": "Kê thuốc nội tiết (progestin hoặc thuốc tránh thai) ngay hôm nay khi chưa có kết quả thử thai",
+     "v": "w",
+     "n": "Có thai hoặc nghi có thai là chống chỉ định thuốc nội tiết (QĐ 315/2015 Mãn kinh – tiền mãn kinh mục 3.4.2; QĐ 1359/2026 mục 2.1). Bà quan hệ 3 tuần trước, chậm kinh 9 tuần."
+    },
+    {
+     "t": "Nạo hoặc sinh thiết 'mù' nội mạc tử cung ngay tại phòng khám",
+     "v": "w",
+     "n": "NICE NG88 1.3.11: chỉ lấy mẫu qua soi buồng tử cung, không sinh thiết mù; phòng khám không có điều kiện thủ thuật; không có chỉ định cấp."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn kinh nguyệt tiền mãn kinh, kiểu rối loạn phóng noãn (AUB-O): chu kỳ không đều 24–62 ngày, một đợt ra máu 14 ngày lượng nhiều",
+     "Chưa thiếu máu rõ trên lâm sàng; Hb cũ 121 g/L trước đợt ra máu",
+     "Kèm: huyết áp 144–148/90–92 mmHg, nghi tăng huyết áp cần xác nhận; thừa cân BMI 26,5",
+     "Không có dấu hiệu bệnh giáp, không gợi ý PCOS, không sờ thấy u xơ; chưa loại trừ hẳn thai (chờ que thử)",
+     "Không có dấu hiệu gợi ý ác tính ở thời điểm này; còn phải theo dõi vì tuổi 48"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám → mẫu chu kỳ 8 tháng (tần số, độ đều, thời gian, lượng) → dấu hiệu nặng (máu cục, chóng mặt, ngất) → dấu hiệu gợi ý tổn thương thực thể (ra máu giữa kỳ, sau quan hệ, đau bụng) → tiền sử tình dục và tránh thai → giáp, PCOS, đông máu → thuốc và nơi đã khám → gia đình và nỗi lo thật. QĐ 315/2015 Rong kinh rong huyết mục 2.1 liệt kê đúng các nhóm câu hỏi này.",
+     "Vì sao là rối loạn kinh nguyệt tiền mãn kinh: tuổi 48 (tuổi mãn kinh trung bình 48–52, QĐ 315 Mãn kinh – tiền mãn kinh mục 1), kinh đều đến 46 tuổi rồi thất thường, bốc hỏa về đêm, ra máu kéo dài sau khoảng chậm kinh; chẩn đoán chủ yếu dựa lâm sàng (QĐ 315 mục 2.1). Chu kỳ lệch nhau 38 ngày vượt mức bình thường ≤ 9 ngày ở tuổi 42–45 (FIGO 2018 Hình 1); đợt ra máu 14 ngày vượt mức bình thường ≤ 8 ngày (FIGO 2018 Hình 1). Nhóm nguyên nhân theo FIGO là rối loạn phóng noãn, AUB-O (FIGO 2018 mục 6.2).",
+     "Vì sao kháng sinh không phải nguyên nhân: kinh đã thất thường 8 tháng trước khi bà uống amoxicillin. Kháng sinh thông thường gây rối loạn kinh: không có trong tài liệu đã tải. Cần nói rõ để bà bớt tự trách.",
+     "Vì sao nhắc tới thai: chậm kinh 9 tuần, quan hệ có dùng bao cao su không đều. Không có xét nghiệm nên dùng bệnh sử, khám hai tay (tử cung bình thường chắc, cổ tử cung không mềm hé) và que thử mua ở nhà thuốc (FIGO 2018 mục 6.1). Lâm sàng một mình không đủ loại trừ thai sớm; tài liệu đã tải không nêu độ chính xác của khám lâm sàng.",
+     "Vì sao không nghĩ giáp, PCOS, u xơ: không triệu chứng giáp, tuyến giáp không to; kinh đều 32 năm, không cường androgen (Monash/ESHRE 2023 Algorithm 1 cần kinh không đều kèm cường androgen hoặc buồng trứng đa nang); tử cung bình thường khi khám hai tay và siêu âm cũ không u (NICE NG88 1.3.12).",
+     "Bài học thiếu xét nghiệm: ở tiền mãn kinh xét nghiệm nội tiết không giúp (QĐ 315 mục 2.1; NICE NG88 1.2.9), nên thiếu xét nghiệm không làm mất nhiều thông tin; thứ cơ sở thật sự thiếu là que thử thai, công thức máu, siêu âm và lấy mẫu nội mạc khi cần.",
+     "Huyết áp: 4 lần đo 144–148/90–92 mmHg, cộng nhức gáy, ăn mặn, mẹ đột quỵ; HA tại phòng khám ≥ 140/90 cần xác nhận bằng HA tại nhà (VSH/VNHA 2024 Đ1.1; ESC 2024 Bảng 5). Chưa gọi là tăng huyết áp. Nơi thứ ba đã cho thuốc nội tiết mà không đo HA: QĐ 1359/2026 Viên thuốc tránh thai kết hợp mục 3.2 nói rõ đo huyết áp là bắt buộc trước khi dùng.",
+     "Nỗi lo thật: sợ đột quỵ như mẹ và hàng xóm, nên bỏ thuốc. Tìm ra bằng một câu hỏi: 'Vì sao chị ngưng vỉ thuốc đó?'. Không hỏi thì bà ra về vẫn không uống thuốc và đi tìm nơi thứ tư."
+    ],
+    "phan_tich_xu_tri": [
+     "Đây là ca không có xét nghiệm nào nên phải ra quyết định bằng lâm sàng và không lặp lại xét nghiệm đã có: dùng tờ siêu âm và công thức máu cũ của bệnh viện huyện, không bắt đi làm lại (QĐ 315 mục 2.1; NICE NG88 1.3.1).",
+     "Trước khi kê nội tiết: que thử thai âm tính (QĐ 315 Mãn kinh – tiền mãn kinh mục 3.4.2; QĐ 1359/2026 mục 2.1) và có số đo HA (QĐ 1359/2026 mục 3.2).",
+     "Chọn progestin chu kỳ thay vì thuốc tránh thai kết hợp: HA 140–159/90–99 là chống chỉ định tương đối của thuốc tránh thai kết hợp (QĐ 1359/2026 mục 2.2), bà sợ đột quỵ, HA chưa xác nhận. Cả hai cách đều có nguồn: QĐ 315 nêu thuốc tránh thai kết hợp và progestin 10 ngày mỗi tháng (mục 2.2 Mãn kinh – tiền mãn kinh), NICE NG88 1.5.3 nêu thuốc tránh thai kết hợp và progestogen uống theo chu kỳ. Nên chọn cách ít nguy cơ mạch máu hơn cho bà.",
+     "Khác biệt giữa hai nguồn về thuốc đầu tay: QĐ 315/2015 ưu tiên progestin hoặc thuốc tránh thai kết hợp; NICE NG88 2018 ưu tiên LNG-IUS (1.5.2) khi kinh nhiều. Cả hai đều được ghi; LNG-IUS cần chuyển tuyến có thủ thuật và NICE nói đây là chỉ định ngoài nhãn của một số sản phẩm.",
+     "Progestin uống 10 ngày, ra máu sau viên cuối 2–7 ngày (QĐ 315 Bảng 1); các tháng sau dùng từ ngày 16 của vòng kinh, 10 mg × 10 ngày, 3 vòng kinh liền (QĐ 315 mục 3.2.2). Progestin 10 ngày không phải biện pháp tránh thai; vẫn dùng bao cao su cho đến khi mất kinh 12 tháng (mốc mãn kinh: QĐ 315 mục 1; tài liệu đã tải không nêu thời gian tránh thai riêng cho tuổi này).",
+     "Vì sao không chuyển ngay: chưa có ra máu dai dẳng, không ra máu giữa kỳ, nội mạc 8 mm trước đó; FIGO 2018 mục 6.4 chỉ bắt buộc lấy mẫu khi ra máu dai dẳng hoặc điều trị thiếu hiệu quả, nên cân nhắc từ 45 tuổi. Nhưng phải hẹn tái khám 3 tháng và nói rõ mốc chuyển tuyến.",
+     "Lấy mẫu nội mạc khi cần: QĐ 315 mục 3.2.2 ghi nạo niêm mạc tử cung (vừa cầm máu vừa lấy mẫu); NICE NG88 1.3.10–1.3.11 và FIGO 2018 mục 6.4 ưu tiên mẫu lấy qua soi buồng tử cung, không sinh thiết mù. Ghi cả hai.",
+     "Vì sao 'xử trí ẩu nhưng may mắn': nơi khám thứ ba cho thuốc nội tiết khi chưa đo huyết áp, chưa hỏi thai. Bà chỉ uống 3 viên và không biến cố; đó là may mắn, không phải quy trình đúng. Kết cục tốt không biện minh cho cách làm đó."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Medroxyprogesteron acetat",
+      "ham_luong": "10 mg/viên (hàm lượng viên lưu hành tại Việt Nam: không có trong tài liệu đã tải)",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Một giờ cố định mỗi ngày, bắt đầu SAU khi que thử thai âm tính",
+      "so_ngay": "10 ngày; tháng sau dùng từ ngày 16 của vòng kinh, 10 ngày, 3 vòng kinh liền",
+      "ghi_chu": "Medroxyprogesterone acetate 10 mg/ngày × 10 ngày/tháng (QĐ 315/2015 Rong kinh rong huyết Bảng 1; mục 3.2.2; Mãn kinh – tiền mãn kinh mục 2.2). Ra máu như kinh sau viên cuối 2–7 ngày (Bảng 1). Chống chỉ định: có thai hoặc nghi có thai, ra máu âm đạo bất thường chưa rõ nguyên nhân (QĐ 315 mục 3.4.2 nêu cho liệu pháp nội tiết mãn kinh, nên cần theo dõi và mốc chuyển tuyến). Tác dụng phụ và tương tác: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Mua que thử thai ở nhà thuốc, thử bằng nước tiểu buổi sáng; âm tính mới uống thuốc. Nếu dương tính, ngưng, quay lại hoặc đến cơ sở sản khoa (QĐ 315 Mãn kinh – tiền mãn kinh mục 3.4.2).",
+     "Giải thích: rối loạn kinh ở tuổi 48 là do buồng trứng sắp nghỉ, không phải do kháng sinh; đợt ra máu 14 ngày là kiểu thường gặp ở tiền mãn kinh nhưng vẫn cần theo dõi (QĐ 315 Rong kinh rong huyết mục 2.4.2).",
+     "Thuốc này là progestin đơn thuần, không có estrogen; khác vỉ thuốc nội tiết trước. Không có trong tài liệu đã tải số liệu về nguy cơ đột quỵ của progestin đơn thuần; vì vậy chỉ nói rằng sẽ theo dõi huyết áp sát, không hứa là tuyệt đối an toàn.",
+     "Đo huyết áp tại nhà sáng và tối, ghi sổ, mang đi tái khám (VSH/VNHA 2024 Đ1.1; ESC 2024 khuyến cáo tự đo HA tại nhà). Giảm muối, bớt nếm nhiều khi nấu, bớt nước mắm và nước dùng mặn (ESC 2024 mục 8.2.1.1: khoảng 5 g muối/ngày).",
+     "Ghi lịch ra máu: ngày bắt đầu, ngày hết, số băng thấm mỗi ngày, mang theo khi tái khám.",
+     "Quay lại ngay khi: ra máu nhiều trở lại, chóng mặt hoặc ngất, đau bụng nhiều, nhức đầu dữ dội, yếu hoặc tê nửa người, méo miệng (đi cấp cứu).",
+     "Tái khám sau 3 tháng, hoặc sớm hơn nếu ra máu kéo dài, ra máu giữa kỳ, hay ra máu sau khi đã mất kinh 12 tháng: khi đó chuyển tuyến siêu âm, soi buồng tử cung và lấy mẫu nội mạc (FIGO 2018 mục 6.4; NICE NG88 1.3.10; QĐ 315 mục 3.2.2).",
+     "Mang hũ kem bôi không nhãn đến lần sau hoặc ngưng bôi; ảnh hưởng của kem lên kinh nguyệt: không có trong tài liệu đã tải. Vẫn dùng bao cao su cho đến khi mất kinh đủ 12 tháng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Nhàn mua que thử thai, âm tính, uống progestin 10 ngày rồi ra máu như kinh sau 4 ngày. Chị tự đo huyết áp tại nhà một tuần: trung bình 146/92 mmHg, nên được hẹn khám tăng huyết áp riêng. Sau ba vòng kinh, chu kỳ còn thất thường (35–50 ngày) nhưng không còn ra máu kéo dài. Điều đáng nhớ là nơi khám thứ ba đã cho thuốc nội tiết mà không đo huyết áp, không hỏi thai; chị chỉ uống 3 viên rồi bỏ và không sao. Đó là may mắn, vì chị có huyết áp cao chưa biết và quan hệ chưa tránh thai chắc chắn. Kết cục tốt không biến cách làm đó thành quy trình đúng.",
+ "nhieu": [
+  "Amoxicillin tự uống 5 ngày: bà tin đó là nguyên nhân, nhưng kinh đã thất thường từ 8 tháng trước. Kháng sinh thông thường gây rối loạn kinh: không có trong tài liệu đã tải.",
+  "Kem bôi không nhãn: không biết thành phần; ảnh hưởng đến kinh nguyệt không có trong tài liệu đã tải, nên chỉ dặn mang hũ đến hoặc ngưng bôi, không khẳng định là nguyên nhân.",
+  "Tập giấy cũ ba nơi: chỉ có tờ siêu âm và công thức máu của bệnh viện huyện là có giá trị; các toa thuốc không ghi tên thuốc rõ."
+ ],
+ "bai_hoc_bien": [
+  "Từng khám 3 nơi không khỏi: ghi nhận công sức của người bệnh, xem giấy cũ trước, không lặp lại xét nghiệm vô ích; làm ngay việc chưa ai làm là đo huyết áp, hỏi thai và hỏi vì sao bỏ thuốc.",
+  "Không có xét nghiệm nào: chẩn đoán tiền mãn kinh vốn dựa lâm sàng (QĐ 315 mục 2.1); thứ thiếu nguy hiểm nhất là que thử thai và khả năng lấy mẫu nội mạc, nên phải có kế hoạch thay thế và mốc chuyển tuyến.",
+  "Không điển hình: rối loạn kinh nguyệt ở tuổi 48 dễ bị gọi gọn là 'tiền mãn kinh' rồi cho nội tiết; điều dễ bị bỏ qua là thai, huyết áp và ác tính ở người ≥ 45 tuổi.",
+  "Nỗi lo thật là sợ đột quỵ; nếu không hỏi ra thì bà không uống thuốc dù đơn đúng.",
+  "Xử trí ẩu nhưng may mắn không sao (nơi thứ ba): kết cục tốt không hợp thức hóa quy trình sai."
+ ],
+ "diem_nho": [
+  "Chu kỳ bình thường 24–38 ngày, kéo dài ≤ 8 ngày; chu kỳ lệch nhau nhiều hơn 9 ngày ở tuổi 42–45 là không đều (FIGO 2018 Hình 1).",
+  "Tiền mãn kinh: kéo dài 2–5 năm trước khi mất kinh, nội tiết không giúp chẩn đoán; mãn kinh khi mất kinh 12 tháng liên tiếp (QĐ 315/2015 Mãn kinh – tiền mãn kinh mục 1, 2, 2.1).",
+  "Loại trừ thai trước khi dùng nội tiết (QĐ 315 mục 3.4.2; FIGO 2018 mục 6.1); đo huyết áp là bắt buộc trước khi dùng thuốc tránh thai kết hợp (QĐ 1359/2026 mục 3.2).",
+  "Lấy mẫu nội mạc khi ra máu dai dẳng hoặc điều trị thất bại, qua soi buồng tử cung, không sinh thiết mù (NICE NG88 1.3.10–1.3.11; FIGO 2018 mục 6.4)."
+ ],
+ "nguon": [
+  "BYT – QĐ 315/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa – TL-0036 – Rong kinh rong huyết (mục 2.1, 2.4.2, 3.2, 3.2.2, Bảng 1); Mãn kinh – tiền mãn kinh (mục 1, 2.1, 2.2, 3.4.2).",
+  "FIGO 2018 – The two FIGO systems for normal and abnormal uterine bleeding (Munro MG et al., Int J Gynaecol Obstet 2018;143:393) – TL-0642 – Hình 1, mục 6.1–6.5.",
+  "NICE NG88 2018 (cập nhật 2026) – Heavy menstrual bleeding: assessment and management – TL-0640 – 1.2.6, 1.2.7, 1.2.9, 1.2.10, 1.3.1, 1.3.10–1.3.12, 1.5.2, 1.5.3, 1.5.9.",
+  "BYT – QĐ 1359/2026 Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản – TL-0604 – Viên thuốc tránh thai kết hợp, mục 2.1, 2.2, 3.2, 4.3.2.",
+  "Monash/ESHRE 2023 International PCOS Guideline (Teede HJ et al., JCEM 2023;108:2447) – TL-0624 – khuyến cáo 1.1.1, Algorithm 1.",
+  "VSH/VNHA 2024 – TL-0288 – Đ1.1; ESC 2024 Guidelines for elevated BP and hypertension – TL-0305 – Bảng 5, mục 8.2.1.1, khuyến cáo tự đo HA tại nhà; AHA/ACC 2025 Bảng 11 (NSAID làm tăng HA, trích từ ca MT-0058)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-26): viết theo QĐ 315/2015, FIGO 2018, NICE NG88, QĐ 1359/2026, Monash/ESHRE 2023, VSH/VNHA 2024, ESC 2024. Thiếu: tên thương mại và hàm lượng medroxyprogesteron tại Việt Nam, liều tranexamic acid và ibuprofen, nguy cơ đột quỵ của progestin đơn thuần, thời gian cần tránh thai sau 45 tuổi, độ chính xác của khám lâm sàng để loại trừ thai sớm, tác dụng của kháng sinh/kem lên chu kỳ."
+ ]
+}
