@@ -1,0 +1,570 @@
+{
+ "ma_ca": "TK-0560",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-10-26, soát nguồn với kho tài liệu đã tải",
+ "benh": "TK_dau_dau_thu_phat_co_do_nguoi_rat_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Đau nửa đầu có cờ đỏ (thứ phát)",
+  "chan_doan_phai_loai_tru": [
+   "XHDN",
+   "U não",
+   "Viêm màng não"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Tiểu thương chợ (bán rau)",
+  "yeu_to_khoi_phat": "Sau đi xa, ngồi lâu (xe khách 9 giờ)",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi dùng kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Bùi Thị Sáu",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Bán rau ở chợ",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tui' hoặc 'bà', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Gầy, nhỏ người, lưng hơi còng, bán rau ở chợ từ năm 20 tuổi, quen cực, ít than và sợ làm phiền con cháu. Nói chậm, hay dừng lại nhớ, trả lời đúng điều được hỏi, không kể thêm. Rất tiết kiệm: mỗi lần nghe 'xét nghiệm' là nhìn túi áo. Tin mình bị 'xoang cũ tái lại' và chỉ muốn lấy thuốc rồi về bán hàng.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: bà mang theo 180.000 đồng (tiền bán rau hôm qua, còn phải để chừa tiền xe và tiền vốn mua rau ngày mai). Khi bác sĩ nói 'làm xét nghiệm', bà hỏi ngay 'bao nhiêu tiền', rồi nói 'thôi, cho thuốc uống đi'. Bà chấp nhận làm khi bác sĩ giải thích rõ xét nghiệm nào cần, nói giá, và bỏ được những cái nào; nếu bác sĩ liệt kê cả loạt xét nghiệm thì bà đứng dậy xin về. Bà không giấu bệnh, chỉ giấu nỗi lo tiền.",
+  "nguoi_nha": "Không có ai đi cùng; con gái út ở xa (gửi tiền hằng tháng, bà gọi điện được).",
+  "ten_nguoi_nha": "",
+  "ngoai_hinh": {
+   "da": "#c49a74",
+   "toc": "#d6d6d2",
+   "kieuToc": "bui",
+   "ao": "#8a9a7b",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 4,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Tái khám theo hẹn, còn nặng đầu bên phải",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm (nên cũng không có CT, MRI, nội soi); chỉ làm được các xét nghiệm máu và nước tiểu cơ bản, X-quang và điện tim."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 78 tuổi, bán rau ở chợ, đi một mình đến tái khám theo hẹn. Tuần trước khám ở đây vì đau đầu bên phải, được cho paracetamol và nước muối, dặn tái khám sau một tuần. Hôm nay bà nói vẫn còn nặng đầu bên phải, 'không đau lắm', tay cầm túi tiền. Sinh hiệu lúc tiếp đón: HA 156/88 mmHg, mạch 76 l/p, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 96%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bà Sáu được cho về với paracetamol và nước muối, hẹn tái khám tuần sau như một ca 'xoang hoặc mỏi cổ'. Nhưng đau đầu mới ở người ≥ 65 tuổi và tiến triển là cờ đỏ: nguyên nhân thứ phát nghiêm trọng gặp ở 15% người cao tuổi so với 1,6% ở người trẻ, và đau đầu mới < 3 tháng có thể là dấu hiệu duy nhất của tổn thương nặng (SNNOOP10 2019 (TL-0476), mục Older age và Pattern change). Bà vốn định bỏ tái khám vì tiền, nên nhiều khả năng không quay lại; chưa có hình ảnh học và chưa có kế hoạch cho dấu hiệu nguy hiểm.",
+    "nhap_vien": "Bà Sáu được giữ lại nội trú ở cơ sở này 'để theo dõi và truyền dịch'. Cơ sở không có CT nên không loại trừ được tổn thương nội sọ (SNNOOP10 2019, mục Pattern change); bà tốn tiền giường và mất vài ngày bán hàng trong khi chẩn đoán vẫn chưa rõ, và cuối cùng vẫn phải chuyển tuyến để chụp. Với bà, chi phí là rào cản lớn nên rất dễ tự xin về giữa chừng.",
+    "cap_cuu": "Bà Sáu được gọi xe cấp cứu chuyển ngay trong đêm về khoa cấp cứu. Bà không có dấu thần kinh khu trú, không sốt, không đau sét đánh và đau khởi phát từ từ, tức là chưa có cờ đỏ cấp tính (SNNOOP10 2019, mục Onset sudden và Neurologic deficit), nên chuyển có kế hoạch trong 1–3 ngày là đủ; khung thời gian này là nhận định lâm sàng, không có trong tài liệu đã tải. Cước xe và phí cấp cứu vượt xa 180.000 đồng bà mang theo; bà có thể từ chối đi hoặc bỏ về giữa chừng."
+   },
+   "loi_mo": "Chào bác sĩ. Tuần trước bác sĩ dặn bữa nay tới coi lại, nên tui tới. Cái đầu bên phải vẫn còn nặng nặng, chắc xoang cũ tái lại chớ gì. Bác sĩ cho tui thêm mấy viên thuốc rồi tui về bán rau, đừng làm xét nghiệm gì tốn tiền nghen.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "156/88",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": [
+     "Huyết áp hơi cao, cần đo lại sau nghỉ"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà đến tái khám theo hẹn: tuần trước khám ở đây vì đau đầu bên phải, được cho paracetamol và nước muối, dặn 'chưa hết thì quay lại sau một tuần'. Hôm nay vẫn còn nặng đầu bên phải, bà nói 'không đau lắm, nặng nặng thôi'. Bà định bỏ tái khám vì tiền, đi vì bác sĩ đã dặn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: tái khám theo hẹn, chưa hết đau đầu"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng ba tuần rưỡi trước, bà đi xe khách khoảng 9 giờ về quê dự giỗ, ngồi sát cửa sổ, gió máy lạnh thổi vào gáy phải, ngủ gật cổ nghiêng. Chiều đó nhức gáy bên phải. Ba bốn ngày sau thì đầu bên phải bắt đầu nặng, từ từ, không có lúc nào đau bùng ra.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau ngồi xe lâu, từ từ, không đột ngột (loại cơn sét đánh)"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Gần ba tuần nay đau một bên đầu bên phải: từ gáy phải lên sau tai, thái dương phải và quanh mắt phải, âm ỉ, không giật theo mạch, không nhói như điện. Tuần trước khoảng 4/10, nay khoảng 6/10, tăng dần, ngày nào cũng đau suốt ngày. Đau tăng khi xoay cổ sang phải và khi cúi bó rau. Paracetamol 500 mg (2–3 viên mỗi ngày, uống 7 ngày) bớt khoảng 1–2 giờ rồi đau lại. Cả đời bà chưa từng đau đầu kiểu này.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau đầu MỚI ở tuổi 78, một bên, tiến triển (cờ đỏ: tuổi, đau mới, tiến triển)"
+    },
+    {
+     "id": "kem_theo",
+     "noi_dung": "Có buồn nôn nhẹ lúc đau nhiều, nôn một lần cách đây ba ngày, ăn kém hơn một chút. Không sợ ánh sáng hay tiếng ồn. Không báo trước bằng chớp sáng hay tê.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "am_than_kinh",
+     "noi_dung": "Không sốt, không ớn lạnh, không đổ mồ hôi đêm, không sụt cân. Không yếu liệt, không tê, không méo miệng, nói không khó, không nhìn đôi, không té ngã, không lú lẫn (bà vẫn tự tính tiền bán hàng). Không cứng cổ kiểu không cúi được, chỉ xoay sang phải đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc âm tính: sốt, dấu thần kinh khu trú, thay đổi tri giác"
+    },
+    {
+     "id": "gca",
+     "noi_dung": "Mắt: không mờ, không mất thị lực thoáng qua, không nhìn đôi. Không đau hàm khi nhai (bà nhai bánh mì, ăn cơm bình thường). Chải tóc không đau da đầu, nằm gối không đau thái dương. Không đau, cứng vai hay hông buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc viêm động mạch tế bào khổng lồ (âm tính)"
+    },
+    {
+     "id": "chan_thuong",
+     "noi_dung": "Không té ngã, không đụng đầu, không tai nạn, không dùng thuốc chống đông hay aspirin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không chấn thương đầu (nguy cơ máu tụ dưới màng cứng ở người cao tuổi)"
+    },
+    {
+     "id": "nho_mui",
+     "noi_dung": "Từ hơn tám tháng nay bà nhỏ thuốc nhỏ mũi lọ nhỏ mua ở nhà thuốc đầu chợ (nhãn ghi naphazolin 0,05%), mỗi ngày 4–6 lần, mỗi bên 2–3 giọt vì ngạt mũi, nhỏ xong thông được khoảng 15 phút rồi lại ngạt. Mười ngày hết một lọ. Bà không kể vì nghĩ 'thuốc nhỏ mũi đâu phải thuốc uống'. Bà tin đau đầu là 'xoang cũ tái lại'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bà chỉ nói 'không uống thuốc gì ngoài mấy viên bác sĩ cho'. Chỉ kể khi bác sĩ hỏi cụ thể thuốc nhỏ, xịt, bôi, thuốc mua ở nhà thuốc, hoặc hỏi về ngạt mũi, hoặc xem túi áo của bà.",
+     "k": 1,
+     "y": "Thuốc nhỏ mũi co mạch dùng kéo dài (thuốc đang dùng, bị bỏ sót)"
+    },
+    {
+     "id": "xoang",
+     "noi_dung": "Bà bị ngạt mũi từ lâu, mùa nào cũng 'xoang'. Nước mũi trong, không mủ, không sốt, không ho, không đau răng, không hôi mũi. Đau đầu lần này không tăng khi cúi sát đất hay khi ấn hai bên mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có đặc điểm viêm xoang cấp có mủ"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa bao giờ đau nửa đầu hay đau đầu thường xuyên. Có lần đo huyết áp ở trạm y tế 'hơi cao' cách nay mấy năm, không uống thuốc, không theo dõi. Không đái tháo đường, không ung thư, không lao, không HIV. Không hút thuốc, không uống rượu. Kinh nguyệt đã mãn từ lâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử: không đau đầu nền, huyết áp cao chưa theo dõi, không ung thư"
+    },
+    {
+     "id": "tien_bac",
+     "noi_dung": "Trong túi bà có 180.000 đồng, định để mua rau ngày mai. Bà có thẻ bảo hiểm y tế (con gái mua), nhưng nghe 'chụp hình, xét nghiệm' là lo tốn kém và mất buổi bán. Con gái ở xa, bà gọi được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: không đủ tiền xét nghiệm; cần xếp ưu tiên xét nghiệm đổi được quyết định"
+    },
+    {
+     "id": "y_dinh",
+     "noi_dung": "Bà mong 'lấy thêm thuốc nhỏ mũi và thuốc giảm đau rồi về bán hàng'. Nếu được nói rõ vì sao cần và giá cả, bà đồng ý đi tuyến trên khi có con cháu đi cùng.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Bán rau ở chợ từ 3 giờ sáng đến trưa, ngồi ghế đẩu thấp, cúi đầu bó rau nhiều giờ, hôm nào cũng vậy. Ở một mình, tự nấu ăn, tự đi chợ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy (BMI khoảng 20,4), tỉnh, da niêm hồng nhạt, không phù, không vàng da, không sốt. Dáng ngồi hơi còng.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Glasgow 15 điểm, định hướng đủ, nói rõ. Thần kinh sọ bình thường: thị trường đối diện bình thường, vận nhãn đủ, không liệt mặt, nuốt tốt, lưỡi giữa. Sức cơ 5/5 bốn chi, cảm giác nông đều, phản xạ gân xương đều hai bên, Babinski âm tính. Ngón–mũi, gót–gối chính xác. Gập cổ tự do, cằm chạm ngực được; Kernig và Brudzinski âm tính.",
+     "k": 1,
+     "hien": "Tỉnh, trả lời đúng. Đi lại chậm nhưng vững."
+    },
+    "day_mat": {
+     "a": "Gai thị hai bên bờ rõ, màu hồng, không phù, thấy mạch đập tĩnh mạch võng mạc; động mạch võng mạc hơi ngoằn ngoèo (xơ vữa nhẹ), không xuất huyết.",
+     "k": 1
+    },
+    "mat": {
+     "a": "Thị lực hai mắt đọc được số lớn, thị trường đối diện bình thường, đồng tử 3 mm tròn đều, phản xạ ánh sáng tốt, không sụp mi, không đỏ mắt.",
+     "k": 0
+    },
+    "da_dau_mong": {
+     "a": "Da đầu không đau khi sờ và khi vuốt tóc. Động mạch thái dương nông hai bên sờ rõ mạch đập, mềm, không cứng chắc, không nóng đỏ, không nốt, không đau khi ấn. Móng bình thường.",
+     "k": 1,
+     "hien": "Da đầu sờ không đau, mạch thái dương hai bên sờ được, mềm."
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống cổ: ấn đau cơ thang trên và cơ ức đòn chũm bên phải, đau điểm chẩm lớn bên phải. Xoay cổ phải chỉ được khoảng một nửa biên độ (cằm không chạm vai phải), xoay trái khoảng 70°; nghiêng phải đau. Giữ xoay phải 10 giây thì đau đầu bên phải tái hiện giống cơn đau của bà. Vai và hông cử động bình thường, không đau cơ gốc chi.",
+     "k": 1,
+     "hien": "Xoay cổ sang phải kém hơn sang trái."
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, tuyến giáp không to. Ấn hai xoang trán và xoang hàm không đau, gõ không đau.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi hai bên đỏ sẫm, phù nề, khô và hơi bóng; không mủ, không polyp. Họng đỏ nhẹ, màng nhĩ hai bên bình thường.",
+     "k": 1,
+     "hien": "Niêm mạc mũi đỏ, khô, không thấy mủ."
+    },
+    "noi_soi_mui": {
+     "a": "Khe giữa không mủ, cuốn mũi dưới phù đỏ, không polyp, vòm họng nhẵn.",
+     "k": 0
+    },
+    "day_v": {
+     "a": "Cảm giác mặt ba nhánh đều, cơ nhai khỏe hai bên, há miệng đủ, nhai thử miếng bánh mì không đau hàm, không đau khớp thái dương hàm.",
+     "k": 0
+    },
+    "ha_hai_tay": {
+     "a": "Tay phải 154/86, tay trái 156/88 mmHg, chênh nhau không đáng kể.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở đều.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không sờ thấy.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "mau_lang": {
+     "v": "e",
+     "r": "VS 16 mm ở giờ đầu",
+     "n": "Xét nghiệm rẻ nhất (30.000 đồng) và đổi được quyết định: ICHD-3 2018 (TL-0480), 6.4.1 phần Comments: mọi đau đầu mới kéo dài ở người > 60 tuổi phải gợi ý viêm động mạch tế bào khổng lồ và dẫn tới các xét nghiệm phù hợp. Ngưỡng VS/CRP để chẩn đoán GCA: không có trong tài liệu đã tải. Nhận xét lâm sàng: VS bình thường kèm không dấu GCA làm GCA ít khả năng, nhưng chưa loại trừ hoàn toàn."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 3 mg/L",
+     "bang": {
+      "crp": 3
+     },
+     "n": "CRP (80.000 đồng) bổ sung cho VS khi sàng lọc viêm và nhiễm trùng: không sốt, CRP bình thường ít gợi ý viêm màng não, nhưng thiếu bộ ba sốt – cứng cổ – rối loạn tri giác cũng không loại trừ nhiễm trùng thần kinh (SNNOOP10 2019 (TL-0476), mục Systemic symptoms)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,9 G/L · Hb 121 g/L · TC 248 G/L",
+     "bang": {
+      "wbc": 6.9,
+      "neu_pct": 62.0,
+      "neu": 4.28,
+      "lym_pct": 29.0,
+      "lym": 2.0,
+      "mono_pct": 6.0,
+      "mono": 0.41,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.1,
+      "hgb": 121,
+      "hct": 0.37,
+      "mcv": 90.0,
+      "mch": 29.5,
+      "mchc": 328,
+      "rdw": 13.5,
+      "plt": 248
+     },
+     "n": "50.000 đồng; không đổi quyết định hôm nay."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 5,7 mmol/L",
+     "bang": {
+      "glu": 5.7
+     },
+     "n": "Rẻ (20.000 đồng); bình thường. Không đổi quyết định."
+    },
+    "ecg": {
+     "v": "n",
+     "r": "Nhịp xoang 76 l/p, trục bình thường, không biến đổi ST–T.",
+     "n": "50.000 đồng, không đổi quyết định về đau đầu; không có trong tài liệu đã tải chỉ định làm điện tim thường quy cho đau đầu mới."
+    },
+    "creat": {
+     "v": "n",
+     "r": "Ure 5,1 mmol/L · Creatinin 74 µmol/L · eGFR 72 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.1,
+      "creat": 74,
+      "egfr": 72
+     },
+     "n": "50.000 đồng; không đổi quyết định hôm nay (CT sọ không cản quang không cần creatinin)."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Na 139 · K 4,1 · Cl 103 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 4.1,
+      "cl": 103
+     },
+     "n": "60.000 đồng; không đổi quyết định."
+    },
+    "xq_xoang": {
+     "v": "n",
+     "r": "Hai xoang hàm, xoang trán thông khí tốt, không mờ, không mức nước – khí.",
+     "n": "120.000 đồng; bà không sốt, nước mũi trong, ấn xoang không đau nên khả năng viêm xoang cấp thấp. ICHD-3 2018 (TL-0480), 11.5.1 ghi chú: chỉ thấy thay đổi trên hình ảnh xoang là chưa đủ để quy cho viêm xoang; cần tiêu chuẩn lâm sàng và diễn tiến song song."
+    },
+    "ct_nao": {
+     "v": "e",
+     "r": "Cơ sở không có CT sọ.",
+     "n": "Đây là cận lâm sàng cần nhất để loại trừ tổn thương nội sọ (u, máu tụ dưới màng cứng, xuất huyết), nhưng cơ sở này không có (khóa do ràng buộc nguồn lực); giải pháp là chuyển tuyến chụp, không phải làm ở đây. Không có kết quả kịp cho quyết định hôm nay nên phải quyết định bằng lâm sàng. CT khoảng 900.000 đồng; mức bảo hiểm chi trả: không có trong tài liệu đã tải."
+    },
+    "mri_so_nao": {
+     "v": "u",
+     "r": "Cơ sở không có MRI sọ.",
+     "n": "Đắt (khoảng 2.500.000 đồng); tuyến trên quyết định CT hay MRI."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "n",
+     "r": "Không thực hiện.",
+     "n": "Không chỉ định: không sốt, cổ mềm, Kernig và Brudzinski âm tính, tri giác bình thường, CRP bình thường. Không chọc dò tại phòng khám khi chưa có hình ảnh học."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau đầu thứ phát chưa rõ nguyên nhân, có cờ đỏ SNNOOP10 (khởi phát sau 65 tuổi, đau mới < 3 tháng, tiến triển): chưa loại trừ tổn thương nội sọ, cần hình ảnh học",
+     "ok": 1,
+     "n": "Bà 78 tuổi, chưa từng đau đầu, đau mới gần 3 tuần và tăng dần. SNNOOP10 2019 (TL-0476): người ≥ 65 tuổi có nguyên nhân thứ phát nghiêm trọng ở 15% so với 1,6% ở người trẻ (mục Older age); đau đầu mới < 3 tháng hoặc thay đổi kiểu đau có thể là dấu hiệu duy nhất của tổn thương nặng, chẩn đoán thường bị chậm (mục Pattern change); đau tiến triển hoặc không điển hình cũng là cờ đỏ (mục Progressive headache and atypical presentations)."
+    },
+    {
+     "t": "Giả thuyết hàng đầu: đau đầu từ cột sống cổ (cervicogenic) sau ngồi xe 9 giờ và nghề cúi bó rau",
+     "ok": 1,
+     "n": "Đau cùng bên với đau gáy khởi phát từ chuyến xe, xoay cổ phải giảm, giữ xoay phải tái hiện cơn đau, ấn đau cơ cổ bên phải: phù hợp tiêu chí C của ICHD-3 2018 (TL-0480), 11.2.1 (liên quan thời gian, tầm vận động giảm kèm đau tăng khi làm nghiệm pháp). Ghi chú 5: đau cùng bên, tăng khi ấn cơ cổ và cử động đầu giúp phân biệt với migraine và đau đầu căng. Tiêu chí D (không có chẩn đoán khác giải thích tốt hơn) và B (bằng chứng lâm sàng hoặc hình ảnh về bệnh cột sống cổ) chưa kiểm được, nên chưa chốt tại phòng khám."
+    },
+    {
+     "t": "Viêm mũi do dùng thuốc co mạch kéo dài (naphazolin hơn 8 tháng); huyết áp 156/88 mmHg một lần đo, có thể liên quan",
+     "ok": 1,
+     "n": "Niêm mạc mũi đỏ sẫm, phù, khô; ngạt trở lại sau 15 phút mỗi lần nhỏ. QĐ 5643/2015 (TL-0130), Viêm mũi xoang cấp tính, mục 4.2.1: xịt oxymetazoline ngắn ngày (ví dụ 3 ngày), xịt kéo dài có thể làm bệnh nặng hơn. ARIA-EAACI 2024–2025 (TL-0546), Bảng 1 (mục 5.2): không dùng thuốc co mạch mũi dài hạn, > 5 ngày (viết cho viêm mũi dị ứng, áp dụng tương tự). AHA/ACC 2025 (TL-0297), Bảng 11: thuốc thông mũi là chất có thể làm tăng huyết áp. Một lần đo chưa đủ chẩn đoán tăng huyết áp (AHA/ACC 2025, mục 3.1.1: trung bình ≥ 2 lần đo ở ≥ 2 dịp)."
+    },
+    {
+     "t": "Xuất huyết dưới nhện (XHDN)",
+     "n": "Khởi phát từ từ trong vài ngày, không đau bùng nổ, không nôn vọt, không ngất: không phải đau đầu kiểu sét đánh (SNNOOP10 2019, mục Onset is sudden or abrupt). Quy tắc Ottawa SAH chỉ áp dụng cho đau đầu nặng mới, không do chấn thương, đạt đỉnh trong 1 giờ (AHA/ASA 2023 (TL-0070), Bảng 3), nên không dùng được ở bà."
+    },
+    {
+     "t": "U não hoặc khối choán chỗ nội sọ (kể cả máu tụ dưới màng cứng mạn)",
+     "n": "Không có tiền sử ung thư, gai thị rõ bờ, không dấu thần kinh khu trú: nguy cơ u não ở người đau đầu không có tiền sử ung thư < 0,1%, phần lớn gặp sau 50 tuổi (SNNOOP10 2019, mục Neoplasm in history). Nhưng đau mới, tiến triển, tuổi cao nên không bỏ qua; chỉ hình ảnh học mới loại trừ. Máu tụ dưới màng cứng: không nhớ chấn thương, không dùng chống đông; tài liệu đã tải không có khuyến cáo riêng cho đau đầu ở người cao tuổi nghi máu tụ dưới màng cứng."
+    },
+    {
+     "t": "Viêm màng não / viêm não",
+     "n": "Không sốt, cổ gập tự do, Kernig và Brudzinski âm tính, tri giác bình thường, CRP 3 mg/L. Thiếu bộ ba sốt – cứng cổ – rối loạn tri giác không loại trừ hẳn (SNNOOP10 2019, mục Systemic symptoms) nhưng bệnh cảnh không gợi ý; không có chỉ định chọc dò."
+    },
+    {
+     "t": "Viêm động mạch tế bào khổng lồ (GCA)",
+     "n": "Mọi đau đầu mới kéo dài ở người > 60 tuổi phải nghĩ tới GCA; nguy cơ chính là mù do bệnh thần kinh thị giác thiếu máu, ngăn được nhờ corticoid ngay (ICHD-3 2018 (TL-0480), 6.4.1 phần Comments). Bà không đau da đầu, không đau hàm khi nhai, không rối loạn thị giác, không đau cơ gốc chi, mạch thái dương mềm, VS 16 mm và CRP 3 mg/L: ít gợi ý. Mạch thái dương siêu âm không có (ràng buộc nguồn lực)."
+    },
+    {
+     "t": "Đau đầu do viêm xoang (viêm mũi xoang cấp hoặc mạn)",
+     "n": "Bà tự gán là 'xoang'. Không sốt, nước mũi trong không mủ, ấn xoang không đau, không đau tăng khi cúi. ICHD-3 2018 (TL-0480), 11.5.1 ghi chú 1: migraine và đau đầu căng có thể bị nhầm là viêm xoang; có hay không dịch mũi mủ giúp phân biệt."
+    },
+    {
+     "t": "Đau đầu nguyên phát (migraine, đau đầu căng thẳng)",
+     "n": "Đau đầu nguyên phát khởi phát lần đầu sau 75 tuổi là rất hiếm và là chẩn đoán loại trừ (tiêu chí D của ICHD-3 2018 (TL-0480): không có chẩn đoán khác giải thích tốt hơn). Không có đặc điểm migraine (không giật theo mạch, không sợ sáng, không tiền triệu)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến có CT sọ (bệnh viện tỉnh/khu vực), có kế hoạch trong 1–3 ngày, đi cùng con cháu; không dùng xe cấp cứu; giấy chuyển tuyến ghi rõ khởi phát, diễn tiến, VS 16, CRP 3, các dấu hiệu đã loại trừ",
+     "v": "c",
+     "n": "Phòng khám không có CT nên không thể loại trừ tổn thương nội sọ ở người ≥ 65 tuổi có đau đầu mới tiến triển (SNNOOP10 2019 (TL-0476), mục Older age và Pattern change). Khung thời gian 1–3 ngày và việc không cần xe cấp cứu là nhận định lâm sàng vì không có dấu thần kinh khu trú, không sốt, không đau sét đánh; thời hạn cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xếp ưu tiên xét nghiệm theo tiền của bà: chỉ làm VS (30.000 đồng) ± CRP (80.000 đồng), tổng không quá 110.000 đồng; nói rõ giá trước khi làm và giải thích vì sao bỏ các xét nghiệm khác",
+     "v": "c",
+     "n": "ICHD-3 2018 (TL-0480), 6.4.1 phần Comments: đau đầu mới kéo dài ở người > 60 tuổi gợi ý GCA và cần xét nghiệm phù hợp. Công thức máu, điện giải, creatinin, lipid, HbA1c, X-quang xoang không đổi quyết định hôm nay; giá lấy theo danh mục của app."
+    },
+    {
+     "t": "Hỏi thẻ bảo hiểm, người đi cùng, phương tiện và tiền; hướng dẫn bà gọi con gái; ghi tên bệnh viện, giờ nên đến, mang theo sổ khám và lọ thuốc nhỏ mũi",
+     "v": "c",
+     "n": "Quyết định chuyển chỉ thành công nếu bà đi được; quy định bảo hiểm cho chuyển tuyến và mức chi trả chụp CT: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc giảm đau tạm thời: paracetamol 500 mg uống khi đau, không quá 3 g/ngày (QĐ 361/2014) hoặc không quá 4 g/ngày (AHA/ACC 2025); với bà dùng mức thấp, không quá 4 viên (2 g) mỗi ngày. Tránh NSAID",
+     "v": "c",
+     "n": "QĐ 361/2014 (TL-0286), Phụ lục NSAID mục 3.3, nhóm nguy cơ cao (người cao tuổi, gầy yếu hoặc tăng huyết áp): acetaminophen dưới 3 g/ngày, tránh NSAID nếu có thể. AHA/ACC 2025 (TL-0297), Bảng 11: tránh NSAID toàn thân khi có thể, acetaminophen dưới 4 g/ngày. Hai nguồn cùng chiều (cao tuổi, huyết áp cao); dưới 3 g/ngày là con số thận trọng hơn. Phụ lục thuốc giảm đau mục 3.1 (QĐ 361): 500–1.000 mg/lần, cách 6–8 giờ."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi co mạch; thay bằng rửa mũi nước muối sinh lý 0,9%; giải thích vì sao thuốc làm ngạt dội ngược và có thể làm huyết áp cao",
+     "v": "c",
+     "n": "QĐ 5643/2015 (TL-0130), mục 4.2.1: oxymetazoline chỉ ngắn ngày (ví dụ 3 ngày), kéo dài có thể làm bệnh nặng hơn; rửa mũi nước muối sinh lý. ARIA-EAACI 2024–2025 (TL-0546), Bảng 1 (mục 5.2): không dùng co mạch dài hạn > 5 ngày (viêm mũi dị ứng). AHA/ACC 2025 (TL-0297), Bảng 11: dùng thuốc thông mũi thời gian ngắn nhất, thay bằng nước muối, corticoid xịt mũi hoặc kháng histamin. Ngưng ngay hay giảm dần, và ngạt mũi dội lại bao lâu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đến cấp cứu ngay (không chờ lịch chuyển): đau tăng đột ngột dữ dội, nôn vọt, lơ mơ hoặc lú lẫn, yếu liệt, méo miệng, nói khó, co giật, nhìn đôi, mờ hoặc mất thị lực một mắt, sốt kèm cứng cổ",
+     "v": "c",
+     "n": "Mất thị lực thoáng qua kèm đau đầu rất gợi ý GCA và cần xét nghiệm khẩn vì nguy cơ mù (ICHD-3 2018 (TL-0480), 6.4.1 phần Comments); đau sét đánh và dấu thần kinh khu trú là cờ đỏ (SNNOOP10 2019 (TL-0476), mục Onset sudden và Neurologic deficit)."
+    },
+    {
+     "t": "Hỏi riêng về nhỏ mũi/thuốc mua tự do và xem túi thuốc, lọ nhỏ mũi",
+     "v": "a",
+     "n": "Thuốc nhỏ mũi dễ bị bỏ sót vì bà không xem là thuốc. Kỹ thuật hỏi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn đo lại huyết áp vài ngày sau khi ngưng thuốc nhỏ mũi, tại trạm y tế gần nhà (≥ 2 lần đo, ≥ 2 dịp)",
+     "v": "a",
+     "n": "AHA/ACC 2025 (TL-0297), mục 3.1.1: cần trung bình ≥ 2 lần đo ở ≥ 2 dịp. QĐ 5904/2019 (TL-0284), phần THA: ngưỡng khởi trị ≥ 140/90 mmHg ở người < 80 tuổi, ≥ 160/90 mmHg ở người ≥ 80 tuổi (bà 78 tuổi)."
+    },
+    {
+     "t": "Hướng dẫn bỏ thói quen cúi cổ lâu khi bó rau, ngồi ghế cao hơn, nghỉ cổ vài phút mỗi giờ",
+     "v": "a",
+     "n": "Hợp lý theo cơ chế đau đầu từ cổ; cách điều chỉnh tư thế cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, tiếp tục paracetamol, hẹn tái khám tuần sau, coi là 'xoang' hoặc 'mỏi cổ'",
+     "v": "w",
+     "n": "Bỏ sót cờ đỏ ở người ≥ 65 tuổi: nguy cơ nguyên nhân nghiêm trọng tăng khoảng 10 lần so với người trẻ (SNNOOP10 2019 (TL-0476), mục Older age); bà đã định bỏ tái khám vì tiền. Hẹn lại tuần sau: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh cho 'viêm xoang'",
+     "v": "w",
+     "n": "Không sốt, không mủ, không đau xoang; EPOS 2020 (TL-0087), Hình 1.4.1: tránh kháng sinh ở tuyến ban đầu cho viêm mũi xoang cấp nhẹ."
+    },
+    {
+     "t": "Kê NSAID liều cao (diclofenac, ibuprofen) để cắt đau",
+     "v": "w",
+     "n": "Bà 78 tuổi, gầy, huyết áp cao: QĐ 361/2014 (TL-0286), Phụ lục NSAID mục 3.3: nhóm nguy cơ cao nên tránh NSAID nếu có thể; AHA/ACC 2025 (TL-0297), Bảng 11: tránh NSAID toàn thân khi có thể."
+    },
+    {
+     "t": "Cho corticoid uống thử (prednisolon) mà chưa có chẩn đoán",
+     "v": "w",
+     "n": "Che lấp diễn tiến và triệu chứng (ICHD-3 6.4.1 tiêu chí C2b dựa vào đáp ứng corticoid để quy kết), làm sai lệch xét nghiệm tuyến trên; GCA ít gợi ý với VS và CRP bình thường. Liều/chỉ định corticoid theo kinh nghiệm cho đau đầu người cao tuổi: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau đầu thứ phát chưa rõ nguyên nhân, cờ đỏ SNNOOP10: khởi phát sau 65 tuổi, đau mới < 3 tháng, tiến triển; chưa loại trừ tổn thương nội sọ (SNNOOP10 2019, mục Older age, Pattern change)",
+     "Giả thuyết hàng đầu: đau đầu từ cột sống cổ (ICHD-3 2018, 11.2.1) sau ngồi xe 9 giờ và nghề cúi cổ bó rau; chưa thể chốt khi chưa có hình ảnh",
+     "Viêm mũi do dùng thuốc co mạch nhỏ mũi kéo dài hơn 8 tháng; huyết áp 156/88 mmHg một lần đo, nghi liên quan thuốc, cần đo lại",
+     "Đã sàng lọc âm tính: XHDN (không đột ngột), viêm màng não (không sốt, cổ mềm, CRP 3), GCA (không đau da đầu, hàm, thị giác; VS 16, CRP 3); U não và máu tụ dưới màng cứng chưa loại trừ hẳn",
+     "Nhiễu và lý do thật: không đủ tiền xét nghiệm; đến khám vì tái khám theo hẹn, định bỏ vì tiền",
+     "Hướng xử trí: chuyển tuyến có CT sọ trong 1–3 ngày, không cấp cứu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (ngày khởi phát, kiểu khởi phát từ từ hay đột ngột, tính chất, vị trí, tiến triển; sàng lọc sốt, dấu thần kinh, thị giác, hàm, da đầu, chấn thương; thuốc đang dùng kể cả nhỏ mũi) → sinh hiệu, đo huyết áp lại → khám thần kinh, đáy mắt, mạch thái dương, cột sống cổ, mũi → cận lâm sàng tối thiểu (VS ± CRP) → chẩn đoán → xử trí và chuyển tuyến.",
+     "Vì sao đây là ca cờ đỏ dù bà nói 'không đau lắm': người ≥ 65 tuổi có nguyên nhân thứ phát nghiêm trọng ở 15% so với 1,6% ở người trẻ (SNNOOP10 2019 (TL-0476), mục Older age); đau đầu mới < 3 tháng hoặc đổi kiểu có thể là dấu hiệu duy nhất của tổn thương nặng và chẩn đoán hay bị chậm (mục Pattern change); đau tiến triển là cờ đỏ (mục Progressive headache). Bà đau mới 3 tuần, chưa từng đau đầu, tăng từ 4 lên 6/10. Ở người rất cao tuổi bệnh thường không điển hình: bà chỉ tả 'nặng đầu'.",
+     "Vì sao không có cờ đỏ cấp (đúng với sổ cái 'không có cờ đỏ'): không sốt, không đau sét đánh, không dấu thần kinh khu trú, không phù gai thị (SNNOOP10 2019, mục Systemic symptoms, Onset sudden, Neurologic deficit, Papilledema). Nên đây là ca cần hình ảnh học có kế hoạch, không phải cấp cứu.",
+     "Nhiễu và manh mối: bà tự gán 'xoang'; ICHD-3 2018 (TL-0480), 11.5.1 ghi chú 1: migraine và đau đầu căng hay bị nhầm là xoang, không mủ/không sốt giúp phân biệt. Thuốc nhỏ mũi kéo dài (naphazolin) là mảnh ghép bị giấu: vừa giải thích ngạt mũi dội ngược, vừa có thể góp phần làm huyết áp cao (AHA/ACC 2025 (TL-0297), Bảng 11).",
+     "Giả thuyết đau đầu từ cột sống cổ: có yếu tố khởi phát rõ (xe 9 giờ, nghề cúi cổ), ấn đau cơ cổ phải, xoay phải giảm và tái hiện đau (ICHD-3 2018 (TL-0480), 11.2.1 tiêu chí C và ghi chú 5). Tuy vậy, tiêu chí D (không giải thích tốt hơn bằng chẩn đoán khác) chưa kiểm được khi chưa có hình ảnh, nên hôm nay chỉ là giả thuyết. Có lời giải thích đẹp mà vẫn có cờ đỏ thì phải loại trừ nguyên nhân nguy hiểm trước, tránh chốt sớm.",
+     "Nguồn lực và tiền: không siêu âm nên không siêu âm mạch thái dương; cũng không CT, MRI tại chỗ. Với 180.000 đồng, nên làm VS (30.000 đồng) ± CRP (80.000 đồng); các xét nghiệm còn lại không đổi quyết định."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến chụp CT sọ không cấp cứu, trong 1–3 ngày: cờ đỏ SNNOOP10 (người ≥ 65 tuổi, đau mới, tiến triển) không loại trừ được ở phòng khám không có CT; không có dấu thần kinh khu trú, sốt hay đau sét đánh nên không cần xe cấp cứu. Thời hạn 1–3 ngày và chọn CT: nhận định lâm sàng; khuyến cáo chụp hình ảnh cho đau đầu mới ở người ≥ 65 tuổi không dấu khu trú: không có trong tài liệu đã tải.",
+     "Thuốc giảm đau: paracetamol 500 mg khi đau, tối đa 4 viên (2 g) mỗi ngày. Ghi cả hai ngưỡng: dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3, người cao tuổi/gầy/tăng huyết áp) và dưới 4 g/ngày (AHA/ACC 2025, Bảng 11; QĐ 361 Phụ lục thuốc giảm đau mục 3.1, người lớn nói chung). Vì sao khác: QĐ 361 viết riêng cho nhóm nguy cơ cao, AHA/ACC viết cho người tăng huyết áp nói chung; dưới 3 g/ngày là con số thận trọng hơn. Mục này đã có trong sổ mâu thuẫn ('Liều paracetamol tối đa ở người cao tuổi hoặc tăng huyết áp'). Tránh NSAID (cùng hai nguồn).",
+     "Thuốc nhỏ mũi: ngưng thuốc co mạch, thay nước muối sinh lý 0,9% (QĐ 5643/2015 mục 4.2.1; ARIA-EAACI 2024–2025 Bảng 1; AHA/ACC 2025 Bảng 11 cùng hướng). Cách ngưng và thời gian ngạt dội lại không có trong tài liệu đã tải; không hứa 'vài ngày là hết'.",
+     "Không kháng sinh, không corticoid thử, không NSAID. Corticoid chỉ cân nhắc ở tuyến trên khi nghi GCA thật sự (ICHD-3 6.4.1: nguy cơ chính là mù, ngăn được bằng corticoid ngay); ở đây VS, CRP bình thường và không có dấu GCA nên không có chỉ định.",
+     "Chi phí: nói rõ từng khoản, ưu tiên xét nghiệm đổi quyết định, hỏi bảo hiểm và người đi cùng. Quy định bảo hiểm, mức chi trả CT: không có trong tài liệu đã tải.",
+     "Kết cục tốt không biện minh cho cách xử trí thiếu chặt: nếu cho về hẹn tuần sau mà bà vẫn khỏi thì đó là may mắn; nguy cơ nguyên nhân nghiêm trọng ở người ≥ 65 tuổi vẫn tăng khoảng 10 lần so với người trẻ (SNNOOP10 2019 (TL-0476), mục Older age)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần khi đau, cách nhau ít nhất 6–8 giờ; tối đa 4 viên (2 g) mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, chỉ khi đau",
+      "so_ngay": "Đến khi chụp CT và khám tuyến trên (dự kiến 3–5 ngày)",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg/lần, 6–8 giờ, tối đa 4 g/24 giờ) và Phụ lục NSAID mục 3.3 (người cao tuổi/gầy/tăng huyết áp: dưới 3 g/ngày). AHA/ACC 2025 (TL-0297), Bảng 11: dưới 4 g/ngày. Chọn 2 g/ngày vì bà gầy 46 kg; đây là nhận định lâm sàng, không phải số liệu từ tài liệu."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "Chai 0,9% dùng cho mũi",
+      "lieu": "Rửa hoặc nhỏ mũi nhẹ nhàng hai bên; số lần, số giọt: không có trong tài liệu đã tải",
+      "duong": "Nhỏ/rửa mũi",
+      "thoi_diem": "Khi ngạt mũi, thay cho thuốc nhỏ mũi co mạch",
+      "so_ngay": "Theo nhu cầu",
+      "ghi_chu": "QĐ 5643/2015 (TL-0130), mục 4.2.1: rửa mũi thường xuyên bằng nước muối sinh lý. AHA/ACC 2025 (TL-0297), Bảng 11: dùng nước muối thay thuốc thông mũi."
+     },
+     {
+      "thuoc": "Ngưng naphazolin 0,05% nhỏ mũi",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Ngưng; cách ngưng (dừng ngay hay giảm dần): không có trong tài liệu đã tải",
+      "duong": "Không",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng lại",
+      "ghi_chu": "QĐ 5643/2015 mục 4.2.1; ARIA-EAACI 2024–2025 (TL-0546), Bảng 1 (không quá 5 ngày)."
+     },
+     {
+      "thuoc": "Không kê NSAID, kháng sinh, corticoid",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "QĐ 361/2014 Phụ lục NSAID mục 3.3; AHA/ACC 2025 Bảng 11; EPOS 2020 (TL-0087) Hình 1.4.1."
+     }
+    ],
+    "dan_do": [
+     "Bà Sáu cần chụp CT sọ trong 1–3 ngày tới ở bệnh viện tỉnh (nhận định lâm sàng, không có trong tài liệu đã tải; SNNOOP10 2019, mục Older age): đây là cách duy nhất để chắc là trong đầu không có chảy máu, khối u hay máu tụ. Nhờ con cháu đưa đi, mang theo giấy chuyển, thẻ bảo hiểm và lọ thuốc nhỏ mũi; gọi con gái báo trước.",
+     "Đau đầu của bà ở tuổi này, mới bị, ngày càng tăng, nên không thể coi là 'xoang' hay 'mỏi cổ' rồi cho qua. Rất có thể chỉ là đau từ cổ sau chuyến xe dài, nhưng phải chụp mới dám nói.",
+     "Ngưng thuốc nhỏ mũi lọ nhỏ; dùng nước muối sinh lý để rửa mũi. Thuốc này dùng lâu làm mũi ngạt nhiều hơn và có thể làm huyết áp cao hơn.",
+     "Chỉ uống paracetamol 500 mg khi đau, mỗi lần 1 viên, cách nhau ít nhất 6–8 giờ, tối đa 4 viên mỗi ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3; AHA/ACC 2025 Bảng 11). Không tự mua thuốc giảm đau khác như thuốc nhức xương khớp hay thuốc cảm có thêm thuốc giảm đau.",
+     "Đến cấp cứu ngay (không chờ lịch) nếu: đau đột ngột dữ dội, nôn nhiều, lơ mơ hay nói lẫn, yếu hoặc tê tay chân, méo miệng, nói khó, co giật, nhìn đôi hoặc mờ hoặc mất thị lực một mắt, sốt kèm cứng cổ.",
+     "Ngồi ghế cao hơn khi bó rau, nghỉ cổ vài phút mỗi giờ, tránh gió thổi thẳng vào gáy khi đi xe. Đo lại huyết áp ở trạm y tế gần nhà vài ngày sau khi ngưng thuốc nhỏ mũi.",
+     "Về tiền: xét nghiệm hôm nay chỉ cần VS (và CRP nếu đủ), các xét nghiệm khác chưa cần. Chụp CT là khoản chính; hỏi quầy bảo hiểm ở bệnh viện về mức chi trả. Quy định chi trả: không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai ngày sau, con gái bà từ xa về đưa bà lên bệnh viện tỉnh. CT sọ không cản quang không thấy chảy máu, u hay máu tụ dưới màng cứng, chỉ teo não nhẹ phù hợp tuổi; X-quang cột sống cổ thấy thoái hóa C4–C6; VS và CRP vẫn bình thường. Chẩn đoán cuối: đau đầu từ cột sống cổ (cervicogenic) sau ngồi xe lâu, đã loại trừ XHDN, u não, viêm màng não và GCA. Bà ngưng thuốc nhỏ mũi, rửa mũi nước muối, ngạt dội ngược khoảng một tuần rồi đỡ; đau đầu giảm dần và hết sau khoảng hai tuần; huyết áp đo lại ở trạm y tế 138/82 mmHg. Quyết định chuyển tuyến đúng dù kết cục lành tính: đánh giá theo dữ kiện lúc ra quyết định, không theo kết quả.",
+ "nhieu": [
+  "Bà nói 'không đau lắm, nặng nặng thôi' và tin là 'xoang cũ': tả nhẹ đi và neo vào chẩn đoán quen thuộc; thực tế đau tăng từ 4 lên 6/10 và là đau mới ở tuổi 78.",
+  "Không đủ tiền xét nghiệm: 180.000 đồng trong túi, ngại mọi xét nghiệm; bác sĩ phải xếp ưu tiên (VS ± CRP đổi được quyết định, bỏ công thức máu, điện giải, lipid, HbA1c, X-quang xoang) và nói giá trước.",
+  "Thuốc nhỏ mũi naphazolin dùng hơn 8 tháng bị coi 'không phải thuốc' nên không kể; chỉ lộ khi hỏi cụ thể hoặc xem túi áo."
+ ],
+ "bai_hoc_bien": [
+  "Đau đầu mới khởi phát ở người ≥ 65 tuổi là cờ đỏ ngay cả khi bệnh nhân tả nhẹ và không có dấu thần kinh khu trú: nguy cơ nguyên nhân nghiêm trọng gấp khoảng 10 lần (SNNOOP10 2019, mục Older age, Pattern change).",
+  "Mọi đau đầu mới kéo dài ở người > 60 tuổi phải nghĩ tới viêm động mạch tế bào khổng lồ và làm xét nghiệm viêm; nguy cơ chính là mù, ngăn được bằng corticoid sớm (ICHD-3 2018, 6.4.1). VS 30.000 đồng là xét nghiệm hời nhất của ca.",
+  "Một lời giải thích đẹp (đau cổ sau ngồi xe, xoang cũ) không loại trừ nguyên nhân nguy hiểm; đau đầu từ cổ (ICHD-3 11.2.1) là chẩn đoán loại trừ.",
+  "Không có CT thì chuyển tuyến có kế hoạch, không cần xe cấp cứu khi không có cờ đỏ cấp; hỏi tiền, bảo hiểm và người đi cùng để bà đi được.",
+  "Hỏi thuốc đang dùng phải gồm cả thuốc nhỏ mũi, thuốc mua tự do; thuốc co mạch mũi dùng kéo dài làm ngạt dội ngược và có thể làm huyết áp cao (QĐ 5643/2015, ARIA-EAACI 2024–2025, AHA/ACC 2025)."
+ ],
+ "diem_nho": [
+  "SNNOOP10: người ≥ 65 tuổi có nguyên nhân thứ phát nghiêm trọng ở 15% so với 1,6% ở người dưới 65 tuổi; đau đầu mới < 3 tháng có tổn thương nội sọ ở 21% trong một nghiên cứu cộng đồng (SNNOOP10 2019, mục Older age và Pattern change).",
+  "Nguy cơ u não ở người đau đầu không có tiền sử ung thư < 0,1%, phần lớn gặp sau 50 tuổi (SNNOOP10 2019, mục Neoplasm in history).",
+  "Quy tắc Ottawa SAH chỉ dùng cho đau đầu nặng mới, không chấn thương, đạt đỉnh trong 1 giờ (AHA/ASA 2023, Bảng 3); không áp dụng cho đau đầu khởi phát từ từ.",
+  "GCA: đau đầu mới kéo dài ở người > 60 tuổi gợi ý GCA; mất thị lực thoáng qua kèm đau đầu cần xét nghiệm khẩn; nguy cơ mù ngăn được bằng corticoid ngay (ICHD-3 2018, 6.4.1 phần Comments).",
+  "Đau đầu từ cột sống cổ: tiêu chí C gồm liên quan thời gian, tầm vận động giảm kèm đau tăng khi làm nghiệm pháp; tiêu chí D: không có chẩn đoán khác giải thích tốt hơn (ICHD-3 2018, 11.2.1).",
+  "Thuốc co mạch mũi: không dùng quá 5 ngày (ARIA-EAACI 2024–2025, Bảng 1); ngắn ngày, ví dụ 3 ngày, kéo dài có thể làm bệnh nặng hơn (QĐ 5643/2015, mục 4.2.1).",
+  "Paracetamol ở người cao tuổi/gầy/tăng huyết áp: dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3); người lớn nói chung dưới 4 g/ngày (QĐ 361 Phụ lục thuốc giảm đau mục 3.1; AHA/ACC 2025, Bảng 11)."
+ ],
+ "nguon": [
+  "Do TP và cs. 2019 – Red and orange flags for secondary headaches in clinical practice: SNNOOP10 list (Neurology 92(3):134–144) – TL-0476 – Bảng 1; các mục Systemic symptoms, Neoplasm in history, Neurologic deficit, Onset sudden, Older age, Pattern change, Papilledema, Progressive headache and atypical presentations.",
+  "IHS 2018 – ICHD-3 (Cephalalgia 38(1)) – TL-0480 – 6.4.1 (Headache attributed to giant cell arteritis, phần Comments); 11.2.1 (Cervicogenic headache, tiêu chí và ghi chú 5); 11.5.1 (Headache attributed to acute rhinosinusitis, ghi chú 1).",
+  "AHA/ASA 2023 – Guideline for the Management of Patients With Aneurysmal Subarachnoid Hemorrhage – TL-0070 – Bảng 3 (Ottawa SAH Rule).",
+  "BYT – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Phụ lục thuốc giảm đau mục 3.1; Phụ lục thuốc chống viêm không steroid mục 3.3 (nhóm nguy cơ cao).",
+  "AHA/ACC 2025 – Guideline for the Prevention, Detection, Evaluation and Management of High Blood Pressure in Adults – TL-0297 – Bảng 11 (thuốc làm tăng huyết áp: decongestants, NSAIDs, acetaminophen); mục 3.1.1 (đo huyết áp).",
+  "BYT – QĐ 5904/QĐ-BYT 2019, Hướng dẫn chẩn đoán, điều trị và quản lý một số bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – phần Tăng huyết áp, ngưỡng khởi trị.",
+  "BYT – QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh tai mũi họng – TL-0130 – Viêm mũi xoang cấp tính, mục 4.2.1 (oxymetazoline ngắn ngày, nước muối sinh lý).",
+  "ARIA-EAACI 2024–2025 – Allergic rhinitis and its impact on asthma, Part I: Intranasal treatments – TL-0546 – Bảng 1 và mục 5.2 (thuốc co mạch mũi dài hạn).",
+  "EPOS 2020 – European Position Paper on Rhinosinusitis and Nasal Polyps – TL-0087 – Hình 1.4.1 (lộ trình chăm sóc viêm mũi xoang cấp, tránh kháng sinh)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-26 (viết: Sonnet): ca 1 lượt, bản 1. Đã đọc: TL-0476 (SNNOOP10: các mục Older age, Pattern change, Neoplasm, Onset sudden, Systemic symptoms), TL-0480 (ICHD-3: 6.4.1, 11.2.1, 11.5.1), TL-0070 (Bảng 3), TL-0286 (Phụ lục thuốc giảm đau 3.1, NSAID 3.3), TL-0297 (Bảng 11, mục 3.1.1), TL-0284 (phần THA), TL-0130 (mục 4.2.1), TL-0546 (Bảng 1, mục 5.2), TL-0087 (Hình 1.4.1).",
+  "Thiếu tài liệu: khuyến cáo chụp hình ảnh (CT hay MRI, thời hạn) cho đau đầu mới ở người ≥ 65 tuổi không dấu khu trú; ngưỡng VS/CRP chẩn đoán GCA; cách ngưng thuốc nhỏ mũi co mạch và thời gian ngạt dội lại; máu tụ dưới màng cứng mạn ở người cao tuổi; quy định chi trả bảo hiểm cho chuyển tuyến và CT. Đã ghi 'không có trong tài liệu đã tải' hoặc 'nhận định lâm sàng'.",
+  "Mâu thuẫn nguồn đã có trong sổ và áp dụng: 'Liều paracetamol tối đa ở người cao tuổi hoặc tăng huyết áp' (dưới 3 g/ngày theo QĐ 361/2014 hoặc dưới 4 g/ngày theo AHA/ACC 2025, ghi cả hai); ghi nhận nhỏ 'Thuốc nhỏ mũi co mạch ở người lớn tuổi' (cùng hướng). Không tạo mục mới.",
+  "Chọn chuyển tuyến có kế hoạch (không cấp cứu) vì sổ cái ghi không có cờ đỏ cấp; kết cục ở tuyến trên (CT bình thường, đau đầu từ cổ) là kịch bản minh họa. Không dùng ảnh da; tim phổi dùng âm thanh bình thường."
+ ]
+}
