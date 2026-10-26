@@ -1,0 +1,561 @@
+{
+ "ma_ca": "TT-0361",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TT_lam_dung_benzodiazepine",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Lạm dụng benzodiazepine / thuốc an thần",
+  "chan_doan_phai_loai_tru": [
+   "Rối loạn lo âu nền"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Thợ hàn",
+  "yeu_to_khoi_phat": "Phơi nắng lâu",
+  "thuoc_dang_dung": "Thuốc tránh thai đang dùng (vỉ của bạn gái để chung túi thuốc, anh không uống)",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nam"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Văn Tuấn",
+  "tuoi": 29,
+  "gioi": "Nam",
+  "nghe": "Thợ hàn",
+  "can_nang": 64,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Xởi lởi, hơi cộc khi bị nói trúng. Thực tế, ít chữ, sợ mất việc và sợ bị coi là nghiện. Gọi kháng sinh là 'thuốc mạnh', gọi diazepam là 'thuốc ngủ' hay 'Seduxen'.",
+  "kieu_nhieu": "Đòi kháng sinh: ép 'cho em thuốc kháng sinh mạnh, tiêm cũng được', nói lần trước uống là khỏi, lái câu chuyện sang ho và họng. Khi bác sĩ từ chối mà không nói lý do rõ thì bực; khi được giải thích tôn trọng và hỏi đúng về thuốc ngủ thì dịu lại.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#b9805c",
+   "toc": "#1c1410",
+   "kieuToc": "ngan",
+   "ao": "#5a6f86",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Ho, rát họng, mệt; xin thuốc kháng sinh và giấy nghỉ",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 29 tuổi, thợ hàn, đến khám vì ho, rát họng, mệt mấy ngày nay sau 3 ngày hàn ngoài nắng. Anh xin kháng sinh và giấy nghỉ. Sinh hiệu: mạch 108 l/p, HA 142/88 mmHg, nhiệt 37,2 °C, nhịp thở 18, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Tuấn nhập viện để cai thuốc dù không co giật, không sảng, không ý nghĩ tự hại, không rượu nặng và có bạn gái hỗ trợ. Phần lớn người bệnh giảm benzodiazepine được ngoại trú, nội trú dành cho cai nặng hoặc nguy cơ không giảm được (Joint 2025 khuyến cáo 5, 12). Anh mất vài ngày lương, sợ tổ trưởng biết và có thể bỏ trị liệu sau khi ra viện; vẫn chưa có kế hoạch giảm liều lâu dài.",
+    "chuyen_tuyen": "Anh Tuấn được chuyển lên tuyến trên chuyên khoa tâm thần khi chưa có dấu cai nặng. Chuyển tuyến làm anh tốn thời gian, chi phí, ngại quay lại, trong khi hội chứng cai nhẹ có thể xử trí tại phòng khám và chỉ chuyển khi không giảm được hoặc có biến chứng (Joint 2025 khuyến cáo 5, 20). Anh dễ tự mua thuốc lại, chưa được cấp thuốc ổn định."
+   },
+   "loi_mo": "Bác sĩ cho em xin thuốc kháng sinh loại mạnh với, tiêm cũng được. Em ho với rát họng mấy bữa nay, mệt quá. Lần trước uống kháng sinh là khỏi liền. Cho em xin cả giấy nghỉ mấy ngày nữa.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "142/88",
+    "nhiet": "37,2",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Xin kháng sinh 'loại mạnh' và giấy nghỉ vì ho, rát họng, mệt mấy ngày nay. Nói trước đây ho là uống kháng sinh khỏi ngay.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khai và yêu cầu kháng sinh"
+    },
+    {
+     "id": "ho_hong",
+     "noi_dung": "Rát họng và ho khan từng cơn 3 ngày, sau 3 ngày hàn ngoài trời. Không sốt, không ớn lạnh, không đờm mủ, không khó thở, không đau tai. Hơi ngạt mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh hô hấp trên nhẹ, hướng virus/kích ứng"
+    },
+    {
+     "id": "khoi_han",
+     "noi_dung": "Hàn thép đen, đeo khẩu trang vải. Không có vị kim loại trong miệng, không rét run, không đau cơ kiểu sốt.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "nang",
+     "noi_dung": "Ba ngày liền hàn lan can ngoài nắng khoảng 10 giờ mỗi ngày, uống ít nước, cháy da cổ và hai cẳng tay. Nước tiểu hôm nay sẫm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: phơi nắng lâu, mất nước nhẹ"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Hỏi chung có uống thuốc gì không thì nói 'không, chỉ thuốc ho'. Chỉ khi hỏi cụ thể thuốc ngủ, thuốc an thần, thuốc để ngủ mới kể: uống Seduxen (diazepam) 5 mg, 6 viên mỗi ngày (sáng 2, trưa 2, tối 2), khoảng 18 tháng, mua không đơn ở 3 nhà thuốc. Hai ngày nay hết thuốc, nhà thuốc quen không bán nữa.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' thì gạt đi. Chỉ nói thật khi bác sĩ hỏi đích danh thuốc ngủ, thuốc an thần, thuốc để dễ ngủ, hoặc khi bác sĩ giải thích rằng run, vã mồ hôi có thể do ngưng thuốc và không phán xét.",
+     "y": "Lạm dụng diazepam: tên thuốc, liều, thời gian, nguồn"
+    },
+    {
+     "id": "khoi_dau",
+     "noi_dung": "Hai năm trước làm ca đêm ở xưởng, mất ngủ. Bác sĩ phòng khám tư kê diazepam 5 mg một tuần, uống tối. Sau đó tự mua tiếp, một viên rồi hai viên một đêm, vài tháng sau uống cả ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi đầu dùng thuốc và tăng liều"
+    },
+    {
+     "id": "kiem_soat",
+     "noi_dung": "Mấy lần định bỏ nhưng chỉ được 1–2 ngày vì run và không ngủ được. Sáng dậy phải uống thuốc mới cầm được dụng cụ. Có lần uống nhiều hơn dự định, có lần đi mua thuốc ở xa vì nhà thuốc gần không bán.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi theo hướng 'đã bao giờ muốn bỏ chưa', 'sáng dậy có phải uống ngay không'. Hỏi 'có nghiện không' thì phản ứng gắt: 'em đâu có nghiện, chỉ là thuốc ngủ'.",
+     "y": "Dung nạp, thèm thuốc, mất kiểm soát"
+    },
+    {
+     "id": "cai",
+     "noi_dung": "Từ tối hết thuốc: run hai tay, vã mồ hôi, tim đập nhanh, bồn chồn, chưa chợp mắt được hai đêm, chói tai với tiếng ồn, buồn nôn nhẹ. Anh tưởng do nắng và nhiễm trùng nên đòi kháng sinh.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi 'có khó chịu gì khác' thì nói do nắng. Chỉ kể đủ khi bác sĩ hỏi cụ thể run, hồi hộp, vã mồ hôi, giấc ngủ và bắt đầu từ lúc nào so với lần uống thuốc cuối.",
+     "y": "Triệu chứng cai và quy gán sai"
+    },
+    {
+     "id": "co_giat",
+     "noi_dung": "Chưa bao giờ co giật, ngất, mê sảng hay thấy ảo giác, kể cả những lần bỏ thuốc trước. Không có bệnh động kinh, chấn thương đầu, bệnh gan.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ cai nặng"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Bia 1–2 lon vào cuối tuần, không uống hằng ngày. Không ma túy, không thuốc giảm đau nhóm thuốc phiện. Uống 2 lon nước tăng lực mỗi ngày để tỉnh táo làm việc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chất đi kèm, caffeine"
+    },
+    {
+     "id": "tu_hai",
+     "noi_dung": "Không có ý nghĩ tự tử hay làm hại bản thân. Có lúc chán nản khi hết thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc tự hại"
+    },
+    {
+     "id": "lo_au",
+     "noi_dung": "Trước khi dùng thuốc anh không hay lo lắng, tính xởi lởi. Chỉ mất ngủ do ca đêm. Lo lắng, bồn chồn chỉ xuất hiện khi hụt thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt lo âu nền với cai thuốc"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Muốn nghỉ vài ngày vì tay run không giữ nổi que hàn, làm trên giàn giáo cao 5–6 m rất sợ ngã (từng suýt ngã vì buồn ngủ sau uống thuốc). Sợ tổ trưởng biết mình uống thuốc ngủ nên chọn nói 'bệnh nhiễm trùng'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói thật sau khi bác sĩ hỏi mở 'nghỉ để làm gì, công việc có gì khó', hoặc khi bác sĩ cam kết giữ kín và không trách.",
+     "y": "Lý do thật: nghỉ việc, an toàn lao động"
+    },
+    {
+     "id": "ho_tro",
+     "noi_dung": "Sống chung bạn gái (Hạnh), cô biết anh uống thuốc ngủ, lo cho anh và sẵn sàng đưa đi khám. Anh muốn bỏ thuốc nếu 'không bị hành'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỗ trợ xã hội, động cơ"
+    },
+    {
+     "id": "tranh_thai",
+     "noi_dung": "Trong túi thuốc anh mang theo có vỉ thuốc tránh thai của bạn gái để chung hộp. Anh không uống thuốc đó.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, bồn chồn, vã mồ hôi lòng bàn tay. Môi hơi khô. Cháy nắng da cổ và cẳng tay, không phỏng nước. Cân nặng 64 kg, cao 168 cm.",
+     "k": 1,
+     "hien": "Tỉnh, hơi bồn chồn, lòng bàn tay ướt mồ hôi. Cháy nắng da cổ và cẳng tay."
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, không amidan sưng mủ, không giả mạc. Hạch góc hàm không sờ thấy. Màng nhĩ bình thường.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 108 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, nhanh, khoảng 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Run mịn hai bàn tay khi giơ tay, không run khi nghỉ. Phản xạ gân xương hai bên hơi tăng, không rung giật nhãn cầu, không giật cơ, không dấu thần kinh khu trú. Dáng đi vững.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Tỉnh, định hướng đủ, lo âu và dễ cáu, nói nhanh, hợp tác dần khi được nói chuyện không phán xét. Không ảo giác, không hoang tưởng, trí nhớ gần bình thường. Không ý tưởng tự hại. Khẳng định 'em đâu có nghiện' rồi thừa nhận khó ngủ hai đêm.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, gan lách không sờ thấy.",
+     "k": 0
+    },
+    "ha_tu_the": {
+     "a": "Nằm 140/88 mmHg, mạch 106; đứng 3 phút 134/86 mmHg, mạch 116. Không chóng mặt.",
+     "k": 0
+    },
+    "da": {
+     "a": "Đỏ rát da cổ và mặt ngoài cẳng tay do cháy nắng độ 1, không bóng nước. Không dấu vết tiêm chích. Không ban.",
+     "k": 0,
+     "hien": "Da cổ và cẳng tay đỏ rát do nắng, không bóng nước."
+    },
+    "mat": {
+     "a": "Kết mạc không đỏ, đồng tử hai bên đều, phản xạ ánh sáng bình thường.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to. Không hạch cổ.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang nhanh 106 l/p, QRS hẹp, QTc 410 ms. Không ST chênh.",
+     "n": "Tim nhanh trong cai benzodiazepine (Joint 2025 Bảng 4: đánh trống ngực, nhịp nhanh); loại rối loạn nhịp trước khi quy cho cai."
+    },
+    "glu_mm": {
+     "v": "u",
+     "r": "5,6 mmol/L",
+     "n": "Loại hạ đường huyết là nguyên nhân run, vã mồ hôi, tim nhanh."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 139 · K 3,8 · Cl 102 mmol/L",
+     "n": "Đánh giá mất nước sau nắng và vã mồ hôi; bình thường."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 6,4 mmol/L · Creatinin 88 µmol/L · eGFR 112 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.4,
+      "creat": 88,
+      "egfr": 112
+     },
+     "n": "Mất nước nhẹ không suy thận. Không bắt buộc."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 31 · ALT 34 U/L",
+     "n": "Diazepam chuyển hóa ở gan (Joint 2025, mục Tapering Strategies: các BZD chuyển hóa ở gan, thận trọng khi suy gan). Bình thường: được dùng diazepam để ổn định."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,4 G/L · Hb 148 g/L · TC 246 G/L",
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 60.0,
+      "neu": 4.44,
+      "lym_pct": 30.0,
+      "lym": 2.22,
+      "mono_pct": 7.0,
+      "mono": 0.52,
+      "eos_pct": 2.5,
+      "eos": 0.19,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 5.1,
+      "hgb": 148,
+      "hct": 0.45,
+      "mcv": 88.0,
+      "mch": 29.0,
+      "mchc": 330,
+      "rdw": 13.0,
+      "plt": 246
+     },
+     "n": "Không tăng bạch cầu: không gợi ý nhiễm khuẩn. Làm hay không đều không trừ điểm."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 3 mg/L",
+     "n": "Bình thường, không gợi ý nhiễm khuẩn nặng. Không bắt buộc khi đã khám không sốt, ho."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,9 mUI/L · FT4 14 pmol/L",
+     "n": "Loại cường giáp gây run, tim nhanh. Không bắt buộc vì không sụt cân, tuyến giáp không to, triệu chứng khởi phát ngay sau hết thuốc."
+    },
+    "test_lien_cau": {
+     "v": "a",
+     "r": "Âm tính",
+     "n": "Không có tiêu chuẩn nghi liên cầu (ACP 2016 Advice 2; IDSA 2012 khuyến cáo 4); làm cũng không trừ điểm. Âm tính giúp giải thích khi người bệnh đòi kháng sinh."
+    },
+    "ma_tuy_nt": {
+     "v": "u",
+     "r": "Dương tính benzodiazepine. Âm tính opioid, amphetamin, THC.",
+     "n": "Xác nhận chất và loại chất khác khi nghi rối loạn sử dụng chất (QĐ 2058/2020 Bài 22 mục 3.1.2; Joint 2025, mục Drug Testing). Chưa khẳng định mức dùng; chẩn đoán dựa vào hỏi bệnh."
+    },
+    "cxr": {
+     "n": "Không ho đờm, không khó thở, phổi sạch: không có chỉ định."
+    },
+    "flu": {
+     "n": "Không sốt, không đau cơ: không có chỉ định."
+    },
+    "pct": {
+     "n": "Không có nghi nhiễm khuẩn nặng."
+    },
+    "dien_nao": {
+     "n": "Chưa từng co giật, không giật cơ: chưa cần điện não."
+    },
+    "psg": {
+     "n": "Mất ngủ có nguyên nhân rõ (ca đêm rồi lệ thuộc thuốc), không ngáy ngưng thở."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn sử dụng benzodiazepine (lạm dụng, lệ thuộc diazepam) kèm hội chứng cai mức nhẹ–trung bình, chưa biến chứng",
+     "ok": 1,
+     "n": "Dùng diazepam hằng ngày ~18 tháng, liều ~30 mg/ngày (> 15 mg diazepam tương đương: liều cao; Joint 2025 Bảng 3), tăng liều, thèm thuốc, sáng phải uống ngay, không bỏ được; hụt thuốc 2 ngày thì run, vã mồ hôi, tim nhanh, mất ngủ (Joint 2025 Bảng 4). Chưa có co giật, sảng, ảo giác, tự hại."
+    },
+    {
+     "t": "Rối loạn lo âu nền (lan tỏa, hoảng sợ)",
+     "n": "Loại trừ: trước khi dùng thuốc không lo âu dai dẳng; lo âu chỉ có khi hụt thuốc. QĐ 2058/2020 Bài 22 mục 3.1.1 cần lo âu nguyên phát kéo dài (thường 6 tháng); mục 3.2 loại trừ phải trừ hội chứng cai benzodiazepin. Triệu chứng cai và triệu chứng bệnh nền khó phân biệt (Joint 2025, mục Adjunctive/Managing Withdrawal): xem lại sau ổn định liều và giảm liều; triệu chứng thay đổi theo liều thuốc nghiêng về cai."
+    },
+    {
+     "t": "Viêm đường hô hấp trên nhẹ do virus hoặc kích ứng khói hàn",
+     "ok": 1,
+     "n": "Ho khan, rát họng, ngạt mũi, không sốt, không amidan mủ, CRP và bạch cầu bình thường; ho là dấu gợi ý virus (IDSA 2012 khuyến cáo 4). Đây là lý do khai, không phải lý do khó chịu chính."
+    },
+    {
+     "t": "Mất nước nhẹ và cháy nắng độ 1 sau 3 ngày làm ngoài nắng",
+     "ok": 1,
+     "n": "Môi khô, nước tiểu sẫm, mạch tăng khi đứng. Làm nặng thêm vã mồ hôi và tim nhanh nhưng không giải thích run và mất ngủ."
+    },
+    {
+     "t": "Sốc nhiệt, kiệt sức do nóng",
+     "n": "Tỉnh táo, nhiệt độ 37,2 °C, không lú lẫn, đã về nghỉ 2 ngày. Không có tài liệu đã tải về bệnh do nóng nên không dẫn nguồn."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Không sụt cân, tuyến giáp không to, TSH bình thường nếu làm; triệu chứng bắt đầu ngay sau hết thuốc."
+    },
+    {
+     "t": "Hạ đường huyết",
+     "n": "Đường huyết mao mạch 5,6 mmol/L."
+    },
+    {
+     "t": "Hội chứng cai rượu",
+     "n": "Bia 1–2 lon cuối tuần, không uống hằng ngày (Joint 2025 Bảng 4 có cùng triệu chứng nhưng nguyên nhân là thuốc)."
+    },
+    {
+     "t": "Sốt khói kim loại (người hàn)",
+     "n": "Không sốt, không ớn lạnh, không vị kim loại, hàn thép đen. Không có tài liệu đã tải về bệnh này."
+    },
+    {
+     "t": "Viêm họng liên cầu nhóm A",
+     "n": "Không sốt, có ho, không amidan mủ, không hạch (ACP 2016 Advice 2; IDSA 2012 khuyến cáo 4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích triệu chứng là do hụt diazepam (hội chứng cai), không phải nhiễm trùng, bằng giọng không phán xét; hỏi thẳng và cụ thể về thuốc đang dùng",
+     "v": "c",
+     "n": "Joint 2025 Bảng 4 (triệu chứng cai); QĐ 2058/2020 Bài 22 mục 3.2. Hỏi nhẹ nhàng, nghe người bệnh và cùng quyết định (Joint 2025, khuyến cáo 4: ra quyết định chung)."
+    },
+    {
+     "t": "Không kê kháng sinh (kể cả tiêm); điều trị triệu chứng hô hấp trên, hoặc kháng sinh theo QĐ 5643/2015 nếu bác sĩ xếp là viêm họng đỏ cấp",
+     "v": "c",
+     "n": "Ho, không sốt, không amidan mủ gợi virus: không xét nghiệm liên cầu, không kháng sinh (IDSA 2012 khuyến cáo 4; ACP 2016 Advice 2, 4). QĐ 5643/2015 Viêm họng cấp tính mục 4.1: điều trị như viêm họng liên cầu khi chưa có xét nghiệm. Hai cách khác nhau theo năm và bối cảnh, ghi theo sổ mâu thuẫn 'Viêm họng đỏ cấp'; ca này không có sốt hay amidan mủ nên cách thứ nhất phù hợp hơn."
+    },
+    {
+     "t": "Không ngừng diazepam đột ngột; ổn định liều đủ kiểm soát cai rồi giảm dần có giám sát, ví dụ 5–10% mỗi 2–4 tuần, không quá 25% mỗi 2 tuần",
+     "v": "c",
+     "n": "Joint 2025 khuyến cáo 2 và 3 (không ngừng đột ngột khi có phụ thuộc thể chất; Bảng 3: ≥ 3 tháng, ≥ 4 ngày/tuần là có nguy cơ), khuyến cáo 6 (5–10%, ≤ 25%/2 tuần); thuốc mua không qua đơn: chuẩn liều tối thiểu kiểm soát cai rồi giảm từ đó (mục Patients with BZD and Other SUD, phần Rationale). Liều khởi đầu cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê diazepam 5 mg ngắn hạn theo tuần (không kê nhiều ngày), ghi rõ kế hoạch giảm và đây không phải điều trị dài hạn",
+     "v": "c",
+     "n": "Joint 2025 mục Considerations for Emergency Departments: kê theo tuần để giảm nguy cơ lạm dụng, có kế hoạch giảm, dặn dấu hiệu cần cấp cứu; khuyến cáo 7: dùng BZD tác dụng dài (diazepam) để giảm liều; mhGAP 2023 ANX6 (tr. 25): dùng quá 3–7 ngày tăng nguy cơ lệ thuộc, giảm dần sớm nhất có thể."
+    },
+    {
+     "t": "Điều trị ngoại trú, chưa cần nhập viện, kèm tiêu chí chuyển nhập viện (co giật, lú lẫn, ảo giác, tự hại, triệu chứng cai nặng)",
+     "v": "c",
+     "n": "Joint 2025 khuyến cáo 5 và 12: phần lớn giảm liều ngoại trú; nội trú khi cai nặng hoặc phức tạp, nguy cơ tự hại, tai nạn không giảm nhanh được; Bảng 4 (dấu *: sảng, loạn thần, co giật gặp ở ngừng đột ngột liều cao)."
+    },
+    {
+     "t": "Phối hợp can thiệp tâm lý (CBT, CBT-I) và vệ sinh giấc ngủ; hẹn khám lại lên chuyên khoa tâm thần/nghiện chất nếu không giảm được",
+     "v": "c",
+     "n": "Joint 2025 khuyến cáo 10 (CBT, CBT-I), khuyến cáo 20 (điều trị rối loạn sử dụng chất song song); ESRS 2023 mục 1.2 và Bảng 16: CBT-I là điều trị khởi đầu, thuốc ngủ tối đa 4 tuần; QĐ 2058/2020 Bài 27 mục 4.3 (vệ sinh giấc ngủ)."
+    },
+    {
+     "t": "Cấp giấy nghỉ ngắn vì lý do an toàn (tay run, làm trên cao), dặn không làm việc trên cao, không vận hành máy, không lái xe, không uống rượu khi đang dùng diazepam; giữ bí mật",
+     "v": "c",
+     "n": "Joint 2025 khuyến cáo 5a (tai nạn); Bảng 2 (nguy cơ BZD: tai nạn, phối hợp rượu); mhGAP 2023 ANX6 (nguy cơ khi lái xe, vận hành máy). Số ngày nghỉ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn bù nước, giảm caffeine (nước tăng lực), tránh nắng; paracetamol khi đau họng",
+     "v": "a",
+     "n": "Caffeine làm nặng run và mất ngủ: không có trong tài liệu đã tải. Paracetamol giảm đau theo QĐ 5643/2015 Viêm họng cấp tính mục 4.2.1."
+    },
+    {
+     "t": "Hẹn tái khám sau 5–7 ngày và dặn quay lại ngay khi co giật, lú lẫn, ảo giác, ý nghĩ tự hại; mời bạn gái cùng tham gia",
+     "v": "c",
+     "n": "Joint 2025 mục Rationale khuyến cáo 6 (dặn người bệnh liên hệ khi có triệu chứng đáng lo, hỗ trợ của người thân là yếu tố thành công); Bảng 4; mục Implementing: theo dõi mỗi lần giảm liều (khuyến cáo 9)."
+    },
+    {
+     "t": "Ngưng hẳn diazepam ngay, bảo 'tự cắt thuốc'",
+     "v": "w",
+     "n": "Joint 2025 khuyến cáo 2: tránh ngừng đột ngột ở người đã phụ thuộc; nguy cơ co giật, sảng (Bảng 4 dấu *)."
+    },
+    {
+     "t": "Kê diazepam liều cũ (30–40 mg/ngày) nhiều tuần, không kế hoạch giảm",
+     "v": "w",
+     "n": "Joint 2025 khuyến cáo 1 (đánh giá lợi–hại), khuyến cáo 6 (giảm dần); ESRS 2023: thuốc tối đa 4 tuần, tăng liều thúc đẩy lệ thuộc."
+    },
+    {
+     "t": "Thêm alprazolam hoặc chuyển sang benzodiazepine tác dụng ngắn để 'dịu hơn'",
+     "v": "w",
+     "n": "Joint 2025, mục Managing Withdrawal: BZD tác dụng ngắn (alprazolam) gắn với cai nặng hơn; khuyến cáo 7 ưu tiên chuyển sang BZD tác dụng dài, không thêm thuốc cùng nhóm."
+    },
+    {
+     "t": "Kê kháng sinh tiêm hoặc nhóm mạnh để 'giữ lòng tin'",
+     "v": "w",
+     "n": "Joint 2025 không có chỉ định; IDSA 2012 khuyến cáo 4, ACP 2016 Advice 2 và 4: không kháng sinh khi hướng virus. Kháng sinh theo QĐ 5643/2015 chỉ nằm trong mục c ở trên."
+    },
+    {
+     "t": "Dùng flumazenil để 'cai nhanh'",
+     "v": "h",
+     "n": "Joint 2025 khuyến cáo 14: tránh vì nguy cơ co giật khó kiểm soát, loạn nhịp."
+    },
+    {
+     "t": "Chẩn đoán rối loạn lo âu lan tỏa và khởi trị benzodiazepine dài hạn",
+     "v": "w",
+     "n": "QĐ 2058/2020 Bài 22 mục 3.2 loại trừ hội chứng cai benzodiazepin; mhGAP 2023 ANX6 không khuyến cáo benzodiazepine cho lo âu lan tỏa; WFSBP 2022 chỉ cho khi không có tiền sử rối loạn sử dụng chất."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn sử dụng benzodiazepine (lệ thuộc diazepam ~30 mg/ngày, ~18 tháng) kèm hội chứng cai mức nhẹ–trung bình sau 2 ngày hụt thuốc",
+     "Viêm đường hô hấp trên nhẹ do virus/kích ứng khói hàn: không có chỉ định kháng sinh",
+     "Mất nước nhẹ, cháy nắng độ 1",
+     "Chưa có dấu cai nặng, không rối loạn lo âu nền, không có chất khác ngoài benzodiazepine",
+     "Yếu tố nguy cơ: làm việc trên cao, nước tăng lực, thỉnh thoảng uống bia"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: lý do khai (ho, xin kháng sinh) → khám không sốt, họng đỏ nhẹ → hỏi thêm run, mồ hôi, giấc ngủ → hỏi đích danh thuốc ngủ → quy gán triệu chứng cho cai thuốc.",
+     "Vì sao là lệ thuộc: ~18 tháng, tăng liều từ 1 đến 6 viên 5 mg/ngày, sáng phải uống ngay, nhiều lần bỏ không được, mua nhiều nơi (QĐ 2058/2020 Bài 8 mục 3.1 mô tả các tiêu chuẩn nghiện chất dạng thuốc phiện tương tự; tiêu chuẩn riêng cho benzodiazepine không có trong tài liệu đã tải). Liều ≥ 15 mg diazepam tương đương/ngày, ≥ 3 tháng thì nguy cơ cai có ý nghĩa (Joint 2025 Bảng 3).",
+     "Vì sao là cai: run mịn, vã mồ hôi, tim nhanh, mất ngủ, bồn chồn khởi phát 2 ngày sau liều cuối (Joint 2025 Bảng 4). Chưa có co giật, sảng, ảo giác (dấu * của Bảng 4, thường kèm ngừng đột ngột liều cao): may mắn, ghi nhận đây là sự cố suýt xảy ra.",
+     "Vì sao không phải lo âu nền: không lo âu nguyên phát dai dẳng trước khi dùng thuốc (QĐ 2058/2020 Bài 22 mục 3.1.1, 3.2). Lo âu xuất hiện khi hụt thuốc, mất đi khi có thuốc.",
+     "Diagnostic timeout: dữ kiện chưa được giải thích bởi viêm họng là run, tim nhanh, mất ngủ 2 đêm và việc khai 'chỉ thuốc ho'. Nắng và nước tăng lực làm nặng thêm nhưng không giải thích mốc 'từ lúc hết thuốc'.",
+     "Vì sao không CLS thêm: nguồn lực đầy đủ nhưng không cần X-quang, PCT, điện não, đa ký. ECG, đường huyết, điện giải, test nước tiểu có ích; CRP, công thức máu, TSH, gan thận chỉ bổ sung."
+    ],
+    "phan_tich_xu_tri": [
+     "Đòi kháng sinh: không kê vì hướng virus (IDSA 2012 khuyến cáo 4; ACP 2016 Advice 4), hoặc theo QĐ 5643/2015 mục 4.1 nếu coi là viêm họng đỏ cấp; ca này không đủ tiêu chuẩn chẩn đoán xác định (không sốt, không amidan mủ). Lời thoại: 'Em ho do khói hàn và nắng, kháng sinh không giúp gì mà còn có hại. Cái làm em run và mất ngủ hai đêm nay là do hết thuốc ngủ. Anh sẽ không bắt em bỏ ngay, mình giảm từ từ cho an toàn.'",
+     "Không bỏ thuốc đột ngột: ổn định liều đủ kiểm soát cai rồi giảm từ từ (Joint 2025 khuyến cáo 2, 6). Gom về một loại diazepam tác dụng dài (khuyến cáo 7). Ngoại trú vì không co giật, không sảng, không tự hại, không rượu nặng, có bạn gái hỗ trợ (khuyến cáo 5).",
+     "Giấy nghỉ ngắn vì an toàn trên cao và tay run; nội dung giấy theo quy định hiện hành (không có trong tài liệu đã tải).",
+     "Mất ngủ: CBT-I và vệ sinh giấc ngủ (ESRS 2023 mục 1.2; QĐ 2058/2020 Bài 27 mục 4.3). Không kê thêm thuốc ngủ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Diazepam",
+      "ham_luong": "5 mg",
+      "lieu": "2 viên × 2 lần/ngày (20 mg/ngày) trong tuần đầu, rồi bớt nửa viên mỗi 2 tuần tùy đáp ứng",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "7 ngày mỗi đơn, tái khám cấp đơn tiếp",
+      "ghi_chu": "Ví dụ minh họa: liều khởi đầu cụ thể không có trong tài liệu đã tải. Nguyên tắc: chỉnh theo liều tối thiểu kiểm soát cai rồi giảm 5–10% mỗi 2–4 tuần, tối đa 25%/2 tuần (Joint 2025 khuyến cáo 6); bớt nửa viên ≈ 12% mỗi bước; kê theo tuần (Joint 2025, mục ED)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần, tối đa 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau họng",
+      "so_ngay": "3 ngày",
+      "ghi_chu": "Giảm đau họng (QĐ 5643/2015 Viêm họng cấp tính mục 4.2.1). QĐ 5643 chỉ nêu tên thuốc, liều 500 mg là liều thông thường, không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Dung dịch bù nước đường uống (oresol)",
+      "ham_luong": "gói pha theo hướng dẫn",
+      "lieu": "Uống từng ngụm trong ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau khi làm việc ngoài nắng",
+      "so_ngay": "1–2 ngày",
+      "ghi_chu": "Mất nước nhẹ; liều không có trong tài liệu đã tải cho tình huống này."
+     }
+    ],
+    "dan_do": [
+     "Không tự ngưng thuốc, không uống thêm; mỗi tuần quay lại nhận đơn mới (Joint 2025, mục ED).",
+     "Cấm rượu, không lái xe, không hàn trên cao khi còn dùng diazepam (Joint 2025 Bảng 2; mhGAP 2023 ANX6).",
+     "Đến cấp cứu ngay khi co giật, lú lẫn, ảo giác, run nặng, ý nghĩ tự hại (Joint 2025 Bảng 4).",
+     "Ngủ đúng giờ, bỏ nước tăng lực, uống đủ nước, tránh nắng giữa trưa.",
+     "Hạnh cùng đi tái khám để hỗ trợ giảm thuốc; thông tin được giữ kín.",
+     "Tái khám 5–7 ngày: đánh giá triệu chứng cai, chỉnh liều, hỏi lại lo âu nền sau ổn định (Joint 2025 khuyến cáo 9)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hai ngày tự ngưng đột ngột diazepam 30 mg/ngày mà không co giật hay sảng là may mắn, không chứng minh cách đó an toàn (Joint 2025 khuyến cáo 2). Anh đồng ý giảm dần cùng Hạnh. Sau 3 tuần anh còn 12,5 mg/ngày, ngủ được với CBT-I, tay hết run, quay lại làm việc dưới thấp. Câu chuyện đòi kháng sinh chỉ là cách để được nghỉ.",
+ "nhieu": [
+  "Ho và rát họng sau khói hàn: dấu hiệu virus/kích ứng, không phải chỉ định kháng sinh (IDSA 2012 khuyến cáo 4).",
+  "Cháy nắng, mất nước, nước tăng lực làm nặng tim nhanh và run nhưng không giải thích mốc 'từ lúc hết thuốc'.",
+  "Vỉ thuốc tránh thai của bạn gái để chung túi thuốc: không phải thuốc của anh, không liên quan."
+ ],
+ "bai_hoc_bien": [
+  "Đòi kháng sinh: từ chối kèm lý do rõ và đưa ra điều gì sẽ làm; hỏi 'nghỉ để làm gì' tìm ra lý do thật.",
+  "Hỏi chung 'có uống thuốc gì không' bỏ sót thuốc ngủ; hỏi đích danh thuốc ngủ, thuốc an thần.",
+  "Kết cục tốt không hợp thức hóa cách làm sai: tự ngưng đột ngột diazepam liều cao không co giật chỉ là may.",
+  "Phân biệt cai với lo âu nền: triệu chứng thay đổi theo liều thuốc nghiêng về cai.",
+  "Ca đối với TT-0383 (lưỡng cực theo dõi): hai ca đều có bồn chồn, mất ngủ nhưng khác nguyên nhân."
+ ],
+ "diem_nho": [
+  "Liều > 15 mg diazepam tương đương/ngày, dùng ≥ 3 tháng, ≥ 4 ngày/tuần: nguy cơ cai có ý nghĩa (Joint 2025 Bảng 3).",
+  "Không ngừng đột ngột; giảm 5–10% mỗi 2–4 tuần, không quá 25%/2 tuần (Joint 2025 khuyến cáo 2, 6).",
+  "Nội trú khi cai nặng/phức tạp, nguy cơ tự hại, tai nạn (Joint 2025 khuyến cáo 5, 12).",
+  "Tránh flumazenil để cai (Joint 2025 khuyến cáo 14).",
+  "Mất ngủ: CBT-I trước; thuốc ngủ tối đa 4 tuần (ESRS 2023 mục 1.2)."
+ ],
+ "nguon": [
+  "Joint Clinical Practice Guideline on Benzodiazepine Tapering – TL-0575 (J Gen Intern Med 2025;40:2814) – Bảng 2, 3, 4; khuyến cáo 1–10, 12, 14, 20; mục Considerations for Emergency Departments; mục Tapering Strategies.",
+  "BYT – QĐ 2058/QĐ-BYT 2020 – Bài 22 mục 3.1.1, 3.2, 4.1; Bài 27 mục 3.1.1, 4.1, 4.3; Bài 8 mục 3.1.",
+  "The European Insomnia Guideline 2023 (ESRS) – TL-0464 – mục 1.2, Bảng 16.",
+  "mhGAP guideline 2023 (WHO) – TL-0573 – khuyến cáo ANX6 (tr. 25).",
+  "IDSA 2012 – Group A Streptococcal Pharyngitis – TL-0158 – khuyến cáo 4.",
+  "ACP 2016 – Appropriate Antibiotic Use for ARTI in Adults – TL-0156 – High-Value Care Advice 2, 4.",
+  "BYT – QĐ 5643/2015 – Viêm họng cấp tính – mục 4.1, 4.2.1.",
+  "WFSBP 2022 – TL-0587 – phần benzodiazepines."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-26: viết bản 1, 1 lượt; ca ghi cả hai cách (không kháng sinh hoặc QĐ 5643) theo mục sổ mâu thuẫn 'Viêm họng đỏ cấp'.",
+  "Thiếu tài liệu: tiêu chuẩn chẩn đoán riêng cho rối loạn sử dụng benzodiazepine (DSM-5/ICD-11), liều khởi đầu diazepam ổn định, số ngày giấy nghỉ, sốt khói kim loại, bệnh do nóng.",
+  "Biến 'thuốc tránh thai đang dùng' xử lý là vỉ thuốc của bạn gái trong túi thuốc (nhiễu), vì người bệnh là nam."
+ ]
+}
