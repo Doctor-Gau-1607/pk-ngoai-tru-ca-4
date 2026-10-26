@@ -1,0 +1,645 @@
+{
+ "ma_ca": "TM-0340",
+ "phien_ban_kho": "0.3",
+ "benh": "TM_nghe_kem_danh_gia",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Nghe kém (đánh giá)",
+  "chan_doan_phai_loai_tru": [
+   "U góc cầu tiểu não",
+   "Nút ráy tai"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Mở lại chẩn đoán",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Bảo vệ",
+  "yeu_to_khoi_phat": "Sau ăn thức ăn đường phố",
+  "thuoc_dang_dung": "Corticoid tự mua",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Văn Lợi",
+  "tuoi": 66,
+  "gioi": "Nam",
+  "nghe": "Bảo vệ tòa nhà văn phòng",
+  "can_nang": 62,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'ông' hoặc 'bác'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Khi nói về vợ ở quê, ông gọi 'bà nhà tôi'.",
+  "tinh_cach": "Ông Lợi 66 tuổi, bảo vệ ca đêm hơn 10 năm, gầy, ít nói, hơi cộc, tự ái nghề. Đi 3 nơi mà tai vẫn điếc nên mệt và mất niềm tin: 'chỗ nào cũng soi đèn rồi cho thuốc'. Sợ mất việc nếu ngủ gật hay không nghe bộ đàm. Nói xoay tai trái về phía người đối diện, hay nói lớn. Không tự nói thuốc tiệm vì cho là 'thuốc xương khớp, không phải thuốc'.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: đưa ngay cả xấp đơn cũ, giọng chán nản, hỏi lại 'bác sĩ có làm gì khác mấy chỗ kia không?'; nếu bác sĩ lại soi tai rồi cho thuốc như cũ hoặc đòi làm lại đủ thứ thì ông cụt hứng, trả lời cụt lủn. Muốn xin thuốc ngủ ngay từ đầu nhưng chỉ nói thật khi được hỏi về giấc ngủ hoặc ông mong gì hôm nay.",
+  "nguoi_nha": "Đi một mình trước giờ vào ca trực; vợ ở quê, chỉ gọi điện, không đi cùng.",
+  "ten_nguoi_nha": "",
+  "ngoai_hinh": {
+   "da": "#a67c5b",
+   "toc": "#b8b4ad",
+   "kieuToc": "ngan",
+   "ao": "#2b3a55",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Nghe kém tai phải hơn 10 ngày, đã khám 3 nơi không khỏi, mất ngủ",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am",
+   "tham_do"
+  ],
+  "loi_bao": "Ngoài giờ (19 giờ 40): kỹ thuật viên đã về. Phòng xét nghiệm, siêu âm, phòng đo thính lực – nhĩ lượng, chụp cắt lớp – cộng hưởng từ đều đóng đến 7 giờ 30 sáng mai; mẫu gửi đi chỉ có kết quả sau nhiều giờ, không có kết quả để quyết định tối nay. Còn dùng được: đèn soi tai, âm thoa, huyết áp kế, nhiệt kế, máy đo SpO₂."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Đoàn Văn Lợi, 66 tuổi, bảo vệ, đến lúc 19 giờ 40 trước giờ vào ca trực vì nghe kém tai phải hơn 10 ngày, đã khám 3 nơi. Ông đưa xấp đơn thuốc cũ. Sinh hiệu: HA 138/86 mmHg, mạch 78 l/p, SpO₂ 97%, cân nặng 62 kg. Ngoài giờ hành chính, kỹ thuật viên đã về.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Ông Lợi nhận thêm thuốc 'bổ thần kinh' và chờ lịch đo thính lực 3 tuần sau như nơi thứ ba hẹn. Hôm nay là ngày 11: corticoid cho lợi ích nhiều nhất trong 2 tuần đầu, rất ít sau 4–6 tuần (SHL 2019 KAS 8) và thính lực nên đo trong 14 ngày (KAS 4); chờ 3 tuần là mất cả hai. Ông tiếp tục mất ngủ vì ù tai, ngủ gật khi trực và vẫn chưa ai gọi tên đây là nghe kém tiếp nhận tai phải.",
+    "chuyen_tuyen": "Ông Lợi được chuyển lên bệnh viện tuyến trên ngay trong đêm mà chưa bắt đầu corticoid. Không có chóng mặt hay dấu thần kinh khu trú (SHL 2019 KAS 2, Bảng 6), phòng thính học và cộng hưởng từ tuyến trên cũng chỉ làm ban ngày; ông mất ca trực, tốn tiền xe, thức trắng đêm. Corticoid lại lùi thêm nửa đến một ngày trong khi tài liệu nhấn mạnh dùng sớm, đủ liều (Bảng 10).",
+    "cap_cuu": "Ông Lợi bị xử lý như nghi đột quỵ hay u não cấp: chụp cắt lớp sọ tối nay rồi nằm theo dõi cấp cứu. Ông tỉnh, không chóng mặt, không méo mặt hay yếu liệt nên không có chỉ định; SHL 2019 KAS 3 khuyến cáo mạnh không chụp cắt lớp sọ thường quy, tìm u dây VIII bằng cộng hưởng từ ống tai trong hoặc ABR (KAS 6). Ông tốn kém, thêm hoảng sợ mà vẫn chưa có thính lực đồ hay corticoid."
+   },
+   "loi_mo": "Bác sĩ ơi, cái tai phải của tôi điếc hơn mười ngày rồi. Tôi đi ba chỗ, chỗ nào cũng soi đèn rồi cho thuốc, uống hết mà đâu có nghe hơn. Đêm nào cũng ù, tôi không ngủ được. Bác sĩ có làm được gì khác mấy chỗ kia không?",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "138/86",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tai phải nghe kém nhiều, ù, từ hơn 10 ngày nay. Đã đi khám 3 nơi mà không đỡ, mệt rồi, nay đến vì mất ngủ và muốn bác sĩ 'làm cho ra lẽ'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đêm trực cách đây 11 ngày ông ăn bún riêu và gỏi cuốn ở xe đẩy đầu đường. Sáng hôm sau thức dậy, tai phải như bị bịt, nói chuyện bên phải gần như không nghe, điện thoại áp tai phải nghe lõm bõm; từ đó không đổi. Chiều hôm đó đau bụng, đi ngoài lỏng 1 ngày, không sốt, tự khỏi nên ông cho là 'ăn phải đồ độc làm điếc tai'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điếc tai phải xảy ra trong vòng vài giờ, ngày 0 (SSNHL); thức ăn chỉ là mốc trùng hợp"
+    },
+    {
+     "id": "benh_su_truoc",
+     "noi_dung": "Trước đó tai phải bình thường, điện thoại vẫn kẹp vai bên phải. Tai trái nghe hơi kém tiếng nhỏ từ vài năm nay, mọi người vẫn nói 'ông nghe không rõ' nên ông thấy bình thường. Chưa từng đo thính lực, chưa từng mổ tai, mẹ ông cũng nghe kém khi già.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nền nghe kém liên quan tuổi/tiếng ồn tai trái; tai phải mới mất đột ngột"
+    },
+    {
+     "id": "trieu_chung_kem",
+     "noi_dung": "Ù tai phải liên tục như tiếng ve, nặng nhất khi đêm yên tĩnh, tai phải đầy tức. Không chóng mặt quay, không loạng choạng, không buồn nôn. Không méo miệng, tê hay yếu mặt, nhìn đôi, nhức đầu dữ dội, lú lẫn. Không chấn thương đầu, tiếng nổ lớn, lặn hay bay, rặn mạnh trước khi điếc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu thần kinh khu trú; không nguyên nhân không vô căn thấy được (SHL 2019 KAS 2, Bảng 6)"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Ngày 3: phòng khám tư soi thấy ráy, bơm rửa tai phải, ra ít ráy, không nghe hơn. Ngày 6: phòng khám khác nói 'viêm tai giữa', cho amoxicillin-clavulanat 7 ngày và thuốc nhỏ tai, không đỡ. Ngày 9: bệnh viện quận soi tai vài phút, nói 'lão thính', cho piracetam – cinnarizin, hẹn đo thính lực 3 tuần sau. Ông mang đủ 3 đơn; không nhớ ai dùng âm thoa hay cho đeo tai nghe đo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điểm gãy của 3 nơi: không phân biệt dẫn truyền/tiếp nhận, không thính lực trong 14 ngày"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Khám sức khỏe công ty 8 tháng trước: huyết áp 138/86 mmHg, đường huyết đói 5,6 mmol/L (còn giữ tờ kết quả). Không đái tháo đường, tim, loét dạ dày. Bỏ thuốc lá 5 năm, bia cuối tuần 1–2 lon. Chưa dùng kháng sinh tiêm dài ngày, lợi tiểu liều cao hay aspirin liều cao.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "ngu_nghe",
+     "noi_dung": "Bảo vệ trực 19 giờ đến 7 giờ sáng, theo dõi camera, đi tuần, nghe bộ đàm. Từ khi điếc tai phải, ban ngày ngủ 3–4 giờ vì ù tai, sợ ngủ gật khi trực bị đuổi việc; không biết tiếng gọi đến từ bên nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác động nghề nghiệp/an toàn (nội dung tư vấn)"
+    },
+    {
+     "id": "cortico",
+     "noi_dung": "Viên 'thuốc xương khớp' mua ở tiệm, vỉ ghi Prednisolon 5 mg, ông uống 1–2 viên khi đau lưng, đã vài năm. Đợt đau lưng này 8 ngày nay uống 2 viên/ngày (10 mg/ngày), tai không đỡ. Ông không coi đó là 'thuốc' nên không nói với 3 nơi trước.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' thì ông chỉ đưa 3 đơn bác sĩ. Chỉ khai khi bác sĩ hỏi riêng thuốc tự mua, thuốc xương khớp, thuốc giảm đau hay yêu cầu xem hết thuốc trong túi; ông móc vỉ thuốc ra.",
+     "y": "Corticoid tự mua liều thấp, dùng rải rác: không đủ liều điều trị điếc đột ngột (SHL 2019 Bảng 10)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: ông mất ngủ 10 đêm vì ù tai, muốn xin thuốc ngủ để ngủ trước khi vào ca. Ngại nói thẳng vì sợ bị nghĩ là 'nghiện thuốc', nên kêu tai trước.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi giấc ngủ, hỏi ù tai ban đêm, hỏi ông mong bác sĩ giúp gì hôm nay hoặc khi ông bị từ chối thuốc thứ khác. Khi nói ra thì xin 'cho tôi viên nào uống vào ngủ được, xin vài viên thôi'.",
+     "y": "Động cơ thật: muốn thuốc ngủ"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Soi tai hai bên bằng đèn soi tai. Tai phải: ống tai sạch (đã bơm rửa), không sưng đỏ, không chảy dịch, màng nhĩ nguyên vẹn, màu xám ngọc, nón sáng rõ, không dịch sau màng nhĩ. Tai trái: ít ráy khô ở thành ống tai, không bít, nhìn rõ toàn bộ màng nhĩ bình thường. Mũi họng không viêm. Không ấn đau xương chũm hai bên.",
+     "k": 1,
+     "hien": "Soi tai hai bên bằng đèn soi tai."
+    },
+    "am_thoa": {
+     "a": "Âm thoa 512 Hz, gõ vào khuỷu tay có che. Weber đặt giữa trán: ông nghe rõ LỆCH VỀ TAI TRÁI. Rinne: tai phải nghe qua khí to hơn qua xương chũm (khí > cốt) nhưng yếu; tai trái cũng khí > cốt. Weber lệch về tai trái cùng Rinne dương hai bên phù hợp nghe kém tiếp nhận ở tai phải (SHL 2019 Bảng 5), không gợi dẫn truyền. Không thay được thính lực đồ.",
+     "k": 1,
+     "hien": "Làm nghiệm pháp Weber và Rinne bằng âm thoa."
+    },
+    "nghe_thi_tham": {
+     "a": "Đứng sau lưng ông, bịt tai bên kia, thì thầm số – chữ – số. Tai trái: lặp lại đúng ở 60 cm. Tai phải: không lặp lại được ở 15 cm; giọng nói thường ở 60 cm lặp lại được khoảng 1/3 số từ. Hai tai chênh nhau rõ. Nghiệm pháp thô, phụ thuộc người khám.",
+     "k": 1,
+     "hien": "Làm nghiệm pháp thì thầm ở từng tai."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, trả lời đúng khi nói to rõ, nhìn mặt. Mặt cân đối, nhắm mắt chặt hai bên đều, cảm giác mặt hai bên đều (kể cả má phải). Không rung giật nhãn cầu. Ngón tay – mũi chính xác. Romberg đứng vững. Không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Gầy, da sạm, tỉnh táo, mắt thâm quầng, nói lớn tiếng. Niêm mạc hồng, không phù. Mặt không tròn, không bầm da.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "thinh_luc_do": {
+     "v": "e",
+     "r": "Thính lực đồ đơn âm (nếu đo được, sáng mai): tai phải nghe kém tiếp nhận trung bình nặng, trung bình thuần âm ~68 dB, giảm mọi tần số nhiều hơn ở tần số cao, không có khoảng khí – xương; nhận biết lời 24%. Tai trái nghe kém tiếp nhận nhẹ dạng dốc xuống tần số cao, ~26 dB, nhận biết lời 88%. Chênh hai tai ~42 dB; giảm ≥ 30 dB ở ≥ 3 tần số liên tiếp (SHL 2019 KAS 4).",
+     "ab": 1,
+     "n": "Ngoài giờ không có kỹ thuật viên nên không đo tối nay; âm thoa, thì thầm thay tạm (SHL 2019 KAS 1, Bảng 5). Thính lực đồ bắt buộc để xác định, trong 14 ngày (KAS 4): hôm nay ngày 11, hẹn 7 giờ 30 sáng mai."
+    },
+    "nhi_luong": {
+     "v": "u",
+     "r": "Nhĩ lượng bình thường hai bên (đỉnh tại áp lực quanh 0).",
+     "n": "Một phần của bộ thính lực đồ, làm cùng lúc (SHL 2019 KAS 4)."
+    },
+    "mri_so_nao": {
+     "v": "u",
+     "r": "Cộng hưởng từ ống tai trong có thuốc đối quang: không thấy khối ở ống tai trong hay góc cầu tiểu não, không tổn thương thân não.",
+     "n": "Mọi điếc đột ngột tiếp nhận cần tìm tổn thương sau ốc tai (SHL 2019 KAS 6), nhưng không phải tối nay (ngoài giờ, không dấu thần kinh khu trú); hẹn vài ngày sau, không chặn corticoid."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Không thấy bất thường.",
+     "n": "Không chụp cắt lớp sọ thường quy khi nghi điếc đột ngột (SHL 2019 KAS 3, khuyến cáo mạnh)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Đường huyết đói sáng mai (nếu đo): 5,9 mmol/L.",
+     "n": "Không để tìm nguyên nhân (KAS 5) mà để theo dõi tác dụng phụ corticoid (SHL 2019 Bảng 10). Ngoài giờ không đo tối nay; tờ khám 8 tháng trước 5,6 mmol/L cho phép bắt đầu corticoid, đo sáng mai."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nghe kém tiếp nhận tai phải khởi phát đột ngột (điếc đột ngột tiếp nhận nghi vô căn), ngày thứ 11; cần thính lực đồ xác nhận",
+     "ok": 1,
+     "n": "Điếc tai phải trong vài giờ, ù tai, đầy tức, không chóng mặt, màng nhĩ bình thường, Weber lệch trái, Rinne dương hai bên, thì thầm tai phải mất: nghe kém tiếp nhận tai phải (SHL 2019 KAS 1, Bảng 5). Trên 90% là vô căn (SHL 2019, phần tóm tắt). Cần thính lực đồ: giảm ≥ 30 dB ở ≥ 3 tần số liên tiếp trong 72 giờ (KAS 4); QĐ 5643/2015 mục 1: cấp cứu tai mũi họng."
+    },
+    {
+     "t": "Nghe kém tiếp nhận tai trái nhẹ liên quan tuổi/tiếng ồn (nền, cùng tồn tại)",
+     "ok": 1,
+     "n": "Tai trái nghe kém từ vài năm, mẹ nghe kém khi già, 66 tuổi. ARHL là nghe kém tiếp nhận hai bên, tiến triển chậm ở người ≥ 50 tuổi (ARHL 2024, Giới thiệu, Bảng 1); không giải thích được tai phải điếc mới 11 ngày với Weber lệch."
+    },
+    {
+     "t": "U dây VIII (u thần kinh tiền đình – ốc tai) / u góc cầu tiểu não",
+     "n": "Chưa loại trừ bằng lâm sàng: không đặc điểm sớm nào phân biệt được (SHL 2019 KAS 6); khoảng 4% trong một chuỗi 295 ca; QĐ 5643/2015 mục 2: 1–15% u dây VIII khởi đầu bằng điếc đột ngột. Phải cộng hưởng từ ống tai trong (KAS 6) nhưng không chặn corticoid."
+    },
+    {
+     "t": "Nút ráy tai (cerumen impaction) / nghe kém dẫn truyền do bệnh tai giữa",
+     "n": "Ráy ít tai trái không bít; tai phải đã bơm rửa mà không đỡ. Chỉ chẩn đoán khi ráy gây triệu chứng hoặc cản trở khám (Cerumen 2017 KAS 2A); không điều trị khi không triệu chứng (KAS 3B). Ráy đã lấy mà Weber vẫn lệch trái (SHL 2019 KAS 1). Màng nhĩ nguyên vẹn, Rinne dương hai bên; amoxicillin-clavulanat 7 ngày không đỡ (SHL 2019 Bảng 5)."
+    },
+    {
+     "t": "Nghe kém do tuổi già (lão thính) đơn thuần như bệnh viện quận kết luận",
+     "n": "Lão thính phải đối xứng, chậm (ARHL 2024 KAS 5: bất đối xứng cần đánh giá thêm); ở đây một buổi sáng và hai tai khác nhau rõ. Đây là điểm neo của nơi thứ ba."
+    },
+    {
+     "t": "Nguyên nhân không vô căn khác (đột quỵ tuần hoàn sau, Ménière, độc tai, chấn thương áp lực)",
+     "n": "Không dấu thần kinh khu trú, chóng mặt quay, dao động nghe trước đó, thuốc độc tai, chấn thương hay barotrauma (SHL 2019 KAS 2, Bảng 6)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Bắt đầu corticoid toàn thân liều đủ ngay tối nay: prednisolon 1 mg/kg một lần/ngày, tối đa 60 mg (62 kg → 60 mg), 7–14 ngày rồi giảm dần; HOẶC phác đồ QĐ 5643/2015 (Solumedrol 40 mg tĩnh mạch + piracetam, Tanakan, Betaserc… 7–10 ngày)",
+     "v": "c",
+     "n": "(A) SHL 2019 KAS 8 (Option, 2 tuần đầu), Bảng 10: prednisone 1 mg/kg/ngày, thường tối đa 60 mg, một liều không chia, 7–14 ngày rồi giảm; ngày 11 vẫn trong 2 tuần. (B) QĐ 5643/2015, Điếc đột ngột, mục 4: 7–10 ngày cho điếc chưa rõ nguyên nhân, không tăng huyết áp, đái tháo đường: piracetam 1 g × 3–4 ống, Solumedrol 40 mg tĩnh mạch, Tanakan, Betaserc 24 mg × 2 viên, vitamin 3B. Khác nhau vì QĐ 5643 (2015) theo kinh nghiệm vi tuần hoàn, SHL 2019 dựa RCT và khuyến cáo mạnh không dùng thường quy giãn mạch (KAS 11). Quy đổi prednisolon – prednisone: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích quyết định chung: corticoid là Option, bằng chứng hạn chế, 32–65% có thể tự hồi phục; tác dụng phụ (mất ngủ, tăng đường huyết, tăng huyết áp)",
+     "v": "c",
+     "n": "Phải giáo dục tiên lượng tự nhiên, lợi ích – nguy cơ và giới hạn bằng chứng (SHL 2019 KAS 7); 32–65% có thể tự hồi phục, có thể là ước lượng cao (phần Giới thiệu). Tác dụng phụ: mất ngủ, tăng huyết áp, nặng thêm đái tháo đường (phần Systemic Steroids; Bảng 10)."
+    },
+    {
+     "t": "Đo thính lực đồ (đơn âm, nhận biết lời) và nhĩ lượng sáng mai tại phòng thính học, trong 14 ngày kể từ khởi phát",
+     "v": "c",
+     "n": "Khuyến cáo: thính lực đồ càng sớm càng tốt, trong 14 ngày (SHL 2019 KAS 4); hôm nay ngày 11. Ngoài giờ không có kỹ thuật viên nên không có kết quả tối nay."
+    },
+    {
+     "t": "Hẹn cộng hưởng từ ống tai trong có thuốc đối quang (hoặc ABR) tìm u dây VIII, trong những ngày kế tiếp",
+     "v": "c",
+     "n": "Mọi bệnh nhân điếc đột ngột tiếp nhận cần tìm tổn thương sau ốc tai bằng cộng hưởng từ hoặc ABR, cộng hưởng từ nhạy hơn (SHL 2019 KAS 6); QĐ 5643/2015, Điếc đột ngột, mục 3.2 nêu CT/MRI tìm u dây VIII và mục 4 nêu ABR. Hẹn không làm chậm corticoid."
+    },
+    {
+     "t": "Ngừng ngay viên prednisolon 5 mg tự mua (không uống chồng với đơn); giải thích vì sao 10 mg/ngày không phải liều điều trị",
+     "v": "c",
+     "n": "Liều không đủ làm chậm can thiệp hiệu quả; vỉ liều dùng sẵn không đủ và nên tránh (SHL 2019 phần Systemic Steroids; Bảng 10). Uống 10 mg/ngày × 8 ngày mà tai không đỡ không có nghĩa corticoid vô hiệu."
+    },
+    {
+     "t": "Không kê benzodiazepin hay thuốc nhóm Z hằng đêm; hướng dẫn giấc ngủ, che tiếng ù bằng âm nền nhỏ; HOẶC nếu vẫn mất ngủ nặng, thuốc ngủ ngắn hạn tối đa 4 tuần sau quyết định chung",
+     "v": "c",
+     "n": "Hai cách (sổ mâu thuẫn: Thuốc ngủ benzodiazepin và nhóm Z ở người ≥ 65 tuổi): Beers 2023 Bảng 2 tránh ở ≥ 65 tuổi; ESRS 2023 mục 4.2.1, Bảng 16 dùng ngắn hạn tối đa 4 tuần (QĐ 2058/2020 Bài 27 mục 4.3 và AASM 2017 khuyến cáo 4 liệt kê thuốc ngủ, không nêu giới hạn tuổi hay thời gian). Mất ngủ do ù tai, nặng thêm khi dùng corticoid (SHL 2019 Bảng 10). Thuốc thay thế riêng cho người cao tuổi và uống corticoid buổi sáng không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại/đi cấp cứu: chóng mặt quay, méo miệng, yếu hay tê mặt hoặc tay chân, nhìn đôi, nhức đầu dữ dội, nặng thêm hoặc điếc tai bên kia",
+     "v": "c",
+     "n": "Dấu thần kinh khu trú hay điếc hai bên đột ngột gợi nguyên nhân không vô căn (SHL 2019 KAS 2, Bảng 6); QĐ 5643/2015 mục 1: cấp cứu tai mũi họng."
+    },
+    {
+     "t": "Cho về với chẩn đoán 'lão thính', hẹn đo thính lực sau 3 tuần như bệnh viện quận",
+     "v": "h",
+     "n": "Bỏ qua cửa sổ thính lực 14 ngày (SHL 2019 KAS 4) và 2 tuần đầu dùng corticoid (KAS 8); QĐ 5643/2015 mục 5: để muộn thì để lại điếc vĩnh viễn."
+    },
+    {
+     "t": "Bơm rửa tai lại, nhỏ thuốc tai, hoặc kê kháng sinh lần nữa",
+     "v": "w",
+     "n": "Tai phải sạch, màng nhĩ bình thường; đã thử 2 lần không đỡ (Cerumen 2017 KAS 2A, 3B). Kháng sinh không có vai trò trong điếc đột ngột vô căn theo tài liệu đã tải."
+    },
+    {
+     "t": "Chụp cắt lớp sọ hay làm xét nghiệm máu thường quy tối nay",
+     "v": "w",
+     "n": "Khuyến cáo mạnh không chụp cắt lớp sọ thường quy (SHL 2019 KAS 3) và không xét nghiệm thường quy (KAS 5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nghe kém tiếp nhận tai phải khởi phát đột ngột, nghi điếc đột ngột tiếp nhận vô căn, ngày thứ 11, trung bình nặng–nặng (thính lực đồ dự kiến sáng mai)",
+     "Nghe kém tiếp nhận tai trái nhẹ liên quan tuổi/tiếng ồn (nền); ù tai và đầy tức tai phải; mất ngủ do ù tai",
+     "Chưa loại trừ u dây VIII/u góc cầu tiểu não (cần cộng hưởng từ ống tai trong); không phải nút ráy, bệnh tai giữa hay lão thính đơn thuần",
+     "Corticoid tự mua liều thấp rải rác (prednisolon 5 mg, 10 mg/ngày × 8 ngày); không dùng thuốc độc tai",
+     "Bẫy neo chẩn đoán qua 3 nơi: nút ráy → viêm tai giữa → lão thính, chưa ai dùng âm thoa hay đo thính lực"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: câu then chốt là tai phải mất thế nào, trong bao lâu, trước đó ra sao. Ông trả lời: một buổi sáng, trong vài giờ, trước đó bình thường: kiểu điếc đột ngột, khác lão thính chậm và hai bên (QĐ 5643/2015, Điếc đột ngột, mục 1, 3.1; ARHL 2024, Bảng 1). Bữa bún riêu và đau bụng chỉ là mốc trùng hợp; trên 90% điếc đột ngột là vô căn (SHL 2019, phần tóm tắt).",
+     "Hỏi cờ đỏ (chóng mặt, méo mặt, tê, nhìn đôi, nhức đầu, chấn thương, nghe dao động, nghe kém hai bên; SHL 2019 KAS 2, Bảng 6): không có. Hỏi riêng thuốc tự mua: prednisolon 10 mg/ngày thấp hơn nhiều 1 mg/kg, tối đa 60 mg (Bảng 10), nên 'đã dùng corticoid mà không đỡ' không phải bằng chứng thất bại.",
+     "Khám: ống tai phải sạch, màng nhĩ bình thường; tai trái ráy ít không bít: không phải nút ráy (Cerumen 2017 KAS 2A, 3B). Weber lệch trái + Rinne dương hai bên = tiếp nhận tai phải (SHL 2019 Bảng 5). Âm thoa chỉ để định hướng, không thay thính lực đồ (KAS 1, KAS 4).",
+     "Cận lâm sàng: thính lực đồ, nhĩ lượng, cộng hưởng từ là cái nên làm nhưng ngoài giờ không có; quyết định bằng lâm sàng: corticoid ngay vì cửa sổ 2 tuần đang khép, thính lực sáng mai, cộng hưởng từ vài ngày sau. Không xét nghiệm máu, không cắt lớp sọ thường quy (KAS 3, 5).",
+     "Mốc buộc mở lại hồ sơ: Weber lệch trái + khởi phát trong vài giờ; 3 nơi gán dẫn truyền hoặc tuổi già, dễ chậm điều trị (SHL 2019 KAS 1). Động cơ thật là xin thuốc ngủ, chỉ ra khi hỏi giấc ngủ hoặc ông mong gì hôm nay."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về (ve_hen) nhưng bắt đầu điều trị ngay và hẹn cụ thể; không nhập viện, không cấp cứu vì không dấu thần kinh khu trú, sinh hiệu ổn, thính lực và cộng hưởng từ làm ban ngày.",
+     "Corticoid, ghi cả hai cách (sổ mâu thuẫn: Điều trị điếc đột ngột): (A) SHL 2019 KAS 8, Bảng 10: 1 mg/kg một liều/ngày, tối đa 60 mg, 7–14 ngày rồi giảm; (B) QĐ 5643/2015 mục 4: piracetam, Solumedrol 40 mg tĩnh mạch, Tanakan, Betaserc, vitamin B, 7–10 ngày. SHL 2019 KAS 11 khuyến cáo mạnh không dùng thường quy giãn mạch, hoạt mạch. Ông 62 kg: 60 mg/ngày. Theo dõi đường huyết, huyết áp, mất ngủ (Bảng 10).",
+     "Quyết định chung (KAS 7): 32–65% có thể tự hồi phục, corticoid chỉ là Option; nếu không hồi phục hoàn toàn còn tiêm hòm nhĩ 2–6 tuần (KAS 10), oxy cao áp (KAS 9), phục hồi chức năng (KAS 13).",
+     "Thuốc ngủ: không benzodiazepin/nhóm Z hằng đêm cho ông 66 tuổi trực đêm (Beers 2023), hoặc ngắn hạn tối đa 4 tuần sau quyết định chung (ESRS 2023 Bảng 16); xử trí ù tai và giấc ngủ trước."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Prednisolon (tài liệu ghi prednisone)",
+      "ham_luong": "Viên 5 mg",
+      "lieu": "60 mg (12 viên) một lần/ngày, ngày 1–7; rồi giảm: 40 mg × 2 ngày, 30 mg × 2 ngày, 20 mg × 2 ngày, 10 mg × 1 ngày",
+      "duong": "Uống một lần, không chia",
+      "thoi_diem": "Liều đầu tối nay sau ăn; từ mai uống buổi sáng sau ăn",
+      "so_ngay": "14 ngày",
+      "ghi_chu": "Cách A: 1 mg/kg/ngày, tối đa 60 mg, 7–14 ngày rồi giảm dần, không chia liều (SHL 2019 Bảng 10; KAS 8); lịch giảm ở đây là ví dụ, tài liệu chỉ nêu nguyên tắc. Cách B: Solumedrol 40 mg tĩnh mạch + piracetam 1 g × 3–4 ống, 7–10 ngày (QĐ 5643/2015 mục 4); chọn B thì không kê thêm prednisolon uống. Quy đổi prednisolon – prednisone và uống buổi sáng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Prednisolon 5 mg tự mua (đang dùng)",
+      "ham_luong": "—",
+      "lieu": "Ngừng ngay",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Ông đã uống 10 mg/ngày × 8 ngày: không đủ liều điều trị (SHL 2019 Bảng 10, phần Systemic Steroids); uống chồng với đơn là liều không kiểm soát. Đau lưng: cần đánh giá riêng, không có trong tài liệu TMH đã tải."
+     },
+     {
+      "thuoc": "Thuốc ngủ benzodiazepin hoặc nhóm Z (zolpidem…)",
+      "ham_luong": "—",
+      "lieu": "Không kê hằng đêm",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Beers 2023 Bảng 2 tránh ở ≥ 65 tuổi; cách khác ngắn hạn tối đa 4 tuần sau quyết định chung (ESRS 2023 mục 4.2.1, Bảng 16; QĐ 2058/2020 Bài 27 mục 4.3 và AASM 2017 khuyến cáo 4 liệt kê thuốc, không nêu giới hạn thời gian). Liều riêng cho người cao tuổi không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Sáng mai 7 giờ 30 đo thính lực đồ, nhĩ lượng và đường huyết đói; mang đủ 3 đơn cũ và vỉ prednisolon (SHL 2019 KAS 4, Bảng 10).",
+     "Uống prednisolon đúng đơn, một lần/ngày, không bỏ giữa chừng, không uống thêm viên tự mua (Bảng 10).",
+     "Chụp cộng hưởng từ ống tai trong trong vài ngày tới: không phải vì chắc có u mà vì mọi điếc đột ngột đều cần loại trừ (SHL 2019 KAS 6).",
+     "Ù tai, mất ngủ: âm nền nhỏ cạnh giường, giờ ngủ cố định, bỏ cà phê chiều; chưa dùng thuốc ngủ hằng đêm vì dễ ngủ gật khi trực (Beers 2023 Bảng 2).",
+     "Báo quản lý nghe kém một tai, đi tuần cùng đồng nghiệp, dùng đèn báo thay tiếng gọi (SHL 2019 KAS 13; chi tiết nghề bảo vệ không có trong tài liệu).",
+     "Đến cấp cứu nếu chóng mặt quay dữ dội, méo miệng, yếu tay chân, nhìn đôi, nhức đầu dữ dội, hoặc tai trái cũng điếc (SHL 2019 KAS 2, Bảng 6). Tái khám sau khi có thính lực; thính lực khi kết thúc điều trị và trong 6 tháng (KAS 12)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 15 ngày",
+   "tiep_don": "Ông Đoàn Văn Lợi, 66 tuổi, bảo vệ, tái khám lúc 19 giờ 30 trước giờ vào ca, ngày thứ 26 kể từ khi điếc tai phải. Ông nói đã làm đúng hẹn lượt trước và uống hết thuốc nhưng tai không đỡ, mất ngủ nặng hơn, nên khá bực. Sinh hiệu: HA 142/88 mmHg, mạch 80 l/p, SpO₂ 97%, cân nặng 63 kg. Ngoài giờ hành chính, kỹ thuật viên đã về; cơ sở không có thủ thuật tiêm thuốc vào tai giữa.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Ông Lợi được cho về, dặn 'chờ xem tai tự hồi phục', hẹn khám lại sau 1 tháng. Hôm nay là ngày 26: tiêm corticoid hòm nhĩ khuyến cáo trong 2–6 tuần sau khởi phát (SHL 2019 KAS 10) và oxy cao áp cứu vãn trong 1 tháng (KAS 9b); chờ thêm một tháng làm mất cả hai. Tai phải còn điếc nặng, ông vẫn ù tai, mất ngủ và tiếp tục nhận thuốc ngủ từ đồng nghiệp.",
+    "nhap_vien": "Ông Lợi được nhập viện ngay tối nay để truyền corticoid tĩnh mạch liều cao lần nữa. Dữ liệu không ủng hộ corticoid toàn thân làm cứu vãn sau thất bại với liệu trình đủ liều (SHL 2019 KAS 10, Supporting Text), trong khi đường huyết đói đã 6,9 mmol/L; lựa chọn đúng là tiêm hòm nhĩ, làm ban ngày. Ông nằm viện, nghỉ trực, tăng đường huyết mà không thêm lợi ích.",
+    "cap_cuu": "Ông Lợi bị chuyển cấp cứu để chụp lại cắt lớp sọ và cộng hưởng từ 'cho chắc'. Cộng hưởng từ ống tai trong có thuốc đối quang đã làm ngày 14, không thấy khối, ông không có triệu chứng thần kinh mới (SHL 2019 KAS 3, KAS 6); chụp lại không đổi xử trí, tốn kém và làm ông thêm mất niềm tin. Việc có ích là tiêm hòm nhĩ khi còn trong 2–6 tuần (KAS 10), không cần cấp cứu."
+   },
+   "loi_mo": "Bác sĩ, tôi làm hết theo lời bác sĩ rồi: đo tai, chụp đầu, uống hết thuốc. Mà cái tai phải vẫn điếc, ù hơn trước. Mấy chỗ kia thì bảo là già, chỗ này thì bảo đủ thứ, vậy bây giờ cuối cùng là bệnh gì, còn chữa được không? Tôi ngủ không nổi mấy đêm nay.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "142/88",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tai phải vẫn điếc, ù hơn, không đỡ sau khi uống hết thuốc. Mất ngủ nặng, hôm nay muốn bác sĩ 'cho ra lẽ' và 'cho thuốc để ngủ'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "da_lam",
+     "noi_dung": "Sau lượt trước ông làm đúng hẹn: ngày 12 đo thính lực – nhĩ lượng, ngày 14 chụp cộng hưởng từ ống tai trong có thuốc đối quang, prednisolon 60 mg buổi sáng 7 ngày rồi giảm dần đến hết ngày 24, ngừng viên tự mua. Thính lực ngày 12: tai phải ~68 dB, nhận biết lời 24%; tai trái ~26 dB, 88%. Cộng hưởng từ: không khối ở ống tai trong hay góc cầu tiểu não. Ông mang đủ phiếu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hai mốc: thính lực xác nhận SSNHL; MRI âm tính"
+    },
+    {
+     "id": "khong_do",
+     "noi_dung": "Ngày 25 đo lại lúc kết thúc điều trị: tai phải ~66 dB, nhận biết lời 28%; tai trái ~27 dB, 88%: gần như không đổi so với ngày 12 (cải thiện dưới 5 dB). Ù tai phải vẫn nguyên, đêm nặng hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều buộc mở lại hồ sơ: không đáp ứng sau liệu trình đủ liều (ngày 25)"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ông uống đủ: vỉ thuốc hết sạch, uống buổi sáng sau ăn, không bỏ ngày nào; giữ cả vỏ vỉ để bác sĩ đếm. Thuốc nhỏ tai, kháng sinh của nơi cũ đã ngưng. Ngày 11 ngừng viên tự mua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại nguyên nhân không tuân thủ và liều thấp"
+    },
+    {
+     "id": "than_kinh_am",
+     "noi_dung": "Không chóng mặt quay, không loạng choạng, không tê hay yếu mặt, không nhìn đôi, không nhức đầu, không điếc tai trái thêm. Không có triệu chứng mới ngoài ù và mất ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu thần kinh khu trú mới; không nghe kém hai bên"
+    },
+    {
+     "id": "duong_huyet",
+     "noi_dung": "Ngày 25 xét nghiệm đường huyết đói 6,9 mmol/L (trước đó 5,6 mmol/L 8 tháng trước và 5,9 mmol/L ngày 12). Huyết áp tự đo ở cơ quan 140–150/88 mmHg. Khát nhẹ, tiểu đêm 2 lần, ăn khỏe hơn. Không có tiền sử đái tháo đường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tăng đường huyết đói sau corticoid, cần đo lại sau ngừng thuốc"
+    },
+    {
+     "id": "cortico_lai",
+     "noi_dung": "Từ 3 hôm nay đau lưng trở lại nên ông lại ra tiệm mua vỉ prednisolon 5 mg, uống 2 viên/ngày. Ông không nghĩ đó có liên quan đến đường huyết hay ngủ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ khai khi bác sĩ hỏi 'ngưng thuốc xương khớp chưa, mấy hôm nay có uống lại không', hoặc đếm lại thuốc trong túi; hỏi chung 'có uống thuốc gì ngoài đơn không' ông trả lời 'không'.",
+     "y": "Corticoid tự mua tiếp tục dùng, chồng với đợt vừa xong"
+    },
+    {
+     "id": "thuoc_ngu_ban",
+     "noi_dung": "Ông ngủ 3–4 giờ/đêm. Đồng nghiệp cùng ca cho 3 viên 'thuốc ngủ' (vỉ trắng, không biết tên), ông uống 3 đêm gần đây, ngủ được nhưng sáng mệt, chóng chán; đêm qua nhìn camera nhầm một người ra vào.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ngủ thế nào, có dùng gì để ngủ không, hoặc ông bị từ chối thuốc ngủ; ông nói 'đồng nghiệp cho' chứ không nói là có xin.",
+     "y": "Dùng thuốc ngủ không rõ tên: nguy cơ an toàn khi trực; lý do thật vẫn là xin thuốc ngủ"
+    },
+    {
+     "id": "lo_nghe",
+     "noi_dung": "Bên phải không biết tiếng bước chân hay tiếng gọi đến từ đâu, phải quay cả người. Ông lo bị chuyển việc, mất thu nhập (vợ ở quê nhờ tiền gửi về), hỏi 'điếc thế này có bị sa thải không, còn chữa được không'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác động nghề nghiệp, tâm lý (nội dung tư vấn)"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Soi tai hai bên: tai phải ống tai sạch, màng nhĩ nguyên vẹn, nón sáng rõ, không dịch, không ứ nước, không viêm; tai trái ít ráy khô không bít, màng nhĩ bình thường. Mũi họng không viêm. Màng nhĩ bình thường là điều kiện cho thủ thuật hòm nhĩ.",
+     "k": 1,
+     "hien": "Soi tai hai bên bằng đèn soi tai."
+    },
+    "am_thoa": {
+     "a": "Âm thoa 512 Hz: Weber vẫn lệch về tai trái; Rinne dương hai bên. Không đổi so với lượt 1.",
+     "k": 0,
+     "hien": "Làm nghiệm pháp Weber và Rinne bằng âm thoa."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, trả lời đúng khi nói to rõ. Mặt cân đối, nhắm mắt chặt hai bên đều, cảm giác mặt đều. Không rung giật nhãn cầu. Ngón tay – mũi chính xác. Romberg đứng vững. Không dấu thần kinh khu trú.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "thinh_luc_do": {
+     "v": "e",
+     "r": "Thính lực đồ ngày 25 (đo ban ngày ở nơi có kỹ thuật viên): tai phải nghe kém tiếp nhận trung bình nặng, trung bình thuần âm khoảng 66 dB (ngày 12: 68 dB), nhận biết lời 28% (ngày 12: 24%), không có khoảng khí – xương. Tai trái trung bình thuần âm khoảng 27 dB, nhận biết lời 88%. Không cải thiện có ý nghĩa; đo tối nay không làm được.",
+     "ab": 1,
+     "n": "Ngoài giờ không đo lại tối nay; dùng phiếu ngày 25. Theo dõi thính lực khi kết thúc điều trị và trong 6 tháng (SHL 2019 KAS 12; Bảng 10)."
+    },
+    "nhi_luong": {
+     "v": "u",
+     "r": "Nhĩ lượng bình thường hai bên.",
+     "n": "Xác nhận hòm nhĩ bình thường trước thủ thuật; đã làm cùng thính lực đồ (SHL 2019 KAS 4)."
+    },
+    "mri_so_nao": {
+     "v": "e",
+     "r": "Cộng hưởng từ ống tai trong có thuốc đối quang (ngày 14): không khối ở ống tai trong hay góc cầu tiểu não, hai ống tai trong đối xứng, không tổn thương thân não hay tiểu não.",
+     "ab": 1,
+     "n": "Đã làm theo SHL 2019 KAS 6 (cộng hưởng từ ống tai trong có gadolinium nhạy nhất); loại u ở thời điểm này. Không chụp lại khi không triệu chứng mới."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Đường huyết đói ngày 25: 6,9 mmol/L (ngày 12: 5,9).",
+     "n": "Theo dõi tác dụng phụ corticoid ở người nguy cơ (SHL 2019 Bảng 10: Monitoring); kết quả ngoài giờ không đo lại được tối nay. Ngưỡng chẩn đoán đái tháo đường không có trong tài liệu Tai Mũi Họng đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Điếc đột ngột tiếp nhận tai phải vô căn, không đáp ứng corticoid toàn thân đủ liều (ngày 26, tuần thứ 4)",
+     "ok": 1,
+     "n": "Thính lực ngày 12 (68 dB, 24%) xác nhận, cộng hưởng từ không u, corticoid 60 mg đủ 14 ngày, thính lực ngày 25 gần như không đổi (66 dB, 28%). Vô căn là chẩn đoán loại trừ (SHL 2019 KAS 2, 4, 6); không đáp ứng điều trị ban đầu là chỉ định cứu vãn (KAS 10)."
+    },
+    {
+     "t": "Nghe kém tiếp nhận tai trái nhẹ liên quan tuổi/tiếng ồn (nền); ù tai phải mạn",
+     "ok": 1,
+     "n": "Tai trái 27 dB, 88%, không đổi; ù tai phải 4 tuần. QĐ 5643/2015 mục 3.1: ù tai có thể kéo dài một tháng, một số bệnh nhân tồn tại lâu dài."
+    },
+    {
+     "t": "Tăng đường huyết đói (6,9 mmol/L) sau corticoid, đang chồng thêm viên tự mua",
+     "ok": 1,
+     "n": "Đường huyết 5,6 → 5,9 → 6,9 mmol/L; tăng đường huyết là biến cố thường gặp nhất trong nghiên cứu corticoid liều cao kéo dài (SHL 2019 phần Systemic Steroids) và Bảng 10 dặn theo dõi. Đo lại sau ngừng thuốc; tiêu chuẩn đái tháo đường không có trong tài liệu TMH."
+    },
+    {
+     "t": "Mất ngủ do ù tai và corticoid; dùng thuốc ngủ không rõ tên của đồng nghiệp",
+     "ok": 1,
+     "n": "Mất ngủ là tác dụng phụ steroid cần xử trí (SHL 2019 Bảng 10) cộng ù tai; người ≥ 65 tuổi tránh benzodiazepin/nhóm Z (Beers 2023 Bảng 2); ngủ gật khi trực camera là nguy cơ an toàn."
+    },
+    {
+     "t": "U dây VIII / u góc cầu tiểu não",
+     "n": "Đã loại trừ ở thời điểm này bằng cộng hưởng từ ống tai trong có gadolinium ngày 14 (SHL 2019 KAS 6, xét nghiệm nhạy nhất); không dấu thần kinh khu trú mới. Không cần chụp lại khi không có triệu chứng mới."
+    },
+    {
+     "t": "Nút ráy tai",
+     "n": "Ráy ít, không bít, thấy rõ màng nhĩ; đã bơm rửa tai phải lượt trước không đổi (Cerumen 2017 KAS 2A, 3B). Không thể giải thích điếc tiếp nhận có Weber lệch."
+    },
+    {
+     "t": "Nguyên nhân không vô căn khác (đột quỵ tuần hoàn sau, Ménière, bệnh tự miễn tai trong)",
+     "n": "Không dấu thần kinh khu trú, chóng mặt, nghe dao động hay hai bên (SHL 2019 KAS 2, Bảng 6); QĐ 5643/2015 mục 2: điếc tự miễn khởi phát vài tuần, không đối xứng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển khoa Tai Mũi Họng (sáng mai) tiêm corticoid vào hòm nhĩ cứu vãn, còn trong 2–6 tuần sau khởi phát: dexamethasone 24 hoặc 10 mg/mL, hay methylprednisolone 40 mg/mL, 0,4–0,8 mL, tối đa 4 lần trong 2 tuần HOẶC mỗi tuần 1 lần tối đa 3–4 lần",
+     "v": "c",
+     "n": "SHL 2019 KAS 10: tiêm hòm nhĩ khi hồi phục không hoàn toàn 2–6 tuần sau khởi phát; Bảng 10: dexamethasone 24 hoặc 10 mg/mL, methylprednisolone 40 hoặc 30 mg/mL, 0,4–0,8 mL, tối đa 4 lần trong 2 tuần. Supporting Text KAS 10: chuyên gia nhóm soạn thảo tiêm mỗi tuần 1 lần, tối đa 3–4 lần; một liều 24 mg/mL không kém nhiều liều (Haynes). Hôm nay ngày 26, hạn ngày 42; cơ sở không có thủ thuật hòm nhĩ."
+    },
+    {
+     "t": "Giải thích vì sao không dùng thêm corticoid uống/tĩnh mạch; ngừng ngay viên prednisolon tự mua",
+     "v": "c",
+     "n": "Dữ liệu không ủng hộ corticoid toàn thân (uống hoặc tĩnh mạch) làm cứu vãn sau thất bại điều trị ban đầu (SHL 2019 KAS 10, Supporting Text). Ông lại đang uống chồng viên tự mua khi đường huyết tăng (SHL 2019 Bảng 10, Monitoring)."
+    },
+    {
+     "t": "Rà soát thất bại điều trị: chẩn đoán (cộng hưởng từ), liều đủ, tuân thủ (đếm vỉ), tác dụng phụ (đường huyết, huyết áp, mất ngủ), tiên lượng xấu; không lặp lại xét nghiệm đã làm",
+     "v": "c",
+     "n": "Cộng hưởng từ đã loại u (SHL 2019 KAS 6); liều đủ và tuân thủ (Bảng 10); khởi trị ngày 11 muộn: QĐ 5643/2015 mục 5 điều trị dưới 7 ngày nhiều khả năng hồi phục hoàn toàn, mục 3.2 điếc sâu tiên lượng xấu; lợi ích corticoid giảm nhiều sau 4–6 tuần (SHL 2019 KAS 8)."
+    },
+    {
+     "t": "Cân nhắc oxy cao áp kèm corticoid nếu còn trong vòng 1 tháng sau khởi phát và có điều kiện",
+     "v": "a",
+     "n": "Option: oxy cao áp kết hợp steroid làm cứu vãn trong vòng 1 tháng sau khởi phát (SHL 2019 KAS 9b); hôm nay ngày 26 nên còn khoảng 4 ngày. Cơ sở có oxy cao áp tại Việt Nam, chi phí: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dừng thuốc ngủ không rõ tên của đồng nghiệp; không kê benzodiazepin/nhóm Z hằng đêm, hướng dẫn giấc ngủ và che tiếng ù; HOẶC nếu vẫn mất ngủ nặng, thuốc ngủ ngắn hạn tối đa 4 tuần sau quyết định chung",
+     "v": "c",
+     "n": "Hai cách như sổ mâu thuẫn (Thuốc ngủ benzodiazepin và nhóm Z ở người ≥ 65 tuổi): Beers 2023 Bảng 2 tránh ở ≥ 65 tuổi; ESRS 2023 mục 4.2.1, Bảng 16 ngắn hạn tối đa 4 tuần (QĐ 2058/2020 Bài 27 mục 4.3 và AASM 2017 khuyến cáo 4 liệt kê thuốc ngủ, không nêu giới hạn tuổi hay thời gian). Ông trực đêm, đã nhìn camera nhầm sau thuốc lạ nên xử trí nguyên nhân trước. Thuốc thay thế riêng cho người cao tuổi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn đo lại đường huyết đói và huyết áp sau 1–2 tuần ngừng corticoid; báo nếu khát nhiều, tiểu nhiều; đánh giá chẩn đoán theo tiêu chuẩn đái tháo đường",
+     "v": "c",
+     "n": "Theo dõi tăng đường huyết, huyết áp ở người nguy cơ (SHL 2019 Bảng 10). Tiêu chuẩn chẩn đoán đái tháo đường và thời điểm xét lại: không có trong tài liệu Tai Mũi Họng đã tải."
+    },
+    {
+     "t": "Tư vấn trung thực tiên lượng và phục hồi chức năng thính học (tiêm hòm nhĩ chưa chắc cải thiện; máy trợ thính chuyển tín hiệu CROS/BiCROS, tư vấn ù tai, an toàn nghề); thính lực khi kết thúc điều trị và trong 6 tháng",
+     "v": "c",
+     "n": "Khuyến cáo mạnh tư vấn phục hồi chức năng thính học (SHL 2019 KAS 13); CROS/BiCROS cho nghe kém một bên, BiCROS khi tai kia cũng nghe kém (KAS 13, Supporting Text); tư vấn trung thực (KAS 7). Ông có tai trái nghe kém nhẹ nên BiCROS hợp lý hơn. Theo dõi thính lực khi kết thúc điều trị và trong 6 tháng (KAS 12). Tư vấn nghề bảo vệ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, 'chờ thêm xem tai tự hồi phục', hẹn 1 tháng",
+     "v": "h",
+     "n": "Mất cửa sổ 2–6 tuần cho tiêm hòm nhĩ (SHL 2019 KAS 10) và oxy cao áp cứu vãn 1 tháng (KAS 9b)."
+    },
+    {
+     "t": "Truyền/tiêm thêm corticoid tĩnh mạch liều cao hoặc kéo dài prednisolon uống",
+     "v": "w",
+     "n": "Không ủng hộ làm cứu vãn (SHL 2019 KAS 10); thêm tăng đường huyết, mất ngủ (Bảng 10)."
+    },
+    {
+     "t": "Kê zolpidem/diazepam hằng đêm cho ông ngủ",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: tránh ở ≥ 65 tuổi; ông trực đêm một mình, đã nhìn camera nhầm sau thuốc lạ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Điếc đột ngột tiếp nhận tai phải vô căn (cộng hưởng từ ống tai trong âm tính), không đáp ứng corticoid toàn thân đủ liều, ngày 26; thính lực tai phải ~66 dB, nhận biết lời 28%",
+     "Nghe kém tiếp nhận tai trái nhẹ liên quan tuổi/tiếng ồn (nền); ù tai phải mạn tính",
+     "Tăng đường huyết đói 6,9 mmol/L sau corticoid, đang dùng chồng prednisolon tự mua; mất ngủ do ù tai và corticoid; dùng thuốc ngủ không rõ tên",
+     "Đã loại trừ: u dây VIII/u góc cầu tiểu não (cộng hưởng từ ngày 14), nút ráy, thất bại do tuân thủ hay liều thấp, nguyên nhân thần kinh/tự miễn",
+     "Biến chứng do chậm chẩn đoán/điều trị 11 ngày ở 3 nơi (điểm gãy trong chuỗi quyết định)"
+    ],
+    "phan_tich_chan_doan": [
+     "Điều gì buộc mở lại hồ sơ: thính lực ngày 25 sau 14 ngày corticoid đủ liều gần như không đổi (66 so với 68 dB). Quy trình thất bại điều trị: (1) sai chẩn đoán? cộng hưởng từ ngày 14 không u, thần kinh bình thường (SHL 2019 KAS 2, 6); (2) sai thuốc/liều? 60 mg = 1 mg/kg đủ theo Bảng 10; (3) không tuân thủ? đếm vỉ đủ; (4) biến chứng thuốc? đường huyết 6,9 mmol/L, mất ngủ; (5) bệnh nặng, đến muộn? bắt đầu ngày 11, ~68 dB.",
+     "Hỏi lại thuốc ngoài đơn cho thấy ông đã uống lại prednisolon 10 mg/ngày 3 hôm và nhận thuốc ngủ không rõ tên của đồng nghiệp: không đổi chẩn đoán nhưng đổi xử trí (đường huyết, an toàn trực đêm).",
+     "Khám: tai phải màng nhĩ bình thường, Weber vẫn lệch trái, thần kinh bình thường (SHL 2019 Bảng 5, 6); màng nhĩ bình thường còn là điều kiện cho thủ thuật hòm nhĩ. Hai kết quả quan trọng đã có trên giấy; không lặp lại xét nghiệm đã làm là cách tái lập niềm tin sau 3 nơi.",
+     "Tiên lượng: hồi phục tự nhiên chủ yếu trong 2 tuần đầu, muộn rất hiếm (SHL 2019 phần Giới thiệu); QĐ 5643/2015 mục 5: dưới 7 ngày nhiều khả năng hồi phục hoàn toàn; điếc sâu không xu hướng tự khỏi (mục 3.2). Ông khởi trị ngày 11, nên cứu vãn có lợi ích bổ sung nhưng phải nói trung thực (KAS 10, KAS 7).",
+     "Điểm gãy: ngày 3 (bơm rửa, không phân biệt dẫn truyền/tiếp nhận, KAS 1), ngày 6 (kháng sinh cho 'viêm tai giữa' khi màng nhĩ bình thường), ngày 9 (gán 'lão thính', hẹn thính lực 3 tuần trái KAS 4: 14 ngày), và prednisolon 10 mg tự mua che mất việc chưa dùng đúng liều. Cộng lại chậm 11 ngày.",
+     "Động cơ thật vẫn là xin thuốc ngủ; trả lời bằng nguyên nhân (ù tai, corticoid) và an toàn trực đêm (Beers 2023), không từ chối trống không."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: chuyển khoa Tai Mũi Họng ngày làm việc kế tiếp (chuyen_tuyen) để tiêm corticoid hòm nhĩ; không nhập viện, không cấp cứu. Hạn 6 tuần là ngày 42, hẹn trong 1–3 ngày (SHL 2019 KAS 10).",
+     "Hòm nhĩ: tối đa 4 lần/2 tuần (Bảng 10) hoặc mỗi tuần 1 lần, tối đa 3–4 lần (chuyên gia GUG, KAS 10); một liều dexamethasone 24 mg/mL không kém nhiều liều; nằm tai bệnh lên trên 15–30 phút. Cùng nguồn, ghi cả hai cách.",
+     "Oxy cao áp (KAS 9b, Option) trong 1 tháng: tính thực tế ở Việt Nam không có trong tài liệu đã tải. Không thêm corticoid toàn thân (KAS 10); ngừng prednisolon tự mua.",
+     "Mất ngủ: xử trí nguyên nhân, vệ sinh giấc ngủ; không kê hằng đêm (Beers 2023) hoặc ngắn hạn tối đa 4 tuần (ESRS 2023 Bảng 16); dừng thuốc của đồng nghiệp. Phục hồi chức năng, tư vấn (KAS 7, 13); thính lực khi kết thúc điều trị và trong 6 tháng (KAS 12); đường huyết, huyết áp sau ngừng steroid (Bảng 10)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Dexamethasone (tiêm hòm nhĩ, do bác sĩ Tai Mũi Họng thực hiện)",
+      "ham_luong": "24 mg/mL (pha riêng) hoặc 10 mg/mL (sẵn có)",
+      "lieu": "0,4–0,8 mL vào hòm nhĩ tai phải mỗi lần",
+      "duong": "Tiêm hòm nhĩ qua màng nhĩ",
+      "thoi_diem": "Bắt đầu trong 1–3 ngày tới, trước ngày 42",
+      "so_ngay": "Tối đa 4 lần trong 2 tuần, hoặc mỗi tuần 1 lần × 3–4 lần",
+      "ghi_chu": "SHL 2019 Bảng 10 và KAS 10 (Supporting Text); methylprednisolone 40 hoặc 30 mg/mL là lựa chọn thay thế. Do bác sĩ Tai Mũi Họng thực hiện, không kê ở cơ sở này."
+     },
+     {
+      "thuoc": "Prednisolon 5 mg tự mua (đang dùng lại 2 viên/ngày)",
+      "ham_luong": "—",
+      "lieu": "Ngừng ngay",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Corticoid toàn thân không có chỗ làm cứu vãn (SHL 2019 KAS 10, Supporting Text); đường huyết đã 6,9 mmol/L (Bảng 10)."
+     },
+     {
+      "thuoc": "Thuốc ngủ không rõ tên của đồng nghiệp; benzodiazepin/nhóm Z",
+      "ham_luong": "—",
+      "lieu": "Ngừng; không kê hằng đêm",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Beers 2023 Bảng 2 tránh ở ≥ 65 tuổi; cách khác ngắn hạn tối đa 4 tuần sau quyết định chung (ESRS 2023 mục 4.2.1, Bảng 16; QĐ 2058/2020 Bài 27 mục 4.3 và AASM 2017 khuyến cáo 4 liệt kê thuốc, không nêu giới hạn thời gian). Liều riêng cho người cao tuổi không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Sáng mai 7 giờ 30 đến khoa Tai Mũi Họng tuyến trên, mang phiếu thính lực ngày 12 và 25, phiếu cộng hưởng từ, vỏ vỉ thuốc; hạn tiêm hòm nhĩ là ngày 42 (SHL 2019 KAS 10).",
+     "Ngừng viên prednisolon tự mua và thuốc ngủ của đồng nghiệp; đau lưng cần khám riêng.",
+     "Nói thật: tai phải có thể không hồi phục hoàn toàn, tiêm hòm nhĩ thêm cơ hội chứ không bảo đảm, ù tai có thể còn; có máy trợ thính và tư vấn ù tai (SHL 2019 KAS 7, 13).",
+     "Mất ngủ: giờ ngủ cố định, phòng tối, âm nền nhỏ, tránh cà phê; báo nếu 3–4 đêm vẫn không ngủ. Báo quản lý nghe kém tai phải, không đi tuần một mình, dùng đèn báo (chi tiết nghề bảo vệ không có trong tài liệu).",
+     "Đo đường huyết đói và huyết áp sau 1–2 tuần ngừng steroid (Bảng 10, SHL 2019). Đến cấp cứu nếu chóng mặt quay dữ dội, méo miệng, yếu liệt, nhìn đôi, điếc tai trái (KAS 2, Bảng 6)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sáng hôm sau ông Lợi đến khoa Tai Mũi Họng tuyến trên; ngày 28 được tiêm dexamethasone vào hòm nhĩ lần 1, sau đó mỗi tuần 1 lần, tổng 3 lần, còn trong cửa sổ 2–6 tuần. Ông ngừng viên prednisolon tự mua và thuốc ngủ của đồng nghiệp; mất ngủ đỡ dần với giờ ngủ cố định và âm nền che tiếng ù, không cần thuốc ngủ. Thính lực khi kết thúc đợt tiêm cải thiện ít: tai phải khoảng 58 dB, nhận biết lời 40%, vẫn nghe kém tiếp nhận trung bình nặng kèm ù tai; đường huyết đói sau ngừng steroid 5,8 mmol/L. Ông được thử máy trợ thính chuyển tín hiệu cho cả hai tai (tai trái cũng nghe kém nhẹ), báo quản lý và được xếp trực cùng đồng nghiệp với đèn báo thay bộ đàm. Điếc tai phải còn lại là biến chứng do bỏ sót trong 11 ngày đầu: chuỗi quyết định gãy ở ba chỗ (không phân biệt dẫn truyền/tiếp nhận ngày 3, kháng sinh theo 'viêm tai giữa' ngày 6, hẹn thính lực sau 3 tuần ngày 9) cộng liều corticoid tự mua che mất việc chưa dùng đúng. Hẹn kiểm tra thính lực trong 6 tháng.",
+ "nhieu": [
+  "Từng khám 3 nơi không khỏi: ông mất niềm tin, đưa xấp đơn cũ, hỏi 'bác sĩ có làm gì khác không'; lặp lại soi tai – cho thuốc hay đòi làm lại mọi xét nghiệm làm ông cụt hứng. Tái lập niềm tin bằng việc 3 nơi trước chưa làm (âm thoa, hỏi giờ khởi phát) và nói rõ vì sao.",
+  "Ráy ít đã bơm rửa, kháng sinh/nhỏ tai: nhiễu khiến nghĩ nút ráy hoặc viêm tai giữa; soi tai bình thường, Weber lệch trái. Bữa bún riêu đường phố và đau bụng 1 ngày: ông gán 'ăn phải đồ độc', không liên quan nghe kém.",
+  "Prednisolon 5 mg tự mua liều thấp: dễ nghĩ 'đã dùng steroid mà không đỡ nên steroid vô dụng'; liều 10 mg/ngày không đủ so với 1 mg/kg, tối đa 60 mg (SHL 2019 Bảng 10).",
+  "Ngoài giờ, không có kỹ thuật viên: không thính lực đồ, không cộng hưởng từ, không đường huyết; phải ra quyết định (bắt đầu corticoid; ở lượt 2 chuyển tuyến) trước khi có kết quả."
+ ],
+ "bai_hoc_bien": [
+  "Mở lại chẩn đoán: 3 nơi cho 3 chẩn đoán lành tính (ráy, viêm tai giữa, tuổi già) mà không đỡ thì hỏi lại 'khởi phát thế nào, trong bao lâu' và dùng âm thoa; điếc một tai trong vài giờ là điếc đột ngột cho đến khi chứng minh khác (QĐ 5643/2015 mục 1; SHL 2019 KAS 1, 4).",
+  "Cửa sổ thời gian: corticoid trong 2 tuần đầu (KAS 8), thính lực đồ trong 14 ngày (KAS 4), tiêm hòm nhĩ 2–6 tuần (KAS 10), oxy cao áp cứu vãn trong 1 tháng (KAS 9b). Chậm vài ngày mỗi nơi cộng dồn thành mất cơ hội.",
+  "Không xét nghiệm máu, không cắt lớp sọ thường quy (KAS 3, 5), nhưng mọi bệnh nhân cần cộng hưởng từ ống tai trong hoặc ABR (KAS 6) vì hồi phục không loại được u.",
+  "Corticoid tự mua liều thấp không chứng minh 'steroid vô hiệu'; hỏi riêng thuốc tự mua, thuốc đồng nghiệp cho. Liều 1 mg/kg, tối đa 60 mg; theo dõi đường huyết, huyết áp, mất ngủ (Bảng 10).",
+  "Xin thuốc ngủ vì ù tai ở người 66 tuổi trực đêm: tìm nguyên nhân, không kê benzodiazepin/nhóm Z hằng đêm (Beers 2023); nếu cần thì ngắn hạn tối đa 4 tuần sau quyết định chung (hai nguồn, ghi cả hai).",
+  "Truy nguyên điểm gãy: ngày 3, 6, 9 và 8 ngày prednisolon liều thấp cộng thành chậm 11 ngày; gọi tên cơ chế (neo chẩn đoán, không dùng âm thoa, không hẹn thính lực đúng hạn) thay vì đổ lỗi cá nhân."
+ ],
+ "diem_nho": [
+  "SSNHL: giảm ≥ 30 dB ở ≥ 3 tần số liên tiếp trong 72 giờ (SHL 2019 KAS 4); trên 90% vô căn; 32–65% có thể hồi phục tự nhiên (có thể là ước lượng cao).",
+  "Weber lệch về một tai: dẫn truyền ở tai đó hoặc tiếp nhận ở tai đối diện; Rinne âm gợi dẫn truyền (SHL 2019 Bảng 5). Âm thoa 256 hoặc 512 Hz, gõ vào khuỷu hoặc gối có che.",
+  "Corticoid SSNHL: prednisone 1 mg/kg/ngày, tối đa 60 mg, một liều không chia, 7–14 ngày rồi giảm dần (SHL 2019 Bảng 10); QĐ 5643/2015 mục 4: Solumedrol 40 mg + piracetam… 7–10 ngày.",
+  "Cứu vãn: tiêm corticoid hòm nhĩ khi hồi phục không hoàn toàn sau 2–6 tuần (KAS 10); oxy cao áp + steroid trong vòng 1 tháng (KAS 9b); không corticoid toàn thân cứu vãn.",
+  "Nghe kém một bên: CROS/BiCROS (SHL 2019 KAS 13). Theo dõi thính lực khi kết thúc điều trị và trong 6 tháng (KAS 12)."
+ ],
+ "nguon": [
+  "AAO-HNSF – Clinical Practice Guideline: Sudden Hearing Loss (Update) 2019 (Otolaryngol Head Neck Surg 2019;161(1_suppl):S1–S45; TL-0563) – ĐÃ ĐỌC phần tóm tắt, KAS 1 và Bảng 5, KAS 2 và Bảng 6, KAS 3, KAS 4, KAS 5, KAS 6, KAS 7, KAS 8 và Bảng 10, KAS 9a/9b, KAS 10, KAS 11, KAS 12, KAS 13.",
+  "AAO-HNSF – Clinical Practice Guideline: Age-Related Hearing Loss 2024 (Otolaryngol Head Neck Surg 2024;170(Suppl 2):S1–S54; TL-0553) – ĐÃ ĐỌC Giới thiệu và Bảng 1, KAS 4, KAS 5 và Bảng 6.",
+  "AAO-HNSF – Clinical Practice Guideline (Update): Earwax (Cerumen Impaction) 2017 (Otolaryngol Head Neck Surg 2017;156(1_suppl):S1–S29; TL-0567) – ĐÃ ĐỌC Bảng 4; KAS 2A, 3B.",
+  "Bộ Y tế – QĐ 5643/QĐ-BYT 2015 Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng (TL-0130) – ĐÃ ĐỌC Điếc đột ngột, mục 1–5 (tr. 55–57).",
+  "AGS Beers Criteria 2023 (TL-0022) – Bảng 2: benzodiazepin và thuốc nhóm Z ở người ≥ 65 tuổi. QĐ 2058/QĐ-BYT 2020 (TL-0443) Bài 27 mục 4.3; AASM 2017 (TL-0482) khuyến cáo 4; European Insomnia Guideline 2023 (TL-0464) mục 4.2.1, Bảng 16 – theo mục đã có trong sổ mâu thuẫn (TT-0161)."
+ ],
+ "phien_ban_ca": "1 – viết 26/10/2026",
+ "ghi_chu_bien_tap": [
+  "Bản 1 (26/10/2026) – viết: Claude. Tài liệu đã đọc: TL-0563 (SHL 2019: KAS 1–13, Bảng 5, 6, 10), TL-0553 (ARHL 2024: Bảng 1, KAS 4–5, Bảng 6), TL-0567 (Cerumen 2017: KAS 2A, 3B), TL-0130 (QĐ 5643/2015: Điếc đột ngột), TL-0022/TL-0482/TL-0464/TL-0443 (chỉ kiểm vị trí cho mục thuốc ngủ đã có trong sổ).",
+  "Thiếu trong tài liệu đã tải: quy đổi prednisolon – prednisone; thời điểm uống corticoid buổi sáng; lịch giảm liều cụ thể; thuốc bảo vệ dạ dày khi dùng corticoid; tiêu chuẩn chẩn đoán đái tháo đường; cơ sở oxy cao áp và chi phí tại Việt Nam; máy trợ thính CROS/BiCROS tại Việt Nam; tư vấn nghề bảo vệ; thuốc ngủ thay thế riêng cho người cao tuổi.",
+  "Mâu thuẫn đã có trong sổ và áp dụng: (1) điều trị điếc đột ngột tiếp nhận (QĐ 5643/2015 mục 4 hoặc SHL 2019 KAS 8, 11 – xu_tri lượt 1 gộp một mục c); (2) thuốc ngủ benzodiazepin/nhóm Z ở ≥ 65 tuổi (TT-0161). Đề xuất mục mới: tiêm corticoid hòm nhĩ cứu vãn – Bảng 10 (tối đa 4 lần trong 2 tuần) hoặc chuyên gia GUG (mỗi tuần 1 lần, tối đa 3–4 lần); xem TM-0340_mau_thuan.md.",
+  "Ràng buộc 'ngoài giờ, không có kỹ thuật viên': khoa_cls.nhom = xn, sieu_am, tham_do (app tự kéo theo X-quang, CT, nội soi). Kết quả thính lực/cộng hưởng từ lượt 2 cho bằng phiếu mang theo (su_that) và cls có r. Số liệu thính lực, đường huyết, ngày, kết cục là thiết kế của ca, không phải số liệu tài liệu."
+ ]
+}
