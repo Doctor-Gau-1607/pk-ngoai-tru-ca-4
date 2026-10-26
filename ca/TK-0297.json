@@ -1,0 +1,755 @@
+{
+ "ma_ca": "TK-0297",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-26)",
+ "benh": "TK_tien_dinh_ngoai_bien_viem_tk_tien_dinh",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Rối loạn tiền đình ngoại biên (viêm TK tiền đình)",
+  "chan_doan_phai_loai_tru": [
+   "Đột quỵ",
+   "BPPV"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Điều dưỡng (khoa Nội, bệnh viện đa khoa huyện; ca ngày xen ca đêm, tiêm truyền, đẩy xe thuốc, đi lại nhiều)",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho (chăm người bệnh viêm phổi, cúm ở khoa; bản thân bị cảm nhẹ ba ngày, khoảng sáu ngày trước khi chóng mặt)",
+  "thuoc_dang_dung": "Thuốc ngủ an thần (bromazepam 3 mg, 1 viên buổi tối, khoảng bốn tháng nay, đồng nghiệp là bác sĩ kê vì mất ngủ do trực đêm; ngày trực đêm không uống)",
+  "ly_do_that_su_den_kham": "Không yên tâm với chẩn đoán trước ('thiểu năng tuần hoàn não' ở phòng khám khác, không ai khám mắt hay xem chị đi đứng; chị sợ bỏ sót đột quỵ như một đồng nghiệp từng gặp)"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Thị Thu Hà",
+  "tuoi": 47,
+  "gioi": "Nữ",
+  "nghe": "Điều dưỡng",
+  "can_nang": 55,
+  "chieu_cao": 157,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị xưng 'em', gọi bác sĩ là 'bác sĩ'. Chồng Vinh gọi vợ là 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhảu, hay lo; điều dưỡng 17 năm nên quen dùng từ chuyên môn, hay tự chẩn đoán. Thương đồng nghiệp, hay chen chuyện ở khoa vào lời kể. Ngại nghỉ vì khoa thiếu người.",
+  "kieu_nhieu": "Kể lể lộn xộn: nói liền hơi, nhảy từ giờ chóng mặt sang chuyện đồng nghiệp, ca trực, con thi đại học rồi quay lại; nhầm thứ ngày; nhắc 'bác sĩ kia nói' mà không nói rõ. Dữ kiện then chốt nằm rải rác; bác sĩ chia nhỏ câu hỏi, tóm tắt lại từng đoạn thì chị trả lời gọn; chồng bổ sung mốc thời gian.",
+  "nguoi_nha": "Chồng",
+  "ten_nguoi_nha": "Phạm Quốc Vinh",
+  "ngoai_hinh": {
+   "da": "#d4a37e",
+   "toc": "#241d1a",
+   "kieuToc": "ngan",
+   "ao": "#3f8f86",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#c99a74",
+    "toc": "#2a2420",
+    "kieuToc": "ngan",
+    "ao": "#6b6f78",
+    "aoKieu": "so_mi",
+    "kinh": true,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Chóng mặt quay, nôn từ sáng thứ Hai; hôm qua đã khám phòng khám khác nhưng chưa yên tâm, muốn được khám lại cho kỹ",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám làm được đường huyết mao mạch, xét nghiệm cơ bản (điện giải đồ, công thức máu, nước tiểu), điện tim, X-quang, siêu âm. Không có CT, không có MRI (bệnh viện huyện cũng không có); bệnh viện tỉnh có CT và MRI, cách khoảng 40 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu (ngày thứ hai của bệnh)",
+   "tiep_don": "Nữ 47 tuổi, điều dưỡng khoa Nội bệnh viện huyện, chồng là anh Vinh chở bằng ô tô, chị ngồi ghế phụ, bám tay vịn, tay kia cầm túi nôn, nói gần như không ngừng. Chóng mặt, nôn từ sáng thứ Hai; hôm qua đã khám ở một phòng khám khác nhưng chị 'chưa yên tâm'. Sinh hiệu lúc tiếp đón (ngồi): mạch 92 l/p, HA 138/86 mmHg, nhiệt 36,9 °C, nhịp thở 18, SpO₂ 98%.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Cho chị về ngay khi còn nôn, chưa thử uống được gì sau liều chống nôn đầu: chị đi phải bám tường (mất vững mức 1, GRACE-3 2023, Bảng 3, tr. 458), ban ngày ở nhà một mình, dễ ngã khi vào nhà vệ sinh. Nếu không giữ được thuốc và nước thì chiều tối phải quay lại trong tình trạng mất nước, lo lắng hơn.",
+    "nhap_vien": "Nhập viện huyện 'cho chắc' khi HINTS đã ngoại biên ở cả ba thành phần và nghe không giảm: xử trí ngoại biên tương ứng, không cần hình ảnh (GRACE-3 2023, tr. 444), mà bệnh viện huyện cũng không có CT hay MRI. Chị nằm ngay khoa mình làm, mất thêm ngày công khi khoa thiếu người.",
+    "chuyen_tuyen": "Chuyển tỉnh chụp CT hay MRI cho chị yên tâm: CT không phân biệt được đột quỵ hố sau với viêm thần kinh tiền đình (GRACE-3 2023, khuyến cáo 5, tr. 447), MRI không phải xét nghiệm đầu khi có người khám được HINTS (khuyến cáo 6), DWI trong 24 giờ đầu còn âm tính giả đến 16% (Bárány AUVP 2022, mục 4.5.2). Chị nôn suốt 40 km xe mà kết quả bình thường cũng không giải đáp nỗi sợ."
+   },
+   "loi_mo": "Dạ chào bác sĩ, em là điều dưỡng khoa Nội bệnh viện huyện đây. Chuyện là sáng thứ Hai, mà hay thứ Ba nhỉ, không, thứ Hai, em đang trực đêm, vừa cúi kê gối cho ông giường 12 ho cả tuần nay thì cả phòng quay tròn, em nôn luôn. Rồi em đi phòng khám bên kia, bác sĩ nói em bị thiểu năng tuần hoàn não, mà em thấy sao sao ấy, chị Mai khoa em năm ngoái cũng... thôi để em kể sau. Bác sĩ khám giùm em cho kỹ.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "138/86",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chóng mặt quay và nôn từ sáng thứ Hai; hôm qua đã khám phòng khám khác nhưng em chưa yên tâm nên hôm nay xin khám lại cho kỹ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "4 giờ hơn sáng thứ Hai, em đang trực đêm, cúi kê gối cho ông giường 12 (ông này ho cả tuần nay) thì cả phòng quay vòng vòng, em bám thành giường rồi nôn, chị Ngân đo huyết áp cho em 150/90. Từ đó quay hoài, nằm yên cũng quay, quay đầu hay mở mắt thì nặng hơn, nhắm mắt nằm yên thì đỡ chút. Không lúc nào hết hẳn, không từng cơn. Nôn tới giờ sáu bảy lần; không đau bụng, không tiêu chảy, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát đột ngột, liên tục hơn 24 giờ, nặng lên khi cử động đầu, không theo từng cơn"
+    },
+    {
+     "id": "cam",
+     "noi_dung": "Thứ Ba tuần trước em bị cảm: hắt hơi, sổ mũi, đau họng, ho khan ba ngày, không sốt, tự hết. Khoa em dạo này viêm phổi, cúm nhiều, em chăm suốt, ít đeo khẩu trang. Từ cuối tuần trước không ho, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: tiếp xúc người bệnh ho, cảm nhẹ vài ngày trước"
+    },
+    {
+     "id": "khong_trung_uong",
+     "noi_dung": "Không đau đầu, không yếu liệt, không méo miệng, không nói khó, không nhìn đôi, không tê, không ngất, không đau ngực, không đau gáy, không chấn thương.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng thần kinh trung ương (Bárány AUVP, tiêu chí D)"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Không ù tai, không đau tai, không chảy dịch, nghe điện thoại hai bên như nhau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tai: không triệu chứng thính giác mới"
+    },
+    {
+     "id": "truoc_do",
+     "noi_dung": "Chiều thứ Hai chồng em chở tới phòng khám bên kia: bác sĩ đo huyết áp, hỏi vài câu, không soi mắt, không bảo thử gì, nói 'thiểu năng tuần hoàn não', tiêm một mũi chống nôn, truyền một chai, cho thuốc mười ngày: cinnarizin, dimenhydrinat, Tanakan, vitamin B. Em uống từ tối thứ Hai, nôn mất mấy lần nên được nửa số viên. Toa em mang theo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chẩn đoán và thuốc đã dùng ở phòng khám trước"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Em uống bromazepam 3 mg, một viên tối, khoảng bốn tháng, anh bác sĩ khoa em kê vì mất ngủ do trực đêm; đêm trực không uống. Tối thứ Hai em uống một viên như thường. Không thuốc nào khác, không kháng sinh, không lợi tiểu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: benzodiazepin mỗi tối"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không tăng huyết áp (ở khoa đo thường 120/70), không đái tháo đường, không rung nhĩ, không bệnh tim, chưa đột quỵ, không hút thuốc, không rượu, chưa mãn kinh. Chưa từng chóng mặt từng cơn, không hay đau nửa đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, yếu tố nguy cơ mạch máu"
+    },
+    {
+     "id": "tu_the",
+     "noi_dung": "Không có kiểu quay vài chục giây khi trở mình hay ngửa đầu. Chỉ một cơn quay liên tục từ thứ Hai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt BPPV (từng cơn theo tư thế)"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Chồng em (anh Vinh, 50 tuổi) xin nghỉ hôm nay, mai đi làm; con trai lớp 12 đi học cả ngày. Em xin nghỉ trực tới thứ Năm, khoa đang thiếu người.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỗ trợ ở nhà, nguy cơ ngã, khả năng nghỉ làm"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Em sợ. Năm ngoái chị Mai khoa em cũng chóng mặt, nôn, người ta nói 'rối loạn tiền đình' cho thuốc về, hôm sau chị liệt nửa người, nhồi máu thân não. Bác sĩ bên kia không soi mắt, không bảo chụp gì, em là điều dưỡng em thấy chưa đủ. Em muốn được khám thật kỹ và nói rõ em có phải đột quỵ không.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi vì sao chị đi khám lại, chị lo nhất điều gì, hay có chuyện gì ở khoa liên quan; hỏi chung thì nói 'em chưa yên tâm thôi'.",
+     "y": "Động cơ thật của chuyến khám: không yên tâm với chẩn đoán trước, sợ đột quỵ"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 134/84 mmHg, mạch 84. Ngồi dậy: 132/82, mạch 92, quay nhiều. Đứng có chồng đỡ 1 phút: 130/80, mạch 98, loạng choạng nghiêng trái. Huyết áp không tụt đáng kể theo tư thế. Mạch dưới 100, môi khô nhẹ: mất nước nhẹ.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Ống tai ngoài hai bên sạch, màng nhĩ hai bên bình thường, không mụn nước ở vành tai, ống tai hay họng (không gợi ý Ramsay Hunt). Họng không đỏ, mũi thông.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, không méo mặt. Sức cơ 5/5 bốn chi, cảm giác bình thường, phản xạ gân xương đều, Babinski âm tính. Ngón–mũi, gót–gối không run mục đích, không thất điều chi. Không cứng gáy.",
+     "k": 1
+    },
+    "hints_van_nhan": {
+     "a": "Nhìn thẳng: rung giật nhãn cầu ngang kèm thành phần xoay nhẹ, pha nhanh sang phải, một chiều; mạnh hơn khi nhìn sang phải, yếu đi khi nhìn sang trái nhưng không đổi chiều; giảm khi nhìn cố định, rõ hơn khi che mắt. Đẩy đầu nhanh sang trái: mắt trượt khỏi mục tiêu rồi giật bắt kịp biên độ lớn (Bárány AUVP 2022, chú thích 10); sang phải: mắt giữ mục tiêu. Che mắt luân phiên: không lệch dọc. Cả ba thành phần ngoại biên (GRACE-3 2023, Bảng 4, tr. 460), phù hợp tổn thương tiền đình trái (Bárány AUVP, mục 3.1).",
+     "k": 1,
+     "hien": "Nhìn thẳng: nhãn cầu giật liên tục sang phải, nhìn sang trái thì yếu đi nhưng vẫn giật sang phải. Đẩy đầu nhanh sang trái: mắt trượt khỏi mục tiêu rồi giật bắt kịp; sang phải: mắt giữ được mục tiêu. Che mắt luân phiên: mắt không dịch chuyển dọc."
+    },
+    "nghe_thi_tham": {
+     "a": "Cọ ngón tay sát tai: hai bên nghe như nhau, không giảm nghe mới (HINTS plus; GRACE-3 2023, khuyến cáo 3, tr. 447).",
+     "k": 1,
+     "hien": "Nghe cọ ngón tay hai bên như nhau."
+    },
+    "dang_di_thang_bang": {
+     "a": "Ngồi tự giữ thân. Đứng không cần đỡ nhưng nghiêng về trái; đi vài bước, lệch trái, phải bám tường; không đi nối gót được; Romberg ngả về trái. Mất vững mức 1 (GRACE-3 2023, Bảng 3, tr. 458); nghiêng về bên tổn thương, hợp ngoại biên (Bárány AUVP 2022, chú thích 3).",
+     "k": 1,
+     "hien": "Ngồi tự giữ thân. Đứng và đi vài bước không cần người đỡ nhưng nghiêng về trái, phải đưa tay bám tường."
+    },
+    "dix_hallpike": {
+     "a": "Không bắt buộc ở hội chứng tiền đình cấp rõ (GRACE-3 2023, tr. 461). Nếu làm: rung giật ngang một chiều vẫn như khi ngồi, không đổi chiều, không có cơn lên–xoay ngắn kiểu BPPV; chị nôn khan thêm.",
+     "k": 0,
+     "hien": "Nằm ngửa đầu quay: vẫn quay liên tục, mắt giật như lúc ngồi, nôn khan; không có cơn quay ngắn riêng."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 5,6 mmol/L.",
+     "n": "Loại hạ đường huyết (bệnh giả đột quỵ, QĐ 5331/2020, Chương 2 mục I.4); biết đường huyết trước khi bàn corticoid (GRACE-3 2023, tr. 473)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 138 · K 3,6 · Cl 101 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 3.6,
+      "cl": 101
+     },
+     "n": "Nôn nhiều lần nên thử; bình thường. Hạ natri máu dễ nhầm với đột quỵ (QĐ 5331/2020, Chương 2 mục I.4)."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Cơ sở không có CT.",
+     "n": "Dù có CT cũng không dùng: GRACE-3 2023 khuyến cáo mạnh không dùng CT sọ hay CTA để phân biệt đột quỵ với viêm thần kinh tiền đình (khuyến cáo 5, tr. 447)."
+    },
+    "mri_so_nao": {
+     "v": "n",
+     "r": "Cơ sở không có MRI.",
+     "n": "Không có chỉ định: HINTS ngoại biên, nghe không giảm (GRACE-3 2023, khuyến cáo 6, 7, tr. 447). DWI trong 24 giờ đầu còn âm tính giả đến 16% (Bárány AUVP 2022, mục 4.5.2)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thần kinh tiền đình bên trái (hội chứng tiền đình cấp ngoại biên một bên), ngày thứ hai; mất nước nhẹ do nôn",
+     "ok": 1,
+     "n": "Bárány AUVP 2022, mục 3.1: khởi phát cấp, vertigo liên tục từ 24 giờ, rung giật ngoại biên một chiều, giảm VOR bên đối diện, không dấu trung ương; chị đủ cả. Nguyên nhân virus có khả năng nhưng chưa chứng minh (mục 4.8; QĐ 5643/2015, mục 2.2). Cảm nhẹ sáu ngày trước phù hợp, nhưng tài liệu đã tải không nêu mối liên hệ cụ thể."
+    },
+    {
+     "t": "Đột quỵ tuần hoàn sau (tiểu não, thân não, nhồi máu mê nhĩ)",
+     "n": "Loại trừ lâm sàng, chưa bằng hình ảnh (không có CT, MRI). Chị 47 tuổi, không tăng huyết áp, đái tháo đường, rung nhĩ; mất vững mức 1 (Bảng 3: đột quỵ 7%); HINTS đủ ba thành phần ngoại biên, nghe không giảm (GRACE-3 2023, khuyến cáo 2, 3). HIT có thể sai ở nhồi máu AICA (5/17; Bárány vascular 2022, mục 2.1.3 chú thích 5), nghe bằng cọ ngón tay giúp phát hiện."
+    },
+    {
+     "t": "BPPV (chóng mặt kịch phát tư thế lành tính)",
+     "n": "Loại trừ: vertigo liên tục hơn 24 giờ kể cả nằm yên, có rung giật tự phát; BPPV là cơn ngắn theo tư thế (GRACE-3 2023, khuyến cáo 11, 15)."
+    },
+    {
+     "t": "Bệnh Ménière hoặc viêm mê nhĩ do tai giữa",
+     "n": "Không ù tai, không nghe kém mới, màng nhĩ bình thường. Ménière là cơn ngắn (Bárány AUVP 2022, mục 4.6)."
+    },
+    {
+     "t": "Chóng mặt do hạ đường huyết, rối loạn điện giải, thuốc hay 'thiểu năng tuần hoàn não'",
+     "n": "Đường huyết 5,6, điện giải bình thường (QĐ 5331/2020, Chương 2 mục I.4). 'Thiểu năng tuần hoàn ĐM cột sống–thân nền': QĐ 5643/2015 (mục 2.3a) coi là nguyên nhân thường gặp ở người trên 50 tuổi kèm nhìn đôi, rối loạn ngôn ngữ; Bárány vascular 2022 (tr. 9) không khuyến cáo thuật ngữ này. Chị 47 tuổi, không triệu chứng thân não."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khám vận nhãn (HINTS), nghe bằng cọ ngón tay và dáng đi để phân biệt ngoại biên với trung ương; không chụp CT, không cần MRI vì cả ba thành phần và nghe đều ngoại biên",
+     "v": "c",
+     "n": "GRACE-3 2023: khuyến cáo 2, 3 (tr. 447); khuyến cáo 5 mạnh không dùng CT, khuyến cáo 6 không MRI đầu tay khi có người khám được HINTS; tr. 444: ngoại biên thì không cần hình ảnh. Cơ sở không có CT, MRI nên càng phải khám kỹ."
+    },
+    {
+     "t": "Giữ chị theo dõi tại phòng khám: thuốc chống nôn ngắn ngày (domperidon, ondansetron hoặc metoclopramid), thử uống từng ngụm nước, ngồi và đứng dậy ổn rồi mới về",
+     "v": "c",
+     "n": "TL-0451 (Bảng 3, tr. S366): domperidon, metoclopramid, ondansetron tối đa 2–3 ngày (tr. S363); GRACE-3 2023 (tr. 444): không quá 3–5 ngày. Chị 47 tuổi nên Beers 2023 không áp dụng. Liều, thời gian theo dõi: không có trong tài liệu đã tải; chọn theo tiêu chí uống được, đứng được."
+    },
+    {
+     "t": "Ức chế tiền đình chỉ vài ngày: cinnarizin ± dimenhydrinat (đã có ở toa trước), hoặc huyết thanh ngọt ưu trương, tanganil theo QĐ 5643",
+     "v": "a",
+     "n": "TL-0451 (tr. S363, Bảng 3): cinnarizin ± dimenhydrinat tối đa 2–3 ngày, Ginkgo EGb 761 hỗ trợ bù trừ là tùy chọn; GRACE-3 2023 (tr. 444): không quá 3–5 ngày vì cản bù trừ; QĐ 5643/2015 (mục 4.1a): huyết thanh ngọt ưu trương, tanganil."
+    },
+    {
+     "t": "Corticoid uống ngắn ngày sau khi thảo luận lợi và hại với chị (đến trong 3 ngày)",
+     "v": "a",
+     "n": "GRACE-3 2023 khuyến cáo 14 (tr. 447, 472–473): quyết định chung cho người đến trong 3 ngày, bằng chứng rất thấp; hại: xuất huyết tiêu hóa, tăng đường huyết (tr. 473). TL-0451 Bảng 3: cân nhắc theo bệnh kèm. Dùng hay không đều đúng. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giai đoạn cấp (1–2 ngày): nghỉ nơi yên tĩnh, tránh cử động mạnh; khi bớt nôn, bắt đầu tập phục hồi tiền đình tại nhà theo tờ hướng dẫn hay video",
+     "v": "c",
+     "n": "QĐ 5643/2015 (mục 4.1a): phòng yên tĩnh, tránh cử động trong cơn cấp; GRACE-3 2023 (tr. 444) và TL-0451 Bảng 3: phục hồi tiền đình, tập tại nhà. Hai giai đoạn khác nhau. Bài tập cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ bromazepam 1 viên mỗi tối như cũ, không tăng liều, không thêm benzodiazepin khác để 'cắt cơn quay'",
+     "v": "c",
+     "n": "GRACE-3 2023 (tr. 473–474): benzodiazepin là thuốc ức chế tiền đình, quá vài ngày cản bù trừ; ESRS 2023 (mục 4.2.1): tối đa 4 tuần, chị đã dùng bốn tháng. Không ngưng đột ngột: nhận xét thực hành."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đi cấp cứu ngay và hẹn khám lại khoảng 1 tuần",
+     "v": "c",
+     "n": "QĐ 5331/2020, Chương 5 mục I: gọi cấp cứu khi yếu liệt, tê, liệt mặt, khó nói, nhìn đôi, mất thăng bằng; Bárány AUVP chú thích 13, 16: xét lại chẩn đoán khi có dấu mới. TL-0451 Bảng 3: tái khám 2–4 tuần; hẹn 1 tuần là chọn của ca (không có trong tài liệu)."
+    },
+    {
+     "t": "Chụp CT/MRI hoặc chuyển tuyến tỉnh để loại đột quỵ khi HINTS và nghe đều ngoại biên",
+     "v": "w",
+     "n": "GRACE-3 2023 khuyến cáo 5, 6 (tr. 447); khuyến cáo 7 chỉ dùng MRI khi HINTS trung ương hoặc chưa rõ."
+    },
+    {
+     "t": "Tăng liều thuốc ngủ, thêm diazepam (seduxen) hay dùng thuốc ức chế tiền đình quá vài ngày để cắt cơn quay",
+     "v": "w",
+     "n": "GRACE-3 2023 (tr. 473–474); TL-0451 (tr. S363). QĐ 5643/2015 (mục 4.1a) có nêu seduxen trong cơn cấp nhưng chị đã dùng bromazepam hằng đêm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng tiền đình cấp ngoại biên một bên, thứ nhất là viêm thần kinh tiền đình (AUVP) bên trái, ngày thứ hai (Bárány 2022, mục 3.1)",
+     "Mất vững mức 1, nguy cơ ngã (GRACE-3 2023, Bảng 3); mất nước nhẹ do nôn, đường huyết và điện giải bình thường",
+     "Đang dùng bromazepam 3 mg mỗi tối khoảng bốn tháng (mất ngủ do trực đêm), cần chú ý khi dùng thêm thuốc ức chế tiền đình",
+     "Đã nhận chẩn đoán 'thiểu năng tuần hoàn não' và thuốc ở phòng khám khác, không có khám vận nhãn",
+     "Lý do thật: chưa yên tâm với chẩn đoán trước, sợ đột quỵ như đồng nghiệp"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (liên tục hơn 24 giờ, không theo cơn, không dấu thần kinh, không triệu chứng tai) → sinh hiệu → khám vận nhãn (HINTS, nghe), dáng đi → CLS tối thiểu → chẩn đoán → xử trí (GRACE-3 2023, TL-0072, tr. 444).",
+     "Chị kể lộn xộn, nhầm thứ ngày, xen chuyện đồng nghiệp. Cách gỡ: ngắt lời lịch sự, hỏi từng ý (khởi phát, liên tục hay từng cơn, tai, thần kinh, thuốc, đã dùng gì), tóm tắt lại cho chị xác nhận. Dữ kiện then chốt rải rác: liên tục, không ù tai, bromazepam, toa phòng khám trước.",
+     "Đủ ba thành phần ngoại biên và nghe không giảm mới (GRACE-3 2023, Bảng 4, tr. 460); Bárány AUVP 2022 mục 3.1 đạt đủ tiêu chí. HIT có cú giật bắt kịp biên độ lớn là bằng chứng rõ khi người khám có kinh nghiệm (chú thích 10); vHIT được khuyến cáo (chú thích 11) nhưng phòng khám không có.",
+     "Giới hạn: không CT, MRI nên loại đột quỵ bằng lâm sàng, HINTS chỉ đáng tin ở người đã luyện (GRACE-3 2023, tr. 459–460); mất vững mức 2 trở lên hoặc dấu mới thì chuyển (Bảng 3). Chị cần thấy bằng chứng chứ không chỉ được trấn an: 'thiểu năng tuần hoàn não' của phòng khám trước không kèm khám mắt (Bárány vascular 2022, tr. 9); nói điều này không chê đồng nghiệp."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ theo dõi ngắn: chị còn nôn, chưa chắc uống được thuốc, mất vững mức 1; liều chống nôn đầu, thử uống từng ngụm nước, đứng dậy ổn thì cho về. Chẩn đoán lâm sàng, không cần hình ảnh (GRACE-3 2023, tr. 444). Thời gian theo dõi: không có trong tài liệu đã tải.",
+     "Chống nôn, ức chế tiền đình 2–3 ngày (TL-0451, tr. S363) hoặc không quá 3–5 ngày (GRACE-3 2023, tr. 444), cả hai đúng; chị đã dùng từ thứ Hai nên tổng không quá 2–3 ngày, không thêm benzodiazepin. Corticoid: quyết định chung vì đến trong 3 ngày (khuyến cáo 14). Hẹn lại sau 1 tuần vì chị còn nôn và đang dùng bromazepam (chọn của ca)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ondansetron (hoặc domperidon, metoclopramid)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải (theo tờ hướng dẫn thuốc)",
+      "duong": "Uống (ondansetron có thể tiêm)",
+      "thoi_diem": "Liều đầu tại phòng khám; sau đó khi buồn nôn",
+      "so_ngay": "Tối đa 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3)",
+      "ghi_chu": "TL-0451 Bảng 3 (tr. S366), tr. S363; GRACE-3 2023 tr. 444."
+     },
+     {
+      "thuoc": "Cinnarizin (± dimenhydrinat) đã có ở toa trước (tùy chọn)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Khi còn quay nhiều",
+      "so_ngay": "Tổng không quá 2–3 ngày kể từ lúc bắt đầu (đã dùng từ thứ Hai), rồi ngưng",
+      "ghi_chu": "TL-0451 tr. S363, Bảng 3; GRACE-3 2023 tr. 444, 473–474. Chị đang uống bromazepam nên dùng một thuốc (nhận xét thực hành)."
+     },
+     {
+      "thuoc": "Bromazepam 3 mg (đang dùng, giữ nguyên)",
+      "ham_luong": "3 mg",
+      "lieu": "1 viên mỗi tối, không thêm",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối; đêm trực thì không uống như chị vẫn làm",
+      "so_ngay": "Giữ đến khi bàn kế hoạch riêng về giấc ngủ",
+      "ghi_chu": "GRACE-3 2023 tr. 473–474; ESRS 2023 mục 4.2.1, 4.5. Không ngưng đột ngột: nhận xét thực hành."
+     }
+    ],
+    "dan_do": [
+     "Chị bị viêm thần kinh tiền đình bên trái: dây thần kinh thăng bằng của tai trái bị viêm, thường nghĩ do virus (QĐ 5643/2015, mục 2.2). Khám mắt, nghe, dáng đi đều kiểu ở tai, không giống tai biến; chưa chụp được ở đây nhưng khám đã đủ để quyết định (GRACE-3 2023, tr. 444).",
+     "Đi cấp cứu ngay nếu yếu liệt, méo miệng, nói khó, nhìn đôi, tê, lơ mơ, đau đầu dữ dội, đứng không được, ù tai hay nghe kém mới (QĐ 5331/2020, Chương 5 mục I; Bárány AUVP 2022, chú thích 13, 16).",
+     "Thuốc chống nôn, chống chóng mặt chỉ vài ngày rồi ngưng (TL-0451 tr. S363; GRACE-3 tr. 444); bromazepam giữ một viên tối, không uống thêm khi quay. Khi bớt nôn tập phục hồi tiền đình theo tờ hướng dẫn (GRACE-3 2023, tr. 444).",
+     "Chưa lái xe máy hay làm ca đêm (nhận xét thực hành); hẹn lại sau 1 tuần (TL-0451 Bảng 3: 2–4 tuần), sớm hơn nếu nôn không uống được. Mang theo toa phòng khám trước."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 1 tuần (ngày thứ chín)",
+   "tiep_don": "Chị Hà tái khám theo hẹn, đi một mình bằng xe máy, mặc áo blouse khoa, bước chậm, hơi nghiêng trái khi quay đầu. Chị nói đỡ nhiều nhưng 'chưa hết', sáng nào cũng lơ mơ, chưa dám trực đêm lại. Sinh hiệu lúc tiếp đón (ngồi): mạch 78 l/p, HA 124/78 mmHg, nhiệt 36,7 °C, nhịp thở 16, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện huyện 'theo dõi tiếp' vì chưa hết hẳn sau 9 ngày: chị đã hết quay, hết nôn, ăn uống được, đi độc lập; hồi phục từng phần là thường gặp, không có dấu thần kinh hay tai mới (Bárány AUVP 2022, chú thích 13, 16). Nằm viện không thêm điều trị nào chị cần, mất thêm ngày công, trong khi tập phục hồi tiền đình (GRACE-3 2023, tr. 444) làm được ở nhà.",
+    "chuyen_tuyen": "Chuyển tỉnh chụp MRI sọ hay làm vHIT 'cho rõ vì chưa khỏi': MRI chỉ khi HINTS trung ương hoặc chưa rõ (GRACE-3 2023, khuyến cáo 7, tr. 447), mà HINTS vẫn ngoại biên và nhẹ đi; vHIT được khuyến cáo (Bárány AUVP 2022, chú thích 11) nhưng không phải điều kiện để điều trị. Xe 40 km, nghỉ thêm ngày làm, không đổi xử trí."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Em đỡ nhiều rồi, đỡ nhiều thật, mà cũng chưa hết. Thứ Sáu em đi ca ngày vì khoa thiếu người, Chủ nhật em đỡ đêm cho bạn, có hụt chân cầu thang một lần nhưng bám được. Thuốc phòng khám kia em còn uống tới giờ, thuốc ngủ cũng uống thêm cho yên... quay đầu nhanh là em vẫn chao. Bác sĩ coi giùm em có bị thất bại điều trị không?",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "124/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn một tuần. Đã hết quay khi nằm yên, hết nôn, nhưng quay đầu nhanh vẫn chao đảo, sáng nào cũng lơ mơ, chưa dám trực đêm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám; đỡ một phần"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Tối thứ Ba em còn nôn hai lần, sáng thứ Tư uống thuốc chống nôn thì giữ được, ăn cháo; chiều thứ Tư hết quay khi nằm yên, thứ Năm hết nôn. Còn chao khi quay đầu nhanh, cúi nhặt đồ, đi nhanh ngoài hành lang, nhìn dãy hộp thuốc, nhất là chiều tối. Đỡ khoảng sáu bảy phần so với hôm khám đầu, mấy hôm nay không đỡ thêm nhiều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sau lượt 1: hồi phục từng phần"
+    },
+    {
+     "id": "thuoc_cu",
+     "noi_dung": "Thuốc phòng khám kia kê mười ngày thì em uống đủ cinnarizin với dimenhydrinat mỗi ngày ba lần tới hôm nay, vì sợ ngưng thì quay lại. Sáng nào cũng buồn ngủ, lơ mơ, nói chậm. Thuốc chống nôn ở đây em uống ba ngày rồi ngưng. Không corticoid, không thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dùng thuốc ức chế tiền đình quá thời gian khuyến cáo"
+    },
+    {
+     "id": "bromazepam",
+     "noi_dung": "Mấy đêm đầu quay quá em uống hai viên bromazepam, cả tuần nay vẫn hai viên mới ngủ được, sáng dậy nặng đầu. Em biết bác sĩ dặn một viên, em là điều dưỡng em biết mà vẫn... Đêm trực em cũng uống một viên trước khi đi làm cho đỡ sợ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tự tăng liều benzodiazepin; lẫn với thuốc ức chế tiền đình"
+    },
+    {
+     "id": "di_lam",
+     "noi_dung": "Thứ Sáu em đi ca ngày. Chủ nhật em đỡ ca đêm cho bạn, đẩy xe thuốc, xuống cầu thang hụt chân một lần, bám tay vịn được nên không ngã. Em chạy xe máy tới đây một mình, chạy chậm. Chồng em không biết em đi đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Làm việc, lái xe khi còn mất vững và dùng thuốc an thần"
+    },
+    {
+     "id": "khong_moi",
+     "noi_dung": "Không đau đầu, không yếu liệt, không méo miệng, không nói khó, không nhìn đôi, không tê, không ù tai, không nghe kém, không đau tai. Không có cơn quay ngắn vài chục giây khi trở mình trên giường; chỉ chao khi quay đầu nhanh, không quay tròn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu thần kinh hay tai mới; phân biệt BPPV"
+    },
+    {
+     "id": "lo_au",
+     "noi_dung": "Em mất ngủ nặng hơn từ khi bệnh, nằm là nghĩ bệnh không hết, lỡ lúc tiêm thuốc hay đẩy xe em chao thì sao, rồi sợ khoa người ta nói 'điều dưỡng gì mà bệnh hoài'. Em chưa kể với ai.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi về giấc ngủ, nỗi lo hay chuyện công việc; hỏi chung thì nói 'em ổn'.",
+     "y": "Lo âu, mất ngủ, áp lực công việc cản hồi phục"
+    }
+   ],
+   "kham": {
+    "hints_van_nhan": {
+     "a": "Nhìn thẳng ở ánh sáng phòng: không rung giật; nhìn sang phải vài giây: rung giật ngang nhẹ pha nhanh sang phải; nhắm mắt, sờ nhãn cầu qua mi thấy giật nhẹ sang phải (Bárány AUVP 2022, mục 4.3.1). Đẩy đầu nhanh sang trái: vẫn có cú giật bắt kịp nhưng nhỏ hơn lượt 1; sang phải: mắt giữ mục tiêu. Che mắt luân phiên: không lệch dọc, không đổi chiều. Ngoại biên, nhẹ dần, hợp bù trừ một phần (GRACE-3 2023, tr. 473).",
+     "k": 1,
+     "hien": "Nhìn thẳng: không giật. Nhìn sang phải vài giây: giật nhẹ sang phải. Đẩy đầu nhanh sang trái: mắt trượt nhẹ rồi giật bắt kịp, nhỏ hơn lần trước; sang phải: mắt giữ được mục tiêu. Che mắt luân phiên: không lệch dọc."
+    },
+    "nghe_thi_tham": {
+     "a": "Cọ ngón tay: hai bên như nhau, không giảm nghe mới.",
+     "k": 1,
+     "hien": "Nghe cọ ngón tay hai bên như nhau."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi tự nhiên, thẳng; quay người nhanh thì loạng choạng nhẹ; nối gót 6 bước rồi lệch trái; Romberg nhắm mắt 30 giây lệch nhẹ trái, không ngã. Mất vững mức 0–1 (GRACE-3 2023, Bảng 3, tr. 458).",
+     "k": 1,
+     "hien": "Đi thẳng được; quay người nhanh thì chao; đi nối gót lệch trái sau vài bước."
+    },
+    "dix_hallpike": {
+     "a": "Âm tính hai bên: không chóng mặt, mắt không giật. Làm để loại BPPV hậu viêm vì chị than chao khi đổi tư thế (Bárány AUVP 2022, mục 4.1; GRACE-3 2023, khuyến cáo 11, 15).",
+     "k": 1,
+     "hien": "Nằm ngửa đầu quay phải rồi trái: không quay, mắt không giật."
+    }
+   },
+   "cls": {
+    "mri_so_nao": {
+     "v": "n",
+     "r": "Cơ sở không có MRI.",
+     "n": "Không có chỉ định: HINTS vẫn ngoại biên và nhẹ đi, không dấu mới (GRACE-3 2023, khuyến cáo 7, tr. 447; Bárány AUVP 2022, chú thích 13, 16)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thần kinh tiền đình bên trái đang hồi phục từng phần (ngày thứ chín), còn mất vững khi vận động đầu; tác dụng phụ và cản bù trừ do dùng thuốc ức chế tiền đình, benzodiazepin quá liều và quá lâu",
+     "ok": 1,
+     "n": "Bárány AUVP 2022 mục 3.1 không đổi; HINTS ngoại biên nhẹ dần; mất chức năng tiền đình có thể bù trừ tốt ngắn hạn (GRACE-3 2023, tr. 473). Ức chế tiền đình quá vài ngày cản bù trừ và có tác dụng phụ (GRACE-3 tr. 473–474; TL-0451 tr. S363), góp phần lơ mơ và chao đảo."
+    },
+    {
+     "t": "Thất bại điều trị sớm / đột quỵ tiểu não muộn / tiến triển",
+     "n": "Loại trừ: không dấu thần kinh hay tai mới, HINTS vẫn ngoại biên và nhẹ đi, nghe đối xứng, Dix–Hallpike âm tính. Hồi phục từng phần là hợp lẽ; chỉ xét lại chẩn đoán khi có dấu mới (Bárány AUVP 2022, chú thích 13, 16)."
+    },
+    {
+     "t": "BPPV hậu viêm thần kinh tiền đình",
+     "n": "Loại trừ: Dix–Hallpike âm tính hai bên, không cơn quay ngắn theo tư thế (Bárány AUVP 2022, mục 4.1; GRACE-3 2023, khuyến cáo 11)."
+    },
+    {
+     "t": "Chóng mặt tư thế–tri giác dai dẳng (chóng mặt chức năng)",
+     "n": "Chưa đủ: Bárány PPPD 2017, tiêu chuẩn A cần triệu chứng hầu hết các ngày từ 3 tháng trở lên; mới 9 ngày. Viêm thần kinh tiền đình là yếu tố khởi phát thường gặp (Bárány AUVP 2022, mục 4.1: 25/162) nên theo dõi lo âu, mất ngủ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận hồi phục từng phần là diễn tiến bình thường ở ngày thứ chín; không xét lại chẩn đoán, không hình ảnh, không chuyển tuyến, không bắt đầu corticoid (quá 3 ngày)",
+     "v": "c",
+     "n": "Bárány AUVP 2022, chú thích 13, 16 (xét lại chẩn đoán khi có dấu mới); GRACE-3 2023, khuyến cáo 6, 7, 14 (tr. 447; corticoid chỉ cho người đến trong 3 ngày), tr. 444. Thời gian hồi phục điển hình: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngừng cinnarizin và dimenhydrinat ngay (đã dùng quá thời gian)",
+     "v": "c",
+     "n": "TL-0451 (tr. S363): tối đa 2–3 ngày để không cản bù trừ; GRACE-3 2023 (tr. 444, 473–474): không quá 3–5 ngày. Ghi cả hai; đã dùng 9 ngày."
+    },
+    {
+     "t": "Tập phục hồi tiền đình hằng ngày tại nhà theo tờ hướng dẫn hay video; giới thiệu vật lý trị liệu tiền đình nếu có",
+     "v": "c",
+     "n": "GRACE-3 2023 (tr. 444): chuyển mọi người viêm thần kinh tiền đình đi phục hồi tiền đình, vật lý trị liệu có huấn luyện nếu không có chuyên khoa; TL-0451 Bảng 3: tập tại nhà bằng tờ, video, ứng dụng. Số buổi, thời lượng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đưa bromazepam về 1 viên mỗi tối, không uống trước ca trực, không ngừng đột ngột; chưa lái xe máy một mình, chưa trực đêm hay đẩy xe thuốc trên cầu thang; hỏi giấc ngủ và nỗi lo",
+     "v": "c",
+     "n": "ESRS 2023: benzodiazepin tối đa 4 tuần (mục 4.2.1), CBT-I đầu tay (mục 4.1.1), lược đồ giảm dần (mục 4.5); GRACE-3 2023 (tr. 473–474): benzodiazepin là thuốc ức chế tiền đình. Lược đồ giảm liều; hạn chế lái xe, làm việc khi còn mất vững: không có trong tài liệu đã tải (nhận xét thực hành)."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại ngay (dấu thần kinh, ù tai, nghe kém, nhìn đôi); hẹn tái khám trong 2–3 tuần",
+     "v": "c",
+     "n": "QĐ 5331/2020, Chương 5 mục I; Bárány AUVP 2022 chú thích 13, 16. TL-0451 Bảng 3: tái khám 2–4 tuần."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển tuyến chụp MRI vì 'chưa khỏi hẳn'",
+     "v": "w",
+     "n": "GRACE-3 2023, khuyến cáo 6, 7 (tr. 447): MRI khi HINTS trung ương hoặc chưa rõ; hồi phục từng phần không phải dấu trung ương."
+    },
+    {
+     "t": "Kê tiếp thuốc chống chóng mặt dài ngày hoặc tăng bromazepam để hết chao đảo",
+     "v": "w",
+     "n": "GRACE-3 2023 (tr. 473–474): dùng kéo dài cản bù trừ và có tác dụng phụ; TL-0451 (tr. S363): tối đa 2–3 ngày."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thần kinh tiền đình bên trái ngày thứ chín, hồi phục từng phần, còn mất vững khi vận động đầu nhanh (HINTS ngoại biên, nhẹ dần)",
+     "Dùng cinnarizin, dimenhydrinat chín ngày và bromazepam gấp đôi một tuần: lơ mơ buổi sáng, cản bù trừ",
+     "Đi ca đêm, hụt chân cầu thang, lái xe máy một mình khi còn mất vững và dùng thuốc an thần; mất ngủ, lo âu (chưa đủ 3 tháng cho chóng mặt chức năng)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi diễn tiến từ lượt 1 (đỡ thế nào, còn gì, đã dùng thuốc gì bao lâu, tự tăng liều, đã đi làm chưa) → sinh hiệu → khám lại HINTS, nghe, dáng đi, Dix–Hallpike → chẩn đoán → xử trí.",
+     "Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm: không dấu thần kinh hay tai mới, không đổi chiều rung giật, nghe đối xứng, rung giật nhẹ dần, đi độc lập: hồi phục từng phần, không phải thất bại (Bárány AUVP 2022, chú thích 13, 16; GRACE-3 2023, tr. 473). Tốc độ hồi phục điển hình: không có trong tài liệu đã tải.",
+     "Phần triệu chứng còn lại có đóng góp của thuốc: ức chế tiền đình quá vài ngày cản bù trừ (GRACE-3 2023, tr. 473–474; TL-0451 tr. S363), benzodiazepin gấp đôi gây lơ mơ sáng. Dix–Hallpike âm tính nên không cần Epley (GRACE-3 2023, khuyến cáo 15)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn lại: ngừng thuốc ức chế tiền đình, tập phục hồi tiền đình hằng ngày là việc chính; không hình ảnh, không chuyển tuyến (GRACE-3 2023, TL-0072, tr. 444). Không bắt đầu corticoid vì quá 3 ngày (khuyến cáo 14, tr. 447).",
+     "Bromazepam về 1 viên tối, bàn chuyện mất ngủ, lo âu; không ngừng đột ngột (ESRS 2023, mục 4.5). Chị biết mà vẫn làm: nói chuyện không phán xét, hỏi lý do (khoa thiếu người, sợ bị nói); giấy nghỉ: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cinnarizin và dimenhydrinat (toa phòng khám trước)",
+      "ham_luong": "Theo toa đã có",
+      "lieu": "Ngừng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Đã dùng 9 ngày, quá 2–3 ngày (TL-0451) và 3–5 ngày (GRACE-3)",
+      "ghi_chu": "TL-0451 tr. S363; GRACE-3 2023 tr. 444, 473–474. Không kê thuốc chống chóng mặt mới."
+     },
+     {
+      "thuoc": "Bromazepam 3 mg",
+      "ham_luong": "3 mg",
+      "lieu": "Về 1 viên mỗi tối (đang uống 2 viên); đêm trực không uống",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Giữ đến khi bàn kế hoạch giảm dần",
+      "ghi_chu": "ESRS 2023 mục 4.2.1, 4.1.1, 4.5. Không ngưng đột ngột: nhận xét thực hành."
+     }
+    ],
+    "dan_do": [
+     "Chị đỡ đúng như viêm thần kinh tiền đình thường đỡ: hết quay, hết nôn, còn chao khi quay đầu nhanh; dấu ở mắt nhẹ hơn, không có dấu mới. Chưa thấy gì cho biết điều trị thất bại.",
+     "Ngừng cinnarizin, dimenhydrinat từ hôm nay vì ngăn não bù trừ nếu dùng lâu (TL-0451 tr. S363; GRACE-3 tr. 473–474). Tập phục hồi tiền đình mỗi ngày theo tờ hướng dẫn, chao nhẹ khi tập là bình thường (GRACE-3 2023, tr. 444).",
+     "Bromazepam về một viên mỗi tối, không uống thêm, không tự bỏ đột ngột; chưa chạy xe máy một mình, chưa đi ca đêm, xuống cầu thang bám tay vịn (nhận xét thực hành); xin nghỉ ca đêm có giấy, nói với chị trưởng khoa.",
+     "Quay lại ngay nếu nhìn đôi, tê, yếu liệt, nói khó, ù tai hay nghe kém mới (QĐ 5331/2020, Chương 5 mục I; Bárány AUVP 2022, chú thích 13, 16). Tái khám sau 2–3 tuần (TL-0451 Bảng 3: 2–4 tuần)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · tái khám sau 3 tuần (khoảng 4 tuần từ khởi phát)",
+   "tiep_don": "Chị Hà tái khám theo hẹn, đi cùng anh Vinh, tươi hơn hẳn, bước nhanh. Chị nói đỡ nhiều, đi làm ca ngày hai tuần nay, nhưng 'vẫn còn chao khi quay đầu nhanh', muốn biết có để lại di chứng không, bao giờ được đi ca đêm lại. Sinh hiệu lúc tiếp đón (ngồi): mạch 74 l/p, HA 118/74 mmHg, nhiệt 36,6 °C, nhịp thở 16, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển tỉnh khám tiền đình chuyên sâu và chụp MRI vì còn chao nhẹ sau 4 tuần: HINTS gần hết, không dấu mới; MRI chỉ khi HINTS trung ương hoặc chưa rõ (GRACE-3 2023, khuyến cáo 7, tr. 447); TL-0451 (Bảng 3) chỉ chuyển gấp khi nặng hoặc nghi trung ương. Chị mất ngày công, kết quả không đổi việc phải làm là tập đều và giảm thuốc ngủ.",
+    "nhap_vien": "Nhập viện nội trú 'để tập phục hồi' cho người đã đi làm ca ngày hai tuần: tài liệu đã tải chỉ nói phục hồi tiền đình tại nhà hoặc vật lý trị liệu (GRACE-3 2023, tr. 444; TL-0451 Bảng 3), không có chỉ định nằm viện. Chị mất cả tuần công, nằm giữa khoa mình và thêm lo mình bệnh nặng."
+   },
+   "loi_mo": "Dạ chào bác sĩ, chồng em đi cùng nè. Em đỡ nhiều lắm, tập theo tờ được mấy hôm thì khoa bận, em bỏ mấy buổi, giờ vẫn còn chao khi quay đầu nhanh và đi trong siêu thị, nhìn mấy dãy hàng em hoa mắt. Em giảm thuốc ngủ rồi, đêm đầu cũng khổ... Bác bảo em có để lại di chứng không, chị trưởng khoa hỏi bao giờ em đi đêm lại, em chưa biết nói sao.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "118/74",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn. Đỡ nhiều, còn chao khi quay đầu nhanh và ở nơi đông người, siêu thị, muốn biết có di chứng không và bao giờ đi ca đêm lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám; đỡ một phần"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Em ngừng hai thuốc kia từ hôm bác sĩ dặn, hết buồn ngủ sau ba ngày. Chao khi quay đầu nhanh, cúi nhặt đồ đỡ nhiều, giờ còn khi đi chợ, siêu thị, nhìn dãy hàng, ánh đèn hành lang khoa, hoặc hôm nào thức khuya. Đỡ chín phần, không còn quay, không nôn, không ngã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến: hồi phục gần hết, triệu chứng còn lại khi kích thích thị giác phức tạp và mệt"
+    },
+    {
+     "id": "tap",
+     "noi_dung": "Em tập theo tờ: tuần đầu mỗi sáng, sau đó khoa bận chỉ tập ba bốn buổi một tuần, mỗi lần khoảng mười phút, tập thấy chao hơn một chút rồi hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức tuân thủ phục hồi tiền đình"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Từ hôm bác sĩ dặn em xuống một viên bromazepam mỗi tối, đêm trực không uống. Ba đêm đầu mất ngủ dữ, hồi hộp nhẹ, giờ ngủ được năm sáu tiếng, vẫn thức giữa đêm. Không còn uống trước ca trực. Không thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giảm benzodiazepin: dấu hiệu khi giảm, giấc ngủ"
+    },
+    {
+     "id": "khong_moi",
+     "noi_dung": "Không đau đầu, không yếu liệt, không méo miệng, không nhìn đôi, không tê, không ù tai, không nghe kém. Không cơn quay ngắn khi trở mình. Từ hôm bác sĩ dặn em không đi ca đêm, không chạy xe máy một mình, chồng chở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu mới; tuân thủ dặn dò an toàn"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Em đi ca ngày hai tuần nay, chưa lên đêm. Trưởng khoa hỏi bao giờ em đi đêm lại vì thiếu người, em chưa dám trả lời, sợ nói chưa được thì người ta nghĩ em kém.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng trở lại ca đêm"
+    },
+    {
+     "id": "lo_au",
+     "noi_dung": "Em lo cả ngày: sợ chao lúc tiêm thuốc, sợ bệnh để lại di chứng hoài, có hôm tránh dãy hàng dài trong siêu thị vì nhìn là chao. Chồng nói em lo quá. Em chưa kể với ai ở khoa.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi nỗi lo, chuyện đi siêu thị, hay cảm giác ở nơi đông người; hỏi chung thì nói 'em ổn rồi'.",
+     "y": "Lo âu, né tránh thị giác: nguy cơ chóng mặt chức năng về sau"
+    }
+   ],
+   "kham": {
+    "hints_van_nhan": {
+     "a": "Nhìn thẳng và hai bên, nhắm mắt sờ nhãn cầu: không rung giật. Đẩy đầu nhanh sang trái: còn cú giật bắt kịp nhỏ; sang phải: mắt giữ mục tiêu. Che mắt luân phiên: không lệch dọc. VOR trái giảm nhẹ, hợp hồi phục chưa trọn nhưng đã bù trừ (GRACE-3 2023, tr. 473). Dix–Hallpike âm tính hai bên.",
+     "k": 1,
+     "hien": "Nhìn thẳng và hai bên: không giật. Đẩy đầu nhanh sang trái: mắt trượt rất nhẹ rồi giật bắt kịp nhỏ; sang phải: mắt giữ được mục tiêu."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi bình thường, quay người nhanh không chao; nối gót 10 bước được; Romberg nhắm mắt 30 giây không lệch. Đứng một chân trái 5 giây rồi chao. Mất vững mức 0 (GRACE-3 2023, Bảng 3, tr. 458).",
+     "k": 1,
+     "hien": "Đi bình thường, quay người nhanh được; nối gót 10 bước được; đứng một chân trái chao sau vài giây."
+    }
+   },
+   "cls": {},
+   "chan_doan": [
+    {
+     "t": "Viêm thần kinh tiền đình bên trái, đã hồi phục lâm sàng phần lớn (khoảng 4 tuần), còn mất cân bằng nhẹ khi vận động đầu nhanh và ở nơi nhiều kích thích thị giác",
+     "ok": 1,
+     "n": "Bárány AUVP 2022 mục 3.1 (nay còn VOR trái giảm nhẹ ở giường); mất chức năng có thể bù trừ tốt (GRACE-3 2023, tr. 473). Tập phục hồi tiền đình chưa đều nên triệu chứng còn chút."
+    },
+    {
+     "t": "Mất ngủ mạn dùng benzodiazepin (bromazepam khoảng 5 tháng), đang giảm liều; nguy cơ chóng mặt chức năng về sau",
+     "ok": 1,
+     "n": "ESRS 2023: benzodiazepin tối đa 4 tuần (mục 4.2.1), có lược đồ giảm dần (mục 4.5). Viêm thần kinh tiền đình là yếu tố khởi phát thường gặp của chóng mặt chức năng thứ phát (Bárány AUVP 2022, mục 4.1: 25/162). Chưa chẩn đoán được PPPD: tiêu chuẩn A cần ≥ 3 tháng (Bárány PPPD 2017; TL-0451, mục hội chứng tiền đình mạn)."
+    },
+    {
+     "t": "BPPV hậu viêm",
+     "n": "Loại trừ lại: Dix–Hallpike âm tính hai bên (Bárány AUVP 2022, mục 4.1; GRACE-3 2023, khuyến cáo 11)."
+    },
+    {
+     "t": "Đột quỵ muộn hay nguyên nhân trung ương",
+     "n": "Không dấu mới, HINTS không dấu trung ương, nghe đối xứng, diễn tiến hồi phục (Bárány AUVP 2022, chú thích 13, 16)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận hồi phục tốt bằng lâm sàng; không CT, MRI, không chuyển tuyến khi không có dấu mới",
+     "v": "c",
+     "n": "GRACE-3 2023, khuyến cáo 6, 7 (tr. 447), tr. 444; Bárány AUVP 2022, chú thích 13, 16. Tỉ lệ khỏi hoàn toàn theo thời gian: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tập phục hồi tiền đình có cấu trúc, đều đặn mỗi ngày (tờ, video, ứng dụng); giới thiệu vật lý trị liệu tiền đình nếu còn chao sau vài tuần nữa",
+     "v": "c",
+     "n": "GRACE-3 2023 (tr. 444): phục hồi tiền đình hiệu quả theo tổng quan hệ thống, giới thiệu vật lý trị liệu có huấn luyện tiền đình; TL-0451 Bảng 3: tập tại nhà. Số buổi, bài tập: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục giảm dần bromazepam theo kế hoạch, kết hợp biện pháp ngủ (CBT-I); không ngừng đột ngột",
+     "v": "c",
+     "n": "ESRS 2023 (TL-0464): CBT-I đầu tay (mục 4.1.1), benzodiazepin tối đa 4 tuần (mục 4.2.1), lược đồ giảm dần (mục 4.5). Cách giảm liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám đủ 3 tháng từ khởi phát nếu còn triệu chứng để xét chóng mặt chức năng; trả lời chị về ca đêm: trở lại dần khi hết chao và ngủ ổn; dặn dấu hiệu quay lại ngay",
+     "v": "c",
+     "n": "Bárány PPPD 2017, tiêu chuẩn A (≥ 3 tháng); TL-0451 (mục hội chứng tiền đình mạn, Bảng 3): điều trị đa mô thức. Dấu hiệu quay lại: QĐ 5331/2020, Chương 5 mục I; Bárány AUVP chú thích 13, 16. Thời điểm trở lại ca đêm: không có trong tài liệu đã tải (nhận xét thực hành)."
+    },
+    {
+     "t": "Giới thiệu thính lực đồ/vHIT hay khám Tai Mũi Họng để đo mức tổn thương tiền đình",
+     "v": "a",
+     "n": "Bárány AUVP 2022 (mục 4.4, chú thích 11): vHIT, thử nhiệt được khuyến cáo; TL-0451 Bảng 3: chuyển chuyên khoa khi cần đo tiền đình chi tiết. Không bắt buộc ở chị đã hồi phục."
+    },
+    {
+     "t": "Kê lại thuốc chống chóng mặt, ức chế tiền đình hoặc thuốc 'bổ não' dài ngày; tăng lại bromazepam",
+     "v": "w",
+     "n": "GRACE-3 2023 (tr. 473–474): dùng kéo dài cản bù trừ; TL-0451 tr. S363: tối đa 2–3 ngày."
+    },
+    {
+     "t": "Chuyển tuyến chụp MRI hoặc nhập viện vì còn chao nhẹ sau 4 tuần",
+     "v": "w",
+     "n": "GRACE-3 2023, khuyến cáo 6, 7 (tr. 447): MRI khi HINTS trung ương hoặc chưa rõ; TL-0451 Bảng 3: chuyển gấp khi nặng hay nghi trung ương."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thần kinh tiền đình bên trái hồi phục phần lớn (khoảng 4 tuần), VOR trái giảm nhẹ ở giường, còn chao nhẹ khi quay đầu nhanh, nơi đông, kích thích thị giác",
+     "Tập phục hồi tiền đình chưa đều; mất ngủ mạn dùng bromazepam khoảng 5 tháng, đang giảm xuống 1 viên",
+     "Lo âu, né tránh thị giác nhẹ: yếu tố nguy cơ chóng mặt chức năng; chưa đủ 3 tháng để chẩn đoán"
+    ],
+    "phan_tich_chan_doan": [
+     "Đỡ một phần ở tuần thứ tư vẫn trong khoảng hồi phục thường gặp: không dấu mới, hết rung giật, nghe đối xứng; không có cơ sở thất bại điều trị hay đột quỵ muộn (Bárány AUVP 2022, chú thích 13, 16). Phần còn lại do VOR trái chưa trọn, tập chưa đều, mất ngủ, nơi đông kích thích thị giác.",
+     "Chưa đủ 3 tháng cho chóng mặt chức năng (Bárány PPPD 2017); viêm thần kinh tiền đình là yếu tố khởi phát thường gặp (Bárány AUVP 2022, mục 4.1). Chị né dãy hàng dài, lo cả ngày nên hẹn xét lại sau 3 tháng. Số liệu di chứng, thời gian hồi phục: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về: phục hồi tiền đình đều hơn (GRACE-3 2023, tr. 444; TL-0451 Bảng 3), không hình ảnh, không chuyển tuyến, không thuốc ức chế tiền đình.",
+     "Giảm dần bromazepam cùng biện pháp giấc ngủ (ESRS 2023, mục 4.1.1, 4.5); hẹn lại khi đủ 3 tháng từ khởi phát nếu còn triệu chứng (Bárány PPPD 2017, tiêu chuẩn A), sớm hơn nếu có dấu mới."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Bromazepam 3 mg",
+      "ham_luong": "3 mg",
+      "lieu": "1 viên mỗi tối, đang giảm dần; đêm trực không uống",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Giảm dần theo kế hoạch thống nhất, rồi ngừng",
+      "ghi_chu": "ESRS 2023 mục 4.2.1, 4.1.1, 4.5. Lược đồ giảm liều: không có trong tài liệu đã tải. Không ngưng đột ngột: nhận xét thực hành."
+     }
+    ],
+    "dan_do": [
+     "Chị đỡ nhiều, nghe và mắt gần như bình thường; còn một chút giảm chức năng tai trái nên đôi lúc chao. Phần lớn người bệnh tiến triển tốt nhưng tài liệu đã tải không có con số cụ thể, nên cứ theo dõi.",
+     "Tập phục hồi tiền đình mỗi ngày theo tờ hướng dẫn, đều đặn dù khoa bận; còn chao sau vài tuần nữa thì tìm vật lý trị liệu có huấn luyện tiền đình (GRACE-3 2023, tr. 444; TL-0451 Bảng 3).",
+     "Giảm bromazepam theo kế hoạch, ngủ đúng giờ, bớt cà phê chiều tối; vài đêm khó ngủ khi giảm thuốc là thường gặp, không tự bỏ đột ngột (ESRS 2023, mục 4.5). Chưa đi ca đêm cho đến khi hết chao và ngủ ổn (nhận xét thực hành).",
+     "Quay lại ngay nếu nhìn đôi, tê, yếu liệt, nói khó, ù tai, nghe kém mới, chóng mặt quay trở lại (QĐ 5331/2020, Chương 5 mục I; Bárány AUVP 2022, chú thích 13, 16). Hẹn tái khám khi đủ 3 tháng từ khởi phát nếu còn triệu chứng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hà hồi phục gần hoàn toàn sau khoảng hai tháng: hết quay, hết chao khi quay đầu nhanh sau vài tuần tập đều, giảm bromazepam dần rồi ngưng cùng chăm sóc giấc ngủ, trở lại ca đêm sau khoảng mười tuần. Cả ba lượt xử trí đúng hướng. Kết cục tốt không hợp thức hóa những việc ẩu may mắn không hại: 'thiểu năng tuần hoàn não' mà không khám mắt (nếu là đột quỵ hố sau thì đã bỏ sót), cinnarizin và dimenhydrinat chín ngày, tự gấp đôi bromazepam, đi ca đêm và chạy xe máy khi còn chao, hụt chân cầu thang nhưng bám kịp tay vịn.",
+ "nhieu": [
+  "Kể lể lộn xộn: lời kể nhảy giữa giờ khởi phát, người bệnh giường 12, chị Mai khoa mình; nhầm thứ ngày. Dữ kiện then chốt (liên tục, tai, thần kinh, toa phòng khám trước, bromazepam) nằm rải rác, chỉ lộ khi bác sĩ chia nhỏ câu hỏi và tóm tắt lại.",
+  "Chẩn đoán trước 'thiểu năng tuần hoàn não' làm chị không yên tâm; chị là điều dưỡng nên dễ tự chẩn đoán, nhưng nỗi sợ đột quỵ có cơ sở: khi không có CT, MRI chỉ khám vận nhãn mới trả lời được.",
+  "Bromazepam hằng đêm bị bỏ quên nếu chỉ hỏi 'thuốc đang uống'; ở lượt 2 chị gấp đôi và dùng ức chế tiền đình kéo dài, nên 'đỡ một phần' lẫn tác dụng phụ thuốc; dễ nhầm hồi phục từng phần là thất bại điều trị rồi chụp MRI, chuyển tuyến."
+ ],
+ "bai_hoc_bien": [
+  "Hội chứng tiền đình cấp liên tục hơn 24 giờ: phân biệt ngoại biên với đột quỵ bằng HINTS ba thành phần cộng nghe và dáng đi, không CT (GRACE-3 2023, khuyến cáo 2, 3, 5, 6; tr. 444); không có CT, MRI thì khám lâm sàng càng phải kỹ (tr. 459–460).",
+  "Viêm thần kinh tiền đình (Bárány AUVP 2022, mục 3.1): corticoid ngắn ngày là quyết định chung cho người đến trong 3 ngày (GRACE-3 khuyến cáo 14); chống nôn, ức chế tiền đình 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3); mọi người cần phục hồi tiền đình.",
+  "Phân biệt hồi phục chậm bình thường với thất bại điều trị sớm: chỉ xét lại khi có triệu chứng thần kinh hay tai mới (Bárány AUVP 2022, chú thích 13, 16); thuốc ức chế tiền đình kéo dài, benzodiazepin gấp đôi làm kéo dài triệu chứng."
+ ],
+ "diem_nho": [
+  "AUVP (Bárány 2022, mục 3.1): vertigo liên tục từ 24 giờ, rung giật ngoại biên một chiều, giảm VOR bên đối diện, không dấu trung ương, không triệu chứng thính giác.",
+  "HINTS ngoại biên khi đủ: rung giật một chiều, HIT có cú giật bắt kịp, không lệch dọc, không giảm nghe mới (GRACE-3 2023, Bảng 4); không CT sọ (khuyến cáo 5).",
+  "Benzodiazepin cũng là thuốc ức chế tiền đình (GRACE-3 tr. 473–474); ngủ: benzodiazepin tối đa 4 tuần (ESRS 2023, mục 4.2.1)."
+ ],
+ "nguon": [
+  "GRACE-3 2023 – Edlow JA và cs., Acad Emerg Med 2023;30:442-486 – TL-0072 – tr. 444, Box 1 (tr. 447-448), Bảng 3 (tr. 458), Bảng 4 (tr. 460), tr. 459-461, corticoid (tr. 472-473), thuốc ức chế tiền đình (tr. 473-474).",
+  "Bárány Society 2022 – Strupp M và cs., Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res 2022;32:389-406 – TL-0465 – mục 3.1, chú thích 3, 10, 11, 13, 16; mục 4.1, 4.3.1, 4.4, 4.5.2, 4.6, 4.8.",
+  "Bárány Society 2022 – Vascular vertigo and dizziness: diagnostic criteria. J Vestib Res 2022;32:205-222 – TL-0468 – mục 2.1.2, 2.1.3 chú thích 5, tr. 9.",
+  "Bárány Society 2017 – Staab JP và cs., Diagnostic criteria for persistent postural-perceptual dizziness (PPPD). J Vestib Res 2017;27:191-208 – TL-0484 – tiêu chuẩn A–E.",
+  "TL-0451 – Tarnutzer và cs., Diagnosis and treatment of vertigo and dizziness: interdisciplinary guidance paper. HNO 2025;73(Suppl 3):357-369 – tr. S363, Bảng 3 (tr. S366).",
+  "BYT – QĐ 5643/QĐ-BYT 2015 – TL-0130 – bài Chóng mặt, mục 2.2, 2.3a, 3.1e, 4.1a (tr. 72–78).",
+  "BYT – QĐ 5331/QĐ-BYT 2020 – TL-0030 – Chương 2 mục I.4, Chương 5 mục I.",
+  "ESRS 2023 – Riemann D và cs., The European Insomnia Guideline 2023. J Sleep Res 2023;32:e14035 – TL-0464 – mục 4.1.1, 4.2.1, 4.5."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-10-26 (bản 1), Sonnet. Tài liệu đã đọc: TL-0072 GRACE-3 (Box 1, Bảng 3, 4, tr. 444, 459–461, 472–474); TL-0465 Bárány AUVP (mục 3.1, chú thích, 4.1–4.8); TL-0468 Bárány vascular (mục 2.1.2–2.1.3, tr. 9); TL-0484 Bárány PPPD (tiêu chuẩn A); TL-0451 (tr. S363, Bảng 3); TL-0130 QĐ 5643/2015 bài Chóng mặt; TL-0030 QĐ 5331/2020 (Chương 2 mục I.4, Chương 5 mục I); TL-0464 ESRS 2023 (mục 4.1.1, 4.2.1, 4.5).",
+  "Thiếu tài liệu: liều thuốc chống nôn, cinnarizin, dimenhydrinat, corticoid; thời gian theo dõi tại phòng khám; lịch hẹn 1 tuần và 2–3 tuần (chọn của ca, TL-0451 ghi 2–4 tuần); lược đồ giảm bromazepam; tốc độ hồi phục, tỉ lệ khỏi, thời điểm trở lại ca đêm, lái xe; số buổi bài tập phục hồi tiền đình.",
+  "Mâu thuẫn: không có mục mới; áp dụng mục cũ của sổ (thời gian chống nôn/ức chế tiền đình, TK-0267; thuật ngữ 'thiểu năng tuần hoàn ĐM cột sống–thân nền', TK-0271; thuốc ngủ benzodiazepin, TT-0161; Beers 2023 không áp dụng vì 47 tuổi). Xem TK-0297_mau_thuan.md.",
+  "Thiết kế: L1 theo dõi ngắn rồi cho về (ngày 2, trong 3 ngày để thảo luận corticoid); L2 ngày 9 đỡ một phần, phân biệt hồi phục chậm với thất bại điều trị; L3 ngày 30, còn chao, lo chóng mặt chức năng. Tổn thương bên trái. Nhóm khóa 'ct' khóa cả MRI. Không ảnh da."
+ ]
+}
