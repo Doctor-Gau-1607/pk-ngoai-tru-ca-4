@@ -1,0 +1,483 @@
+{
+ "ma_ca": "PK-0070",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "PK_roi_loan_kinh_nguyet",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Rối loạn kinh nguyệt",
+  "chan_doan_phai_loai_tru": [
+   "Có thai",
+   "Bệnh tuyến giáp",
+   "PCOS",
+   "U xơ"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Lập trình viên",
+  "yeu_to_khoi_phat": "Sau dùng NSAID",
+  "thuoc_dang_dung": "Thuốc bắc không rõ",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Ngọc Hân",
+  "tuoi": 26,
+  "gioi": "Nữ",
+  "nghe": "Lập trình viên phần mềm, làm việc tại nhà",
+  "can_nang": 47,
+  "chieu_cao": 160,
+  "xung_ho": "Bác sĩ gọi cô là 'em' hoặc 'Hân'. Hân tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói nhanh, lập luận gọn như người làm kỹ thuật, quen tra cứu và so sánh nguồn. Bên ngoài tự tin, bên trong lo vì sắp cưới. Hay nói 'em đọc trên mạng thì…', 'điểm bài test của em là 9/10'. Dễ nhận lỗi khi được giải thích bằng tiêu chuẩn rõ ràng, nhưng sẽ phòng thủ nếu bị gạt đi.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: vào phòng khám đã nói chắc 'em bị buồng trứng đa nang', đưa ảnh chụp kết quả bài test trên điện thoại và hỏi ngay 'cho em thuốc tránh thai để kinh về đúng không bác sĩ'. Nếu bác sĩ gạt phắt hoặc không nghe hết thì cô trả lời cụt, nói 'trang đó của bác sĩ nước ngoài mà'. Nếu bác sĩ ghi nhận công sức tìm hiểu rồi giải thích cần những tiêu chuẩn nào thì cô nghe và khai đầy đủ. Chuyện cân nặng, tập luyện, thuốc bắc và nỗi lo thật chỉ kể khi được hỏi đúng.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e3b98f",
+   "toc": "#1f1a18",
+   "kieuToc": "dai",
+   "ao": "#5f7f8c",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Tái khám theo hẹn, kinh nguyệt thất thường, đã hơn 8 tuần chưa có kinh",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 26 tuổi, lập trình viên làm việc tại nhà, đến tái khám theo giấy hẹn 3 tuần trước ở phòng khám khác vì kinh nguyệt thất thường; cô nói đã hơn hai tháng chưa có kinh và nghi mình bị buồng trứng đa nang. Cô mang theo điện thoại có ảnh chụp bài test trên mạng, chưa làm xét nghiệm nào theo hẹn. Cân nặng 47 kg, cao 160 cm. Sinh hiệu lúc tiếp đón: HA 98/62 mmHg, mạch 60 l/p, nhiệt 36,4 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Hân bị gửi ngay lên bệnh viện tuyến trên để làm AMH và chụp MRI vùng yên, dù không đau đầu kiểu u tuyến yên, không tiết sữa và prolactin bình thường. QĐ 315/2015 (Vô kinh, mục 2.1 bước 5) chỉ chụp MRI hố yên khi prolactin cao. Cô mất nửa ngày công lúc đang kẹt hạn dự án, tốn kém, còn nhận thêm một lần khám mà vẫn không ai nói với cô chuyện sụt cân, chạy bộ nhiều và ăn thiếu; nhiều khả năng cô tiếp tục lối sống cũ, kinh không về, và tin chắc hơn rằng mình có 'bệnh nặng'. Monash/ESHRE 2023 (khuyến cáo 1.5.5) còn khuyên không làm cả siêu âm lẫn AMH để tránh chẩn đoán thừa.",
+    "nhap_vien": "Hân được giữ lại nhập viện để theo dõi nội tiết trong khi HA 98/62, mạch 60, không ngất, không đau bụng, không ra máu và không có dấu hiệu nặng nào. Tài liệu đã tải không nêu tiêu chuẩn nhập viện cho rối loạn kinh nguyệt không ra máu ở người ổn định. Cô nghỉ việc, trễ hạn dự án, tốn viện phí, thêm sợ hãi vì bị coi là bệnh nặng; trong khi việc cần làm là thử thai, nội tiết, siêu âm tại phòng khám rồi chỉnh ăn uống, tập luyện và hẹn tái khám."
+   },
+   "loi_mo": "Chào bác sĩ. Em đến tái khám theo hẹn ạ. Em làm bài test trên mạng được 9/10 điểm, chắc là em bị buồng trứng đa nang rồi, hơn hai tháng nay em chưa có kinh. Dạo trước em lỡ uống thuốc giảm đau hơi nhiều nên chắc cũng bị lẫn thêm. Bác sĩ cho em thuốc tránh thai để kinh về lại được không ạ?",
+   "sinh_hieu": {
+    "mach": 60,
+    "ha": "98/62",
+    "nhiet": "36,4",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến tái khám theo giấy hẹn 3 tuần trước của một phòng khám tư khác. Lần đó bác sĩ nghe kể kinh thưa, nói 'nghi buồng trứng đa nang', dặn đi thử máu và siêu âm rồi quay lại, chưa kê thuốc. Hân chưa làm gì vì bận hạn dự án. Hôm nay đến vì đã có hẹn, và muốn được 'xác nhận' bị đa nang.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và những gì đã làm"
+    },
+    {
+     "id": "chu_ky",
+     "noi_dung": "Từ năm 13 tuổi có kinh, đều 28–30 ngày, 4 ngày là hết, đều như vậy đến khoảng 6 tháng trước. Từ 5 tháng nay: một chu kỳ 44 ngày, rồi 41 ngày, rồi 52 ngày. Kỳ gần nhất bắt đầu cách đây 8 tuần (56 ngày), đến nay chưa có kỳ mới. Mỗi kỳ vẫn 4 ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mẫu chu kỳ: tần số, độ đều, thời gian (FIGO hệ 1; Monash/ESHRE 1.1.1)"
+    },
+    {
+     "id": "luong",
+     "noi_dung": "Mỗi kỳ ra máu vừa phải, ngày nhiều nhất thay 3 băng, màu đỏ sẫm, không máu cục, không phải thay đêm. Không ra máu giữa hai kỳ, không ra máu sau quan hệ, không đau bụng kinh nhiều, không đau bụng dưới, khí hư bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng máu và dấu hiệu gợi ý tổn thương thực thể"
+    },
+    {
+     "id": "thai",
+     "noi_dung": "Có bạn trai ổn định gần 2 năm. Quan hệ khoảng 1–2 lần mỗi tuần, thường dùng bao cao su; lần quan hệ cuối cách đây 12 ngày. Khoảng 7 tuần trước có một lần bao bị tuột, không uống thuốc tránh thai khẩn cấp. Tự thử que thử thai ở nhà cách đây 2 tuần thấy 1 vạch, chưa thử lại. Không buồn nôn, ngực không căng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng có thai: tiền sử tình dục, tránh thai"
+    },
+    {
+     "id": "can_nang",
+     "noi_dung": "Sáu tháng trước nặng 54 kg, giờ 47 kg, giảm 7 kg do chủ động: nhịn ăn sáng, trưa chỉ ăn salad hoặc ức gà, tối ăn ít, cắt tinh bột và đường, 'tính calo bằng ứng dụng, khoảng 1.100–1.200 mỗi ngày'. Mục đích là gọn dáng để mặc áo cưới (đám cưới sau 8 tháng). Không nôn ói, không dùng thuốc nhuận tràng, không dùng thuốc giảm cân. Tự thấy mình 'bình thường, còn hơi mỡ bụng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sụt cân, chế độ ăn: thiếu năng lượng",
+     "dieu_kien_lo": "Chỉ kể số cân và chuyện nhịn ăn khi bác sĩ hỏi cân nặng thay đổi thế nào, ăn uống ra sao hoặc đo cân; nếu hỏi chung 'có gì khác không' thì nói 'em vẫn ăn bình thường'."
+    },
+    {
+     "id": "tap_luyen",
+     "noi_dung": "Từ 7 tháng trước bắt đầu chạy bộ 6–8 km buổi sáng, 5 buổi mỗi tuần, thêm tập tạ 2 buổi tối. Không nghỉ kể cả khi mệt. Hay thấy lạnh tay chân, tóc rụng hơi nhiều, hơi mệt chiều. Kỳ này sợ bác sĩ bảo 'tập ít lại' nên không kể trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức vận động: gợi ý suy vùng dưới đồi chức năng (Monash/ESHRE Algorithm 1)"
+    },
+    {
+     "id": "stress",
+     "noi_dung": "Công việc đang kẹt hạn bàn giao dự án 3 tháng nay, ngủ 4–5 giờ mỗi đêm, ngồi làm 10–12 giờ, uống 4 ly cà phê mỗi ngày. Cũng căng thẳng chuyện cưới. Không buồn chán kéo dài, không ý nghĩ tự hại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Stress, giấc ngủ (QĐ 315 Vô kinh mục 2.1 bước 2)"
+    },
+    {
+     "id": "androgen",
+     "noi_dung": "Không mụn trứng cá nhiều, không mọc lông ở cằm, ngực, bụng; không rụng tóc vùng đỉnh đầu. Tóc rụng nhiều là rụng đều, mới vài tháng nay. Không sạm da ở cổ, nách.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu cường androgen: tiền sử"
+    },
+    {
+     "id": "giap_yen",
+     "noi_dung": "Không run tay, không hồi hộp, không sợ nóng, không bướu cổ. Không tiết sữa, không đau đầu kiểu nặng một chỗ, không nhìn mờ, không mất thị trường. Không đau đầu dữ dội buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng giáp và u vùng hố yên (QĐ 315 Vô kinh mục 2.1 bước 2)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng mang thai, chưa nạo phá thai. Chưa từng dùng thuốc tránh thai hay thuốc nội tiết. Không có bệnh mạn tính, không phẫu thuật. Mẹ và chị gái kinh đều, không ai bị đa nang hay bệnh giáp. Không hút thuốc, không uống rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử bản thân, gia đình"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Khoảng 4 tuần trước bị đau đầu căng và đau cổ vai gáy do ngồi nhiều, uống ibuprofen 400 mg ngày 2 lần trong khoảng 12 ngày, rồi ngưng. Hân tin chính thuốc này làm 'lệch kinh'. Thực tế kinh đã thưa từ 5 tháng trước khi uống, kỳ 52 ngày đã xảy ra trước đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát bệnh nhân gán cho: dùng NSAID; trình tự thời gian"
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Cách đây 3 tuần, một người bạn giới thiệu tiệm đông y, Hân mua 'thuốc bắc bổ huyết điều kinh' dạng gói thuốc sắc, uống mỗi ngày 1 thang, đã uống 3 tuần, đang uống dở. Không biết thành phần, không có tờ ghi. Chưa thấy kinh về. Ngoài ra không uống thuốc hay thực phẩm chức năng nào khác.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc đang dùng không rõ thành phần",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi có uống thuốc bắc, thuốc nam, đông y, thực phẩm chức năng không, hoặc hỏi 'ngoài thuốc giảm đau còn uống gì khác'. Nếu chỉ hỏi 'đang uống thuốc gì' thì nói 'chỉ có thuốc giảm đau, hết rồi'."
+    },
+    {
+     "id": "tu_tra",
+     "noi_dung": "Đã làm bài test 'nguy cơ PCOS' trên một trang nước ngoài (kinh không đều, hay mệt, tóc rụng, hơi cáu gắt: 9/10 điểm) và đọc diễn đàn: 'cứ kinh thưa là đa nang, phải uống thuốc tránh thai suốt đời mới về đều'. Chưa mua thuốc nào.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chẩn đoán tự tra trên mạng"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Sợ nhất là bị đa nang đồng nghĩa với khó có con, mà cô muốn có con sớm sau cưới. Hơn nữa nếu 'phải uống thuốc tránh thai' thì cô thấy vô lý vì mình sắp cưới để sinh con. Cũng sợ bị bảo phải tăng cân, vì đã khổ sở mới giảm được.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nỗi lo thật: sinh con; sợ bị buộc tăng cân",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cô lo nhất điều gì, hoặc hỏi kế hoạch cưới và có con, hoặc hỏi vì sao cô nghĩ là đa nang. Nếu chỉ hỏi chung chung thì nói 'em muốn kinh về lại thôi'."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói nhanh. Gầy: 47 kg, cao 160 cm, BMI 18,4 (dưới 18,5), vòng eo 66 cm. Da hơi khô, tay chân hơi lạnh, niêm mạc mắt hồng. Không rậm lông (không có lông cứng ở cằm, ngực, bụng), không mụn trứng cá, không sạm da vùng nếp gấp, không rạn da tím, không hói kiểu nam.",
+     "k": 1,
+     "hien": "Tỉnh, gầy, 47 kg, cao 160 cm. Da hơi khô, niêm mạc mắt hồng."
+    },
+    "da": {
+     "a": "Da khô nhẹ ở cẳng chân, không ban, không mụn, không rậm lông, không mảng sạm da.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không đau. Không run tay, không lồi mắt. Không hạch cổ.",
+     "k": 1
+    },
+    "vu": {
+     "a": "Hai vú phát triển bình thường, không khối. Ấn nhẹ hai núm vú không tiết dịch hay sữa. Không hạch nách.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm, không đau, không sờ thấy khối trên xương mu.",
+     "k": 0
+    },
+    "phu_khoa": {
+     "a": "Âm hộ bình thường. Mỏ vịt: niêm mạc âm đạo hồng nhạt, hơi khô, ít dịch nhầy cổ tử cung; cổ tử cung trơn láng, không loét. Hai tay: tử cung ngả trước, kích thước nhỏ bình thường, di động, không đau; hai phần phụ không khối, không đau.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Tỉnh, lo lắng nhẹ, nói nhanh nhưng mạch lạc. Khi hỏi về cơ thể: 'em vẫn thấy mình còn mỡ bụng'. Không buồn chán, không ý tưởng tự hại. Chưa đủ dữ kiện để chẩn đoán rối loạn ăn uống.",
+     "k": 0
+    },
+    "ha_tu_the": {
+     "a": "Nằm 100/60, mạch 62. Đứng 3 phút 96/62, mạch 70. Không tụt huyết áp tư thế, không choáng.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cơ thang hai bên căng, đau nhẹ khi ấn, cử động cổ đủ biên độ. Cổ tay hai bên bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "e",
+     "r": "Âm tính (1 vạch)",
+     "n": "FIGO 2018 mục 6.1 và QĐ 315/2015 Vô kinh mục 2.1 bước 1: luôn loại trừ thai trước tiên bằng hCG nước tiểu hoặc huyết thanh. Que nước tiểu tại giường đủ; không cần β-hCG huyết thanh. Lần thử ở nhà 2 tuần trước không thay được lần này vì lần bao tuột cách đây 7 tuần và chu kỳ chậm."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH và FT4 trong giới hạn bình thường của phòng xét nghiệm",
+     "n": "Monash/ESHRE 2023 Algorithm 1 và QĐ 315/2015 Vô kinh mục 2.1 bước 4: TSH nằm trong nhóm xét nghiệm loại trừ nguyên nhân khác. FIGO 2018 Hình 6A: nghi rối loạn phóng noãn thì tìm nội tiết. Ngưỡng bình thường cụ thể: không có trong tài liệu đã tải, nên chỉ ghi 'trong giới hạn phòng xét nghiệm'."
+    },
+    "prl": {
+     "v": "e",
+     "r": "Prolactin trong giới hạn bình thường của phòng xét nghiệm",
+     "n": "QĐ 315/2015 Vô kinh mục 2.1 bước 4 và Monash/ESHRE 2023 Algorithm 1 (chú thích): prolactin là xét nghiệm loại trừ bắt buộc; bình thường nên không có chỉ định MRI vùng yên (QĐ 315 mục 2.1 bước 5)."
+    },
+    "fsh_lh": {
+     "v": "e",
+     "r": "FSH 3,0 IU/L · LH 1,8 IU/L · Estradiol 22 pg/mL (thấp, dưới mức pha nang sớm thông thường của phòng xét nghiệm)",
+     "n": "QĐ 315/2015 Vô kinh mục 2.1 bước 4–5: FSH thấp kết hợp estrogen thấp chỉ ra suy vùng dưới đồi thứ phát; FSH cao gợi ý suy buồng trứng sớm. Monash/ESHRE 2023 Algorithm 1 (chú thích): thiểu năng sinh dục do thiếu mỡ cơ thể hoặc tập luyện cường độ cao loại trừ bằng lâm sàng và LH/FSH. Giá trị tham chiếu cụ thể và ngày chu kỳ lấy máu: không có trong tài liệu đã tải; ở người kinh thưa lấy máu bất kỳ khi không có ra máu là chấp nhận được."
+    },
+    "androgen": {
+     "v": "u",
+     "r": "Testosterone toàn phần và DHEA-S trong giới hạn bình thường",
+     "n": "Monash/ESHRE 2023 Algorithm 1 (bước 2) và khuyến cáo 1.2.1: khi không có cường androgen lâm sàng thì đo androgen sinh hóa để hoàn tất đánh giá PCOS. Bình thường cùng với không rậm lông, không mụn: không đủ yếu tố thứ hai của PCOS. Hữu ích chứ không bắt buộc ở ca này; chấm hữu ích vì chẩn đoán đa nang là nỗi lo chính của cô."
+    },
+    "sa_chau": {
+     "v": "u",
+     "r": "Đầu dò âm đạo: tử cung 41 × 28 × 23 mm, nội mạc mỏng 4 mm, không u xơ, không polyp. Buồng trứng phải 6,1 mL, trái 5,8 mL; số nang 2–9 mm: phải 9, trái 11. Không có nang trội. Không dịch tự do.",
+     "n": "Monash/ESHRE 2023 Algorithm 1 (bước 3) và khuyến cáo 1.4.4: ở người lớn chỉ có kinh không đều mà không cường androgen, siêu âm tìm hình thái buồng trứng đa nang (PCOM); ngưỡng FNPO ≥ 20 ở ít nhất một bên; ngưỡng thể tích 10 mL hoặc FNPS ≥ 10 dùng khi máy cũ (1.4.5). Đầu dò âm đạo chính xác nhất nếu bệnh nhân đồng ý (1.4.7). Kết quả này không có PCOM nên không đủ tiêu chuẩn PCOS. FIGO 2018 mục 6.5: siêu âm cũng loại trừ polyp, u xơ (nhóm PALM)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "Hb 126 g/L · BC 5,8 G/L · TC 262 G/L",
+     "bang": {
+      "wbc": 5.8,
+      "neu_pct": 55.0,
+      "neu": 3.19,
+      "lym_pct": 36.0,
+      "lym": 2.09,
+      "mono_pct": 6.0,
+      "mono": 0.35,
+      "eos_pct": 2.5,
+      "eos": 0.15,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.3,
+      "hgb": 126,
+      "hct": 0.38,
+      "mcv": 88.4,
+      "mch": 29.3,
+      "mchc": 331,
+      "rdw": 12.8,
+      "plt": 262
+     },
+     "n": "Chấp nhận được nhưng không bắt buộc: không có ra máu nhiều hay dai dẳng. FIGO 2018 mục 6.1 và Hình 6A nêu công thức máu cho phụ nữ có triệu chứng kinh nhiều (HMB) hoặc AUB đang chảy máu; ca này là kinh thưa, không HMB. Người ăn kiêng kéo dài có thể thiếu sắt, nhưng ngưỡng và chỉ định xét nghiệm sắt ở người không ra máu: không có trong tài liệu đã tải."
+    },
+    "bhcg": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "Không cần: que thử thai nước tiểu đã đủ để loại trừ thai (FIGO 2018 mục 6.1 chấp nhận hCG nước tiểu hoặc huyết thanh), không có đau bụng hay ra máu để nghi thai ngoài tử cung."
+    },
+    "mri_yen": {
+     "v": "n",
+     "r": "Không thấy u tuyến yên",
+     "n": "Không cần: prolactin bình thường, không đau đầu kiểu u hố yên, không tiết sữa, không mất thị trường. QĐ 315/2015 Vô kinh mục 2.1 bước 5 chỉ chụp MRI hố yên khi prolactin cao."
+    },
+    "glu": {
+     "v": "n",
+     "r": "Glucose máu đói bình thường",
+     "n": "Không cần: BMI 18,4, không dấu kháng insulin (không sạm da nếp gấp). Sàng lọc rối loạn chuyển hóa nằm trong quản lý PCOS (Monash/ESHRE 2023), mà ca này không phải PCOS."
+    },
+    "cortisol_sang": {
+     "v": "n",
+     "r": "Cortisol sáng trong giới hạn bình thường",
+     "n": "Không cần: không có dấu hiệu Cushing (không rạn da tím, không mặt tròn, không tăng huyết áp). Monash/ESHRE 2023 Algorithm 1 chỉ nêu loại trừ Cushing 'khi có chỉ định lâm sàng'."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn kinh nguyệt kiểu rối loạn phóng noãn (AUB-O), nghi do suy vùng dưới đồi chức năng: chu kỳ 41–52 ngày rồi chưa có kinh 8 tuần, kèm sụt cân, ăn thiếu năng lượng và tập luyện nhiều",
+     "ok": 1,
+     "n": "Chu kỳ thưa (> 38 ngày) và lệch nhau 11 ngày (> 7 ngày ở tuổi 26–41) là bất thường theo FIGO 2018 Hình 1; cũng là kinh không đều theo Monash/ESHRE 2023 khuyến cáo 1.1.1 (> 35 ngày), kéo dài đa số trong 6 tháng qua nên là mạn tính (FIGO 2018 mục 2). Kinh thưa xen vô kinh là kiểu của rối loạn phóng noãn, xếp AUB-O (FIGO 2018 mục 6.2). BMI 18,4 (dưới 18,5 thì nghi vô kinh do vùng dưới đồi, QĐ 315/2015 Vô kinh mục 2.1 bước 3), sụt cân, tập nặng, stress (bước 2), FSH và LH thấp kèm estradiol thấp (bước 5). QĐ 315 không có bài riêng cho kinh thưa; dùng quy trình vô kinh thứ phát vì cùng cơ chế."
+    },
+    {
+     "t": "Thiếu năng lượng tương đối: BMI 18,4, sụt 7 kg trong 6 tháng do ăn kiêng và tập luyện, chưa đủ tiêu chuẩn rối loạn ăn uống",
+     "ok": 1,
+     "n": "BMI < 18,5 và thay đổi cân nặng, chế độ ăn, tập luyện thể thao là yếu tố cần hỏi và xử trí (QĐ 315/2015 Vô kinh mục 2.1 bước 2–3, mục 2.2 'đảm bảo đủ calo… tư vấn dinh dưỡng'). Tiêu chuẩn chẩn đoán rối loạn ăn uống và ngưỡng sụt cân nguy hiểm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Có thai",
+     "n": "Loại trừ bằng que thử thai nước tiểu âm tính (FIGO 2018 mục 6.1; QĐ 315 Vô kinh mục 2.1 bước 1). Cần làm vì có quan hệ, từng có lần bao cao su tuột, chậm kinh 8 tuần. Ngực không căng, không buồn nôn, tử cung nhỏ bình thường khi khám hai tay."
+    },
+    {
+     "t": "Bệnh tuyến giáp",
+     "n": "Không có triệu chứng cường hay suy giáp, tuyến giáp không to, TSH và FT4 bình thường (QĐ 315 Vô kinh mục 2.1 bước 4; Monash/ESHRE 2023 Algorithm 1). FIGO 2018 Hình 6A: rối loạn phóng noãn cần tìm nội tiết; FIGO 2018 Hình 7B có ví dụ AUB-O thứ phát sau nhược giáp."
+    },
+    {
+     "t": "Hội chứng buồng trứng đa nang (PCOS)",
+     "n": "Monash/ESHRE 2023 Algorithm 1: cần kinh không đều cộng cường androgen (lâm sàng hoặc sinh hóa) hoặc hình thái buồng trứng đa nang trên siêu âm hay AMH, sau khi loại trừ TSH, prolactin, 17-OH progesterone, FSH và thiểu năng sinh dục do thiếu mỡ hoặc tập nặng. Ca này: không rậm lông, không mụn, testosterone bình thường, số nang 9 và 11 (< 20, khuyến cáo 1.4.4), FSH và LH thấp. Chỉ có một trong hai tiêu chuẩn (kinh không đều) nên không đủ; không mang chẩn đoán PCOS. Bài test trên mạng không phải công cụ chẩn đoán. 17-OH progesterone không có trong danh mục xét nghiệm của phòng khám và không có chỉ định khi không cường androgen."
+    },
+    {
+     "t": "U xơ tử cung và polyp (PALM-L, PALM-P)",
+     "n": "Không ra máu bất thường, không đau, tử cung nhỏ bình thường khi khám và trên siêu âm đầu dò âm đạo, không u xơ hay polyp (FIGO 2018 mục 6.5: siêu âm đầu dò âm đạo là công cụ sàng lọc cấu trúc, không nhạy 100% nhưng đủ cho ca này)."
+    },
+    {
+     "t": "Tăng prolactin / u tuyến yên",
+     "n": "Không tiết sữa, không đau đầu, không mất thị trường, prolactin bình thường (QĐ 315/2015 Vô kinh mục 2.1 bước 2, 4, 5)."
+    },
+    {
+     "t": "Suy buồng trứng sớm",
+     "n": "Tuổi 26, không có triệu chứng thiếu estrogen do suy buồng trứng (bốc hỏa); FSH thấp chứ không cao (QĐ 315/2015 Vô kinh mục 2.1 bước 5: FSH cao gợi ý suy buồng trứng sớm)."
+    },
+    {
+     "t": "Cường androgen khác (tăng sản thượng thận bẩm sinh, Cushing, u tiết androgen)",
+     "n": "Không có dấu hiệu lâm sàng, androgen không tăng cao (Monash/ESHRE 2023 khuyến cáo 1.2.9: androgen tăng rõ rệt mới nghĩ tới nguyên nhân khác)."
+    },
+    {
+     "t": "Rối loạn kinh do thuốc (NSAID, thuốc bắc không rõ)",
+     "n": "Kinh thưa đã bắt đầu 5 tháng trước khi uống ibuprofen 12 ngày nên NSAID không giải thích được toàn bộ; ảnh hưởng của NSAID lên phóng noãn: không có trong tài liệu đã tải. FIGO 2018 Bảng 2 xếp thuốc ảnh hưởng phóng noãn vào AUB-I (mục 4 nêu thuốc ảnh hưởng dopamine như phenothiazine, tricyclic) nhưng không nêu NSAID hay thuốc đông y. Thuốc bắc: thành phần không rõ nên không loại trừ được; ngưng là thận trọng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán rối loạn kinh nguyệt do rối loạn phóng noãn kiểu vùng dưới đồi chức năng; giải thích rõ chưa đủ tiêu chuẩn PCOS",
+     "v": "c",
+     "n": "Monash/ESHRE 2023 Algorithm 1 (PCOS cần 2 trong 3 sau khi loại trừ nguyên nhân khác, gồm thiểu năng sinh dục do thiếu mỡ hoặc tập nặng); QĐ 315/2015 Vô kinh mục 2.1 bước 3–5; FIGO 2018 mục 6.2."
+    },
+    {
+     "t": "Loại trừ thai bằng que thử thai nước tiểu trước khi bàn thuốc hay xét nghiệm tiếp",
+     "v": "c",
+     "n": "FIGO 2018 mục 6.1; QĐ 315/2015 Vô kinh mục 2.1 bước 1."
+    },
+    {
+     "t": "Làm bộ xét nghiệm có chọn lọc: TSH, prolactin, FSH/LH/estradiol; testosterone và siêu âm đầu dò âm đạo để hoàn tất loại trừ PCOS; không làm AMH khi đã siêu âm; không chụp MRI yên",
+     "v": "c",
+     "n": "QĐ 315/2015 Vô kinh mục 2.1 bước 4–5; Monash/ESHRE 2023 Algorithm 1, khuyến cáo 1.4.4, 1.4.7, 1.5.5 (không làm cả siêu âm và AMH để tránh chẩn đoán thừa)."
+    },
+    {
+     "t": "Chỉnh nguyên nhân: ăn đủ năng lượng 3 bữa chính, giảm cường độ chạy, ngủ đủ, giảm cà phê và căng thẳng; hẹn gặp chuyên gia dinh dưỡng",
+     "v": "c",
+     "n": "QĐ 315/2015 Vô kinh mục 2.2 (vô kinh do vùng dưới đồi: thay đổi cách sống và sinh hoạt, chế độ ăn, đảm bảo đủ calo, tư vấn dinh dưỡng). Mức năng lượng, số bữa, số buổi chạy cụ thể và cân nặng mục tiêu: không có trong tài liệu đã tải; ngưỡng BMI 18,5 là ngưỡng QĐ 315 dùng để nghi ngờ."
+    },
+    {
+     "t": "Hỏi đầy đủ mọi thuốc đã dùng, kể cả thuốc bắc, thuốc nam; dặn ngưng thuốc bắc không rõ thành phần và mang gói thuốc đến lần sau; không dùng thuốc giảm đau NSAID kéo dài khi không cần",
+     "v": "c",
+     "n": "QĐ 315/2015 Vô kinh mục 2.1 bước 2 (hỏi thuốc gây vô kinh); FIGO 2018 Bảng 2 (AUB-I: thuốc ảnh hưởng phóng noãn). Tác động của thuốc bắc hay NSAID lên chu kỳ: không có trong tài liệu đã tải; lời dặn ngưng mang tính thận trọng."
+    },
+    {
+     "t": "Giải thích kết quả theo ngôn ngữ người làm công nghệ: bài test trên mạng chỉ là sàng lọc; PCOS cần tiêu chuẩn; cô thiếu tiêu chuẩn thứ hai; trấn an và nói rõ rằng chưa thể hứa thời điểm kinh trở lại hay khả năng sinh sản",
+     "v": "c",
+     "n": "Monash/ESHRE 2023 Algorithm 1. Tiên lượng phục hồi phóng noãn, thời gian kinh trở lại và khả năng có con ở suy vùng dưới đồi chức năng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn tiếp tục dùng bao cao su vì chu kỳ thưa không có nghĩa là không rụng trứng; thử thai lại nếu có dấu hiệu nghi thai",
+     "v": "c",
+     "n": "Lời dặn an toàn. Nguy cơ có thai khi kinh thưa và thời gian cần tránh thai: không có trong tài liệu đã tải; FIGO 2018 mục 6.2 chỉ nêu chu kỳ 24–38 ngày thường đi kèm phóng noãn."
+    },
+    {
+     "t": "Hẹn tái khám sau khoảng 3 tháng (nếu kinh chưa về sớm hơn: khi tròn 6 tháng không kinh), ghi nhật ký kinh và cân nặng; chuyển nội tiết nếu vô kinh kéo dài hoặc cân vẫn dưới ngưỡng",
+     "v": "c",
+     "n": "Vô kinh thứ phát được định nghĩa là không kinh từ 3 chu kỳ hoặc 6 tháng trở lên (QĐ 315/2015 Vô kinh mục 1). Khi kéo dài, QĐ 315 mục 2.2 nêu bổ sung estrogen chống loãng xương (liều và thời điểm: không có trong tài liệu đã tải). Mốc 3 tháng là lựa chọn của người soạn, không có con số riêng trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê thuốc tránh thai kết hợp hoặc progestin để 'ra kinh' ngay hôm nay",
+     "v": "a",
+     "n": "Chấp nhận được sau khi đã loại trừ thai, nhưng chỉ gây ra máu do thuốc, không xử lý nguyên nhân thiếu năng lượng và có thể che dấu hiệu. QĐ 315/2015 Vô kinh mục 2.2 điều trị theo nguyên nhân. Tài liệu đã tải không nêu chống chỉ định thuốc tránh thai ở suy vùng dưới đồi; Monash/ESHRE 2023 nêu thuốc tránh thai cho điều hòa chu kỳ ở PCOS, mà cô không phải PCOS."
+    },
+    {
+     "t": "Bàn ngay việc bổ sung estrogen thay thế để chống loãng xương vì estradiol thấp kèm FSH thấp",
+     "v": "a",
+     "n": "QĐ 315/2015 Vô kinh mục 2.1 bước 5: estrogen thấp thì nên dùng estrogen thay thế để tránh loãng xương; mục 2.2: vô kinh do vùng dưới đồi – thay đổi lối sống, chế độ ăn và bổ sung estrogen chống loãng xương. Cô mới 56 ngày chưa có kinh, chưa đủ định nghĩa vô kinh thứ phát (3 chu kỳ hoặc 6 tháng, QĐ 315 mục 1), nên chỉnh năng lượng trước và hẹn đánh giá lại là cách chính; bắt đầu estrogen hôm nay cũng chấp nhận được. Loại thuốc, liều, thời gian và mốc bắt đầu cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển bác sĩ nội tiết hoặc tư vấn tâm lý, dinh dưỡng ngay hôm nay",
+     "v": "a",
+     "n": "Chấp nhận được nhưng chưa bắt buộc ở lượt đầu khi chưa có dấu hiệu nặng; QĐ 315/2015 Vô kinh mục 2.2 nêu tư vấn dinh dưỡng với người rối loạn ăn uống. Tiêu chuẩn chuyển tuyến: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê thuốc kích thích phóng noãn hoặc metformin để điều trị đa nang",
+     "v": "w",
+     "n": "Chẩn đoán PCOS không đủ tiêu chuẩn (Monash/ESHRE 2023 Algorithm 1; số nang < 20, khuyến cáo 1.4.4). Cô chưa có kế hoạch có thai ngay và chưa chẩn đoán nguyên nhân đúng; Monash/ESHRE 2023 (phần điều trị vô sinh, khuyến cáo thực hành): cần loại trừ thai trước kích thích phóng noãn. Điều trị theo chẩn đoán sai."
+    },
+    {
+     "t": "Cho nhập viện hoặc làm thêm MRI yên, CT bụng khi chưa có chỉ định",
+     "v": "w",
+     "n": "QĐ 315/2015 Vô kinh mục 2.1 bước 5: MRI hố yên chỉ khi prolactin cao. Prolactin bình thường ở ca này."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn kinh nguyệt chu kỳ mạn tính kiểu rối loạn phóng noãn (AUB-O): chu kỳ 44, 41, 52 ngày rồi chưa có kinh 56 ngày, mỗi kỳ 4 ngày, lượng vừa",
+     "Nguyên nhân nghi nhất: suy vùng dưới đồi chức năng do thiếu năng lượng (BMI 18,4, sụt 7 kg/6 tháng do ăn kiêng, chạy 6–8 km × 5 buổi/tuần), thức khuya, căng thẳng; FSH 3,0, LH 1,8 IU/L, estradiol thấp",
+     "Đã loại trừ: có thai (que âm tính), bệnh giáp (TSH, FT4 bình thường), tăng prolactin, suy buồng trứng sớm (FSH không cao), PCOS (chỉ 1/3 tiêu chuẩn: không cường androgen, số nang 9 và 11), u xơ, polyp",
+     "Yếu tố góp: thuốc bắc không rõ thành phần 3 tuần; ibuprofen 400 mg × 2 lần/ngày × 12 ngày đã ngưng (đều xảy ra sau khi kinh đã thưa)",
+     "Chưa đủ tiêu chuẩn vô kinh thứ phát (cần 3 chu kỳ hoặc 6 tháng); chưa đủ dữ kiện chẩn đoán rối loạn ăn uống"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do khám và việc đã làm → mẫu chu kỳ (trước đây, 5-6 tháng nay: tần số, độ đều, thời gian, lượng; FIGO 2018 Hình 1) → loại trừ thai (quan hệ, bao cao su tuột 7 tuần trước, que thử cũ) → cân nặng thay đổi, ăn uống, vận động, stress, ngủ (QĐ 315/2015 Vô kinh mục 2.1 bước 2) → cường androgen, giáp, hố yên → tiền sử, gia đình → toàn bộ thuốc kể cả thuốc bắc, NSAID → bài test tự tra → nỗi lo thật.",
+     "Vì sao là rối loạn phóng noãn: chu kỳ thưa > 38 ngày và dao động 11 ngày (ngưỡng ≤ 7 ngày ở tuổi 26–41), FIGO 2018 Hình 1; theo Monash/ESHRE 2023 khuyến cáo 1.1.1 (> 35 ngày hoặc < 8 chu kỳ/năm) cũng là kinh không đều. Hai nguồn dùng ngưỡng khác nhau (24–38 ngày so với 21–35 ngày) nhưng chu kỳ 41–52 ngày vượt cả hai nên kết luận giống nhau. Chu kỳ thưa xen vô kinh là kiểu của rối loạn phóng noãn (FIGO 2018 mục 6.2). Kéo dài đa số trong 6 tháng nên là mạn tính (FIGO 2018 mục 2).",
+     "Vì sao nghĩ tới vùng dưới đồi chứ không phải đa nang: BMI 18,4 (dưới 18,5), sụt cân, ăn kiêng, tập nặng, stress (QĐ 315 Vô kinh mục 2.1 bước 2–3); tay chân lạnh, âm đạo khô, ít dịch nhầy (bước 3: khám âm đạo xem giảm estrogen); FSH và LH thấp cùng estradiol thấp (bước 5: FSH thấp kèm estrogen thấp chỉ ra suy vùng dưới đồi thứ phát). PCOS cần kinh không đều cộng cường androgen hoặc hình thái buồng trứng đa nang, và phải loại trừ thiểu năng sinh dục do thiếu mỡ hoặc tập nặng bằng lâm sàng và LH/FSH (Monash/ESHRE 2023 Algorithm 1, chú thích).",
+     "Điều làm ca không điển hình và suýt bị bỏ qua: bệnh nhân trẻ, tự nói 'đa nang', có bài test, bác sĩ trước đã ghi 'nghi đa nang'; không có triệu chứng chảy máu; cân nặng không thừa mà thiếu. Nếu chỉ nghe lời kể và kê thuốc tránh thai thì bỏ qua nguyên nhân thật. Cần nhìn BMI và hỏi cân nặng, tập luyện.",
+     "Vì sao không coi NSAID là nguyên nhân: kinh đã thưa từ 5 tháng trước khi uống ibuprofen 12 ngày, và kỳ dài 52 ngày xảy ra trước đó. Ảnh hưởng của NSAID lên phóng noãn: không có trong tài liệu đã tải. FIGO 2018 Bảng 2 và mục 4 xếp thuốc ảnh hưởng phóng noãn vào AUB-I nhưng chỉ nêu ví dụ thuốc ảnh hưởng dopamine (phenothiazine, tricyclic), không nêu NSAID, và không nêu thuốc đông y. Thuốc bắc không rõ thành phần nên không khẳng định hay loại trừ được; ngưng là thận trọng.",
+     "Vì sao không loại bỏ PCOS bằng cảm tính: PCOS cần chứng minh bằng tiêu chuẩn. Kinh không đều có (tiêu chuẩn 1). Cường androgen: lâm sàng không, testosterone toàn phần bình thường (Monash/ESHRE 2023 khuyến cáo 1.2.1; Algorithm 1 bước 2). Như vậy chỉ còn tiêu chuẩn siêu âm hoặc AMH (bước 3): số nang 9 và 11, thể tích buồng trứng 6,1 và 5,8 mL, đều dưới ngưỡng PCOM (FNPO ≥ 20, khuyến cáo 1.4.4; thể tích ≥ 10 mL, 1.4.5). Chỉ làm siêu âm hoặc AMH, không làm cả hai (1.5.5).",
+     "Vì sao không làm các xét nghiệm khác (nguồn lực đầy đủ không có nghĩa là làm hết): MRI yên khi prolactin bình thường là không cần (QĐ 315 mục 2.1 bước 5); β-hCG huyết thanh khi que nước tiểu đủ (FIGO 2018 mục 6.1); cortisol, glucose không có dấu hiệu cường vỏ thượng thận hay kháng insulin (Monash/ESHRE 2023 Algorithm 1 'khi có chỉ định lâm sàng'); công thức máu chỉ cần khi kinh nhiều (FIGO 2018 mục 6.1, Hình 6A).",
+     "Hạn chế của tài liệu đã tải: QĐ 315/2015 không có bài riêng cho kinh thưa/thiểu kinh nên áp dụng quy trình vô kinh thứ phát; không có ngưỡng giá trị FSH, LH, estradiol, prolactin; không có tiêu chuẩn rối loạn ăn uống; không có thông tin về thời gian phục hồi phóng noãn và khả năng sinh sản."
+    ],
+    "phan_tich_xu_tri": [
+     "Việc xử trí chính ở lượt này là cho về với kế hoạch điều trị nguyên nhân và hẹn tái khám: không cần nhập viện, không cần chuyển tuyến ngay. Tài liệu đã tải không nêu tiêu chuẩn nhập viện hoặc chuyển tuyến cho tình huống này; lý do không chuyển là xét nghiệm tại chỗ đã đủ, nguyên nhân đã rõ và đối chiếu QĐ 315/2015 Vô kinh mục 2.2 điều trị tại chỗ bằng thay đổi lối sống và chế độ ăn.",
+     "Điều trị chính là xử trí nguyên nhân: thay đổi lối sống, chế độ ăn, đảm bảo đủ calo, tư vấn dinh dưỡng (QĐ 315/2015 Vô kinh mục 2.2, vô kinh do vùng dưới đồi). Nói cụ thể với người làm công nghệ: ăn đủ 3 bữa kể cả bữa sáng, không ăn dưới nhu cầu, giảm số buổi chạy xuống và chuyển bớt sang đi bộ hoặc tập nhẹ, ngủ ít nhất 7 giờ, giới hạn cà phê. Các con số về calo, cân mục tiêu, số buổi chạy: không có trong tài liệu đã tải; bác sĩ nói là 'hướng dẫn thực hành' chứ không dẫn nguồn. Mốc BMI 18,5 là ngưỡng QĐ 315 dùng để nghi vô kinh vùng dưới đồi nên có thể dùng làm mốc tham chiếu.",
+     "Vì sao không cho thuốc tránh thai hoặc progestin ngay: thuốc làm ra máu do thuốc (ra máu giả kinh) nhưng không giải quyết nguyên nhân; Monash/ESHRE 2023 nêu thuốc tránh thai cho điều hòa chu kỳ trong PCOS, mà cô không phải PCOS. Nếu bác sĩ vẫn kê sau khi đã loại trừ thai, chấp nhận được (tài liệu đã tải không nêu chống chỉ định riêng). Điểm cốt lõi là nói với cô 'ra máu do thuốc không phải kinh thật'.",
+     "Vì sao cần giải quyết nỗi lo sinh con: mối lo thật của cô là 'đa nang thì khó có con'. Giải thích rằng cô không đủ tiêu chuẩn đa nang (Monash/ESHRE 2023 Algorithm 1) và nguyên nhân hiện tại gắn với cân nặng và lối sống; không hứa khả năng mang thai hay thời gian kinh trở lại vì tài liệu đã tải không có số liệu. Không dùng câu 'không sao đâu'.",
+     "Với thuốc bắc không rõ: ngưng, mang gói thuốc hoặc ảnh toa; tài liệu đã tải không nêu thuốc đông y ảnh hưởng chu kỳ. Với NSAID: đã ngưng, không cần xử trí thêm; đau đầu căng và đau cổ vai gáy do tư thế ngồi: hướng dẫn nghỉ giải lao, chỉnh bàn làm việc (tài liệu đã tải không có nội dung này, là lời dặn thực hành).",
+     "Biện luận mốc tái khám: sau khoảng 3 tháng, hoặc khi không kinh tròn 6 tháng (vô kinh thứ phát: không kinh 3 chu kỳ hoặc 6 tháng, QĐ 315 Vô kinh mục 1); khi kéo dài hoặc có estrogen thấp rõ thì cân nhắc bổ sung estrogen chống loãng xương (QĐ 315 mục 2.2; liều không có trong tài liệu đã tải) và chuyển nội tiết. Mốc 3 tháng do người soạn chọn.",
+     "Bài học 'nguồn lực đầy đủ': có đủ máy móc nhưng chỉ chọn xét nghiệm đủ trả lời câu hỏi (thai, giáp, prolactin, FSH/LH, androgen, siêu âm); không làm AMH thêm khi đã siêu âm, không MRI khi prolactin bình thường."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc nội tiết, thuốc tránh thai, thuốc kích thích phóng noãn hay thuốc điều kinh",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Điều trị chính là xử trí nguyên nhân (QĐ 315/2015 Vô kinh mục 2.2: thay đổi cách sống và sinh hoạt, chế độ ăn, đảm bảo đủ calo). Ngưng thuốc bắc không rõ thành phần (không có trong tài liệu đã tải: ảnh hưởng chu kỳ). QĐ 315 mục 2.1 bước 5 và 2.2 nêu bổ sung estrogen chống loãng xương khi estrogen thấp ở vô kinh do vùng dưới đồi; cô chưa đủ định nghĩa vô kinh thứ phát nên hôm nay ưu tiên chỉnh năng lượng, có thể bàn estrogen (loại, liều: không có trong tài liệu đã tải)."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: kinh thưa của em hiện nghĩ nhiều do cơ thể đang thiếu năng lượng (sụt 7 kg, ăn ít, chạy nhiều, ngủ ít, căng thẳng) nên buồng trứng 'tạm nghỉ'. Em chưa đủ tiêu chuẩn đa nang: không rậm lông, mụn, testosterone bình thường, buồng trứng không có nhiều nang (Monash/ESHRE 2023 Algorithm 1; QĐ 315/2015 Vô kinh mục 2.1).",
+     "Ăn đủ 3 bữa mỗi ngày kể cả bữa sáng, không cắt hoàn toàn tinh bột; hẹn gặp chuyên gia dinh dưỡng để tính khẩu phần; mục tiêu bước đầu là tăng dần cân nặng, BMI trên 18,5 (QĐ 315/2015 Vô kinh mục 2.1 bước 3 và 2.2). Cân nặng mục tiêu cụ thể: không có trong tài liệu đã tải; bác sĩ nói theo thực hành.",
+     "Giảm chạy còn 2–3 buổi mỗi tuần, nhẹ hơn; tập tạ vừa phải; nghỉ ít nhất 1–2 ngày liền mỗi tuần. Ngủ đủ 7 giờ; hạn chế cà phê còn 1–2 ly; nghỉ giải lao mỗi giờ khi ngồi làm, chỉnh bàn ghế cho đỡ đau cổ vai gáy (lời dặn thực hành, không có trong tài liệu đã tải).",
+     "Ngưng thuốc bắc không rõ thành phần; mang gói thuốc hoặc ảnh chụp lần sau. Không tự mua thuốc điều kinh hay thuốc 'trị đa nang' trên mạng.",
+     "Vẫn dùng bao cao su khi quan hệ; thử thai lại nếu có dấu hiệu nghi thai (buồn nôn, căng ngực) hoặc nếu có thêm lần bao cao su tuột.",
+     "Ghi nhật ký: cân nặng mỗi tuần, ngày bắt đầu và hết kinh, số băng mỗi ngày; mang theo khi tái khám.",
+     "Quay lại sớm khi ra máu nhiều hoặc ra máu kéo dài, đau bụng dưới dữ dội, ngất, đau đầu dữ dội kèm nhìn mờ, tiết sữa, hoặc khi thấy sụt cân tiếp, mệt nhiều, tim đập chậm, chóng mặt.",
+     "Tái khám sau khoảng 3 tháng, hoặc khi không có kinh tròn 6 tháng (QĐ 315/2015 Vô kinh mục 1: vô kinh thứ phát là không kinh từ 3 chu kỳ hoặc 6 tháng). Khi đó xem lại cân, cân nhắc chuyển nội tiết và khảo sát loãng xương, bổ sung estrogen nếu cần (QĐ 315 mục 2.2).",
+     "Trả lời nỗi lo sinh con: hiện chưa đủ dữ kiện để hứa thời điểm kinh trở lại hay khả năng có con; điều chắc chắn là chỉnh cân nặng và lối sống chính là điều trị nguyên nhân (QĐ 315/2015 Vô kinh mục 2.2). Dù vậy cô vẫn nên thông báo cho bác sĩ trước khi chuẩn bị có thai."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Hân làm theo kế hoạch: ngưng thuốc bắc, ăn đủ ba bữa với sự hướng dẫn của chuyên gia dinh dưỡng, giảm chạy còn ba buổi mỗi tuần, ngủ sớm hơn. Sau ba tháng cân nặng tăng 3 kg, kinh về một lần sau 70 ngày rồi chu kỳ dần 35–40 ngày, không còn thấy lạnh tay chân. Cô bớt lo chuyện 'đa nang' vì đã hiểu mình không đủ tiêu chuẩn, và hiểu rằng ba bước thử thai, xét nghiệm có chọn lọc và siêu âm là để trả lời câu hỏi chứ không phải làm cho đủ bộ. Thời gian hồi phục phóng noãn của từng người khác nhau; con số trên là diễn biến của ca này, không phải số liệu từ tài liệu đã tải.",
+ "nhieu": [
+  "Chẩn đoán tự tra 'đa nang' (bài test 9/10): cô mang kết luận có sẵn và muốn thuốc tránh thai. Cách xử lý: ghi nhận công tìm hiểu, nói rõ PCOS cần tiêu chuẩn (Monash/ESHRE 2023 Algorithm 1), rồi chứng minh bằng xét nghiệm và siêu âm của chính cô. Cô đúng một phần: kinh không đều là có thật, nhưng không đủ tiêu chuẩn thứ hai.",
+  "Ibuprofen 12 ngày: cô tin chính thuốc này làm lệch kinh. Thực tế kinh đã thưa từ 5 tháng trước; ảnh hưởng của NSAID lên phóng noãn không có trong tài liệu đã tải.",
+  "Thuốc bắc không rõ thành phần: cô không kể nếu bác sĩ chỉ hỏi 'đang uống thuốc gì'. Thành phần và ảnh hưởng lên chu kỳ: không có trong tài liệu đã tải; nên ngưng và mang gói thuốc đến lần sau."
+ ],
+ "bai_hoc_bien": [
+  "Mang chẩn đoán tự tra trên mạng: gỡ neo bằng cách đi theo tiêu chuẩn chẩn đoán, không phủ nhận cũng không chiều theo; để chính kết quả làm bằng chứng.",
+  "Không điển hình: kinh không đều ở người trẻ dễ bị gọi gọn là 'đa nang' rồi kê thuốc tránh thai; điều bị bỏ qua là BMI thấp, sụt cân, tập nặng (suy vùng dưới đồi). Đo cân và hỏi ăn uống, tập luyện trước khi gắn nhãn.",
+  "Nguồn lực đầy đủ: biện luận từng xét nghiệm nên làm và không nên làm; không MRI khi prolactin bình thường, không làm cả AMH và siêu âm.",
+  "Lý do thật là 'tái khám theo hẹn' còn nỗi lo thật là khả năng sinh con và sợ bị bắt tăng cân; hỏi 'em lo nhất điều gì' và 'vì sao nghĩ là đa nang' mới ra.",
+  "Thuốc không rõ thành phần: hỏi thẳng về thuốc bắc, thuốc nam; ghi nhận nhưng đừng khẳng định hay phủ nhận tác dụng khi tài liệu không nói."
+ ],
+ "diem_nho": [
+  "Chu kỳ bình thường 24–38 ngày, dao động ≤ 7 ngày ở tuổi 26–41, hành kinh ≤ 8 ngày (FIGO 2018 Hình 1); kinh không đều theo Monash/ESHRE 2023 khi chu kỳ < 21 hoặc > 35 ngày hoặc < 8 chu kỳ/năm (khuyến cáo 1.1.1).",
+  "Quy trình ban đầu cho kinh thưa/vô kinh thứ phát: thử thai → hỏi stress, cân nặng, tập luyện, thuốc, cường androgen, triệu chứng hố yên → BMI, khám androgen, vú, giáp → prolactin, FSH, TSH (±testosterone, DHEA-S) (QĐ 315/2015 Vô kinh mục 2.1).",
+  "PCOS ở người lớn: kinh không đều + (cường androgen hoặc PCOM) sau khi loại trừ TSH, prolactin, 17-OH progesterone, FSH, và thiểu năng sinh dục do thiếu mỡ/tập nặng; PCOM khi FNPO ≥ 20 ở một bên; chọn siêu âm hoặc AMH, không cả hai (Monash/ESHRE 2023 Algorithm 1; 1.4.4; 1.5.5).",
+  "FSH thấp kèm estrogen thấp gợi ý suy vùng dưới đồi thứ phát; điều trị là chỉnh lối sống, đủ calo, tư vấn dinh dưỡng (QĐ 315/2015 Vô kinh mục 2.1 bước 5, mục 2.2)."
+ ],
+ "nguon": [
+  "BYT – QĐ 315/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa – TL-0036 (bản đầy đủ trong tltk-10000-ca/tai-lieu/11 Phụ khoa - thai sớm/BYT/BYT 2015 - QĐ 315) – Vô kinh (mục 1, 2.1 bước 1–5, 2.2).",
+  "FIGO 2018 – The two FIGO systems for normal and abnormal uterine bleeding (Munro MG et al., Int J Gynaecol Obstet 2018;143:393) – TL-0642 – Hình 1, mục 2, 3.1, Bảng 2, mục 6.1, 6.2, 6.5, Hình 6A.",
+  "Monash/ESHRE 2023 – International evidence-based guideline for the assessment and management of PCOS (Teede HJ et al., J Clin Endocrinol Metab 2023;108:2447) – TL-0624 – khuyến cáo 1.1.1, 1.2.1, 1.2.9, 1.4.4, 1.4.5, 1.4.7, 1.5.1, 1.5.5 và Algorithm 1 (Hình 1 trong bản chữ)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-10-26): viết theo QĐ 315/2015 (Vô kinh), FIGO 2018, Monash/ESHRE 2023. Đã đối chiếu từng ngưỡng với bản chữ bằng rg. Thiếu: bài riêng cho kinh thưa/thiểu kinh trong QĐ 315 (dùng quy trình vô kinh thứ phát); giá trị tham chiếu FSH, LH, estradiol, prolactin, TSH; tiêu chuẩn rối loạn ăn uống; tác động của NSAID và thuốc đông y lên phóng noãn; thời gian phục hồi và khả năng sinh sản; liều estrogen bổ sung; mốc tái khám cụ thể; nguy cơ có thai khi kinh thưa. Kết quả xét nghiệm, siêu âm, cân nặng và diễn biến sau 3 tháng là dữ kiện thiết kế của ca, không phải số liệu từ tài liệu."
+ ]
+}
