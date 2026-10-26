@@ -1,0 +1,588 @@
+{
+ "ma_ca": "TT-0372",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-26)",
+ "benh": "TT_me_sang_nguoi_gia_khong_dien_hinh",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Mê sảng (ở người già, phát hiện)",
+  "chan_doan_phai_loai_tru": [
+   "Nhiễm trùng",
+   "Rối loạn điện giải",
+   "Đột quỵ"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Tiểu thương chợ",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Mười",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Tiểu thương chợ (bán rau)",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà' hoặc 'bác Mười'. Bà gọi bác sĩ là 'con' hoặc 'bác sĩ', tự xưng 'tui'. Chị Hồng gọi bà là 'má', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Vốn lanh lợi, nói nhiều, mặc cả giỏi, tiếc từng đồng. Hôm nay lặng lẽ, đáp chậm, mắt nhìn xuống. Ngại phiền con cái, không than gì ngoài cái mũi.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: trong túi chỉ có khoảng 300 nghìn. Hỏi giá từng xét nghiệm, nhẩm tổng, nói 'làm cái nào thật cần thôi con, tui không có tiền'. Chịu làm ngay khi nghe rõ xét nghiệm đó đổi được cách xử trí. Không tự kể lú lẫn; chị Hồng chỉ kể khi bác sĩ hỏi mở hoặc hỏi con gái.",
+  "nguoi_nha": "con gái",
+  "ten_nguoi_nha": "Chị Lê Thị Thu Hồng",
+  "ngoai_hinh": {
+   "da": "#c99572",
+   "toc": "#d8d4cf",
+   "kieuToc": "bui",
+   "ao": "#8a6f9e",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d3a07a",
+    "toc": "#1b1411",
+    "kieuToc": "buoc",
+    "ao": "#4f7a64",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám theo hẹn viêm mũi, nghẹt mũi, xin thêm thuốc nhỏ mũi (con gái đưa đi)",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm (nên cũng không có CT sọ)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lê Thị Mười, 78 tuổi, bán rau ở chợ, đến cùng con gái tái khám theo hẹn vì viêm mũi nghẹt kéo dài, xin thêm thuốc nhỏ mũi. Sinh hiệu lúc tiếp đón: mạch 76 l/p, HA 146/86 mmHg, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%, cân nặng 46 kg, cao 150 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Mười nhập viện nội trú chỉ để theo dõi lú lẫn, dù bà hợp tác, không kích động, không dấu thần kinh khu trú và nguyên nhân (táo bón ứ phân, uống ít) xử trí được ngay ở phòng khám. Bà bị chuyển sang phòng lạ, ồn, giấc ngủ cắt quãng, vài ngày không bán rau mất thu nhập, viện phí vượt xa 300 nghìn mang theo. NICE khuyến cáo tránh chuyển người nguy cơ mê sảng sang nơi lạ khi không thật cần (CG103 2023, 1.4.1) và giữ yên tĩnh lúc ngủ (1.4.13); mê sảng làm tăng chi phí và thời gian nằm viện (Bellelli 2014, phần mở đầu).",
+    "chuyen_tuyen": "Bà Mười bị chuyển tuyến để chụp CT sọ ngay hôm nay dù không có dấu thần kinh khu trú, không chấn thương đầu, không dùng thuốc chống đông và nguyên nhân đã rõ (SAEM 2025: chỉ dấu khu trú liên quan rõ với CT bất thường, OR 102,0; khuyến cáo 6: không đủ dữ liệu). Chi phí CT 900.000 đ (giá trong app) và xe vượt xa 300 nghìn của gia đình; bà có nguy cơ bỏ dở giữa chừng, về nhà trong khi táo bón ứ phân và thiếu nước vẫn chưa được xử trí, nên lú lẫn kéo dài."
+   },
+   "loi_mo": "Bác sĩ ơi, má tôi hẹn hôm nay khám lại cái mũi, nghẹt hoài, thuốc nhỏ mũi hết chai rồi, xin bác sĩ cho thêm chai nữa.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "146/86",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "Lúc tiếp đón điều dưỡng ghi: bà ngồi lặng, đáp chậm, ít nói hơn thường lệ."
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Hồng, con gái, nói trước: 'Bác sĩ ơi, má tôi hẹn hôm nay khám lại cái mũi, nghẹt hoài, má nhỏ thuốc nhỏ mũi hết chai rồi, xin bác sĩ cho thêm'. Bà Mười ngồi im, mắt nhìn xuống nền, chỉ gật đầu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra: tái khám viêm mũi theo hẹn, xin thêm thuốc nhỏ mũi"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tuần trước bà theo xe khách về quê dự đám giỗ, ngồi xe gần 9 tiếng mỗi chiều, hai chiều đều hầu như không uống nước vì sợ phải xuống xe đi vệ sinh. Ở quê hai đêm ngủ nhà bà con, nhà vệ sinh lạ, bà nhịn không đi cầu. Về đến nhà được 3 ngày. Từ đó bà chưa đi cầu lần nào.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi bắt đầu từ lúc nào, trước đó bà đi đâu, sinh hoạt ăn uống thế nào, mấy hôm nay có gì khác.",
+     "k": 1,
+     "y": "Khởi phát sau chuyến đi xa ngồi lâu: uống ít, nhịn đi cầu, ngủ lạ nơi"
+    },
+    {
+     "id": "thay_doi_tri_giac",
+     "noi_dung": "Chị Hồng kể: 'Hai ngày nay má lờ đờ, ít nói hẳn, không giống má. Má bán rau ngoài chợ nói như pháo, mặc cả giỏi, vậy mà hai buổi sáng nay nằm nhà, không chịu ra sạp. Có lúc má hỏi tôi 'hôm nay đi giỗ chưa con?' rồi 10 phút sau hỏi lại. Ban ngày má ngủ gà, tối lại thức tới khuya, đi lục tủ lấy tiền lẻ'. Sáng nay má tỉnh hơn một chút, chiều lại lơ mơ. Bà không la hét, không đánh ai.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi bà có gì khác thường mấy hôm nay, nói năng, trí nhớ, ngủ nghỉ, buổi nào tệ hơn; hoặc khi hỏi con gái có thấy bà không giống mọi khi.",
+     "k": 1,
+     "y": "Thay đổi nhận thức cấp 2 ngày, giảm hoạt động, dao động trong ngày, đảo ngược thức–ngủ"
+    },
+    {
+     "id": "nen_nhan_thuc",
+     "noi_dung": "Trước chuyến đi, bà minh mẫn: tự cân rau, tính tiền nhẩm nhanh hơn máy tính, nhớ giá từng mớ, tự đón xe buýt ra chợ lúc 4 giờ sáng, không từng đi lạc, không quên tên cháu. Chị Hồng không thấy trí nhớ giảm dần trong những tháng trước.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi trước đây trí nhớ, tính tiền bán hàng, sinh hoạt tự lập của bà ra sao, có dần dần hay quên không.",
+     "k": 1,
+     "y": "Nền nhận thức bình thường, thay đổi cấp tính, không giống sa sút trí tuệ"
+    },
+    {
+     "id": "tao_bon",
+     "noi_dung": "Bà chưa đi cầu 5 ngày (từ hôm ở quê). Bụng hơi tức, ăn ít, có lúc ngồi rặn không ra. Bình thường bà đi cầu mỗi ngày, phân thành khuôn. Không đi cầu ra máu, không phân đen, không sụt cân đáng kể, không nôn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi đi cầu lần cuối khi nào, phân thế nào, đau bụng, ăn uống mấy hôm nay.",
+     "k": 1,
+     "y": "Táo bón 5 ngày, không dấu hiệu báo động"
+    },
+    {
+     "id": "uong_it",
+     "noi_dung": "Từ khi về bà uống chừng hai ly nước mỗi ngày, ăn vài thìa cháo. Nước tiểu ít, màu vàng sẫm. Bà tự đi tiểu được, không buốt, không rắt, không són, không bí tiểu. Chị Hồng thấy má gầy đi, mắt trũng.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi uống nước, ăn uống, nước tiểu, đi tiểu có khó không.",
+     "k": 1,
+     "y": "Uống ít, tiểu ít sẫm màu; không triệu chứng tiết niệu, không bí tiểu"
+    },
+    {
+     "id": "khong_nhiem_trung",
+     "noi_dung": "Không sốt, không ho, không khạc đờm, không khó thở, không đau họng; không tiểu buốt hay tiểu đục; không đau đầu dữ dội, không cứng cổ; không ban hay vết thương trên da, không loét chân. Cả nhà cùng đi giỗ, không ai ốm.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi có sốt, ho, đau họng, tiểu buốt, đau đầu, cứng cổ, ban, vết thương không.",
+     "k": 1,
+     "y": "Không triệu chứng nhiễm trùng"
+    },
+    {
+     "id": "khong_than_kinh",
+     "noi_dung": "Bà không té ngã hay va đầu, không méo miệng, không yếu hay tê tay chân, nói không bị ngọng, không nhìn đôi, không chóng mặt quay, không đau đầu dữ dội, không nôn vọt, không co giật. Bà không dùng thuốc chống đông hay thuốc loãng máu.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi có yếu liệt, méo miệng, nói khó, té ngã, đau đầu, nôn, co giật, thuốc chống đông không.",
+     "k": 1,
+     "y": "Không dấu thần kinh khu trú, không chấn thương đầu, không chống đông"
+    },
+    {
+     "id": "thuoc_nho_mui",
+     "noi_dung": "Bà nhỏ thuốc nhỏ mũi mua ở tiệm thuốc đầu chợ (chai nhỏ, bà đọc chữ 'naphazolin') mỗi mũi 3–4 lần/ngày, đã hơn hai năm, hết chai này mua chai khác. Hôm nay đến xin thêm vì 'không nhỏ là nghẹt không ngủ được'. Không có thuốc nào khác thường xuyên: không thuốc ngủ, thuốc an thần, thuốc cảm, thuốc đau khớp, thuốc bổ, rượu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đang uống thuốc gì' thì chị Hồng nói 'má không uống thuốc gì'. Chỉ kể khi hỏi cụ thể thuốc nhỏ, thuốc tự mua ở tiệm, thuốc cho mũi, thuốc ngủ, hoặc xin xem chai thuốc.",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc nhỏ mũi co mạch kéo dài; không thuốc an thần"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Bà 78 tuổi, trước giờ ít đau ốm. Viêm mũi nghẹt kéo dài nhiều năm. Không biết mình có cao huyết áp hay tiểu đường, chưa từng đo. Không bệnh tim, không rung nhĩ, không đột quỵ, không sa sút trí tuệ, không bệnh thận. Mắt hơi mờ, tai nghe còn tốt, không đeo kính.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi bệnh cũ, tiểu đường, cao huyết áp, tim, đột quỵ, bệnh thận.",
+     "k": 0,
+     "y": "Tiền sử bệnh nền"
+    },
+    {
+     "id": "tien_bac",
+     "noi_dung": "Bà nghỉ bán hôm nay nên không có lời; trong túi chỉ có khoảng 300 nghìn đồng. Chị Hồng làm công nhân, không dám xin thêm. Bà lẩm bẩm: 'Làm cái nào cho thật cần thôi nghe con, đừng làm hết, tui không có tiền'. Khi bác sĩ giải thích rõ xét nghiệm nào đổi được cách xử trí, bà đồng ý ngay.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi giá, hoặc khi bác sĩ đề nghị xét nghiệm; hoặc khi hỏi gia đình có khó khăn gì không.",
+     "k": 0,
+     "y": "Giới hạn tài chính, ưu tiên xét nghiệm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bà gầy, 46 kg, cao 150 cm, BMI 20,4 kg/m². Tỉnh, ngồi lặng, mắt nhìn xuống nền, ít đáp lời. Môi khô, lưỡi khô. Da nhăn, độ đàn hồi giảm (khó dùng ở tuổi này). Niêm hồng, không phù, không phát ban.",
+     "k": 1,
+     "hien": "Gầy, tỉnh nhưng lặng lẽ, ít đáp lời. Môi khô, lưỡi khô."
+    },
+    "ha_tu_the": {
+     "a": "Nằm: 146/86 mmHg, mạch 76 l/p. Đứng 3 phút: 122/74 mmHg, mạch 90 l/p, chóng mặt nhẹ. Huyết áp tâm thu giảm 24 mmHg khi đứng: đạt định nghĩa hạ huyết áp tư thế (giảm ≥ 20 mmHg tâm thu trong 3 phút, ACC/AHA/HRS 2017), hợp với thiếu dịch.",
+     "k": 0,
+     "hien": "Nằm 146/86 mmHg, mạch 76 l/p. Đứng 3 phút: 122/74 mmHg, mạch 90 l/p, chóng mặt nhẹ."
+    },
+    "dau_mat_co": {
+     "a": "Cổ mềm, không đau khi gập cổ, không hạch, tuyến giáp không to.",
+     "k": 0,
+     "hien": "Cổ mềm, không hạch."
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi đỏ sẫm, phù nề, cuốn mũi dưới to, ít dịch trong; không polyp. Họng không đỏ, amiđan không to. Ống tai sạch.",
+     "k": 0,
+     "hien": "Niêm mạc mũi đỏ sẫm, phù nề, ít dịch trong. Họng không đỏ."
+    },
+    "mat": {
+     "a": "Đồng tử hai bên tròn đều 3 mm, phản xạ ánh sáng (+). Vận nhãn đủ, không rung giật nhãn cầu, không nhìn đôi.",
+     "k": 0,
+     "hien": "Đồng tử đều, phản xạ ánh sáng (+), vận nhãn đủ."
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, không rối loạn nhịp. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng hơi chướng nhẹ. Hố chậu trái sờ thấy khối chắc như phân cứng, ấn đau nhẹ, không đề kháng, không phản ứng thành bụng. Gan lách không to. Nhu động ruột giảm.",
+     "k": 1,
+     "hien": "Bụng hơi chướng. Hố chậu trái sờ thấy khối chắc, ấn đau nhẹ, không đề kháng."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau, chạm thận (-). Trên xương mu không căng, gõ trong, không sờ thấy cầu bàng quang. (Cơ sở không có siêu âm nên thay bằng khám lâm sàng.)",
+     "k": 1,
+     "hien": "Hố thắt lưng không đau. Trên xương mu không căng, không có cầu bàng quang."
+    },
+    "truc_trang": {
+     "a": "Cơ thắt hậu môn trương lực bình thường. Bóng trực tràng đầy khối phân cứng, khô, tròn. Không khối u, không búi trĩ chảy máu. Găng không dính máu, không phân đen.",
+     "k": 1,
+     "hien": "Bóng trực tràng đầy khối phân cứng. Không khối u. Găng không dính máu."
+    },
+    "chi_duoi": {
+     "a": "Hai chân không phù, không to bất đối xứng. Bắp chân mềm, không đau, không nóng đỏ, dấu Homans không làm vì không cần. Mạch mu chân rõ.",
+     "k": 0,
+     "hien": "Hai chân không phù, bắp chân mềm, không đau."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, gọi tên đáp được, nhưng trả lời chậm. Mặt cân đối, lưỡi giữa, nói rõ không ngọng, hiểu lệnh đơn giản. Sức cơ 5/5 bốn chi, cảm giác thô bình thường, phản xạ gân xương hai bên đều, Babinski (-). Không cứng gáy. Không run vẫy khi giơ tay. Đi được khi có người đỡ, hơi chao vì chóng mặt khi đứng. Không dấu thần kinh khu trú.",
+     "k": 1,
+     "hien": "Mặt cân đối, nói rõ, sức cơ bốn chi đều. Cổ mềm. Không dấu thần kinh khu trú."
+    },
+    "sang_loc_sang": {
+     "a": "4AT: (1) tỉnh táo: mở mắt khi gọi tên, ngồi tỉnh, 0 điểm; (2) AMT4: nói đúng tuổi, ngày sinh và nơi đang ở, sai năm (nói 'năm ngoái'), 1 lỗi = 1 điểm; (3) đọc ngược các tháng: đọc đúng 4 tháng rồi dừng, 1 điểm; (4) thay đổi cấp hoặc dao động (theo chị Hồng), 4 điểm. Tổng 6 điểm, từ 4 điểm trở lên gợi ý mê sảng (Bellelli 2014, mục Methods; NICE CG103 2023, khuyến cáo 1.6.1). Nếu chỉ dựa vào 'bà tỉnh táo, không la hét' sẽ bỏ sót vì mê sảng giảm hoạt động hay bị bỏ qua (NICE khuyến cáo 1.3.2).",
+     "k": 1,
+     "hien": "Tỉnh. Nói đúng tuổi, ngày sinh, nơi ở nhưng sai năm. Đọc ngược các tháng chỉ được bốn tháng thì dừng."
+    },
+    "nhan_thuc_moca": {
+     "a": "Không làm được trọn vẹn: chú ý dao động, quên yêu cầu giữa chừng. Diễn giải MoCA trong lúc mê sảng: không có trong tài liệu đã tải; đánh giá nhận thức nền sau khi hết mê sảng nếu không hồi phục (NICE CG103 2023, khuyến cáo 1.7.5).",
+     "k": 0,
+     "hien": "Chú ý dao động, không hoàn thành các phần."
+    },
+    "tam_than": {
+     "a": "Hợp tác, nói nhỏ và chậm, trả lời ngắn. Chú ý dao động từng lúc. Định hướng sai năm. Không ảo giác, không hoang tưởng, không kích động. Khí sắc không buồn rõ, vẫn quan tâm khi hỏi về cháu và sạp rau. Không ý tưởng tự hại. Bệnh khởi phát cấp và dao động, ý thức giảm: hợp mê sảng giảm hoạt động hơn là trầm cảm (QĐ 2058/2020 Bài 4 mục 3.3).",
+     "k": 1,
+     "hien": "Hợp tác, nói nhỏ, chậm. Không ảo giác, không hoang tưởng, không kích động."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch 5,8 mmol/L",
+     "n": "Rẻ nhất (20.000 đ) và đổi ngay xử trí: hạ hoặc tăng đường huyết là nguyên nhân gây mê sảng (QĐ 2058/2020 Bài 4 mục 2, 3.3); glucose máu < 2,8 mmol/L là yếu tố cần loại ra trước khi nghĩ đột quỵ (QĐ 5331/2020, bảng tiêu chuẩn loại trừ tiêu sợi huyết)."
+    },
+    "que_nt": {
+     "v": "e",
+     "r": "Tỷ trọng 1,027 · ceton + · bạch cầu, nitrit, hồng cầu, protein, glucose âm tính",
+     "n": "Loại trừ nhiễm trùng tiết niệu, nguyên nhân thường gặp của mê sảng ở người già, với 15.000 đ; xét nghiệm nước tiểu có trong QĐ 2058/2020 Bài 4 mục 3.2. Nước tiểu cô đặc, ceton (+) do ăn uống kém.",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.027,
+      "u_ph": 5.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "+",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     }
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 136 · K 4,2 · Cl 100 mmol/L",
+     "n": "Điện giải là một trong ba chẩn đoán phải loại trừ của ca (QĐ 2058/2020 Bài 4 mục 2, 3.2, 3.3); hạ natri là bệnh giả đột quỵ (QĐ 5331/2020, mục chẩn đoán phân biệt). 60.000 đ.",
+     "bang": {
+      "na": 136,
+      "k": 4.2,
+      "cl": 100
+     }
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 9,8 mmol/L · Creatinin 104 µmol/L · eGFR 47 mL/ph/1,73m²",
+     "n": "Hợp thiếu dịch trước thận sau uống ít; suy thận là nguyên nhân thực thể của mê sảng (QĐ 2058/2020 Bài 4 mục 2, 3.3). Không có giá trị nền, phải làm lại sau bù nước. Tiêu chuẩn tổn thương thận cấp: không có trong tài liệu đã tải. 50.000 đ.",
+     "ab": 1,
+     "bang": {
+      "ure": 9.8,
+      "creat": 104,
+      "egfr": 47
+     }
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 78 l/p, trục bình thường, không rung nhĩ, không block, không biến đổi ST–T mới, QTc trong giới hạn.",
+     "n": "Loại trừ rung nhĩ (nguồn gây đột quỵ) và rối loạn nhịp; điện tâm đồ nằm trong thăm dò của QĐ 2058/2020 Bài 4 mục 3.2. 50.000 đ."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,2 G/L · Neutrophil 61% · Hb 126 g/L · TC 238 G/L",
+     "n": "Chấp nhận nhưng không bắt buộc: không sốt, không ổ nhiễm trùng khám được, que thử nước tiểu âm tính; CTM thuộc nhóm xét nghiệm của QĐ 2058/2020 Bài 4 mục 3.2. 50.000 đ làm vượt ngân sách nếu thêm các xét nghiệm khác.",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 61.0,
+      "neu": 4.39,
+      "lym_pct": 30.0,
+      "lym": 2.16,
+      "mono_pct": 6.0,
+      "mono": 0.43,
+      "eos_pct": 2.5,
+      "eos": 0.18,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.2,
+      "hgb": 126,
+      "hct": 0.38,
+      "mcv": 90.5,
+      "mch": 30.0,
+      "mchc": 332,
+      "rdw": 13.4,
+      "plt": 238
+     }
+    },
+    "crp": {
+     "n": "Không sốt, không ổ nhiễm trùng, que thử nước tiểu âm tính: CRP (80.000 đ) không đổi quyết định hôm nay. Nhiễm trùng phải tìm và loại bằng khám và các xét nghiệm rẻ hơn (NICE CG103 2023, khuyến cáo 1.4.7)."
+    },
+    "cxr": {
+     "n": "Không ho, không khó thở, SpO₂ 97%, phổi nghe sạch: X-quang ngực (100.000 đ) không đổi quyết định."
+    },
+    "ddimer": {
+     "n": "Ngồi xe lâu làm nghĩ thuyên tắc phổi, nhưng không khó thở, SpO₂ 97%, mạch 76 l/p, chân không phù, không đau bắp chân. Quy tắc xác suất (Wells…) không có trong tài liệu đã tải. D-dimer 250.000 đ không đổi quyết định."
+    },
+    "ct_nao": {
+     "n": "Cơ sở không có siêu âm nên không có CT (app tự khóa). Dù có, tài liệu nêu cả hai cách: ACR (trích SAEM 2025, mục 3.8.3.1) chụp CT khi mê sảng trừ khi nguyên nhân đã rõ và nguy cơ tổn thương nội sọ thấp; Hiệp hội Lão khoa Úc–NZ tránh CT khi không chấn thương, không chống đông, không dấu thần kinh khu trú; SAEM 2025 khuyến cáo 6: không đủ dữ liệu. Ca này nguyên nhân đã rõ và không có dấu khu trú. CT 900.000 đ vượt xa ngân sách."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mê sảng thể giảm hoạt động ở người rất cao tuổi (4AT 6 điểm), do nhiều yếu tố thúc đẩy",
+     "ok": 1,
+     "n": "Khởi phát cấp 2 ngày, dao động, đảo ngược thức–ngủ, giảm chú ý, định hướng sai năm; nền nhận thức bình thường (QĐ 2058/2020 Bài 4 mục 3.1, 3.3; NICE CG103 2023, khuyến cáo 1.3.1, 1.3.2, 1.6.1; 4AT ≥ 4 điểm: Bellelli 2014)."
+    },
+    {
+     "t": "Táo bón ứ phân (5 ngày, khối phân cứng ở trực tràng và hố chậu trái)",
+     "ok": 1,
+     "n": "Nguyên nhân thúc đẩy mê sảng (QĐ 2058/2020 Bài 4 mục 3.3 liệt kê táo bón; NICE khuyến cáo 1.4.5); ứ phân là nguyên nhân cơ học của táo bón (WGO 2025 Bảng 3), cần thăm trực tràng (WGO 2025 mục 3.3)."
+    },
+    {
+     "t": "Mất nước nhẹ trước thận (uống ít, tiểu ít sẫm, hạ huyết áp tư thế, ure 9,8, creatinin 104)",
+     "ok": 1,
+     "n": "Mất nước cần được xử trí (NICE khuyến cáo 1.4.5); thiếu giá trị creatinin nền nên cần làm lại sau bù nước."
+    },
+    {
+     "t": "Nhiễm trùng (tiết niệu, phổi, nhiễm khuẩn khác)",
+     "n": "Loại trừ: không sốt, không ho, không triệu chứng tiết niệu, phổi sạch, nước tiểu âm tính bạch cầu và nitrit, bạch cầu máu bình thường (QĐ 2058/2020 Bài 4 mục 2, 3.3; NICE khuyến cáo 1.4.7)."
+    },
+    {
+     "t": "Rối loạn điện giải, hạ hoặc tăng đường huyết",
+     "n": "Loại trừ: Na 136, K 4,2, đường huyết 5,8 mmol/L (QĐ 2058/2020 Bài 4 mục 2, 3.3)."
+    },
+    {
+     "t": "Đột quỵ hoặc cơn thiếu máu não thoáng qua",
+     "n": "Loại trừ lâm sàng: không méo mặt, yếu liệt, nói khó, không đau đầu đột ngột, không dấu thần kinh khu trú, ECG nhịp xoang (QĐ 5331/2020, mục Truyền thông giáo dục người bệnh: FAST và các dấu hiệu). Vì không có CT nên dựa vào khám thần kinh cẩn thận và hẹn tái khám; dặn dấu hiệu quay lại (SAEM 2025: dấu thần kinh khu trú là yếu tố liên quan rõ nhất với CT bất thường, OR 102,0)."
+    },
+    {
+     "t": "Sa sút trí tuệ (hoặc mê sảng chồng trên sa sút trí tuệ)",
+     "n": "Không giống: khởi phát cấp, dao động, nền minh mẫn tự tính tiền (QĐ 2058/2020 Bài 4 mục 3.3). Nếu không hết sau khi xử trí nguyên nhân thì tìm sa sút trí tuệ (NICE khuyến cáo 1.7.5)."
+    },
+    {
+     "t": "Trầm cảm",
+     "n": "Không giống: ý thức và chú ý dao động, khởi phát cấp, không buồn rõ, còn quan tâm cháu và sạp (QĐ 2058/2020 Bài 4 mục 3.3: mê sảng giảm hoạt động cần phân biệt với trầm cảm)."
+    },
+    {
+     "t": "Bí tiểu cấp",
+     "n": "Loại trừ lâm sàng: tự tiểu được, trên xương mu không căng; siêu âm không có (QĐ 2058/2020 Bài 4 mục 3.3 liệt kê tắc nghẽn tiết niệu cấp)."
+    },
+    {
+     "t": "Thuyên tắc phổi hoặc huyết khối tĩnh mạch sau ngồi xe lâu",
+     "n": "Ít khả năng: không khó thở, SpO₂ 97%, mạch 76 l/p, chân không phù, không đau bắp chân. Quy tắc xác suất: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tác dụng của thuốc nhỏ mũi co mạch kéo dài",
+     "n": "Thuốc co mạch tại chỗ dùng quá 5 ngày không khuyến cáo, nhất là người cao tuổi (ARIA-EAACI 2024–2025 Bảng 1) và có thể làm tăng huyết áp (AHA/ACC 2025 Bảng 11). Liên quan trực tiếp với mê sảng: không có trong tài liệu đã tải, nên chỉ xếp là yếu tố nền cần ngưng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích đây là mê sảng (lú lẫn cấp), thường hồi phục khi chữa nguyên nhân, không phải 'già lẩm cẩm'; cho bà về nhà có con gái ở bên và hẹn tái khám sau 2 ngày",
+     "v": "c",
+     "n": "Điều trị nguyên nhân là cốt lõi (QĐ 2058/2020 Bài 4 mục 4.1; NICE khuyến cáo 1.7.1); mê sảng thường dưới một tuần khi nguyên nhân được giải quyết (QĐ 2058/2020 Bài 4 mục 5.1); báo thông tin cho người nhà (NICE 1.8). Cho về là phù hợp vì hợp tác, không kích động, không dấu khu trú, nguyên nhân xử trí được ngay, có người chăm. Mốc 2 ngày do người biên tập chọn, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xử trí táo bón: thụt tháo hoặc làm sạch phân ứ ngay tại phòng khám, rồi macrogol (PEG) hoặc lactulose đường uống",
+     "v": "c",
+     "n": "Táo bón là nguyên nhân cần xử trí (QĐ 2058/2020 Bài 4 mục 3.3; NICE khuyến cáo 1.4.5). Thuốc nhuận tràng thẩm thấu là lựa chọn đầu: PEG 17 g/ngày hoặc lactulose 15 g/ngày (WGO 2025 mục 4.6, Bảng 9; hai thuốc cùng nhóm, không mâu thuẫn). Kỹ thuật, thuốc thụt tháo cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khuyến khích uống nước từng ít một và ăn lại dần (nước lọc, cháo loãng, dung dịch bù nước)",
+     "v": "c",
+     "n": "NICE CG103 khuyến cáo 1.4.5: khuyến khích uống, cân nhắc dịch dưới da hoặc tĩnh mạch khi cần; bà uống được nên chưa cần truyền. Lượng nước cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi naphazolin kéo dài, thay bằng rửa mũi nước muối 0,9%",
+     "v": "c",
+     "n": "ARIA-EAACI 2024–2025 Bảng 1: không dùng thuốc thông mũi quá 5 ngày, và người cao tuổi nên tránh; AHA/ACC 2025 Bảng 11: thuốc thông mũi có thể làm tăng huyết áp; QĐ 5643/2015 mục 4.1 (viêm mũi) nêu rửa mũi natriclorid 0,9% (và cũng nêu thuốc co mạch, cùng hướng thận trọng). Cách ngưng (ngưng ngay hay giảm dần): không có trong tài liệu đã tải. Thuốc xịt corticoid cho viêm mũi: bàn ở lần tái khám mũi."
+    },
+    {
+     "t": "Không dùng thuốc an thần hay thuốc ngủ: làm dịu bằng lời, môi trường quen thuộc, đèn sáng ban ngày, đồng hồ lịch, người nhà bên cạnh, tối yên tĩnh để ngủ",
+     "v": "c",
+     "n": "NICE CG103 khuyến cáo 1.4.4, 1.4.13, 1.7.2–1.7.3: giao tiếp, định hướng lại, gia đình tham gia, ngủ yên; chỉ cân nhắc haloperidol ngắn hạn khi người bệnh đau khổ hoặc nguy hiểm mà làm dịu thất bại (1.7.4); AGS Beers 2023 Bảng 3 (Delirium): tránh benzodiazepin, thuốc nhóm Z, kháng cholinergic; QĐ 2058/2020 Bài 4 mục 4.3.1 ghi haloperidol 5–20 mg/ngày và benzodiazepin ngắn (cho mê sảng kích động). Bà hợp tác nên không có chỉ định."
+    },
+    {
+     "t": "Kê haloperidol hoặc thuốc chống loạn thần cho bà",
+     "v": "w",
+     "n": "Bà không kích động, không nguy hiểm: NICE khuyến cáo 1.7.4 và Beers 2023 Bảng 3 chỉ dùng khi làm dịu thất bại và có nguy cơ; NICE nêu thêm nguy cơ tim mạch và thần kinh ở người cao tuổi (MHRA, khuyến cáo 1.7.4)."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc zopiclon cho bà ngủ (vì thức đêm)",
+     "v": "w",
+     "n": "Beers 2023 Bảng 3 (Delirium): tránh benzodiazepin và thuốc nhóm Z vì gây hoặc làm nặng mê sảng (khuyến cáo mạnh). QĐ 2058/2020 Bài 4 mục 4.3.1 ghi benzodiazepin thời gian bán thải ngắn cho mất ngủ trong mê sảng; ở đây bà hợp tác nên không dùng."
+    },
+    {
+     "t": "Kê thuốc 'bổ não' (piracetam, ginkgo, citicholin…) cho bà",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 4 mục 4.3.1 liệt kê thuốc nuôi dưỡng tế bào thần kinh; NICE CG103 không khuyến cáo thuốc nào ngoài haloperidol ngắn hạn và nêu bằng chứng thuốc còn hạn chế. Không nguồn nào nói có hại, nhưng không thay xử trí nguyên nhân: chấp nhận, tốn tiền không cần."
+    },
+    {
+     "t": "Chọn xét nghiệm theo ngân sách 300 nghìn: đường huyết mao mạch, que thử nước tiểu, điện giải, ure–creatinin, điện tâm đồ (tổng 195.000 đ); giải thích từng xét nghiệm đổi quyết định gì",
+     "v": "c",
+     "n": "Nhiễm trùng, rối loạn điện giải/đường huyết, đột quỵ là ba nhóm phải loại (QĐ 2058/2020 Bài 4 mục 3.2, 3.3; NICE khuyến cáo 1.4.7). Giá theo danh mục của app."
+    },
+    {
+     "t": "Kết luận 'già lẩm cẩm, sa sút trí tuệ', cho thuốc nhỏ mũi như cũ và về, không làm gì thêm",
+     "v": "w",
+     "n": "Bỏ sót mê sảng giảm hoạt động, vốn hay bị bỏ sót (NICE khuyến cáo 1.3.2; Bellelli 2014: 50–75% mê sảng không được phát hiện ở bệnh viện cấp tính); QĐ 2058/2020 Bài 4 mục 3.3: sa sút trí tuệ khởi phát từ từ, không giống ca này."
+    },
+    {
+     "t": "Dặn dấu hiệu phải quay lại hoặc đi cấp cứu ngay: ngủ li bì không gọi được, méo miệng, yếu liệt, nói khó, đau đầu dữ dội, co giật, nôn nhiều, sốt, bí tiểu, ngã",
+     "v": "c",
+     "n": "QĐ 5331/2020 mục Truyền thông giáo dục người bệnh (FAST: mặt, tay, nói, thời gian; kèm rối loạn ý thức, đau đầu dữ dội); NICE CG103 khuyến cáo 1.7.1 (tìm lại nguyên nhân khi không hết)."
+    },
+    {
+     "t": "Chuyển tuyến chụp CT sọ ngay hôm nay",
+     "v": "a",
+     "n": "ACR (trích SAEM 2025 mục 3.8.3.1) chụp CT khi mê sảng; Hiệp hội Lão khoa Úc–NZ và SAEM 2025 khuyến cáo 6 cho cả hai cách. Chấp nhận về mặt chuyên môn nhưng không cần khi nguyên nhân đã rõ, không dấu khu trú, không chấn thương, không chống đông; ngoài ngân sách (900.000 đ) và đổi chỗ ở có hại (NICE khuyến cáo 1.4.1)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 ngày để làm lại 4AT, creatinin và hỏi đi cầu; khi hết mê sảng hẹn khám lại mũi; nếu không hết thì tìm sa sút trí tuệ",
+     "v": "c",
+     "n": "4AT lặp lại đánh giá diễn tiến (NICE 1.6.1); không hết thì tìm lại nguyên nhân và đánh giá sa sút trí tuệ (NICE 1.7.5); creatinin chưa có nền. Mốc 2 ngày do người biên tập chọn, không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mê sảng thể giảm hoạt động ở người 78 tuổi (4AT 6 điểm; khởi phát cấp khoảng 2 ngày, dao động, đảo ngược thức–ngủ, giảm chú ý, định hướng sai năm)",
+     "Nguyên nhân thúc đẩy: táo bón ứ phân 5 ngày; mất nước nhẹ trước thận (uống ít, tiểu ít sẫm, hạ huyết áp tư thế, ure 9,8, creatinin 104 chưa có nền); mất ngủ, đổi nơi ngủ sau chuyến xe dài",
+     "Đã loại trừ tại chỗ: nhiễm trùng, rối loạn điện giải và đường huyết, đột quỵ hoặc cơn thiếu máu não thoáng qua (không dấu khu trú, ECG nhịp xoang), bí tiểu cấp, trầm cảm, sa sút trí tuệ đơn thuần; thuyên tắc phổi ít khả năng",
+     "Yếu tố nền: tuổi ≥ 75; dùng thuốc nhỏ mũi co mạch hơn hai năm (liên quan trực tiếp với mê sảng: không có trong tài liệu đã tải)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: (1) hỏi chị Hồng và bà vì sao đến khám hôm nay (tái khám mũi) rồi hỏi mở 'mấy hôm nay bà có gì khác mọi khi' để lộ thay đổi nhận thức (NICE CG103 2023, khuyến cáo 1.3.1); (2) khởi phát: chuyến xe, uống ít, nhịn đi cầu; (3) nền nhận thức trước đó (phân biệt sa sút trí tuệ); (4) đi cầu, uống nước, nước tiểu; (5) sốt, ho, tiểu buốt (nhiễm trùng); (6) dấu thần kinh khu trú, té ngã, chống đông (đột quỵ); (7) thuốc đang dùng, hỏi cụ thể thuốc nhỏ mũi, thuốc ngủ (NICE khuyến cáo 1.4.10).",
+     "Bẫy của ca: bà đến vì cái mũi, không than lú lẫn, không kích động, hợp tác, nên dễ bị bỏ sót. Mê sảng giảm hoạt động (rút lui, đáp chậm, giảm vận động, ăn ít) hay bị bỏ qua (NICE khuyến cáo 1.3.2). Bellelli 2014 (phần mở đầu): 50–75% mê sảng không được phát hiện ở bệnh viện cấp tính.",
+     "Công cụ khách quan: 4AT (tỉnh táo, AMT4, đọc ngược tháng, thay đổi cấp/dao động), 4 điểm trở lên gợi ý mê sảng (Bellelli 2014 mục Methods; NICE khuyến cáo 1.6.1; SAEM 2025 khuyến cáo 4). Bà 6 điểm: 1 + 1 + 4. Độ nhạy 89,7%, độ đặc hiệu 84,1% (Bellelli 2014, nghiên cứu người trung bình 83,9 tuổi). ",
+     "Khám: dấu then chốt là khối phân cứng ở hố chậu trái và trực tràng đầy phân (thăm trực tràng, WGO 2025 mục 3.3), hạ huyết áp tư thế và lưỡi khô. Cổ mềm, không dấu thần kinh khu trú, ECG nhịp xoang loại trừ lâm sàng đột quỵ; vì không có CT nên dựa vào khám và hẹn tái khám. Nhịp tim và SpO₂ bình thường nên thuyên tắc phổi ít khả năng, quy tắc xác suất không có trong tài liệu đã tải.",
+     "Cận lâm sàng theo ngân sách khoảng 300.000 đ: đường huyết mao mạch 20.000, que thử nước tiểu 15.000, điện giải 60.000, ure–creatinin 50.000, điện tâm đồ 50.000, tổng 195.000 đ. Mỗi xét nghiệm trả lời một chẩn đoán phải loại: đường huyết và điện giải (rối loạn chuyển hóa), nước tiểu (nhiễm trùng tiết niệu), ECG (rung nhĩ/rối loạn nhịp, nguồn đột quỵ), ure–creatinin (mất nước). Bỏ CRP, X-quang ngực, D-dimer, troponin, TSH, điện não đồ vì không đổi xử trí. Công thức máu 50.000 đ chấp nhận, thêm vào vẫn còn dưới 300.000 đ.",
+     "Về CT sọ: cơ sở không có siêu âm nên không chụp được. Tài liệu nêu cả hai cách (ACR chụp khi mê sảng trừ khi nguyên nhân rõ; Hiệp hội Lão khoa Úc–NZ tránh khi không chấn thương, chống đông, dấu khu trú; SAEM 2025 khuyến cáo 6 không đủ dữ liệu). Chỉ dấu thần kinh khu trú liên quan rõ với CT bất thường (OR 102,0; SAEM 2025 mục 3.8.3.1). Bà không có dấu nào trong số đó.",
+     "Chẩn đoán phân biệt: sa sút trí tuệ khởi phát từ từ, không dao động; mê sảng khởi phát cấp, dao động, ý thức rối loạn (QĐ 2058/2020 Bài 4 mục 3.3). Trầm cảm: bà còn quan tâm cháu và sạp. Ghi chú áp dụng cho người ≥ 75 tuổi: 4AT được thẩm định ở người trung bình 83,9 tuổi (Bellelli 2014); các nghiên cứu thuốc thường loại nhóm rất cao tuổi nên khuyến cáo ở đây dựa nhiều vào nguyên tắc không dùng thuốc và điều trị nguyên nhân."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, hẹn tái khám 2 ngày, vì bà hợp tác, không kích động, không dấu khu trú, nguyên nhân xử trí được ngay và có con gái chăm. Nhập viện hay chuyển tuyến không cần và còn có hại: đổi môi trường làm mê sảng nặng thêm (NICE khuyến cáo 1.4.1), nằm viện làm tăng chi phí và thời gian nằm (Bellelli 2014 phần mở đầu). Mốc tái khám 2 ngày là lựa chọn của người biên tập.",
+     "Điều trị nguyên nhân là cốt lõi (QĐ 2058/2020 Bài 4 mục 4.1; NICE khuyến cáo 1.7.1). Táo bón: làm sạch phân ứ trước (kỹ thuật không có trong tài liệu đã tải), rồi thuốc thẩm thấu PEG 17 g/ngày hoặc lactulose 15 g/ngày (WGO 2025 mục 4.6, Bảng 9). Mất nước: uống từng ít, không cần truyền (NICE 1.4.5).",
+     "Không dùng thuốc an thần: NICE 1.7.3–1.7.4 chỉ khi đau khổ hoặc nguy hiểm mà làm dịu bằng lời thất bại; Beers 2023 Bảng 3 tránh benzodiazepin, thuốc nhóm Z, kháng cholinergic. QĐ 2058/2020 Bài 4 mục 4.3.1 có liệt kê haloperidol và benzodiazepin, là hướng dẫn chung theo ICD-10, không phân tầng theo tuổi nên khác với NICE và Beers viết riêng cho người cao tuổi. Với bà không kích động, kê các thuốc này chấm w.",
+     "Thuốc nhỏ mũi: ngưng, thay nước muối 0,9% (ARIA-EAACI 2024–2025 Bảng 1; QĐ 5643/2015 mục 4.1). ",
+     "Biện pháp không dùng thuốc: con gái ở bên, nhắc ngày giờ nơi chốn, đèn sáng ban ngày, tối yên tĩnh (NICE 1.4.4, 1.4.13, 1.7.2); hợp với QĐ 2058/2020 Bài 4 mục 4.3.2.",
+     "Mạng lưới an toàn: hẹn lại sau 2 ngày làm lại 4AT, creatinin; dặn dấu hiệu quay lại (QĐ 5331/2020 FAST) vì không có CT. Nếu không hết hẳn sau khi xử trí nguyên nhân thì tìm lại nguyên nhân và tìm sa sút trí tuệ (NICE 1.7.5). Ghi chẩn đoán mê sảng vào hồ sơ (NICE 1.6.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Macrogol (PEG) hoặc lactulose",
+      "ham_luong": "Theo nhãn thuốc có sẵn; quy đổi gói/ml: không có trong tài liệu đã tải",
+      "lieu": "PEG 17 g/ngày hoặc lactulose 15 g/ngày (WGO 2025 Bảng 9), hòa nước uống",
+      "duong": "Uống",
+      "thoi_diem": "Một lần buổi sáng, sau khi đã thụt tháo hoặc làm sạch phân ứ",
+      "so_ngay": "Đến khi đi cầu mềm đều; xem lại ở lần tái khám 2 ngày; thời gian dùng cụ thể: không có trong tài liệu đã tải",
+      "ghi_chu": "WGO 2025 mục 4.6, Bảng 9: thuốc thẩm thấu là lựa chọn đầu; lactulose dễ đầy hơi hơn, ở tiêu chảy nhiều có thể gây hạ kali, tăng natri. Không dùng thêm nếu đi cầu lỏng."
+     },
+     {
+      "thuoc": "Nước uống (nước lọc, cháo loãng, dung dịch bù nước)",
+      "ham_luong": "—",
+      "lieu": "Từng ngụm đều, lượng cụ thể: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Suốt ngày, nhắc bà uống",
+      "so_ngay": "Cho đến khi nước tiểu nhạt màu và ăn uống lại bình thường",
+      "ghi_chu": "NICE 2023, khuyến cáo 1.4.5; xin ý kiến nếu có bệnh tim hoặc thận (chưa biết chức năng thận nền)."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% rửa mũi (thay thuốc nhỏ mũi naphazolin)",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa hoặc xịt mũi, số lần/ngày: không có trong tài liệu đã tải",
+      "duong": "Tại chỗ (mũi)",
+      "thoi_diem": "Khi nghẹt mũi, nhất là trước ngủ",
+      "so_ngay": "Dùng thường xuyên đến lần khám mũi",
+      "ghi_chu": "QĐ 5643/2015 mục 4.1 (viêm mũi: rửa mũi natriclorid 0,9%); ARIA-EAACI 2024–2025 Bảng 1 và AHA/ACC 2025 Bảng 11 cho ngưng thuốc co mạch. Cách ngưng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Không kê haloperidol, benzodiazepin, thuốc ngủ nhóm Z, thuốc kháng cholinergic, thuốc cảm hay thuốc dị ứng thế hệ 1",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "NICE CG103 2023, khuyến cáo 1.7.3–1.7.4; AGS Beers 2023 Bảng 3 (Delirium). QĐ 2058/2020 Bài 4 mục 4.3.1 liệt kê haloperidol 5–20 mg/ngày, benzodiazepin ngắn; dành cho mê sảng kích động, ca này không có chỉ định."
+     }
+    ],
+    "dan_do": [
+     "Chị Hồng ở cạnh bà, nói chuyện nhỏ nhẹ, nhắc ngày giờ và nơi bà đang ở; để đèn sáng ban ngày, tối yên tĩnh cho bà ngủ; đồng hồ và lịch dễ thấy (NICE CG103 2023, khuyến cáo 1.4.4, 1.4.13, 1.7.2)",
+     "Cho bà uống nước từng ngụm đều, ăn lại cháo loãng; không ép nếu bà nôn; theo dõi nước tiểu nhạt màu dần (NICE khuyến cáo 1.4.5)",
+     "Uống thuốc nhuận tràng mỗi sáng, ngồi vệ sinh đều đặn, đi cầu mềm thì ngưng thêm thuốc; không tự mua thuốc xổ mạnh (WGO 2025 mục 4.6)",
+     "Ngưng thuốc nhỏ mũi, rửa mũi nước muối; mũi nghẹt hơn vài ngày là có thể xảy ra (ARIA-EAACI 2024–2025 Bảng 1)",
+     "Không cho bà uống thuốc ngủ, thuốc an thần, thuốc cảm hay thuốc dị ứng tự mua (AGS Beers 2023 Bảng 3)",
+     "Đưa bà đến cấp cứu ngay nếu bà ngủ li bì gọi không dậy, méo miệng, yếu hoặc tê tay chân, nói khó, đau đầu dữ dội, co giật, nôn nhiều, sốt, không tiểu được hoặc té ngã (QĐ 5331/2020, mục Truyền thông giáo dục người bệnh)",
+     "Tái khám sau 2 ngày (mốc do người biên tập chọn); nếu 'lú' vẫn chưa hết sau khi đi cầu và uống nước đủ thì tái khám sớm hơn để tìm lại nguyên nhân (NICE khuyến cáo 1.7.5)",
+     "Với bà và chị Hồng: lú lẫn lần này thường là tạm thời và chữa được; vẫn nên báo ngay khi có thay đổi đột ngột; đi xa nên uống đủ nước và đi cầu đều (NICE khuyến cáo 1.8.1)"
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau thụt tháo ở phòng khám và macrogol buổi sáng, tối hôm đó bà đi cầu nhiều phân cứng. Hôm sau bà uống nước nhiều hơn, ngủ được đêm, nói chuyện lại như thường. Lần tái khám 2 ngày 4AT 0 điểm; creatinin làm lại thấp hơn lần đầu. Bà ngưng thuốc nhỏ mũi, rửa mũi nước muối và hẹn khám mũi riêng; ngày thứ 4 bà ra chợ bán lại. Mê sảng thường dưới một tuần khi nguyên nhân được giải quyết (QĐ 2058/2020 Bài 4 mục 5.1).",
+ "nhieu": [
+  "Không đủ tiền: 300.000 đ trong túi. Xét nghiệm đổi được quyết định (đường huyết mao mạch, que thử nước tiểu, điện giải, ure–creatinin, điện tâm đồ, tổng 195.000 đ) so với xét nghiệm bỏ được (CRP, X-quang ngực, D-dimer, troponin, TSH, điện não đồ).",
+  "Lý do thật đến khám là tái khám cái mũi theo hẹn: bà không nhắc lú lẫn, con gái chỉ kể khi được hỏi 'bà có khác mọi khi không'."
+ ],
+ "bai_hoc_bien": [
+  "Mê sảng giảm hoạt động hay bị bỏ sót: rút lui, đáp chậm, ăn ít, không kích động (NICE CG103 2023, khuyến cáo 1.3.2); hỏi người nhà 'có khác mọi khi không' (khuyến cáo 1.3.1) rồi làm 4AT (khuyến cáo 1.6.1).",
+  "4AT từ 4 điểm trở lên gợi ý mê sảng (Bellelli 2014 mục Methods); độ nhạy 89,7%, độ đặc hiệu 84,1%; chẩn đoán cuối do thầy thuốc chuyên môn đưa ra (NICE 1.6.2).",
+  "Tìm nguyên nhân: nhiễm trùng, điện giải, đột quỵ là ba chẩn đoán phải loại; thêm đường huyết, thuốc, táo bón, mất nước, bí tiểu (QĐ 2058/2020 Bài 4 mục 2, 3.3; NICE 1.4.5, 1.4.7, 1.4.10). Ngân sách hạn chế thì chọn xét nghiệm đổi được xử trí.",
+  "Không thuốc an thần cho bà hợp tác: NICE 1.7.3–1.7.4, Beers 2023 Bảng 3; QĐ 2058/2020 Bài 4 mục 4.3.1 liệt kê thuốc cho mê sảng kích động (mục mâu thuẫn đã có từ TT-0371).",
+  "CT sọ: tài liệu nêu cả hai cách; dấu thần kinh khu trú là yếu tố liên quan rõ nhất với CT bất thường (SAEM 2025 mục 3.8.3.1). Không có CT thì khám thần kinh cẩn thận và dặn dấu hiệu quay lại (QĐ 5331/2020)."
+ ],
+ "diem_nho": [
+  "4AT: tỉnh táo 0/4, AMT4 (tuổi, ngày sinh, nơi, năm) 0–2, đọc ngược tháng 0–2, thay đổi cấp/dao động 0/4; tổng 0–12; ≥ 4 gợi ý mê sảng, 1–3 gợi ý suy giảm nhận thức, 0 ít khả năng (Bellelli 2014 mục Methods).",
+  "Yếu tố nguy cơ mê sảng: tuổi ≥ 65, suy giảm nhận thức, gãy cổ xương đùi, bệnh nặng (NICE CG103 2023, khuyến cáo 1.2.1).",
+  "Điều trị mê sảng: tìm và xử trí nguyên nhân, giao tiếp và định hướng lại, gia đình tham gia (NICE 1.7.1–1.7.2); haloperidol ngắn hạn (thường ≤ 1 tuần), liều thấp nhất chỉ khi đau khổ hoặc nguy hiểm và làm dịu thất bại (NICE 1.7.4).",
+  "Thuốc nhuận tràng thẩm thấu đầu tay: PEG 17 g/ngày, lactulose 15 g/ngày (WGO 2025 Bảng 9).",
+  "Ghi chú áp dụng ≥ 75 tuổi: nhóm này ít có trong thử nghiệm thuốc; nguyên tắc ưu tiên điều trị nguyên nhân và biện pháp không dùng thuốc; 4AT thẩm định ở tuổi trung bình 83,9 (Bellelli 2014)."
+ ],
+ "nguon": [
+  "NICE CG103 Delirium (TL-0108; 2010, cập nhật 2023) – ĐÃ ĐỌC khuyến cáo 1.2.1, 1.3.1–1.3.2, 1.4.1, 1.4.4–1.4.7, 1.4.10, 1.4.12–1.4.13, 1.6.1–1.6.4, 1.7.1–1.7.5, 1.8.",
+  "Bộ Y tế – QĐ 2058/QĐ-BYT 2020 (TL-0443) – ĐÃ ĐỌC Bài 4 (Sảng không do rượu) mục 1–6, gồm 2, 3.1–3.3, 4.1, 4.3.1–4.3.2, 5.1.",
+  "Bellelli G và cs., Age Ageing 2014;43:496–502 (TL-0597, thẩm định 4AT) – ĐÃ ĐỌC Abstract, Introduction, Methods, Results.",
+  "SAEM Geriatric ED Guidelines 2.0, Acad Emerg Med 2026;33:e70167 (kho cũ tltk-10000-ca, thư mục 10 Tâm thần cơ bản, 'SAEM 2025 – ED delirium in older patients') – ĐÃ ĐỌC khuyến cáo 4, 6 và mục 3.8.2–3.8.3.",
+  "AGS Beers 2023 (TL-0022) – ĐÃ ĐỌC Bảng 3 mục Delirium.",
+  "Bộ Y tế – QĐ 5331/QĐ-BYT 2020 (TL-0030) – ĐÃ ĐỌC mục Truyền thông giáo dục người bệnh (FAST), mục đánh giá thần kinh (NIHSS), bảng tiêu chuẩn loại trừ tiêu sợi huyết (glucose).",
+  "WGO Global Guideline Chronic Constipation 2025 (kho cũ tltk-10000-ca, thư mục 02 Tiêu hóa) – ĐÃ ĐỌC Bảng 3, mục 3.3 (khám), 4.1, 4.6, Bảng 9.",
+  "ARIA-EAACI 2024–2025 Part I – Intranasal treatments (kho cũ tltk-10000-ca, thư mục 09 Tai mũi họng) – ĐÃ ĐỌC Bảng 1 (thuốc thông mũi); AHA/ACC 2025 tăng huyết áp (TL-0297) Bảng 11; QĐ 5643/2015 (kho cũ) mục 4.1 viêm mũi; ACC/AHA/HRS 2017 ngất (TL-0094) định nghĩa hạ huyết áp tư thế."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-10-26: viết bản 1 cho TT-0372. Tài liệu đã đọc và vị trí xem mục nguon. Thiếu trong tài liệu đã tải: liều lượng nước uống, kỹ thuật thụt tháo/làm sạch phân ứ, cách ngưng thuốc nhỏ mũi co mạch, quy tắc xác suất thuyên tắc phổi, ngưỡng tổn thương thận cấp, liên quan trực tiếp thuốc nhỏ mũi với mê sảng, mốc tái khám 2 ngày (do người biên tập chọn).",
+  "Mâu thuẫn đã áp dụng từ sổ: thuốc an thần trong mê sảng (QĐ 2058 và NICE/Beers), CT sọ ở người mê sảng (ACR, Úc–NZ, SAEM 2025), thuốc nhỏ mũi co mạch ở người cao tuổi (ghi nhận, cùng hướng). Mục mới: thuốc 'bổ não' trong mê sảng (QĐ 2058 mục 4.3.1 và NICE).",
+  "Ràng buộc 'không có siêu âm' làm app tự khóa CT; ca thể hiện bằng khoa_cls nhóm sieu_am và khám bàng quang lâm sàng."
+ ]
+}
