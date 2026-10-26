@@ -1,0 +1,751 @@
+{
+ "ma_ca": "TM-0277",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_kho_mat_sau_bia_ruou_ky_thuoc_cu",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Khô mắt",
+  "chan_doan_phai_loai_tru": [
+   "Viêm kết mạc",
+   "Bệnh tự miễn"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "nghe_nghiep": "Hưu trí",
+  "yeu_to_khoi_phat": "Sau uống rượu bia",
+  "thuoc_dang_dung": "Kháng sinh theo toa cũ",
+  "ly_do_that_su_den_kham": "Bạn bè có bệnh tương tự",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Quang Thịnh",
+  "tuoi": 67,
+  "gioi": "Nam",
+  "nghe": "Hưu trí (trước làm kế toán hợp tác xã)",
+  "can_nang": 62,
+  "chieu_cao": 164,
+  "xung_ho": "Bác sĩ gọi ông là 'bác'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'; nói chuyện thân mật, hay đệm 'à'.",
+  "tinh_cach": "Vui tính, hay kể chuyện hội bạn hưu trí, tự tin theo 'kinh nghiệm' truyền miệng (thuốc bạn bảo hiệu lắm). Tiết kiệm từng đồng lương hưu; thích làm theo thuốc đã quen hơn thuốc mới.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: lương hưu khoảng 3,2 triệu đồng/tháng, hôm nay chỉ mang theo khoảng 300.000 đồng. Khi bác sĩ đề nghị xét nghiệm, ông hỏi giá rồi nói 'để lần sau', không tự nói vì sao. Từ chối món đắt nhưng chịu món rẻ, rõ lợi ích. Chỉ nói thật nỗi lo khi được hỏi ông lo điều gì nhất.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c98f6c",
+   "toc": "#b8b8b8",
+   "kieuToc": "hoi",
+   "ao": "#6b7f5a",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Hai mắt đỏ, cộm rát hơn mười ngày, tự nhỏ thuốc không đỡ",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "ket_cuc": "Ông Thịnh bỏ hẳn lọ kháng sinh cũ, nhỏ nước mắt nhân tạo không chất bảo quản, dùng gel buổi tối, chườm ấm, tránh quạt và khói thuốc, uống bia ít hơn. Sau gần hai tháng triệu chứng còn 1–2/10, giác mạc gần như không bắt màu; ông hiểu khô mắt là bệnh mạn tính và không còn sợ giống ông Bảy. Mọi quyết định đều đúng (AAO Dry Eye PPP 2023, Natural History, tr. 15).",
+ "nhieu": [
+  "Ông Chín ngồi cạnh dụi mắt đỏ khi nhậu: không dùng chung khăn, không ngứa, ghèn mủ, hạch. Không liên quan.",
+  "Kháng sinh nhỏ mắt toa cũ: không có nhiễm khuẩn; chất bảo quản và nhỏ nhiều lần làm tổn thương biểu mô (AAO Conjunctivitis PPP 2018, Bảng 1, tr. 108; AAO Dry Eye PPP 2023, tr. 14).",
+  "Ông Bảy (bạn thân) bị Sjögren: ông Thịnh sợ giống, nhưng không khô miệng, không đau khớp.",
+  "Hydrochlorothiazid (lợi tiểu) có thể làm nặng khô mắt (AAO Dry Eye PPP 2023, tr. 14, 17); thay thuốc là quyết định của bác sĩ điều trị huyết áp.",
+  "Lượt 2: chai nước mắt nhân tạo có chất bảo quản tự mua, nhỏ 8–10 lần/ngày, chỉ kể khi hỏi cụ thể."
+ ],
+ "bai_hoc_bien": [
+  "Không đủ tiền xét nghiệm: chọn món đổi được quyết định (Schirmer, fluorescein tại chỗ), hoãn ANA, RF, TSH, test adenovirus, phết kết mạc và nói rõ lý do.",
+  "Lý do thật là sợ giống bạn bị Sjögren: hỏi 'bác lo điều gì nhất'; tầm soát bằng hỏi và khám miệng, khớp.",
+  "Hỏi riêng thuốc nhỏ mắt đã dùng và thuốc huyết áp; kháng sinh toa cũ không chữa khô mắt, không kê lại.",
+  "Đỡ một phần chưa phải thất bại: kiểm tuân thủ, thuốc có chất bảo quản tự mua, nhậu và gió quạt trước khi đổi bậc."
+ ],
+ "diem_nho": [
+  "Khám lâm sàng là tiêu chuẩn vàng, không xét nghiệm nào đủ một mình (AAO Dry Eye PPP 2023, tr. 11). Schirmer I < 5,5 mm/5 phút chẩn đoán thiếu nước mắt, < 10 mm gợi ý (Bảng 1, tr. 19; Phụ lục 5, tr. 35). TBUT fluorescein < 10 giây bất thường (AAO 2023) hoặc ngưỡng 5 giây (TFOS DEWS III 2025, mục 2); ghi cả hai.",
+  "Bước 1 (Bảng 3, tr. 21): giáo dục, chỉnh môi trường, xem lại thuốc, nước mắt nhân tạo, bờ mi, chườm ấm. Dùng > 4 lần/ngày thì loại không chất bảo quản (tr. 22–23), thuốc nhỏ nhiều lần có thể gây khô mắt (tr. 14). Gel, mỡ kéo dài hơn nên giảm số lần nhỏ (tr. 22). Tránh kháng sinh, corticoid nhỏ mắt bừa (AAO Conjunctivitis PPP 2018, Treatment, tr. 127).",
+  "Khoảng 10% khô mắt thiếu nước mắt có Sjögren; chỉ xét nghiệm khi có khô miệng hoặc dấu hiệu tự miễn khác (AAO Dry Eye PPP 2023, tr. 11, 20). Gặp bác sĩ mắt khi đau vừa-nặng, không đáp ứng, thâm nhiễm/loét giác mạc, giảm thị lực (tr. 26)."
+ ],
+ "nguon": [
+  "AAO – Dry Eye Syndrome Preferred Practice Pattern 2023 – TL-0556 – tr. 11, 14–15 (Associated Conditions, Natural History), 17–20 (History, Examination, Bảng 1–2), 20–26 (Classification, Management, Bảng 3, Provider and Setting, Follow-up, Counseling), 31–36 (Phụ lục 3, 5).",
+  "TFOS DEWS III: Executive Summary, Am J Ophthalmol 2025 – TL-0551 – mục 2 (OSDI-6, ngưỡng TBUT fluorescein 5 giây), Hình 1 (tiêu chuẩn chẩn đoán).",
+  "AAO – Conjunctivitis Preferred Practice Pattern 2018 – TL-0266 – Bảng 1 (adenovirus tr. 113; viêm kết mạc do thuốc/chất bảo quản tr. 108), Treatment (tr. 127), Medication-induced/Preservative-induced keratoconjunctivitis (tr. 133).",
+  "BYT – QĐ 40/QĐ-BYT 2015 – TL-0242 – bài Viêm kết mạc cấp, mục 3 (tr. 35)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 26/10/2026 (viết: Sonnet).",
+  "Tài liệu đã đọc: TL-0556 (AAO Dry Eye PPP 2023) History, Examination, Bảng 1–3, Mild/Moderate, Provider and Setting, Phụ lục 3 và 5; TL-0551 (TFOS DEWS III) mục 2, Hình 1; TL-0266 (AAO Conjunctivitis PPP 2018) Bảng 1, Treatment, Medication-induced keratoconjunctivitis; TL-0242 (QĐ 40/2015) Viêm kết mạc cấp.",
+  "Không có trong tài liệu đã tải: hoạt chất, hàm lượng, số lần nhỏ/ngày của nước mắt nhân tạo, gel, mỡ; cách chườm ấm, vệ sinh bờ mi; khoảng cách tái khám; mối liên quan rượu bia với khô mắt; hướng dẫn khô mắt người lớn của Bộ Y tế.",
+  "Mâu thuẫn TBUT (AAO 2023 < 10 giây; TFOS DEWS III 2025 < 5 giây) và omega-3 đã có trong sổ (ca TM-0272): ghi cả hai. Lượt 3 TBUT 9 giây: bất thường theo AAO, bình thường theo TFOS.",
+  "Giả định có đèn khe/đèn cobalt để nhuộm fluorescein và đo TBUT."
+ ],
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 67 tuổi, hưu trí, đến khám vì hai mắt đỏ, cộm rát hơn mười ngày, đã tự nhỏ thuốc mà không đỡ. Ông đi xe máy tới, tự đi một mình. Sinh hiệu lúc tiếp đón: HA 138/82 mmHg, mạch 76 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Ông Thịnh bị chuyển lên khoa mắt bệnh viện tuyến trên dù chưa có tiêu chuẩn: thị lực tốt, không đau, giác mạc không thâm nhiễm hay loét (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26). Ông mất thêm tiền xe, tiền khám chuyên khoa trong khi lương hưu hạn hẹp, trong khi việc cần làm (ngưng thuốc cũ, nước mắt nhân tạo, chỉnh môi trường) làm được ngay tại đây. Ông dễ bỏ dở điều trị vì tốn kém.",
+    "nhap_vien": "Ông Thịnh bị đề nghị nhập viện dù khô mắt nhẹ đến vừa, không đau, thị lực tốt, giác mạc không loét. Tài liệu không nêu tiêu chí nhập viện cho tình trạng này; ngay loét giác mạc vô khuẩn do khô mắt cũng chỉ cần theo dõi hằng ngày (AAO 2023, Follow-up Evaluation, tr. 26). Ông mất viện phí, ngày nằm viện, mà yếu tố làm nặng vẫn nguyên.",
+    "theo_doi": "Ông Thịnh bị giữ lại phòng khám theo dõi nhiều giờ dù khô mắt không cấp tính và không cần quan sát thêm. Việc cần là xử trí trọn gói trong buổi khám rồi cho về (AAO 2023, Follow-up Evaluation, tr. 26: tần suất theo dõi tùy mức độ và đáp ứng). Ông tốn thêm thời gian, tiền ăn, và có thể bị chỉ định thêm xét nghiệm không đổi xử trí."
+   },
+   "loi_mo": "Chào bác sĩ. Hai con mắt tôi đỏ, cộm rát hơn chục ngày rồi, nhỏ thuốc tôi có sẵn ở nhà mà không đỡ, còn rát thêm. Mà bác sĩ làm thì làm cho nhẹ nhẹ thôi, lương hưu của tôi không dư dả đâu.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/82",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai mắt đỏ, cộm rát như có cát, hơn mười ngày nay. Nặng nhất vào chiều tối. Trước đó vài tháng thỉnh thoảng đã khô cộm buổi chiều nhưng ông không để ý.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, thời gian"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tối cuối tuần trước, hội bạn hưu trí mừng thọ, ông uống bia và vài chén rượu đến khuya, ngồi quán đông khói thuốc, quạt cây thổi thẳng vào mặt, ngủ chỉ khoảng 3 giờ. Sáng hôm sau mắt đỏ, cộm rát và từ đó không hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: sau bia rượu, thức khuya, khói thuốc, gió quạt"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Cộm rát tăng dần về chiều. Sáng dậy có chút ghèn nhầy trắng ở khóe mắt, không dính mi. Nhỏ nước muối thấy dễ chịu được vài phút. Xem tivi, đọc báo hay xem điện thoại lâu thì cộm hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm triệu chứng: nặng về chiều, ghèn nhầy ít, đáp ứng tạm với nước muối"
+    },
+    {
+     "id": "mo_thoang",
+     "noi_dung": "Khi đọc báo lâu chữ mờ từng lúc, chớp mắt vài cái là rõ lại. Không bao giờ mờ kéo dài.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có nhìn mờ không' thì ông đáp 'không, tôi đọc báo tốt'. Chỉ kể khi bác sĩ hỏi cụ thể mờ lúc nào, đọc lâu có mờ không, chớp mắt có rõ lại không.",
+     "y": "Nhìn mờ dao động, hết khi chớp"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Không đau nhói trong mắt, không sợ ánh sáng, không chảy nước mắt ròng, thị lực không giảm kéo dài, không quầng sáng quanh đèn. Chưa mổ mắt, không đeo kính áp tròng, không chấn thương mắt; chỉ đeo kính lão.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ: đau, sợ ánh sáng, giảm thị lực, chấn thương"
+    },
+    {
+     "id": "ngua",
+     "noi_dung": "Không ngứa mắt, không hắt hơi, sổ mũi, không có cơ địa dị ứng (chàm, hen). Không sốt, không ho, không đau họng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ viêm kết mạc dị ứng và virus"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Trong buổi nhậu ông Chín ngồi cạnh dụi mắt đỏ liên tục. Ông Thịnh không dùng chung khăn, không bắt tay lâu, trong nhà không ai đỏ mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người đau mắt đỏ (nhiễu)",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_cu",
+     "noi_dung": "Ông có lọ thuốc nhỏ mắt kháng sinh còn dư từ toa đau mắt đỏ năm ngoái. Từ khi đỏ mắt ông nhỏ 4–5 lần mỗi ngày, khoảng 6 ngày, mắt càng rát và đỏ hơn nên ông ngưng hôm qua. Ông không nhớ tên thuốc, vẫn giữ lọ trong tủ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có dùng thuốc gì không' ông đáp 'thuốc huyết áp thôi'. Chỉ kể lọ kháng sinh khi bác sĩ hỏi cụ thể có nhỏ thuốc mắt nào không, thuốc nhỏ từ bao giờ, bao nhiêu lần/ngày.",
+     "y": "Kháng sinh nhỏ mắt toa cũ, số lần nhỏ, tăng rát"
+    },
+    {
+     "id": "thuoc_nen",
+     "noi_dung": "Tăng huyết áp mấy năm nay, uống mỗi sáng amlodipin 5 mg và hydrochlorothiazid 12,5 mg, huyết áp ở nhà khoảng 130/80. Không dùng thuốc dị ứng, thuốc ngủ, thuốc tiền liệt, thuốc trầm cảm. Không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc toàn thân có thể làm nặng khô mắt (lợi tiểu)"
+    },
+    {
+     "id": "tu_mien",
+     "noi_dung": "Miệng không khô, ăn cơm khô không cần nước kèm, không sâu răng nhiều. Không đau hay sưng khớp, không cứng khớp buổi sáng, không mệt bất thường, không sụt cân, không ngón tay tím khi lạnh. Gia đình không ai có bệnh tự miễn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc khô miệng, đau khớp, mệt, tiền sử gia đình"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Lương hưu khoảng 3,2 triệu đồng/tháng, hôm nay mang theo khoảng 300.000 đồng. Có thẻ bảo hiểm y tế nhưng ông nghĩ xét nghiệm nào cũng 'tính tiền riêng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng chi trả, ưu tiên xét nghiệm",
+     "nhieu": 1
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông Bảy, bạn thân cùng hội, bị khô mắt rồi khô miệng, đi khám tốn gần 3 triệu đồng thì ra hội chứng Sjögren, phải uống thuốc dài ngày. Ông Thịnh sợ mình bị giống ông Bảy nhưng ngại tốn tiền, nên cứ nói chuyện nhậu và chuyện thuốc cũ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông lo điều gì nhất, vì sao đến khám bây giờ, hay có ai quen bị bệnh mắt không. Khi được đề nghị xét nghiệm ông chỉ hỏi 'cái này bao nhiêu tiền'.",
+     "y": "Lý do thật: bạn bè có bệnh tương tự (Sjögren)"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực có kính: 9/10 hai mắt. Mi không phù. Bờ mi hơi đỏ, vài lỗ tuyến Meibomius bít, ép mi ra ít chất đục. Kết mạc cương tụ nhẹ vùng khe mi hai bên, không nhú, không hột, không phù kết mạc, không ghèn mủ; vài sợi nhầy trắng ở cùng đồ dưới. Bờ lệ dưới thấp. Đồng tử đều 3 mm, phản xạ ánh sáng tốt.",
+     "k": 1
+    },
+    "giac_mac_fluorescein": {
+     "a": "Giác mạc trong. Nhuộm fluorescein: chấm bắt màu rải rác ở 1/3 dưới giác mạc vùng khe mi, khoảng 12 chấm mắt phải và 10 chấm mắt trái. Không khuyết biểu mô, không thâm nhiễm, không loét. TBUT đo trước khi nhỏ thuốc khác: 4 giây hai mắt.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch trước tai, hạch dưới hàm hay hạch cổ. Tuyến mang tai và dưới hàm không to, không đau. Tuyến giáp không to. Không lồi mắt, mi không co kéo.",
+     "k": 1
+    },
+    "rang_ham_mat": {
+     "a": "Niêm mạc miệng hồng, ẩm, có nước bọt đọng dưới lưỡi, lưỡi không teo gai. Không loét miệng, răng ít sâu.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp nhỏ bàn tay, cổ tay không sưng, không đau, không biến dạng. Không Raynaud, không xuất huyết dưới móng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "schirmer": {
+     "v": "u",
+     "r": "Schirmer I (không gây tê), 5 phút: mắt phải 6 mm, mắt trái 7 mm",
+     "ab": 1,
+     "n": "Dưới 10 mm gợi ý bất thường nhưng chưa đạt ngưỡng chẩn đoán thiếu nước mắt < 5,5 mm; Schirmer dao động, không dùng một mình (AAO Dry Eye PPP 2023, Bảng 1, tr. 19; Phụ lục 5, tr. 35). Rẻ (40.000 đồng), làm ngay tại chỗ: hợp với người ngại chi phí."
+    },
+    "ana": {
+     "v": "a",
+     "r": "ANA âm tính (< 1:80). Kháng dsDNA âm tính.",
+     "n": "Không bắt buộc: chỉ tầm soát khi khô mắt kèm khô miệng, dấu hiệu tự miễn khác hoặc tiền sử gia đình (AAO 2023, tr. 20); ông không có. Làm hay hoãn đều không trừ điểm; hoãn hợp lý vì 250.000 đồng. Nghi Sjögren thì bộ đầu là SSA, SSB, RF, ANA (Bảng 2)."
+    },
+    "rf_cccp": {
+     "n": "Không đau hay sưng khớp, không có chỉ định lúc này (AAO 2023, tr. 20); đắt 250.000 đồng, kết quả không đổi xử trí hôm nay."
+    },
+    "tsh": {
+     "n": "Không lồi mắt, không co kéo mi, tuyến giáp không to nên không nghi bệnh mắt tuyến giáp; Bảng 2 chỉ nêu kháng thể giáp khi nghi bệnh này (AAO 2023, Bảng 2, tr. 20)."
+    },
+    "test_adeno": {
+     "n": "Không có chỉ định: bệnh không cấp, không hột, không hạch trước tai, không chảy nước ròng (AAO Conjunctivitis PPP 2018, Bảng 1 – adenovirus, tr. 113). Đắt tiền, kết quả không đổi xử trí."
+    },
+    "phet_ket_mac": {
+     "n": "Không ghèn mủ, không dấu hiệu nhiễm khuẩn nên không cần nhuộm Gram hay cấy (QĐ 40/2015, Viêm kết mạc cấp mục 3: tiết tố mủ nhiều, bệnh diễn biến nhanh); không cần kháng sinh thì không cần cấy."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khô mắt hai mắt, mức nhẹ đến vừa, thể phối hợp (thiếu nước mắt nhẹ và bay hơi do rối loạn tuyến Meibomius), nặng lên do thức khuya sau bia rượu, khói thuốc, gió quạt và nhỏ kháng sinh có chất bảo quản nhiều lần",
+     "ok": 1,
+     "n": "Cộm rát nặng dần về chiều, mờ thoáng qua hết khi chớp (AAO Dry Eye PPP 2023, History, tr. 17); Schirmer 6–7 mm; TBUT 4 giây (< 10 giây theo AAO 2023, Bảng 1, tr. 19; < 5 giây khi dùng fluorescein theo TFOS DEWS III 2025, mục 2); giác mạc bắt màu 12 và 10 chấm (> 5 chấm là một dấu hiệu, TFOS DEWS III 2025, Hình 1). Phân độ dựa nhiều vào triệu chứng (AAO 2023, tr. 20). Thuốc nhỏ mắt nhiều lần có thể gây khô mắt do chất bảo quản (tr. 14)."
+    },
+    {
+     "t": "Viêm kết mạc (virus, vi khuẩn, dị ứng)",
+     "n": "Không ngứa, không cơ địa dị ứng; không ghèn mủ, không hột, không hạch trước tai, không sốt, không chảy nước ròng (adenovirus khởi phát đột ngột, tự giới hạn 5–14 ngày: AAO Conjunctivitis PPP 2018, Bảng 1, tr. 113; nhiễm khuẩn tiết mủ nhiều, diễn biến nhanh: QĐ 40/2015, Viêm kết mạc cấp mục 3). Cộm nặng dần về chiều, nhỏ nước thì đỡ tạm. Ông Chín đỏ mắt chỉ là nhiễu."
+    },
+    {
+     "t": "Bệnh tự miễn (hội chứng Sjögren, viêm khớp dạng thấp, lupus)",
+     "n": "Gợi ý khi khô mắt kèm khô miệng, đau khớp, mệt hay tiền sử gia đình (AAO Dry Eye PPP 2023, tr. 20; Phụ lục 3). Ông không có triệu chứng nào, miệng ẩm, khớp bình thường, Schirmer chưa tới ≤ 5 mm của tiêu chuẩn Sjögren (Phụ lục 3, Bảng A3-1). Khoảng 10% người khô mắt thiếu nước mắt có Sjögren nền (tr. 11): theo dõi, hỏi lại mỗi lần tái khám."
+    },
+    {
+     "t": "Viêm kết giác mạc do thuốc/chất bảo quản",
+     "n": "Thuộc nhóm viêm kết mạc do thuốc nhỏ mắt dùng nhiều lần (kháng sinh nằm trong nhóm gây ra; AAO Conjunctivitis PPP 2018, Bảng 1, tr. 108). Ông chỉ nhỏ 6 ngày, giác mạc không khuyết biểu mô; ngưng thuốc thì lành sau vài tuần đến vài tháng (tr. 133). Đây là yếu tố góp phần vào khô mắt, không phải chẩn đoán riêng."
+    },
+    {
+     "t": "Tổn thương giác mạc cần chuyển tuyến (thâm nhiễm, loét)",
+     "n": "Không đau nhói, không sợ ánh sáng, thị lực 9/10, giác mạc chỉ bắt màu chấm, không thâm nhiễm hay loét. Tiêu chuẩn gặp bác sĩ mắt: đau vừa-nặng, không đáp ứng, thâm nhiễm hoặc loét, sẹo kết mạc, giảm thị lực (AAO Dry Eye PPP 2023, tr. 26)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngưng hẳn kháng sinh nhỏ mắt toa cũ, không kê kháng sinh hay corticoid mới",
+     "v": "c",
+     "n": "Không có nhiễm khuẩn; kháng sinh dùng bừa có thể gây độc (AAO Conjunctivitis PPP 2018, Treatment, tr. 127); ngưng thuốc thì bề mặt phục hồi dần (AAO Conjunctivitis PPP 2018, tr. 133)."
+    },
+    {
+     "t": "Giải thích khô mắt là bệnh mạn tính, nêu yếu tố làm nặng (thức khuya, khói thuốc, gió quạt, nhìn màn hình, thuốc nhỏ nhiều lần) và mục tiêu thực tế là giảm triệu chứng",
+     "v": "c",
+     "n": "Giáo dục là phần quan trọng nhất, nêu rõ tính mạn tính và đặt kỳ vọng thực tế (AAO Dry Eye PPP 2023, Management, tr. 21; Counseling, tr. 26; Bảng 3 Bước 1). Khói thuốc thụ động và gió lùa làm nặng thêm (tr. 22)."
+    },
+    {
+     "t": "Chỉnh môi trường: không ngồi trước quạt thổi vào mặt, tránh chỗ có khói thuốc, hạ màn hình, nghỉ định kỳ, chủ động chớp mắt trọn",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Mild Dry Eye, tr. 22: tránh gió lùa, tránh khói thuốc, hạ màn hình dưới tầm mắt, nghỉ định kỳ, chớp mắt trọn; quạt là yếu tố làm nặng (tr. 17); Bảng 3 Bước 1. Mối liên quan trực tiếp của rượu bia với khô mắt: không có trong tài liệu đã tải; phần thức khuya, ngồi quán gió, khói là yếu tố môi trường."
+    },
+    {
+     "t": "Nước mắt nhân tạo không chất bảo quản, nhỏ đều theo lịch",
+     "v": "c",
+     "n": "Dùng thường xuyên (> 4 lần/ngày) thì khuyến cáo loại không chất bảo quản (AAO Dry Eye PPP 2023, tr. 22–23); bề mặt ông đã tổn thương do thuốc có chất bảo quản nên nên chọn loại này (AAO Conjunctivitis PPP 2018, tr. 133: nước mắt nhân tạo không chất bảo quản có ích). Hoạt chất, hàm lượng, số lần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chườm ấm và vệ sinh bờ mi mỗi ngày",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Bảng 3 Bước 1; điều trị yếu tố góp phần như rối loạn tuyến Meibomius (tr. 23). Ông có lỗ tuyến bít và bờ mi đỏ nhẹ. Cách làm cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi và xem xét thuốc toàn thân (hydrochlorothiazid), không tự ngưng, báo bác sĩ điều trị huyết áp để cân nhắc",
+     "v": "c",
+     "n": "Lợi tiểu nằm trong nhóm thuốc có thể làm nặng khô mắt (AAO Dry Eye PPP 2023, tr. 14, 17); Bảng 3 Bước 1: xác định và cân nhắc điều chỉnh thuốc gây khô mắt. Thay thuốc huyết áp là quyết định của bác sĩ điều trị; tài liệu không nêu thuốc thay thế."
+    },
+    {
+     "t": "Ưu tiên xét nghiệm theo giá trị và chi phí: Schirmer, nhuộm fluorescein tại phòng khám; hoãn ANA, RF, TSH, test adenovirus, phết kết mạc; giải thích rõ lý do",
+     "v": "c",
+     "n": "Khám lâm sàng là tiêu chuẩn vàng (AAO Dry Eye PPP 2023, tr. 11); tầm soát tự miễn chỉ khi có dấu hiệu gợi ý (tr. 20). Nói rõ cho ông biết vì sao hoãn để ông bớt sợ."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đi khám khoa mắt ngay, hẹn tái khám có mốc thời gian (khoảng 2 tuần theo thực hành)",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Provider and Setting, tr. 26: đau vừa-nặng, giảm thị lực, thâm nhiễm hoặc loét giác mạc, không đáp ứng. Khoảng cách tái khám: tài liệu không quy định, tùy mức độ và đáp ứng (Follow-up Evaluation, tr. 26); 2 tuần là thực hành."
+    },
+    {
+     "t": "Bổ sung omega-3 đường uống",
+     "v": "a",
+     "n": "Bảng 3 Bước 1 có acid béo thiết yếu đường uống; nhưng một nghiên cứu lớn, mù đôi, 12 tháng không thấy lợi ích hơn giả dược ở khô mắt vừa-nặng (I-, Moderate, Discretionary; AAO Dry Eye PPP 2023, tr. 24). Cả làm lẫn không làm đều chấp nhận."
+    },
+    {
+     "t": "Cyclosporin nhỏ mắt hoặc thuốc kê đơn khác ngay lần đầu",
+     "v": "a",
+     "n": "Bước 2 chọn tùy bác sĩ và ý muốn người bệnh (AAO Dry Eye PPP 2023, ghi chú Bảng 3); chưa cần vì chưa dùng nước mắt đúng cách, và vượt khả năng chi trả."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khô mắt (dry eye) hai mắt, mức nhẹ đến vừa, thể phối hợp thiếu nước mắt nhẹ (Schirmer 6–7 mm) và bay hơi (TBUT 4 giây, tuyến Meibomius bít, bờ mi đỏ nhẹ)",
+     "Yếu tố làm nặng: thức khuya sau bia rượu, khói thuốc, gió quạt thổi vào mặt; thuốc nhỏ mắt kháng sinh có chất bảo quản nhỏ 4–5 lần/ngày; thuốc lợi tiểu (hydrochlorothiazid); nhìn màn hình",
+     "Không viêm kết mạc, chưa có dấu hiệu bệnh tự miễn, không tổn thương giác mạc cần chuyển tuyến",
+     "Điều kiện: lương hưu hạn hẹp, ngại xét nghiệm, cơ sở không có X-quang (không ảnh hưởng chẩn đoán)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do, khởi phát (bia rượu, khuya, khói, quạt), diễn biến trong ngày, ngứa/dị ứng, tiếp xúc đau mắt đỏ, nhìn mờ (hỏi cụ thể), cờ đỏ, thuốc nhỏ mắt và thuốc toàn thân, khô miệng/khớp/mệt (AAO Dry Eye PPP 2023, History, tr. 17–18). Lý do thật (sợ giống ông Bảy) chỉ lộ khi hỏi ông lo điều gì.",
+     "Vì sao khô mắt: cộm rát nặng dần về chiều, mờ thoáng qua hết khi chớp, ghèn nhầy ít (AAO Dry Eye PPP 2023, tr. 12, 17); giác mạc bắt màu vùng khe mi, TBUT 4 giây (dưới cả 10 giây của AAO 2023, Bảng 1, tr. 19 và 5 giây của TFOS DEWS III 2025, mục 2), Schirmer 6–7 mm (< 10 mm gợi ý, chưa < 5,5 mm; Phụ lục 5, tr. 35).",
+     "Vì sao không viêm kết mạc: không ngứa, ghèn mủ, hột, hạch trước tai, sốt (AAO Conjunctivitis PPP 2018, Bảng 1, tr. 113; QĐ 40/2015, Viêm kết mạc cấp mục 3); ông Chín là nhiễu. Kháng sinh toa cũ không có chỉ định và làm rát thêm (AAO Conjunctivitis PPP 2018, tr. 108, 127).",
+     "Vì sao chưa nghĩ tự miễn: không khô miệng, đau khớp, mệt, tiền sử gia đình; miệng ẩm, khớp bình thường (AAO Dry Eye PPP 2023, tr. 20; khoảng 10% khô mắt thiếu nước mắt có Sjögren, tr. 11). Dặn hỏi lại khi tái khám."
+    ],
+    "phan_tich_xu_tri": [
+     "Bước 1 Bảng 3 (AAO Dry Eye PPP 2023, tr. 21); chỉ nhỏ nước mà không xử lý nguyên nhân thường thất bại (tr. 21). Ngưng kháng sinh, không kê kháng sinh/corticoid mới (AAO Conjunctivitis PPP 2018, tr. 127).",
+     "Nước mắt nhân tạo không chất bảo quản vì sẽ nhỏ nhiều lần và bề mặt đã tổn thương (AAO Dry Eye PPP 2023, tr. 22–23; AAO Conjunctivitis PPP 2018, tr. 133). Môi trường: tránh quạt, khói, hạ màn hình (tr. 22).",
+     "Ưu tiên xét nghiệm theo tiền: Schirmer 40.000 đồng và fluorescein tại chỗ; hoãn ANA, RF, TSH, test adenovirus, phết kết mạc (AAO Dry Eye PPP 2023, tr. 20). Cho về, hẹn khoảng 2 tuần (thực hành; Follow-up Evaluation, tr. 26)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước mắt nhân tạo không chất bảo quản (ống đơn liều)",
+      "ham_luong": "Hoạt chất và hàm lượng: không có trong tài liệu đã tải (AAO 2023: các loại có hiệu quả tương đương, tr. 23)",
+      "lieu": "1 giọt mỗi mắt, nhỏ theo lịch cố định, thông thường vài lần mỗi ngày, nhiều hơn khi đọc báo hoặc xem điện thoại lâu (số lần cụ thể: không có trong tài liệu đã tải)",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Sáng khi thức dậy, giữa buổi, sau ăn trưa, chiều, tối trước ngủ; thêm 1 lần khi cộm",
+      "so_ngay": "Đủ dùng đến lần tái khám sau 2 tuần, sau đó dùng lâu dài theo triệu chứng",
+      "ghi_chu": "Dùng > 4 lần/ngày thì ưu tiên loại không chất bảo quản (AAO Dry Eye PPP 2023, Mild Dry Eye, tr. 22–23). Không có thuốc nào khác trong đơn: không kháng sinh, không corticoid."
+     }
+    ],
+    "dan_do": [
+     "Khô mắt là bệnh mạn tính; bỏ yếu tố làm nặng thì giảm rõ (AAO Dry Eye PPP 2023, tr. 15, 26).",
+     "Bỏ lọ kháng sinh cũ, không tự mua thuốc nhỏ mắt khác. Thuốc huyết áp: uống như cũ, kể bác sĩ điều trị huyết áp về khô mắt.",
+     "Tránh quạt thổi vào mặt, khói thuốc, ngủ đủ; nhìn tivi/điện thoại thì nghỉ và chớp mắt trọn; chườm ấm, vệ sinh bờ mi mỗi ngày (AAO Dry Eye PPP 2023, tr. 22).",
+     "Đi khám khoa mắt ngay nếu đau, sợ ánh sáng, mờ nhiều, mắt mủ (AAO Dry Eye PPP 2023, tr. 26). Tái khám sau khoảng 2 tuần."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ông Thịnh trở lại sau 2 tuần, nói mắt đỡ được một phần, chiều vẫn còn cộm. Đi xe máy một mình. Sinh hiệu lúc tiếp đón: HA 134/80 mmHg, mạch 74 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Ông Thịnh bị chuyển lên khoa mắt tuyến trên chỉ vì đỡ chưa hết. Triệu chứng đã giảm, giác mạc không loét, thị lực tốt nên chưa có tiêu chuẩn chuyển (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26). Chuyến đi tốn tiền xe và tiền khám, ông có thể bỏ cả điều trị tại chỗ, trong khi nguyên nhân khiến đỡ chậm (loại thuốc nhỏ và thói quen) sửa được ngay tại đây.",
+    "nhap_vien": "Ông Thịnh bị đề nghị nhập viện vì đỡ chưa hết. Tài liệu không có tiêu chí nhập viện cho khô mắt nhẹ đến vừa; ngay loét giác mạc vô khuẩn do khô mắt cũng chỉ cần theo dõi hằng ngày (AAO 2023, Follow-up Evaluation, tr. 26). Ông mất viện phí và vẫn phải sửa đúng các yếu tố gây nặng.",
+    "theo_doi": "Ông Thịnh bị giữ lại phòng khám theo dõi nhiều giờ hoặc hẹn khám lại từng ngày dù không có loét giác mạc. Khô mắt ổn định không cần theo dõi sát như vậy (AAO 2023, Follow-up Evaluation, tr. 26: tần suất tùy mức độ và đáp ứng). Ông tốn thêm tiền, thời gian, càng ngại tái khám về sau."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đỡ được chừng một nửa thôi, sáng thì ổn, chiều là cộm lại. Hết thuốc nhỏ sớm quá nên tôi có mua thêm chai ngoài tiệm cho rẻ. Bác sĩ xem tôi có phải đổi thuốc đắt hơn không, tôi ngại lắm.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "134/80",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_bien",
+     "noi_dung": "Cộm rát giảm khoảng một nửa so với lần trước (từ 7 xuống 4 trên 10). Sáng dậy ổn, chiều và tối còn cộm; ghèn nhầy trắng còn ít. Không đau, không sợ sáng, thị lực không giảm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến: đỡ một phần, không cờ đỏ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ông đã bỏ hẳn lọ kháng sinh cũ, nhỏ nước mắt nhân tạo đúng lịch khoảng 6 lần/ngày, hết ống đơn liều sau 9 ngày dù đơn cho 14 ngày. Chườm ấm bằng khăn nóng khi nhớ, khoảng 3–4 ngày/tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ: số lần nhỏ, số ống còn, chườm ấm"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Năm ngày nay ông mua thêm chai nước mắt nhân tạo 10 ml ở nhà thuốc, loại có chất bảo quản vì rẻ hơn ống đơn liều, nhỏ 8–10 lần/ngày, kể cả khi không cộm 'cho chắc'. Tự thấy nhỏ nhiều thì mắt mát nhưng chiều vẫn cộm.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có nhỏ gì thêm không' ông đáp 'chỉ nước mắt nhân tạo bác kê'. Chỉ kể chai tự mua khi bác sĩ hỏi cụ thể còn mấy ống, hết thì dùng gì, mua thêm chai nào ở đâu, mỗi ngày nhỏ mấy lần.",
+     "y": "Thuốc có chất bảo quản dùng > 4 lần/ngày"
+    },
+    {
+     "id": "nhau",
+     "noi_dung": "Cuối tuần trước ông lại đi nhậu hai buổi với hội bạn, ngồi quán có quạt và khói, về khuya; hôm sau cộm và đỏ tăng nhẹ 1–2 ngày rồi dịu. Ông không kể vì ngại.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi tuần qua có đi tiệc, thức khuya, uống bia rượu hay ngồi quán không, hoặc có lúc nào mắt nặng lên bất thường.",
+     "y": "Tái phơi nhiễm yếu tố khởi phát"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Không đau nhói, không sợ ánh sáng, không chảy nước ròng, không giảm thị lực kéo dài. Không ghèn mủ, không ngứa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ lặp lại"
+    },
+    {
+     "id": "tu_mien",
+     "noi_dung": "Vẫn không khô miệng, không đau khớp, không mệt, không nổi ban. Ông Bảy mới biết rõ mình bị Sjögren, ông vẫn lo nhưng thấy mình không giống.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tầm soát lại tự miễn; nỗi lo từ bạn"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Một hộp 30 ống đơn liều bằng khoảng nửa tuần tiền ăn của ông nên ông ngại mua. Còn khoảng 100.000 đồng trong túi hôm nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng chi trả thuốc và xét nghiệm",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_nen",
+     "noi_dung": "Vẫn uống amlodipin 5 mg và hydrochlorothiazid 12,5 mg mỗi sáng; chưa nói với bác sĩ huyết áp chuyện khô mắt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc toàn thân"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực có kính 9/10 hai mắt. Bờ mi hơi đỏ, vài lỗ tuyến Meibomius còn bít. Kết mạc còn cương tụ nhẹ vùng khe mi, giảm so với lần trước, không nhú, không hột, không ghèn mủ.",
+     "k": 1
+    },
+    "giac_mac_fluorescein": {
+     "a": "Giác mạc trong. Nhuộm fluorescein: còn khoảng 5 chấm bắt màu mắt phải và 4 chấm mắt trái ở vùng khe mi, ít hơn lần trước. Không khuyết biểu mô, không thâm nhiễm, không loét. TBUT 6 giây hai mắt.",
+     "k": 1
+    },
+    "rang_ham_mat": {
+     "a": "Niêm mạc miệng hồng, ẩm, có nước bọt đọng dưới lưỡi. Không loét miệng.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp nhỏ bàn tay, cổ tay không sưng, không đau, không biến dạng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "schirmer": {
+     "n": "Không cần làm lại: kết quả lần trước đã đủ làm nền; dao động giữa các lần đo và không dùng một mình (AAO Dry Eye PPP 2023, Phụ lục 5, tr. 35), còn quyết định hôm nay dựa trên triệu chứng, nhuộm fluorescein và TBUT. Tiết kiệm 40.000 đồng."
+    },
+    "ana": {
+     "v": "a",
+     "r": "ANA âm tính (< 1:80). Kháng dsDNA âm tính.",
+     "n": "Không bắt buộc: vẫn không khô miệng, đau khớp, mệt hay tiền sử gia đình (AAO Dry Eye PPP 2023, tr. 20). Làm để yên tâm vì ông lo giống bạn thì được, hoãn cũng đúng; Bảng 2 còn nêu SSA, SSB, RF khi nghi Sjögren."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khô mắt hai mắt, mức nhẹ đến vừa, đang đáp ứng một phần với điều trị Bước 1; chưa kiểm soát vì dùng lọ có chất bảo quản nhiều lần, nhỏ không đúng lịch, chườm không đều và tái phơi nhiễm nhậu, quạt, khói",
+     "ok": 1,
+     "n": "Triệu chứng giảm khoảng một nửa; chấm bắt màu fluorescein giảm từ 12 và 10 xuống 5 và 4; TBUT 4 lên 6 giây: còn bất thường theo AAO 2023 (< 10 giây, Bảng 1, tr. 19), trên ngưỡng 5 giây của TFOS DEWS III 2025 (mục 2). Ghi cả hai, kết luận lâm sàng không đổi vì triệu chứng còn. Khô mắt hiếm khi khỏi nhanh; cải thiện từng phần cho thấy đúng hướng (AAO 2023, Natural History, tr. 15)."
+    },
+    {
+     "t": "Thất bại điều trị cần chuyển bậc thuốc kê đơn hoặc chuyển bác sĩ mắt",
+     "n": "Chưa đủ: đã có cải thiện dấu hiệu khách quan; thuốc nhỏ có chất bảo quản nhỏ > 4 lần/ngày và tái phơi nhiễm chưa được sửa (AAO Dry Eye PPP 2023, tr. 14, 22–23). 'Không đáp ứng điều trị' mới là tiêu chuẩn gặp bác sĩ mắt (Provider and Setting, tr. 26)."
+    },
+    {
+     "t": "Viêm kết mạc (nhiễm khuẩn, virus, dị ứng)",
+     "n": "Không ghèn mủ, ngứa, hột, hạch, sốt; không chảy nước ròng (AAO Conjunctivitis PPP 2018, Bảng 1, tr. 113; QĐ 40/2015, Viêm kết mạc cấp mục 3). Đỏ tăng sau nhậu chỉ thoáng, dịu trong 1–2 ngày: do khô mắt nặng lên, không phải viêm."
+    },
+    {
+     "t": "Bệnh tự miễn (hội chứng Sjögren)",
+     "n": "Vẫn không khô miệng, đau khớp, mệt; miệng ẩm, khớp bình thường. Chỉ làm bộ SSA, SSB, RF, ANA khi có dấu hiệu gợi ý (AAO Dry Eye PPP 2023, tr. 20, Bảng 2). Nỗi lo vì bạn là lý do để giải thích, không phải chỉ định xét nghiệm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác định đỡ một phần là diễn tiến thường gặp, không phải thất bại: kiểm số lần nhỏ, thuốc có chất bảo quản tự mua, chườm ấm, tái phơi nhiễm trước khi đổi bậc điều trị",
+     "v": "c",
+     "n": "Bệnh mạn tính, triệu chứng dao động, yếu tố làm nặng sửa được thì cải thiện rõ (AAO Dry Eye PPP 2023, Natural History, tr. 15); tránh chỉ dùng nước mắt mà không xử lý nguyên nhân (Management, tr. 21)."
+    },
+    {
+     "t": "Thay chai nước mắt nhân tạo có chất bảo quản bằng loại không chất bảo quản khi nhỏ nhiều lần; ngưng nhỏ 'cho chắc' khi không cộm",
+     "v": "c",
+     "n": "Dùng thường xuyên (> 4 lần/ngày) thì khuyến cáo loại không chất bảo quản (AAO Dry Eye PPP 2023, tr. 22–23); thuốc nhỏ mắt nhiều lần (> 4 giọt/ngày) có thể gây khô mắt do chất bảo quản (tr. 14). Hoạt chất, số lần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thêm thuốc đặc (gel hoặc thuốc mỡ) cho buổi tối trước ngủ để giảm số lần nhỏ trong ngày",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Mild Dry Eye, tr. 22: gel, thuốc mỡ thường đặc hơn, tác dụng lâu hơn nên giảm được số lần nhỏ, nhưng có thể làm mờ mắt; Bảng 3 Bước 2: điều trị qua đêm (thuốc mỡ hoặc buồng ẩm). Tên thuốc, hàm lượng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Duy trì chườm ấm, vệ sinh bờ mi mỗi ngày và chỉnh môi trường; nhắc hạn chế bia rượu, thức khuya, ngồi quán khói và quạt",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Bảng 3 Bước 1; tr. 22–23. Mối liên quan rượu bia với khô mắt: không có trong tài liệu đã tải; yếu tố khói, gió, thức khuya xem lượt 1."
+    },
+    {
+     "t": "Không làm lại Schirmer và không làm bộ tự miễn hôm nay; giải thích cho ông vì sao (đỡ tiền, không đổi quyết định)",
+     "v": "c",
+     "n": "Quyết định dựa vào triệu chứng và dấu hiệu fluorescein, TBUT (AAO Dry Eye PPP 2023, tr. 11); tầm soát tự miễn khi có gợi ý (tr. 20)."
+    },
+    {
+     "t": "Chưa chuyển bác sĩ mắt, chưa kê cyclosporin; hẹn tái khám, chuyển nếu không đáp ứng sau khi đã chỉnh đúng",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Provider and Setting, tr. 26 (không đáp ứng điều trị, đau, thâm nhiễm, giảm thị lực). Bước 2 có cyclosporin nhưng chọn tùy bác sĩ và ý muốn người bệnh (ghi chú Bảng 3). Hẹn khoảng 4 tuần là thực hành; tài liệu không quy định (Follow-up Evaluation, tr. 26)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khô mắt hai mắt, mức nhẹ đến vừa, đáp ứng một phần với Bước 1 (triệu chứng 7 xuống 4/10; chấm fluorescein 12/10 xuống 5/4; TBUT 4 lên 6 giây)",
+     "Yếu tố làm nặng còn lại: nhỏ nước mắt có chất bảo quản 8–10 lần/ngày, chườm không đều, nhậu và ngồi quạt khói; lợi tiểu",
+     "Không cờ đỏ, không viêm kết mạc, chưa có dấu hiệu tự miễn"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi: diễn tiến so lần trước, tuân thủ (mấy lần, còn mấy ống), thuốc tự mua (hỏi cụ thể), tuần qua có nhậu/khuya, cờ đỏ, khô miệng/khớp (AAO Dry Eye PPP 2023, Follow-up Evaluation, tr. 26).",
+     "Đỡ một phần chưa phải thất bại: dấu hiệu khách quan cải thiện (chấm bắt màu 12/10 xuống 5/4, TBUT 4 lên 6 giây) và còn yếu tố chưa sửa. TBUT 6 giây còn bất thường theo AAO 2023 (< 10 giây, Bảng 1, tr. 19), trên ngưỡng 5 giây của TFOS DEWS III 2025 (mục 2): lâm sàng không đổi vì triệu chứng còn.",
+     "Nước mắt có chất bảo quản 8–10 lần/ngày vượt ngưỡng 4 lần/ngày (AAO Dry Eye PPP 2023, tr. 22–23; tr. 14). Tự miễn: vẫn không gợi ý; Schirmer 6–7 mm chưa đạt ≤ 5 mm (Phụ lục 3, Bảng A3-1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Vẫn Bước 1–2 Bảng 3 (AAO Dry Eye PPP 2023, tr. 21–22): đổi sang không chất bảo quản, thêm gel/mỡ đêm để giảm số lần nhỏ ban ngày (tr. 22), hợp túi tiền.",
+     "Không làm lại Schirmer (40.000 đồng), không làm bộ tự miễn vì không đổi quyết định (AAO Dry Eye PPP 2023, tr. 20). Chưa chuyển bác sĩ mắt, chưa dùng thuốc kê đơn (tr. 26). Hẹn khoảng 4 tuần (thực hành)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước mắt nhân tạo không chất bảo quản (ống đơn liều)",
+      "ham_luong": "Hoạt chất và hàm lượng: không có trong tài liệu đã tải",
+      "lieu": "1 giọt mỗi mắt theo lịch cố định, thường vài lần/ngày; không nhỏ 'cho chắc' khi không cộm (số lần cụ thể: không có trong tài liệu đã tải)",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Sáng, giữa buổi, chiều, tối; thêm khi cộm",
+      "so_ngay": "Đủ dùng đến lần tái khám sau 4 tuần",
+      "ghi_chu": "Dùng > 4 lần/ngày: loại không chất bảo quản (AAO Dry Eye PPP 2023, tr. 22–23). Bỏ chai có chất bảo quản."
+     },
+     {
+      "thuoc": "Gel hoặc thuốc mỡ bôi trơn mắt dùng buổi tối",
+      "ham_luong": "Tên thuốc, hàm lượng: không có trong tài liệu đã tải",
+      "lieu": "Một lượng nhỏ vào mỗi mắt trước ngủ",
+      "duong": "Tra/nhỏ mắt",
+      "thoi_diem": "Trước khi ngủ",
+      "so_ngay": "Đến lần tái khám, sau đó tùy triệu chứng",
+      "ghi_chu": "Thuốc đặc tác dụng lâu hơn, giảm số lần nhỏ, nhưng có thể làm mờ mắt tạm thời, nên dùng buổi tối (AAO Dry Eye PPP 2023, Mild Dry Eye, tr. 22; Bảng 3 Bước 2)."
+     }
+    ],
+    "dan_do": [
+     "Đỡ một nửa sau 2 tuần là tốt; bệnh mạn tính (AAO Dry Eye PPP 2023, tr. 15, 26).",
+     "Không nhỏ nước mắt có chất bảo quản quá 4 lần/ngày; bỏ chai đã mua (AAO Dry Eye PPP 2023, tr. 14, 22–23). Hết thuốc thì gọi phòng khám, đừng tự mua loại khác.",
+     "Đi tiệc: tránh quạt, khói, ngủ đủ, mang theo thuốc nhỏ (AAO Dry Eye PPP 2023, tr. 22). Đi khám khoa mắt ngay nếu đau, sợ ánh sáng, mờ nhiều, mắt mủ (tr. 26). Tái khám sau khoảng 4 tuần."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Ông Thịnh tái khám sau 4 tuần, nói mắt đã ổn gần hết. Đi xe máy một mình. Sinh hiệu lúc tiếp đón: HA 132/78 mmHg, mạch 72 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Ông Thịnh bị chuyển lên khoa mắt dù đã ổn định: triệu chứng chỉ còn nhẹ, giác mạc gần như không bắt màu, thị lực tốt, không có tiêu chuẩn gặp bác sĩ mắt (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26). Ông tốn tiền đi lại, tiền khám, có thể bị chỉ định thêm xét nghiệm tự miễn đắt không cần thiết và quay lại sợ bệnh.",
+    "nhap_vien": "Ông Thịnh bị đề nghị nhập viện dù không có triệu chứng nặng. Tài liệu không nêu chỉ định nhập viện cho khô mắt đã ổn định (AAO 2023, tr. 26). Ông mất viện phí và mất niềm tin vào cách chăm sóc tại nhà.",
+    "theo_doi": "Ông Thịnh bị hẹn khám lại dày, hoặc giữ theo dõi tại phòng khám, dù đã ổn. Tần suất theo dõi tùy mức độ bệnh và đáp ứng điều trị (AAO 2023, Follow-up Evaluation, tr. 26); với khô mắt nhẹ đã ổn không cần theo dõi sát. Ông tốn thêm tiền và có thể bỏ lịch về sau."
+   },
+   "loi_mo": "Chào bác sĩ. Mắt tôi ổn hơn nhiều rồi, chỉ thoảng cộm chút buổi chiều. Cuối tuần rồi nhậu với hội, sáng ra mắt hơi đỏ làm tôi giật mình. Bác sĩ cho tôi hỏi thêm vụ ông Bảy.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "132/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_bien",
+     "noi_dung": "Triệu chứng còn 1–2 trên 10, chỉ thoảng cộm chiều tối khi xem điện thoại lâu. Không đau, không sợ ánh sáng, thị lực tốt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến: ổn định, triệu chứng nhẹ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ông nhỏ nước mắt nhân tạo không chất bảo quản 3–4 lần/ngày, bôi gel mỗi tối, chườm ấm hầu như mỗi ngày. Đã bỏ chai có chất bảo quản. Ngồi quán thì chọn xa quạt, né khói thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ và thay đổi môi trường"
+    },
+    {
+     "id": "do_sang",
+     "noi_dung": "Sau tiệc cuối tuần (uống bia khá nhiều, về khuya) sáng hôm sau mắt hơi đỏ, cộm hơn nhẹ. Không đau, không ghèn mủ, không sợ ánh sáng, tự dịu trong ngày sau khi nhỏ nước mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỏ nhẹ sau nhậu: khô mắt nặng lên thoáng qua, không phải viêm kết mạc",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_cu",
+     "noi_dung": "Ông vẫn giữ lọ thuốc nhỏ mắt kháng sinh cũ trong tủ, định nhỏ khi đỏ mắt nhưng chưa nhỏ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể còn giữ thuốc nhỏ mắt nào không, lần đỏ mắt vừa rồi có định tự nhỏ thuốc nào không.",
+     "y": "Còn giữ lọ kháng sinh cũ; nguy cơ tự nhỏ lại"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ông Bảy nay được hẹn khám chuyên khoa thấp khớp, uống thuốc dài ngày. Ông Thịnh vẫn lo mình sẽ giống, đã nghĩ sẽ có ngày khô miệng, đau khớp rồi tốn tiền như ông Bảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi lo giống bạn: tầm soát lại bằng hỏi, dặn dấu hiệu cần quay lại"
+    },
+    {
+     "id": "tu_mien",
+     "noi_dung": "Không khô miệng, không đau hay sưng khớp, không mệt, không ban. Gia đình không ai có bệnh tự miễn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tầm soát tự miễn lần cuối"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Gel mỗi hộp dùng được lâu nên ông thấy rẻ hơn nhỏ nhiều lần ban ngày; ống đơn liều vẫn đắt nên chỉ dùng khi cần. Ông không muốn tốn thêm tiền xét nghiệm nếu đã hết triệu chứng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chi phí duy trì thuốc",
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực có kính 9/10 hai mắt. Bờ mi hết đỏ, còn vài lỗ tuyến Meibomius bít nhẹ. Kết mạc hầu như không cương tụ, không nhú, không hột, không ghèn mủ.",
+     "k": 1
+    },
+    "giac_mac_fluorescein": {
+     "a": "Giác mạc trong. Nhuộm fluorescein: còn 1–2 chấm bắt màu mỗi mắt ở vùng khe mi. Không khuyết biểu mô, không thâm nhiễm. TBUT 9 giây hai mắt.",
+     "k": 1
+    },
+    "rang_ham_mat": {
+     "a": "Niêm mạc miệng hồng, ẩm, có nước bọt đọng dưới lưỡi, lưỡi không teo gai.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp nhỏ bàn tay, cổ tay không sưng, không đau, không biến dạng. Không Raynaud.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "schirmer": {
+     "n": "Không cần làm lại: triệu chứng và fluorescein đã cải thiện, kết quả không đổi xử trí; dao động giữa các lần đo (AAO Dry Eye PPP 2023, Phụ lục 5, tr. 35)."
+    },
+    "ana": {
+     "v": "a",
+     "r": "ANA âm tính (< 1:80). Kháng dsDNA âm tính.",
+     "n": "Không bắt buộc: không khô miệng, đau khớp, mệt, tiền sử gia đình (AAO Dry Eye PPP 2023, tr. 20). Ông lo giống bạn nên làm được, hoãn cũng đúng; chi phí 250.000 đồng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khô mắt hai mắt, mức nhẹ, đã kiểm soát tốt với điều trị Bước 1–2; đỏ nhẹ thoáng qua sau nhậu là đợt nặng lên của khô mắt",
+     "ok": 1,
+     "n": "Triệu chứng 1–2/10; chấm fluorescein còn 1–2; TBUT 9 giây: còn bất thường theo AAO 2023 (< 10 giây, Bảng 1, tr. 19), bình thường theo TFOS DEWS III 2025 (ngưỡng fluorescein 5 giây, mục 2); ghi cả hai, đánh giá lâm sàng là ổn định. Bệnh mạn tính nên cần duy trì (AAO 2023, Natural History, tr. 15; Counseling, tr. 26)."
+    },
+    {
+     "t": "Viêm kết mạc (nhiễm khuẩn, virus, dị ứng)",
+     "n": "Đỏ nhẹ sáng hôm sau nhậu, tự dịu trong ngày, không ghèn mủ, ngứa, hột, hạch (AAO Conjunctivitis PPP 2018, Bảng 1, tr. 113; QĐ 40/2015, Viêm kết mạc cấp mục 3). Khác với viêm kết mạc cấp tiến triển nhanh."
+    },
+    {
+     "t": "Bệnh tự miễn (hội chứng Sjögren)",
+     "n": "Sau hơn 6 tuần vẫn không khô miệng, đau khớp, mệt; miệng ẩm, khớp bình thường. Xét nghiệm khi có dấu hiệu gợi ý (AAO Dry Eye PPP 2023, tr. 20, Bảng 2); khoảng 10% khô mắt thiếu nước mắt có Sjögren (tr. 11) nên dặn quay lại khi xuất hiện triệu chứng."
+    },
+    {
+     "t": "Viêm kết giác mạc do thuốc/chất bảo quản còn tồn tại",
+     "n": "Ngưng kháng sinh và thuốc có chất bảo quản thì lành dần (AAO Conjunctivitis PPP 2018, tr. 133); giác mạc chỉ còn 1–2 chấm bắt màu nên đã hồi phục gần hết."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Duy trì phác đồ hiện tại, giảm dần lượng theo triệu chứng; tiếp tục nước mắt nhân tạo không chất bảo quản khi cần, gel tối, chườm ấm và vệ sinh bờ mi",
+     "v": "c",
+     "n": "Khô mắt mạn tính; mục tiêu giảm triệu chứng và kiểm soát yếu tố làm nặng (AAO Dry Eye PPP 2023, Natural History, tr. 15; Counseling, tr. 26; Bảng 3 Bước 1–2). Số lần, liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bỏ hẳn lọ kháng sinh cũ; không tự nhỏ khi đỏ mắt; đỏ nhẹ sau nhậu thì chỉ nhỏ nước mắt nhân tạo",
+     "v": "c",
+     "n": "Kháng sinh dùng bừa có thể gây độc (AAO Conjunctivitis PPP 2018, Treatment, tr. 127); thuốc có chất bảo quản nhỏ nhiều lần gây tổn thương (AAO Conjunctivitis PPP 2018, Bảng 1, tr. 108; AAO Dry Eye PPP 2023, tr. 14)."
+    },
+    {
+     "t": "Giải thích khác biệt giữa ông và ông Bảy; hẹn xét nghiệm tự miễn (SSA, SSB, RF, ANA) khi xuất hiện khô miệng, đau khớp, mệt",
+     "v": "c",
+     "n": "Tầm soát khi có dấu hiệu gợi ý hoặc tiền sử gia đình (AAO Dry Eye PPP 2023, tr. 20, Bảng 2); khô miệng + khô mắt gợi ý Sjögren (tr. 20). Ông hiện không có."
+    },
+    {
+     "t": "Giữ thói quen bảo vệ mắt khi đi tiệc: ngồi xa quạt, né khói thuốc, ngủ đủ, hạn chế bia rượu; mang theo nước mắt nhân tạo",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, tr. 22 (gió lùa, khói thuốc). Mối liên quan rượu bia với khô mắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhắc bác sĩ điều trị huyết áp biết ông bị khô mắt để cân nhắc thuốc lợi tiểu, không tự ngưng",
+     "v": "c",
+     "n": "Lợi tiểu có thể làm nặng khô mắt (AAO Dry Eye PPP 2023, tr. 14, 17; Bảng 3 Bước 1)."
+    },
+    {
+     "t": "Hẹn tái khám khi có triệu chứng tăng hoặc dấu hiệu cần gặp bác sĩ mắt; không cần hẹn dày",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Provider and Setting, tr. 26; tần suất theo dõi tùy mức độ và đáp ứng (Follow-up Evaluation, tr. 26). Khoảng cách cụ thể: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khô mắt hai mắt, mức nhẹ, ổn định (triệu chứng 1–2/10; fluorescein 1–2 chấm; TBUT 9 giây)",
+     "Đợt nặng lên thoáng qua sau nhậu, tự dịu; không viêm kết mạc, không dấu hiệu tự miễn; đã ngưng kháng sinh cũ",
+     "Nỗi lo giống ông Bảy được giải thích; mạn tính nên cần duy trì"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi: diễn tiến, tuân thủ, đỏ mắt sau nhậu, còn giữ thuốc cũ không, tầm soát lại tự miễn, nỗi lo (AAO Dry Eye PPP 2023, tr. 26).",
+     "TBUT 9 giây dưới ngưỡng 10 giây của AAO 2023 (Bảng 1, tr. 19) nhưng trên ngưỡng 5 giây của TFOS DEWS III 2025 (mục 2): cả hai đúng, lâm sàng ổn định. Đỏ nhẹ sau nhậu tự dịu, không ghèn mủ: khô mắt nặng lên (tr. 14–15), không phải nhiễm khuẩn (AAO Conjunctivitis PPP 2018, tr. 127)."
+    ],
+    "phan_tich_xu_tri": [
+     "Duy trì Bước 1–2 (AAO Dry Eye PPP 2023, tr. 21–22), giáo dục tính mạn tính (tr. 15, 26); không cần thuốc kê đơn hay chuyển (tr. 26). Bỏ lọ kháng sinh cũ (AAO Conjunctivitis PPP 2018, tr. 127). Tự miễn: xét nghiệm khi có gợi ý (tr. 20)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước mắt nhân tạo không chất bảo quản (ống đơn liều)",
+      "ham_luong": "Hoạt chất, hàm lượng: không có trong tài liệu đã tải",
+      "lieu": "1 giọt mỗi mắt khi cộm, khi ngồi lâu ở nơi gió, khói; không nhỏ 'cho chắc' (số lần cụ thể: không có trong tài liệu đã tải)",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Khi cộm; trước khi ra quán hoặc xem điện thoại lâu",
+      "so_ngay": "Dùng lâu dài theo triệu chứng",
+      "ghi_chu": "Dùng > 4 lần/ngày thì loại không chất bảo quản (AAO Dry Eye PPP 2023, tr. 22–23). Giữ nguyên thuốc đang dùng."
+     },
+     {
+      "thuoc": "Gel hoặc thuốc mỡ bôi trơn mắt buổi tối",
+      "ham_luong": "Tên thuốc, hàm lượng: không có trong tài liệu đã tải",
+      "lieu": "Một lượng nhỏ vào mỗi mắt trước ngủ; giảm dần nếu hết cộm",
+      "duong": "Tra/nhỏ mắt",
+      "thoi_diem": "Trước khi ngủ",
+      "so_ngay": "Theo triệu chứng",
+      "ghi_chu": "Giữ nguyên thuốc đang dùng ở lượt trước (AAO Dry Eye PPP 2023, Mild Dry Eye, tr. 22; Bảng 3 Bước 2)."
+     }
+    ],
+    "dan_do": [
+     "Khô mắt mạn tính, có lúc nặng lên khi khuya, gió, khói (AAO Dry Eye PPP 2023, tr. 15, 26).",
+     "Không nhỏ lại kháng sinh cũ; đỏ nhẹ sau tiệc thì nhỏ nước mắt nhân tạo, chườm ấm; không dịu trong 1–2 ngày hoặc có mủ thì quay lại (AAO Conjunctivitis PPP 2018, tr. 127).",
+     "Ông khác ông Bảy ở chỗ không khô miệng, đau khớp; nếu xuất hiện thì quay lại làm xét nghiệm (tr. 20). Đi khám khoa mắt ngay nếu đau, sợ ánh sáng, mờ nhiều, mắt mủ (tr. 26)."
+    ]
+   }
+  }
+ ]
+}
