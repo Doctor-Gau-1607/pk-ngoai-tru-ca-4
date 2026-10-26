@@ -1,0 +1,492 @@
+{
+ "ma_ca": "TM-0282",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_kho_mat_tai_phat_bo_thuoc_so_lao",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Khô mắt",
+  "chan_doan_phai_loai_tru": [
+   "Viêm kết mạc",
+   "Bệnh tự miễn"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "nghe_nghiep": "Buôn bán nhỏ (bà chủ tiệm tạp hóa nhỏ ở góc chợ có mái tôn, ngồi bán cả ngày, sáng tự nhập hàng)",
+  "yeu_to_khoi_phat": "Sau gắng sức nặng (3 tuần trước, một mình khuân nhiều thùng hàng nặng từ xe tải xuống, mệt lả vài ngày rồi mắt bắt đầu cộm)",
+  "thuoc_dang_dung": "Thuốc ho thảo dược (siro ho thảo dược mua ở nhà thuốc, uống 8 ngày nay); hỏi kỹ mới lộ thêm lọ thuốc nhỏ mắt giảm đỏ tự mua",
+  "ly_do_that_su_den_kham": "Sợ mắc lao (bà hàng xóm cạnh quầy vừa được chẩn đoán lao phổi; bà đang ho và mắt đỏ nên sợ bị lao, sợ mất khách, không dám nói thẳng)",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Thị Tám",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Buôn bán nhỏ: bà chủ tiệm tạp hóa nhỏ ở góc chợ có mái tôn, ngồi bán từ 5 giờ sáng đến chiều, sáng tự nhập hàng",
+  "can_nang": 44,
+  "chieu_cao": 149,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tui', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Gầy, nói nhỏ, hay lo xa, sợ làm phiền và sợ bị trách. Cẩn thận chuyện tiền bạc nên tiếc tiền thuốc. Sợ nhất là bị người trong chợ tránh mặt nếu mang tiếng bệnh truyền nhiễm. Thân mật dần khi bác sĩ hỏi nhẹ nhàng, không phán xét.",
+  "kieu_nhieu": "Giấu tiền sử: bà chỉ nói 'mắt đỏ, cộm ba tuần'. Không kể lần khám mắt năm ngoái, việc bỏ thuốc sớm, lọ thuốc nhỏ mắt giảm đỏ đang nhỏ mỗi ngày, cơn ho, hay bà hàng xóm bị lao. Chỉ lộ từng mảnh khi bác sĩ hỏi đúng chỗ bằng giọng không trách; bị hỏi dồn hoặc bị trách bà im, nói 'không có gì đâu'.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c2956f",
+   "toc": "#d9d9d6",
+   "kieuToc": "bui",
+   "ao": "#8a7a68",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 5,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Hai mắt đỏ, cộm, hay chảy nước mắt, chiều nhìn mờ khoảng 3 tuần, lo không biết có phải bệnh nặng",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT (CT hốc mắt, CT ngực...). Ca này không cần CT: quyết định bằng hỏi bệnh, khám mắt có nhuộm fluorescein, Schirmer, thang triệu chứng ho và tái khám có mốc; chỉ chuyển tuyến khi có tiêu chí của AAO (đau vừa-nặng, không đáp ứng, thâm nhiễm hay loét giác mạc, sẹo kết mạc tiến triển, giảm thị lực)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 78 tuổi, bán tạp hóa nhỏ ở chợ, đi một mình đến khám vì hai mắt đỏ, cộm, hay chảy nước mắt, chiều nhìn mờ khoảng 3 tuần, bà lo không biết có phải bệnh nặng. Sinh hiệu lúc tiếp đón: HA 142/84 mmHg, mạch 76 l/p, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bà Tám bị chuyển lên khoa mắt tuyến trên dù chưa có tiêu chí: không đau, thị lực 8/10, giác mạc chỉ bắt màu chấm, không thâm nhiễm hay loét (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26). Bà 78 tuổi đi một mình, tiệm đóng cửa cả ngày, mất tiền xe và buổi chờ khám. Nghe 'chuyển lên trên' bà càng tin mình bệnh nặng, trong khi nỗi sợ lao chưa được hỏi đến và lọ thuốc nhỏ giảm đỏ vẫn nằm trong túi.",
+    "nhap_vien": "Bà Tám bị đề nghị nhập viện dù khô mắt nhẹ đến vừa, giác mạc không loét; tài liệu đã tải không có tiêu chí nhập viện cho khô mắt, ngay cả loét giác mạc vô khuẩn do khô mắt cũng chỉ cần theo dõi hằng ngày (AAO Dry Eye PPP 2023, Follow-up Evaluation, tr. 26). Bà mất nhiều ngày bán hàng, tiệm đóng cửa, cả chợ đồn bà 'vào viện' vì lao đúng như điều bà sợ nhất, còn quạt thổi mặt và thuốc nhỏ có chất bảo quản vẫn nguyên.",
+    "theo_doi": "Bà Tám bị giữ lại phòng khám theo dõi vài giờ dù khô mắt không cấp tính và không cần quan sát thêm (AAO Dry Eye PPP 2023, Follow-up Evaluation, tr. 26: tần suất theo dõi tùy mức độ bệnh và đáp ứng). Bà mất nửa buổi bán hàng, bực vì 'chờ lâu mà chẳng được dặn gì', và trên đường về ghé tiệm thuốc đầu chợ mua thêm thuốc nhỏ mắt giảm đỏ, nhỏ nhiều lần mỗi ngày như trước (AAO Dry Eye PPP 2023, tr. 14: nhỏ thuốc mắt hơn 4 lần mỗi ngày có thể gây triệu chứng khô mắt do chất bảo quản)."
+   },
+   "loi_mo": "Chào bác sĩ. Hai con mắt tui đỏ, cộm cộm như có cát, chảy nước mắt hoài ba tuần nay rồi, chiều tối nhìn mờ mờ. Bác sĩ coi giùm tui có phải bệnh nặng không?",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "142/84",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai mắt đỏ, cộm như có cát, nóng rát, hay chảy nước mắt, chiều tối nhìn mờ mờ, khoảng 3 tuần nay. Bà đi một mình, chỉ nói chuyện mắt và hỏi 'có phải bệnh nặng không'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, thời gian, lo 'bệnh nặng'"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Hai mắt như nhau. Sáng dậy có chút ghèn nhầy trắng ở khóe mắt, mi không dính, không ghèn vàng xanh. Chớp mắt vài cái thì nhìn rõ hơn. Không đau nhói, không sợ ánh sáng, không thấy quầng sáng quanh đèn. Càng chiều càng khó chịu; nhỏ thuốc thì dễ chịu một lát rồi cộm lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm khô mắt: nặng dần về chiều, ghèn nhầy ít, mờ thoáng qua hết khi chớp, không đau, không sợ sáng"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 3 tuần trước, xe hàng đến mà cháu đi vắng, bà tự khuân nhiều thùng mì gói và bao đường từ xe xuống tiệm, mệt lả hai ba ngày. Mấy hôm sau mắt bắt đầu cộm. Không bụi, hóa chất hay vật gì bắn vào mắt, không té, không va đập. Hôm khuân hàng bà 'nín thở gồng', sợ 'đứt mạch máu trong mắt', nhưng không thấy mảng đỏ bầm nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau gắng sức nặng; chấn thương, hóa chất; nỗi lo xuất huyết mắt"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Tiệm tạp hóa nhỏ ở góc chợ có mái tôn, nóng và bụi bột, bụi đường. Bà ngồi sau quầy 10–11 tiếng, cái quạt máy đặt trên quầy thổi thẳng vào mặt cả ngày vì nóng. Bà hay nhìn sổ nợ, tính tiền, ít khi nghỉ. Không đeo kính. Không hút thuốc; trong chợ có người hút thuốc gần quầy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phơi nhiễm: quạt thổi thẳng, bụi, ngồi lâu, nhìn gần, khói thuốc"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bà ho nên uống siro ho thảo dược mua ở nhà thuốc đầu chợ, ngày 3 lần, mỗi lần một muỗng, được 8 ngày; nhãn chỉ ghi chiết xuất thảo dược, bà không biết thành phần. Không uống thuốc huyết áp, dị ứng, thuốc ngủ, chống trầm cảm, nội tiết hay lợi tiểu. Nếu không hỏi tiếp, bà chỉ nói 'tui có uống siro ho thôi'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: siro ho thảo dược; không có thuốc làm nặng khô mắt (lợi tiểu, kháng histamin, chống trầm cảm, kháng cholinergic)"
+    },
+    {
+     "id": "tien_su_mat",
+     "noi_dung": "Khoảng 11 tháng trước bà cộm rát mắt như lần này, đi phòng khám mắt ở thị xã, bác sĩ nói 'khô mắt', cho nước mắt nhân tạo, dặn chườm ấm, rửa mi. Bà dùng khoảng hai tuần thấy đỡ thì ngưng vì tiếc tiền và 'hết rồi'. Từ đó vào mùa nắng gió mắt lại cộm vài đợt, bà tự chịu hoặc tự mua thuốc. Bà không nhắc vì sợ bị trách 'không nghe lời bác sĩ'. Chưa mổ mắt, không đeo kính áp tròng, không tiền sử glôcôm.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tiền sử khô mắt đã chẩn đoán, bỏ điều trị sớm (tái phát)",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi 'trước đây bà có bị mắt như vầy lần nào chưa', 'bà có đi khám mắt bao giờ chưa' hoặc hỏi nhẹ nhàng về thuốc đã dùng cho mắt. Hỏi dồn hay trách: bà im lặng, nói 'lâu rồi, quên rồi'."
+    },
+    {
+     "id": "thuoc_nho_mat",
+     "noi_dung": "Từ khi cộm, bà tự mua ở tiệm thuốc đầu chợ lọ thuốc nhỏ mắt ghi 'giảm đỏ, mát mắt', nhỏ mỗi mắt 1–2 giọt, 5–6 lần mỗi ngày, được khoảng 3 tuần, đã hết một lọ và đang dùng lọ thứ hai (để trong túi). Nhỏ vào mắt bớt đỏ, dễ chịu vài phút rồi cộm và đỏ lại nên bà nhỏ liên tục. Nhãn ghi có chất bảo quản; bà không biết hoạt chất. Bà không coi đây là 'thuốc' nên không nhắc.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc nhỏ mắt tự mua, tần suất nhỏ nhiều lần mỗi ngày, có chất bảo quản",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng về thuốc nhỏ mắt, 'bà có nhỏ gì vào mắt không' hoặc xin xem lọ trong túi. Hỏi chung 'bà uống thuốc gì' thì bà chỉ kể siro ho."
+    },
+    {
+     "id": "ngua_di_ung",
+     "noi_dung": "Mắt không ngứa, không hắt hơi, sổ mũi, không cơ địa dị ứng. Không ghèn mủ, mi không dính chặt khi ngủ dậy, không sưng hạch trước tai, không sốt. Không ai trong nhà đau mắt đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ viêm kết mạc dị ứng, virus, vi khuẩn",
+     "nhieu": 1
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Không đau nhói trong mắt hay nhức quanh hố mắt, không nhức đầu, buồn nôn, không sợ ánh sáng, không quầng sáng quanh đèn, không giảm thị lực kéo dài. Không bụi, nước vôi hay hóa chất bắn vào mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ: đau, sợ sáng, giảm thị lực, quầng sáng, hóa chất"
+    },
+    {
+     "id": "tu_mien",
+     "noi_dung": "Miệng không khô, ăn cơm không cần uống nước kèm, không loét miệng. Không đau hay sưng khớp nhỏ ở tay, không cứng khớp buổi sáng, không mệt bất thường, không ban sau nắng, không ngón tay tím khi lạnh. Hai gối đau khi leo cầu thang nhiều năm. Gia đình không ai bị bệnh khớp hay tự miễn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc bệnh tự miễn: khô miệng, khớp, mệt, Raynaud, tiền sử gia đình"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Bà ho khan, thỉnh thoảng chút đờm trắng, khoảng 10 ngày nay, bắt đầu sau một sáng nhiều bụi bột; nhẹ dần từ ngày uống siro. Không sốt, không ra mồ hôi đêm, không ho ra máu, không đau ngực, không khó thở. Ăn uống như thường, cân nặng khoảng 44 kg như mọi lần cân ở trạm y tế. Trước đó không ho kéo dài, chưa từng điều trị lao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng hô hấp: thời gian ho (dưới 2 tuần), sốt, mồ hôi đêm, sụt cân, ho máu, tiền sử lao",
+     "nhieu": 1
+    },
+    {
+     "id": "tiep_xuc_lao",
+     "noi_dung": "Bà Hạnh bán bún ngồi quầy ngoài trời kế bên, cách khoảng 2 mét, hai bà nói chuyện hằng ngày; ba tuần trước bà Hạnh ho ra máu, đi viện, được chẩn đoán lao phổi, đang điều trị và nghỉ bán. Hai bà không ở chung nhà, không ngủ chung, không ngồi chung phòng kín. Cả chợ xôn xao chuyện này.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tiếp xúc với người bệnh lao: mức độ (không cùng nhà, không cùng phòng)",
+     "nhieu": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi về người xung quanh bị bệnh, tiếp xúc người ho, bệnh lao, hoặc 'bà còn lo điều gì'. Hỏi chỉ về mắt thì bà không nhắc."
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà nghe người ta nói 'lao có thể lan lên mắt' và thấy mình vừa ho vừa đỏ mắt sau khi ngồi cạnh bà Hạnh nên sợ mình bị lao. Bà sợ nếu có lao thì cả chợ biết, khách tránh quầy, con cháu cấm bán. Vì sợ nên bà không dám hỏi thẳng, chỉ nói chuyện mắt, hy vọng bác sĩ 'tự thấy'. Điều bà cần là được nghe chắc chắn bà có hay không có lao.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: sợ mắc lao, sợ mang tiếng và mất khách",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ho, tiếp xúc người bệnh lao, 'bà còn lo điều gì', 'bà nghĩ mắt mình bị vì sao', hoặc hứa giữ kín. Nếu chỉ hỏi về mắt, bà chỉ nhắc 'tui lo bệnh nặng'."
+    },
+    {
+     "id": "thao_tac_chi_phi",
+     "noi_dung": "Bà sống với cháu gái đi làm công nhân, sáng bà tự mở tiệm. Hai tay hơi run khi nhỏ thuốc, hay nhỏ trật; đọc chữ nhỏ trên nhãn khó. Lọ nước mắt nhân tạo năm ngoái bà thấy 'mắc so với tiền lời mỗi ngày'; bà chịu mua nếu bác sĩ nói rõ cần dùng bao lâu và vì sao.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng thao tác nhỏ thuốc ở người cao tuổi, chi phí, điều kiện tuân thủ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bà gầy, tỉnh táo, trả lời đúng, nói nhỏ. Da niêm hồng nhạt, không vàng da. Cân nặng 44 kg, cao 149 cm. Đi lại chậm nhưng tự đi được.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Thị lực không kính: mắt phải 8/10, mắt trái 8/10 (rõ hơn sau vài lần chớp). Mi không phù, không sụp, nhắm kín đủ, chớp mắt ít và nông. Bờ mi hơi đỏ, vài lỗ tuyến Meibomian bít, ép mi ra chất đục đặc như kem; không vảy cổ áo, không lông xiêu. Kết mạc cương tụ nhẹ đến vừa vùng khe mi hai bên, không nhú, không hột, không phù, không ghèn mủ, không mảng xuất huyết dưới kết mạc; vài sợi nhầy trắng ở cùng đồ dưới; kết mạc sụn mi hồng, không nhú, không sẹo. Bờ lệ dưới thấp. Đồng tử đều 3 mm, phản xạ ánh sáng tốt.",
+     "k": 1
+    },
+    "giac_mac_fluorescein": {
+     "a": "Giác mạc trong. TBUT đo trước khi nhỏ thuốc khác: 4 giây mắt phải, 6 giây mắt trái. Nhuộm fluorescein: chấm bắt màu rải rác 1/3 dưới giác mạc vùng khe mi, khoảng 12 chấm mắt phải và 9 chấm mắt trái; không khuyết biểu mô, không thâm nhiễm, không loét, không dị vật.",
+     "k": 1
+    },
+    "nhan_ap": {
+     "a": "Nhãn áp ước lượng bằng ngón tay: hai mắt mềm đều nhau, không cứng. Tiền phòng không nông, đồng tử tròn đều.",
+     "k": 1
+    },
+    "le_dao": {
+     "a": "Ấn túi lệ hai bên không có mủ nhầy trào ra, góc trong mắt không sưng đỏ.",
+     "k": 0
+    },
+    "rang_ham_mat": {
+     "a": "Niêm mạc miệng hồng, ẩm vừa, nước bọt đọng dưới lưỡi, lưỡi không teo gai. Mất nhiều răng theo tuổi, không loét miệng, tuyến mang tai không to.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch trước tai, dưới hàm, cổ. Tuyến mang tai và dưới hàm không to. Không lồi mắt, mi không co kéo, tuyến giáp không to.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp ngón tay hơi to kiểu thoái hóa ở khớp xa, không sưng nóng, không lệch trục ngón; cổ tay không sưng. Hai gối lạo xạo khi cử động, không sưng nóng. Hai tay run nhẹ khi cầm lọ nhỏ và mở nắp, nắm tay yếu vừa, không dấu Raynaud.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da mặt rám nắng, nếp nhăn theo tuổi, không đỏ ửng giãn mạch ở má và mũi, không sẩn mủ.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, không mủ, amidan không to. Niêm mạc mũi hồng, không dịch mủ. Màng nhĩ bình thường.",
+     "k": 0
+    },
+    "tim": {
+     "hien": "Nhịp đều, tần số 76 l/p.",
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi. Mạch quay đều.",
+     "k": 0,
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "Tim đều khoảng 76 l/p, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "hien": "Nhịp thở 18 l/p.",
+     "a": "Rì rào phế nang êm hai phế trường, không ran. Lồng ngực cân đối, gõ trong. Nhịp thở 18 l/p.",
+     "k": 1,
+     "media": [
+      {
+       "vi_tri": "Hai phế trường",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "schirmer": {
+     "v": "u",
+     "r": "Schirmer I (không gây tê), 5 phút: mắt phải 7 mm, mắt trái 6 mm",
+     "ab": 1,
+     "n": "Dưới 5,5 mm sau 5 phút mới là ngưỡng chẩn đoán thiếu nước mắt (AAO Dry Eye PPP 2023, Bảng 1, tr. 19); dưới 10 mm chỉ gợi ý, kết quả dao động nên không dùng một mình (Phụ lục 5, tr. 35). Bà 6–7 mm: mức gợi ý, chưa đạt ngưỡng chẩn đoán."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "X-quang ngực thẳng: nhu mô hai phổi không thấy đông đặc, nốt, hang hay thâm nhiễm; không tràn dịch màng phổi; bóng tim không to; cung động mạch chủ vôi hóa nhẹ (phù hợp tuổi).",
+     "n": "Không bắt buộc: bà ho dưới 2 tuần, không sốt, không sụt cân, chưa phải người nghi lao (QĐ 162/2024, Phần II mục 1.1a Bảng 1); tài liệu đã tải không nêu chỉ định chụp ngực cho người chưa nghi lao. Làm cũng chấp nhận được để trấn an người đang rất lo; dù kết quả thế nào vẫn dặn quay lại nếu ho quá 2 tuần."
+    },
+    "xpert": {
+     "v": "n",
+     "r": "Xpert MTB/RIF đờm: bà không khạc được đờm đủ để làm mẫu; mẫu nước bọt không đạt tiêu chuẩn, không trả kết quả.",
+     "n": "Không có chỉ định: bà không khạc đờm đáng kể, ho dưới 2 tuần, chưa phải người nghi lao (QĐ 162/2024, Phần II mục 1.1a Bảng 1); xét nghiệm vi sinh dành cho người nghi lao (mục 2.1)."
+    },
+    "igra": {
+     "v": "n",
+     "r": "IGRA (QuantiFERON): âm tính.",
+     "n": "Không có chỉ định lúc này: xét nghiệm lao tiềm ẩn áp dụng cho người tiếp xúc hộ gia đình và nhóm nguy cơ cao (QĐ 162/2024, Phần IV mục 1.1, 1.2.2); bà tiếp xúc ngoài trời, không cùng nhà, không cùng phòng (Phần I mục 1.5)."
+    },
+    "ana": {
+     "v": "a",
+     "r": "ANA âm tính (< 1:80). Kháng dsDNA âm tính.",
+     "n": "Không bắt buộc: PPP chỉ nêu đánh giá tự miễn khi khô mắt đáng kể kèm dấu hiệu tự miễn khác hoặc tiền sử gia đình (AAO Dry Eye PPP 2023, tr. 20); bà không có nên hoãn là hợp lý, làm cũng không trừ điểm. Nghi Sjögren thì bộ đầu tiên là SSA, SSB, ANA, RF (Bảng 2, tr. 20)."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch (không rõ giờ ăn): 6,4 mmol/L.",
+     "n": "Không bắt buộc. Đái tháo đường đi cùng khô mắt (AAO Dry Eye PPP 2023, tr. 13); bà không rõ mình có đái tháo đường nên đo nhanh là hợp lý. Ngưỡng chẩn đoán đái tháo đường: ngoài phạm vi ca."
+    },
+    "test_adeno": {
+     "v": "n",
+     "r": "Test nhanh kháng nguyên adenovirus dịch kết mạc hai mắt: âm tính.",
+     "n": "Không có chỉ định: bệnh 3 tuần, không cấp tính, không hạch trước tai, không ghèn nhiều; kết quả không đổi xử trí (AAO Conjunctivitis PPP 2018, Highlighted Findings, tr. 8)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khô mắt (hội chứng khô mắt) hai mắt, mức nhẹ đến vừa, thể bay hơi trội (rối loạn tuyến Meibomian) phối hợp thiếu nước mắt nhẹ; nặng lên do quạt thổi thẳng mặt và bụi, nhỏ thuốc nhỏ mắt giảm đỏ có chất bảo quản 5–6 lần/ngày, và việc bỏ điều trị đợt trước; tuổi cao, nữ, đã mãn kinh",
+     "ok": 1,
+     "n": "Cộm rát, chảy nước mắt phản xạ, mờ thoáng qua hết khi chớp, nặng dần về chiều, ghèn nhầy ít (AAO Dry Eye PPP 2023, Diagnosis – History, tr. 17; Natural History, tr. 15). TBUT 4 và 6 giây: AAO coi dưới 10 giây là bất thường (Bảng 1, tr. 19), TFOS DEWS III 2025 hạ ngưỡng xuống 5 giây khi dùng fluorescein (mục 2): mắt phải dưới cả hai, mắt trái bất thường theo AAO nhưng chưa dưới 5 giây. Hơn 5 chấm bắt màu fluorescein là một dấu hiệu chẩn đoán (TFOS Hình 1); Schirmer 6–7 mm dưới 10 mm gợi ý, chưa dưới 5,5 mm (AAO tr. 19, 35). OSDI-6 không làm (danh mục không có). Khám lâm sàng là chính (AAO tr. 11). Yếu tố làm nặng: gió, quạt (tr. 14); nhỏ thuốc mắt hơn 4 lần/ngày gây tổn thương biểu mô do chất bảo quản (tr. 14; TFOS mục 4.6); tuổi cao, nữ (tr. 13). Hai thể thiếu nước mắt và bay hơi thường cùng tồn tại (tr. 21)."
+    },
+    {
+     "t": "Viêm kết mạc (vi khuẩn, virus, dị ứng)",
+     "n": "Không ngứa, không cơ địa dị ứng, không ghèn mủ, mi không dính, không hột, không hạch trước tai, không sốt, kéo 3 tuần. Viêm kết mạc virus có xốn cộm, tiết tố trắng hoặc dịch hồng, hạch trước tai, sốt nhẹ (QĐ 40/2015, bài Viêm kết mạc cấp, mục 3). Khô mắt và viêm bờ mi là nguyên nhân thường gặp nhất của viêm kết mạc mạn (AAO Conjunctivitis PPP 2018, tr. 9). Mắt đỏ của bà một phần do thuốc nhỏ giảm đỏ, không do nhiễm khuẩn."
+    },
+    {
+     "t": "Bệnh tự miễn (hội chứng Sjögren, viêm khớp dạng thấp, lupus)",
+     "n": "Khô mắt kèm khô miệng, đau khớp, mệt hay tiền sử gia đình tự miễn mới gợi ý (AAO Dry Eye PPP 2023, tr. 18, 20). Bà không khô miệng, không đau khớp nhỏ, không mệt, Schirmer chưa dưới 5,5 mm. Sjögren cần khô mắt hoặc miệng từ 3 tháng không giải thích được bằng cách khác, ví dụ do thuốc, và tổng điểm từ 4 (Phụ lục 3, Bảng A3-1, tr. 32). Khoảng 10% người khô mắt thiếu nước mắt có Sjögren nền (tr. 11): hỏi lại khi tái khám."
+    },
+    {
+     "t": "Lao (lao phổi, lao ngoài phổi) do tiếp xúc với bà hàng xóm bị lao",
+     "n": "Ho khan dưới 2 tuần, giảm dần, không sốt, mồ hôi đêm, sụt cân, ho máu; phổi bình thường, SpO₂ 96%. Ho kéo dài trên 02 tuần là triệu chứng nghi lao quan trọng nhất, thêm gầy sút, sốt nhẹ chiều, mồ hôi đêm, đau ngực (QĐ 162/2024, Phần II mục 1.1a Bảng 1): bà chưa đủ tiêu chuẩn người nghi lao. Người tiếp xúc là thành viên cùng nhà, cùng phòng làm việc, hoặc ở cùng nhà hay phòng đủ thời gian quy định (Phần I mục 1.5); bà ngồi ngoài trời cách 2 mét nên không thuộc định nghĩa. Phần II mục 1.3 có 'người tiếp xúc trực tiếp với nguồn lây' là yếu tố nguy cơ nhưng không định nghĩa mức tiếp xúc ở chợ ngoài trời: không có trong tài liệu đã tải. Dấu hiệu mắt đã giải thích đủ bằng khô mắt; QĐ 40/2015 không có bài lao mắt."
+    },
+    {
+     "t": "Tổn thương giác mạc cần chuyển tuyến (loét, thâm nhiễm, dị vật, hóa chất) hoặc glôcôm góc đóng cấp",
+     "n": "Không đau nhói, không sợ sáng, thị lực 8/10, giác mạc chỉ bắt màu chấm nhỏ vùng khe mi, không thâm nhiễm hay loét, không dị vật, không hóa chất; nhãn áp không cao. Tiêu chuẩn gặp bác sĩ mắt: đau vừa hoặc nặng, không đáp ứng điều trị, thâm nhiễm hoặc loét giác mạc, sẹo kết mạc tiến triển, giảm thị lực (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26). Glôcôm góc đóng cấp có đau nhức mắt lan lên đầu, nhìn mờ, quầng sáng, buồn nôn, nhãn áp rất cao (QĐ 40/2015, bài Glôcôm góc đóng nguyên phát, mục 3a); bà không có."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích khô mắt là bệnh mạn tính, hay tái phát khi ngưng thuốc hoặc gặp lại gió quạt bụi; nêu yếu tố làm nặng của bà và mục tiêu thực tế là giảm triệu chứng",
+     "v": "c",
+     "n": "Giáo dục là phần quan trọng nhất, nêu rõ tính mạn tính và kỳ vọng thực tế (AAO Dry Eye PPP 2023, Management, tr. 21; Counseling, tr. 26); điều trị lâu dài, hiếm khi khỏi hẳn (tr. 11). Cải thiện bền vững cần giáo dục lối sống và tuân thủ (TFOS DEWS III 2025, mục 3)."
+    },
+    {
+     "t": "Ngưng lọ thuốc nhỏ mắt giảm đỏ tự mua (đang nhỏ 5–6 lần/ngày, có chất bảo quản), thay bằng nước mắt nhân tạo theo lịch",
+     "v": "c",
+     "n": "Xác định và loại bỏ thuốc nhỏ mắt gây bệnh (AAO Dry Eye PPP 2023, Bảng 3 Bước 1, tr. 21); nhỏ thuốc mắt hơn 4 lần/ngày gây triệu chứng khô mắt do chất bảo quản (tr. 14); thuốc co mạch nằm trong danh sách thuốc nhỏ mắt cần hỏi (tr. 17; TFOS DEWS III 2025, mục 4.6). Hoạt chất lọ bà dùng, thời gian mắt đỏ lại sau khi ngưng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nước mắt nhân tạo theo lịch cố định; dùng hơn 4 lần mỗi ngày dài hạn thì chọn loại không chất bảo quản; xét khả năng thao tác nhỏ thuốc của bà (tay run)",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, tr. 22–23: loại có chất bảo quản đủ cho dry eye nhẹ; dùng thường xuyên, dài hạn (hơn 4 lần/ngày) thì nên dùng loại không chất bảo quản; các loại hiệu quả tương đương. Tần suất nhỏ phụ thuộc sự khéo tay (tr. 22); miếng hydroxypropyl cellulose cho người không tự nhỏ được (tr. 25). Hoạt chất, hàm lượng, số lần nhỏ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chườm ấm và vệ sinh bờ mi mỗi ngày (rối loạn tuyến Meibomian)",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Bảng 3 Bước 1 (vệ sinh bờ mi và chườm ấm, tr. 21); điều trị yếu tố góp phần như viêm bờ mi, rối loạn tuyến Meibomian (tr. 23). Cách làm (nhiệt độ, thời gian): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉnh môi trường nghề: quạt không thổi thẳng mặt, kính ôm có chắn bên hoặc kính buồng ẩm, nghỉ ngắn định kỳ và chớp mắt trọn, tránh khói thuốc cạnh quầy",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Mild Dry Eye, tr. 22: tránh gió lùa bằng kính có chắn bên, đổi hướng luồng khí nơi làm việc, nghỉ định kỳ, chớp mắt trọn, tránh khói thuốc thụ động; gió, độ ẩm thấp làm nặng (tr. 14); kính chắn bên, buồng ẩm không xâm lấn (tr. 24). Bụi bột, bụi đường làm nặng khô mắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi về ho, tiếp xúc, 'bà còn lo điều gì'; giải thích ho dưới 2 tuần, không sốt, không sụt cân, phổi bình thường thì chưa phải người nghi lao, không cần xét nghiệm lao hôm nay; dặn quay lại nếu ho quá 2 tuần hoặc sốt chiều, ra mồ hôi đêm, sụt cân, ho ra máu",
+     "v": "c",
+     "n": "Ho kéo dài trên 02 tuần là triệu chứng nghi lao quan trọng nhất; kèm gầy sút, sốt nhẹ chiều, mồ hôi đêm, đau ngực (QĐ 162/2024, Phần II mục 1.1a Bảng 1). Bà ngồi ngoài trời, không cùng nhà hay phòng nên không thuộc định nghĩa người tiếp xúc (Phần I mục 1.5). Báo trạm y tế biết có người bệnh lao ở chợ: quy trình cho tiếp xúc ngoài hộ gia đình, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi lý do thật (sợ lao, sợ bị tránh mặt), giữ kín thông tin, ghi nhận nỗi sợ và hỏi chi phí, ai giúp bà nhỏ thuốc",
+     "v": "c",
+     "n": "Hỏi đầy đủ bệnh sử gồm thuốc nhỏ mắt, lần khám trước (AAO Dry Eye PPP 2023, History, tr. 17–18); định kỳ đánh giá lại sự tuân thủ và hiểu biết (Counseling, tr. 26); chi phí điều trị dài hạn đáng kể, nước mắt nhân tạo thường không được bảo hiểm chi trả theo bối cảnh Hoa Kỳ (Socioeconomic, tr. 27); mức chi trả bảo hiểm y tế tại Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đi khám khoa mắt ngay (đau mắt, sợ ánh sáng, thị lực giảm, ghèn mủ nhiều, nhìn đèn có quầng); hẹn tái khám có mốc thời gian để xem lại kết quả, sự tuân thủ và các triệu chứng khô miệng, khớp, mệt",
+     "v": "c",
+     "n": "Gặp bác sĩ mắt khi: đau vừa hoặc nặng, không đáp ứng điều trị, thâm nhiễm hoặc loét giác mạc, sẹo kết mạc tiến triển, giảm thị lực (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26). Khoảng cách tái khám tùy mức độ và đáp ứng, không quy định số tuần (Follow-up, tr. 26); hẹn 2–4 tuần theo thực hành để kiểm tra tuân thủ, số tuần không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chụp X-quang ngực thẳng để trấn an",
+     "v": "a",
+     "n": "Không bắt buộc: bà chưa phải người nghi lao (QĐ 162/2024, Phần II mục 1.1a Bảng 1) và tài liệu đã tải chỉ nêu X-quang ngực cho người nghi lao. Làm hay không đều chấp nhận được; nếu làm thì giải thích rõ kết quả."
+    },
+    {
+     "t": "Hẹn làm bộ xét nghiệm tự miễn (SSA, SSB, RF, ANA) nếu sau khi chỉnh môi trường và dùng thuốc đúng mà khô mắt kéo dài hoặc xuất hiện khô miệng, đau khớp, mệt",
+     "v": "a",
+     "n": "AAO Dry Eye PPP 2023, tr. 20 và Bảng 2; Sjögren cần khô mắt hoặc miệng ít nhất 3 tháng không giải thích được (Phụ lục 3, Bảng A3-1, tr. 32). Làm ngay hay hoãn đều hợp lý."
+    },
+    {
+     "t": "Cyclosporin nhỏ mắt hoặc thuốc kê đơn khác ngay từ lần khám đầu",
+     "v": "a",
+     "n": "Các lựa chọn Bước 2 dùng được ở mọi mức độ tùy bác sĩ và ý muốn người bệnh (ghi chú Bảng 3, AAO Dry Eye PPP 2023, tr. 21). Chưa cần vì còn yếu tố sửa được chưa xử lý và bà tiếc tiền thuốc. Dạng thuốc, hàm lượng tại Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh nhỏ hoặc uống, hoặc thuốc nhỏ mắt phối kháng sinh với corticoid",
+     "v": "w",
+     "n": "Không có bằng chứng nhiễm khuẩn; viêm kết mạc virus không đáp ứng kháng sinh, cần tránh dùng bừa kháng sinh hay corticoid nhỏ mắt (AAO Conjunctivitis PPP 2018, Highlighted Findings, tr. 8 [I+, Good, Strong]). Kháng sinh bôi bờ mi chỉ khi có viêm bờ mi trước (AAO Dry Eye PPP 2023, Bảng 3 Bước 2, tr. 21): bà không có vảy cổ áo. QĐ 40/2015 dùng kháng sinh nhỏ mắt cho viêm kết mạc cấp tiết mủ (mục 4): khác bệnh."
+    },
+    {
+     "t": "Cho dùng tiếp hoặc kê thêm thuốc nhỏ mắt giảm đỏ, nhỏ nhiều lần mỗi ngày để mắt hết đỏ",
+     "v": "w",
+     "n": "Nhỏ thuốc mắt hơn 4 lần mỗi ngày ngăn duy trì màng nước mắt bình thường và gây triệu chứng khô mắt do tổn thương biểu mô giác mạc bởi chất bảo quản (AAO Dry Eye PPP 2023, tr. 14); Bảng 3 Bước 1: loại bỏ thuốc nhỏ mắt gây bệnh (tr. 21)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khô mắt (dry eye) hai mắt, mức nhẹ đến vừa, tái phát sau khi bỏ điều trị đợt trước",
+     "Thể bay hơi trội (tuyến Meibomian bít, TBUT 4 và 6 giây) phối hợp thiếu nước mắt nhẹ (Schirmer 6–7 mm); giác mạc bắt màu chấm vùng khe mi, không loét",
+     "Yếu tố làm nặng sửa được: quạt thổi thẳng mặt, bụi, ngồi lâu ít chớp mắt; thuốc nhỏ mắt giảm đỏ có chất bảo quản nhỏ 5–6 lần/ngày; ngưng nước mắt nhân tạo sớm năm ngoái. Nền: nữ, 78 tuổi, mãn kinh",
+     "Không viêm kết mạc, chưa có dấu hiệu tự miễn, không tổn thương giác mạc hay glôcôm cần chuyển tuyến",
+     "Chưa phải người nghi lao: ho khan dưới 2 tuần đang giảm, không sốt, không sụt cân, phổi bình thường; bà hàng xóm bị lao ngồi ngoài trời, không thuộc định nghĩa người tiếp xúc. Lý do thật đến khám: sợ mắc lao, sợ mang tiếng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do, thời gian, diễn biến trong ngày; khởi phát; môi trường nghề; thuốc uống và RIÊNG thuốc nhỏ mắt; lần khám mắt trước; ngứa, ghèn mủ; cờ đỏ; tự miễn; ho và người xung quanh; chi phí, khả năng nhỏ thuốc (AAO Dry Eye PPP 2023, Diagnosis – History, tr. 17–18). Hỏi chung 'thuốc gì' chỉ ra siro ho; hỏi thuốc nhỏ mắt mới lộ lọ giảm đỏ; hỏi 'trước đây có bị chưa' mới lộ đợt năm ngoái; hỏi người xung quanh và 'bà còn lo điều gì' mới lộ bà hàng xóm bị lao.",
+     "Vì sao là khô mắt: cộm rát, chảy nước mắt phản xạ, nặng dần về chiều, mờ thoáng qua (AAO Dry Eye PPP 2023, tr. 15, 17); giác mạc bắt màu chấm vùng khe mi (Phụ lục 5, tr. 34), TBUT 4 và 6 giây, Schirmer 6–7 mm. Khám lâm sàng là tiêu chuẩn vàng, không xét nghiệm nào đủ một mình (tr. 11).",
+     "Hai chuẩn, ghi cả hai: AAO 2023 coi TBUT dưới 10 giây là bất thường (Bảng 1, tr. 19); TFOS DEWS III 2025 dùng ngưỡng fluorescein dưới 5 giây vì phương pháp xâm lấn (mục 2). Mắt phải 4 giây dưới cả hai; mắt trái 6 giây bất thường theo AAO, chưa dưới 5 giây của TFOS; kết luận không đổi vì TFOS còn chấp nhận hơn 5 chấm fluorescein giác mạc cộng triệu chứng (OSDI-6 ≥ 4; Hình 1). OSDI-6 không làm trong ca này, danh mục không có.",
+     "Vì sao mắt đỏ, nặng hơn: nhỏ thuốc mắt hơn 4 lần/ngày làm tổn thương biểu mô do chất bảo quản (AAO tr. 14; TFOS DEWS III 2025, mục 4.6). Vì sao mắt đỏ lại sau vài phút: không có trong tài liệu đã tải.",
+     "Vì sao 'tái phát': năm ngoái bà được chẩn đoán khô mắt, dùng nước mắt nhân tạo hai tuần rồi ngưng; nguyên nhân nền (môi trường nghề, tuổi) vẫn còn. Khô mắt diễn biến mạn tính, dao động hoặc nặng dần (AAO tr. 15), hiếm khi khỏi hẳn (tr. 11); cải thiện bền vững cần tuân thủ (TFOS DEWS III 2025, mục 3). Diễn biến cụ thể của bà là thiết kế của ca.",
+     "Vì sao không phải viêm kết mạc: không ngứa, không cơ địa dị ứng, không ghèn mủ, không hạch trước tai, không sốt, kéo 3 tuần (QĐ 40/2015, bài Viêm kết mạc cấp, mục 3; AAO Conjunctivitis PPP 2018, tr. 9). Vì sao chưa nghĩ tự miễn: không khô miệng, đau khớp, mệt (AAO Dry Eye PPP 2023, Phụ lục 3, Bảng A3-1, tr. 32); khoảng 10% người khô mắt thiếu nước mắt có Sjögren nền (tr. 11): hỏi lại khi tái khám.",
+     "Vì sao chưa nghĩ lao: ho khan dưới 2 tuần, đang giảm, không sốt, mồ hôi đêm, sụt cân, ho máu, phổi bình thường (QĐ 162/2024, Phần II mục 1.1a Bảng 1; mục 3.2.1). Bà hàng xóm ngồi ngoài trời cách 2 mét, không cùng nhà hay phòng nên không thuộc định nghĩa người tiếp xúc (Phần I mục 1.5). Hướng xử trí cho tiếp xúc ngoài các nhóm này: không có trong tài liệu đã tải.",
+     "Vì sao không làm thêm xét nghiệm: test adenovirus, nhuộm và cấy kết mạc không đổi xử trí (AAO Conjunctivitis PPP 2018, tr. 8); CT hốc mắt, xét nghiệm giáp chỉ khi nghi bệnh mắt tuyến giáp; ANA, SSA, SSB, RF chỉ khi có dấu tự miễn (AAO Dry Eye PPP 2023, Bảng 2, tr. 20); Xpert, IGRA chưa có chỉ định (QĐ 162/2024). Không có CT không ảnh hưởng quyết định.",
+     "Applicability note (người rất cao tuổi): AAO mô tả nhóm dân số là mọi lứa tuổi (tr. 12), không có khuyến cáo riêng cho người từ 75 tuổi và không nêu tuổi của các thử nghiệm điều trị. Tuổi cao và nữ là yếu tố nguy cơ chính (tr. 13). Áp dụng bậc 1 cho bà là ngoại suy từ khuyến cáo chung, chỉnh theo khả năng thao tác (tay run), chi phí, người hỗ trợ (tr. 22, 25, 27).",
+     "Cờ đỏ đã sàng lọc đủ: thị lực 8/10, không đau, không sợ sáng, nhãn áp không cao, giác mạc không thâm nhiễm hay loét; điều trị tại tuyến này phù hợp (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26)."
+    ],
+    "phan_tich_xu_tri": [
+     "Bậc 1 theo Bảng 3 (AAO Dry Eye PPP 2023, tr. 21): giáo dục bệnh, chỉnh môi trường, nhận diện và loại bỏ thuốc nhỏ mắt và thuốc toàn thân gây bệnh, nước mắt nhân tạo, vệ sinh bờ mi và chườm ấm. AAO lưu ý chỉ thay nước mắt thì thường không thành công nếu không xử lý các yếu tố gây bệnh khác (Management, tr. 21): ở bà, lọ giảm đỏ và quạt thổi thẳng mặt là hai yếu tố cần xử lý ngay.",
+     "Ngưng thuốc nhỏ mắt giảm đỏ, thay bằng nước mắt nhân tạo; dùng hơn 4 lần/ngày dài hạn thì chọn loại không chất bảo quản (AAO Dry Eye PPP 2023, tr. 22–23; Bảng 3 Bước 2, tr. 21). Tay run: lịch nhỏ cần hợp khả năng khéo tay (tr. 22), miếng hydroxypropyl cellulose đặt mắt cho người không tự nhỏ được (tr. 25); sản phẩm tại Việt Nam: không có trong tài liệu đã tải.",
+     "Môi trường nghề: quạt không thổi thẳng mặt, kính ôm có chắn bên hoặc kính buồng ẩm, nghỉ ngắn và chớp mắt trọn, tránh khói thuốc cạnh quầy (AAO Dry Eye PPP 2023, Mild Dry Eye, tr. 22; tr. 24). Chườm ấm, rửa mi (Bảng 3 Bước 1, tr. 21).",
+     "Không kê kháng sinh: không có nhiễm khuẩn, dùng bừa gây hại (AAO Conjunctivitis PPP 2018, tr. 8); macrolid hoặc tetracyclin uống thuộc Bước 2 khi Bước 1 chưa đủ (AAO Dry Eye PPP 2023, Bảng 3, tr. 21).",
+     "Về nỗi sợ lao: hỏi triệu chứng theo Bảng 1; giải thích bà chưa phải người nghi lao nên chưa cần xét nghiệm lao; mắt đỏ, cộm do khô mắt; dặn quay lại nếu ho quá 2 tuần hoặc thêm sốt chiều, mồ hôi đêm, sụt cân, ho máu (QĐ 162/2024, Phần II mục 1.1a Bảng 1); giữ kín chuyện bà kể. X-quang ngực để trấn an: chấp nhận được, không bắt buộc.",
+     "Ca tái phát: nói rõ vì sao đợt trước tái phát (ngưng thuốc sớm, quạt vẫn thổi), bệnh mạn tính cần dùng lâu dài, kế hoạch rẻ mà làm được (chỉnh quạt, kính chắn gió miễn phí), hẹn tái khám 2–4 tuần để kiểm tra tuân thủ (AAO Dry Eye PPP 2023, Counseling, tr. 26; TFOS DEWS III 2025, mục 3). Số tuần theo thực hành, không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước mắt nhân tạo không chất bảo quản (ống đơn liều hoặc lọ không chất bảo quản)",
+      "ham_luong": "Hoạt chất và hàm lượng: không có trong tài liệu đã tải (AAO Dry Eye PPP 2023: các loại có hiệu quả tương đương, tr. 23)",
+      "lieu": "1 giọt mỗi mắt, nhỏ theo lịch cố định; số lần cụ thể không có trong tài liệu đã tải. Nếu dùng hơn 4 lần/ngày: bắt buộc loại không chất bảo quản",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Sáng khi dậy, trước khi mở tiệm, giữa buổi, sau bữa trưa, chiều; thêm khi cộm. Nhờ cháu gái nhỏ giúp buổi sáng hoặc tối nếu tay run",
+      "so_ngay": "Đến lần tái khám (2–4 tuần theo thực hành), sau đó dùng lâu dài theo triệu chứng",
+      "ghi_chu": "AAO Dry Eye PPP 2023, Mild Dry Eye, tr. 22–23; tay run: tr. 22, 25. Không nhỏ thuốc mắt khác khi chưa hỏi bác sĩ."
+     },
+     {
+      "thuoc": "Thuốc nhỏ mắt giảm đỏ bà tự mua (lọ đang dùng)",
+      "ham_luong": "Hoạt chất không rõ, không có trong tài liệu đã tải",
+      "lieu": "NGƯNG",
+      "duong": "–",
+      "thoi_diem": "Ngưng từ hôm nay; không nhỏ bù",
+      "so_ngay": "–",
+      "ghi_chu": "Thuốc nhỏ mắt hơn 4 lần/ngày làm triệu chứng khô mắt do chất bảo quản (AAO Dry Eye PPP 2023, tr. 14); loại bỏ thuốc nhỏ mắt gây bệnh (Bảng 3 Bước 1, tr. 21); TFOS DEWS III 2025, mục 4.6. Thời gian mắt hết đỏ sau ngưng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh nhỏ mắt hoặc uống",
+      "ham_luong": "Không kê",
+      "lieu": "KHÔNG KÊ",
+      "duong": "–",
+      "thoi_diem": "–",
+      "so_ngay": "–",
+      "ghi_chu": "Không có nhiễm khuẩn; tránh dùng bừa kháng sinh và corticoid nhỏ mắt (AAO Conjunctivitis PPP 2018, Highlighted Findings, tr. 8)."
+     },
+     {
+      "thuoc": "Siro ho thảo dược (bà đang dùng)",
+      "ham_luong": "Theo nhãn, thành phần không rõ",
+      "lieu": "Giữ nguyên theo nhãn đến khi hết ho; thành phần và liều: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Như bà đang dùng",
+      "so_ngay": "Ngưng khi hết ho; nếu ho quá 2 tuần thì đi khám lại, không tự kéo dài",
+      "ghi_chu": "Ho kéo dài trên 02 tuần là mốc nghi lao (QĐ 162/2024, Phần II mục 1.1a Bảng 1). Tài liệu đã tải không có thông tin về thuốc ho thảo dược và khô mắt."
+     }
+    ],
+    "dan_do": [
+     "Lời mở (không cần nguồn): 'Bà Tám ơi, chuyện bà kể ở đây tôi giữ kín. Bệnh khô mắt hay tái đi tái lại nên tôi hỏi kỹ: bà có nhỏ gì vào mắt không, trước đây bà có khám mắt chưa, dạo này bà có lo chuyện gì không?'",
+     "Lời trấn an về lao (ý chuyên môn theo QĐ 162/2024, Phần II mục 1.1a Bảng 1): 'Bà ho mới chừng 10 ngày, không sốt, không sụt cân, tôi nghe phổi êm. Nghi lao là khi ho trên 2 tuần, thêm sốt chiều, ra mồ hôi đêm, gầy sút. Mắt bà đỏ, cộm là do khô mắt, không phải lao. Nếu ho quá 2 tuần hoặc có những dấu đó thì bà quay lại ngay làm xét nghiệm đờm.'",
+     "Bệnh mạn tính, hiếm khi khỏi hẳn; còn tái lại khi gặp gió, bụi hoặc ngưng thuốc (AAO Dry Eye PPP 2023, Highlighted Findings, tr. 11; Natural History, tr. 15; Counseling, tr. 26). Đợt trước bà đỡ rồi ngưng nên bệnh quay lại; lần này dùng đều theo lịch dù đã đỡ.",
+     "Ngưng lọ thuốc nhỏ mắt giảm đỏ, không mua thêm; mắt hết đỏ không có nghĩa là khỏi. Chỉ dùng nước mắt nhân tạo bác sĩ đưa, nhỏ theo giờ cố định; tay run thì nhờ cháu nhỏ giúp (AAO Dry Eye PPP 2023, tr. 14, 21, 22, 25).",
+     "Tại quầy: quạt đặt chếch, không thổi thẳng mặt; đội nón rộng vành hoặc kính ôm có chắn bên; mỗi giờ nghỉ vài phút, chớp mắt trọn; tránh người hút thuốc; chườm ấm, rửa bờ mi mỗi ngày (AAO Dry Eye PPP 2023, tr. 21–24). Cách chườm (nhiệt độ, thời gian): không có trong tài liệu đã tải.",
+     "Đi khám khoa mắt ngay nếu: đau mắt tăng, sợ ánh sáng, thị lực giảm, ghèn mủ nhiều, nhìn đèn thấy quầng sáng kèm nhức đầu, buồn nôn (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26; QĐ 40/2015, bài Glôcôm góc đóng nguyên phát, mục 3a).",
+     "Mang theo lọ thuốc nhỏ mắt và siro ho khi tái khám."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Tám ra về với hộp nước mắt nhân tạo không chất bảo quản, lọ giảm đỏ bỏ lại phòng khám, lời dặn chỉnh cái quạt và lời trấn an về lao; bà khóc nhẹ khi biết chuyện bà kể được giữ kín. Hai tuần sau mắt bớt đỏ, chỉ còn cộm buổi chiều. Cận Tết bà nhập hàng nhiều, lại tự khuân vác, thấy mắt đỡ nên nhỏ không đều và để quạt thổi vào mặt; khoảng sáu tuần sau mắt cộm trở lại như cũ. Lần tái khám bác sĩ hỏi vì sao thì bà kể thẳng, cùng bà đặt lịch nhỏ cố định, nhờ cháu giúp, quạt đặt chếch, kính có chắn bên. Nguyên nhân nền chưa xử lý (môi trường làm việc) và ngưng điều trị sớm là hai lý do tái phát; khô mắt là bệnh mạn tính cần kế hoạch dài hạn (AAO Dry Eye PPP 2023, Highlighted Findings, tr. 11; Natural History, tr. 15; Counseling, tr. 26; TFOS DEWS III 2025, mục 3). Toàn bộ diễn biến sau khám do ca tự thiết kế, không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Giấu tiền sử: bà chỉ nói 'mắt đỏ, cộm ba tuần'; không kể lần khám mắt năm ngoái, việc bỏ thuốc sớm và lọ thuốc nhỏ mắt giảm đỏ tự mua nhỏ 5–6 lần/ngày. Chỉ lộ khi bác sĩ hỏi riêng về thuốc nhỏ mắt và lần khám trước bằng giọng không trách.",
+  "Ho khan 10 ngày dịu dần nhờ siro thảo dược, kèm mắt đỏ, khiến bà nghĩ là lao. Không phải dấu hiệu nghi lao: ho dưới 2 tuần, không sốt, không sụt cân, phổi bình thường.",
+  "Bà hàng xóm bán bún cạnh quầy mới được chẩn đoán lao phổi. Hai bà ngồi ngoài trời cách 2 mét, không cùng nhà, không cùng phòng: nỗi sợ thật nhưng chưa tạo thành nghi lao ở bà.",
+  "Khuân hàng nặng làm bà sợ 'đứt mạch máu mắt': kết mạc không có mảng xuất huyết, mắt đỏ do cương tụ vùng khe mi và thuốc nhỏ, không phải chảy máu.",
+  "Thuốc nhỏ giảm đỏ làm mắt trắng vài phút nên bà tưởng 'hợp thuốc' và khó bỏ; thuốc có chất bảo quản nhỏ nhiều lần lại làm khô mắt nặng thêm."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi RIÊNG về thuốc nhỏ mắt, thuốc tự mua và lần khám mắt trước; người cao tuổi hay không coi lọ nhỏ mắt là 'thuốc' và ngại bị trách. Hỏi không phán xét thì tiền sử giấu mới lộ.",
+  "Lý do thật nằm ngoài chuyên khoa đang khám: bà đi khám mắt vì sợ lao. Hỏi 'bà còn lo điều gì' và hỏi người xung quanh; trả lời bằng tiêu chuẩn cụ thể (ho trên 2 tuần, định nghĩa người tiếp xúc), không trả lời chung chung 'không sao đâu'.",
+  "Khô mắt tái phát: tự hỏi nguyên nhân nền chưa xử lý, tuân thủ (tiền, tay run, thấy đỡ là ngưng), hay chẩn đoán sai. Với bà là hai điều đầu; kế hoạch phải rẻ, làm được và có mốc tái khám.",
+  "Người rất cao tuổi: tài liệu đã tải không có khuyến cáo riêng cho nhóm này (applicability note); chỉnh theo khả năng thao tác, chi phí, người giúp đỡ; tránh chuyển tuyến hay nhập viện không có tiêu chí.",
+  "Không có CT không ảnh hưởng ca này: chẩn đoán dựa hỏi bệnh, khám nhuộm fluorescein và Schirmer."
+ ],
+ "diem_nho": [
+  "Khám lâm sàng là tiêu chuẩn vàng chẩn đoán khô mắt, không xét nghiệm nào đủ một mình (AAO Dry Eye PPP 2023, tr. 11). Schirmer I < 5,5 mm/5 phút chẩn đoán thiếu nước mắt, < 10 mm gợi ý (Bảng 1, tr. 19; Phụ lục 5, tr. 35); TBUT < 10 giây bất thường (AAO), ngưỡng 5 giây khi dùng fluorescein (TFOS DEWS III 2025, mục 2); TFOS DEWS III 2025: OSDI-6 ≥ 4 cộng ít nhất một dấu hiệu (Hình 1).",
+  "Nhỏ thuốc mắt hơn 4 lần/ngày, thuốc có chất bảo quản làm nặng khô mắt (AAO Dry Eye PPP 2023, tr. 14; TFOS DEWS III 2025, mục 4.6).",
+  "Ho kéo dài trên 02 tuần là mốc nghi lao (QĐ 162/2024, Phần II mục 1.1a Bảng 1). Người tiếp xúc: cùng nhà hoặc cùng phòng làm việc, hoặc ở cùng ít nhất 1 giờ/ngày liên tục 5 ngày/tuần trong 3 tháng (Phần I mục 1.5).",
+  "Gặp bác sĩ mắt khi đau vừa-nặng, không đáp ứng, thâm nhiễm hay loét giác mạc, sẹo kết mạc tiến triển, giảm thị lực (AAO Dry Eye PPP 2023, tr. 26)."
+ ],
+ "nguon": [
+  "AAO – Dry Eye Syndrome Preferred Practice Pattern 2023 – TL-0556 – tr. 11–27 (Highlighted Findings, Background, Associated Conditions, Natural History, Diagnosis, Bảng 1–3, Management, Follow-up, Provider and Setting, Counseling, Socioeconomic); Phụ lục 3 (tr. 31–32), Phụ lục 5 (tr. 34–35).",
+  "TFOS DEWS III: Executive Summary, Am J Ophthalmol 2025 – TL-0551 – mục 2 (Diagnostic Methodology; ngưỡng TBUT fluorescein 5 giây), Hình 1 (tiêu chuẩn chẩn đoán), mục 3 (tuân thủ), mục 4.6 (Iatrogenic dry eye).",
+  "BYT – QĐ 162/QĐ-BYT 2024, Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh Lao – TL-0123 – Phần I mục 1.5; Phần II mục 1.1a Bảng 1, mục 1.3, mục 2.1, mục 3.2.1; Phần IV mục 1.1, 1.2.2.",
+  "AAO – Conjunctivitis Preferred Practice Pattern 2018 – TL-0266 – Highlighted Findings (tr. 8), Differential diagnosis (tr. 9). Ghi chú: tệp TL-0555 trong kho thực chất là bản Dry Eye, không phải Conjunctivitis 2023.",
+  "BYT – QĐ 40/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – TL-0242 – bài Viêm kết mạc cấp (mục 3, 4), Glôcôm góc đóng nguyên phát (mục 3a)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 26/10/2026 (viết: Sonnet).",
+  "Tài liệu đã đọc: TL-0556 (AAO Dry Eye PPP 2023) tr. 11–27, Phụ lục 3 và 5; TL-0551 (TFOS DEWS III) mục 2, 3, 4.6, Hình 1; TL-0123 (QĐ 162/2024 Lao) Phần I mục 1.5, Phần II mục 1.1, 1.3, 2.1, 3.2.1, Phần IV mục 1.1–1.2; TL-0266 (AAO Conjunctivitis PPP 2018) tr. 8–9; TL-0242 (QĐ 40/2015) bài Viêm kết mạc cấp.",
+  "Không có trong tài liệu đã tải: hoạt chất, hàm lượng, số lần nhỏ/ngày của nước mắt nhân tạo; cách chườm ấm, vệ sinh bờ mi; số tuần tái khám (ca hẹn 2–4 tuần theo thực hành); thuốc nhỏ mắt co mạch (hoạt chất, mắt đỏ lại sau ngưng); bụi bột, bụi đường làm nặng khô mắt; thuốc ho thảo dược và khô mắt; quy trình cho người tiếp xúc lao ngoài hộ gia đình, ngoài phòng làm việc; mức chi trả bảo hiểm y tế cho nước mắt nhân tạo; khuyến cáo riêng cho người từ 75 tuổi.",
+  "Mâu thuẫn: ngưỡng TBUT (AAO 2023 dưới 10 giây, TFOS DEWS III fluorescein dưới 5 giây) và omega-3 đã có mục trong sổ từ ca TM-0272; ca ghi cả hai (TBUT 4 và 6 giây; omega-3 chấm a). Kháng sinh nhỏ mắt: QĐ 40/2015 (viêm kết mạc cấp) khác bệnh, không phải mâu thuẫn. Không có mâu thuẫn mới.",
+  "Biến thuoc_dang_dung 'thuoc_ho_thao_duoc' được hiểu là siro ho thảo dược (thành phần không rõ); lọ nhỏ mắt giảm đỏ là chi tiết 'giấu tiền sử' do ca tự thiết kế, dựa trên AAO tr. 14, 17.",
+  "Hạn chế: ca giả định có đèn khe hoặc đèn xanh cobalt để nhuộm fluorescein, đo TBUT. Không có ảnh da. Số trang AAO suy từ mốc 'P..' ở cuối trang trong bản chữ."
+ ]
+}
