@@ -1,0 +1,807 @@
+{
+ "ma_ca": "TN-0493",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-10-26)",
+ "benh": "TN_hep_bao_quy_dau_nang_hon",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Hẹp bao quy đầu / bệnh lý dương vật",
+  "chan_doan_phai_loai_tru": [
+   "Lichen xơ",
+   "Ung thư dương vật"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng"
+ },
+ "benh_nhan": {
+  "ten": "Lê Văn Bảy",
+  "tuoi": 68,
+  "gioi": "Nam",
+  "nghe": "Nội trợ (nghỉ làm thợ mộc từ 62 tuổi, ở nhà nấu cơm, giặt đồ, đưa đón cháu nội)",
+  "can_nang": 66,
+  "chieu_cao": 163,
+  "xung_ho": "Ông xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Bác sĩ gọi ông là 'ông Bảy'. Ông gọi vợ là 'bà nhà tôi'.",
+  "tinh_cach": "Hiền, hay nói, thích kể chuyện xóm giềng và thằng cháu nội; nhớ trước quên sau. Ngại nói chuyện 'chỗ kín', hay cười trừ rồi lảng sang chuyện khác. ",
+  "kieu_nhieu": "Kể lể lộn xộn: nhảy từ thuốc huyết áp sang cháu ho, ông hàng xóm 'tiền liệt tuyến', chuyện thợ mộc; thứ tự thời gian đảo lộn; chen chuyện không liên quan. Bác sĩ phải tóm tắt lại từng đoạn, hỏi cụ thể từng ý (khi nào, lúc tiểu thế nào, đã làm gì) ông mới trả lời gọn. Chuyện bao da chỉ nói khi được hỏi riêng, nhẹ nhàng.",
+  "nguoi_nha": "Vợ, bà Lê Thị Hiền, 65 tuổi, bán tạp hóa trước nhà; đi cùng ông ở lượt 2",
+  "ten_nguoi_nha": "Bà Hiền (vợ)",
+  "ngoai_hinh": {
+   "da": "#c4936a",
+   "toc": "#cfcac2",
+   "kieuToc": "ngan",
+   "ao": "#6b7f8c",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d0a27b",
+    "toc": "#b9b4ac",
+    "kieuToc": "bui",
+    "ao": "#8f6b5a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 2,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Xin thuốc huyết áp, đi tiểu hơi chậm",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám thị trấn chỉ làm được xét nghiệm cơ bản: công thức máu, sinh hóa nền (glucose, ure – creatinin, điện giải đồ, CRP) và tổng phân tích nước tiểu. Không có X-quang, siêu âm, CT, nội soi; không soi KOH, không nuôi cấy mủ hay nước tiểu, không PSA, không HbA1c, không giải phẫu bệnh, không thủ thuật ngoại khoa, không giường lưu. Bệnh viện tỉnh cách khoảng 25 km (40 phút xe) có khoa Tiết niệu – Ngoại, siêu âm, cấy, giải phẫu bệnh; phòng khám gọi điện báo trước được."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Ông Lê Văn Bảy, 68 tuổi, nội trợ (nghỉ làm thợ mộc từ năm 62 tuổi, ở nhà nấu cơm, giặt đồ, đưa đón cháu nội), tăng huyết áp đang uống amlodipin 5 mg. Đến vì hết thuốc huyết áp, 'đi tiểu hơi chậm' và vợ bắt đi khám tổng quát. Sinh hiệu: mạch 76 l/p, HA 138/84 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%, cân nặng 66 kg, cao 163 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Ông Bảy bị chuyển lên bệnh viện tỉnh cắt bao quy đầu ngay. Bao da đang viêm cấp mà chống chỉ định cắt khi còn nhiễm khuẩn tại chỗ cấp (EAU Paediatric 2026 mục 3.3, tr. 14), nên ông bị trả về 'hết viêm rồi quay lại'. Ông mất một ngày và tiền xe, lại xấu hổ vì phải kể chuyện 'chỗ kín' với thêm người lạ, dễ bỏ không đi tiếp.",
+    "nhap_vien": "Ông Bảy bị giữ nằm viện truyền kháng sinh. Ông không sốt, sinh hiệu ổn, viêm khu trú nên không có chỉ định (IDSA 2014 khuyến cáo 18: ngoại trú khi không có SIRS); kháng sinh phổ rộng còn thuận lợi cho nấm men (QĐ 4416/2023, Nhiễm Candida mục 1.2). Ông tốn viện phí, không đỡ hơn và thấy bị làm quá lên.",
+    "theo_doi": "Ông Bảy được dặn 'giữ sạch' mà không thuốc bôi, không hẹn lại, không biết dấu hiệu phải quay lại. Bao quy đầu tiếp tục ứ đọng, viêm kéo dài, vòng hẹp có nguy cơ xơ sẹo thêm; hẹp bao quy đầu và viêm mạn liên quan chặt với ung thư dương vật (EAU-ASCO 2026 mục 3.3, tr. 9–10) mà ông chưa có mốc đánh giá lại nào, và nỗi sợ ung thư của ông không được hỏi tới."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi chẳng có bệnh gì nặng đâu, tại bà nhà tôi cứ bắt đi. Hồi trước tôi làm thợ mộc ngoài chợ, giờ ở nhà trông thằng cháu, hôm kia nó ho, mà thôi bỏ qua. Thuốc huyết áp, viên hồng hồng nhỏ nhỏ, hết từ hôm rằm. Dạo này đi tiểu hơi chậm, ông hàng xóm cũng vậy, ổng bảo bị tiền liệt tuyến. Bác sĩ cho tôi lấy thuốc huyết áp luôn.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/84",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết thuốc huyết áp từ khoảng rằm tháng trước, xin lấy thêm. Dạo này đi tiểu hơi chậm. Vợ bắt đi khám tổng quát. Uống amlodipin 5 mg buổi sáng hơn 5 năm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai) và thuốc đang dùng"
+    },
+    {
+     "id": "tieu_cham",
+     "noi_dung": "Vài tháng nay tia nước tiểu nhỏ, phải chờ, tiểu lâu cả phút, phải rặn nhẹ, tiểu xong còn rỉ vài giọt trong quần. Đêm dậy 1 lần. Không buốt rõ, không tiểu ra máu, không tiểu rắt, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng đường tiểu dưới (tia yếu, rỉ giọt)"
+    },
+    {
+     "id": "bao_da",
+     "noi_dung": "Khoảng 4 tháng nay không kéo được da ở đầu 'cậu nhỏ' xuống nữa, trước kia kéo bình thường. Da quanh miệng bao đỏ, rát, chạm vào đau; chảy ra chất vàng trắng đặc, hơi hôi, quần lót hay ố. Khi tiểu phần da đầu phồng lên như quả bóng nhỏ rồi nước tiểu mới nhỏ ra thành tia. Ngại nên không nói với ai, kể cả vợ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng, nhẹ nhàng về chỗ kín: bao da, đầu dương vật, da phồng khi tiểu, dịch hay mùi, hoặc xin khám vùng sinh dục. Hỏi chung 'có gì khác thường không' thì ông cười trừ 'không có gì đâu'.",
+     "k": 1,
+     "y": "Hẹp bao quy đầu, viêm bao quy đầu, ballooning khi tiểu"
+    },
+    {
+     "id": "khong_loet",
+     "noi_dung": "Không thấy cục, không có vết loét, không chảy máu, không sụt cân, không sốt, không nổi hạch ở bẹn. Không ngứa nhiều, chủ yếu rát và đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu cảnh báo ác tính âm tính; ngứa không nổi bật"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Không nhớ chuyện gì đặc biệt trước đó: không đặt ống thông, không mổ, không chấn thương, không đổi xà phòng. Chỉ nhớ giặt đồ tay cả buổi, quần hay ẩm. Có bôi dầu gió xanh hai lần, rát hơn nên bỏ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Một vợ một chồng, không có bạn tình khác. Hơn 2 năm nay gần như không quan hệ vì cương đau và ngại. Không loét sinh dục, không từng bị bệnh lây qua đường tình dục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ bệnh lây qua đường tình dục thấp"
+    },
+    {
+     "id": "dtd",
+     "noi_dung": "Chưa từng bị tiểu đường, lần thử đường huyết cách đây 2 năm ở trạm xá nghe nói bình thường. Không khát nhiều, không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đái tháo đường (yếu tố thuận lợi viêm quy đầu): chưa có"
+    },
+    {
+     "id": "thuoc_la",
+     "noi_dung": "Hút thuốc lá khoảng 10 điếu mỗi ngày từ năm 20 tuổi, chưa bỏ. Uống rượu thỉnh thoảng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ ung thư dương vật: hút thuốc"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Chỉ uống amlodipin. Không dùng thuốc tuyến tiền liệt, không corticoid, không thuốc bổ, không thuốc bắc. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng; không corticoid, không thuốc gây bí tiểu"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: một người bạn cùng chợ từng bị ung thư 'đầu cậu nhỏ', phải cắt bỏ. Ông thấy mình đỏ, chảy dịch, hôi, đau giống vậy, sợ ung thư nhưng xấu hổ, nên lấy cớ xin thuốc huyết áp và tiểu chậm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi ông còn lo điều gì, vì sao hôm nay mới đi, hoặc hỏi về người quen từng bị bệnh. Nói ra thì thở phào, xin 'cho tôi biết có phải ung thư không'.",
+     "k": 1,
+     "y": "Động cơ thật: sợ ung thư dương vật, ngại nói"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói nhiều, hay lạc đề. BMI khoảng 24,8. Da niêm hồng, không phù, không sốt.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, hạ vị không đau, không có cầu bàng quang. Không gan lách to.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau, chạm thận âm tính, không cầu bàng quang.",
+     "k": 0
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Chưa cắt bao quy đầu. Bao da dài che kín quy đầu, miệng bao hẹp cỡ đầu đũa; kéo nhẹ không tuột được qua miệng sáo, không bộc lộ được quy đầu và rãnh quy đầu. Vòng miệng bao còn mềm, đàn hồi, không dày trắng xơ, không nứt, không mảng trắng như sứ. Da bao quy đầu phù nhẹ, đỏ ở gần miệng bao, rải rác vài mụn mủ li ti và vảy trắng vàng như bã đậu ở bờ miệng. Ấn nhẹ từ gốc dương vật ra thì có ít chất tiết vàng trắng đặc, hơi hôi chảy ra miệng bao. Khi ông rặn tiểu thử, phần đầu bao phồng nhẹ rồi nước tiểu ra thành tia nhỏ. Không loét, không khối sùi, không chảy máu. Nắn qua bao: quy đầu mềm, không điểm cứng hay khối. Không nghẹt. Thân dương vật bình thường, không mảng xơ. Miệng sáo, dây hãm không đánh giá được.",
+     "k": 1,
+     "hien": "Chưa cắt bao quy đầu, bao da dài che kín đầu; miệng bao hẹp, đỏ nhẹ, có ít chất tiết vàng trắng ở bờ miệng. Kéo thử không tuột xuống được."
+    },
+    "bui_tinh_hoan": {
+     "a": "Bìu cân đối, da bình thường. Hai tinh hoàn, mào tinh và thừng tinh bình thường, không đau, không khối. Hai bên bẹn: không sờ thấy hạch, không thoát vị. Đáy chậu bình thường.",
+     "k": 1,
+     "hien": "Bìu bình thường; hai bên bẹn không sờ thấy hạch."
+    },
+    "truc_trang": {
+     "a": "Cơ thắt hậu môn bình thường. Tuyến tiền liệt to nhẹ, mật độ đàn hồi, rãnh giữa còn, không nhân cứng, không đau. Găng không dính máu.",
+     "k": 0,
+     "hien": "Tuyến tiền liệt to nhẹ, mềm, không đau."
+    },
+    "da": {
+     "a": "Da thân mình bình thường, không mảng trắng xơ teo, không vảy nến, không ban ở nếp gấp.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "Glucose máu đói 5,6 mmol/L",
+     "bang": {
+      "glu": 5.6
+     },
+     "n": "Loại đái tháo đường, yếu tố thuận lợi của viêm quy đầu (QĐ 4416/2023, Nhiễm Candida mục 1.2; WHO 2024 mục 3.3.1). Ông nhịn ăn từ sáng. 25.000 đồng."
+    },
+    "ua": {
+     "v": "e",
+     "r": "SG 1,020 · pH 6,0 · Glucose, bạch cầu, nitrit, protein, hồng cầu, ceton âm tính",
+     "bang": {
+      "u_sg": 1.02,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ery": "Âm tính"
+     },
+     "n": "Nằm trong đánh giá ban đầu nam giới có triệu chứng đường tiểu dưới (EAU LUTS 2026 mục 4.5, khuyến cáo mạnh). 40.000 đồng."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 8,3 G/L · Neutrophil 66% · Hb 141 g/L · TC 268 G/L",
+     "bang": {
+      "wbc": 8.3,
+      "neu_pct": 66.0,
+      "neu": 5.5,
+      "lym_pct": 26.0,
+      "lym": 2.16,
+      "mono_pct": 6.0,
+      "mono": 0.5,
+      "eos_pct": 1.5,
+      "eos": 0.12,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.7,
+      "hgb": 141,
+      "hct": 0.43,
+      "mcv": 91.5,
+      "mch": 30.0,
+      "mchc": 328,
+      "rdw": 13.4,
+      "plt": 268
+     },
+     "n": "Không đổi quyết định hôm nay (không sốt, viêm khu trú); làm mốc nếu viêm tăng. Vai trò trong viêm quy đầu: không có trong tài liệu đã tải."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 5,4 mmol/L · Creatinin 88 µmol/L · eGFR 82 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.4,
+      "creat": 88,
+      "egfr": 82
+     },
+     "n": "Chấp nhận ở nam 68 tuổi tiểu chậm; không đổi xử trí."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 4 mg/L",
+     "bang": {
+      "crp": 4.0
+     },
+     "n": "Không đổi quyết định; CRP trong viêm quy đầu: không có trong tài liệu đã tải."
+    },
+    "soi_nam": {
+     "n": "Phòng khám không soi KOH được. QĐ 4416/2023, Nhiễm Candida mục 2.2–2.3 có soi tươi hoặc nuôi cấy, nhưng lâm sàng điển hình đủ để điều trị; nếu tái hoặc không đáp ứng thì lấy bệnh phẩm ở tuyến trên."
+    },
+    "cay_dich_da": {
+     "n": "Phòng khám không nuôi cấy được; chưa cần vì viêm khu trú, không sốt (BAD 2018 mục 5.5c)."
+    },
+    "sinh_thiet_da": {
+     "n": "Chưa chỉ định hôm nay: không tổn thương nghi ác tính nhìn thấy được (BAD 2018 mục 5.5a ý 1; EAU-ASCO 2026 mục 5.1.3); phòng khám cũng không có giải phẫu bệnh. Mô học khi cắt bao quy đầu (BAD 2018 mục 5.5a ý 3, R30)."
+    },
+    "naat_sti": {
+     "n": "Chưa cần: một vợ một chồng, không loét sinh dục, không dịch niệu đạo. Tiêu chí xét nghiệm STI ở viêm quy đầu: không có trong tài liệu đã tải; phòng khám cũng không có."
+    },
+    "psa": {
+     "n": "Phòng khám không làm được; không đổi xử trí hôm nay. EAU LUTS 2026 mục 4.6.2: bàn lợi hại với người bệnh trước khi đo PSA."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hẹp bao quy đầu mắc phải (thứ phát) kèm viêm quy đầu – bao quy đầu do ứ đọng nước tiểu và chất tiết, nghĩ nhiều do nấm men (chưa xác nhận), chưa có dấu hiệu ác tính; đường huyết bình thường",
+     "ok": 1,
+     "n": "Từng kéo được, nay không tuột qua miệng sáo; bao phồng khi tiểu; miệng bao đỏ phù, mụn mủ, vảy bã đậu, rát, hôi: mô tả viêm quy đầu Candida, thường gặp hơn ở người chưa cắt bao quy đầu (QĐ 4416/2023, Nhiễm Candida mục 2.1; QĐ 75/2015, Nhiễm Candida). Hẹp chẩn đoán bằng khám (EAU Paediatric 2026 mục 3.2, tr. 13); vòng miệng còn mềm, chưa xơ."
+    },
+    {
+     "t": "Lichen xơ (lichen sclerosus) ở bao quy đầu – quy đầu",
+     "n": "Ít nghĩ, chưa loại bằng mô học: 30% (báo cáo khác 11%) hẹp bao quy đầu người lớn do LS, ngứa không nổi bật (BAD 2018 mục 5.4d). Ông rát hơn ngứa, vòng miệng mềm, không mảng trắng xơ. Mô học khi nghi ngờ, không đáp ứng điều trị đủ hoặc khi cắt bao (mục 5.5a)."
+    },
+    {
+     "t": "Ung thư dương vật (carcinom tế bào vảy), tân sinh trong biểu mô (PeIN)",
+     "n": "Hôm nay không thấy gì nghi ngờ: không khối sùi, loét nền cứng, chảy máu, hôi thối, hạch bẹn (QĐ 4416/2023, Ung thư dương vật mục 2.1; EAU-ASCO 2026 mục 5.1.1). Nhiều yếu tố nguy cơ: hẹp bao quy đầu (tăng nguy cơ 25–60%), viêm mạn, hút thuốc, tuổi 50–70 (QĐ 4416/2023 mục 1.2–1.3; EAU-ASCO 2026 mục 3.3, tr. 9–10). Khối u có thể ẩn dưới bao hẹp (mục 5.1.1): không loại hoàn toàn, nên theo dõi sát."
+    },
+    {
+     "t": "Viêm quy đầu do vi khuẩn, herpes, vảy nến hoặc hồng sản Queyrat",
+     "n": "Chẩn đoán phân biệt của QĐ 4416/2023, Nhiễm Candida mục 2.4. Không bóng nước hay loét chùm, không vảy bạc, không mảng đỏ bóng cố định, mủ không đặc hôi; chất tiết bã đậu."
+    },
+    {
+     "t": "Đái tháo đường làm thuận lợi viêm quy đầu",
+     "n": "Glucose đói 5,6 mmol/L, nước tiểu không glucose, không khát nhiều: không gợi ý (QĐ 4416/2023 mục 1.2; WHO 2024 mục 3.3.1)."
+    },
+    {
+     "t": "Phì đại tuyến tiền liệt gây tiểu chậm",
+     "n": "Tuyến tiền liệt to nhẹ, mềm, không nhân; tia nhỏ và phồng bao giải thích đủ bằng miệng bao hẹp; đánh giá lại sau khi giải quyết hẹp (EAU LUTS 2026 mục 4.4)."
+    },
+    {
+     "t": "Nghẹt bao quy đầu hoặc bí tiểu cấp",
+     "n": "Hiện không: bao che quy đầu, tiểu được, không cầu bàng quang. Nghẹt là cấp cứu (EAU Paediatric 2026 mục 3.1, tr. 12; xử trí mục 3.3, tr. 14)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tạo riêng tư, hỏi trực tiếp nhưng nhẹ nhàng về vùng sinh dục khi ông chỉ nêu 'tiểu chậm'; khám dương vật, bìu, hai bên bẹn và trực tràng",
+     "v": "c",
+     "n": "Ông giấu vì ngại; khám dương vật, miệng sáo, dịch trong khám nam giới có triệu chứng sinh dục (WHO 2021 mục 3, tr. 24–25); khám cả hai bên bẹn khi nghi bệnh dương vật (EAU-ASCO 2026 mục 5.4, tr. 19); trực tràng trong LUTS (EAU LUTS 2026 mục 4.4)."
+    },
+    {
+     "t": "Glucose máu đói và tổng phân tích nước tiểu; hỏi ông còn lo điều gì",
+     "v": "c",
+     "n": "Đường huyết cho viêm quy đầu người lớn tuổi (QĐ 4416/2023, Nhiễm Candida mục 1.2; WHO 2024 mục 3.3.1); nước tiểu cho LUTS (EAU LUTS 2026 mục 4.5)."
+    },
+    {
+     "t": "Công thức máu, creatinin, CRP",
+     "v": "a",
+     "n": "Không đổi quyết định hôm nay (không sốt, viêm khu trú); làm mốc nếu viêm tăng. Vai trò trong viêm quy đầu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng nấm bôi imidazol (clotrimazol, miconazol…) lên phần tiếp cận được của quy đầu và mặt trong bao da, 2 lần/ngày × 4 tuần, hoặc đến khi khỏi",
+     "v": "c",
+     "n": "QĐ 4416/2023, Nhiễm Candida mục 3.2.1: imidazol bôi 2 lần/ngày × 4 tuần; QĐ 75/2015, Nhiễm Candida (điều trị niêm mạc): viêm quy đầu như Candida da, đến khi khỏi (bản 2023 mới hơn, cùng hướng)."
+    },
+    {
+     "t": "Vệ sinh: rửa nhẹ nước ấm sạch, lau khô, quần lót cotton khô; KHÔNG kéo cưỡng bức bao quy đầu; nếu bộc lộ được phải đưa bao về ngay",
+     "v": "c",
+     "n": "EAU Paediatric 2026 mục 3.3, tr. 13 và mục 3.6 (LE 3): kéo cưỡng bức bao hẹp gây sẹo, hẹp thứ phát; mục 3.1, tr. 12: nghẹt là cấp cứu. Quần lót, lau khô: lời dặn thực hành, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích hẹp mắc phải ở tuổi ông cần theo dõi, có thể phải cắt bao quy đầu gửi mô; hẹn khám lại sau 2 tuần; dặn dấu hiệu quay lại ngay (sốt, sưng đau tăng, mủ nhiều, khó tiểu, bao kẹt, chảy máu, loét, khối)",
+     "v": "c",
+     "n": "Hẹp bao liên quan ung thư dương vật (EAU-ASCO 2026 mục 3.3; QĐ 4416/2023 Ung thư dương vật mục 1.2); mô học khi cắt bao, nghi ngờ hoặc không đáp ứng điều trị (BAD 2018 mục 5.5a ý 2–3, R30; EAU-ASCO 2026 mục 5.1.3). Mốc 2 tuần: thiết kế của ca, không có trong tài liệu đã tải; nhập viện khi nặng lên: IDSA 2014 khuyến cáo 18."
+    },
+    {
+     "t": "Giữ nguyên amlodipin 5 mg, lấy thuốc huyết áp đủ tháng",
+     "v": "c",
+     "n": "Ông xin thuốc huyết áp; tương tác với kem kháng nấm: không có trong tài liệu đã tải. HA 138/84 một lần: không phải trọng tâm ca."
+    },
+    {
+     "t": "Chuyển tiết niệu có kế hoạch cắt bao quy đầu và mô học ngay từ lượt này",
+     "v": "a",
+     "n": "Chấp nhận (EAU-ASCO 2026 mục 5.1.1: chưa thấy quy đầu); nhưng đang viêm cấp chưa phải lúc mổ (EAU Paediatric 2026 mục 3.3, tr. 14)."
+    },
+    {
+     "t": "Fluconazol uống 150 mg mỗi tuần × 4 tuần ngay từ đầu",
+     "v": "a",
+     "n": "QĐ 4416/2023 mục 3.2.1: lựa chọn thứ hai khi kéo dài hoặc không đáp ứng thuốc bôi. Tương tác thuốc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bôi clobetasol hoặc corticoid mạnh vì 'hẹp bao quy đầu'",
+     "v": "w",
+     "n": "BAD 2018 R2 (GPP), R13, R17: clobetasol 0,05% chỉ cho lichen xơ đã chẩn đoán chắc hoặc có mô học; đang nhiễm nấm thì corticoid là yếu tố nguy cơ Candida (QĐ 4416/2023 mục 1.2). Corticoid bôi cho hẹp người lớn không do LS: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh phổ rộng uống vì 'sưng đỏ, có chất tiết'",
+     "v": "w",
+     "n": "Không sốt, viêm khu trú; kháng sinh phổ rộng thuận lợi Candida (QĐ 4416/2023 mục 1.2); ngoại trú khi không SIRS (IDSA 2014 khuyến cáo 18). Kháng sinh cho viêm quy đầu không sốt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển bệnh viện cắt bao quy đầu ngay hôm nay hoặc nhập viện",
+     "v": "w",
+     "n": "EAU Paediatric 2026 mục 3.3, tr. 14: chống chỉ định cắt khi nhiễm khuẩn tại chỗ cấp. Không có SIRS nên không có chỉ định nằm viện (IDSA 2014 khuyến cáo 18)."
+    },
+    {
+     "t": "Kéo mạnh hoặc nong bao quy đầu tại phòng khám để 'mở' vòng hẹp",
+     "v": "h",
+     "n": "EAU Paediatric 2026 mục 3.3, tr. 13 và mục 3.6 (LE 3): gây sẹo, hẹp thứ phát; mục 3.1, tr. 12: nghẹt bao quy đầu là cấp cứu."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hẹp bao quy đầu mắc phải (thứ phát), vòng miệng còn mềm, bao phồng khi tiểu",
+     "Viêm quy đầu – bao quy đầu khu trú do ứ đọng, nghĩ nhiều Candida (chưa xác nhận, phòng khám không soi KOH)",
+     "Chưa có dấu hiệu ác tính; chưa loại hẳn lichen xơ và ung thư vì chưa nhìn thấy quy đầu",
+     "Glucose đói 5,6 mmol/L, nước tiểu không glucose: không đái tháo đường",
+     "Tăng huyết áp đang dùng amlodipin 5 mg; tuyến tiền liệt to nhẹ; hút thuốc lá"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: tóm tắt lời kể lộn xộn; hỏi riêng về vùng sinh dục, đái tháo đường, thuốc, hút thuốc, tình dục; cuối cùng hỏi ông còn lo gì. Bao hẹp và nỗi sợ ung thư chỉ lộ khi hỏi riêng, nhẹ nhàng.",
+     "Khám: miệng bao hẹp không tuột qua miệng sáo; da đỏ phù, mụn mủ li ti, vảy bã đậu, chất tiết vàng trắng hơi hôi; vòng miệng còn mềm. Hẹp chẩn đoán bằng khám (EAU Paediatric 2026 mục 3.2, tr. 13); mô tả khớp viêm quy đầu Candida (QĐ 4416/2023, Nhiễm Candida mục 2.1).",
+     "Loại trừ ung thư: không khối sùi, loét nền cứng, chảy máu, hôi thối, hạch bẹn (QĐ 4416/2023, Ung thư dương vật mục 2.1). Nhưng hẹp bao quy đầu và hút thuốc là yếu tố nguy cơ, khối u có thể ẩn dưới bao hẹp (EAU-ASCO 2026 mục 3.3 tr. 9–10, mục 5.1.1 tr. 16): khám không loại hoàn toàn nên đánh giá lại sớm, mô học khi cắt bao.",
+     "Loại trừ lichen xơ: ngứa không nổi bật, vòng miệng mềm, không mảng trắng xơ; nhưng LS gây 11–30% hẹp bao quy đầu người lớn (BAD 2018 mục 5.4d) nên chưa loại hẳn; mô học khi cắt bao (mục 5.5a ý 3, R30).",
+     "Cận lâm sàng cơ bản: glucose, nước tiểu (EAU LUTS 2026 mục 4.5). Soi KOH, nuôi cấy, PSA, sinh thiết: phòng khám không làm được, chưa cần hôm nay."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị viêm: kháng nấm bôi imidazol 2 lần/ngày × 4 tuần (QĐ 4416/2023 mục 3.2.1) hoặc đến khi khỏi (QĐ 75/2015). Không kháng sinh phổ rộng (QĐ 4416/2023 mục 1.2); không corticoid mạnh khi chưa có chẩn đoán (BAD 2018 R2).",
+     "Không kéo cưỡng bức, không nong (EAU Paediatric 2026 mục 3.3 tr. 13, mục 3.6). Cắt bao quy đầu theo kế hoạch khi hết viêm (chống chỉ định khi nhiễm khuẩn cấp; chỉ định khi viêm tái diễn hoặc hẹp kháng điều trị: mục 3.3 tr. 14, mục 3.6 tr. 15).",
+     "Hẹn khám lại sau 2 tuần (mốc là thiết kế của ca, không có trong tài liệu đã tải); dặn dấu hiệu phải đi ngay (IDSA 2014 khuyến cáo 18; EAU Paediatric 2026 mục 3.1).",
+     "Trả lời nỗi sợ ung thư: chưa thấy dấu hiệu, nhưng bao hẹp cần theo dõi và gửi mô khi cắt (EAU-ASCO 2026 mục 5.1.1, 5.1.3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Clotrimazol kem (hoặc miconazol kem)",
+      "ham_luong": "Kem bôi; hàm lượng không có trong tài liệu đã tải (kem 1% thường dùng)",
+      "lieu": "Lớp mỏng, 2 lần/ngày (sáng, tối)",
+      "duong": "Bôi ngoài da: quy đầu và mặt trong bao da phần tiếp cận được",
+      "thoi_diem": "Sau khi rửa nước ấm, lau khô",
+      "so_ngay": "4 tuần (QĐ 4416/2023 mục 3.2.1) hoặc đến khi khỏi (QĐ 75/2015); con số dài hơn là 4 tuần",
+      "ghi_chu": "QĐ 4416/2023, Nhiễm Candida mục 3.2.1; QĐ 75/2015 (viêm quy đầu như Candida da). Không phối corticoid."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "Viên 5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng như đang dùng",
+      "so_ngay": "Lấy đủ 30 ngày",
+      "ghi_chu": "Đang dùng, giữ nguyên liều; ngưỡng và mục tiêu huyết áp không đối chiếu ở ca này."
+     }
+    ],
+    "dan_do": [
+     "Với ông Bảy: 'Ông nhờ bác sĩ nhìn chỗ kín là đúng. Bao da bị hẹp và viêm, giống nấm men, chưa thấy dấu hiệu ung thư. Nhưng hẹp lâu ở tuổi ông cần theo dõi cho chắc.' (QĐ 4416/2023 Nhiễm Candida mục 2.1; EAU-ASCO 2026 mục 5.1.1)",
+     "Bôi kem đủ 4 tuần dù đỡ sớm; rửa nước ấm sạch, lau khô, quần lót cotton. TUYỆT ĐỐI không kéo ép bao da (EAU Paediatric 2026 mục 3.3, tr. 13). Bỏ thuốc lá (EAU-ASCO 2026 mục 3.3).",
+     "Khám lại sau 2 tuần, có thể đi cùng bà. Đến ngay nếu: sốt, sưng đau tăng, mủ nhiều, bao phồng căng, tiểu không ra, bao kẹt sau đầu dương vật, chảy máu, loét hay khối cứng, hạch bẹn (IDSA 2014 khuyến cáo 18; EAU Paediatric 2026 mục 3.1; EAU-ASCO 2026 mục 5.1.1).",
+     "Khi hết viêm sẽ bàn cắt bao quy đầu và gửi mô xét nghiệm (BAD 2018 mục 5.5a ý 3). Lấy thuốc huyết áp đúng ngày."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 9 ngày",
+   "tiep_don": "Chín ngày sau, ông Bảy quay lại, bà Hiền (vợ) đi cùng. Ông bôi kem kháng nấm đều và giữ vệ sinh đúng dặn nhưng từ ngày thứ năm bao quy đầu sưng đỏ, đau, ra mủ nhiều; đêm qua ớn lạnh, sốt; tiểu rất khó, từng giọt nhỏ. Sinh hiệu: mạch 104 l/p, HA 126/74 mmHg, nhiệt độ 38,4 °C, nhịp thở 20 l/p, SpO₂ 97%, cân nặng 66 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Ông Bảy được kê kháng sinh uống, hẹn lại sau 2–3 ngày. Ổ mủ dưới bao vẫn bít kín, sốt không hạ, đêm đau dữ hơn và tiểu càng khó; ông có SIRS và ổ mủ chưa dẫn lưu, trong khi IDSA 2014 khuyến cáo rạch dẫn lưu (khuyến cáo 5) và nhập viện khi có dấu hiệu toàn thân (khuyến cáo 18). Nhiễm khuẩn có thể lan sang bìu, đáy chậu, hoại tử mô mềm sinh dục, khởi phát âm thầm tới 40% (EAU Urological infections 2026 mục 3.13.2), khi đó phải mổ cấp trong 24 giờ.",
+    "theo_doi": "Ông Bảy được giữ ở phòng khám truyền dịch, uống hạ sốt và 'xem đến sáng'. Phòng khám không có giường lưu, không phẫu thuật; ổ mủ không được dẫn lưu, đến sáng ông sốt cao hơn, sưng lan và đau hơn. Mất thêm vài giờ quý: nếu là hoại thư Fournier thì mổ muộn hơn 24 giờ làm tăng tử vong (EAU Urological infections 2026 mục 3.13.3, 3.13.5).",
+    "cap_cuu": "Ông Bảy được gọi xe cấp cứu 115 đưa vào hồi sức cấp cứu. Huyết áp 126/74, SpO₂ 97%, tỉnh, không dấu hiệu hoại tử hay sốc nên chưa cần hồi sức (IDSA 2014 Hình 1: mức nặng khi có bóng nước, bong da, tụt huyết áp hoặc rối loạn chức năng cơ quan). Ông và bà Hiền hoảng sợ, tốn chi phí cấp cứu, trong khi việc cần là chuyển cùng ngày đến khoa Tiết niệu – Ngoại để rạch dẫn lưu, kháng sinh tĩnh mạch và theo dõi."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi làm đúng như dặn, bôi thuốc đều, rửa nước ấm, không dám kéo. Mà mấy bữa nay nó sưng lên, đau nhói, mủ chảy nhiều lắm. Đêm qua tôi run lên rồi nóng, bà nhà tôi đo nói hơn ba mươi tám độ. Đi tiểu chỉ nhỏ từng giọt. Mà thằng cháu tôi hết ho rồi, ông bên cạnh nhà cũng đi khám rồi.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "126/74",
+    "nhiet": "38,4",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": [
+     "nhiet",
+     "mach"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chín ngày sau lần khám trước. Từ ngày thứ năm da ở đầu 'cậu nhỏ' sưng đỏ nhiều hơn, đau nhói, mủ vàng chảy nhiều. Đêm qua ớn lạnh, sốt. Tiểu rất khó. Bà Hiền thấy ông đi đứng khệnh khạng nên chở đi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: nặng hơn sau 9 ngày, sốt, tiểu khó"
+    },
+    {
+     "id": "dieu_tri",
+     "noi_dung": "Bôi kem 2 lần mỗi ngày đều, rửa nước ấm, không kéo bao da, không tự bôi thêm gì. Ba ngày đầu bớt rát; từ ngày thứ năm sưng và đau tăng dần, không hề đột ngột. Có đo thử nhiệt kế nách đêm qua 38,6 °C.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã tuân thủ điều trị nhưng nặng hơn; thời gian diễn tiến"
+    },
+    {
+     "id": "tieu_kho",
+     "noi_dung": "Nước tiểu ra từng giọt nhỏ, mất 2–3 phút, phải rặn, tiểu xong vẫn mót. Hôm nay đã tiểu được 3 lần. Đau nhẹ ở bụng dưới. Không tiểu ra máu, không buốt thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tắc nghẽn một phần do miệng bao và phù nề, chưa bí tiểu hoàn toàn"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Mệt, ăn ít, khát vừa, không nôn, không đau bụng dữ, không lơ mơ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân nhiễm khuẩn"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Đau tăng dần trong hai ngày. Không thấy vùng da tím đen, không phồng nước, không lép bép. Bìu và vùng đáy chậu không sưng, không đau. Không bao da bị kẹt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ hoại tử mô mềm sinh dục (hoại thư Fournier) và nghẹt bao quy đầu"
+    },
+    {
+     "id": "cuc_mem",
+     "noi_dung": "Hai hôm nay sờ thấy một chỗ phồng mềm, căng, rất đau ở mặt trên bao da, dưới lớp da bao.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi có chỗ nào phồng, cục, sưng khu trú ở bao da, hoặc khi khám đến đúng chỗ đó. Ông ngại tự sờ nên ít khi tự kể.",
+     "k": 1,
+     "y": "Nghĩ ổ mủ dưới bao quy đầu"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không tiểu đường (đường huyết lần trước bình thường), không dùng thuốc ức chế miễn dịch hay corticoid, vẫn chỉ uống amlodipin 5 mg. Vẫn hút thuốc 10 điếu mỗi ngày. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không suy giảm miễn dịch; thuốc đang dùng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vẻ mệt, da nóng, mồ hôi nhẹ, môi hơi khô. Không lơ mơ.",
+     "k": 1,
+     "hien": "Ông tỉnh, mệt, da hơi nóng, mồ hôi nhẹ."
+    },
+    "tim": {
+     "a": "Tim đều 104 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 104 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp tim nhanh, đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, hạ vị ấn đau nhẹ, không có cầu bàng quang rõ. Không phản ứng thành bụng.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau, chạm thận âm tính, không cầu bàng quang rõ.",
+     "k": 0
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Bao quy đầu căng bóng, đỏ sẫm, phù nề, nóng, ấn đau rõ; đỏ lan ra thân dương vật đến cách gốc khoảng 2 cm. Miệng bao hẹp như lỗ kim, ép nhẹ thấy mủ vàng đặc hôi rỉ ra. Ở mặt lưng bao quy đầu, vị trí 12 giờ, có vùng căng mềm lùng nhùng đường kính khoảng 2 cm, đau chói khi ấn (nghĩ ổ mủ dưới bao). Không kéo được bao; không nghẹt. Da không tím đen, bóng nước, nốt hoại tử, không lép bép khi sờ. Quy đầu, miệng sáo không khám được.",
+     "k": 1,
+     "hien": "Bao quy đầu căng bóng, đỏ sẫm, nóng, đỏ lan gần gốc dương vật; mủ vàng rỉ ra miệng bao; ấn mặt trên bao thấy một chỗ mềm căng, ông kêu đau chói."
+    },
+    "bui_tinh_hoan": {
+     "a": "Bìu, tinh hoàn, mào tinh và thừng tinh bình thường, không đỏ, không phù, không đau; phản xạ da bìu còn. Đáy chậu không sưng đỏ, không lép bép. Hai bên bẹn có vài hạch 1 cm, mềm, di động, ấn hơi đau, không dính, không cứng (hạch phản ứng viêm).",
+     "k": 1,
+     "hien": "Bìu và đáy chậu không sưng đỏ; hai bên bẹn có vài hạch nhỏ mềm, ấn hơi đau."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 16,4 G/L · Neutrophil 83,5% · Hb 139 g/L · TC 312 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 16.4,
+      "neu_pct": 83.5,
+      "neu": 13.69,
+      "lym_pct": 10.0,
+      "lym": 1.64,
+      "mono_pct": 5.5,
+      "mono": 0.9,
+      "eos_pct": 0.5,
+      "eos": 0.08,
+      "baso_pct": 0.5,
+      "baso": 0.08,
+      "rbc": 4.6,
+      "hgb": 139,
+      "hct": 0.41,
+      "mcv": 89.1,
+      "mch": 30.2,
+      "mchc": 339,
+      "rdw": 13.5,
+      "plt": 312
+     },
+     "n": "BC > 12 G/L, cùng sốt > 38 °C và mạch > 90 là SIRS (IDSA 2014 khuyến cáo 6, Hình 1): nhiễm khuẩn mức vừa đến nặng. Không làm trễ chuyển tuyến."
+    },
+    "crp": {
+     "v": "e",
+     "r": "CRP 98 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 98.0
+     },
+     "n": "Phản ứng viêm cao, hợp ổ nhiễm khuẩn có mủ. Ngưỡng CRP để chuyển tuyến: không có trong tài liệu đã tải."
+    },
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch 6,2 mmol/L (ăn sáng cách 3 giờ)",
+     "n": "Loại tăng đường huyết, yếu tố nặng của nhiễm khuẩn sinh dục (EAU Urological infections 2026 mục 3.13.2). Làm nhanh tại giường."
+    },
+    "ua": {
+     "v": "u",
+     "r": "SG 1,024 · pH 5,5 · Bạch cầu 1+ · Nitrit, glucose, protein, ceton, hồng cầu âm tính",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.024,
+      "u_ph": 5.5,
+      "u_leu": "1+",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "Âm tính",
+      "u_bil": "Âm tính",
+      "u_ery": "Âm tính"
+     },
+     "n": "Bạch cầu niệu nhẹ có thể do chất tiết bao lẫn vào mẫu; nitrit âm. Ghi vào giấy chuyển, không đổi quyết định."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 6,2 mmol/L · Creatinin 94 µmol/L · eGFR 76 mL/ph/1,73m²",
+     "bang": {
+      "ure": 6.2,
+      "creat": 94,
+      "egfr": 76
+     },
+     "n": "Chức năng thận còn tốt trước khi dùng kháng sinh tĩnh mạch (EAU Urological infections 2026 mục 3.13.3)."
+    },
+    "cay_dich_da": {
+     "n": "Phòng khám không nuôi cấy được; Gram và cấy mủ khuyến cáo khi có áp xe (IDSA 2014 khuyến cáo 3), lấy khi rạch dẫn lưu ở tuyến trên."
+    },
+    "sinh_thiet_da": {
+     "n": "Không làm lúc đang nhiễm khuẩn có ổ mủ; phòng khám không có giải phẫu bệnh. Mô học khi cắt bao quy đầu sau này (BAD 2018 mục 5.5a ý 3, R30; EAU-ASCO 2026 mục 5.1.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Áp xe và viêm mô tế bào bao quy đầu – dương vật mức vừa (có SIRS), do viêm quy đầu – bao quy đầu nặng lên trên nền hẹp bao quy đầu mắc phải; chuyển tuyến ngoại khoa cùng ngày",
+     "ok": 1,
+     "n": "Sưng đỏ nóng lan ra thân, chỗ mềm lùng nhùng mặt lưng bao, mủ rỉ ra miệng bao, sốt 38,4 °C, mạch 104, BC 16,4 G/L, CRP 98 mg/L: nhiễm khuẩn mủ có dấu hiệu toàn thân mức vừa, cần dẫn lưu ổ mủ (IDSA 2014 Hình 1, khuyến cáo 5, 6) và nhập viện khi lo nhiễm trùng sâu hơn hoặc ngoại trú thất bại (khuyến cáo 18). Miệng bao hẹp bít mủ và nước tiểu là gốc nặng lên."
+    },
+    {
+     "t": "Hoại thư Fournier (viêm cân hoại tử vùng sinh dục)",
+     "n": "Chưa có: không tím đen, bóng nước, lép bép, bìu và đáy chậu không sưng. Nhưng khởi phát âm thầm tới 40%, mô hoại tử nhiều hơn dấu hiệu bên ngoài; yếu tố nguy cơ đái tháo đường, béo phì (EAU Urological infections 2026 mục 3.13.2–3.13.3, tr. 47; IDSA 2014 khuyến cáo 27). Dặn theo dõi sát khi chuyển."
+    },
+    {
+     "t": "Nghẹt bao quy đầu hoặc bí tiểu cấp",
+     "n": "Không: bao che kín quy đầu, hôm nay tiểu được 3 lần, không cầu bàng quang. Tiểu từng giọt và đau hạ vị nhẹ là dấu báo cần giải áp nếu bí (EAU Paediatric 2026 mục 3.1, tr. 12; siêu âm bàng quang: phòng khám không có)."
+    },
+    {
+     "t": "Lichen xơ – chưa loại trừ",
+     "n": "Vòng miệng bao nay bị phù nề che. Cần mô học khi cắt bao (BAD 2018 mục 5.5a ý 3, R30)."
+    },
+    {
+     "t": "Ung thư dương vật – chưa loại trừ",
+     "n": "Quy đầu không khám được; khối u có thể ẩn dưới bao hẹp, hạch to do nhiễm khuẩn có thể gặp (EAU-ASCO 2026 mục 5.1.1, 5.2.1 tr. 16). Khám lại bẹn sau khi hết viêm; mô học khi cắt bao."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến CÙNG NGÀY lên bệnh viện có Tiết niệu – Ngoại: rạch dẫn lưu ổ mủ, kháng sinh tĩnh mạch, cấy mủ; gọi điện báo trước, giấy chuyển SBAR, người nhà đi kèm, không để ông về nhà rồi mai đi",
+     "v": "c",
+     "n": "IDSA 2014 khuyến cáo 5 (rạch dẫn lưu ổ mủ, mạnh), 18 (nhập viện khi lo nhiễm trùng sâu hơn, điều trị ngoại trú thất bại hoặc SIRS), Hình 1 (mức vừa: có dấu hiệu toàn thân), 27 (hội chẩn ngoại khoa sớm). Phòng khám không có giường, cấy, thủ thuật."
+    },
+    {
+     "t": "Làm nhanh công thức máu, CRP, đường huyết mao mạch, creatinin, nước tiểu để ghi vào giấy chuyển, không làm trễ việc chuyển",
+     "v": "c",
+     "n": "SIRS: nhiệt > 38 °C, mạch > 90, thở > 24, BC > 12 G/L (IDSA 2014 khuyến cáo 6, Hình 1); đái tháo đường là yếu tố nguy cơ nặng (EAU Urological infections 2026 mục 3.13.2)."
+    },
+    {
+     "t": "Khám bìu, đáy chậu, tìm tím đen, bóng nước, lép bép; dặn người đi kèm báo ngay nếu thấy; ghi vào giấy chuyển",
+     "v": "c",
+     "n": "EAU Urological infections 2026 mục 3.13.2–3.13.3, tr. 47: Fournier khởi phát âm thầm, mô hoại tử nhiều hơn bên ngoài; mổ sớm < 24 giờ và kháng sinh phổ rộng ngay (mục 3.13.5, tr. 48, mạnh); IDSA 2014 khuyến cáo 27–28."
+    },
+    {
+     "t": "Hạ sốt, giảm đau bằng paracetamol trong lúc chờ xe",
+     "v": "c",
+     "n": "Liều paracetamol hạ sốt, giảm đau người lớn trong chỉ định này: không có trong tài liệu đã tải (QĐ 361/2014 mục 4.2.2 chỉ ghi 1–2 g/ngày cho đau khớp). NSAID khi chưa rõ thận và nguy cơ mổ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi vào giấy chuyển: cắt bao quy đầu theo kế hoạch SAU khi hết nhiễm khuẩn, gửi TOÀN BỘ mô làm giải phẫu bệnh; khám lại bẹn sau khi hết viêm",
+     "v": "c",
+     "n": "EAU Paediatric 2026 mục 3.6, tr. 15: cắt khi hẹp kháng điều trị; mục 3.3, tr. 14: chống chỉ định khi nhiễm khuẩn cấp; BAD 2018 mục 5.5a ý 3, R30; EAU-ASCO 2026 mục 5.1.3, 5.2.1. Mốc từ hết viêm đến mổ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích cho ông và bà Hiền vì sao chuyển hôm nay; trả lời nỗi sợ ung thư và sợ tốn tiền bằng sự thật; hứa gọi hỏi thăm",
+     "v": "c",
+     "n": "Lo ngại tuân thủ cũng là lý do nhập viện (IDSA 2014 khuyến cáo 18). Bảo hiểm, chi phí chuyển tuyến: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho liều kháng sinh đầu tiên trước khi xe chuyển nếu phòng khám có, không làm chậm chuyển tuyến",
+     "v": "a",
+     "n": "Chấp nhận; kháng sinh do tuyến trên quyết định (IDSA 2014 khuyến cáo 18). Loại, liều cho áp xe bao quy đầu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tự rạch dẫn lưu ổ mủ tại phòng khám",
+     "v": "a",
+     "n": "IDSA 2014 khuyến cáo 5 (mạnh): rạch dẫn lưu là điều trị chính của áp xe; chấp nhận nếu làm được và đủ gây tê, nhưng ca có SIRS, miệng bao bít, nghi sâu hơn, phòng khám không phẫu thuật và cấy: vẫn cần nhập viện (khuyến cáo 18)."
+    },
+    {
+     "t": "Cho kháng sinh uống và về nhà, hẹn lại sau 2–3 ngày",
+     "v": "w",
+     "n": "Có dấu hiệu toàn thân và ổ mủ cần dẫn lưu (IDSA 2014 khuyến cáo 5, 18, 27)."
+    },
+    {
+     "t": "Giữ theo dõi tại phòng khám đến sáng mai rồi quyết định",
+     "v": "w",
+     "n": "Trì hoãn qua đêm; theo tài liệu EAU Urological infections 2026, Fournier cần mổ trong 24 giờ (mục 3.13.5) và có thể khởi phát âm thầm (mục 3.13.2). Phòng khám không có giường lưu."
+    },
+    {
+     "t": "Cắt bao quy đầu ngay lúc đang nhiễm khuẩn có mủ",
+     "v": "w",
+     "n": "EAU Paediatric 2026 mục 3.3, tr. 14: chống chỉ định khi nhiễm khuẩn tại chỗ cấp; việc cần là dẫn lưu và kháng sinh, cắt sau."
+    },
+    {
+     "t": "Bôi corticoid mạnh hoặc thêm kem lên vùng đang có mủ",
+     "v": "w",
+     "n": "Corticoid là yếu tố nguy cơ nấm (QĐ 4416/2023, Nhiễm Candida mục 1.2); BAD 2018 R2: chỉ khi đã chẩn đoán LS. Thuốc bôi không dẫn lưu được ổ mủ."
+    },
+    {
+     "t": "Ép nặn bao quy đầu, kéo mạnh hoặc nong miệng bao để mủ và nước tiểu ra",
+     "v": "h",
+     "n": "EAU Paediatric 2026 mục 3.3, tr. 13 và mục 3.6 (LE 3): gây sẹo, hẹp thứ phát, nghẹt; trên bao đang viêm mủ có thể đẩy nhiễm khuẩn vào sâu hơn (suy luận, không có trong tài liệu đã tải)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Áp xe dưới bao quy đầu kèm viêm mô tế bào bao quy đầu – dương vật (đỏ lan đến cách gốc khoảng 2 cm), có SIRS: nhiệt 38,4 °C, mạch 104, BC 16,4 G/L",
+     "Hẹp bao quy đầu mắc phải, miệng bao như lỗ kim, bít mủ và nước tiểu; tiểu từng giọt nhưng chưa bí",
+     "Chưa có dấu hiệu hoại tử mô mềm sinh dục (không tím đen, bóng nước, lép bép; bìu, đáy chậu bình thường); hạch bẹn phản ứng",
+     "Chưa loại trừ lichen xơ và ung thư dương vật: cần mô học khi cắt bao quy đầu sau khi hết nhiễm khuẩn",
+     "Không đái tháo đường (đường huyết 6,2 mmol/L); tăng huyết áp đang dùng amlodipin"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: gom dòng thời gian; hỏi tuân thủ không đổ lỗi; hỏi có chỗ phồng, bìu và đáy chậu có sưng, có tím đen không. Ông không tự kể ổ phồng mềm nên phải hỏi cụ thể.",
+     "Khám: bao căng bóng, đỏ sẫm, nóng, mủ rỉ ra miệng bao, chỗ mềm lùng nhùng giờ 12. Có SIRS là nhiễm khuẩn mủ mức vừa (IDSA 2014 Hình 1, khuyến cáo 6); ổ mủ cần dẫn lưu (khuyến cáo 5).",
+     "Loại hoại thư Fournier: không tím đen, bóng nước, lép bép; bìu, đáy chậu bình thường; nhưng bệnh có thể khởi phát âm thầm tới 40% (EAU Urological infections 2026 mục 3.13.2–3.13.3, tr. 47; IDSA 2014 khuyến cáo 27). Đây là lý do không cho về.",
+     "Gốc của đợt này là miệng bao hẹp bít mủ và nước tiểu (EAU Paediatric 2026 mục 3.1); cắt bao theo kế hoạch, không cắt lúc nhiễm khuẩn cấp (mục 3.3 tr. 14; mục 3.6 tr. 15).",
+     "Hạch bẹn nhỏ, mềm, đau là phản ứng viêm; khám lại bẹn sau khi hết viêm (EAU-ASCO 2026 mục 5.2.1, 5.4). Ung thư và lichen xơ chưa loại vì chưa thấy quy đầu: mô học khi cắt bao (BAD 2018 mục 5.5a ý 3, R30; EAU-ASCO 2026 mục 5.1.1, 5.1.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến cùng ngày, xe có người đi kèm: ổ mủ cần rạch dẫn lưu (IDSA 2014 khuyến cáo 5), nhập viện khi lo nhiễm trùng sâu hơn, ngoại trú thất bại hoặc SIRS (khuyến cáo 18). Phòng khám không có cấy, giường, phẫu thuật.",
+     "Trước chuyển: xét nghiệm nhanh, hạ sốt, giấy SBAR (bệnh sử, sinh hiệu, khám, xét nghiệm, đề nghị cắt bao theo kế hoạch và mô học). Kháng sinh tĩnh mạch phổ rộng do tuyến trên chọn (phác đồ Fournier ở đơn thuốc; loại và liều cho áp xe bao quy đầu đơn thuần: không có trong tài liệu đã tải).",
+     "Không cắt bao khi còn nhiễm khuẩn cấp (EAU Paediatric 2026 mục 3.3, tr. 14); gửi toàn bộ mô khi cắt (BAD 2018 R30). Không corticoid mạnh, không kéo nong, không ép nặn (BAD 2018 R2; EAU Paediatric 2026 mục 3.6 LE 3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500–1000 mg/lần khi sốt hoặc đau; liều và giới hạn ngày cho chỉ định này không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Một lần trước khi lên xe, sau đó theo tuyến trên",
+      "so_ngay": "Ngắn ngày; tuyến trên quyết định",
+      "ghi_chu": "QĐ 361/2014 mục 4.2.2 chỉ ghi paracetamol 1–2 g/ngày cho đau khớp; liều hạ sốt người lớn: không có trong tài liệu đã tải. Không dùng thêm NSAID."
+     },
+     {
+      "thuoc": "Kháng sinh tĩnh mạch (tuyến trên chọn theo cấy mủ và đáp ứng)",
+      "ham_luong": "Tại bệnh viện",
+      "lieu": "Nếu nghi Fournier: piperacillin-tazobactam 4,5 g TM × 3–4 lần/ngày kèm vancomycin 15 mg/kg TM × 2 lần/ngày, hoặc meropenem 1 g TM × 3 lần/ngày (EAU Urological infections 2026 Bảng 11)",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Ngay khi vào viện",
+      "so_ngay": "Tuyến trên quyết định; với Fournier, ≤ 10 ngày tương đương > 10 ngày (EAU Urological infections 2026 mục 3.13.4, bằng chứng thấp)",
+      "ghi_chu": "Phòng khám chỉ cho liều đầu nếu có, không làm chậm chuyển. Kháng sinh cho áp xe bao quy đầu đơn thuần: không có trong tài liệu đã tải. IDSA 2014 khuyến cáo 5, 18."
+     },
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "Viên 5 mg",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng",
+      "so_ngay": "Giữ nguyên, ghi vào giấy chuyển; tuyến trên quyết định khi cần nhịn ăn hoặc mổ",
+      "ghi_chu": "Đang dùng, giữ nguyên liều. Tạm ngưng kem kháng nấm trên vùng sưng mủ đến khi ngoại khoa khám (thực hành, không có trong tài liệu đã tải)."
+     }
+    ],
+    "dan_do": [
+     "Với ông Bảy và bà Hiền: 'Bao da đã viêm mủ, có ổ mủ dưới da và ông đã sốt. Thuốc bôi hết khả năng, cần bác sĩ phẫu thuật rạch cho mủ ra và truyền thuốc trong bệnh viện. Ông không làm gì sai, chính miệng bao hẹp giữ mủ lại.' (IDSA 2014 khuyến cáo 5, 18; EAU Paediatric 2026 mục 3.1)",
+     "Đi ngay hôm nay lên bệnh viện tỉnh, bà đi kèm, mang thuốc, thẻ bảo hiểm, giấy chuyển (đã gọi báo trước). Không tự ép mủ, không kéo bao da.",
+     "Trên đường, nếu da dương vật hay bìu tím đen, bóng nước, sưng lan nhanh, sốt rét run, lơ mơ hay không tiểu được: gọi 115 (EAU Urological infections 2026 mục 3.13.2–3.13.3).",
+     "Hết viêm sẽ cắt bao quy đầu, gửi mô xét nghiệm, mang kết quả về phòng khám (BAD 2018 mục 5.5a ý 3, R30); khám lại bẹn sau khi hết viêm (EAU-ASCO 2026 mục 5.2.1). Bỏ thuốc lá."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Bảy được chuyển cùng ngày lên bệnh viện tỉnh, rạch dẫn lưu ổ mủ và truyền kháng sinh; hết sốt sau 2 ngày, viêm lui sau khoảng 1 tuần. Vài tuần sau khi hết viêm, ông được cắt bao quy đầu, gửi toàn bộ mô: viêm mạn kèm xơ hóa nhẹ, không lichen xơ, không loạn sản hay ung thư. Vết mổ lành, tia tiểu mạnh hơn. Ông kể với vợ nỗi sợ ung thư, nhờ bà nhắc bỏ thuốc lá, và lần sau thấy chỗ kín có gì lạ ông đến khám sớm.",
+ "nhieu": [
+  "Kể lể lộn xộn: nhảy giữa thuốc huyết áp, cháu ho, ông hàng xóm 'tiền liệt tuyến'; mốc thời gian đảo lộn. Cách làm: tóm tắt từng đoạn, hỏi từng ý, hỏi riêng về chỗ kín; lượt 2 gom dòng thời gian bằng câu gọn rồi hỏi tuân thủ, ổ phồng, bìu, đáy chậu.",
+  "Giấu triệu chứng thật vì ngại: lấy cớ 'xin thuốc huyết áp, tiểu chậm'; bao da hẹp và nỗi sợ ung thư (người bạn cùng chợ) chỉ lộ khi hỏi riêng, nhẹ nhàng, hỏi ông còn lo gì.",
+  "Tuyến tiền liệt to nhẹ và 'ông hàng xóm bị tiền liệt tuyến': mồi nhử dẫn tới PSA, siêu âm, thuốc tiền liệt tuyến; tia nhỏ ở ca này do miệng bao hẹp.",
+  "Nặng hơn dù tuân thủ: không đổ lỗi bệnh nhân, nhận ra nhiễm khuẩn mủ có SIRS, nâng mức chăm sóc cùng ngày."
+ ],
+ "bai_hoc_bien": [
+  "Ông chỉ nói 'tiểu chậm, xin thuốc huyết áp': hỏi riêng về vùng sinh dục, khám dương vật và bẹn (WHO 2021 mục 3; EAU-ASCO 2026 mục 5.4); hỏi 'ông còn lo gì' để thấy nỗi sợ ung thư.",
+  "Nam cao tuổi hẹp bao quy đầu mắc phải: nghĩ viêm nhiễm (Candida, đái tháo đường), lichen xơ, ung thư dương vật; không loại hoàn toàn khi chưa thấy quy đầu (EAU-ASCO 2026 mục 3.3, 5.1.1; BAD 2018 mục 5.4d); đo đường huyết (QĐ 4416/2023 Nhiễm Candida mục 1.2).",
+  "Không kéo cưỡng bức bao hẹp, không corticoid mạnh khi chưa chẩn đoán, không kháng sinh phổ rộng cho viêm nấm, không cắt khi còn nhiễm khuẩn cấp (EAU Paediatric 2026 mục 3.3, 3.6; BAD 2018 R2; QĐ 4416/2023 mục 1.2).",
+  "Viêm nặng lên dù điều trị đúng: nhận ra SIRS và ổ mủ (IDSA 2014 Hình 1, khuyến cáo 5, 6, 18), loại Fournier (EAU Urological infections 2026 mục 3.13.2–3.13.3), chuyển tuyến cùng ngày với SBAR.",
+  "Cắt bao quy đầu luôn gửi toàn bộ mô học (BAD 2018 mục 5.5a ý 3, R30; EAU Paediatric 2026 mục 3.2)."
+ ],
+ "diem_nho": [
+  "Viêm quy đầu Candida: sẩn đỏ, mụn mủ, vảy tiết, rát, hay tái phát; nguy cơ đái tháo đường, băng bịt, corticoid, kháng sinh phổ rộng; imidazol bôi 2 lần/ngày × 4 tuần (QĐ 4416/2023 Nhiễm Candida mục 1.2, 2.1, 3.2.1) hoặc đến khi khỏi (QĐ 75/2015).",
+  "Hẹp bao quy đầu tăng nguy cơ ung thư dương vật 25–60%, tuổi 50–70 (QĐ 4416/2023 Ung thư dương vật mục 1.2–1.3); khối u có thể ẩn dưới bao hẹp (EAU-ASCO 2026 mục 5.1.1); mô học khi nghi ngờ (mục 5.1.3).",
+  "Lichen xơ gây 11–30% hẹp bao quy đầu người lớn, ngứa không nổi bật; mô học khi cắt bao (BAD 2018 mục 5.4d, 5.5a). Clobetasol 0,05% 1–3 tháng chỉ cho LS đã chẩn đoán (R2, R13, R17).",
+  "Nhiễm khuẩn mủ mức vừa: sốt > 38 °C, mạch > 90, thở > 24 hoặc BC > 12 G/L; ổ mủ cần rạch dẫn lưu; nhập viện khi lo nhiễm trùng sâu hơn hoặc ngoại trú thất bại (IDSA 2014 Hình 1, khuyến cáo 5, 6, 18).",
+  "Hoại thư Fournier: khởi phát âm thầm tới 40%; cắt lọc < 24 giờ, kháng sinh phổ rộng ngay (EAU Urological infections 2026 mục 3.13.2–3.13.5)."
+ ],
+ "nguon": [
+  "EAU Guidelines on Paediatric Urology, limited update March 2026 (TL-0506) – chương 3 Phimosis: mục 3.1 (tr. 12), 3.2–3.3 (tr. 13–14), 3.5, 3.6 (tr. 14–15). Chỉ viết cho trẻ em; dùng làm nguyên tắc chung, chưa có tài liệu đã tải riêng cho hẹp bao quy đầu người lớn không do lichen xơ.",
+  "EAU-ASCO Guidelines on Penile Cancer, update March 2026 (TL-0513) – mục 3.3 (tr. 9–10), 5.1.1, 5.1.3, 5.2.1 (tr. 16), 5.4 (tr. 19).",
+  "British Association of Dermatologists guidelines for the management of lichen sclerosus 2018 (TL-0532; Lewis FM, et al. Br J Dermatol 2018;178:839–853) – R2, R13, R17, R30; mục 5.4d, 5.5a, 5.5c.",
+  "BYT – QĐ 4416/QĐ-BYT 2023 (TL-0397; bản chữ ở kho cũ tltk-10000-ca), bài Nhiễm Candida mục 1.2, 2.1–2.4, 3.2.1; bài Ung thư biểu mô tế bào vảy dương vật mục 1.2–1.3, 2.1. BYT – QĐ 75/QĐ-BYT 2015 (TL-0241), bài Nhiễm Candida (viêm quy đầu, phần điều trị niêm mạc).",
+  "EAU Guidelines on Urological Infections, limited update March 2026 (TL-0512) – mục 3.13.2–3.13.5 (tr. 47–48), Bảng 11. IDSA Practice Guidelines for SSTIs 2014 (TL-0270; Stevens DL, et al. Clin Infect Dis 2014;59:e10) – Hình 1, khuyến cáo 3, 5, 6, 18, 27, 28.",
+  "EAU Guidelines on Management of Non-neurogenic Male LUTS 2026 (TL-0504) – mục 4.4–4.6. WHO 2021 – Guidelines for the management of symptomatic STIs (TL-0502) mục 3 (khám dương vật). WHO 2024 – Recommendations for the treatment of Trichomonas vaginalis, Mycoplasma genitalium, Candida albicans, bacterial vaginosis and HPV (TL-0611) mục 3.3.1. BYT – QĐ 361/QĐ-BYT 2014 (TL-0286) mục 4.2.2 (paracetamol)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 26/10/2026. Đã đọc: TL-0506 chương 3; TL-0513 mục 3.3, 5.1, 5.2, 5.4; TL-0532 mục 5.4d, 5.5 và R2, R13, R17, R30; QĐ 4416/2023 Nhiễm Candida và Ung thư dương vật; QĐ 75/2015 Nhiễm Candida; TL-0512 mục 3.13; TL-0270 khuyến cáo 3–6, 18, 27–28, Hình 1; TL-0504 mục 4.4–4.6; TL-0502 mục 3; TL-0611 mục 3.3.1; TL-0286 mục 4.2.2.",
+  "Thiết kế: lượt 1 ve_hen; lượt 2 chuyen_tuyen cùng ngày (áp xe, viêm mô tế bào dương vật có SIRS dù tuân thủ). Khác TN-0498: không đái tháo đường, không soi KOH, nhiễm khuẩn cấp rồi cắt bao theo kế hoạch. Không dùng ảnh (vùng sinh dục).",
+  "Không có trong tài liệu đã tải: điều trị hẹp bao quy đầu người lớn không do lichen xơ; viêm quy đầu vi khuẩn; hàm lượng kem kháng nấm; mốc tái khám 2 tuần; kháng sinh cho áp xe bao quy đầu; liều paracetamol hạ sốt; mốc cắt bao sau hết viêm; ngưỡng CRP; tiêu chí xét nghiệm STI; tái khám sau cắt bao ở người lớn; bảo hiểm chuyển tuyến.",
+  "Mâu thuẫn: thời lượng bôi kháng nấm, corticoid bôi cho hẹp bao quy đầu, thời điểm cắt bao quy đầu: dùng đúng các mục đã có (TN-0498), xem TN-0493_mau_thuan.md. Kết cục mô học lành tính và mốc thời gian lành là thiết kế của ca, không phải số liệu trong tài liệu. Đề xuất danh mục: không."
+ ]
+}
