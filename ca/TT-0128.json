@@ -1,0 +1,715 @@
+{
+ "ma_ca": "TT-0128",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-04)",
+ "benh": "TT_mat_ngu_man_cao_tuoi",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn giấc ngủ (mất ngủ mạn)",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Ngưng thở khi ngủ"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Sau đợt không khí lạnh",
+  "thuoc_dang_dung": "Không rõ loại thuốc đang dùng",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Vũ Thị Đào",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Bán tạp hóa nhỏ ở đầu chợ xã (thuốc lá lẻ, đồ ăn sáng đóng gói, nước ngọt) ở Bắc Giang; mở cửa 4 giờ 30 sáng, đóng 19 giờ; sống cùng con gái và cháu ngoại",
+  "can_nang": 44,
+  "chieu_cao": 150,
+  "xung_ho": "Bà xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ', gọi con gái là 'con Hạnh'. Chị Hạnh xưng 'em', gọi bà là 'mẹ'. Bác sĩ gọi bà là 'bà Đào' hoặc 'bà'.",
+  "tinh_cach": "Cần mẫn, tiết kiệm, tự ái cao, ghét làm phiền con cháu. Nói ngắn, hay xua tay 'không sao'. Kể kỹ chuyện hàng xóm, chuyện tiền hàng, ít kể chuyện mình.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: nói 'tôi khỏe lắm', 'già thì ngủ ít, ai chả vậy', 'ngã đâu mà ngã, chỉ trượt chân'. Chỉ kể cụ thể khi bác sĩ hỏi chức năng (đêm qua mấy giờ lên giường, thối tiền cho khách, đếm viên thuốc) thay vì hỏi 'có sao không'. Từ chối xét nghiệm máu vì chồng mất do ung thư gan phát hiện qua xét nghiệm máu, 'biết kết quả xấu thêm lo'; đồng ý đo huyết áp, cân nặng, điện tim.",
+  "nguoi_nha": "Con gái, chị Hạnh, 52 tuổi, công nhân may ở thị trấn, ở cùng nhà; cháu ngoại Thảo 16 tuổi ngủ chung buồng với bà. Chị Hạnh hay lo, chở mẹ đi khám, kể được những gì Thảo thấy ban đêm và biết mẹ cất thuốc ở đâu. Lượt 2 chị mang theo nhật ký ngủ và hộp thuốc.",
+  "ten_nguoi_nha": "Chị Hạnh (con gái)",
+  "ngoai_hinh": {
+   "da": "#d9ae8c",
+   "toc": "#d6d3cf",
+   "kieuToc": "bui",
+   "ao": "#7a6a58",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d3a37f",
+    "toc": "#2a1f19",
+    "kieuToc": "dai",
+    "ao": "#5b7c8f",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Khám tổng quát, dạo này ngủ ít",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Vũ Thị Đào, 79 tuổi, bán tạp hóa nhỏ ở đầu chợ xã, được con gái là chị Hạnh chở đến, xin 'khám tổng quát cho yên tâm'. Bà ngồi thẳng lưng, nói ít, hay xua tay 'tôi khỏe'. Đợt không khí lạnh đầu mùa vừa qua. Sinh hiệu lúc tiếp đón (điều dưỡng Linh): mạch 76 l/p, HA 134/80 mmHg, nhiệt 36,6 °C, nhịp thở 18 l/p, SpO₂ 96%, cân nặng 44 kg, cao 150 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chị Hạnh chở mẹ lên bệnh viện tỉnh khi chưa ai biết viên 'thuốc ngủ' bà mua ở quầy là thuốc gì, chưa có nhật ký ngủ, bà lại không chịu lấy máu. Tuyến trên sẽ hỏi lại từ đầu, bà bỏ quầy cả ngày, mệt vì đi xe, rồi bị đề nghị đúng các xét nghiệm bà đã từ chối nên nhiều khả năng không quay lại. Mất ngủ mạn phần lớn được xử trí ở tuyến đầu (ESRS 2023 mục 2); CBT-I hoặc liệu pháp hành vi ngắn là đầu tay (ESRS 2023 mục 1.4; AASM 2021 khuyến cáo 1, 2); chỉ nghi rối loạn ngủ khác hoặc kháng trị mới cần đa ký (ESRS 2023 Bảng 4).",
+    "nhap_vien": "Bà tỉnh, sinh hiệu ổn, không ý tưởng tự hại, không dấu hiệu bệnh nặng nên không có chỉ định nhập viện vì mất ngủ mạn (QĐ 2058/2020 Bài 27 mục 4: điều trị tâm lý và dược lý, không nêu nhập viện). Nằm viện giường lạ, ồn, đèn sáng làm bà ngủ tệ hơn, mất tiền và mất ngày bán hàng, lại thêm sợ 'bệnh nặng'; người cao tuổi nằm viện dễ sảng và suy sụp chức năng (Joint 2025, mục Level of Care Considerations for Older Adults)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi muốn khám tổng quát cho yên tâm, chứ tôi khỏe lắm. Cũng chỉ hơi ngủ ít thôi, già rồi ai chả vậy.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "134/80",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến 'khám tổng quát cho yên tâm'. Bà tự nhận chỉ 'ngủ ít một chút', không coi là bệnh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra"
+    },
+    {
+     "id": "dem_ngu",
+     "noi_dung": "Một đêm điển hình: 20 giờ 30 lên giường xem tivi, 22 giờ 30 mới chợp mắt; ngủ chập chờn, tỉnh 2–3 lần; 3 giờ sáng dậy pha trà uống rồi nằm mở mắt đến 4 giờ 30 báo thức mở quầy. Ước ngủ được 3,5–4 tiếng, sáng dậy vẫn mệt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'ngủ thế nào' bà đáp 'cũng được'. Kể ra khi hỏi đêm qua mấy giờ lên giường, bao lâu thì ngủ, tỉnh mấy lần.",
+     "y": "Mô tả khó vào giấc, khó duy trì giấc ngủ, dậy sớm"
+    },
+    {
+     "id": "keo_dai",
+     "noi_dung": "Ngủ kém 5–6 đêm mỗi tuần, hơn một năm (từ sau Tết năm ngoái). Hai ba tuần nay, từ đợt rét đậm, nặng hơn: chân lạnh, tiểu đêm 2 lần (trước chỉ 1 lần), thức nhiều hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi 'từ khi nào' bà đáp 'mới dạo rét này'. Kể đúng khi hỏi trước đợt rét có ngủ tốt hơn không, mỗi tuần mấy đêm.",
+     "y": "Mạn tính (≥ 3 đêm/tuần, > 3 tháng); đợt lạnh chỉ làm nặng thêm"
+    },
+    {
+     "id": "ban_ngay",
+     "noi_dung": "Ban ngày ngồi quầy hay gật gù, 1–2 lần/ngày vài phút; tuần trước thối nhầm tiền khách hai lần, một lần quên khóa cửa sau; hay quên, hay cáu. Bà nói 'già nên vậy'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi hỏi việc cụ thể trong ngày bán hàng: có gật gù, thối tiền nhầm, quên gì không. Hỏi 'có mệt không' bà đáp 'không'.",
+     "y": "Ảnh hưởng chức năng ban ngày (tiêu chuẩn chẩn đoán)"
+    },
+    {
+     "id": "thoi_quen",
+     "noi_dung": "Trà đặc nóng 4–5 cốc/ngày, kể cả chiều tối và 3 giờ sáng cho ấm người. Ngủ trưa 1–1,5 tiếng trên ghế ở quầy. Xem tivi trong giường đến khuya, hay nhìn đồng hồ. Không rượu, thuốc lá, cà phê.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Kể khi hỏi chi tiết ăn uống, trà cà phê, ngủ trưa, việc làm trước khi ngủ.",
+     "y": "Thói quen duy trì mất ngủ (chất kích thích, ngủ trưa, giường gắn với thức)"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Ăn ngon, vui khi cháu đến, tán chuyện với hàng xóm. Không buồn kéo dài, không chán sống, không tự trách, không ý tưởng tự hại. Chồng mất 5 năm trước, đã nguôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc trầm cảm: không đủ tiêu chuẩn"
+    },
+    {
+     "id": "lo_au",
+     "noi_dung": "Chiều đã sợ 'tối lại không ngủ được'; nằm nghĩ chuyện tiền hàng. Không hồi hộp từng cơn, không né tránh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo âu dự đoán về giấc ngủ (vòng xoắn mất ngủ), không phải rối loạn lo âu"
+    },
+    {
+     "id": "ngung_tho",
+     "noi_dung": "Chị Hạnh kể: cháu Thảo ngủ chung buồng nói bà không ngáy to, không ngừng thở, hay trở mình, dậy đi tiểu, pha trà. Bà không đau đầu sáng, không khô miệng, không bứt rứt chân khi nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ngưng thở khi ngủ và hội chứng chân không yên bằng thông tin người ngủ cùng buồng"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không đái tháo đường, bệnh tim, phổi hay tăng huyết áp biết được. Đau gối hai bên nhẹ khi leo cầu thang, không đau đêm. Không ho đêm, không ợ nóng. Tiểu đêm 2 lần, không rát buốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nội khoa/đau/tiểu đêm có thể góp phần gây mất ngủ"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Có uống 'thuốc bổ' chợ bán và 'viên thuốc ngủ' nhỏ màu trắng mua ở quầy thuốc đầu chợ, không đơn, không nhớ tên. Bà nói 'thỉnh thoảng thôi', tối nào không ngủ được thì uống nửa đến một viên, hơn một năm nay. Vỏ hộp để trong ngăn kéo tủ nhà.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có uống thuốc gì không' bà đáp 'chẳng có gì'. Kể khi hỏi riêng thuốc ngủ, thuốc an thần, thuốc mua ở tiệm không đơn; chị Hạnh bổ sung thấy mẹ lấy thuốc trong ngăn kéo.",
+     "y": "Thuốc đang dùng không rõ loại (cần xác định, cần xem hộp)"
+    },
+    {
+     "id": "nga",
+     "noi_dung": "Chưa ngã thật. Hai lần đêm đi tiểu loạng choạng, phải bám tường vì buồng tối và nền nhà lạnh. Bà nói 'chân yếu tí thôi'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi hỏi về ngã, loạng choạng, đi tiểu ban đêm có phải bám vào đâu không.",
+     "y": "Nguy cơ té ngã ở người rất cao tuổi (dữ kiện cho quyết định về thuốc ngủ)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà Nụ bán hàng đối diện, bằng tuổi, mới bị tai biến liệt nửa người. Bà sợ mình hay quên, gật gù rồi cũng bị, 'không bán được thì sống bằng gì'. Bà muốn 'xem còn khỏe không' hơn là chữa chuyện ngủ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Trả lời chung 'khám cho yên tâm'. Kể khi hỏi vì sao hôm nay quyết định đi khám, gần đây có chuyện gì ở chợ.",
+     "y": "Lý do thật: lo bệnh nặng (đột quỵ), muốn kiểm tra tổng quát"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Nếu đề nghị xét nghiệm máu hoặc chích ngón tay: bà từ chối. Chồng bà mất 5 năm trước vì ung thư gan phát hiện qua xét nghiệm máu, 'sợ biết xấu thêm lo'. Giải thích một lần bà vẫn không đồng ý, nhưng cho đo huyết áp, cân nặng, làm điện tim.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Nói ngay khi bác sĩ đề nghị bất kỳ xét nghiệm máu hay chích ngón tay nào.",
+     "y": "Từ chối xét nghiệm: giải thích một lần, tôn trọng, ghi hồ sơ, có phương án B"
+    },
+    {
+     "id": "phu_nhan",
+     "noi_dung": "Bà cho rằng người già ngủ ít là bình thường, ban đêm không ngủ thì 'nằm nghỉ cũng được'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gầy nhẹ: cân nặng 44 kg, cao 150 cm, BMI 19,6 kg/m². Da niêm hồng, không phù. Mắt kính, hơi mệt mỏi.",
+     "k": 0,
+     "hien": "Tỉnh, gầy nhẹ, hơi mệt."
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, nói ngắn nhưng mạch lạc, định hướng đủ. Khí sắc bình thường, vẫn cười khi nói chuyện cháu. Không hoang tưởng, không ảo giác, không ý tưởng tự hại. Lo lắng nhẹ về giấc ngủ buổi tối.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói ngắn, mạch lạc."
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không hạch cổ. Cổ không to, hầu họng không hẹp, lưỡi bình thường.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú, thị lực và thính lực thô giảm nhẹ theo tuổi, phản xạ gân xương đều hai bên.",
+     "k": 0
+    },
+    "run_nghi": {
+     "a": "Không run khi nghỉ hay khi giữ tư thế.",
+     "k": 0
+    },
+    "ha_tu_the": {
+     "a": "Nằm: 134/80 mmHg, mạch 76 l/p. Đứng 1 phút: 128/78 mmHg, mạch 80 l/p, bà không chóng mặt.",
+     "k": 0
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng dậy khỏi ghế cần chống tay, đi chậm, bước ngắn, hơi chao đảo khi quay người, phải đưa tay ra vịn khi xoay. Không dấu yếu liệt.",
+     "k": 1,
+     "hien": "Đi chậm, bước ngắn, chao đảo khi quay người."
+    },
+    "nhan_thuc_moca": {
+     "a": "Làm được các phần; mất điểm ở chú ý và nhớ lại năm từ (bà nói 'mệt vì ít ngủ'). Không gợi ý sa sút trí tuệ rõ. Ngưỡng cắt và diễn giải MoCA ở người 79 tuổi học vấn thấp: không có trong tài liệu đã tải; MoCA không dùng để chẩn đoán mất ngủ.",
+     "k": 0,
+     "hien": "Làm chậm, hay hỏi lại đề."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Đào không đồng ý lấy máu: 'chồng tôi mất vì ung thư gan phát hiện qua thử máu, tôi sợ biết xấu thêm lo'. Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: chẩn đoán mất ngủ mạn dựa vào bệnh sử và khám, xét nghiệm khi có chỉ định (ESRS 2023 mục 3.1, Bảng 4); QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê xét nghiệm máu để loại nguyên nhân thực tổn. Không có dấu thiếu máu trên lâm sàng. Quy trình ghi nhận từ chối: không có trong tài liệu đã tải."
+    },
+    "tsh": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Đào không đồng ý lấy máu: ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: không sụt cân, run, hồi hộp, to giáp. ESRS 2023 Bảng 4: xét nghiệm tuyến giáp khi có chỉ định."
+    },
+    "ecg": {
+     "v": "a",
+     "ab": 0,
+     "r": "Nhịp xoang 76 l/p, trục trung gian, PR 170 ms, QRS 88 ms, không ST chênh, không sóng T đảo.",
+     "n": "Bà đồng ý (phương án B, không chích). QĐ 2058/2020 Bài 27 mục 3.1.2 và ESRS 2023 Bảng 4: điện tim khi có chỉ định; làm hay không đều chấp nhận."
+    },
+    "psg": {
+     "v": "n",
+     "n": "Chưa có chỉ định: không ngáy to hay ngừng thở, BMI 19,6, chưa điều trị thất bại (ESRS 2023 mục 3.4, Bảng 4). Cơ sở không có đa ký."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mất ngủ mạn (rối loạn mất ngủ mạn tính) ở người rất cao tuổi, có ảnh hưởng chức năng ban ngày; đang dùng một loại thuốc ngủ chưa rõ tên, cần xác định",
+     "ok": 1,
+     "n": "Khó vào giấc, khó duy trì giấc, dậy sớm, 5–6 đêm/tuần, hơn một năm, có hậu quả ban ngày. ICD-10 (QĐ 2058/2020 Bài 27 mục 3.1.1): ≥ 3 lần/tuần ít nhất 1 tháng, suy sụp chức năng; ICSD-3 (ESRS 2023 Bảng 2): ≥ 3 lần/tuần, ≥ 3 tháng. Yếu tố duy trì: trà đặc, ngủ trưa dài, tivi trên giường (ESRS 2023 mục 3.5). Thuốc ngủ tự mua cần xem hộp (ESRS 2023 Hình 1)."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Loại trừ: không khí sắc trầm, ăn ngon, không tự trách, không ý tưởng tự hại; không đủ 2/3 triệu chứng chính kéo dài ≥ 2 tuần (QĐ 2058/2020 Bài 20 mục 3.1.1). Hỏi lại khi tái khám (ESRS 2023 mục 3.5)."
+    },
+    {
+     "t": "Ngưng thở khi ngủ do tắc nghẽn (OSA)",
+     "n": "Loại trừ lâm sàng: người ngủ cùng buồng không nghe ngáy to hay ngừng thở, không đau đầu sáng, BMI 19,6, huyết áp bình thường. ESRS 2023 mục 3.5: 30–40% người mất ngủ có thể có OSA, sàng lọc rồi làm đa ký hoặc đo tại nhà khi dương tính; STOP-Bang và điểm cắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mất ngủ thứ phát do bệnh nội khoa (đau gối, tiểu đêm, bệnh tuyến giáp, tim phổi)",
+     "n": "Chưa thấy: đau gối nhẹ không đau đêm, tiểu đêm 2 lần chưa kèm dấu hiệu khác, tim phổi bình thường. Bà từ chối xét nghiệm nên không khẳng định hoàn toàn (ESRS 2023 mục 3.5, Bảng 5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích mất ngủ mạn là một bệnh có điều trị, không phải 'già thì ngủ ít'; bắt đầu liệu pháp hành vi ngắn (kiểm soát kích thích, giờ dậy cố định, bỏ ngủ trưa dài, không tivi hay nhìn đồng hồ trên giường, ra khỏi giường khi thao thức), giảm trà đặc buổi chiều và nửa đêm; dặn nhật ký ngủ 7–14 ngày",
+     "v": "c",
+     "n": "CBT-I đa thành phần là khuyến cáo mạnh, liệu pháp hành vi ngắn và kiểm soát kích thích là khuyến cáo có điều kiện (AASM 2021 khuyến cáo 1–3, bảng mô tả can thiệp); CBT-I đầu tay cho người lớn mọi tuổi (ESRS 2023 mục 1.4, Bảng 16, mức A); nhật ký ngủ ít nhất 7–14 ngày (ESRS 2023 mục 3.2); không cà phê, thuốc lá nhất là buổi tối (QĐ 2058/2020 Bài 27 mục 4.3). AASM 2021 khuyến cáo 6: không dùng vệ sinh giấc ngủ đơn thuần. Giờ cụ thể bỏ trà: thực hành, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi và xem tận mắt loại thuốc ngủ bà đang mua: nhờ chị Hạnh mang đủ hộp, vỉ thuốc đang dùng khi tái khám; dặn bà không tự tăng liều, không mua thêm; chưa bảo ngừng đột ngột khi chưa rõ thuốc, liều, thời gian",
+     "v": "c",
+     "n": "Thuốc/chất ảnh hưởng giấc ngủ là nhánh của sơ đồ chẩn đoán (ESRS 2023 Hình 1); tăng liều không được khuyên (ESRS 2023 mục 1.4). Nếu là benzodiazepin dùng đều ≥ 4 ngày/tuần ≥ 3 tháng thì ngừng đột ngột có thể gây cai nặng (Joint 2025 Bảng 3, khuyến cáo tóm tắt 2)."
+    },
+    {
+     "t": "Lần khám này chưa kê thuốc ngủ, ưu tiên liệu pháp hành vi; hoặc nếu sau trao đổi cùng bà và con gái vẫn cần thuốc thì chỉ ngắn hạn (không quá 4 tuần), kèm liệu pháp hành vi",
+     "v": "c",
+     "n": "ESRS 2023 mục 1.4, Bảng 16, Hình 1: CBT-I trước, thuốc khi chưa đủ (mức A), tối đa 4 tuần, không tăng liều. AASM 2026 khuyến cáo 2: gợi ý không phối hợp thuốc thay vì CBT-I đơn thuần; khuyến cáo 1: phối hợp tốt hơn thuốc đơn thuần. QĐ 2058/2020 Bài 27 mục 4.1: tâm lý và thuốc có thể kết hợp (mục sổ TT-0161). Bà 79 tuổi đang loạng choạng: Beers 2023 Bảng 2 khuyên tránh benzodiazepin và nhóm Z."
+    },
+    {
+     "t": "Ghi nhận bà từ chối xét nghiệm máu; giải thích một lần vì sao chưa bắt buộc; phương án B: bệnh sử, khám, huyết áp tư thế, điện tim; làm xét nghiệm khi có dấu hiệu mới",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.1, Bảng 4: chẩn đoán dựa vào bệnh sử, xét nghiệm 'nếu có chỉ định'. Cách ghi nhận từ chối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trả lời nỗi sợ thật của bà: nói rõ khám thần kinh và điện tim hôm nay không thấy dấu hiệu tai biến, ngủ kém mạn tính nên điều trị, dặn dấu hiệu đột quỵ phải đi cấp cứu ngay",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.5: mất ngủ là yếu tố nguy cơ độc lập của đột quỵ và sa sút trí tuệ, cần đánh giá và điều trị chủ động. Dấu hiệu đột quỵ cần cấp cứu: lời dặn thực hành, không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Dặn đề phòng té ngã ban đêm (bật đèn đêm, không đi vội khi ngái ngủ); tái khám sau khoảng 2 tuần cùng chị Hạnh, mang nhật ký ngủ và toàn bộ hộp thuốc",
+     "v": "c",
+     "n": "Ngã/loạng choạng cần xử lý trước khi nghĩ đến thuốc ngủ (Beers 2023 Bảng 3). Hẹn 2 tuần là lựa chọn biên tập, không có trong tài liệu đã tải; nhật ký ngủ 7–14 ngày (ESRS 2023 mục 3.2)."
+    },
+    {
+     "t": "Melatonin phóng thích kéo dài, tối đa 3 tháng, nếu có sẵn",
+     "v": "a",
+     "n": "ESRS 2023 mục 4.2.6, Bảng 16: melatonin giải phóng chậm cho người ≥ 55 tuổi tối đa 3 tháng (B), giải phóng nhanh không hiệu quả (A); AASM 2017 khuyến cáo 12: gợi ý không dùng (mục sổ TT-0161). Lưu hành ở Việt Nam: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hạn chế giấc ngủ nghiêm ngặt (chỉ cho nằm giường 4–4,5 tiếng mỗi đêm) bắt đầu ngay hôm nay",
+     "v": "w",
+     "n": "Hạn chế giấc ngủ có thể tăng buồn ngủ ban đầu, có thể chống chỉ định khi buồn ngủ ban ngày quá mức, người cao tuổi khó theo (AASM 2021 khuyến cáo 4, phần giải thích). Bà đang gật gù khi bán hàng và loạng choạng đêm. Giờ nằm tối thiểu người cao tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc nhóm Z (diazepam, zolpidem…) hằng đêm ngay hôm nay, không làm liệu pháp hành vi, không hỏi thuốc đang dùng",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: tránh benzodiazepin và nhóm Z ở ≥ 65 tuổi (lú lẫn, té ngã, gãy xương; chứng cứ vừa, khuyến cáo mạnh); Bảng 3: tiền sử ngã. ESRS 2023 mục 4.2.1: dung nạp, phụ thuộc, té ngã, chỉ ngắn hạn. Bà có thể đã dùng thuốc loại này nên kê chồng càng nguy hiểm. QĐ 2058/2020 Bài 27 mục 4.3 và AASM 2017 không xét tuổi (khác đối tượng, mục sổ TT-0161)."
+    },
+    {
+     "t": "Cho bà uống thuốc kháng histamin thế hệ 1 (diphenhydramin) 'cho dễ ngủ, không cần đơn'",
+     "v": "w",
+     "n": "AASM 2017 khuyến cáo 11: gợi ý không dùng diphenhydramin; ESRS 2023 mục 4.2.5, Bảng 16 (A): không khuyến cáo kháng histamin; Beers 2023 Bảng 2: tránh kháng histamin thế hệ 1 ở người cao tuổi."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mất ngủ mạn ở người nữ 79 tuổi: khó vào giấc, khó duy trì giấc, dậy sớm 5–6 đêm/tuần, hơn một năm (ICD-10 và ICSD-3 đều đạt), có hậu quả ban ngày (gật gù khi bán hàng, thối nhầm tiền, quên)",
+     "Yếu tố duy trì: trà đặc đến nửa đêm, ngủ trưa dài, xem tivi và nhìn đồng hồ trên giường, lo âu dự đoán về đêm; đợt không khí lạnh làm nặng thêm (chân lạnh, tiểu đêm 2 lần)",
+     "Đang dùng 'viên thuốc ngủ' tự mua chưa rõ tên và liều; có loạng choạng ban đêm (nguy cơ ngã)",
+     "Đã loại trừ lâm sàng trầm cảm, ngưng thở khi ngủ; bà từ chối xét nghiệm máu (ghi nhận), đồng ý điện tim",
+     "Lý do thật đi khám: sợ tai biến như bà hàng xóm, muốn kiểm tra tổng quát"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: hỏi chức năng cụ thể (đêm qua mấy giờ lên giường, thức mấy lần, thối tiền, gật gù ở quầy) vì bà giảm nhẹ; hỏi trà, ngủ trưa, việc làm trước khi ngủ; hỏi riêng thuốc ngủ, thuốc mua không đơn, ngã; hỏi chị Hạnh về ngáy và ngừng thở do cháu ngủ cùng buồng (ESRS 2023 Bảng 4).",
+     "Khám: tâm thần (loại trầm cảm), tim phổi, huyết áp tư thế, dáng đi, thần kinh, tuyến giáp (ESRS 2023 mục 3.5). Dáng đi chao đảo là dữ kiện quyết định cách điều trị.",
+     "Cận lâm sàng: chẩn đoán dựa vào bệnh sử (ESRS 2023 mục 3.1). Bà từ chối máu: tôn trọng, ghi hồ sơ, phương án B (điện tim). Đa ký chưa có chỉ định (ESRS 2023 Bảng 4, mục 3.4).",
+     "Timeout: dữ kiện nào chưa được mất ngủ mạn giải thích? Gật gù ban ngày gợi OSA nhưng thiếu ngáy, ngừng thở, BMI cao; tiểu đêm 2 lần và đau gối nhẹ không giải thích được 4 tiếng ngủ. Nếu không đáp ứng hoặc có dấu hiệu mới thì mở lại: sàng lọc OSA, đa ký (ESRS 2023 mục 3.4, 3.5).",
+     "Applicability: nhóm ≥ 75 tuổi bị loại khỏi hầu hết thử nghiệm; số liệu CBT-I riêng: không có trong tài liệu đã tải. ESRS 2023 Bảng 6 dẫn phân tích gộp ở người > 50, > 55, > 60 tuổi; Beers 2023 áp dụng cho ≥ 65 tuổi."
+    ],
+    "phan_tich_xu_tri": [
+     "Đúng: cho về, hẹn 2 tuần, vì không có dấu hiệu cần chuyển hay nhập viện; mất ngủ mạn xử trí ở tuyến đầu (ESRS 2023 mục 2). Việc quan trọng hôm nay là bắt đầu liệu pháp hành vi và biết bà uống thuốc gì.",
+     "Không kê thuốc ngủ hôm nay: CBT-I trước, thuốc khi chưa đủ, tối đa 4 tuần (ESRS 2023 mục 1.4, Bảng 16); AASM 2026 khuyến cáo 2; Beers 2023 Bảng 2, 3 tránh benzodiazepin và nhóm Z ở ≥ 65 tuổi, nhất là có ngã. QĐ 2058/2020 Bài 27 mục 4.3 và AASM 2017 liệt kê thuốc ngủ không xét tuổi: kê ngắn hạn sau quyết định chung chấp nhận được, không bắt buộc, nguy cơ lớn với bà.",
+     "Không bảo bà ngừng đột ngột viên thuốc chưa rõ tên: nếu là benzodiazepin dùng đều thì nguy hiểm (Joint 2025 khuyến cáo tóm tắt 2, Bảng 3). Xem hộp rồi quyết định.",
+     "Từ chối xét nghiệm: giải thích một lần, ghi hồ sơ, phương án B; quy trình ghi nhận: không có trong tài liệu đã tải. Hạn chế giấc ngủ chặt chưa phù hợp vì buồn ngủ ban ngày và nguy cơ ngã (AASM 2021 khuyến cáo 4, phần giải thích)."
+    ],
+    "don_thuoc": [],
+    "dan_do": [
+     "Giờ dậy cố định mỗi sáng (4 giờ 30), chỉ lên giường khi buồn ngủ, không xem tivi hay nhìn đồng hồ trên giường, thức lâu thì ngồi dậy ra ghế đợi buồn ngủ rồi nằm lại (AASM 2021, mô tả kiểm soát kích thích).",
+     "Giảm trà đặc, không uống sau buổi trưa và lúc nửa đêm, hạn chế ngủ trưa (QĐ 2058/2020 Bài 27 mục 4.3). Ghi nhật ký ngủ mỗi sáng, nhờ chị Hạnh hoặc cháu Thảo ghi giúp 7–14 ngày (ESRS 2023 mục 3.2).",
+     "Không tự tăng liều hoặc mua thêm viên thuốc ngủ; mang đủ hộp và vỉ thuốc lần sau (ESRS 2023 mục 1.4, Hình 1).",
+     "Ban đêm bật đèn nhỏ lối đi tiểu, ngồi một lúc trước khi đứng dậy (lời dặn thực hành, không có trong tài liệu đã tải).",
+     "Tái khám sau khoảng 2 tuần cùng chị Hạnh để xem nhật ký ngủ 7–14 ngày (ESRS 2023 mục 3.2; khoảng cách 2 tuần là lựa chọn biên tập). Đi khám ngay nếu yếu liệt một bên, méo miệng, nói khó, ngã hoặc đau ngực."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Hai tuần sau, bà Đào tái khám cùng chị Hạnh, mang theo nhật ký ngủ chị ghi giúp và một hộp thuốc lấy từ ngăn kéo. Bà không đỡ, thậm chí tệ hơn: đêm cách đây 5 ngày bà ngã trong nhà vệ sinh lúc 2 giờ sáng, sau đó đi lại hơi khập khiễng. Sinh hiệu lúc tiếp đón (điều dưỡng Linh): mạch 82 l/p, HA 126/76 mmHg, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 96%, cân nặng 43,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà tỉnh táo, đi lại được, chỉ có vết bầm mô mềm, chị Hạnh ở cùng nhà giữ thuốc và phát liều mỗi tối nên nguy cơ té ngã do uống thêm giảm ngay khi bỏ viên uống thêm. Joint 2025 xếp giảm benzodiazepin là việc ngoại trú, chỉ nhập viện khi có nguy cơ an toàn sắp xảy ra mà việc giảm liều ban đầu không giảm nhanh được (khuyến cáo tóm tắt 5); người cao tuổi nằm viện dễ sảng và suy sụp, nên cố giảm ngoại trú (mục Level of Care Considerations for Older Adults). Nhập viện làm bà mất chỗ quen thuộc, dễ lú lẫn ban đêm, mất tiền, mất quầy hàng và dễ bỏ dở kế hoạch giảm thuốc.",
+    "chuyen_tuyen": "Chuyển bà lên khoa Tâm thần hoặc Lão khoa tuyến tỉnh chỉ để giảm diazepam là chưa cần: đa số người giảm được ở ngoại trú (Joint 2025 khuyến cáo tóm tắt 5, 27). Bà mất cả ngày xe cộ khi còn đau mông, chị Hạnh khó xin nghỉ làm; lời dặn mỗi nơi một kiểu làm phân mảnh chăm sóc, vốn là rào cản lớn của việc giảm thuốc ở người cao tuổi (Joint 2025, mục Older Adults). Chuyển khi giảm thất bại, hội chứng cai nặng hoặc cần chuyên khoa (Joint 2025 khuyến cáo tóm tắt 5, 12)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi vẫn chẳng ngủ được mấy. Con Hạnh bắt tôi mang cái hộp này đi, chứ tôi trượt chân tí xíu thôi, có sao đâu.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "126/76",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Quay lại vì vẫn không ngủ được và vì chị Hạnh bắt mang hộp thuốc đến. Bà tự nhận 'trượt chân tí xíu'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra"
+    },
+    {
+     "id": "nga",
+     "noi_dung": "5 ngày trước, 2 giờ sáng, bà đi tiểu, ngã ngồi phịch trên nền nhà vệ sinh ướt. Không đập đầu, không ngất. Đau mông và đùi trái, đi hơi khập khiễng nhưng vẫn mở quầy sáng hôm sau. Không tê yếu chân, tiểu bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có sao không' bà đáp 'không sao'. Kể khi hỏi đã xảy ra gì, đập đầu, ngất, đi lại thế nào; chị Hạnh bổ sung đã thấy bà ngồi nhăn mặt.",
+     "y": "Té ngã sau uống thuốc ngủ: cần loại trừ chấn thương nặng"
+    },
+    {
+     "id": "hop_thuoc",
+     "noi_dung": "Hộp thuốc ghi diazepam 5 mg, vỉ 10 viên. Bà mua ở quầy thuốc đầu chợ không cần đơn, khoảng một năm hai tháng nay. Mỗi hộp 30 viên thường hết sau khoảng 3 tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xác định thuốc ngủ đang dùng: benzodiazepin (diazepam)"
+    },
+    {
+     "id": "cach_dung",
+     "noi_dung": "Mỗi tối 1 viên 5 mg lúc 21 giờ; khoảng 3 đêm/tuần chưa ngủ lại uống thêm 1 viên lúc 1–2 giờ sáng: 10 viên/tuần, khoảng 7 mg/ngày. Đêm ngã bà uống 2 viên lúc 22 giờ và thêm 1 viên lúc 1 giờ 30 (tổng 15 mg), rồi dậy đi tiểu.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Bà nói 'mỗi tối một viên thôi'. Kể số viên thật khi hỏi đếm từng đêm, đêm ngã uống mấy viên, hoặc khi chị Hạnh đưa số viên hết trong ba tuần.",
+     "y": "Liều thực tế cao hơn bà khai, uống thêm giữa đêm (sai lệch tuân thủ)"
+    },
+    {
+     "id": "cai",
+     "noi_dung": "Hai lần hết thuốc một đêm, bà không ngủ được, run tay nhẹ, đổ mồ hôi, tim đập nhanh, sáng hôm sau mua ngay. Từ đó bà sợ 'không có thuốc là hết ngủ' dù muốn bỏ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Kể khi hỏi có lần nào hết thuốc hoặc quên uống, bà thấy thế nào, có bồn chồn, run, mồ hôi.",
+     "y": "Gợi ý phụ thuộc thể chất, cần giảm dần, không ngừng đột ngột"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Nhật ký chị Hạnh: ngủ khoảng 3,5–4 tiếng, không đổi. Bà giảm trà còn 2 ấm, bỏ trà lúc 3 giờ; ngủ trưa còn khoảng 40 phút. Nhưng vẫn xem tivi trên giường và không chịu ra khỏi giường khi thao thức 'vì lạnh'. Bà không nghĩ viên thuốc là vấn đề.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không đỡ: tuân thủ một phần liệu pháp hành vi; thuốc vẫn duy trì"
+    },
+    {
+     "id": "ban_ngay",
+     "noi_dung": "Gật gù ở quầy nhiều hơn, hai lần suýt ngã khi đứng dậy khỏi ghế, quên nhiều hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chức năng ban ngày và có chóng mặt khi đứng dậy.",
+     "y": "Tác dụng phụ ban ngày của thuốc, nguy cơ ngã"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Hơi buồn và sợ vì ngã, ăn ngủ tương đương trước, vẫn vui khi có cháu, không chán sống, không ý tưởng tự hại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lại trầm cảm và ý tưởng tự hại sau biến cố"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà sợ bị gọi 'nghiện thuốc' rồi cắt hết thuốc, sợ không ngủ thì không bán hàng nổi. Bà muốn bỏ nhưng không dám tự bỏ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Kể khi hỏi bà lo điều gì về viên thuốc, bà nghĩ thế nào nếu giảm dần thuốc.",
+     "y": "Lo sợ và rào cản tâm lý khi giảm thuốc (chia sẻ quyết định)"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Vẫn từ chối lấy máu. Về X-quang: bà ngại tốn tiền và đã đi lại được, nếu đau tăng hoặc không đi được thì mới đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "dieu_kien_lo": "Nói ngay khi bác sĩ đề nghị xét nghiệm máu hoặc chụp X-quang.",
+     "y": "Từ chối xét nghiệm: ghi hồ sơ, phương án B"
+    },
+    {
+     "id": "chi_hanh",
+     "noi_dung": "Chị Hạnh sẵn sàng giữ thuốc và phát cho mẹ mỗi tối, chị ở cùng nhà, lo mẹ ngã tiếp, nhờ hướng dẫn rõ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người chăm sóc có thể giám sát giảm thuốc (điều kiện ngoại trú an toàn)"
+    },
+    {
+     "id": "phu_nhan",
+     "noi_dung": "Bà cho rằng thuốc uống bao năm không sao, ngã là do nền nhà trơn. Bà không thừa nhận thuốc làm bà choáng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy, cân nặng 43,5 kg. Thỉnh thoảng nhăn mặt khi đứng dậy. Da niêm hồng.",
+     "k": 0,
+     "hien": "Tỉnh, gầy, nhăn mặt khi đứng dậy."
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, hơi chậm. Khí sắc bình thường, lo sợ vì ngã, không ý tưởng tự hại, không hoang tưởng. Không run tay lúc khám.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, hơi chậm."
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Da đầu và quanh mắt không bầm, không sưng, không vết thương đầu mặt. Cổ không đau khi xoay.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú, sức cơ hai chân đều, cảm giác nguyên vẹn, phản xạ gân xương đều. Không rung giật nhãn cầu.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Vết bầm tím xanh vùng mông và mặt ngoài đùi trái khoảng 10 × 8 cm, ấn đau mô mềm. Ép khung chậu không đau; hai chân không ngắn, không xoay ngoài; khớp háng và gối trái gấp duỗi, xoay được dù hơi đau; không điểm đau xương khu trú dọc xương đùi, xương chày, cổ chân. Bà tự nhấc chân khỏi giường được. Tiêu chuẩn chụp X-quang sau ngã: không có trong tài liệu đã tải.",
+     "k": 1,
+     "hien": "Bầm mông và đùi trái, đau mô mềm."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng dậy cần chống tay, đi chậm hơn lượt trước, chân trái bước ngắn, phải vịn khi quay người. Chịu lực được hai chân. Không đi được hàng một chân trước chân sau.",
+     "k": 1,
+     "hien": "Đi chậm, chân trái bước ngắn, vịn khi quay."
+    },
+    "ha_tu_the": {
+     "a": "Nằm: 126/76 mmHg, mạch 80 l/p. Đứng 1 phút: 116/72 mmHg, mạch 90 l/p; bà thấy hơi choáng thoáng qua. Ngưỡng kết luận hạ huyết áp tư thế: không có trong tài liệu đã tải.",
+     "k": 1,
+     "hien": "Đứng 1 phút: 116/72 mmHg, mạch 90 l/p."
+    },
+    "sang_loc_sang": {
+     "a": "4AT: tỉnh táo, không ngủ gà (0 điểm); định hướng đúng tuổi, nơi đang ở, năm (0 điểm); đọc ngược các tháng đúng (0 điểm); không thay đổi cấp tính (chị Hạnh xác nhận) (0 điểm). Tổng 0 điểm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Đào vẫn không đồng ý lấy máu: ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc cho kế hoạch giảm diazepam; Joint 2025 không đòi xét nghiệm máu để giảm liều."
+    },
+    "xq_khop": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Bà Đào không đồng ý chụp X-quang hôm nay vì ngại tốn kém: 'đi lại được rồi'. Đã giải thích một lần, ghi nhận từ chối; dặn quay lại ngay nếu đau tăng hoặc không đi được.)",
+     "n": "Lâm sàng không gợi ý gãy xương: chịu lực được, ép khung chậu không đau, không biến dạng. Tiêu chuẩn chụp X-quang sau ngã: không có trong tài liệu đã tải. Làm thêm cũng chấp nhận."
+    },
+    "ma_tuy_nt": {
+     "v": "n",
+     "n": "Không cần: đã xem trực tiếp hộp thuốc ghi diazepam 5 mg. Joint 2025 (Key Takeaways 1b) lưu ý hạn chế của test nhanh nước tiểu với benzodiazepin."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Mất ngủ mạn không đỡ, kèm dùng benzodiazepin (diazepam 5 mg) kéo dài khoảng 14 tháng, khoảng 7 mg/ngày, có khả năng phụ thuộc thể chất, gây té ngã (bầm phần mềm mông và đùi trái, chưa thấy dấu hiệu gãy xương) ở người 79 tuổi",
+     "ok": 1,
+     "n": "Thuốc là diazepam (hộp mang đến). Dùng ≥ 4 ngày/tuần, ≥ 3 tháng, mọi liều: có nguy cơ cai đáng kể (Joint 2025 Bảng 3); ~7 mg/ngày là mức thấp (≤ 10 mg diazepam tương đương). Bà từng run, đổ mồ hôi khi hết thuốc. Thuốc nhóm này tăng lú lẫn, té ngã, gãy xương ở người cao tuổi (Beers 2023 Bảng 2, 3; ESRS 2023 mục 4.2.1). Không đỡ vì: vẫn dùng thuốc kể cả uống thêm, chỉ theo liệu pháp hành vi một phần, thói quen giường (tivi, không rời giường)."
+    },
+    {
+     "t": "Gãy xương (cổ xương đùi, khung chậu) sau ngã",
+     "n": "Chưa thấy trên lâm sàng: đi lại chịu lực, ép khung chậu không đau, chi không ngắn, không xoay ngoài. Bà từ chối X-quang; cho quay lại ngay khi đau tăng hoặc không đi được. Tiêu chuẩn chụp X-quang: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chấn thương sọ não, xuất huyết nội sọ sau ngã",
+     "n": "Chưa thấy: không đập đầu, không ngất, tỉnh táo, 4AT 0 điểm, thần kinh bình thường, đầu mặt không bầm. Dặn quay lại nếu đau đầu, nôn, lú lẫn; tiêu chí cần CT sọ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Vẫn loại trừ: khí sắc không trầm kéo dài, ăn ngủ không đổi, không ý tưởng tự hại (QĐ 2058/2020 Bài 20 mục 3.1.1). Theo dõi vì mất ngủ mạn tăng nguy cơ trầm cảm (ESRS 2023 mục 3.5)."
+    },
+    {
+     "t": "Ngưng thở khi ngủ do tắc nghẽn (OSA)",
+     "n": "Vẫn loại trừ lâm sàng: không ngáy to hay ngừng thở, BMI 19,3, không tăng huyết áp; chưa cần đa ký (ESRS 2023 Bảng 4, mục 3.4). Mở lại nếu có ngáy to hoặc ngừng thở được xác nhận."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác định thuốc và liều thật: đọc hộp (diazepam 5 mg), đếm số viên từng đêm, hỏi lần hết thuốc, rượu và các thuốc khác (bà không rượu, không opioid)",
+     "v": "c",
+     "n": "Cần rà soát đầy đủ thuốc trước khi giảm benzodiazepin ở người cao tuổi (Joint 2025, mục Older Adults). Dùng ≥ 4 ngày/tuần ≥ 3 tháng thì nguy cơ cai đáng kể (Bảng 3); hỏi lần hết thuốc, tiền sử cai, rượu (Joint 2025, phần Tapering Versus Discontinuation)."
+    },
+    {
+     "t": "Giảm diazepam từ từ có giám sát thay vì ngừng đột ngột; không để tiếp tục dùng bình thường, vì thuốc làm tăng ngã",
+     "v": "c",
+     "n": "Joint 2025 Key Takeaways 1d, khuyến cáo tóm tắt 27: giảm benzodiazepin ở hầu hết người ≥ 65 tuổi trừ khi có lý do rõ để tiếp tục; khuyến cáo tóm tắt 2: tránh ngừng đột ngột khi có nguy cơ phụ thuộc (chứng cứ thấp, khuyến cáo mạnh). Beers 2023 Bảng 2: tránh diazepam ở ≥ 65 tuổi nhưng benzodiazepin 'có thể phù hợp' khi cai benzodiazepin; Bảng 3: tiền sử ngã."
+    },
+    {
+     "t": "Bước 1: giao chị Hạnh giữ thuốc, phát mỗi tối một liều cố định (7,5 mg = 1,5 viên 5 mg, tương đương mức dùng thật), một lần buổi tối, không uống thêm giữa đêm; bước kế: giảm 5–10% liều mỗi 2–4 tuần, không quá 25% mỗi 2 tuần, tùy đáp ứng",
+     "v": "c",
+     "n": "Joint 2025 Key Takeaways 5, 6 và khuyến cáo tóm tắt 6, 8, 9: mở đầu giảm 5–10%, không quá 25% mỗi 2 tuần, chậm lại nếu có cai, đánh giá cai ở từng lần giảm; người cao tuổi giảm nhỏ hơn và chậm hơn (mục Older Adults). Liều 7,5 mg cố định (bỏ biến thiên uống thêm, tương đương mức dùng thật), cách chia viên cho bước nhỏ và quy định cấp thuốc hướng thần: không có trong tài liệu đã tải. Khuyến cáo tóm tắt 7 cho đổi sang benzodiazepin tác dụng dài, nhưng diazepam đã tác dụng dài và mục Older Adults khuyên thận trọng khi đổi."
+    },
+    {
+     "t": "Tiếp tục liệu pháp hành vi (kiểm soát kích thích, ra khỏi giường khi thao thức, không tivi trên giường, giờ dậy cố định), vì đây là điều trị song song khi giảm thuốc",
+     "v": "c",
+     "n": "Can thiệp hành vi như CBT-I cho người đang giảm benzodiazepin (Joint 2025 khuyến cáo tóm tắt 10, chứng cứ thấp, khuyến cáo mạnh); CBT-I làm tốt hơn sau ngừng thuốc nhưng thực hành có thể chồng lên nhau (ESRS 2023 mục 4.5); CBT-I đầu tay (Bảng 16)."
+    },
+    {
+     "t": "Xử trí té ngã: khám bầm mô mềm, loại trừ gãy xương và chấn thương đầu trên lâm sàng; ghi nhận bà từ chối X-quang; dặn quay lại ngay khi đau tăng, không đi được, đau đầu, nôn, lú lẫn",
+     "v": "c",
+     "n": "Ngã là nguy cơ an toàn cần xử lý ngay (Beers 2023 Bảng 3; Joint 2025 khuyến cáo tóm tắt 5). Tiêu chuẩn chụp X-quang hay CT sau ngã: không có trong tài liệu đã tải; dặn dò dựa trên thực hành."
+    },
+    {
+     "t": "Sàng lọc lại trầm cảm và ý tưởng tự hại; giải thích không phải 'nghiện' theo nghĩa xấu mà là cơ thể quen thuốc, giảm từ từ thì an toàn",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 20 mục 3.1.1; chia sẻ quyết định với người bệnh và người chăm sóc (Joint 2025 khuyến cáo tóm tắt 4, khuyến cáo mạnh)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần cùng chị Hạnh mang vỉ thuốc còn lại và nhật ký ngủ; hỏi các triệu chứng cai ở mỗi lần giảm; dặn đến sớm nếu run, mồ hôi nhiều, tim đập nhanh, không ngủ hoàn toàn, lú lẫn hoặc ngã lại",
+     "v": "c",
+     "n": "Đánh giá triệu chứng cai ở mỗi lần giảm, chỉnh nhịp theo đáp ứng (Joint 2025 khuyến cáo tóm tắt 8, 9); nhật ký ngủ (ESRS 2023 mục 3.2). Hẹn 2 tuần là lựa chọn biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc giảm đau thông thường khi đau mô mềm vùng ngã, không dùng thêm thuốc an thần",
+     "v": "a",
+     "n": "Liều và loại thuốc giảm đau: không có trong tài liệu đã tải; không dùng thuốc an thần (Beers 2023 Bảng 2)."
+    },
+    {
+     "t": "Giới thiệu bà đến chuyên khoa tâm thần hoặc lão khoa để hỗ trợ giảm benzodiazepin và CBT-I",
+     "v": "a",
+     "n": "Chấp nhận khi giảm thất bại hoặc cai nặng (Joint 2025 khuyến cáo tóm tắt 5, 12), không bắt buộc vì đa số giảm được ngoại trú."
+    },
+    {
+     "t": "Ngừng diazepam hoàn toàn ngay từ hôm nay",
+     "v": "h",
+     "n": "Ngừng đột ngột ở người dùng đều ≥ 3 tháng có thể gây cai nặng, đe dọa tính mạng (Joint 2025 Key Takeaways 3, khuyến cáo tóm tắt 2). Bà từng run, đổ mồ hôi, tim nhanh khi hết thuốc."
+    },
+    {
+     "t": "Tăng liều diazepam hoặc cho uống thêm giữa đêm 'vì không đỡ'",
+     "v": "w",
+     "n": "ESRS 2023 mục 1.4: tăng liều không được khuyên, có thể thúc đẩy phụ thuộc; Beers 2023 Bảng 2, 3: bà đã ngã sau liều 15 mg."
+    },
+    {
+     "t": "Kê thêm thuốc ngủ khác (zolpidem, diphenhydramin) để bù khi giảm diazepam",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: tránh nhóm Z và kháng histamin thế hệ 1 ở ≥ 65 tuổi; Bảng 3: tiền sử ngã. ESRS 2023 mục 4.2.5 (A) và AASM 2017 khuyến cáo 11: không dùng kháng histamin/diphenhydramin."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Mất ngủ mạn không đỡ sau 2 tuần ở bà 79 tuổi, ngủ 3,5–4 tiếng, gật gù ban ngày tăng",
+     "Dùng diazepam 5 mg không đơn khoảng 14 tháng, thực tế khoảng 7 mg/ngày, có uống thêm giữa đêm; run, đổ mồ hôi khi hết thuốc nghĩa là có khả năng phụ thuộc thể chất",
+     "Té ngã 5 ngày trước sau liều tổng 15 mg: bầm phần mềm mông và đùi trái, chưa thấy dấu hiệu gãy xương hay chấn thương đầu trên lâm sàng; bà từ chối X-quang và xét nghiệm máu (ghi nhận)",
+     "Đã loại trừ lâm sàng trầm cảm, OSA; chị Hạnh có thể giám sát giảm thuốc ở nhà"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: hỏi chức năng và đếm viên thật (bà khai một viên mỗi tối, thực tế 10 viên mỗi tuần theo số viên hết trong 3 tuần, Joint 2025 mục Tapering Versus Discontinuation); hỏi đêm ngã uống mấy viên; hỏi lần hết thuốc để đánh giá phụ thuộc; hỏi bà lo gì về thuốc.",
+     "Khám: tâm thần, đầu mặt, thần kinh, 4AT, cơ xương khớp (loại gãy xương lâm sàng), huyết áp tư thế, dáng đi. Đi chậm, vịn khi quay, mạch tăng khi đứng cho thấy nguy cơ ngã còn (Joint 2025 khuyến cáo tóm tắt 5).",
+     "Cận lâm sàng: bà từ chối; giảm benzodiazepin không cần xét nghiệm máu. Test nước tiểu có hạn chế (Joint 2025 Key Takeaways 1b) và không cần vì đã có hộp thuốc.",
+     "Quy trình thất bại điều trị: sai chẩn đoán? (mất ngủ mạn đúng, không dấu trầm cảm hay OSA); sai thuốc? (thuốc không phù hợp tuổi: Beers 2023 Bảng 2); không tuân thủ? (uống thêm giữa đêm, tivi giường, không rời giường); biến chứng? (té ngã); đề kháng? (không áp dụng). Hướng đi: giảm thuốc song song liệu pháp hành vi, không thêm thuốc ngủ.",
+     "Chống outcome bias: lượt 1 đúng là không kê thuốc ngủ và hẹn xem hộp thuốc; việc bà vẫn uống thêm rồi ngã không làm quyết định lượt 1 thành sai. Bài học: dặn rõ, kéo người nhà giám sát, xử lý ngay sau biến cố."
+    ],
+    "phan_tich_xu_tri": [
+     "Đúng: cho về, giảm diazepam ngoại trú, hẹn 2 tuần, vì bà tỉnh, đi lại được, chưa cai nặng, chị Hạnh giữ và phát thuốc (Joint 2025 khuyến cáo tóm tắt 5; mục Level of Care Considerations for Older Adults).",
+     "Giảm dần, không ngừng đột ngột (Joint 2025 khuyến cáo tóm tắt 2, 27), nhịp 5–10% mỗi 2–4 tuần, không quá 25% mỗi 2 tuần (khuyến cáo tóm tắt 6); người cao tuổi nhỏ hơn và chậm hơn. Beers 2023 Bảng 2 cho phép benzodiazepin khi cai benzodiazepin.",
+     "Bước 1 đặt liều cố định 7,5 mg/đêm do chị Hạnh phát để bỏ liều uống thêm; cách chia viên cho bước nhỏ: không có trong tài liệu đã tải. Liệu pháp hành vi song song (Joint 2025 khuyến cáo tóm tắt 10); không thêm thuốc ngủ khác (Beers 2023; ESRS 2023 mục 4.2.5).",
+     "Té ngã: loại gãy xương, chấn thương đầu bằng lâm sàng; bà từ chối X-quang nên ghi hồ sơ, dặn dấu hiệu quay lại. Tiêu chuẩn chụp X-quang/CT: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Diazepam",
+      "ham_luong": "Viên 5 mg (loại bà đang dùng, theo vỏ hộp)",
+      "lieu": "7,5 mg (1,5 viên) mỗi tối, liều cố định, không uống thêm giữa đêm",
+      "duong": "Uống",
+      "thoi_diem": "Một lần buổi tối, giờ cố định; chị Hạnh giữ thuốc và phát liều",
+      "so_ngay": "2 tuần đầu giữ liều ổn định; sau đó giảm 5–10% liều mỗi 2–4 tuần tùy đáp ứng, không quá 25% mỗi 2 tuần; chỉ cấp lượng đủ đến lần tái khám",
+      "ghi_chu": "Joint 2025 Key Takeaways 5, khuyến cáo tóm tắt 2, 6, 8, 9, 27. Beers 2023 Bảng 2: tránh diazepam ở ≥ 65 tuổi (có thể phù hợp khi cai benzodiazepin). Liều 7,5 mg cố định, cách chia viên cho bước giảm nhỏ và quy định cấp thuốc hướng thần: không có trong tài liệu đã tải; giảm chậm lại hoặc dừng chỉnh nếu có triệu chứng cai."
+     }
+    ],
+    "dan_do": [
+     "Viên thuốc ngủ là diazepam, cơ thể bà đã quen nên không được ngừng đột ngột; giảm từ từ, chị Hạnh giữ và phát đúng liều mỗi tối, bà không tự uống thêm giữa đêm (Joint 2025 khuyến cáo tóm tắt 2, 4).",
+     "Nửa đêm thao thức: không uống thêm thuốc, ra ghế ngồi, bật đèn nhỏ, chỉ nằm lại khi buồn ngủ (AASM 2021, mô tả kiểm soát kích thích); không tivi trên giường; giờ dậy cố định (QĐ 2058/2020 Bài 27 mục 4.3).",
+     "Tránh ngã: ngồi dậy từ từ, đèn đêm lối vào nhà vệ sinh, giữ sàn khô (lời dặn thực hành, không có trong tài liệu đã tải).",
+     "Quay lại ngay nếu đau mông hoặc háng tăng, không đi hay đứng được, đau đầu, nôn, lú lẫn; hoặc run tay, đổ mồ hôi nhiều, tim đập nhanh, không ngủ hoàn toàn khi giảm thuốc (Joint 2025: theo dõi cai ở mỗi lần giảm). Tái khám sau 2 tuần (lựa chọn biên tập) với vỉ thuốc còn lại và nhật ký ngủ."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Xử trí đúng nhưng diễn tiến xấu. Lượt 1 đúng: không kê thêm thuốc ngủ cho bà 79 tuổi đang loạng choạng, bắt đầu liệu pháp hành vi, hẹn xem hộp thuốc và nhật ký ngủ. Nhưng bà vẫn âm thầm uống diazepam mua không đơn, đêm lạnh uống thêm tổng 15 mg rồi ngã trong nhà vệ sinh; may chỉ bầm phần mềm. Điểm gãy: bà khai 'một viên mỗi tối' và 'trượt chân tí xíu', số viên thật chỉ lộ khi đếm và khi chị Hạnh nói. Lượt 2 xử trí đúng (giảm dần có giám sát, không ngừng đột ngột, không thêm thuốc ngủ) nhưng bài học là đúng ở lượt 1 chưa bảo đảm kết cục tốt, và đánh giá quyết định theo quy trình chứ không theo kết quả.",
+ "nhieu": [
+  "Phủ nhận triệu chứng: 'già ngủ ít ai chả vậy', 'tôi khỏe', 'trượt chân tí xíu'. Phải hỏi chức năng (đêm qua, thối tiền, đếm viên) và người nhà (ESRS 2023 Bảng 4: thông tin từ người ngủ cùng, người chăm sóc).",
+  "Gật gù ban ngày dễ gợi ngưng thở khi ngủ, nhưng không ngáy, không ngừng thở, BMI 19,6, huyết áp bình thường: giải thích bằng ngủ đêm 3,5–4 tiếng (ESRS 2023 mục 3.5, Bảng 4).",
+  "Tiểu đêm 2 lần, đau gối, chân lạnh sau rét dễ khiến nghĩ cần xét nghiệm trong khi bà từ chối: vẫn chẩn đoán được bằng bệnh sử (ESRS 2023 mục 3.1, 3.5).",
+  "Lượt 2: vết bầm lớn, đi khập khiễng dễ dẫn đến chụp phim hoặc nhập viện ngay, trong khi lâm sàng không gợi ý gãy xương; điều quyết định là giảm thuốc an toàn (Joint 2025 khuyến cáo tóm tắt 5)."
+ ],
+ "bai_hoc_bien": [
+  "Người rất cao tuổi giảm nhẹ triệu chứng: hỏi bằng việc cụ thể và hỏi người cùng nhà; luôn hỏi riêng thuốc ngủ, thuốc mua không đơn (ESRS 2023 Bảng 4, Hình 1).",
+  "Mất ngủ mạn: liệu pháp hành vi trước, thuốc ngắn hạn khi chưa đủ, không tăng liều (AASM 2021 khuyến cáo 1–3, 6; ESRS 2023 mục 1.4, Bảng 16). Từ 65 tuổi tránh benzodiazepin và nhóm Z (Beers 2023 Bảng 2, 3).",
+  "Từ chối xét nghiệm: tôn trọng, giải thích một lần, ghi hồ sơ, phương án B; chẩn đoán mất ngủ không cần xét nghiệm (ESRS 2023 mục 3.1).",
+  "Không đỡ: kiểm lại thuốc thật (đếm viên), tuân thủ, chất duy trì mất ngủ trước khi nghĩ chẩn đoán sai (ESRS 2023 Hình 1). Dùng benzodiazepin đều ≥ 3 tháng thì giảm dần, không ngừng đột ngột (Joint 2025 Bảng 3, khuyến cáo tóm tắt 2, 6, 27).",
+  "Chống outcome bias: quyết định đúng vẫn có thể ra kết cục xấu; đánh giá theo thông tin lúc quyết định, dặn rõ và kéo người nhà vào giám sát."
+ ],
+ "diem_nho": [
+  "Mất ngủ mạn: ICD-10 (QĐ 2058/2020 Bài 27 mục 3.1.1) ≥ 3 lần/tuần ít nhất 1 tháng; ICSD-3 (ESRS 2023 Bảng 2) ≥ 3 lần/tuần, ≥ 3 tháng, có triệu chứng ban ngày. Ca đạt cả hai.",
+  "Thuốc ngủ: QĐ 2058/2020 và AASM 2017 liệt kê benzodiazepin, nhóm Z không xét tuổi; ESRS 2023 ngắn hạn tối đa 4 tuần; Beers 2023 Bảng 2, 3 tránh ở ≥ 65 tuổi, nhất là có ngã (mục sổ TT-0161).",
+  "Giảm benzodiazepin: 5–10% mỗi 2–4 tuần, không quá 25% mỗi 2 tuần; người cao tuổi nhỏ hơn và chậm hơn; giảm ngoại trú trừ khi có nguy cơ an toàn không giảm nhanh được (Joint 2025 khuyến cáo tóm tắt 5, 6, 27).",
+  "Applicability (≥ 75 tuổi): hầu hết thử nghiệm loại nhóm này; số liệu riêng: không có trong tài liệu đã tải. ESRS 2023 Bảng 6 có phân tích gộp ở người > 50, > 55, > 60 tuổi."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 27 (mục 3.1.1, 3.1.2, 3.2, 4.1, 4.3, 5); Bài 20 mục 3.1.1.",
+  "ESRS 2023 – The European Insomnia Guideline, J Sleep Res 2023;32:e14035 – TL-0464 – mục 1.4, 2, 3.1, 3.2, 3.4, 3.5, 4.1.1, 4.2.1, 4.2.5, 4.2.6, 4.5; Bảng 2, 4, 6, 16; Hình 1.",
+  "AASM 2021 – Behavioral and psychological treatments for chronic insomnia disorder in adults, J Clin Sleep Med 2021;17(2):255-262 – TL-0470 – khuyến cáo 1–6, bảng mô tả can thiệp.",
+  "AASM 2017 – Pharmacologic treatment of chronic insomnia in adults, J Clin Sleep Med 2017;13(2):307-349 – TL-0482 – khuyến cáo 2, 4–6, 11, 12.",
+  "AASM 2026 – Combination treatment for chronic insomnia disorder in adults, J Clin Sleep Med 2026;22(1) – TL-0448 – khuyến cáo 1, 2 và remark.",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2 (benzodiazepin, thuốc nhóm Z, kháng histamin thế hệ 1), Bảng 3 (tiền sử ngã hoặc gãy xương).",
+  "Joint Clinical Practice Guideline on Benzodiazepine Tapering 2025 (ASAM và các hội) – TL-0575 – Key Takeaways 1b, 1d, 3, 5; khuyến cáo tóm tắt 2, 4–6, 8–10, 12, 27; Bảng 3; mục Older Adults, Level of Care Considerations for Older Adults."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 04/11/2026. Đã đọc: TL-0443 (Bài 27, Bài 20); TL-0464 ESRS 2023 (mục 1.4, 2, 3.1–3.5, 4.1.1, 4.2.1, 4.2.5, 4.2.6, 4.5, Bảng 2/4/6/16, Hình 1); TL-0470 AASM 2021 (khuyến cáo, giải thích khuyến cáo 4, bảng can thiệp); TL-0482 AASM 2017 (khuyến cáo 1–14); TL-0448 AASM 2026 (khuyến cáo 1, 2); TL-0022 Beers 2023 (Bảng 2, 3); TL-0575 Joint 2025 (Key Takeaways, khuyến cáo tóm tắt, Bảng 3, mục Older Adults).",
+  "Không có trong tài liệu đã tải: STOP-Bang và điểm cắt; điểm cắt MoCA; ngưỡng hạ huyết áp tư thế; tiêu chuẩn chụp X-quang/CT sau ngã; liều thuốc giảm đau; cách chia viên diazepam 5 mg cho bước giảm 5–10%; quy định cấp thuốc hướng thần ở Việt Nam; số liệu CBT-I riêng cho ≥ 75 tuổi; giờ nằm tối thiểu cho người cao tuổi; khoảng cách tái khám (2 tuần là lựa chọn biên tập); quy trình ghi nhận từ chối. Bản chữ TL-0481 chỉ có phụ lục, không có khuyến cáo chính nên không trích.",
+  "Mâu thuẫn nguồn ghi cả hai cách, dùng lại mục sổ TT-0161 (không có mục mới): thuốc ngủ benzodiazepin/nhóm Z ở ≥ 65 tuổi; phối hợp CBT-I với thuốc; vệ sinh giấc ngủ đơn thuần; melatonin. Thêm: Joint 2025 khuyến cáo tóm tắt 7 (đổi sang benzodiazepin tác dụng dài) và mục Older Adults (thận trọng khi đổi) cùng trong một tài liệu; ca không đổi vì diazepam đã tác dụng dài.",
+  "Lượt 2 tiếp diễn từ xử trí đúng lượt 1. Không có ảnh da. Âm thanh tim/phổi dùng tệp bình thường (mạch 76 và 82 < 100)."
+ ]
+}
