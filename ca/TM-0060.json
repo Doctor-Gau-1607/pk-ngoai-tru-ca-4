@@ -1,0 +1,496 @@
+{
+ "ma_ca": "TM-0060",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_viem_ket_mac_cap_virus_cong_nhan_cao_su",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm kết mạc (virus/vi khuẩn/dị ứng)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm màng bồ đào",
+   "Glôcôm cấp",
+   "Viêm giác mạc"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "nghe_nghiep": "Công nhân cao su",
+  "yeu_to_khoi_phat": "Sau uống nước không sạch",
+  "thuoc_dang_dung": "Tự truyền dịch tại nhà",
+  "ly_do_that_su_den_kham": "Mâu thuẫn gia đình",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Thu Hiền",
+  "tuoi": 27,
+  "gioi": "Nữ",
+  "nghe": "Công nhân cạo mủ cao su ở nông trường, ở lán tập thể 4 người",
+  "can_nang": 50,
+  "chieu_cao": 155,
+  "xung_ho": "Chị xưng 'em', gọi bác sĩ là 'bác sĩ', hay thêm 'dạ' đầu câu (giọng miền Đông Nam Bộ). Gọi chồng là 'anh Phước', mẹ chồng là 'bà Tám' hoặc 'má chồng em', con trai là 'bé Su', bạn cùng lán là 'chị Lụa'.",
+  "tinh_cach": "Chịu khó, nói ít nhưng rõ ý, trả lời đủ điều bác sĩ hỏi, mang theo cả vỏ lọ thuốc đã dùng. Tính chị hay nhịn nên chuyện nhà không tự kể; hỏi riêng mới nghẹn lại, mắt rưng rưng.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: kể trình tự rõ, đưa đồ vật khi được hỏi, đồng ý khám kỹ. Cái khó không nằm ở thái độ mà ở hai thứ chị tin: ‘nước độc vô mắt’ nên cần ‘thuốc mạnh’, và việc chị muốn có lời giải thích để đưa về nhà.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c68e6b",
+   "toc": "#1f1612",
+   "kieuToc": "buoc",
+   "ao": "#2f6f5e",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Đỏ hai mắt, chảy nước mắt, cộm xốn mấy ngày",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Chị Lê Thị Thu Hiền, 27 tuổi, công nhân cạo mủ cao su, đến một mình lúc 8 giờ sáng vì đỏ hai mắt. Chị mặc áo bảo hộ xanh, trán còn hằn vết dây đèn đội đầu, tay xách một túi ni lông. Sinh hiệu: nhiệt 37,4 °C, mạch 84 l/p, huyết áp 110/70 mmHg, nhịp thở 16 l/p, SpO₂ 99%, nặng 50 kg. Chị tỉnh, trả lời lễ phép, thỉnh thoảng đưa tay lên dụi mắt.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chị Hiền thị lực 10/10, giác mạc không bắt màu fluorescein, không đau sâu, không mủ, nhãn cầu mềm: không có tiêu chí nào để chuyển nhãn khoa (mất thị lực, đau vừa-nặng, mủ nhiều, tổn thương giác mạc, sẹo kết mạc, tái phát, tiền sử herpes mắt, suy giảm miễn dịch) (AAO Conjunctivitis PPP 2018, Provider and Setting, P146). Lên bệnh viện mắt xa nông trường là mất cả ngày công, chi phí xe và phí khám với người đã sợ bị trừ công, lại ngồi phòng chờ đông khi mắt còn lây (virus sống trên bề mặt tới 28 ngày; AAO 2018, Prevention, P126). Phần cần làm nhất là giải thích đường lây, thời gian lây và cách giữ khoảng cách với bé Su thì không ai nói tới, nên chị về nhà vẫn bị mẹ chồng trách.",
+    "nhap_vien": "Không có chỉ định nằm viện: hầu hết viêm kết mạc điều trị ngoại trú, nằm viện chỉ cần cho lậu cầu nặng phải truyền thuốc hoặc nhũ nhi (AAO 2018, Provider and Setting, P146). Chị bị giữ lại buồng bệnh chung, mất ngày công, nguy cơ lây chéo trong cơ sở y tế là có thật (AAO 2018, Prevention, P126, nêu các vụ dịch viêm kết giác mạc adenovirus liên quan cơ sở y tế). Nghe tin chị ‘phải nằm viện vì mắt’, bà Tám càng tin bệnh nặng, càng không cho chị đến gần bé Su, còn chuyện nhà thì chưa ai gỡ."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Em bị đỏ hai con mắt mấy bữa nay, chảy nước với cộm xốn. Hồi tuần trước em lỡ uống nước suối chưa nấu nên bị tiêu chảy, em nghĩ nước độc chạy lên mắt. Bác sĩ cho em thuốc mạnh để mau hết giùm em.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "110/70",
+    "nhiet": "37,4",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mắt phải đỏ, cộm xốn như có cát, chảy nước mắt từ 4 ngày nay. Mắt trái đỏ từ 2 ngày trước. Sáng dậy mi hơi dính, lau là mở được. Chưa lúc nào mất nhìn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, khởi phát đột ngột, hai mắt lần lượt, thời gian (AAO 2018, History, P118)"
+    },
+    {
+     "id": "tiet_to",
+     "noi_dung": "Nước mắt chảy nhiều, ghèn ít, loãng, trắng đục như nhầy; không có mủ vàng hay xanh, lau xong không đầy lại ngay. Mi sưng nhẹ vào buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất tiết tố: virus so với vi khuẩn (AAO 2018, Bảng 1, P113 và P115)"
+    },
+    {
+     "id": "dau_chua",
+     "noi_dung": "Chỉ cộm và rát nhẹ. Không đau sâu trong mắt, không nhức đầu, không buồn nôn hay nôn, không thấy quầng sáng quanh đèn. Ra nắng gắt hơi chói, vào bóng râm là hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cờ đỏ: đau sâu, quầng sáng, buồn nôn, sợ ánh sáng (loại trừ glôcôm cấp, viêm màng bồ đào, viêm giác mạc; QĐ 40/2015)"
+    },
+    {
+     "id": "thi_luc",
+     "noi_dung": "Nhìn xa, nhìn gần vẫn rõ như thường, thỉnh thoảng mờ thoáng qua vì nước mắt, chớp mắt là hết. Chưa từng đeo kính, không đeo kính áp tròng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thị lực, kính áp tròng (AAO 2018, History, P118)"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Hai ngày nay hơi đau họng, ho khan vài tiếng, mỏi người. Sốt nhẹ khoảng 37,4 °C chị tự đo bằng cặp nhiệt độ của lán. Không phát ban, không đau tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng hô hấp trên đi kèm (AAO 2018, Bảng 1, P113; QĐ 40/2015, mục 3: triệu chứng cảm cúm, sốt nhẹ, hạch trước tai)"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Chị Lụa ngủ giường kế bên đỏ mắt trước chị 2 ngày, cả lán 4 người nay đã có 3 người đỏ mắt. Cả lán dùng chung thau rửa mặt và hay mượn khăn của nhau. Chị có thói quen dụi mắt khi đang cạo mủ vì mồ hôi chảy vào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người đỏ mắt, dùng chung khăn, dụi mắt (AAO 2018, History, P118; Bảng 1, P113)"
+    },
+    {
+     "id": "nuoc_ban",
+     "noi_dung": "Tám ngày trước, giữa buổi cạo mủ khát nước, chị uống nước suối ở đầu lô cao su không đun. Hai ngày sau tiêu chảy phân lỏng nước 6–7 lần/ngày, không máu, không sốt, mệt. Hết hẳn vào 4 ngày trước, sáng hôm sau mắt phải bắt đầu đỏ. Chị tin ‘nước độc chạy lên mắt’.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dữ kiện gây nhầm: tiêu chảy đã hết trước khi đỏ mắt; hỏi trình tự thời gian mới thấy hai việc không nối nhau thành nguyên nhân"
+    },
+    {
+     "id": "tu_truyen_dich",
+     "noi_dung": "Ngày thứ hai bị tiêu chảy, chị nhờ chị Hồng hàng xóm, từng đi phụ việc ở trạm y tế, truyền tại nhà một chai nước biển 500 mL và một lọ thuốc ‘kháng sinh’ pha chung; chị còn giữ vỏ lọ có chữ ceftriaxone 1 g. Không phản ứng gì. Chị không uống thêm thuốc nào, không nhỏ hay bôi thuốc vào mắt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị khai ‘em không uống thuốc gì’. Chỉ lộ khi bác sĩ hỏi riêng: đã truyền dịch, chích thuốc hoặc mua thuốc về dùng chưa, có thuốc nào nhỏ mắt không; chị lấy vỏ lọ trong túi ra.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Thuốc đang dùng: tự truyền dịch có kháng sinh toàn thân; kháng sinh toàn thân chỉ cho lậu cầu, bạch hầu (QĐ 40/2015, mục 4b)"
+    },
+    {
+     "id": "nghe_hoa_chat",
+     "noi_dung": "Mủ cao su dính tay, găng, khăn lau mặt nhưng chị không bị bắn mủ hay dính hóa chất vào mắt. Chị làm hơn 4 năm, tay chạm mủ hằng ngày không ngứa hay nổi mẩn. Không hắt hơi, ngạt mũi theo mùa, không hen, không chàm, không ngứa mắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề, chấn thương hóa chất, cơ địa dị ứng (AAO 2018, History, P118; Bảng 1 hàng Allergic, P105)"
+    },
+    {
+     "id": "sinh_duc",
+     "noi_dung": "Chị chỉ quan hệ với chồng. Không khí hư bất thường, không tiểu buốt, không đau bụng dưới. Chồng chị (anh Phước, cạo mủ ở lô khác) không có triệu chứng gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ lậu cầu, Chlamydia (AAO 2018, History: triệu chứng sinh dục tiết niệu; sexual activity, P118-P119; Bảng 1, P115-P116)"
+    },
+    {
+     "id": "tien_su_mat",
+     "noi_dung": "Chưa từng đỏ mắt kéo dài, không mổ mắt, không bị bóng nước hay ‘zona’ ở mắt, không người nhà bị ‘cườm nước’, không bệnh làm giảm miễn dịch, không đái tháo đường, không dùng thuốc thường xuyên. Kinh nguyệt đều, không có thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử mắt, herpes mắt, suy giảm miễn dịch: các tiêu chí chuyển chuyên khoa (AAO 2018, Provider and Setting, P146)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Tối qua chị về thăm bé Su (3 tuổi, ở với bà nội), bà Tám nhìn mắt chị rồi quát ‘đồ đỏ mắt, đừng bế cháu, mày mang bệnh về cho con mày’. Anh Phước đứng im không nói gì. Chị khóc, ra về trong đêm, dụi mắt nhiều. Chị đến khám vì muốn bác sĩ nói rõ bệnh này lây thế nào, bao lâu, nước độc có làm bé Su lây không, và chị có lỗi gì không, để đưa về cho bà nội và anh Phước nghe.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị không tự nói. Chỉ lộ khi bác sĩ hỏi vì sao chị muốn khỏi thật nhanh, nhà có lo lắng gì không, hoặc ngoài chuyện mắt chị còn muốn nhờ gì hôm nay.",
+     "k": 1,
+     "y": "Lý do thật sự: mâu thuẫn gia đình vì lo lây cho con (AAO 2018, Counseling and Referral, P147: tư vấn đường lây và thời gian lây)"
+    },
+    {
+     "id": "tu_choi",
+     "noi_dung": "Khi bác sĩ đề nghị xét nghiệm (lấy máu, quẹt dịch hoặc ngoáy mắt, thử phân…), chị lắc đầu: “Thôi bác sĩ, em sợ chích với ngoáy vô mắt, em mà chờ lâu thì bị trừ công.” Chị vẫn đồng ý được khám kỹ, nhỏ fluorescein, và dùng thuốc. Chị tỉnh táo, hiểu lời giải thích.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ đề nghị bất kỳ xét nghiệm nào, hoặc hỏi chị nghĩ sao về xét nghiệm.",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Người bệnh có năng lực tự quyết từ chối; tôn trọng, ghi hồ sơ, có phương án B"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực không kính: mắt phải 10/10, mắt trái 10/10. Hai mắt: mi phù nhẹ, da mi không đỏ, không bong vảy. Kết mạc nhãn cầu cương tụ lan tỏa mức vừa, phù nhẹ kết mạc, không cương tụ rìa; vài chấm xuất huyết dưới kết mạc nhỏ ở góc thái dương mắt phải. Lật mi dưới thấy phản ứng dạng hột kết mạc sụn mi hai mắt, không giả mạc, không màng. Tiết tố ít, loãng, trong, lẫn chút nhầy, không mủ. Giác mạc trong. Đồng tử tròn đều 3 mm, phản xạ ánh sáng tốt hai bên. Tiền phòng sâu, không thấy tế bào. Mắt trái nhẹ hơn mắt phải.",
+     "k": 1,
+     "hien": "Hai mắt đỏ, chảy nước mắt. Đọc được hàng chữ nhỏ nhất của bảng thị lực với mỗi mắt."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi đèn xanh: giác mạc hai mắt trong, không bắt màu fluorescein, không tổn thương hình cành cây, không chấm biểu mô, không ổ thâm nhiễm hay loét.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "nhan_ap": {
+     "a": "Ước lượng nhãn áp bằng ngón tay: hai nhãn cầu mềm, đều nhau, không cứng. Không dùng nhãn áp kế khi đang viêm kết mạc cấp để tránh lây qua dụng cụ (AAO 2018, Prevention, P126); độ chính xác của ước lượng bằng ngón tay: không có trong tài liệu đã tải.",
+     "k": 1,
+     "hien": "Ước lượng nhãn áp hai mắt bằng ngón tay."
+    },
+    "dau_mat_co": {
+     "a": "Hạch trước tai bên phải sờ thấy nhỏ, di động, hơi đau; bên trái chưa sờ thấy. Hạch dưới hàm và hạch cổ không to.",
+     "k": 1,
+     "hien": "Sờ vùng trước tai, dưới hàm, cổ hai bên."
+    },
+    "hong_tai_mui": {
+     "a": "Họng đỏ nhẹ, amidan không to, không mủ. Mũi thông. Màng nhĩ bình thường.",
+     "k": 0,
+     "hien": "Họng hơi đỏ, amidan không to."
+    },
+    "le_dao": {
+     "a": "Ấn túi lệ hai bên không trào dịch hay mủ, điểm lệ bình thường.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không đau, nhu động ruột bình thường.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da niêm hồng, không phát ban. Mặt trong cẳng tay trái còn một vết kim tiêm nhỏ đã lành, bầm nhẹ, không sưng nóng đỏ dọc đường tĩnh mạch. Da mi và quanh mắt không viêm da tiếp xúc, bàn tay không mẩn do mủ cao su.",
+     "k": 0,
+     "hien": "Vết kim tiêm nhỏ ở cẳng tay trái, không sưng đỏ."
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt, không mất nước (niêm hồng, môi ẩm, da đàn hồi tốt).",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_adeno": {
+     "v": "a",
+     "ab": 0,
+     "r": "(từ chối xét nghiệm) Chị Hiền không đồng ý: “Thôi bác sĩ, em sợ chích với ngoáy vô mắt, em mà chờ lâu thì bị trừ công.” Đã giải thích và ghi nhận từ chối.",
+     "n": "Không bắt buộc: test nhanh kháng nguyên adenovirus có độ nhạy 88–89% và độ đặc hiệu 91–94% (AAO 2018, Diagnostic Tests – Viral, P121), giúp tránh kháng sinh không cần, nhưng lâm sàng đã đủ. Chị từ chối nên không có kết quả; ghi vào hồ sơ và không trừ điểm."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "ab": 0,
+     "r": "(từ chối xét nghiệm) Chị Hiền không đồng ý, sợ chờ lâu bị trừ công. Đã giải thích và ghi nhận từ chối.",
+     "n": "Không cần: cấy kết mạc thường quy hiếm khi giúp quyết định điều trị, chỉ khi tái phát, nặng, mủ mạn tính hoặc không đáp ứng (AAO 2018, Diagnostic Tests – Cultures, P120); nhuộm Gram khi nghi lậu cầu (Smears, P121). Ca này tiết tố trong, không mủ."
+    },
+    "ctm": {
+     "v": "n",
+     "ab": 0,
+     "r": "(từ chối xét nghiệm) Chị Hiền không đồng ý, sợ chờ lâu bị trừ công. Đã giải thích và ghi nhận từ chối.",
+     "n": "Không cần cho viêm kết mạc: chẩn đoán dựa vào hỏi bệnh, khám (AAO 2018, Diagnostic Tests, P120); QĐ 40/2015 mục 3b chỉ nêu nhuộm soi và nuôi cấy cho thể tiết tố mủ."
+    },
+    "crp": {
+     "v": "n",
+     "ab": 0,
+     "r": "(từ chối xét nghiệm) Chị Hiền không đồng ý, sợ chờ lâu bị trừ công. Đã giải thích và ghi nhận từ chối.",
+     "n": "Không cần: tài liệu đã tải không có khuyến cáo CRP trong viêm kết mạc; kết quả không đổi xử trí."
+    },
+    "cay_phan": {
+     "v": "n",
+     "ab": 0,
+     "r": "(từ chối xét nghiệm) Chị Hiền không đồng ý, sợ chờ lâu bị trừ công. Đã giải thích và ghi nhận từ chối.",
+     "n": "Không cần: tiêu chảy đã hết 4 ngày, không liên quan tới đỏ mắt; tài liệu đã tải không có khuyến cáo cấy phân cho tiêu chảy đã khỏi ở người lớn. Xét nghiệm này là hướng sai do dữ kiện ‘nước không sạch’."
+    },
+    "soi_phan": {
+     "v": "n",
+     "ab": 0,
+     "r": "(từ chối xét nghiệm) Chị Hiền không đồng ý, sợ chờ lâu bị trừ công. Đã giải thích và ghi nhận từ chối.",
+     "n": "Không cần, như cấy phân: tiêu chảy đã khỏi."
+    },
+    "naat_sti": {
+     "v": "n",
+     "ab": 0,
+     "r": "(từ chối xét nghiệm) Chị Hiền không đồng ý, sợ chờ lâu bị trừ công. Đã giải thích và ghi nhận từ chối.",
+     "n": "Không cần: chị chỉ quan hệ với chồng, không triệu chứng sinh dục tiết niệu, tiết tố mắt không mủ, không hột mạn tính (AAO 2018, Bảng 1, P115-P116). Xét khi nghi Chlamydia hay lậu cầu (Diagnostic Tests, P121)."
+    },
+    "cay_lau_cau": {
+     "v": "n",
+     "ab": 0,
+     "r": "(từ chối xét nghiệm) Chị Hiền không đồng ý, sợ chờ lâu bị trừ công. Đã giải thích và ghi nhận từ chối.",
+     "n": "Không cần: không nghi lậu cầu (không mủ nhiều, mi không phù nặng, không đau; QĐ 40/2015, mục 3d; QĐ 708/2015, Viêm kết mạc do lậu cầu, mục 3)."
+    },
+    "ct_hoc_mat": {
+     "n": "Không cần: viêm kết mạc là chẩn đoán lâm sàng; QĐ 40/2015 và AAO 2018 không nêu CT trong viêm kết mạc. Loại trừ glôcôm cấp, viêm màng bồ đào, viêm giác mạc bằng hỏi cờ đỏ, thị lực, đồng tử, fluorescein."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc cấp do virus (nghĩ adenovirus), hai mắt lần lượt, mắt phải ngày thứ 4, mắt trái ngày thứ 2, chưa có tổn thương giác mạc",
+     "ok": 1,
+     "n": "Tiếp xúc người đỏ mắt cùng lán, khởi phát đột ngột, hai mắt lần lượt, chảy nước, tiết tố ít trong, phản ứng hột sụn mi, phù mi, hạch trước tai, xuất huyết dưới kết mạc (AAO 2018, Bảng 1 hàng Adenoviral, P113); đau họng nhẹ, sốt nhẹ kèm theo (QĐ 40/2015, Viêm kết mạc cấp, mục 3: xốn cộm, mi phù, tiết tố trắng, triệu chứng cảm cúm, hạch trước tai). Giác mạc không bắt màu fluorescein, thị lực 10/10."
+    },
+    {
+     "t": "Viêm kết mạc do vi khuẩn (không do lậu cầu)",
+     "n": "Ít nghĩ: thể vi khuẩn có tiết tố mủ hoặc nhầy mủ (AAO 2018, Bảng 1, P115); thể nặng có mủ nhiều, đau, viêm rõ (Treatment – Bacterial, P144). Chị ghèn ít, loãng, trong; có hột kết mạc và hạch trước tai nghiêng về virus. Thể nhẹ vẫn thường tự khỏi (AAO 2018, Treatment – Mild Bacterial, P144)."
+    },
+    {
+     "t": "Viêm kết mạc dị ứng (kể cả kích ứng do mủ cao su)",
+     "n": "Ít nghĩ: dị ứng có hai mắt, mi phù, chảy nước, tiết tố nhầy ít (AAO 2018, Bảng 1 hàng Allergic seasonal/perennial, P105) và ngứa là chính (QĐ 40/2015, Viêm kết mạc dị ứng cấp tính); chị không ngứa, không cơ địa dị ứng, tay tiếp xúc mủ cao su nhiều năm không mẩn, không văng mủ hay hóa chất vào mắt, có hạch trước tai và người cùng lán đỏ mắt."
+    },
+    {
+     "t": "Viêm kết mạc do lậu cầu hoặc Chlamydia",
+     "n": "Loại trừ: lậu cầu có mi phù nặng, mủ rất nhiều, hạch trước tai, nguy cơ loét giác mạc (AAO 2018, Bảng 1, P115); Chlamydia ở người lớn là viêm kết mạc dạng hột, lây qua đường tình dục (Bảng 1, P116). Chị chỉ quan hệ với chồng, không triệu chứng sinh dục tiết niệu, tiết tố không mủ, giác mạc sạch."
+    },
+    {
+     "t": "Viêm giác mạc (vi khuẩn, herpes…)",
+     "n": "Loại trừ: viêm loét giác mạc có đau nhức mắt, sợ ánh sáng, nhìn mờ, kết mạc cương tụ rìa, ổ loét bắt màu fluorescein (QĐ 40/2015, Viêm loét giác mạc do vi khuẩn, mục 3a). Chị không đau sâu, thị lực 10/10, cương tụ lan tỏa chứ không ở rìa, fluorescein âm tính ở cả hai mắt."
+    },
+    {
+     "t": "Viêm màng bồ đào trước",
+     "n": "Loại trừ: nhìn mờ, đau, sợ ánh sáng, cương tụ rìa, tủa sau giác mạc, tế bào tiền phòng (QĐ 40/2015, Viêm màng bồ đào trước cấp tính, mục 3a). Chị không đau, chói rất nhẹ, cương tụ lan tỏa, thị lực 10/10, đồng tử tròn đều, tiền phòng trong."
+    },
+    {
+     "t": "Glôcôm góc đóng cấp",
+     "n": "Loại trừ: khởi phát đột ngột, thường chiều tối sau xúc động mạnh, đau nhức mắt lan nửa đầu, nhìn mờ, quầng xanh đỏ, buồn nôn, thị lực giảm nhiều, nhãn áp rất cao (QĐ 40/2015, Glôcôm góc đóng nguyên phát, mục 3a). Tối qua chị có xúc động mạnh nên phải hỏi chủ động; chị không đau sâu, không nôn, không quầng sáng, thị lực 10/10, đồng tử đều, nhãn cầu mềm."
+    },
+    {
+     "t": "Nhiễm khuẩn lan từ ruột (do nước không sạch) lên mắt",
+     "n": "Không có cơ sở: tiêu chảy bắt đầu trước đỏ mắt 6 ngày và đã hết 4 ngày, bụng mềm; tài liệu đã tải không nêu đường lây từ ruột lên kết mạc. Nguồn lây phù hợp là chị Lụa cùng lán, dùng chung thau, khăn và dụi mắt (AAO 2018, History và Bảng 1, P113, P118)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng vì sao chị muốn khỏi thật nhanh và nhà có lo gì; lắng nghe, nói rõ bệnh lây thế nào, bao lâu, và chị không có lỗi vì bệnh lây từ người này sang người khác",
+     "v": "c",
+     "n": "AAO 2018 (Counseling and Referral, P147): tư vấn là bắt buộc với các thể viêm kết mạc lây, nói rõ đường lây (tay – mắt, giọt bắn, tiếp xúc). Kỹ năng khai thác lý do thật: không có trong tài liệu đã tải (kỹ năng giao tiếp)."
+    },
+    {
+     "t": "Viết tờ hướng dẫn phòng lây cho gia đình: bé Su ngủ với bà nội, chị gặp con khi đã rửa tay, không hôn mặt bé, khăn và thau riêng; không đòi chị rời nhà hay ‘cách ly hoàn toàn’",
+     "v": "c",
+     "n": "AAO 2018 (Prevention, P125; Treatment – Adenoviral, P140): rửa tay bằng xà phòng và nước, khăn riêng, giảm tiếp xúc người khác. Cách sắp xếp ở nhà chia theo thực tế: không có trong tài liệu đã tải (nhận định biên tập)."
+    },
+    {
+     "t": "Không dùng kháng sinh nhỏ mắt, chỉ nước mắt nhân tạo, chườm lạnh, rửa mắt nước muối; HOẶC nhỏ kháng sinh nhóm aminoglycosid (tobramycin) hay fluoroquinolon theo QĐ 40",
+     "v": "c",
+     "n": "Hai nguồn khác nhau nên ghi cả hai (sổ, mục TM-0072). AAO 2018 (Treatment, mở đầu P101/P127; Adenoviral, P140-P141): thể virus không đáp ứng kháng sinh, tránh kháng sinh vì có thể gây độc; hỗ trợ bằng nước mắt nhân tạo, chườm lạnh. QĐ 40/2015 (Viêm kết mạc cấp, mục 4b) và QĐ 708/2015 (mục 4.1): rửa NaCl 0,9%, tra aminoglycosid hoặc fluoroquinolon, thận trọng corticoid. Khác nhau vì năm ban hành và vì QĐ 40 gộp mọi thể (cả thể mủ do lậu cầu) vào một phác đồ."
+    },
+    {
+     "t": "Hạn chế tiếp xúc gần khoảng 7 ngày hoặc 10–14 ngày kể từ khi mắt trái (mắt sau cùng) khởi phát",
+     "v": "c",
+     "n": "AAO 2018 (Prevention, P125): nhiều người coi 7 ngày từ khởi phát ở mắt sau cùng là thời gian lây vì khó phân lập virus sau 7–10 ngày, nghiên cứu khác cho rằng ít nhất 10–14 ngày; Treatment – Adenoviral (P140): giảm tiếp xúc 10–14 ngày [I+, Good, Strong]. Khác nhau vì mốc 7 ngày dựa trên phân lập virus, mốc 10–14 ngày thận trọng và có mức khuyến cáo. Mắt trái đỏ 2 ngày: còn khoảng 5 hoặc 8–12 ngày nữa. Nghỉ làm bao nhiêu ngày: AAO chỉ nói phụ thuộc nghề và thể bệnh (Counseling, P147), không có số ngày trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo và dặn các bạn cùng lán (chị Lụa và hai người nữa): không dùng chung thau, khăn, nước uống; rửa tay; ai nặng thì đi khám",
+     "v": "c",
+     "n": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4a): phát hiện nguồn lây để điều trị và phòng lây lan. AAO 2018 (Treatment – Adenoviral, P140): lây được cho nhiều người trong gia đình hoặc đồng nghiệp."
+    },
+    {
+     "t": "Ghi nhận từ chối xét nghiệm, giải thích vì sao không cần ngay, nêu phương án B: quay lại nếu nặng hơn hoặc không đỡ, khi đó đề nghị lại",
+     "v": "c",
+     "n": "Người bệnh tỉnh táo có quyền từ chối; cách ghi hồ sơ: không có trong tài liệu đã tải (thực hành). AAO 2018 (Diagnostic Tests, P120-P121): cấy thường quy hiếm khi giúp quyết định điều trị; test adenovirus nhạy 88–89%. Chẩn đoán và xử trí vẫn làm được bằng lâm sàng."
+    },
+    {
+     "t": "Dặn không tự truyền dịch hay dùng kháng sinh tại nhà; nếu tiêu chảy quay lại hoặc mệt lả thì đến cơ sở y tế",
+     "v": "c",
+     "n": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b): kháng sinh toàn thân chỉ dùng cho lậu cầu, bạch hầu. An toàn của truyền dịch tự thực hiện tại nhà và chỉ định truyền dịch trong tiêu chảy người lớn: không có trong tài liệu đã tải; tiêu chảy đã khỏi nên không cần xử trí thêm."
+    },
+    {
+     "t": "Hẹn tái khám sau 7 ngày: thị lực, nhuộm giác mạc; quay lại sớm nếu đau sâu, chói, mờ, ghèn mủ vàng xanh; còn đỏ, đau, giảm thị lực sau 2–3 tuần thì khám nhãn khoa",
+     "v": "c",
+     "n": "AAO 2018 (Treatment – Adenoviral, P141): quay lại nếu còn đỏ, đau, giảm thị lực sau 2–3 tuần; thâm nhiễm dưới biểu mô giác mạc thường xuất hiện từ 1 tuần sau khởi phát. Chuyển nhãn khoa khi mất thị lực, đau vừa-nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng (Provider and Setting, P146). Mốc 7 ngày do biên tập đặt, tài liệu không quy định."
+    },
+    {
+     "t": "Test nhanh adenovirus tại chỗ (nếu chị đồng ý và cơ sở có)",
+     "v": "a",
+     "n": "AAO 2018 (Diagnostic Tests – Viral, P121): độ nhạy 88–89%, độ đặc hiệu 91–94%. Không bắt buộc vì lâm sàng đã đủ."
+    },
+    {
+     "t": "Chuyển khám nhãn khoa để soi đèn khe hoặc đo nhãn áp bằng nhãn áp kế",
+     "v": "a",
+     "n": "Không bắt buộc: thị lực 10/10, giác mạc sạch, không đau, không cờ đỏ (AAO 2018, Provider and Setting, P146). Chấp nhận nếu cơ sở không soi được giác mạc kỹ; ước lượng nhãn áp bằng ngón tay không chính xác (không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Kê tiếp kháng sinh uống hoặc tiêm (ceftriaxone, quinolon uống…) cho viêm kết mạc",
+     "v": "w",
+     "n": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b) và QĐ 708/2015 (mục 4.2): toàn thân chỉ dùng cho lậu cầu, bạch hầu khi bệnh nặng. AAO 2018 (Treatment – Adenoviral, P140-P141): tránh kháng sinh trong thể virus."
+    },
+    {
+     "t": "Cho thuốc nhỏ mắt phối hợp kháng sinh–corticoid hoặc corticoid mạnh ngay để mau hết đỏ",
+     "v": "w",
+     "n": "QĐ 40/2015 (mục 4b): thận trọng corticoid. AAO 2018 (Treatment, P101; Adenoviral, P141): tránh corticoid bừa; corticoid chỉ cân nhắc ở thể nặng (phù kết mạc rõ, bong biểu mô, có màng) và phải theo dõi nhãn áp; mô hình động vật cho thấy corticoid kéo dài thải virus. Chị là thể nhẹ."
+    },
+    {
+     "t": "Viết giấy ghi ‘hết bệnh, không còn lây’ để chị đưa về nhà",
+     "v": "w",
+     "n": "Không đúng thực tế: chị còn trong thời gian lây (7 hoặc 10–14 ngày từ khởi phát mắt sau cùng; AAO 2018, P125, P140). Nên viết lời dặn và cách phòng lây, không xác nhận điều chưa đúng. Quy định cấp giấy xác nhận: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển bệnh viện mắt hoặc cho nằm viện",
+     "v": "w",
+     "n": "Không có tiêu chí chuyển hay nhập viện: hầu hết viêm kết mạc điều trị ngoại trú (AAO 2018, Provider and Setting, P146; tiêu chí chuyển P146). Ngồi chờ ở nơi đông trong lúc đang lây có thể làm lây cho người khác (AAO 2018, Prevention, P126). Chấm w (không phải h): không nguồn nào nói chuyển tuyến gây hại trực tiếp, chỉ là không cần và tốn kém."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc cấp do virus (nghĩ adenovirus), hai mắt lần lượt: mắt phải ngày thứ 4, mắt trái ngày thứ 2",
+     "Chưa tổn thương giác mạc (fluorescein âm tính), thị lực 10/10, nhãn cầu mềm đều: không có cờ đỏ cần chuyển nhãn khoa",
+     "Đã loại trừ viêm giác mạc, viêm màng bồ đào trước, glôcôm góc đóng cấp; không nghĩ viêm kết mạc vi khuẩn, dị ứng, lậu cầu hay Chlamydia",
+     "Nguồn lây: chị Lụa và 2 người cùng lán 4 người, dùng chung thau và khăn, thói quen dụi mắt",
+     "Yếu tố gây nhầm: tiêu chảy sau uống nước suối không đun (đã hết trước khi đỏ mắt) và việc tự truyền một chai nước biển cùng lọ ceftriaxone 1 g tại nhà",
+     "Từ chối xét nghiệm (sợ chích, ngoáy mắt, sợ trừ công); lý do thật: mâu thuẫn gia đình vì mẹ chồng sợ lây cho bé Su 3 tuổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: (1) Hỏi khởi phát, một hay hai mắt, tiết tố, đau sâu, thị lực, ngứa, kính áp tròng, tiếp xúc người đỏ mắt, thuốc đã dùng, nghề (AAO 2018, History, P118). (2) Khám thị lực, kết mạc, hột sụn mi, hạch trước tai, fluorescein, đồng tử, nhãn áp (P119–P120). (3) CLS thường không cần (P120–P121). (4) Chẩn đoán, loại trừ cờ đỏ. (5) Xử trí, phòng lây, hỏi lý do thật.",
+     "Vì sao là virus: tiếp xúc người cùng lán đỏ mắt, khởi phát đột ngột, hai mắt lần lượt, chảy nước, tiết tố ít trong, phản ứng hột sụn mi, phù mi, hạch trước tai, xuất huyết dưới kết mạc (AAO 2018, Bảng 1 hàng Adenoviral, P113); QĐ 40/2015, Viêm kết mạc cấp, mục 3: xốn cộm như có bụi, mi phù, kết mạc cương tụ phù nề, hạch trước tai, sốt nhẹ, thường thành dịch. Ngày thứ 4 chưa khỏi vẫn nằm trong 5–14 ngày (AAO 2018, Bảng 1, P113) hoặc 5–10 ngày (QĐ 40/2015, mục 5).",
+     "Vì sao không nghĩ vi khuẩn hay dị ứng: tiết tố ít, trong, không mủ; không ngứa, không cơ địa dị ứng, có hạch trước tai và hột sụn mi (AAO 2018, Bảng 1, P105, P113, P115; QĐ 40/2015, Viêm kết mạc cấp mục 3 và Viêm kết mạc dị ứng cấp tính).",
+     "Dữ kiện 'nước không sạch': tiêu chảy 6 ngày trước đỏ mắt, đã hết 4 ngày, bụng mềm, không mất nước. Tài liệu đã tải không nêu đường từ ruột lên kết mạc; nguồn lây thật là người cùng lán. Không cấy phân, không kháng sinh vì 'nước độc'.",
+     "Ba chẩn đoán phải loại trừ. Viêm giác mạc: đau nhức mắt, sợ ánh sáng, nhìn mờ, kết mạc cương tụ rìa, ổ loét bắt màu fluorescein (QĐ 40/2015, Viêm loét giác mạc do vi khuẩn, mục 3a). Viêm màng bồ đào trước: nhìn mờ, đau, sợ ánh sáng, cương tụ rìa, tủa sau giác mạc (QĐ 40/2015, mục 3a). Glôcôm góc đóng cấp: khởi phát đột ngột, thường chiều tối sau xúc động mạnh, đau nhức mắt lan nửa đầu, nhìn mờ, quầng xanh đỏ, buồn nôn, thị lực giảm nhiều (QĐ 40/2015, Glôcôm góc đóng nguyên phát, mục 3a). Tối qua chị có xúc động mạnh nên phải hỏi chủ động; chị không đau sâu, không nôn, không quầng sáng, thị lực 10/10, đồng tử tròn đều, giác mạc không bắt màu, nhãn cầu mềm đều.",
+     "Cờ đỏ chuyển nhãn khoa rà từng mục: mất thị lực, đau vừa-nặng, mủ nhiều, tổn thương giác mạc, sẹo kết mạc, không đáp ứng điều trị, tái phát, tiền sử herpes mắt, suy giảm miễn dịch (AAO 2018, Provider and Setting, P146). Chị không có mục nào.",
+     "Lậu cầu và Chlamydia ở người lớn là hai thể cần phát hiện sớm vì phải điều trị bệnh toàn thân (AAO 2018, Prevention, P123-P124). Vì vậy hỏi triệu chứng sinh dục tiết niệu và tiền sử tình dục (AAO 2018, History, P118-P119) là việc phải làm dù chị trẻ; chị chỉ quan hệ với chồng, không triệu chứng, tiết tố không mủ.",
+     "Lý do thật: mẹ chồng trách khi chị về thăm con; chị cần người có chuyên môn giải thích để nhà bớt hoảng. Hỏi 'vì sao chị muốn khỏi thật nhanh' mới ra. Trả lời bằng đường lây, thời gian lây và cách gần con an toàn, thay cho giấy 'hết lây'."
+    ],
+    "phan_tich_xu_tri": [
+     "Không có điều trị đặc hiệu diệt adenovirus; giảm triệu chứng bằng nước mắt nhân tạo, chườm lạnh, thuốc giảm đau uống (AAO 2018, Treatment – Adenoviral, P140); rửa mắt nước muối sinh lý 0,9% (QĐ 40/2015, mục 4b).",
+     "Kháng sinh nhỏ mắt: tránh (AAO 2018, P140-P141) hoặc nhỏ aminoglycosid, fluoroquinolon (QĐ 40/2015 mục 4b; QĐ 708/2015 mục 4.1). Hai tài liệu khác thời điểm và phạm vi; ghi cả hai, không chọn một bên. Kháng sinh toàn thân không có chỉ định (QĐ 40/2015, mục 4b); lần truyền ceftriaxone ở nhà không có lợi cho mắt và nên dặn không lặp lại.",
+     "Corticoid: không dùng ở thể nhẹ (AAO 2018, P141; QĐ 40/2015, mục 4b).",
+     "Phòng lây là điều trị: rửa tay bằng xà phòng và nước, khăn riêng, giảm tiếp xúc 7 ngày hoặc 10–14 ngày từ khởi phát ở mắt sau cùng (AAO 2018, P125, P140). Trong ca này còn là cách giải quyết mâu thuẫn gia đình: nói rõ cho chị và gia đình bé Su không nguy hiểm đến tính mạng, bệnh tự khỏi, có cách giữ khoảng cách hợp lý.",
+     "Nghỉ làm: AAO chỉ nêu việc quay lại làm phụ thuộc nghề, tuổi, thể bệnh (Counseling, P147) và ngành chăm sóc sức khỏe, thực phẩm, bán hàng là khó (Treatment – Adenoviral, P140). Số ngày nghỉ: không có trong tài liệu đã tải. Chị làm ngoài trời nhưng chung lán, nên ưu tiên khăn và thau riêng, không dùng chung nước uống.",
+     "Không nhập viện, không chuyển tuyến, không kháng sinh toàn thân: AAO 2018, Provider and Setting (P146); QĐ 40/2015, mục 4b.",
+     "Tái khám 7 ngày (mốc biên tập): xem thị lực, giác mạc; thâm nhiễm dưới biểu mô thường xuất hiện từ 1 tuần sau khởi phát (AAO 2018, P141). Nếu còn đỏ, đau, mờ sau 2–3 tuần thì khám nhãn khoa."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước mắt nhân tạo nhỏ mắt, không chất bảo quản",
+      "ham_luong": "Theo dạng sẵn có tại cơ sở",
+      "lieu": "1–2 giọt mỗi mắt",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Khi cộm xốn và trước khi ngủ",
+      "so_ngay": "Trong lúc còn triệu chứng (khoảng 5–14 ngày)",
+      "ghi_chu": "AAO 2018 (Treatment – Adenoviral, P140): giảm triệu chứng. Số giọt và số lần mỗi ngày: không có trong tài liệu đã tải. Mỗi mắt một ống đơn liều hoặc không dùng chung lọ."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (lau, rửa mắt)",
+      "ham_luong": "0,9%",
+      "lieu": "Lau mi bằng bông sạch tẩm nước muối, mỗi mắt một bông, từ trong ra ngoài",
+      "duong": "Rửa mắt",
+      "thoi_diem": "Sáng dậy khi mi dính ghèn",
+      "so_ngay": "Trong lúc còn ghèn",
+      "ghi_chu": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Chườm lạnh (không phải thuốc)",
+      "ham_luong": "Khăn sạch lạnh",
+      "lieu": "Vài phút mỗi lần",
+      "duong": "Ngoài mi mắt nhắm",
+      "thoi_diem": "Khi cộm xốn, trước khi ngủ",
+      "so_ngay": "Đến khi hết khó chịu",
+      "ghi_chu": "AAO 2018 (Treatment – Adenoviral, P140). Thời gian mỗi lần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Kháng sinh nhỏ mắt (TÙY CHỌN theo QĐ 40; AAO 2018 khuyên không dùng): aminoglycosid (tobramycin) hoặc fluoroquinolon",
+      "ham_luong": "Theo chế phẩm sẵn có",
+      "lieu": "Nhỏ mắt theo hướng dẫn của chế phẩm",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Theo chế phẩm",
+      "so_ngay": "Ngắn ngày; nếu không dùng thì bỏ qua dòng này",
+      "ghi_chu": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b) và QĐ 708/2015 (mục 4.1): tra nhiều lần (15–30 phút/lần) trong những ngày đầu khi bệnh diễn biến nhanh, giảm dần khi thuyên giảm; AAO 2018 (P140–P141) khuyên không dùng cho thể virus. Liều, số ngày cho thể virus nhẹ: không có trong tài liệu đã tải. Không dùng chung lọ với người cùng lán."
+     },
+     {
+      "thuoc": "Truyền dịch và kháng sinh toàn thân (ceftriaxone) tự thực hiện tại nhà",
+      "ham_luong": "Đã dùng 1 lần",
+      "lieu": "KHÔNG LẶP LẠI",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Không dùng",
+      "so_ngay": "Không dùng tiếp",
+      "ghi_chu": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b): kháng sinh toàn thân chỉ cho lậu cầu, bạch hầu. Bệnh mắt hiện tại không cần; tiêu chảy đã khỏi."
+     }
+    ],
+    "dan_do": [
+     "Bệnh do virus, rất hay lây, tự khỏi sau vài ngày đến hai tuần (AAO 2018, Bảng 1, P113). Không phải do nước độc chạy lên mắt: chị bị lây từ người cùng lán, qua tay, khăn và thau.",
+     "Chị không có lỗi: đây là bệnh lây giữa người với người, nhiều người trong lán cũng mắc. Có thể đưa tờ hướng dẫn này cho bà Tám và anh Phước đọc.",
+     "Chườm lạnh vài phút, nhỏ nước mắt nhân tạo khi cộm, lau ghèn bằng bông sạch tẩm nước muối, mỗi mắt một bông, lau từ trong ra ngoài. Không tự truyền dịch hay dùng kháng sinh khi bệnh mắt này.",
+     "Không dụi mắt; rửa tay bằng xà phòng và nước, khăn riêng, thau riêng, giặt khăn bằng nước nóng; không dùng chung nước uống, ly (AAO 2018, Prevention, P125). Báo chị Lụa và hai người cùng lán làm tương tự.",
+     "Với bé Su: tạm giữ khoảng cách trong 7 ngày hoặc 10–14 ngày kể từ khi mắt trái đỏ (AAO 2018, P125, P140). Gặp bé khi đã rửa tay sạch, không hôn mặt, không để bé chạm vào mặt chị; để bé ngủ với bà nội. Chị không bị cấm về nhà, nhưng nên đi lại thận trọng.",
+     "Đi làm lại khi đã rửa tay, dùng khăn riêng và không đứng sát người khác; số ngày nghỉ làm: tài liệu đã tải không quy định, tùy nơi làm.",
+     "Đến ngay nếu đau nhức sâu trong mắt, nhức đầu nôn, nhìn mờ hoặc thấy quầng sáng quanh đèn, chói nhiều, ghèn mủ vàng xanh nhiều (AAO 2018, Provider and Setting, P146; QĐ 40/2015, Glôcôm góc đóng, mục 3a).",
+     "Tái khám sau 7 ngày (mốc phòng khám tự đặt, tài liệu đã tải không quy định). Còn đỏ, đau, giảm thị lực sau 2–3 tuần thì khám chuyên khoa mắt (AAO 2018, Treatment – Adenoviral, P141). Nếu chị đổi ý về xét nghiệm, bác sĩ sẵn sàng làm."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hiền ngừng truyền dịch và kháng sinh tại nhà, chỉ chườm lạnh, nhỏ nước mắt nhân tạo và lau mắt bằng nước muối. Chị dùng khăn và thau riêng, rửa tay bằng xà phòng, đưa tờ hướng dẫn cho bà Tám và anh Phước nên bé Su ngủ với bà nội, chị chỉ gặp con lúc đã rửa tay và không hôn mặt bé. Ngày thứ 10 kể từ khi mắt phải đỏ, hai mắt hết đỏ, giác mạc trong, không bắt màu fluorescein, thị lực 10/10, không đau sâu hay sợ ánh sáng; bé Su không đỏ mắt. Chị không cần thêm thuốc, quay lại cạo mủ và được anh Phước ra đón về nhà.",
+ "nhieu": [
+  "Bệnh nhân hợp tác tốt: chị kể rõ và mang vỏ lọ thuốc, nên cái dễ sai không phải khai thiếu mà là bác sĩ vội ‘cho xong’ vì thấy chị dễ tính, bỏ qua lý do thật và phần phòng lây ở lán.",
+  "Sau uống nước không sạch: chị tiêu chảy 3 ngày, đã hết trước khi đỏ mắt. Dễ lập luận ‘nước bẩn gây nhiễm trùng, đi từ ruột lên mắt’ rồi kê kháng sinh hoặc cho cấy phân. Chẩn đoán mắt dựa vào tiếp xúc người đỏ mắt và dấu hiệu tại mắt.",
+  "Tự truyền dịch tại nhà: 5 ngày trước chị được hàng xóm truyền một chai nước biển kèm một lọ ‘thuốc kháng sinh’ nên thấy ‘thuốc mạnh đã dùng mà mắt vẫn đỏ’. Chị không coi đó là thuốc, chỉ lộ khi hỏi riêng về truyền, chích thuốc tại nhà.",
+  "Bệnh nhân từ chối xét nghiệm (sợ chích, ngoáy mắt, sợ mất công): chẩn đoán vẫn đủ bằng lâm sàng; phải tôn trọng, ghi hồ sơ và có phương án B.",
+  "Lý do thật: mẹ chồng không cho chị bế bé Su vì sợ lây, chồng không bênh chị; chị đến để có người có chuyên môn nói rõ bệnh này lây thế nào, bao lâu, và chị có lỗi hay không. Chỉ lộ khi hỏi vì sao chị muốn khỏi thật nhanh."
+ ],
+ "bai_hoc_bien": [
+  "Đa số viêm kết mạc cấp ở người lớn là do virus và tự khỏi; không cần kháng sinh (AAO Conjunctivitis PPP 2018, Treatment – Adenoviral, P140-P141). Nhưng QĐ 40/2015 mục 4b cho nhỏ kháng sinh (aminoglycosid, fluoroquinolon): ghi cả hai cách (mục TM-0072 trong sổ), không chọn một bên.",
+  "Hỏi riêng việc ‘truyền dịch, chích thuốc, mua thuốc’ vì người bệnh không coi đó là thuốc. Kháng sinh toàn thân không có chỗ trong viêm kết mạc, trừ lậu cầu, bạch hầu (QĐ 40/2015, Viêm kết mạc cấp, mục 4b).",
+  "Một dữ kiện dễ gây nhầm (nước bẩn, tiêu chảy) không làm đổi chẩn đoán: kiểm đúng thứ tự thời gian (tiêu chảy hết trước khi đỏ mắt) và tìm nguồn lây thật (chị Lụa cùng lán, dùng chung khăn).",
+  "Cờ đỏ phải hỏi từng mục dù người bệnh trẻ: đau sâu, giảm thị lực, sợ ánh sáng, mủ nhiều, tổn thương giác mạc (AAO 2018, Provider and Setting, P146). Nhuộm fluorescein là bước không bỏ.",
+  "Từ chối xét nghiệm: giải thích lợi hại, ghi nhận, làm phương án B. AAO cho biết xét nghiệm thường không cần (Diagnostic Tests, P120-P121).",
+  "Hỏi ‘vì sao chị muốn khỏi thật nhanh’ để lộ lý do thật; trả lời bằng thông tin cụ thể về đường lây và thời gian lây, không viết giấy ‘hết lây’ khi còn bệnh (AAO 2018, P125, P140, P147)."
+ ],
+ "diem_nho": [
+  "Viêm kết mạc adenovirus: khởi phát đột ngột, một hoặc hai mắt lần lượt, chảy nước, phản ứng hột kết mạc sụn mi dưới, phù mi, hạch trước tai, xuất huyết dưới kết mạc; khỏi trong 5–14 ngày (AAO 2018, Bảng 1, P113). QĐ 40/2015 (Viêm kết mạc cấp, mục 3 và 5): xốn cộm, mi phù, kết mạc cương tụ phù nề, tiết tố trắng hoặc hồng, hạch trước tai, sốt nhẹ, thường thành dịch; khỏi sau 5–10 ngày.",
+  "Viêm kết mạc vi khuẩn: tiết tố mủ hoặc nhầy mủ (AAO 2018, Bảng 1, P115); thể nặng có mủ nhiều, đau, viêm rõ (Treatment – Bacterial, P144). Lậu cầu: mi phù nặng, mủ rất nhiều, hạch trước tai, nguy cơ loét giác mạc (AAO 2018, Bảng 1, P115; QĐ 708/2015, Viêm kết mạc do lậu cầu, mục 3).",
+  "Chuyển nhãn khoa khi mất thị lực, đau vừa-nặng, mủ nhiều, tổn thương giác mạc, sẹo kết mạc, không đáp ứng, tái phát, tiền sử herpes mắt, suy giảm miễn dịch (AAO 2018, Provider and Setting, P146).",
+  "Hạn chế tiếp xúc: nhiều người coi 7 ngày kể từ khởi phát ở mắt sau cùng là thời gian lây, các nghiên cứu khác cho rằng ít nhất 10–14 ngày; AAO khuyến cáo giảm tiếp xúc 10–14 ngày [I+, Good, Strong] (AAO 2018, Prevention, P125; Treatment – Adenoviral, P140). Virus sống trên bề mặt khô tới 28 ngày (P126)."
+ ],
+ "nguon": [
+  "AAO – Conjunctivitis Preferred Practice Pattern 2018 (Ophthalmology 2019;126(1):P94-P169) – TL-0266 – ĐÃ ĐỌC: Bảng 1 (hàng Allergic, Adenoviral, Bacterial, Chlamydial, Medication-induced); Care Process – History, Physical Examination, Diagnostic Tests; Prevention; Treatment (mở đầu, Adenoviral, Bacterial); Provider and Setting; Counseling and Referral",
+  "BYT – QĐ 40/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – TL-0242 – ĐÃ ĐỌC: Viêm kết mạc cấp (mục 1–6); Viêm loét giác mạc do vi khuẩn (mục 3a); Viêm màng bồ đào trước cấp tính (mục 3a); Glôcôm góc đóng nguyên phát (mục 3a)",
+  "BYT – QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Viêm kết mạc cấp (mục 4.1, 4.2); Viêm kết mạc do lậu cầu (mục 3)",
+  "Lưu ý nguồn: TL-0555 (ghi là AAO Conjunctivitis PPP 2023) thực chất là Dry Eye Syndrome PPP, không dùng; bản Conjunctivitis PPP mới hơn 2018 chưa có trong kho. Không có tài liệu đã tải nào nói riêng về truyền dịch tự thực hiện tại nhà ở người lớn."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-04) – viết: Sonnet, duyệt: Opus. Tài liệu: TL-0266 (AAO Conjunctivitis PPP 2018), TL-0242 (QĐ 40/2015), TL-0015 (QĐ 708/2015); vị trí ghi trong từng ý.",
+  "Thiếu trong tài liệu đã tải: số lần nhỏ nước mắt nhân tạo; liều, số ngày kháng sinh nhỏ mắt cho thể virus nhẹ (QĐ 40 mục 4b và QĐ 708 mục 4.1 chỉ ghi 15–30 phút/lần cho thể diễn biến nhanh); số ngày nghỉ làm (AAO P147: tùy nghề, thể bệnh); an toàn truyền dịch tự làm tại nhà; tiêu chí cấp giấy xác nhận.",
+  "Mâu thuẫn: đã có trong sổ, ghi cả hai cách: kháng sinh nhỏ mắt trong viêm kết mạc cấp do virus (TM-0072); mốc lây 7 ngày so với 10–14 ngày (TM-0072). Mốc tái khám 7 ngày do biên tập đặt. Mục khám/CLS đều có sẵn trong danh mục (không đề xuất mục mới).",
+  "Sổ cái gắn #khong-khang-sinh nên ca là viêm kết mạc virus; 'nước không sạch' và 'tự truyền dịch' là dữ kiện gây nhầm."
+ ]
+}
