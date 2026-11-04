@@ -1,0 +1,750 @@
+{
+ "ma_ca": "TT-0329",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "Rối loạn lo âu bệnh tật",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn lo âu bệnh tật",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh thực thể"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Khiêng vật nặng",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Trần Văn Bảy",
+  "tuoi": 68,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng lúa, làm ruộng ở huyện Cao Lãnh, cách phòng khám khoảng 9 km",
+  "can_nang": 58,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là 'bác Bảy'; ông xưng 'tôi', gọi 'bác sĩ'. Con gái Hạnh gọi ông là 'ba', xưng 'con' với bác sĩ.",
+  "tinh_cach": "Chân chất, cẩn thận, ít học nhưng rất chịu khó tra điện thoại và nghe nhóm Zalo xóm. Hễ nghe tin ai bệnh nặng là mất ngủ. Hiền, không cãi lớn tiếng nhưng nằn nì, lặp lại cùng một câu hỏi. Tỉnh táo, trả lời đúng, không lú lẫn.",
+  "kieu_nhieu": "Sợ hãi quá mức: siết tờ phiếu cũ, thở gấp, hỏi dồn 'có chắc không, có bỏ sót không', nghe 'không sao đâu' lại hỏi bằng câu khác; lấy máy SpO₂ ra đo giữa lúc bác sĩ nói. Chỉ dịu khi bác sĩ ghi nhận nỗi sợ, nêu từng phát hiện bình thường bằng con số, nói rõ điều gì SẼ khiến bác sĩ lo và hẹn mốc. Không tự kể muốn kháng sinh; chỉ nói khi được hỏi mong muốn hoặc khi nghe không cần thuốc.",
+  "nguoi_nha": "Con gái Hạnh, 40 tuổi, bán tạp hóa, chở ba đến sau giờ đóng cửa tiệm. Bình tĩnh, mệt, hay nói 'ba lo quá'. Biết ba đi khám bốn nơi, đo máy liên tục, xịt thuốc hen nhiều; không biết ba mất ngủ vì sợ 'nhiễm trùng máu' như cậu ruột của má, không biết ba lén mua kháng sinh.",
+  "ten_nguoi_nha": "Chị Hạnh (con gái)",
+  "ngoai_hinh": {
+   "da": "#b98660",
+   "toc": "#cfcac2",
+   "kieuToc": "ngan",
+   "ao": "#7b8466",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#c4966f",
+    "toc": "#1d1612",
+    "kieuToc": "dai",
+    "ao": "#9a6f86",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "met"
+   }
+  }
+ },
+ "ly_do_kham": "Tức ngực trái 5 tuần sau khi khiêng bao lúa, đã khám nhiều nơi nhưng vẫn lo phổi bị bệnh",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tư mở 17–21 giờ: ngoài giờ không có kỹ thuật viên xét nghiệm, X-quang, siêu âm; mẫu gửi đi có kết quả sáng hôm sau. Còn dùng được: ống nghe, nhiệt kế, huyết áp kế, SpO₂, lưu lượng đỉnh kế (PEF), máy điện tim."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 68 tuổi, làm ruộng, con gái chở đến lúc 18 giờ 30. Đau tức ngực trái 5 tuần nay, bắt đầu sau khi khiêng bao lúa giống. Mang theo một xấp phiếu khám, tay nắm chặt máy đo SpO₂ ngón tay. Điều dưỡng Linh đo sinh hiệu: mạch 90 l/p, HA 138/84 mmHg, nhiệt độ 36,7 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Bảy bị giữ lại bệnh viện huyện qua đêm, truyền kháng sinh tĩnh mạch dù không có tiêu chuẩn viêm phổi: không sốt, không đờm mủ, SpO₂ 97%, phổi sạch, X-quang và CRP bình thường (QĐ 2147/2026 mục 3.1.1–3.1.3). Với người tin mình 'nhiễm trùng ngầm', nằm viện là bằng chứng bệnh nặng; thăm dò lặp lại làm quan hệ thầy thuốc–người bệnh xấu đi (ICD-11 CDDR 2024 mục 6B23, tr. 319). Ông mất ngày công đúng vụ.",
+    "chuyen_tuyen": "Ông Bảy được gửi bệnh viện tỉnh 'chụp CT phổi cho chắc'. CT chỉ cho viêm phổi nặng, phức tạp (QĐ 2147/2026 mục 3.1.4), ông không thuộc nhóm này. Ông tốn tiền xe, tiền chụp, dễ nhận kết quả 'nốt xơ nhỏ' vô hại làm nỗi sợ chuyển sang bệnh khác; đi khám nhiều nơi gây tốn kém, dẫn đến lo âu (QĐ 2058/2020 Bài 25 mục 5)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi tức ngực bên trái mấy tuần rồi, đi khám mấy chỗ rồi mà trong người vẫn không yên. Bác sĩ coi giùm tôi coi bên trong phổi có bị gì không, tôi sợ lắm.",
+   "sinh_hieu": {
+    "mach": 90,
+    "ha": "138/84",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tức nhói ngực trái dưới, khoảng 5 tuần, từ lúc khiêng bao lúa giống. Ông muốn bác sĩ 'coi bên trong phổi có bị gì không'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ngày 0: khiêng hai bao lúa giống (khoảng 40 kg/bao) lên xe, nghe 'rắc' bên sườn trái, đau nhói khi hít sâu. Hai ngày đầu đau 7/10, giờ mức nền còn khoảng 2/10, tăng lên 5/10 khi vặn người, nghiêng sang phải, hít sâu hoặc tự ấn vào sườn. Đau không liên quan đi bộ hay làm việc, không lan tay, hàm, lưng; không vã mồ hôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau thành ngực cơ học, không giống đau thắt ngực (ESC 2024 CCS mục 3.1.1)"
+    },
+    {
+     "id": "tuc_thoi",
+     "noi_dung": "Hai tuần nay có những lúc 'tức, hụt hơi' khoảng 10–20 phút, hay vào buổi tối khi ông ngồi đo máy và đọc con số; hết khi nói chuyện với cháu hoặc làm việc khác. Nghỉ ngơi hoặc gắng sức đều không làm khác đi. Không khó thở khi đi bộ ra ruộng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn tức theo tình huống lo, không theo gắng sức; hỏi kỹ mới ra"
+    },
+    {
+     "id": "da_kham",
+     "noi_dung": "Ngày 2: trạm y tế xã, ấn sườn đau, cho paracetamol. Ngày 5: phòng khám tư, X-quang ngực (không gãy sườn, phổi sạch), amoxicillin–clavulanat 7 ngày, uống đủ. Ngày 13: bệnh viện huyện, máu (bạch cầu 7,6 G/L, CRP 2 mg/L), điện tim bình thường, 'đau cơ thành ngực'. Ngày 26–28: tự mua azithromycin 500 mg uống 3 ngày vì 'chưa hết tức'. Ông mang đủ phiếu nhưng chỉ đưa khi được hỏi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã có X-quang, xét nghiệm, ECG bình thường; đã dùng hai đợt kháng sinh không đáp ứng vì không có nhiễm khuẩn"
+    },
+    {
+     "id": "hanh_vi",
+     "noi_dung": "Đo SpO₂ bằng máy mua trên mạng 15–20 lần/ngày (thấy 93–95% khi ngón tay lạnh là 'tụt', lên 97–98% khi xoa ấm), đo nhiệt độ 4–5 lần/ngày, hít sâu thử xem còn đau không, nghe nhóm Zalo xóm về 'viêm phổi âm thầm'. Đi bốn nơi trong 5 tuần, đang tính nơi thứ năm xin chụp CT. Hai tuần nay xịt salbutamol 6–8 lần/ngày mỗi khi tức, tay run, tim đập mạnh. Bỏ làm ruộng 3 tuần, tốn khoảng sáu triệu đồng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hành vi kiểm tra cơ thể, tìm thông tin, tìm trấn an lặp lại (tiêu chuẩn thiết yếu)"
+    },
+    {
+     "id": "noi_lo",
+     "noi_dung": "Cậu ruột của vợ mất năm ngoái trong bệnh viện vì 'viêm phổi nặng nhiễm trùng máu', cũng bắt đầu bằng đau ngực. Ông tin chỗ sườn 'rách' đã cho vi trùng vào phổi và đang lan ngầm, phải diệt sớm. Ban ngày công nhận 'chắc mình lo quá', ban đêm không tin nữa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nỗi sợ thật: nhiễm trùng phổi/nhiễm trùng máu; hiểu biết dao động (6B23.0)"
+    },
+    {
+     "id": "muon_khang_sinh",
+     "noi_dung": "Điều ông mong tối nay: một loại kháng sinh 'mạnh hơn', 'tiêm cũng được', vì hai đợt trước 'không đủ mạnh'. Ông giấu vì sợ bị coi là 'đòi hỏi' rồi bác sĩ không chịu khám kỹ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bác sĩ hỏi ông mong bác sĩ giúp gì tối nay, hoặc hỏi điều ông lo nhất, hoặc nói rõ là không cần kháng sinh",
+     "k": 1,
+     "y": "Lý do thật sự đến khám: muốn được kê kháng sinh"
+    },
+    {
+     "id": "hen_thuoc",
+     "noi_dung": "Hen phế quản 8 năm, bệnh viện huyện cấp bình hít budesonid–formoterol 160/4,5 mcg, ông xịt 2 nhát sáng và 2 nhát tối đều; kèm ống salbutamol 100 mcg cắt cơn. Cơn hen cuối cách đây 2 năm, năm nay chưa nhập viện. Không khò khè thật sự trong 5 tuần qua, ban đêm không thức vì hen. Sổ hen ghi PEF tốt nhất 400 L/phút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc xịt hen đang dùng; lạm dụng salbutamol do lo, không phải hen mất kiểm soát"
+    },
+    {
+     "id": "bao_dong_am",
+     "noi_dung": "Không sốt, không ớn lạnh, không ho đờm mủ (chỉ ho khan vài tiếng buổi sáng như mọi khi), không ho ra máu, không khó thở khi nghỉ, không sụt cân (58 kg), chân không sưng đau, không nằm bất động, không tiền sử huyết khối hay ung thư. Không đau ngực khi đi bộ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu viêm phổi, thuyên tắc phổi, hội chứng vành cấp"
+    },
+    {
+     "id": "tram_cam",
+     "noi_dung": "Ăn được, đi chợ phụ con gái, vui khi có cháu nội. Ngủ muộn, thức 3 giờ sáng để đo máy. Không buồn chán kéo dài, không mất hứng thú, không nghĩ đến chết hay tự hại, không lo chuyện khác (tiền, ruộng, con), không cơn hồi hộp bất ngờ ngoài lúc ngồi đo máy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt với trầm cảm người cao tuổi, lo âu lan tỏa, hoảng sợ"
+    },
+    {
+     "id": "tien_su_lo",
+     "noi_dung": "Tám năm trước, sau khi bạn thân mất vì nhồi máu cơ tim, ông đi khám tim ba tháng liền, điện tim, siêu âm tim bình thường; chuyện lắng xuống rồi dậy lên mỗi khi nghe tin xấu. Không bệnh tim, tiểu đường, huyết áp cao đã biết; không hút thuốc, không rượu thường xuyên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất mạn, tái diễn, từng lo bệnh tim (ICD-11 6B23, tr. 319)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói nhanh, lo lắng, tay nắm chặt phiếu và máy đo SpO₂. Da niêm hồng, không tím, không vã mồ hôi, không sụt cân rõ, không hạch cổ nách.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác nhưng lo lắng rõ, tay nắm chặt máy đo SpO₂."
+    },
+    "tim": {
+     "a": "Nhịp đều 90 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 90 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Lồng ngực cân đối, di động đều hai bên, gõ trong. Rì rào phế nang êm hai phế trường, không ran rít, ran nổ hay cọ màng phổi.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên. Nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Ấn đau khu trú khoang liên sườn 8 đường nách giữa trái, tái hiện đúng cơn đau ông than; đau tăng khi nghiêng người sang phải và khi hít sâu. Không biến dạng, không bầm tím, không lạo xạo dưới da. Ép lồng ngực trước–sau và hai bên không đau chói.",
+     "k": 1,
+     "hien": "Ấn từng khoang liên sườn trái, nghiêng người, ép lồng ngực."
+    },
+    "chi_duoi": {
+     "a": "Hai chân cân đối, không phù, bắp chân mềm, không đau, không nóng đỏ.",
+     "k": 1,
+     "hien": "Hai chân cân đối, không phù."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không sờ thấy.",
+     "k": 0
+    },
+    "di_bo_spo2": {
+     "a": "Đi bộ 6 phút ngoài hành lang: SpO₂ từ 97% xuống 96%, mạch 90 lên 98 l/p, không khó thở, không đau ngực. Ông dừng hai lần để xem máy đo của mình.",
+     "k": 1,
+     "hien": "Đi bộ 6 phút, theo dõi SpO₂ và mạch."
+    },
+    "tam_than": {
+     "a": "Gọn gàng, mạch lạc, định hướng đủ. Khí sắc không trầm, cười khi nhắc cháu nội. Lo lắng tập trung vào một chủ đề: phổi bị nhiễm trùng ngầm; câu hỏi lặp lại, nói nhanh. Hiểu biết dao động: có lúc công nhận 'chắc mình lo quá', nhưng quay lại tin khi nghĩ đến người cậu. Không hoang tưởng (nội dung hợp lý về y học), không ảo giác, không ý tưởng tự hại, trí nhớ gần bảo tồn.",
+     "k": 1,
+     "hien": "Tỉnh, mạch lạc, lo lắng, hỏi dồn, khí sắc không trầm."
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Điện tim 12 chuyển đạo: nhịp xoang 90 l/p, trục bình thường, PR 0,16 s, QRS hẹp, không ST chênh, không sóng T đảo, không sóng Q bệnh lý.",
+     "n": "ECG được khuyến cáo ở mọi người than đau ngực (ESC 2024 CCS mục 3.1.2, I-C); kết quả cùng bệnh sử không điển hình (đau tăng theo vận động thành ngực, tái hiện bằng ấn; ESC 2024 CCS mục 3.1.1) làm hội chứng vành giảm hẳn khả năng."
+    },
+    "pef": {
+     "v": "a",
+     "r": "PEF 390 L/phút (đo 3 lần, lấy cao nhất); sổ hen ghi mức tốt nhất 400 L/phút.",
+     "n": "Chênh dưới 3% so với mức tốt nhất, không gợi ý hen nặng hơn. Không bắt buộc nhưng rẻ, nhanh, giúp trả lời 'phổi có tắc không' ngay tối nay; GINA 2026 Box 2-2 (đánh giá kiểm soát hen)."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "Không chụp tối nay (không có người chụp). Phiếu phòng khám tư ngày 5: X-quang ngực thẳng, hai phế trường sáng đều, không đám mờ, không tràn khí, góc sườn hoành nhọn, không thấy gãy xương sườn.",
+     "n": "Đã có phiếu X-quang chụp sau lần khiêng nặng, bình thường; chụp lại không đổi xử trí. Viêm phổi cần có triệu chứng lâm sàng phù hợp kèm hình ảnh (QĐ 2147/2026 mục 3.1.1, 3.1.3), ông không có."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Phiếu bệnh viện huyện ngày 13: bạch cầu 7,6 G/L, Neutrophil 60%, Hb 136 g/L, tiểu cầu 250 G/L. Không làm lại tối nay.",
+     "n": "Không có sốt hay dấu nhiễm khuẩn mới; làm lại không đổi xử trí và nuôi vòng lo bệnh (ICD-11 CDDR 2024 mục 6B23, tr. 319)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "Phiếu ngày 13: CRP 2 mg/L. Không làm lại tối nay.",
+     "n": "Đã bình thường; viêm phổi thường kèm CRP tăng (QĐ 2147/2026 mục 3.1.2); CRP thứ hai không đổi quyết định."
+    },
+    "trop": {
+     "v": "n",
+     "r": "Không làm (không có kỹ thuật viên); nếu gửi mẫu sáng mai thì bình thường.",
+     "n": "Dùng khi nghi hội chứng vành cấp (ESC 2024 CCS mục 3.1.2, I-B); ông đau 5 tuần, cơ học, ECG bình thường."
+    },
+    "ddimer": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Wells 0 điểm (AHA/ACC 2026 Bảng 3, Wells < 2: xác suất thấp), có chẩn đoán thay thế rõ; D-dimer ở người 68 tuổi hay dương tính giả và kéo theo CT không cần."
+    },
+    "ct_nguc": {
+     "v": "n",
+     "r": "Không chụp.",
+     "n": "Không chỉ định: không viêm phổi nặng hay phức tạp (QĐ 2147/2026 mục 3.1.4). Cơ sở cũng không có CT tối nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lo âu bệnh tật (ICD-11 6B23.0, hiểu biết khá đến tốt dao động), khởi phát trên nền đau thành ngực cơ học đang hồi phục",
+     "ok": 1,
+     "n": "Sợ dai dẳng mắc bệnh nặng kèm đo SpO₂ 15–20 lần/ngày, đi bốn nơi trong 5 tuần, tìm trấn an; lo dai dẳng dù kết quả bình thường; có hen và cơn đau thật nên dùng ngưỡng cao, vẫn rõ quá mức (ICD-11 CDDR 2024 mục 6B23, tr. 317–319)."
+    },
+    {
+     "t": "Đau thành ngực do căng cơ liên sườn hoặc nứt xương sườn không thấy trên phim, đang hồi phục",
+     "n": "Có thật: sau khiêng nặng, tái hiện khi ấn khoang liên sườn 8 và vặn người, ép lồng ngực không đau chói, giảm từ 7/10 còn 2/10. Giải thích cơn đau, không giải thích mức lo (ESC 2024 CCS mục 3.1.1: tái hiện triệu chứng bằng ấn). Điều trị triệu chứng thành ngực: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm phổi hoặc nhiễm khuẩn hô hấp dưới (kể cả thể không rầm rộ ở người cao tuổi)",
+     "n": "Không sốt, không đờm mủ, nhịp thở 18, SpO₂ 97% và 96% sau đi bộ, phổi sạch, X-quang ngày 5, CRP và bạch cầu ngày 13 bình thường; người cao tuổi có thể ít rầm rộ nên đã đối chiếu cả hình ảnh và xét nghiệm (QĐ 2147/2026 mục 3.1.1)."
+    },
+    {
+     "t": "Tràn khí màng phổi hoặc gãy xương sườn có biến chứng",
+     "n": "X-quang ngày 5 (sau chấn thương) không tràn khí, không gãy sườn; hiện không khó thở, rì rào phế nang đều hai bên, nhịp thở 18."
+    },
+    {
+     "t": "Hội chứng vành cấp hoặc đau thắt ngực ổn định",
+     "n": "Đau không theo gắng sức, không lan, tái hiện bằng ấn, ECG hôm nay và ngày 13 bình thường, không yếu tố nguy cơ tim mạch đã biết (ESC 2024 CCS mục 3.1.1, 3.1.2). Dặn quay lại nếu đau kiểu thắt khi gắng sức."
+    },
+    {
+     "t": "Thuyên tắc phổi",
+     "n": "Wells 0 điểm (AHA/ACC 2026 Bảng 3): không DVT, không bất động, mạch dưới 100, không ho máu, không ung thư, có chẩn đoán thay thế rõ; không khó thở khi nghỉ, SpO₂ bình thường."
+    },
+    {
+     "t": "Đợt cấp hen phế quản hoặc hen mất kiểm soát",
+     "n": "Không khò khè, không thức đêm vì hen, PEF 390/400 L/phút; cơn tức theo tình huống lo. Run tay, tim mạnh do salbutamol nhiều (GINA 2026 Phụ lục B, SABA). QĐ 1851/2020 mục 3.4.1: phân biệt triệu chứng do hen hay do lo âu."
+    },
+    {
+     "t": "Giai đoạn trầm cảm ở người cao tuổi",
+     "n": "Ăn được, vui khi có cháu, không mất hứng thú, không tự hại; chỉ lo về sức khỏe (ICD-11 CDDR 2024 mục 6B23, tr. 319–321: ở người cao tuổi phải xét trầm cảm). Có tiền sử lo bệnh từ 8 năm trước nên không phải mới khởi phát."
+    },
+    {
+     "t": "Rối loạn lo âu lan tỏa, rối loạn hoảng sợ, rối loạn hoang tưởng nghi bệnh",
+     "n": "Chỉ lo một chủ đề sức khỏe, không lo nhiều lĩnh vực (QĐ 2058/2020 Bài 22 mục 3.1.1; ICD-11 CDDR 2024 mục 6B23, tr. 321 ranh giới lo âu lan tỏa); cơn tức chỉ xuất hiện khi đo máy, không có cơn hoảng bất ngờ (tr. 321); công nhận có lúc quá lo, nội dung hợp lý y học, không ảo giác (tr. 321)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi bệnh theo trình tự (diễn tiến đau, đã khám và dùng gì kể cả thuốc tự mua, hành vi đo, điều ông lo nhất, mong muốn tối nay, dấu báo động, khí sắc); khám thành ngực, phổi, tim, chân, đi bộ đo SpO₂; làm điện tim và PEF",
+     "v": "c",
+     "n": "ECG cho mọi người đau ngực (ESC 2024 CCS mục 3.1.2, I-C); bệnh sử và ấn tái hiện làm bệnh vành ít khả năng (mục 3.1.1); viêm phổi cần lâm sàng phù hợp (QĐ 2147/2026 mục 3.1.1); Wells 0 (AHA/ACC 2026 Bảng 3). Hỏi nỗi lo và mong muốn mới lộ ra nỗi sợ và yêu cầu kháng sinh (ICD-11 CDDR 2024 mục 6B23, tr. 318–319)."
+    },
+    {
+     "t": "Dùng các phiếu cũ (X-quang ngày 5, công thức máu, CRP, điện tim ngày 13); không gửi mẫu xét nghiệm hay hẹn chụp lại chỉ để trấn an; không chuyển tuyến",
+     "v": "c",
+     "n": "Kết quả bình thường đã có, không triệu chứng mới nên không đổi xử trí (CHEST 2020 khuyến cáo 1). Làm lặp lại nuôi bệnh (ICD-11 CDDR 2024 mục 6B23, tr. 319; QĐ 2058/2020 Bài 25 mục 5)."
+    },
+    {
+     "t": "Không kê kháng sinh; nói rõ lý do: không có sốt, không đờm mủ, SpO₂ và phổi bình thường, X-quang, CRP, bạch cầu bình thường, hai đợt kháng sinh trước không thay đổi gì",
+     "v": "c",
+     "n": "Không có chẩn đoán nhiễm khuẩn hô hấp dưới (QĐ 2147/2026 mục 3.1.1–3.1.3); viêm phế quản cấp cũng không kê thường quy (CHEST 2020 khuyến cáo 3). Tác hại cụ thể của kháng sinh thừa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gọi tên lo âu về bệnh tật bằng lời dễ hiểu, trấn an có cấu trúc: ghi nhận nỗi sợ (cậu ruột), nêu từng điều bình thường bằng con số, giải thích vì sao đo và xịt nhiều lại tức hơn, nói rõ điều gì SẼ khiến bác sĩ lo, hẹn mốc, để ông nhắc lại bằng lời mình",
+     "v": "c",
+     "n": "Liệu pháp tâm lý chủ đạo, kèm điều trị triệu chứng cơ thể (QĐ 2058/2020 Bài 25 mục 4.1); giải thích hợp lý (Bài 22 mục 4.1). Người lo bệnh dễ bị coi là 'tưởng tượng', quan hệ xấu đi (ICD-11 CDDR 2024 mục 6B23, tr. 319). Cấu trúc từng bước trấn an: không có trong tài liệu đã tải, theo thiết kế của ca."
+    },
+    {
+     "t": "Giảm hành vi duy trì lo: chỉ đo SpO₂ khi khó thở thật (tối đa 2 lần/ngày vào giờ cố định cho đến khi tái khám), ngưng đo nhiệt độ thường quy, bỏ nhóm Zalo xóm về bệnh; cùng chị Hạnh thống nhất không trả lời trấn an lặp lại",
+     "v": "c",
+     "n": "Kiểm tra cơ thể, tìm thông tin, tìm trấn an lặp lại là đặc điểm thiết yếu (ICD-11 CDDR 2024 mục 6B23, tr. 317). CBT cho lo bệnh hiệu quả lớn (Cooper 2017, PMID 28229805; Cochrane 2007, PMID 17943915; nguồn bổ sung tự tìm). Số lần đo cụ thể: lựa chọn của ca."
+    },
+    {
+     "t": "Chỉ dùng salbutamol khi thật sự khò khè hoặc khó thở, không quá 4–6 lần/24 giờ; giữ nguyên budesonid–formoterol sáng tối; xem lại cách xịt",
+     "v": "c",
+     "n": "Đi khám nếu dùng SABA quá 4–6 lần/24 giờ; dùng đều làm nhờn thuốc sau 1–2 tuần, run, nhịp nhanh; cần thuốc có ICS (GINA 2026 Phụ lục B). SABA quá mức góp phần triệu chứng: QĐ 1851/2020 mục 3.5.2."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tuần theo lịch (không chờ đến khi lo); dặn quay lại ngay khi: đau thắt ngực lan tay hàm khi gắng sức, khó thở lúc nghỉ, sốt, ho đờm mủ hoặc ho ra máu, sưng một chân, khò khè nhiều",
+     "v": "c",
+     "n": "Đau thắt ngực: ESC 2024 CCS mục 3.1.1; viêm phổi: QĐ 2147/2026 mục 3.1.1; thuyên tắc phổi: AHA/ACC 2026 Bảng 3; khò khè: GINA 2026. Khoảng cách 3 tuần: lựa chọn của ca."
+    },
+    {
+     "t": "Paracetamol 500 mg khi đau, tối đa 3 g/ngày (6 viên) vài ngày",
+     "v": "a",
+     "n": "Người cao tuổi dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID, nhóm nguy cơ cao); người lớn nói chung không quá 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1, tr. 202). Hiệu quả cho đau thành ngực: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gửi mẫu công thức máu, CRP sáng mai ở bệnh viện huyện cho ông yên tâm",
+     "v": "a",
+     "n": "Không đổi xử trí (CHEST 2020 khuyến cáo 1); chấp nhận như nhượng bộ có kiểm soát nếu nói rõ kết quả bình thường vẫn là không kháng sinh."
+    },
+    {
+     "t": "Kê kháng sinh (amoxicillin–clavulanat, macrolid, quinolon) hoặc tiêm ceftriaxon theo yêu cầu",
+     "v": "w",
+     "n": "Không có chẩn đoán nhiễm khuẩn (QĐ 2147/2026 mục 3.1.1–3.1.3); ông đã dùng hai đợt không có tác dụng. Chiều lòng làm củng cố niềm tin 'nhiễm trùng ngầm'."
+    },
+    {
+     "t": "Nhập viện theo dõi qua đêm, hoặc chụp CT ngực và chuyển bệnh viện tuyến trên",
+     "v": "w",
+     "n": "Không có dấu hiệu nặng: SpO₂ 97%, phổi sạch, ECG bình thường, Wells 0. CT chỉ cho viêm phổi nặng, phức tạp (QĐ 2147/2026 mục 3.1.4). Đi nhiều nơi gây tốn kém, dẫn đến lo âu (QĐ 2058/2020 Bài 25 mục 5)."
+    },
+    {
+     "t": "Kê benzodiazepin (diazepam, alprazolam…) để bớt lo tối nay",
+     "v": "w",
+     "n": "QĐ 2058/2020 Bài 22 mục 4.3, Bài 25 mục 4.3 liệt kê nhưng 'hạn chế lạm dụng nhóm gây nghiện' (Bài 25 mục 4.1). mhGAP 2023 ANX6: không khuyến cáo, chỉ 3–7 ngày cho lo âu cấp nặng. AGS Beers 2023 Bảng 2: tránh từ 65 tuổi. Ông không có lo âu cấp cần cắt ngay, có hen, 68 tuổi: chọn bên thận trọng (như TT-0161)."
+    },
+    {
+     "t": "Kê propranolol cho tim đập nhanh, run tay do lo",
+     "v": "h",
+     "n": "QĐ 2058/2020 Bài 22 mục 4.3 nêu propranolol 10 mg × 2 lần/ngày, nhưng chẹn beta có thể gây co thắt phế quản, liên quan một số ca tử vong do hen (GINA 2026 chương 3); QĐ 1851/2020 mục 3.2.4: tránh. Ông có hen nên chấm h."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lo âu bệnh tật (ICD-11 6B23.0), hiểu biết khá đến tốt nhưng dao động; ICD-10 tương ứng F45.2, QĐ 2058/2020 không có bài riêng nên dùng ICD-11 (WHO 2024)",
+     "Hành vi duy trì: đo SpO₂ và nhiệt độ liên tục, tìm thông tin, đi khám bốn nơi, xịt salbutamol 6–8 lần/ngày, tự mua kháng sinh",
+     "Đau thành ngực cơ học sau khiêng nặng, đang hồi phục (khởi phát thật, không giải thích mức lo)",
+     "Chưa có bằng chứng viêm phổi, tràn khí, hội chứng vành, thuyên tắc phổi, đợt cấp hen",
+     "Không phải trầm cảm, lo âu lan tỏa, hoảng sợ, hoang tưởng; hen ổn định kèm lạm dụng salbutamol do lo"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: đau (khởi phát, vị trí, yếu tố tăng giảm) → dấu báo động (sốt, đờm mủ, ho máu, khó thở nghỉ, sụt cân, sưng chân) → đã khám, đã dùng gì (kể cả tự mua) → ông làm gì mỗi ngày với cơ thể → điều ông lo nhất, mong gì tối nay → khí sắc, giấc ngủ, ý nghĩ tự hại → thuốc hen, cách xịt, tiền sử lo bệnh.",
+     "Tiêu chuẩn: sợ dai dẳng mắc bệnh nặng kèm hành vi kiểm tra, tìm thông tin, tìm trấn an và ảnh hưởng chức năng (ICD-11 CDDR 2024 mục 6B23, tr. 317); ông có đủ. Có hen và chấn thương thật nên dùng ngưỡng cao (tr. 319). Ở người cao tuổi phải loại trừ trầm cảm (tr. 319–321); lo bệnh tim 8 năm trước cho thấy tính mạn, tái diễn.",
+     "Loại trừ thực thể bằng lâm sàng và ECG: đau cơ học, không giống đau thắt ngực (ESC 2024 CCS mục 3.1.1, 3.1.2); không đủ tiêu chuẩn viêm phổi (QĐ 2147/2026 mục 3.1.1–3.1.3); Wells 0 (AHA/ACC 2026 Bảng 3); PEF gần mức tốt nhất.",
+     "Cơn tức theo tình huống đo máy là lo âu, không phải hen (QĐ 1851/2020 mục 3.4.1); run tay, tim mạnh do salbutamol (GINA 2026 Phụ lục B) làm ông tưởng bệnh nặng thêm.",
+     "Bẫy dễ gặp: coi cơn đau thật là toàn bộ vấn đề; nghe 'đã khám nhiều nơi' mà không hỏi nỗi lo và mong muốn; hoặc kê kháng sinh 'cho yên' vì ngoài giờ không có xét nghiệm."
+    ],
+    "phan_tich_xu_tri": [
+     "Mục tiêu lượt 1: loại trừ hợp lý bệnh nguy hiểm bằng lâm sàng và ECG, không kháng sinh, gọi tên lo âu bệnh tật, bắt đầu giảm hành vi duy trì, chỉnh salbutamol, hẹn tái khám theo lịch. Chưa dùng thuốc chống lo âu vì liệu pháp tâm lý là chủ đạo (QĐ 2058/2020 Bài 25 mục 4.1) và ông chưa thử cách không thuốc.",
+     "Ngoài giờ, không có xét nghiệm không phải lý do làm thêm hay kê kháng sinh: mọi kết quả cần đã có, quyết định tối nay không chờ kết quả nào.",
+     "Không kháng sinh (QĐ 2147/2026 mục 3.1) nhưng nói sau khi đã khám kỹ và hỏi ra nỗi sợ; cách từ chối quyết định ông có quay lại hay đi nơi thứ năm (ICD-11 CDDR 2024 mục 6B23, tr. 319).",
+     "Cắt dần salbutamol, giữ thuốc có ICS (GINA 2026 Phụ lục B); tránh chẹn beta (GINA 2026 chương 3, QĐ 1851/2020 mục 3.2.4); tránh benzodiazepin (AGS Beers 2023 Bảng 2, mhGAP 2023 ANX6) dù Bộ Y tế có liệt kê (sổ mâu thuẫn TT-0177, TT-0161). Thuốc chống trầm cảm để lượt sau."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Budesonid–formoterol (bình hít đang dùng)",
+      "ham_luong": "160/4,5 mcg/nhát",
+      "lieu": "Giữ nguyên 2 nhát sáng, 2 nhát tối",
+      "duong": "Hít",
+      "thoi_diem": "Sáng và tối, súc miệng sau khi hít",
+      "so_ngay": "Tiếp tục đến lần tái khám",
+      "ghi_chu": "Giữ nguyên liều đang dùng theo đơn bệnh viện huyện; hen cần thuốc có ICS, không dùng SABA đơn độc (GINA 2026 Phụ lục B)."
+     },
+     {
+      "thuoc": "Salbutamol (ống xịt đang dùng)",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "Chỉ khi thật sự khò khè hoặc khó thở, liều theo đơn đang dùng",
+      "duong": "Hít",
+      "thoi_diem": "Khi có triệu chứng hen thật",
+      "so_ngay": "Theo nhu cầu, không quá 4–6 lần/24 giờ",
+      "ghi_chu": "GINA 2026 Phụ lục B (SABA): cần đi khám nếu dùng nhiều hơn 4–6 lần/24 giờ; dùng đều làm nhờn thuốc, run, nhịp nhanh. Không dùng để 'thử xem còn tức không'."
+     }
+    ],
+    "dan_do": [
+     "Phổi của bác Bảy sạch, tim bình thường, điện tim hôm nay đẹp, SpO₂ 97%; X-quang và xét nghiệm máu trước đó cũng bình thường. Chỗ đau là cơ và sườn căng khi khiêng bao lúa, đang lành dần.",
+     "Nỗi sợ 'nhiễm trùng ngầm' sau chuyện của cậu là dễ hiểu. Đây là lo âu về bệnh tật, gặp ở người rất cẩn thận, và chữa được. Hai đợt kháng sinh không giúp vì không có vi trùng; đo máy và xịt thuốc liên tục làm bác tức hơn.",
+     "Đo SpO₂ tối đa 2 lần mỗi ngày (sáng, chiều); bỏ nhóm Zalo về bệnh phổi; muốn đo thêm thì chờ 15 phút làm việc khác (số lần, mốc theo thiết kế của ca, không có trong tài liệu đã tải).",
+     "Chỉ xịt salbutamol khi khò khè hoặc khó thở thật; hơn 4–6 lần/ngày thì đến khám (GINA 2026 Phụ lục B). Budesonid–formoterol sáng tối như cũ.",
+     "Quay lại ngay khi đau thắt ngực lan tay hoặc hàm lúc làm việc, khó thở lúc nghỉ, sốt, ho đờm vàng xanh hoặc ra máu, sưng một chân.",
+     "Tái khám sau 3 tuần dù có lo hay không; làm ruộng nhẹ, chưa khiêng nặng (theo thiết kế của ca, không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ông Bảy tái khám đúng hẹn sau 3 tuần, con gái đi cùng. Nói đau ngực đã 'gần hết' nhưng 'trong người vẫn chưa yên', và 2 ngày nay sổ mũi, ho vài tiếng nên 'sợ nó xuống phổi'. Sinh hiệu: mạch 84 l/p, HA 134/80 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Bảy được nhập viện 'điều trị viêm đường hô hấp' vì sổ mũi, ho nhẹ và nỗi sợ. Ông không sốt, không đờm mủ, SpO₂ 97%, phổi sạch nên không có chỉ định (QĐ 2147/2026 mục 3.1.1; CHEST 2020 khuyến cáo 3). Ba tuần qua ông giảm đo máy từ 18 xuống 7 lần/ngày; nằm viện bị đo SpO₂ mỗi vài giờ kéo ông về vòng kiểm tra cũ (ICD-11 CDDR 2024 mục 6B23, tr. 319).",
+    "chuyen_tuyen": "Ông Bảy được gửi khoa hô hấp bệnh viện tỉnh 'khám lại cho chắc' vì ho sổ mũi 2 ngày. Không có dấu báo động (không sốt, SpO₂ 97%, phổi sạch, PEF 395/400 L/phút). Mất một ngày công, thêm tiền; kết quả lệch nhẹ vô nghĩa sẽ bị ông coi là bằng chứng 'ngầm có bệnh' (QĐ 2058/2020 Bài 25 mục 5)."
+   },
+   "loi_mo": "Chào bác sĩ. Đau thì đỡ nhiều rồi, nhưng 2 bữa nay tôi sổ mũi, ho, tôi sợ nó xuống phổi. Lần trước bác sĩ nói không cần kháng sinh, mà tôi vẫn lo, bác sĩ nghe giùm phổi tôi coi.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "134/80",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau ngực gần hết (còn 1/10 khi vặn người mạnh). Sổ mũi trong, ho khan vài tiếng 2 ngày nay sau dầm mưa, sợ 'xuống phổi'. Vẫn thấy trong người chưa yên, nhất là buổi tối.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần: triệu chứng thể chất gần hết, lo âu còn"
+    },
+    {
+     "id": "so_sanh",
+     "noi_dung": "Ba tuần qua: đo SpO₂ từ khoảng 18 xuống 7 lần/ngày (sáng còn đo liền ba lần), đo nhiệt độ từ 5 lần còn 1 lần, salbutamol từ 6–8 xuống 2–3 lần/ngày (chỉ khi 'tức'), vẫn xem nhóm Zalo ban đêm. Không đi thêm nơi khám nào, không mua thuốc ở hiệu thuốc. Chị Hạnh: 'ba đỡ hơn nhưng tối vẫn hỏi con hoài'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cải thiện định lượng một phần, hành vi duy trì còn: dấu hiệu đang đi đúng hướng, chưa phải thất bại điều trị"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Ông thừa nhận vẫn muốn có 'vài viên kháng sinh để sẵn' phòng khi ho nặng hơn. Hai ngày nay đã ra hiệu thuốc nhưng chưa mua vì nhớ lời dặn; ông ngại hỏi lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật còn: muốn có kháng sinh"
+    },
+    {
+     "id": "ho_moi",
+     "noi_dung": "Sổ mũi trong, hơi đau họng, ho khan vài tiếng, đờm không có. Không sốt, không ớn lạnh, không khò khè, không khó thở, không đau ngực kiểu mới. Chị Hạnh cũng đang sổ mũi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viêm hô hấp trên virus nhẹ, không phải viêm phổi"
+    },
+    {
+     "id": "giac_ngu",
+     "noi_dung": "Ngủ 4–5 giờ/đêm, thức 3 giờ sáng để đo máy và xem điện thoại, ban ngày hơi mệt. Ăn uống ổn, vui khi có cháu, không buồn chán, không mất hứng thú, không nghĩ đến chết hay tự hại. Không rượu, không cà phê buổi tối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất ngủ liên quan lo, không phải trầm cảm"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Ông thử giảm đo như dặn, được 'khoảng nửa ngày'; chiều tối lại đo lại. Xịt budesonid–formoterol đều. Kỹ thuật xịt đúng, súc miệng. Làm ruộng nửa buổi, chưa khiêng nặng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ một phần; chức năng hồi phục một phần"
+    },
+    {
+     "id": "thuoc_thoi",
+     "noi_dung": "Ông sợ 'thuốc thần kinh' sẽ gây nghiện, làm lú. Sẵn lòng tập theo hướng dẫn nếu có người nhắc; con gái đồng ý nhắc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhu cầu giải thích; ưu tiên không thuốc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói bớt nhanh, ít siết phiếu hơn lần trước. Da niêm hồng, không sụt cân (58 kg).",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, bớt căng thẳng hơn lần trước."
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi phù nhẹ, dịch trong. Họng đỏ nhẹ, amidan không mủ, không hạch cổ.",
+     "k": 1,
+     "hien": "Soi mũi họng."
+    },
+    "tim": {
+     "a": "Nhịp đều 84 l/p, T1 T2 rõ, không thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai phế trường, không ran rít, ran nổ hay cọ màng phổi.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên. Nhịp thở 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Ấn khoang liên sườn 8 trái hầu như không đau, đau nhẹ khi vặn người mạnh. Không biến dạng.",
+     "k": 1,
+     "hien": "Ấn khoang liên sườn trái, vặn người."
+    },
+    "tam_than": {
+     "a": "Mạch lạc, khí sắc không trầm. Lo lắng vẫn tập trung vào phổi nhưng nói được 'chắc mình lo quá' nhiều hơn lần trước. Không hoang tưởng, không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, mạch lạc, lo vừa, khí sắc không trầm."
+    }
+   },
+   "cls": {
+    "pef": {
+     "v": "a",
+     "r": "PEF 395 L/phút (mức tốt nhất 400 L/phút).",
+     "n": "Cho thấy hen ổn định, thêm một dữ kiện cụ thể để trả lời nỗi sợ 'xuống phổi'; không bắt buộc (GINA 2026 Box 2-2)."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Không làm tối nay; nếu gửi mẫu sáng mai: Na 139 mmol/L, K 4,1 mmol/L.",
+     "n": "Chỉ cần nếu dùng SSRI: AGS Beers 2023 Bảng 4 theo dõi natri khi bắt đầu SSRI ở người cao tuổi."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không chụp (không có người chụp).",
+     "n": "Không dấu hiệu viêm phổi mới (QĐ 2147/2026 mục 3.1.1); triệu chứng nhẹ, không X-quang thường quy (CHEST 2020 khuyến cáo 1)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "Không làm.",
+     "n": "Không đổi xử trí (CHEST 2020 khuyến cáo 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lo âu bệnh tật (ICD-11 6B23.0), đáp ứng một phần sau 3 tuần can thiệp không thuốc, kèm viêm hô hấp trên do virus nhẹ và mất ngủ do lo",
+     "ok": 1,
+     "n": "Hành vi kiểm tra, xin kháng sinh, tìm trấn an còn nhưng đã giảm định lượng; hiểu biết khá hơn (ICD-11 CDDR 2024 mục 6B23, tr. 318); bệnh mạn, tái diễn (tr. 319). Viêm hô hấp trên là điểm kích hoạt mới."
+    },
+    {
+     "t": "Viêm phổi mới hoặc nhiễm khuẩn hô hấp dưới",
+     "n": "Không sốt, không đờm mủ, nhịp thở 18, SpO₂ 97%, phổi sạch (QĐ 2147/2026 mục 3.1.1). Sổ mũi trong, họng đỏ nhẹ, chị Hạnh cùng triệu chứng gợi ý virus. Hẹn quay lại nếu sốt hoặc khó thở."
+    },
+    {
+     "t": "Đợt cấp hen phế quản",
+     "n": "Không khò khè, PEF 395/400 L/phút, salbutamol dùng ít (GINA 2026 Box 2-2)."
+    },
+    {
+     "t": "Thất bại điều trị sớm cần nâng bậc",
+     "n": "Mới 3 tuần, đáp ứng một phần định lượng được, không ai bỏ hay nặng thêm; thời gian cần để đánh giá đáp ứng với liệu pháp tâm lý cho lo bệnh: không có trong tài liệu đã tải. Cần so với lần trước bằng số liệu cụ thể, không dựa vào cảm giác 'vẫn lo'."
+    },
+    {
+     "t": "Giai đoạn trầm cảm xuất hiện sau",
+     "n": "Mất ngủ muộn nhưng ăn uống ổn, vui khi có cháu, không mất hứng thú hay tự hại; chuỗi triệu chứng không phù hợp (ICD-11 CDDR 2024 mục 6B23, tr. 321, ranh giới trầm cảm)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "So sánh với lượt 1 bằng con số (đo SpO₂, nhiệt độ, salbutamol, đi khám thêm, giờ làm ruộng), kết luận đáp ứng một phần theo hướng đúng; không coi 'vẫn lo' là thất bại, không nâng bậc vội",
+     "v": "c",
+     "n": "Lo bệnh mạn, tái diễn, cần theo dõi nhiều tháng (ICD-11 CDDR 2024 mục 6B23, tr. 319). Mốc gọi là thất bại điều trị và thời gian dự kiến khỏi: không có trong tài liệu đã tải; lựa chọn của ca."
+    },
+    {
+     "t": "Hỏi kỹ khí sắc, giấc ngủ, ý nghĩ tự hại, rượu và thuốc; khám tai mũi họng, phổi, PEF để chứng minh ho mới là viêm hô hấp trên nhẹ",
+     "v": "c",
+     "n": "Loại trừ trầm cảm ở người cao tuổi (ICD-11 CDDR 2024 mục 6B23, tr. 319–321); QĐ 2058/2020 Bài 22 mục 3.2; khám phổi, SpO₂ theo QĐ 2147/2026 mục 3.1.1."
+    },
+    {
+     "t": "Không kê kháng sinh cho viêm hô hấp trên, kể cả 'để sẵn'; hỏi thẳng ông mong gì, nói rõ khi nào mới cần: sốt, đờm mủ, khó thở, không đỡ sau thời gian hẹn",
+     "v": "c",
+     "n": "CHEST 2020 khuyến cáo 3 (không kê thường quy), khuyến cáo 4 (cân nhắc kháng sinh nếu nặng lên và nghĩ có nhiễm khuẩn thứ phát). QĐ 2147/2026 mục 3.1 (tiêu chuẩn viêm phổi). Thời gian chờ trước khi quay lại: lựa chọn của ca."
+    },
+    {
+     "t": "Tiếp tục liệu pháp tâm lý có cấu trúc làm trụ cột (hướng nhận thức–hành vi cho lo bệnh): đặt mục tiêu theo tuần giảm đo SpO₂ và xin trấn an, tập chịu đựng cơn lo không kiểm tra, cùng chị Hạnh hỗ trợ; nếu có chuyên viên tâm lý thì giới thiệu, không có thì bác sĩ hướng dẫn tại phòng khám",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 25 mục 4.1, 4.3 (liệu pháp tâm lý chủ đạo); Bài 22 mục 4.3. mhGAP 2023 ANX2 (CBT ngắn, mạnh) viết cho lo âu lan tỏa, hoảng sợ, ngoại suy. CBT cho lo bệnh: Cooper 2017, PMID 28229805; Axelsson 2019, PMID 31859542; Cochrane 2007, PMID 17943915 (nguồn bổ sung tự tìm). Số buổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ budesonid–formoterol sáng tối, salbutamol chỉ khi khò khè thật, không quá 4–6 lần/24 giờ",
+     "v": "c",
+     "n": "GINA 2026 Phụ lục B (SABA và ICS-formoterol); GINA 2026 Box 2-2A (tần suất SABA là chỉ số kiểm soát). QĐ 1851/2020 mục 3.5.2 (SABA quá mức góp phần triệu chứng)."
+    },
+    {
+     "t": "Giảm hành vi duy trì kèm vệ sinh giấc ngủ: không xem điện thoại hay đo máy sau 21 giờ, không đo lúc thức giấc, giờ ngủ cố định",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3 (giáo dục vệ sinh giấc ngủ); ICD-11 CDDR 2024 mục 6B23, tr. 317 (hành vi kiểm tra và tìm thông tin là đặc điểm thiết yếu). Mốc giờ cụ thể: lựa chọn của ca."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần rồi mỗi 4 tuần theo lịch cố định; dặn dấu báo động như lượt 1 và thêm: sốt, đờm mủ, khó thở, SpO₂ dưới 94% khi đo đúng cách",
+     "v": "c",
+     "n": "Lịch hẹn: lựa chọn của ca. Dấu hiệu viêm phổi: QĐ 2147/2026 mục 3.1.1. Ngưỡng 94% là lựa chọn của ca, không có trong tài liệu đã tải cho máy cá nhân."
+    },
+    {
+     "t": "Thêm thuốc ức chế tái hấp thu serotonin chọn lọc (sertralin 50 mg buổi sáng) sau khi bàn kỹ lợi và hại với ông, có natri máu nền, đánh giá lại sau 2–4 tuần; hoặc chỉ tiếp tục liệu pháp tâm lý nếu ông từ chối thuốc",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 25 mục 4.3, Bài 22 mục 4.3: sertralin 50–200 mg/24 giờ, khởi liều thấp (Bài 25 mục 4.1). mhGAP 2023 ANX1 (có điều kiện, bằng chứng thấp, viết cho lo âu lan tỏa, hoảng sợ). AGS Beers 2023 Bảng 4: SSRI gây hạ natri, theo dõi natri khi khởi đầu ở người cao tuổi. Bằng chứng riêng cho lo bệnh, liều 25 mg: không có trong tài liệu đã tải. Chấm a vì ông đang đỡ, ngoài giờ không có natri và ông e ngại thuốc."
+    },
+    {
+     "t": "Kê kháng sinh 'để sẵn' hoặc theo yêu cầu cho ho sổ mũi",
+     "v": "w",
+     "n": "CHEST 2020 khuyến cáo 3; QĐ 2147/2026 mục 3.1. Ông không có dấu nhiễm khuẩn; để sẵn nghĩa là ông tự quyết dùng lúc lo."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bệnh viện tuyến trên khám lại, chụp CT ngực",
+     "v": "w",
+     "n": "Không dấu báo động, tiến triển đúng hướng; CT chỉ cho viêm phổi nặng, phức tạp (QĐ 2147/2026 mục 3.1.4). Đi khám nhiều nơi gây tốn kém, có thể dẫn đến lo âu (QĐ 2058/2020 Bài 25 mục 5)."
+    },
+    {
+     "t": "Kê benzodiazepin ngắn hạn hoặc thuốc ngủ nhóm Z để ngủ và bớt lo",
+     "v": "w",
+     "n": "Tránh benzodiazepin và thuốc ngủ nhóm Z từ 65 tuổi (AGS Beers 2023 Bảng 2); mhGAP 2023 ANX6 không khuyến cáo benzodiazepin, chỉ ngắn hạn cho lo âu cấp nặng; QĐ 2058/2020 Bài 25 mục 4.1: hạn chế lạm dụng nhóm giải lo âu gây nghiện."
+    },
+    {
+     "t": "Kê propranolol hoặc thuốc chẹn beta khác cho hồi hộp",
+     "v": "h",
+     "n": "Có hen: GINA 2026 chương 3, QĐ 1851/2020 mục 3.2.4 tránh chẹn beta; QĐ 2058/2020 Bài 22 mục 4.3 nêu propranolol cho lo âu nhưng không xét bệnh nhân hen."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lo âu bệnh tật (ICD-11 6B23.0), đáp ứng một phần sau 3 tuần, hiểu biết khá hơn",
+     "Viêm hô hấp trên do virus nhẹ (điểm kích hoạt mới)",
+     "Mất ngủ muộn do hành vi kiểm tra ban đêm; đau thành ngực cơ học gần hết",
+     "Hen phế quản ổn định (PEF 395/400 L/phút), dùng salbutamol giảm 7 → 2–3 lần/ngày",
+     "Không viêm phổi, không trầm cảm"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu hỏi lượt 2: đỡ một phần là hồi phục chậm bình thường hay thất bại sớm? Thứ tự: chẩn đoán còn đúng? ông thực hiện được bao nhiêu? hành vi duy trì còn gì? triệu chứng mới có phải thực thể? trầm cảm, dùng chất? yếu tố kích hoạt mới?",
+     "Số liệu đúng hướng: đo SpO₂ 18 → 7 lần/ngày, salbutamol 7 → 2–3 lần/ngày, không đi khám thêm, làm ruộng nửa buổi, đau gần hết. Còn: đo ban đêm, mất ngủ, muốn kháng sinh để sẵn. Lo bệnh mạn và tái diễn (ICD-11 CDDR 2024 mục 6B23, tr. 319) nên quỹ đạo chậm, có dao động là bình thường; mốc gọi là thất bại: không có trong tài liệu đã tải.",
+     "Ho sổ mũi 2 ngày không sốt, SpO₂ 97%, phổi sạch, người nhà cùng triệu chứng: viêm hô hấp trên virus (chưa đủ tiêu chuẩn viêm phổi, QĐ 2147/2026 mục 3.1.1). Đây là điểm kích hoạt cơn lo (ICD-11 CDDR 2024 mục 6B23, tr. 319). Khí sắc không trầm: không phải trầm cảm (tr. 321).",
+     "Bẫy dễ gặp: coi 'đỡ một phần' là thất bại rồi vội thêm thuốc hoặc chuyển tuyến; khen ông 'khỏi rồi' và bỏ qua hành vi còn lại; nhượng bộ kháng sinh vì ho mới."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục hướng không thuốc, tăng cấu trúc: mục tiêu giảm kiểm tra theo tuần, con gái cùng nhắc, tập chịu cơn lo (QĐ 2058/2020 Bài 25 mục 4.1; Bài 22 mục 4.3; Cooper 2017, Cochrane 2007 nguồn bổ sung).",
+     "SSRI hợp lý nhưng không bắt buộc: ông đang đáp ứng, ngoài giờ không có natri và ông e ngại thuốc. Nếu thêm: sertralin 50 mg (QĐ 2058/2020 Bài 25 mục 4.3), natri nền (AGS Beers 2023 Bảng 4), đánh giá sau 2–4 tuần; bằng chứng riêng cho lo bệnh: không có trong tài liệu đã tải, ngoại suy.",
+     "Không kháng sinh, kể cả 'để sẵn' (CHEST 2020 khuyến cáo 3, 4); hỏi thẳng mong muốn để ông nói ra thay vì lén mua. Tránh benzodiazepin, thuốc nhóm Z (AGS Beers 2023 Bảng 2; mhGAP 2023 ANX6) và chẹn beta (GINA 2026 chương 3). Tái khám 2 tuần rồi 4 tuần: lựa chọn của ca."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Budesonid–formoterol (bình hít đang dùng)",
+      "ham_luong": "160/4,5 mcg/nhát",
+      "lieu": "Giữ nguyên 2 nhát sáng, 2 nhát tối",
+      "duong": "Hít",
+      "thoi_diem": "Sáng và tối, súc miệng sau khi hít",
+      "so_ngay": "Tiếp tục đến lần tái khám",
+      "ghi_chu": "Giữ nguyên liều đang dùng; GINA 2026 Phụ lục B: hen cần thuốc có ICS."
+     },
+     {
+      "thuoc": "Salbutamol (ống xịt đang dùng)",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "Chỉ khi thật sự khò khè hoặc khó thở, liều theo đơn đang dùng",
+      "duong": "Hít",
+      "thoi_diem": "Khi có triệu chứng hen thật",
+      "so_ngay": "Theo nhu cầu, không quá 4–6 lần/24 giờ",
+      "ghi_chu": "GINA 2026 Phụ lục B (SABA): nhờn thuốc, run, nhịp nhanh nếu dùng đều; đi khám nếu dùng quá 4–6 lần/24 giờ."
+     },
+     {
+      "thuoc": "Sertralin (chỉ khi ông đồng ý sau khi bàn lợi hại và đã có natri máu)",
+      "ham_luong": "50 mg/viên",
+      "lieu": "50 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "14 ngày rồi tái khám (mức a, không bắt buộc)",
+      "ghi_chu": "QĐ 2058/2020 Bài 25 mục 4.3, Bài 22 mục 4.3: sertralin 50–200 mg/24 giờ; khởi liều thấp, tăng từ từ (Bài 25 mục 4.1). Natri: AGS Beers 2023 Bảng 4. Liều 25 mg, tác dụng phụ, thời gian khởi phát tác dụng: không có trong tài liệu đã tải. Nếu ông từ chối: không kê, tiếp tục liệu pháp tâm lý."
+     }
+    ],
+    "dan_do": [
+     "Bác Bảy làm được nhiều: đo máy từ 18 xuống 7 lần/ngày, xịt thuốc ít hơn, không đi thêm chỗ nào, đau ngực gần hết. Đó là tiến bộ thật dù đêm vẫn lo.",
+     "Phổi sạch, SpO₂ 97%, PEF gần mức tốt nhất. Sổ mũi, ho nhẹ là cảm virus, tự khỏi, kháng sinh không giúp.",
+     "Tuần này: đo SpO₂ tối đa 2 lần/ngày, không đo sau 21 giờ hay khi thức giấc; muốn đo thêm thì chờ 15 phút làm việc khác (mốc theo thiết kế của ca, không có trong tài liệu đã tải). Con gái nhắc, không trả lời trấn an lặp lại.",
+     "Budesonid–formoterol sáng tối, salbutamol chỉ khi khò khè thật. Không tự mua kháng sinh.",
+     "Nếu muốn thuốc giúp bớt lo, bác sĩ sẽ giải thích thuốc không gây nghiện, cần thử natri trước; chưa muốn thì không sao.",
+     "Quay lại ngay khi sốt, ho đờm mủ, khó thở, đau thắt ngực lan tay khi làm việc. Tái khám sau 2 tuần rồi mỗi 4 tuần (theo thiết kế của ca, không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau 12 tuần liệu pháp tâm lý có cấu trúc, ông Bảy không dùng thuốc chống lo âu (từ chối). Đau ngực hết từ tuần 7; đo SpO₂ còn 1–2 lần/ngày, salbutamol dưới 1 lần/tuần, làm ruộng đủ ngày. Hồi phục chậm hơn dự kiến, dao động hai lần khi nghe tin hàng xóm nhập viện vì viêm phổi, nhưng ông quay lại đúng hẹn thay vì tự mua kháng sinh.",
+ "nhieu": [
+  "Cơn đau thành ngực có thật sau khiêng bao lúa: dễ khiến bác sĩ dừng ở 'đau cơ' và bỏ qua nỗi lo, hoặc ngược lại làm cả buổi khám xoay quanh phổi và tim.",
+  "Hai đợt kháng sinh đã dùng (amoxicillin–clavulanat và azithromycin tự mua) và 'không khỏi': ông coi là thuốc yếu, trong khi thực tế không có nhiễm khuẩn.",
+  "Số SpO₂ 93–95% trên máy cá nhân khi ngón tay lạnh: số liệu nhiễu nuôi vòng lo lắng, không phải thiếu oxy thật (SpO₂ 97% đo ở phòng khám)."
+ ],
+ "bai_hoc_bien": [
+  "Người sợ hãi quá mức không dịu bằng 'không sao đâu'; chỉ dịu khi được nghe nỗi sợ, nhận từng con số bình thường, biết điều gì SẼ khiến bác sĩ lo và có mốc hẹn. Hỏi 'ông mong bác sĩ giúp gì tối nay' mới ra yêu cầu kháng sinh.",
+  "Ngoài giờ, không có xét nghiệm không phải lý do làm thêm hay kê kháng sinh: lâm sàng, ECG, PEF và các phiếu cũ đã đủ để quyết định tối nay.",
+  "Ở người cao tuổi có bệnh nền (hen) và cơn đau thật, dùng ngưỡng cao cho chẩn đoán lo âu bệnh tật, nhưng vẫn phải gọi tên khi mức lo và hành vi rõ ràng quá mức; phải loại trừ trầm cảm.",
+  "Đỡ một phần ở tuần 3: so sánh bằng con số trước khi nâng bậc; phục hồi chậm, có dao động là bình thường ở bệnh mạn tái diễn."
+ ],
+ "diem_nho": [
+  "ICD-11 6B23: sợ dai dẳng mắc bệnh nặng kèm kiểm tra cơ thể, tìm thông tin, tìm trấn an hoặc né tránh, gây đau khổ hoặc suy giảm chức năng (CDDR 2024 tr. 317); có bệnh nền hoặc chấn thương thật thì dùng ngưỡng cao (tr. 319); người cao tuổi cần loại trừ trầm cảm (tr. 319–321).",
+  "Salbutamol: đi khám nếu cần hơn 4–6 lần/24 giờ; dùng đều gây run, nhịp nhanh, nhờn thuốc (GINA 2026 Phụ lục B). Tránh chẹn beta ở người hen (GINA 2026 chương 3; QĐ 1851/2020 mục 3.2.4).",
+  "Benzodiazepin: tránh từ 65 tuổi (Beers 2023 Bảng 2); SSRI: theo dõi natri (Beers 2023 Bảng 4). Tài liệu đã tải không có khuyến cáo riêng cho điều trị lo âu bệnh tật: các mục thuốc và CBT ngoại suy, ghi rõ trong ca."
+ ],
+ "nguon": [
+  "WHO – Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders, 2024 – TL-0571 – mục 6B23 (tr. 317–321).",
+  "BYT – QĐ 2058/QĐ-BYT 2020 – TL-0443 – Bài 25 (mục 3, 4.1, 4.3, 5); Bài 22 (mục 3.1.1, 3.2, 4.1, 4.3); Bài 27 (mục 4.3).",
+  "WHO – mhGAP guideline 2023 – TL-0573 – ANX1, ANX2, ANX6 (viết cho lo âu lan tỏa, hoảng sợ; ngoại suy, đã ghi rõ).",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2 (benzodiazepin), Bảng 4 (SSRI, theo dõi natri).",
+  "ESC 2024 Guidelines for chronic coronary syndromes – TL-0304 – mục 3.1.1, 3.1.2.",
+  "AHA/ACC 2026 guideline for the evaluation and management of acute pulmonary embolism – TL-0045 – Bảng 3 (Wells).",
+  "BYT – QĐ 2147/QĐ-BYT 2026, viêm phổi mắc phải cộng đồng ở người lớn – TL-0121 – mục 3.1.1–3.1.4.",
+  "CHEST 2020 – Acute cough due to acute bronchitis in immunocompetent adult outpatients – TL-0151 – khuyến cáo 1, 3, 4.",
+  "GINA 2026 – TL-0137 – Box 2-2; chương 3 (Avoidance of medications that may make asthma worse); Phụ lục B (SABA, Indications và Adverse effects).",
+  "BYT – QĐ 1851/QĐ-BYT 2020, hen phế quản người lớn và trẻ ≥ 12 tuổi – TL-0127 – mục 3.2.4, 3.4.1, 3.5.2.",
+  "BYT – QĐ 361/QĐ-BYT 2014, bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID (nhóm nguy cơ cao) và Phụ lục thuốc giảm đau mục 3.1 (tr. 202).",
+  "Nguồn bổ sung tự tìm: Cooper K và cs. Cognitive Behaviour Therapy for Health Anxiety: a systematic review and meta-analysis. Behav Cogn Psychother 2017;45(2):110-123. PubMed 28229805, doi 10.1017/S1352465816000527.",
+  "Nguồn bổ sung tự tìm: Thomson AB, Page LA. Psychotherapies for hypochondriasis. Cochrane Database Syst Rev 2007;(4):CD006520. PubMed 17943915, doi 10.1002/14651858.CD006520.pub2.",
+  "Nguồn bổ sung tự tìm: Axelsson E, Hedman-Lagerlöf E. CBT for health anxiety: systematic review and meta-analysis of clinical efficacy and health economic outcomes. Expert Rev Pharmacoecon Outcomes Res 2019;19(6):663-676. PubMed 31859542, doi 10.1080/14737167.2019.1703182.",
+  "Không có trong tài liệu đã tải: khuyến cáo điều trị riêng cho lo âu bệnh tật (CBT, số buổi); bằng chứng SSRI riêng cho lo bệnh; sertralin 25 mg và tác dụng phụ; điều trị đau thành ngực do căng cơ; kỹ thuật trấn an; mốc thất bại điều trị lo bệnh."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-04 (bản 1). Đã đọc: TL-0571 mục 6B23; TL-0443 Bài 22, 25, 27; TL-0573 ANX1, ANX2, ANX6; TL-0022 Bảng 2, 4; TL-0304 mục 3.1; TL-0045 Bảng 3; TL-0121 mục 3.1; TL-0151 khuyến cáo 1–4; TL-0137 Box 2-2, chương 3, Phụ lục B; TL-0127 mục 3.2.4, 3.4.1, 3.5.2; TL-0286 hai phụ lục.",
+  "Biến sổ cái: khởi phát khiêng bao lúa; thuốc hít đang dùng (lạm dụng salbutamol do lo); lý do thật muốn kháng sinh (giấu); khoa_cls khóa xn, xquang, siêu âm.",
+  "Chọn của ca: phiếu X-quang ngày 5, CTM/CRP/ECG ngày 13; lượt 2 đỡ một phần định lượng, SSRI chấm a; mốc tái khám 3 và 2 tuần là lựa chọn của ca. Benzodiazepin theo sổ (TT-0177, TT-0161)."
+ ]
+}
