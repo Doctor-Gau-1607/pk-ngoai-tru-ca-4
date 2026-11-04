@@ -1,0 +1,526 @@
+{
+ "ma_ca": "TM-0122",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_viem_tai_giua_cap",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm tai giữa cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm xương chũm",
+   "Zona tai"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất",
+  "thuoc_dang_dung": "Thuốc ho long đờm",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Minh Châu",
+  "tuoi": 11,
+  "gioi": "Nữ",
+  "nghe": "Học sinh lớp 6",
+  "can_nang": 36,
+  "chieu_cao": 146,
+  "xung_ho": "Châu 11 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ'; nói nhỏ, ngắn, hay liếc sang mẹ trước khi trả lời. Mẹ (chị Hương, 39 tuổi) xưng 'tôi' hoặc 'mẹ cháu', gọi bác sĩ là 'bác sĩ'; bác sĩ gọi mẹ là 'chị'. Mẹ gọi Châu là 'con' hoặc 'con bé'.",
+  "tinh_cach": "Châu hiền, dễ ngại, sợ mẹ mắng nếu xin điều mẹ đã từ chối; đang lo bài kiểm tra giữa kỳ. Chị Hương nhanh nhảu, thương con, quen tự quyết thay con, tin rằng mình hiểu con nhất; hay giải thích triệu chứng của con theo cách chị đã tin sẵn.",
+  "kieu_nhieu": "Thân nhân trả lời thay: chị Hương trả lời trước, trả lời thay cả những câu bác sĩ hỏi thẳng Châu ('cháu không đau tai đâu bác sĩ, tôi hỏi rồi'), ngắt lời và diễn giải theo ý chị (hít hóa chất, căng thẳng thi cử). Châu chỉ gật hoặc nói 'dạ' khi mẹ ở bên. Châu chỉ nói được chi tiết thật (đau tai nhẹ khi nằm nghiêng, nghe kém, điều em mong muốn) khi bác sĩ hướng câu hỏi riêng cho Châu bằng câu cụ thể về giấc ngủ, nghe, nằm nghiêng bên nào, hoặc đề nghị nói riêng với Châu và chị Hương đồng ý ra ngoài.",
+  "nguoi_nha": "Mẹ đi cùng, kể hầu hết bệnh sử và quyết định việc dùng thuốc; Châu chỉ tự trả lời (nguoi_noi = benh_nhan) khi bác sĩ hỏi thẳng em câu cụ thể hoặc khi nói riêng; còn lại mẹ trả lời (nguoi_noi = nguoi_nha).",
+  "ten_nguoi_nha": "Mẹ (chị Hương)",
+  "ngoai_hinh": {
+   "da": "#f0c6a2",
+   "toc": "#1d1512",
+   "kieuToc": "dai",
+   "ao": "#d9e4ef",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#e3b08a",
+    "toc": "#2a1c16",
+    "kieuToc": "ngan",
+    "ao": "#b86a77",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mất ngủ 2 đêm, ù ù trong tai trái, sau khi hít hơi hóa chất tẩy rửa",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 11 tuổi, 36 kg, học sinh lớp 6, mẹ đưa đến vì hai đêm nay ngủ không được, hay kêu ù ù trong tai trái; 5 ngày trước bé phụ mẹ tẩy phòng tắm bằng nước tẩy rửa. Sinh hiệu: nhiệt 37,6 °C, mạch 88 l/p, nhịp thở 20 l/p, SpO₂ 99%. Bé ngồi sát mẹ, mẹ là người trả lời hầu hết các câu.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho Châu nhập viện truyền kháng sinh tĩnh mạch ngay là quá tay: em tỉnh, ăn uống được, chỉ sốt nhẹ 37,6 °C, chưa có biến chứng. NICE NG91 2018 (khuyến cáo 1.1.14) chỉ chuyển bệnh viện khi viêm tai giữa kèm nhiễm khuẩn toàn thân nặng hoặc biến chứng (viêm xương chũm, viêm màng não, liệt mặt...); WHO 2013 (mục 6.7.2) điều trị ngoại trú. Một đêm ở phòng bệnh lạ, Châu càng khó ngủ và vẫn không nói được điều em cần; mẹ phải nghỉ làm, em lỡ buổi ôn thi.",
+    "chuyen_tuyen": "Chuyển Châu lên chuyên khoa tai mũi họng ngay để chích rạch màng nhĩ chưa cần thiết: màng nhĩ chỉ phồng nhẹ, chưa thủng, không sốt cao, không nhức nửa đầu. Các chỉ định chích rạch của QĐ 5643 (mục 4.3.1, tr. 213) là toàn thân xấu, triệu chứng chức năng quá rõ, màng nhĩ căng phồng như mặt kính đồng hồ, kéo dài trên 4 ngày; Châu chưa có điều kiện nào, và AAP 2013 (Table 3, Table 5 chú thích b) xếp thủ thuật này là cần kỹ năng, có nguy cơ, dành cho thất bại điều trị. Gia đình mất cả buổi, tốn kém, rồi vẫn quay về với giảm đau và theo dõi."
+   },
+   "loi_mo": "Bác sĩ ơi, con bé nhà tôi hai đêm nay không ngủ được, cứ trằn trọc tới sáng. Chủ nhật vừa rồi nó phụ tôi tẩy phòng tắm, hít phải hơi nước tẩy, từ đó sổ mũi, ho, giờ lại kêu ù ù trong tai trái. Tôi nghĩ do hít hóa chất với lại sắp thi giữa kỳ nên nó căng thẳng. Bác sĩ khám phổi với cái đầu giùm tôi.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "Không đo",
+    "nhiet": "37,6",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ kể: hai đêm nay Châu trằn trọc, ngủ chập chờn, sáng dậy uể oải. Chủ nhật (5 ngày trước) Châu phụ mẹ tẩy mốc phòng tắm kín, mẹ quên bật quạt; sau đó Châu ho sặc, rát mũi họng, cay mắt. Mẹ cho rằng 'hít hóa chất' và 'căng thẳng thi cử' là nguyên nhân. Mẹ muốn bác sĩ khám phổi và đầu cho con.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám do mẹ kể; biểu hiện không điển hình (mất ngủ, không kêu đau tai)"
+    },
+    {
+     "id": "dau_tai",
+     "noi_dung": "Mẹ nói ngay: 'cháu không đau tai đâu bác sĩ, tôi hỏi rồi'. Hỏi thẳng Châu và hỏi theo chức năng: tối kia (khoảng 40 giờ trước) tai trái bắt đầu ù ù, nặng nặng như bị bịt; từ đó thỉnh thoảng đau âm ỉ nhẹ trong tai trái (khoảng 3/10), rõ nhất khi nằm nghiêng sang trái. Châu không gọi đó là đau, em nói 'hơi khó chịu thôi ạ'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau tai nhẹ, dưới 48 giờ (không nặng theo AAP 2013 KAS 3A)"
+    },
+    {
+     "id": "giac_ngu",
+     "noi_dung": "Hỏi theo chức năng: đêm kia Châu thức giấc 2 lần, đêm qua 3 lần vì tai trái ù và tức khi nằm nghiêng trái; phải xoay sang phải, thức tới khoảng 1 giờ sáng mới ngủ lại. Ban ngày vẫn đi học, ăn uống, nhai bình thường hai bên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất ngủ có nguyên nhân thực thể từ tai"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Hỏi nghe: tai trái nghe kém từ tối kia; cô giảng bên trái lớp phải quay đầu mới rõ, hơi ù. Không chóng mặt quay, không buồn nôn. Mẹ không để ý chuyện nghe vì Châu vẫn 'trả lời được'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghe kém, ù tai trái"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Tối qua mẹ đo nách 37,7 °C, sáng nay 37,5 °C; chưa cho thuốc hạ sốt hay giảm đau. Không rét run, ăn uống bình thường, không nôn, không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt nhẹ, không toàn thân nặng (dưới 39 °C)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chủ nhật Châu xịt nước tẩy mốc rồi cọ phòng tắm khoảng 15 phút trong phòng kín; ho sặc, rát mũi họng và cay mắt ngay lúc đó, rửa mặt bằng nước sạch thì mắt hết cay trong chiều hôm ấy. Hôm sau sổ mũi, nghẹt mũi, ho ít đờm; sổ mũi trong, nay nghẹt hai bên. Không khó thở, không khò khè, không đau ngực. Hóa chất không bắn vào tai và Châu không nhỏ gì vào tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: tiếp xúc hóa chất, rồi viêm mũi họng"
+    },
+    {
+     "id": "thuoc_ho",
+     "noi_dung": "Từ hôm sổ mũi mẹ mua siro ho long đờm ở nhà thuốc (chai ghi bromhexin), Châu uống 3 lần/ngày, nay vẫn uống; ho đỡ. Không dùng kháng sinh, không dùng thuốc nhỏ tai hay thuốc nhỏ mũi. Chưa cho thuốc giảm đau hay thuốc ngủ nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng (thuốc ho long đờm)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Châu chưa từng viêm tai giữa, chưa chảy mủ tai, không đặt ống tai, không ngáy to. Không dị ứng thuốc; không dùng kháng sinh trong 30 ngày qua. Tiêm chủng đủ theo chương trình. Không bơi, không ngoáy tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, dị ứng, kháng sinh 30 ngày (AAP 2013 KAS 4A)"
+    },
+    {
+     "id": "sau_tai",
+     "noi_dung": "Mẹ không thấy sưng, đỏ hay chảy nước sau tai; vành tai không bị đẩy ra; không chảy mủ hay nước ở tai. Châu không kêu đau khi mẹ chạm sau tai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viêm xương chũm, thủng màng nhĩ"
+    },
+    {
+     "id": "zona",
+     "noi_dung": "Không có mụn nước hay vảy ở vành tai, trong tai, quanh tai, mặt hoặc cổ; Châu không đau rát hay tê da quanh tai. Không méo miệng, không chóng mặt quay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ zona tai (mụn nước, tê da, liệt mặt)"
+    },
+    {
+     "id": "than_kinh",
+     "noi_dung": "Châu không nhức đầu dữ dội, không sợ ánh sáng, không cứng cổ, không nôn, không co giật, không lơ mơ, không nhìn đôi. Không chóng mặt quay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu biến chứng nội sọ (QĐ 5643 mục 5.2)"
+    },
+    {
+     "id": "theo_doi_duoc",
+     "noi_dung": "Nhà cách phòng khám khoảng 10 phút xe máy, mẹ có điện thoại, có thể nghe máy và nhắn tin bất cứ lúc nào, ngày mai và ngày kia mẹ ở nhà với con.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Theo dõi chờ khả thi trong 72 giờ (AAP 2013 Table 4 chú thích b; Italian 2025 khuyến cáo 1.5)"
+    },
+    {
+     "id": "thi_cu",
+     "noi_dung": "Châu có bài kiểm tra giữa kỳ vào thứ Sáu (3 ngày nữa), có hơi lo nhưng ăn học bình thường. Mẹ nghĩ 'nó lo thi nên mất ngủ'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: giải thích mất ngủ do căng thẳng thi cử của mẹ"
+    },
+    {
+     "id": "thuoc_ngu_that",
+     "noi_dung": "Khi nói riêng với Châu: em muốn bác sĩ cho thuốc ngủ để tối nay ngủ được, sáng thứ Sáu thi không buồn ngủ. Một bạn trong lớp bảo 'uống thuốc ngủ là ngủ ngon liền'. Hôm trước em đã xin mẹ, mẹ gạt đi ('trẻ con đòi thuốc ngủ làm gì') nên em không dám nói nữa, chỉ gật đầu theo mẹ. Em không biết tai trái mới là nguyên nhân khiến mình khó ngủ, nghe bác sĩ giải thích thì em đồng ý dùng thuốc giảm đau.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Châu không tự kể và chỉ nói khi bác sĩ hỏi riêng em điều em mong muốn hôm nay hoặc đề nghị nói riêng với em (mẹ ra ngoài); khi chỉ hỏi chung chung với mẹ ngồi bên thì em chỉ gật đầu theo mẹ.",
+     "k": 1,
+     "y": "Lý do thật đến khám (muốn được cho thuốc ngủ)"
+    },
+    {
+     "id": "me_ngat",
+     "noi_dung": "Mẹ ngắt lời, trả lời thay Châu nhiều lần: 'nó không đau, nó chỉ mất ngủ'; 'chắc do hóa chất, bác sĩ nghe phổi kỹ giùm tôi'. Khi bác sĩ giải thích lý do cần hỏi riêng Châu, mẹ đồng ý ngồi ngoài vài phút.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: thân nhân trả lời thay, tách bệnh nhân để hỏi riêng"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Tai phải: ống tai sạch, màng nhĩ xám hồng bình thường, thấy tam giác sáng. Tai trái: vành tai, nắp tai, ống tai không có mụn nước, vảy hay phù nề, không mủ; chạm nhẹ da vùng này cảm giác hai bên như nhau. Màng nhĩ đỏ hồng lan tỏa, phồng nhẹ ở phần sau trên, mờ mốc cán búa, mất tam giác sáng, kém di động khi bơm hơi; chưa thủng. Ấn bình tai và kéo vành tai không đau. Rãnh sau tai nguyên vẹn, vành tai không bị đẩy ra trước; ấn xương chũm trái chỉ hơi tức. Weber lệch về tai trái, Rinne âm tính bên trái: nghe kém dẫn truyền. Mũi: niêm mạc phù, ít dịch trong. Họng đỏ nhẹ, amidan không to.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, hơi mệt vì thiếu ngủ, quầng thâm nhẹ dưới mắt. Niêm mạc hồng, ẩm, không mất nước, không vẻ nhiễm trùng nặng. Châu ngồi sát mẹ, trả lời nhỏ; khi mẹ nói thay thì em im lặng, thỉnh thoảng đưa tay lên áp tai trái.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, tiếp xúc tốt. Cổ mềm, Kernig và Brudzinski âm tính. Không sợ ánh sáng. Mặt cân đối, nhắm mắt kín, nhăn trán hai bên, không liệt dây VII. Không rung giật nhãn cầu, đi thẳng hàng vững.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm trái nhỏ, di động, không đau; không có hạch sau tai. Không sưng vùng chũm hay mang tai.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Kết mạc không đỏ, không chảy nước mắt, giác mạc trong khi soi bằng đèn; đồng tử đều, phản xạ ánh sáng tốt. Không dấu tổn thương mắt do hóa chất.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "Tim đều, T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Không co lõm lồng ngực. Rì rào phế nang rõ hai bên, không ran, không rít.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p. Không co lõm lồng ngực.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Không ban, không mụn nước, không vảy ở mặt, cổ, quanh tai hai bên.",
+     "k": 0
+    },
+    "nghe_thi_tham": {
+     "a": "Tai phải lặp lại đúng lời thì thầm. Tai trái lặp lại sai một số từ, nghe rõ hơn khi nói gần.",
+     "k": 0
+    },
+    "rang_ham_mat": {
+     "a": "Răng không sâu, gõ không đau; khớp thái dương hàm không đau, há miệng đủ rộng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "r": "BC 8,2 G/L · Neutrophil 55% · Hb 128 g/L · TC 275 G/L",
+     "bang": {
+      "wbc": 8.2,
+      "neu_pct": 55.0,
+      "neu": 4.51,
+      "lym_pct": 36.0,
+      "lym": 2.95,
+      "mono_pct": 6.5,
+      "mono": 0.53,
+      "eos_pct": 2.0,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.6,
+      "hgb": 128,
+      "hct": 0.38,
+      "mcv": 82.0,
+      "mch": 27.8,
+      "mchc": 334,
+      "rdw": 13.0,
+      "plt": 275
+     },
+     "n": "Không cần: chẩn đoán dựa vào soi tai, xét nghiệm máu chỉ khi nghi biến chứng (AWaRe 2022, mục 5 Viêm tai giữa cấp, tr. 38–39: xét nghiệm khác không cần trừ khi nghi biến chứng)."
+    },
+    "crp": {
+     "r": "5 mg/L",
+     "bang": {
+      "crp": 5
+     },
+     "n": "Không cần (như công thức máu); ngưỡng CRP để quyết định kháng sinh trong viêm tai giữa: không có trong tài liệu đã tải."
+    },
+    "flu": {
+     "v": "a",
+     "r": "Âm tính cúm A/B và SARS-CoV-2.",
+     "n": "Chấp nhận, không bắt buộc: không đổi xử trí viêm tai giữa (AWaRe 2022 mục 5, tr. 38–39: xét nghiệm vi sinh không cần trừ khi nghi biến chứng)."
+    },
+    "nhi_luong": {
+     "v": "a",
+     "r": "Tai trái: đường cong phẳng, không có đỉnh (có dịch trong hòm nhĩ). Tai phải: bình thường.",
+     "n": "Chấp nhận, không bắt buộc: AAP 2013 KAS 1C nêu nhĩ lượng đồ là một cách xác nhận dịch tai giữa, soi tai bơm hơi đã đủ trong ca này."
+    },
+    "thinh_luc_do": {
+     "v": "a",
+     "r": "Tai trái giảm nghe dẫn truyền nhẹ (khoảng 20–25 dB), tai phải bình thường.",
+     "n": "Không cần lúc này: Weber lệch trái, Rinne âm tính đã xác định nghe kém dẫn truyền (QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 211). Thời điểm cần đo sau khi khỏi: không có trong tài liệu đã tải."
+    },
+    "xq_schuller": {
+     "v": "a",
+     "r": "Thông bào xương chũm hai bên sáng, vách ngăn rõ, không hủy xương.",
+     "n": "Không chụp thường quy: AWaRe 2022 mục 5 (tr. 38–39) hình ảnh không cần trừ khi nghi biến chứng. QĐ 5643 Viêm tai giữa cấp mục 4.3.3 (tr. 214) nên chụp X-quang xương chũm khi đang dùng kháng sinh; chụp thì chấp nhận."
+    },
+    "tzanck": {
+     "n": "Không có mụn nước nên không cần soi tế bào để tìm zona hay herpes."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai trái, mức nhẹ–vừa (khởi phát khoảng 40 giờ, đau nhẹ, sốt dưới 39 °C), màng nhĩ chưa thủng, nghe kém dẫn truyền, sau viêm mũi họng; biểu hiện không điển hình: không kêu đau tai, chỉ ù tai, đầy tai và mất ngủ",
+     "ok": 1,
+     "n": "Khởi phát cấp, màng nhĩ phồng nhẹ kèm đau tai dưới 48 giờ và đỏ, có dịch tai giữa: đủ chẩn đoán (AAP 2013 KAS 1A–1C, tr. e965). Ù tai, cảm giác đầy tai, nghe kém dẫn truyền (Weber lệch bên bệnh, Rinne âm tính) là triệu chứng của viêm tai giữa (QĐ 5643 Viêm tai giữa cấp trẻ em mục 3.1.1, tr. 211); đau làm bệnh nhân không ngủ được (mục 3.1.1, tr. 210). Nguyên nhân chính là viêm vòm mũi họng lan lên tai qua vòi Eustache (mục 2, tr. 210). Không nặng: đau chưa 48 giờ, sốt dưới 39 °C, không toàn thân nặng (AAP 2013 KAS 3A); thang Italian Consensus 2025 (Table 1) tổng 1 điểm, dưới ngưỡng nặng 4. Hít hóa chất là yếu tố khởi phát theo lời kể; mối liên quan nhân quả với viêm tai giữa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm xương chũm cấp",
+     "n": "Chưa nghĩ: viêm xương chũm luôn kèm viêm tai giữa cấp, biểu hiện sưng nề viêm tấy đỏ sau tai, đẩy vành tai ra trước, dấu phập phều (QĐ 5643 Viêm xương chũm cấp tính trẻ em mục 1, 3.1.1, tr. 195); WHO 2013 mục 6.7.1 (tr. 182): sốt cao, sưng đau sau tai. Châu rãnh sau tai nguyên vẹn, vành tai không bị đẩy ra; ấn xương chũm chỉ hơi tức là phản ứng xương chũm, không đáng ngại (QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 211).."
+    },
+    {
+     "t": "Zona tai (hội chứng Ramsay-Hunt)",
+     "n": "Loại trừ: zona gây đau tai, chảy tai, điếc nhưng có mụn nước ở nắp tai, vành tai, thành sau ống tai và màng nhĩ kèm giảm cảm giác da vùng Ramsay-Hunt (QĐ 5643 Viêm tai giữa cấp mục 3.2, tr. 212). Châu không có mụn nước hay vảy ở các vị trí này, cảm giác da hai bên như nhau, mặt cân đối; zona hạch gối là một nguyên nhân liệt mặt (QĐ 5643 Liệt dây thần kinh VII ngoại biên, Bảng 1) nhưng ở Châu không có liệt mặt, không chóng mặt. Màng nhĩ phồng, kém di động, Rinne âm tính phù hợp viêm tai giữa."
+    },
+    {
+     "t": "Viêm ống tai ngoài, tổn thương ống tai do hóa chất",
+     "n": "Ống tai không phù nề, không mủ, thấy rõ màng nhĩ; ấn bình tai và kéo vành tai không đau (QĐ 5643 Viêm tai giữa cấp mục 3.2, tr. 212). Hóa chất không bắn vào tai, không bơi, không ngoáy tai."
+    },
+    {
+     "t": "Viêm tai giữa ứ dịch (không phải viêm cấp)",
+     "n": "Có khởi phát cấp (ù tai, đau nhẹ trong 40 giờ), sốt nhẹ và màng nhĩ đỏ, phồng nhẹ: có dấu viêm cấp (AAP 2013 KAS 1A–1C). Ứ dịch đơn thuần không có đau, sốt hay màng nhĩ đỏ, phồng; nhĩ lượng đồ chỉ xác nhận có dịch, không phân biệt được hai thể."
+    },
+    {
+     "t": "Mất ngủ do căng thẳng thi cử (cách giải thích của mẹ)",
+     "n": "Không giải thích được ù tai, nghe kém dẫn truyền và màng nhĩ đỏ phồng; mất ngủ xuất hiện sau khởi phát triệu chứng tai và nặng khi nằm nghiêng bên tai bệnh. Chẩn đoán và điều trị mất ngủ ở trẻ em: không có trong tài liệu đã tải (ESRS 2023 chỉ áp dụng cho người lớn trên 18 tuổi, phần Phương pháp)."
+    },
+    {
+     "t": "Tổn thương hô hấp do hít hơi hóa chất tẩy rửa",
+     "n": "Tiếp xúc khoảng 15 phút trong phòng kín, có ho sặc và rát mũi họng lúc đó; nay SpO₂ 99%, nhịp thở 20 l/p, không co lõm, phổi không ran, không rít. Tài liệu đã tải không có mục về hít hơi hóa chất tẩy rửa: loại trừ bằng lâm sàng và dặn quay lại ngay nếu thở nhanh hoặc khó thở (WHO 2013 mục 4.4, tr. 91)."
+    },
+    {
+     "t": "Biến chứng nội sọ, viêm màng não",
+     "n": "Không nhức đầu dữ dội, không nôn, tỉnh, cổ mềm, Kernig và Brudzinski âm tính, không liệt dây VII (QĐ 5643 Viêm tai giữa cấp mục 5.2, tr. 214; WHO 2013 mục 6.3.1, tr. 167)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giảm đau đều đặn, kể cả một liều trước khi ngủ: paracetamol 500 mg mỗi 6 giờ khi đau hoặc sốt (36 kg: 10–15 mg/kg = 360–540 mg), hoặc ibuprofen 200–400 mg mỗi 6–8 giờ; dùng một thuốc",
+     "v": "c",
+     "n": "Đánh giá và điều trị đau là một phần của xử trí (AAP 2013 KAS 2, khuyến cáo mạnh); NICE NG91 2018 khuyến cáo 1.1.4: paracetamol hoặc ibuprofen đều đặn đúng liều theo cân nặng. Từ 30 kg: paracetamol 500 mg–1 g mỗi 4–6 giờ (tối đa 4 g/ngày), ibuprofen 200–400 mg mỗi 6–8 giờ (tối đa 2,4 g/ngày); theo cân nặng 10–15 mg/kg mỗi 6 giờ (AWaRe 2022 mục 5, tr. 39). Phối hợp hai thuốc không hiệu quả hơn paracetamol đơn (NICE NG91 2018, tóm tắt bằng chứng, tr. 12)."
+    },
+    {
+     "t": "Chọn một trong hai cách cho ca không nặng, theo dõi được, cùng quyết định với mẹ: (A) theo dõi chờ 48–72 giờ chỉ giảm đau, không kê kháng sinh ngay, hẹn gọi hoặc tái khám sau 48–72 giờ và dùng kháng sinh nếu không đỡ hoặc nặng lên; (B) kê amoxicillin ngay",
+     "v": "c",
+     "n": "Hai cách cùng đúng ở ca không nặng. AAP 2013 KAS 3D (tr. e965), Table 4 (tr. e976): trẻ ≥ 24 tháng không nặng, kê kháng sinh hoặc theo dõi chờ theo quyết định chung với gia đình, có cơ chế dùng kháng sinh nếu nặng lên hoặc không đỡ sau 48–72 giờ. Italian Consensus 2025 khuyến cáo 1.4–1.5 và 2.2: trẻ > 24 tháng và vị thành niên, theo dõi chờ nếu tái khám được trong 72 giờ (mạnh). NICE NG91 2018 khuyến cáo 1.1.8: cân nhắc không kê hoặc kê dự phòng. AWaRe 2022 mục 5 (tr. 39): đa số ca không nặng điều trị triệu chứng, nhất là trẻ > 2 tuổi. QĐ 5643 Viêm tai giữa cấp mục 4.1, 4.3.3 (tr. 212, 214) kê kháng sinh phổ rộng cho mọi ca, không phân tầng độ nặng và không ghi liều. Khác nhau do năm ban hành và phân tầng độ nặng; không nguồn nào nói kháng sinh ngay có hại ở ca này."
+    },
+    {
+     "t": "Theo dõi chờ kèm đơn kháng sinh dự phòng đưa sẵn cho mẹ, dùng nếu sau 3 ngày chưa đỡ hoặc nặng lên nhanh",
+     "v": "a",
+     "n": "NICE NG91 2018 khuyến cáo 1.1.8, 1.1.10: đơn dự phòng dùng nếu triệu chứng không bắt đầu đỡ sau 3 ngày hoặc nặng nhanh. Chấp nhận; ca này theo dõi được nên hẹn gọi lại là đủ (AAP 2013 KAS 3D)."
+    },
+    {
+     "t": "Mời mẹ ra ngoài vài phút hoặc hỏi riêng Châu, tìm điều em thật sự mong muốn hôm nay và các triệu chứng em giấu; giải thích mất ngủ là do tai",
+     "v": "c",
+     "n": "Kỹ năng giao tiếp (tách người bệnh khỏi người nhà trả lời thay), không cần nguồn. Mất ngủ do đau, ù tai: QĐ 5643 Viêm tai giữa cấp mục 3.1.1 (tr. 210–211)."
+    },
+    {
+     "t": "Giải thích với mẹ: bệnh là viêm tai giữa thường do viêm mũi họng lan lên tai; hít hóa chất chỉ là yếu tố khởi phát theo lời kể; mất ngủ do tai chứ không do bệnh phổi; chưa cần thuốc ngủ",
+     "v": "c",
+     "n": "Nguyên nhân chính là viêm vòm mũi họng lan qua vòi Eustache (QĐ 5643 Viêm tai giữa cấp mục 2, tr. 210). Vai trò của hóa chất tẩy rửa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng siro ho long đờm; không dùng thuốc ho hay thuốc nhỏ mũi cho cảm lạnh",
+     "v": "c",
+     "n": "WHO 2013 mục 4.4 (tr. 90–91): ho, cảm lạnh là bệnh tự khỏi, không dùng thuốc long đờm (mucolytic) hay thuốc nhỏ mũi có thuốc. Hiệu quả riêng của bromhexin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn mẹ theo dõi: đưa lại ngay khi sưng đỏ hay đau sau tai, vành tai bị đẩy ra trước, nhức đầu dữ dội, cứng cổ, nôn nhiều, li bì, co giật, méo miệng, chảy mủ tai kèm sốt cao, thở nhanh hay khó thở; gọi lại hoặc tái khám sau 48–72 giờ nếu chưa đỡ",
+     "v": "c",
+     "n": "NICE NG91 2018 khuyến cáo 1.1.9, 1.1.10, 1.1.12 (tr. 7–8); AAP 2013 KAS 4C: đánh giá lại nếu nặng lên hoặc không đáp ứng trong 48–72 giờ. Dấu sưng sau tai: WHO 2013 mục 6.7.1 (tr. 182); dấu màng não: WHO 2013 mục 6.3.1 (tr. 167); chuyển bệnh viện khi biến chứng (NICE NG91 2018 khuyến cáo 1.1.14); thở nhanh, khó thở: WHO 2013 mục 4.4 (tr. 91)."
+    },
+    {
+     "t": "Kê thuốc ngủ hoặc thuốc an thần theo yêu cầu của Châu",
+     "v": "w",
+     "n": "Châu khó ngủ vì ù tai và đau nhẹ khi nằm nghiêng; điều trị đúng là giảm đau đều đặn và xử trí bệnh tai (AAP 2013 KAS 2). Tài liệu đã tải không có khuyến cáo dùng thuốc ngủ hay an thần cho trẻ em (ESRS 2023 chỉ áp dụng người lớn trên 18 tuổi, phần Phương pháp); chấm w theo phán đoán thận trọng của người biên soạn, không phải câu cấm của một nguồn."
+    },
+    {
+     "t": "Cho thuốc co mạch hoặc kháng histamin 'để thông vòi tai'",
+     "v": "w",
+     "n": "NICE NG91 2018 khuyến cáo 1.1.6: thuốc co mạch và kháng histamin không giúp triệu chứng; tóm tắt bằng chứng (tr. 13): thuốc co mạch làm tăng tác dụng phụ."
+    },
+    {
+     "t": "Không kê kháng sinh và cũng không hẹn theo dõi hay dặn dấu hiệu quay lại",
+     "v": "w",
+     "n": "Theo dõi chờ chỉ an toàn khi có cơ chế theo dõi để dùng kháng sinh nếu nặng lên hoặc không đỡ sau 48–72 giờ (AAP 2013 KAS 3D; Italian Consensus 2025 khuyến cáo 1.5; NICE NG91 2018 khuyến cáo 1.1.9)."
+    },
+    {
+     "t": "Nhập viện truyền kháng sinh tĩnh mạch ngay",
+     "v": "w",
+     "n": "Chỉ chuyển bệnh viện khi nhiễm khuẩn toàn thân nặng hoặc có biến chứng (NICE NG91 2018 khuyến cáo 1.1.14, tr. 8); Châu uống được, chưa biến chứng. Điều trị ngoại trú (WHO 2013 mục 6.7.2, tr. 183)."
+    },
+    {
+     "t": "Nhỏ tai thuốc gây tê giảm đau (phenazone–lidocain) nếu không kê kháng sinh ngay",
+     "v": "a",
+     "n": "NICE NG91 2018 khuyến cáo 1.1.5 và Table 1: cân nhắc khi không kê kháng sinh uống ngay, màng nhĩ chưa thủng; tên thương phẩm có ở Việt Nam: không có trong tài liệu đã tải. Chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Chích rạch màng nhĩ ngay tại phòng khám",
+     "v": "a",
+     "n": "QĐ 5643 Viêm tai giữa cấp mục 4.3.1 (tr. 213) có chỉ định chích rạch khi toàn thân xấu, triệu chứng chức năng quá rõ, màng nhĩ căng phồng, trên 4 ngày; Châu chưa có. AAP 2013 Table 3 ghi thủ thuật cần kỹ năng, có nguy cơ; Table 5 chú thích b chỉ khi thất bại điều trị. Chấp nhận, không bắt buộc."
+    },
+    {
+     "t": "Corticoid toàn thân",
+     "v": "a",
+     "n": "QĐ 5643 Viêm tai giữa cấp mục 4.3.3 (tr. 214) nêu thuốc kháng viêm corticoid, không ghi liều; NICE NG91 2018 (tr. 15–16) không đưa khuyến cáo corticoid uống vì chưa đủ bằng chứng. Không bắt buộc."
+    },
+    {
+     "t": "Dặn Châu xì mũi thật mạnh, bịt cả hai lỗ mũi để 'thông tai'",
+     "v": "h",
+     "n": "QĐ 5643 Viêm tai giữa cấp mục 6 (tr. 214): tuyệt đối không xì mũi bằng cách bịt cả hai lỗ mũi cùng một lúc; phải bịt một bên, để hở bên kia."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai trái, mức nhẹ–vừa (khởi phát khoảng 40 giờ, đau nhẹ, sốt 37,6 °C), màng nhĩ chưa thủng",
+     "Nguyên nhân: viêm mũi họng sau tiếp xúc hơi hóa chất tẩy rửa; bệnh nhân khỏe mạnh, 11 tuổi, 36 kg, chưa dùng kháng sinh trong 30 ngày",
+     "Biểu hiện không điển hình: Châu không kêu đau tai; lý do đến là mất ngủ và ù ù trong tai trái, nghe kém dẫn truyền (Weber lệch trái, Rinne âm tính)",
+     "Chưa có biến chứng: không viêm xương chũm, không dấu màng não, không liệt dây VII; không phải zona tai",
+     "Yếu tố nhiễu: mẹ trả lời thay và giải thích mất ngủ do hóa chất, căng thẳng thi cử; đang dùng siro ho long đờm tự mua (ngưng)",
+     "Lý do thật khiến Châu đến khám: muốn được cho thuốc ngủ để thi giữa kỳ; điều Châu cần thật sự là giảm đau, chữa tai"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự nên làm: (1) Hỏi bệnh: tách riêng Châu, hỏi theo chức năng (thức giấc mấy lần, nằm nghiêng bên nào, nghe cô giảng, sốt), thời gian khởi phát, tiếp xúc hóa chất và đường vào của hóa chất, thuốc đang dùng, dị ứng, kháng sinh 30 ngày qua, khả năng theo dõi tại nhà. (2) Khám: soi tai hai bên có bơm hơi, vùng sau tai, xương chũm, da quanh tai (mụn nước), dây VII, dấu màng não, phổi và SpO₂. (3) Cận lâm sàng: không bắt buộc. (4) Chẩn đoán, loại trừ biến chứng và zona. (5) Xử trí, dặn dò (AAP 2013 KAS 1A–1C, 2, 3A–3D, 4A–4C).",
+     "Vì sao là viêm tai giữa cấp: chẩn đoán dựa vào khởi phát cấp, màng nhĩ phồng (nhẹ kèm đau tai dưới 48 giờ hoặc đỏ rực) và có dịch tai giữa (AAP 2013 KAS 1A–1C). Châu có màng nhĩ trái đỏ, phồng nhẹ, mất mốc, kém di động, nghe kém dẫn truyền, ù tai, sốt nhẹ. Không điển hình ở chỗ em không kêu đau tai mà đến vì mất ngủ; QĐ 5643 mô tả đau làm bệnh nhân không ngủ được (Viêm tai giữa cấp trẻ em mục 3.1.1, tr. 210) và ù tai, cảm giác đầy tai là triệu chứng phụ (tr. 211). Bài học: trẻ lớn mất ngủ kèm ù tai hay nghe kém sau sổ mũi thì phải soi tai. AAP 2013 áp cho trẻ khỏe 6 tháng–12 tuổi (tr. e966): Châu 11 tuổi nên áp dụng được.",
+     "Vì sao là mức nhẹ–vừa: AAP 2013 KAS 3A xếp nặng khi đau tai vừa hoặc nặng, đau từ 48 giờ trở lên hoặc sốt từ 39 °C; Table 4 chú thích b thêm: vẻ nhiễm độc hoặc không chắc theo dõi được. Châu đau nhẹ khoảng 40 giờ, sốt 37,6 °C, nhà gần và theo dõi được. Theo Italian Consensus 2025 (Table 1) tổng 1 điểm (phồng nhẹ 1), dưới ngưỡng nặng 4 điểm.",
+     "Vì sao loại trừ viêm xương chũm: sưng nề, đỏ sau tai, đẩy vành tai ra trước, dấu phập phều (QĐ 5643 Viêm xương chũm cấp tính trẻ em mục 3.1.1, tr. 195; WHO 2013 mục 6.7.1, tr. 182). Châu không có; ấn xương chũm hơi tức là phản ứng xương chũm, không đáng ngại (QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 211). Cơ sở không có siêu âm nên CT và nội soi bị khóa; hình ảnh không cần khi chưa nghi biến chứng (AWaRe 2022 mục 5, tr. 38–39).",
+     "Vì sao loại trừ zona tai: zona cũng gây đau tai, điếc nhưng có mụn nước ở nắp tai, vành tai, thành sau ống tai, màng nhĩ kèm giảm cảm giác da vùng Ramsay-Hunt (QĐ 5643 Viêm tai giữa cấp mục 3.2, tr. 212). Phải nhìn kỹ da vành tai và ống tai, hỏi tê rát; Châu không có và không liệt mặt (zona hạch gối là một nguyên nhân liệt mặt: QĐ 5643 Liệt dây thần kinh VII ngoại biên, Bảng 1). Điều trị zona tai: không có trong tài liệu đã tải đoạn riêng.",
+     "Vì sao không có biến chứng nội sọ: viêm tai giữa có thể gây liệt mặt, viêm màng não, áp xe não (QĐ 5643 mục 5.2, tr. 214); Châu tỉnh, cổ mềm, Kernig và Brudzinski âm tính (WHO 2013 mục 6.3.1, tr. 167).",
+     "Vì sao phải hỏi riêng Châu: mẹ phủ nhận đau, gán mất ngủ cho hóa chất và thi cử; em chỉ gật đầu theo mẹ. Chỉ khi hỏi riêng bằng câu chức năng và hỏi điều em mong muốn mới biết em khó ngủ vì tai trái ù, tức khi nằm nghiêng, và muốn xin thuốc ngủ. Nếu chỉ nghe mẹ, có thể nghe phổi, kê thuốc ho rồi cho về, bỏ sót viêm tai giữa. Hít hơi hóa chất: phổi sạch, SpO₂ 99%, không khó thở; mục về hít hóa chất tẩy rửa không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh ngay hay theo dõi chờ: ca không nặng, trẻ ≥ 24 tháng, theo dõi được. AAP 2013 KAS 3D (Table 4): kê kháng sinh hoặc theo dõi chờ dựa trên quyết định chung với gia đình, có cơ chế theo dõi để bắt đầu kháng sinh nếu nặng lên hoặc không đỡ trong 48–72 giờ. Italian Consensus 2025 khuyến cáo 1.4–1.5, 2.2: theo dõi chờ (mạnh) nếu tái khám được trong 72 giờ. NICE NG91 2018 khuyến cáo 1.1.8: cân nhắc không kê hoặc kê dự phòng; AWaRe 2022 mục 5 (tr. 39): đa số ca không nặng chỉ cần điều trị triệu chứng. Ngược lại QĐ 5643 mục 4.1, 4.3.3 kê kháng sinh phổ rộng phối hợp kháng viêm cho mọi ca. Khác nhau vì năm ban hành, phân tầng độ nặng và nguồn lực; không nguồn nào nói cách nào gây hại ở ca này, nên cả hai đều đúng.",
+     "Giảm đau là điều trị bắt buộc: AAP 2013 KAS 2 (mạnh), NICE NG91 2018 khuyến cáo 1.1.4 (đều đặn, đúng liều). Từ 30 kg: paracetamol 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày, hoặc ibuprofen 200–400 mg mỗi 6–8 giờ, tối đa 2,4 g/ngày (AWaRe 2022 tr. 39); theo cân nặng paracetamol 10–15 mg/kg mỗi 6 giờ. Châu 36 kg nên 500 mg mỗi 6 giờ (13,9 mg/kg), uống một liều trước khi ngủ; dùng một thuốc là đủ (NICE NG91 2018, tr. 12). Thuốc nhỏ tai gây tê: chấp nhận khi không kê kháng sinh ngay (NICE NG91 2018 khuyến cáo 1.1.5).",
+     "Nếu kê kháng sinh (ngay hoặc sau theo dõi): amoxicillin là lựa chọn đầu (AAP 2013 KAS 4A; Italian Consensus 2025 khuyến cáo 3.1). Liều: 80–90 mg/kg/ngày (AAP 2013 Table 5; Italian 2025 khuyến cáo 3.2; AWaRe 2022 tr. 39; WHO 2013 mục 6.7.2: 40 mg/kg × 2 lần/ngày). Châu 36 kg: 2.880–3.240 mg/ngày; chia 3 lần ≈ 1.000 mg/lần (Italian 2025 khuyến cáo 3.3, cho phép 2 lần để dễ tuân thủ) hoặc chia 2 lần ≈ 1.500 mg/lần (AAP 2013 Table 5). Liều thấp hơn và thận trọng hơn: 500 mg × 3 lần/ngày (NICE NG91 2018 Table 1, 5–17 tuổi) hoặc 500 mg mỗi 8 giờ hay 1 g mỗi 12 giờ (AWaRe 2022, ≥ 20 kg). Liều tối đa mỗi ngày cho trẻ lớn và cách làm tròn: không có trong tài liệu đã tải. Thời gian: ca không nặng, ≥ 6 tuổi: 5 ngày (Italian 2025 khuyến cáo 4.2, sau theo dõi chờ; AWaRe 2022) hoặc 5–7 ngày (NICE NG91 2018; AAP 2013 tr. e985 cho trẻ ≥ 6 tuổi nhẹ–vừa); WHO 2013: ít nhất 5 ngày.",
+     "Không cho thuốc ngủ: mất ngủ ở Châu do ù tai và đau nhẹ khi nằm nghiêng nên điều trị đúng là giảm đau đều đặn và xử trí bệnh tai (AAP 2013 KAS 2); tài liệu đã tải không có khuyến cáo thuốc ngủ cho trẻ em (ESRS 2023 chỉ áp dụng người lớn). Giải thích để Châu hiểu thuốc giảm đau trước khi ngủ sẽ giúp ngủ và em không cần thuốc ngủ.",
+     "Ngưng siro ho long đờm: ho cảm lạnh không dùng long đờm hay thuốc nhỏ mũi (WHO 2013 mục 4.4, tr. 90–91); thuốc co mạch, kháng histamin không giúp viêm tai (NICE NG91 2018 khuyến cáo 1.1.6). Hiệu quả riêng của bromhexin: không có trong tài liệu đã tải.",
+     "Chích rạch (QĐ 5643 mục 4.3.1, tr. 213; AAP 2013 Table 3, 5) và corticoid toàn thân (QĐ 5643 mục 4.3.3; NICE NG91 2018 không đủ bằng chứng) không bắt buộc, chấp nhận. X-quang xương chũm: QĐ 5643 mục 4.3.3 (tr. 214) khuyên chụp khi dùng kháng sinh, AWaRe 2022 mục 5 (tr. 38–39) không cần nếu chưa nghi biến chứng; không chụp thường quy là đúng, chụp thì chấp nhận.",
+     "Tái khám và chuyển tuyến: gọi hoặc tái khám sau 48–72 giờ nếu chưa đỡ, sớm hơn nếu nặng lên (AAP 2013 KAS 4C; NICE NG91 2018 khuyến cáo 1.1.9, 1.1.10); đưa ngay khi sưng đỏ sau tai, vành tai bị đẩy ra trước (WHO 2013 mục 6.7.1; QĐ 5643 Viêm xương chũm mục 3.1.1, tr. 195), dấu màng não (WHO 2013 mục 6.3.1); biến chứng cần chuyển bệnh viện (NICE NG91 2018 khuyến cáo 1.1.14). Không có lịch khám lại thường quy bắt buộc sau khi khỏi (AAP 2013, tr. e984–e985)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần (≈ 13,9 mg/kg; cho phép 10–15 mg/kg = 360–540 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau hoặc sốt, các lần cách nhau ít nhất 6 giờ; nên uống một liều trước khi ngủ",
+      "so_ngay": "Những ngày còn đau hoặc ù tai, thường 2–3 ngày",
+      "ghi_chu": "AAP 2013 KAS 2; AWaRe 2022 mục 5 (tr. 39): từ 30 kg 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày; NICE NG91 2018 khuyến cáo 1.1.4: dùng đều đặn đúng liều. Có thể thay bằng ibuprofen 200–400 mg mỗi 6–8 giờ, tối đa 2,4 g/ngày (AWaRe 2022); không dùng cùng lúc hai thuốc vì không hiệu quả hơn (NICE NG91 2018, tr. 12)."
+     },
+     {
+      "thuoc": "Amoxicillin (chỉ khi chọn kháng sinh ngay, hoặc khi theo dõi 48–72 giờ chưa đỡ/nặng lên; có thể đưa đơn dự phòng sẵn)",
+      "ham_luong": "Viên 500 mg hoặc gói/siro theo dạng sẵn có",
+      "lieu": "80–90 mg/kg/ngày: 2.880–3.240 mg/ngày, chia 3 lần ≈ 1.000 mg/lần (Italian 2025 khuyến cáo 3.3) hoặc chia 2 lần ≈ 1.500 mg/lần (AAP 2013 Table 5). Liều thấp hơn, thận trọng hơn: 500 mg × 3 lần/ngày (NICE NG91 2018) hoặc 1 g × 2 lần/ngày (AWaRe 2022)",
+      "duong": "Uống",
+      "thoi_diem": "Cách đều giờ, uống trong bữa ăn",
+      "so_ngay": "5 ngày (Italian 2025 khuyến cáo 4.2; AWaRe 2022) hoặc 5–7 ngày (NICE NG91 2018; AAP 2013 tr. e985, trẻ ≥ 6 tuổi nhẹ–vừa)",
+      "ghi_chu": "AAP 2013 KAS 4A (amoxicillin đầu tay, chưa dùng amoxicillin 30 ngày qua, không dị ứng); AAP 2013 Table 5; Italian Consensus 2025 khuyến cáo 3.2–3.3. Liều tối đa mỗi ngày cho trẻ lớn và làm tròn theo dạng bào chế: không có trong tài liệu đã tải. Nếu thất bại sau 48–72 giờ dùng amoxicillin: đổi amoxicillin–clavulanate (AAP 2013 KAS 4C, Table 5)."
+     }
+    ],
+    "dan_do": [
+     "Châu bị viêm tai giữa bên trái: ù, tức, nghe kém và đau nhẹ về đêm làm Châu khó ngủ; đây là nguyên nhân mất ngủ, không phải bệnh phổi hay lo thi.",
+     "Uống paracetamol 500 mg khi đau hoặc sốt, cách nhau ít nhất 6 giờ; uống một liều trước khi đi ngủ (NICE NG91 2018 khuyến cáo 1.1.4; AWaRe 2022). Không tự mua thuốc ngủ cho Châu. Ngưng siro ho long đờm (WHO 2013 mục 4.4).",
+     "Cách xử trí cùng quyết định với mẹ: theo dõi 2–3 ngày chỉ giảm đau, hoặc dùng kháng sinh ngay. Nếu chọn kháng sinh thì uống đủ ngày, đúng liều, kể cả khi đã đỡ (AAP 2013). Nếu theo dõi: bệnh thường đỡ sau khoảng 3 ngày, có thể kéo tới 1 tuần (NICE NG91 2018 khuyến cáo 1.1.1, 1.1.3).",
+     "Gọi hoặc đưa Châu lại sau 48–72 giờ nếu chưa đỡ, và ngay khi nặng lên nhanh (AAP 2013 KAS 4C; NICE NG91 2018 khuyến cáo 1.1.9).",
+     "Đưa ngay nếu: sưng, đỏ hay đau sau tai, vành tai bị đẩy ra trước; nhức đầu dữ dội, cứng cổ, nôn nhiều, li bì, co giật; méo miệng, chóng mặt quay; chảy mủ tai kèm sốt cao; thở nhanh hay khó thở (WHO 2013 mục 6.7.1, 6.3.1, 4.4; QĐ 5643).",
+     "Xì mũi từng bên một, không bịt cả hai lỗ mũi cùng lúc (QĐ 5643 Viêm tai giữa cấp mục 6, tr. 214). Không ngoáy tai, không nhỏ gì vào tai.",
+     "Với Châu: nói riêng, cho em biết cảm giác khó ngủ vì tai là có thật; Châu nên nói với mẹ khi thấy khó chịu thay vì im lặng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Mẹ và Châu chọn theo dõi 48 giờ. Châu uống paracetamol 500 mg trước khi ngủ, đêm đầu thức dậy 1 lần rồi ngủ lại, đêm thứ hai ngủ liền. Sau 48 giờ ù tai còn ít, hết sốt, ban ngày nghe rõ hơn; không dùng đến đơn kháng sinh. Mẹ gọi báo ngày thứ ba: đã hết đau, nghe bình thường. Châu đi thi thứ Sáu bình thường. Mẹ hết lo chuyện hóa chất và hứa hỏi Châu mỗi tối bằng câu cụ thể. Không biến chứng.",
+ "nhieu": [
+  "Thân nhân trả lời thay: mẹ ngắt lời, phủ nhận đau, gán mất ngủ cho hóa chất và thi cử; Châu gật theo mẹ. Câu hỏi chung chung với mẹ cho đáp án sai; hỏi riêng Châu bằng câu chức năng (thức giấc mấy lần, nằm nghiêng bên nào, nghe cô giảng) lộ triệu chứng thật.",
+  "Lý do thật đến khám: Châu muốn được cho thuốc ngủ để thi. Em không tự kể, chỉ nói khi bác sĩ hỏi riêng điều em mong muốn; bác sĩ cần nói rõ vì sao không cần thuốc ngủ.",
+  "Yếu tố khởi phát (hóa chất) và lý do mẹ nêu (căng thẳng thi cử) kéo người đọc sang phổi và đầu nhưng không giải thích được ù tai, nghe kém dẫn truyền; siro ho long đờm phải hỏi và ngưng.",
+  "Không có siêu âm: CT và nội soi bị khóa theo; ca dựa vào soi tai, khám xương chũm, da quanh tai, dây VII."
+ ],
+ "bai_hoc_bien": [
+  "Viêm tai giữa cấp không điển hình ở trẻ lớn: có thể không kêu đau tai, chỉ ù tai, đầy tai và mất ngủ; trẻ có triệu chứng viêm mũi họng và triệu chứng liên quan tai thì phải soi tai (QĐ 5643 Viêm tai giữa cấp mục 3.1.1, tr. 210–211).",
+  "Người nhà trả lời thay: tách bệnh nhân ra hỏi riêng bằng câu chức năng; hỏi 'con mong muốn gì hôm nay' để biết lý do thật.",
+  "Ca không nặng, theo dõi được: kháng sinh ngay hoặc theo dõi chờ 48–72 giờ đều đúng, kèm giảm đau và cơ chế theo dõi (AAP 2013 KAS 3D; Italian Consensus 2025 khuyến cáo 1.4–1.5; NICE NG91 2018 khuyến cáo 1.1.8; QĐ 5643 mục 4.1).",
+  "Loại trừ biến chứng và zona tai: nhìn da vành tai, ống tai, hỏi tê rát, kiểm tra dây VII (QĐ 5643 mục 3.2, tr. 212).",
+  "Đừng cho thuốc ngủ theo yêu cầu: gỡ nguyên nhân gây mất ngủ (đau, ù tai) bằng giảm đau đều đặn và xử trí bệnh tai."
+ ],
+ "diem_nho": [
+  "Chẩn đoán viêm tai giữa cấp: khởi phát cấp, màng nhĩ phồng (nhẹ kèm đau tai dưới 48 giờ hoặc đỏ rực), có dịch tai giữa (AAP 2013 KAS 1A–1C).",
+  "Nặng: đau tai vừa hoặc nặng, đau từ 48 giờ, hoặc sốt từ 39 °C (AAP 2013 KAS 3A) → kháng sinh ngay. Không nặng, ≥ 24 tháng: kháng sinh hoặc theo dõi chờ 48–72 giờ (AAP 2013 KAS 3D; Italian 2025 khuyến cáo 1.4–1.5).",
+  "Giảm đau đều đặn là điều trị bắt buộc (AAP 2013 KAS 2; NICE NG91 2018 khuyến cáo 1.1.4): từ 30 kg paracetamol 500 mg–1 g mỗi 4–6 giờ (AWaRe 2022 tr. 39).",
+  "Amoxicillin 80–90 mg/kg/ngày (AAP 2013 Table 5; Italian 2025 khuyến cáo 3.2; AWaRe 2022); 500 mg × 3 lần (NICE NG91 2018) thấp hơn. Ca không nặng sau theo dõi chờ: 5 ngày (Italian 2025 khuyến cáo 4.2; AWaRe 2022), 5–7 ngày (NICE NG91 2018).",
+  "Zona tai: mụn nước ở nắp tai, vành tai, ống tai, màng nhĩ kèm giảm cảm giác vùng Ramsay-Hunt (QĐ 5643 Viêm tai giữa cấp mục 3.2, tr. 212). Viêm xương chũm: sưng đỏ sau tai, vành tai đẩy ra trước (QĐ 5643 tr. 195)."
+ ],
+ "nguon": [
+  "QĐ 5643 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm tai giữa cấp tính trẻ em (mục 1–6, tr. 210–214); Viêm xương chũm cấp tính trẻ em (mục 1, 3, tr. 195–196); Liệt dây thần kinh VII ngoại biên (Bảng 1)",
+  "AAP 2013 – AAP/AAFP The diagnosis and management of acute otitis media. Pediatrics 2013;131(3):e964-99 – TL-0271 – ĐÃ ĐỌC: KAS 1A–1C, 2, 3A–3D, 4A–4C (tr. e965); Table 3 (tr. e973), Table 4 (tr. e976), Table 5 (tr. e983), điều trị thất bại và theo dõi sau điều trị (tr. e984–e985), thời gian điều trị (tr. e985)",
+  "NICE NG91 2018 – NICE Otitis media (acute): antimicrobial prescribing, 2018 (cập nhật 2022, 2025) – kho tltk-10000-ca (03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: khuyến cáo 1.1.1–1.1.14, Table 1 (tr. 5–10), tóm tắt bằng chứng (tr. 12–16)",
+  "Italian Consensus 2025 – Antibiotic treatment of acute and recurrent otitis media in children: an Italian intersociety consensus. Ital J Pediatr 2025, PMC11844117 – kho tltk-10000-ca (03 Nhi ngoại trú/Quốc tế) – ĐÃ ĐỌC: Table 1 (thang nặng), khuyến cáo 1.1–1.5, 2.1–2.2, 3.1–3.3, 4.1–4.2",
+  "WHO 2013 – Pocket book of hospital care for children, ấn bản 2 – TL-0250 – ĐÃ ĐỌC: mục 4.4 Cough or cold (tr. 90–91), mục 6.3.1 (tr. 167), mục 6.7.1 Mastoiditis (tr. 182), mục 6.7.2 Acute otitis media (tr. 183–184)",
+  "AWaRe 2022 – WHO AWaRe antibiotic book – TL-0018 – ĐÃ ĐỌC: Primary health care mục 5 Acute otitis media (tr. 36–39), gồm liều paracetamol, ibuprofen, amoxicillin theo cân nặng",
+  "ESRS 2023 – European insomnia guideline – kho tltk-10000-ca (07 Thần kinh - tiền đình - giấc ngủ/Quốc tế) – ĐÃ ĐỌC: phần Phương pháp (phạm vi người lớn trên 18 tuổi, không xem xét trẻ em)",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: thuốc ngủ hay an thần cho trẻ em; điều trị mất ngủ ở trẻ em; hít hơi hóa chất tẩy rửa và liên quan nhân quả với viêm tai giữa; điều trị zona tai; liều tối đa amoxicillin mỗi ngày cho trẻ lớn và cách làm tròn liều; tên thương phẩm thuốc nhỏ tai; hiệu quả bromhexin; ngưỡng CRP."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-04). Tài liệu đã đọc: QĐ 5643 TL-0130 (Viêm tai giữa cấp, Viêm xương chũm, Liệt dây VII Bảng 1); AAP 2013 TL-0271; NICE NG91 2018; Italian Consensus 2025; WHO 2013 TL-0250 (mục 4.4, 6.3, 6.7); AWaRe 2022 TL-0018 mục 5; ESRS 2023 (phạm vi).",
+  "Tuổi 11 nằm trong phạm vi AAP 2013 (6 tháng–12 tuổi), NICE NG91 2018 (dưới 18 tuổi), Italian Consensus 2025 (1 tháng–18 tuổi). 36 kg thuộc dải ≥ 30 kg của AWaRe 2022 (paracetamol, ibuprofen).",
+  "Quyết định thiết kế: ca nhẹ–vừa, theo dõi được nên kháng sinh ngay và theo dõi chờ đều đúng, gộp một mục c theo quy tắc nguồn mâu thuẫn (12/10/2026); mục sổ 'Viêm tai giữa cấp trẻ > 2 tuổi' (NH-0355) hiểu lại theo quy tắc này. Liều và thời gian amoxicillin theo mục NH-0355 số 2 và 3. Chích rạch, corticoid, X-quang xương chũm theo mục NH-0355 số 4 và 5.",
+  "Chấm w cho 'kê thuốc ngủ' là phán đoán thận trọng của người biên soạn vì tài liệu đã tải không có khuyến cáo thuốc ngủ cho trẻ em; trưởng nhóm xem lại có đổi thành a hay không.",
+  "Không có trong tài liệu đã tải: xem mục cuối của nguon. Âm thanh: AT-TIM-BT-NL-01, AT-PHOI-BT-NL-01. Không dùng ảnh da (da không là khám then chốt). Không đề xuất danh mục mới.",
+  "04/11/2026 – duyệt (Opus): kiểm 7 trích dẫn (NICE NG91 500 mg × 3 lần/ngày cho 5–17 tuổi, 5–7 ngày; Italian 2025 90 mg/kg/ngày chia 3, 5 ngày; AAP 2013 80–90 mg/kg/ngày chia 2; AWaRe 2022; WHO 2013 mục 4.4 không dùng thuốc long đờm; AAP KAS 3D theo dõi chờ), đều khớp; không sửa. Thuốc ngủ chấm w: chấp nhận (mất ngủ do đau tai, điều trị nguyên nhân)."
+ ]
+}
