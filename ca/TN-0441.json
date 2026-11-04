@@ -1,0 +1,596 @@
+{
+ "ma_ca": "TN-0441",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết mới (2026-11-04)",
+ "benh": "TN_suy_sinh_duc_nam",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Suy sinh dục nam / testosterone thấp",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Suy giáp"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Thợ điện",
+  "yeu_to_khoi_phat": "Phơi nắng lâu",
+  "thuoc_dang_dung": "Thuốc tránh thai đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc",
+  "loai_ket_cuc": "Tái phát"
+ },
+ "benh_nhan": {
+  "ten": "Lê Quang Thạnh",
+  "tuoi": 52,
+  "gioi": "Nam",
+  "nghe": "Thợ điện lưới (sửa đường dây, leo cột)",
+  "can_nang": 88,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi ông là 'anh'. Ông tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nói to, thẳng, quen ra lệnh trong đội thợ nhưng ngại và lúng túng khi nói chuyện nhạy cảm. Sĩ diện đàn ông, sợ bị coi là yếu, sợ mất chỗ làm. Hiểu biết y khoa ít, tin 'kháng sinh hợp với mình'.",
+  "kieu_nhieu": "Đòi kháng sinh: vào phòng là xin ngay 'đợt kháng sinh như năm ngoái', nói chắc như đinh đóng cột 'lần trước uống là khỏe'. Dịu xuống khi bác sĩ nói rõ vì sao lần này kháng sinh không giúp (không sốt, không tiểu buốt, nước tiểu sạch), công nhận anh mệt thật và đưa ngay việc làm được. Bị từ chối cộc lốc thì cự nự 'đi phòng khám khác'. Chuyện ham muốn, cương chỉ nói khi được hỏi riêng; lý do thật (muốn giấy nghỉ việc) chỉ lộ khi hỏi về an toàn khi leo cột.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#b9835f",
+   "toc": "#2a2420",
+   "kieuToc": "ngan",
+   "ao": "#5a6b3a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Mệt mỏi kéo dài, xin thuốc kháng sinh",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Lê Quang Thạnh, 52 tuổi, thợ điện lưới, đến lúc 7 giờ 20 sáng, chưa ăn sáng. Than mệt kéo dài nhiều tháng, xin thuốc kháng sinh. Sinh hiệu: HA 138/84 mmHg, mạch 76 l/p, nhiệt 36,7°C, nhịp thở 16 l/p, SpO2 97%, cân nặng 88 kg, cao 168 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Thạnh bị chuyển lên bệnh viện tỉnh để chụp MRI tuyến yên và hội chẩn nội tiết. Mất một ngày công và vài triệu đồng, trong khi prolactin 9,6 ng/mL, testosterone 7,2 nmol/L cao hơn ngưỡng 6 nmol/L, không đau đầu và thị trường bình thường nên không có chỉ định MRI (EAU 2026 mục 3.3.5). Phần việc cốt lõi (giảm cân, bia, thuốc lá, bàn gel, theo dõi Hct/PSA) lại bị đẩy sang tuyến trên; anh dễ bỏ giữa chừng và quay lại xin kháng sinh.",
+    "nhap_vien": "Anh Thạnh nhập viện 'để kiểm tra vì mệt', nằm vài ngày làm các xét nghiệm đều làm được ngoại trú trong sáng nay. Anh mất thu nhập nhiều ngày, bị đồng nghiệp biết mình 'có bệnh', càng sợ chủ thầu cho nghỉ hẳn, trong khi mối nguy tức thì là leo cột khi đuối sức. Ra viện anh vẫn không hiểu bệnh của mình là gì và vẫn chưa có kế hoạch giảm cân, bỏ bia, thuốc lá.",
+    "theo_doi": "Anh Thạnh được 'theo dõi thêm' mà không hẹn cụ thể và không ai nói tên bệnh. Anh về nhà, không thay đổi bia, thuốc lá, quay lại làm việc trên cột khi vẫn mệt. Testosterone thấp tiếp tục làm tăng mỡ nội tạng (EAU 2026 mục 3.4.2.d), cân nặng, tiền đái tháo đường và nguy cơ tim mạch nặng thêm; vài tháng sau anh lại xin kháng sinh ở phòng khám khác, lặp lại vòng cũ."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy tháng nay tôi mệt rã rời, người cứ uể oải. Chắc lại viêm tiền liệt như năm ngoái, bác sĩ cho tôi đợt kháng sinh giống lần đó là khỏe liền. Tôi leo cột cả ngày, phải khỏe mới làm được.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/84",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, uể oải, yếu sức khoảng một năm nay, nặng hơn mấy tháng gần đây. Anh cho là mình lại bị viêm tuyến tiền liệt như năm ngoái nên xin kháng sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "viem_cu",
+     "noi_dung": "Năm ngoái đến một phòng khám tư vì cũng mệt và 'yếu', được nói là viêm tuyến tiền liệt, uống kháng sinh 14 ngày (không nhớ tên, viên màu xanh) cùng thuốc bổ. Không làm xét nghiệm nước tiểu hay xét nghiệm máu. Đỡ khoảng hai tháng rồi mệt trở lại như cũ. Anh nghĩ 'kháng sinh hợp với mình'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử điều trị, vì sao tái phát"
+    },
+    {
+     "id": "nieu",
+     "noi_dung": "Không tiểu buốt, không tiểu rắt, không sốt, không đau tầng sinh môn hay đau bìu, không chảy dịch niệu đạo. Tiểu đêm 1 lần, tia tiểu mạnh, không có cảm giác tiểu chưa hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ viêm tuyến tiền liệt, điểm triệu chứng tiểu (IPSS thấp)"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Khoảng một năm nay ham muốn giảm rõ: trước quan hệ 2 lần/tuần, nay khoảng 1 lần/tháng. Cương buổi sáng gần như không còn. Khi quan hệ vẫn cương được nhưng không cứng bằng trước và đôi lúc mất giữa chừng; xuất tinh bình thường, không đau. Anh ngại vì xấu hổ, tưởng là do tuổi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng về đời sống vợ chồng, ham muốn hoặc chuyện cương (nhất là cương buổi sáng). Hỏi chung 'còn triệu chứng gì khác không' thì anh đáp 'không có gì'.",
+     "k": 1,
+     "y": "Triệu chứng tình dục (đặc hiệu nhất của suy sinh dục)"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Dễ cáu gắt với vợ con. Vẫn thích xem bóng đá, tụ tập đồng nghiệp, ăn được, ngủ không sâu nhưng không mất ngủ kéo dài. Không buồn chán kéo dài, không thấy mình vô dụng, không nghĩ đến chuyện tự hại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ trầm cảm"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Không sợ lạnh, không táo bón, da không khô, không rụng tóc, giọng không khàn. Cân nặng tăng dần khoảng 8 kg trong 3 năm, tập trung ở bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ suy giáp; diễn tiến cân nặng"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Hai năm trước đi khám sức khỏe cơ quan được nói đường huyết 'hơi cao' và mỡ máu cao, không điều trị, không tái khám. Chưa từng nhồi máu cơ tim, đột quỵ, suy tim; chưa từng huyết khối tĩnh mạch, trong nhà không ai bị huyết khối. Trong nhà không ai bị ung thư tuyến tiền liệt hay ung thư vú.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, yếu tố nguy cơ tim mạch, chống chỉ định testosterone"
+    },
+    {
+     "id": "nguyen_nhan",
+     "noi_dung": "Không đau đầu nhiều, không nhìn mờ hay mất thị trường. Chưa từng quai bị biến chứng viêm tinh hoàn, không chấn thương hay mổ vùng bìu, tinh hoàn xuống đủ từ nhỏ, dậy thì bình thường. Không dùng thuốc giảm đau gây nghiện, corticoid, thuốc tăng cơ, hormone; không dùng ma túy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tìm nguyên nhân thực thể và thuốc gây suy sinh dục"
+    },
+    {
+     "id": "thuoc_sinh_san",
+     "noi_dung": "Anh không uống thuốc đều đặn nào. Vợ (47 tuổi) uống thuốc tránh thai nhiều năm nay. Hai vợ chồng có hai con đã lớn (26 và 22 tuổi), không có ý định sinh thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng; nhu cầu sinh con (quyết định dùng testosterone)"
+    },
+    {
+     "id": "loi_song",
+     "noi_dung": "Uống bia 3–4 lần/tuần, mỗi lần khoảng 3–4 lon. Hút nửa gói thuốc lá mỗi ngày từ năm 25 tuổi. Ăn tối nhiều, ít rau, ngày làm việc ăn cơm hộp. Ngoài công việc gần như không tập thể dục. Ngủ khoảng 6 giờ/đêm, ngáy to, vợ nói chưa thấy ngưng thở; ban ngày hơi buồn ngủ sau bữa trưa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lối sống: bia, thuốc lá, ít vận động, ngáy"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Làm ngoài trời 8–10 giờ mỗi ngày, nhiều ngày leo cột cao 8–10 m. Mùa nắng thấy mệt hơn, ra nhiều mồ hôi, nhưng uống khoảng 2 lít nước/ngày, nước tiểu vàng nhạt, không chuột rút, không chóng mặt. Hai tháng mưa gần đây làm việc ít hơn mà vẫn mệt như vậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát (nắng): mệt không giải thích được bằng mất nước"
+    },
+    {
+     "id": "xn_cu",
+     "noi_dung": "Hai tuần trước, theo lời một người bạn, anh tự ra phòng xét nghiệm gần nhà thử 'nội tiết nam' lúc 7 giờ 30, chưa ăn sáng: testosterone toàn phần 7,6 nmol/L. Anh không hiểu tờ kết quả nên cất trong túi áo, chưa đưa ai xem.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lấy ra khi bác sĩ hỏi đã từng thử máu, đo nội tiết, hoặc có tờ kết quả nào mang theo không.",
+     "k": 1,
+     "y": "Mẫu testosterone buổi sáng nhịn ăn lần 1 (cần mẫu thứ hai để xác nhận)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: tuần trước, khi leo cột, anh đuối sức, tuột tay suýt rơi, đồng nghiệp phải đỡ. Anh sợ, nhưng nếu xin nghỉ vì 'yếu' thì chủ thầu có thể cho nghỉ hẳn. Anh muốn một tờ giấy bác sĩ ghi 'viêm tuyến tiền liệt, nghỉ 2–4 tuần' để vừa nghỉ vừa giữ chỗ làm. Chuyện 'yếu sinh lý' thì xấu hổ không dám nói.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi công việc có bị ảnh hưởng hay nguy hiểm không, hỏi có chuyện gì xảy ra khi leo cột, hoặc hỏi anh mong gì ở buổi khám (giấy nghỉ?).",
+     "k": 1,
+     "y": "Động cơ thật: muốn nghỉ việc mà vẫn giữ chỗ làm; an toàn lao động"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, da mặt sạm nắng. Cân 88 kg, cao 168 cm, BMI 31,2 kg/m². Vòng eo 104 cm, mỡ tập trung vùng bụng. Lông nách, lông mu phân bố kiểu nam, hơi thưa. Không vẻ mặt phù niêm.",
+     "k": 1
+    },
+    "vu": {
+     "a": "Hai vú không to, không nhân, không tiết dịch, không đau.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Hai tinh hoàn trong bìu, trơn đều, mật độ hơi mềm, kích thước còn trong giới hạn bình thường (dài khoảng 4 cm mỗi bên). Mào tinh, thừng tinh bình thường, không giãn tĩnh mạch thừng tinh, không đau.",
+     "k": 1
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Dương vật kích thước bình thường, miệng sáo sạch, vắt niệu đạo không ra dịch, không đau.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Tuyến tiền liệt cân đối, kích thước bình thường, mật độ chắc đàn hồi, không nốt, không cứng, không đau khi ấn.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Khí sắc bình thường, nói chuyện mạch lạc, hơi cáu khi nhắc đến chuyện công việc. Hỏi PHQ-9: 6 điểm (mất hứng thú nhẹ, ngủ không sâu, mệt, khó tập trung nhẹ; không có ý nghĩ tự hại). Không rối loạn tư duy.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không đau. Không hạch cổ.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Thị lực tốt hai mắt. Thị trường đối diện hai mắt bình thường, không bán manh.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Phản xạ gân xương bình thường hai bên, giai đoạn thư giãn của phản xạ gân gót không chậm. Cảm giác bình thường.",
+     "k": 0
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5; ngồi xổm đứng dậy được 10 lần liên tiếp; không teo cơ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng béo, mềm, không điểm đau, gan lách không sờ thấy, không khối.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng không đau, không có cầu bàng quang.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mạch mu chân, mạch chày sau rõ đều hai bên; không âm thổi động mạch cảnh, đùi.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da mặt, gáy, cẳng tay sạm nắng, nếp nhăn nhiều; không tổn thương nghi ngờ; không khô, không phù niêm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "androgen": {
+     "v": "e",
+     "r": "Testosterone toàn phần 7,2 nmol/L (≈ 208 ng/dL), lấy 7 giờ 40 sáng, nhịn ăn · DHEA-S 4,0 µmol/L (trong giới hạn của phòng xét nghiệm)",
+     "ab": 1,
+     "n": "Sáng 7–10 giờ, nhịn ăn, lặp lại ≥ 2 lần (EAU 2026 mục 3.3.5; AUA 2018 KC 2; ES 2018 KC 1.1). Cùng chiều mẫu 7,6 nmol/L của bệnh nhân: cả hai thấp hơn mọi ngưỡng (EAU 12 nmol/L; AUA 300 ng/dL ≈ 10,4; ES 264 ng/dL ≈ 9,2 nmol/L)."
+    },
+    "fsh_lh": {
+     "v": "e",
+     "r": "LH 3,4 IU/L · FSH 4,1 IU/L · Estradiol 92 pmol/L (đều trong khoảng của phòng xét nghiệm; LH không tăng dù testosterone thấp)",
+     "ab": 1,
+     "n": "LH, FSH để phân biệt nguyên phát (LH tăng) và thứ phát (LH thấp hoặc 'bình thường không tương xứng') (EAU 2026 mục 3.3.4, Hình 3.1; AUA 2018 KC 6; ES 2018 KC 1.3)."
+    },
+    "prl": {
+     "v": "e",
+     "r": "Prolactin 9,6 ng/mL (bình thường)",
+     "n": "Đo prolactin khi testosterone thấp kèm LH thấp/bình thường và giảm ham muốn (AUA 2018 KC 7; EAU 2026 mục 3.3.4 và khuyến cáo chẩn đoán)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,1 mIU/L · FT4 14 pmol/L (bình thường)",
+     "n": "Loại trừ suy giáp (khoảng tham chiếu TSH 0,4–4,0 mIU/L, ATA 2014 phần khuyến cáo 1); suy giáp còn làm giảm SHBG (EAU 2026 Bảng 3.3)."
+    },
+    "psa": {
+     "v": "u",
+     "r": "PSA toàn phần 0,9 ng/mL",
+     "n": "Nam > 40 tuổi trước khi cân nhắc testosterone (AUA 2018 KC 12; EAU 2026 mục 3.5.8); ES 2018 KC 2.2: không dùng khi PSA > 4 ng/mL (> 3 nếu nguy cơ cao)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 7,4 G/L · Hb 152 g/L · Hct 46% · TC 248 G/L",
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 58.0,
+      "neu": 4.29,
+      "lym_pct": 32.0,
+      "lym": 2.37,
+      "mono_pct": 7.0,
+      "mono": 0.52,
+      "eos_pct": 2.5,
+      "eos": 0.19,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 5.1,
+      "hgb": 152,
+      "hct": 0.46,
+      "mcv": 90.2,
+      "mch": 29.8,
+      "mchc": 330,
+      "rdw": 13.0,
+      "plt": 248
+     },
+     "n": "Hb/Hct trước khi cho testosterone (AUA 2018 KC 11); Hct 46% dưới mọi ngưỡng (EAU 2026 Bảng 3.4: 48–50% tương đối, ≥ 54% tuyệt đối; ES 2018 Bảng 7: > 48%)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose máu đói 5,9 mmol/L (rối loạn đường huyết đói)",
+     "ab": 1,
+     "n": "FPG 5,6–6,9 mmol/L là tiền đái tháo đường (ADA 2026 Bảng 2.2). Béo phì, đề kháng insulin liên quan suy sinh dục chức năng (EAU 2026 mục 3.2)."
+    },
+    "hba1c": {
+     "v": "u",
+     "r": "HbA1c 5,9%",
+     "ab": 1,
+     "n": "HbA1c 5,7–6,4% là tiền đái tháo đường (ADA 2026 Bảng 2.2). ES 2018 KC 2.6: testosterone không dùng để kiểm soát đường huyết."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Cholesterol TP 5,6 · LDL-C 3,5 · HDL-C 0,9 · TG 2,6 mmol/L",
+     "ab": 1,
+     "n": "Đánh giá yếu tố nguy cơ tim mạch trước khi cho testosterone (EAU 2026 khuyến cáo mục 3.5.9, mạnh); lipid và đường huyết là thông số theo dõi (EAU 2026 Bảng 3.6)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 36 · ALT 52 U/L (ALT hơi tăng)",
+     "ab": 1,
+     "n": "Gan nhiễm mỡ làm giảm SHBG (EAU 2026 Bảng 3.3); chưa cần xử trí riêng lượt này."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Bạch cầu âm tính · Nitrit âm tính · Hồng cầu âm tính · Protein âm tính · Glucose âm tính",
+     "n": "Que thử bạch cầu/nitrit: giá trị tiên đoán dương 95%, âm 70% trong viêm tuyến tiền liệt cấp (EAU Urological Infections 2026 mục 3.11.4.h). Kết quả sạch, không triệu chứng tiểu: cơ sở không kê kháng sinh."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 74 l/p, trục bình thường, không dày thất, không thay đổi ST-T.",
+     "n": "Đánh giá nguy cơ tim mạch trước testosterone (EAU 2026 mục 3.5.9); điện tim không bắt buộc ở người không triệu chứng, chấp nhận."
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "r": "Ferritin 180 ng/mL · Bão hòa transferrin 28% (bình thường)",
+     "n": "Quá tải sắt là nguyên nhân thứ phát trong EAU 2026 Bảng 3.1; không gợi ý, chấp nhận nhưng không bắt buộc."
+    },
+    "mri_yen": {
+     "n": "Không có chỉ định: prolactin bình thường, TT 7,2 > 6 nmol/L, không đau đầu, không rối loạn thị giác (EAU 2026 mục 3.3.5: khuyến cáo yếu khi TT < 6 nmol/L)."
+    },
+    "psg": {
+     "n": "Ngáy, béo phì nhưng chưa có ngưng thở chứng kiến: chưa bắt buộc; nếu dùng testosterone cần theo dõi Hct kỹ (EAU 2026 Bảng 3.6 chú thích 1; ES 2018 Bảng 7: ngưng thở nặng chưa điều trị là chống chỉ định)."
+    },
+    "cay_nuoc_tieu": {
+     "n": "Không triệu chứng đường tiểu, không sốt, que thử sạch: không cần cấy nước tiểu (EAU Urological Infections 2026 mục 3.11.4.h)."
+    },
+    "sa_tlt": {
+     "n": "Không triệu chứng tiểu, tuyến tiền liệt bình thường khi thăm trực tràng; siêu âm không giúp chẩn đoán viêm tuyến tiền liệt (EAU Urological Infections 2026 mục 3.11.4.h)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Suy sinh dục nam thứ phát (hypogonadotropic) kiểu chức năng, khởi phát muộn, liên quan béo phì và rối loạn chuyển hóa",
+     "ok": 1,
+     "n": "Triệu chứng tình dục + testosterone toàn phần thấp lặp lại buổi sáng nhịn ăn (7,6 và 7,2 nmol/L) + LH không tăng, prolactin bình thường (EAU 2026 mục 3.3.1, 3.3.5, Hình 3.1; AUA 2018 KC 1–3, 6; ES 2018 KC 1.1, 1.3). Dạng chức năng do béo phì, đồng mắc (EAU 2026 mục 3.3)."
+    },
+    {
+     "t": "Béo phì trung tâm (BMI 31,2 kg/m², vòng eo 104 cm)",
+     "ok": 1,
+     "n": "BMI ≥ 30 là béo phì độ II theo ngưỡng WHO áp dụng cho người châu Á; vòng bụng ≥ 90 cm ở nam là béo phì trung tâm (QĐ 2892/2022 Bảng 4.1, mục 4.2; số hiệu văn bản chưa kiểm độc lập)."
+    },
+    {
+     "t": "Tiền đái tháo đường (glucose đói 5,9 mmol/L, HbA1c 5,9%) và rối loạn lipid máu (TG 2,6, HDL-C 0,9 mmol/L)",
+     "ok": 1,
+     "n": "ADA 2026 Bảng 2.2. Đồng mắc làm suy sinh dục chức năng và là yếu tố nguy cơ tim mạch cần đánh giá trước khi cho testosterone (EAU 2026 mục 3.2, 3.5.9)."
+    },
+    {
+     "t": "Trầm cảm",
+     "n": "PHQ-9 6 điểm (nhẹ 5–9; < 10 điểm hiếm gặp ở trầm cảm nặng: Kroenke 2001), còn hứng thú bóng đá, tụ tập, không ý nghĩ tự hại. Mệt, cáu cũng gặp ở suy sinh dục (EAU 2026 Bảng 3.2); testosterone không thay điều trị trầm cảm nặng (EAU 2026 mục 3.4.2.c)."
+    },
+    {
+     "t": "Suy giáp",
+     "n": "Không sợ lạnh, táo bón, da khô; tuyến giáp không to; phản xạ gân gót không chậm; TSH 2,1 mIU/L (0,4–4,0: ATA 2014)."
+    },
+    {
+     "t": "Viêm tuyến tiền liệt (cấp hoặc mạn nhiễm khuẩn)",
+     "n": "Không sốt, tiểu buốt/rắt, đau tầng sinh môn; que thử sạch; tuyến không đau. Thể cấp khởi phát đột ngột với triệu chứng tiểu, sốt; thể mạn ≥ 3 tháng; dưới 10% có nhiễm khuẩn chứng minh (EAU Urological Infections 2026 mục 3.11.3, 3.11.4.a)."
+    },
+    {
+     "t": "Suy sinh dục nguyên phát (hội chứng Klinefelter, tổn thương tinh hoàn)",
+     "n": "LH, FSH không tăng; tinh hoàn xuống đủ, không quai bị, chấn thương, hóa/xạ trị (EAU 2026 Bảng 3.1, Hình 3.1)."
+    },
+    {
+     "t": "Tăng prolactin / u tuyến yên",
+     "n": "Prolactin 9,6 ng/mL, không đau đầu, thị trường bình thường (EAU 2026 mục 3.3.2, 3.3.4; AUA 2018 KC 7)."
+    },
+    {
+     "t": "Mất nước, say nắng mạn do làm việc ngoài trời",
+     "n": "Uống đủ nước, nước tiểu vàng nhạt, không chuột rút; mệt không đỡ qua hai tháng mưa. Phơi nắng là nhiễu, không phải nguyên nhân."
+    },
+    {
+     "t": "Ngưng thở khi ngủ tắc nghẽn (đồng mắc, chưa loại trừ hẳn)",
+     "n": "Ngáy to, béo phì, buồn ngủ nhẹ, chưa có ngưng thở chứng kiến; ảnh hưởng theo dõi Hct nếu dùng testosterone (EAU 2026 Bảng 3.6; ES 2018 Bảng 7)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không kê kháng sinh; giải thích bằng chính tình trạng của anh và đưa ngay việc sẽ làm",
+     "v": "c",
+     "n": "Không sốt, không triệu chứng tiểu, nước tiểu sạch, tuyến tiền liệt không đau: không có dấu hiệu viêm tuyến tiền liệt (EAU Urological Infections 2026 mục 3.11.3, 3.11.4.a, 3.11.4.h). Lần trước 'đỡ' hai tháng không chứng tỏ do kháng sinh (không có xét nghiệm nào chứng minh nhiễm khuẩn)."
+    },
+    {
+     "t": "Kê một đợt kháng sinh 10–14 ngày như năm ngoái cho yên lòng",
+     "v": "w",
+     "n": "Không có chỉ định; củng cố chẩn đoán sai, bỏ lỡ nguyên nhân thật (EAU Urological Infections 2026 mục 3.11.3). Tác hại kháng sinh cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi riêng chuyện vợ chồng, ham muốn, cương buổi sáng, mức công việc ảnh hưởng và an toàn khi leo cột; hỏi sinh con và thuốc tránh thai của vợ",
+     "v": "c",
+     "n": "Triệu chứng tình dục đặc hiệu nhất (EAU 2026 mục 3.3.5, Bảng 3.2); luôn bàn về sinh con trước testosterone (EAU 2026 mục 3.5.1; AUA 2018 KC 10, 16)."
+    },
+    {
+     "t": "Xác nhận testosterone thấp bằng ít nhất 2 mẫu buổi sáng (7–10 giờ), nhịn ăn: dùng mẫu 7,6 nmol/L của bệnh nhân và mẫu hôm nay 7,2 nmol/L",
+     "v": "c",
+     "n": "EAU 2026 mục 3.3.5 (< 12 nmol/L, ≥ 2 lần); AUA 2018 KC 1–2 (< 300 ng/dL, hai mẫu sáng); ES 2018 KC 1.1, Hình 1 (264 ng/dL). Cả hai mẫu thấp hơn cả ba ngưỡng."
+    },
+    {
+     "t": "Tìm nguyên nhân: LH, FSH, prolactin, TSH; loại trừ trầm cảm bằng PHQ-9",
+     "v": "c",
+     "n": "AUA 2018 KC 6–7; EAU 2026 mục 3.3.4–3.3.5; ES 2018 KC 1.3–1.4; PHQ-9 (Kroenke 2001); ATA 2014 (TSH 0,4–4,0 mIU/L)."
+    },
+    {
+     "t": "Đánh giá đồng mắc và nguy cơ tim mạch: BMI, vòng eo, huyết áp, glucose, HbA1c, lipid, ALT; thăm trực tràng và PSA, Hb/Hct",
+     "v": "c",
+     "n": "EAU 2026 mục 3.3.3, 3.5.9 (đánh giá nguy cơ tim mạch trước testosterone, mạnh); AUA 2018 KC 11–12 (Hb/Hct; PSA nếu > 40 tuổi); ES 2018 KC 2.2."
+    },
+    {
+     "t": "Chế độ lối sống: giảm cân dần, giảm bia, bỏ thuốc lá, vận động, ngủ đủ; điều trị tiền đái tháo đường và rối loạn lipid",
+     "v": "c",
+     "n": "EAU 2026 mục 3.4.3.a, 3.4.3.c (mạnh: lối sống, giảm cân, điều trị đồng mắc); AUA 2018 KC 21; ES 2018 Bảng 1 (rượu, béo phì nặng, rối loạn giấc ngủ); hút thuốc làm tăng nguy cơ tăng Hct (EAU 2026 mục 3.5.6). Giảm cân chỉ tăng testosterone khoảng 1–2 nmol/L (EAU 2026 mục 3.4.3.a)."
+    },
+    {
+     "t": "Quyết định dùng testosterone cùng bệnh nhân: (A) làm lối sống và điều trị đồng mắc 3 tháng rồi đo lại testosterone sáng nhịn ăn trước khi khởi trị; hoặc (B) khởi gel testosterone 1% ngay, kèm lối sống, sau khi giải thích lợi–hại",
+     "v": "c",
+     "n": "Hai nguồn khác nhau: (A) EAU 2026 mục 3.4.3.c (mạnh: lối sống trước khi bắt đầu) và 3.4.3.a; (B) ES 2018 KC 2.1 (dùng cho nam thiếu testosterone có triệu chứng sau khi bàn lợi–hại), EAU 2026 mục 3.4.1 (TT < 12 nmol/L, không chống chỉ định thì phù hợp). Ca không có chống chỉ định (PSA 0,9; Hct 46%; không muốn con; IPSS thấp). Xem TN-0441_mau_thuan."
+    },
+    {
+     "t": "Chọn gel testosterone 1% khi khởi trị, không chọn tiêm depot ở bước đầu",
+     "v": "c",
+     "n": "EAU 2026 mục 3.4.3.c (yếu: gel thay vì depot ở nam nguy cơ cao); gel ít tăng Hct hơn tiêm (EAU 2026 mục 3.5.6; ES 2018 Bảng 5)."
+    },
+    {
+     "t": "Đo PSA và thăm trực tràng trước khi dùng testosterone; lịch theo dõi: tại 3 tháng, 6 tháng, 12 tháng rồi mỗi năm (testosterone, Hct, PSA, huyết áp, vòng eo; DRE hằng năm)",
+     "v": "c",
+     "n": "EAU 2026 mục 3.5.8, Bảng 3.6, 3.5.9 (mạnh: testosterone, Hct ở 3, 6, 12 tháng rồi hằng năm; Hct > 54% phải chỉnh/ngưng); ES 2018 Bảng 9 (testosterone, Hct sau 3–6 tháng rồi hằng năm; PSA, DRE sau 3–12 tháng ở nhóm chọn theo dõi); AUA 2018 KC 12, 29–30. Xem mâu thuẫn PSA."
+    },
+    {
+     "t": "Cấp giấy nghỉ ngắn ngày theo tình trạng thực và tư vấn an toàn khi làm việc trên cao: không leo cột một mình khi đang mệt, ngủ chưa đủ",
+     "v": "c",
+     "n": "TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm; đã ghi trong sổ mâu thuẫn): cấp ngắn ngày theo tình trạng thực là hợp lệ. Lời dặn an toàn lao động: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cấp giấy nghỉ 2–4 tuần ghi chẩn đoán 'viêm tuyến tiền liệt' để anh giữ chỗ làm",
+     "v": "w",
+     "n": "Ghi sai chẩn đoán, nghỉ nhiều ngày không đúng tình trạng thực (TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c; nguồn bổ sung tự tìm)."
+    },
+    {
+     "t": "Thêm xét nghiệm SHBG và tính testosterone tự do",
+     "v": "a",
+     "n": "Nên làm khi béo phì, đái tháo đường (EAU 2026 mục 3.3.4, mạnh; ES 2018 Bảng 2); ở đây TT 7,2 nmol/L thấp hơn rõ mọi ngưỡng nên không đổi quyết định; ngưỡng fT tính 220 pmol/L (EAU 2026 mục 3.3.4)."
+    },
+    {
+     "t": "Dùng sildenafil/tadalafil theo nhu cầu thay cho testosterone",
+     "v": "a",
+     "n": "EAU 2026 mục 3.4.2.f: testosterone là bước đầu cho thiếu hụt kèm rối loạn cương nhẹ (mạnh); PDE5I kết hợp cho thể nặng (yếu). PDE5I đơn độc chấp nhận như điều trị triệu chứng; liều không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê testosterone để anh 'hết mệt, khỏe leo cột'",
+     "v": "w",
+     "n": "EAU 2026 mục 3.4.2.f (mạnh): không dùng testosterone để tăng sức sống, sức mạnh; AUA 2018 KC 15: bằng chứng chưa kết luận với năng lượng, mệt mỏi."
+    },
+    {
+     "t": "Dùng clomiphene hoặc thuốc kháng estrogen off-label để nâng testosterone",
+     "v": "w",
+     "n": "Bằng chứng nghèo, ngoài chỉ định; SERM có nguy cơ huyết khối tĩnh mạch, dùng lâu giảm mật độ xương (EAU 2026 mục 3.4.3.b.6); ES 2018: hiệu quả, an toàn chưa chứng minh bằng thử nghiệm ngẫu nhiên."
+    },
+    {
+     "t": "Chuyển tuyến chụp MRI tuyến yên ngay",
+     "v": "a",
+     "n": "Không có chỉ định (xem MRI yên ở CLS); chấp nhận nhưng tốn kém, không đổi xử trí."
+    },
+    {
+     "t": "Hẹn tái khám: mẫu hoặc quyết định lối sống/gel sau 2 tuần; kiểm tra testosterone, Hct sau 3 tháng",
+     "v": "c",
+     "n": "Đánh giá đầu sau 3 tháng điều trị (EAU 2026 mục 3.5.8); AUA 2018 KC 31: testosterone bình thường mà triệu chứng không cải thiện sau 3–6 tháng thì bàn ngưng. Hẹn 2 tuần là lựa chọn của người biên soạn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Suy sinh dục nam thứ phát (hypogonadotropic), kiểu chức năng, khởi phát muộn: testosterone toàn phần 7,6 và 7,2 nmol/L (≈ 219 và 208 ng/dL), LH 3,4 IU/L không tăng, prolactin bình thường",
+     "Triệu chứng: giảm ham muốn, mất cương buổi sáng, cương kém; mệt, cáu gắt (triệu chứng ít đặc hiệu)",
+     "Béo phì trung tâm: BMI 31,2 kg/m², vòng eo 104 cm",
+     "Tiền đái tháo đường (glucose đói 5,9 mmol/L, HbA1c 5,9%) và rối loạn lipid (TG 2,6; HDL-C 0,9 mmol/L); ALT hơi tăng (52 U/L)",
+     "Yếu tố góp phần: bia 3–4 lần/tuần, hút thuốc, ít vận động, ngủ ít và ngáy (nghi ngưng thở khi ngủ, chưa xác nhận)",
+     "Đã loại trừ: trầm cảm (PHQ-9 6 điểm), suy giáp (TSH 2,1), tăng prolactin, viêm tuyến tiền liệt nhiễm khuẩn, suy sinh dục nguyên phát",
+     "Điều kiện cho testosterone: không muốn có thêm con, PSA 0,9 ng/mL, Hct 46%, thăm trực tràng bình thường, IPSS thấp, chưa biến cố tim mạch"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: lời khai là 'mệt, xin kháng sinh như năm ngoái'. Bẫy là dừng ở đây rồi kê kháng sinh. Hỏi riêng chuyện ham muốn, cương buổi sáng (triệu chứng tình dục là đặc hiệu nhất, EAU 2026 mục 3.3.5, Bảng 3.2) mới ra bệnh thật. Cần hỏi thêm: triệu chứng tiểu và sốt, tâm trạng, sợ lạnh/táo bón, đau đầu và thị trường, thuốc, tiền sử tinh hoàn, ý định sinh con, bia, thuốc lá, ngáy.",
+     "Nhiễu: anh tin 'mệt vì nắng', nhưng uống đủ nước, nước tiểu vàng nhạt, không chuột rút và hai tháng mưa vẫn mệt như vậy. Hỏi 'mùa mưa thì sao' là câu phá nhiễu.",
+     "Khám: BMI 31,2, vòng eo 104 cm (đo BMI và vòng eo cho mọi người, EAU 2026 mục 3.3.3); tinh hoàn hơi mềm, vú không to; thăm trực tràng bình thường (bắt buộc trước khi cân nhắc testosterone, EAU 2026 mục 3.3.3); mắt: thị trường bình thường; tuyến giáp bình thường; PHQ-9 6 điểm (< 10 điểm hiếm gặp ở trầm cảm nặng, Kroenke 2001).",
+     "Cận lâm sàng: testosterone toàn phần phải đo buổi sáng 7–10 giờ, nhịn ăn, lặp lại ≥ 2 lần (EAU 2026 mục 3.3.4–3.3.5; AUA 2018 KC 2; ES 2018 KC 1.1). Mẫu ăn rồi có thể thấp giả đến hơn 30% (EAU 2026 mục 3.3.4). Mẫu cũ 7,6 và mẫu hôm nay 7,2 nmol/L. Tìm nguyên nhân: LH 3,4 (không tăng) → thứ phát; prolactin bình thường; TSH bình thường; không cần MRI yên vì TT > 6 nmol/L, prolactin bình thường, không đau đầu/rối loạn thị giác (EAU 2026 mục 3.3.5, khuyến cáo yếu).",
+     "Ngưỡng chẩn đoán KHÁC NHAU giữa các nguồn nên ghi cả hai: EAU 2026 (mục 3.3.5) dùng TT < 12 nmol/L (≈ 346 ng/dL) kèm triệu chứng; AUA 2018 KC 1 dùng < 300 ng/dL (≈ 10,4 nmol/L); Endocrine Society 2018 (Hình 1) dùng giới hạn dưới của người trẻ khỏe mạnh theo CDC 264 ng/dL (≈ 9,2 nmol/L), ưu tiên 'thấp rõ và nhất quán'. EAU dựa trên phân tích gộp về ngưỡng thấy lợi ích điều trị, AUA/ES dựa trên giới hạn dưới quần thể. Ca này 7,2 nmol/L thấp hơn cả ba nên không phụ thuộc nguồn nào; vùng xám 9–12 nmol/L cần SHBG và fT tính (EAU 2026 mục 3.3.4; ES 2018 Bảng 2).",
+     "Dạng chức năng: béo phì và bệnh đồng mắc là nguyên nhân chủ yếu; viêm mạn, adipokine và estradiol ức chế trục dưới đồi–tuyến yên (EAU 2026 mục 3.3). Béo phì làm giảm SHBG (EAU 2026 Bảng 3.3), nên đo SHBG là 'chấp nhận', không bắt buộc ở ca này. Testosterone thấp lại làm tăng mỡ nội tạng (EAU 2026 mục 3.4.2.d): vòng xoắn dễ 'tái phát' nếu chỉ chữa triệu chứng.",
+     "Vì sao KHÔNG phải viêm tuyến tiền liệt: viêm cấp khởi phát đột ngột, triệu chứng tiểu và sốt; viêm mạn nhiễm khuẩn có đau/triệu chứng tiểu ≥ 3 tháng; dưới 10% ca chẩn đoán 'viêm tuyến tiền liệt' có nhiễm khuẩn chứng minh (EAU Urological Infections 2026 mục 3.11.3, 3.11.4.a). Anh không tiểu buốt, sốt, đau tầng sinh môn; que thử sạch; tuyến không đau. Năm ngoái không có xét nghiệm nào xác nhận nhiễm khuẩn; 'đỡ hai tháng' không chứng minh kháng sinh có tác dụng.",
+     "Lý do thật: anh sợ mất chỗ làm sau khi suýt rơi khi leo cột; hỏi 'công việc có nguy hiểm không' mới lộ. Xử lý bằng tư vấn an toàn lao động, không bằng giấy nghỉ khống.",
+     "Kết cục 'tái phát': gốc rễ (béo phì, bia, thuốc lá, ngủ kém, chuyển hóa) chưa xử lý nên triệu chứng quay lại sau đợt thuốc năm ngoái."
+    ],
+    "phan_tich_xu_tri": [
+     "Lời thoại từ chối kháng sinh, vẫn giữ lòng tin: 'Anh mệt thật, tôi không bỏ qua. Nhưng khám và thử nước tiểu hôm nay không thấy viêm: anh không sốt, không tiểu buốt, nước tiểu sạch. Kháng sinh chỉ chữa bệnh do vi khuẩn, kê thêm anh vẫn mệt mà tốn tiền. Điều tôi tìm ra là nội tiết nam của anh thấp, liên quan đến cái bụng, bia, thuốc lá, và mình xử lý được. Hẹn anh quay lại để chọn cách điều trị (thời gian hẹn do người biên soạn chọn).' Rồi hỏi 'anh còn lo gì ở công việc không?' để mở lý do thật.",
+     "Không kháng sinh (c); kê kháng sinh 'cho yên lòng' chấm w: không có chỉ định, củng cố chẩn đoán sai (EAU Urological Infections 2026 mục 3.11.3).",
+     "Lý do thật: không cấp giấy nghỉ khống 2–4 tuần ghi 'viêm tuyến tiền liệt' (w, TT 56/2017/TT-BYT); cấp giấy nghỉ ngắn theo tình trạng thực (c) và khuyên tạm không leo cột một mình khi mệt. 'Mệt đến suýt tuột tay' là mối nguy tức thì, nặng hơn chuyện nội tiết.",
+     "Quyết định testosterone, hai cách cùng đúng: (A) làm lối sống, điều trị đồng mắc 3 tháng, đo lại testosterone rồi quyết (EAU 2026 mục 3.4.3.c, khuyến cáo mạnh; lưu ý lợi ích của giảm cân lên testosterone nhỏ, 1–2 nmol/L, và 60–86% cân giảm bị lấy lại sau 3 năm: EAU 2026 mục 3.4.3.a); hoặc (B) khởi gel testosterone 1% ngay kèm lối sống (ES 2018 KC 2.1; EAU 2026 mục 3.4.1: TT < 12 nmol/L có triệu chứng, không chống chỉ định thì phù hợp; mục 3.4.3.a: gel + lối sống có thể tốt hơn lối sống riêng, bằng chứng hạn chế). Cả hai cách chấm đúng.",
+     "Lợi ích nói thật: testosterone cải thiện ham muốn, cương nhẹ, tần suất quan hệ (EAU 2026 mục 3.4.2.f, LE 1a–1b; AUA 2018 KC 14) nhưng không đủ bằng chứng để hứa hết mệt hay tăng sức (EAU 2026 mục 3.4.2.f, khuyến cáo mạnh; AUA 2018 KC 15). Bàn kỹ vì anh leo cột: thử nghiệm TRAVERSE (5.204 nam 45–80 tuổi nguy cơ tim mạch) cho thấy gãy xương lâm sàng 3,50% so với 2,46% giả dược (HR 1,43; KTC 95% 1,04–1,97; NEJM 2024;390:203); thuốc không làm giảm gãy xương; cần theo dõi khi quyết định.",
+     "Rủi ro: tăng Hct (chỉnh/ngưng/chích máu khi > 54%: EAU 2026 mục 3.5.6, 3.5.9); ức chế sinh tinh (chống chỉ định khi muốn con: EAU 2026 mục 3.5.1; AUA 2018 KC 23); gel truyền sang người thân qua da (AUA 2018 KC 26); tác dụng lên tim mạch chưa kết luận chắc (AUA 2018 KC 20; TRAVERSE không kém giả dược về MACE: EAU 2026 mục 3.5.5); không có bằng chứng làm tăng ung thư tuyến tiền liệt (EAU 2026 mục 3.5.4; AUA 2018 KC 17). Mục tiêu nồng độ: tertile giữa của khoảng bình thường (AUA 2018 KC 22).",
+     "Chống chỉ định đã kiểm: không muốn con, không ung thư tuyến tiền liệt tiến triển/vú, Hct 46% (< 48%), không suy tim, không nhồi máu cơ tim/đột quỵ trong 6 tháng, PSA 0,9 ng/mL, IPSS thấp, không tiền sử gia đình huyết khối (EAU 2026 Bảng 3.4; ES 2018 KC 2.2, Bảng 7). Ngưỡng Hct khác nhau giữa các nguồn (EAU 48–50% tương đối, ≥ 54% tuyệt đối; ES > 48%); bệnh nhân dưới cả hai.",
+     "Chọn gel thay vì tiêm depot lúc khởi đầu cho nam nguy cơ cao (EAU 2026 mục 3.4.3.c, yếu); tiêm testosterone undecanoate theo EAU là 1.000 mg mỗi 10–14 tuần (sau liều nạp 6 tuần), theo ES 2018 là 750 mg, 4 tuần sau, rồi mỗi 10 tuần: hai lịch khác nhau do nhãn thuốc ở châu Âu và Mỹ; ca này không chọn tiêm.",
+     "Đồng mắc: tiền đái tháo đường (ADA 2026 Bảng 2.2) và rối loạn lipid quản lý bằng lối sống, theo dõi định kỳ; testosterone không dùng để kiểm soát đường huyết (ES 2018 KC 2.6). Mục tiêu giảm cân cụ thể: không có trong tài liệu đã tải.",
+     "Theo dõi: sau 3 tháng đánh giá triệu chứng, testosterone, Hct, PSA, huyết áp, vòng eo (EAU 2026 mục 3.5.8, Bảng 3.6); sau 3–6 tháng nếu testosterone bình thường mà triệu chứng không cải thiện thì bàn ngưng (AUA 2018 KC 31). Nếu dùng testosterone, ngáy và béo phì làm nguy cơ tăng Hct cao hơn (EAU 2026 Bảng 3.6 chú thích 1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Testosterone gel 1% (CHỈ KHI chọn phương án B sau khi bàn lợi–hại; phương án A: chưa kê)",
+      "ham_luong": "1% (10 mg testosterone/g gel); chế phẩm đang lưu hành tại Việt Nam: không có trong tài liệu đã tải",
+      "lieu": "50 mg (khoảng 5 g gel) × 1 lần/ngày; chỉnh lên đến 100 mg/ngày theo nồng độ testosterone",
+      "duong": "Bôi ngoài da sạch, khô: vai, cánh tay trên hoặc bụng; không bôi bìu",
+      "thoi_diem": "Buổi sáng, một lần mỗi ngày, sau khi tắm",
+      "so_ngay": "Đánh giá lại sau 3 tháng; dùng lâu dài nếu có lợi, bàn ngưng nếu testosterone về bình thường mà triệu chứng không cải thiện sau 3–6 tháng",
+      "ghi_chu": "Liều khởi đầu 50–100 mg gel 1% (ES 2018 Bảng 5; EAU 2026 Bảng 3.5: gel 1–2% 50–100 mg/ngày); khởi 50 mg là lựa chọn của người biên soạn. Đo testosterone 2–8 giờ sau bôi, sau ≥ 1 tuần dùng (ES 2018 Bảng 9), nhắm giữa khoảng bình thường (AUA 2018 KC 22). Bôi xong mặc áo che và rửa tay bằng xà phòng, tránh da kề da với người thân (AUA 2018 KC 26; ES 2018 Bảng 8). Không kê khi PSA > 4 ng/mL hoặc Hct > 48–54% (EAU 2026 Bảng 3.4; ES 2018 Bảng 7)."
+     },
+     {
+      "thuoc": "Testosterone undecanoate tiêm bắp (KHÔNG chọn lúc khởi đầu ở ca này)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "1.000 mg mỗi 10–14 tuần sau liều nạp 6 tuần, hoặc 750 mg mỗi 10 tuần (EAU 2026 mục 3.4.3.b.2, Bảng 3.5); ES: 750 mg, lặp lại sau 4 tuần, rồi mỗi 10 tuần (ES 2018 Bảng 5)",
+      "duong": "Tiêm bắp sâu",
+      "thoi_diem": "Theo lịch trên",
+      "so_ngay": "Không áp dụng ở lượt này",
+      "ghi_chu": "Chỉ để so sánh. Depot tăng Hct nhiều hơn gel (EAU 2026 mục 3.5.6), không rút nhanh được khi có tác dụng phụ (EAU 2026 Bảng 3.5); khởi đầu ưu tiên gel (EAU 2026 mục 3.4.3.c, yếu)."
+     }
+    ],
+    "dan_do": [
+     "Anh không cần kháng sinh vì không có nhiễm khuẩn. Bệnh của anh là nội tiết nam thấp có liên quan đến cái bụng, bia, thuốc lá và giấc ngủ. Muốn hết lâu dài phải đụng đến những thứ đó, thuốc không đứng một mình.",
+     "Giảm bia, bỏ thuốc lá, ăn tối nhẹ, thêm rau, vận động đều mỗi ngày. Giảm cân từ từ: lợi ích lên testosterone nhỏ và dễ tăng lại (EAU 2026 mục 3.4.3.a: 60–86% cân giảm bị lấy lại sau 3 năm).",
+     "Chưa leo cột một mình, nhất là khi mệt hoặc ngủ chưa đủ; dùng dây an toàn đúng quy cách, có người đỡ phía dưới; báo tổ trưởng là sức khỏe đang được khám để điều chỉnh việc. Lời dặn an toàn lao động: không có trong tài liệu đã tải.",
+     "Quay lại sau 2 tuần (khoảng hẹn do người biên soạn chọn) để chọn A hay B. Nếu bôi gel: mỗi sáng khoảng 5 g lên vai/cánh tay/bụng, chờ khô, mặc áo che, rửa tay bằng xà phòng, tránh để người thân chạm vào chỗ bôi; xét nghiệm kiểm tra 2–8 giờ sau bôi, sau ≥ 1 tuần dùng (ES 2018 Bảng 9).",
+     "Vợ anh tiếp tục dùng thuốc tránh thai như cũ. Testosterone làm giảm sinh tinh (EAU 2026 mục 3.5.1); tài liệu đã tải không nói testosterone dùng như biện pháp tránh thai.",
+     "Mang kết quả này theo mỗi lần khám để khỏi bị kê kháng sinh nữa. Nếu dùng gel: tái khám 3, 6, 12 tháng rồi mỗi năm, kiểm testosterone, Hct, PSA (EAU 2026 Bảng 3.6).",
+     "Quay lại ngay hoặc đi cấp cứu nếu: đau ngực, khó thở, sưng đau một bắp chân (EAU 2026 mục 3.5.5–3.5.6: huyết khối/thuyên tắc phổi mức nhẹ cao hơn trong TRAVERSE); đau đầu dữ dội hoặc nhìn mờ, mất thị trường (EAU 2026 mục 3.3.2: dấu hiệu bệnh lý tuyến yên); tiểu khó, tiểu máu; té ngã hoặc đau xương bất thường sau khi bắt đầu thuốc."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh chọn phương án A: sau 3 tháng giảm 4 kg, bia còn 1–2 lần/tuần nhưng vẫn hút thuốc; testosterone sáng nhịn ăn 8,4 nmol/L, triệu chứng gần như cũ. Anh khởi gel 50 mg/ngày, sau 3 tháng testosterone 17 nmol/L, Hct 47%, ham muốn tốt hơn. Sau 8 tháng anh thấy khỏe nên tự ngưng gel và trở lại bia, tăng 6 kg; ba tháng sau triệu chứng tái phát. Lần này anh không xin kháng sinh mà mang hồ sơ đến bàn lại kế hoạch lối sống và theo dõi.",
+ "nhieu": [
+  "Đòi kháng sinh 'như năm ngoái': không kê, giải thích bằng chính bệnh của anh (không sốt, không tiểu buốt, nước tiểu sạch), đưa ngay việc làm được (xét nghiệm nội tiết, kế hoạch); xem lời thoại ở phần phân tích xử trí.",
+  "Phơi nắng nhiều nên anh quy cho 'mệt vì nắng': phân biệt bằng nước uống, nước tiểu và việc mệt không đỡ trong hai tháng mưa.",
+  "Vợ dùng thuốc tránh thai: không liên quan nguyên nhân; chỉ cho thấy hai vợ chồng đã có kế hoạch không sinh con, nên không vướng chống chỉ định testosterone vì ham muốn có con."
+ ],
+ "bai_hoc_bien": [
+  "Than 'mệt' của nam trung niên béo phì: hỏi riêng về ham muốn, cương buổi sáng; triệu chứng tình dục là đặc hiệu nhất (EAU 2026 mục 3.3.5, Bảng 3.2). Đừng dừng ở lời xin kháng sinh.",
+  "Chẩn đoán chỉ khi có triệu chứng VÀ testosterone toàn phần thấp lặp lại, sáng 7–10 giờ, nhịn ăn (EAU 2026 mục 3.3.4–3.3.5; AUA 2018 KC 1–3; ES 2018 KC 1.1). Không sàng lọc đại trà (ES 2018 KC 1.2).",
+  "Có testosterone thấp thì tìm nguyên nhân: LH/FSH để phân nguyên phát/thứ phát, prolactin, TSH; béo phì và bệnh đồng mắc là nguyên nhân chức năng phổ biến nhất (EAU 2026 mục 3.3).",
+  "Trước khi dùng testosterone: luôn hỏi ý định sinh con (EAU 2026 mục 3.5.1; AUA 2018 KC 23); đo Hb/Hct, PSA, thăm trực tràng, đánh giá nguy cơ tim mạch và ngưng thở khi ngủ (EAU 2026 mục 3.5.9; AUA 2018 KC 11–12).",
+  "Testosterone không dùng để 'hết mệt', 'tăng sức' (EAU 2026 mục 3.4.2.f; AUA 2018 KC 15). Chỉ định nằm ở triệu chứng tình dục + thiếu hụt thật.",
+  "Dưới 10% chẩn đoán 'viêm tuyến tiền liệt' có nhiễm khuẩn chứng minh (EAU Urological Infections 2026 mục 3.11.3); điều trị lần trước không xét nghiệm là gốc của 'tái phát'.",
+  "Lý do thật (muốn nghỉ việc, suýt rơi khi leo cột) hỏi mới ra; xử trí bằng tư vấn an toàn lao động và giấy nghỉ ngắn theo tình trạng thực, không cấp khống (TT 56/2017/TT-BYT)."
+ ],
+ "diem_nho": [
+  "Chẩn đoán: triệu chứng + testosterone toàn phần thấp lặp lại, sáng 7–10 giờ, nhịn ăn. Ngưỡng: EAU 2026 < 12 nmol/L; AUA 2018 < 300 ng/dL (≈ 10,4 nmol/L); ES 2018 giới hạn dưới 264 ng/dL (≈ 9,2 nmol/L).",
+  "LH thấp/bình thường + testosterone thấp = thứ phát (EAU 2026 Hình 3.1); prolactin khi giảm ham muốn (EAU 2026 mục 3.3.4; AUA 2018 KC 7). MRI yên khi thứ phát kèm prolactin cao, triệu chứng khối yên hoặc TT < 6 nmol/L (EAU 2026 mục 3.3.5).",
+  "Chống chỉ định testosterone: muốn con, ung thư tuyến tiền liệt/vú tiến triển, Hct ≥ 54% (EAU 2026 Bảng 3.4); ES 2018 Bảng 7: Hct > 48%, PSA > 4 (hoặc > 3 nguy cơ cao), suy tim không kiểm soát, nhồi máu cơ tim/đột quỵ trong 6 tháng, huyết khối, ngưng thở nặng chưa điều trị, triệu chứng tiểu nặng (IPSS > 19).",
+  "Gel 1% 50–100 mg/ngày (ES 2018 Bảng 5; EAU 2026 Bảng 3.5); mục tiêu giữa khoảng bình thường (AUA 2018 KC 22). Theo dõi 3, 6, 12 tháng rồi hằng năm: testosterone, Hct, PSA (EAU 2026 Bảng 3.6).",
+  "Lợi ích: ham muốn, cương nhẹ, tần suất quan hệ; chưa chứng minh cho năng lượng, mệt, nhận thức (EAU 2026 mục 3.4.2; AUA 2018 KC 14–15). TRAVERSE: không kém giả dược về MACE; gãy xương lâm sàng 3,50% so với 2,46% (HR 1,43) (NEJM 2024;390:203).",
+  "PHQ-9: 5, 10, 15, 20 là ngưỡng nhẹ, vừa, vừa-nặng, nặng (Kroenke 2001). TSH tham chiếu 0,4–4,0 mIU/L (ATA 2014)."
+ ],
+ "nguon": [
+  "TL-0509 · EAU Guidelines on Sexual and Reproductive Health, Limited Update March 2026 – mục 3.2, 3.3.1–3.3.5 (Bảng 3.1–3.3, Hình 3.1), 3.4.1 (Bảng 3.4), 3.4.2.c–f, 3.4.3.a–c (Bảng 3.5), 3.5.1, 3.5.4–3.5.9 (Bảng 3.6).",
+  "TL-0534 · AUA Evaluation and Management of Testosterone Deficiency 2018 (Mulhall JP, J Urol 2018;200:423) – khuyến cáo 1–3, 5–7, 10–12, 14–17, 20–23, 26, 29–31 (bản 2024 chỉ rà soát xác nhận, theo kho).",
+  "TL-0537 · Endocrine Society 2018 (Bhasin S, JCEM 2018;103:1715) – khuyến cáo 1.1–1.3, 2.1–2.3, 2.6, 3.2; Hình 1, Bảng 1, 2, 5, 7–9. Chưa kiểm được bản mới hơn tính đến 10/2026 (theo kho).",
+  "TL-0541 · TRAVERSE fracture substudy (Snyder PJ, NEJM 2024;390:203) – tóm tắt: 5.204 nam, gãy xương lâm sàng 3,50% so với 2,46%, HR 1,43. Thử nghiệm mẹ (NEJM 2023;389:107) chỉ đọc qua EAU 2026 mục 3.5.5.",
+  "TL-0512 · EAU Guidelines on Urological Infections, Limited Update March 2026 – mục 3.11.3, 3.11.4.a, 3.11.4.h.",
+  "TL-0600 · Kroenke K, et al. The PHQ-9. J Gen Intern Med 2001;16:606 – ngưỡng 5, 10, 15, 20. TL-0326 · ATA Hypothyroidism 2014 (Thyroid 2014;24:1670) – phần khuyến cáo 1, TSH 0,4–4,0 mIU/L. TL-0296/TL-0674 · ADA 2026 Bảng 2.2. TL-0281 · QĐ 2892/QĐ-BYT 2022 Bảng 4.1, mục 4.2 (số hiệu chưa kiểm độc lập, theo kho).",
+  "TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c – giấy nghỉ ốm; nguồn bổ sung tự tìm, đã ghi trong sổ mâu thuẫn, chưa đối chiếu bản hiện hành sau Luật BHXH 2024."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-04): viết mới. Đã đọc: TL-0509 mục 3.1–3.5.9; TL-0534 khuyến cáo 1–31; TL-0537 tóm tắt khuyến cáo, Hình 1, Bảng 1, 2, 5, 7–9; TL-0541 tóm tắt; TL-0512 mục 3.11; TL-0600; TL-0326 (khoảng TSH); TL-0674 Bảng 2.2; TL-0281 Bảng 4.1.",
+  "Biến 'thuốc đang dùng = thuốc tránh thai' ở nam: người vợ dùng; bệnh nhân không dùng thuốc thường xuyên. Đặt trong su_that 'thuoc_sinh_san' và quyết định testosterone/sinh con.",
+  "Chỗ thiếu tài liệu: chế phẩm testosterone lưu hành và giá tại Việt Nam; hàm lượng ống tiêm; mục tiêu giảm cân cụ thể; lời dặn an toàn lao động khi leo cột; tác hại kháng sinh cụ thể; hướng dẫn BYT về suy sinh dục nam (kho không có); liều sildenafil/tadalafil.",
+  "Mâu thuẫn mới đề xuất: xem TN-0441_mau_thuan.md (ngưỡng testosterone; thời điểm khởi trị; ngưỡng Hct; PSA; lịch tiêm undecanoate).",
+  "Mục SHBG/fT tính chưa có trong danh mục CLS (đề xuất trong TN-0441_de_xuat_danh_muc.json); ca dùng chữ trong xu_tri."
+ ]
+}
