@@ -1,0 +1,825 @@
+{
+ "ma_ca": "TN-0237",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-04)",
+ "benh": "TN_viem_tuyen_tien_liet",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Viêm tuyến tiền liệt",
+  "chan_doan_phai_loai_tru": [
+   "BPH",
+   "Ung thư TLT",
+   "Áp xe"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Lập trình viên",
+  "yeu_to_khoi_phat": "Sau dùng NSAID",
+  "thuoc_dang_dung": "Thuốc bắc không rõ",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Quốc Khôi",
+  "tuoi": 29,
+  "gioi": "Nam",
+  "nghe": "Lập trình viên backend ở công ty phần mềm (ngồi 10–12 giờ/ngày, hay làm quá giờ khi gần hạn bàn giao)",
+  "can_nang": 72,
+  "chieu_cao": 176,
+  "xung_ho": "Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'. Bác sĩ gọi anh là 'anh Khôi'.",
+  "tinh_cach": "Làm việc với số liệu nên thích lý lẽ có con số và nguồn; nói gọn, hơi tự ái khi bị coi là tự chẩn đoán trên mạng. Ngại nói chuyện tiểu tiện, sinh lý; hay quên uống nước, nhịn tiểu cho kịp tiến độ.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: đến với tờ ghi chú in sẵn 'viêm tuyến tiền liệt mạn, kháng sinh 6 tuần đến 6 tháng, cần PSA và MRI loại ung thư', xin kháng sinh 'mạnh nhất'. Anh dịu xuống khi bác sĩ ghi nhận phần đúng rồi giải thích bằng chính số liệu của anh (nhiệt độ, tuyến nóng đau, bạch cầu, thời gian triệu chứng) và nói rõ khi nào mới làm PSA, MRI. Bác sĩ gạt đi ('đừng tin Google') thì anh im lặng, vẫn định tự mua thuốc và đi chụp MRI nơi khác.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d0a47c",
+   "toc": "#1f1b19",
+   "kieuToc": "ngan",
+   "ao": "#3d4a5c",
+   "aoKieu": "thun",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau lưng dưới – mông, nóng người; tái khám theo hẹn sau khi uống thuốc giảm đau",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Đặng Quốc Khôi, 29 tuổi, lập trình viên, đến phòng khám cuối giờ chiều, nói là tái khám theo hẹn: sáu ngày trước anh khám đau lưng ở một phòng khám gần công ty, được kê thuốc giảm đau và dặn quay lại sau 5 ngày. Anh vẫn đau lưng – mông và 'hơi nóng người'. Sinh hiệu: mạch 96 l/p, HA 118/74 mmHg, nhiệt độ 38,2 °C, nhịp thở 18 l/p, SpO₂ 99%, cân nặng 72 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện truyền kháng sinh tĩnh mạch là quá tay: anh sốt 38,2 °C nhưng tỉnh, uống được, tiểu được, không rét run: mức nhẹ – vừa, uống thuốc tin cậy thì điều trị ngoại trú là phù hợp (EAU 2026 mục 3.7.3.a.3). Anh nghỉ nhiều ngày sát hạn bàn giao, tốn viện phí.",
+    "chuyen_tuyen": "Anh bị chuyển lên tuyến trên làm MRI tuyến tiền liệt ngay hôm nay. Chưa có chỉ định: anh ổn định, chưa bí tiểu, chưa nghi áp xe; hình ảnh cắt lớp dành cho người nặng hoặc còn triệu chứng sau 48–72 giờ điều trị đúng (EAU 2026 mục 3.7.2.e, 3.11.4.h). Anh mất cả buổi chiều, kháng sinh bị chậm vì chờ lịch."
+   },
+   "loi_mo": "Chào bác sĩ, em đến tái khám theo hẹn ạ. Chín ngày nay em đau lưng dưới với đau sau mông, ngồi code lâu là tức. Thuốc giảm đau em uống hết hôm qua rồi mà hôm nay người cứ nóng nóng, chắc do ngồi nhiều với thiếu ngủ.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "118/74",
+    "nhiet": "38,2",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": [
+     "Sốt 38,2 °C"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn vì đau lưng dưới lan ra mông đã chín ngày, hôm nay thêm nóng người. Anh chỉ nói chuyện đau lưng, không tự nêu chuyện tiểu tiện.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian"
+    },
+    {
+     "id": "dau",
+     "noi_dung": "Đau âm ỉ lưng dưới rồi tức sâu giữa hậu môn và bìu (tầng sinh môn), lan ra sau mông, 6/10; tăng khi ngồi lâu và khi rặn đi cầu, nghỉ ngơi không hết hẳn. Không đau khi cúi, không tê chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vị trí đau tầng sinh môn, không giống đau lưng cơ học"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Từ đêm thứ 5 ớn lạnh, ba đêm liền sốt khoảng 38,5 °C, sáng hạ sau viên thuốc giảm đau nên anh cho là do mất ngủ. Viên cuối uống sáng hôm qua, hôm nay sốt lại; chưa rét run.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt, bị thuốc giảm đau che"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Ba ngày nay tiểu buốt cuối dòng, tiểu dắt 8–10 lần/ngày, đêm dậy 2–3 lần, tia yếu, tiểu xong còn cảm giác chưa hết, hơi đau khi xuất tinh. Không tiểu máu. Anh nghĩ do ít nước, nhiều cà phê, không liên quan lưng; lúc khám trước chưa có các triệu chứng này.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiểu xuất hiện sau lần khám trước"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Bác sĩ phòng khám gần công ty thấy cơ cạnh sống căng, cho diclofenac 50 mg × 2 lần/ngày sau ăn × 5 ngày, hẹn lại sau 5 ngày. Lúc đó anh chưa sốt, chưa có triệu chứng tiểu. Anh uống đủ, dạ dày hơi xót. Không dùng thuốc giảm đau nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng: NSAID (yếu tố khởi phát), lần khám trước"
+    },
+    {
+     "id": "kh_sinh",
+     "noi_dung": "Không dùng kháng sinh nào trong 12 tháng qua (kể cả quinolon). Chưa từng viêm đường tiểu, sỏi thận, đặt thông tiểu, nội soi, sinh thiết. Không đái tháo đường, bệnh gan thận. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kháng sinh 6 tháng qua (chọn quinolon), tiền sử, dị ứng"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Một bạn gái ổn định, quan hệ không phải lúc nào cũng dùng bao. Không chảy mủ niệu đạo, không đau bìu, không loét sinh dục; bạn gái không triệu chứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ bệnh lây qua đường tình dục"
+    },
+    {
+     "id": "nang",
+     "noi_dung": "Vẫn tiểu được, không bí tiểu, không rét run, không nôn, ăn uống được, không lú lẫn, không chóng mặt khi đứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng (quyết định ngoại trú)"
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Hai tháng nay mỗi ngày anh sắc một thang thuốc bắc 'bổ thận' mua ở tiệm Đông y theo lời đồng nghiệp; không biết thành phần, không nhãn. Anh quên khai vì xem là thuốc bổ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng: thuốc bắc không rõ"
+    },
+    {
+     "id": "google",
+     "noi_dung": "Tối qua anh tra Google, hỏi chatbot, in ghi chú: 'viêm tuyến tiền liệt mạn, kháng sinh 6 tuần đến 6 tháng, khó khỏi; cần PSA, MRI loại ung thư'. Anh xin 'kháng sinh liều mạnh nhất' và muốn biết mình có đúng không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: chẩn đoán tự tra, điều kiện để anh dịu xuống"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Anh sợ nhất là bệnh tuyến tiền liệt mạn gây rối loạn cương, khó có con và 'biết đâu là ung thư', trong khi định cưới năm sau. Vì ngại nên ba ngày nay không dám nói chuyện tiểu tiện.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nỗi lo thật phía sau việc tra mạng",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh lo điều gì nhất, đã đọc gì trên mạng, hoặc hỏi thẳng 'anh lo chuyện sinh lý, ung thư phải không'; hỏi chung 'còn gì nữa không' thì anh đáp 'không có'."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, da nóng, niêm mạc hồng, không rét run. Ngồi hơi nghiêng một bên mông.",
+     "k": 1,
+     "hien": "Anh ngồi hơi nghiêng, da nóng."
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng giữ đường cong, không co cứng cơ cạnh sống, ấn dọc mỏm gai và khe liên đốt không điểm đau; gập – ngửa – nghiêng bình thường; Lasègue âm tính; sức cơ, phản xạ gân xương chi dưới bình thường.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm; ấn trên xương mu hơi đau, không đề kháng; gõ trên xương mu không đục.",
+     "k": 1,
+     "hien": "Bụng mềm, anh hơi nhăn mặt khi ấn trên xương mu."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau, chạm thận âm tính, không cầu bàng quang.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Bìu cân đối; tinh hoàn, mào tinh hai bên không to, không đau, không nóng đỏ; bẹn không khối.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Cơ thắt hậu môn bình thường, không trĩ viêm. Tuyến tiền liệt to hơn bình thường, nóng, rất đau khi chạm (anh giật người), mềm đều, nhẵn, không nhân cứng, không vùng nhão ba động. Chỉ khám nhẹ một lần, không xoa bóp. Găng không dính máu.",
+     "k": 1,
+     "hien": "Anh giật người, kêu đau khi ngón tay chạm thành trước trực tràng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "BC 13,2 G/L (neutrophil 80%) · Hb 150 g/L · TC 275 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 13.2,
+      "neu_pct": 80.0,
+      "neu": 10.56,
+      "lym_pct": 12.0,
+      "lym": 1.58,
+      "mono_pct": 7.0,
+      "mono": 0.92,
+      "eos_pct": 0.8,
+      "eos": 0.11,
+      "baso_pct": 0.2,
+      "baso": 0.03,
+      "rbc": 5.0,
+      "hgb": 150,
+      "hct": 0.44,
+      "mcv": 88.0,
+      "mch": 30.0,
+      "mchc": 340,
+      "rdw": 13.0,
+      "plt": 275
+     },
+     "n": "EAU 2026 mục 3.11.4.h (khuyến cáo yếu): công thức máu ở viêm tuyến tiền liệt cấp; bạch cầu tăng, neutrophil ưu thế."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Bạch cầu 3+, nitrit dương tính, hồng cầu 1+, protein vết, glucose và ceton âm tính, tỷ trọng 1.024.",
+     "ab": 1,
+     "n": "EAU 2026 mục 3.11.4.c: que thử nitrit, bạch cầu có giá trị tiên đoán dương 95%, âm 70%; QĐ 3931 mục 2b."
+    },
+    "cay_nuoc_tieu": {
+     "v": "e",
+     "r": "Đã lấy mẫu giữa dòng TRƯỚC liều kháng sinh đầu, gửi cấy và kháng sinh đồ; kết quả sau 48–72 giờ.",
+     "n": "Xét nghiệm quan trọng nhất (EAU 2026 mục 3.11.4.d, 3.11.4.h); lấy mẫu trước kháng sinh, không chờ kết quả mới điều trị (mục 3.7.3)."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 68 mg/L.",
+     "ab": 1,
+     "bang": {
+      "crp": 68
+     },
+     "n": "Làm mốc theo dõi; không đổi quyết định hôm nay (tài liệu đã tải không nêu CRP trong chẩn đoán viêm tuyến tiền liệt)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,9 mmol/L · Creatinin 82 µmol/L · eGFR 116 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.9,
+      "creat": 82,
+      "egfr": 116
+     },
+     "n": "Mốc nền sau 5 ngày NSAID (NSAID có nguy cơ tổn thương thận: AUA 2025 khuyến cáo 20, tr. 28). Chỉnh liều levofloxacin theo thận: không có trong tài liệu đã tải."
+    },
+    "naat_sti": {
+     "v": "u",
+     "r": "NAAT nước tiểu đầu dòng: Chlamydia trachomatis và Neisseria gonorrhoeae âm tính.",
+     "n": "Nam trẻ quan hệ không luôn dùng bao: loại trừ nhiễm khuẩn lây qua đường tình dục; nước tiểu đầu dòng là mẫu ưu tiên cho NAAT (EAU 2026 mục 3.11.4.g.2)."
+    },
+    "psa": {
+     "v": "n",
+     "r": "PSA toàn phần 6,2 ng/mL (tăng do viêm, không phản ánh ung thư).",
+     "n": "PSA tăng ở khoảng 60% viêm tuyến tiền liệt cấp, không có giá trị chẩn đoán (EAU 2026 mục 3.11.4.g.3, 3.11.4.h); nhiễm khuẩn có thể làm PSA cao đến một năm (EAU Prostate Cancer 2026 (TL-0507) Bảng 5.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tuyến tiền liệt cấp do vi khuẩn (NIH loại I), mức nhẹ – vừa, ổn định, chưa bí tiểu hay nhiễm khuẩn huyết; sốt bị thuốc giảm đau che ba đêm",
+     "ok": 1,
+     "n": "Sốt + triệu chứng tiểu + tuyến to, nóng, rất đau khi thăm trực tràng nhẹ (EAU Urological Infections 2026 (TL-0512) mục 3.7.2.a, 3.11.4.a, 3.11.4.c; QĐ 3931/2015 (TL-0285) bài 14 mục 2a); bạch cầu máu tăng, nitrit và bạch cầu niệu dương (EAU 2026 mục 3.11.4.c; QĐ 3931 mục 2b). NIH loại I: EAU 2026 Bảng 9."
+    },
+    {
+     "t": "Đau lưng cơ học do ngồi lâu (chẩn đoán lần khám trước)",
+     "n": "Cột sống không điểm đau, Lasègue âm. QĐ 361/2014 (TL-0286), Đau cột sống thắt lưng, mục 3.3: thể cơ học 'không sốt, không rối loạn chức năng cơ quan mới xuất hiện'. Lần khám trước hợp lý vì lúc đó chưa sốt, chưa có triệu chứng tiểu."
+    },
+    {
+     "t": "Viêm bàng quang đơn thuần hoặc viêm thận – bể thận",
+     "n": "Có sốt nên là nhiễm khuẩn hệ thống (EAU 2026 mục 3.7.1, Bảng 1) nhưng hố thắt lưng không đau, chạm thận âm tính; tuyến đau nóng giải thích đủ."
+    },
+    {
+     "t": "Viêm niệu đạo hoặc viêm mào tinh – tinh hoàn do bệnh lây qua đường tình dục",
+     "n": "Bìu, mào tinh bình thường, không mủ niệu đạo, NAAT âm tính. Nam trẻ thường do bệnh lây qua đường tình dục (EAU 2026 mục 3.12.1) nên phải hỏi và thử."
+    },
+    {
+     "t": "Phì đại lành tính tuyến tiền liệt (BPH)",
+     "n": "29 tuổi, tiểu khó mới vài ngày kèm sốt; tuyến mềm, nóng, đau. Đau vùng chậu phân biệt với BPH (AUA 2025 tr. 6)."
+    },
+    {
+     "t": "Ung thư tuyến tiền liệt",
+     "n": "Không nhân cứng; sốt và nước tiểu nhiễm khuẩn là viêm cấp; nguy cơ thấp dưới 50 tuổi nếu không có yếu tố nguy cơ (EAU Prostate Cancer 2026 (TL-0507) mục 5.1.3). PSA lúc viêm vô nghĩa (EAU Prostate Cancer 2026 (TL-0507) Bảng 5.3)."
+    },
+    {
+     "t": "Áp xe tuyến tiền liệt",
+     "n": "Chưa có dấu hiệu: ổn định, không rét run, không bí tiểu, không vùng ba động. Nghi ngờ thì làm hình ảnh (EAU 2026 mục 3.11.4.c, 3.7.2.e); đánh giá lại 48–72 giờ (mục 3.7.3.a.6)."
+    },
+    {
+     "t": "Viêm tuyến tiền liệt mạn / hội chứng đau vùng chậu mạn (CP/CPPS)",
+     "n": "Mới 9 ngày, có sốt và nhiễm khuẩn niệu; mạn cần triệu chứng ít nhất 3 tháng (EAU 2026 mục 3.11.4.a; AUA 2025 Bảng 1, tr. 7)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Thăm trực tràng nhẹ nhàng một lần; TUYỆT ĐỐI không xoa bóp tuyến tiền liệt",
+     "v": "c",
+     "n": "EAU 2026 mục 3.7.2.a: nam đau tầng sinh môn phải thăm trực tràng; mục 3.11.4.h: không xoa bóp trong viêm cấp (khuyến cáo mạnh) vì gây nhiễm khuẩn huyết (mục 3.11.4.c)."
+    },
+    {
+     "t": "Lấy nước tiểu giữa dòng cấy + kháng sinh đồ TRƯỚC liều kháng sinh đầu; công thức máu và tổng phân tích nước tiểu",
+     "v": "c",
+     "n": "EAU 2026 mục 3.7.2.b, 3.11.4.d, 3.11.4.h; QĐ 3931 mục 2b."
+    },
+    {
+     "t": "Kháng sinh uống ngay, không chờ cấy: levofloxacin 500 mg × 1 lần/ngày, ít nhất 14 ngày, tổng 14–28 ngày (QĐ 3931) hoặc 2–4 tuần (EAU) hoặc 10–14 ngày (IDSA), quyết định lại theo đáp ứng",
+     "v": "c",
+     "n": "QĐ 3931/2015 (TL-0285) bài 14 mục 3a, 3b: ưu tiên quinolon khi chưa có cấy, levofloxacin 500 mg × 1 lần/ngày × 14–28 ngày. EAU Urological Infections 2026 (TL-0512) mục 3.7.3.a.3: ngoại trú cho mức nhẹ – vừa; mục 3.11.5.a: ít nhất 14 ngày, tổng 2–4 tuần; Bảng 5: có liều cao 500 mg × 2 lần/ngày. IDSA 2025 (TL-0518) khuyến cáo I (Ghi chú): 10–14 ngày. Sổ mâu thuẫn mục viêm tuyến tiền liệt cấp (TN-0233)."
+    },
+    {
+     "t": "TMP-SMX 160/800 mg × 2 lần/ngày × 14 ngày kèm một liều ceftriaxone tĩnh mạch đầu; hoặc ofloxacin 200 mg × 2 lần/ngày, norfloxacin 400 mg × 2 lần/ngày × 14–28 ngày",
+     "v": "a",
+     "n": "QĐ 3931 mục 3b (TMP-SMX vẫn có thể chọn; ofloxacin, norfloxacin); EAU 2026 Bảng 5."
+    },
+    {
+     "t": "Kháng sinh 5–7 ngày như viêm bàng quang; nitrofurantoin, fosfomycin uống, pivmecillinam",
+     "v": "w",
+     "n": "EAU 2026 mục 3.7.3.a.4: nam 7 ngày kém hơn 14 ngày; ba thuốc kia không dùng cho nhiễm khuẩn hệ thống (mục 3.6.3.c, khuyến cáo mạnh)."
+    },
+    {
+     "t": "Hạ sốt, giảm đau bằng paracetamol 500–1.000 mg mỗi 6–8 giờ khi cần, tối đa 4 g/24 giờ; không dùng lại diclofenac dài ngày",
+     "v": "c",
+     "n": "QĐ 361/2014 (TL-0286), Hướng dẫn sử dụng thuốc giảm đau, mục 3.1. NSAID ngắn ngày được QĐ 3931 mục 3c cho phép (chấm a); AUA 2025 khuyến cáo 20 (tr. 28) không dùng dài ngày vì dạ dày, thận, phù. NSAID che sốt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gọi hoặc khám lại sau 48–72 giờ đọc kết quả cấy; tái khám khi hết đợt 14 ngày; quay lại ngay khi sốt cao, rét run, tiểu khó, bí tiểu",
+     "v": "c",
+     "n": "EAU 2026 mục 3.7.3.a.6 (theo dõi trực tiếp hoặc điện thoại); mục 3.11.5.d: khoảng 10% bí tiểu."
+    },
+    {
+     "t": "Trấn an có cấu trúc: ghi nhận anh đúng về tuyến tiền liệt; đây là viêm CẤP, chưa mạn; khi nào mới cần PSA, MRI",
+     "v": "c",
+     "n": "Giao tiếp với người mang chẩn đoán tự tra. Định nghĩa mạn: EAU 2026 mục 3.11.4.a, Bảng 9; AUA 2025 Bảng 1."
+    },
+    {
+     "t": "Tạm ngưng thang thuốc bắc chưa rõ thành phần; mang gói đến xem",
+     "v": "a",
+     "n": "Không có trong tài liệu đã tải về thuốc bắc; tạm ngưng là nhận xét thận trọng khi chưa biết thành phần (theo mục thuốc bắc không rõ trong sổ mâu thuẫn)."
+    },
+    {
+     "t": "Đo PSA hôm nay để loại ung thư",
+     "v": "w",
+     "n": "EAU 2026 mục 3.11.4.h: tránh PSA khi viêm; EAU Prostate Cancer 2026 (TL-0507) Bảng 5.3; mục 5.2.8: đo PSA sớm từ 50 tuổi (45 hoặc 40 tuổi khi có nguy cơ); anh 29 tuổi, không tiền sử gia đình."
+    },
+    {
+     "t": "Chụp MRI hoặc CT tuyến tiền liệt, chuyển tuyến ngay",
+     "v": "w",
+     "n": "EAU 2026 mục 3.7.2.e: hình ảnh đầu tiên là siêu âm; cắt lớp khi nặng hoặc còn triệu chứng sau 48–72 giờ điều trị đúng."
+    },
+    {
+     "t": "Xoa bóp hoặc sinh thiết tuyến tiền liệt khi đang nhiễm khuẩn",
+     "v": "h",
+     "n": "EAU 2026 mục 3.11.4.h (xoa bóp: khuyến cáo mạnh), mục 3.11.4.e (sinh thiết khi chưa điều trị làm tăng nguy cơ nhiễm khuẩn huyết)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tuyến tiền liệt cấp do vi khuẩn (NIH loại I), mức nhẹ – vừa, ngoại trú được; tác nhân nhiều khả năng E. coli (EAU 2026 mục 3.11.3), đã gửi cấy; chưa bí tiểu, nhiễm khuẩn huyết hay áp xe; sốt bị diclofenac che ba đêm",
+     "Đã loại: đau lưng cơ học, viêm thận – bể thận, viêm niệu đạo – mào tinh do bệnh lây qua đường tình dục; BPH, ung thư, áp xe, viêm mạn/CP/CPPS không phù hợp",
+     "Nhiễu và lý do thật: tái khám theo hẹn nhưng không kể triệu chứng tiểu; tra mạng ra 'viêm mạn', đòi PSA, MRI, kháng sinh mạnh; sợ rối loạn sinh lý, ung thư; thuốc bắc không rõ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi đau ở đâu, sốt, triệu chứng tiểu, thuốc đã dùng (giảm đau, thuốc bắc), kháng sinh gần đây, tình dục → khám cột sống, bụng, hố thắt lưng, bìu, THĂM TRỰC TRÀNG nhẹ → nước tiểu, công thức máu, gửi cấy → chẩn đoán → xử trí (EAU 2026 mục 3.7.2.a, 3.11.4.c, 3.11.4.d).",
+     "Đau tầng sinh môn kèm sốt và triệu chứng tiểu mới là chìa khóa; nam đau vùng chậu bắt buộc thăm trực tràng (EAU 2026 mục 3.7.2.a). Đau lưng cơ học thì không sốt (QĐ 361/2014 (TL-0286) mục 3.3); diclofenac che sốt ba đêm.",
+     "Điển hình: khởi phát đột ngột, triệu chứng tiểu, đau khó định vị, sốt (EAU 2026 mục 3.11.4.a; QĐ 3931 mục 2a). Cấp khác mạn: mạn do vi khuẩn và CP/CPPS cần triệu chứng từ 3 tháng (EAU 2026 Bảng 9, mục 3.11.4.a; AUA 2025 Bảng 1, tr. 7).",
+     "Vì sao ngoại trú: tỉnh, uống được, mạch 96, HA 118/74, tiểu được, không dùng quinolon trong 6 tháng (EAU 2026 mục 3.7.3.a.3, 3.7.4). Vì sao PSA, MRI chưa cần: PSA vô nghĩa lúc viêm (EAU 2026 mục 3.11.4.h; EAU Prostate Cancer 2026 (TL-0507) Bảng 5.3); cắt lớp cho người nặng hoặc còn triệu chứng sau 48–72 giờ (mục 3.7.2.e)."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh ngay, không chờ cấy (EAU 2026 mục 3.11.5.a, 3.7.3). Levofloxacin 500 mg × 1 lần/ngày (QĐ 3931 mục 3b; EAU 2026 Bảng 5), tối thiểu 14 ngày; tổng 14–28 ngày (QĐ 3931 mục 3a), 2–4 tuần (EAU 2026 mục 3.11.5.a) hoặc 10–14 ngày (IDSA 2025 khuyến cáo I, Ghi chú). Khác nhau do năm, đối tượng, bằng chứng; 14 ngày là mốc chung.",
+     "Giảm đau: paracetamol đầu tay (QĐ 361/2014 (TL-0286) mục 3.1); NSAID ngắn ngày được nêu (QĐ 3931 mục 3c) nhưng không dài ngày (AUA 2025 khuyến cáo 20). Thuốc bắc: tài liệu đã tải không nêu, tạm ngưng khi chưa biết thành phần.",
+     "An toàn: gọi hoặc khám lại 48–72 giờ (EAU 2026 mục 3.7.3.a.6); khoảng 10% bí tiểu (EAU 2026 mục 3.11.5.d). Không xoa bóp, không sinh thiết, hoãn PSA (EAU 2026 mục 3.11.4.c, 3.11.4.e, 3.11.4.h)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levofloxacin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg × 1 lần/ngày (QĐ 3931 mục 3b; EAU 2026 Bảng 5; liều cao 500 mg × 2 lần/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Cùng một giờ mỗi ngày, bắt đầu hôm nay ngay sau khi lấy mẫu cấy",
+      "so_ngay": "14 ngày rồi đánh giá lại (QĐ 3931 mục 3a: 14–28 ngày; EAU 2026 mục 3.11.5.a: tổng 2–4 tuần; IDSA 2025: 10–14 ngày)",
+      "ghi_chu": "Không dùng nếu đã dùng fluoroquinolon trong 6 tháng (EAU 2026 mục 3.7.4): anh chưa dùng. Tác dụng phụ, tương tác, chỉnh liều theo thận: không có trong tài liệu đã tải; dặn ngừng và báo khi đau gân gót, đau khớp (tổn thương gân Achille khi dùng dài ngày: AUA 2025 khuyến cáo 42, tr. 41–42)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500–1.000 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi sốt hoặc đau, cách 6–8 giờ, tối đa 4 g/24 giờ",
+      "so_ngay": "Vài ngày, đến khi hết sốt",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), Hướng dẫn sử dụng thuốc giảm đau, mục 3.1; chống chỉ định khi suy tế bào gan."
+     },
+     {
+      "thuoc": "Diclofenac (đã hết) và thuốc bắc không rõ thành phần",
+      "ham_luong": "Viên 50 mg; thang tự sắc",
+      "lieu": "Không dùng lại / tạm ngưng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Diclofenac không dùng dài ngày; thuốc bắc đến khi biết thành phần",
+      "ghi_chu": "Diclofenac đã 5 ngày, xót dạ dày (AUA 2025 khuyến cáo 20, tr. 28). Thuốc bắc: không có trong tài liệu đã tải; nhận xét thận trọng."
+     }
+    ],
+    "dan_do": [
+     "Anh đoán đúng: bệnh ở tuyến tiền liệt. Đây là viêm CẤP do vi khuẩn, chưa mạn (mạn là từ 3 tháng: EAU Urological Infections 2026 mục 3.11.4.a); chữa được bằng kháng sinh uống. Đau sau mông vì tuyến nằm sát trực tràng; sốt lại hôm nay vì diclofenac hết tác dụng che.",
+     "Uống levofloxacin 1 viên mỗi ngày cùng giờ, đủ 14 ngày kể cả khi hết sốt (QĐ 3931/2015 bài 14 mục 3a, 3b); uống đủ nước để nước tiểu khoảng 2 lít/ngày, không nhịn tiểu (mục 3c). Ngưng thuốc bắc, không dùng lại diclofenac. Đau gân gót, đau khớp thì ngừng thuốc và báo (AUA 2025 khuyến cáo 42).",
+     "PSA và MRI chưa cần: PSA lúc viêm tăng giả, kéo dài (EAU Prostate Cancer 2026 Bảng 5.3); MRI chỉ khi nặng lên hoặc còn triệu chứng sau 48–72 giờ (EAU 2026 mục 3.7.2.e).",
+     "Gọi hoặc quay lại sau 48–72 giờ đọc kết quả cấy (EAU 2026 mục 3.7.3.a.6), tái khám khi hết đợt thuốc. Đến ngay nếu sốt cao, rét run, tiểu nhỏ giọt hoặc không tiểu được, đau tăng, chóng mặt. Không tự bóp, nong vùng tầng sinh môn."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Hai tuần sau, anh Khôi quay lại đúng hẹn, vừa uống hết 14 viên levofloxacin. Phòng khám đã gọi báo kết quả cấy nước tiểu từ ngày thứ ba: E. coli ≥ 10⁵ CFU/mL, nhạy levofloxacin, ciprofloxacin, ceftriaxone, trimethoprim-sulfamethoxazol, amikacin; kháng ampicillin. Anh hết sốt từ đêm thứ hai, hết buốt khi tiểu, nhưng còn tức sâu sau mông. Sinh hiệu: mạch 78 l/p, HA 116/72 mmHg, nhiệt độ 36,8 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh bị chuyển lên tuyến trên để chụp MRI, thăm dò 'đau vùng chậu mạn' ngay lúc này. Anh đã hết sốt, hết buốt, cấy nhạy và đỡ rõ sau hai tuần nên đây là đáp ứng chậm chứ không thất bại: đánh giá hình ảnh dành cho người nặng lên, không đỡ sau 48–72 giờ hoặc tái phát (EAU 2026 mục 3.7.3.a.4, 3.7.3.a.6). Anh bị gắn nhãn mạn quá sớm.",
+    "nhap_vien": "Anh bị nhập viện đổi sang kháng sinh tiêm 'mạnh hơn' vì chưa hết hẳn tức sau mông. Kháng sinh phổ rộng dành cho bệnh nặng, xấu đi hoặc nghi tắc nghẽn (EAU 2026 mục 3.7.3.a.2), còn anh tỉnh, không sốt, tiểu được và cấy nhạy với thuốc uống. Anh nghỉ làm, truyền không cần thiết."
+   },
+   "loi_mo": "Bác sĩ ơi, em uống hết thuốc rồi, hết sốt hết buốt rồi, nhưng sau mông vẫn còn tức tức, ngồi quá hai tiếng là bị. Em đọc thấy 'kháng sinh không khỏi thì thành mạn'. Hay bác sĩ đổi thuốc mạnh hơn, chụp MRI cho chắc?",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "116/72",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Hết sốt từ đêm thứ hai uống thuốc, hết buốt khi tiểu sau khoảng 6 ngày. Uống đủ 14 viên mỗi sáng sau ăn, không quên, không nôn, không tiêu chảy. Anh thấy đỡ khoảng một nửa so với lúc bắt đầu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến, tuân thủ thuốc"
+    },
+    {
+     "id": "con_lai",
+     "noi_dung": "Tức sâu tầng sinh môn và sau mông 3–4/10 (trước 6/10), xuất hiện khi ngồi quá 2 giờ, đỡ khi đứng dậy; tiểu ngày 6–7 lần, đêm 1 lần, tia khá mạnh; còn đau thoảng khi xuất tinh. Không buốt, không máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng còn lại: đỡ một phần"
+    },
+    {
+     "id": "nang",
+     "noi_dung": "Không sốt lại, không rét run, không bí tiểu, tiểu không ngắt quãng, không đau bìu, đau không tăng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu thất bại điều trị, biến chứng (quyết định tiếp tục, không đổi)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Đã ngưng thuốc bắc từ lượt trước, gói còn nguyên, không nhãn. Không dùng lại diclofenac; dùng paracetamol vài lần đầu. Giảm cà phê còn 1 ly/ngày, uống khoảng 1,8 lít nước, vẫn ngồi 10 giờ, chưa đổi ghế.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng, sinh hoạt"
+    },
+    {
+     "id": "google",
+     "noi_dung": "Anh đọc thêm: 'kháng sinh không hết thì thành mạn', 'MRI mới thấy ổ nhỏ', 'PSA cho biết tuyến hết viêm chưa'. Anh yên tâm hơn nếu được giải thích bằng số liệu của chính anh và biết mốc nào thì phải lo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: chẩn đoán tự tra, điều kiện để anh dịu xuống"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, thoải mái, da khô ấm, không sốt.",
+     "k": 0,
+     "hien": "Anh ngồi thoải mái, nhiệt độ 36,8 °C."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau trên xương mu, không cầu bàng quang.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Tuyến tiền liệt kích thước gần bình thường, không còn nóng, mềm đều, hơi nhạy cảm ở thùy phải, không nhân cứng, không ba động. Cơ nâng hậu môn hai bên không căng đau. Khám nhẹ một lần, không xoa bóp.",
+     "k": 1,
+     "hien": "Anh hơi khó chịu nhẹ khi chạm thành bên phải, không giật người như lần trước."
+    }
+   },
+   "cls": {
+    "cay_nuoc_tieu": {
+     "v": "e",
+     "r": "Kết quả cấy lượt 1: E. coli ≥ 10⁵ CFU/mL; nhạy levofloxacin, ciprofloxacin, ceftriaxone, TMP-SMX, amikacin; kháng ampicillin.",
+     "n": "EAU 2026 mục 3.7.3.a.4: điều chỉnh theo kháng sinh đồ; kết quả cho thấy đang dùng đúng thuốc, không có lý do đổi."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 6 mg/L (lượt 1: 68 mg/L).",
+     "bang": {
+      "crp": 6
+     },
+     "n": "Giảm rõ, ủng hộ đáp ứng khách quan dù còn triệu chứng; tài liệu đã tải không đặt ngưỡng CRP cho quyết định."
+    },
+    "sa_tlt": {
+     "v": "u",
+     "r": "Siêu âm qua thành bụng: tuyến tiền liệt khoảng 24 mL, đồng nhất, không ổ tụ dịch hay áp xe, nước tiểu tồn lưu khoảng 15 mL, hai thận không ứ nước.",
+     "n": "Hữu ích để loại áp xe và tồn lưu khi còn tức sau 2 tuần (EAU 2026 mục 3.11.4.h, 3.7.3.a.6); siêu âm là hình ảnh đầu tiên (mục 3.7.2.e)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tuyến tiền liệt cấp do vi khuẩn (E. coli nhạy levofloxacin), đáp ứng một phần sau 14 ngày: hết sốt, hết buốt, CRP và bạch cầu bình thường, còn tức tầng sinh môn – đáp ứng chậm, không phải thất bại điều trị",
+     "ok": 1,
+     "n": "Cấy dương tính, thuốc đúng; hết sốt, chỉ số nhiễm khuẩn bình thường. EAU 2026 mục 3.7.3.a.6: tìm nguyên nhân chậm hồi phục khi nặng lên, còn triệu chứng sau 48–72 giờ điều trị đúng hoặc tái phát; mục 3.11.5.a: uống tổng 2–4 tuần."
+    },
+    {
+     "t": "Thất bại điều trị (kháng thuốc), áp xe hoặc bí tiểu bán phần",
+     "n": "Cấy nhạy, hết sốt, CRP giảm, tuyến hết nóng, siêu âm không ổ tụ dịch, tồn lưu 15 mL. Áp xe dưới 1 cm điều trị nội, lớn hơn thì hút hoặc dẫn lưu (EAU 2026 mục 3.11.5.d)."
+    },
+    {
+     "t": "Đã thành viêm tuyến tiền liệt mạn do vi khuẩn hoặc CP/CPPS",
+     "n": "Mới 14 ngày; mạn cần triệu chứng từ 3 tháng (EAU 2026 mục 3.11.4.a; AUA 2025 Bảng 1, tr. 7)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giữ nguyên levofloxacin 500 mg × 1 lần/ngày, không đổi thuốc; tiếp thêm 14 ngày (tổng 4 tuần) vì còn triệu chứng, hoặc dừng ở ngày 14 và theo dõi sát (IDSA 2025)",
+     "v": "c",
+     "n": "QĐ 3931/2015 (TL-0285) bài 14 mục 3a, 3b: tối thiểu 14 ngày, có thể trên 3 tuần, levofloxacin 14–28 ngày; EAU Urological Infections 2026 (TL-0512) mục 3.11.5.a: tổng 2–4 tuần, mục 3.11.6: triệu chứng dai dẳng có thể lặp đợt dài hơn; IDSA 2025 khuyến cáo I (Ghi chú): 10–14 ngày cho nam nghi viêm tuyến tiền liệt cấp, bằng chứng hạn chế. Sổ mâu thuẫn TN-0233: ca tiếp diễn theo hướng 4 tuần."
+    },
+    {
+     "t": "Giải thích đây là đáp ứng chậm và nêu mốc phải lo: sốt lại, rét run, bí tiểu, đau tăng",
+     "v": "c",
+     "n": "EAU 2026 mục 3.7.3.a.6: đánh giá thêm khi nặng lên, còn triệu chứng sau 48–72 giờ điều trị đúng hoặc tái phát; mục 3.11.5.d: bí tiểu khoảng 10%. Mốc thời gian cụ thể cho 'không đỡ thêm': không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Siêu âm bàng quang – tuyến tiền liệt để loại áp xe, tồn lưu nước tiểu",
+     "v": "a",
+     "n": "EAU 2026 mục 3.11.4.h (khuyến cáo yếu, chọn lọc), mục 3.7.2.e; không bắt buộc khi đã hết sốt và đáp ứng."
+    },
+    {
+     "t": "Paracetamol khi cần; tránh NSAID dài ngày; đứng dậy đi lại, không nhịn tiểu, uống đủ nước",
+     "v": "c",
+     "n": "QĐ 361/2014 (TL-0286) mục 3.1; AUA 2025 khuyến cáo 20 (tr. 28); QĐ 3931 mục 3c (nước tiểu khoảng 2 lít/24 giờ). Tần suất đứng dậy cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trả lời 'đã thành mạn chưa': chưa; mạn là triệu chứng từ 3 tháng",
+     "v": "c",
+     "n": "EAU 2026 mục 3.11.4.a; AUA 2025 Bảng 1 (tr. 7), khuyến cáo 10."
+    },
+    {
+     "t": "Đổi sang kháng sinh phổ rộng hoặc tiêm, nhập viện vì chưa hết hẳn",
+     "v": "w",
+     "n": "EAU 2026 mục 3.7.3.a.2: kháng sinh phổ rộng cho bệnh nặng, xấu đi hoặc nghi tắc nghẽn; ca này cấy nhạy và đáp ứng."
+    },
+    {
+     "t": "Chụp MRI/CT hoặc chuyển tuyến ngay",
+     "v": "w",
+     "n": "EAU 2026 mục 3.7.2.e, 3.7.3.a.4: dành cho người nặng hoặc không cải thiện; anh đã cải thiện."
+    },
+    {
+     "t": "Đo PSA để xem tuyến hết viêm chưa, hoặc loại ung thư",
+     "v": "w",
+     "n": "EAU Prostate Cancer 2026 (TL-0507) Bảng 5.3, mục 5.2.8 (đo sớm từ 50 tuổi, hoặc 45/40 tuổi khi có nguy cơ); EAU 2026 mục 3.11.4.h."
+    },
+    {
+     "t": "Hẹn tái khám khi hết đợt (khoảng 2 tuần), quay lại sớm khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "EAU 2026 mục 3.7.3.a.6, 3.11.6."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tuyến tiền liệt cấp do vi khuẩn (E. coli nhạy levofloxacin), đáp ứng một phần sau 14 ngày: hết sốt, hết buốt, chỉ số nhiễm khuẩn bình thường; còn tức tầng sinh môn (đáp ứng chậm, không thất bại)",
+     "Đã loại: thất bại điều trị, áp xe, bí tiểu bán phần; chưa thành mạn (mới 14 ngày); đau cơ sàn chậu không giải thích đủ",
+     "Nhiễu: tra mạng 'không khỏi thì thành mạn', xin thuốc mạnh hơn và MRI"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu hỏi chủ đạo: đỡ chậm bình thường hay thất bại sớm? Thứ tự: hỏi diễn tiến, tuân thủ, dấu hiệu nặng, triệu chứng còn lại → khám bụng, thăm trực tràng nhẹ → kết quả cấy, CRP → chẩn đoán → xử trí (EAU 2026 mục 3.7.3.a.4, 3.7.3.a.6).",
+     "Ủng hộ đáp ứng chậm bình thường: hết sốt từ đêm thứ hai, hết buốt sau 6 ngày, CRP từ 68 xuống 6 mg/L, bạch cầu từ 13,2 xuống 7,6 G/L, tuyến hết nóng, cấy nhạy với thuốc đang dùng. Thất bại sẽ là: sốt lại, bí tiểu, đau tăng, cấy kháng thuốc, ổ tụ dịch (EAU 2026 mục 3.7.3.a.6, 3.11.5.d).",
+     "Thuốc thấm vào mô tuyến kém nên cần đợt dài (EAU 2026 mục 3.11.2, 3.11.5.a: tổng 2–4 tuần; QĐ 3931 mục 3a: có thể trên 3 tuần); IDSA 2025 nêu 10–14 ngày với bằng chứng hạn chế. Mạn là từ 3 tháng (EAU 2026 mục 3.11.4.a; AUA 2025 Bảng 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không đổi thuốc: cấy nhạy, đáp ứng khách quan tốt; kháng sinh phổ rộng chỉ cho bệnh nặng, xấu đi hoặc nghi tắc nghẽn (EAU 2026 mục 3.7.3.a.2). Kéo dài tới tổng 4 tuần (QĐ 3931 mục 3a, 3b; EAU 2026 mục 3.11.5.a, 3.11.6) hoặc dừng ở ngày 14 theo IDSA 2025; ca tiếp diễn theo nhánh 4 tuần (sổ mâu thuẫn TN-0233).",
+     "Không PSA, MRI/CT: không đổi xử trí (EAU 2026 mục 3.11.4.h, 3.7.2.e; EAU Prostate Cancer 2026 (TL-0507) Bảng 5.3). Siêu âm là lựa chọn hợp lý duy nhất nếu muốn loại áp xe. Giảm đau: paracetamol, tránh NSAID dài ngày (AUA 2025 khuyến cáo 20)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levofloxacin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg × 1 lần/ngày, không đổi (QĐ 3931 mục 3b)",
+      "duong": "Uống",
+      "thoi_diem": "Cùng một giờ mỗi sáng, sau ăn",
+      "so_ngay": "Thêm 14 ngày (tổng 28 ngày) vì còn triệu chứng (QĐ 3931 mục 3a: 14–28 ngày; EAU 2026 mục 3.11.5.a: tổng 2–4 tuần); hoặc dừng ở ngày 14 theo IDSA 2025",
+      "ghi_chu": "Đánh giá lại khi hết đợt. Đau gân gót, đau khớp thì ngừng và báo (AUA 2025 khuyến cáo 42, tr. 41–42). Theo dõi men gan, creatinin khi dùng kéo dài: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500–1.000 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi tức nhiều, cách 6–8 giờ, tối đa 4 g/24 giờ",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), Hướng dẫn sử dụng thuốc giảm đau, mục 3.1."
+     }
+    ],
+    "dan_do": [
+     "Anh đang đáp ứng đúng hướng: hết sốt, hết buốt, CRP và bạch cầu bình thường; còn tức vì thuốc thấm vào tuyến chậm nên cần đợt dài 2–4 tuần (EAU Urological Infections 2026 mục 3.11.5.a). Chưa phải bệnh mạn: mạn là từ 3 tháng (mục 3.11.4.a).",
+     "Uống tiếp levofloxacin 1 viên mỗi sáng thêm 14 ngày (QĐ 3931/2015 bài 14 mục 3a, 3b); không tự dừng, không tự mua thuốc, không dùng lại thuốc bắc không rõ thành phần. Đau gân gót, đau khớp, tiêu chảy nặng thì ngừng và báo (AUA 2025 khuyến cáo 42).",
+     "Không đổi thuốc, không MRI, không PSA lúc này vì không đổi xử trí và PSA còn nhiễu (EAU Prostate Cancer 2026 Bảng 5.3). Đứng dậy đi lại, không nhịn tiểu, uống đủ nước.",
+     "Quay lại sau 2 tuần khi hết thuốc; đến ngay nếu sốt lại, rét run, tiểu khó hoặc không tiểu được, đau tăng (EAU 2026 mục 3.7.3.a.6, 3.11.5.d)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Hai tuần sau nữa, anh Khôi quay lại, đã uống đủ 28 ngày levofloxacin. Anh gần như khỏi nhưng thỉnh thoảng còn tức nhẹ sau mông vào cuối ngày ngồi lâu. Sinh hiệu: mạch 74 l/p, HA 114/70 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh bị chuyển lên tuyến trên để nội soi bàng quang, đo niệu động học và chụp MRI chỉ vì còn tức nhẹ sau 4 tuần. Anh đã hết sốt, hết triệu chứng tiểu, tuyến hết nóng; hồi phục chậm là thường gặp, và hướng 'đau vùng chậu mạn' chỉ đặt ra khi triệu chứng kéo dài từ 3 tháng (EAU 2026 mục 3.11.4.a; AUA 2025 Bảng 1, tr. 7). Anh thêm nỗi lo bệnh mạn.",
+    "nhap_vien": "Anh bị nhập viện dùng tiếp kháng sinh tiêm vì 'chưa dứt điểm'. Đã đủ 28 ngày và không còn dấu nhiễm khuẩn hoạt động; kháng sinh lặp lại không có bằng chứng nhiễm khuẩn chỉ tăng kháng thuốc và tác dụng phụ, kể cả tổn thương gân Achille (AUA 2025 khuyến cáo 42, tr. 41–42)."
+   },
+   "loi_mo": "Bác sĩ, em uống hết thuốc rồi. Khỏe hơn nhiều, nhưng cuối ngày ngồi lâu vẫn còn tức tức nhẹ sau mông, em sợ chưa dứt điểm. Em đọc thấy phải uống kháng sinh tới 6 tuần mới khỏi. Bác sĩ cho em uống thêm, rồi đo PSA cho chắc nhé?",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "114/70",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ lượt trước không sốt lại, không buốt; tức sau mông đỡ dần từ 3–4/10 xuống 1–2/10, chỉ khi ngồi trên 3 giờ vào cuối ngày, đứng dậy vài phút là hết.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến, triệu chứng còn lại (hồi phục chậm)"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Tiểu 5–6 lần/ngày, đêm 0–1 lần, tia mạnh, không buốt, không máu; hết đau khi xuất tinh; cương và ham muốn bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiểu, sinh lý (nỗi lo ban đầu)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Uống đủ 28 viên; buồn nôn nhẹ hai ngày đầu rồi hết; không đau gân, đau khớp, tiêu chảy nặng, không dị ứng. Cách đây 5 ngày thấy khỏe, anh sắc lại thang thuốc bắc cũ vì 'bổ sau kháng sinh'; chỉ khai khi bác sĩ hỏi 'hai tuần qua anh có uống thêm gì'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ, thuốc đang dùng (thuốc bắc quay lại)"
+    },
+    {
+     "id": "nang",
+     "noi_dung": "Không sốt lại, không rét run, không bí tiểu, không tiểu đục, không đau bìu, không đau xương cùng tăng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu tái phát, nhiễm khuẩn còn hoạt động"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Vẫn ngồi 9–10 giờ/ngày; cứ 1–2 giờ đứng dậy nhưng gần hạn bàn giao thì quên; uống khoảng 1,8 lít nước; cà phê 1 ly.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề, tư thế ngồi"
+    },
+    {
+     "id": "google",
+     "noi_dung": "Anh in thêm: 'viêm tuyến tiền liệt hay tái phát', 'phải uống kháng sinh 6 tuần', 'PSA để theo dõi'. Anh nghe lời nếu được dặn rõ dấu hiệu tự theo dõi, mốc quay lại và vì sao không cần uống thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: chẩn đoán tự tra, nhu cầu được trấn an"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, khỏe, thoải mái, không sốt.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau.",
+     "k": 0
+    },
+    "truc_trang": {
+     "a": "Tuyến tiền liệt kích thước bình thường, không nóng, đàn hồi đều, hơi nhạy cảm nhẹ ở thùy phải, không nhân cứng, không ba động; cơ nâng hậu môn không căng đau. Khám nhẹ, không xoa bóp.",
+     "k": 1,
+     "hien": "Anh chỉ hơi khó chịu nhẹ bên phải, không giật người."
+    }
+   },
+   "cls": {
+    "psa": {
+     "v": "n",
+     "r": "PSA toàn phần 1,4 ng/mL.",
+     "n": "29 tuổi, không yếu tố nguy cơ (EAU Prostate Cancer 2026 (TL-0507) mục 5.2.8: từ 50 tuổi); PSA còn chịu ảnh hưởng nhiễm khuẩn trước (EAU Prostate Cancer 2026 (TL-0507) Bảng 5.3); EAU 2026 mục 3.11.4.h."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tuyến tiền liệt cấp do vi khuẩn (E. coli) đã điều trị đủ 4 tuần, hồi phục chậm: còn tức nhẹ sau mông, không dấu nhiễm khuẩn còn hoạt động",
+     "ok": 1,
+     "n": "Hết sốt, hết triệu chứng tiểu, tuyến hết nóng, CRP bình thường, đã đủ 28 ngày (QĐ 3931 mục 3a, 3b; EAU 2026 mục 3.11.5.a). Không có xét nghiệm khẳng định khỏi ngoài hết triệu chứng (EAU 2026 mục 3.11.6)."
+    },
+    {
+     "t": "Nhiễm khuẩn còn tồn tại, tái phát hoặc viêm tuyến tiền liệt mạn do vi khuẩn",
+     "n": "Không sốt, nước tiểu sạch, tuyến không nóng; mạn do vi khuẩn là triệu chứng từ 3 tháng (EAU 2026 mục 3.11.4.a; AUA 2025 Bảng 1, tr. 7). Nếu tái phát thì cấy lại, điều trị đợt dài hơn (EAU 2026 mục 3.11.6)."
+    },
+    {
+     "t": "CP/CPPS (đau vùng chậu mạn)",
+     "n": "Chưa đủ 3 tháng (AUA 2025 Bảng 1, tr. 7). Nếu còn đau từ 3 tháng, cấy và thử STI âm thì không lặp kháng sinh (AUA 2025 khuyến cáo 10, 42)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngừng levofloxacin, không kê thêm: đợt đã đủ (28 ngày; nếu lượt 2 đã chọn dừng ở ngày 14 theo IDSA 2025 thì cũng không kê lại), không kéo dài tới 6 tuần, không đợt mới",
+     "v": "c",
+     "n": "QĐ 3931 mục 3a, 3b: 14–28 ngày; EAU 2026 mục 3.11.5.a: tổng 2–4 tuần; 4–6 tuần (EAU 2026 Bảng 10) là cho viêm mạn do vi khuẩn, không phải ca này; IDSA 2025: 10–14 ngày. AUA 2025 khuyến cáo 42: không lặp kháng sinh khi cấy, thử STI âm tính."
+    },
+    {
+     "t": "Không cần xét nghiệm 'khỏi bệnh' bắt buộc; hết triệu chứng là tiêu chuẩn, kiểm tra nước tiểu khi tái phát",
+     "v": "c",
+     "n": "EAU 2026 mục 3.11.6: không có test khỏi bệnh được kiểm chứng ngoài hết triệu chứng."
+    },
+    {
+     "t": "Giải thích diễn tiến hồi phục và mốc phải lo: sốt, buốt tiểu quay lại, bí tiểu, đau tăng; còn triệu chứng đến 3 tháng thì khám lại theo hướng đau vùng chậu mạn",
+     "v": "c",
+     "n": "EAU 2026 mục 3.11.4.a, 3.11.6; AUA 2025 Bảng 1, khuyến cáo 14. Thời điểm hết hẳn triệu chứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hướng dẫn lối sống: đứng dậy đi lại, không nhịn tiểu, uống đủ nước, vận động thể lực; tái khám sau 4–6 tuần",
+     "v": "c",
+     "n": "AUA 2025 khuyến cáo 17 (tr. 24; có điều kiện, bằng chứng C); QĐ 3931 mục 3c. Tần suất đứng dậy cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng hẳn thang thuốc bắc không rõ thành phần",
+     "v": "a",
+     "n": "Không có trong tài liệu đã tải; nhận xét thận trọng khi chưa biết thành phần."
+    },
+    {
+     "t": "Kê thêm kháng sinh (kéo tới 6 tuần) hoặc đổi kháng sinh vì còn tức nhẹ",
+     "v": "w",
+     "n": "EAU 2026 mục 3.11.6 nêu lặp đợt dài hơn trong bối cảnh còn triệu chứng kèm vi sinh dương tính lặp lại, ca này cấy âm; AUA 2025 khuyến cáo 42 và phần thảo luận (tr. 41–42): tăng kháng thuốc, tác dụng phụ."
+    },
+    {
+     "t": "Đo PSA để 'theo dõi viêm' hoặc loại ung thư",
+     "v": "w",
+     "n": "EAU 2026 mục 3.11.4.h; EAU Prostate Cancer 2026 (TL-0507) Bảng 5.3 và mục 5.2.8 (đo sớm từ 50 tuổi, hoặc 45/40 tuổi khi có nguy cơ)."
+    },
+    {
+     "t": "Chuyển tuyến, MRI hoặc nội soi bàng quang ngay vì còn tức nhẹ",
+     "v": "w",
+     "n": "EAU 2026 mục 3.7.2.e; AUA 2025 khuyến cáo 8 (khi chẩn đoán chưa rõ); ca này đã rõ và đáp ứng tốt."
+    },
+    {
+     "t": "Sinh thiết hoặc xoa bóp tuyến tiền liệt",
+     "v": "h",
+     "n": "EAU 2026 mục 3.11.4.e (không khuyến cáo thường quy), mục 3.11.4.h (không xoa bóp trong viêm cấp)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tuyến tiền liệt cấp do vi khuẩn (E. coli) đã điều trị đủ 4 tuần, hồi phục chậm: còn tức nhẹ cuối ngày, không dấu nhiễm khuẩn hoạt động",
+     "Đã loại: nhiễm khuẩn còn tồn tại hoặc tái phát, viêm mạn do vi khuẩn, CP/CPPS (chưa đủ 3 tháng); BPH, ung thư, áp xe đã loại ở lượt trước",
+     "Nhiễu: tra mạng 'phải uống 6 tuần', đòi thêm thuốc và PSA; dùng lại thuốc bắc không rõ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi diễn tiến, thuốc, tác dụng phụ, dấu hiệu tái phát, thuốc tự dùng thêm → khám bụng, thăm trực tràng nhẹ → (không bắt buộc) nước tiểu, CRP → chẩn đoán hồi phục chậm → ngừng thuốc, dặn dò (EAU 2026 mục 3.11.6).",
+     "Quỹ đạo bình thường: sốt hết ngày 2, buốt hết ngày 6, tức từ 6/10 xuống 3–4/10 sau 2 tuần rồi 1–2/10 sau 4 tuần. Bất thường: sốt tái, bí tiểu, đau tăng, tái phát cùng chủng (EAU 2026 mục 3.7.3.a.6, 3.11.6). Mốc mở lại hồ sơ: triệu chứng dai dẳng đến 3 tháng (EAU 2026 mục 3.11.4.a; AUA 2025 Bảng 1, tr. 7).",
+     "Vì sao dừng ở 4 tuần: đủ theo QĐ 3931 mục 3a, 3b (14–28 ngày) và EAU 2026 mục 3.11.5.a (tổng 2–4 tuần). 4–6 tuần (EAU 2026 Bảng 10) là liệu trình viêm mạn do vi khuẩn; anh không thuộc nhóm đó. IDSA 2025 (10–14 ngày) cũng không ủng hộ kéo dài hơn."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngừng thuốc vì không còn nhiễm khuẩn hoạt động và đủ liệu trình; kéo dài hay lặp lại chỉ tăng kháng thuốc, tác dụng phụ (AUA 2025 khuyến cáo 42, tr. 41–42). Không xét nghiệm khẳng định khỏi ngoài triệu chứng (EAU 2026 mục 3.11.6).",
+     "Không PSA vì chưa đến tuổi, còn nhiễu (EAU Prostate Cancer 2026 (TL-0507) mục 5.2.8, Bảng 5.3); không chuyển tuyến, MRI vì chẩn đoán rõ, đáp ứng tốt."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levofloxacin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "Ngừng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không kê thêm",
+      "ghi_chu": "Đã đủ 28 ngày (QĐ 3931 mục 3a, 3b; EAU 2026 mục 3.11.5.a); không lặp đợt khi không có bằng chứng nhiễm khuẩn (AUA 2025 khuyến cáo 42, tr. 41–42)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500–1.000 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi tức nhiều, cách 6–8 giờ, tối đa 4 g/24 giờ",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), Hướng dẫn sử dụng thuốc giảm đau, mục 3.1; tránh NSAID dài ngày (AUA 2025 khuyến cáo 20)."
+     },
+     {
+      "thuoc": "Thuốc bắc không rõ thành phần",
+      "ham_luong": "Thang tự sắc",
+      "lieu": "Ngừng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Đến khi biết thành phần",
+      "ghi_chu": "Không có trong tài liệu đã tải; nhận xét thận trọng."
+     }
+    ],
+    "dan_do": [
+     "Anh khỏi nhiễm khuẩn: đủ 28 ngày thuốc, hết sốt, hết buốt, tuyến không còn nóng. Tức nhẹ cuối ngày là hồi phục chậm, sẽ giảm dần; không cần uống thêm (QĐ 3931/2015 bài 14 mục 3a; EAU Urological Infections 2026 mục 3.11.5.a). Không có xét nghiệm nào 'chứng nhận khỏi' ngoài hết triệu chứng (EAU 2026 mục 3.11.6).",
+     "Kháng sinh dài hơn không giúp thêm mà tăng kháng thuốc, tác dụng phụ (AUA 2025 khuyến cáo 42, tr. 41–42). PSA chưa cần ở tuổi 29 (EAU Prostate Cancer 2026 mục 5.2.8). Không dùng lại thuốc bắc không rõ thành phần.",
+     "Đứng dậy đi lại, không nhịn tiểu, uống đủ nước, vận động thể lực đều (AUA 2025 khuyến cáo 17, tr. 24). Đến sớm nếu sốt lại, buốt tiểu quay lại, tiểu khó hoặc bí tiểu, đau tăng. Còn tức đến 3 tháng thì khám lại để xét hướng đau vùng chậu mạn (EAU 2026 mục 3.11.4.a; AUA 2025 Bảng 1).",
+     "Hẹn tái khám sau 4–6 tuần xác nhận đã hết (khoảng hẹn theo ca, tài liệu đã tải không nêu); sẽ nói tiếp chuyện sinh lý, kế hoạch gia đình nếu anh còn lo."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Khôi ngừng levofloxacin ở ngày 28, bỏ hẳn thang thuốc bắc, đặt báo thức mỗi 60 phút để đứng dậy và uống đủ nước. Cơn tức nhẹ sau mông giảm dần và hết ở khoảng tuần thứ bảy kể từ khi bắt đầu thuốc, chậm hơn anh nghĩ nhưng không tái phát nhiễm khuẩn; anh không phải chụp MRI hay đo PSA. Anh giữ tờ ghi chú in từ mạng nhưng gạch lại chỗ sai ('mạn', 'cần PSA, MRI ngay', 'kháng sinh 6 tuần') và hẹn tái khám sau 4–6 tuần để bàn chuyện sinh lý, kế hoạch cưới.",
+ "nhieu": [
+  "Mang chẩn đoán tự tra trên mạng: anh đúng một nửa (tuyến tiền liệt), sai ở 'mạn' (EAU 2026 mục 3.11.4.a; AUA 2025 Bảng 1), 'cần PSA, MRI' (PSA vô nghĩa khi viêm: EAU 2026 mục 3.11.4.h; EAU Prostate Cancer 2026 (TL-0507) Bảng 5.3; cắt lớp chỉ khi nặng hoặc không đáp ứng: EAU 2026 mục 3.7.2.e) và 'kháng sinh 6 tuần' (4–6 tuần là cho viêm mạn: EAU 2026 Bảng 10).",
+  "Neo 'đau lưng cơ học' và NSAID che sốt: lần khám trước hợp lý vì chưa sốt, chưa có triệu chứng tiểu (QĐ 361/2014 (TL-0286) mục 3.1, 3.3); sốt ba đêm bị diclofenac che nên anh chỉ kể chuyện đau lưng.",
+  "Nguồn lực đầy đủ: vẫn phải biện luận vì sao KHÔNG làm PSA, MRI/CT, sinh thiết, cấy máu thường quy (EAU 2026 mục 3.11.4.e, 3.11.4.h, 3.7.2.d, 3.7.2.e)."
+ ],
+ "bai_hoc_bien": [
+  "Nam trẻ đến vì 'đau lưng' kèm sốt: hỏi triệu chứng tiểu, đau tầng sinh môn và THĂM TRỰC TRÀNG nhẹ (EAU 2026 mục 3.7.2.a); đau lưng cơ học thì không sốt (QĐ 361/2014 (TL-0286) mục 3.3).",
+  "Cấy nước tiểu TRƯỚC kháng sinh; fluoroquinolon uống ít nhất 14 ngày, tổng 2–4 tuần; không dùng quinolon kinh nghiệm nếu đã dùng trong 6 tháng (EAU 2026 mục 3.11.5.a, 3.7.4; QĐ 3931 mục 3a, 3b).",
+  "Đỡ một phần không phải thất bại: hết sốt, CRP giảm, cấy nhạy, tuyến hết nóng thì không đổi thuốc, không cắt lớp; mở lại hồ sơ khi nặng lên, sốt tái, bí tiểu hoặc dai dẳng đến 3 tháng (EAU 2026 mục 3.7.3.a.6, 3.11.4.a).",
+  "Biết khi nào dừng: đủ 4 tuần, hết dấu nhiễm khuẩn thì ngừng, không kéo dài 6 tuần như viêm mạn (EAU 2026 Bảng 10; AUA 2025 khuyến cáo 42). Không PSA khi đang viêm (EAU Prostate Cancer 2026 (TL-0507) Bảng 5.3)."
+ ],
+ "diem_nho": [
+  "Viêm tuyến tiền liệt cấp (NIH loại I): khởi phát đột ngột, triệu chứng tiểu, đau khó định vị, sốt, tuyến to đau khi thăm trực tràng (EAU 2026 mục 3.11.4.a, 3.11.4.c; QĐ 3931 mục 2a).",
+  "Levofloxacin 500 mg × 1 lần/ngày × 14–28 ngày (QĐ 3931 mục 3b), tổng 2–4 tuần (EAU 2026 mục 3.11.5.a), 10–14 ngày (IDSA 2025 khuyến cáo I, Ghi chú); đánh giá lại 48–72 giờ (EAU 2026 mục 3.7.3.a.6). Mạn là từ 3 tháng; CP/CPPS không lặp kháng sinh (AUA 2025 khuyến cáo 42); NSAID không dùng dài ngày (khuyến cáo 20)."
+ ],
+ "nguon": [
+  "EAU Guidelines on Urological Infections, Limited Update March 2026 (TL-0512) – mục 3.7.1–3.7.4 (3.7.2.a–e, 3.7.3.a.2–6, 3.7.4), 3.11 (Bảng 9, 3.11.3, 3.11.4.a–h, 3.11.5.a–e, Bảng 10, 3.11.6), 3.12.1, Bảng 1, Bảng 5.",
+  "BYT – QĐ 3931/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh thận – tiết niệu (TL-0285) – bài 14 Viêm tuyến tiền liệt cấp, mục 1, 2a, 2b, 3a, 3b, 3c, 4.",
+  "IDSA 2025 Guideline on Complicated UTI: Duration of Antibiotics (TL-0518; Trautner BW, et al.) – khuyến cáo I, II (Ghi chú về nam nghi viêm tuyến tiền liệt cấp), phần tóm tắt bằng chứng.",
+  "AUA Male Chronic Pelvic Pain Guideline 2025 (TL-0519; Lai HH, et al., J Urol 2025;214) – Bảng 1 (tr. 7), khuyến cáo 2, 5, 8, 10, 14, 17 (tr. 24), 20 (tr. 28), 29, 42 (tr. 41–42).",
+  "EAU Guidelines on Prostate Cancer, Limited Update March 2026 (TL-0507) – mục 5.1.3, 5.2.8, Bảng 5.3. BYT – QĐ 361/QĐ-BYT 2014 (TL-0286) – Đau cột sống thắt lưng mục 3.1, 3.3 (tr. 136–137); Hướng dẫn sử dụng thuốc giảm đau mục 3.1."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 2026-11-04. Đã đọc: TL-0512 mục 3.7, 3.11, Bảng 5; TL-0285 bài 14; TL-0518 khuyến cáo I–II, thảo luận về nam; TL-0519 khuyến cáo 1–44, Bảng 1; TL-0507 mục 5.1.3, 5.2.8, Bảng 5.3; TL-0286 Đau cột sống thắt lưng, thuốc giảm đau.",
+  "Mâu thuẫn: không có mới; áp dụng mục TN-0233 §1 (ghi cả ba, gộp một mục c, 5–7 ngày chấm w, ca tiếp diễn theo nhánh 4 tuần) và mục thuốc bắc không rõ.",
+  "Không có trong tài liệu đã tải: NSAID che sốt; tác dụng phụ, tương tác, chỉnh liều theo thận của levofloxacin; thuốc bắc; kháng fluoroquinolon tại Việt Nam; tần suất đứng dậy; thời gian hết hẳn triệu chứng; mốc thời gian cho 'không đỡ thêm'; alpha-blocker cho viêm cấp (AUA khuyến cáo 18 chỉ cho CP/CPPS có triệu chứng tiểu nên không kê).",
+  "Thiết kế: ba lượt đều ve_hen (ngày 0, 14, 28). Không đề xuất danh mục mới. Không ảnh da, không âm thanh (mạch < 100). Nguồn lực đầy đủ nên khoa_cls = null."
+ ]
+}
