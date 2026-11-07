@@ -1,0 +1,510 @@
+{
+ "ma_ca": "TT-0150",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TT_mat_ngu_man",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn giấc ngủ (mất ngủ mạn)",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Ngưng thở khi ngủ"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Bộ đội (cán bộ hậu cần quân đội)",
+  "yeu_to_khoi_phat": "Khởi phát âm thầm, từ từ",
+  "thuoc_dang_dung": "Tự mua amoxicillin",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại bị ngừng nhiệm vụ"
+ },
+ "benh_nhan": {
+  "ten": "Tạ Thị Kim Oanh",
+  "tuoi": 52,
+  "gioi": "Nữ",
+  "nghe": "Thiếu tá, cán bộ hậu cần (phòng tài chính) của một sư đoàn; làm giờ hành chính, mỗi tháng trực ban đêm 3–4 phiên",
+  "can_nang": 56,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Ở nhà chị gọi chồng là 'ông xã' (ông Khải, cựu chiến binh đã nghỉ hưu), gọi con gái là 'cháu Vy'.",
+  "tinh_cach": "Nghiêm cẩn, nói ngắn gọn, ngay thẳng theo kiểu báo cáo; ít kể cảm xúc, hay tự chẩn đoán ('chắc trong người có viêm') để khỏi nói điều mình lo thật. Dè dặt, hỏi ngay 'hồ sơ khám này có gửi về đơn vị không?'; cởi mở dần khi được giải thích rõ hồ sơ thuộc về chị. Đã đồng ý thì làm rất kỷ luật.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: chị tự trả tiền, không dùng thẻ bảo hiểm (sợ để lại dấu trong hồ sơ), chỉ mang theo khoảng 300 nghìn đồng. Mỗi lần bác sĩ nhắc tới một xét nghiệm chị hỏi 'cái này bao nhiêu, có bắt buộc không, bỏ được không', từ chối ngay các gói lớn, và chọn xét nghiệm rẻ nhất 'cho đủ lệ'. Nhiễu giảm khi bác sĩ nói rõ giá, nói xét nghiệm nào làm thay đổi cách điều trị và xét nghiệm nào bỏ được, rồi xếp thứ tự ưu tiên trong số tiền chị có.",
+  "ngoai_hinh": {
+   "da": "#d6a47c",
+   "toc": "#2e2520",
+   "kieuToc": "ngan",
+   "ao": "#6f8a74",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Mệt mỏi, nặng đầu nhiều tuần, nghi 'có viêm', đã tự mua amoxicillin không đỡ; xin kháng sinh và thuốc bổ, mang theo ít tiền",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 52 tuổi, cán bộ hậu cần trong quân đội, đến khám một mình, tự trả tiền, không đưa thẻ bảo hiểm. Than mệt nhiều tuần, nặng đầu, nghi 'có viêm', đã tự mua amoxicillin uống 5 ngày không đỡ. Chị nói chỉ mang theo khoảng 300 nghìn đồng. Sinh hiệu lúc tiếp đón: HA 126/78 mmHg, mạch 74 l/p, nhiệt 36,7 °C, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Oanh bị giữ lại nằm viện 'theo dõi mệt mỏi, nghi nhiễm trùng' dù không sốt, họng và phổi bình thường, không có dấu hiệu nặng, không ý nghĩ tự hại. Hồ sơ nhập viện ghi rõ chẩn đoán rối loạn giấc ngủ, chính điều chị sợ, và chị mất nhiều ngày công, tốn tiền viện phí vượt xa 300 nghìn đồng. Nằm phòng chung ồn, đèn sáng thì mất ngủ nặng thêm, thói quen duy trì (cà phê, điện thoại, nằm bù) vẫn nguyên; tài liệu đã tải không nêu tiêu chuẩn nhập viện cho mất ngủ mạn không biến chứng, hướng chuẩn là CBT-I ngoại trú (ESRS 2023 mục 1.4, Hình 1).",
+    "chuyen_tuyen": "Chị bị chuyển lên tuyến trên để làm đa ký, chụp CT hoặc MRI sọ 'tìm nguyên nhân'. Đa ký khoảng 3 triệu đồng, gấp 10 lần số tiền chị mang theo, chị mất thêm một đến hai ngày công đi lại và để lại thêm dấu trong hồ sơ. Đa ký không cần để chẩn đoán mất ngủ, chỉ khi nghi rối loạn giấc ngủ khác hoặc kháng điều trị (ESRS 2023 mục 3.4, Bảng 4), chị chưa thử CBT-I. Chị bỏ không đi, vẫn không biết cách chữa và tin rằng mình 'bệnh nặng, phải chụp mới biết'."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi mệt mấy tuần nay, đầu nặng, người ê ẩm, chắc trong người có viêm. Tôi tự mua amoxicillin uống năm ngày rồi mà không đỡ. Bác sĩ kiểm tra giúp tôi còn viêm ở đâu, kê thuốc kháng sinh mạnh hơn, với ít thuốc bổ. Tôi chỉ mang theo có chừng đó tiền, xét nghiệm gì thật cần thì bác sĩ nói.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "126/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị than mệt mỏi nhiều tuần, nặng đầu, đầu óc kém tỉnh táo, nghĩ 'trong người có viêm'. Chị đã tự mua amoxicillin uống mà không đỡ nên đến xin bác sĩ 'kiểm tra xem còn viêm ở đâu', xin kháng sinh mạnh hơn hoặc thuốc bổ. Chị nói gọn: 'tôi chỉ mệt thôi, không có gì khác'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ngoài: mệt, nghi nhiễm trùng, xin kháng sinh/thuốc bổ; chưa nhắc tới giấc ngủ"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Chị tự trả tiền, không đưa thẻ bảo hiểm, chỉ mang theo khoảng 300 nghìn đồng cho cả lần khám. Con gái đang học năm ba đại học ở Hà Nội, tháng nào chị cũng gửi tiền học; chồng nghỉ hưu, lương hưu không nhiều. Chị hỏi giá từng xét nghiệm và muốn biết cái nào 'thật sự cần'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Ràng buộc tiền: phải xếp ưu tiên xét nghiệm đổi được quyết định"
+    },
+    {
+     "id": "amoxicillin",
+     "noi_dung": "Khoảng ba tuần trước chị hơi rát họng, ê ẩm người. Chị ra hiệu thuốc mua một hộp amoxicillin 500 mg, uống 1 viên × 3 lần/ngày trong 5 ngày (còn thừa 5 viên trong túi). Họng hết rát sau 3 ngày nhưng mệt và nặng đầu vẫn y như cũ. Không ban, không tiêu chảy, không dị ứng thuốc. Hiện không sốt, không ho, không đau họng, không nghẹt mũi, không đau mặt. Chị không dùng thuốc nào khác, không thuốc nam, không thuốc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự mua: không có bằng chứng nhiễm trùng hiện tại, và 5 ngày kháng sinh không giải thích được 8 tháng mất ngủ"
+    },
+    {
+     "id": "kieu_ngu",
+     "noi_dung": "Hỏi chung thì chị đáp 'ngủ cũng được, hơi nông thôi'. Hỏi từng đêm cụ thể: lên giường 22 giờ, nằm xem điện thoại đến khoảng 23 giờ 30 mới ngủ; thức dậy lúc 2 đến 3 giờ sáng, khó ngủ lại, chập chờn khoảng 4 giờ rồi 5 giờ dậy hẳn. Chị ước ngủ thực khoảng 4 đến 4,5 giờ. Cuối tuần nằm đến 7 giờ 30. Dậy không thấy khoẻ. Nếu được hướng dẫn chấm bảng ISI, chị khoảng 18 điểm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mô tả đêm ngủ: khó vào giấc, thức giữa đêm/thức sớm, không phục hồi; ngủ bù cuối tuần"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Khoảng 8 tháng, không có biến cố nào làm khởi phát: ban đầu chỉ thỉnh thoảng nằm lâu mới ngủ, rồi tăng dần, đến nay 5–6 đêm mỗi tuần. Hai tháng gần đây thức giữa đêm nhiều hơn. Trước đó chị ngủ tốt, chưa bao giờ phải dùng thuốc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian và tần suất (đủ tiêu chuẩn mạn), khởi phát âm thầm từ từ"
+    },
+    {
+     "id": "ban_ngay",
+     "noi_dung": "Ban ngày chị mệt, nặng đầu nhất là sau 14 giờ, hay quên số liệu, đọc bảng quyết toán phải xem lại hai lần. Chị ngủ trưa khoảng 1 giờ ở văn phòng. Buổi họp buổi chiều hay gà gật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hệ quả ban ngày (tiêu chuẩn chẩn đoán) và ngủ trưa dài"
+    },
+    {
+     "id": "gat_gu",
+     "noi_dung": "Thực ra trong hai tháng nay có hai lần chị thiếp đi vài chục giây ngay khi ngồi họp, một lần ký nhầm số liệu phải sửa lại. Các đêm trực ban chị sợ gà gật nên cầm điện thoại cho tỉnh. Chị chưa nói với ai, vì sợ bị coi là không đủ sức đảm nhiệm.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chị chỉ kể khi bác sĩ hỏi riêng về chuyện buồn ngủ gà gật ở chỗ làm, sai sót công việc hoặc an toàn lúc trực đêm, sau khi đã giải thích rõ hồ sơ khám thuộc về chị. Hỏi chung 'có ảnh hưởng công việc không' chị đáp 'không đáng kể'.",
+     "y": "Hệ quả ban ngày nặng hơn lời kể ban đầu: an toàn lúc trực đêm, cần dặn không làm việc nguy cơ khi buồn ngủ"
+    },
+    {
+     "id": "yeu_to_duy_tri",
+     "noi_dung": "Chị uống cà phê 3 ly mỗi ngày, ly cuối khoảng 15 giờ. Chị nằm giường xem điện thoại và đọc tin nhóm công tác đến khi buồn ngủ. Chị nằm bù và ngủ trưa vì nghĩ 'bù được'. Đêm thức dậy chị nhìn đồng hồ, tính còn ngủ được mấy tiếng, càng tính càng tỉnh. Không rượu bia, không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố duy trì: cà phê, điện thoại trên giường, nằm bù, nhìn đồng hồ, lo không ngủ"
+    },
+    {
+     "id": "lo_nghi",
+     "noi_dung": "Chị lo công việc sổ sách, sợ quyết toán có sai số. Mỗi đêm thức giấc chị nghĩ lại các con số ngày mai phải báo cáo. Lo lắng chỉ xoay quanh công việc và chuyện hồ sơ sức khoẻ, không lo lan sang chuyện khác, không hồi hộp, không run tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo lắng khu trú vào công việc, chưa đủ lo âu lan toả"
+    },
+    {
+     "id": "khi_sac",
+     "noi_dung": "Khí sắc chị không buồn, vẫn thích đi bộ buổi sáng, vẫn vui khi gọi điện cho con gái. Ăn ngon, cân nặng ổn định, không thấy mình vô dụng hay có lỗi, không nghĩ đến chết hay tự làm hại bản thân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ trầm cảm và ý tưởng tự hại (phải hỏi trực tiếp)"
+    },
+    {
+     "id": "ngay_ngung_tho",
+     "noi_dung": "Chồng ngủ cùng giường chưa bao giờ nói chị ngáy to hay ngừng thở. Chị không thức dậy sặc thở, không khô miệng, không đau đầu buổi sáng; nặng đầu chỉ rõ vào buổi chiều và đỡ hơn sau những hôm ngủ khá. Chân không có cảm giác khó chịu phải cử động khi nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ngưng thở khi ngủ và hội chứng chân không yên"
+    },
+    {
+     "id": "man_kinh",
+     "noi_dung": "Chị mãn kinh được khoảng 1,5 năm. Thỉnh thoảng nóng bừng mặt, khoảng 1–2 lần mỗi tuần, ngắn, ít khi làm chị thức giấc. Không đổ mồ hôi ướt áo. Không dùng nội tiết.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dữ kiện nhiễu: triệu chứng mãn kinh nhẹ, không giải thích được mất ngủ 5–6 đêm/tuần"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Năm nay đơn vị đang xét cử chị đi lớp bồi dưỡng cán bộ, đồng thời sắp tới đợt khám sức khoẻ định kỳ ở quân y. Chị sợ nếu khai mất ngủ, quân y ghi 'rối loạn giấc ngủ', 'dùng thuốc an thần' vào sổ sức khoẻ thì bị xếp loại thấp, bị ngừng cử đi học, bị cho ngừng trực ban hoặc chuyển công tác. Vì vậy chị không khám ở quân y, tự trả tiền ở ngoài và đổi chuyện thành 'trong người có viêm'. Thứ chị cần nhất là tìm cách ngủ được mà không để lại dấu trong hồ sơ.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chị chỉ nói khi bác sĩ hỏi vì sao chị không khám ở quân y hoặc chị lo điều gì nhất nếu khai mất ngủ, hoặc khi bác sĩ giải thích hồ sơ ở phòng khám thuộc về chị. Hỏi 'chị có lo lắng gì không' chị trả lời 'lo công việc thôi'.",
+     "y": "Lý do thật: ngại bị ngừng nhiệm vụ nên giấu mất ngủ; cần hỏi thẳng và nói rõ về bảo mật"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chị không tăng huyết áp, không đái tháo đường, không bệnh tim, không hen. Chưa từng điều trị tâm thần. Mẹ chị cũng 'ngủ ít' khi lớn tuổi. Tiểu đêm 0–1 lần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử nội khoa, gia đình"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, gọn gàng, vẻ mệt, quầng thâm nhẹ dưới mắt. Cân nặng 56 kg, cao 156 cm, BMI 23,0 kg/m². Niêm hồng, không phù, không vàng da.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Vòng cổ 33 cm. Không hạch cổ, không hạch nách. Tuyến giáp không to, không nhân, không rung miu. Tĩnh mạch cổ không nổi.",
+     "k": 1,
+     "hien": "Cổ gọn, không thấy hạch hay bướu."
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, không mủ, amidan nhỏ, lưỡi gà bình thường (Mallampati II). Mũi thông, vách ngăn thẳng, không dịch chảy sau mũi, gõ xoang không đau.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran, gõ trong. Nhịp thở 16 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, gan lách không sờ thấy.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Hai chân không phù, không giãn tĩnh mạch, hai bắp chân bằng nhau, không đau.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ. Dây sọ bình thường. Sức cơ 5/5 bốn chi, phản xạ gân xương đều hai bên. Không run, không cứng.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da niêm mạc hồng, không ban, không bầm máu, không dấu hiệu dị ứng thuốc.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, ngồi thẳng, nói ngắn gọn kiểu báo cáo, dè dặt lúc đầu rồi cởi mở dần khi được giải thích về hồ sơ. Khí sắc không trầm, vẫn cười khi nhắc con gái, còn hứng thú đi bộ. Lo lắng khu trú vào công việc sổ sách và nỗi sợ bị ghi hồ sơ, không lan toả. Tư duy mạch lạc, không hoang tưởng, không ảo giác. Nhớ đủ 3 từ sau 5 phút; hay quên số liệu khi mệt. Không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói ngắn gọn, dè dặt, vẻ mệt."
+    }
+   },
+   "cls": {
+    "tsh": {
+     "v": "u",
+     "r": "TSH 2,1 mIU/L · FT4 14 pmol/L (trong giới hạn bình thường)",
+     "n": "Mệt và rối loạn giấc ngủ cần loại suy giáp bằng xét nghiệm hormon tuyến giáp (QĐ 2058/2020 Bài 20 mục 3.2); ESRS 2023 Bảng 4 nêu xét nghiệm tuyến giáp khi có chỉ định. Với chị đây là xét nghiệm đáng tiền nhất vì kết quả bất thường sẽ đổi hướng điều trị (180 nghìn đồng theo bảng giá phòng khám)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,4 G/L · Hb 129 g/L · TC 255 G/L",
+     "bang": {
+      "wbc": 6.4,
+      "neu_pct": 56.0,
+      "neu": 3.58,
+      "lym_pct": 34.0,
+      "lym": 2.18,
+      "mono_pct": 7.0,
+      "mono": 0.45,
+      "eos_pct": 2.5,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.3,
+      "hgb": 129,
+      "hct": 0.39,
+      "mcv": 90.5,
+      "mch": 30.0,
+      "mchc": 331,
+      "rdw": 13.1,
+      "plt": 255
+     },
+     "n": "Bình thường. ESRS 2023 Bảng 4 nêu công thức máu khi có chỉ định; QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê xét nghiệm huyết học. Không bắt buộc; trấn an nỗi lo 'có viêm' (50 nghìn đồng)."
+    },
+    "glu": {
+     "v": "a",
+     "r": "Glucose máu đói 5,2 mmol/L",
+     "bang": {
+      "glu": 5.2
+     },
+     "n": "Bình thường. QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê xét nghiệm sinh hoá. Không bắt buộc khi không có tiểu nhiều, khát nhiều (25 nghìn đồng)."
+    },
+    "crp": {
+     "v": "n",
+     "n": "Không sốt, họng và mũi bình thường, phổi sạch, không dấu nhiễm trùng. ACP/CDC 2016: không xét nghiệm hay dùng kháng sinh khi không có biểu hiện nhiễm khuẩn cần điều trị; ESRS 2023 Bảng 4 có CRP khi có chỉ định, chị không có. Nếu chỉ để trấn an nỗi lo 'có viêm' thì công thức máu đã đủ với số tiền chị có."
+    },
+    "ferritin_sat": {
+     "v": "n",
+     "n": "Hb bình thường, không dấu thiếu sắt, không chân không yên. ESRS 2023 Bảng 4 nêu ferritin, B12 khi có chỉ định, chị không có; ngưỡng ferritin chọn xét nghiệm: không có trong tài liệu đã tải."
+    },
+    "b12": {
+     "v": "n",
+     "n": "Không thiếu máu, không dị cảm; ESRS 2023 Bảng 4 nêu vitamin B12 khi có chỉ định, chị không có."
+    },
+    "fsh_lh": {
+     "v": "n",
+     "n": "Mãn kinh 1,5 năm, triệu chứng vận mạch nhẹ, không giải thích được mất ngủ 5–6 đêm/tuần. Xét nghiệm hormon để chẩn đoán mãn kinh ở tuổi này và cách điều trị triệu chứng vận mạch: không có trong tài liệu đã tải (TL-0646 là thử nghiệm thuốc elinzanetant, không phải hướng dẫn điều trị)."
+    },
+    "ecg": {
+     "v": "n",
+     "n": "Không hồi hộp, đau ngực, mạch 74 l/p đều. QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê điện tâm đồ để xác định bệnh phối hợp; ESRS 2023 Bảng 4 chỉ khi có chỉ định. Không cần với chị và tốn thêm tiền."
+    },
+    "psg": {
+     "v": "n",
+     "n": "Chưa gợi ý rối loạn giấc ngủ khác (BMI 23,0, vòng cổ 33 cm, họng thoáng, chồng không thấy ngáy hay ngưng thở) và chưa thử điều trị. Đa ký cần khi nghi rối loạn ngủ phối hợp hoặc mất ngủ kháng điều trị (ESRS 2023 mục 3.4, Bảng 4, mức A); không cần để chẩn đoán mất ngủ. Chị không phải lái xe nghề nghiệp; nếu sau CBT-I vẫn gà gật thì xét lại. Chi phí 3 triệu đồng vượt quá khả năng của chị."
+    },
+    "dien_nao": {
+     "v": "n",
+     "n": "Không dấu thần kinh, không cơn co giật. QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê điện não đồ, ESRS 2023 Bảng 4 chỉ khi có chỉ định; không có chỉ định ở chị."
+    },
+    "ct_nao": {
+     "v": "n",
+     "n": "Không đau đầu dữ dội, không dấu thần kinh khu trú. Cơ sở không có máy CT; không cần thay thế bằng chuyển tuyến chụp (ESRS 2023 Bảng 4: CT/MRI khi có chỉ định)."
+    },
+    "mri_so_nao": {
+     "v": "n",
+     "n": "Không có chỉ định (ESRS 2023 Bảng 4: chẩn đoán hình ảnh não chỉ khi có chỉ định); cơ sở không có CT và chị không đủ tiền."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn giấc ngủ: mất ngủ mạn (khó vào giấc, thức giữa đêm, thức sớm) khởi phát âm thầm, duy trì bởi cà phê buổi chiều, điện thoại trên giường, nằm bù và ngủ trưa, lo lắng về công việc và hồ sơ; ảnh hưởng ban ngày rõ (mệt, quên, gà gật)",
+     "ok": 1,
+     "n": "Khó vào giấc và duy trì giấc ngủ 5–6 đêm/tuần trong 8 tháng, gây mệt, kém tập trung, sai sót công việc; không do bệnh nội khoa, chất hay thuốc. Đạt ICD-10 (≥ 3 lần/tuần, ≥ 1 tháng; QĐ 2058/2020 Bài 27 mục 3.1.1) và tiêu chuẩn tối thiểu mất ngủ mạn: ≥ 3 đêm/tuần trong 3 tháng kèm hậu quả ban ngày (ESRS 2023 mục 3.1). ISI khoảng 18 thuộc khoảng 15–21: vừa đến nặng (ESRS 2023 mục 3.2). Điều chị than là 'mệt, viêm' chỉ là cách nói che mất ngủ."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Loại trừ: khí sắc không trầm, còn hứng thú, ăn ngon, không tự trách, không ý nghĩ chết; chỉ có mệt và mất ngủ. Trầm cảm nhẹ cần 2/3 triệu chứng đặc trưng và 2/7 triệu chứng phổ biến, kéo dài ≥ 2 tuần (QĐ 2058/2020 Bài 20 mục 3.1.1). Phải hỏi trực tiếp vì rối loạn tâm thần kèm theo thường không được tự kể ra (ESRS 2023 mục 3.5)."
+    },
+    {
+     "t": "Ngưng thở khi ngủ (OSA), kể cả mất ngủ kèm ngưng thở",
+     "n": "Ít gợi ý: BMI 23,0, vòng cổ 33 cm, Mallampati II, chồng ngủ cùng không thấy ngáy hay ngưng thở, không đau đầu buổi sáng. ESRS 2023 mục 3.5: 30–40% người mất ngủ có thể có OSA, cần sàng lọc bằng công cụ như STOP-Bang; nếu dương tính thì làm đa ký tại nhà hoặc đa ký. Cách tính điểm STOP-Bang: không có trong tài liệu đã tải. Đa ký khi nghi ngờ hoặc kháng điều trị (ESRS 2023 mục 3.4). TL-0481 (AASM 2017 chẩn đoán OSA) trong kho chỉ có phần phụ lục."
+    },
+    {
+     "t": "Nhiễm trùng ẩn (viêm họng, viêm xoang, nhiễm trùng khác) gây mệt",
+     "n": "Loại trừ lâm sàng: không sốt, họng không đỏ, mũi thông, không đau xoang, phổi sạch, không hạch, công thức máu bình thường nếu làm. Cảm lạnh không dùng kháng sinh (ACP/CDC 2016, khuyến cáo chăm sóc giá trị cao số 4); viêm họng chỉ dùng kháng sinh khi xác định liên cầu (số 2); viêm xoang chỉ khi triệu chứng > 10 ngày hoặc nặng (số 3). Mệt kéo dài 8 tháng không phải nhiễm trùng."
+    },
+    {
+     "t": "Mất ngủ do thuốc hoặc chất (amoxicillin tự mua, cà phê)",
+     "n": "ESRS 2023 mục 3.5 nêu kháng sinh trong nhóm thuốc có thể gây mất ngủ; amoxicillin cụ thể: không có trong tài liệu đã tải. Chị chỉ uống 5 ngày cách đây ba tuần, trong khi mất ngủ đã 8 tháng nên amoxicillin không giải thích được. Cà phê 3 ly/ngày, ly cuối 15 giờ là yếu tố duy trì (QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023 Hình 1). Lượng cà phê gây mất ngủ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bệnh tuyến giáp (suy hoặc cường giáp)",
+     "n": "Suy giáp gây mệt, rối loạn giấc ngủ, cần hormon tuyến giáp để khẳng định (QĐ 2058/2020 Bài 20 mục 3.2). Chị không sụt cân, không run, không tim nhanh, không sợ lạnh, tuyến giáp không to; nếu có tiền thì TSH/FT4 bình thường loại trừ."
+    },
+    {
+     "t": "Rối loạn lo âu lan toả",
+     "n": "Chưa đủ tiêu chuẩn: lo lắng khu trú vào hai chủ đề (số liệu công việc, hồ sơ sức khoẻ), không lan toả, không biểu hiện thần kinh tự trị rõ (QĐ 2058/2020 Bài 22 mục 3.1.1: lo lắng dai dẳng, lan toả, thường kéo dài 6 tháng). Lo lắng này là một phần vòng luẩn quẩn của mất ngủ (ESRS 2023 mục 3.5); nếu đau khổ hay lan rộng thì đánh giá lại ở lần tái khám."
+    },
+    {
+     "t": "Mất ngủ liên quan mãn kinh (triệu chứng vận mạch)",
+     "n": "Chị nóng bừng 1–2 lần/tuần, ít khi làm tỉnh giấc, trong khi mất ngủ 5–6 đêm/tuần, nên không giải thích được. ESRS 2023 mục 3.5 và Bảng 5 không liệt kê mãn kinh; điều trị triệu chứng vận mạch: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi chi tiết giấc ngủ từng đêm và ảnh hưởng ban ngày, kể cả buồn ngủ gà gật ở chỗ làm; hỏi riêng chị lo điều gì nhất và vì sao không khám ở quân y; giải thích rõ hồ sơ ở phòng khám thuộc về chị",
+     "v": "c",
+     "n": "Chẩn đoán mất ngủ dựa trên bệnh sử và lời kể của người bệnh (ESRS 2023 mục 3.1); Bảng 4: hỏi bệnh sử giấc ngủ, hoạt động ban ngày, công việc và ca đêm, chất. Phải chủ động khai thác rối loạn tâm thần kèm theo vì người bệnh thường không tự kể (ESRS 2023 mục 3.5). Quy định bảo mật, hồ sơ sức khoẻ quân đội và việc xếp loại sức khoẻ: không có trong tài liệu đã tải; bác sĩ chỉ nói được phần hồ sơ của phòng khám mình."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích chị không có biểu hiện nhiễm khuẩn, 5 ngày amoxicillin không liên quan mất ngủ 8 tháng, dặn bỏ 5 viên còn thừa và không tự mua kháng sinh khi chưa có chỉ định",
+     "v": "c",
+     "n": "ACP/CDC 2016, khuyến cáo chăm sóc giá trị cao số 4: không kê kháng sinh cho cảm lạnh; số 2: viêm họng chỉ kháng sinh khi xác định liên cầu; số 3: viêm xoang chỉ khi triệu chứng > 10 ngày hoặc nặng. Ước tính 5–25% người dùng kháng sinh có tác dụng không mong muốn (ACP/CDC 2016, phần mở đầu). Nhóm thuốc có thể gây mất ngủ gồm cả kháng sinh (ESRS 2023 mục 3.5); amoxicillin cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉ làm xét nghiệm đổi được quyết định và vừa tiền (TSH kèm FT4, có thể thêm công thức máu và đường huyết đói), nói rõ giá từng xét nghiệm; bỏ đa ký, điện não, CT, MRI, điện tâm đồ, CRP và các xét nghiệm không có chỉ định",
+     "v": "c",
+     "n": "ESRS 2023 Bảng 4: xét nghiệm (công thức máu, tuyến giáp, gan, thận, CRP, ferritin, B12) và điện tâm đồ, điện não, CT/MRI chỉ khi có chỉ định; Mục 3.4: đa ký không cần để chẩn đoán mất ngủ. QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê danh sách rộng hơn; Bài 20 mục 3.2: suy giáp cần xét nghiệm hormon. BYT liệt kê rộng, ESRS giới hạn theo chỉ định, nên làm thêm 1–2 xét nghiệm rẻ trong tầm tiền không bị trừ điểm. Cách chọn khi hạn chế tiền: không có trong tài liệu đã tải, suy luận lâm sàng."
+    },
+    {
+     "t": "Liệu pháp không dùng thuốc làm đầu tay: CBT-I hoặc dạng ngắn (kiểm soát kích thích, giờ dậy cố định, bỏ ngủ trưa và nằm bù, giới hạn thời gian nằm giường theo nhật ký ngủ, thư giãn), qua gặp trực tiếp hoặc điện thoại/video",
+     "v": "c",
+     "n": "CBT-I đa thành phần là khuyến cáo mạnh (AASM 2021, khuyến cáo 1); liệu pháp hành vi ngắn (1–4 buổi), kiểm soát kích thích, hạn chế giấc ngủ, thư giãn là khuyến cáo có điều kiện (AASM 2021, khuyến cáo 2–5, Bảng 3). CBT-I đầu tay (ESRS 2023 mục 1.4, Bảng 16); điều trị từ xa qua điện thoại hoặc video có hiệu quả mạnh (ESRS 2023 mục 4.1.1). Kiểm soát kích thích: chỉ lên giường khi buồn ngủ, ra khỏi giường khi không ngủ được, giường chỉ để ngủ, thức dậy cùng giờ, không ngủ trưa (AASM 2021, Bảng 3). Hạn chế giấc ngủ: thời gian nằm giường ban đầu bằng thời gian ngủ trung bình rồi chỉnh theo hiệu suất giấc ngủ (AASM 2021, Bảng 3). Hạn chế giấc ngủ và kiểm soát kích thích có thể tạm tăng buồn ngủ ban ngày nên phải bàn an toàn (ESRS 2023 mục 4.1.1)."
+    },
+    {
+     "t": "Bỏ cà phê từ buổi chiều (hoặc giảm), không xem điện thoại trên giường, bỏ nhìn đồng hồ, không nằm bù cuối tuần, bỏ ngủ trưa dài",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3: không cà phê nhất là buổi tối, thức dậy giờ cố định, chỉ đi ngủ khi buồn ngủ, kỹ thuật thư giãn. ESRS 2023 mục 4.1.1: vệ sinh giấc ngủ gồm cà phê, rượu, đều đặn, bỏ nhìn đồng hồ. Vệ sinh giấc ngủ đơn thuần không đủ (AASM 2021, khuyến cáo 6; ESRS 2023 mục 4.1.1) nhưng dặn kèm trong CBT-I vẫn đúng (sổ mâu thuẫn, mục TT-0161). Giờ cắt cà phê và lượng cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn ghi nhật ký ngủ 7–14 ngày kèm chấm ISI ban đầu; hẹn gọi điện sau khoảng 2 tuần để chỉnh thời gian nằm giường, tái khám sau khoảng 4–6 tuần",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.2: nhật ký ngủ ít nhất 7–14 ngày; ISI 0–28, 15–21 vừa, ≥ 22 nặng; thay đổi 8,4 điểm là cải thiện mức vừa. AASM 2021, Bảng 3: CBT-I thường 4–8 buổi theo nhật ký ngủ. Mốc 2 tuần, 4–6 tuần là lựa chọn biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lần khám này chưa kê thuốc ngủ, ưu tiên CBT-I; hoặc nếu chị và bác sĩ cùng quyết định dùng thuốc thì chỉ ngắn hạn (không quá 4 tuần) kèm CBT-I",
+     "v": "c",
+     "n": "ESRS 2023 mục 1.4, Bảng 16, Hình 1 (mức A): CBT-I trước, thuốc khi chưa đủ hiệu quả, tối đa 4 tuần, không tăng liều, dung nạp xuất hiện trong vài ngày đến vài tuần. AASM 2026, khuyến cáo 2: gợi ý không phối hợp CBT-I với thuốc thay vì CBT-I đơn thuần (có điều kiện, chứng cứ thấp); khuyến cáo 1: phối hợp tốt hơn thuốc đơn thuần. QĐ 2058/2020 Bài 27 mục 4.1, 4.3 liệt kê benzodiazepin, zopiclon, không giới hạn thời gian. Khác nhau do năm và do ESRS/AASM so sánh trực tiếp (sổ mâu thuẫn, mục TT-0161). Chọn thuốc và liều cụ thể cho chị: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc nhóm Z uống hằng đêm kéo dài, không giới hạn thời gian, thay cho CBT-I",
+     "v": "w",
+     "n": "ESRS 2023 mục 1.4 và Bảng 16: thuốc tối đa 4 tuần, không tăng liều; mục 4.2.1: dung nạp, phụ thuộc, lú lẫn ban đêm, ngã, giảm nhận thức, tác dụng 'hangover' ban ngày. QĐ 2058/2020 Bài 27 mục 4.1: hạn chế lạm dụng nhóm giải lo âu gây nghiện. Chị đã gà gật khi họp và còn trực ban đêm nên thuốc an thần dài ngày trái bối cảnh (suy luận từ ESRS 2023 mục 4.2.1)."
+    },
+    {
+     "t": "Kê thêm kháng sinh mạnh hơn hoặc kháng sinh 'cho chắc' theo yêu cầu của chị khi không có bằng chứng nhiễm trùng",
+     "v": "w",
+     "n": "ACP/CDC 2016, khuyến cáo chăm sóc giá trị cao số 2–4: không kê kháng sinh nếu không có chỉ định; có hại không cần thiết (5–25% có tác dụng không mong muốn, phần mở đầu) và góp phần đề kháng. Theo mục TT-0133 trong sổ mâu thuẫn: kê kháng sinh theo yêu cầu khi không có bằng chứng nhiễm trùng chấm w."
+    },
+    {
+     "t": "Cho vitamin nhóm B hoặc thuốc bổ theo yêu cầu của chị",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3 liệt kê vitamin nhóm B và dinh dưỡng trong liệu pháp hoá dược; ESRS 2023 và AASM 2021, 2017 không đưa khuyến cáo cho vitamin hay thuốc bổ trong điều trị mất ngủ mạn. Chấp nhận, không bắt buộc, không thay CBT-I; liều và thời gian: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc chống trầm cảm an thần liều thấp (trazodon, mirtazapin, doxepin) ngắn hạn cho mất ngủ",
+     "v": "a",
+     "n": "Theo mục TT-0133 trong sổ mâu thuẫn: ESRS 2023 mục 4.2.2, Bảng 16 (mức B) cho phép cân nhắc liều thấp ngắn hạn; QĐ 2058/2020 Bài 27 mục 4.3 liệt kê mirtazapin 15–60 mg/24 giờ, amitriptylin; AASM 2017 khuyến cáo 9 (yếu) gợi ý không dùng trazodon, khuyến cáo 8 (yếu) gợi ý doxepin cho mất ngủ duy trì giấc ngủ. Khác nhau do thuốc cụ thể và năm. Không cần cho chị ở lần khám đầu; chấp nhận khi thảo luận chung sau CBT-I chưa đủ."
+    },
+    {
+     "t": "Dặn không làm việc nguy cơ (lái xe, vận hành) khi buồn ngủ; bàn cách giữ an toàn các đêm trực ban: không tự áp thời gian nằm giường hạn chế vào đêm trực, không dùng cà phê muộn",
+     "v": "c",
+     "n": "ESRS 2023 mục 4.1.1: hạn chế giấc ngủ/kiểm soát kích thích có thể tạm tăng buồn ngủ, mệt ở giai đoạn đầu nên thảo luận an toàn; Bảng 4 hỏi làm việc ca đêm. Cách xử lý cụ thể đêm trực ban: không có trong tài liệu đã tải, theo suy luận lâm sàng; quy định của đơn vị về trực ban: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉ định đa ký, CT hoặc MRI sọ để 'tìm nguyên nhân' ở lần khám đầu dù không có dấu hiệu thực thể",
+     "v": "w",
+     "n": "ESRS 2023 mục 3.4: đa ký không cần và không đủ để chẩn đoán mất ngủ, chỉ khi nghi rối loạn giấc ngủ khác, kháng điều trị hoặc người có nguy cơ tai nạn do mệt; Bảng 4: CT/MRI khi có chỉ định. Chị không có chỉ định, chưa thử CBT-I và không đủ tiền (đa ký 3 triệu đồng, vượt xa 300 nghìn đồng chị mang theo)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn giấc ngủ: mất ngủ mạn (8 tháng, 5–6 đêm/tuần), khó vào giấc, thức giữa đêm và thức sớm, ISI khoảng 18 (mức vừa đến nặng)",
+     "Yếu tố duy trì: cà phê đến 15 giờ, điện thoại trên giường, nằm bù và ngủ trưa dài, nhìn đồng hồ ban đêm, lo công việc và lo hồ sơ sức khoẻ",
+     "Hệ quả ban ngày: mệt, quên, gà gật khi họp, sai sót số liệu; nguy cơ an toàn lúc trực ban đêm",
+     "Lý do thật đến khám: ngại bị ngừng cử đi học, ngừng trực ban nếu quân y ghi 'rối loạn giấc ngủ' nên giấu mất ngủ và nói 'có viêm'",
+     "Không có trầm cảm; chưa có gợi ý ngưng thở khi ngủ; không có nhiễm trùng hiện tại (amoxicillin tự mua không có chỉ định)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: lý do khám nêu ngoài → hỏi cụ thể từng đêm (giờ lên giường, giờ ngủ, thức mấy lần, giờ dậy) → thời gian và tần suất → hệ quả ban ngày, kể cả gà gật → thuốc và chất (amoxicillin, cà phê, rượu, thuốc ngủ) → khí sắc, lo âu, ý nghĩ tự hại → ngáy, ngưng thở, chân không yên → công việc, ca đêm, tiền → hỏi riêng điều chị lo nhất (ESRS 2023 Bảng 4, mục 3.1–3.5).",
+     "Mất ngủ mạn: 8 tháng, 5–6 đêm/tuần, kèm mệt, quên, sai sót; đạt ICD-10 (QĐ 2058/2020 Bài 27 mục 3.1.1) và ICSD-3 (ESRS 2023 mục 3.1). ISI 18 thuộc khoảng 15–21 (ESRS 2023 mục 3.2). Khởi phát âm thầm, không biến cố nên yếu tố duy trì (cà phê, nằm bù, điện thoại, lo lắng) là mục tiêu điều trị.",
+     "Lý do thật: chị xin kháng sinh và thuốc bổ vì 'có viêm', nhưng điều chị thực sự cần là ngủ được mà không để lại dấu trong hồ sơ. Chỉ lộ ra khi hỏi vì sao không khám ở quân y hoặc chị lo gì nhất. Quy định hồ sơ sức khoẻ quân đội: không có trong tài liệu đã tải.",
+     "Amoxicillin: chị không có biểu hiện nhiễm khuẩn hiện tại (ACP/CDC 2016, số 2–4); 5 ngày kháng sinh cách ba tuần không giải thích được 8 tháng mất ngủ. Kháng sinh nằm trong nhóm thuốc có thể gây mất ngủ nói chung (ESRS 2023 mục 3.5); amoxicillin cụ thể: không có trong tài liệu đã tải.",
+     "Loại trừ trầm cảm (QĐ 2058/2020 Bài 20 mục 3.1.1) và OSA (ESRS 2023 mục 3.4, 3.5); lo lắng khu trú chưa đủ lo âu lan toả (QĐ 2058/2020 Bài 22 mục 3.1.1). Xét nghiệm chỉ để loại nguyên nhân thực tổn (QĐ 2058/2020 Bài 27 mục 3.2); trong số 300 nghìn đồng, TSH + FT4 (180 nghìn đồng) là xét nghiệm đáng làm nhất, có thể thêm công thức máu (50 nghìn) và đường huyết đói (25 nghìn): tổng 255 nghìn đồng. Cơ sở không có CT, nhưng cũng không có chỉ định CT."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, hẹn gọi và tái khám (ve_hen) với kế hoạch trọn gói ngoại trú; không nhập viện, không chuyển tuyến vì không có dấu hiệu nặng, không ý tưởng tự hại, không bệnh lý thực tổn (ESRS 2023 Hình 1: CBT-I đầu tay, điều trị ngoại trú).",
+     "Đầu tay là CBT-I hoặc dạng ngắn (AASM 2021, khuyến cáo 1–5; ESRS 2023 Bảng 16, mức A). Với chị: giờ dậy cố định 5 giờ mọi ngày, kể cả cuối tuần; chỉ lên giường khi buồn ngủ; ra khỏi giường nếu không ngủ được rồi vào lại khi buồn ngủ; giường chỉ để ngủ, bỏ điện thoại; bỏ ngủ trưa (AASM 2021, Bảng 3). Hạn chế giấc ngủ bắt đầu bằng thời gian ngủ trung bình (4–4,5 giờ, AASM 2021, Bảng 3); ESRS 2023 mục 4.1.1 nêu mức tối thiểu thay đổi theo giao thức (4,5, 5 hoặc 6 giờ), tăng dần khi hiệu suất giấc ngủ > 85% hoặc 90%. Vì chị có trực đêm, ca chọn cửa sổ khoảng 5,5 giờ (23 giờ 30 đến 5 giờ), lựa chọn biên tập.",
+     "Tài liệu cho thấy thời gian ban đầu có thể buồn ngủ hơn (ESRS 2023 mục 4.1.1), nên phải dặn chị: không lái xe hay làm việc nguy cơ khi buồn ngủ; tránh áp hạn chế vào đêm trực ban; hẹn gọi sau 2 tuần để chỉnh.",
+     "Thuốc ngủ: chưa kê; hoặc nếu chọn thì tối đa 4 tuần kèm CBT-I (ESRS 2023 Bảng 16; QĐ 2058/2020 Bài 27 mục 4.3 liệt kê thuốc nhưng không giới hạn; AASM 2026 khuyến cáo 2 gợi ý CBT-I đơn thuần). Không kê dài ngày; không dùng thuốc của người khác.",
+     "Kháng sinh: không kê; giải thích chị không có biểu hiện nhiễm khuẩn; bỏ viên thừa; không tự mua lại (ACP/CDC 2016). Vitamin nhóm B hay thuốc bổ chỉ là phụ, không thay CBT-I (QĐ 2058/2020 Bài 27 mục 4.3).",
+     "Theo dõi: nhật ký ngủ 7–14 ngày và ISI (ESRS 2023 mục 3.2); gọi sau 2 tuần, tái khám 4–6 tuần (lựa chọn biên tập). Cải thiện thường chậm: ISI giảm ≥ 8,4 điểm là cải thiện mức vừa (ESRS 2023 mục 3.2). Nếu CBT-I chưa đủ thì quyết định chung về thuốc ngắn hạn, và đa ký nếu kháng điều trị hoặc nghi OSA (ESRS 2023 mục 1.4, mục 3.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê kháng sinh (amoxicillin)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "ACP/CDC 2016, khuyến cáo chăm sóc giá trị cao số 2–4: không kháng sinh khi không có chỉ định. Dặn bỏ 5 viên amoxicillin còn thừa, không tự mua lại. Nếu sau này có sốt, đau họng hoặc ho nhiều ngày thì đến khám lại."
+     },
+     {
+      "thuoc": "Không kê thuốc ngủ lần khám này",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến lần tái khám",
+      "ghi_chu": "ESRS 2023 Bảng 16, mục 1.4: CBT-I đầu tay, thuốc khi CBT-I chưa đủ, tối đa 4 tuần, không tăng liều. AASM 2026 khuyến cáo 2 (có điều kiện). QĐ 2058/2020 Bài 27 mục 4.3 liệt kê thuốc không giới hạn thời gian. Nếu sau CBT-I vẫn cần thuốc thì quyết định chung; chọn thuốc và liều cho chị: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: chị bị mất ngủ mạn, có cách chữa không cần thuốc ngủ, hiệu quả bền hơn thuốc nhưng cải thiện dần từng tuần, không ngay (AASM 2021, Bảng 3; ESRS 2023 mục 1.4, mục 4.1.1).",
+     "Giờ dậy cố định 5 giờ sáng mọi ngày, kể cả cuối tuần và sau đêm ngủ kém. Chỉ lên giường khi buồn ngủ; nếu không ngủ được thì ra khỏi giường ngồi chỗ yên tĩnh rồi vào lại khi buồn ngủ. Giường chỉ để ngủ, không điện thoại, không đọc tin; không nhìn đồng hồ (AASM 2021, kiểm soát kích thích, Bảng 3; ESRS 2023 mục 4.1.1).",
+     "Bỏ ngủ trưa dài và bỏ nằm bù cuối tuần. Cắt cà phê từ buổi chiều (QĐ 2058/2020 Bài 27 mục 4.3; AASM 2021, Bảng 3); giờ cắt và lượng cụ thể: không có trong tài liệu đã tải.",
+     "Thời gian nằm giường ban đầu khoảng 5,5 giờ (23 giờ 30 đến 5 giờ; lựa chọn biên tập), tăng dần khi ngủ tốt hơn (AASM 2021, Bảng 3; ESRS 2023 mục 4.1.1). Những ngày đầu có thể buồn ngủ hơn: không lái xe hay làm việc nguy cơ khi buồn ngủ; đêm trực ban không áp hạn chế.",
+     "Ghi nhật ký ngủ mỗi sáng 7–14 ngày: giờ lên giường, ước giờ ngủ, số lần thức, giờ dậy (ESRS 2023 mục 3.2). Tập thư giãn trước khi nằm (QĐ 2058/2020 Bài 27 mục 4.3).",
+     "Không dùng nốt amoxicillin còn thừa, không tự mua kháng sinh hay thuốc ngủ, không dùng thuốc ngủ của đồng nghiệp hoặc người nhà (ACP/CDC 2016; ESRS 2023 mục 1.4: dung nạp xuất hiện trong vài ngày đến vài tuần).",
+     "Hồ sơ ở phòng khám là của chị. Quy định hồ sơ sức khoẻ và xếp loại ở đơn vị: không có trong tài liệu đã tải, chị nên tự hỏi rõ quy định thay vì giấu bệnh.",
+     "Báo bác sĩ sớm nếu ban ngày buồn ngủ gục nhiều hơn, thiếp đi lúc làm việc hay lái xe, ngáy to có ngưng thở (chồng thấy), chân khó chịu về đêm, buồn chán, mất hứng thú hoặc có ý nghĩ tự làm hại bản thân (ESRS 2023 mục 3.5; QĐ 2058/2020 Bài 20 mục 3.1.1).",
+     "Hẹn gọi điện sau khoảng 2 tuần với nhật ký ngủ, tái khám sau 4–6 tuần (lựa chọn biên tập; ESRS 2023 mục 3.2); cần nhiều buổi cách nhau gần một tuần mới thấy rõ (AASM 2021, Bảng 3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Oanh làm theo khá kỷ luật: dậy đúng 5 giờ cả cuối tuần, bỏ ngủ trưa, chuyển cà phê sang buổi sáng, ghi nhật ký ngủ, nghe điện thoại hẹn sau 2 tuần. Hai tuần đầu chị buồn ngủ ban ngày hơn đúng như đã dặn, và một phiên trực ban đêm làm lệch lịch nên hiệu suất giấc ngủ chỉ lên từ khoảng 60% lên khoảng 70%. Sau 6 tuần ISI giảm từ 18 xuống 13 (giảm 5 điểm, chưa đạt mốc 8,4 điểm là cải thiện mức vừa; ESRS 2023 mục 3.2), chị nản, định xin thuốc ngủ nhưng được giải thích rằng chậm hơn dự kiến không có nghĩa thất bại. Chị tiếp tục, tránh áp hạn chế giấc ngủ vào các đêm trực, và sau khoảng 10–12 tuần ISI xuống 9, giấc ngủ liền hơn, không còn gà gật khi họp. Chị không dùng thuốc ngủ. Điều rút ra: hồi phục mất ngủ mạn thường từ từ, chậm hơn khi có ca đêm, cần mốc đánh giá định kỳ và quyết định chung về thuốc ngắn hạn nếu CBT-I chưa đủ (ESRS 2023 mục 1.4).",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: chị tự trả, mang theo 300 nghìn đồng, hỏi giá từng xét nghiệm. Buộc xếp ưu tiên: TSH kèm FT4 (180 nghìn đồng) đổi được hướng điều trị; công thức máu (50 nghìn) và đường huyết đói (25 nghìn) chấp nhận; đa ký 3 triệu đồng, CT, MRI, điện não, điện tâm đồ bỏ được (ESRS 2023 mục 3.4, Bảng 4; QĐ 2058/2020 Bài 20 mục 3.2).",
+  "Thuốc đang dùng là amoxicillin tự mua: dễ khiến bác sĩ nghĩ ngay thuốc gây mất ngủ hay còn nhiễm trùng, thực tế không có biểu hiện nhiễm khuẩn và 5 ngày thuốc không giải thích 8 tháng mất ngủ (ACP/CDC 2016, khuyến cáo số 2–4; ESRS 2023 mục 3.5).",
+  "Triệu chứng mãn kinh nhẹ (nóng bừng 1–2 lần/tuần): không giải thích mất ngủ 5–6 đêm/tuần; điều trị vận mạch: không có trong tài liệu đã tải."
+ ],
+ "bai_hoc_bien": [
+  "Lý do thật là ngại bị ngừng nhiệm vụ nên giấu mất ngủ và đổi thành 'có viêm'; chỉ lộ khi hỏi vì sao không khám ở quân y hoặc chị lo gì nhất, sau khi nói rõ hồ sơ thuộc về chị. 'Chị lo điều gì nhất nếu khai ra' mở được cửa.",
+  "Hỏi chung 'ngủ thế nào' chỉ được câu 'cũng được'; phải hỏi từng đêm (giờ lên giường, giờ ngủ, thức mấy lần, giờ dậy) mới thấy 4–4,5 giờ ngủ thực và ISI khoảng 18 (ESRS 2023 mục 3.1, 3.2).",
+  "Khi không đủ tiền: chọn xét nghiệm đổi được quyết định (TSH, FT4), bỏ xét nghiệm đắt không có chỉ định (đa ký 3 triệu đồng) và nói rõ giá từng thứ.",
+  "Mất ngủ điển hình, không cài bẫy cấu trúc: giá trị dạy học là quy trình chặt — lịch sử giấc ngủ, thuốc và chất, loại trừ trầm cảm và ngưng thở, nhật ký ngủ, CBT-I — và kỳ vọng hồi phục chậm, cần mốc đánh giá lại."
+ ],
+ "diem_nho": [
+  "Mất ngủ mạn: ≥ 3 lần/tuần ≥ 1 tháng (ICD-10, QĐ 2058/2020 Bài 27 mục 3.1.1) hoặc ≥ 3 đêm/tuần ≥ 3 tháng kèm hậu quả ban ngày (ICSD-3, ESRS 2023 mục 3.1). ISI 15–21 là vừa, ≥ 22 nặng; giảm 8,4 điểm là cải thiện mức vừa (ESRS 2023 mục 3.2).",
+  "CBT-I là đầu tay, làm được qua điện thoại/video; thuốc ngủ chỉ ngắn hạn tối đa 4 tuần (ESRS 2023 mục 1.4, 4.1.1, Bảng 16; AASM 2021 khuyến cáo 1; AASM 2026 khuyến cáo 1–2).",
+  "Kiểm soát kích thích gồm 5 chỉ dẫn: chỉ lên giường khi buồn ngủ, ra khỏi giường khi không ngủ được, giường chỉ để ngủ, dậy cùng giờ, không ngủ trưa; hạn chế giấc ngủ bắt đầu bằng thời gian ngủ trung bình (AASM 2021, Bảng 3).",
+  "Không kê kháng sinh khi không có biểu hiện nhiễm khuẩn: cảm lạnh không, viêm họng chỉ khi xác định liên cầu, viêm xoang khi > 10 ngày hoặc nặng (ACP/CDC 2016, khuyến cáo chăm sóc giá trị cao số 2–4).",
+  "Hạn chế giấc ngủ và kiểm soát kích thích có thể tạm tăng buồn ngủ ban ngày: cần đánh giá độ phù hợp, nhất là người trực đêm (ESRS 2023 mục 4.1.1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 27 (mục 3.1.1, 3.1.2, 3.2, 4.1, 4.3); Bài 20 mục 3.1.1, 3.2; Bài 22 mục 3.1.1.",
+  "ESRS 2023 – The European Insomnia Guideline, J Sleep Res 2023;32(6):e14035 – TL-0464 – mục 1.4, 3.1, 3.2, 3.4, 3.5, 4.1.1, 4.2.1, 4.2.2; Bảng 4, 5, 16; Hình 1.",
+  "AASM 2021 – Behavioral and psychological treatments for chronic insomnia disorder in adults, J Clin Sleep Med 2021;17(2):255-262 – TL-0470 – khuyến cáo 1–6, Bảng 3.",
+  "AASM 2017 – Pharmacologic treatment of chronic insomnia in adults, J Clin Sleep Med 2017;13(2):307-349 – TL-0482 – khuyến cáo 8, 9.",
+  "AASM 2026 – Combination treatment for chronic insomnia disorder in adults, J Clin Sleep Med 2026;22(1) – TL-0448 – khuyến cáo 1, 2.",
+  "ACP/CDC 2016 – Appropriate Antibiotic Use for Acute Respiratory Tract Infection in Adults: Advice for High-Value Care, Ann Intern Med 2016;164:425-434 – TL-0156 – khuyến cáo chăm sóc giá trị cao số 2, 3, 4 và phần mở đầu.",
+  "AASM 2017 – Diagnostic testing for adult OSA – TL-0481 – chỉ có phần phụ lục, không trích khuyến cáo; TL-0646 (elinzanetant) là thử nghiệm, không dùng để dẫn khuyến cáo."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (08/11/2026): viết theo TL-0443 Bài 27, Bài 20, Bài 22; TL-0464 (mục 1.4, 3.1–3.5, 4.1.1, 4.2.1, 4.2.2, Bảng 4, 5, 16, Hình 1); TL-0470 (khuyến cáo 1–6, Bảng 3); TL-0482 (khuyến cáo 8, 9); TL-0448 (khuyến cáo 1, 2); TL-0156 (khuyến cáo chăm sóc giá trị cao số 2–4). Cách ghi benzodiazepin/nhóm Z, phối hợp CBT-I-thuốc, vệ sinh giấc ngủ theo mục TT-0161 trong sổ mâu thuẫn; thuốc chống trầm cảm liều thấp theo mục TT-0133; kháng sinh theo yêu cầu chấm w theo ghi nhận TT-0133.",
+  "Thiếu tài liệu (đã ghi 'không có trong tài liệu đã tải'): amoxicillin gây mất ngủ; lượng cà phê và giờ cắt; cách tính điểm STOP-Bang; điều trị triệu chứng vận mạch mãn kinh; liều thuốc ngủ ngắn hạn cụ thể; quy định hồ sơ sức khoẻ và xếp loại sức khoẻ trong quân đội; cách xử lý đêm trực ban; liều vitamin nhóm B.",
+  "Ca một lượt, loại kết cục 'khỏi chậm hơn dự kiến' thể hiện ở ket_cuc (ISI 18 → 13 sau 6 tuần → 9 sau 10–12 tuần là diễn biến minh hoạ do người soạn đặt, không lấy từ tài liệu). Cửa sổ nằm giường 5,5 giờ, mốc gọi 2 tuần và tái khám 4–6 tuần là lựa chọn biên tập. khoa_cls khóa CT (ct_nao, mri_so_nao ghi n). Bảng giá xét nghiệm lấy từ danh mục kho."
+ ]
+}
