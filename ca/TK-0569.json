@@ -1,0 +1,760 @@
+{
+ "ma_ca": "TK-0569",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-11-07, soát nguồn với kho tài liệu đã tải",
+ "benh": "TK_dau_dau_thu_phat_co_do_cao_tuoi_ngoai_gio",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Đau nửa đầu có cờ đỏ (thứ phát)",
+  "chan_doan_phai_loai_tru": [
+   "XHDN",
+   "U não",
+   "Viêm màng não"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Nông dân (làm ruộng)",
+  "yeu_to_khoi_phat": "Khiêng vật nặng (khiêng bao lúa)",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Giang Văn Lộc",
+  "tuoi": 66,
+  "gioi": "Nam",
+  "nghe": "Làm ruộng (lúa, mía) ở ấp xa",
+  "can_nang": 62,
+  "chieu_cao": 164,
+  "xung_ho": "Bác sĩ gọi ông là 'chú' hoặc 'ông'. Ông tự xưng 'tui', gọi bác sĩ là 'bác sĩ', gọi vợ là 'bả'.",
+  "tinh_cach": "Rắn rỏi, da sạm nắng, làm ruộng từ nhỏ, ít đi khám. Anh ruột mất vì 'đứt mạch máu não' hai năm trước nên cứ đau đầu là hoảng. Nói nhanh, hay ngắt lời, tin chắc mình 'nhiễm trùng lên đầu' và rằng chỉ thuốc mạnh, chích mới trị được.",
+  "kieu_nhieu": "Sợ hãi quá mức: xin chích kháng sinh ngay, hỏi dồn 'có phải tui sắp đứt mạch máu não không', đòi 'chụp hết cho chắc', nắm tay bác sĩ, thở nhanh khi nghe chữ 'u', 'xuất huyết'. Ông dịu lại khi bác sĩ giải thích từng bước bằng lời đơn giản: đã loại trừ gì, chưa gì, vì sao cần chụp; căng thẳng thêm nếu nghe 'chắc không sao đâu'.",
+  "nguoi_nha": "Vợ đi cùng, cũng lo, hay bổ sung chuyện ông giấu (số lần xịt hen, thuốc ông tự uống).",
+  "ten_nguoi_nha": "Dương Thị Mận",
+  "ngoai_hinh": {
+   "da": "#a9794f",
+   "toc": "#cfcfcf",
+   "kieuToc": "ngan",
+   "ao": "#6b7a5a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "so",
+   "nguoiNha": {
+    "da": "#c9a07a",
+    "toc": "#8b8b8b",
+    "kieuToc": "bui",
+    "ao": "#7a5a6b",
+    "aoKieu": "blouse",
+    "kinh": false,
+    "nep": 2,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau nửa đầu bên phải 5 ngày sau khi khiêng lúa, xin chích kháng sinh",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ hành chính, không có kỹ thuật viên: không có X-quang, siêu âm (nên cũng không có CT, MRI, nội soi). Xét nghiệm máu phải chờ mẫu chuyển đi, kết quả thật có sau khoảng 4 giờ nên không đợi để quyết định hôm nay; điều dưỡng làm được điện tim, đường huyết mao mạch, đo PEF."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 66 tuổi, làm ruộng, đi cùng vợ, đến lúc 19 giờ 30 (ngoài giờ hành chính; chỉ có bác sĩ và điều dưỡng Linh, không có kỹ thuật viên). Ông nói đau nửa đầu bên phải 5 ngày, lo 'nhiễm trùng lên đầu' và xin chích kháng sinh; mang theo bình xịt hen. Sinh hiệu: HA 150/90 mmHg, mạch 82 l/p, nhiệt 36,8 °C, nhịp thở 20 l/p, SpO₂ 96%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Ông Lộc được cho paracetamol, thuốc ho và hẹn tuần sau như ca 'cảm kèm hen'. Nhưng đau mới ở người trên 65 tuổi, tăng dần, tăng khi ho là cờ đỏ: nguyên nhân nặng gặp ở 15% so với 1,6% người trẻ (SNNOOP10 2019, Older age), đau khi ho có thể do Chiari hay tổn thương hố sau (Precipitated by Valsalva; ICHD-3 2018, 4.1 ghi chú 3). Đang vụ gặt ông vẫn khiêng lúa, chưa có hình ảnh học nào, dễ tự mua thêm thuốc.",
+    "cap_cuu": "Ông Lộc được gọi xe cấp cứu đi ngay trong đêm. Ông không sốt, không dấu thần kinh khu trú, không đau sét đánh nên chưa có cờ đỏ cấp (SNNOOP10 2019, Onset is sudden, Neurologic deficit); chuyển có kế hoạch 1–3 ngày là đủ (nhận định lâm sàng). Xe cấp cứu khiến ông tin mình sắp 'đứt mạch máu não', hoảng hơn và tốn nhiều tiền."
+   },
+   "loi_mo": "Bác sĩ ơi, cứu tui với! Đầu tui bên phải đau năm bữa nay, càng ngày càng nặng, ho một cái là nhói lên. Tui nghi nhiễm trùng lên đầu rồi, bác sĩ chích cho tui mũi kháng sinh mạnh nhứt đi! Anh tui hồi đó cũng bắt đầu bằng đau đầu rồi đứt mạch máu não mất, tui sợ lắm!",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "150/90",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": [
+     "Huyết áp cao một lần đo, ông đang rất lo lắng, cần đo lại sau khi nghỉ"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ông đến vì đau nửa đầu bên phải 5 ngày, ngày càng nặng, ho là nhói. Ông muốn chích kháng sinh 'cho hết nhiễm trùng trong đầu'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: đau nửa đầu phải 5 ngày"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Năm ngày trước, buổi sáng, ông khiêng khoảng 20 bao lúa (mỗi bao khoảng 50 kg) lên xe trong hai giờ, nhiều lúc nín thở gồng. Ba giờ sau đau âm ỉ từ gáy phải lan lên thái dương và đỉnh phải. Không lúc nào đau bùng nổ, không ngất, không té, không đụng đầu. Đang mùa gặt, còn khoảng 30 bao lúa; nhà cách 25 km, có thẻ bảo hiểm, con trai ở thị xã có xe 4 chỗ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát từ từ sau gắng sức, không sét đánh (Ottawa SAH không áp dụng)"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Đau liên tục cả ngày, âm ỉ, không giật theo mạch, từ khoảng 3/10 lên 6/10. Tăng rõ khi ho, hắt hơi, rặn, cúi; nằm yên bớt, không đổi theo tư thế. Chưa bao giờ đau đầu kiểu này. Ông chỉ uống paracetamol 500 mg đúng hai viên vì sợ hại gan, bớt khoảng một giờ. Bốn ngày nay sổ mũi trong, ho khan, đàm trắng ít, khò khè đêm; không sốt, không đau mặt, đau răng, nước mũi không mủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau MỚI sau 65 tuổi, tiến triển, tăng khi ho và rặn (cờ đỏ SNNOOP10)"
+    },
+    {
+     "id": "am_than_kinh",
+     "noi_dung": "Không nôn vọt, sợ ánh sáng, yếu liệt, tê, méo miệng, nói khó, nhìn đôi, co giật, lú lẫn; không sụt cân; mắt không mờ, nhai không đau hàm, chải tóc không đau da đầu. Gáy phải mỏi, xoay phải hơi vướng như 'trặc cổ'; không chóng mặt, ù tai theo mạch, sụp mi, tê mặt. Hen sáu năm; chưa từng đo huyết áp; không ung thư, lao, chấn thương đầu, không dùng chống đông hay aspirin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc âm tính: sốt, thần kinh, thị giác, GCA, dấu bóc tách; tiền sử hen, không ung thư/chống đông/chấn thương"
+    },
+    {
+     "id": "thuoc_xit",
+     "noi_dung": "Ông có bình xịt salbutamol (Ventolin 100 mcg/nhát) theo toa cũ, chưa dùng thuốc dự phòng hen. Trước đây xịt 2–3 lần mỗi tuần; ba ngày nay ông xịt 6–8 nhát mỗi ngày, xịt xong thở ra ngay, không buồng đệm. Vợ bổ sung: 'ổng xịt hoài, hết nửa bình rồi'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Ông chỉ nói 'tui có xịt hen thôi, ít khi'. Chỉ kể khi bác sĩ hỏi số nhát mỗi ngày gần đây, xem bình xịt, hoặc hỏi cách xịt.",
+     "k": 1,
+     "y": "Hen kiểm soát kém, dùng SABA nhiều (bị nói nhẹ); ho làm đau đầu tăng"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Ba ngày trước ông tự uống 6 viên amoxicillin 500 mg còn dư (ngày 3 viên, 2 ngày), không đỡ nên càng tin phải 'chích thuốc mạnh'. Ông tin sổ mũi cộng đau đầu bên phải là 'nhiễm trùng xoang chạy lên đầu'; năm ngoái ho được chích kháng sinh ở trạm thì khỏi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Ông không kể chuyện uống thuốc dư. Chỉ kể khi bác sĩ hỏi đã uống hay mua thuốc gì (kể cả thuốc dư, kháng sinh) hoặc hỏi vợ ông.",
+     "k": 1,
+     "y": "Lý do thật: muốn kháng sinh; đã tự uống amoxicillin 2 ngày (sàng lọc viêm màng não)"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Anh ruột ông mất năm 64 tuổi vì xuất huyết não hai năm trước, bắt đầu bằng đau đầu. Ông xem video nói 'đau đầu một bên là u não'. Hai đêm mất ngủ, tim đập nhanh, hỏi liên tục 'có phải tui sắp đứt mạch máu não không'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: sợ hãi quá mức; cần trấn an có cấu trúc, không chiều theo xét nghiệm"
+    }
+   ],
+   "kham": {
+    "than_kinh": {
+     "a": "Glasgow 15, thần kinh sọ bình thường, sức cơ 5/5 bốn chi, cảm giác đều, phản xạ gân xương đều hai bên, Babinski âm tính, đi thẳng một hàng vững. Gập cổ tự do, cằm chạm ngực; Kernig và Brudzinski âm tính.",
+     "k": 1,
+     "hien": "Tỉnh, trả lời đúng. Đi lại vững."
+    },
+    "day_mat": {
+     "a": "Gai thị hai bên bờ rõ, màu hồng, có mạch đập tĩnh mạch; không phù gai, không xuất huyết.",
+     "k": 1
+    },
+    "da_dau_mong": {
+     "a": "Da đầu không đau khi sờ. Động mạch thái dương nông hai bên sờ rõ mạch đập, mềm, không cứng, không nóng đỏ, không đau.",
+     "k": 1,
+     "hien": "Da đầu sờ không đau, mạch thái dương hai bên mềm."
+    },
+    "co_xuong_khop": {
+     "a": "Ấn đau cơ thang trên và cơ dưới chẩm bên phải, điểm chẩm lớn phải đau nhẹ. Xoay cổ phải khoảng 60°, trái 80°; giữ xoay phải 10 giây thì đau đầu bên phải tăng nhẹ. Không đau cột sống cổ khi gõ. Vai hông bình thường.",
+     "k": 1,
+     "hien": "Xoay cổ sang phải kém hơn sang trái."
+    },
+    "hong_tai_mui": {
+     "a": "Niêm mạc mũi phù nhẹ, dịch trong, không mủ. Họng đỏ nhẹ. Màng nhĩ bình thường. Ấn xoang không đau.",
+     "k": 1,
+     "hien": "Mũi có dịch trong, họng hơi đỏ."
+    },
+    "phoi": {
+     "a": "Ran rít thì thở ra rải rác hai phế trường, không ran ẩm, không ran nổ, không co kéo cơ hô hấp phụ; nói được cả câu.",
+     "k": 1,
+     "hien": "Thở hơi nhanh khoảng 20 l/p, nói được cả câu.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra rải rác hai phế trường."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "pef": {
+     "v": "u",
+     "r": "PEF 330 L/phút (chưa biết giá trị tốt nhất của ông)",
+     "n": "30.000 đồng, điều dưỡng làm được ngoài giờ. Không đổi quyết định chuyển tuyến. QĐ 1851/2020 (TL-0127), Bảng 3: dùng SABA nhiều là yếu tố nguy cơ."
+    },
+    "mau_lang": {
+     "v": "u",
+     "r": "VS 20 mm ở giờ đầu",
+     "n": "30.000 đồng; ngoài giờ kết quả thật có sau khoảng 4 giờ nên không đợi để quyết định. Đau đầu mới ở người trên 60 tuổi phải nghĩ tới GCA (ICHD-3 2018, 6.4.1 Comments); ngưỡng VS/CRP: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 5 mg/L",
+     "bang": {
+      "crp": 5
+     },
+     "n": "80.000 đồng, có sau khoảng 4 giờ. CRP thấp ít gợi ý nhiễm khuẩn nhưng không loại trừ hẳn viêm màng não (SNNOOP10 2019, Systemic symptoms)."
+    },
+    "ct_nao": {
+     "v": "e",
+     "r": "Cơ sở không có CT sọ.",
+     "n": "Cận lâm sàng cần nhất để loại trừ tổn thương nội sọ, nhưng cơ sở ngoài giờ không có (khóa do ràng buộc nguồn lực); giải pháp là chuyển tuyến. CT 900.000 đồng, MRI 2.500.000 đồng; tuyến trên chọn CT hay MRI (không có trong tài liệu đã tải); bảo hiểm chi trả: không có trong tài liệu đã tải."
+    },
+    "cho_dich_nao_tuy": {
+     "v": "n",
+     "r": "Không thực hiện.",
+     "n": "Không chỉ định: không sốt, cổ mềm, Kernig và Brudzinski âm tính, tri giác bình thường."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau đầu thứ phát chưa rõ nguyên nhân, cờ đỏ SNNOOP10 (trên 65 tuổi, khởi phát sau gắng sức, tăng khi ho/rặn, đau mới, tiến triển): chưa loại trừ tổn thương nội sọ, hố sau hay mạch máu, cần hình ảnh học",
+     "ok": 1,
+     "n": "SNNOOP10 2019 (TL-0476): ≥ 65 tuổi có nguyên nhân nặng ở 15% so với 1,6% người trẻ (Older age); đau mới, tiến triển (Pattern change); đau khi ho, gắng sức có thể do Chiari, tổn thương hố sau (Precipitated by Valsalva). ICHD-3 2018 (TL-0480), 4.2 ghi chú 1: lần đầu phải loại trừ XHDN, bóc tách, co thắt mạch."
+    },
+    {
+     "t": "Hen phế quản kiểm soát kém (salbutamol 6–8 nhát/ngày, khò khè, ho đêm), viêm hô hấp trên do virus; ho làm đau đầu tăng",
+     "ok": 1,
+     "n": "Ran rít thì thở ra, PEF 330; SABA nhiều, kỹ thuật xịt sai là yếu tố nguy cơ (GINA 2026 (TL-0137), Box 2-2; QĐ 1851/2020 (TL-0127), Bảng 3). Không sốt, dịch mũi trong: không đủ tiêu chuẩn vi khuẩn (EPOS 2020 (TL-0087), Hình 1.4.1)."
+    },
+    {
+     "t": "Đau cơ cổ–chẩm phải sau khiêng vác (yếu tố góp, chưa đủ giải thích cờ đỏ)",
+     "ok": 1,
+     "n": "Ấn đau cơ thang, dưới chẩm; xoay phải giảm: gợi ý đau đầu từ cổ nhưng là chẩn đoán loại trừ (ICHD-3 2018, 11.2.1 tiêu chí C3, D), chưa chốt."
+    },
+    {
+     "t": "Xuất huyết dưới nhện (XHDN)",
+     "n": "Khởi phát từ từ, không nôn vọt, ngất, sét đánh (SNNOOP10, Onset is sudden). Ottawa SAH chỉ cho đau đầu nặng đạt đỉnh trong 1 giờ (AHA/ASA 2023 (TL-0070), Bảng 3) nên không áp dụng dù ông ≥ 40 tuổi, đau cổ, gắng sức."
+    },
+    {
+     "t": "U não hoặc khối choán chỗ nội sọ (kể cả hố sau, Chiari, máu tụ dưới màng cứng)",
+     "n": "Không tiền sử ung thư, gai thị rõ bờ, không dấu khu trú: nguy cơ u não dưới 0,1% (SNNOOP10, Neoplasm in history); đau mới, tiến triển, tăng khi ho ở tuổi này nên chỉ hình ảnh học mới loại trừ (ICHD-3 4.1 ghi chú 3)."
+    },
+    {
+     "t": "Viêm màng não / viêm não (kể cả khi đã tự uống amoxicillin 2 ngày)",
+     "n": "Không sốt, cổ gập tự do, Kernig và Brudzinski âm tính, CRP 5; kháng sinh uống trước có thể che lấp nhưng bệnh cảnh không gợi ý; không chọc dò (SNNOOP10, Systemic symptoms)."
+    },
+    {
+     "t": "Bóc tách động mạch cảnh hoặc đốt sống",
+     "n": "Đau một bên đầu và gáy sau nâng vật nặng, nhiều ngày là bối cảnh gợi ý; đau đầu có thể là biểu hiện duy nhất (ICHD-3 2018, 6.5.1.1 Comments). Không sụp mi, ù tai theo mạch, dấu thần kinh; tuyến trên quyết định MRA/CTA."
+    },
+    {
+     "t": "Viêm động mạch tế bào khổng lồ (GCA); đau đầu nguyên phát khi ho hoặc gắng sức",
+     "n": "GCA: đau đầu mới ở người trên 60 tuổi phải nghĩ tới (ICHD-3 6.4.1 Comments); không đau da đầu, hàm, mạch thái dương mềm, VS 20, CRP 5. Đau ho nguyên phát kéo dài 1 giây–2 giờ (4.1 tiêu chí D), đau gắng sức nguyên phát dưới 48 giờ (4.2 tiêu chí C): đau liên tục 5 ngày không phù hợp."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến chụp hình ảnh sọ não (CT không cản quang, hoặc MRI nếu nơi đó có) trong 1–3 ngày, con trai chở, không xe cấp cứu; giấy chuyển ghi khởi phát, diễn tiến, các dấu hiệu đã loại trừ, hen và thuốc ông đã dùng; tạm ngưng khiêng vác nặng, gồng, rặn cho tới khi có kết quả (thời gian nghỉ: không có trong tài liệu đã tải)",
+     "v": "c",
+     "n": "Ngoài giờ không có CT/MRI nên không loại trừ được tổn thương nội sọ ở người > 65 tuổi đau mới, tiến triển, tăng khi ho (SNNOOP10 2019 (TL-0476), Older age, Precipitated by Valsalva). Khung 1–3 ngày, chọn CT hay MRI: nhận định lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trấn an có cấu trúc: nói rõ đã khám bình thường những gì, chưa loại trừ gì và vì sao cần chụp, vì sao chưa phải cấp cứu; không hứa 'chắc chắn không sao'",
+     "v": "c",
+     "n": "Biến 'sợ hãi quá mức'. Kỹ thuật trấn an: không có trong tài liệu đã tải; lý do chụp là cờ đỏ SNNOOP10, không phải vì ông đòi."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích không sốt, dịch mũi trong, không dấu nhiễm khuẩn",
+     "v": "c",
+     "n": "EPOS 2020 (TL-0087), Hình 1.4.1: dưới 10 ngày, không đủ 3 tiêu chuẩn nhiễm khuẩn thì tránh kháng sinh. GINA 2026 (TL-0137), chương 9, Antibiotics (not recommended) và QĐ 1851/2020 (TL-0127): chỉ khi có bằng chứng nhiễm khuẩn. Ba nguồn cùng hướng."
+    },
+    {
+     "t": "Paracetamol 500 mg, 1 viên mỗi lần khi đau, cách 6–8 giờ, tối đa 3 g/ngày (QĐ 361/2014, người cao tuổi) hoặc 4 g/ngày (QĐ 361/2014 mục 3.1; AHA/ACC 2025); không kê NSAID (diclofenac, ibuprofen) vì tuổi, huyết áp, hen",
+     "v": "c",
+     "n": "QĐ 361/2014 (TL-0286), Phụ lục thuốc giảm đau mục 3.1: 500–1.000 mg/lần, 6–8 giờ, ≤ 4 g/24 giờ; Phụ lục NSAID mục 3.3 (cao tuổi, tăng huyết áp): dưới 3 g/ngày, tránh NSAID. AHA/ACC 2025 (TL-0297), Bảng 11: tránh NSAID. 3 g/ngày thận trọng hơn (đã có trong sổ mâu thuẫn). Ông có hen: GINA 2026, chương 3: ngưng NSAID nếu hen nặng lên."
+    },
+    {
+     "t": "Dặn dấu hiệu đến cấp cứu ngay: đau tăng đột ngột dữ dội, nôn vọt, lơ mơ, yếu liệt, méo miệng, nói khó, co giật, nhìn đôi, mờ mắt, sốt kèm cứng cổ, sụp mi hoặc tê mặt một bên",
+     "v": "c",
+     "n": "SNNOOP10 2019, Onset is sudden và Neurologic deficit; ICHD-3 2018, 6.4.1 và 6.5.1.1 Comments (mất thị lực, dấu thiếu máu não)."
+    },
+    {
+     "t": "Chích hoặc kê kháng sinh 'cho ông yên tâm'",
+     "v": "w",
+     "n": "EPOS 2020 Hình 1.4.1; GINA 2026 chương 9; củng cố niềm tin sai."
+    },
+    {
+     "t": "Cho về với paracetamol, thuốc ho, hẹn tuần sau, coi là 'cảm kèm hen' hoặc 'xoang'",
+     "v": "w",
+     "n": "Bỏ sót cờ đỏ: nguy cơ nặng khoảng 10 lần người trẻ (SNNOOP10, Older age)."
+    },
+    {
+     "t": "Gọi xe cấp cứu, chọc dò dịch não tủy hoặc làm cả loạt xét nghiệm theo yêu cầu của ông",
+     "v": "w",
+     "n": "Không có cờ đỏ cấp, không chỉ định chọc dò (SNNOOP10, Systemic symptoms)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau đầu thứ phát chưa rõ nguyên nhân, cờ đỏ SNNOOP10: trên 65 tuổi, đau mới, tiến triển, khởi phát sau gắng sức, tăng khi ho/rặn; chưa loại trừ tổn thương nội sọ, hố sau, bóc tách (SNNOOP10 2019; ICHD-3 2018, 4.1, 4.2, 6.5.1.1)",
+     "Hen phế quản kiểm soát kém (SABA 6–8 nhát/ngày, PEF 330), viêm hô hấp trên do virus làm ho tăng; đau cơ cổ–chẩm phải. Âm tính lâm sàng: XHDN, viêm màng não, GCA; U não/hố sau, bóc tách chưa loại trừ. Nhiễu: sợ hãi quá mức, xin kháng sinh. Xử trí: chuyển tuyến chụp hình ảnh sọ não có kế hoạch 1–3 ngày, không cấp cứu, không kháng sinh"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (khởi phát, tăng khi ho/rặn, tiến triển; sàng lọc sốt, thần kinh, thị giác, đau cổ; thuốc tự dùng) → sinh hiệu → khám thần kinh, đáy mắt, mạch thái dương, cổ, mũi họng, phổi → cận lâm sàng tối thiểu → chẩn đoán → trấn an và xử trí.",
+     "Vì sao là cờ đỏ dù ông còn khỏe: ≥ 65 tuổi, đau mới, tiến triển, đau khi ho có thể do Chiari hoặc tổn thương hố sau, khoảng 40% đau do ho là thứ phát (SNNOOP10 2019 (TL-0476), Older age, Pattern change, Precipitated by Valsalva; ICHD-3 2018 (TL-0480), 4.1 ghi chú 3). Vì sao không cấp cứu: không sốt, không sét đánh, không dấu khu trú, không phù gai thị (SNNOOP10, Onset sudden, Neurologic deficit, Papilledema). Nhiễu: ông gán 'xoang' nhưng không sốt, dịch mũi trong, chưa tới 5 ngày (EPOS 2020 Hình 1.4.1); bình xịt hen dùng nhiều, kỹ thuật sai nối ho với đau đầu (QĐ 1851/2020 Bảng 3). Ottawa SAH chỉ cho đau đầu nặng đạt đỉnh trong 1 giờ (AHA/ASA 2023 (TL-0070), Bảng 3), áp dụng nhầm thì cấp cứu thừa. Ngoài giờ xét nghiệm máu có sau khoảng 4 giờ nên quyết định bằng lâm sàng."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến chụp hình ảnh có kế hoạch, không xe cấp cứu; 1–3 ngày và chọn CT hay MRI là nhận định lâm sàng, khuyến cáo cụ thể cho đau đầu mới ≥ 65 tuổi không dấu khu trú: không có trong tài liệu đã tải. Không kháng sinh (EPOS 2020; GINA 2026 chương 9; QĐ 1851/2020). Hen: giữ bình salbutamol, đếm nhát; SABA đơn độc không còn được khuyến cáo (GINA 2026 chương 9; QĐ 1851/2020 Bảng 5), chỉnh thuốc dự phòng ở lượt sau. Giảm đau: paracetamol 500 mg khi đau, tối đa 4 viên (2 g)/ngày. Ghi cả hai ngưỡng: dưới 3 g/ngày (QĐ 361/2014 (TL-0286), Phụ lục NSAID mục 3.3, cao tuổi/tăng huyết áp) và không quá 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1; AHA/ACC 2025 (TL-0297), Bảng 11); 3 g/ngày thận trọng hơn (sổ mâu thuẫn 'Liều paracetamol tối đa ở người cao tuổi hoặc tăng huyết áp'). Tránh NSAID vì tuổi, huyết áp, hen (GINA 2026 chương 3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần khi đau, cách nhau 6–8 giờ; tối đa 4 viên (2 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, chỉ khi đau",
+      "so_ngay": "Đến khi chụp hình ảnh và khám tuyến trên (dự kiến 3–5 ngày)",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), Phụ lục thuốc giảm đau mục 3.1 và Phụ lục NSAID mục 3.3; AHA/ACC 2025 (TL-0297), Bảng 11. Chọn 2 g/ngày là nhận định lâm sàng. Giải thích uống đúng liều không hại gan."
+     },
+     {
+      "thuoc": "Salbutamol xịt (bình ông có, 100 mcg/nhát)",
+      "ham_luong": "Giữ nguyên bình hiện có",
+      "lieu": "Xịt khi khó thở/ho nhiều, ghi số nhát mỗi ngày; liều chi tiết: không có trong ca này",
+      "duong": "Hít",
+      "thoi_diem": "Khi có triệu chứng",
+      "so_ngay": "Đến lần đánh giá hen",
+      "ghi_chu": "GINA 2026 (TL-0137), chương 9; QĐ 1851/2020 (TL-0127), Bảng 5. Hướng dẫn xịt chậm, nín thở vài giây. Không kê kháng sinh, NSAID, corticoid (EPOS 2020 Hình 1.4.1; GINA 2026 chương 3, 9; QĐ 361/2014 mục 3.3)."
+     }
+    ],
+    "dan_do": [
+     "Ông cần chụp hình ảnh sọ não (CT hoặc MRI) trong 1–3 ngày tới ở bệnh viện có máy (nhận định lâm sàng; SNNOOP10 2019, Older age). Hôm nay chưa thấy dấu hiệu nguy hiểm gấp (không sốt, cổ mềm, tay chân và mắt bình thường) nhưng đau đầu mới ở tuổi này, tăng khi ho, nên không thể coi là cảm hay xoang. Mang giấy chuyển, thẻ bảo hiểm, bình xịt; nhờ con trai chở. Kháng sinh không giúp vì không có nhiễm trùng, uống bừa còn che lấp bệnh. Không uống ibuprofen, diclofenac vì ông bị hen. Paracetamol 500 mg khi đau, tối đa 4 viên/ngày. Tạm ngưng khiêng vác nặng, gồng, rặn. Đến cấp cứu ngay nếu đau tăng đột ngột dữ dội, nôn vọt, lơ mơ, yếu liệt, méo miệng, nói khó, nhìn đôi, sốt kèm cứng cổ, sụp mi hay tê mặt; chụp xong quay lại với phiếu kết quả."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Nam 66 tuổi, tái khám lúc 19 giờ 15, 7 ngày sau lượt 1 (đã chụp CT sọ theo giấy chuyển), đi cùng vợ, mang phiếu kết quả. Ông nói 'chụp rồi mà vẫn đau y như cũ', lo hơn và lại xin kháng sinh. Cơ sở vẫn ngoài giờ, không có kỹ thuật viên. Sinh hiệu: HA 142/86 mmHg, mạch 88 l/p, nhiệt 36,9 °C, nhịp thở 22 l/p, SpO₂ 95%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Ông Lộc được cho về với lời 'CT bình thường, không sao', đổi thuốc và hẹn tuần sau. Nhưng phiếu CT ghi hố sau, nối sọ–cổ nhiễu ảnh; CT không loại trừ bóc tách động mạch (chẩn đoán bằng MRI cổ, duplex hoặc MRA/CTA), đau đầu có thể là biểu hiện duy nhất và đi trước dấu thiếu máu não (ICHD-3 2018, 6.5.1.1 Comments; 4.2 ghi chú 1). Ông tiếp tục khiêng lúa, đau không đỡ, tin 'CT bỏ sót' và có thể tự đi chụp tư nhân hoặc tự mua thuốc.",
+    "cap_cuu": "Ông Lộc được gọi xe cấp cứu đi ngay trong đêm để chụp lại. Không sốt, không dấu thần kinh khu trú, đau không đột ngột nặng lên nên chưa có cờ đỏ cấp (SNNOOP10 2019, Onset is sudden, Neurologic deficit); chuyển có kế hoạch vài ngày là đủ (nhận định lâm sàng). Xe cấp cứu và chụp lặp trong đêm làm ông tin 'bệnh nặng lắm', hoảng hơn và tốn tiền."
+   },
+   "loi_mo": "Bác sĩ coi giùm, tui đi chụp rồi mà đầu còn đau y như cũ! Tụi nó nói chụp không thấy gì mà sao tui còn đau? Hay là nhiễm trùng thiệt, chích cho tui mũi kháng sinh đi bác sĩ, chứ tui lo quá ngủ không được!",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "142/86",
+    "nhiet": "36,9",
+    "nhip_tho": 22,
+    "spo2": 95,
+    "canh_bao": [
+     "Thở hơi nhanh, hen đang kích hoạt nhẹ",
+     "Tay run mịn do dùng salbutamol nhiều"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ông tái khám sau khi chụp CT; đau bên phải vẫn 5–6/10, 'không đỡ chút nào', vẫn tăng khi ho, rặn, khiêng vác. Ông vẫn muốn chích kháng sinh vì chụp 'không thấy gì' mà còn đau nên nghĩ là nhiễm trùng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: tái khám, đau không đỡ; lý do thật vẫn là kháng sinh"
+    },
+    {
+     "id": "phieu_ct",
+     "noi_dung": "Phiếu CT sọ não không cản quang chụp ở bệnh viện huyện ngày thứ 7 của cơn đau: không xuất huyết, không khối choán chỗ, không giãn não thất, không lệch đường giữa. Hố sau và vùng nối sọ–cổ nhiễu ảnh xương; bác sĩ đọc phim ghi 'đề nghị chụp MRI nếu còn triệu chứng'. Chi phí 900.000 đồng, ông nhắc vài lần là tiếc tiền.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "CT âm tính nhưng hố sau và nối sọ–cổ nhiễu ảnh, chưa loại trừ bóc tách hoặc Chiari"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đau vẫn bên phải, không thêm triệu chứng thần kinh mới: không yếu liệt, tê, nhìn đôi, sụp mi, nôn, sốt. Gáy phải đau và xoay phải vướng hơn. Ho đêm nhiều, mỗi cơn ho là đau nhói đầu. Vì sợ mưa, sau khi chụp CT ông khiêng thêm khoảng 30 bao lúa trong 3 ngày; mỗi lần khiêng đau đầu tăng, gáy phải căng cứng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau không đỡ, vẫn tăng khi ho và rặn; tiếp tục gắng sức khiêng vác; không dấu thần kinh mới"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Bác sĩ dặn paracetamol khi đau, ông chỉ uống 1 viên mỗi ngày vì nghe 'uống nhiều hại gan hại thận'. Hai ngày nay hàng xóm cho ibuprofen 400 mg, ông uống mỗi ngày 1 viên: bớt đau hai ba giờ nhưng đêm khò khè, tức ngực hơn. Ông không kể vì nghĩ 'thuốc đau đầu thì khỏi sao'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Ông chỉ nói 'uống thuốc bác sĩ cho rồi'. Chỉ kể khi bác sĩ hỏi từng thuốc và số viên mỗi ngày kể từ lần khám trước, hoặc hỏi có uống thuốc mua ngoài hay người khác cho không (vợ ông cũng bổ sung).",
+     "k": 1,
+     "y": "Paracetamol dưới liều vì sợ; tự uống ibuprofen làm hen nặng thêm (nguyên nhân thất bại điều trị)"
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Ho nhiều đêm và sáng, khò khè. Ông xịt salbutamol 10–12 nhát mỗi ngày, xịt vào miệng rồi thở ra ngay, không nín thở, không buồng đệm; hết gần một bình trong một tuần. Chưa dùng thuốc dự phòng hen.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Ông nói 'xịt khi nào khó thở thôi'. Chỉ kể số nhát thật khi bác sĩ hỏi số nhát mỗi ngày kể từ lần khám trước hoặc yêu cầu ông làm thử cách xịt.",
+     "k": 1,
+     "y": "Hen kiểm soát kém hơn (SABA 10–12 nhát/ngày, kỹ thuật sai): ho nhiều làm đau đầu tăng"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Ông lo hơn: 'chụp rồi mà vẫn đau, chắc có bệnh máy không thấy'. Ông đòi chụp lại ngay đêm nay hoặc 'chụp cái máy lớn nhất', ngủ không được, hỏi 'có chết không'. Ông tốn 900.000 đồng chụp CT; vợ lo MRI mắc hơn. Con trai ở thị xã sẵn lòng chở đi nếu báo trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: sợ hãi tăng; cần giải thích CT âm tính nghĩa là gì và chưa nghĩa là gì"
+    }
+   ],
+   "kham": {
+    "than_kinh": {
+     "a": "Glasgow 15, thần kinh sọ bình thường, sức cơ 5/5 bốn chi, cảm giác đều, phản xạ gân xương đều, Babinski âm tính, đi thẳng một hàng vững. Gập cổ tự do; Kernig và Brudzinski âm tính. Không sụp mi, đồng tử đều 3 mm.",
+     "k": 1,
+     "hien": "Tỉnh, trả lời đúng. Đi lại vững."
+    },
+    "co_xuong_khop": {
+     "a": "Ấn đau rõ cơ thang trên và cơ dưới chẩm bên phải, co cứng; điểm chẩm lớn phải đau. Xoay cổ phải khoảng 45°, trái 80°; giữ xoay phải 10 giây thì đau đầu bên phải tăng rõ, giống cơn đau của ông. Không đau khi gõ cột sống cổ.",
+     "k": 1,
+     "hien": "Xoay cổ sang phải hạn chế rõ hơn sang trái."
+    },
+    "phoi": {
+     "a": "Ran rít thì thở ra rải rác hai phế trường nhiều hơn lượt 1, không ran ẩm, không co kéo cơ hô hấp phụ rõ; nói được cả câu.",
+     "k": 1,
+     "hien": "Thở hơi nhanh khoảng 22 l/p, nói được cả câu.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-RAN-RIT-01",
+       "chu": "Ran rít thì thở ra rải rác hai phế trường."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "pef": {
+     "v": "u",
+     "r": "PEF 290 L/phút (lượt 1: 330)",
+     "n": "30.000 đồng, có ngay. Giảm so với lượt trước, phù hợp hen kém kiểm soát và NSAID tự uống; không phải đợt cấp nặng. QĐ 1851/2020 (TL-0127), Bảng 3."
+    },
+    "ct_nao": {
+     "v": "e",
+     "r": "Cơ sở không có CT; ông mang phiếu CT sọ không cản quang chụp ở bệnh viện huyện (xem phần hỏi bệnh).",
+     "n": "Không chụp lại. CT sau 6 giờ giảm độ nhạy với XHDN (ACEP 2019 (TL-0474), mức B) nhưng đây không phải đau sét đánh nên khả năng thấp. So sánh độ nhạy CT và MRI cho hố sau, bóc tách: không có trong tài liệu đã tải."
+    },
+    "mri_so_nao": {
+     "v": "e",
+     "r": "Cơ sở không có MRI; cần chuyển tuyến.",
+     "n": "Cần để xem hố sau, nối sọ–cổ, não và mạch mà CT nhiễu ảnh: ICHD-3 2018 (TL-0480), 4.1 ghi chú 3 và 6.5.1.1 Comments (bóc tách chẩn đoán bằng MRI cổ, duplex, MRA/CTA). MRI 2.500.000 đồng; bảo hiểm: không có trong tài liệu đã tải. Cần mục MRA/CTA mạch não–cổ riêng (xem tệp đề xuất)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau đầu thứ phát chưa rõ nguyên nhân, cờ đỏ SNNOOP10 còn nguyên: CT sọ âm tính nhưng chưa loại trừ hố sau, nối sọ–cổ, bóc tách; cần MRI sọ kèm chụp mạch não–cổ",
+     "ok": 1,
+     "n": "Đau 12 ngày, vẫn tăng khi ho, rặn, khiêng vác. Phiếu CT ghi hố sau, nối sọ–cổ nhiễu ảnh; đau do ho có thể do Chiari, tổn thương hố sau (SNNOOP10 2019, Precipitated by Valsalva; ICHD-3 2018, 4.1 ghi chú 3); lần đầu đau do gắng sức phải loại trừ XHDN, bóc tách, co thắt mạch (4.2 ghi chú 1)."
+    },
+    {
+     "t": "Thất bại điều trị do: paracetamol dưới liều vì sợ hại gan, tự uống ibuprofen (hen nặng thêm), tiếp tục khiêng vác, ho do hen kiểm soát kém (SABA 10–12 nhát/ngày, kỹ thuật sai); đau cơ cổ–chẩm phải duy trì",
+     "ok": 1,
+     "n": "NSAID ở người hen, ngưng nếu hen nặng lên (GINA 2026 (TL-0137), chương 3); SABA nhiều, kỹ thuật sai là yếu tố nguy cơ (QĐ 1851/2020 (TL-0127), Bảng 3). Sai chẩn đoán chưa chứng minh được, chưa có biến chứng. Cơ thang, dưới chẩm phải co cứng, xoay phải 45° tái hiện đau: phù hợp ICHD-3 2018 (TL-0480), 11.2.1 tiêu chí C3, tiêu chí D chưa kiểm được."
+    },
+    {
+     "t": "Hen phế quản kiểm soát kém hơn (PEF 290), có thể nặng thêm do NSAID; chưa đủ chẩn đoán bệnh hô hấp kích phát bởi aspirin",
+     "ok": 1,
+     "n": "PEF 330 xuống 290, ran rít nhiều hơn sau ibuprofen; GINA 2026 chương 3: NSAID không chống chỉ định trừ khi có tiền sử phản ứng, ông chưa từng uống NSAID trước đây."
+    },
+    {
+     "t": "Xuất huyết dưới nhện (XHDN)",
+     "n": "Khởi phát từ từ, không sét đánh; CT sau hơn 6 giờ giảm độ nhạy (ACEP 2019 (TL-0474)) nên MRA/CTA loại trừ phình mạch bổ sung. Ottawa không áp dụng (AHA/ASA 2023 (TL-0070), Bảng 3)."
+    },
+    {
+     "t": "U não hoặc khối choán chỗ nội sọ (kể cả hố sau, Chiari, máu tụ dưới màng cứng)",
+     "n": "CT không thấy khối, máu tụ, giãn não thất; gai thị rõ bờ. Hố sau nhiễu ảnh nên chưa loại trừ hẳn (SNNOOP10, Precipitated by Valsalva: tổn thương hố sau khoảng 15% đau do ho)."
+    },
+    {
+     "t": "Bóc tách động mạch cảnh hoặc đốt sống",
+     "n": "Đau một bên kéo dài sau nâng vật nặng, đau gáy cùng bên là bối cảnh gợi ý; đau đầu có thể là biểu hiện duy nhất, đi trước dấu thiếu máu não (ICHD-3 2018, 6.5.1.1 Comments). CT không loại trừ được."
+    },
+    {
+     "t": "Viêm màng não / viêm não; viêm xoang vi khuẩn",
+     "n": "Không sốt, cổ mềm, Kernig và Brudzinski âm tính, CRP lượt trước thấp (SNNOOP10, Systemic symptoms); dịch mũi trong, kháng sinh 2 ngày không đáp ứng (EPOS 2020 (TL-0087), Hình 1.4.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển tuyến chụp MRI sọ não kèm chụp mạch não–cổ (MRA hoặc CTA) có kế hoạch trong vài ngày, không xe cấp cứu, con trai chở; giấy chuyển ghi kết quả CT, thuốc đã dùng, hen và diễn tiến; tạm ngưng khiêng vác nặng cho tới khi có kết quả",
+     "v": "c",
+     "n": "CT âm tính nhưng hố sau, nối sọ–cổ nhiễu ảnh, cờ đỏ còn (SNNOOP10 2019, Precipitated by Valsalva). ICHD-3 2018 (TL-0480), 4.2 ghi chú 1: lần đầu đau do gắng sức phải loại trừ XHDN, bóc tách, co thắt mạch; 6.5.1.1 Comments: bóc tách chẩn đoán bằng MRI cổ, duplex, MRA/CTA. Thời hạn 'vài ngày', chọn MRI hay CTA: nhận định lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Phân tích thất bại điều trị có hệ thống (chẩn đoán, thuốc, tuân thủ, biến chứng) và nói lại cho ông hiểu: CT âm tính là tin tốt nhưng chưa trả lời hết; đau không đỡ có lý do sửa được",
+     "v": "c",
+     "n": "Đối chiếu từng nguyên nhân với dữ kiện đã khai thác (thuốc, tuân thủ, gắng sức, hen). Quy trình thất bại điều trị và kỹ thuật giao tiếp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉnh thuốc giảm đau: paracetamol 500 mg đúng liều (1 viên mỗi lần, cách 6–8 giờ, tối đa 4 viên/ngày); NGƯNG ibuprofen; giải thích paracetamol đúng liều an toàn cho gan",
+     "v": "c",
+     "n": "QĐ 361/2014 (TL-0286), Phụ lục thuốc giảm đau mục 3.1 (≤ 4 g/24 giờ) và Phụ lục NSAID mục 3.3 (dưới 3 g/ngày, tránh NSAID); AHA/ACC 2025 (TL-0297), Bảng 11; GINA 2026 chương 3. Hai ngưỡng đã có trong sổ mâu thuẫn; chọn 2 g/ngày là nhận định lâm sàng."
+    },
+    {
+     "t": "Không kê kháng sinh lần nữa; giải thích CT bình thường và không sốt thì kháng sinh không giúp",
+     "v": "c",
+     "n": "EPOS 2020 (TL-0087), Hình 1.4.1; GINA 2026 (TL-0137), chương 9; QĐ 1851/2020 (TL-0127). Ba nguồn cùng hướng."
+    },
+    {
+     "t": "Hướng dẫn lại cách xịt (từng nhát, hít chậm, nín thở vài giây), đếm số nhát mỗi ngày; hẹn đánh giá hen và thuốc dự phòng chứa ICS",
+     "v": "a",
+     "n": "GINA 2026, chương 2 (Box 2-2) và chương 9: SABA đơn độc không còn được khuyến cáo; QĐ 1851/2020, Bảng 3, 5. Liều ICS cụ thể: để bác sĩ phụ trách hen quyết định, không ghi trong ca."
+    },
+    {
+     "t": "Kê kháng sinh hoặc kê tiếp ibuprofen vì 'bớt đau'",
+     "v": "w",
+     "n": "Không chỉ định kháng sinh (EPOS 2020 Hình 1.4.1; GINA 2026 chương 9); ibuprofen làm nặng hen (GINA 2026 chương 3; QĐ 361/2014 mục 3.3)."
+    },
+    {
+     "t": "Kết luận 'CT bình thường nên không có gì nguy hiểm', cho về uống thuốc và hẹn tuần sau",
+     "v": "w",
+     "n": "Bỏ sót nhu cầu hình ảnh hố sau và mạch máu khi cờ đỏ còn nguyên và đau không đỡ (ICHD-3 2018, 4.1 ghi chú 3, 6.5.1.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau đầu thứ phát chưa rõ nguyên nhân, cờ đỏ SNNOOP10 còn nguyên; CT sọ âm tính nhưng chưa loại trừ hố sau, nối sọ–cổ, bóc tách (SNNOOP10 2019; ICHD-3 2018, 4.1, 4.2, 6.5.1.1)",
+     "Thất bại điều trị do paracetamol dưới liều, tự uống ibuprofen (hen nặng thêm, PEF 290), tiếp tục khiêng vác, ho do hen kiểm soát kém. Âm tính: viêm màng não, XHDN, U não lớn (CT). Nhiễu: sợ hãi tăng, vẫn xin kháng sinh. Xử trí: chuyển tuyến MRI sọ kèm MRA/CTA có kế hoạch, sửa các yếu tố thất bại điều trị"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi theo diễn tiến từ lượt trước (đau, từng thuốc và số viên, còn khiêng vác không, ho và hen) → sinh hiệu → khám thần kinh, cổ, phổi → đọc phiếu CT → phân tích thất bại điều trị → chẩn đoán → xử trí.",
+     "Quy trình thất bại điều trị: (1) sai chẩn đoán? CT âm tính nhưng hố sau, nối sọ–cổ nhiễu ảnh, cờ đỏ còn nên chưa yên tâm; (2) sai thuốc? ibuprofen ở người hen (GINA 2026 (TL-0137), chương 3); (3) không tuân thủ? paracetamol 1 viên/ngày, vẫn khiêng lúa; (4) yếu tố duy trì? ho do hen làm đau tăng mỗi cơn ho. CT sau hơn 6 giờ giảm độ nhạy với XHDN (ACEP 2019 (TL-0474)) nhưng không sét đánh nên khả năng thấp; CT chưa trả lời hố sau và mạch (ICHD-3 2018 (TL-0480), 4.2 ghi chú 1, 6.5.1.1). Vẫn không cấp cứu (SNNOOP10 2019). Trấn an đúng: nói CT cho biết gì, chưa cho biết gì, kế hoạch tiếp theo."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến MRI sọ kèm MRA/CTA có kế hoạch (thời hạn, chọn MRI hay CTA, độ nhạy CT/MRI cho hố sau và bóc tách: nhận định lâm sàng / không có trong tài liệu đã tải). Không kháng sinh (EPOS 2020; GINA 2026 chương 9; QĐ 1851/2020). Hen: kiểm tra kỹ thuật xịt, hẹn đánh giá (GINA 2026; QĐ 1851/2020 Bảng 5). NGƯNG ibuprofen. Giảm đau: paracetamol 500 mg khi đau, tối đa 4 viên (2 g)/ngày. Ghi cả hai ngưỡng: dưới 3 g/ngày (QĐ 361/2014 (TL-0286), Phụ lục NSAID mục 3.3, cao tuổi/tăng huyết áp) và không quá 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1; AHA/ACC 2025 (TL-0297), Bảng 11); 3 g/ngày thận trọng hơn (sổ mâu thuẫn 'Liều paracetamol tối đa ở người cao tuổi hoặc tăng huyết áp'). Tránh NSAID vì tuổi, huyết áp, hen (GINA 2026 chương 3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần khi đau, cách nhau 6–8 giờ; tối đa 4 viên (2 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, đều đặn khi còn đau, không bỏ vì sợ gan",
+      "so_ngay": "Đến khi chụp MRI/MRA và khám tuyến trên",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), Phụ lục thuốc giảm đau mục 3.1 và Phụ lục NSAID mục 3.3; AHA/ACC 2025 (TL-0297), Bảng 11. 2 g/ngày là nhận định lâm sàng. Ngưng ibuprofen ngay."
+     },
+     {
+      "thuoc": "Salbutamol xịt (bình hiện có)",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "Xịt từng nhát, hít chậm, nín thở vài giây; ghi số nhát mỗi ngày; liều chi tiết: không có trong ca này",
+      "duong": "Hít",
+      "thoi_diem": "Khi có triệu chứng",
+      "so_ngay": "Đến khi đánh giá hen",
+      "ghi_chu": "GINA 2026 (TL-0137), chương 9; QĐ 1851/2020 (TL-0127), Bảng 5. Không kê kháng sinh, NSAID, corticoid uống (EPOS 2020 Hình 1.4.1; GINA 2026 chương 3, 9)."
+     }
+    ],
+    "dan_do": [
+     "Ông cần chụp MRI sọ não kèm chụp mạch não và cổ ở bệnh viện tuyến tỉnh trong vài ngày tới (nhận định lâm sàng; ICHD-3 2018, 4.2 ghi chú 1 và 6.5.1.1). CT cho biết trong đầu không có chảy máu hay khối lớn, đó là tin tốt, nhưng chưa nhìn rõ phần sau của não và mạch máu cổ nên cần chụp thêm để chắc, không phải vì ông bệnh nặng hơn. Mang phiếu CT, bình xịt, danh sách thuốc đã uống. Đau không đỡ có lý do sửa được: uống paracetamol đủ liều (đúng liều an toàn cho gan), bỏ hẳn ibuprofen vì làm hen nặng thêm, nghỉ khiêng vác, xịt hen đúng cách. Kháng sinh không giúp vì không có nhiễm trùng. Đau tăng đột ngột, nôn vọt, yếu liệt, méo miệng, nói khó, nhìn đôi, sụp mi, tê mặt, sốt kèm cứng cổ thì đi cấp cứu ngay."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Nam 66 tuổi, tái khám lúc 18 giờ 45, khoảng ba tuần sau lượt 2, đi cùng vợ, mang kết quả MRI sọ não và MRA mạch não–cổ chụp ở bệnh viện tỉnh. Ông nói đầu đã đỡ nhiều nhưng vẫn lo, hỏi có cần uống thuốc 'phòng' không. Cơ sở vẫn ngoài giờ, không có kỹ thuật viên. Sinh hiệu: HA 134/80 mmHg, mạch 76 l/p, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Ông Lộc bị chuyển tiếp lên bệnh viện tuyến cuối để khám thần kinh, chụp lại, chọc dò 'cho chắc'. MRI, MRA đã âm tính, đau giảm từ 6/10 xuống 1/10 và không dấu mới; lượt chuyển tốn tiền (MRI 2.500.000 đồng theo danh mục), mất công gặt và nuôi lại nỗi sợ 'có bệnh ẩn máy chưa thấy'. Chọc dò khi không nghi nhiễm trùng thần kinh chỉ thêm nguy cơ (SNNOOP10 2019, Systemic symptoms)."
+   },
+   "loi_mo": "Bác sĩ coi kết quả giùm tui. Đầu tui đỡ nhiều rồi, nhưng tui còn sợ lắm. Anh tui hồi đó cũng có lúc đỡ rồi mới đứt. Tui uống thêm thuốc kháng sinh phòng cho chắc được không bác sĩ, hay chụp lại mỗi năm một lần?",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "134/80",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ông đến lấy kết quả chụp và hỏi có cần uống thuốc 'phòng' không. Đầu đỡ nhiều, còn thỉnh thoảng nặng nhẹ ở gáy phải vào cuối ngày, khoảng 1/10.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: tái khám lấy kết quả; đau đã giảm nhiều; muốn kháng sinh phòng"
+    },
+    {
+     "id": "mri",
+     "noi_dung": "Phiếu MRI sọ não và MRA mạch não–cổ (bệnh viện tỉnh, chụp 10 ngày sau lượt 2): nhu mô não bình thường, không u, không máu tụ, không xuất huyết; hố sau bình thường, không thấy hạnh nhân tiểu não tụt thấp (không Chiari); đoạn nối sọ–cổ bình thường. MRA: động mạch cảnh và đốt sống không bóc tách, không hẹp, không phình. Xoang chỉ dày niêm mạc nhẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hình ảnh học âm tính đủ cho các chẩn đoán phải loại trừ"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Sau lượt 2 ông nghỉ khiêng lúa 10 ngày (con trai làm giúp), uống paracetamol 500 mg mỗi ngày 2–3 viên trong 5 ngày rồi thưa dần, bỏ hẳn ibuprofen. Đau đầu giảm từ 6/10 xuống 1/10 sau khoảng 10 ngày; ho không còn làm đau đầu rõ. Xoay cổ phải hết vướng. Không có triệu chứng thần kinh mới. Ông xịt đúng cách hơn, còn 3–4 nhát salbutamol mỗi ngày, ho đêm giảm nhiều; chưa đi khám hen riêng, chưa dùng thuốc dự phòng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến tốt sau khi sửa thuốc, nghỉ gắng sức, kiểm soát ho; hen còn dùng SABA 3–4 nhát/ngày"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Ông bớt sợ nhưng vẫn nhắc anh trai 'có lúc đỡ rồi mới đứt'. Ông muốn uống kháng sinh phòng, chụp lại mỗi năm và làm 'xét nghiệm tổng quát' để yên tâm; vợ cũng muốn. Mùa gặt gần xong, ông định khiêng bao lúa trở lại dần từ tuần sau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: sợ hãi còn dư; xin kháng sinh phòng, chụp lặp để yên tâm"
+    }
+   ],
+   "kham": {
+    "than_kinh": {
+     "a": "Glasgow 15, thần kinh sọ bình thường, sức cơ 5/5 bốn chi, cảm giác đều, phản xạ gân xương đều hai bên, Babinski âm tính, đi thẳng một hàng vững. Gập cổ tự do.",
+     "k": 1,
+     "hien": "Tỉnh, trả lời đúng. Đi lại vững."
+    },
+    "co_xuong_khop": {
+     "a": "Cơ thang và dưới chẩm phải còn hơi căng, ấn đau nhẹ. Xoay cổ phải khoảng 70°, trái 80°; giữ xoay phải 10 giây không còn gây đau đầu.",
+     "k": 1,
+     "hien": "Xoay cổ hai bên gần như đều."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran rít, không ran ẩm.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, nhịp thở đều 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi hai bên (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "pef": {
+     "v": "u",
+     "r": "PEF 400 L/phút (lượt 2: 290)",
+     "n": "30.000 đồng, có ngay; cải thiện rõ khi ngưng NSAID, xịt đúng cách, giảm ho. Dùng theo dõi hen, không để chẩn đoán đau đầu. QĐ 1851/2020 (TL-0127), Bảng 3."
+    },
+    "mri_so_nao": {
+     "v": "e",
+     "r": "Cơ sở không có MRI; ông mang theo phiếu MRI sọ não và MRA (xem phần hỏi bệnh): không u, không xuất huyết, không Chiari, mạch không bóc tách.",
+     "n": "Không chụp lại. Chụp lặp hằng năm hay 'xét nghiệm tổng quát' khi hết triệu chứng: không có trong tài liệu đã tải khuyến cáo nào; chiều nỗi sợ là điều cần tránh."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đau đầu thứ phát (cờ đỏ SNNOOP10) đã hết dần sau hình ảnh học âm tính: nghĩ nhiều nhất đau đầu từ cột sống cổ và mô mềm cổ–chẩm do gắng sức, ho do hen làm nặng thêm (ICHD-3 11.2.1)",
+     "ok": 1,
+     "n": "ICHD-3 2018 (TL-0480), 11.2.1: có bằng chứng lâm sàng ở mô mềm cổ (B), liên quan thời gian với gắng sức và đau giảm song song khi nghỉ, sửa thuốc (C1, C2), cổ hạn chế kèm đau tăng khi làm nghiệm pháp ở lượt 2 (C3), không có chẩn đoán khác giải thích tốt hơn nhờ CT, MRI, MRA âm tính (D). Cờ đỏ ban đầu vẫn đúng (SNNOOP10 2019 (TL-0476), Older age)."
+    },
+    {
+     "t": "Hen phế quản kiểm soát chưa tốt (SABA 3–4 nhát/ngày, chưa có thuốc dự phòng): cần đánh giá hen riêng",
+     "ok": 1,
+     "n": "GINA 2026 (TL-0137), chương 9: SABA đơn độc không còn được khuyến cáo; QĐ 1851/2020 (TL-0127), Bảng 5 cùng hướng. Hôm nay hết ran rít, PEF 400."
+    },
+    {
+     "t": "Lo âu liên quan bệnh của người thân; nhu cầu xin kháng sinh và chụp lặp để yên tâm",
+     "ok": 1,
+     "n": "Nỗi sợ gắn với anh ruột; giải thích kết quả âm tính và kế hoạch an toàn, không chiều theo. Kỹ thuật giao tiếp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xuất huyết dưới nhện (XHDN)",
+     "n": "Khởi phát từ từ, không sét đánh; CT sọ và MRA mạch não không thấy phình mạch hay xuất huyết (ACEP 2019 (TL-0474); AHA/ASA 2023 (TL-0070), Bảng 3 không áp dụng)."
+    },
+    {
+     "t": "U não hoặc khối choán chỗ nội sọ (kể cả hố sau, Chiari, máu tụ dưới màng cứng)",
+     "n": "CT và MRI sọ: không u, không máu tụ, hố sau bình thường, không tụt hạnh nhân tiểu não; lâm sàng khỏi dần không dấu thần kinh (SNNOOP10, mục Neoplasm in history và Precipitated by Valsalva)."
+    },
+    {
+     "t": "Viêm màng não / viêm não",
+     "n": "Không sốt, cổ mềm, tri giác bình thường, đau đầu giảm không dùng kháng sinh."
+    },
+    {
+     "t": "Bóc tách động mạch cảnh hoặc đốt sống; GCA; viêm xoang vi khuẩn",
+     "n": "MRA không bóc tách, không hẹp (ICHD-3 2018, 6.5.1.1 Comments); không đau da đầu, hàm, thị giác (6.4.1); xoang chỉ dày niêm mạc nhẹ, đau đỡ không cần corticoid hay kháng sinh (EPOS 2020 (TL-0087), Hình 1.4.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về, hẹn tái khám theo dõi sau 2–4 tuần; đau đầu trở lại kiểu mới hoặc có dấu hiệu nguy hiểm thì quay lại sớm hoặc đi cấp cứu",
+     "v": "c",
+     "n": "Đau gần hết, thần kinh bình thường, hình ảnh học đủ nên theo dõi ngoại trú. Thời hạn tái khám 2–4 tuần: nhận định lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích kết quả MRI/MRA bằng lời đơn giản: đã loại trừ chảy máu, u, Chiari, bóc tách; nguyên nhân nhiều khả năng là đau từ cổ do gắng sức và ho; mời ông nói về nỗi sợ với anh trai",
+     "v": "c",
+     "n": "Trấn an có cấu trúc cho biến 'sợ hãi quá mức'. ICHD-3 2018 (TL-0480), 11.2.1 là cơ sở chẩn đoán. Kỹ thuật giao tiếp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh phòng; không chụp lại hằng năm hay làm 'xét nghiệm tổng quát' khi đã hết triệu chứng; giải thích vì sao",
+     "v": "c",
+     "n": "Không có bằng chứng nhiễm khuẩn (EPOS 2020 Hình 1.4.1; GINA 2026 chương 9; QĐ 1851/2020). Chụp lặp tầm soát khi hết triệu chứng: không có trong tài liệu đã tải khuyến cáo nào."
+    },
+    {
+     "t": "Paracetamol 500 mg chỉ khi còn đau, tối đa 4 viên (2 g)/ngày, ngưng khi hết đau; không NSAID; không mua 'thuốc bổ đầu' không rõ thành phần",
+     "v": "c",
+     "n": "QĐ 361/2014 (TL-0286), Phụ lục NSAID mục 3.3 (dưới 3 g/ngày) và Phụ lục thuốc giảm đau mục 3.1 (≤ 4 g/24 giờ); AHA/ACC 2025 (TL-0297), Bảng 11; GINA 2026 chương 3. Ghi cả hai ngưỡng như sổ mâu thuẫn."
+    },
+    {
+     "t": "Hẹn khám hen riêng trong 1–2 tuần để đánh giá kiểm soát, kỹ thuật xịt và khởi thuốc dự phòng chứa ICS; mang bình xịt",
+     "v": "c",
+     "n": "GINA 2026 (TL-0137), chương 2 (Box 2-2) và chương 9; QĐ 1851/2020 (TL-0127), Bảng 3 và 5: không khuyến cáo SABA đơn độc. Thời hạn 1–2 tuần: không có trong tài liệu đã tải; liều ICS cụ thể để bác sĩ phụ trách hen quyết định."
+    },
+    {
+     "t": "Chuyển thêm lên thần kinh tuyến cuối, chọc dò hoặc chụp lại 'cho chắc'",
+     "v": "w",
+     "n": "Không chỉ định: MRI/MRA âm tính, lâm sàng khỏi dần; tốn kém và nuôi nỗi sợ (SNNOOP10 2019, mục Systemic symptoms)."
+    },
+    {
+     "t": "Kê kháng sinh phòng hoặc kháng sinh để ông yên tâm",
+     "v": "w",
+     "n": "Không có chỉ định (EPOS 2020 Hình 1.4.1; GINA 2026 chương 9)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đau đầu thứ phát (cờ đỏ SNNOOP10: trên 65 tuổi, đau mới, tăng khi ho và gắng sức) đã hết dần sau khi CT, MRI, MRA âm tính; nghĩ nhiều nhất đau đầu từ cột sống cổ và mô mềm cổ–chẩm do gắng sức, ho do hen làm nặng thêm (ICHD-3 2018, 11.2.1)",
+     "Đã loại trừ XHDN (CT, MRA), u não, Chiari (MRI), viêm màng não, bóc tách (MRA), GCA. Hen kiểm soát chưa tốt (SABA 3–4 nhát/ngày). Nhiễu: sợ hãi còn dư, xin kháng sinh phòng và chụp lặp. Xử trí: cho về, tái khám, hẹn khám hen, không kháng sinh, không chụp lặp"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi diễn tiến từ lượt 2 (đau, thuốc, nghỉ gắng sức, ho) → khám thần kinh, cổ, phổi → đọc phiếu MRI/MRA → chẩn đoán → giải thích và xử trí.",
+     "Vì sao kết quả âm tính vẫn là chẩn đoán thứ phát: cờ đỏ buộc phải loại trừ nguyên nhân nặng; sau khi hình ảnh sạch và đau giảm song song với nghỉ gắng sức, sửa thuốc, kiểm soát ho, nhãn đúng nhất là đau đầu từ cổ (ICHD-3 2018 (TL-0480), 11.2.1, tiêu chí B, C1–C3, D), một chẩn đoán loại trừ. Không phải đau ho hay đau gắng sức nguyên phát vì kéo dài nhiều ngày và có dấu cổ (4.1, 4.2). Bài học nằm ở quy trình chặt (lượt 1 chuyển tuyến, lượt 2 không dừng ở CT) và kết cục lành tính; nỗi sợ gắn với anh ruột nên giải thích kết quả và nói trước khi nào đi khám lại tốt hơn chụp lặp."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về theo dõi, tái khám 2–4 tuần là nhận định lâm sàng (không có trong tài liệu đã tải). Không kháng sinh phòng, không chụp lặp, không xét nghiệm tổng quát; lượt này dạy trấn an có cấu trúc. Hen: hẹn khám hen riêng (GINA 2026 chương 9; QĐ 1851/2020 Bảng 5), liều ICS không ghi trong ca. Giảm đau: paracetamol 500 mg khi đau, tối đa 4 viên (2 g)/ngày. Ghi cả hai ngưỡng: dưới 3 g/ngày (QĐ 361/2014 (TL-0286), Phụ lục NSAID mục 3.3, cao tuổi/tăng huyết áp) và không quá 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1; AHA/ACC 2025 (TL-0297), Bảng 11); 3 g/ngày thận trọng hơn (sổ mâu thuẫn 'Liều paracetamol tối đa ở người cao tuổi hoặc tăng huyết áp'). Tránh NSAID vì tuổi, huyết áp, hen (GINA 2026 chương 3). Nếu đau tái phát kiểu mới phải khai thác lại từ đầu."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần khi còn đau, cách nhau 6–8 giờ; tối đa 4 viên (2 g)/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn, chỉ khi đau",
+      "so_ngay": "Ngưng khi hết đau (dự kiến vài ngày)",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), Phụ lục thuốc giảm đau mục 3.1 và Phụ lục NSAID mục 3.3; AHA/ACC 2025 (TL-0297), Bảng 11. 2 g/ngày là nhận định lâm sàng."
+     },
+     {
+      "thuoc": "Salbutamol xịt (bình hiện có)",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "Khi khó thở, ghi số nhát mỗi ngày; liều chi tiết không có trong ca",
+      "duong": "Hít",
+      "thoi_diem": "Khi có triệu chứng",
+      "so_ngay": "Đến lần khám hen",
+      "ghi_chu": "GINA 2026 (TL-0137), chương 9; QĐ 1851/2020 (TL-0127), Bảng 5. Không kê kháng sinh, NSAID, corticoid, thuốc bổ đầu (EPOS 2020 Hình 1.4.1; GINA 2026 chương 3, 9)."
+     }
+    ],
+    "dan_do": [
+     "MRI và MRA cho thấy không có chảy máu, khối u, bất thường phần sau của não, mạch máu cổ không tổn thương. Nhiều khả năng đau đến từ cơ và khớp cổ sau khiêng vác nặng, ho nhiều làm nặng thêm (ICHD-3 2018, 11.2.1); ông đi chụp là đúng vì ở tuổi ông cần loại trừ. Không cần kháng sinh phòng và không cần chụp lại hằng năm khi đã hết đau. Paracetamol 500 mg khi còn đau, tối đa 4 viên/ngày; không ibuprofen, diclofenac vì bị hen. Khiêng vác trở lại từ từ, tránh gồng nín thở. Hẹn khám hen riêng trong 1–2 tuần (mang bình xịt), tái khám sau 2–4 tuần; quay lại sớm hoặc cấp cứu nếu đau đầu kiểu mới, tăng dần, tăng khi ho, đau dữ dội đột ngột, nôn vọt, yếu liệt, méo miệng, nói khó, nhìn đôi, sốt kèm cứng cổ."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Lộc chụp CT sọ ở bệnh viện huyện hai ngày sau lượt 1 (không xuất huyết, không khối; hố sau nhiễu ảnh), đau không đỡ vì paracetamol dưới liều, tự uống ibuprofen làm hen nặng thêm, vẫn khiêng lúa. Sau lượt 2 ông chụp MRI sọ và MRA mạch não–cổ ở bệnh viện tỉnh: không u, không Chiari, không bóc tách, không phình. Ông nghỉ khiêng vác, uống paracetamol đủ liều, xịt hen đúng cách; đau giảm từ 6/10 xuống 1/10 trong khoảng 10 ngày. Chẩn đoán cuối: đau đầu từ cột sống cổ do gắng sức (thứ phát), đã loại trừ XHDN, u não, viêm màng não, bóc tách.",
+ "nhieu": [
+  "Sợ hãi quá mức: ông xin chích kháng sinh, hỏi dồn 'có phải tui sắp đứt mạch máu não', đòi chụp hết, thức trắng; tăng ở lượt 2 sau khi 'chụp rồi vẫn đau', còn dư ở lượt 3. Cần trấn an có cấu trúc (đã loại trừ gì, chưa gì, làm gì tiếp, khi nào đi cấp cứu), không chiều theo xét nghiệm hay kháng sinh..",
+  "Lý do thật là muốn kháng sinh: ông tin sổ mũi cộng đau đầu bên phải là 'nhiễm trùng xoang lên đầu', đã tự uống amoxicillin dư 2 ngày và giấu; chỉ lộ khi hỏi thuốc đã uống."
+ ],
+ "bai_hoc_bien": [
+  "Đau đầu mới sau 65 tuổi, tăng khi ho và gắng sức là cờ đỏ dù người bệnh khỏe, không dấu thần kinh, không sét đánh; cần hình ảnh học có kế hoạch, không phải cấp cứu (SNNOOP10 2019, mục Older age, Pattern change, Precipitated by Valsalva).",
+  "Ottawa SAH chỉ dành cho đau đầu nặng đạt đỉnh trong 1 giờ (AHA/ASA 2023, Bảng 3). Đau ho nguyên phát kéo dài 1 giây–2 giờ, đau gắng sức nguyên phát dưới 48 giờ; lần đầu phải loại trừ XHDN, bóc tách, co thắt mạch (ICHD-3 2018, 4.1, 4.2).",
+  "CT sọ âm tính không phải điểm dừng khi cờ đỏ còn: hố sau, nối sọ–cổ, mạch máu cần MRI/MRA; bóc tách có thể chỉ biểu hiện bằng đau đầu (ICHD-3 2018, 6.5.1.1)."
+ ],
+ "diem_nho": [
+  "SNNOOP10: ≥ 65 tuổi có nguyên nhân nghiêm trọng ở 15% so với 1,6% người trẻ; đau khi ho là cờ đỏ vì Chiari (khoảng 40% đau ho thứ phát) và tổn thương hố sau (khoảng 15%) (SNNOOP10 2019, mục Older age và Precipitated by Valsalva).",
+  "Ottawa SAH: ≥ 40 tuổi, đau hoặc cứng cổ, ngất có chứng kiến, khởi phát khi gắng sức, đau sét đánh, gập cổ hạn chế; chỉ áp dụng khi đau nặng mới đạt đỉnh trong 1 giờ (AHA/ASA 2023, Bảng 3). CT trong 6 giờ đầu loại trừ XHDN, độ nhạy giảm dần từ 6 đến 24 giờ (ACEP 2019, mức B).",
+  "Bóc tách: đau một bên, nặng, kéo dài trung bình 4 ngày, chẩn đoán bằng MRI cổ, duplex, MRA/CTA (ICHD-3 2018, 6.5.1.1). Đau đầu từ cổ: tiêu chí B, C, D (11.2.1)."
+ ],
+ "nguon": [
+  "Do TP và cs. 2019 – SNNOOP10 (Neurology 92(3):134–144) – TL-0476 – mục Older age, Pattern change, Precipitated by sneezing, coughing (Valsalva), or exercise, Onset is sudden, Neurologic deficit, Systemic symptoms, Neoplasm in history, Papilledema.",
+  "IHS 2018 – ICHD-3 (Cephalalgia 38(1)) – TL-0480 – 4.1 (tiêu chí C–D, ghi chú 3), 4.2 (tiêu chí C, ghi chú 1), 6.4.1 (Comments), 6.5.1.1 (tiêu chí C, Comments), 11.2.1 (tiêu chí B–D).",
+  "AHA/ASA 2023 – Aneurysmal Subarachnoid Hemorrhage – TL-0070 – Bảng 3 (Ottawa SAH Rule). ACEP 2019 – Clinical Policy: Acute Headache – TL-0474 – khuyến cáo mức B (Ottawa SAH, CT trong 6 giờ).",
+  "GINA 2026 – Global Strategy for Asthma Management and Prevention – TL-0137 – chương 2 (Box 2-2), chương 3 (Avoidance of medications that may make asthma worse, tr. 66), chương 9 (Antibiotics (not recommended); SABA-only no longer recommended).",
+  "BYT – QĐ 1851/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị hen phế quản – TL-0127 – Bảng 3, Bảng 5, phần xử trí đợt cấp (kháng sinh).",
+  "EPOS 2020 – TL-0087 – Hình 1.4.1. BYT – QĐ 361/QĐ-BYT 2014 (cơ xương khớp) – TL-0286 – Phụ lục thuốc giảm đau mục 3.1; Phụ lục NSAID mục 3.3.",
+  "AHA/ACC 2025 – Tăng huyết áp ở người lớn – TL-0297 – Bảng 11, mục 3.1.1. BYT – QĐ 5904/QĐ-BYT 2019 – TL-0284 – phần Tăng huyết áp."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-07 (viết: Sonnet): ca 3 lượt, bản 1. Đã đọc: TL-0476 (SNNOOP10), TL-0480 (ICHD-3: 4.1, 4.2, 6.4.1, 6.5.1.1, 11.2.1), TL-0474 (ACEP 2019), TL-0070 (Bảng 3), TL-0137 (GINA 2026: chương 2, 3, 9), TL-0127 (QĐ 1851/2020: Bảng 3, 5), TL-0087 (Hình 1.4.1), TL-0286 (Phụ lục 3.1, 3.3), TL-0297 (Bảng 11, mục 3.1.1), TL-0284 (THA). Thiếu tài liệu (đã ghi 'không có trong tài liệu đã tải' hoặc 'nhận định lâm sàng'): khuyến cáo chụp hình ảnh cho đau đầu mới ≥ 65 tuổi (CT hay MRI, thời hạn); độ nhạy CT so với MRI cho hố sau/bóc tách; ngưỡng VS/CRP của GCA; thời gian nghỉ gắng sức; thời hạn tái khám; bảo hiểm chi trả; kỹ thuật trấn an; liều ICS cụ thể.",
+  "Mâu thuẫn nguồn đã có trong sổ, áp dụng: 'Liều paracetamol tối đa ở người cao tuổi hoặc tăng huyết áp' (ghi cả dưới 3 g/ngày và không quá 4 g/24 giờ). Kháng sinh (EPOS, GINA, QĐ 1851) và SABA-only (GINA 2026, QĐ 1851/2020) cùng hướng, không tạo mục mới.",
+  "Biến sổ cái: 'co_co_do: Không' hiểu là không có cờ đỏ CẤP, nhưng chẩn đoán đích 'có cờ đỏ' nên dùng cờ đỏ SNNOOP10 (tuổi, đau mới, tăng khi ho/gắng sức) như TK-0560. 'Ngoài giờ, không KTV': khóa X-quang, siêu âm (kéo theo CT, MRI); xét nghiệm máu có sau khoảng 4 giờ chỉ mô tả bằng chữ trong `n` (app có thể vẫn hiện kết quả ngay); điện tim, đường huyết, PEF do điều dưỡng làm. Lượt 2 'không đỡ' chạy quy trình thất bại điều trị. Kết cục tuyến trên là kịch bản minh họa; chẩn đoán cuối gần TK-0560 nhưng khác bối cảnh."
+ ]
+}
