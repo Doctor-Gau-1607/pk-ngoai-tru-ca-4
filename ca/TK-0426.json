@@ -1,0 +1,563 @@
+{
+ "ma_ca": "TK-0426",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-08)",
+ "benh": "TK_benh_than_kinh_ngoai_bien_dtd_ruou_chuyen_tuyen",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Bệnh thần kinh ngoại biên (ĐTĐ/rượu)",
+  "chan_doan_phai_loai_tru": [
+   "Thiếu B12",
+   "Chèn ép rễ"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Đáp án là chuyển tuyến",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Bảo vệ",
+  "yeu_to_khoi_phat": "Sau ăn đồ sống (gỏi cá)",
+  "thuoc_dang_dung": "Đông y đắp ngoài da",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Hường",
+  "tuoi": 67,
+  "gioi": "Nữ",
+  "nghe": "Bảo vệ (trực đêm ở kho hàng)",
+  "can_nang": 58,
+  "chieu_cao": 152,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Con trai Hoàng gọi mẹ là 'má', gọi bác sĩ là 'bác sĩ'; bà gọi con là 'thằng Hoàng'.",
+  "tinh_cach": "Hay lo xa, nghe đồn là tin, nói nhanh và hay nói quá ('chân tôi chết rồi'). Trực đêm một mình nên ít người để hỏi, tin lời thầy lang quen. Sợ con la nên giấu chuyện vết chân.",
+  "kieu_nhieu": "Sợ hãi quá mức: thổi phồng mọi triệu chứng, lặp 'có phải ung thư không', cắt lời, khóc khi nghe tên bệnh, đòi 'chụp hết cho chắc'. Vì sợ nên không dám tháo khăn quấn chân. Chỉ bình tĩnh trả lời chính xác khi được hỏi nỗi sợ, được gọi tên và được giải thích từng bước.",
+  "nguoi_nha": "Con trai",
+  "ten_nguoi_nha": "Lê Quốc Hoàng",
+  "ngoai_hinh": {
+   "da": "#c9a07a",
+   "toc": "#7d7d7d",
+   "kieuToc": "bui",
+   "ao": "#566b7a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d0a67f",
+    "toc": "#2a211c",
+    "kieuToc": "tre",
+    "ao": "#3f4c5a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "binh"
+   }
+  }
+ },
+ "ly_do_kham": "Tê rát hai bàn chân gần sáu tháng, mấy tuần nay nặng hơn; bà sợ bị ung thư",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám ngoại thành không làm được xét nghiệm nào (không máu, nước tiểu, không cả đường huyết mao mạch) nên cũng không có X-quang, CT, nội soi; không có siêu âm, Doppler. Chỉ có nhiệt kế, huyết áp kế, máy đo SpO₂, cân, ống nghe, búa phản xạ, âm thoa 128 Hz, monofilament 10 g. Bệnh viện đa khoa tỉnh cách khoảng 25 km, có nội tiết, ngoại, xét nghiệm và X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nữ 67 tuổi, bảo vệ trực đêm, con trai chở đến khám vì tê rát hai bàn chân gần sáu tháng. Bà đi chậm, hơi cà nhắc, hai bàn chân quấn khăn dày và mang dép nhựa, vừa vào đã hỏi \"có phải ung thư không\". Không mang hồ sơ cũ. Sinh hiệu lúc tiếp đón (ngồi): mạch 92 l/p, HA 138/84 mmHg, nhiệt 37,9 °C, nhịp thở 20, SpO₂ 97%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bà Hường được cho về với thuốc giảm đau thần kinh và hẹn tái khám hai tuần, trong khi dưới đầu xương bàn 1 chân phải đã có ổ loét sâu, có mủ, đỏ nóng lan lên mu bàn chân. Bà không đau nên không tự thấy nặng, tối đó vẫn đi tuần mười hai tiếng trong đôi giày cứng. ADA 2026 (mục 12, tr. S270) khuyến cáo chuyển khẩn khi có ổ loét hay sưng, đỏ, tăng nhiệt độ da; nhiễm trùng thường là nguyên nhân cuối cùng dẫn đến cắt cụt (tr. S268). Nhiều khả năng bà đến muộn với ổ nhiễm trùng sâu hơn, có thể phải cắt lọc rộng hoặc cắt cụt, còn nỗi sợ ung thư vẫn chưa được trả lời.",
+    "theo_doi": "Bà Hường được thay băng và hẹn lại sau hai ba ngày. Phòng khám không có xét nghiệm, X-quang hay Doppler nên không biết đường huyết, không biết xương có bị lan nhiễm trùng, không biết mạch chân phải đủ máu nuôi không; QĐ 5904/2019 (Phần 2 Bước 4A mục 5) xếp loét bàn chân vào tiêu chí chuyển tuyến trên. Hai ba ngày ở người mất cảm giác bảo vệ là thời gian nhiễm trùng lan sâu mà bà không hề đau; trong khi đó con trai chưa được biết nặng, bà tiếp tục đắp lá tại nhà.",
+    "cap_cuu": "Bà Hường được gọi xe cấp cứu 115 đưa vào khoa cấp cứu. Bà tỉnh, SpO₂ 97%, mạch 92, nhiệt 37,9 °C, ổ loét không hoại tử, không bọng nước xuất huyết, không khí dưới da, nên chưa phải cấp cứu ngoại khoa; ADA 2026 (tr. S271) chỉ xếp viêm mô hoại tử và hoại thư ướt là cấp cứu cần phẫu thuật ngay. Chuyển khẩn trong ngày bằng xe nhà có người đi cùng là đủ. Gọi cấp cứu làm bà hoảng hơn (\"tôi sắp chết vì ung thư\"), tốn phí và có thể bị xếp thứ tự chờ sau ca nặng hơn."
+   },
+   "loi_mo": "Bác sĩ ơi, chân tôi tê rát mấy tháng nay, mấy tuần nay còn nặng hơn, như chân người khác gắn vô vậy. Tôi ăn gỏi cá ở đám giỗ xong là bị. Có phải ung thư không bác sĩ? Bác sĩ nói thiệt đi, tôi sợ lắm!",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "138/84",
+    "nhiet": "37,9",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai bàn chân tê rát gần sáu tháng, mấy tuần nay nặng hơn. Bà sợ là ung thư: \"tê như vầy chắc ung thư lan vô dây thần kinh rồi, bác sĩ nói thiệt cho tôi biết\".",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "dac_diem",
+     "noi_dung": "Tê như kiến bò, rát bỏng, đêm nặng hơn, hai bên giống nhau, từ ngón chân lên tới quá mắt cá. Hai bàn tay không tê. Bà hay nói quá: \"chân tôi chết rồi, như chân người khác gắn vô\".",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đa dây thần kinh đối xứng ngọn chi, đau thần kinh tăng về đêm (QĐ 3510/2025 Hình 4)"
+    },
+    {
+     "id": "goi_ca",
+     "noi_dung": "Ba tuần trước ăn gỏi cá ở đám giỗ, đêm đó đau bụng đi ngoài một lần rồi hết. Từ đó bà thấy chân rát hơn nên tin \"cá sống độc chạy xuống chân\" hoặc có sán.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "dtd",
+     "noi_dung": "Tiểu đường típ 2 mười một năm, trạm y tế cho metformin 500 mg uống hai lần mỗi ngày. Bốn tháng nay bà ngưng thuốc vì nghe nói hại thận, từ đó không thử đường lần nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử ĐTĐ, bỏ thuốc (nguyên nhân chính; nguy cơ thiếu B12 do metformin)"
+    },
+    {
+     "id": "tang_duong",
+     "noi_dung": "Mấy tháng nay khát nước, đêm dậy tiểu ba lần. Cân từ 60 kg còn 58 kg, bà cho rằng \"ung thư ăn mất thịt\".",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tăng glucose máu, sụt cân (tiêu chí chuyển tuyến QĐ 5904/2019 Phần 2 Bước 4A mục 4)"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Mỗi đêm trực uống hai ba chén rượu đế nhỏ \"cho ấm bụng, đỡ nhức chân\", khoảng mười lăm năm nay. Ban ngày không uống.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Rượu: gây hoặc làm nặng bệnh thần kinh ngoại biên (ADA 2026 tr. S265; QĐ 3510/2025 mục 3.2.4)",
+     "dieu_kien_lo": "Bà gạt đi \"uống chút cho khỏe\" nếu chỉ hỏi chung \"có uống rượu không\". Chỉ kể chi tiết khi bác sĩ hỏi riêng, không phán xét, về lượng và giờ uống."
+    },
+    {
+     "id": "dap_la",
+     "noi_dung": "Ba tuần nay bà đắp chân bằng lá thuốc nam rang nóng với muối, ngày ba lần, rồi quấn khăn kín cả đêm. Thầy lang dặn \"đừng cho gió vô, mở ra là thuốc bay\". Bà thấy nóng chân thì nghĩ thuốc đang ngấm. Thành phần lá thầy không nói.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Thuốc đang dùng: đắp nóng lên bàn chân mất cảm giác, khăn quấn kín che mất chân (QĐ 3510/2025 mục 3.5)",
+     "dieu_kien_lo": "Hỏi chung \"có uống thuốc gì không\" thì bà đáp \"không, thuốc nam đắp thôi, chắc không sao\". Kể kỹ khi bác sĩ hỏi đắp bằng gì, nóng cỡ nào, đắp bao lâu, hoặc xin xem bàn chân."
+    },
+    {
+     "id": "vet_loet",
+     "noi_dung": "Khoảng mười ngày trước chỗ đắp phồng nước ở chân phải, bà tự nặn vì \"thuốc ra độc\". Mấy ngày nay khăn thấm nước vàng, hơi hôi. Bà không đau chỗ đó. Bà sợ mở ra là thấy \"ung thư lở\" nên không dám tháo.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Dấu hiệu then chốt: loét bàn chân có dịch, không đau vì mất cảm giác bảo vệ",
+     "dieu_kien_lo": "Hỏi chung \"chân có vết gì không\" thì bà nói \"không có, chỉ tê\". Chỉ kể khi bác sĩ hỏi có chảy dịch, có mùi, có phồng nước không, hoặc nhẹ nhàng đề nghị tháo khăn xem và giải thích vì sao cần xem."
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Chiều hôm qua ớn lạnh, người nóng, chưa uống thuốc hạ sốt. Không rét run, không lú lẫn, ăn kém.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Toàn thân: gợi ý nhiễm trùng"
+    },
+    {
+     "id": "loai_re",
+     "noi_dung": "Ngồi trực đêm lâu hơi mỏi lưng, không đau lan xuống mông hay chân, hai chân không yếu, tiểu tiện đại tiện bình thường, không tê vùng háng. Cổ không đau, tay không tê.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc chèn ép rễ (chẩn đoán phải loại trừ)"
+    },
+    {
+     "id": "b12",
+     "noi_dung": "Ăn đủ thịt, cá, trứng, không ăn chay, chưa mổ dạ dày, không uống thuốc dạ dày. Ngoài metformin chín năm trước khi ngưng, không dùng thuốc khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ thiếu B12 (NICE NG239 2024 hộp 2: metformin)"
+    },
+    {
+     "id": "khong_ung_thu",
+     "noi_dung": "Không ho ra máu, không đau xương, không nổi hạch, không sốt kéo dài trước hôm qua. Bà chỉ sụt hai ký như đã kể.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng gợi ý ung thư"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Đi tuần đêm cả ca mười hai tiếng trong đôi giày bảo hộ đế cứng, hơi chật; chiều nay mới vấp bậc thềm mà không biết chân đau. Bà không bao giờ nhìn bàn chân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề nghiệp: giày chật, đi nhiều, không kiểm tra chân hằng ngày (QĐ 3510/2025 mục 3.5)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Chị ruột mất vì ung thư gan năm ngoái; đồng nghiệp trực cùng nói \"tê chân là ung thư lan\". Bà mất ngủ mấy tuần, nghĩ mình sắp giống chị.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: sợ mắc ung thư",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi điều bà lo nhất, bà nghĩ mình bị bệnh gì, hoặc vì sao hôm nay quyết định đi khám; khi chưa được hỏi bà lặp câu \"có phải ung thư không\"."
+    },
+    {
+     "id": "nguoi_nha",
+     "noi_dung": "Con trai Hoàng chở bà đi và ngồi ngoài sảnh. Bà giấu con chuyện vết ở chân vì sợ con la. Bà đòi bác sĩ \"đừng nói cho con tôi nghe nặng quá\".",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "khac",
+     "noi_dung": "Không đau ngực, khó thở, không ho. Huyết áp chưa ai nói cao. Chưa biết thận ra sao vì chưa xét nghiệm.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bà tỉnh, lo lắng, nói nhanh, tay run nhẹ khi nhắc \"ung thư\". Cao 152 cm, nặng 58 kg (BMI 25,1). Da khô, môi khô, niêm hồng. Không hạch cổ, nách, bẹn. Không vàng da.",
+     "k": 1,
+     "hien": "Bà tỉnh, lo lắng, nói nhanh, môi khô, da khô; mặt hơi đỏ, người hâm hấp."
+    },
+    "tam_than": {
+     "a": "Lo âu nặng, cuốn vào chủ đề ung thư nhưng định hướng đúng, trí nhớ tốt, không ý tưởng tự hại. Dịu lại rõ khi được hỏi nỗi sợ, được gọi tên và được giải thích từng bước.",
+     "k": 0,
+     "hien": "Lo lắng nhiều, đối đáp mạch lạc; hỏi dồn \"có phải ung thư không\"."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 138/84 mmHg, mạch 90. Đứng 3 phút: 126/78 mmHg, mạch 98, không choáng. Huyết áp tâm thu giảm 12, tâm trương giảm 6, mạch tăng bù: chưa đạt ngưỡng giảm > 20 mmHg hoặc > 10 mmHg nên chưa có hạ huyết áp tư thế (QĐ 3510/2025 mục 2.2.1).",
+     "k": 0,
+     "hien": "Nằm 138/84, mạch 90; đứng 3 phút 126/78, mạch 98, bà không choáng."
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai phế trường, không ran. Nhịp thở 20 l/p.",
+     "k": 0,
+     "hien": "Nhịp thở 20 l/p, đều, lồng ngực cân đối.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, gan lách không sờ thấy, không điểm đau, không khối.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng không điểm đau, ấn cạnh sống không đau, cúi ưỡn bình thường. Lasègue âm tính hai bên. Cổ vận động đủ, không đau, không dấu Spurling.",
+     "k": 1,
+     "hien": "Cột sống thắt lưng và cổ không điểm đau; vận động cổ, lưng đủ biên độ."
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5 hai bên, gập mu bàn chân và duỗi ngón cái 5/5. Không teo cơ gian cốt, không yếu bàn tay.",
+     "k": 1,
+     "hien": "Sức cơ tay chân đều, đứng lên ngồi xuống không cần vịn."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi chậm, hơi cà nhắc chân phải vì sưng, nhìn xuống chân khi bước. Romberg hơi chao khi nhắm mắt, không ngã.",
+     "k": 0,
+     "hien": "Đi chậm, hơi cà nhắc chân phải, nhìn xuống chân khi bước."
+    },
+    "da": {
+     "a": "Da toàn thân khô, không ban, không nốt, không thâm tím, không dấu xuất huyết. Riêng bàn chân xem mục chi dưới.",
+     "k": 0
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch đùi, khoeo hai bên rõ. Chân trái: mạch mu chân và chày sau bắt được rõ, đổ đầy mao mạch dưới 3 giây. Chân phải: mạch chày sau bắt được yếu, mạch mu chân khó bắt do sưng; da vùng lành ấm. Không âm thổi đùi. Không đo được ABI (không Doppler), nên chưa loại trừ bệnh động mạch ngoại biên (ADA 2026 KC 12.27).",
+     "k": 1,
+     "hien": "Chân trái bắt được mạch mu chân và chày sau; chân phải bắt mạch yếu, vùng mu chân sưng."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, thần kinh sọ bình thường, cảm giác và sức hai bàn tay bình thường. Hai chân kiểu mang vớ đối xứng: monofilament 10 g (ba vị trí mỗi bàn chân, tránh ổ loét và chỗ chai): không cảm nhận cả ba vị trí hai bàn chân, tức mất cảm giác bảo vệ (QĐ 3510/2025 Phụ lục 01: còn cảm giác khi đúng ít nhất 2/3 lần thử). Âm thoa 128 Hz: mất rung ở ngón cái và mu bàn chân hai bên, còn ở củ xương chày (Phụ lục 03). Kim châm: giảm cảm giác nhói tới ngang giữa cẳng chân hai bên (Phụ lục 05). Phản xạ gót mất hai bên (Phụ lục 04), phản xạ gối giảm nhẹ. Babinski âm tính. Không dấu thần kinh khu trú.",
+     "k": 1,
+     "hien": "Hai bàn tay cảm giác bình thường. Bà nói hai bàn chân \"như đi trên bông\". Muốn chấm kết quả cần chọn đúng dụng cụ khám cảm giác."
+    },
+    "chi_duoi": {
+     "a": "Bà phải được đề nghị tháo khăn và lá đắp. Bàn chân phải: da quanh bàn chân đỏ nâu, nhiều mảng bong tróc sau đắp nóng; vài bọng nước vỡ ở mu bàn chân. Dưới đầu xương bàn 1 có ổ loét tròn khoảng 2 × 2,5 cm, sâu tới mô dưới da, đáy vàng bẩn, rìa chai dày, có mủ vàng đục chảy ra khi ấn, mùi hôi. Đỏ, nóng, sưng lan lên mu bàn chân khoảng 4 cm quanh ổ loét; ấn bà không kêu đau. Không đen hoại tử, không bọng nước xuất huyết, không lép bép khí, không đường đỏ lan lên cẳng chân. Bàn chân trái: gót khô nứt, vài bọng nước nhỏ nông ở mu chân, không loét. Không phù cẳng chân. Giày bảo hộ đế cứng, mũi hẹp, mòn lệch. Theo Wagner (QĐ 5481/2020 Phần 8 mục 4c): loét sâu có nhiễm trùng, có viêm mô tế bào quanh ổ loét (độ 2–3); không loại trừ viêm xương vì không có X-quang.",
+     "k": 1,
+     "hien": "Hai bàn chân quấn kín khăn ướt và lá. Muốn xem phải đề nghị bà tháo ra. Cẳng chân hai bên không phù."
+    }
+   },
+   "cls": {
+    "glu": {
+     "v": "e",
+     "r": "17,6 mmol/L (đói)",
+     "ab": 1,
+     "bang": {
+      "glu": 17.6
+     },
+     "n": "Đường huyết cao sau bốn tháng bỏ thuốc. Tăng glucose máu kèm nhiễm trùng là tiêu chí chuyển tuyến (QĐ 5904/2019 Phần 2 Bước 4A mục 4); ở đây không có xét nghiệm, nên quyết định chuyển phải dựa vào lâm sàng."
+    },
+    "glu_mm": {
+     "v": "n",
+     "r": "Cơ sở không có máy thử đường huyết mao mạch.",
+     "n": "Không làm được; không dùng làm lý do hoãn chuyển tuyến."
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "11,2%",
+     "ab": 1,
+     "n": "Kiểm soát đường huyết kém góp phần bệnh thần kinh và nhiễm trùng (QĐ 3510/2025 mục 3.3.1). Tuyến trên đo."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 8,4 mmol/L · Creatinin 102 µmol/L · eGFR 52 mL/ph/1,73m²",
+     "ab": 1,
+     "bang": {
+      "ure": 8.4,
+      "creat": 102,
+      "egfr": 52
+     },
+     "n": "Quyết định kháng sinh, thuốc đau thần kinh và metformin theo độ lọc (QĐ 3510/2025 mục 3.3.3.1; QĐ 5481/2020 Phụ lục 01 mục 2). Tuyến trên đo."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 15,6 G/L · Neutrophil 84% · Hb 118 g/L · MCV 91 fL · TC 362 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 15.6,
+      "neu_pct": 84.0,
+      "neu": 13.1,
+      "lym_pct": 10.0,
+      "lym": 1.56,
+      "hgb": 118,
+      "mcv": 91,
+      "plt": 362
+     },
+     "n": "Bạch cầu tăng, ưu thế đa nhân trung tính hợp nhiễm trùng. MCV 91 fL: không thiếu máu hồng cầu to, không ủng hộ thiếu B12."
+    },
+    "crp": {
+     "v": "u",
+     "r": "96 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 96
+     },
+     "n": "Không quyết định chuyển tuyến, chỉ làm rõ mức viêm."
+    },
+    "b12": {
+     "v": "e",
+     "r": "B12 huyết thanh toàn phần 388 ng/L",
+     "n": "Trên 350 ng/L: thiếu B12 khó xảy ra (NICE NG239 2024 Bảng 1). Bà có triệu chứng và yếu tố nguy cơ (metformin) nên thuộc diện xét nghiệm (khuyến cáo 1.2.5); phải lấy máu trước khi bù (1.3.4). Tuyến trên đo."
+    },
+    "cay_dich_da": {
+     "v": "u",
+     "r": "Nhuộm Gram mủ ổ loét: nhiều bạch cầu đa nhân, cầu khuẩn Gram dương và trực khuẩn Gram âm; cấy và kháng sinh đồ chờ kết quả.",
+     "n": "Mẫu mô để cấy nên lấy ở tuyến trên khi có dấu nhiễm trùng (ADA 2026 tr. S271)."
+    },
+    "xq_khop": {
+     "v": "u",
+     "r": "X-quang bàn chân phải thẳng nghiêng: mô mềm dày sưng vùng đầu xương bàn 1, không thấy khí trong mô mềm, chưa thấy hủy xương hay phản ứng màng xương rõ.",
+     "n": "X-quang cần để tìm bọt khí, hủy xương (ADA 2026 tr. S271); kết quả bình thường không loại trừ viêm xương sớm, MRI hữu ích hơn. Cơ sở không có X-quang."
+    },
+    "abi": {
+     "v": "n",
+     "r": "Cơ sở không có Doppler cầm tay.",
+     "n": "Mạch chân phải yếu nên ABI cần làm ở tuyến trên (ADA 2026 KC 12.27)."
+    },
+    "mri_cot_song": {
+     "n": "Không có chỉ định: tê đối xứng mang vớ, Lasègue âm tính, sức cơ 5/5 (ADA 2026 tr. S265: MRI cột sống hiếm khi cần). Cơ sở cũng không có MRI."
+    },
+    "tsh": {
+     "n": "Suy giáp nằm trong chẩn đoán phân biệt (QĐ 3510/2025 mục 3.2.4) nhưng không đổi quyết định chuyển hôm nay; tuyến trên làm cùng đợt."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh đa dây thần kinh ngoại biên do đái tháo đường típ 2 kiểm soát kém, rượu góp phần, mất cảm giác bảo vệ hai bàn chân, biến chứng loét bàn chân phải nhiễm trùng sau đắp lá nóng (hội chứng bàn chân đái tháo đường)",
+     "ok": 1,
+     "n": "Tê mang vớ đối xứng, mất cảm giác bảo vệ, mất rung, giảm kim châm, mất phản xạ gót (QĐ 3510/2025 mục 3.2.2, Hình 4, Phụ lục 01–05), có ĐTĐ 11 năm bỏ thuốc 4 tháng, rượu mỗi đêm (ADA 2026 tr. S265). Ổ loét sâu có mủ, đỏ nóng lan mu bàn chân (QĐ 5481/2020 Phần 8 mục 4c: Wagner độ 2–3)."
+    },
+    {
+     "t": "Thiếu vitamin B12",
+     "n": "Chưa loại trừ hoàn toàn bằng lâm sàng: bà có triệu chứng tê, mất thăng bằng và yếu tố nguy cơ (metformin chín năm), nên tuyến trên phải xét nghiệm (NICE NG239 2024 khuyến cáo 1.2.5). Gợi ý không nghiêng về thiếu B12: ăn đủ thịt cá trứng, không bệnh dạ dày, niêm hồng, không lẫn lộn. Lấy máu trước khi bù (khuyến cáo 1.3.4)."
+    },
+    {
+     "t": "Chèn ép rễ thần kinh (thoát vị đĩa đệm, hẹp ống sống)",
+     "n": "Hai chân đối xứng mang vớ, không đau lưng lan chân, Lasègue âm tính, sức cơ 5/5, không rối loạn cơ tròn. Bệnh rễ–đám rối do ĐTĐ có đau dữ dội một bên đùi, sụt cân, yếu cơ (QĐ 3510/2025 mục 5): bà không có."
+    },
+    {
+     "t": "Ung thư (di căn xương, thần kinh) hoặc hội chứng cận ung thư",
+     "n": "Không hạch, không ho ra máu, không đau xương, sụt hai ký giải thích được bằng tăng đường huyết. Danh sách chẩn đoán phân biệt trong QĐ 3510/2025 mục 3.2.4 không nêu ung thư (có nêu bệnh protein đơn dòng, nhiễm độc, chuyển hóa). Lâm sàng chưa thấy gợi ý, nhưng không có xét nghiệm nên không thể nói \"chắc chắn không\"; tuyến trên đánh giá thêm nếu còn nghi ngờ."
+    },
+    {
+     "t": "Bệnh động mạch ngoại biên kèm theo",
+     "n": "Mạch chày sau phải yếu, mạch mu chân khó bắt do sưng; không ABI nên không loại trừ. Người có mạch giảm cần chuyển đo ABI (ADA 2026 KC 12.27)."
+    },
+    {
+     "t": "Viêm xương hoặc viêm mô hoại tử, hoại thư ướt",
+     "n": "Ổ loét sâu, kéo dài khoảng 10 ngày nên có nguy cơ viêm xương (ADA 2026 tr. S271), không thể loại trừ vì không X-quang. Chưa có hoại tử, bọng nước xuất huyết hay khí; viêm mô hoại tử và hoại thư ướt là cấp cứu ngoại khoa (tr. S271) và bà chưa có."
+    },
+    {
+     "t": "Bệnh thần kinh tự chủ (hạ huyết áp tư thế)",
+     "n": "Nằm 138/84 đứng 126/78, mạch tăng bù: chưa đạt ngưỡng (QĐ 3510/2025 mục 2.2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi nỗi lo của bà, gọi tên nỗi sợ ung thư, giải thích bằng ngôn ngữ đơn giản rằng chân bà tê do tiểu đường và rượu làm hư dây thần kinh, nói rõ bà đang gặp việc cần xử trí gấp là vết ở bàn chân, rồi hỏi lại bà hiểu gì",
+     "v": "c",
+     "n": "Nhiễu \"sợ hãi quá mức\" và lý do thật \"sợ mắc ung thư\": phương pháp trấn an có cấu trúc không có trong tài liệu đã tải. Nội dung giải thích căn cứ QĐ 3510/2025 mục 3.2.4 (chẩn đoán phân biệt) và mục 3.2.2."
+    },
+    {
+     "t": "Đề nghị bà tháo khăn và lá đắp, khám hai bàn chân tận mắt dù bà e ngại",
+     "v": "c",
+     "n": "Người mất cảm giác phải được kiểm tra chân mỗi lần khám (ADA 2026 KC 12.25; QĐ 5481/2020 Phần 8 mục 4e). Ổ loét nằm dưới lớp khăn."
+    },
+    {
+     "t": "Khám cảm giác bàn chân bằng ít nhất một công cụ (monofilament 10 g, Ipswich, âm thoa 128 Hz, búa phản xạ, kim châm), tránh đặt monofilament lên ổ loét hay chai",
+     "v": "c",
+     "n": "QĐ 3510/2025 mục 3.2.2, Hình 4, Phụ lục 01 (không đặt trực tiếp lên vết loét, chai); ADA 2026 KC 12.24 (monofilament hoặc Ipswich kèm ít nhất một test khác). Hai cách cùng đúng (sổ mâu thuẫn TK-0422 mục 1)."
+    },
+    {
+     "t": "Khám mạch chân và hỏi triệu chứng cách hồi; ghi nhận không đo được ABI, ghi vào giấy chuyển tuyến",
+     "v": "c",
+     "n": "ADA 2026 KC 12.24, 12.27: có mạch giảm thì chuyển đo ABI."
+    },
+    {
+     "t": "Chuyển tuyến khẩn trong ngày đến bệnh viện có khoa nội tiết và ngoại (hoặc nhóm chăm sóc bàn chân đa chuyên khoa) để xét nghiệm, hình ảnh, cắt lọc và điều trị nhiễm trùng",
+     "v": "c",
+     "n": "Người có bất kỳ ổ loét hay sưng, đỏ, tăng nhiệt độ da không giải thích được phải chuyển khẩn đến chuyên gia hoặc nhóm đa chuyên khoa (ADA 2026 tr. S270; KC 12.28). Loét bàn chân là tiêu chí chuyển tuyến trên (QĐ 5904/2019 Phần 2 Bước 4A mục 5). Mốc giờ cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm tải bàn chân phải trước chuyển: không bước xuống đất, đi xe có người đi cùng, mang theo toàn bộ lá thuốc và chai thuốc đang dùng",
+     "v": "c",
+     "n": "Giảm tải ổ loét là nguyên tắc điều trị đầu tiên (ADA 2026 tr. S271). Mang thuốc theo để tuyến trên biết thành phần: lá bà dùng không rõ, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng đắp lá nóng và khăn quấn kín, che ổ loét bằng gạc sạch khô băng nhẹ, không bôi hay đắp thêm gì",
+     "v": "c",
+     "n": "Không dùng bình nước nóng hay máy sưởi cho chân, rửa nước dưới 37 °C (QĐ 3510/2025 mục 3.5); băng phù hợp với vết thương (ADA 2026 tr. S271). Loại gạc, dung dịch rửa và cách thay băng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viết giấy chuyển tuyến đủ ý và gọi báo trước: ĐTĐ 11 năm bỏ thuốc 4 tháng, rượu hằng đêm, đắp lá nóng 3 tuần, ổ loét sâu có mủ, sốt nhẹ, sinh hiệu; chưa có xét nghiệm nào; đề nghị đường huyết, HbA1c, công thức máu, CRP, creatinin, B12, cấy mủ, X-quang bàn chân, ABI",
+     "v": "c",
+     "n": "Mẫu cấy mô và hình ảnh (ADA 2026 tr. S271); B12 vì có triệu chứng và yếu tố nguy cơ, lấy máu trước khi bù (NICE NG239 2024 1.2.5, 1.3.4); creatinin để chọn thuốc (QĐ 3510/2025 mục 3.3.3.1); ABI (ADA KC 12.27). Khuôn SBAR: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho liều kháng sinh đầu tiên trước khi chuyển",
+     "v": "a",
+     "n": "ADA 2026 tr. S271: nhiễm trùng phải điều trị kịp thời, tích cực và cá thể hóa theo mức độ và bệnh động mạch ngoại biên; thuốc và liều theo hướng dẫn IWGDF/IDSA, không có trong tài liệu đã tải. Làm hay không đều không trừ điểm vì chuyển tuyến trong ngày mới là then chốt."
+    },
+    {
+     "t": "Khởi thuốc giảm đau thần kinh liều thấp trước khi chuyển",
+     "v": "a",
+     "n": "Thuốc bước 1 là gabapentinoid hoặc SNRI chỉnh theo độ lọc cầu thận (QĐ 3510/2025 mục 3.3.3.1, 3.4; ADA 2026 KC 12.22). Chưa có creatinin nên để tuyến trên quyết cũng đúng."
+    },
+    {
+     "t": "Giải thích ngưng rượu, dặn tuân thủ điều trị đường huyết sau khi xuất viện",
+     "v": "c",
+     "n": "Rượu làm nặng bệnh thần kinh và giảm hấp thu thiamin (ADA 2026 tr. S265; QĐ 3510/2025 mục 3.2.4); tối ưu đường huyết làm chậm tiến triển (QĐ 3510/2025 mục 3.3.1)."
+    },
+    {
+     "t": "Cho về nhà với thuốc giảm đau thần kinh hoặc vitamin nhóm B, tự thay băng ở nhà, hẹn tái khám 1–2 tuần",
+     "v": "w",
+     "n": "Ổ loét nhiễm trùng ở người mất cảm giác phải chuyển khẩn (ADA 2026 tr. S270); nhiễm trùng là nguyên nhân cuối cùng thường gặp của cắt cụt (tr. S268) và cần chẩn đoán sớm, điều trị tích cực (tr. S271); loét bàn chân là tiêu chí chuyển tuyến (QĐ 5904/2019 Phần 2 Bước 4A mục 5)."
+    },
+    {
+     "t": "Hẹn thay băng tại phòng khám sau 2–3 ngày, theo dõi tại chỗ",
+     "v": "w",
+     "n": "Phòng khám không có xét nghiệm, X-quang hay Doppler nên không đánh giá được đường huyết, viêm xương, thiếu máu chi (ADA 2026 tr. S271, KC 12.27); chậm chuyển làm tăng nguy cơ biến chứng (tr. S268, S270)."
+    },
+    {
+     "t": "Để bà tiếp tục đắp lá thuốc nam nóng hoặc ngâm chân nước nóng",
+     "v": "w",
+     "n": "Không dùng bình nước nóng, máy sưởi làm ấm chân; rửa nước dưới 37 °C (QĐ 3510/2025 mục 3.5). Tác dụng của lá thầy dùng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trấn an \"không sao, tê chân do tuổi\" rồi cho về",
+     "v": "w",
+     "n": "Bỏ qua ổ loét nhiễm trùng và bệnh thần kinh chưa kiểm soát (QĐ 3510/2025 mục 3.2.2; ADA 2026 tr. S270)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh đa dây thần kinh ngoại biên đối xứng ngọn chi do đái tháo đường típ 2 kiểm soát kém, rượu góp phần; mất cảm giác bảo vệ hai bàn chân (QĐ 3510/2025 mục 3.2.2; ADA 2026 tr. S265)",
+     "Loét bàn chân phải dưới đầu xương bàn 1, sâu, nhiễm trùng, có viêm mô tế bào quanh ổ loét, sau đắp lá thuốc nóng ba tuần (Wagner độ 2–3, QĐ 5481/2020 Phần 8 mục 4c); không loại trừ viêm xương và bệnh động mạch ngoại biên",
+     "Nghi tăng glucose máu nặng: khát, tiểu đêm, sụt 2 kg, bỏ metformin 4 tháng (QĐ 5904/2019 Phần 2 Bước 4A mục 4); chưa có xét nghiệm nào",
+     "Chưa loại trừ hoàn toàn bằng lâm sàng: thiếu B12 (cần xét nghiệm, NICE NG239 2024 1.2.5). Không giống chèn ép rễ và không có hạ huyết áp tư thế",
+     "Lo âu nặng, lý do thật đến khám: sợ mắc ung thư như chị ruột; không có dấu hiệu lâm sàng gợi ý ung thư",
+     "Hướng xử trí: chuyển tuyến khẩn trong ngày, không phải cấp cứu hồi sức"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: trấn an và hỏi nỗi lo → hỏi bệnh (tính chất tê, ĐTĐ, rượu, thuốc đang dùng kể cả đắp ngoài da, vết ở chân, sốt) → sinh hiệu, huyết áp tư thế → tháo khăn khám bàn chân, mạch, thần kinh, cột sống → nhận ra giới hạn của cơ sở (không xét nghiệm) → chẩn đoán → chuyển tuyến, chuẩn bị và bàn giao.",
+     "Bẫy: lời mở \"chắc ung thư\" và \"ăn gỏi cá\" dẫn bác sĩ đi tìm ung thư, ký sinh trùng hay kê thuốc giảm đau thần kinh cho về. Bệnh đa dây thần kinh vốn điều trị ngoại trú (QĐ 3510/2025 mục 3.4), nên dễ đóng khung. Chi tiết khiến phải dừng lại nằm dưới lớp khăn: ổ loét có mủ ở bàn chân mất cảm giác bảo vệ. Bà không đau nên không kể; bà sợ nên không dám tháo.",
+     "Vì sao là bệnh đa dây thần kinh do ĐTĐ có rượu góp phần: tê và rát đối xứng, nặng về đêm, từ ngón lên theo kiểu mang vớ, mất cảm giác bảo vệ (monofilament), mất rung, giảm kim châm, mất phản xạ gót (QĐ 3510/2025 mục 3.2.2, Hình 4, Phụ lục 01–05). ĐTĐ mười một năm bỏ thuốc; rượu và thiếu B12 phải xét (ADA 2026 tr. S265).",
+     "Vì sao không chờ xét nghiệm để loại thiếu B12: bà có triệu chứng và yếu tố nguy cơ (metformin), thuộc diện cần xét nghiệm (NICE NG239 2024 1.2.5). Không xét nghiệm được thì không loại trừ hoàn toàn; việc này giao tuyến trên cùng đợt chuyển, lấy máu trước khi bù (1.3.4).",
+     "Vì sao không phải chèn ép rễ: hai bên đối xứng, không đau rễ, Lasègue âm tính, sức cơ 5/5. Bệnh rễ–đám rối do ĐTĐ đau dữ dội một bên đùi và yếu cơ (QĐ 3510/2025 mục 5). MRI cột sống hiếm khi cần (ADA 2026 tr. S265).",
+     "Vì sao sợ ung thư không đổi hướng xử trí: không hạch, không ho ra máu, sụt hai ký có giải thích khác. Tài liệu đã tải không đưa ung thư vào chẩn đoán phân biệt bệnh đa dây thần kinh ĐTĐ (QĐ 3510/2025 mục 3.2.4). Không xét nghiệm thì không nói \"chắc chắn không\"; phải nói thẳng giới hạn đó.",
+     "Mức độ: Wagner độ 2–3 (QĐ 5481/2020 Phần 8 mục 4c); sốt nhẹ, mạch 92, chưa hoại tử, khí hay sốc, nên chưa phải cấp cứu ngoại khoa (ADA 2026 tr. S271 chỉ xếp viêm mô hoại tử và hoại thư ướt là cấp cứu).",
+     "Khả năng áp dụng (60–74 tuổi): tài liệu đã tải không có tiêu chí xử trí bàn chân riêng theo tuổi."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến khẩn trong ngày, vì: (1) ổ loét, đỏ, nóng, sưng cần chuyển khẩn đến nhóm chăm sóc bàn chân đa chuyên khoa (ADA 2026 tr. S270, KC 12.28); (2) loét bàn chân và tăng glucose máu kèm nhiễm trùng là tiêu chí chuyển tuyến (QĐ 5904/2019 Phần 2 Bước 4A mục 4, 5); (3) cơ sở không có xét nghiệm, X-quang, Doppler: không đánh giá được đường huyết, viêm xương, thiếu máu chi. Mốc giờ cụ thể: không có trong tài liệu đã tải.",
+     "Việc cần làm trước khi chuyển: (a) tháo lá đắp và băng che ổ loét bằng gạc sạch khô; (b) không cho bước xuống đất (giảm tải, ADA 2026 tr. S271); (c) có người đi cùng, ngồi xe; (d) mang theo lá thuốc; (e) báo trước bệnh viện; (f) giấy chuyển tuyến đủ ý. Loại gạc, dung dịch rửa, thay băng: không có trong tài liệu đã tải.",
+     "Kháng sinh: ADA 2026 tr. S271 yêu cầu điều trị nhiễm trùng tích cực, cá thể hóa theo mức độ và bệnh động mạch ngoại biên, thuốc theo IWGDF/IDSA; hướng dẫn đó không có trong tài liệu đã tải nên ca không ghi thuốc, liều. Cho liều đầu hay không đều chấp nhận (a).",
+     "Thuốc giảm đau thần kinh và thuốc hạ đường huyết: chưa kê hôm nay vì chưa có creatinin và đường huyết (QĐ 3510/2025 mục 3.3.3.1; QĐ 5481/2020 Phụ lục 01 mục 2). Tuyến trên đặt lịch: tối ưu đường huyết (QĐ 3510/2025 mục 3.3.1), thuốc bước 1 gabapentinoid hoặc SNRI (mục 3.4), benfotiamine hoặc ALA (mục 3.3.2).",
+     "Bàn giao: giấy chuyển tuyến nêu bệnh sử, ổ loét, sinh hiệu, thuốc dùng (đắp lá, rượu), cái đã làm và chưa làm được, xét nghiệm đề nghị (đường huyết, HbA1c, CTM, CRP, creatinin, B12, cấy mủ, X-quang bàn chân, ABI), và nỗi sợ ung thư của bà để tuyến trên tiếp tục trấn an. Khuôn SBAR: không có trong tài liệu đã tải.",
+     "Trấn an có cấu trúc, tránh chiều lòng: hỏi nỗi sợ, gọi tên, cho thông tin cụ thể, nói kế hoạch, hỏi lại bà hiểu gì. Không chuyển để \"chụp hết\" tìm ung thư; xét nghiệm do bệnh cảnh quyết định, không phải do lo âu (ví dụ MRI cột sống hiếm khi cần, ADA 2026 tr. S265). Phương pháp giao tiếp: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc uống hay tiêm tại phòng khám trước khi chuyển (quyết định có chủ đích)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Kháng sinh: thuốc, liều theo IWGDF/IDSA, không có trong tài liệu đã tải (ADA 2026 tr. S271 chỉ nêu nguyên tắc). Thuốc đau thần kinh: chỉnh theo độ lọc cầu thận chưa biết (QĐ 3510/2025 mục 3.3.3.1). Metformin: chỉnh theo eGFR (QĐ 5481/2020 Phụ lục 01 mục 2). Tuyến trên quyết sau xét nghiệm."
+     },
+     {
+      "thuoc": "Gạc vô khuẩn khô (vật tư che ổ loét)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Phủ kín ổ loét, băng nhẹ, không siết",
+      "duong": "Tại chỗ",
+      "thoi_diem": "Một lần ngay sau khi tháo lá đắp, giữ nguyên tới bệnh viện",
+      "so_ngay": "Đến khi tuyến trên thay",
+      "ghi_chu": "Băng thích hợp với vết thương là một trong năm nguyên tắc (ADA 2026 tr. S271); loại băng, dung dịch rửa, tần suất thay không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bà Hường hiểu rằng chân bà tê là do tiểu đường và rượu làm hỏng dây thần kinh; bác sĩ không thấy dấu hiệu nào của ung thư khi khám, nhưng ở đây không có xét nghiệm nên cần bệnh viện xem tiếp. Việc cần làm ngay hôm nay là vết ở chân phải, vì bà không đau nên không biết nó nặng.",
+     "Đi bệnh viện tỉnh trong ngày, con trai chở và đi cùng; chân phải không bước xuống đất, ngồi xe, được dìu hoặc xe lăn. Mang theo mọi lá thuốc, chai rượu thuốc và đơn cũ.",
+     "Ngưng ngay đắp lá nóng, rang muối và quấn kín; không ngâm chân nước nóng, không dùng bình nước nóng (QĐ 3510/2025 mục 3.5). Không tự bôi hay đắp gì lên vết.",
+     "Không uống rượu trong lúc chờ khám; rượu làm nặng bệnh thần kinh (ADA 2026 tr. S265). Nói với bác sĩ tuyến trên về chuyện ngưng metformin để họ chỉnh đúng thuốc, không tự uống lại.",
+     "Báo ngay nhân viên y tế hoặc gọi cấp cứu nếu trên đường đi: rét run, lú lẫn, thở nhanh, da quanh vết chuyển đen hoặc có bọng nước tím, đỏ lan lên cẳng chân (hoại tử và hoại thư ướt là cấp cứu ngoại khoa, ADA 2026 tr. S271).",
+     "Về sau: kiểm tra hai bàn chân mỗi ngày, nhờ con nếu không tự nhìn; không đi chân trần; chọn giày đúng cỡ, nhìn và sờ bên trong giày trước khi mang; không tự cắt chai (QĐ 3510/2025 mục 3.5). Thông báo bác sĩ khi thấy sưng, nóng, phồng nước, vết xước.",
+     "Tái khám theo hẹn của bệnh viện; tuyến trên đặt lịch khám bàn chân định kỳ theo nhóm nguy cơ (ADA 2026 Bảng 12.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Con trai chở bà lên bệnh viện tỉnh ngay chiều đó. Tại đây bà được xét nghiệm, chụp X-quang, cắt lọc và điều trị nhiễm trùng, đường huyết được điều chỉnh. Bà giữ được bàn chân, nhưng ổ loét lành chậm vì mạch chân phải yếu. Bà nói: \"May mà bác sĩ bắt tôi tháo khăn, không thì tôi ôm cái vết đó đi trực tiếp.\" Nỗi sợ ung thư được bác sĩ tuyến trên tiếp tục giải thích. (Diễn biến sau chuyển tuyến là kịch bản minh họa, không phải dữ kiện từ tài liệu.)",
+ "nhieu": [
+  "Gỏi cá: bà tin cá sống \"độc chạy xuống chân\". Thời điểm tê rát tăng trùng bữa gỏi cá nhưng bệnh đã sáu tháng; tài liệu đã tải cho ca này không nêu liên hệ giữa gỏi cá và bệnh thần kinh ngoại biên.",
+  "Sợ ung thư và đòi chụp hết: nỗi sợ chiếm cuộc khám, khiến bác sĩ dễ chiều lòng hoặc dỗ nhanh rồi bỏ sót vết ở chân.",
+  "Thuốc nam đắp nóng: vừa là thuốc đang dùng vừa là tác nhân gây loét, đồng thời lớp khăn che mất dấu hiệu then chốt."
+ ],
+ "bai_hoc_bien": [
+  "Bẫy chuyển tuyến: chẩn đoán đúng là bệnh đa dây thần kinh ĐTĐ/rượu, nhưng thứ quyết định xử trí là ổ loét nhiễm trùng ở bàn chân mất cảm giác bảo vệ. Bệnh nhân không đau thì không kể; phải đề nghị tháo băng (ADA 2026 KC 12.25).",
+  "Không có xét nghiệm nào: ra quyết định thuần lâm sàng. Nhận ra giới hạn của cơ sở và chuyển đúng lúc là kỹ năng, không phải thất bại (QĐ 5904/2019 Phần 2 Bước 4A).",
+  "Sợ hãi quá mức: trấn an có cấu trúc (hỏi nỗi sợ, gọi tên, thông tin, kế hoạch, hỏi lại) thay vì xét nghiệm chiều lòng; nói thẳng giới hạn \"ở đây chưa làm được\" thay vì hứa \"chắc chắn không\".",
+  "Chuyển tuyến kịp thời gồm tiêu chí chuyển, việc làm trước chuyển (tháo lá, che vết, giảm tải, người đi cùng) và bàn giao đủ ý, kể cả thuốc nam bà dùng."
+ ],
+ "diem_nho": [
+  "Chẩn đoán bệnh đa dây thần kinh ĐTĐ bằng ít nhất một công cụ khám (monofilament, Ipswich, âm thoa 128 Hz, búa, kim châm); phải loại trừ thiếu B12, suy giáp, suy thận, rượu (QĐ 3510/2025 mục 3.2.2, 3.2.4, Hình 4).",
+  "Monofilament không đặt lên ổ loét, chai, sẹo; còn cảm giác khi đúng ít nhất 2/3 lần thử (QĐ 3510/2025 Phụ lục 01).",
+  "Người có bất kỳ ổ loét hay sưng, đỏ, tăng nhiệt độ da không giải thích được: chuyển khẩn đến chuyên gia hoặc nhóm đa chuyên khoa (ADA 2026 tr. S270). Loét bàn chân là tiêu chí chuyển tuyến ĐTĐ ở trạm y tế (QĐ 5904/2019 Phần 2 Bước 4A mục 5).",
+  "Năm nguyên tắc điều trị ổ loét: giảm tải, cắt lọc, tái thông mạch khi cần, xử trí nhiễm trùng, băng tại chỗ phù hợp (ADA 2026 tr. S271). Viêm mô hoại tử và hoại thư ướt là cấp cứu ngoại khoa.",
+  "Không dùng bình nước nóng, máy sưởi cho chân; rửa nước dưới 37 °C; kiểm tra chân hằng ngày (QĐ 3510/2025 mục 3.5)."
+ ],
+ "nguon": [
+  "BYT 2025 – QĐ 3510/QĐ-BYT ngày 11/11/2025, Hướng dẫn chẩn đoán và điều trị bệnh thần kinh đái tháo đường – TL-0279 – mục 2.2.1, 3.2.2, 3.2.4, 3.3.1–3.3.3, 3.4, 3.5, 5, Hình 4, Phụ lục 01–05.",
+  "ADA 2026 – Standards of Care, mục 12, Diabetes Care 2026;49(Suppl 1):S261-S276 – TL-0446 – KC 12.22, 12.24, 12.25, 12.27, 12.28; tr. S265, S268, S270, S271; Bảng 12.1.",
+  "BYT 2019 – QĐ 5904/QĐ-BYT, Quản lý bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 2 Bước 4A (mục 4, 5).",
+  "BYT 2020 – QĐ 5481/QĐ-BYT, Hướng dẫn chẩn đoán và điều trị ĐTĐ típ 2 – TL-0031 – Phần 8 mục 4 (c, e), Phụ lục 01 mục 2.",
+  "NICE NG239 2024 – Vitamin B12 deficiency in over 16s – TL-0462 – 1.2.5, 1.3.4, Bảng 1, hộp 2."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-08): viết theo tài liệu đã tải; đối chiếu bằng rg các trích dẫn QĐ 3510/2025, ADA 2026 mục 12, QĐ 5904/2019, QĐ 5481/2020, NICE NG239. Không có trong tài liệu đã tải: kháng sinh cho nhiễm trùng bàn chân (IWGDF/IDSA), loại băng và dung dịch rửa, mốc giờ chuyển tuyến, khuôn bàn giao SBAR, phương pháp trấn an người sợ hãi, tác dụng và độc tính của lá thuốc nam, bệnh thần kinh do rượu riêng (BYT không có hướng dẫn riêng), liên hệ gỏi cá với bệnh thần kinh. Không dùng ảnh da (ổ loét mô tả bằng chữ). Số liệu xét nghiệm là kết quả giả định nếu có ở nơi có xét nghiệm. Diễn biến sau chuyển tuyến là kịch bản minh họa."
+ ]
+}
