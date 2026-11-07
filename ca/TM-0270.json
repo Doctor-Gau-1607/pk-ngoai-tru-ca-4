@@ -1,0 +1,498 @@
+{
+ "ma_ca": "TM-0270",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_kho_mat_rat_cao_tuoi_sau_choi_bong_doi_truyen_dich",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Khô mắt",
+  "chan_doan_phai_loai_tru": [
+   "Viêm kết mạc",
+   "Bệnh tự miễn"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Hưu trí (cựu giáo viên tiểu học)",
+  "yeu_to_khoi_phat": "Sau chơi thể thao (bóng chuyền hơi trong nhà thi đấu có quạt công nghiệp)",
+  "thuoc_dang_dung": "NSAID tự mua (ibuprofen)",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm"
+ },
+ "benh_nhan": {
+  "ten": "Lương Thị Ngà",
+  "tuoi": 78,
+  "gioi": "Nữ",
+  "nghe": "Hưu trí (cựu giáo viên tiểu học)",
+  "can_nang": 48,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi' (thỉnh thoảng 'cô' theo thói quen thầy cô giáo), gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Cựu giáo viên tiểu học, nói rõ ràng, lễ độ nhưng hay 'dạy' lại người đối diện và kể chuyện ngày xưa. Sống tình cảm, lo cho con cháu, ngại làm phiền con. Mê bóng chuyền hơi ở câu lạc bộ hưu trí. Hiểu biết y khoa theo kiểu truyền miệng: tin 'mệt là phải truyền chai nước cho tỉnh người'.",
+  "kieu_nhieu": "Đòi truyền dịch: ngay từ lời mở bà xin 'truyền cho tôi chai nước cho lại sức', nói hồi trước trạm y tế xã vẫn truyền như vậy. Nếu bác sĩ chỉ nói 'không cần' mà không giải thích, bà nhắc lại lần hai, lần ba và con gái phụ họa. Nếu bác sĩ khám cho bà thấy không có dấu mất nước, giải thích mắt khô là vấn đề màng nước mắt chứ không phải thiếu nước trong người, và đưa cách làm khác (nhỏ nước mắt, chỉnh quạt, nghỉ ngơi, uống nước) thì bà nghe và chấp nhận. Lý do thật (muốn tờ giấy bác sĩ cho nghỉ trông cháu) chỉ nói khi được hỏi bà lo điều gì hoặc việc nhà nào làm bà mệt.",
+  "nguoi_nha": "Con gái Đỗ Thị Hải Yến, 50 tuổi, nhân viên văn phòng, đưa mẹ đi khám, ngồi bên cạnh. Lo mẹ mệt nên ủng hộ chuyện truyền dịch, hay chen vào kể. Chưa biết mẹ muốn thôi trông cháu. Bà Ngà vẫn là người trả lời chính.",
+  "ten_nguoi_nha": "Con gái (chị Yến)",
+  "ngoai_hinh": {
+   "da": "#d8b196",
+   "toc": "#cfcac2",
+   "kieuToc": "bui",
+   "ao": "#8a6f7a",
+   "aoKieu": "baba",
+   "kinh": true,
+   "nep": 3,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#dcb69a",
+    "toc": "#2a1d18",
+    "kieuToc": "dai",
+    "ao": "#5f7a8f",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Cộm rát hai mắt hơn một tuần, mệt người",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Cơ sở không có xét nghiệm nào."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 78 tuổi, hưu trí (cựu giáo viên tiểu học), con gái đưa đi. Đến khám vì cộm rát hai mắt hơn một tuần, mệt người. Sinh hiệu lúc tiếp đón: HA 138/78 mmHg, mạch 78 l/p, nhiệt độ 36,8 °C, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Ngà được giữ lại hoặc truyền một chai dịch theo mong muốn của bà và con gái, trong khi bà uống được, môi miệng ẩm, tiểu vàng nhạt, huyết áp nằm và đứng không tụt: không có dấu mất nước. Cộm rát của bà đến từ màng nước mắt kém bền và quạt thổi thẳng vào mặt, không phải thiếu nước trong cơ thể (AAO Dry Eye PPP 2023, tr. 14–16); tài liệu đã tải không có chỉ định truyền dịch cho khô mắt. Bà mất cả buổi chiều, về nhà mắt vẫn cộm vì chưa nhỏ nước mắt nhân tạo hay chỉnh quạt, và chuyện trông cháu vẫn chưa ai nghe.",
+    "chuyen_tuyen": "Bà Ngà bị gửi lên bệnh viện mắt tuyến trên ngay hôm nay vì lo tổn thương giác mạc sau buổi chơi bóng. Giác mạc chỉ bắt màu chấm nhỏ, không thâm nhiễm hay loét, bà không đau vừa hoặc nặng, không giảm thị lực nhiều, nên chưa thuộc các tình huống cần bác sĩ nhãn khoa (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26); bước 1 làm được ngay tại đây (Bảng 3, tr. 21). Một bà cụ 78 tuổi đi xe đường dài, con gái phải xin nghỉ làm đi cùng, tốn kém mà vẫn nhận cùng đơn nước mắt nhân tạo."
+   },
+   "loi_mo": "Chào bác sĩ. Hai con mắt tôi cộm rát cả tuần nay, người thì mệt rã rời. Bác sĩ cho tôi truyền chai nước cho lại sức, hồi trước ở trạm xá mệt là người ta truyền một chai là khỏe ngay.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "138/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai mắt cộm rát như có cát, hơi đỏ, hơn một tuần nay. Người mệt, đuối sức nên bà xin truyền chai nước. Con gái đi cùng vì lo mẹ mệt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, thời gian"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chín ngày trước câu lạc bộ hưu trí giao lưu bóng chuyền hơi ba chiều liền, mỗi chiều khoảng hai giờ, trong nhà thi đấu phường có hai quạt công nghiệp đặt cạnh sân thổi thẳng vào mặt người chơi. Bà mê bóng, mắt dán theo quả bóng, ít chớp. Chiều đầu tiên mắt bắt đầu cộm, hai hôm sau tăng dần. Bà đã nghỉ chơi từ hôm đó nhưng chưa đỡ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: quạt gió thổi thẳng, nhìn chăm chú ít chớp"
+    },
+    {
+     "id": "dien_bien",
+     "noi_dung": "Sáng dậy mắt đỡ hơn, càng về chiều tối càng cộm rát. Khóe mắt buổi sáng có chút ghèn nhầy trắng, không dính mi, không vàng xanh. Nhỏ nước muối sinh lý 0,9% mua ở nhà thuốc thấy dễ chịu được vài phút rồi cộm lại. Ra nắng hơi chói nhưng không phải nheo mắt hay đeo kính râm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm triệu chứng: nặng về chiều, ghèn nhầy ít, nước muối đỡ tạm"
+    },
+    {
+     "id": "mo_thoang",
+     "noi_dung": "Đọc báo hoặc xem điện thoại lâu thì chữ mờ đi từng lúc, chớp mắt vài cái là rõ lại. Chưa bao giờ mờ kéo dài.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có nhìn mờ không' thì bà đáp 'đọc được, không mờ'. Chỉ kể khi bác sĩ hỏi cụ thể mờ lúc nào, đọc báo hoặc xem điện thoại lâu có sao không, hay chớp mắt có rõ lại không.",
+     "k": 1,
+     "y": "Nhìn mờ dao động, hết sau khi chớp mắt"
+    },
+    {
+     "id": "ngua_di_ung",
+     "noi_dung": "Không ngứa mắt, không hắt hơi, sổ mũi. Không có cơ địa dị ứng (chàm, hen, viêm mũi dị ứng). Không sốt, không ho, không đau họng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ viêm kết mạc dị ứng và virus"
+    },
+    {
+     "id": "chau",
+     "noi_dung": "Bốn tuần trước cháu ngoại Bin 5 tuổi bị đỏ mắt có ghèn, nhỏ thuốc một tuần thì khỏi. Bà bế ôm cháu suốt nhưng lúc đó mắt bà không đỏ, không ghèn. Hai mắt bà bây giờ không có ghèn vàng xanh, không dính mi buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Tiếp xúc người đau mắt đỏ (nhiễu)"
+    },
+    {
+     "id": "bong",
+     "noi_dung": "Trong một buổi chơi, quả bóng chuyền hơi nhẹ chạm vào má trái, không trúng mắt, không bầm, không sưng. Không nhìn mờ đột ngột, không thấy chớp sáng hay đom đóm, không đau nhức quanh hốc mắt, không buồn nôn, không nhìn đèn có quầng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Chấn thương mắt và dấu hiệu cờ đỏ (nhiễu)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Đau gối hai bên nhiều năm nên bà mua ibuprofen 400 mg ở nhà thuốc, uống 1 viên mỗi lần đau, khoảng 3–4 ngày một tuần từ hai tháng nay, tuần chơi bóng uống nhiều hơn. Uống sau ăn, không đau dạ dày, không đi cầu phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng, kể cả thuốc tự mua"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không dùng thuốc huyết áp, lợi tiểu, thuốc dị ứng, thuốc ngủ, thuốc an thần, thuốc trầm cảm. Ngoài nước muối sinh lý, chưa nhỏ thuốc mắt nào. Không hút thuốc, không uống rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc toàn thân và thuốc nhỏ mắt có thể gây khô mắt, hút thuốc"
+    },
+    {
+     "id": "tu_mien",
+     "noi_dung": "Miệng không khô, ăn cơm không phải uống nước kèm nhiều hơn trước. Không đau, sưng các khớp nhỏ ở bàn tay, không cứng tay buổi sáng. Không ban sau nắng, không tay chân tím lạnh khi gặp lạnh, không sốt kéo dài, không sụt cân. Gia đình không ai bị bệnh tự miễn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc khô miệng, đau khớp, tự miễn"
+    },
+    {
+     "id": "man_hinh",
+     "noi_dung": "Buổi tối xem tivi, đọc báo, nhắn Zalo tổng cộng khoảng ba giờ. Mùa nóng ngủ quạt đứng quay thẳng vào đầu giường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Màn hình, quạt gió: yếu tố làm nặng"
+    },
+    {
+     "id": "met",
+     "noi_dung": "Mệt nhiều vào chiều, ngủ khoảng 5 giờ mỗi đêm vì dậy sớm đưa cháu. Ăn cơm được, không sốt, không sụt cân. Chơi bóng cả buổi vẫn thở bình thường, không đau ngực, không hồi hộp, chưa lần nào ngất hay choáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc nguyên nhân mệt ở người rất cao tuổi"
+    },
+    {
+     "id": "nuoc",
+     "noi_dung": "Mỗi ngày uống khoảng 1,2 lít nước, tiểu 5–6 lần, nước tiểu vàng nhạt. Không tiêu chảy, không nôn, không khát dữ dội, miệng không khô.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đánh giá mất nước: lượng uống, nước tiểu, tiêu chảy, nôn"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Thật ra bà thấy kiệt sức vì thiếu ngủ, đau gối và giữ cháu ba ngày một tuần, không kham nổi nữa. Bà ngại nói thẳng vì sợ con nghĩ mình bỏ con cháu, nên mong có một tờ giấy bác sĩ ghi 'bà cần nghỉ ngơi' để con không trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi bà lo điều gì nhất, việc nhà nào làm bà mệt, hôm nay bà mong bác sĩ giúp thêm điều gì, và nói nhỏ vì con gái ngồi cạnh. Hỏi chung 'mệt thế nào' thì chỉ đáp 'tuổi già mà'. Bác sĩ phán xét thì bà im lặng.",
+     "k": 1,
+     "y": "Động cơ thật: xin giấy nghỉ ốm để thôi trông cháu"
+    },
+    {
+     "id": "con_gai",
+     "noi_dung": "Khi bà nói ra, chị Yến sững người rồi nói ngay: 'Mẹ không nói với con! Con sẽ gửi bé học bán trú, tốn hơn chút nhưng mẹ đỡ khổ'. Chị chưa biết mẹ mệt đến thế.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ xảy ra sau khi bà đã nói ra lý do thật và bác sĩ mời chị Yến cùng bàn, không phán xét ai.",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực không kính 7/10 hai mắt, qua lỗ kim 9/10. Mi không phù, không sụp; mi dưới hơi chùng nhưng không lật ra, không quặm, lông mi không xiêu. Chớp mắt thưa, thường không trọn. Bờ mi hơi đỏ, vài lỗ tuyến Meibomius bít, ép mi ra chất đục đặc. Kết mạc cương tụ nhẹ vùng khe mi hai bên, không nhú, không hột (nang), không phù kết mạc, không ghèn mủ; vài sợi nhầy trắng ở cùng đồ dưới. Không xuất huyết dưới kết mạc. Tiền phòng trong, đồng tử đều 3 mm, phản xạ ánh sáng tốt. Thể thủy tinh đục nhẹ quanh nhân hai mắt.",
+     "k": 1
+    },
+    "giac_mac_fluorescein": {
+     "a": "Giác mạc trong. Thời gian vỡ màng nước mắt (TBUT) đo trước khi nhỏ thuốc khác: 4 giây mắt phải, 4 giây mắt trái. Nhuộm fluorescein: chấm bắt màu ở 1/3 dưới giác mạc vùng khe mi, khoảng 9 chấm mắt phải và 7 chấm mắt trái. Không khuyết biểu mô thành mảng, không trầy xước, không thâm nhiễm, không loét, không dị vật.",
+     "k": 1
+    },
+    "nhan_ap": {
+     "a": "Ước lượng bằng hai ngón tay: hai nhãn cầu mềm, tương đương nhau. Tiền phòng không nông. Không đau khi ấn quanh hốc mắt.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không hạch trước tai, hạch dưới hàm, hạch cổ. Tuyến mang tai và tuyến dưới hàm không to, không đau. Tuyến giáp không to. Không lồi mắt, mi không co kéo.",
+     "k": 1
+    },
+    "rang_ham_mat": {
+     "a": "Niêm mạc miệng hồng, ẩm, có nước bọt đọng dưới lưỡi, lưỡi không teo gai, không loét miệng. Hàm trên đeo răng giả tháo lắp, vài răng hàm dưới sâu cũ, không sâu răng lan rộng.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Các khớp nhỏ bàn tay, cổ tay không sưng, không đau, không biến dạng, không dấu Raynaud, không xuất huyết dưới móng. Hai gối lạo xạo khi gấp duỗi, ấn khe khớp trong đau nhẹ, không nóng, không tràn dịch.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, dáng gầy nhỏ (BMI khoảng 21). Môi và niêm mạc miệng ẩm, nếp véo da trở lại nhanh, tĩnh mạch cổ không xẹp. Không phù. Không mệt lả.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm: 136/78 mmHg, mạch 76. Đứng 1 phút: 132/76 mmHg, mạch 80, không chóng mặt. Không hạ huyết áp tư thế.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "schirmer": {
+     "v": "u",
+     "r": "Schirmer I (không gây tê), 5 phút: mắt phải 6 mm, mắt trái 7 mm",
+     "ab": 1,
+     "n": "Dưới 10 mm sau 5 phút (không gây tê) gợi ý bất thường; dưới 5,5 mm mới là ngưỡng chẩn đoán thiếu nước mắt (AAO Dry Eye PPP 2023, Bảng 1, tr. 19; Phụ lục 5, tr. 35). Bà 6–7 mm: gợi ý, chưa đạt ngưỡng chẩn đoán, chưa đạt ngưỡng ≤ 5 mm của tiêu chuẩn Sjögren (Phụ lục 3, tr. 31). Schirmer dao động, không dùng một mình để chẩn đoán (Phụ lục 5). Đây là cận lâm sàng duy nhất làm được ở cơ sở không có xét nghiệm, rẻ, làm tại chỗ."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "6,2 mmol/L (ăn cách 3 giờ)",
+     "n": "Không bắt buộc. Đái tháo đường làm tăng nguy cơ khô mắt (17,5% trong một nghiên cứu ở người đái tháo đường, AAO Dry Eye PPP 2023, tr. 13) và bà đang mệt; đường huyết mao mạch làm được tại giường, nhưng một kết quả sau ăn không đủ chẩn đoán hay loại trừ đái tháo đường. Làm hay không đều không trừ điểm."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 78 l/p. Không ST chênh, không sóng Q, không block.",
+     "n": "Không bắt buộc: bà chơi bóng cả buổi không đau ngực, không khó thở, không ngất; tim phổi bình thường. Làm thì kết quả bình thường; tài liệu về khô mắt đã tải không đề cập điện tim."
+    },
+    "ana": {
+     "v": "a",
+     "r": "ANA: âm tính (< 1:80)",
+     "n": "Cơ sở không có xét nghiệm nên không làm được. Cũng không có chỉ định lúc này: AAO Dry Eye PPP 2023 tr. 20 chỉ nêu khảo sát tự miễn khi khô mắt đáng kể kèm dấu hiệu tự miễn khác (ví dụ khô miệng) hoặc có tiền sử gia đình; bà không có. Thay bằng hỏi và khám: khô miệng, khớp nhỏ, mệt kéo dài, ban, hạch, tuyến nước bọt (mục 'rang_ham_mat', 'co_xuong_khop', 'dau_mat_co'). Nếu sau này có dấu hiệu, chuyển tuyến để làm anti-SSA, anti-SSB, RF, ANA (Bảng 2, tr. 20)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Khô mắt (hội chứng khô mắt) hai mắt, mức nhẹ đến vừa, thể phối hợp có thành phần bay hơi (rối loạn tuyến Meibomius, chớp mắt thưa không trọn) và thiếu nước mắt ranh giới, nặng lên do quạt công nghiệp thổi thẳng, nhìn chăm chú ít chớp và tuổi cao",
+     "ok": 1,
+     "n": "Cộm rát nặng dần về chiều, mờ thoáng qua rồi rõ lại khi chớp, đỡ tạm với nước muối, ghèn nhầy ít (AAO Dry Eye PPP 2023, Diagnosis – History, tr. 16–17; Natural History, tr. 15). TBUT 4 giây (dưới 10 giây theo AAO Bảng 1, tr. 19; dưới 5 giây khi dùng fluorescein theo TFOS DEWS III 2025, mục 2); bắt màu chấm vùng khe mi 9 và 7 chấm (hơn 5 chấm theo TFOS DEWS III 2025, Hình 1; kiểu điển hình, AAO Bảng 1); Schirmer 6–7 mm (gợi ý). Lệch về nhóm bay hơi: lỗ tuyến Meibomius bít, bờ mi đỏ, chớp thưa (AAO tr. 15). Khám lâm sàng là tiêu chuẩn vàng (AAO tr. 11)."
+    },
+    {
+     "t": "Viêm kết mạc (virus, vi khuẩn, dị ứng)",
+     "n": "Không ngứa, không cơ địa dị ứng; không ghèn mủ, không hột kết mạc, không hạch trước tai, không sốt, không chảy nước ròng (AAO Conjunctivitis PPP 2018, Bảng 1: adenovirus khởi phát đột ngột, hột, hạch trước tai, khỏi trong 5–14 ngày; QĐ 40/2015, bài Viêm kết mạc cấp, mục 3: nhiều tiết tố mủ bẩn, hạch trước tai). Cháu ngoại đau mắt đỏ cách 4 tuần chỉ là nhiễu."
+    },
+    {
+     "t": "Bệnh tự miễn (hội chứng Sjögren, viêm khớp dạng thấp, lupus)",
+     "n": "Khoảng 10% người thiếu nước mắt có Sjögren nền (AAO Dry Eye PPP 2023, tr. 11, 15); gợi ý khi kèm khô miệng, đau khớp, mệt hoặc tiền sử gia đình (tr. 17, 20). Bà miệng ẩm, khớp nhỏ bình thường, không ban, không hạch hay tuyến nước bọt to, Schirmer 6–7 mm chưa đạt ngưỡng ≤ 5 mm của tiêu chuẩn (Phụ lục 3, Bảng A3-1, tr. 31–32). Phụ lục 3 nghĩ Sjögren khi thiếu nước mắt ở phụ nữ chưa già, nhanh, nặng (tr. 31): bà 78 tuổi, khởi phát sau yếu tố môi trường rõ. Không có xét nghiệm nên theo dõi lâm sàng, hỏi lại khi tái khám."
+    },
+    {
+     "t": "Tổn thương giác mạc do chấn thương hoặc viêm giác mạc (trầy xước, thâm nhiễm, loét)",
+     "n": "Bóng chỉ chạm má; giác mạc chỉ bắt màu chấm nhỏ, không khuyết biểu mô, thâm nhiễm hay loét, không đau nhói. Cần bác sĩ nhãn khoa khi đau vừa hoặc nặng, không đáp ứng điều trị, thâm nhiễm hoặc loét giác mạc, sẹo kết mạc tiến triển, giảm thị lực (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26)."
+    },
+    {
+     "t": "Glôcôm góc đóng cấp",
+     "n": "Cơn cấp: đau nhức mắt lan nửa đầu, nhìn đèn có quầng, nôn, thị lực giảm nhiều, nhãn áp rất cao, đồng tử giãn méo, tiền phòng nông (QĐ 40/2015, bài Glôcôm góc đóng nguyên phát, mục 3a, tr. 78–79). Bà không có các dấu này, nhãn áp ước lượng bình thường."
+    },
+    {
+     "t": "Mất nước hoặc rối loạn nước điện giải cần truyền dịch",
+     "n": "Không có dấu mất nước (uống đủ, tiểu vàng nhạt, niêm mạc ẩm, huyết áp nằm đứng không tụt). Mệt do thiếu ngủ và giữ cháu. Không có xét nghiệm điện giải ở cơ sở nên dựa vào khám lâm sàng; tiêu chuẩn mất nước cần truyền: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích khô mắt là bệnh mạn tính của bề mặt mắt, không lây, không phải do thiếu nước trong cơ thể; nêu các yếu tố làm nặng (quạt thổi thẳng, ít chớp, màn hình, tuổi) và mục tiêu thực tế là giảm triệu chứng",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Management, tr. 21 và Counseling and Referral, tr. 26: giáo dục về tính mạn tính là điều quan trọng nhất; Highlighted Findings, tr. 11: điều trị cải thiện triệu chứng nhưng hiếm khi chữa khỏi; Natural History, tr. 15: bỏ yếu tố làm nặng thường đỡ rõ."
+    },
+    {
+     "t": "Chỉnh môi trường: không đứng hay ngồi trước quạt thổi thẳng khi chơi bóng, tối ngủ chỉnh quạt không thổi vào mặt; chủ động chớp mắt trọn khi chơi và khi đọc; nghỉ định kỳ khi xem màn hình; kính ôm hai bên mắt khi chơi bóng nếu có",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, mục Mild Dry Eye, tr. 22: tránh gió lùa bằng kính chắn hai bên, đổi luồng gió ở nhà, nơi làm việc, trên xe, hạ màn hình, nghỉ định kỳ, chớp mắt trọn; Bảng 3 Bước 1 (tr. 21). TFOS DEWS III 2025, mục 3: khuyên theo yếu tố lối sống cho mọi thể khô mắt."
+    },
+    {
+     "t": "Nước mắt nhân tạo nhỏ đều theo lịch; nếu dùng hơn 4 lần mỗi ngày thì chọn loại không chất bảo quản (ống đơn liều); chọn dạng bà tự nhỏ được hoặc dặn con gái giúp",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, mục Mild Dry Eye, tr. 22–23: dùng thường xuyên, dài hạn (hơn 4 lần/ngày) thì khuyến cáo loại không chất bảo quản; số lần nhỏ tùy lối sống và sự khéo léo của tay (tr. 22). TFOS DEWS III 2025, mục 3: bổ sung và ổn định màng nước mắt là nền tảng điều trị. Hoạt chất, hàm lượng, số lần nhỏ cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chườm ấm và vệ sinh bờ mi mỗi ngày (có lỗ tuyến Meibomius bít, bờ mi đỏ nhẹ)",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Bảng 3 Bước 1 (vệ sinh bờ mi và chườm ấm, tr. 21); xử trí yếu tố đi kèm như viêm bờ mi, rối loạn tuyến Meibomius (tr. 23). Cách làm cụ thể (nhiệt độ, thời gian): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xem lại thuốc đang dùng: ibuprofen tự mua không nằm trong các nhóm thuốc gây khô mắt, nhưng ở người trên 75 tuổi nên tránh dùng kéo dài; đau gối thì dùng paracetamol liều thấp nhất đủ giảm đau, giới hạn thận trọng dưới 3 g/ngày (hoặc dưới 4 g/ngày)",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, tr. 14, 17: thuốc làm nặng khô mắt gồm lợi tiểu, kháng histamin, kháng cholinergic, chống trầm cảm, retinoid toàn thân; NSAID không nằm trong danh sách. AGS Beers 2023, Bảng 2: NSAID không chọn lọc COX-2 đường uống tránh dùng kéo dài ở người trên 75 tuổi (chứng cứ vừa, khuyến cáo mạnh). QĐ 361/2014, Phụ lục NSAID mục 3.3: người cao tuổi, gầy yếu → acetaminophen dưới 3 g/ngày, tránh NSAID nếu có thể; AHA/ACC 2025, Bảng 11: acetaminophen dưới 4 g/ngày. Con số 3 g thận trọng hơn."
+    },
+    {
+     "t": "Không truyền dịch: giải thích bằng kết quả khám (uống đủ, tiểu vàng nhạt, môi ẩm, huyết áp nằm đứng không tụt) rằng bà không mất nước, mắt khô là vấn đề màng nước mắt; nói rõ truyền không làm hết cộm, đưa việc làm thay thế (nhỏ nước mắt, chỉnh quạt, ngủ đủ, uống nước theo khát)",
+     "v": "c",
+     "n": "Không có tài liệu đã tải nào chỉ định truyền dịch cho khô mắt (AAO Dry Eye PPP 2023 Bảng 3, tr. 21–22; TFOS DEWS III 2025 mục 3). Lượng nước uống để phòng khô mắt: không có trong tài liệu đã tải. Theo sổ mâu thuẫn, truyền dịch theo yêu cầu chấm w."
+    },
+    {
+     "t": "Hỏi bà lo điều gì nhất và việc nhà nào làm bà mệt; lắng nghe không phán xét; khi bà nói ra chuyện giữ cháu, mời chị Yến cùng bàn sắp xếp lại việc trông cháu",
+     "v": "c",
+     "n": "Ca khám tập trung vào lý do thật đến khám. Căn cứ chuyên môn cho việc này: không có trong tài liệu đã tải; đây là kỹ năng giao tiếp (sổ cái: lý do thật sự đến khám)."
+    },
+    {
+     "t": "Không cấp giấy nghỉ ốm khi không có bệnh cần nghỉ; nói thẳng, nhẹ nhàng rằng khô mắt không phải lý do nghỉ việc, đồng thời giúp bà nói với con về nhu cầu nghỉ ngơi",
+     "v": "c",
+     "n": "TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c: giấy nghỉ ốm cấp theo tình trạng bệnh thật (nguồn bổ sung tự tìm theo sổ mâu thuẫn, chưa đối chiếu bản hiện hành sau Luật BHXH 2024, không mở lại trong ca này)."
+    },
+    {
+     "t": "Hẹn tái khám khoảng 4 tuần và nêu rõ dấu hiệu phải đi khám khoa mắt ngay: đau mắt vừa hoặc nặng, giảm thị lực, chói sợ ánh sáng nhiều, ghèn mủ, đỏ nhiều, không đáp ứng sau điều trị đúng",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, Follow-up Evaluation và Provider and Setting, tr. 26: tần suất theo mức độ bệnh và đáp ứng, không quy định số tuần (khoảng 4 tuần là thực hành); khám nhãn khoa khi đau vừa hoặc nặng, không đáp ứng, thâm nhiễm hoặc loét giác mạc, sẹo kết mạc tiến triển, mất thị lực."
+    },
+    {
+     "t": "Dặn nếu sau này xuất hiện khô miệng, khó nuốt bánh khô, đau sưng khớp nhỏ, mệt kéo dài, ban sau nắng thì đi khám chuyên khoa (nơi có xét nghiệm anti-SSA, anti-SSB, RF, ANA)",
+     "v": "c",
+     "n": "AAO Dry Eye PPP 2023, tr. 20 và Bảng 2: khảo sát tự miễn khi khô mắt đáng kể kèm khô miệng hoặc tiền sử gia đình; xét nghiệm Sjögren gồm SSA, SSB, ANA, RF. Cơ sở không có xét nghiệm nên hẹn chuyển tuyến khi có chỉ điểm."
+    },
+    {
+     "t": "Bổ sung omega-3 đường uống",
+     "v": "a",
+     "n": "Bảng 3 Bước 1 (AAO Dry Eye PPP 2023, tr. 21) nhắc dinh dưỡng, gồm acid béo thiết yếu đường uống; nhưng một nghiên cứu lớn, mù đôi, 12 tháng không thấy lợi ích hơn giả dược ở khô mắt vừa đến nặng (I-, Moderate, Discretionary; tr. 24). Hai ý trong cùng tài liệu nên làm hay không đều chấp nhận (sổ mâu thuẫn, mục omega-3 từ TM-0272)."
+    },
+    {
+     "t": "Nhỏ cyclosporin ngay từ lần khám đầu",
+     "v": "a",
+     "n": "AAO Dry Eye PPP 2023, Moderate Dry Eye, tr. 23, và ghi chú Bảng 3: lựa chọn bước sau có thể dùng ở mọi mức độ tùy bác sĩ và ý muốn người bệnh. Chưa cần vì chưa chỉnh môi trường, chưa dùng nước mắt nhân tạo. Dạng thuốc, hàm lượng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Truyền dịch (chai nước biển hoặc dung dịch khác) theo yêu cầu của bà",
+     "v": "w",
+     "n": "Không có tài liệu đã tải nào chỉ định truyền dịch cho khô mắt (AAO Dry Eye PPP 2023 Bảng 3; TFOS DEWS III 2025 mục 3). Không có dấu mất nước; truyền không điều trị nguyên nhân tại mắt, tốn thời gian và chi phí, củng cố niềm tin sai. Ghi 'không có trong tài liệu đã tải' theo sổ mâu thuẫn."
+    },
+    {
+     "t": "Cấp giấy nghỉ ốm khống hoặc nâng mức bệnh để bà có lý do nghỉ trông cháu",
+     "v": "w",
+     "n": "TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm): giấy nghỉ cấp theo tình trạng thật. Cấp khống là sai nghề nghiệp và không giải quyết nhu cầu thật của bà."
+    },
+    {
+     "t": "Kê kháng sinh nhỏ mắt hoặc thuốc kháng sinh phối hợp corticoid vì nghĩ viêm kết mạc",
+     "v": "w",
+     "n": "Không có bằng chứng nhiễm khuẩn; tránh dùng bừa kháng sinh hoặc corticoid nhỏ mắt: kháng sinh có thể gây độc, corticoid có thể kéo dài nhiễm adenovirus (AAO Conjunctivitis PPP 2018, mục Treatment)."
+    },
+    {
+     "t": "Tiếp tục khuyên uống ibuprofen đều mỗi ngày cho đau gối vì 'không ảnh hưởng mắt'",
+     "v": "w",
+     "n": "AGS Beers 2023, Bảng 2: tránh dùng NSAID kéo dài ở người trên 75 tuổi trừ khi không có lựa chọn khác và có thuốc bảo vệ dạ dày; QĐ 361/2014 Phụ lục NSAID mục 3.3: tránh NSAID nếu có thể ở người cao tuổi, gầy yếu."
+    },
+    {
+     "t": "Chuyển bệnh viện mắt tuyến trên ngay trong ngày",
+     "v": "w",
+     "n": "Chưa có tiêu chuẩn cần bác sĩ nhãn khoa (AAO Dry Eye PPP 2023, Provider and Setting, tr. 26); xem hậu quả ở mục 'chuyển tuyến'."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Khô mắt (hội chứng khô mắt) hai mắt, mức nhẹ đến vừa",
+     "Thể phối hợp: bay hơi chiếm ưu thế (TBUT 4 giây, lỗ tuyến Meibomius bít, bờ mi đỏ nhẹ, chớp thưa không trọn) kèm thiếu nước mắt ranh giới (Schirmer 6–7 mm)",
+     "Yếu tố làm nặng: quạt công nghiệp thổi thẳng vào mặt khi chơi bóng chuyền hơi, nhìn chăm chú ít chớp, quạt thổi vào đầu giường, màn hình buổi tối, tuổi cao",
+     "Không viêm kết mạc, không có dấu hiệu bệnh tự miễn, giác mạc không tổn thương cần chuyển tuyến, không mất nước",
+     "Kèm: đục thể thủy tinh nhẹ (thị lực 7/10, 9/10 qua lỗ kim); thoái hóa khớp gối đang dùng ibuprofen tự mua",
+     "Mệt do thiếu ngủ và giữ cháu ba ngày mỗi tuần; lý do thật đến khám là muốn tờ giấy nghỉ ốm để thôi trông cháu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do và thời gian, yếu tố khởi phát (ba chiều chơi bóng cạnh quạt công nghiệp), diễn biến trong ngày, nhìn mờ khi hỏi cụ thể, ngứa và cơ địa dị ứng, tiếp xúc người đau mắt đỏ, chấn thương và cờ đỏ, thuốc tự mua, khô miệng và đau khớp, màn hình và quạt, tiền sử mắt, rồi mệt, uống nước, tiểu tiện; cuối cùng hỏi mở: bà lo điều gì, việc nhà nào làm mệt (AAO Dry Eye PPP 2023, Diagnosis – History, tr. 16–17).",
+     "Vì sao là khô mắt: cộm rát nặng dần về chiều, mờ thoáng qua hết khi chớp, nhỏ nước muối đỡ tạm (AAO Dry Eye PPP 2023, tr. 12, 15–17); khởi phát sau gió quạt thổi thẳng và nhìn chăm chú ít chớp (tr. 14, 16); chớp không trọn làm tăng gấp đôi nguy cơ khô mắt do bay hơi (tr. 15). Tuổi cao và nữ là yếu tố nguy cơ lớn (tr. 13; tự khai khô mắt 8,4% dưới 60 tuổi, 19,0% trên 80 tuổi, tr. 12).",
+     "Hai chuẩn cùng kết luận: AAO 2023 coi TBUT dưới 10 giây là bất thường (Bảng 1, tr. 19), khám lâm sàng là tiêu chuẩn vàng (tr. 11); TFOS DEWS III 2025 dùng ngưỡng fluorescein dưới 5 giây vì phương pháp xâm lấn, cộng triệu chứng (OSDI-6 ≥ 4) và ít nhất một dấu hiệu (TBUT không xâm lấn < 10 giây, thẩm thấu ≥ 308 mOsm/L hoặc hơn 5 chấm fluorescein giác mạc; mục 2, Hình 1). Bà TBUT 4 giây (dưới cả hai ngưỡng), 9 và 7 chấm bắt màu.",
+     "Schirmer 6–7 mm: dưới 10 mm gợi ý bất thường nhưng chưa đạt ngưỡng chẩn đoán thiếu nước mắt dưới 5,5 mm; Schirmer dao động, không dùng một mình (AAO Dry Eye PPP 2023, Bảng 1, Phụ lục 5, tr. 35). Chưa đạt ngưỡng ≤ 5 mm cũng là lý do chưa nghĩ Sjögren (Phụ lục 3).",
+     "Vì sao không phải viêm kết mạc: không ngứa, ghèn mủ, hột, hạch trước tai hay sốt; virus có hạch trước tai, hột, khỏi trong 5–14 ngày (AAO Conjunctivitis PPP 2018, Bảng 1), nhiễm khuẩn tiết mủ nhiều, diễn biến rất nhanh (QĐ 40/2015, bài Viêm kết mạc cấp, mục 3). Cháu ngoại đau mắt đỏ cách 4 tuần là nhiễu.",
+     "Vì sao chưa nghĩ bệnh tự miễn: miệng ẩm, khớp nhỏ bình thường, không ban, không hạch, không tiền sử gia đình. Khảo sát tự miễn chỉ khi kèm dấu hiệu tự miễn khác hoặc tiền sử gia đình (AAO Dry Eye PPP 2023, tr. 20). Cẩn trọng: khoảng 10% người thiếu nước mắt có Sjögren nền (tr. 11, 15); bà 78 tuổi, khởi phát sau yếu tố môi trường rõ nên xác suất thấp (Phụ lục 3, tr. 31). Cơ sở không có xét nghiệm nên theo dõi lâm sàng, dặn dấu hiệu cần chuyển tuyến.",
+     "Cờ đỏ đã sàng lọc: bóng chỉ chạm má; không đau nhức, quầng sáng, nôn; nhãn áp ước lượng bình thường, tiền phòng không nông (loại glôcôm góc đóng cấp, QĐ 40/2015 bài Glôcôm góc đóng nguyên phát mục 3a); giác mạc không khuyết biểu mô, thâm nhiễm hay loét nên điều trị tại tuyến này phù hợp (AAO Dry Eye PPP 2023, tr. 26).",
+     "Vì sao không mất nước: uống khoảng 1,2 lít/ngày, tiểu vàng nhạt, môi ẩm, nếp véo da trở lại nhanh, huyết áp nằm đứng không tụt; mệt do thiếu ngủ và giữ cháu (nguồn: khám lâm sàng, không có xét nghiệm; tiêu chuẩn mất nước: không có trong tài liệu đã tải).",
+     "Applicability (nhóm ≥ 75 tuổi): các khuyến cáo AAO 2023 và TFOS DEWS III 2025 dựa chủ yếu trên người trưởng thành nói chung; tài liệu đã tải không có mục riêng về liều, đáp ứng hay ngưỡng chẩn đoán cho người ≥ 75 tuổi. Lưu ý thêm: Schirmer không dùng một mình (AAO Phụ lục 5, tr. 35); sự khéo léo của tay ảnh hưởng việc nhỏ thuốc nhiều lần (tr. 22); thuốc dùng kèm có thể làm nặng khô mắt (tr. 14, 17); đục thể thủy tinh nhẹ: khô mắt cần được đánh giá và xử trí trước và sau mổ (tr. 11)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, hẹn tái khám. Bước 1 theo Bảng 3 (AAO Dry Eye PPP 2023, tr. 21): giáo dục, chỉnh môi trường, xem lại thuốc, nước mắt nhân tạo, chườm ấm và vệ sinh bờ mi. Chỉ nhỏ nước mắt thường thất bại nếu không xử lý nguyên nhân (tr. 21).",
+     "Yếu tố chính của bà là gió và chớp thưa: không đứng trước quạt thổi thẳng, kính ôm hai bên, chủ động chớp mắt trọn, chỉnh quạt ngủ (AAO Dry Eye PPP 2023, mục Mild Dry Eye, tr. 22).Bỏ yếu tố làm nặng thường cải thiện rõ (tr. 15).",
+     "Nước mắt nhân tạo: các loại có hiệu quả tương đương, dùng thường xuyên (hơn 4 lần/ngày) thì chọn loại không chất bảo quản (AAO Dry Eye PPP 2023, tr. 22–23). Với bà, chọn ống đơn liều dễ cầm, hoặc nhờ chị Yến nhỏ giúp vì sự khéo léo của tay ảnh hưởng việc nhỏ nhiều lần (tr. 22). Không kê kháng sinh hay corticoid nhỏ mắt: không có viêm kết mạc nhiễm khuẩn (AAO Conjunctivitis PPP 2018, Treatment). Cyclosporin và các bước sau để dành nếu không đáp ứng.",
+     "Thuốc đang dùng: ibuprofen không thuộc nhóm làm nặng khô mắt (AAO Dry Eye PPP 2023, tr. 14, 17), nên không ngưng vì mắt; nhưng ở người trên 75 tuổi cần tránh dùng kéo dài (AGS Beers 2023, Bảng 2) và QĐ 361/2014 (Phụ lục NSAID mục 3.3) khuyên paracetamol dưới 3 g/ngày; AHA/ACC 2025 Bảng 11 nêu dưới 4 g/ngày. Ghi cả hai, con số 3 g thận trọng hơn.",
+     "Đòi truyền dịch: không có chỉ định trong tài liệu đã tải. Câu nói thay thế gợi ý: 'Bác sĩ khám thấy bà uống đủ nước, môi còn ẩm, huyết áp đứng nằm không tụt, cơ thể không thiếu nước. Mắt khô là do lớp nước mắt mau bốc hơi và gió quạt, truyền nước không làm lớp nước mắt tốt lên. Bà cần nhỏ nước mắt nhân tạo, tránh quạt, ngủ đủ.' Nghe niềm tin của bà ('hồi trước truyền là tỉnh') trước khi giải thích.",
+     "Lý do thật: hỏi bà lo điều gì, việc nhà nào làm bà mệt. Khi bà nói muốn nghỉ trông cháu, không cấp giấy nghỉ ốm không đúng thực trạng (TT 56/2017 Điều 3 khoản 1, Điều 20 khoản 1 điểm c); mời chị Yến cùng bàn.",
+     "Cơ sở không có xét nghiệm: không làm anti-SSA, anti-SSB, RF, ANA (AAO Dry Eye PPP 2023, Bảng 2, tr. 20); thay bằng hỏi, khám dấu hiệu tự miễn và dặn dấu hiệu cần chuyển tuyến. Schirmer, fluorescein và TBUT đủ cho chẩn đoán lâm sàng.",
+     "Tái khám khoảng 4 tuần (tài liệu không quy định số tuần, tr. 26) và chuyển nhãn khoa khi đau vừa hoặc nặng, giảm thị lực, thâm nhiễm hoặc loét giác mạc, không đáp ứng (tr. 26)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Nước mắt nhân tạo không chất bảo quản (ống đơn liều)",
+      "ham_luong": "Hoạt chất và hàm lượng: không có trong tài liệu đã tải (AAO Dry Eye PPP 2023: các loại có hiệu quả tương đương, tr. 23)",
+      "lieu": "1 giọt mỗi mắt, nhỏ theo lịch cố định, thông thường vài lần mỗi ngày, nhiều hơn khi ngồi xem màn hình hay ra gió; số lần cụ thể không có trong tài liệu đã tải",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Sáng khi thức dậy, giữa buổi, sau ăn trưa, chiều, tối trước khi ngủ; thêm một lần khi cộm. Nhờ chị Yến nhỏ giúp nếu tay run",
+      "so_ngay": "Đủ dùng đến lần tái khám (khoảng 4 tuần theo thực hành), sau đó dùng lâu dài theo triệu chứng",
+      "ghi_chu": "Dùng hơn 4 lần/ngày: ưu tiên loại không chất bảo quản (AAO Dry Eye PPP 2023, mục Mild Dry Eye, tr. 22–23). Không nhỏ thêm thuốc mắt khác khi chưa hỏi bác sĩ. Không kháng sinh, không corticoid."
+     },
+     {
+      "thuoc": "Paracetamol (chỉ khi đau gối, thay cho ibuprofen)",
+      "ham_luong": "500 mg/viên (QĐ 361/2014, bài thoái hóa khớp gối, mục 4.2.2)",
+      "lieu": "500 mg mỗi lần khi đau; tổng không quá 5 viên (2,5 g) mỗi ngày để dưới 3 g/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3); AHA/ACC 2025 Bảng 11 nêu dưới 4 g/ngày, con số 3 g thận trọng hơn",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn; khoảng cách tối thiểu giữa các lần uống: không có trong tài liệu đã tải",
+      "so_ngay": "Khi đau, không dùng đều đặn kéo dài; đau gối kéo dài thì tái khám",
+      "ghi_chu": "Ngưng ibuprofen tự mua uống đều (AGS Beers 2023 Bảng 2; QĐ 361/2014 Phụ lục NSAID mục 3.3). Paracetamol dùng cho thoái hóa khớp gối (QĐ 361/2014, bài thoái hóa khớp gối, mục 4.2.2). Đơn này không phải điều trị khô mắt."
+     }
+    ],
+    "dan_do": [
+     "Khô mắt là bệnh mạn tính, hiếm khi khỏi hẳn nhưng bỏ yếu tố làm nặng thì đỡ rõ (AAO Dry Eye PPP 2023, tr. 11, 15). Đây là chuyện bề mặt mắt, không lây, không phải thiếu nước trong cơ thể nên không cần truyền dịch.",
+     "Chơi bóng không đứng trước quạt thổi thẳng, có kính ôm hai bên thì đeo, chủ động chớp mắt trọn; tối ngủ chỉnh quạt không thổi vào mặt; đọc báo, xem điện thoại thì nghỉ và chớp mắt (AAO Dry Eye PPP 2023, tr. 22).",
+     "Nhỏ nước mắt nhân tạo đúng lịch dù đã đỡ; không tự mua thuốc nhỏ mắt 'làm trắng mắt', kháng sinh hay corticoid nhỏ mắt (AAO Conjunctivitis PPP 2018, Treatment). Chườm ấm, lau sạch bờ mi mỗi ngày (AAO Dry Eye PPP 2023, Bảng 3 Bước 1); cách làm cụ thể: không có trong tài liệu đã tải.",
+     "Không uống ibuprofen đều đặn để đỡ đau gối; nếu đau dùng paracetamol đúng liều, không quá 5 viên 500 mg/ngày (QĐ 361/2014 Phụ lục NSAID mục 3.3). Uống nước theo khát, ngủ đủ giấc.",
+     "Bà nên nói thẳng với con về việc trông cháu; chị Yến đã sẵn sàng tìm cách khác. Không cần giấy nghỉ ốm.",
+     "Đi khám khoa mắt ngay nếu đau nhức mắt vừa hoặc nặng, nhìn mờ nhiều, sợ ánh sáng, ghèn mủ, đỏ nhiều, nhìn đèn có quầng (AAO Dry Eye PPP 2023, tr. 26; QĐ 40/2015, bài Glôcôm góc đóng nguyên phát, mục 3a).",
+     "Sau này nếu khô miệng, khó nuốt bánh khô, sưng đau khớp nhỏ, mệt kéo dài thì đi khám chuyên khoa để làm xét nghiệm (AAO Dry Eye PPP 2023, tr. 20). Có đục thể thủy tinh nhẹ: khô mắt cần xử trí trước khi mổ (AAO Dry Eye PPP 2023, tr. 11).",
+     "Tái khám sau khoảng 4 tuần (tài liệu không quy định số tuần: AAO Dry Eye PPP 2023, tr. 26), mang theo lọ nước mắt đang dùng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Ngà nghe giải thích, chấp nhận không truyền dịch. Bà nói với con gái chuyện không kham nổi việc trông cháu; chị Yến gửi bé học bán trú hai buổi một tuần. Bà chơi bóng xa quạt, chỉnh quạt ngủ, nhỏ nước mắt nhân tạo đều, chườm ấm, ngưng ibuprofen uống đều. Sau 4 tuần cộm rát còn 2 trên 10, TBUT 8 giây, giác mạc sạch. Khô mắt là bệnh mạn tính nên bà được dặn tiếp tục nhỏ khi cần và tránh gió quạt (AAO Dry Eye PPP 2023, tr. 11, 15).",
+ "nhieu": [
+  "Cháu ngoại đau mắt đỏ cách 4 tuần: bà không đỏ mắt, không ghèn mủ, hột, hạch trước tai. Không liên quan (viêm kết mạc virus khỏi trong 5–14 ngày, AAO Conjunctivitis PPP 2018 Bảng 1).",
+  "Bóng chuyền hơi chạm má trái: không trúng mắt; giác mạc không khuyết biểu mô, thâm nhiễm; kết mạc cương tụ nhẹ vùng khe mi là do khô mắt.",
+  "Ibuprofen tự mua: dễ bị nghi gây khô mắt nhưng không nằm trong các nhóm thuốc nêu tên làm nặng khô mắt (AAO Dry Eye PPP 2023, tr. 14, 17); vấn đề thật là nguy cơ tiêu hóa ở người trên 75 tuổi (AGS Beers 2023 Bảng 2).",
+  "Đau gối hai bên là thoái hóa cơ học, không phải biểu hiện bệnh tự miễn (khớp nhỏ bình thường).",
+  "Mệt và đòi truyền dịch: mệt do thiếu ngủ và giữ cháu, không mất nước."
+ ],
+ "bai_hoc_bien": [
+  "Đòi truyền dịch: không đối đầu và không chỉ nói 'không cần'. Khám để có bằng chứng (uống đủ, tiểu vàng nhạt, môi ẩm, huyết áp nằm đứng không tụt), giải thích bằng ví dụ gần gũi và đưa việc làm thay thế (nhỏ nước mắt, tránh quạt, ngủ đủ). Tài liệu đã tải không có chỉ định truyền dịch cho khô mắt.",
+  "Lý do thật là xin giấy nghỉ ốm để thôi trông cháu: hỏi 'bà lo điều gì nhất, việc nhà nào làm bà mệt'. Không cấp giấy khống (TT 56/2017); mời con gái cùng bàn để người bệnh tự nói ra nhu cầu.",
+  "Không có xét nghiệm nào: Schirmer, fluorescein và TBUT làm tại chỗ đủ để chẩn đoán lâm sàng. Không làm được bộ tự miễn nên hỏi và khám miệng, khớp, hạch, tuyến nước bọt, và dặn dấu hiệu cần chuyển tuyến.",
+  "Khô mắt khác viêm kết mạc: nặng dần về chiều, mờ thoáng qua rồi rõ lại khi chớp, không ngứa, ghèn mủ, hột, hạch trước tai. Không dùng kháng sinh hay corticoid nhỏ mắt bừa.",
+  "Người rất cao tuổi: sàng lọc cờ đỏ (glôcôm góc đóng, tổn thương giác mạc), soát thuốc tự mua, xem sự khéo léo của tay khi nhỏ thuốc; tài liệu đã tải không có dữ liệu riêng cho nhóm ≥ 75 tuổi."
+ ],
+ "diem_nho": [
+  "Khám lâm sàng là tiêu chuẩn vàng chẩn đoán khô mắt, không xét nghiệm nào đủ một mình (AAO Dry Eye PPP 2023, tr. 11). Schirmer I dưới 5,5 mm/5 phút chẩn đoán thiếu nước mắt, dưới 10 mm gợi ý; TBUT dưới 10 giây bất thường (Bảng 1, Phụ lục 5). TFOS DEWS III 2025: OSDI-6 ≥ 4 cộng ít nhất một dấu hiệu; TBUT fluorescein dùng ngưỡng 5 giây (mục 2, Hình 1).",
+  "Bước 1 (AAO Dry Eye PPP 2023, Bảng 3): giáo dục, chỉnh môi trường, xem lại thuốc, nước mắt nhân tạo (hơn 4 lần/ngày thì loại không chất bảo quản, tr. 22–23), vệ sinh bờ mi, chườm ấm.",
+  "Khoảng 10% người thiếu nước mắt có Sjögren nền (AAO Dry Eye PPP 2023, tr. 11, 15); khảo sát tự miễn khi kèm khô miệng hoặc tiền sử gia đình (tr. 20). Tiêu chuẩn Sjögren: tổng điểm ≥ 4 (Phụ lục 3, Bảng A3-1).",
+  "Gặp bác sĩ nhãn khoa khi đau vừa-nặng, không đáp ứng điều trị, thâm nhiễm hoặc loét giác mạc, sẹo kết mạc tiến triển, mất thị lực (AAO Dry Eye PPP 2023, tr. 26).",
+  "NSAID ở người cao tuổi: AGS Beers 2023 Bảng 2 tránh dùng kéo dài; paracetamol dưới 3 g/ngày (QĐ 361/2014) hoặc dưới 4 g/ngày (AHA/ACC 2025 Bảng 11)."
+ ],
+ "nguon": [
+  "AAO – Dry Eye Syndrome Preferred Practice Pattern 2023 – TL-0556 – tr. 11–26 (Highlighted Findings, Prevalence, Associated Conditions, Natural History, Diagnosis, Bảng 1–3, Management, Follow-up, Provider and Setting); 31–32 (Phụ lục 3); 35 (Phụ lục 5).",
+  "TFOS DEWS III: Executive Summary, Am J Ophthalmol 2025 – TL-0551 – mục 2 (Diagnostic Methodology; OSDI-6; ngưỡng TBUT fluorescein 5 giây), Hình 1, mục 3 (lối sống, bù màng nước mắt).",
+  "AAO – Conjunctivitis Preferred Practice Pattern 2018 – TL-0266 – Bảng 1 (adenovirus), mục Treatment (tránh kháng sinh, corticoid bừa). Ghi chú: TL-0555 trong kho là bản Dry Eye, không phải Conjunctivitis 2023.",
+  "BYT – QĐ 40/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – TL-0242 – bài Viêm kết mạc cấp (mục 3) và bài Glôcôm góc đóng nguyên phát (mục 3a, tr. 78–79).",
+  "BYT – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 3.3 (người cao tuổi, gầy yếu: acetaminophen dưới 3 g/ngày, tránh NSAID nếu có thể); bài thoái hóa khớp gối mục 4.2.2 (paracetamol, không quá 4 g/ngày).",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2 (NSAID không chọn lọc COX-2 đường uống: tránh dùng kéo dài, người > 75 tuổi). AHA/ACC 2025, tăng huyết áp – TL-0297 – Bảng 11 (acetaminophen dưới 4 g/ngày), qua sổ mâu thuẫn.",
+  "Nguồn bổ sung tự tìm (qua sổ mâu thuẫn, chưa mở lại trong ca này): TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c – giấy nghỉ ốm cấp theo tình trạng thật."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 2026-11-08 (viết: Sonnet).",
+  "Tài liệu đã đọc: TL-0556 (AAO Dry Eye PPP 2023) Highlighted Findings, Prevalence, Associated Conditions, Natural History, Diagnosis, Bảng 1–3, Mild và Moderate Dry Eye, Follow-up, Provider and Setting, Counseling, Phụ lục 3 và 5; TL-0551 (TFOS DEWS III 2025) mục 2–3, Hình 1; TL-0266 (AAO Conjunctivitis PPP 2018) Bảng 1, Treatment; TL-0242 (QĐ 40/2015) bài Viêm kết mạc cấp, Glôcôm góc đóng nguyên phát; TL-0286 (QĐ 361/2014) Phụ lục NSAID mục 3.3, thoái hóa khớp gối mục 4.2.2; TL-0022 (AGS Beers 2023) Bảng 2; TL-0297 (AHA/ACC 2025) Bảng 11.",
+  "Không có trong tài liệu đã tải: hoạt chất, hàm lượng, số lần nhỏ/ngày của nước mắt nhân tạo; cách chườm ấm, vệ sinh bờ mi; khoảng cách tái khám; lượng nước uống phòng khô mắt; chỉ định truyền dịch trong khô mắt (không có); hướng dẫn khô mắt người lớn của Bộ Y tế (QĐ 40/2015 chỉ có khô mắt do thiếu vitamin A); số liệu riêng cho người ≥ 75 tuổi; quy định giấy xác nhận khám bệnh; bản hiện hành TT 56/2017 sau Luật BHXH 2024.",
+  "Mâu thuẫn: áp dụng mục có sẵn ('Từ ca TM-0272'): ngưỡng TBUT (AAO 2023 dưới 10 giây, TFOS DEWS III 2025 fluorescein dưới 5 giây; ca ghi cả hai, TBUT 4 giây dưới cả hai); omega-3 (chấm a). Liều paracetamol ở người cao tuổi (QĐ 361 dưới 3 g/ngày, AHA/ACC 2025 dưới 4 g/ngày): ghi cả hai, nêu 3 g thận trọng hơn. Truyền dịch theo yêu cầu: w. Giấy nghỉ ốm: c theo tình trạng thật, khống w. Không có mâu thuẫn mới.",
+  "Hạn chế: ca giả định phòng khám có đèn xanh cobalt hoặc đèn khe để nhuộm fluorescein và đo TBUT, giấy Schirmer, ước lượng nhãn áp bằng ngón tay. Không có siêu âm, X-quang, xét nghiệm nên không có bộ tự miễn. Schirmer thuộc nhóm thăm dò (tham_do) còn làm được khi khóa nhóm xét nghiệm."
+ ]
+}
