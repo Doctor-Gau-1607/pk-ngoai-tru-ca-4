@@ -1,0 +1,501 @@
+{
+ "ma_ca": "PK-0056",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "PK_rlkn_tre_kinh_ra_mau_it_so_hai_doi_khang_sinh",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Rối loạn kinh nguyệt",
+  "chan_doan_phai_loai_tru": [
+   "Có thai",
+   "Bệnh tuyến giáp",
+   "PCOS",
+   "U xơ"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Công nhân may mặc",
+  "yeu_to_khoi_phat": "Khiêng vật nặng",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Bùi Thị Thanh Trúc",
+  "tuoi": 23,
+  "gioi": "Nữ",
+  "nghe": "Công nhân chuyền may ở khu công nghiệp, ngồi máy 10 giờ mỗi ngày, hai tháng nay tăng ca đến 8 giờ tối; ở nhà trọ chung với bạn cùng quê, chồng làm công nhân ở tỉnh khác",
+  "can_nang": 44,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi chị là 'chị Trúc'. Chị tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hay lo xa, hay đọc diễn đàn trên điện thoại rồi tự gán bệnh nặng cho mình. Nói nhanh, mắt rưng rưng, tay nắm chặt ống xịt hen như bám vào cái phao. Mỗi lần được trấn an một câu 'không sao đâu' thì bình tĩnh được vài phút rồi lại quay lại hỏi 'nhưng lỡ…'. Tin lời chị bạn cùng phòng hơn lời người lạ.",
+  "kieu_nhieu": "Sợ hãi quá mức: nói to nỗi sợ ngay từ câu đầu (sẩy thai, 'đứt gì đó trong bụng', ung thư, nhiễm trùng máu), hỏi lặp 'em có chết không bác sĩ', thổi phồng từng giọt máu. Câu trấn an chung chung ('không sao đâu') chỉ giúp được vài phút. Chị chỉ dịu xuống khi bác sĩ gọi tên nỗi sợ, trả lời từng nỗi sợ bằng chính dữ kiện khám và xét nghiệm của chị, rồi nói rõ kế hoạch và khi nào phải quay lại. Hễ bác sĩ bỏ qua nỗi sợ để hỏi tiếp thì chị cắt ngang, quay lại đòi 'kháng sinh cho chắc'.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9ab85",
+   "toc": "#1f1612",
+   "kieuToc": "buoc",
+   "ao": "#6a8caf",
+   "aoKieu": "polo",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Ra máu âm đạo 5 ngày, trễ kinh, rất sợ bị sẩy thai hoặc bệnh nặng, xin kê kháng sinh",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên đã về: tối nay phòng khám không làm được xét nghiệm máu (công thức máu, hCG huyết thanh, ferritin, TSH…) và siêu âm (kéo theo không có X-quang, CT, nội soi). Mẫu máu gửi đi chỉ có kết quả sáng mai; siêu âm phải chờ giờ hành chính. Còn dùng được: ống nghe, nhiệt kế, huyết áp kế, máy đo SpO₂, que thử thai nước tiểu, que thử nước tiểu, bộ khám phụ khoa (mỏ vịt, khám hai tay), tủ thuốc."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nữ 23 tuổi, tên Bùi Thị Thanh Trúc, công nhân may, đến phòng khám một mình lúc 19 giờ 40 tối thứ Ba, sau khi tan ca; kỹ thuật viên xét nghiệm và siêu âm đã về. Chị mắt đỏ hoe, tay nắm chặt ống xịt hen, nói nhanh. Lý do: ra máu âm đạo 5 ngày, trễ kinh, rất sợ. Sinh hiệu lúc tiếp đón: mạch 88 l/p, HA 108/68 mmHg, nhiệt độ 36,8 °C, nhịp thở 20 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Trúc bị giữ lại qua đêm và truyền kháng sinh 'cho sạch'. Sáng ra vẫn chỉ là ra máu ít, thử thai âm, sinh hiệu ổn, không có dấu nhiễm khuẩn nào (QĐ 315/2015, Viêm phần phụ mục 2.1.1, 2.2.1), nên kháng sinh không cầm được máu mà chị mất thêm một ca làm và tiền viện phí. Điều tệ hơn là chị tin chắc ra máu là do nhiễm trùng, nỗi sợ nặng thêm, và lần ra máu sau chị lại đòi kháng sinh. Tác dụng phụ cụ thể của kháng sinh: không có trong tài liệu đã tải.",
+    "chuyen_tuyen": "Chị Trúc bị gọi xe cấp cứu lên bệnh viện tuyến trên giữa đêm. NICE NG126 2019 (mục 1.4.1) chỉ dành đường cấp cứu cho người huyết động không ổn hoặc ra máu, đau đáng ngại, chị không thuộc nhóm đó. Ở đó chị chờ nhiều giờ, được làm lại đúng que thử thai và khám đã có, rồi được cho về với cùng kết luận; chị mất ca làm sáng mai và càng tin mình bệnh nặng. Rong kinh rong huyết cần bác sĩ sản phụ khoa tuyến huyện trở lên (QĐ 315/2015, mục 3.2) áp dụng khi ra máu quá 7 ngày, chị mới 5 ngày."
+   },
+   "loi_mo": "Dạ bác sĩ ơi, em sợ lắm. Năm ngày nay em ra máu, mà kinh em còn trễ nữa. Hôm kia em khiêng cuộn vải nặng ở xưởng, em sợ em bị sẩy thai, hoặc đứt cái gì trong bụng… em đọc trên mạng nói ra máu lâu là ung thư. Bác sĩ cho em xin ít kháng sinh đi, chị cùng phòng nói uống vào cho sạch là hết. Em có sao không bác sĩ, em có chết không?",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "108/68",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bác sĩ ơi em sợ lắm. Năm ngày nay em ra máu, mà kinh của em còn trễ nữa. Hôm kia em có khiêng cuộn vải nặng, em sợ em bị sẩy thai, hoặc đứt cái gì trong bụng, hoặc bị ung thư. Em không ngủ được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra: ra máu âm đạo 5 ngày, trễ kinh, sợ sẩy thai, tổn thương bên trong, ung thư"
+    },
+    {
+     "id": "chu_ky",
+     "noi_dung": "Trước giờ kinh của em đều, 28–30 ngày một lần, hành kinh bốn năm ngày, ngày nhiều nhất thay ba miếng. Lần kinh cuối bắt đầu cách đây bốn mươi ngày, hết sau năm ngày. Tháng này em đợi mãi không thấy, hôm nay là ngày thứ bốn mươi mà chưa có kinh thật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chu kỳ vốn đều 28–30 ngày; kinh cuối cách 40 ngày (trễ khoảng 10–12 ngày), chưa có kinh thật"
+    },
+    {
+     "id": "ra_mau",
+     "noi_dung": "Năm ngày nay em thấy ra máu ít thôi, màu nâu sẫm, có hôm lẫn chút đỏ. Mỗi ngày em dùng một hai miếng băng mỏng, không thấm đẫm, không ra cục, không thấy ra mô hay thịt gì. Em chưa bao giờ ra máu thế này mà không phải kỳ kinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ra máu nâu sẫm lẫn đỏ ít, 1–2 băng mỏng/ngày, 5 ngày, không cục, không ra mô"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Hôm kia ở xưởng thiếu người, em khiêng một cuộn vải với thùng phụ liệu chắc ba chục ký, lên xuống mấy lượt. Đến tối là thấy ra máu. Em nghĩ do mình khiêng nặng nên bị.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát được nhắc đến: khiêng vật nặng; thời điểm trùng với ra máu nhưng không chứng minh nhân quả"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Hai ngày đầu em có tức âm ỉ dưới rốn, nhẹ, giờ hết rồi. Em không đau dữ dội, không đau lệch một bên, không đau lên vai, không chóng mặt, không ngất. Chỉ có đau mỏi hai bên lưng dưới vì khiêng, cúi xuống thì đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tức nhẹ hạ vị 2 ngày đầu rồi hết; không đau lệch bên, không đau vai, không choáng; đau mỏi cơ lưng dưới"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Em có chồng, anh làm ở tỉnh khác, cuối tuần mới về. Lần anh về gần nhất cách đây ba tuần, tụi em có dùng bao cao su mỗi lần, không bị rách, em không uống thuốc ngừa thai hay thuốc khẩn cấp lần nào. Em không đau khi quan hệ, không ra máu sau quan hệ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Quan hệ lần cuối cách ~3 tuần, bao cao su đều; không dùng thuốc nội tiết hay thuốc khẩn cấp; không ra máu sau quan hệ"
+    },
+    {
+     "id": "khi_hu",
+     "noi_dung": "Khí hư của em trong, không hôi, không ngứa. Em không sốt, không ớn lạnh, không tiểu buốt, không đau khi quan hệ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không khí hư bất thường, không sốt, không triệu chứng tiết niệu: không gợi ý viêm nhiễm"
+    },
+    {
+     "id": "stress",
+     "noi_dung": "Hai tháng nay xưởng nhiều đơn, em tăng ca đến tám giờ tối, ngủ chừng bốn năm tiếng. Bữa trưa em ăn qua loa, tối về nấu mì. Em sụt chừng hai ký rồi. Em lo nên càng ngủ không được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Stress công việc, thiếu ngủ, ăn uống thất thường, sụt khoảng 2 kg trong 2 tháng"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Em bị hen từ nhỏ, có ống xịt Ventolin, mỗi lần xịt hai nhát khi khò khè do bụi vải, chừng một hai lần mỗi tuần. Cơn nặng thì sáu tháng nay em chưa bị. Em không uống thuốc nào khác, chưa uống thuốc giảm đau chống viêm nào, cũng chưa bị lên cơn sau khi uống aspirin hay thuốc cảm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Salbutamol xịt khi cần ~1–2 lần/tuần, hen nhẹ; không thuốc khác; chưa có phản ứng với aspirin/NSAID"
+    },
+    {
+     "id": "tien_su_mau",
+     "noi_dung": "Từ lúc có kinh em chưa bao giờ ra máu bất thường, không dễ bầm tím, nhổ răng không chảy máu lâu. Trong nhà không ai bị bệnh máu. Kinh trước giờ không bao giờ ra nhiều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không gợi ý rối loạn đông máu"
+    },
+    {
+     "id": "giap_androgen",
+     "noi_dung": "Em không sợ nóng, không run tay, không sút cân nhanh ngoài hai ký do ăn ít. Em không mọc mụn nhiều, lông không rậm, tóc không rụng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không dấu bệnh giáp hay cường androgen"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Em đọc trên mạng nói ra máu khi trễ kinh là sẩy thai, có khi chảy máu trong rồi chết. Có người nói ra máu lâu là ung thư cổ tử cung. Em sợ nằm xuống ngủ là không dậy nổi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguồn nỗi sợ: diễn đàn trên mạng; cần gọi tên và trả lời từng nỗi sợ"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Chị cùng phòng bảo ra máu là bị viêm bên trong, uống mấy ngày kháng sinh cho sạch thì hết. Em muốn bác sĩ cho em kháng sinh, uống vào em mới yên tâm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lý do thật: muốn được kê kháng sinh vì tin 'ra máu là viêm bên trong'"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt nhưng lo âu, nói nhanh, mắt rưng rưng, tay nắm chặt ống xịt. Cao 153 cm, nặng 44 kg (BMI 18,8). Da niêm hồng, không vàng da, không phù, không chấm xuất huyết.",
+     "k": 1,
+     "hien": "Chị nói nhanh, mắt rưng rưng, tay nắm chặt ống xịt hen; da và niêm mạc hồng."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: HA 108/68 mmHg, mạch 84 l/p. Đứng 3 phút: HA 106/70 mmHg, mạch 92 l/p; không chóng mặt, không hoa mắt.",
+     "k": 1,
+     "hien": "Nằm 5 phút: HA 108/68 mmHg, mạch 84 l/p. Đứng 3 phút: HA 106/70 mmHg, mạch 92 l/p; chị không chóng mặt."
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không đau. Không hạch cổ. Mắt không lồi. Không run tay.",
+     "k": 0,
+     "hien": "Tuyến giáp không to, không sờ thấy nhân; không hạch cổ; tay không run."
+    },
+    "tim": {
+     "a": "Tim đều, T1, T2 rõ, không âm thổi, không tiếng ngựa phi.",
+     "k": 0,
+     "hien": "Tim đều, nhịp không nhanh.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1 T2 bình thường, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Rì rào phế nang êm dịu hai phế trường, không ran rít, không ran ngáy.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, thở đều, không khò khè.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm. Ấn sâu hạ vị chỉ hơi tức, không đau nhói, không phản ứng thành bụng, không dấu dội, không sờ thấy khối; hố thắt lưng không đau.",
+     "k": 1,
+     "hien": "Bụng phẳng, mềm; ấn hạ vị chị hơi khó chịu, không đau nhói, không thấy khối."
+    },
+    "phu_khoa": {
+     "a": "Âm hộ bình thường. Mỏ vịt: âm đạo có vài vệt máu nâu sẫm ở vòm sau, lượng thấm chưa tới một nửa gạc; lau sạch thì thấy máu nâu rỉ rất ít từ lỗ ngoài cổ tử cung. Cổ tử cung hồng, nhẵn, lỗ ngoài đóng, không polyp, không loét, không khối sùi, không mủ nhầy, không khí hư bất thường; chạm bông không chảy thêm máu. Khám hai tay: tử cung ngả trước, kích thước bình thường, mật độ chắc, di động, lắc cổ tử cung không đau; hai phần phụ không sờ thấy khối, không đau.",
+     "k": 1,
+     "hien": "Có vài vệt máu nâu sẫm ở vòm âm đạo, lượng rất ít; cổ tử cung nhẵn, đóng, không polyp hay loét, không mủ. Tử cung không to, lắc không đau, hai phần phụ không đau."
+    },
+    "da": {
+     "a": "Da không mụn trứng cá, không rậm lông, không rụng tóc thành mảng, không vằn da đen vùng cổ nách, không bầm tím.",
+     "k": 0,
+     "hien": "Không thấy mụn, lông mọc nhiều hay bầm tím."
+    },
+    "co_xuong_khop": {
+     "a": "Cơ cạnh sống thắt lưng hai bên căng, ấn đau nhẹ, cúi gập hơi đau. Không điểm đau cột sống, Lasègue âm tính, đi lại bình thường, không yếu chi.",
+     "k": 0,
+     "hien": "Cơ lưng dưới hai bên căng và ấn đau nhẹ; đi lại bình thường."
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "e",
+     "r": "Que thử thai nước tiểu (điều dưỡng Linh làm tại giường): ÂM TÍNH.",
+     "n": "Phụ nữ trong độ tuổi sinh đẻ trễ kinh và ra máu phải loại trừ thai trước tiên: thai xác nhận đáng tin bằng định lượng hCG nước tiểu hoặc huyết thanh (FIGO 2018, mục 6.1); test thai trong cận lâm sàng rong kinh rong huyết (QĐ 315/2015, Rong kinh rong huyết mục 2.2); xét nghiệm hCG là bước đầu khi mất kinh (QĐ 315/2015, Vô kinh mục 2.1, bước 1). NICE NG126 2019, mục 1.4.5: nghĩ tới thử thai ngay cả khi triệu chứng không đặc hiệu. Chị trễ kinh 40 ngày, quan hệ cách 3 tuần nên que nước tiểu đủ tin cậy; que này không cần kỹ thuật viên nên làm được ngoài giờ. Mức nhạy của que và thời điểm âm tính giả: không có trong tài liệu đã tải."
+    },
+    "bhcg": {
+     "v": "a",
+     "r": "β-hCG huyết thanh định lượng (nếu làm được): dưới 1 mIU/mL.",
+     "thay_the": "test_thai",
+     "n": "Tối nay không làm được β-hCG huyết thanh (ngoài giờ, kỹ thuật viên đã về). FIGO 2018, mục 6.1 chấp nhận nước tiểu hoặc huyết thanh nên que thử thai nước tiểu đủ thay thế để quyết định tối nay; hCG huyết thanh không bắt buộc."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Que thử nước tiểu (điều dưỡng Linh làm): bạch cầu âm, nitrit âm, protein âm, đường âm, hồng cầu dương (+) do lẫn máu âm đạo.",
+     "n": "Loại ra máu từ đường tiết niệu (chẩn đoán phân biệt trong QĐ 315/2015, Rong kinh rong huyết mục 2.5). Hồng cầu dương do lẫn máu âm đạo, không có bạch cầu hay nitrit nên không gợi ý nhiễm trùng tiểu. Không bắt buộc."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Mẫu máu lấy tối nay, kết quả có sáng mai: Hb 122 g/L · Hct 0,372 · MCV 83,5 fL · BC 7,6 G/L · TC 310 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 7.6,
+      "neu_pct": 60.0,
+      "neu": 4.56,
+      "lym_pct": 31.0,
+      "lym": 2.36,
+      "mono_pct": 6.0,
+      "mono": 0.46,
+      "eos_pct": 2.0,
+      "eos": 0.15,
+      "baso_pct": 1.0,
+      "baso": 0.08,
+      "rbc": 4.45,
+      "hgb": 122,
+      "hct": 0.372,
+      "mcv": 83.5,
+      "mch": 27.4,
+      "mchc": 328,
+      "rdw": 13.4,
+      "plt": 310
+     },
+     "n": "Tối nay phòng khám không làm được công thức máu (ngoài giờ); mẫu chỉ có kết quả sáng mai nên quyết định tối nay không được chờ kết quả. Cách thay thế: khám niêm mạc, mạch, huyết áp tư thế (đều bình thường). Công thức máu cho phụ nữ ra máu bất thường (QĐ 315/2015, Rong kinh rong huyết mục 2.2; FIGO 2018, mục 6.1: Hb/Hct, ferritin nếu có thể). Hb 122 g/L, tiểu cầu bình thường: không thiếu máu."
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "r": "Ferritin 38 ng/mL (kết quả sáng mai).",
+     "n": "FIGO 2018, mục 6.1: nên đánh giá thiếu sắt bằng ferritin nếu có thể. Tối nay không làm được; không bắt buộc, làm cùng công thức máu sáng mai hoặc không làm đều chấp nhận."
+    },
+    "sa_chau": {
+     "v": "a",
+     "r": "Siêu âm tử cung – phần phụ (sáng mai, khi có kỹ thuật viên): tử cung ngả trước 47 × 38 × 33 mm, cơ tử cung đồng nhất, không u xơ, không dấu adenomyosis. Nội mạc 6 mm, đồng nhất, không polyp. Hai buồng trứng bình thường, mỗi bên 6–9 nang nhỏ, thể tích 6 và 7 mL. Không túi thai, không dịch túi cùng Douglas.",
+     "ab": 0,
+     "n": "Tối nay không làm được (ngoài giờ). Siêu âm phụ khoa nằm trong cận lâm sàng rong kinh rong huyết (QĐ 315/2015, mục 2.2) và khảo sát nhóm cấu trúc (FIGO 2018, mục 6.5: siêu âm nên làm sớm trong quá trình khảo sát AUB mạn, không đủ nhạy với polyp nhỏ). Ra máu mới 5 ngày, lượng ít, một đợt, chưa phải AUB mạn (định nghĩa mạn: kéo dài phần lớn 6 tháng trước, FIGO 2018, mục 2): hẹn sáng mai là hợp lý, không cần ngay tối nay. Buồng trứng đa nang người lớn: ≥ 20 nang mỗi buồng hoặc thể tích ≥ 10 mL (International PCOS Guideline 2023, khuyến cáo 1.4.4, 1.4.5): chị không đạt."
+    },
+    "tsh": {
+     "n": "Không cần: không dấu bệnh giáp trên bệnh sử và khám (NICE NG88 2018, mục 1.2.10: không xét nghiệm hormon giáp khi không có dấu bệnh giáp; NG88 viết cho kinh nhiều, ca này tham khảo). QĐ 315/2015, Rong kinh rong huyết mục 2.1 nhắc chú ý dấu nhược giáp. Tối nay cũng không làm được."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn kinh nguyệt: chu kỳ dài bất thường (40 ngày, vượt khoảng 24–38 ngày) rồi ra máu âm đạo lượng ít kéo dài 5 ngày, nghiêng về rối loạn phóng noãn chức năng (AUB-O theo FIGO) liên quan stress, thiếu ngủ, ăn uống thất thường và sụt cân nhẹ; đã loại thai, không dấu viêm nhiễm, không thiếu máu, ổn định huyết động",
+     "ok": 1,
+     "n": "Chu kỳ đều 24–38 ngày thường có phóng noãn; ra máu do rối loạn phóng noãn thường không đều về thời điểm và lượng, xen lẫn các đợt vô kinh (FIGO 2018, mục 6.2). Bình thường thời gian hành kinh ≤ 8 ngày (FIGO 2018, Hình 1/Bảng 1). Rong huyết tuổi trẻ: ra máu sau một vòng kinh dài (chậm kinh), do rối loạn hoạt động vùng dưới đồi, thường không phóng noãn (QĐ 315/2015, Rong kinh rong huyết mục 2.4.1). Hỏi stress, thay đổi cân nặng, chế độ ăn là bước hỏi bệnh khi mất kinh (QĐ 315/2015, Vô kinh mục 2.1, bước 2); mất kinh trong vòng một chu kỳ thường không quá nghiêm trọng vì chu kỳ dễ bị ảnh hưởng bởi yếu tố bên ngoài (QĐ 315/2015, Vô kinh mục 1). Mức đóng góp riêng của stress, thiếu ngủ và việc khiêng nặng: không có trong tài liệu đã tải. Ca không điển hình ở chỗ lượng ít, một đợt, không rong kinh nhiều, nên dễ nghĩ là 'kinh trễ bình thường' hoặc dọa sẩy thai."
+    },
+    {
+     "t": "Có thai (dọa sẩy thai, thai ngoài tử cung)",
+     "n": "Loại trừ ở mức que thử thai nước tiểu âm tính (FIGO 2018, mục 6.1), trễ 40 ngày và quan hệ cách 3 tuần nên âm tính đáng tin; không đau lệch bên, không đau vai, huyết động ổn, bụng và phần phụ không đau (NICE NG126 2019, mục 1.4.3 liệt kê triệu chứng thai ngoài tử cung; mục 1.4.1 chuyển cấp cứu khi huyết động không ổn). Siêu âm sáng mai xác nhận thêm. Khiêng nặng không thể gây sẩy khi không có thai: đây là điểm cần nói cho chị yên tâm."
+    },
+    {
+     "t": "Bệnh tuyến giáp (cường giáp, nhược giáp)",
+     "n": "Loại trừ trên lâm sàng: tuyến giáp không to, không run tay, không sợ nóng, nhịp tim bình thường, sụt cân giải thích bằng ăn ít. Không làm TSH vì không có dấu bệnh giáp (NICE NG88 2018, mục 1.2.10; QĐ 315/2015, Rong kinh rong huyết mục 2.1)."
+    },
+    {
+     "t": "Hội chứng buồng trứng đa nang (PCOS)",
+     "n": "Loại trừ: chu kỳ vốn đều 28–30 ngày, không mụn, không rậm lông, BMI 18,8, siêu âm buồng trứng không đa nang (nếu làm). Chu kỳ không đều kéo dài mới tính là chu kỳ không đều ở người trên 3 năm sau có kinh (< 21 hoặc > 35 ngày hoặc < 8 chu kỳ mỗi năm), một chu kỳ dài đơn lẻ chưa đủ; PCOS cần hai trong ba tiêu chí (International PCOS Guideline 2023, khuyến cáo 1.1.1, Algorithm 1)."
+    },
+    {
+     "t": "U xơ tử cung, polyp, adenomyosis (nhóm P, A, L của PALM-COEIN)",
+     "n": "Ít khả năng: tử cung kích thước bình thường, mật độ chắc, không đau lắc, không có tiền sử kinh nhiều đau nhiều (QĐ 315/2015, Rong kinh rong huyết mục 2.4.3 nêu nguyên nhân thực thể của cường kinh; FIGO 2018, mục 4.1). Tối nay không có siêu âm nên chưa loại hẳn; siêu âm qua bụng cũng không loại hẳn polyp nhỏ (FIGO 2018, mục 6.5). Hẹn siêu âm sáng mai và theo dõi: nếu ra máu dai dẳng thì khảo sát tiếp."
+    },
+    {
+     "t": "Viêm nhiễm đường sinh dục (viêm cổ tử cung, viêm phần phụ) cần kháng sinh",
+     "n": "Không có: không sốt, không đau hạ vị dữ dội hai bên, không khí hư mủ, cổ tử cung không mủ nhầy, lắc cổ tử cung không đau, phần phụ không đau. Viêm phần phụ cấp có đau bụng dưới đột ngột, sốt, khí hư nhiều hoặc mủ, đau khi lay động tử cung (QĐ 315/2015, Viêm phần phụ mục 2.1.1, 2.2.1). Ra máu do viêm cần có các dấu này đi kèm."
+    },
+    {
+     "t": "Nguồn gốc ra máu ngoài tử cung (tiêu hóa, tiết niệu, tổn thương cổ tử cung)",
+     "n": "Loại trừ: máu rỉ từ lỗ ngoài cổ tử cung, cổ tử cung nhẵn không loét không sùi, que nước tiểu không bạch cầu nitrit, không đại tiện ra máu (QĐ 315/2015, Rong kinh rong huyết mục 2.5; FIGO 2018, mục 6.1: xác định máu từ ống cổ tử cung)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về, hẹn tái khám sáng mai trong giờ hành chính để làm công thức máu (± ferritin) và siêu âm tử cung – phần phụ; không nhập viện, không chuyển cấp cứu đêm nay",
+     "v": "c",
+     "n": "Ra máu ít 5 ngày, huyết động ổn (mạch 88, HA 108/68, không tụt HA tư thế), que thử thai âm tính, khám không viêm. NICE NG126 2019, mục 1.4.1: chuyển cấp cứu khi huyết động không ổn hoặc lo ngại đáng kể về mức đau/ra máu. Chưa đủ 7 ngày nên chưa phải rong huyết cần bác sĩ sản phụ khoa tuyến huyện (QĐ 315/2015, mục 1, 3.2). Xét nghiệm tối nay không có (ngoài giờ), kết quả không thay đổi quyết định hôm nay."
+    },
+    {
+     "t": "Trấn an có cấu trúc: gọi tên từng nỗi sợ (sẩy thai, đứt trong bụng, ung thư, nhiễm trùng) và trả lời bằng kết quả của chính chị (que thử thai âm, huyết áp và mạch ổn, khám cổ tử cung nhẵn, không sốt, ra máu ít), giải thích nhiều khả năng do chu kỳ rối loạn vì thiếu ngủ, ăn uống thất thường, rồi nói rõ kế hoạch ngày mai và khi nào phải quay lại",
+     "v": "c",
+     "n": "Mất kinh trong một chu kỳ thường không nghiêm trọng, chu kỳ dễ bị yếu tố bên ngoài ảnh hưởng (QĐ 315/2015, Vô kinh mục 1); rong kinh rong huyết cơ năng nhìn chung tiên lượng tốt (QĐ 315/2015, Rong kinh rong huyết mục 5). Kỹ thuật trấn an từng bước và cách nói với người sợ hãi: không có trong tài liệu đã tải (nhận định lâm sàng)."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích vì sao ra máu không phải do 'viêm bên trong' và kháng sinh không cầm được máu",
+     "v": "c",
+     "n": "Không có dấu viêm nhiễm (QĐ 315/2015, Viêm phần phụ mục 2.1.1, 2.2.1). Điều trị rong kinh rong huyết cơ năng gồm điều trị nguyên nhân, cầm máu, lập lại chu kỳ, hỗ trợ (QĐ 315/2015, mục 3.1, 3.2.1, 3.2.4), không có kháng sinh. Chỉ định kháng sinh cho ra máu chức năng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại hoặc đi cấp cứu ngay: đau bụng dưới dữ dội hoặc lệch một bên, đau lên vai, chóng mặt, ngất, ra máu nhiều hơn (thấm đẫm băng), sốt",
+     "v": "c",
+     "n": "Triệu chứng thai ngoài tử cung gồm đau bụng hoặc chậu, ra máu âm đạo, chóng mặt, ngất, đau đầu vai (NICE NG126 2019, mục 1.4.3); biểu hiện không điển hình là thường gặp (mục 1.4.2). Thử thai âm tính làm giảm nhiều nguy cơ nhưng dặn phòng xa là hợp lý. Ngưỡng 'ướt đẫm bao nhiêu băng/giờ': không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn quay lại nếu ra máu quá 7 ngày (QĐ 315/2015) hoặc quá 8 ngày (FIGO 2018) để gặp bác sĩ sản phụ khoa; dặn ghi nhật ký kinh (ngày bắt đầu, ngày hết, lượng) cho các kỳ sau",
+     "v": "c",
+     "n": "Rong huyết: ra máu kéo dài trên 7 ngày không có chu kỳ (QĐ 315/2015, mục 1); rong huyết cần bác sĩ sản phụ khoa tuyến huyện trở lên (mục 3.2). Hành kinh bình thường tối đa 8 ngày, trên 8 ngày là kéo dài (FIGO 2018, Hình 1/Bảng 1). Hai nguồn lệch một ngày, ghi cả hai (đã có trong sổ mâu thuẫn). AUB mạn tính khi bất thường kéo dài phần lớn 6 tháng trước (FIGO 2018, mục 2): một đợt đơn lẻ chưa phải mạn tính. Thời hạn theo dõi nhật ký kinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ ống xịt salbutamol như cũ; nếu cần giảm đau lưng, hỏi tiền sử phản ứng với aspirin/NSAID trước khi cho thuốc; chị chưa có phản ứng nên paracetamol hoặc NSAID đều dùng được",
+     "v": "c",
+     "n": "GINA 2026, chương 3, tr. 66: luôn hỏi về hen và phản ứng trước đó trước khi kê NSAID; NSAID không chống chỉ định thường quy trừ khi có tiền sử phản ứng. Hen nhạy cảm aspirin gặp khoảng 7% người hen, đợt cấp xuất hiện vài phút đến 1–2 giờ sau khi uống (QĐ hướng dẫn hen 2020, mục Bệnh hô hấp bùng phát do Aspirin, TL-0127). Chị chỉ xịt 1–2 lần/tuần, phổi không ran."
+    },
+    {
+     "t": "Nghỉ khiêng vác nặng vài ngày, xin đổi sang việc nhẹ, ngủ đủ giấc và ăn đủ bữa, tăng đạm",
+     "v": "a",
+     "n": "Tăng cường dinh dưỡng giàu đạm là điều trị hỗ trợ (QĐ 315/2015, Rong kinh rong huyết mục 3.2.4). Thời gian nghỉ khiêng nặng và tác dụng lên ra máu: không có trong tài liệu đã tải; làm theo phán đoán lâm sàng vì chị đau cơ lưng."
+    },
+    {
+     "t": "Paracetamol 500 mg uống khi đau lưng",
+     "v": "a",
+     "n": "QĐ 361/2014, Hội chứng đau thắt lưng mục 4.2.1: paracetamol 0,5 g × 4–6 viên/24 giờ, chia 3 lần uống sau ăn, tối đa 4.000 mg/ngày; NICE NG59 không khuyến cáo paracetamol đơn độc cho đau lưng (đã có trong sổ mâu thuẫn): chấm a. Ibuprofen cũng chấm a nếu đã hỏi tiền sử NSAID."
+    },
+    {
+     "t": "Cho thuốc nội tiết (progestin hoặc thuốc tránh thai kết hợp liều thấp) để cầm máu và lập lại chu kỳ",
+     "v": "a",
+     "n": "QĐ 315/2015, Rong kinh rong huyết mục 3.2.1: progestagen 20 mg/ngày hoặc thuốc tránh thai uống 2–3 viên/ngày × 7 ngày rồi 1 viên/ngày × 14 ngày (Bảng 1); bước đầu tiên là loại trừ nguyên nhân ác tính và bệnh về máu. Ra máu ít 5 ngày, chưa có siêu âm, chưa cần: không bắt buộc, chấp nhận nếu bác sĩ sản phụ khoa quyết sau siêu âm."
+    },
+    {
+     "t": "Kê kháng sinh uống (amoxicillin-clavulanat, azithromycin, doxycyclin) hoặc tiêm ceftriaxone 'cho sạch' vì chị đòi",
+     "v": "w",
+     "n": "Không có dấu nhiễm khuẩn (QĐ 315/2015, Viêm phần phụ mục 2.1.1, 2.2.1). Kháng sinh không cầm máu, củng cố niềm tin sai 'ra máu là viêm', làm chị bỏ qua nguyên nhân thật (chu kỳ rối loạn do stress và thiếu ngủ). Tác dụng phụ cụ thể của từng kháng sinh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ chị lại qua đêm hoặc gọi xe chuyển cấp cứu bệnh viện tuyến trên đêm nay để 'làm cho chắc'",
+     "v": "w",
+     "n": "Không có dấu hiệu chuyển: huyết động ổn, đau nhẹ, không lệch bên (NICE NG126 2019, mục 1.4.1). Làm đúng test thai và khám đã làm, tốn ca làm, và củng cố thêm nỗi sợ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn kinh nguyệt: chu kỳ kéo dài 40 ngày (vượt khoảng bình thường 24–38 ngày) rồi ra máu âm đạo lượng ít 5 ngày, nghiêng về AUB-O (rối loạn phóng noãn chức năng) liên quan stress, thiếu ngủ, ăn uống thất thường, sụt cân nhẹ (FIGO 2018, mục 6.2, Hình 1/Bảng 1; QĐ 315/2015, Rong kinh rong huyết mục 2.4.1, Vô kinh mục 1, 2.1)",
+     "Chưa phải rong huyết (ra máu mới 5 ngày, dưới 7 ngày: QĐ 315/2015, mục 1) và chưa phải AUB mạn tính (FIGO 2018, mục 2); không thiếu máu (mạch 88, HA ổn, niêm mạc hồng; công thức máu hẹn sáng mai)",
+     "Đã loại trừ: có thai (que thử thai nước tiểu âm tính; FIGO 2018, mục 6.1), bệnh tuyến giáp (khám, không cần TSH), PCOS (chu kỳ trước đều, không cường androgen), nhiễm khuẩn sinh dục (không sốt, khí hư bình thường, lắc cổ tử cung không đau); u xơ/polyp chưa loại hẳn vì tối nay không có siêu âm, hẹn sáng mai",
+     "Yếu tố liên quan: stress công việc, tăng ca, ngủ 4–5 giờ, ăn qua loa, sụt khoảng 2 kg; khiêng vật nặng trùng thời điểm ra máu nhưng không chứng minh nhân quả; hen nhẹ dùng salbutamol xịt khi cần, không liên quan",
+     "Lý do thật đến khám: muốn được kê kháng sinh vì tin 'ra máu là viêm bên trong'; nỗi sợ hãi quá mức (sẩy thai, ung thư, đứt trong bụng) là thứ cần xử trí đầu tiên"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: để chị nói hết nỗi sợ, gọi tên nỗi sợ → hỏi chu kỳ trước đây, ngày kinh cuối, lượng và màu máu, thời gian ra máu → hỏi tình dục, bao cao su, thuốc tránh thai → hỏi đau bụng, dấu hiệu nguy hiểm (đau lệch bên, đau vai, choáng), khí hư, sốt → hỏi stress, giấc ngủ, ăn uống, cân nặng, thuốc đang dùng (kể cả thuốc xịt hen) → khám toàn thân, huyết áp tư thế, tuyến giáp, bụng, mỏ vịt và hai tay → que thử thai (làm được ngoài giờ) → chẩn đoán → xử trí. QĐ 315/2015, Rong kinh rong huyết mục 2.1 yêu cầu hỏi tần suất, thời gian, lượng, chu kỳ, tiền sử tình dục, thuốc/hormon ngừa thai, khám phụ khoa cẩn thận.",
+     "Điều dễ làm hỏng ca: nỗi sợ ồn ào át dữ kiện; bỏ qua thì chị cắt ngang đòi kháng sinh, chiều lòng thì kê kháng sinh hoặc làm thừa. Trấn an dựa trên que thử thai âm, huyết động ổn, khám không viêm.",
+     "Vì sao vẫn nghĩ tới rối loạn kinh nguyệt dù không điển hình: lượng máu ít, một đợt, chị 23 tuổi, trước đó chu kỳ đều. Nhưng mẫu hình 'ra máu sau một vòng kinh dài, nhiều khi không phóng noãn' khớp rong huyết tuổi trẻ (QĐ 315/2015, mục 2.4.1) và ra máu do rối loạn phóng noãn thường không đều về thời điểm và lượng, xen lẫn trễ kinh (FIGO 2018, mục 6.2). Chu kỳ 24–38 ngày là bình thường (FIGO 2018, mục 6.2); 40 ngày vượt ngưỡng.",
+     "Bốn chẩn đoán phải loại: thai (que thử thai âm, huyết động ổn, không đau lệch bên: NICE NG126 2019, mục 1.4.1, 1.4.3); bệnh giáp (không dấu lâm sàng); PCOS (chu kỳ trước đều, không cường androgen, một chu kỳ dài chưa đủ: International PCOS Guideline 2023, khuyến cáo 1.1.1); u xơ (tử cung bình thường khi khám, siêu âm sáng mai).",
+     "Tiêu chí cho về: huyết động ổn, đau nhẹ, thử thai âm tính, không dấu viêm (NICE NG126 2019, mục 1.4.1 chỉ chuyển cấp cứu khi huyết động không ổn hoặc lo ngại đáng kể về đau hoặc ra máu). Tiêu chí chuyển hoặc gặp bác sĩ sản phụ khoa: ra máu kéo dài quá 7 ngày hoặc quá 8 ngày, ra máu nhiều lên, đau lệch bên, choáng (QĐ 315/2015, mục 1, 3.2; FIGO 2018, Hình 1/Bảng 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Trấn an có cấu trúc là phần điều trị đầu tiên của ca này: công nhận nỗi sợ, nói lại từng nỗi sợ bằng kết quả của chính chị (không có thai nên không thể sẩy, mạch và huyết áp ổn nên không mất máu nhiều, cổ tử cung nhẵn nên chưa có dấu ung thư ở chỗ khám thấy), nói kế hoạch ngày mai và dấu hiệu phải quay lại. Mất kinh một chu kỳ thường không quá nghiêm trọng (QĐ 315/2015, Vô kinh mục 1) và rong huyết cơ năng tiên lượng tốt (QĐ 315/2015, mục 5). Kỹ thuật nói: không có trong tài liệu đã tải.",
+     "Không kê kháng sinh: không sốt, không khí hư mủ, không đau lắc cổ tử cung (QĐ 315/2015, Viêm phần phụ mục 2.1.1, 2.2.1). Nói với chị bằng dữ kiện: kháng sinh chỉ có tác dụng với nhiễm khuẩn, chị chưa có dấu nhiễm khuẩn nào; điều cần làm là kiểm tra thai, công thức máu và siêu âm.",
+     "Cho về, không nhập viện, không chuyển cấp cứu: lượng máu rất ít, không tụt huyết áp tư thế, không đau lệch bên (NICE NG126 2019, mục 1.4.1). Công thức máu và siêu âm không có tối nay (ngoài giờ), kết quả cũng không đổi quyết định hôm nay; hẹn sáng mai làm trong giờ hành chính (QĐ 315/2015, mục 2.2; FIGO 2018, mục 6.1, 6.5).",
+     "Thuốc: không cần thuốc cầm máu hay nội tiết tối nay. Cách điều trị rong huyết cơ năng có progestagen 20 mg/ngày hoặc thuốc tránh thai (QĐ 315/2015, mục 3.2.1, Bảng 1) dành cho ra máu kéo dài hoặc nhiều; chị chưa thuộc nhóm đó, chấm a. Đau lưng: paracetamol 0,5 g × 4–6 viên/24 giờ (QĐ 361/2014, mục 4.2.1) hoặc NSAID sau khi hỏi tiền sử phản ứng (GINA 2026, chương 3, tr. 66). Hai nguồn về paracetamol đơn độc khác nhau (QĐ 361/2014 cho; NICE NG59 không khuyến cáo): đều chấm a."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Kháng sinh (amoxicillin-clavulanat, azithromycin, doxycyclin, ceftriaxone)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Không kê. Không có dấu nhiễm khuẩn (QĐ 315/2015, Viêm phần phụ mục 2.1.1, 2.2.1); tài liệu đã tải không nêu kháng sinh trong điều trị rong kinh rong huyết cơ năng (QĐ 315/2015, mục 3.1, 3.2). Nói rõ lý do với chị thay vì chỉ từ chối."
+     },
+     {
+      "thuoc": "Salbutamol xịt (thuốc chị đang dùng, giữ nguyên)",
+      "ham_luong": "Bình xịt định liều, theo đơn chị đang có",
+      "lieu": "Giữ như cũ: 2 nhát khi khò khè (chị tự kể)",
+      "duong": "Xịt hít",
+      "thoi_diem": "Khi khò khè hoặc tức ngực",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "Không liên quan rối loạn kinh nguyệt. Liều cụ thể và mức kiểm soát hen: không có trong tài liệu đã tải cho lượt này; chị xịt 1–2 lần/tuần, phổi không ran. Phải hỏi về hen trước khi kê NSAID (GINA 2026, chương 3, tr. 66)."
+     },
+     {
+      "thuoc": "Paracetamol (nếu đau lưng)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg × 3 lần/ngày khi đau, tối đa 4.000 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "2–3 ngày, dừng khi hết đau",
+      "ghi_chu": "QĐ 361/2014, Hội chứng đau thắt lưng mục 4.2.1: 0,5 g × 4–6 viên/24 giờ chia 3 lần sau ăn, tối đa 4.000 mg/ngày. NICE NG59 không khuyến cáo paracetamol đơn độc: chấm a, không bắt buộc. Số ngày dùng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Thuốc cầm máu hoặc nội tiết (progestin, thuốc tránh thai kết hợp, tranexamic acid)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Không kê tối nay: ra máu ít, chưa siêu âm. Nếu bác sĩ sản phụ khoa quyết sau này: progestagen 20 mg/ngày hoặc thuốc tránh thai 2–3 viên/ngày × 7 ngày rồi 1 viên/ngày × 14 ngày (QĐ 315/2015, Rong kinh rong huyết mục 3.2.1, Bảng 1)."
+     },
+     {
+      "thuoc": "Sắt (II) sulfat kèm acid folic",
+      "ham_luong": "Viên chứa 50 mg sắt nguyên tố",
+      "lieu": "Chưa kê",
+      "duong": "Uống",
+      "thoi_diem": "Quyết định sau công thức máu và ferritin sáng mai",
+      "so_ngay": "Chưa áp dụng",
+      "ghi_chu": "Chỉ kê nếu có thiếu máu hoặc thiếu sắt: ferritin dưới 30 ng/mL và/hoặc bão hòa transferrin dưới 30% (QĐ 1832/2022, Thiếu máu thiếu sắt mục 4.1); liều 2–4 viên/ngày × 3–6 tháng (Thiếu máu mục 4.2.1a). Bổ sung sắt là điều trị hỗ trợ trong rong huyết (QĐ 315/2015, mục 3.2.4)."
+     }
+    ],
+    "dan_do": [
+     "Em nghe chị sợ lắm. Em trả lời từng điều chị lo. Chị không có thai (que thử thai âm tính) nên không có chuyện sẩy thai, và việc khiêng cuộn vải không làm hỏng thai vì không có thai. Mạch và huyết áp của chị ổn, máu ra rất ít nên chị không bị chảy máu trong. Khi khám, cổ tử cung nhẵn, không có vết loét hay khối.",
+     "Nhiều khả năng do chu kỳ của chị bị xáo trộn vì mấy tháng nay chị ngủ ít, ăn thất thường, tăng ca và sụt cân, nên kỳ này trễ rồi ra máu ít. Chu kỳ rất dễ bị ảnh hưởng bởi những chuyện bên ngoài, một lần trễ thường không nghiêm trọng (QĐ 315/2015, Vô kinh mục 1).",
+     "Chị không bị viêm bên trong: chị không sốt, khí hư bình thường, bụng không đau, khám không có mủ. Kháng sinh không cầm được máu và không cần cho chị. Điều cần làm là kiểm tra lại cho chắc: sáng mai chị đến phòng khám giờ hành chính để làm công thức máu và siêu âm.",
+     "Chị về nghỉ, ngủ sớm, ăn đủ bữa, ăn thêm thịt, trứng, cá; vài ngày tới tránh khiêng nặng, xin đổi việc nhẹ nếu được. Đau lưng thì dùng paracetamol sau ăn; trước khi dùng thuốc chống viêm giảm đau khác phải hỏi bác sĩ vì chị bị hen. Ống xịt cứ mang theo.",
+     "Quay lại ngay hoặc đi cấp cứu nếu: đau bụng dưới dữ dội hoặc lệch một bên, đau lên vai, chóng mặt, ngất, ra máu nhiều hơn rõ rệt hoặc thấm đẫm băng, sốt, khò khè nhiều hơn bình thường (NICE NG126 2019, mục 1.4.3).",
+     "Máu có thể còn lấm tấm thêm vài ngày và kỳ kinh sau có thể chưa đúng ngày: chuyện thường của chu kỳ vừa bị xáo trộn. Chị ghi ngày bắt đầu, ngày hết, lượng máu mỗi kỳ. Nếu ra máu quá 7 ngày (QĐ 315/2015) hoặc quá 8 ngày (FIGO 2018), hoặc các kỳ sau còn bất thường, chị đi khám bác sĩ sản phụ khoa. Thời hạn theo dõi cụ thể: không có trong tài liệu đã tải."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Trúc về sau khi được nghe từng nỗi sợ được trả lời, nhẹ nhõm hơn dù vẫn hỏi lại hai lần về ung thư. Sáng hôm sau chị quay lại làm công thức máu (Hb 122 g/L, tiểu cầu bình thường, ferritin 38 ng/mL) và siêu âm (nội mạc 6 mm, không u xơ, không polyp, buồng trứng không đa nang). Máu vẫn lấm tấm thêm vài ngày và chỉ ngừng hẳn vào ngày thứ 10, lâu hơn chị tưởng; vì đã được dặn mốc 7–8 ngày nên chị đến khám sản phụ khoa vào ngày thứ 8, bác sĩ chỉ theo dõi và khuyên ngủ đủ giấc. Kỳ kinh kế đến sau 36 ngày, lượng ít, kỳ sau nữa 30 ngày, trở lại bình thường. Kết cục tốt vì ba việc: loại thai bằng que thử thai làm được ngay ngoài giờ, trấn an bằng dữ kiện chứ không bằng lời suông, và từ chối kháng sinh kèm lời giải thích thay vì chỉ nói không. Điều suýt làm hỏng ca là nỗi sợ ồn ào át dữ kiện và sự chiều lòng xin kháng sinh hoặc chuyển đêm.",
+ "nhieu": [
+  "Sợ hãi quá mức: chị thổi phồng từng giọt máu thành sẩy thai, đứt trong bụng, ung thư; câu 'không sao đâu' chỉ dịu được vài phút. Chỉ khi bác sĩ gọi tên từng nỗi sợ và trả lời bằng kết quả của chính chị (thử thai âm, mạch HA ổn, cổ tử cung nhẵn) thì chị mới dịu xuống.",
+  "Lý do thật (xin kháng sinh vì tin 'ra máu là viêm bên trong') không phải triệu chứng chính: nếu chiều lòng thì kê kháng sinh vô ích, nếu gạt đi thì chị cắt ngang. Cần từ chối bằng lý do cụ thể (không có dấu nhiễm khuẩn) kèm việc làm được thay thế.",
+  "Không điển hình và ngoài giờ: lượng máu ít, một đợt, chị 23 tuổi nên dễ nghĩ 'kinh trễ bình thường' hoặc dọa sẩy thai; tối nay không có công thức máu và siêu âm, phải quyết định cho về dựa trên que thử thai, sinh hiệu và khám phụ khoa."
+ ],
+ "bai_hoc_bien": [
+  "Phụ nữ tuổi sinh đẻ trễ kinh và ra máu: luôn loại thai trước bằng hCG nước tiểu hoặc huyết thanh (FIGO 2018, mục 6.1; QĐ 315/2015, Rong kinh rong huyết mục 2.2). Que thử thai nước tiểu làm được ngoài giờ.",
+  "Chu kỳ bình thường 24–38 ngày; hành kinh bình thường ≤ 8 ngày (FIGO 2018, mục 6.2, Hình 1/Bảng 1). Rong huyết là ra máu trên 7 ngày không có chu kỳ (QĐ 315/2015, mục 1). Ra máu do rối loạn phóng noãn thường không đều về thời điểm và lượng (FIGO 2018, mục 6.2). Ra máu 5 ngày lượng ít chưa phải rong huyết.",
+  "Không kê kháng sinh khi không có dấu nhiễm khuẩn: viêm phần phụ có đau hạ vị, sốt, khí hư mủ, đau lay động tử cung (QĐ 315/2015, Viêm phần phụ mục 2.1.1, 2.2.1).",
+  "Chuyển cấp cứu khi huyết động không ổn hoặc lo ngại đáng kể về mức đau, ra máu (NICE NG126 2019, mục 1.4.1); biểu hiện không điển hình của thai ngoài tử cung là thường gặp (mục 1.4.2).",
+  "Hỏi về hen và phản ứng trước đó trước khi kê NSAID; không chống chỉ định thường quy (GINA 2026, chương 3, tr. 66)."
+ ],
+ "diem_nho": [
+  "Chu kỳ bình thường 24–38 ngày; hành kinh ≤ 8 ngày (FIGO 2018, mục 6.2, Hình 1/Bảng 1).",
+  "Rong huyết: ra máu > 7 ngày không có chu kỳ (QĐ 315/2015, mục 1); kéo dài > 8 ngày (FIGO 2018).",
+  "AUB mạn tính: bất thường kéo dài phần lớn 6 tháng trước (FIGO 2018, mục 2).",
+  "PCOS cần hai trong ba tiêu chí; chu kỳ không đều: < 21 hoặc > 35 ngày hoặc < 8 chu kỳ/năm khi trên 3 năm sau có kinh (International PCOS Guideline 2023, khuyến cáo 1.1.1).",
+  "Paracetamol 0,5 g × 4–6 viên/24 giờ, tối đa 4.000 mg/ngày (QĐ 361/2014, mục 4.2.1); hen nhạy cảm aspirin gặp ~7% người hen (QĐ hen 2020, TL-0127)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 315/QĐ-BYT ngày 29/01/2015, Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa – TL-0036 – bài Rong kinh rong huyết: mục 1, 2.1, 2.2, 2.4.1, 2.4.3, 2.5, 3.1, 3.2, 3.2.1 (Bảng 1), 3.2.4, 5; bài Vô kinh: mục 1, 2.1 (bước 1, 2); bài Viêm phần phụ: mục 2.1.1, 2.2.1.",
+  "FIGO 2018 – Munro MG và cs., The two FIGO systems for normal and abnormal uterine bleeding symptoms and classification of causes of AUB in the reproductive years, Int J Gynaecol Obstet 2018;143(3):393–408 – TL-0642 – mục 2, 3.1, 4.1, 6.1, 6.2, 6.3, 6.4, 6.5; Hình 1, Bảng 1.",
+  "NICE NG126 2019 (cập nhật 06/2026), Ectopic pregnancy and miscarriage – kho cũ tltk-10000-ca, Phụ khoa - thai sớm – mục 1.4.1, 1.4.2, 1.4.3, 1.4.5.",
+  "NICE NG88 2018 (cập nhật 07/2026), Heavy menstrual bleeding – TL-0640 – mục 1.2.9, 1.2.10 (viết cho kinh nhiều; ca này chỉ tham khảo).",
+  "International PCOS Guideline 2023 (Teede HJ và cs.) – TL-0624 – Algorithm 1; khuyến cáo 1.1.1, 1.4.4, 1.4.5.",
+  "GINA 2026 – Global Strategy for Asthma Management and Prevention – TL-0137 – chương 3, mục Avoidance of medications that may make asthma worse, tr. 66.",
+  "Bộ Y tế – Hướng dẫn chẩn đoán và điều trị hen phế quản người lớn và trẻ em ≥ 12 tuổi (2020) – TL-0127 – mục Bệnh hô hấp bùng phát do Aspirin.",
+  "Bộ Y tế – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Hội chứng đau thắt lưng mục 4.2.1 (paracetamol).",
+  "Bộ Y tế – QĐ 1832/QĐ-BYT 2022, Hướng dẫn chẩn đoán và điều trị một số bệnh lý huyết học (kho cũ) – Thiếu máu mục 4.2.1a; Thiếu máu thiếu sắt mục 4.1."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 2026-11-07 (Sonnet 5.5). Đã đọc: TL-0036 bài Rong kinh rong huyết (mục 1–5), bài Vô kinh (mục 1–2.1), bài Viêm phần phụ (mục 2); TL-0642 (mục 2, 3.1, 4.1, 6.1–6.5, Hình 1/Bảng 1); NICE NG126 (mục 1.4); NICE NG88 (mục 1.2.9–1.2.10); TL-0624 (khuyến cáo 1.1.1, 1.4.4, 1.4.5); GINA 2026 (chương 3, tr. 66); TL-0127 (Aspirin-exacerbated); TL-0286 (Đau thắt lưng 4.2.1); QĐ 1832/2022 (đoạn sắt, theo ca PK-0052/PK-0188).",
+  "Chỗ thiếu tài liệu (đã ghi 'không có trong tài liệu đã tải'): độ nhạy của que thử thai và thời điểm âm tính giả; kỹ thuật trấn an người sợ hãi; ngưỡng 'ướt đẫm bao nhiêu băng/giờ'; thời hạn theo dõi nhật ký kinh; mức đóng góp riêng của stress, thiếu ngủ, khiêng nặng vào rối loạn phóng noãn; số ngày dùng paracetamol; chỉ định kháng sinh cho ra máu chức năng; tác dụng phụ từng kháng sinh; liều salbutamol cho ca này.",
+  "Thiết kế: 1 lượt, ve_hen, neu_sai có nhap_vien và chuyen_tuyen. Xét nghiệm tối nay bị khóa (xn, sieu_am): que thử thai (nhóm tham dò) làm được; công thức máu, ferritin, siêu âm khai kết quả 'sáng mai'. Mạch 88 dùng tệp tim bình thường, chữ trong ca chỉ nói 'nhịp không nhanh'. Không ảnh da, không mục danh mục mới.",
+  "Mâu thuẫn: không phát sinh mục mới. Theo các mục đã có trong sổ (rong huyết kéo dài > 7 hay > 8 ngày; paracetamol cho đau thắt lưng, QĐ 361 và NICE NG59; NSAID cho người hen: hỏi tiền sử phản ứng)."
+ ]
+}
