@@ -1,0 +1,833 @@
+{
+ "ma_ca": "TN-0416",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-07)",
+ "benh": "TN_viem_mao_tinh",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Viêm mào tinh - tinh hoàn",
+  "chan_doan_phai_loai_tru": [
+   "Xoắn tinh hoàn",
+   "U tinh hoàn"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Lao công",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho",
+  "thuoc_dang_dung": "Thuốc ngủ, an thần",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Trần Văn Bảy",
+  "tuoi": 52,
+  "gioi": "Nam",
+  "nghe": "Lao công (công nhân vệ sinh môi trường, quét đường, đẩy xe rác)",
+  "can_nang": 63,
+  "chieu_cao": 163,
+  "xung_ho": "Bác sĩ gọi ông là 'chú Bảy'. Ông tự xưng 'tôi' hoặc 'chú', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Cẩn thận, lo xa, nói ít về cảm xúc, sợ bị coi là nhát. Làm công nhật tính theo ngày công nên ngại nghỉ. Hay nhờ con gái tra bệnh trên điện thoại rồi về tự suy diễn.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: tin mình bị 'lao mào tinh' vì đồng nghiệp ho kéo dài, đòi chụp CT bụng và thử lao 'cho chắc'. Có phần đúng (đúng là viêm mào tinh, đúng là có tiếp xúc người ho) nhưng kết luận lao sai. Chỉ dịu xuống khi bác sĩ công nhận phần ông tra đúng, giải thích vì sao lao ít hợp với bệnh cấp 4 ngày có sốt, rồi nói rõ cách theo dõi; gạt đi thì ông lặp lại yêu cầu.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99b72",
+   "toc": "#5a5650",
+   "kieuToc": "ngan",
+   "ao": "#7f9a5a",
+   "aoKieu": "phong",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau, sưng bìu trái 4 ngày",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am",
+   "ecg"
+  ],
+  "loi_bao": "Phòng khám không có máy CT; chụp CT phải chuyển bệnh viện tuyến trên. Có xét nghiệm, X-quang, điện tim; bác sĩ tự làm siêu âm tại giường. Kết quả cấy nước tiểu sau 48 giờ, NAAT sau 1–2 ngày, IGRA sau 3 ngày."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · chiều thứ Sáu",
+   "tiep_don": "Nam 52 tuổi, lao công, đến phòng khám lúc 16 giờ chiều thứ Sáu vì đau và sưng bìu trái 4 ngày, hôm nay thêm sốt. Đi một mình, bước hơi khệnh khạng, tay hay xoa vùng bẹn trái. Sinh hiệu lúc tiếp đón: mạch 90 l/p, HA 142/88 mmHg, nhiệt độ 38,1 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chú Bảy bị giữ lại nhập viện truyền kháng sinh tĩnh mạch dù chỉ sốt 38,1 °C, không đau dữ dội, không áp xe, không nhiễm khuẩn toàn thân: chưa đủ tiêu chuẩn nhập viện (EAU Urological Infections 2026 mục 3.12.3; CDC STI 2021 tr. 99). Chú mất 3–4 ngày công và tốn viện phí, trong khi kháng sinh uống làm được ngoại trú, hẹn lại sau 72 giờ (CDC STI 2021 tr. 100).",
+    "cap_cuu": "Chú Bảy bị gửi cấp cứu mổ thám sát bìu trong đêm. Bệnh khởi phát từ từ 4 ngày, đau ở mào tinh, có sốt, cremaster còn, nâng bìu đỡ đau: không hợp xoắn; thám sát khẩn chỉ dành cho ca nghi xoắn (EAU Urological Infections 2026 Hình 2). Chú chịu nguy cơ gây mê, mổ không cần thiết và chậm kháng sinh đúng.",
+    "theo_doi": "Chú Bảy chỉ được cho giảm đau, dặn 'ráng nghỉ vài hôm', không kháng sinh vì chưa có kết quả cấy. Viêm mào tinh cần kháng sinh ngay khi chưa có kết quả (CDC STI 2021 tr. 99); không điều trị có thể thành áp xe hoặc nhiễm khuẩn toàn thân, phải nhập viện (EAU Urological Infections 2026 mục 3.12.3). Bìu sưng nặng hơn sau vài ngày."
+   },
+   "loi_mo": "Bác sĩ ơi, bìu bên trái của tôi sưng đau bốn hôm nay rồi, tối qua còn ớn lạnh. Tôi đọc trên điện thoại con gái thấy giống bệnh lao mào tinh, vì ông bạn cùng tổ tôi ho cả tháng nay. Bác sĩ cho tôi chụp CT với thử lao xem sao.",
+   "sinh_hieu": {
+    "mach": 90,
+    "ha": "142/88",
+    "nhiet": "38,1",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau và sưng bìu trái bốn ngày nay, hôm nay thêm sốt nên đi khám. Chưa đi khám nơi nào khác, chưa uống kháng sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, thời gian"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đau từ từ tăng dần trong bốn ngày, lan lên bẹn trái, không có lúc đau dữ dội đột ngột. Không buồn nôn, không nôn. Đi lại, đẩy xe rác đau hơn; nằm kê gối dưới bìu thì dễ chịu hơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát từ từ, không nôn, nâng bìu đỡ đau: chống xoắn tinh hoàn"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Tối qua ớn lạnh, hôm nay người nóng. Chưa đo ở nhà.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Mấy năm nay tiểu đêm 2–3 lần, tia tiểu yếu, đứng chờ mới ra. Hai hôm nay tiểu hơi rát. Không tiểu máu, không đau hông lưng, không chảy dịch ở đầu dương vật. Chưa từng đặt ống thông hay thủ thuật đường tiểu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng đường tiểu dưới (phì đại tuyến tiền liệt), không dịch niệu đạo"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Có vợ, chỉ quan hệ với vợ, không bạn tình khác, không quan hệ hậu môn. Bản thân không loét, không nổi mụn ở bộ phận sinh dục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ lậu, chlamydia thấp"
+    },
+    {
+     "id": "tiep_xuc_ho",
+     "noi_dung": "Anh Hai cùng tổ ho dai hơn một tháng, gầy đi, chưa đi khám. Hai người ngồi nghỉ trưa chung chòi khoảng 1 giờ mỗi ngày, 6 ngày mỗi tuần, hơn ba tháng, dùng chung chai nước. Ông không ho, không sốt kéo dài, không ra mồ hôi trộm, không sụt cân; sốt chỉ từ tối qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người ho kéo dài; chưa có triệu chứng nghi lao"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Uống diazepam (Seduxen) 5 mg mỗi tối khoảng 8 tháng vì mất ngủ; tuần này phải uống 2 viên mới ngủ được. Không thuốc huyết áp, tiểu đường; không corticoid.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc ngủ, an thần"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Không dị ứng thuốc. Chưa từng đau gân, rách gân, co giật. Gan, thận bình thường theo khám sức khỏe định kỳ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dị ứng, tiền sử trước khi kê fluoroquinolon"
+    },
+    {
+     "id": "nhoi_nguc",
+     "noi_dung": "Khoảng mười ngày nay có những cơn nhói ngực trái vài giây, 5–6 lần mỗi tuần, lúc nằm trằn trọc hoặc ngồi nghỉ, không lan, không khi gắng sức, không khó thở, không vã mồ hôi. Ấn vào ngực trái cũng đau đúng chỗ. Hút thuốc lá 20 điếu mỗi ngày, khoảng 30 năm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Ông ngại nói. Chỉ kể khi bác sĩ hỏi có đau ngực, hồi hộp, khó thở không, hỏi thuốc lá, tiền sử tim mạch, hoặc vì sao thuốc ngủ phải tăng liều.",
+     "k": 1,
+     "y": "Đau ngực kiểu nhói ngắn, tái hiện khi ấn: không điển hình thiếu máu cơ tim"
+    },
+    {
+     "id": "so_nhoi_mau",
+     "noi_dung": "Mười ngày trước, ông Sáu (54 tuổi) cùng tổ đang đẩy xe rác thì ngã gục, mất vì nhồi máu cơ tim. Cha ông Bảy cũng mất vì nhồi máu cơ tim năm 58 tuổi. Từ đó ông mất ngủ, sợ mình là người kế tiếp; lấy cớ đau bìu để đi khám, mong bác sĩ nghe tim giúp.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi hôm nay ông lo nhất điều gì, hỏi tiền sử gia đình, hoặc chuyện ở chỗ làm gần đây. Nếu bác sĩ tự nói sẽ nghe tim, đo điện tim và giải thích kết quả thì ông dịu hẳn.",
+     "k": 1,
+     "y": "Lý do thật: sợ nhồi máu cơ tim"
+    }
+   ],
+   "kham": {
+    "bui_tinh_hoan": {
+     "a": "Bìu trái sưng vừa, da đỏ nhẹ, sờ nóng. Tinh hoàn trái ở vị trí bình thường, trục dọc, chắc đều, không khối. Mào tinh trái to, cứng, rất đau, rõ nhất ở đuôi, còn phân biệt được với tinh hoàn. Thừng tinh dày nhẹ, đau. Cremaster còn. Nâng bìu lên thì đau giảm (Prehn dương tính). Bìu phải bình thường; hai bẹn không có khối thoát vị.",
+     "k": 1,
+     "hien": "Bìu trái to hơn bìu phải, da hơi đỏ, sờ nóng. Hai tinh hoàn nằm ngang mức, trục dọc. Ông rụt người khi sờ vùng bìu trái."
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Dương vật không loét, không sẩn, bao quy đầu lộn được. Miệng sáo không đỏ. Vắt dọc niệu đạo không ra dịch.",
+     "k": 1,
+     "hien": "Dương vật không loét, không tổn thương da, miệng sáo không đỏ."
+    },
+    "truc_trang": {
+     "a": "Tuyến tiền liệt to vừa, chắc đều, không nhân, không nóng, không đau chói khi ấn nhẹ.",
+     "k": 0,
+     "hien": "Thăm trực tràng nhẹ nhàng, ông hơi khó chịu."
+    },
+    "tim": {
+     "a": "Tim đều 90 l/p, T1 T2 rõ, không âm thổi. Ấn vào khoang liên sườn 3–4 sát bờ trái xương ức thì đau đúng chỗ ông tả, tái hiện được cơn nhói.",
+     "k": 1,
+     "hien": "Tim đều, tần số 90 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Lồng ngực cân đối, rì rào phế nang êm dịu hai bên, không ran, không hội chứng đông đặc.",
+     "k": 1,
+     "hien": "Thở êm, không co kéo, không ho khi khám.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "sa_bui": {
+     "v": "a",
+     "r": "Siêu âm Doppler bìu tại giường: đuôi mào tinh trái dày 14 mm, giảm âm, tăng sinh mạch; tinh hoàn trái hồi âm và dòng máu bình thường; ít dịch màng tinh hoàn. Không khối trong tinh hoàn, không ổ áp xe.",
+     "ab": 1,
+     "n": "Không bắt buộc khi lâm sàng đã nghiêng về viêm mào tinh: siêu âm dành cho nghi xoắn hoặc không chẩn đoán được (CDC STI 2021 tr. 99); làm cũng không trừ điểm, giúp loại trừ bệnh khác (EAU Urological Infections 2026 mục 3.12.2)."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 12,8 G/L · Neutrophil 80% · Hb 140 g/L · TC 280 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 12.8,
+      "neu_pct": 80.0,
+      "neu": 10.2,
+      "lym_pct": 12.0,
+      "lym": 1.5,
+      "hgb": 140,
+      "plt": 280
+     },
+     "n": "Tuổi, sốt, CRP cao gợi bệnh nặng hơn (CDC STI 2021 tr. 99); ông chưa có tiêu chuẩn nhập viện."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 58 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 58
+     },
+     "n": "CRP tăng là một dấu hiệu của bệnh nặng hơn (CDC STI 2021 tr. 99); dùng để theo dõi."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Tổng phân tích nước tiểu: bạch cầu +++, nitrit dương tính, protein +, hồng cầu +.",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.02,
+      "u_ph": 6.0,
+      "u_leu": "+++",
+      "u_nit": "Dương tính",
+      "u_pro": "+",
+      "u_ery": "+"
+     },
+     "n": "Bạch cầu esterase dương tính hoặc ≥ 10 bạch cầu/vi trường là bằng chứng viêm (CDC STI 2021 tr. 99)."
+    },
+    "cay_nuoc_tieu": {
+     "v": "e",
+     "r": "Mẫu nước tiểu giữa dòng gửi cấy, kết quả sau 48 giờ.",
+     "n": "Khuyến cáo mạnh: cấy nước tiểu giữa dòng (EAU Urological Infections 2026 mục 3.12.6; CDC STI 2021 tr. 99). Lấy TRƯỚC khi dùng kháng sinh."
+    },
+    "naat_sti": {
+     "v": "e",
+     "r": "Mẫu nước tiểu đầu dòng gửi đi, kết quả sau 1–2 ngày.",
+     "n": "Khuyến cáo mạnh: NAAT nước tiểu đầu dòng (EAU Urological Infections 2026 mục 3.12.6; CDC STI 2021 tr. 99). Tiền sử tình dục âm tính không loại trừ STI (EAU Urological Infections 2026 mục 3.12.6)."
+    },
+    "virus_mau": {
+     "v": "u",
+     "r": "HBsAg âm tính · Anti-HCV âm tính · HIV âm tính (kết quả sau 1 ngày).",
+     "n": "Mọi nam giới viêm mào tinh cần xét nghiệm HIV và giang mai (CDC STI 2021 tr. 100)."
+    },
+    "giang_mai": {
+     "v": "u",
+     "r": "RPR không phản ứng (kết quả sau 1 ngày).",
+     "n": "Xét nghiệm giang mai ở mọi nam giới viêm mào tinh (CDC STI 2021 tr. 100)."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Điện tâm đồ 12 chuyển đạo: nhịp xoang 90 l/p, trục bình thường, không thay đổi ST-T, không block, không dấu nhồi máu cũ.",
+     "n": "Điện tim 12 chuyển đạo cho mọi người báo đau ngực (loại I, ESC CCS 2024 mục 3.1.2.1). Bình thường và cơn không điển hình thì không cần troponin; chỉ khi lâm sàng hoặc điện tim gợi hội chứng vành cấp mới chuyển cấp cứu, đo hs-troponin (ESC CCS 2024 mục 3.1.2.1)."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "X-quang ngực thẳng: phổi trong, không thâm nhiễm, không hang, góc sườn hoành nhọn, bóng tim bình thường.",
+     "n": "Chưa có triệu chứng nghi lao (ho > 2 tuần là triệu chứng quan trọng nhất, BYT Lao 2024 Phần II mục 1.1, Bảng 1) nên không bắt buộc; làm cũng không trừ điểm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mào tinh cấp bên trái, nhiều khả năng do vi khuẩn đường ruột (Enterobacterales, thường E. coli), thuận lợi bởi phì đại tuyến tiền liệt và triệu chứng đường tiểu dưới",
+     "ok": 1,
+     "n": "Đau, sưng, tăng nhiệt mào tinh một bên, tăng dần vài ngày (EAU Urological Infections 2026 mục 3.12.1). Người lớn tuổi có phì đại tuyến tiền liệt: thường do E. coli, kèm bacteriuria thứ phát tắc nghẽn (CDC STI 2021 tr. 98). Không dịch niệu đạo, một vợ một chồng: nguy cơ lậu thấp (EAU Urological Infections 2026 mục 3.12.4, phác đồ 1)."
+    },
+    {
+     "t": "Xoắn tinh hoàn",
+     "n": "Khởi phát từ từ 4 ngày, không nôn, đau ở mào tinh, cremaster còn, nâng bìu đỡ đau (EAU Paediatric Urology 2026 mục 8.2); xoắn gặp nhiều ở thanh thiếu niên (CDC STI 2021 tr. 98). TWIST chỉ kiểm chứng cho người dưới 18 tuổi (Barbosa 2013). Mốc mở lại: đau tăng vọt, nôn, tinh hoàn co cao (EAU Urological Infections 2026 Hình 2)."
+    },
+    {
+     "t": "U tinh hoàn",
+     "n": "U thường là khối không đau trong tinh hoàn, đỉnh tuổi 30–40 (EAU Testicular Cancer 2026 mục 3.1, 5.1). Ông sưng đau cấp, có sốt, tinh hoàn không khối. Sưng còn sau điều trị thì phải tìm u (CDC STI 2021 tr. 100)."
+    },
+    {
+     "t": "Lao mào tinh (lao sinh dục nam)",
+     "n": "Lao sinh dục nam ít gặp viêm cấp (BYT Lao 2024 Phần VII, Phụ lục 1 mục 7); lao mào tinh thường mạn tính, nhóm nguy cơ cao (EAU Urological Infections 2026 mục 3.12.1); nghĩ tới khi viêm mạn ≥ 6 tuần, nhất là người tiếp xúc lao (CDC STI 2021 tr. 98). Ông khởi phát cấp, sốt, không ho, không sụt cân: ít khả năng dù tiếp xúc có thật. Mốc mở lại: sưng ≥ 6 tuần, lỗ rò, ho > 2 tuần."
+    },
+    {
+     "t": "Viêm mào tinh do lây qua đường tình dục (C. trachomatis, N. gonorrhoeae)",
+     "n": "Không dịch niệu đạo, không bạn tình mới: người lớn tuổi không yếu tố nguy cơ chỉ cần phủ Enterobacterales (EAU Urological Infections 2026 mục 3.12.6), nhưng tiền sử âm tính không loại trừ STI nên vẫn lấy NAAT."
+    },
+    {
+     "t": "Hội chứng vành cấp hoặc đau thắt ngực ổn định (cơn nhói ngực trái)",
+     "n": "Cơn nhói vài giây, không gắng sức, tái hiện khi ấn, điện tim bình thường: không phải đau thắt ngực điển hình (cần cả ba đặc điểm: sau xương ức, do gắng sức hoặc xúc động, giảm khi nghỉ; ESC CCS 2024 mục 3.1.1). Hợp lý hơn: lo âu, mất ngủ, đau thành ngực. Mốc cấp cứu: đau ngực kéo dài, khó thở, vã mồ hôi, điện tim đổi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Loại trừ xoắn tinh hoàn bằng lâm sàng ngay tại phòng khám (khởi phát, nôn, vị trí đau, cremaster, dấu Prehn); không chuyển cấp cứu, không chờ siêu âm",
+     "v": "c",
+     "n": "Xoắn là chẩn đoán phân biệt quan trọng nhất ở nam trẻ, ít gặp hơn ở người lớn tuổi (EAU Urological Infections 2026 mục 3.12.1; CDC STI 2021 tr. 98). Cremaster, Prehn: EAU Paediatric Urology 2026 mục 8.2. Nghi xoắn thì thám sát khẩn (EAU Urological Infections 2026 Hình 2)."
+    },
+    {
+     "t": "Lấy mẫu nước tiểu giữa dòng (cấy) và đầu dòng (NAAT) TRƯỚC khi dùng kháng sinh; xét nghiệm HIV, giang mai",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 mục 3.12.6 (khuyến cáo mạnh); CDC STI 2021 tr. 99–100. Kết quả cấy sau 48 giờ, NAAT sau 1–2 ngày: không chờ kết quả mới điều trị."
+    },
+    {
+     "t": "Điều trị kinh nghiệm ngay: levofloxacin 500 mg uống 1 lần/ngày × 10 ngày (CDC), hoặc 10–14 ngày tùy đáp ứng (EAU); hoặc doxycyclin 200 mg liều đầu rồi 100 mg × 2 lần/ngày + co-trimoxazol 160/800 mg × 2 lần/ngày × 10–14 ngày (EAU)",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 99: levofloxacin 500 mg ngày một lần × 10 ngày khi nghi vi khuẩn đường ruột, đơn độc nếu đã loại trừ lậu. EAU Urological Infections 2026 mục 3.12.4 phác đồ 1 (nguy cơ lậu thấp: không viêm niệu đạo, không dịch): levofloxacin 10–14 ngày hoặc doxycyclin + co-trimoxazol 10–14 ngày; mục 3.12.6: người lớn tuổi không yếu tố nguy cơ tình dục chỉ cần phủ Enterobacterales. Không mâu thuẫn thật (sổ mâu thuẫn mục TN-0415: ca nêu cả hai)."
+    },
+    {
+     "t": "Nghỉ ngơi, nâng bìu (quần lót ôm), chườm mát; giảm đau paracetamol 500–1.000 mg mỗi 6–8 giờ khi đau, tối đa 4 g/24 giờ; giấy xác nhận nghỉ làm 3 ngày đến mốc 72 giờ",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 mục 3.12.3; CDC STI 2021 tr. 99–100 (nằm nghỉ, nâng bìu đến khi hết sốt, viêm). Paracetamol: QĐ 361/2014 mục 3.1. Số ngày nghỉ không có trong tài liệu đã tải, chọn 3 ngày khớp mốc 72 giờ. Giấy nghỉ ốm: TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm)."
+    },
+    {
+     "t": "Ghi nhận điều ông tra đúng (có viêm mào tinh, có tiếp xúc người ho); giải thích vì sao lao ít hợp; hẹn mốc mở lại (sưng đau ≥ 6 tuần, lỗ rò, ho > 2 tuần); khuyên anh Hai đi khám; chưa xét nghiệm lao, không chụp CT",
+     "v": "c",
+     "n": "BYT Lao 2024 Phần VII, Phụ lục 1 mục 7 và Phần II mục 1.1, Bảng 1 (ho > 2 tuần); EAU Urological Infections 2026 mục 3.12.1; CDC STI 2021 tr. 98. Khi nghi u, hình ảnh học là siêu âm bìu (EAU Testicular Cancer 2026 mục 5.2), không phải CT."
+    },
+    {
+     "t": "Hỏi đặc điểm cơn nhói ngực, khám tim và ấn thành ngực, làm điện tim 12 chuyển đạo; khi điện tim bình thường và cơn không điển hình thì không chuyển cấp cứu, không đo troponin; nói thẳng với ông về nỗi sợ nhồi máu",
+     "v": "c",
+     "n": "ESC CCS 2024 mục 3.1.1 (ấn tái hiện cơn đau), 3.1.2.1 (điện tim cho mọi người đau ngực, loại I; troponin khi nghi hội chứng vành cấp). Hỏi lý do thật bằng câu mở 'hôm nay chú lo nhất điều gì' (giao tiếp, không bắt buộc nguồn)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 ngày (72 giờ) lấy kết quả cấy, NAAT; quay lại ngay nếu đau tăng vọt, nôn, sốt cao rét run, bìu có chỗ mềm hoặc chảy mủ, đau ngực kéo dài",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 100: không đỡ trong 72 giờ phải đánh giá lại chẩn đoán và điều trị. Nhập viện khi đau dữ dội, sốt, áp xe, nhiễm khuẩn toàn thân (EAU Urological Infections 2026 mục 3.12.3)."
+    },
+    {
+     "t": "Ceftriaxone tiêm bắp liều đơn (1 g, hoặc 500 mg, hoặc 250 mg tùy nguồn) + doxycyclin 200 mg liều đầu rồi 100 mg × 2 lần/ngày × 10–14 ngày",
+     "v": "a",
+     "n": "EAU Urological Infections 2026 mục 3.12.4 phác đồ 2 (ceftriaxone 1.000 mg); CDC STI 2021 tr. 99 (500 mg); QĐ 5165/2021 mục 3.2.1 (250 mg). Ông nguy cơ lậu thấp nên không cần, nhưng tuổi và tiền sử không đủ dự đoán căn nguyên (EAU Urological Infections 2026 mục 3.12.4). Liều ghi cả ba cách theo sổ mâu thuẫn mục TN-0415."
+    },
+    {
+     "t": "Chụp CT bụng (hoặc chuyển tuyến trên chụp CT), làm xét nghiệm lao ngay hôm nay để 'cho chắc'",
+     "v": "w",
+     "n": "Không có chỉ định: viêm mào tinh cấp, chưa triệu chứng nghi lao; hình ảnh học của bìu là siêu âm (EAU Urological Infections 2026 mục 3.12.2). Chiều theo nhiễu tra mạng: tốn kém, chậm kháng sinh. Phòng khám không có CT."
+    },
+    {
+     "t": "Chuyển cấp cứu mổ thám sát tinh hoàn ngay trong đêm",
+     "v": "w",
+     "n": "Chỉ khi nghi xoắn (EAU Urological Infections 2026 Hình 2). Ca này không nghi xoắn, không có tiêu chuẩn nhập viện (EAU Urological Infections 2026 mục 3.12.3)."
+    },
+    {
+     "t": "Chỉ cho giảm đau, dặn 'tự khỏi', không kháng sinh",
+     "v": "h",
+     "n": "Viêm mào tinh cấp cần kháng sinh ngay khi chưa có kết quả (CDC STI 2021 tr. 99); không điều trị có nguy cơ áp xe, nhiễm khuẩn toàn thân (EAU Urological Infections 2026 mục 3.12.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mào tinh cấp bên trái, nhiều khả năng do E. coli (Enterobacterales); chưa có kết quả cấy",
+     "Yếu tố thuận lợi: phì đại tuyến tiền liệt, triệu chứng đường tiểu dưới; nguy cơ xoắn thấp, không u, không có tiêu chuẩn nhập viện",
+     "Tiếp xúc người ho kéo dài chưa chẩn đoán: chưa triệu chứng nghi lao, lao mào tinh ít khả năng",
+     "Nhói ngực trái không điển hình (lo âu, đau thành ngực), điện tim bình thường; nguy cơ tim mạch: hút thuốc 30 năm, cha mất do nhồi máu; dùng diazepam kéo dài"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi khởi phát, tính chất đau → đường tiểu, tình dục, thủ thuật → tiếp xúc, thuốc đang dùng → khám bìu (cremaster, Prehn), niệu đạo, thăm trực tràng, tim phổi → điều trị trước khi có kết quả. Viêm mào tinh cấp: đau, sưng, tăng nhiệt mào tinh một bên, tăng dần vài ngày (EAU Urological Infections 2026 mục 3.12.1).",
+     "Vì sao nghĩ vi khuẩn đường ruột: 52 tuổi, triệu chứng đường tiểu dưới nhiều năm, không dịch niệu đạo, không bạn tình mới (EAU Urological Infections 2026 mục 3.12.1; CDC STI 2021 tr. 98); nhưng tuổi và tiền sử tình dục không đủ dự đoán căn nguyên (EAU Urological Infections 2026 mục 3.12.4) nên vẫn lấy NAAT.",
+     "Điểm dừng chẩn đoán (xoắn): khởi phát từ từ, không nôn, đau ở mào tinh, còn cremaster, nâng bìu đỡ đau (EAU Paediatric Urology 2026 mục 8.2); TWIST chỉ kiểm chứng ở người dưới 18 tuổi. Mốc mở lại: đau tăng vọt, nôn, tinh hoàn co cao (EAU Urological Infections 2026 Hình 2). U: khối không đau trong tinh hoàn (EAU Testicular Cancer 2026 mục 5.1).",
+     "Red herring lao: ông tra đúng một phần. Lao sinh dục nam ít gặp viêm cấp (BYT Lao 2024 Phần VII, Phụ lục 1 mục 7); lao mào tinh thường mạn tính (EAU Urological Infections 2026 mục 3.12.1). Tiếp xúc có thật (cùng chòi ≥ 1 giờ/ngày, ≥ 5 ngày/tuần, ≥ 3 tháng; BYT Lao 2024 Phần I mục 1.5) nhưng ông không ho, không sụt cân. Xử trí: ghi nhận, giải thích, đặt mốc mở lại; không CT, không xét nghiệm lao hôm nay.",
+     "Lý do thật là sợ nhồi máu cơ tim sau cái chết của ông Sáu. Cơn nhói ngắn, tái hiện khi ấn, không gắng sức, điện tim bình thường: không điển hình (ESC CCS 2024 mục 3.1.1, 3.1.2.1). Bẫy: bỏ qua vì 'ca tiết niệu' hoặc làm cả loạt xét nghiệm tim. Hỏi mở để lộ ra."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị ngay sau khi lấy mẫu (EAU Urological Infections 2026 mục 3.12.6). Nguy cơ lậu thấp nên levofloxacin 500 mg × 1 lần/ngày: 10 ngày (CDC STI 2021 tr. 99) đến 10–14 ngày tùy đáp ứng (EAU Urological Infections 2026 mục 3.12.4 phác đồ 1); thay thế: doxycyclin 200 mg liều đầu rồi 100 mg × 2 lần/ngày + co-trimoxazol 160/800 mg × 2 lần/ngày × 10–14 ngày. Fluoroquinolon có hạn chế sử dụng của Ủy ban châu Âu vì tác dụng phụ gây tàn tật kéo dài (EAU Urological Infections 2026 mục 3.4.4, ghi chú) và kháng thuốc tăng, cần xem kháng sinh đồ (EAU Urological Infections 2026 mục 3.12.3). Tương tác với diazepam: không có trong tài liệu đã tải; dặn không tự tăng thuốc ngủ.",
+     "Chấm a: ceftriaxone liều đơn + doxycyclin (ba liều ceftriaxone theo sổ mâu thuẫn). Chấm w: CT, chuyển cấp cứu mổ thám sát. Chấm h: không kháng sinh (CDC STI 2021 tr. 99). Đau ngực không điển hình, điện tim bình thường: không troponin, không chuyển cấp cứu, hẹn buổi riêng đánh giá nguy cơ tim mạch (ESC CCS 2024 mục 3.1.2). Hẹn 72 giờ (CDC STI 2021 tr. 100)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levofloxacin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Liều đầu chiều nay sau khi lấy mẫu nước tiểu, sau đó mỗi sáng",
+      "so_ngay": "10 ngày; kéo dài đến 14 ngày tùy đáp ứng và kết quả cấy",
+      "ghi_chu": "CDC STI 2021 tr. 99: 10 ngày; EAU Urological Infections 2026 mục 3.12.4 phác đồ 1: 10–14 ngày. Báo ngay nếu đau gân, tê bì, lú lẫn: tác dụng phụ gây tàn tật kéo dài của nhóm này (EAU Urological Infections 2026 mục 3.4.4); chỉnh liều theo thận và chi tiết tác dụng phụ không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500–1.000 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, cách nhau 6–8 giờ",
+      "so_ngay": "Đến khi bớt đau",
+      "ghi_chu": "QĐ 361/2014 mục 3.1: không quá 4 g/24 giờ."
+     }
+    ],
+    "dan_do": [
+     "Chú bị viêm mào tinh, nhiều khả năng do vi khuẩn từ đường tiểu đi lên, chữa được bằng kháng sinh uống; không phải xoắn tinh hoàn (đau từ từ, không nôn, nâng bìu đỡ). Chú tra mạng đúng một chuyện: lao có thể gây bệnh này, nhưng hiếm khi sưng đau cấp có sốt như vậy (BYT Lao 2024 Phần VII, Phụ lục 1 mục 7). Hôm nay chưa cần CT hay thử lao.",
+     "Uống levofloxacin mỗi sáng đủ 10 ngày, kể cả khi hết đau; không tự tăng thuốc ngủ. Nghỉ ngơi, nâng bìu bằng quần lót ôm, chườm mát, không đẩy xe rác nặng; phòng khám cấp giấy nghỉ 3 ngày. Đau có thể còn vài tuần dù điều trị đúng (CDC STI 2021 tr. 99–100).",
+     "Về nhói ngực: điện tim hôm nay bình thường, cơn nhói ngắn và ấn vào là đau, không khớp kiểu thiếu máu cơ tim; nhưng chú hút thuốc và cha mất sớm nên sẽ có buổi riêng đo huyết áp, đường, mỡ máu. Đau ngực kéo dài, khó thở, vã mồ hôi thì gọi cấp cứu ngay.",
+     "Báo anh Hai đi khám lao. Chú ho > 2 tuần, sốt về chiều, ra mồ hôi đêm, sụt cân thì quay lại (BYT Lao 2024 Phần II mục 1.1). Quay lại NGAY nếu đau tăng vọt, nôn, bìu co cao, sốt cao rét run, bìu có chỗ mềm hoặc chảy mủ. Tái khám sau 3 ngày lấy kết quả cấy, NAAT (CDC STI 2021 tr. 100)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sáng thứ Hai (sau 3 ngày)",
+   "tiep_don": "Tái khám sáng thứ Hai, ba ngày sau lượt 1. Ông nói 'đỡ chừng một nửa nhưng bìu còn sưng, đi lại còn tức'. Kết quả các mẫu gửi hôm thứ Sáu đã về: NAAT nước tiểu đầu dòng: C. trachomatis âm tính, N. gonorrhoeae âm tính; cấy nước tiểu giữa dòng: E. coli > 10^5 CFU/mL, nhạy levofloxacin, ceftriaxone, co-trimoxazol, kháng ampicillin; HIV âm tính, HBsAg và anti-HCV âm tính, RPR không phản ứng. Sinh hiệu lúc tiếp đón: mạch 82 l/p, HA 134/84 mmHg, nhiệt độ 37,4 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chú Bảy nhập viện truyền kháng sinh tĩnh mạch vì sau 3 ngày vẫn còn sưng. Ông đã hết sốt, đau giảm một nửa, E. coli nhạy thuốc đang uống, không áp xe: chưa đủ tiêu chuẩn nhập viện (EAU Urological Infections 2026 mục 3.12.3). Nằm viện làm ông mất ngày công, tốn viện phí, không làm bìu xẹp nhanh hơn (CDC STI 2021 tr. 99–100: hết khó chịu hoàn toàn có thể mất vài tuần).",
+    "chuyen_tuyen": "Chú Bảy bị gửi lên tuyến trên chụp CT kèm đổi sang kháng sinh 'mạnh hơn' vì 'đỡ có một nửa'. Đáp ứng một phần với tác nhân đã nhạy thuốc không phải thất bại; chỉ khi không đỡ trong 72 giờ mới đánh giá lại chẩn đoán (CDC STI 2021 tr. 100). Đổi thuốc không cần thiết làm tăng kháng thuốc, tốn kém và củng cố niềm tin 'bệnh nặng, không phải viêm thường'.",
+    "theo_doi": "Chú Bảy được dặn 'đỡ rồi thì ngưng thuốc'. Không phác đồ nào đã tải rút ngắn dưới 10 ngày (CDC STI 2021 tr. 99; EAU Urological Infections 2026 mục 3.12.4). Viêm mào tinh chưa diệt hết tác nhân dễ tái phát, thành áp xe hoặc đau mạn, mà ông lại ngại quay lại vì mất ngày công."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc uống ba ngày mà mới đỡ một nửa, bìu vẫn sưng. Tuần này ông Hai bị chẩn đoán lao phổi rồi. Có khi nào tôi bị lây cả bìu không? Bác sĩ cho tôi chụp CT hoặc thử lao ngay đi.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "134/84",
+    "nhiet": "37,4",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dap_ung",
+     "noi_dung": "Từ chiều thứ Bảy hết sốt, đau giảm khoảng một nửa so với thứ Sáu, bìu còn sưng, đi lại thì tức. Không đau tăng vọt, không nôn, không rét run, không thấy bìu có chỗ mềm hay chảy mủ, tiểu đỡ rát.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến: đáp ứng một phần, không nặng thêm"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống đúng một viên levofloxacin mỗi sáng, không sót, còn 7 viên. Không buồn nôn, không đau gân. Vẫn uống một viên Seduxen mỗi tối, không tăng liều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt, không tác dụng phụ"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Thứ Bảy, Chủ nhật vẫn quét đường nửa buổi vì tổ thiếu người, đứng và đi nhiều; có mặc quần lót ôm nhưng không nghỉ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không nghỉ ngơi: làm hồi phục chậm"
+    },
+    {
+     "id": "tiep_xuc_lao",
+     "noi_dung": "Anh Hai được bệnh viện huyện chẩn đoán lao phổi, đờm dương tính, đang uống thuốc lao. Ông Bảy ngồi nghỉ chung chòi với anh Hai khoảng 1 giờ/ngày, 6 ngày/tuần, hơn ba tháng. Ông không ho, không sốt kéo dài, không ra mồ hôi trộm, không sụt cân. Chưa ai trong tổ được gọi đi khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc với người bệnh lao phổi đã xác nhận; chưa triệu chứng"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ông mong bác sĩ cho chụp CT hoặc thử lao ngay, vì sợ 'đỡ có một nửa' nghĩa là thuốc chưa trúng và lao đang âm thầm ăn xuống bìu. Ông yên tâm nếu nghe rõ kết quả cấy, thuốc đúng, và khi nào cần thử lao.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi hôm nay ông mong gì, lo gì nhất. Nếu bác sĩ giải thích bằng kết quả cấy và siêu âm thì ông chấp nhận uống tiếp.",
+     "k": 1,
+     "y": "Động cơ lượt 2: đòi CT, thử lao vì sợ thuốc chưa trúng"
+    }
+   ],
+   "kham": {
+    "bui_tinh_hoan": {
+     "a": "Bìu trái còn sưng nhẹ, da hết đỏ, hết nóng. Mào tinh trái to, cứng, ít đau hơn, tách khỏi tinh hoàn, không vùng mềm bập bềnh, không dò. Tinh hoàn trái chắc đều, không khối. Cremaster còn, nâng bìu đỡ đau. Bìu phải bình thường.",
+     "k": 1,
+     "hien": "Bìu trái hơi to hơn bìu phải, da bìu không đỏ, sờ không nóng."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai bên, không ran. Không khạc đờm khi ngồi khám.",
+     "k": 1,
+     "hien": "Thở êm, không ho khi khám.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "sa_bui": {
+     "v": "a",
+     "r": "Siêu âm Doppler bìu: đuôi mào tinh trái dày 11 mm (lượt 1: 14 mm), giảm âm, tăng sinh mạch ít hơn; ranh giới mào tinh và tinh hoàn còn rõ; tinh hoàn dòng máu bình thường; không ổ áp xe, không khối trong tinh hoàn.",
+     "ab": 1,
+     "n": "Không bắt buộc khi đang đáp ứng; làm để loại trừ áp xe, khối khác (EAU Urological Infections 2026 mục 3.12.2). Mất ranh giới mào tinh – tinh hoàn hoặc áp xe dự báo cần phẫu thuật (EAU Urological Infections 2026 mục 3.12.4)."
+    },
+    "cxr": {
+     "v": "e",
+     "r": "X-quang ngực thẳng: phổi trong, không thâm nhiễm, không hang, không tràn dịch màng phổi, bóng tim bình thường.",
+     "n": "Người tiếp xúc ≥ 5 tuổi, HIV âm: loại trừ lao hoạt động bằng khám lâm sàng và X-quang ngực; không triệu chứng và X-quang bình thường thì loại trừ (BYT Lao 2024 Phần IV, mục 1.2.2)."
+    },
+    "igra": {
+     "v": "e",
+     "r": "Mẫu máu gửi, kết quả sau 3 ngày.",
+     "n": "Chẩn đoán lao tiềm ẩn ở người tiếp xúc hộ gia đình ≥ 5 tuổi: IGRA hoặc Mantoux dương tính cộng loại trừ lao hoạt động (BYT Lao 2024 Phần IV, mục 1.2.2). Khoảng cách thời gian từ lúc tiếp xúc đến lúc làm test: không có trong tài liệu đã tải."
+    },
+    "xpert": {
+     "v": "n",
+     "r": "Ông không ho, không khạc đờm nên không có bệnh phẩm đờm.",
+     "n": "Xét nghiệm đờm khi có triệu chứng hô hấp nghi lao (BYT Lao 2024 Phần II mục 1.1, Bảng 1); ông không có. Nghi lao mào tinh thì 3 mẫu nước tiểu sáng sớm cấy AFB và NAAT lao (EAU Urological Infections 2026 mục 3.12.2), chưa có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mào tinh cấp bên trái do E. coli (cấy xác nhận, nhạy levofloxacin), đáp ứng một phần sau 72 giờ: hồi phục chậm bình thường, chưa phải thất bại điều trị",
+     "ok": 1,
+     "n": "Hết sốt, đau giảm một nửa, siêu âm không áp xe, uống đủ thuốc; hết khó chịu hoàn toàn có thể mất vài tuần (CDC STI 2021 tr. 99–100). Không đỡ trong 72 giờ mới là mốc đánh giá lại (CDC STI 2021 tr. 100)."
+    },
+    {
+     "t": "Thất bại điều trị, kháng thuốc, áp xe mào tinh",
+     "n": "Tác nhân nhạy thuốc đang dùng, tuân thủ tốt, không áp xe (EAU Urological Infections 2026 mục 3.12.4). Mốc mở lại: đau tăng vọt, sốt lại, mất ranh giới mào tinh – tinh hoàn."
+    },
+    {
+     "t": "Lao mào tinh",
+     "n": "Bệnh cấp, đáp ứng kháng sinh, cấy ra E. coli, X-quang bình thường, không ho (BYT Lao 2024 Phần VII, Phụ lục 1 mục 7; EAU Urological Infections 2026 mục 3.12.1). Mốc mở lại: sưng ≥ 6 tuần (CDC STI 2021 tr. 98), lỗ rò, ho > 2 tuần."
+    },
+    {
+     "t": "Người tiếp xúc với người bệnh lao phổi: chưa có lao hoạt động; lao tiềm ẩn chờ IGRA",
+     "n": "Ở cùng phòng ≥ 1 giờ/ngày, 5 ngày/tuần, ≥ 3 tháng thỏa tiêu chí người tiếp xúc (BYT Lao 2024 Phần I mục 1.5); cần loại trừ lao hoạt động rồi test lao tiềm ẩn (BYT Lao 2024 Phần IV, mục 1.2.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá 'đỡ một phần': đối chiếu thời gian (72 giờ), tuân thủ, kết quả cấy, khám lại bìu ± siêu âm; kết luận hồi phục chậm bình thường, không đổi kháng sinh",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 99–100: không đỡ trong 72 giờ mới phải đánh giá lại; hết khó chịu hoàn toàn mất vài tuần. EAU Urological Infections 2026 mục 3.12.4: điều chỉnh theo định danh tác nhân và đáp ứng."
+    },
+    {
+     "t": "Tiếp tục levofloxacin 500 mg × 1 lần/ngày cho đủ 10 ngày (CDC) hoặc 14 ngày tùy đáp ứng (EAU); đáp án chọn 14 ngày vì mới đỡ một phần",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 99: 10 ngày; EAU Urological Infections 2026 mục 3.12.4 chú thích: 10–14 ngày tùy tác nhân và đáp ứng. E. coli nhạy levofloxacin nên không đổi thuốc. Không phải mâu thuẫn thật (sổ mâu thuẫn mục TN-0415: ca nêu cả hai)."
+    },
+    {
+     "t": "Sàng lọc người tiếp xúc lao: hỏi triệu chứng (ho > 2 tuần, sốt, mồ hôi trộm, sụt cân), khám phổi, X-quang ngực, IGRA (hoặc Mantoux); không lấy đờm khi không có triệu chứng",
+     "v": "c",
+     "n": "BYT Lao 2024 Phần IV, mục 1.1.1 và 1.2.2 (người tiếp xúc ≥ 5 tuổi, HIV âm: test lao tiềm ẩn + loại trừ lao hoạt động bằng khám và X-quang); Phần II mục 1.1, Bảng 1. Phối hợp chương trình chống lao: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nghỉ ngơi thật sự, nâng bìu, chườm mát, giảm đau paracetamol; giấy nghỉ ngắn ngày đến lần hẹn kế tiếp; không đẩy xe rác nặng, hạn chế đứng lâu",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 mục 3.12.3; CDC STI 2021 tr. 99. QĐ 361/2014 mục 3.1: paracetamol. Giấy nghỉ ốm: TT 56/2017/TT-BYT (nguồn bổ sung tự tìm). Số ngày nghỉ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trấn an có cấu trúc: kết quả cấy, nhạy thuốc, siêu âm không áp xe, X-quang phổi bình thường; lao chưa phải chẩn đoán; không CT; nói rõ mốc mở lại",
+     "v": "c",
+     "n": "Khi nghi u hoặc áp xe, hình ảnh học là siêu âm, không phải CT (EAU Testicular Cancer 2026 mục 5.2; EAU Urological Infections 2026 mục 3.12.2)."
+    },
+    {
+     "t": "Hẹn tái khám sau khi hết thuốc (khoảng 11 ngày nữa) lấy kết quả IGRA; quay lại sớm nếu sốt lại, đau tăng, bìu có chỗ mềm",
+     "v": "c",
+     "n": "Lịch tái khám viêm mào tinh không do STI: không có trong tài liệu đã tải; chọn mốc hết thuốc, tham chiếu mốc 14 ngày của EAU Urological Infections 2026 mục 3.12.3 (dành cho STI)."
+    },
+    {
+     "t": "Đổi sang kháng sinh 'mạnh hơn' (ceftriaxone, carbapenem) hoặc tiêm thêm vì 'đỡ có một nửa'",
+     "v": "w",
+     "n": "E. coli nhạy levofloxacin, hết sốt, CRP giảm: đáp ứng, không phải thất bại (CDC STI 2021 tr. 100). Tăng đề kháng, tốn kém."
+    },
+    {
+     "t": "Chụp CT bụng hoặc sinh thiết, chọc dò tìm lao khi chưa có triệu chứng nghi lao",
+     "v": "w",
+     "n": "Không có chỉ định (BYT Lao 2024 Phần VII, Phụ lục 1 mục 7: chẩn đoán lao sinh dục dựa vi sinh, hình ảnh gợi ý, khi nghi ngờ). Phòng khám không có CT."
+    },
+    {
+     "t": "Nhập viện truyền kháng sinh tĩnh mạch",
+     "v": "w",
+     "n": "Không có đau dữ dội, sốt cao, áp xe, nhiễm khuẩn toàn thân (EAU Urological Infections 2026 mục 3.12.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mào tinh cấp bên trái do E. coli nhạy levofloxacin; NAAT chlamydia, lậu âm tính",
+     "Đáp ứng một phần sau 72 giờ: hồi phục chậm bình thường, không phải thất bại điều trị; không áp xe",
+     "Người tiếp xúc với bệnh nhân lao phổi xác nhận: chưa có lao hoạt động; lao tiềm ẩn chờ IGRA"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu hỏi lượt này là 'đỡ một phần có phải thất bại không'. Trình tự: (1) chẩn đoán còn đúng (khám, siêu âm); (2) thuốc đúng và nhạy (E. coli nhạy levofloxacin); (3) dùng đủ (đếm viên); (4) yếu tố cản trở (làm việc đứng, không nghỉ); (5) biến chứng (không áp xe). Không đỡ trong 72 giờ mới phải đánh giá lại chẩn đoán (CDC STI 2021 tr. 100); hết khó chịu hoàn toàn có thể vài tuần (CDC STI 2021 tr. 99–100). Mốc mở lại: sốt lại, đau tăng vọt, mất ranh giới mào tinh – tinh hoàn hoặc áp xe (EAU Urological Infections 2026 mục 3.12.4), hoặc sưng đau còn sau khi hết thuốc (CDC STI 2021 tr. 100).",
+     "Lao: anh Hai đã chẩn đoán nên ông Bảy là người tiếp xúc thật (BYT Lao 2024 Phần I mục 1.5). Việc đúng là sàng lọc người tiếp xúc (triệu chứng, X-quang, IGRA), không coi bìu là lao (EAU Urological Infections 2026 mục 3.12.1: lao mào tinh thường mạn tính). Động cơ lượt 2: muốn CT và thử lao vì sợ thuốc chưa trúng; hỏi 'hôm nay chú mong điều gì' rồi giải thích bằng kết quả cấy, siêu âm, X-quang."
+    ],
+    "phan_tich_xu_tri": [
+     "Không đổi kháng sinh: tác nhân nhạy, tuân thủ tốt. Tiếp tục levofloxacin 500 mg × 1 lần/ngày đủ 14 ngày (đáp án chọn vì đỡ một phần, trong khoảng 10–14 ngày của EAU Urological Infections 2026 mục 3.12.4); 10 ngày theo CDC STI 2021 tr. 99 cũng chấp nhận.",
+     "Giải quyết yếu tố cản trở: nghỉ thật, nâng bìu, chườm mát, giấy nghỉ ngắn ngày. Sàng lọc lao: X-quang ngực hôm nay, IGRA lấy kết quả sau 3 ngày (BYT Lao 2024 Phần IV, mục 1.2.2); thời gian từ lúc tiếp xúc đến lúc làm IGRA không có trong tài liệu đã tải. Không CT, không lấy đờm khi không triệu chứng. Việc sai (w): đổi thuốc mạnh hơn, CT, sinh thiết, nhập viện."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levofloxacin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi sáng, không ngắt quãng",
+      "so_ngay": "Đến đủ 14 ngày kể từ lượt 1 (còn 7 viên, cấp thêm 3 viên); tối thiểu 10 ngày",
+      "ghi_chu": "EAU Urological Infections 2026 mục 3.12.4: 10–14 ngày tùy đáp ứng; CDC STI 2021 tr. 99: 10 ngày."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500–1.000 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, cách nhau 6–8 giờ",
+      "so_ngay": "Đến khi bớt đau",
+      "ghi_chu": "QĐ 361/2014 mục 3.1: không quá 4 g/24 giờ."
+     }
+    ],
+    "dan_do": [
+     "Kết quả cấy: vi khuẩn E. coli và thuốc chú uống diệt được. Mới ba ngày mà hết sốt, đau giảm một nửa là đang đáp ứng tốt; hết sưng hẳn có thể mất vài tuần (CDC STI 2021 tr. 99–100). Thuốc không yếu, bìu không phải lao.",
+     "Uống tiếp levofloxacin mỗi sáng đến đủ 14 ngày (EAU Urological Infections 2026 mục 3.12.4: 10–14 ngày tùy đáp ứng). Hai ngày cuối tuần quét đường làm bìu hồi phục chậm; lần này nghỉ thật, nâng bìu, chườm mát. Phòng khám cấp giấy nghỉ ngắn ngày.",
+     "Anh Hai bị lao phổi thì chú là người tiếp xúc: hôm nay phổi bình thường, chú không ho, không sụt cân nên chưa có bệnh lao. Máu đã gửi thử lao tiềm ẩn (IGRA), có kết quả sau 3 ngày. Ho > 2 tuần, sốt chiều, ra mồ hôi đêm, sụt cân thì quay lại sớm (BYT Lao 2024 Phần II mục 1.1). Quay lại NGAY nếu sốt cao, đau tăng vọt, bìu có chỗ mềm hoặc chảy mủ; tái khám khi hết thuốc lấy kết quả IGRA."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sáng thứ Sáu, 4 tuần sau lượt 1",
+   "tiep_don": "Tái khám sáng thứ Sáu, 14 ngày sau khi uống hết levofloxacin (14 ngày). Ông hết sốt và hết đau từ lâu, đi làm lại từ tuần trước, nhưng tự sờ thấy 'cục cứng bằng hạt đậu' sau bìu trái, không đau, nên lo ung thư hoặc lao. IGRA gửi ở lượt 2: âm tính; X-quang ngực lượt 2 bình thường. Sinh hiệu lúc tiếp đón: mạch 76 l/p, HA 132/82 mmHg, nhiệt độ 36,8 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chú Bảy bị chuyển lên tuyến trên chụp CT, thậm chí sinh thiết mào tinh vì 'còn cục cứng'. Cục nhỏ, không đau, không to thêm, siêu âm không khối; đa số khối mào tinh là nang hoặc viêm lành tính (EAU Testicular Cancer 2026 mục 8.3.5). Ông mất ngày công, tốn kém và lo hơn, trong khi chỉ cần siêu âm bìu và hẹn theo dõi (CDC STI 2021 tr. 98).",
+    "nhap_vien": "Chú Bảy nhập viện truyền kháng sinh tĩnh mạch vì 'còn cục cứng', dù hết sốt, hết đau, không áp xe và đã dùng đủ 14 ngày thuốc nhạy (EAU Urological Infections 2026 mục 3.12.3: chỉ nhập viện khi đau dữ dội, sốt, áp xe, nhiễm khuẩn toàn thân). Thêm kháng sinh không làm cục dày sau viêm biến mất, chỉ tăng tác dụng phụ và kháng thuốc."
+   },
+   "loi_mo": "Bác sĩ ơi, bìu hết đau rồi nhưng tôi sờ thấy một cục cứng bằng hạt đậu sau bìu bên trái. Có phải ung thư hay lao còn sót không? Tôi hay mất ngủ, vẫn lo cái tim lắm.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "132/82",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "hoi_phuc",
+     "noi_dung": "Hết sốt từ ngày thứ 7, hết đau hẳn từ ngày thứ 12. Cục cứng nhỏ sau bìu trái mới sờ thấy tuần này, không đau, không to thêm, bìu không đỏ, không chảy mủ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến: khỏi gần hết, còn dày đuôi mào tinh không đau"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống đủ 14 ngày levofloxacin, không sót, không đau gân, không tê bì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã điều trị đủ, không tác dụng phụ"
+    },
+    {
+     "id": "ho_lao",
+     "noi_dung": "Không ho, không sốt chiều, không mồ hôi trộm, không sụt cân. Anh Hai uống thuốc lao được 4 tuần, đeo khẩu trang khi làm việc; trạm y tế đã gọi cả tổ đi khám.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng lao; tiếp xúc đã được sàng lọc"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Tiểu đêm 2–3 lần, tia yếu, đứng chờ mới ra, như mấy năm nay; hết rát. Tiểu xong vẫn thấy chưa hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng đường tiểu dưới còn nguyên: yếu tố thuận lợi cần đánh giá"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Vẫn uống 1 viên Seduxen 5 mg mỗi tối, khoảng 9 tháng, không còn tăng lên 2 viên. Hết nhói ngực hai tuần nay nhưng vẫn trằn trọc, hút 20 điếu mỗi ngày, chưa nghĩ tới bỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc ngủ dùng dài hạn; thuốc lá"
+    },
+    {
+     "id": "lo_tim",
+     "noi_dung": "Ông vẫn muốn được 'khám tim cho chắc' vì cái chết của ông Sáu và vì cha mất sớm, nhưng ngại tốn tiền nên chưa nói.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi nhói ngực, giấc ngủ, hoặc hôm nay ông còn lo điều gì nữa. Nếu bác sĩ đề nghị hẹn buổi riêng đo huyết áp, đường, mỡ máu và nói rõ chi phí thì ông đồng ý.",
+     "k": 1,
+     "y": "Động cơ ban đầu chưa khép: nguy cơ tim mạch cần đánh giá"
+    }
+   ],
+   "kham": {
+    "bui_tinh_hoan": {
+     "a": "Bìu trái không sưng, không đỏ, không nóng. Đuôi mào tinh trái dày và cứng nhẹ cỡ hạt đậu (khoảng 1 cm), không đau khi ấn, ranh giới rõ, di động cùng mào tinh, không dính da, không dò. Tinh hoàn trái chắc đều, không khối. Thừng tinh không dày. Phản xạ cremaster còn. Bìu phải và hai bẹn bình thường.",
+     "k": 1,
+     "hien": "Bìu trái hết sưng, da bìu bình thường, hai tinh hoàn cân xứng."
+    },
+    "truc_trang": {
+     "a": "Tuyến tiền liệt to vừa, chắc đều, rãnh giữa mờ nhẹ, không nhân, không đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "sa_bui": {
+     "v": "u",
+     "r": "Siêu âm Doppler bìu: đuôi mào tinh trái dày 8 mm, hồi âm hơi tăng không đồng nhất, không tăng sinh mạch; không ổ dịch, không áp xe; tinh hoàn trái kích thước, hồi âm bình thường, không khối; tinh hoàn phải bình thường.",
+     "ab": 1,
+     "n": "Sưng còn sau khi điều trị đủ thì tìm u, áp xe, nhồi máu, lao, nấm (CDC STI 2021 tr. 100); siêu âm giúp loại trừ bệnh khác (EAU Urological Infections 2026 mục 3.12.2). Hình ảnh học đúng khi nghi u bìu là siêu âm (EAU Testicular Cancer 2026 mục 5.2, khuyến cáo mạnh)."
+    },
+    "sa_tlt": {
+     "v": "u",
+     "r": "Siêu âm bàng quang – tuyến tiền liệt qua thành bụng: tuyến tiền liệt 38 mL, nước tiểu tồn lưu khoảng 70 mL, thành bàng quang dày nhẹ, không sỏi, không ứ nước thận.",
+     "ab": 1,
+     "n": "Viêm mào tinh do Enterobacterales cần tìm bất thường đường tiểu dưới (EAU Urological Infections 2026 mục 3.12.2); phì đại tuyến tiền liệt, tắc nghẽn đường ra bàng quang là yếu tố nguy cơ (EAU Urological Infections 2026 mục 3.12.1; CDC STI 2021 tr. 98)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mào tinh cấp bên trái do E. coli đã điều trị đủ, khỏi; còn dày đuôi mào tinh sau viêm, không đau, đang thu nhỏ",
+     "ok": 1,
+     "n": "Hết sốt, hết đau, siêu âm không áp xe, không khối; hết khó chịu hoàn toàn có thể mất vài tuần sau điều trị (CDC STI 2021 tr. 99–100). Đa số khối mào tinh là nang hoặc viêm lành tính (EAU Testicular Cancer 2026 mục 8.3.5)."
+    },
+    {
+     "t": "Phì đại lành tính tuyến tiền liệt kèm tồn lưu nước tiểu: yếu tố thuận lợi gây viêm mào tinh",
+     "ok": 1,
+     "n": "Tuyến tiền liệt 38 mL, tồn lưu 70 mL, triệu chứng đường tiểu dưới nhiều năm; viêm mào tinh không do STI thường kèm bacteriuria thứ phát tắc nghẽn (CDC STI 2021 tr. 98; EAU Urological Infections 2026 mục 3.12.1)."
+    },
+    {
+     "t": "U mào tinh hoặc u tinh hoàn",
+     "n": "Cục nhỏ, không đau, mới sau viêm, siêu âm không khối (EAU Testicular Cancer 2026 mục 8.3.5, 5.1). Mốc mở lại: cục to lên, đau, còn ≥ 6 tuần thì chuyển niệu khoa (CDC STI 2021 tr. 98)."
+    },
+    {
+     "t": "Lao mào tinh hoặc lao tiềm ẩn",
+     "n": "Không ho, không sụt cân, X-quang bình thường, IGRA âm tính (BYT Lao 2024 Phần VII, Phụ lục 1 mục 7; Phần IV mục 1.2.2). Test âm tính sớm sau tiếp xúc có thể chưa loại trừ hết: thời điểm này không có trong tài liệu đã tải; dặn quay lại khi có triệu chứng."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kết luận viêm mào tinh đã khỏi; không dùng thêm kháng sinh; giải thích cục dày sau viêm có thể còn vài tuần",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 99–100: hết khó chịu hoàn toàn có thể mất vài tuần sau điều trị; sưng đau còn mới phải tìm nguyên nhân khác (tr. 100). EAU Urological Infections 2026 mục 3.12.4: 10–14 ngày."
+    },
+    {
+     "t": "Siêu âm bìu xác nhận không áp xe, không khối",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 100: sưng còn sau điều trị: tìm u, áp xe, nhồi máu, lao, nấm; EAU Urological Infections 2026 mục 3.12.2; EAU Testicular Cancer 2026 mục 5.2."
+    },
+    {
+     "t": "Đánh giá yếu tố thuận lợi: siêu âm bàng quang – tuyến tiền liệt (tồn lưu), hẹn khám niệu khoa cho triệu chứng đường tiểu dưới; chưa bắt đầu thuốc điều trị phì đại tuyến tiền liệt hôm nay",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 mục 3.12.2 (tìm bất thường đường tiểu dưới), mục 3.12.1 và CDC STI 2021 tr. 98 (phì đại tuyến tiền liệt là yếu tố nguy cơ). Điều trị phì đại tuyến tiền liệt: không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Kết luận sàng lọc lao: không triệu chứng, X-quang bình thường, IGRA âm tính nên không có lao hoạt động và không có lao tiềm ẩn; không điều trị lao; dặn quay lại khi ho > 2 tuần, sốt, sụt cân",
+     "v": "c",
+     "n": "BYT Lao 2024 Phần IV, mục 1.2.2: lao tiềm ẩn cần test dương tính và loại trừ lao hoạt động; Phần II mục 1.1, Bảng 1: ho > 2 tuần. Thời điểm làm lại test sau tiếp xúc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần kiểm tra cục dày; nếu to lên, đau, hoặc còn sau mốc 6 tuần kể từ khởi phát thì chuyển niệu khoa",
+     "v": "c",
+     "n": "CDC STI 2021 tr. 98: cấp < 6 tuần, mạn ≥ 6 tuần, viêm mạn chuyển niệu khoa. Mốc 4 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đóng vòng lo tim: hỏi nhói ngực, giấc ngủ; hẹn buổi riêng đo huyết áp nhiều lần, đường huyết, mỡ máu, khuyên bỏ thuốc lá; thuốc ngủ: không tăng liều, bàn giảm dần và trị liệu hành vi",
+     "v": "c",
+     "n": "ESC CCS 2024 mục 3.1.2 (đánh giá cơ bản). Thuốc ngủ: CBT-I là điều trị đầu tay mất ngủ mạn; benzodiazepin ngắn hạn ≤ 4 tuần (A), dài hạn cân nhắc ưu nhược điểm (B) (European Insomnia Guideline 2023). Ngưỡng huyết áp, mỡ máu, kế hoạch bỏ thuốc lá: không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Ceftriaxone, kéo dài hoặc đổi kháng sinh thêm vài tuần vì còn cục cứng",
+     "v": "w",
+     "n": "Thời gian 10–14 ngày tùy đáp ứng (EAU Urological Infections 2026 mục 3.12.4); sưng còn sau điều trị đủ là lý do tìm nguyên nhân khác, không phải kéo dài thuốc (CDC STI 2021 tr. 100)."
+    },
+    {
+     "t": "Chụp CT, sinh thiết mào tinh, hoặc chuyển tuyến trên ngay",
+     "v": "w",
+     "n": "Cục nhỏ, không đau, siêu âm không khối; hầu hết khối mào tinh lành tính (EAU Testicular Cancer 2026 mục 8.3.5). Phòng khám không có CT."
+    },
+    {
+     "t": "Điều trị lao tiềm ẩn hoặc lao thử vì ông là người tiếp xúc",
+     "v": "w",
+     "n": "IGRA âm tính, không triệu chứng, X-quang bình thường: không đủ tiêu chí chẩn đoán lao tiềm ẩn (BYT Lao 2024 Phần IV, mục 1.2.2)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mào tinh cấp bên trái do E. coli: khỏi sau 14 ngày levofloxacin; còn dày đuôi mào tinh sau viêm, không đau",
+     "Phì đại lành tính tuyến tiền liệt có tồn lưu nước tiểu: yếu tố thuận lợi, cần niệu khoa",
+     "Không u, không áp xe; không lao hoạt động hay lao tiềm ẩn (X-quang bình thường, IGRA âm tính)",
+     "Nguy cơ tim mạch cần đánh giá (hút thuốc, cha mất sớm); mất ngủ mạn dùng diazepam kéo dài"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu hỏi lượt này là 'cục còn lại có nguy hiểm không, đã đến lúc kết thúc chưa'. Trình tự: hồi phục, tuân thủ, triệu chứng toàn thân → khám bìu → siêu âm → triệu chứng lao → đường tiểu dưới. Sưng đau còn sau điều trị mới tìm u, áp xe, lao (CDC STI 2021 tr. 100); ở đây chỉ còn dày không đau.",
+     "Khối mào tinh phần lớn là nang hoặc viêm lành tính (EAU Testicular Cancer 2026 mục 8.3.5); siêu âm không khối nên loại trừ u; mốc mở lại: cục to lên, đau, còn ≥ 6 tuần. E. coli ở người 52 tuổi có tiểu đêm, tia yếu: tìm tắc nghẽn đường ra bàng quang (EAU Urological Infections 2026 mục 3.12.2); nếu không xử lý nền, viêm mào tinh có thể tái phát. Lao: IGRA âm tính, X-quang bình thường, không triệu chứng (BYT Lao 2024 Phần IV, mục 1.2.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không thêm kháng sinh: đã đủ 14 ngày trong khoảng 10–14 ngày (EAU Urological Infections 2026 mục 3.12.4), triệu chứng hết; cục dày sau viêm còn vài tuần (CDC STI 2021 tr. 99–100). Siêu âm bìu xác nhận; siêu âm bàng quang – tuyến tiền liệt thấy tồn lưu 70 mL: hẹn niệu khoa, chưa bắt đầu thuốc phì đại tuyến tiền liệt (phác đồ không có trong tài liệu đã tải cho ca này).",
+     "Hẹn 4 tuần kiểm tra cục dày; chuyển niệu khoa nếu to lên, đau, hoặc còn ở mốc 6 tuần (CDC STI 2021 tr. 98). Đóng vòng lý do thật: hẹn buổi riêng đánh giá nguy cơ tim mạch, khuyên bỏ thuốc lá; diazepam không tăng liều, bàn giảm dần và trị liệu hành vi (European Insomnia Guideline 2023)."
+    ],
+    "don_thuoc": [],
+    "dan_do": [
+     "Viêm mào tinh của chú đã khỏi, siêu âm không có khối hay áp xe. Cục cứng bằng hạt đậu là chỗ mào tinh dày sau viêm, có thể còn vài tuần rồi nhỏ dần (CDC STI 2021 tr. 99–100). Không phải ung thư, không phải lao: máu thử lao âm tính, phổi bình thường.",
+     "Siêu âm cho thấy tuyến tiền liệt hơi to và tiểu xong còn đọng nước tiểu, đó là lý do dễ nhiễm khuẩn. Chú đi khám niệu khoa để xử lý nền, tránh bệnh quay lại.",
+     "Hẹn 4 tuần kiểm tra cục dày; quay lại sớm nếu cục to lên, đau, bìu sưng đỏ, sốt. Ho > 2 tuần, sốt chiều, ra mồ hôi đêm, sụt cân thì đi khám phổi ngay (BYT Lao 2024 Phần II mục 1.1).",
+     "Về tim: hẹn buổi riêng đo huyết áp nhiều lần, thử đường và mỡ máu; bỏ thuốc lá là việc có lợi nhất. Đau ngực kéo dài, khó thở, vã mồ hôi thì gọi cấp cứu ngay. Không tự tăng thuốc ngủ; bàn với bác sĩ cách giảm dần Seduxen."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chú Bảy uống đủ 14 ngày levofloxacin. Sau lượt 2 ông nghỉ thật 3 ngày có giấy, bìu xẹp dần; 14 ngày sau khi hết thuốc chỉ còn dày đuôi mào tinh 8 mm không đau, siêu âm không khối. X-quang ngực bình thường, IGRA âm tính, anh Hai điều trị lao, cả tổ được trạm y tế khám. Siêu âm thấy tồn lưu, ông hẹn niệu khoa; hết nhói ngực, đồng ý hẹn đánh giá tim mạch và giảm thuốc lá. Ổn định, khỏi bệnh.",
+ "nhieu": [
+  "Tra mạng 'lao mào tinh': đúng một phần (có viêm mào tinh, có tiếp xúc người ho) nhưng kết luận lao sai: lao sinh dục nam ít gặp viêm cấp, thường mạn tính ở nhóm nguy cơ cao (BYT Lao 2024 Phần VII, Phụ lục 1 mục 7; EAU Urological Infections 2026 mục 3.12.1).",
+  "Tiếp xúc người ho kéo dài: yếu tố thật, để sàng lọc người tiếp xúc (triệu chứng, X-quang, IGRA), không phải để chẩn đoán lao bìu.",
+  "Nhói ngực và diazepam tăng liều: ca tiết niệu nhưng lý do thật là sợ nhồi máu cơ tim; cơn không điển hình, điện tim bình thường (ESC CCS 2024 mục 3.1.1, 3.1.2.1); không tự tăng thuốc ngủ (European Insomnia Guideline 2023)."
+ ],
+ "bai_hoc_bien": [
+  "Mang chẩn đoán tự tra: ghi nhận phần đúng, giải thích phần sai bằng bằng chứng, đặt mốc mở lại; không chiều theo CT, không gạt đi.",
+  "Lý do thật (sợ nhồi máu cơ tim): hỏi mở 'hôm nay chú lo nhất điều gì'; khám tim, điện tim đúng việc, không làm thừa; đóng vòng ở lượt 3.",
+  "Đỡ một phần ở lượt 2: phân biệt hồi phục chậm bình thường với thất bại điều trị (mốc 72 giờ, cấy nhạy, tuân thủ, nghỉ ngơi) trước khi đổi thuốc.",
+  "Tuổi 40–59: nghĩ vi khuẩn đường ruột, tìm yếu tố tắc nghẽn đường ra bàng quang; không dùng suy luận tuổi trẻ (STI)."
+ ],
+ "diem_nho": [
+  "Viêm mào tinh cấp: đau, sưng, tăng nhiệt mào tinh một bên, tăng dần vài ngày; người lớn tuổi thường do Enterobacterales (EAU Urological Infections 2026 mục 3.12.1).",
+  "Nguy cơ lậu thấp: levofloxacin 500 mg ngày một lần 10–14 ngày hoặc doxycyclin + co-trimoxazol; nghi lậu: ceftriaxone + doxycyclin (EAU mục 3.12.4; CDC STI 2021 tr. 99).",
+  "Người tiếp xúc bệnh nhân lao phổi ≥ 5 tuổi, HIV âm: loại trừ lao hoạt động (triệu chứng, X-quang) rồi IGRA hoặc Mantoux (BYT Lao 2024 Phần IV mục 1.2.2)."
+ ],
+ "nguon": [
+  "EAU Guidelines on Urological Infections, Limited update 03/2026 – TL-0512 – mục 3.12.1–3.12.6 (Hình 2), mục 3.4.4 (ghi chú fluoroquinolon).",
+  "CDC STI Treatment Guidelines 2021, MMWR 70(4) – TL-0370 – mục Epididymitis, tr. 98–100.",
+  "BYT – Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh Lao 2024 – TL-0123 – Phần I mục 1.5; Phần II mục 1.1 Bảng 1; Phần IV mục 1.1.1–1.2.2; Phần VII Phụ lục 1 mục 7.",
+  "EAU Guidelines on Paediatric Urology, Limited update 03/2026 – TL-0506 – mục 8.2.",
+  "Barbosa JA et al. TWIST score, J Urol 2013 – TL-0105 – quần thể dưới 18 tuổi.",
+  "EAU Guidelines on Testicular Cancer, Limited update 03/2026 – TL-0510 – mục 3.1, 5.1, 5.2, 8.3.5.",
+  "ESC Guidelines for chronic coronary syndromes 2024 – TL-0304 – mục 3.1.1, 3.1.2, 3.1.2.1.",
+  "European Insomnia Guideline 2023 (Riemann et al.) – TL-0464 – tóm tắt khuyến cáo.",
+  "BYT – QĐ 361/QĐ-BYT 2014 – TL-0286 – Hướng dẫn sử dụng thuốc giảm đau, mục 3.1.",
+  "Giấy nghỉ ốm: TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c – nguồn bổ sung tự tìm, chưa đối chiếu bản hiện hành.",
+  "BYT – QĐ 5165/QĐ-BYT 2021, Lậu – TL-0499 – mục 3.2.1."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: Sonnet, 07/11/2026. Tài liệu đã đọc: TL-0512 mục 3.12, 3.4.4; TL-0370 Epididymitis tr. 98–100; TL-0123 (Phần I 1.5, Phần II 1.1, Phần IV 1.1–1.2, Phần VII Phụ lục 1 mục 7); TL-0506 mục 8.2; TL-0510 mục 3.1, 5.1–5.2, 8.3.5; TL-0105 (quần thể); TL-0304 mục 3.1; TL-0464 (tóm tắt); QĐ 361/2014 mục 3.1.",
+  "Mâu thuẫn: không có mới. Áp mục cũ TN-0415: liều ceftriaxone (1 g, 500 mg, 250 mg) ghi cả ba trong một mục `a` vì ca nguy cơ lậu thấp; levofloxacin 10 ngày (CDC) và 10–14 ngày (EAU) không phải mâu thuẫn; NSAID: ca không đưa vào.",
+  "Thiếu tài liệu: tương tác levofloxacin với diazepam; chỉnh liều theo thận; số ngày nghỉ làm; lịch tái khám viêm mào tinh không do STI; thời điểm làm IGRA sau tiếp xúc; phối hợp chương trình chống lao; điều trị phì đại tuyến tiền liệt; ngưỡng huyết áp, mỡ máu, bỏ thuốc lá; TWIST cho người lớn.",
+  "Không có ảnh da, không đề xuất mục danh mục mới. Tim, phổi dùng AT-TIM-BT-NL-01, AT-PHOI-BT-NL-01 (mạch 90 l/p < 100 nên dùng tệp tim bình thường)."
+ ]
+}
