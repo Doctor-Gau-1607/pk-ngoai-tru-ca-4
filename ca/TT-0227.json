@@ -1,0 +1,804 @@
+{
+ "ma_ca": "TT-0227",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-07)",
+ "benh": "TT_roi_loan_thich_ung",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn stress / thích ứng",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Lo âu"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng"
+ },
+ "benh_nhan": {
+  "ten": "Trần Quốc Bảo",
+  "tuoi": 33,
+  "gioi": "Nam",
+  "nghe": "Nội trợ: ở nhà trông con trai 2 tuổi rưỡi, nấu ăn, việc nhà từ khi bị xưởng gỗ chấm dứt hợp đồng sau 9 năm làm; vợ là công nhân may, cả nhà thuê trọ gần khu công nghiệp",
+  "can_nang": 72,
+  "chieu_cao": 170,
+  "xung_ho": "Bác sĩ gọi anh là 'anh' hoặc 'anh Bảo'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'; gọi vợ là 'vợ em'.",
+  "tinh_cach": "Hiền, ngại làm phiền, hay xin lỗi; quen giữ chuyện trong lòng để vợ khỏi lo. Xấu hổ vì 'đàn ông ở nhà' và chuyện khó cương nên né nhắc. Kể bằng giọng nhanh, dễ vui lên khi nói về con.",
+  "kieu_nhieu": "Kể lể lộn xộn: nói nhảy từ triệu chứng sang chuyện con, nồi cơm, hàng xóm rồi quay lại, quên điều đang nói, kể mốc thời gian lẫn lộn. Khi bác sĩ tóm tắt lại và hỏi từng ý ngắn thì anh trả lời gọn và hợp tác.",
+  "nguoi_nha": "Vợ, chị Hạnh, 31 tuổi, công nhân may, làm thêm ca đêm; đi cùng ở lượt 2, tin chồng 'mệt vì thuốc huyết áp' lúc đầu, về sau hiểu chồng đang bị áp lực việc làm.",
+  "ten_nguoi_nha": "Chị Hạnh (vợ)",
+  "ngoai_hinh": {
+   "da": "#d3a37e",
+   "toc": "#1d1815",
+   "kieuToc": "ngan",
+   "ao": "#5b7487",
+   "aoKieu": "phong",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#e0b894",
+    "toc": "#241a15",
+    "kieuToc": "dai",
+    "ao": "#b5776a",
+    "aoKieu": "so_mi"
+   }
+  }
+ },
+ "ly_do_kham": "Hồi hộp, đau đầu, mất ngủ; lo do thuốc huyết áp",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, sinh hóa nền, tổng phân tích nước tiểu) và điện tim; không có X-quang, siêu âm, CT, nội soi; không làm được TSH, FT4, testosterone hay các xét nghiệm hormon chuyên sâu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 33 tuổi, ở nhà nội trợ trông con nhỏ, tự đến khám vì hồi hộp từng đợt, đau đầu, mất ngủ vài tháng nay và lo thuốc huyết áp đang uống. Anh kể rất nhanh, nhảy từ chuyện này sang chuyện khác. Sinh hiệu lúc tiếp đón: mạch 92 l/p, HA 138/88 mmHg, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 99%, cân nặng 72 kg, cao 170 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Bảo bị chuyển lên bệnh viện tâm thần tỉnh, phải gửi con cho mẹ vợ nửa ngày và tốn thêm tiền xe khi nhà đang chỉ trông vào lương công nhân của vợ. Tại đó anh nghe chữ 'tâm thần' thì xấu hổ hơn, càng ngại kể chuyện mất việc và chuyện vợ chồng. Tiêu chuẩn chuyển tuyến cho rối loạn thích ứng không có trong tài liệu đã tải; ICD-11 CDDR 2024 (6B43, Boundary with normality) chỉ nói phản ứng có bận tâm và suy giảm chức năng mới là rối loạn, không nói cần chuyên khoa ngay.",
+    "nhap_vien": "Nằm lại bệnh viện đa khoa để 'theo dõi tim và huyết áp' khiến anh tin mình đang bị bệnh tim, trong khi lo lắng thật sự (việc làm, tiền, vợ) không được ai hỏi tới. Chi phí nằm viện đè lên khoản tiền anh đang thiếu. Triệu chứng vẫn quay lại khi về nhà vì yếu tố gây stress vẫn còn (ICD-11 CDDR 2024, 6B43 Additional clinical features: triệu chứng giảm khi stress được gỡ, được hỗ trợ hoặc có cách đối phó)."
+   },
+   "loi_mo": "Chào bác sĩ. Em hồi hộp lắm, nhất là tối, tim cứ đập thình thịch, mà em đang uống thuốc huyết áp, không biết có phải tại thuốc không. À mà hôm kia thằng nhỏ sốt, vợ em đi làm ca đêm, em thức cả đêm. Đầu em cũng nặng, mất ngủ nữa, mà hồi trước em ngủ như chết. Bác sĩ coi giùm em huyết áp, tim với thuốc có sao không.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "138/88",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Anh Bảo kể (nhảy chuyện, bỏ dở câu): 'Em hồi hộp, đau đầu, mất ngủ mấy tháng nay, sợ do thuốc huyết áp hay tim có vấn đề. Em muốn kiểm tra huyết áp, tim, coi thuốc có sao không.' Anh không nói gì về công việc hay chuyện khác.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra: triệu chứng cơ thể, sợ bệnh tim, nghi do thuốc"
+    },
+    {
+     "id": "cach_ke",
+     "noi_dung": "Anh kể lộn xộn: đang nói hồi hộp thì sang chuyện con sốt, nồi cơm cháy, hàng xóm bật loa, rồi quay lại chuyện thuốc. Có lúc quên mình đang nói gì. Khi bác sĩ tóm tắt lại hoặc hỏi từng ý ngắn một thì anh trả lời gọn, cảm ơn bác sĩ 'gỡ giùm em'.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: kể lể lộn xộn, cần cấu trúc lại bệnh sử bằng câu hỏi ngắn, tóm tắt lại"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Hỏi mốc thời gian: hồi hộp và mất ngủ bắt đầu khoảng hai tháng nay, 'tự nhiên thôi, em cũng không biết vì sao'. Chỉ khi bác sĩ hỏi gần đó có biến cố gì ở nhà hoặc việc làm thì anh nhớ ra: bốn tháng trước xưởng gỗ cắt giảm, anh bị chấm dứt hợp đồng sau 9 năm làm; anh nói 'chuyện đó qua rồi, em ở nhà trông con cũng khỏe'. Tiền trợ cấp hết từ khoảng hai tháng nay, sau đó triệu chứng bắt đầu.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ nói khi hỏi có chuyện gì xảy ra ở nhà, ở chỗ làm, trước khi bắt đầu mệt; hỏi chung 'vì sao' anh đáp 'không biết'.",
+     "k": 1,
+     "y": "Yếu tố gây stress xác định (mất việc), khởi phát trễ vài tháng, bệnh nhân không tự liên hệ (ICD-11 6B43)"
+    },
+    {
+     "id": "bo_ban",
+     "noi_dung": "Cả ngày anh tính tiền: sữa, tiền nhà trọ, tiền điện, vợ lương 8 triệu. Đã nộp hồ sơ 6 nơi, chưa nơi nào gọi. Nửa đêm anh mở điện thoại xem lại tin tuyển dụng và tài khoản, nghĩ 'đàn ông ở nhà ăn lương vợ'. Mẹ vợ có lần nói bóng gió 'rể gì mà ở nhà'. Nhắc đến việc làm là tim đập nhanh, anh né các cuộc gọi của bạn cũ ở xưởng.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi anh hay nghĩ nhiều về điều gì, lo về điều gì, điều gì làm hồi hộp nặng hơn.",
+     "k": 1,
+     "y": "Bận tâm kéo dài về yếu tố gây stress và hậu quả (nét cốt lõi 6B43)"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Hồi hộp từng đợt vài phút, thường tối khi nằm; đau đầu nặng hai bên thái dương, đau mỏi gáy; khó vào giấc hơn một giờ, ngủ 4–5 tiếng, dậy sớm; ăn vẫn được, sụt khoảng 1 kg. Không có cơn sợ hãi dữ dội đột ngột lên đỉnh trong 10 phút. Không đau ngực, không khó thở khi đi bộ, không run nhiều, không tiêu chảy, không sợ nóng, mồ hôi bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng cơ thể và lo âu kèm theo, không đủ hoảng sợ; không gợi ý cường giáp"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Từ 5 tháng trước, khám sức khỏe ở công ty HA 150/96 và 152/94 nên được kê amlodipin 5 mg, uống 1 viên mỗi sáng, đều. Anh đo máy ở nhà 2–3 lần mỗi ngày, lúc hồi hộp thấy 140–150/90, lúc yên 125–130/80, càng đo càng lo. Không dùng thuốc nào khác, không thuốc bổ, cà phê 2 ly mỗi sáng, không hút thuốc, không ma túy.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi từng loại thuốc, thuốc đang uống, huyết áp ở nhà.",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc hạ áp (amlodipin); đo HA tại nhà làm lo thêm"
+    },
+    {
+     "id": "khi_sac",
+     "noi_dung": "Anh vẫn chơi với con, thích xem bóng đá tối cuối tuần, ăn được, không thấy mình có tội hay vô dụng hoàn toàn. Chỉ nặng đầu và bồn chồn khi nghĩ đến chuyện việc làm; lúc ru con ngủ hoặc nấu ăn thì dễ chịu. Trước đây chưa từng buồn kéo dài, chưa từng có giai đoạn hưng phấn, ít ngủ mà vẫn khỏe.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi về tâm trạng, hứng thú, cảm giác vô dụng hay có lỗi, trước đây từng buồn kéo dài hay hưng phấn chưa.",
+     "k": 1,
+     "y": "Không đủ tiêu chuẩn giai đoạn trầm cảm, không hưng cảm"
+    },
+    {
+     "id": "pham_vi_lo",
+     "noi_dung": "Anh không lo cho sức khỏe con, vợ hay chuyện xa xôi. Mọi nỗi lo xoay quanh chuyện việc làm, tiền và việc bị coi thường. Trước khi mất việc anh 'chẳng bao giờ lo', làm việc đều, hay cười.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo âu có chủ đề, chức năng bình thường trước stress (phân biệt lo âu lan tỏa)"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Anh vẫn nấu cơm, tắm cho con nhưng cáu hơn với vợ và con, hai lần quên đón con ở nhà bà ngoại. Hai tuần nay không nộp thêm hồ sơ, không đến quán cà phê với bạn, không về nhà vợ dịp giỗ.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi một ngày của anh, việc nhà, việc tìm việc, gặp bạn bè.",
+     "k": 1,
+     "y": "Suy giảm chức năng gia đình, xã hội, tìm việc"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Hai tháng nay anh uống 2–3 lon bia mỗi tối, gần như mọi tối, 'cho dễ ngủ'. Trước đó chỉ cuối tuần. Hỏi chung 'có uống rượu bia không' anh đáp 'thỉnh thoảng thôi'. Không uống sáng, không run tay sáng dậy, không từng bị cai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói số lon và mục đích khi bác sĩ hỏi cụ thể mỗi tuần mấy ngày, mỗi lần mấy lon, có uống để ngủ không.",
+     "k": 1,
+     "y": "Dùng bia để ngủ (hành vi đối phó); cần sàng lọc rượu"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Lý do thật anh đến: ba tháng nay anh mất hứng thú chuyện vợ chồng, hai lần khó cương khi vợ gần gũi; vợ buồn, hỏi 'anh có người khác à'. Anh xấu hổ, sợ mình 'yếu thận' hoặc do thuốc huyết áp, muốn hỏi mà không dám nên chỉ nói chuyện hồi hộp và huyết áp. Không có triệu chứng cương ban đêm đã hết hoặc đau tinh hoàn; râu, lông, giọng bình thường.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng, kín đáo, không phán xét về đời sống vợ chồng, ham muốn hoặc chuyện 'nhạy cảm'.",
+     "k": 1,
+     "y": "Lý do thật và triệu chứng bị giấu: giảm ham muốn, khó cương; sợ do thuốc huyết áp"
+    },
+    {
+     "id": "tu_hai",
+     "noi_dung": "Khi được hỏi riêng: anh không có ý nghĩ chết hay làm hại mình; 'còn thằng nhỏ, em nghĩ làm chi'. Chưa từng thử tự tử. Trong nhà không có thuốc hay vật nguy hiểm tích trữ.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thẳng, riêng, không phán xét về ý nghĩ chết hoặc tự làm hại mình.",
+     "k": 1,
+     "y": "Đánh giá nguy cơ tự hại: không có ý nghĩ"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng khám hay điều trị bệnh tâm thần. Gia đình không ai bệnh tâm thần. Không đái tháo đường, bệnh tim, bệnh tuyến giáp. Bố tăng huyết áp. Uống đủ amlodipin, chưa quên liều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, loại trừ bệnh thực tổn"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Vợ chị Hạnh, 31 tuổi, công nhân may, hay làm thêm ca đêm. Con trai 2 tuổi rưỡi. Ở nhà trọ khu công nghiệp, cách ngoại 8 km. Hai vợ chồng ít nói chuyện vì vợ đi làm về mệt, anh không muốn vợ lo thêm nên không kể.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hỗ trợ xã hội, nguồn lực"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, ăn mặc gọn, hơi gầy, mắt thâm quầng. 72 kg, 170 cm, BMI 24,9 kg/m². Niêm hồng. Da ấm, lòng bàn tay hơi ẩm.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân. Không lồi mắt, không co kéo mi. Không hạch cổ. Cơ thang hai bên căng, đau khi ấn.",
+     "k": 1,
+     "hien": "Cổ không bướu; cơ vai gáy căng, đau khi ấn."
+    },
+    "tim": {
+     "a": "Tim đều 92 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 92 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "run_nghi": {
+     "a": "Hai tay giơ thẳng run nhẹ biên độ nhỏ, lòng bàn tay ẩm, không rung giật cơ, phản xạ gân xương bình thường.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, nói nhanh, hay lạc đề nhưng gọi lại được và trả lời đúng khi hỏi ngắn. Khí sắc hơi căng thẳng, nhẹ lại khi nói về con. Tư duy mạch lạc, bận tâm về việc làm và tiền; không hoang tưởng, không ảo giác. Nhận thức đủ. Không ý tưởng tự hại khi hỏi riêng.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói nhanh, hay lạc đề, căng thẳng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "Hb 150 g/L · MCV 92 fL · BC 7,1 G/L · TC 245 G/L",
+     "bang": {
+      "wbc": 7.1,
+      "neu_pct": 62.0,
+      "neu": 4.4,
+      "lym_pct": 30.0,
+      "lym": 2.13,
+      "mono_pct": 6.0,
+      "mono": 0.43,
+      "eos_pct": 1.5,
+      "eos": 0.11,
+      "baso_pct": 0.5,
+      "baso": 0.04,
+      "rbc": 4.9,
+      "hgb": 150,
+      "hct": 0.45,
+      "mcv": 91.8,
+      "mch": 30.6,
+      "mchc": 333,
+      "rdw": 13.1,
+      "plt": 245
+     },
+     "n": "Loại trừ thiếu máu gây mệt, hồi hộp. QĐ 2058/2020 Bài 20 mục 3.1.3 liệt kê xét nghiệm máu thường quy trong rối loạn khí sắc; bình thường."
+    },
+    "glu": {
+     "v": "u",
+     "r": "5,2 mmol/L",
+     "bang": {
+      "glu": 5.2
+     },
+     "n": "Loại trừ hạ hoặc tăng đường huyết gây hồi hộp, đã dùng như xét nghiệm sinh hóa nền (QĐ 2058/2020 Bài 20 mục 3.1.3). Bình thường."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 90 l/p, trục trung gian, PR 150 ms, QRS 88 ms, QT bình thường, không ST chênh, không sóng T đảo.",
+     "n": "Hồi hộp từng đợt: loại trừ loạn nhịp, trấn an (QĐ 2058/2020 Bài 22 mục 3.1.2: điện tâm đồ trong xét nghiệm loại trừ nguyên nhân thực thể của lo âu)."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "(Phòng khám không làm được TSH, FT4.)",
+     "n": "QĐ 2058/2020 Bài 20 mục 3.1.3 và 3.2 nêu xét nghiệm hormon tuyến giáp để loại suy giáp; Bài 22 mục 3.1.2 và 3.2 loại trừ cường giáp khi lo âu. Cơ sở không có; lâm sàng không gợi ý (tuyến giáp không to, không lồi mắt, không sụt cân nhanh, không sợ nóng, mạch 92), nên không chuyển đi chỉ để xét nghiệm. Làm ở tuyến trên nếu triệu chứng kéo dài hoặc xuất hiện dấu cường giáp."
+    },
+    "androgen": {
+     "v": "u",
+     "r": "(Phòng khám không làm được testosterone, SHBG.)",
+     "n": "Endocrine Society 2018 (TL-0537) Bảng 4 (tr. 1725): nên cân nhắc đo testosterone toàn phần ở nam có giảm ham muốn hoặc rối loạn cương; khuyến cáo 1.1: chẩn đoán thiếu hụt chỉ khi có triệu chứng và testosterone thấp rõ, nhất quán, đo buổi sáng lúc đói, lặp lại. Cơ sở không có xét nghiệm này; triệu chứng mới ba tháng, đi cùng mất ngủ, bia hằng đêm và stress, nên chưa chuyển tuyến ngay mà đánh giá lại khi các yếu tố này được xử trí."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn thích ứng (ICD-11 6B43), thể bận tâm về mất việc, kèm mất ngủ, hồi hộp và triệu chứng cơ thể do căng thẳng, giảm ham muốn",
+     "ok": 1,
+     "n": "Yếu tố gây stress xác định (mất việc sau 9 năm, ba–bốn tháng trước, hậu quả kinh tế kéo dài); phản ứng bận tâm quá mức, suy nghĩ lặp lại về tiền và việc làm; suy giảm chức năng gia đình, xã hội, tìm việc; không giải thích tốt hơn bằng rối loạn khác. Khởi phát có thể muộn vài tháng, nhất là khi stress kéo dài (ICD-11 CDDR 2024, mục 6B43, Essential features và Course features, tr. 352–353). QĐ 2058/2020 dùng ICD-10 và không có bài riêng về rối loạn thích ứng."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Loại trừ: khí sắc không trầm kéo dài, còn hứng thú (con, bóng đá), ăn được, không vô dụng hay tội lỗi, không bi quan toàn diện. ICD-11 CDDR 2024, Depressive episode (tr. 212–213) cần ít nhất 5 triệu chứng, gần như cả ngày, hầu hết các ngày, trong ít nhất 2 tuần, có ít nhất 1 triệu chứng nhóm cảm xúc; QĐ 2058/2020 Bài 20 mục 3.1.1: trầm cảm nhẹ cần 2/3 triệu chứng chính và 2/7 triệu chứng phổ biến, kéo dài ít nhất 2 tuần. Giảm ham muốn tình dục đơn độc chưa đủ. ICD-11 (Boundary with adjustment disorder, tr. 253): nếu đủ tiêu chuẩn trầm cảm thì chẩn đoán trầm cảm thay cho thích ứng."
+    },
+    {
+     "t": "Rối loạn lo âu lan tỏa; rối loạn hỗn hợp lo âu và trầm cảm; rối loạn hoảng sợ",
+     "n": "Loại trừ: nỗi lo xoay quanh một yếu tố gây stress xác định, không lan nhiều lĩnh vực, chức năng bình thường trước đó, không có cơn sợ hãi lên đỉnh (ICD-11 CDDR 2024, 6B00 Boundary with adjustment disorder, tr. 263; 6A73 Boundary with adjustment disorder, tr. 259). QĐ 2058/2020 Bài 22 mục 3.1.1 mô tả lo âu dai dẳng, lan tỏa."
+    },
+    {
+     "t": "Cường giáp hoặc bệnh tim gây hồi hộp",
+     "n": "Loại trừ trên lâm sàng vì không có TSH tại cơ sở: tuyến giáp không to, không lồi mắt, không sụt cân nhanh, không sợ nóng, không tiêu chảy, tim đều 92 l/p không âm thổi, ECG bình thường, không đau ngực khi gắng sức (QĐ 2058/2020 Bài 22 mục 3.2 và Bài 20 mục 3.2 nêu loại trừ bệnh thực tổn bằng xét nghiệm hormon tuyến giáp). Ngưỡng loại trừ bệnh mạch vành và loạn nhịp: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Triệu chứng do tác dụng phụ amlodipin hoặc do tăng huyết áp",
+     "n": "Ít nghĩ: triệu chứng bắt đầu 3 tháng sau khi uống thuốc, đi kèm biến cố mất việc, và HA phòng khám 138/88 mmHg khi đang lo. Tác dụng phụ của amlodipin và ngưỡng chẩn đoán, mục tiêu HA: không có trong tài liệu đã tải cho ca này. Bệnh nhân không tự ngưng thuốc."
+    },
+    {
+     "t": "Suy sinh dục (thiếu testosterone) hoặc rối loạn sử dụng rượu",
+     "n": "Chưa đủ cơ sở: giảm ham muốn mới ba tháng, râu lông giọng bình thường; không có testosterone tại cơ sở (Endocrine Society 2018, TL-0537, khuyến cáo 1.1, Bảng 4 tr. 1725). Rượu: bia 2–3 lon mỗi tối trong 2 tháng để ngủ, không triệu chứng cai; mức nguy cơ cần tính AUDIT-C (Canada 2023, TL-0579, Box 1). Dù mức nào, bỏ bia để ngủ là cần (QĐ 2058/2020 Bài 22 mục 4.1); stress có thể làm tăng dùng rượu (ICD-11 6B43, tr. 352)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về, không nhập viện hay chuyển tuyến; giải thích đây là phản ứng với áp lực mất việc và tiền bạc, không phải bệnh tim hay do thuốc huyết áp; thường nhẹ dần khi áp lực được gỡ, có người hỗ trợ và anh có thêm cách đối phó",
+     "v": "c",
+     "n": "ICD-11 CDDR 2024, mục 6B43, Additional clinical features (tr. 352) và Course features (tr. 353): triệu chứng thường giảm khi yếu tố gây stress mất đi, khi được hỗ trợ đủ hoặc khi người bệnh phát triển thêm cách đối phó. Tiêu chuẩn nhập viện hay chuyển tuyến cho rối loạn thích ứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi riêng, thẳng, không phán xét về ý nghĩ chết, tự hại; ghi nhận anh không có ý nghĩ này và dặn khi nào cần quay lại ngay",
+     "v": "c",
+     "n": "mhGAP 2023 (WHO, TL-0573) khuyến cáo SUI1: can thiệp kiểu kế hoạch an toàn kèm theo dõi (có điều kiện, chứng cứ rất thấp); QĐ 2058/2020 Bài 20 mục 4.1: đánh giá nguy cơ tự sát trong tiến trình điều trị. Cách hỏi mẫu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi kín đáo về đời sống vợ chồng và ham muốn; giải thích giảm ham muốn, khó cương có thể đi cùng lo lắng, mất ngủ và rượu; không dùng thuốc bổ, thuốc cường dương tự mua; hẹn đánh giá lại; nếu kéo dài sau khi ngủ và stress được cải thiện thì đo testosterone buổi sáng lúc đói ở nơi có xét nghiệm",
+     "v": "c",
+     "n": "Giảm ham muốn là triệu chứng nằm trong nhóm triệu chứng trầm cảm (ICD-11 CDDR 2024, Depressive episode tr. 212; QĐ 2058/2020 Bài 20 mục 3.1.1 triệu chứng cơ thể). Đo testosterone: Endocrine Society 2018 (TL-0537) Bảng 4 (tr. 1725) và khuyến cáo 1.1. Cơ chế stress hoặc lo âu gây giảm ham muốn: không có trong tài liệu đã tải. Thuốc bổ thận: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bỏ bia để ngủ; khuyên đi ngủ, dậy đúng giờ, bỏ điện thoại và tin tuyển dụng trước khi ngủ, chỉ dùng giường để ngủ",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 22 mục 4.1: tránh lạm dụng rượu và thuốc gây ngủ; Canada 2023 (TL-0579) khuyến cáo 2: sàng lọc rượu ở mọi người lớn, Box 1: phân tầng AUDIT-C. Hướng dẫn vệ sinh giấc ngủ chi tiết cho ca này: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn hỗ trợ: giúp anh gọi tên điều đang đè nặng (mất việc, tiền, thấy mình kém), chia nhỏ việc cần làm (mỗi ngày nộp một hồ sơ, hỏi trung tâm giới thiệu việc làm), khuyến khích nói chuyện với vợ và nhờ bà ngoại giữ cháu vài buổi",
+     "v": "c",
+     "n": "ICD-11 CDDR 2024, 6B43 Additional clinical features (tr. 352): triệu chứng giảm khi có hỗ trợ đủ hoặc có thêm cách đối phó. Nội dung và số buổi tư vấn tâm lý đặc hiệu cho rối loạn thích ứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hướng dẫn kỹ thuật thư giãn, thở chậm và vận động thể lực đều (đi bộ nhanh với con)",
+     "v": "a",
+     "n": "mhGAP 2023, ANX4 (kỹ thuật thư giãn hoặc chánh niệm) và ANX5 (vận động thể lực có cấu trúc), đều có điều kiện, chứng cứ thấp/rất thấp, viết cho lo âu lan tỏa hoặc hoảng sợ; áp dụng cho rối loạn thích ứng là suy luận gần đúng nên chấm a."
+    },
+    {
+     "t": "Tiếp tục amlodipin 5 mg mỗi sáng như cũ; đo HA ở nhà một lần buổi sáng và một lần buổi tối, không đo lặp khi đang hồi hộp",
+     "v": "a",
+     "n": "Cách theo dõi HA tại nhà và mục tiêu HA: không có trong tài liệu đã tải cho ca này; nhận xét lâm sàng để giảm lo lắng do đo nhiều lần."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tuần, sớm hơn nếu ngủ không được, buồn nhiều hoặc có ý nghĩ tự hại",
+     "v": "c",
+     "n": "Lịch tái khám cho rối loạn thích ứng: không có trong tài liệu đã tải; nhận xét lâm sàng của biên tập viên."
+    },
+    {
+     "t": "Kê thuốc chống trầm cảm nhóm SSRI",
+     "v": "a",
+     "n": "mhGAP 2023 DEP1 chỉ nêu SSRI cho trầm cảm vừa–nặng; ANX1 cho lo âu lan tỏa/hoảng sợ. Thuốc cho rối loạn thích ứng: không có trong tài liệu đã tải. Chưa cần: anh chưa đủ tiêu chuẩn trầm cảm hay lo âu lan tỏa."
+    },
+    {
+     "t": "Kê benzodiazepin (diazepam, lorazepam, alprazolam…) uống đều để ngủ và bớt hồi hộp",
+     "v": "w",
+     "n": "Có hai cách ghi trong tài liệu đã tải: mhGAP 2023 ANX6 không khuyến cáo benzodiazepin cho lo âu lan tỏa/hoảng sợ (mạnh, chứng cứ thấp), chỉ cân nhắc ngắn hạn tối đa 3–7 ngày cho lo âu cấp nặng; QĐ 2058/2020 Bài 22 mục 4.3 liệt kê benzodiazepin kèm liều nhưng nhắc hạn chế nhóm giải lo âu gây nghiện (mục 4.1). Mục mâu thuẫn đã có trong sổ (ca TT-0177). Chấm w cho kê đều vì người này uống bia mỗi tối và chỉ lo âu nhẹ, chưa phải lo âu cấp nặng; hai nguồn cùng nói tránh lạm dụng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn thích ứng (ICD-11 6B43), thể bận tâm về mất việc, khởi phát muộn khoảng 2 tháng sau mất việc, kéo dài 2 tháng, suy giảm chức năng gia đình, xã hội, tìm việc",
+     "Triệu chứng cơ thể và mất ngủ do căng thẳng: hồi hộp từng đợt, đau đầu căng, đau mỏi vai gáy; ECG, glucose, công thức máu bình thường; không có TSH nên loại cường giáp trên lâm sàng",
+     "Không đủ tiêu chuẩn giai đoạn trầm cảm hay lo âu lan tỏa; không có ý nghĩ tự hại",
+     "Yếu tố kèm theo: dùng bia 2–3 lon mỗi tối để ngủ; giảm ham muốn, khó cương ba tháng (lý do thật khi đến); tăng huyết áp đang dùng amlodipin 5 mg"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: tóm tắt lại sau mỗi đoạn kể lộn xộn và hỏi từng ý ngắn (khi nào bắt đầu, trước đó có chuyện gì, nghĩ nhiều về gì); hỏi từng thứ thuốc và số lon bia mỗi tuần; hỏi riêng về ý nghĩ tự hại và đời sống vợ chồng",
+     "Vì sao là rối loạn thích ứng: có yếu tố gây stress xác định (mất việc), bận tâm quá mức về hậu quả, khởi phát trong vài tháng, suy giảm chức năng, không giải thích tốt hơn bằng rối loạn khác (ICD-11 CDDR 2024, 6B43, Essential features, tr. 352). Mất việc là ví dụ nêu trong chính tiêu chuẩn. Nhiều người không tự liên hệ triệu chứng với biến cố, nên phải hỏi mốc thời gian",
+     "Vì sao không phải trầm cảm hay lo âu lan tỏa: hứng thú còn, chưa đủ 5 triệu chứng (ICD-11 tr. 212–213; QĐ 2058/2020 Bài 20 mục 3.1.1); nỗi lo có chủ đề và chức năng bình thường trước stress (ICD-11 6B00 tr. 263)",
+     "Khám và CLS: tim phổi bình thường, tuyến giáp không to, ECG và xét nghiệm nền bình thường. Cơ sở không có TSH và testosterone: ghi rõ chưa làm được, quyết định dựa vào lâm sàng",
+     "Nhận xét: bệnh nhân đến vì lo thuốc huyết áp nhưng lý do thật là giảm ham muốn; chỉ nói ra khi được hỏi riêng, kín đáo, không phán xét"
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, không nhập viện hay chuyển tuyến: không có nguy cơ tự hại, không có bệnh thực tổn, sinh hiệu ổn. Giải thích phản ứng với áp lực, có thể nhẹ dần khi stress được gỡ (ICD-11 6B43, tr. 352–353)",
+     "Hỗ trợ tâm lý xã hội là điều trị chính: gọi tên stress, chia nhỏ việc tìm việc, kéo vợ và gia đình vào, thư giãn và vận động (ICD-11 6B43; mhGAP 2023 ANX4, ANX5 suy luận gần đúng). Thuốc đặc hiệu cho rối loạn thích ứng: không có trong tài liệu đã tải",
+     "Bỏ bia để ngủ (QĐ 2058/2020 Bài 22 mục 4.1); không benzodiazepin đều đặn (mhGAP 2023 ANX6; QĐ 2058/2020 Bài 22 mục 4.1, 4.3)",
+     "Triệu chứng tình dục: hỏi, giải thích, đánh giá lại khi ngủ và stress đỡ; đo testosterone buổi sáng lúc đói nếu kéo dài (Endocrine Society 2018 Bảng 4, khuyến cáo 1.1)",
+     "Tái khám 3 tuần là nhận xét lâm sàng, không có nguồn"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc hướng thần",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Thuốc điều trị rối loạn thích ứng: không có trong tài liệu đã tải. Không benzodiazepin đều đặn (mhGAP 2023 ANX6). Không SSRI vì chưa đủ tiêu chuẩn trầm cảm vừa–nặng (mhGAP 2023 DEP1)."
+     },
+     {
+      "thuoc": "Amlodipin (tiếp tục)",
+      "ham_luong": "5 mg/viên",
+      "lieu": "1 viên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Tiếp tục như cũ",
+      "ghi_chu": "Không đổi thuốc. Hướng xử trí tăng huyết áp, tác dụng phụ amlodipin: không có trong tài liệu đã tải cho ca này."
+     }
+    ],
+    "dan_do": [
+     "Đây là phản ứng với áp lực mất việc, không phải bệnh tim hay do thuốc; thường nhẹ dần khi áp lực được gỡ và có người hỗ trợ",
+     "Bỏ bia buổi tối; giờ ngủ cố định, bỏ điện thoại trước khi ngủ; đi bộ nhanh 20–30 phút mỗi ngày với con (liều vận động cụ thể: không có trong tài liệu đã tải)",
+     "Mỗi ngày làm một việc nhỏ cho việc tìm việc; kể với vợ chuyện lo tiền để hai người cùng tính",
+     "Đo HA ở nhà sáng và tối, không đo lặp khi hồi hộp; vẫn uống amlodipin",
+     "Chuyện vợ chồng liên quan căng thẳng và mất ngủ, không phải lỗi của anh; hẹn khám lại sau 3 tuần (nhận xét lâm sàng; lịch tái khám cho rối loạn thích ứng: không có trong tài liệu đã tải)",
+     "Quay lại ngay nếu có ý nghĩ chết, buồn nhiều, không ngủ được nhiều đêm liền"
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ba tuần sau, anh Bảo tái khám cùng vợ (chị Hạnh, 31 tuổi). Anh đã bỏ bia, ngủ khá hơn, nhưng chưa hết lo: hai nơi hẹn phỏng vấn chưa gọi lại. Sinh hiệu lúc tiếp đón: mạch 84 l/p, HA 130/84 mmHg, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 99%, cân nặng 71 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Bảo bị coi là 'điều trị không đáp ứng' và chuyển lên bệnh viện tâm thần tỉnh sau chỉ ba tuần, dù mới đỡ một phần và yếu tố gây stress vẫn còn. Vợ phải xin nghỉ làm đi cùng, mất ngày công khi nhà đang thiếu tiền. Với stress còn kéo dài, thời gian hồi phục dài hơn là điều được dự kiến (ICD-11 CDDR 2024, 6B43 Course features, tr. 353); tiêu chuẩn chuyển tuyến cho rối loạn thích ứng không có trong tài liệu đã tải.",
+    "nhap_vien": "Giữ anh nằm viện theo dõi khi anh đã ngủ được, bỏ bia và đỡ hơn khiến anh nghĩ mình nặng hơn và 'không làm trụ cột nổi'. Trong lúc đó con nhỏ ở nhà với vợ đi làm ca, chi phí tăng. Không có tiêu chuẩn nhập viện nào trong tài liệu đã tải được đáp ứng ở anh."
+   },
+   "loi_mo": "Chào bác sĩ. Em đỡ hơn chút, ngủ được khoảng 6 tiếng, đầu bớt nặng. Mà chưa hết hẳn, em vẫn nghĩ chuyện việc làm hoài, hai chỗ hẹn phỏng vấn mà chưa ai gọi lại. Vợ em đi cùng nè.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "130/84",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tien_trien",
+     "noi_dung": "Ngủ 6 tiếng, còn khó vào giấc 30–45 phút vài đêm; đau đầu nhẹ 2 lần mỗi tuần; hồi hộp ngắn 2–3 lần mỗi tuần; đã bỏ bia, chỉ 1 lon cuối tuần; uống amlodipin đều, HA đo ở nhà sáng tối 125–132/80–84.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần: triệu chứng giảm nhưng chưa hết"
+    },
+    {
+     "id": "stress_van",
+     "noi_dung": "Chưa có việc. Hai nơi phỏng vấn chưa gọi lại, anh đã vay anh trai 5 triệu. Tiền nhà tháng sau vẫn thiếu. Trước khi ngủ anh vẫn nghĩ chuyện tiền 30–45 phút.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi tình hình việc làm, tiền bạc, điều gì còn làm anh nghĩ nhiều.",
+     "k": 1,
+     "y": "Yếu tố gây stress còn tồn tại, nên chưa thể hết hẳn"
+    },
+    {
+     "id": "khi_sac",
+     "noi_dung": "Có hôm nhận tin từ chối thì thấy 'mình vô dụng' vài giờ rồi qua. Vẫn chơi với con, xem bóng đá, ăn được, không buồn cả ngày, không mất hứng thú, không bi quan toàn diện. Tập trung kém khi đọc tin, ngủ khó vài đêm. Không có giai đoạn nào đủ hai tuần liên tục buồn hay mất hứng.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi từng triệu chứng: tâm trạng, hứng thú, ăn ngủ, tập trung, cảm giác vô dụng, tương lai.",
+     "k": 1,
+     "y": "Một vài triệu chứng trầm cảm thoáng qua, chưa đủ 5 triệu chứng kéo dài 2 tuần"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Ham muốn trở lại dần khi ngủ khá hơn; khoảng 1 trong 3 lần vẫn khó cương khi nghĩ chuyện tiền. Hai vợ chồng đã nói chuyện thẳng với nhau, chị Hạnh không còn nghi ngờ.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi lại về chuyện vợ chồng, ham muốn.",
+     "k": 1,
+     "y": "Triệu chứng tình dục cải thiện song hành với giấc ngủ và stress"
+    },
+    {
+     "id": "vo",
+     "noi_dung": "Chị Hạnh: anh bớt cáu, chịu kể chuyện tiền; chị sợ anh buồn nên giảm ca đêm vài hôm. Mẹ chị đã được nhắc không nói bóng gió nữa. Chị hỏi 'ổng có bị trầm cảm không bác sĩ'.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hỗ trợ gia đình; câu hỏi của người nhà"
+    },
+    {
+     "id": "tu_hai",
+     "noi_dung": "Khi hỏi riêng: không có ý nghĩ chết hay tự hại, còn kế hoạch cho con.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ nói khi hỏi thẳng, riêng.",
+     "k": 1,
+     "y": "Không ý nghĩ tự hại"
+    }
+   ],
+   "kham": {
+    "tim": {
+     "a": "Tim đều 84 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, kể mạch lạc hơn lượt trước, ít lạc đề. Khí sắc bớt căng, hơi lo khi nhắc phỏng vấn. Tư duy mạch lạc, không hoang tưởng, không ảo giác. Không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, kể mạch lạc, hơi lo khi nhắc việc làm."
+    }
+   },
+   "cls": {
+    "androgen": {
+     "v": "u",
+     "r": "(Phòng khám không làm được testosterone, SHBG.)",
+     "n": "Endocrine Society 2018 (TL-0537) Bảng 4 (tr. 1725) và khuyến cáo 1.1. Triệu chứng đang cải thiện theo giấc ngủ và giảm stress, nên đo ngay hay đánh giá lại ở lượt sau đều chấp nhận được."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn thích ứng (ICD-11 6B43), đỡ một phần, yếu tố gây stress (chưa có việc, thiếu tiền) vẫn còn",
+     "ok": 1,
+     "n": "Triệu chứng giảm nhưng chưa hết khi yếu tố gây stress còn; stress kéo dài thì thời gian triệu chứng dài hơn, kỳ vọng hết trong 6 tháng sau khi stress và hậu quả đã chấm dứt (ICD-11 CDDR 2024, 6B43 Course features tr. 353; Essential features tr. 352). Đỡ một phần ở tuần thứ 3 là hồi phục chậm bình thường, chưa phải thất bại điều trị."
+    },
+    {
+     "t": "Giai đoạn trầm cảm (diễn tiến từ rối loạn thích ứng)",
+     "n": "Loại trừ: không đủ 5 triệu chứng gần như cả ngày, hầu hết các ngày trong ít nhất 2 tuần, có ít nhất 1 triệu chứng nhóm cảm xúc (ICD-11 CDDR 2024, Depressive episode tr. 212–213); ICD-11 tr. 253: nếu đủ tiêu chuẩn thì chẩn đoán trầm cảm. Theo dõi bằng hỏi từng triệu chứng; thang đánh giá trầm cảm (PHQ-9…) được liệt kê ở QĐ 2058/2020 Bài 20 mục 3.1.5, ngưỡng điểm: không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Thất bại điều trị sớm (không đáp ứng)",
+     "n": "Loại trừ: ngủ, đau đầu, hồi hộp, rượu và quan hệ vợ chồng đều cải thiện sau ba tuần; yếu tố gây stress chưa gỡ. Tiêu chí thất bại điều trị cho rối loạn thích ứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Suy sinh dục (thiếu testosterone)",
+     "n": "Chưa cần kết luận: triệu chứng tình dục cải thiện cùng giấc ngủ, không có dấu thiếu androgen thực thể (Endocrine Society 2018, khuyến cáo 1.1: cần triệu chứng và testosterone thấp nhất quán). Cơ sở không có xét nghiệm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về, tiếp tục hướng tâm lý xã hội, không thêm thuốc; giải thích đỡ một phần là hợp lý khi stress còn, chưa phải thất bại điều trị",
+     "v": "c",
+     "n": "ICD-11 CDDR 2024, 6B43 Course features (tr. 353): stress kéo dài thì triệu chứng dài hơn; triệu chứng hết trong 6 tháng sau khi stress và hậu quả chấm dứt (Essential features, tr. 352). Phác đồ thuốc cho rối loạn thích ứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đánh giá lại từng triệu chứng trầm cảm và hỏi riêng ý nghĩ tự hại; ghi chưa đủ tiêu chuẩn; dùng thang trầm cảm nếu có",
+     "v": "c",
+     "n": "ICD-11 CDDR 2024, Depressive episode (tr. 212–213) và Boundary with adjustment disorder (tr. 253); QĐ 2058/2020 Bài 20 mục 3.1.5 (thang đánh giá), mục 4.1 (đánh giá nguy cơ tự sát). Ngưỡng điểm thang: không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Nói rõ mốc phải khám lại sớm: đủ triệu chứng trầm cảm, ý nghĩ tự hại, uống bia trở lại nhiều hoặc không ngủ nhiều đêm; khi đó cân nhắc chuyên khoa và liệu pháp tâm lý có cấu trúc hoặc thuốc theo mức độ",
+     "v": "c",
+     "n": "mhGAP 2023 DEP3, DEP4 (liệu pháp tâm lý có cấu trúc, mạnh, chứng cứ vừa; thuốc đơn độc chỉ khi không có liệu pháp tâm lý, có điều kiện) và DEP1 viết cho trầm cảm vừa–nặng; SUI1. Tiêu chuẩn chuyển tuyến riêng cho rối loạn thích ứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mời chị Hạnh cùng tham gia buổi tư vấn: giải thích bệnh, vai trò hỗ trợ của gia đình, cùng chia nhỏ việc tìm việc và kế hoạch tiền",
+     "v": "c",
+     "n": "ICD-11 CDDR 2024, 6B43 Additional clinical features (tr. 352) và Culture-related features (tr. 354): thiếu hỗ trợ gia đình làm nặng thêm; hỗ trợ đủ làm triệu chứng giảm. Hình thức tư vấn đôi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Duy trì không bia buổi tối, giờ ngủ cố định, vận động đều",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 22 mục 4.1 (tránh lạm dụng rượu, thuốc gây ngủ); mhGAP 2023 ANX4, ANX5 (suy luận gần đúng từ lo âu lan tỏa)."
+    },
+    {
+     "t": "Theo dõi triệu chứng tình dục thêm, đo testosterone buổi sáng lúc đói ở nơi có xét nghiệm nếu còn kéo dài",
+     "v": "a",
+     "n": "Endocrine Society 2018, Bảng 4 (tr. 1725), khuyến cáo 1.1. Đo ngay hay chờ đều chấp nhận được vì triệu chứng đang cải thiện."
+    },
+    {
+     "t": "Kê thuốc chống trầm cảm SSRI vì 'đỡ có một phần'",
+     "v": "a",
+     "n": "mhGAP 2023 DEP1: SSRI cho trầm cảm vừa–nặng; ANX1 cho lo âu lan tỏa/hoảng sợ. Rối loạn thích ứng: không có trong tài liệu đã tải; chưa đủ tiêu chuẩn trầm cảm."
+    },
+    {
+     "t": "Kê benzodiazepin đều đặn để ngủ",
+     "v": "w",
+     "n": "mhGAP 2023 ANX6 không khuyến cáo benzodiazepin cho lo âu lan tỏa/hoảng sợ (mạnh); QĐ 2058/2020 Bài 22 mục 4.3 liệt kê kèm liều nhưng mục 4.1 hạn chế nhóm gây nghiện. Anh đã ngủ được và đã bỏ bia nên không cần. Cách ghi theo mục đã có trong sổ (TT-0177)."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần, sớm hơn nếu có dấu hiệu trên",
+     "v": "c",
+     "n": "Lịch tái khám rối loạn thích ứng: không có trong tài liệu đã tải; nhận xét lâm sàng."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn thích ứng (ICD-11 6B43) đỡ một phần sau 3 tuần hỗ trợ tâm lý xã hội: ngủ 6 tiếng, đau đầu và hồi hộp thưa, đã bỏ bia; yếu tố gây stress còn (chưa có việc, vay tiền)",
+     "Chưa đủ tiêu chuẩn giai đoạn trầm cảm; không ý nghĩ tự hại",
+     "Triệu chứng tình dục cải thiện cùng giấc ngủ; tăng huyết áp, tiếp tục amlodipin 5 mg"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi lại có cấu trúc: tiến triển từng triệu chứng, cái gì còn nguyên (stress), cái gì đã đỡ (giấc ngủ, bia, hồi hộp), hỏi lại ý nghĩ tự hại",
+     "Phân biệt hồi phục chậm bình thường với thất bại điều trị: stress vẫn còn nên chưa thể hết; triệu chứng đang giảm theo đúng hướng; không có tiêu chí thất bại nào trong tài liệu đã tải (ICD-11 6B43 tr. 352–353)",
+     "Rà tiêu chuẩn trầm cảm: không đủ 5 triệu chứng kéo dài 2 tuần (ICD-11 CDDR 2024, tr. 212–213)"
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục điều trị tâm lý xã hội, có chị Hạnh cùng tham gia (ICD-11 6B43 tr. 352, 354)",
+     "Không thêm thuốc: SSRI cho trầm cảm vừa–nặng (mhGAP DEP1), benzodiazepin không khuyến cáo (ANX6)",
+     "Đặt mốc leo thang rõ để ca đỡ một phần không bị bỏ quên: đủ tiêu chuẩn trầm cảm, ý nghĩ tự hại, tái dùng rượu (QĐ 2058/2020 Bài 20 mục 4.1; mhGAP SUI1)"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc hướng thần",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Thuốc đặc hiệu cho rối loạn thích ứng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amlodipin (tiếp tục)",
+      "ham_luong": "5 mg/viên",
+      "lieu": "1 viên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Như cũ",
+      "ghi_chu": "Hướng xử trí tăng huyết áp: không có trong tài liệu đã tải cho ca này."
+     }
+    ],
+    "dan_do": [
+     "Đỡ một phần là bình thường khi chuyện việc làm chưa xong; vẫn tiếp tục kế hoạch mỗi ngày một việc nhỏ",
+     "Giữ không bia, giờ ngủ cố định, đi bộ với con",
+     "Nói với vợ khi lo tiền; chị Hạnh có thể nhắc anh các dấu hiệu quay lại",
+     "Khám lại sớm nếu buồn kéo dài, mất hứng thú, không ngủ nhiều đêm hoặc có ý nghĩ chết",
+     "Hẹn tái khám sau 4 tuần (nhận xét lâm sàng; lịch tái khám cho rối loạn thích ứng: không có trong tài liệu đã tải)"
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Bảy tuần sau, anh Bảo tái khám một mình, vui vẻ hơn. Anh nhận việc giao hàng bán thời gian từ năm tuần nay. Sinh hiệu lúc tiếp đón: mạch 76 l/p, HA 126/80 mmHg, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 99%, cân nặng 72 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển anh đi khám tâm thần 'cho chắc' khi anh đã hết triệu chứng làm anh nghĩ mình vẫn còn bệnh, mất ngày công giao hàng mới có và tốn chi phí đi lại. Anh đã hồi phục khi yếu tố gây stress được gỡ, như tiến trình mô tả của ICD-11 CDDR 2024, 6B43 (tr. 352–353); không có tiêu chuẩn chuyển tuyến cho ca đã hết triệu chứng trong tài liệu đã tải.",
+    "nhap_vien": "Giữ anh lại nằm viện theo dõi dù không còn triệu chứng chỉ khiến anh mất buổi giao hàng, gây áp lực tài chính mới ngay lúc anh vừa vượt qua, và có thể tạo lại nỗi lo bị coi là 'bệnh nặng'. Không có tiêu chuẩn nhập viện nào trong tài liệu đã tải được đáp ứng."
+   },
+   "loi_mo": "Chào bác sĩ. Em khỏe rồi, ngủ ngon lại, đi giao hàng được năm tuần. Em tới để bác sĩ coi còn phải uống gì nữa không, với coi lại huyết áp.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "126/80",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ket_qua",
+     "noi_dung": "Ngủ 7 tiếng, hết hồi hộp, đầu thỉnh thoảng nặng khi chạy xe lâu. Ăn uống bình thường. Ham muốn và chuyện vợ chồng trở lại bình thường. Bia chỉ 1–2 lon cuối tuần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Khỏi bệnh: triệu chứng hết khi stress giảm"
+    },
+    {
+     "id": "stress_giam",
+     "noi_dung": "Làm giao hàng bán thời gian khoảng 6 triệu mỗi tháng, bà ngoại giữ cháu buổi chiều, chị Hạnh giảm ca đêm. Đã trả anh trai 2 triệu. Chưa dư nhưng 'tính được'. Vẫn nộp hồ sơ tìm việc ổn định hơn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi việc làm, tiền, gia đình.",
+     "k": 1,
+     "y": "Yếu tố gây stress và hậu quả đã dịu đi"
+    },
+    {
+     "id": "khi_sac",
+     "noi_dung": "Tâm trạng bình thường, hứng thú bình thường, hết thấy vô dụng, ăn ngủ tốt. Không ý nghĩ tự hại. Lo sợ nhẹ 'nếu mất việc nữa thì sao'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi tâm trạng, hứng thú, ý nghĩ tự hại.",
+     "k": 1,
+     "y": "Không còn triệu chứng; còn lo tái phát nhẹ"
+    },
+    {
+     "id": "hoi_thuoc",
+     "noi_dung": "Anh thấy HA ổn nên muốn ngưng amlodipin và hỏi 'có cần uống thuốc nữa không'. Anh chưa ngưng; HA ở nhà 120–128/76–82.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: tự ý muốn ngưng thuốc hạ áp khi thấy ổn"
+    },
+    {
+     "id": "lo_tai_phat",
+     "noi_dung": "Anh hỏi 'lỡ mất việc nữa thì có bị lại không, khi nào cần khám lại'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi khi bác sĩ hỏi anh còn lo gì.",
+     "k": 0,
+     "y": "Câu hỏi về tái phát và dấu hiệu quay lại"
+    }
+   ],
+   "kham": {
+    "tim": {
+     "a": "Tim đều 76 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, kể mạch lạc, cười được, khí sắc bình thường. Không hoang tưởng, ảo giác, không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, khí sắc tươi, kể mạch lạc."
+    }
+   },
+   "cls": {},
+   "chan_doan": [
+    {
+     "t": "Rối loạn thích ứng (ICD-11 6B43) đã hồi phục khi yếu tố gây stress dịu đi",
+     "ok": 1,
+     "n": "Triệu chứng hết khi stress và hậu quả giảm, có hỗ trợ và có cách đối phó (ICD-11 CDDR 2024, 6B43 Additional clinical features tr. 352; hết trong 6 tháng sau khi stress chấm dứt, Essential features). Chức năng gia đình, việc làm, quan hệ vợ chồng trở lại bình thường."
+    },
+    {
+     "t": "Giai đoạn trầm cảm hoặc lo âu lan tỏa (thể kéo dài sau rối loạn thích ứng)",
+     "n": "Loại trừ: không còn triệu chứng, khí sắc và hứng thú bình thường; ICD-11 6B43 Boundary with other mental disorders (tr. 354): nếu triệu chứng kéo dài hơn 6 tháng sau khi stress chấm dứt thì cân nhắc rối loạn khác. Chưa tới mốc đó."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho về, xác nhận đã hồi phục, không cần thuốc hướng thần hay tái khám tâm lý định kỳ",
+     "v": "c",
+     "n": "ICD-11 CDDR 2024, 6B43 (tr. 352–353): triệu chứng giảm khi stress được gỡ hoặc có hỗ trợ đủ. Thời gian theo dõi sau hồi phục: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại và khi nào phải khám: bận tâm kéo dài, mất ngủ, hồi hộp trở lại khi có biến cố mới; triệu chứng kéo dài trên 6 tháng sau khi stress đã hết thì cần đánh giá lại chẩn đoán",
+     "v": "c",
+     "n": "ICD-11 CDDR 2024, 6B43 Boundary with other mental disorders (tr. 354); Depressive episode tr. 212–213; mhGAP 2023 SUI1 cho ý nghĩ tự hại."
+    },
+    {
+     "t": "Duy trì giờ ngủ, vận động, hạn chế bia, nói chuyện với vợ khi có áp lực mới",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 22 mục 4.1 (tránh lạm dụng rượu); mhGAP 2023 ANX4, ANX5 (suy luận gần đúng). Mức bia an toàn cụ thể: không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Chưa tự ngưng amlodipin; tái khám huyết áp định kỳ",
+     "v": "a",
+     "n": "Tăng huyết áp: không có trong tài liệu đã tải cho ca này; nhận xét lâm sàng."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc ngủ dự phòng khi mất ngủ trở lại",
+     "v": "w",
+     "n": "mhGAP 2023 ANX6: benzodiazepin không khuyến cáo cho lo âu lan tỏa/hoảng sợ (mạnh); QĐ 2058/2020 Bài 22 mục 4.1 nhắc hạn chế nhóm giải lo âu gây nghiện, mục 4.3 vẫn liệt kê. Đã hết triệu chứng nên không có chỉ định (cách ghi theo mục TT-0177 trong sổ)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn thích ứng (ICD-11 6B43) đã hồi phục sau khoảng 3 tháng khi anh có việc bán thời gian và vợ chồng trao đổi thẳng",
+     "Không còn triệu chứng trầm cảm, lo âu hay ý nghĩ tự hại; ham muốn và chuyện vợ chồng bình thường",
+     "Tăng huyết áp, HA 126/80 mmHg khi dùng amlodipin 5 mg"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi lại nguyên nhân hồi phục: yếu tố gây stress dịu đi và có hỗ trợ, đúng với diễn tiến mô tả (ICD-11 6B43 tr. 352–353)",
+     "Xác nhận không có giai đoạn trầm cảm và rượu ở mức thấp; chưa tới mốc 6 tháng sau stress để xét chẩn đoán khác (ICD-11 CDDR 2024, tr. 354)"
+    ],
+    "phan_tich_xu_tri": [
+     "Kết thúc điều trị tâm lý chuyên biệt, không kê thuốc hướng thần",
+     "Dặn dấu hiệu tái phát và mốc khám lại, giữ thói quen đã có",
+     "Không tự ngưng amlodipin; tái khám huyết áp riêng"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin (tiếp tục)",
+      "ham_luong": "5 mg/viên",
+      "lieu": "1 viên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Như cũ",
+      "ghi_chu": "Quyết định ngưng hay giảm thuốc hạ áp: không có trong tài liệu đã tải cho ca này; tái khám huyết áp riêng."
+     }
+    ],
+    "dan_do": [
+     "Anh đã hồi phục; không cần thuốc cho phần tâm lý",
+     "Nếu mất việc hay có áp lực mới và ngủ kém, hồi hộp trở lại: khám sớm, đừng chờ",
+     "Giữ giờ ngủ, hạn chế bia, nói chuyện với vợ",
+     "Vẫn uống amlodipin, đo HA ở nhà sáng và tối; hẹn khám huyết áp định kỳ"
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Bảo hồi phục sau khoảng ba tháng, không dùng thuốc hướng thần: giấc ngủ, hồi hộp, chuyện vợ chồng trở lại bình thường khi anh có việc giao hàng bán thời gian, vợ chồng nói chuyện thẳng với nhau và anh bỏ thói quen uống bia để ngủ. Bài học: ba lượt hỏi có cấu trúc, đo mốc leo thang rõ và không vội dùng thuốc giúp anh qua giai đoạn đỡ một phần mà không bị điều trị quá tay.",
+ "nhieu": [
+  "Kể lể lộn xộn: bệnh nhân nhảy chuyện, tự không liên hệ triệu chứng với mất việc; cách đúng là tóm tắt lại, hỏi từng ý ngắn, hỏi mốc thời gian và biến cố trước khi bắt đầu.",
+  "Triệu chứng cơ thể và thuốc huyết áp làm dễ nghĩ đến bệnh tim hay tác dụng phụ: ECG, khám tim, tuyến giáp bình thường, tiến triển theo stress.",
+  "Giấu triệu chứng thật vì ngại: chuyện giảm ham muốn, khó cương và dùng bia chỉ lộ ra khi được hỏi riêng, kín đáo, không phán xét."
+ ],
+ "bai_hoc_bien": [
+  "Rối loạn thích ứng cần yếu tố gây stress xác định (mất việc là ví dụ trong tiêu chuẩn), bận tâm quá mức, suy giảm chức năng, loại trừ trầm cảm và lo âu lan tỏa bằng ranh giới ICD-11; khởi phát có thể muộn vài tháng khi stress kéo dài (ICD-11 CDDR 2024, 6B43, tr. 352–354).",
+  "Đỡ một phần ở tuần thứ 3 khi stress còn không phải thất bại điều trị; đặt mốc leo thang rõ (đủ 5 triệu chứng trầm cảm 2 tuần, ý nghĩ tự hại, tái dùng rượu).",
+  "Hỏi riêng chuyện tình dục và rượu với người đàn ông ngại ngùng; triệu chứng thường cải thiện cùng giấc ngủ và stress.",
+  "Không kê benzodiazepin đều đặn (mhGAP 2023 ANX6)."
+ ],
+ "diem_nho": [
+  "Rối loạn thích ứng: phản ứng không thích nghi với yếu tố gây stress xác định, bận tâm quá mức, suy giảm chức năng, hết trong 6 tháng sau khi stress và hậu quả chấm dứt (ICD-11 CDDR 2024, 6B43).",
+  "Đủ tiêu chuẩn giai đoạn trầm cảm (ít nhất 5 triệu chứng, 2 tuần) thì chẩn đoán trầm cảm thay cho thích ứng (ICD-11, tr. 212–213, 253).",
+  "Giảm ham muốn: Endocrine Society 2018 Bảng 4 gợi ý đo testosterone; chẩn đoán thiếu hụt cần triệu chứng và testosterone thấp nhất quán (khuyến cáo 1.1)."
+ ],
+ "nguon": [
+  "WHO – Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders – 2024 – TL-0571 – 6B43 Adjustment disorder (tr. 352–354); Depressive episode (tr. 212–213); Boundary with adjustment disorder ở trầm cảm (tr. 253), 6A73 (tr. 259), 6B00 (tr. 263).",
+  "WHO – mhGAP guideline for mental, neurological and substance use disorders – 2023 (ấn bản 3) – TL-0573 – ANX1, ANX4, ANX5, ANX6, DEP1, DEP3, DEP4, SUI1.",
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 20 (mục 3.1.1, 3.1.3, 3.1.5, 3.2, 4.1), Bài 22 (mục 3.1.1, 3.1.2, 3.2, 4.1, 4.3).",
+  "Endocrine Society – Testosterone therapy in men with hypogonadism – 2018 – TL-0537 – khuyến cáo 1.1, 1.2, Bảng 4 (tr. 1725).",
+  "CRISM – Canadian guideline for the clinical management of high-risk drinking and alcohol use disorder – 2023 – TL-0579 – khuyến cáo 2, Box 1."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 2026-11-07. Đã đọc: TL-0571 (6B43 tr. 352–354; Depressive episode tr. 212–213; ranh giới với thích ứng ở tr. 253, 259, 263), TL-0573 (ANX1, 4–6, DEP1, 3, 4, SUI1), QĐ 2058/2020 – TL-0443 (Bài 20, 22), TL-0537 (khuyến cáo 1.1, 1.2, Bảng 4), TL-0579 (Box 1, khuyến cáo 2). Ca mẫu tham khảo: TT-0230, TT-0238 (cùng chẩn đoán).",
+  "Thiếu tài liệu: điều trị đặc hiệu (thuốc, liệu pháp tâm lý) và lịch tái khám cho rối loạn thích ứng; tiêu chuẩn chuyển tuyến/nhập viện cho rối loạn thích ứng; tác dụng phụ amlodipin, mục tiêu và xử trí tăng huyết áp; cơ chế stress gây giảm ham muốn; xuất tinh sớm (TL-0529 chưa có toàn văn, không dùng). Đã ghi 'không có trong tài liệu đã tải' tại chỗ dùng.",
+  "Mâu thuẫn benzodiazepin (mhGAP 2023 ANX6 với QĐ 2058/2020 Bài 22 mục 4.3): đã có mục trong sổ (TT-0177), ca ghi cả hai nguồn; cả hai viết cho lo âu lan tỏa/hoảng sợ, không riêng cho rối loạn thích ứng nên áp dụng gần đúng.",
+  "Lịch tái khám 3–4 tuần, mốc leo thang và các mức a/c/w là nhận xét lâm sàng của biên tập viên. Ca không có dấu da then chốt nên không dùng ảnh. Không đề xuất mục danh mục mới."
+ ]
+}
