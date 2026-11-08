@@ -1,0 +1,758 @@
+{
+ "ma_ca": "TT-0123",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-08)",
+ "benh": "TT_mat_ngu_man",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn giấc ngủ (mất ngủ mạn)",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Ngưng thở khi ngủ"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Sau ăn hải sản",
+  "thuoc_dang_dung": "Không",
+  "ly_do_that_su_den_kham": "Sợ mắc ung thư"
+ },
+ "benh_nhan": {
+  "ten": "Lê Minh Thuận",
+  "tuoi": 34,
+  "gioi": "Nam",
+  "nghe": "Nông dân trồng hành lá và rau màu trên 5 sào ruộng ở một xã ven biển Quảng Ngãi; dậy sớm tưới và nhổ rau, tự lái xe công nông chở rau ra chợ huyện, dùng máy xới đất cầm tay",
+  "can_nang": 62,
+  "chieu_cao": 165,
+  "xung_ho": "Anh tự xưng 'tôi' hoặc 'em' với bác sĩ, gọi bác sĩ là 'bác sĩ'. Nhắc vợ là 'vợ tôi' hoặc 'con Lụa'.",
+  "tinh_cach": "Chịu khó, ít nói nhưng trả lời rõ ràng, nhớ ngày giờ, làm theo hướng dẫn đúng từng bước. Hay lo xa, tự nghĩ nhiều khi một mình. Ngại làm vợ lo nên giữ nỗi sợ trong lòng.",
+  "kieu_nhieu": "Bệnh nhân hợp tác tốt: trả lời đầy đủ mọi câu hỏi, không giấu thuốc hay thói quen, đồng ý làm xét nghiệm và nhật ký ngủ. Nhưng anh chỉ kể điều được hỏi; nỗi sợ thật chỉ nói ra khi bác sĩ hỏi riêng anh lo điều gì nhất. Gặp điều bác sĩ giải thích rõ thì ghi nhớ và áp dụng.",
+  "nguoi_nha": "Vợ, chị Trần Thị Lụa, 31 tuổi, bán rau ở chợ, ở nhà trông hai con (5 tuổi và 2 tuổi), không đi cùng. Chị thấy chồng trằn trọc, cáu gắt hơn trước, không ngáy to, không thấy ngưng thở. Chị không biết nỗi sợ ung thư của chồng.",
+  "ten_nguoi_nha": "Chị Lụa (vợ)",
+  "ngoai_hinh": {
+   "da": "#a9744f",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#6f7f5a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Mất ngủ 4 tháng, ban ngày mệt",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 34 tuổi, nông dân trồng hành lá ở xã ven biển Quảng Ngãi, đi khám một mình vì mất ngủ khoảng 4 tháng, ban ngày mệt. Anh mang theo sổ khám cũ nhưng chưa từng đi khám vì mất ngủ. Sinh hiệu lúc tiếp đón: mạch 78 l/p, HA 118/74 mmHg, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 62 kg, cao 165 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Khám tim phổi, bụng, thần kinh của anh Thuận bình thường, không gợi ý ngưng thở khi ngủ, chân không yên hay bệnh nội khoa nên chưa có chỉ định đa ký hay chuyên khoa giấc ngủ (ESRS 2023, mục 3.4: đa ký khi nghi rối loạn giấc ngủ khác, kháng trị hoặc nguy cơ tai nạn do mệt). Lên bệnh viện tỉnh anh mất công trên ruộng, tốn tiền đi lại và chụp siêu âm, CT, nội soi; kết quả nhiều khả năng bình thường nhưng anh về vẫn chưa được nghe giải thích nỗi lo thật và chưa biết phải đổi thói quen ngủ nào (AASM 2021, khuyến cáo 1–3).",
+    "nhap_vien": "Mất ngủ mạn của anh không có chỉ định nhập viện: tỉnh táo, sinh hiệu bình thường, không ý nghĩ tự hại, không loạn thần (QĐ 2058/2020, Bài 27 mục 3.1.1; Bài 20 mục 3.1.1). Nằm viện làm anh nghỉ nhiều ngày giữa vụ rau, bỏ vợ con ở nhà và nhiều khả năng ra viện với thuốc an thần uống hằng đêm, trong khi thuốc ngủ chỉ ngắn hạn tối đa 4 tuần (ESRS 2023, mục 4.2.1, Bảng 16; QĐ 2058/2020 Bài 27 mục 4.1: hạn chế lạm dụng nhóm giải lo âu gây nghiện)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi mất ngủ hơn bốn tháng nay rồi. Ban ngày mệt, hay quên, cáu với con. Tôi làm ruộng nên phải dậy sớm, mà đêm không ngủ được thì sáng làm không nổi.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "118/74",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mất ngủ khoảng 4 tháng, ban ngày mệt, hay quên, dễ cáu với con. Anh lo không đủ sức làm ruộng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "kieu_ngu",
+     "noi_dung": "Lên giường khoảng 21 giờ 30, nằm trằn trọc 1–1,5 giờ mới chợp mắt, thức giấc 2–3 giờ sáng rồi nằm đến 5 giờ mới dậy. Tự ước ngủ chừng 4,5–5 giờ trong 7,5 giờ nằm. Khoảng 5–6 đêm mỗi tuần như vậy; trước đó anh ngủ ngon khoảng 7 giờ, chưa từng mất ngủ kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mô tả đêm ngủ (khó vào giấc, thức giữa đêm, thức sớm), tần suất, thời gian kéo dài và nền trước đó"
+    },
+    {
+     "id": "hai_san",
+     "noi_dung": "Khởi phát: đám giỗ bên nhà vợ, anh ăn nhiều ghẹ luộc, mực và ốc hương. Nửa đêm đau quặn bụng, tiêu chảy 6–7 lần trong ngày, nôn hai lần, không sốt, không máu trong phân; tự uống oresol, hết sau 3 ngày. Từ đó ăn uống, đại tiện bình thường, không sụt cân. Những đêm đau bụng anh nằm nghĩ 'ngộ độc thế này chắc hại gan', rồi hết bệnh vẫn không ngủ lại được như cũ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát (đợt tiêu chảy sau ăn hải sản đã khỏi) và ý nghĩ lo bệnh gan đi kèm"
+    },
+    {
+     "id": "vong_lo",
+     "noi_dung": "Tối nào nằm xuống cũng nghĩ 'lát nữa lại không ngủ được', hay liếc đồng hồ, lấy tay ấn bụng bên phải xem gan có cứng không (không đau), rồi cầm điện thoại đọc tin về bệnh gan. Càng tính giờ càng tỉnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vòng lo âu về giấc ngủ và sức khỏe (yếu tố duy trì)"
+    },
+    {
+     "id": "thoi_quen",
+     "noi_dung": "Ngủ trưa khoảng 1,5 giờ 'để bù đêm'. Cà phê sữa đá 3 ly buổi sáng và 1 ly lúc 15 giờ. Hút 5–6 điếu thuốc lá mỗi ngày, hay hút một điếu trước khi nằm. Lướt điện thoại trên giường khoảng 1 giờ. Chủ nhật nằm đến 8 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố duy trì: ngủ trưa, caffeine, nicotine, điện thoại, giờ giấc"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Bia 2–3 lon chiều cuối tuần với anh em, không uống trước khi nằm, không rượu mạnh. Không run tay buổi sáng, chưa từng cai khó chịu hay co giật. Không dùng thuốc nào, không thuốc ngủ, không thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu bia (lượng và giờ uống) và thuốc đang dùng"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật anh đi khám hôm nay: cha anh mất vì ung thư gan cách đây 2 năm, khi 57 tuổi, sau nhiều năm viêm gan B không điều trị, phát hiện đã muộn. Tuần trước anh nghe một người quen ở xã bên (45 tuổi) cũng mới phát hiện ung thư gan. Anh sợ mình bị 'cái bệnh của cha', nghĩ bữa hải sản kia là khởi đầu. Anh không kể với vợ để chị khỏi lo.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng anh lo điều gì nhất, nghĩ mình bị bệnh gì, vì sao hôm nay mới đi khám, hoặc hỏi về bệnh của người thân. Hỏi chung 'tiền sử gia đình' thì anh đáp 'ba tôi mất rồi' rồi thôi.",
+     "k": 1,
+     "y": "Động cơ thật: sợ mắc ung thư gan như cha"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không đau bụng, không đầy bụng, không khó nuốt, không nôn máu, không đi cầu phân đen hay có máu, không vàng da, không sốt, ăn ngon, cân nặng ổn định 62 kg nhiều tháng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng báo động tiêu hóa, sụt cân, vàng da"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Khí sắc không buồn, vẫn thích chơi với con, đi chợ, nhậu với anh em. Ăn ngon. Mệt và cáu vì thiếu ngủ. Không có ý nghĩ chết hay tự làm hại mình. Lo chủ yếu về giấc ngủ và bệnh gan.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc trầm cảm và ý tưởng tự hại"
+    },
+    {
+     "id": "ngung_tho",
+     "noi_dung": "Vợ nói anh ngáy nhẹ khi nằm ngửa, không ngáy to, không thấy ngưng thở. Không ngủ gật khi xem ti vi hay lái xe, không đau đầu buổi sáng, không khó chịu ở chân khi nằm. Mẹ còn sống khỏe; không bệnh mạn tính.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc ngưng thở khi ngủ và chân không yên; tiền sử"
+    },
+    {
+     "id": "isi",
+     "noi_dung": "Nếu cho trả lời thang mức độ mất ngủ (ISI): tổng khoảng 18 điểm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đo mức độ nặng bằng thang chuẩn (không bắt buộc)"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi mệt, mắt thâm quầng nhẹ. Cân nặng 62 kg, cao 165 cm, BMI 22,8 kg/m². Niêm hồng, không vàng da, không phù.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Vòng cổ 37 cm. Không sờ thấy hạch cổ, hạch thượng đòn. Tuyến giáp không to. Tĩnh mạch cổ không nổi.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amidan không to, lưỡi gà và vòm họng không chen hẹp. Niêm mạc mũi hồng.",
+     "k": 0,
+     "hien": "Họng không đỏ, amidan không to."
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm, không điểm đau. Gan không sờ thấy dưới bờ sườn, bờ gan không cứng, không rung gan. Lách không to. Không khối u, không báng bụng, không tuần hoàn bàng hệ.",
+     "k": 1,
+     "hien": "Bụng phẳng, mềm, không điểm đau."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ. Dây sọ bình thường. Sức cơ 5/5 bốn chi, phản xạ gân xương đều hai bên. Không run, không cứng cơ.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, hơi mệt, hợp tác, nói mạch lạc. Khí sắc không trầm, cười khi nhắc con. Không hoang tưởng, không ảo giác. Lo lắng có chủ đề rõ: sợ không ngủ được và nghĩ mình có bệnh gan. Không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, hơi mệt, nói mạch lạc."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "Hb 148 g/L · BC 6,8 G/L · TC 262 G/L",
+     "n": "Không thiếu máu, không đổi xử trí; ESRS 2023 Bảng 4: khi có chỉ định; QĐ 2058/2020 Bài 27 mục 3.1.2 có liệt kê. Không làm không trừ điểm."
+    },
+    "glu": {
+     "v": "a",
+     "r": "Glucose 5,2 mmol/L",
+     "n": "Rẻ; loại bệnh nội khoa kèm theo (ESRS 2023 Bảng 5). Không bắt buộc."
+    },
+    "liver": {
+     "v": "a",
+     "r": "AST 26 · ALT 24 U/L",
+     "n": "Men gan bình thường giúp trấn an có cơ sở về nỗi lo bệnh gan (QĐ 2058/2020 Bài 27 mục 3.1.2; ESRS 2023 Bảng 4). Không bắt buộc."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,9 mUI/L · FT4 14 pmol/L (trong giới hạn bình thường)",
+     "n": "Loại cường giáp (ESRS 2023 Bảng 4). Không sụt cân, run, hồi hộp nên bỏ qua vẫn chấp nhận được."
+    },
+    "anti_hbs_hbc": {
+     "v": "u",
+     "r": "Anti-HBs 4 mIU/mL (< 10, chưa có miễn dịch bảo vệ) · Anti-HBc toàn phần âm tính",
+     "n": "QĐ 1740/QĐ-BYT 2026, mục II Bảng 1: HBsAg âm, anti-HBc âm, anti-HBs < 10 IU/L là chưa có miễn dịch, tiêm vắc xin nếu có điều kiện. Anh sinh năm 1992, trước năm 2003 là năm triển khai vắc xin cho trẻ dưới một tuổi trên toàn quốc."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Gan kích thước bình thường, bờ đều, echo đồng nhất, không khối. Mật, tụy, lách, thận bình thường.",
+     "n": "QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê siêu âm ổ bụng. Không phải tầm soát ung thư gan: QĐ 3129/2020 (TL-0169) mục 3.1, 3.2 chỉ cho HBV/HCV mạn và xơ gan. Không bắt buộc; làm để trấn an dễ thành thói quen đòi kiểm tra lại."
+    },
+    "afp": {
+     "v": "n",
+     "n": "Không dùng sàng lọc người không nhiễm HBV/HCV và không xơ gan (QĐ 3129/2020 mục 3.1, 3.2); khám bụng và men gan bình thường."
+    },
+    "psg": {
+     "v": "n",
+     "n": "Đa ký không cần để chẩn đoán mất ngủ; chỉ khi nghi ngưng thở, cử động chân chu kỳ, kháng trị hoặc nguy cơ tai nạn do mệt chưa giải thích được (ESRS 2023 mục 3.4, Bảng 4). BMI 22,8, không buồn ngủ ban ngày, vợ không thấy ngưng thở. Điểm cắt STOP-Bang: không có trong tài liệu đã tải."
+    },
+    "virus_mau": {
+     "v": "u",
+     "r": "HBsAg âm tính · Anti-HCV âm tính · HIV âm tính",
+     "n": "Hữu ích vì cha mắc viêm gan B rồi ung thư gan: QĐ 1740/QĐ-BYT 2026 (TL-0164) mục II khuyến cáo xét nghiệm cho người sinh trước 2003 và thành viên gia đình người nhiễm HBV, tối thiểu HBsAg (Bảng 1). Tối thiểu HBsAg (gói HBsAg, anti-HCV, HIV hoặc test nhanh tại giường). Gói huyết thanh học HBV đầy đủ (HBeAg, anti-HDV…) không cần cho sàng lọc."
+    },
+    "test_nhanh_virus": {
+     "v": "u",
+     "r": "HBsAg âm tính. Anti-HCV âm tính. Anti-HIV âm tính.",
+     "n": "Hữu ích vì cha mắc viêm gan B rồi ung thư gan: QĐ 1740/QĐ-BYT 2026 (TL-0164) mục II khuyến cáo xét nghiệm cho người sinh trước 2003 và thành viên gia đình người nhiễm HBV, tối thiểu HBsAg (Bảng 1). Tối thiểu HBsAg (gói HBsAg, anti-HCV, HIV hoặc test nhanh tại giường). Gói huyết thanh học HBV đầy đủ (HBeAg, anti-HDV…) không cần cho sàng lọc."
+    },
+    "hbv_huyet_thanh": {
+     "v": "a",
+     "r": "HBsAg âm tính. HBeAg âm, anti-HBe âm, anti-HBc IgM âm, anti-HBc toàn phần âm, anti-HDV âm.",
+     "n": "Đúng hướng nhưng thừa và đắt (600.000 đ) cho sàng lọc; QĐ 1740/QĐ-BYT 2026 (TL-0164) mục II Bảng 1 chỉ cần tối thiểu HBsAg."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn giấc ngủ: mất ngủ mạn (khó vào giấc, thức giữa đêm, thức sớm), khởi phát sau đợt tiêu chảy do ăn hải sản đã khỏi, duy trì bởi lo âu về giấc ngủ và sức khỏe (sợ ung thư gan như cha), ngủ trưa dài, cà phê chiều, thuốc lá và điện thoại trên giường",
+     "ok": 1,
+     "n": "Khó vào giấc và duy trì giấc ngủ, 5–6 đêm/tuần khoảng 4 tháng, gây mệt, kém tập trung, không do bệnh thực tổn, chất hay thuốc. Đạt ICD-10 (≥ 3 lần/tuần ≥ 1 tháng: QĐ 2058/2020 Bài 27 mục 3.1.1) và ICSD-3, ICD-11 (≥ 3 tháng kèm hậu quả ban ngày: ESRS 2023 Bảng 2, 3). Tiêu chảy hết sau 3 ngày nên chỉ là yếu tố khởi phát; yếu tố duy trì là vòng lo âu, ngủ trưa, caffeine, nicotine (ESRS 2023 mục 3.5, Bảng 5)."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Loại trừ: khí sắc không trầm, còn thích thú, ăn ngon, không ý nghĩ chết; chỉ có mệt (1/3 triệu chứng đặc trưng) trong khi thể nhẹ cần 2/3 kéo dài ≥ 2 tuần (QĐ 2058/2020 Bài 20 mục 3.1.1). Phải chủ động hỏi vì người bệnh có thể không tự kể (ESRS 2023 mục 3.5)."
+    },
+    {
+     "t": "Ngưng thở khi ngủ (OSA), kể cả mất ngủ kèm ngưng thở (COMISA)",
+     "n": "Không gợi ý: BMI 22,8, vòng cổ 37 cm, ngáy nhẹ tư thế ngửa, vợ không thấy ngưng thở, không buồn ngủ ban ngày. ESRS 2023 mục 3.5: 30–40% người mất ngủ có thể có OSA nên sàng lọc (STOP-Bang), dương tính thì đa ký; điểm cắt: không có trong tài liệu đã tải. Đa ký khi nghi hoặc kháng trị (mục 3.4)."
+    },
+    {
+     "t": "Ung thư gan hoặc ung thư đường tiêu hóa",
+     "n": "Không có dấu hiệu: không đau, không vàng da, không sụt cân, bụng và hạch bình thường, men gan bình thường, HBsAg âm tính. Tầm soát ung thư gan chỉ cho nhóm HBV/HCV mạn và xơ gan (QĐ 3129/2020 mục 3.1). Triệu chứng báo động tiêu hóa: BSG 2022 (TL-0213) Box 1."
+    },
+    {
+     "t": "Nhiễm vi rút viêm gan B (cha có viêm gan B)",
+     "n": "HBsAg, anti-HBc âm tính, men gan bình thường: không nhiễm; anti-HBs thấp nên chưa có miễn dịch (QĐ 1740/QĐ-BYT 2026 mục II Bảng 1)."
+    },
+    {
+     "t": "Lo âu lan tỏa hoặc lo âu về bệnh (nghi bệnh) là bệnh chính",
+     "n": "Lo có chủ đề rõ (bệnh gan, không ngủ được), khoảng 4 tháng; rối loạn lo âu lan tỏa thường kéo dài 6 tháng (QĐ 2058/2020 Bài 22 mục 3.1.1); rối loạn cơ thể hóa cần ≥ 2 năm (Bài 25 mục 3.1.1). Tiêu chuẩn riêng của nghi bệnh: không có trong tài liệu đã tải. Nỗi sợ là yếu tố duy trì cần xử trí và đánh giá lại nếu kéo dài."
+    },
+    {
+     "t": "Mất ngủ do rượu bia, caffeine, nicotine hoặc thuốc",
+     "n": "Cà phê 4 ly/ngày (ly cuối 15 giờ) và thuốc lá trước ngủ là yếu tố duy trì (QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023 Bảng 5). Bia chỉ cuối tuần, không dùng thuốc nào."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "CBT-I hoặc dạng ngắn làm đầu tay (kiểm soát kích thích, giờ dậy cố định, bỏ ngủ trưa, thư giãn, nhật ký ngủ) kèm giáo dục vệ sinh giấc ngủ",
+     "v": "c",
+     "n": "CBT-I đa thành phần: khuyến cáo mạnh (AASM 2021 khuyến cáo 1); liệu pháp hành vi ngắn, kiểm soát kích thích, thư giãn: có điều kiện (khuyến cáo 2, 3, 5); CBT-I đầu tay (ESRS 2023 mục 1.4, Bảng 16, A). QĐ 2058/2020 Bài 27 mục 4.3 chủ yếu nêu vệ sinh giấc ngủ; AASM 2021 (khuyến cáo 6) và ESRS 2023 (mục 4.1.1) gợi ý không dùng vệ sinh giấc ngủ đơn thuần. Khác nhau do năm và mức chứng cứ; vệ sinh giấc ngủ nằm trong CBT-I nên vẫn dặn kèm."
+    },
+    {
+     "t": "Kiểm soát kích thích: lên giường khi buồn ngủ, không ngủ được thì ra khỏi giường, giường chỉ để ngủ (không điện thoại), giờ dậy cố định kể cả cuối tuần, bỏ ngủ trưa",
+     "v": "c",
+     "n": "AASM 2021 Bảng 3 (stimulus control, ý a–e) và khuyến cáo 3; QĐ 2058/2020 Bài 27 mục 4.3. Ngủ trưa và nằm bù làm giấc ngủ rời rạc (ESRS 2023 mục 4.1.1)."
+    },
+    {
+     "t": "Không thu hẹp mạnh thời gian nằm giường vì anh lái xe công nông và dùng máy xới đất; nếu áp dụng thì nhẹ (cửa sổ giường không dưới 6 giờ) và dặn không lái xe, dùng máy khi buồn ngủ",
+     "v": "a",
+     "n": "AASM 2021 khuyến cáo 1–2, phần lưu ý: hạn chế giấc ngủ có thể chống chỉ định ở người vận hành máy nặng hoặc lái xe. ESRS 2023 mục 4.1.1: tạm tăng buồn ngủ, phải bàn an toàn; thời gian nằm tối thiểu 4,5, 5 hoặc 6 giờ. Mức 6 giờ là lựa chọn biên tập. Không áp dụng cũng đúng."
+    },
+    {
+     "t": "Bỏ cà phê chiều (còn 1–2 ly buổi sáng), bỏ thuốc lá trước khi nằm, không lướt điện thoại trên giường, không nhìn đồng hồ",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023 mục 3.5, Bảng 5; AASM 2021 Bảng 3. Số ly cà phê an toàn mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi riêng nỗi lo thật và giải thích có cơ sở: khám bụng, hạch, men gan, HBsAg đều bình thường nên ít khả năng bệnh gan; mất ngủ là vòng lo âu nuôi nhau, chữa được; dặn không tự ấn bụng, không đọc tin ban đêm",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.5 (rối loạn tâm thần đi kèm phải chủ động hỏi, ngẫm nghĩ ban đêm); chiến lược nhận thức là thành phần CBT-I (ESRS 2023 mục 4.1.1; AASM 2021 Bảng 3). Tỉ lệ ung thư gan ở người trẻ không nhiễm HBV: không có trong tài liệu đã tải, nên chỉ trấn an dựa trên khám và xét nghiệm của anh."
+    },
+    {
+     "t": "Tư vấn viêm gan B vì cha từng mắc: xét nghiệm HBsAg (tối thiểu), anti-HBs, anti-HBc; nếu chưa có miễn dịch thì tiêm vắc xin viêm gan B",
+     "v": "c",
+     "n": "QĐ 1740/QĐ-BYT 2026 (TL-0164) mục II, Bảng 1. Lịch tiêm người lớn: không có trong tài liệu đã tải (mục 5.1 chỉ nêu theo quy định hiện hành; mục 5.3 nêu đủ 3 mũi trong dự phòng sau phơi nhiễm)."
+    },
+    {
+     "t": "Lần khám này chưa kê thuốc ngủ, ưu tiên CBT-I; hoặc nếu cùng quyết định dùng thuốc thì chỉ ngắn hạn (không quá 4 tuần) kèm CBT-I",
+     "v": "c",
+     "n": "ESRS 2023 mục 1.4, Bảng 16, Hình 1: CBT-I trước, thuốc khi chưa đủ, tối đa 4 tuần. AASM 2026 khuyến cáo 2: gợi ý không phối hợp thuốc thay vì CBT-I đơn thuần; khuyến cáo 1: phối hợp tốt hơn thuốc đơn thuần (ghi chú: người ưu tiên tăng sớm thời gian ngủ có thể chọn phối hợp). QĐ 2058/2020 Bài 27 mục 4.1: tâm lý và thuốc có thể kết hợp, hạn chế lạm dụng nhóm giải lo âu gây nghiện."
+    },
+    {
+     "t": "Dặn ghi nhật ký ngủ 7–14 ngày, hẹn tái khám khoảng 2–3 tuần; không chỉ định đa ký, CT, nội soi khi chưa có nghi ngờ",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.2 (nhật ký ≥ 7–14 ngày), mục 3.4, Bảng 4. Khoảng cách tái khám: không có trong tài liệu đã tải (2–3 tuần là lựa chọn biên tập)."
+    },
+    {
+     "t": "Kê diazepam hoặc zolpidem hằng đêm ngay từ đầu, không làm CBT-I, không hỏi nỗi lo, trong khi anh vẫn lái xe công nông",
+     "v": "w",
+     "n": "ESRS 2023 mục 4.2.1: chỉ có lợi ngắn hạn (tối đa 4 tuần), dung nạp, phụ thuộc, ngủ gà ban ngày ảnh hưởng lái xe; Bảng 16: thuốc khi CBT-I chưa đủ. QĐ 2058/2020 Bài 27 mục 4.1 hạn chế lạm dụng; mục 4.3 vẫn liệt kê các thuốc này và AASM 2017 khuyến cáo 2–6 cho phép ngắn hạn. Nỗi lo gốc không được giải quyết."
+    },
+    {
+     "t": "Cho làm hàng loạt xét nghiệm tầm soát ung thư (AFP, CT bụng, nội soi) 'cho chắc' dù không triệu chứng báo động và HBsAg âm tính",
+     "v": "w",
+     "n": "QĐ 3129/2020 (TL-0169) mục 3.1: tầm soát chỉ cho nhóm nguy cơ cao. BSG 2022 (TL-0213) Box 1: nội soi khi có triệu chứng báo động. Tốn tiền, không đổi xử trí, nuôi nỗi sợ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn giấc ngủ: mất ngủ mạn (khó vào giấc, thức giữa đêm, thức sớm), 5–6 đêm/tuần khoảng 4 tháng, suy giảm ban ngày; ISI khoảng 18 là mức vừa (15–21, ESRS 2023 mục 3.2)",
+     "Khởi phát sau đợt tiêu chảy do ăn hải sản đã khỏi trong 3 ngày; duy trì bởi vòng lo âu về giấc ngủ và bệnh gan, ngủ trưa 1,5 giờ, cà phê 4 ly kể cả 15 giờ, thuốc lá trước ngủ, điện thoại trên giường",
+     "Lý do thật đi khám: sợ mắc ung thư gan như cha (mất 2 năm trước sau nhiều năm viêm gan B; người quen mới phát hiện); chưa kể với vợ",
+     "Không có trầm cảm, chưa gợi ý ngưng thở khi ngủ, chân không yên hay cường giáp; không triệu chứng báo động ung thư; HBsAg âm tính, anti-HBs thấp"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: nhật ký đêm cụ thể, thời gian, khởi phát, thói quen ngày, rượu bia, thuốc, bệnh nội khoa, tâm trạng, người nằm cạnh, tiền sử gia đình. Khởi phát sau hải sản chỉ là mốc thời gian: bệnh tiêu hóa đã khỏi, ăn ngon, không sụt cân.",
+     "Vì sao là mất ngủ mạn: khó vào giấc và duy trì giấc ngủ, ≥ 3 lần/tuần, suy giảm chức năng, không do bệnh thực tổn, chất hay thuốc (QĐ 2058/2020 Bài 27 mục 3.1.1); ICSD-3 và ICD-11 cần ≥ 3 tháng (ESRS 2023 Bảng 2, 3). Anh đạt cả hai.",
+     "Lý do thật: hỏi 'điều gì làm anh lo nhất, vì sao hôm nay mới đi khám' mới ra chuyện cha mất vì ung thư gan; rối loạn tâm thần và nỗi sợ phải chủ động khai thác (ESRS 2023 mục 3.5). Loại trừ trầm cảm (QĐ 2058/2020 Bài 20 mục 3.1.1) và ngưng thở khi ngủ (ESRS 2023 mục 3.4, 3.5).",
+     "Cận lâm sàng không cần để chẩn đoán mất ngủ (ESRS 2023 mục 3.4, Bảng 4). Hợp lý: HBsAg, anti-HBs vì cha có viêm gan B (QĐ 1740/QĐ-BYT 2026 mục II); công thức máu, men gan, glucose, TSH rẻ, chấp nhận được. Không AFP, CT, nội soi, điện não đồ, đa ký (QĐ 3129/2020 mục 3.1; BSG 2022 Box 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Đầu tay là CBT-I hoặc dạng ngắn, không phải thuốc (AASM 2021 khuyến cáo 1–3, 5; ESRS 2023 Bảng 16, A); không dùng vệ sinh giấc ngủ đơn thuần (AASM 2021 khuyến cáo 6; ESRS 2023 mục 4.1.1), dù QĐ 2058/2020 Bài 27 mục 4.3 chủ yếu nêu vệ sinh giấc ngủ.",
+     "Kiểm soát kích thích, thư giãn (AASM 2021 Bảng 3, khuyến cáo 5). Hạn chế giấc ngủ thận trọng vì anh lái xe công nông và dùng máy (AASM 2021 khuyến cáo 1–2, phần lưu ý). Giải thích nỗi sợ có cơ sở, chiến lược nhận thức là một phần CBT-I (ESRS 2023 mục 4.1.1).",
+     "Viêm gan B: xét nghiệm người nhà, tiêm vắc xin nếu chưa có miễn dịch (QĐ 1740/QĐ-BYT 2026 mục II Bảng 1). Thuốc ngủ: chưa kê, hoặc nếu cùng quyết định thì tối đa 4 tuần kèm CBT-I (ESRS 2023 mục 1.4, 4.2.1, Bảng 16; AASM 2026 khuyến cáo 1–2). Kê hằng đêm kéo dài là sai."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc ngủ lần khám này",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến lần tái khám",
+      "ghi_chu": "ESRS 2023 Bảng 16; AASM 2026 khuyến cáo 2. Cách khác: thuốc ngắn hạn sau quyết định chung (xem lượt sau)."
+     },
+     {
+      "thuoc": "Vắc xin viêm gan B (tại cơ sở tiêm chủng)",
+      "ham_luong": "Liều người lớn: không có trong tài liệu đã tải",
+      "lieu": "Theo quy định hiện hành (QĐ 1740/QĐ-BYT 2026 mục 5.1); số mũi, khoảng cách: không có trong tài liệu đã tải",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Khi HBsAg, anti-HBc âm và anti-HBs < 10",
+      "so_ngay": "Theo lịch cơ sở tiêm chủng",
+      "ghi_chu": "QĐ 1740/QĐ-BYT 2026 mục II Bảng 1."
+     },
+     {
+      "thuoc": "Ngừng cà phê chiều và thuốc lá trước ngủ",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Cà phê tối đa 1–2 ly buổi sáng; không hút thuốc trước khi nằm",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Từ hôm nay",
+      "ghi_chu": "QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023 mục 3.5. Số ly an toàn: không có trong tài liệu đã tải (lựa chọn biên tập)."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: mất ngủ mạn chữa được không cần thuốc ngủ, hiệu quả bền (ESRS 2023 mục 1.4, 4.1.1); đêm xấu thường kéo theo đêm tốt hơn (ESRS 2023 mục 4.1.1, Psychoeducation).",
+     "Giờ dậy cố định 5 giờ kể cả chủ nhật; lên giường khoảng 22 giờ, chỉ khi buồn ngủ; không ngủ được thì ra khỏi giường; giường chỉ để ngủ, không điện thoại; bỏ ngủ trưa (AASM 2021 Bảng 3, ý a–e). Cà phê chỉ buổi sáng, không thuốc lá, bia rượu buổi tối (QĐ 2058/2020 Bài 27 mục 4.3).",
+     "An toàn: những ngày đầu có thể mệt hoặc buồn ngủ hơn; không lái xe công nông hay dùng máy khi díp mắt (ESRS 2023 mục 4.1.1). Ghi nhật ký ngủ 7–14 ngày (ESRS 2023 mục 3.2). Đi xét nghiệm và tiêm vắc xin viêm gan B theo hẹn.",
+     "Nên nói với vợ về nỗi lo. Tái khám 2–3 tuần (lựa chọn biên tập); đến sớm nếu buồn chán kéo dài, nghĩ đến chết, đau bụng, vàng da, sụt cân, đi phân đen (ESRS 2023 mục 3.5; QĐ 2058/2020 Bài 20 mục 3.1.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 tuần",
+   "tiep_don": "Anh Thuận tái khám sau 3 tuần theo hẹn, mang sổ nhật ký ngủ 21 đêm. Anh nói tuần đầu ngủ có khá nhưng khoảng 10 ngày nay mất ngủ nặng hơn trước, có hai đêm gần như không chợp mắt, ban ngày mệt lả, ăn ít. Sinh hiệu lúc tiếp đón: mạch 88 l/p, HA 124/80 mmHg, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%, cân nặng 60,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Mất ngủ nặng lên của anh Thuận có lời giải thích rõ: CBT-I tuần đầu có tác dụng rồi nỗi lo bùng lại sau một sự kiện, kèm rượu gạo, cà phê, ngủ trưa quay lại; bụng, hạch, thần kinh bình thường, không dấu báo động (BSG 2022, TL-0213, Box 1). Đa ký chỉ khi nghi rối loạn giấc ngủ khác hoặc kháng trị; mới 3 tuần và chưa làm đúng nên chưa là kháng trị (ESRS 2023, mục 3.4). Lên bệnh viện tỉnh làm CT, nội soi, đa ký, anh tốn kém, nghỉ ruộng, kết quả bình thường vẫn không dập được nỗi sợ.",
+    "nhap_vien": "Anh tỉnh táo, khí sắc không trầm, không ý nghĩ tự hại, không loạn thần, sinh hiệu ổn nên không có chỉ định nhập viện tâm thần hay nội khoa (QĐ 2058/2020, Bài 20 mục 3.1.1, Bài 27 mục 3.1.1). Nằm viện cắt anh khỏi ruộng rau đang vào vụ, tốn viện phí và nhiều khả năng ra viện với thuốc an thần hằng đêm; benzodiazepin và nhóm Z chỉ ngắn hạn tối đa 4 tuần, có dung nạp, phụ thuộc, ngủ gà ban ngày (ESRS 2023, mục 4.2.1, Bảng 16; QĐ 2058/2020 Bài 27 mục 4.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, tuần đầu tôi làm theo bác sĩ dặn thì ngủ có khá. Nhưng mười hôm nay tệ lắm, có hai đêm tôi không ngủ chút nào, ban ngày mệt lả. Tôi ăn không vô, sụt hơn một ký rồi. Tôi sợ bệnh của mình nặng thêm. Nếu bác sĩ thấy cần thì cho tôi chụp kiểm tra gan cho chắc.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "124/80",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khoảng 10 ngày nay mất ngủ nặng hơn trước lần khám đầu: vào giấc sau hơn 90 phút, thức 2–3 lần, ngủ chừng 3–4 giờ; hai đêm gần như không ngủ. Ban ngày mệt lả, hồi hộp, ăn ít, sụt 1,5 kg trong 3 tuần (62 xuống 60,5 kg). Anh lo bệnh nặng thêm và xin chụp kiểm tra gan 'cho chắc'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: nặng lên, sụt cân nhẹ, xin kiểm tra thêm"
+    },
+    {
+     "id": "nhat_ky",
+     "noi_dung": "Tuần đầu anh làm đúng: dậy 5 giờ, bỏ ngủ trưa, cà phê 1 ly sáng, không điện thoại trên giường; nhật ký vào giấc 40 phút, ngủ 5,5 giờ trong 7 giờ nằm, ISI tự tính khoảng 14. Từ khoảng 11 ngày trước xấu dần: ngủ 3–4 giờ trong 7,5 giờ nằm (hiệu suất khoảng 50%), ISI khoảng 23.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhật ký ngủ: đáp ứng ban đầu rồi xấu lại; mức độ nặng bằng thang chuẩn"
+    },
+    {
+     "id": "su_kien",
+     "noi_dung": "Điều làm nặng: người quen ở xã bên (ông Sáu, 45 tuổi) bị ung thư gan phát hiện tuần trước lần khám đầu, mất cách đây 11 ngày. Anh đi đám tang, nghe nói ông 'đau ít, phát hiện là muộn'. Từ đó đêm nào anh cũng sờ bụng bên phải, đọc tin ung thư gan, nghĩ 'tới lượt mình'. Anh vẫn chưa kể với vợ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sự kiện làm bùng nỗi sợ ung thư gan"
+    },
+    {
+     "id": "xn_cu",
+     "noi_dung": "Anh đã đi xét nghiệm theo hẹn: HBsAg âm tính, anti-HBc âm tính, anti-HBs thấp; men gan bình thường; đã tiêm một mũi vắc xin viêm gan B ở trạm. Anh nói 'xét nghiệm của em tốt rồi nhưng nghe tin ông Sáu em lại nghĩ máy có thể sót'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xét nghiệm lượt trước âm tính nhưng không dập được nỗi sợ"
+    },
+    {
+     "id": "ruou_lai",
+     "noi_dung": "Từ khoảng 9 ngày nay mỗi tối uống 2–3 chén nhỏ rượu gạo trước khi nằm 'cho dễ ngủ', ngủ được một lúc rồi tỉnh giữa đêm. Cà phê lại 3 ly buổi sáng và 1 ly lúc 14 giờ 'cho đỡ lả'. Ngủ trưa lại khoảng 1 giờ vì mệt. Hút thuốc lá 4–5 điếu/ngày, không hút trước nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố làm nặng: rượu tự chữa, cà phê, ngủ trưa quay lại"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Mệt và lo nhiều, hơi chùng xuống nhưng vẫn thích chơi với con, nói chuyện vui khi nhắc ruộng rau, vẫn ăn món vợ nấu (ít hơn). Không thấy vô vọng. Nghĩ 'nhỡ mình bệnh thật thì vợ con sao' nhưng chưa bao giờ muốn chết hay tự làm hại mình.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đánh giá lại trầm cảm và ý tưởng tự hại khi bệnh nặng lên"
+    },
+    {
+     "id": "hoi_hop",
+     "noi_dung": "Hồi hộp, tim đập mạnh lúc nằm im và khi nghĩ về bệnh, vã mồ hôi bàn tay; không đau ngực, không khó thở khi làm ruộng, không nóng sốt, không ngất; đỡ khi ngồi thở chậm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng cường giao cảm khi lo âu; phân biệt cường giáp, bệnh tim"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Ăn ít vì không thèm và lo, không buồn nôn, không đau hay đầy bụng, không khó nuốt. Phân vàng thành khuôn, không máu, không đen. Không vàng da, không sốt. Cân sụt do ăn ít trong lúc mất ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lại triệu chứng báo động khi sụt cân nhẹ"
+    },
+    {
+     "id": "ngung_tho",
+     "noi_dung": "Vợ vẫn nói không ngáy to, không thấy ngưng thở. Hôm kia anh thấy díp mắt lúc lái xe công nông chở rau nên phải đỗ nghỉ 15 phút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc lại ngưng thở và nguy cơ tai nạn do mệt"
+    },
+    {
+     "id": "vo",
+     "noi_dung": "Vợ thấy chồng gầy đi, ít nói, hay ngồi một mình ban đêm nên hỏi nhiều lần; anh chưa kể. Nếu bác sĩ khuyên, anh đồng ý nói với vợ và làm theo mọi hướng dẫn, chỉ cần nghe giải thích rõ vì sao không cần chụp.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hỗ trợ gia đình và thái độ hợp tác"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hơi gầy đi, mệt, mắt thâm quầng. Cân nặng 60,5 kg (giảm 1,5 kg so với 3 tuần trước), BMI 22,2. Niêm hồng, không vàng da, không phù.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch cổ, hạch thượng đòn. Tuyến giáp không to, không nghe âm thổi. Tĩnh mạch cổ không nổi.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm, không điểm đau. Gan không sờ thấy dưới bờ sườn, bờ gan không cứng. Lách không to. Không khối u, không báng bụng.",
+     "k": 1,
+     "hien": "Bụng phẳng, mềm, không điểm đau."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ. Dây sọ bình thường. Sức cơ 5/5 bốn chi, phản xạ gân xương đều hai bên. Run nhẹ đầu ngón tay khi căng thẳng, không run nghỉ.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, mệt, hợp tác, nói mạch lạc, đôi lúc ngập ngừng khi nhắc ông Sáu. Khí sắc chùng nhẹ, còn cười khi nhắc con, còn thích thú, không vô vọng. Lo âu rõ, chủ đề là bệnh gan và không ngủ được. Không hoang tưởng, không ảo giác. Không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, mệt, nói mạch lạc, có vẻ lo lắng."
+    }
+   },
+   "cls": {
+    "tsh": {
+     "v": "u",
+     "r": "TSH 2,0 mUI/L · FT4 14 pmol/L (trong giới hạn bình thường)",
+     "n": "Hữu ích khi mới hồi hộp, vã mồ hôi và sụt 1,5 kg: loại cường giáp (ESRS 2023 Bảng 4, mục 3.5). Nếu đã làm ở lượt 1 thì kết quả giữ nguyên."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "Hb 146 g/L · BC 6,9 G/L · TC 255 G/L",
+     "n": "Sụt cân nhẹ, mệt: không thiếu máu (ESRS 2023 Bảng 4). Không bắt buộc."
+    },
+    "afp": {
+     "v": "n",
+     "n": "Tầm soát ung thư gan chỉ cho nhóm HBV/HCV mạn và xơ gan (QĐ 3129/2020, TL-0169, mục 3.1, 3.2). Anh HBsAg, anti-HBc âm tính, men gan bình thường."
+    },
+    "abdus": {
+     "v": "n",
+     "n": "Khám bụng bình thường, không vàng da, không đau; không dấu hiệu mới nên không có chỉ định làm lại (QĐ 3129/2020 mục 3.1; BSG 2022 Box 1). Lặp lại chỉ để trấn an."
+    },
+    "noi_soi": {
+     "v": "n",
+     "n": "Chỉ khi có triệu chứng báo động (khó nuốt mọi lứa tuổi, nôn máu, sụt cân kèm khó tiêu ở người từ 55 tuổi: BSG 2022, TL-0213, Box 1). Anh 34 tuổi, sụt cân nhẹ do ăn ít."
+    },
+    "fit": {
+     "v": "n",
+     "n": "Không triệu chứng đại tràng, phân không máu. ACPGBI/BSG 2022 (TL-0214, mục Methods): người không có dấu hiệu nghi ung thư đại trực tràng không thuộc phạm vi hướng dẫn."
+    },
+    "psg": {
+     "v": "n",
+     "n": "Không nghi ngưng thở (BMI 22,2, vợ không thấy ngưng thở); chưa kháng trị CBT-I vì mới 3 tuần và đang sai ở rượu, ngủ trưa (ESRS 2023 mục 3.4, Bảng 4). Díp mắt lúc lái xe có lời giải thích là thiếu ngủ cấp. Điểm cắt STOP-Bang: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn giấc ngủ: mất ngủ mạn nặng lên (ISI từ khoảng 18 lên 23), bùng lại sau cái chết của người quen vì ung thư gan; duy trì bởi nỗi sợ ung thư gan, rượu gạo trước ngủ, cà phê tăng, ngủ trưa trở lại",
+     "ok": 1,
+     "n": "Chẩn đoán đích không đổi. Đáp ứng ban đầu với CBT-I (ngủ 5,5 giờ, ISI khoảng 14) rồi xấu đi theo một sự kiện, kèm tự chữa bằng rượu (ESRS 2023 mục 3.5). ISI 22–28 là nặng (mục 3.2)."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Hỏi lại khi bệnh nặng hơn: khí sắc chùng nhẹ nhưng còn thích thú, còn cười, ăn ít do lo, không ý nghĩ chết hay tự hại; chưa đủ 2/3 triệu chứng đặc trưng ≥ 2 tuần cho thể nhẹ (QĐ 2058/2020 Bài 20 mục 3.1.1). Cần theo dõi (ESRS 2023 mục 3.5)."
+    },
+    {
+     "t": "Ngưng thở khi ngủ (OSA)",
+     "n": "Vẫn không gợi ý: BMI 22,2, vợ không thấy ngưng thở, không ngáy to; díp mắt khi lái xe đã có lời giải thích bằng thiếu ngủ cấp. Đa ký khi nghi hoặc kháng trị (ESRS 2023 mục 3.4, 3.5)."
+    },
+    {
+     "t": "Rối loạn lo âu (lo âu về bệnh, lo âu lan tỏa, hoảng sợ) là bệnh chính",
+     "n": "Lo âu rõ nhưng có chủ đề (bệnh gan, không ngủ được), khoảng 4 tháng, bùng sau sự kiện; rối loạn lo âu lan tỏa thường kéo dài 6 tháng (QĐ 2058/2020 Bài 22 mục 3.1.1). Hồi hộp khi nằm im hoặc nghĩ về bệnh, đỡ khi thở chậm. Tiêu chuẩn riêng của nghi bệnh và hoảng sợ: không có trong tài liệu đã tải. Đánh giá lại sau 2–4 tuần; còn nổi bật khi ngủ đã khá thì chuyển chuyên khoa tâm thần."
+    },
+    {
+     "t": "Ung thư gan hoặc ung thư đường tiêu hóa",
+     "n": "Không dấu hiệu: không đau, vàng da, phân đen; bụng, hạch bình thường; men gan bình thường, HBsAg âm tính. Sụt 1,5 kg (2,4%) trong 3 tuần do ăn ít; ngưỡng sụt cân cần tìm bệnh ác tính ở người dưới 55 tuổi: không có trong tài liệu đã tải, nên cân lại mỗi tuần. Triệu chứng báo động: BSG 2022 (TL-0213) Box 1."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Hồi hộp, vã mồ hôi, sụt cân nhẹ nhưng không sợ nóng, tuyến giáp không to; TSH, FT4 bình thường (ESRS 2023 Bảng 4, mục 3.5)."
+    },
+    {
+     "t": "Mất ngủ do rượu bia, caffeine, nicotine",
+     "n": "Rượu gạo 2–3 chén trước nằm 9 ngày và cà phê 4 ly/ngày làm nặng; rượu phá vỡ nhịp thức ngủ (QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023 mục 3.5, Bảng 5). Mức ít, không dấu cai nên xử trí ngoại trú."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá lại toàn diện khi bệnh nặng lên: sự kiện làm bùng, trầm cảm và ý tưởng tự hại, lo âu, rượu và caffeine, triệu chứng báo động tiêu hóa, cân nặng, khám bụng, hạch, tim; ghi ISI",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.5, 3.2, Bảng 4; QĐ 2058/2020 Bài 20 mục 3.1.1, Bài 27 mục 3.1.2 (trắc nghiệm tâm lý đánh giá trầm cảm, lo âu, giấc ngủ). Thang cụ thể cho ý nghĩ tự hại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không chạy theo xét nghiệm tầm soát ung thư: giải thích vì sao khám bụng, men gan, HBsAg âm tính và không dấu báo động nên không cần AFP, CT, nội soi; hứa theo dõi cân mỗi tuần",
+     "v": "c",
+     "n": "QĐ 3129/2020 (TL-0169) mục 3.1, 3.2; BSG 2022 (TL-0213) Box 1; ACPGBI/BSG 2022 (TL-0214). Kiểm tra thêm không dập được nỗi sợ ở người đã có xét nghiệm âm tính; cần xử trí trực tiếp nỗi sợ. Cho chụp CT bụng, nội soi, AFP hoặc siêu âm lặp lại \"cho yên tâm\" là không phù hợp (tốn kém, không đổi xử trí, củng cố hành vi kiểm tra)."
+    },
+    {
+     "t": "Tiếp tục CBT-I, nâng cường độ: tái khám sau 1 tuần với nhật ký; làm lại đúng kiểm soát kích thích (bỏ ngủ trưa, giờ dậy 5 giờ), thư giãn; chưa nới hay thu hẹp thời gian nằm giường",
+     "v": "c",
+     "n": "AASM 2021 khuyến cáo 1–3, 5; ESRS 2023 mục 4.1.1 (CBT-I 4–8 buổi, nới giờ nằm khi hiệu suất > 85–90%; hiệu suất hiện 50% nên không nới). Anh lái xe công nông và đã díp mắt: không thu hẹp thêm (AASM 2021 khuyến cáo 1–2, phần lưu ý). Tái khám 1 tuần: không có trong tài liệu đã tải (lựa chọn biên tập)."
+    },
+    {
+     "t": "Xử trí trực tiếp vòng lo âu: ghi nỗi lo vào sổ ban ngày thay vì sờ bụng và đọc tin ban đêm, giải thích vì sao chuyện người khác không áp cho mình, thư giãn; khuyến khích kể với vợ; nếu lo âu vẫn nổi bật sau 2–4 tuần thì giới thiệu chuyên khoa tâm thần hoặc tâm lý",
+     "v": "c",
+     "n": "Chiến lược nhận thức và thư giãn là thành phần CBT-I (ESRS 2023 mục 4.1.1; AASM 2021 khuyến cáo 5, Bảng 3). QĐ 2058/2020 Bài 27 mục 4.1: liệu pháp tâm lý và thuốc có thể kết hợp. Thời hạn 2–4 tuần: không có trong tài liệu đã tải (lựa chọn biên tập)."
+    },
+    {
+     "t": "Bỏ rượu gạo trước ngủ, cà phê về 1–2 ly buổi sáng, bỏ ngủ trưa dài",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023 mục 3.5; AASM 2021 Bảng 3 (ý e)."
+    },
+    {
+     "t": "Thuốc: tiếp tục CBT-I đơn thuần, chưa kê thuốc ngủ; hoặc nếu cùng quyết định dùng thuốc vì mất ngủ nặng thì chỉ ngắn hạn (tối đa 4 tuần) kèm CBT-I và dặn không lái xe, dùng máy khi chưa tỉnh hẳn",
+     "v": "c",
+     "n": "AASM 2026 khuyến cáo 2: gợi ý CBT-I đơn thuần thay vì phối hợp; khuyến cáo 1 và ghi chú: người ưu tiên tăng sớm thời gian ngủ có thể chọn phối hợp. ESRS 2023 mục 1.4, 4.2.1, Bảng 16: ≤ 4 tuần, ngủ gà ảnh hưởng lái xe. AASM 2017 khuyến cáo 4: zolpidem 10 mg (liều thử nghiệm). Liều khởi đầu cho nam trẻ ngoài liều thử nghiệm: không có trong tài liệu đã tải. Khác nhau do năm và dựa trên so sánh trực tiếp hay không."
+    },
+    {
+     "t": "Dặn dấu hiệu quay lại sớm: nghĩ đến chết hoặc tự hại, buồn chán kéo dài, đau bụng, vàng da, đi phân đen, tiếp tục sụt cân, díp mắt khi lái xe",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 20 mục 3.1.1; BSG 2022 (TL-0213) Box 1; ESRS 2023 mục 3.4."
+    },
+    {
+     "t": "Kê diazepam hoặc zolpidem hằng đêm kéo dài, tăng liều khi chưa ngủ được, bỏ CBT-I",
+     "v": "w",
+     "n": "ESRS 2023 mục 4.2.1: lợi ích ngắn hạn tối đa 4 tuần, dung nạp, phụ thuộc, ngủ gà; anh lái xe công nông và đã díp mắt. QĐ 2058/2020 Bài 27 mục 4.1: hạn chế lạm dụng nhóm giải lo âu gây nghiện."
+    },
+    {
+     "t": "Cho kháng histamin (diphenhydramin, promethazin), quetiapin hoặc olanzapin để ngủ",
+     "v": "w",
+     "n": "ESRS 2023 mục 1.4, 4.2.3, 4.2.5, Bảng 16: không khuyến cáo (A); AASM 2017 khuyến cáo 11: gợi ý không dùng diphenhydramin. QĐ 2058/2020 Bài 27 mục 4.3 có nêu olanzapin, quetiapin trong điều trị, nhưng ESRS 2023 mục 4.2.3 không khuyến cáo khi không có bệnh tâm thần đi kèm."
+    },
+    {
+     "t": "Trấn an cho qua 'không sao đâu' mà không hỏi sự kiện làm nặng, không xem nhật ký, không hẹn lại",
+     "v": "w",
+     "n": "ESRS 2023 mục 3.5 (khai thác nguyên nhân và nỗi sợ), mục 3.2 (nhật ký ngủ). Trấn an trống rỗng không giải quyết vòng lo âu."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn giấc ngủ: mất ngủ mạn nặng lên sau 3 tuần CBT-I, ISI từ khoảng 18 lên 23 (nặng, 22–28; ESRS 2023 mục 3.2), ngủ 3–4 giờ trong 7,5 giờ nằm (hiệu suất khoảng 50%)",
+     "Yếu tố làm nặng: người quen mất vì ung thư gan 11 ngày trước làm bùng nỗi sợ; rượu gạo 2–3 chén trước ngủ 9 ngày, cà phê 4 ly, ngủ trưa trở lại, đọc tin và sờ bụng ban đêm",
+     "Lo âu rõ có chủ đề kèm hồi hộp, vã mồ hôi khi nằm; chưa đủ tiêu chuẩn một rối loạn lo âu riêng, cần theo dõi",
+     "Không trầm cảm, không ý nghĩ tự hại, không triệu chứng báo động ung thư; sụt 1,5 kg do ăn ít; nguy cơ an toàn: díp mắt khi lái xe công nông"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: so nhật ký 3 tuần (ISI theo thang ESRS 2023 mục 3.2), tìm sự kiện làm nặng, hỏi cụ thể rượu, caffeine, ngủ trưa, tâm trạng, ý nghĩ tự hại, hồi hộp, tiêu hóa, cân nặng, ngưng thở.",
+     "Vì sao là nặng lên chứ không phải bệnh mới: triệu chứng mới (hồi hộp, ăn ít, sụt cân nhẹ) cùng xuất hiện sau sự kiện cụ thể, đỡ khi thở chậm, bụng và hạch bình thường. Khi nặng hơn vẫn rà lại trầm cảm (QĐ 2058/2020 Bài 20 mục 3.1.1), ngưng thở (ESRS 2023 mục 3.4, 3.5), cường giáp (Bảng 4), ung thư (QĐ 3129/2020 mục 3.1; BSG 2022 Box 1).",
+     "An toàn: không ý nghĩ tự hại, không loạn thần, sinh hiệu bình thường nên điều trị ngoại trú; díp mắt khi lái xe là nguy cơ thật (ESRS 2023 mục 3.4, 4.1.1).",
+     "Cận lâm sàng: nguồn lực đầy đủ nhưng chỉ TSH hữu ích (hồi hộp, sụt cân); điện tâm đồ, công thức máu, glucose chấp nhận được. AFP, CT, nội soi, FIT, siêu âm lại, đa ký không có chỉ định; xét nghiệm lượt 1 âm tính mà nỗi sợ vẫn bùng nên làm thêm không giúp."
+    ],
+    "phan_tich_xu_tri": [
+     "Nâng mức chăm sóc nhưng vẫn ngoại trú: tái khám 1 tuần, xem nhật ký, củng cố CBT-I (AASM 2021 khuyến cáo 1; ESRS 2023 mục 4.1.1), xử trí trực tiếp vòng lo âu bằng chiến lược nhận thức và thư giãn; giới thiệu chuyên khoa nếu lo âu còn nổi bật sau 2–4 tuần (lựa chọn biên tập).",
+     "Không thu hẹp thêm giờ nằm vì anh lái xe công nông và đã díp mắt (AASM 2021 khuyến cáo 1–2, phần lưu ý); không nới vì hiệu suất thấp (ESRS 2023 mục 4.1.1). Bỏ rượu trước ngủ (QĐ 2058/2020 Bài 27 mục 4.3), cà phê 1–2 ly buổi sáng, bỏ ngủ trưa dài.",
+     "Thuốc: hai hướng cùng đúng. (1) CBT-I đơn thuần (AASM 2026 khuyến cáo 2). (2) Nếu cùng quyết định, thuốc ngắn hạn tối đa 4 tuần kèm CBT-I (ESRS 2023 Bảng 16; AASM 2026 khuyến cáo 1), ví dụ zolpidem 10 mg (AASM 2017 khuyến cáo 4), dặn không lái xe, dùng máy khi chưa tỉnh (ESRS 2023 mục 4.2.1). Không hằng đêm kéo dài, không kháng histamin hay an thần kinh."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc ngủ (lựa chọn 1: CBT-I đơn thuần)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến lần tái khám sau 1 tuần",
+      "ghi_chu": "AASM 2026 khuyến cáo 2; ESRS 2023 Bảng 16, Hình 1."
+     },
+     {
+      "thuoc": "Zolpidem (lựa chọn 2, chỉ khi cùng quyết định dùng thuốc ngắn hạn kèm CBT-I)",
+      "ham_luong": "Viên 10 mg",
+      "lieu": "10 mg mỗi tối khi cần, không tăng liều",
+      "duong": "Uống",
+      "thoi_diem": "Ngay trước khi nằm; không lái xe, dùng máy sáng hôm sau nếu còn ngủ gà",
+      "so_ngay": "Tối đa 4 tuần, đánh giá lại sau 1 tuần",
+      "ghi_chu": "AASM 2017 khuyến cáo 4 (thử nghiệm ở liều 10 mg); ESRS 2023 mục 4.2.1, Bảng 16 (≤ 4 tuần, ảnh hưởng lái xe); AASM 2026 khuyến cáo 1 ghi chú. Liều thấp hơn, cách ngừng thuốc, có ở Việt Nam: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Ngừng rượu gạo trước ngủ; giảm cà phê",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không rượu bia buổi tối; cà phê tối đa 1–2 ly buổi sáng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Từ hôm nay",
+      "ghi_chu": "QĐ 2058/2020 Bài 27 mục 4.3; ESRS 2023 mục 3.5."
+     },
+     {
+      "thuoc": "Vắc xin viêm gan B, mũi tiếp theo (cơ sở tiêm chủng)",
+      "ham_luong": "Liều người lớn: không có trong tài liệu đã tải",
+      "lieu": "Theo lịch cơ sở tiêm chủng",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Theo hẹn",
+      "so_ngay": "Hoàn thành lịch tiêm",
+      "ghi_chu": "QĐ 1740/QĐ-BYT 2026 mục II Bảng 1, mục 5.1."
+     }
+    ],
+    "dan_do": [
+     "Giải thích: nặng lên sau một cú sốc là thường gặp, không có nghĩa phương pháp hỏng hay có bệnh mới. Giờ dậy 5 giờ, bỏ ngủ trưa dài, giường chỉ để ngủ vẫn là nền (AASM 2021 Bảng 3).",
+     "Lo ung thư: ghi nỗi lo vào sổ ban ngày, không sờ bụng và đọc tin đêm khuya, thở chậm khi hồi hộp (ESRS 2023 mục 4.1.1; AASM 2021 Bảng 3). Khám và xét nghiệm của anh đang bình thường; hẹn cân lại mỗi tuần. Nói với vợ để chị cùng hỗ trợ.",
+     "Bỏ rượu gạo trước ngủ, cà phê chỉ buổi sáng (QĐ 2058/2020 Bài 27 mục 4.3). Nếu díp mắt thì dừng xe nghỉ, không lái xe công nông hay dùng máy khi buồn ngủ (ESRS 2023 mục 4.2.1).",
+     "Nhật ký ngủ hằng ngày; tái khám sau 1 tuần (lựa chọn biên tập); đến ngay nếu nghĩ đến chết hay tự hại, buồn chán kéo dài, đau bụng, vàng da, phân đen, sụt cân tiếp (QĐ 2058/2020 Bài 20 mục 3.1.1; BSG 2022 Box 1). Đi tiêm mũi vắc xin viêm gan B tiếp theo (QĐ 1740/QĐ-BYT 2026 mục II)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Kết thúc tốt. Anh Thuận kể với vợ nỗi sợ ung thư gan, chị cùng anh theo nhật ký ngủ. Anh bỏ rượu gạo trước ngủ, cà phê chỉ buổi sáng, giờ dậy 5 giờ cố định, bỏ ngủ trưa dài, ghi nỗi lo vào sổ ban ngày thay vì sờ bụng và đọc tin đêm khuya. Sau vài tuần vào giấc dưới 30 phút, ngủ trên 6 giờ, ISI dưới 8, cân nặng trở lại 62 kg, không còn phải dùng thuốc ngủ (hoặc chỉ dùng ngắn hạn dưới 4 tuần rồi ngừng), tiêm đủ vắc xin viêm gan B. Bài học là quy trình: hỏi ra nỗi sợ thật, không chạy theo xét nghiệm tầm soát khi không có chỉ định, đánh giá lại toàn diện khi nặng lên mà vẫn giữ điều trị đầu tay, lường trước an toàn lái xe ở người làm nông.",
+ "nhieu": [
+  "Bệnh nhân hợp tác tốt: trả lời đầy đủ, nhớ ngày giờ, mang nhật ký, nhưng chỉ kể điều được hỏi nên nỗi sợ ung thư gan và chuyện cha chỉ lộ khi hỏi riêng; rượu gạo ở lượt 2 lộ khi hỏi cụ thể (ESRS 2023 mục 3.5).",
+  "Hải sản và tiêu chảy chỉ là mốc khởi phát: đã khỏi sau 3 ngày, ăn ngon, không sụt cân; không cần soi phân, nội soi (BSG 2022, TL-0213, Box 1).",
+  "Lượt 2: sụt 1,5 kg, hồi hộp, xin chụp gan 'cho chắc'; xét nghiệm âm tính ở lượt 1 không dập được nỗi sợ nên làm thêm không giúp (QĐ 3129/2020 mục 3.1; ESRS 2023 mục 4.1.1)."
+ ],
+ "bai_hoc_bien": [
+  "Lời than 'mất ngủ' nhưng lý do thật là sợ ung thư gan như cha. Hỏi 'điều gì làm anh lo nhất, vì sao hôm nay mới đi khám' mở ra chuyện này; hỏi chung 'tiền sử gia đình' chỉ nhận 'ba tôi mất rồi' (ESRS 2023 mục 3.5).",
+  "Cha có viêm gan B rồi ung thư gan: người nhà cần HBsAg, anti-HBs, anti-HBc và tiêm vắc xin nếu chưa có miễn dịch (QĐ 1740/QĐ-BYT 2026 mục II Bảng 1); không tầm soát AFP, CT, nội soi ở người trẻ không triệu chứng (QĐ 3129/2020 mục 3.1; BSG 2022 Box 1).",
+  "Nghề nông lái xe công nông, dùng máy: hạn chế giấc ngủ phải rất thận trọng (AASM 2021 khuyến cáo 1–2, phần lưu ý); thuốc ngủ gây ngủ gà ban ngày (ESRS 2023 mục 4.2.1).",
+  "Ca nặng hơn: không đổi chẩn đoán, không bỏ điều trị đầu tay; rà lại trầm cảm, tự hại, rượu, caffeine, ngưng thở, cường giáp, dấu báo động rồi tăng cường độ theo dõi (ESRS 2023 mục 3.5, Bảng 4)."
+ ],
+ "diem_nho": [
+  "Mất ngủ mạn: ≥ 3 đêm/tuần, ≥ 3 tháng, có hậu quả ban ngày (ESRS 2023 Bảng 2, 3); ICD-10 trong QĐ 2058/2020 Bài 27 mục 3.1.1 dùng ngưỡng 1 tháng. ISI 15–21 vừa, 22–28 nặng (ESRS 2023 mục 3.2).",
+  "CBT-I đầu tay (AASM 2021 khuyến cáo 1; ESRS 2023 Bảng 16). Thuốc ngủ ngắn hạn tối đa 4 tuần (ESRS 2023 mục 4.2.1). Phối hợp CBT-I với thuốc: AASM 2026 khuyến cáo 1 và 2.",
+  "Mọi ca mất ngủ: sàng lọc ngưng thở, hỏi rượu bia, thuốc, caffeine, trầm cảm, lo âu (ESRS 2023 mục 3.5)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 27 (mục 3.1.1, 3.1.2, 3.2, 4.1, 4.3); Bài 20 mục 3.1.1; Bài 22 mục 3.1.1; Bài 25 mục 3.1.1.",
+  "ESRS 2023 – The European Insomnia Guideline, J Sleep Res 2023;32:e14035 – TL-0464 – mục 1.4, 3.1–3.5, 4.1.1, 4.2.1, 4.2.3; Bảng 2, 3, 4, 5, 16; Hình 1.",
+  "AASM 2021 – Behavioral and psychological treatments for chronic insomnia disorder in adults, J Clin Sleep Med 2021;17(2):255-262 – TL-0470 – khuyến cáo 1–6, Bảng 3.",
+  "AASM 2017 – Pharmacologic treatment of chronic insomnia in adults, J Clin Sleep Med 2017;13(2):307-349 – TL-0482 – Bảng 4, khuyến cáo 4, 11.",
+  "AASM 2026 – Combination treatment for chronic insomnia disorder in adults, J Clin Sleep Med 2026;22(1) – TL-0448 – khuyến cáo 1, 2 và ghi chú.",
+  "BYT – QĐ 1740/QĐ-BYT 2026, Hướng dẫn chẩn đoán, điều trị viêm gan vi rút B – TL-0164 – mục II (Xét nghiệm chẩn đoán người nhiễm HBV, Bảng 1), mục 5.1, 5.3.",
+  "BYT – QĐ 3129/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị ung thư biểu mô tế bào gan – TL-0169 – mục 3.1, 3.2.",
+  "BSG 2022 – Guidelines on the management of functional dyspepsia, Gut 2022 – TL-0213 – Box 1 (triệu chứng báo động đường tiêu hóa trên).",
+  "ACPGBI/BSG 2022 – Faecal immunochemical testing in patients with signs or symptoms of suspected colorectal cancer, Gut 2022 – TL-0214 – mục Methods (phạm vi hướng dẫn)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 08/11/2026, viết: Sonnet. Đã đọc: TL-0443 Bài 20, 22, 25, 27; TL-0464 ESRS 2023 (mục 1.4, 3.1–3.5, 4.1.1, 4.2.1, Bảng 2–5, 16); TL-0470 AASM 2021 (khuyến cáo 1–6, Bảng 3); TL-0482 AASM 2017 (Bảng 4); TL-0448 AASM 2026 (khuyến cáo 1–2, ghi chú); TL-0164 QĐ 1740/2026 (mục II, 5.1, 5.3); TL-0169 QĐ 3129/2020 (mục 3); TL-0213 BSG 2022 (Box 1); TL-0214 ACPGBI/BSG 2022 (Methods).",
+  "Không có trong tài liệu đã tải: điểm cắt STOP-Bang; liều khởi đầu thuốc ngủ riêng cho nam trẻ ngoài liều thử nghiệm AASM 2017; số ly cà phê an toàn; cửa sổ giường tối thiểu riêng cho người làm nông (6 giờ là lựa chọn biên tập, ESRS 2023 mục 4.1.1 nêu 4,5–6 giờ); khoảng cách tái khám (2–3 tuần, 1 tuần, 2–4 tuần giới thiệu là lựa chọn biên tập); tiêu chuẩn của nghi bệnh và hoảng sợ; ngưỡng sụt cân cần tìm bệnh ác tính ở người dưới 55 tuổi; lịch tiêm vắc xin viêm gan B người lớn; chuyên viên CBT-I địa phương; chỉ định CT bụng ở người không triệu chứng.",
+  "Theo các mục đã có trong sổ mâu thuẫn (TT-0161): benzodiazepin/nhóm Z (Beers không áp dụng vì 34 tuổi; hằng đêm kéo dài chấm w), phối hợp CBT-I + thuốc, vệ sinh giấc ngủ đơn thuần. Ghi nhận thêm, không phải mâu thuẫn thật: AASM 2021 nói hạn chế giấc ngủ có thể chống chỉ định ở người vận hành máy nặng hoặc lái xe; ESRS 2023 mục 4.1.1 yêu cầu thảo luận an toàn; cùng hướng.",
+  "Sàng lọc HBV: trưởng nhóm đổi sang mục có sẵn virus_mau (HBsAg, anti-HCV, HIV) và test_nhanh_virus (cấp 'u', vì cha mắc viêm gan B và ung thư gan); hbv_huyet_thanh chấm 'a' vì thừa và đắt. Không thêm mục danh mục mới."
+ ]
+}
