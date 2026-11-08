@@ -1,0 +1,551 @@
+{
+ "ma_ca": "TT-0151",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-08)",
+ "benh": "TT_mat_ngu_man",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn giấc ngủ (mất ngủ mạn)",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Ngưng thở khi ngủ"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Thợ điện",
+  "yeu_to_khoi_phat": "Thay đổi thời tiết",
+  "thuoc_dang_dung": "Thuốc nhỏ mắt có corticoid",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Hoàng Phúc",
+  "tuoi": 31,
+  "gioi": "Nam",
+  "nghe": "Thợ điện dân dụng và điện công trình, làm cho một tổ thầu điện nước ở thị trấn, hay leo thang, lên mái nhà và đi dây trên cao",
+  "can_nang": 68,
+  "chieu_cao": 172,
+  "xung_ho": "Bác sĩ gọi anh là 'anh Phúc'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Gọn gàng, thực tế, nói ngắn, ít kiên nhẫn với chuyện vòng vo. Làm nghề điện nên quen nghĩ 'có lỗi thì phải tìm ra chỗ lỗi', vì thế càng bực khi ba nơi khám mà không ai nói được 'lỗi ở đâu'. Gọi huyết áp là 'huyết áp', gọi mất ngủ là 'trợn mắt', gọi thuốc ngủ là 'thuốc an thần'. Sợ 'nghiện thuốc'.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mệt mỏi và mất niềm tin. Nếu bác sĩ bắt đầu hỏi lại từ đầu như các nơi trước mà không hỏi nơi trước đã làm gì thì anh trả lời cộc lốc ('chỗ khác hỏi rồi', 'lại thuốc bổ chứ gì'). Anh chỉ đưa túi hồ sơ khi được hỏi cụ thể đã khám, xét nghiệm, chụp gì, ở đâu, kết quả ra sao. Khi bác sĩ xem hồ sơ và ghi nhận công sức của anh thì anh dịu lại và kể thật hơn. Nếu bác sĩ định cho làm lại xét nghiệm đã có, anh phản ứng 'chích máu nữa hả bác sĩ, chỗ kia làm hết rồi'. Nếu chỉ nghe 'đi ngủ sớm, uống thuốc bổ' anh coi là lặp lại các nơi trước.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c49a72",
+   "toc": "#1f1712",
+   "kieuToc": "ngan",
+   "ao": "#4f6275",
+   "aoKieu": "polo",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Mất ngủ 8 tháng, khám 3 nơi không đỡ, muốn khám tổng quát",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở chỉ làm được xét nghiệm cơ bản (công thức máu, đường huyết, ure – creatinin, điện giải, AST – ALT, CRP, tổng phân tích nước tiểu) và điện tim; không có X-quang, siêu âm, CT, nội soi; không làm được TSH, FT4, điện não đồ, đa ký giấc ngủ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 31 tuổi, thợ điện, đi khám một mình sau giờ làm vì mất ngủ khoảng 8 tháng, đã khám 3 nơi mà không đỡ, nay muốn được khám tổng quát. Anh mang theo một túi hồ sơ. Sinh hiệu lúc tiếp đón: mạch 76 l/p, HA 118/72 mmHg, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 68 kg, cao 172 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Phúc được gửi lên bệnh viện tỉnh để làm đa ký và khám chuyên khoa, dù khám thần kinh, khám tâm thần bình thường, không có gợi ý ngưng thở khi ngủ hay chân không yên, và ba nơi trước đã làm máu, điện tim, X-quang ngực, CT sọ đều bình thường. Đa ký không cần cho chẩn đoán mất ngủ và chỉ định khi nghi rối loạn giấc ngủ khác hoặc mất ngủ kháng trị (ESRS 2023, mục 3.4, Bảng 4); anh chưa từng được thử CBT-I. Anh mất thêm một ngày công, tốn kém, rồi nhiều khả năng quay về với một lời 'không thấy bệnh gì' và đơn thuốc thứ tư, trong khi điều cần nghe là thay thói quen duy trì mất ngủ (AASM 2021, khuyến cáo 1–4).",
+    "nhap_vien": "Anh Phúc tỉnh táo, sinh hiệu bình thường, không có ý nghĩ tự hại, nên không có chỉ định nhập viện; Bài 27 về mất ngủ không nêu tiêu chuẩn nhập viện (QĐ 2058/2020, Bài 27). Nằm viện làm anh mất vài ngày công của một người làm nghề tự do, gần như chắc chắn kết thúc bằng thuốc ngủ ở bệnh viện, ngược thứ tự điều trị CBT-I trước, thuốc khi CBT-I chưa đủ (ESRS 2023, Bảng 16). Anh càng tin rằng mình mắc một bệnh nặng chưa ai tìm ra, đúng nỗi sợ khiến anh đi khám."
+   },
+   "loi_mo": "Chào bác sĩ. Em mất ngủ tám tháng rồi, khám ba chỗ rồi. Chỗ nào cũng lấy máu, chụp, cho thuốc bổ, mà đêm vẫn trợn mắt. Bác sĩ khám cho em một lượt từ đầu tới chân xem em bị gì, chứ em mệt lắm rồi.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "118/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mất ngủ khoảng 8 tháng, đã khám 3 nơi không đỡ. Anh mệt vì đi khám nhiều mà không ai chỉ ra 'lỗi ở đâu', nay muốn khám toàn bộ một lần.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và mức mất niềm tin"
+    },
+    {
+     "id": "kieu_ngu",
+     "noi_dung": "Lên giường khoảng 22 giờ 30, nằm lướt điện thoại tới gần 24 giờ, rồi trằn trọc đến khoảng 0 giờ 30 – 1 giờ mới chợp mắt. Khoảng 3 – 4 giờ sáng thức dậy, nằm trằn trọc đến khi báo thức 5 giờ 30. Anh tự ước ngủ chừng 4,5 – 5 giờ mỗi đêm, trong khi nằm trên giường khoảng 7 giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mô tả đêm ngủ cụ thể: khó vào giấc, thức giữa đêm, thức sớm, thời gian nằm so với thời gian ngủ"
+    },
+    {
+     "id": "thoi_gian",
+     "noi_dung": "Gần như đêm nào cũng vậy, 5 – 6 đêm mỗi tuần, từ đầu tháng 3 đến nay là khoảng 8 tháng. Trước đó anh ngủ ngon, đặt lưng là ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tần suất và thời gian kéo dài (đủ tiêu chuẩn mất ngủ mạn)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cuối tháng 2 có đợt rét đậm rồi chuyển nồm ẩm kéo dài gần ba tuần. Phòng trọ lạnh ẩm, anh trằn trọc, thức dậy nhiều lần vì lạnh. Từ đó mỗi tối nhìn giường là sợ không ngủ được. Nay thời tiết ổn, phòng khô ấm nhưng đêm vẫn vậy: 'nằm xuống là đầu tỉnh như sáng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát (thay đổi thời tiết) khác yếu tố duy trì (lo sợ không ngủ được)"
+    },
+    {
+     "id": "thoi_quen",
+     "noi_dung": "Cuối tuần ngủ nướng đến 9 – 10 giờ cho 'bù'. Trưa chợp mắt 30 – 40 phút trong xe. Điện thoại để cạnh gối, tối lướt Zalo và video, không dám tắt tiếng vì khách hay gọi sửa điện đột xuất. Nằm tính việc, xem giờ liên tục.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố duy trì: thời gian nằm, ngủ bù, ngủ trưa, điện thoại, xem giờ"
+    },
+    {
+     "id": "chat_kich_thich",
+     "noi_dung": "Mỗi ngày hai ly cà phê (sáng và khoảng 15 giờ), thêm một lon nước tăng lực buổi chiều khi mệt. Hút khoảng 8 – 10 điếu thuốc lá mỗi ngày, điếu cuối khoảng 23 giờ trước khi ngủ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có uống gì kích thích không' thì anh trả lời 'cà phê thôi'. Chỉ kể đủ nước tăng lực, giờ uống và giờ hút điếu cuối khi bác sĩ hỏi cụ thể từng thứ và giờ giấc.",
+     "k": 1,
+     "y": "Caffeine, nicotin buổi chiều tối"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Thứ 6, thứ 7 anh uống 3 – 4 lon bia với anh em trong tổ, trong tuần đôi khi 1 – 2 lon buổi tối 'cho dễ ngủ'. Anh nhận thấy uống xong ngủ nhanh nhưng 3 – 4 giờ sáng lại tỉnh hẳn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng, không phán xét, về rượu bia và có dùng để dễ ngủ không. Hỏi chung 'có uống rượu không' thì trả lời 'thỉnh thoảng'.",
+     "k": 1,
+     "y": "Rượu bia dùng để tự chữa mất ngủ"
+    },
+    {
+     "id": "ban_ngay",
+     "noi_dung": "Ban ngày mệt, nặng đầu, cáu gắt, khó tập trung. Hai tuần trước đấu nhầm dây phải làm lại, may phát hiện trước khi đóng điện. Không ngủ gật khi ngồi nghỉ hay chạy xe, chỉ chợp mắt khi chủ động nằm. Ngại leo cao khi quá mệt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hậu quả ban ngày, an toàn nghề và không có buồn ngủ bệnh lý"
+    },
+    {
+     "id": "thuoc_nho_mat",
+     "noi_dung": "Từ tháng 4, mỗi lần đổi trời mắt anh ngứa, đỏ, cộm, anh ra tiệm thuốc mua lọ thuốc nhỏ mắt có dexamethason, nhỏ 3 lần mỗi ngày khoảng 7 – 10 ngày mỗi đợt, đã khoảng 5 đợt. Đợt hiện tại bắt đầu 12 ngày nay vì trời trở lạnh. Anh chưa khám mắt lần nào. Mất ngủ đã có từ tháng 3, trước khi anh dùng lọ thuốc đầu tiên. Ba nơi trước hỏi 'có uống thuốc gì không' anh đều trả lời 'không' vì không xem thuốc nhỏ mắt là thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc gì không' thì anh nói 'không'. Chỉ nhớ ra và đưa lọ thuốc khi bác sĩ hỏi cả thuốc nhỏ, thuốc bôi, thuốc mua ở tiệm, hoặc hỏi mắt có bị gì không.",
+     "k": 1,
+     "y": "Hỏi thuốc cụ thể kể cả thuốc nhỏ, thuốc tự mua; đối chiếu thời điểm với khởi phát mất ngủ",
+     "nhieu": 1
+    },
+    {
+     "id": "ho_so_cu",
+     "noi_dung": "Anh đưa túi hồ sơ. Nơi 1 (phòng khám tư, tháng 4): thuốc bổ não và vitamin B, nói 'do stress'. Nơi 2 (bệnh viện huyện, tháng 6): công thức máu Hb 148 g/L, BC 6,9 G/L, TC 252 G/L; đường huyết 5,1 mmol/L; AST 28, ALT 31 U/L; creatinin 84 µmol/L; điện tim nhịp xoang 72 l/p; X-quang ngực bình thường. Nơi 3 (phòng khám đa khoa tư, tháng 8): TSH 1,8 mUI/L, FT4 15 pmol/L; CT sọ não bình thường; diazepam 5 mg một viên tối trong 10 ngày. Không nơi nào hỏi về thuốc nhỏ mắt, rượu hay nhật ký ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi nơi trước đã làm gì, xem hồ sơ cũ, không lặp lại xét nghiệm vô ích",
+     "nhieu": 1
+    },
+    {
+     "id": "thuoc_ngu_cu",
+     "noi_dung": "Diazepam 10 ngày đó anh ngủ được khoảng 6 tiếng, hết thuốc là đêm lại như cũ. Anh ngại 'nghiện' nên không xin thêm. Anh không dùng thuốc ngủ nào khác, không dùng ma túy, không uống thuốc bổ nào hiện nay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử dùng thuốc ngủ và nỗi sợ nghiện"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Anh bực, mệt, 'chán vì chạy khám hoài' nhưng vẫn thích đá bóng cuối tuần với tổ thợ, ăn ngon, không sụt cân, không tự trách, không thấy tương lai vô vọng. Chưa bao giờ nghĩ đến chuyện không muốn sống hay làm hại mình. Chiều tối đã lo 'đêm nay lại không ngủ'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có buồn không' thì anh nói 'không buồn, chỉ bực'. Chỉ trả lời chi tiết khi bác sĩ hỏi cụ thể về hứng thú, ăn uống, cảm giác vô dụng, ý nghĩ không muốn sống, và về nỗi lo.",
+     "k": 1,
+     "y": "Hỏi riêng khí sắc, mất hứng thú, ý nghĩ tự hại; lo âu chỉ xoay quanh giấc ngủ"
+    },
+    {
+     "id": "ngung_tho",
+     "noi_dung": "Em họ ở chung phòng trọ nói thỉnh thoảng anh ngáy nhẹ khi quá mệt, không thấy ngưng thở hay giật chân. Ban ngày không buồn ngủ gật, không đau đầu buổi sáng. Không có cảm giác khó chịu ở chân buộc phải cử động khi nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc ngưng thở khi ngủ, chân không yên: hỏi người ngủ chung"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Chưa từng co giật, không động kinh, không có đợt vài ngày hăng hái ít ngủ bất thường, chưa điều trị bệnh tâm thần nào. Không đái tháo đường, không cao huyết áp, không hen. Không hồi hộp, run tay, sụt cân, đổ mồ hôi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chống chỉ định hạn chế giấc ngủ (động kinh, bệnh nặng thêm khi thiếu ngủ) và bệnh thực tổn"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Điều anh lo nhất là mình có bệnh gì trong người mà ba nơi chưa thấy, hoặc phải uống thuốc ngủ cả đời. Anh Đạt cùng tổ vừa được phát hiện tiểu đường nên anh sợ mình cũng có gì đó mà không biết. Vì vậy anh xin khám tổng quát.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm anh lo nhất, anh nghĩ mình bị gì, hoặc vì sao hôm nay quyết định đi khám thêm lần nữa.",
+     "k": 1,
+     "y": "Lý do thật: muốn kiểm tra tổng quát, sợ bệnh chưa phát hiện và sợ phải dùng thuốc ngủ lâu dài"
+    },
+    {
+     "id": "mong_doi",
+     "noi_dung": "Anh không muốn thuốc bổ nữa và sợ thuốc ngủ gây nghiện, nhưng sẵn sàng làm gì có thể kiểm soát được 'như đấu dây điện, miễn có quy trình rõ'. Anh cần nghe lý do vì sao việc đó có tác dụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mong đợi và khả năng hợp tác với liệu pháp hành vi"
+    },
+    {
+     "id": "isi",
+     "noi_dung": "Nếu được hỏi theo thang ISI, tổng điểm khoảng 17 (mức vừa).",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "moi_vai_gay",
+     "noi_dung": "Mỏi vai gáy hai bên cuối ngày do leo thang và giơ tay đi dây trên cao, xoa bóp thì đỡ, không liên quan giấc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Độc thân, ở trọ chung phòng với em họ cùng tổ thợ, mẹ ở quê. Công việc ổn định, không nợ nần. Ăn uống bình thường, vận động ít hơn trước.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 118/72, tay trái 116/72 mmHg.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, vẻ mặt mệt, da niêm hồng. BMI 23,0 kg/m². Vòng cổ 37 cm, vòng eo 80 cm.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không hạch cổ, không run đầu ngón tay, da ấm khô.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng sạch, amidan không to, lưỡi gà bình thường, mũi thông.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Thị lực hai mắt 10/10. Kết mạc hai mắt xung huyết nhẹ vùng cạnh mi, không tiết tố mủ, giác mạc trong. Không lồi mắt, không co kéo mi.",
+     "k": 1,
+     "hien": "Thị lực 10/10 hai mắt. Kết mạc hai mắt đỏ nhẹ, không tiết tố mủ."
+    },
+    "nhan_ap": {
+     "a": "Ước lượng bằng ngón tay: hai nhãn cầu mềm, đều. Cách này chỉ thô, không thay đo nhãn áp bằng nhãn áp kế ở nơi khám mắt.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không to.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, không dấu thần kinh khu trú, phản xạ gân xương đều hai bên, không run, đi đứng vững.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Cơ thang hai bên căng nhẹ, không điểm đau khu trú, cột sống không hạn chế.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, vẻ mệt, bực nhưng hợp tác khi được lắng nghe. Khí sắc không trầm, còn cười khi nói chuyện bóng đá, đáp ứng cảm xúc phù hợp. Tư duy mạch lạc, không hoang tưởng, không ảo giác. Lo lắng xoay quanh chuyện không ngủ được. Định hướng và trí nhớ gần tốt. Không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, vẻ mệt, hợp tác."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 6,9 G/L · Hb 148 g/L · TC 252 G/L",
+     "bang": {
+      "wbc": 6.9,
+      "neu_pct": 58.0,
+      "neu": 4.0,
+      "lym_pct": 32.0,
+      "lym": 2.21,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 2.5,
+      "eos": 0.17,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 5.0,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 88.0,
+      "mch": 29.6,
+      "mchc": 336,
+      "rdw": 13.0,
+      "plt": 252
+     },
+     "n": "Bình thường, đã có 5 tháng trước (hồ sơ cũ). ESRS 2023 Bảng 4: xét nghiệm máu 'khi có chỉ định'; làm lại không đổi xử trí."
+    },
+    "glu": {
+     "v": "n",
+     "r": "5,0 mmol/L",
+     "bang": {
+      "glu": 5.0
+     },
+     "n": "Bình thường, đã có 5 tháng trước; không triệu chứng tăng đường huyết (ESRS 2023 Bảng 4)."
+    },
+    "creat": {
+     "v": "n",
+     "r": "Ure 4,6 mmol/L · Creatinin 82 µmol/L · eGFR 112 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.6,
+      "creat": 82,
+      "egfr": 112
+     },
+     "n": "Đã có hồ sơ cũ bình thường (ESRS 2023 Bảng 4: thận, gan 'khi có chỉ định')."
+    },
+    "liver": {
+     "v": "n",
+     "r": "AST 27 · ALT 30 U/L",
+     "n": "Đã có hồ sơ cũ bình thường dù uống bia cuối tuần; lặp lại không đổi xử trí (ESRS 2023 Bảng 4)."
+    },
+    "ecg": {
+     "v": "n",
+     "r": "Nhịp xoang 74 l/p, trục trung gian, PR 150 ms, QRS 90 ms. Không ST chênh, không sóng T đảo.",
+     "n": "Đã có điện tim bình thường 5 tháng trước; không hồi hộp, đau ngực. QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê điện tim, ESRS 2023 Bảng 4 'khi có chỉ định'; lặp lại vô ích."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "(Phòng khám không làm được TSH, FT4.)",
+     "n": "Cần loại trừ cường giáp (ESRS 2023 mục 3.5, Bảng 4), nhưng TSH 1,8 mUI/L, FT4 15 pmol/L bình thường 3 tháng trước, không run, sụt cân. Không cần làm lại, phòng khám cũng không làm được."
+    },
+    "ma_tuy_nt": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê tìm chất ma túy; anh không có yếu tố nguy cơ, phủ nhận khi hỏi riêng nên không có chỉ định."
+    },
+    "psg": {
+     "v": "n",
+     "r": "(Phòng khám không làm được đa ký giấc ngủ.)",
+     "n": "ESRS 2023 mục 3.4, Bảng 4: đa ký khi nghi rối loạn giấc ngủ khác hoặc mất ngủ kháng trị; không cần để chẩn đoán mất ngủ. Chưa có gợi ý ngưng thở, chưa thử CBT-I. Cân nhắc lại nếu không đáp ứng."
+    },
+    "ct_nao": {
+     "v": "n",
+     "n": "Đã chụp CT sọ bình thường ở nơi thứ ba; không đau đầu, không dấu thần kinh. Cơ sở không có CT; chụp lại là vô ích."
+    },
+    "cxr": {
+     "v": "n",
+     "n": "Đã có X-quang ngực bình thường 5 tháng trước; không ho, khó thở. Cơ sở không có X-quang."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn giấc ngủ: mất ngủ mạn (khó vào giấc, thức giữa đêm), có yếu tố duy trì là nằm giường lâu, ngủ bù, ngủ trưa, điện thoại trên giường, cà phê – nước tăng lực – thuốc lá chiều tối, bia và lo sợ không ngủ được",
+     "ok": 1,
+     "n": "Than phiền khó vào giấc và khó duy trì giấc ngủ, 5 – 6 đêm mỗi tuần trong khoảng 8 tháng, gây mệt, cáu, khó tập trung, suýt đấu nhầm dây; điều kiện ngủ ổn; không có bệnh thực tổn trên khám và hồ sơ. Đạt ICD-10 (ít nhất 3 lần mỗi tuần trong ít nhất 1 tháng: QĐ 2058/2020 Bài 27 mục 3.1.1) và ICSD-3 (ít nhất 3 lần mỗi tuần trong ít nhất 3 tháng, có hậu quả ban ngày, không giải thích bằng cơ hội hay hoàn cảnh ngủ: ESRS 2023 Bảng 2). Thời tiết chỉ khởi phát; yếu tố duy trì quyết định điều trị."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Loại trừ: anh chỉ có 1 trong 3 triệu chứng đặc trưng (mệt, giảm năng lượng); khí sắc không trầm, còn thích bóng đá, ăn ngon, không tự trách, không ý nghĩ tự hại. Thể nhẹ cần ít nhất 2 trong 3 triệu chứng đặc trưng cùng 2 trong 7 triệu chứng phổ biến, kéo dài ít nhất 2 tuần (QĐ 2058/2020 Bài 20 mục 3.1.1, tr. 119 – 120). Phải hỏi riêng vì rối loạn tâm thần có thể không được kể (ESRS 2023 mục 3.5). Hỏi lại khi tái khám."
+    },
+    {
+     "t": "Ngưng thở khi ngủ (OSA), kể cả mất ngủ kèm ngưng thở",
+     "n": "Không có gợi ý lâm sàng: BMI 23,0, vòng cổ 37 cm, em họ ngủ chung chỉ nghe ngáy nhẹ khi mệt, không thấy ngưng thở, ban ngày không ngủ gật, không đau đầu sáng, HA 118/72. ESRS 2023 mục 3.5 nêu 30 – 40% người mất ngủ có thể có OSA nên cần sàng lọc bằng công cụ như STOP-Bang, nếu dương tính phải làm đa ký tại nhà hoặc đa ký; cách tính điểm và điểm cắt STOP-Bang: không có trong tài liệu đã tải. Đa ký chưa chỉ định (ESRS 2023 mục 3.4)."
+    },
+    {
+     "t": "Mất ngủ do thuốc hoặc chất (corticoid nhỏ mắt, caffeine, nicotin, rượu bia)",
+     "n": "ESRS 2023 mục 3.5 nêu corticosteroid nằm trong các thuốc có thể gây mất ngủ; QĐ 2058/2020 Bài 27 mục 3.1.1 đòi loại trừ nguyên nhân do chất hoặc thuốc. Mất ngủ có từ tháng 3, trước lọ thuốc nhỏ mắt đầu tiên (tháng 4), thuốc chỉ nhỏ theo đợt nên không giải thích được mất ngủ gần như mọi đêm. Tác dụng toàn thân của corticoid nhỏ mắt lên giấc ngủ: không có trong tài liệu đã tải. Caffeine, nicotin, bia là yếu tố duy trì cần bỏ (ESRS 2023 mục 3.5; QĐ 2058/2020 Bài 27 mục 4.3)."
+    },
+    {
+     "t": "Cường giáp hoặc bệnh thực tổn khác (thiếu máu, đái tháo đường, bệnh thần kinh)",
+     "n": "Không run, sụt cân, đổ mồ hôi; tuyến giáp không to; TSH, FT4, công thức máu, đường huyết, men gan, creatinin, điện tim, X-quang ngực, CT sọ đều bình thường ở hồ sơ cũ; khám thần kinh bình thường (ESRS 2023 mục 3.5, Bảng 4, Bảng 5; QĐ 2058/2020 Bài 27 mục 3.2)."
+    },
+    {
+     "t": "Rối loạn lo âu lan tỏa, chân không yên",
+     "n": "Lo âu của anh khu trú vào chuyện ngủ, không lan tỏa nhiều việc (QĐ 2058/2020 Bài 22 mục 3.1.1, tr. 132: lo lắng dai dẳng, không khu trú một sự kiện, thường khoảng 6 tháng); vòng lo sợ không ngủ được là yếu tố duy trì (ESRS 2023 mục 3.5). Không có khó chịu ở chân khi nằm (RLS là chẩn đoán lâm sàng: ESRS 2023 mục 3.5)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Điều trị đầu tay là liệu pháp không dùng thuốc: CBT-I đa thành phần hoặc dạng ngắn 1 – 4 buổi gồm giáo dục giấc ngủ, kiểm soát kích thích, giờ dậy cố định, bỏ ngủ trưa và ngủ bù, hạn chế thời gian nằm theo nhật ký ngủ; kèm vệ sinh giấc ngủ",
+     "v": "c",
+     "n": "AASM 2021 khuyến cáo 1 (mạnh) CBT-I; khuyến cáo 2 (có điều kiện) liệu pháp hành vi ngắn 1 – 4 buổi; khuyến cáo 3, 4 kiểm soát kích thích và hạn chế giấc ngủ. ESRS 2023 mục 4.1.1, Bảng 16 (A): CBT-I đầu tay cho người lớn mọi tuổi. QĐ 2058/2020 Bài 27 mục 4.3 chỉ nêu vệ sinh giấc ngủ và thư giãn; AASM 2021 khuyến cáo 6 và ESRS 2023 mục 4.1.1 gợi ý không dùng vệ sinh giấc ngủ đơn thuần. Khác nhau do năm và mức chứng cứ; vệ sinh giấc ngủ nằm trong CBT-I nên dặn kèm vẫn đúng (sổ mâu thuẫn, ca TT-0161)."
+    },
+    {
+     "t": "Xem hồ sơ ba nơi trước, ghi nhận công sức của anh, giải thích kết quả bình thường và không chỉ định lặp lại xét nghiệm, điện tim, X-quang hay CT đã có",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.4, Bảng 4: xét nghiệm và đa ký chỉ khi có chỉ định, đa ký không cần để chẩn đoán mất ngủ. Lặp lại xét nghiệm vô ích làm anh thêm mất niềm tin và tốn kém."
+    },
+    {
+     "t": "Giải thích trung thực: mất ngủ mạn là một rối loạn cần điều trị riêng, không phải 'stress rồi hết'; chỉ ra các yếu tố duy trì (nằm lâu, ngủ bù, điện thoại, caffeine, thuốc lá, bia, lo sợ không ngủ được) và điều trị không thuốc có hiệu quả bền",
+     "v": "c",
+     "n": "ESRS 2023 Bảng 16 (A): mất ngủ cần điều trị chủ động; mục 3.5: quan niệm cũ 'mất ngủ chỉ là triệu chứng' đã lỗi thời; mục 4.1.1: CBT-I không có nguy cơ lạm dụng hay tăng liều, hiệu quả bền."
+    },
+    {
+     "t": "Bỏ cà phê và nước tăng lực buổi chiều, không hút thuốc buổi tối, không dùng bia làm thuốc ngủ; giờ dậy cố định kể cả cuối tuần, không ngủ bù, rút ngắn giấc trưa; điện thoại ngoài tầm với, chỉ lên giường khi buồn ngủ, không xem giờ",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3 (tr. 151): chỉ đi ngủ khi buồn ngủ, dậy giờ cố định, không cà phê, thuốc lá nhất là buổi tối, không rượu vì phá vỡ nhịp thức ngủ. AASM 2021 Bảng 3, kiểm soát kích thích (a) – (e). ESRS 2023 mục 3.5: rượu thường bị dùng để tự chữa mất ngủ."
+    },
+    {
+     "t": "Chưa kê thuốc ngủ lần này, ưu tiên CBT-I; hoặc nếu anh và bác sĩ cùng quyết định dùng thuốc thì chỉ ngắn hạn (không quá 4 tuần), kèm CBT-I",
+     "v": "c",
+     "n": "ESRS 2023 Bảng 16 (A), Hình 1, mục 1.4: thuốc khi CBT-I chưa đủ, benzodiazepin hoặc nhóm Z không quá 4 tuần, không tăng liều; mục 4.2.1 nêu dung nạp, phụ thuộc, té ngã, ảnh hưởng lái xe hôm sau. AASM 2026 khuyến cáo 2 gợi ý không phối hợp thuốc so với CBT-I đơn thuần (có điều kiện, chứng cứ thấp), khuyến cáo 1 phối hợp tốt hơn thuốc đơn thuần; remark: người ưu tiên tăng sớm thời gian ngủ có thể chọn phối hợp. QĐ 2058/2020 Bài 27 mục 4.1 cho kết hợp tâm lý và thuốc, hạn chế nhóm giải lo âu gây nghiện, không giới hạn thời gian. Khác nhau do năm và BYT không so sánh với CBT-I đơn thuần (sổ mâu thuẫn, ca TT-0161). Anh sợ nghiện nên không kê là hợp ý anh."
+    },
+    {
+     "t": "Dặn ghi nhật ký ngủ 7 – 14 ngày; hạn chế thời gian nằm theo nhật ký (khi đã có nhật ký, thường ở lần tái khám); hẹn tái khám khoảng 2 tuần; không đáp ứng hoặc nghi rối loạn giấc ngủ khác thì chuyển đa ký ở tuyến trên",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.2: nhật ký ngủ ít nhất 7 – 14 ngày; mục 3.4, Bảng 4: đa ký khi nghi rối loạn khác hoặc mất ngủ kháng trị (A). AASM 2021 Bảng 3: hạn chế giấc ngủ giới hạn thời gian nằm bằng thời gian ngủ trung bình từ nhật ký rồi điều chỉnh theo hiệu suất. Khoảng cách 2 tuần là lựa chọn biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn an toàn nghề: những tuần đầu thu hẹp thời gian nằm có thể buồn ngủ hơn; không làm việc trên cao, đóng cắt điện hay lái xe khi buồn ngủ rõ, nhường việc trên mái, báo ngay nếu suýt tai nạn",
+     "v": "c",
+     "n": "ESRS 2023 mục 4.1.1: hạn chế giấc ngủ và kiểm soát kích thích có thể tăng mệt, buồn ngủ những tuần đầu; cần đánh giá mức phù hợp và rà soát buồn ngủ (và ảnh hưởng lái xe) trong điều trị; Kyle 2023 (n = 642) không thấy tăng tai nạn lao động hay lái xe. Áp dụng cho thợ điện làm việc trên cao là suy diễn của người biên soạn, tài liệu đã tải không nói riêng về nghề này."
+    },
+    {
+     "t": "Dặn không tự nhỏ tiếp thuốc nhỏ mắt có corticoid, đến khám mắt tìm nguyên nhân đỏ ngứa và đo nhãn áp; ngừng hẳn hoặc giảm dần dưới hướng dẫn nhãn khoa",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018 (TL-0266): tránh dùng corticoid bừa bãi; dùng cho viêm kết mạc mạn hoặc tái phát thì đo nhãn áp, đồng tử nền và định kỳ để tìm glôcôm, đục thể thủy tinh; dùng lâu thì giảm dần (mục Follow-up, Adenoviral). Cách ngừng và thuốc thay thế cho anh: không có trong tài liệu đã tải (sổ mâu thuẫn, ca HH-0685)."
+    },
+    {
+     "t": "Hỏi và dặn các dấu hiệu cần quay lại sớm: ngáy to có ngưng thở, buồn ngủ gục ban ngày, chân khó chịu về đêm, buồn chán mất hứng thú, ý nghĩ không muốn sống",
+     "v": "c",
+     "n": "ESRS 2023 mục 3.5: sàng lọc OSA, RLS, rối loạn tâm thần cùng mất ngủ; QĐ 2058/2020 Bài 20 mục 3.1.1: ý tưởng, hành vi tự hủy hoại hoặc tự sát là triệu chứng phổ biến của trầm cảm."
+    },
+    {
+     "t": "Thuốc chống trầm cảm an thần liều thấp ngắn hạn (ví dụ doxepin hoặc mirtazapin)",
+     "v": "a",
+     "n": "Chấp nhận, không bắt buộc, ghi cả hai nguồn: ESRS 2023 mục 4.2.2, Bảng 16 (B): có thể cân nhắc liều thấp ngắn hạn, ngoài chỉ định, bằng chứng nhỏ, tác dụng đến 4 tuần; AASM 2017 khuyến cáo 8 gợi ý doxepin cho mất ngủ duy trì (cơ sở: thử nghiệm 3 mg và 6 mg), khuyến cáo 9 gợi ý không dùng trazodon (thử nghiệm 50 mg); QĐ 2058/2020 Bài 27 mục 4.3 liệt kê mirtazapin 15 – 60 mg/24 giờ. Khác nhau do năm, loại thuốc, bối cảnh. Anh chưa cần vì chưa thử CBT-I."
+    },
+    {
+     "t": "Thuốc bổ thần kinh hoặc vitamin B làm điều trị chính cho mất ngủ",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3 liệt kê nhóm nuôi dưỡng tế bào thần kinh và vitamin B; ESRS 2023 Bảng 16 không đưa nhóm này vào điều trị mất ngủ. Không gây hại nhưng không thay CBT-I; nơi thứ nhất đã dùng mà không đỡ."
+    },
+    {
+     "t": "Kê diazepam hằng đêm kéo dài (không giới hạn thời gian, không làm CBT-I) cho anh vì 'ngủ được 10 ngày trước'",
+     "v": "w",
+     "n": "ESRS 2023 Bảng 16 (A), mục 4.2.1: benzodiazepin và nhóm Z chỉ ngắn hạn không quá 4 tuần, không có khuyến cáo chung dùng lâu hơn; tác dụng phụ gồm dung nạp, phụ thuộc, hiệu ứng ngày hôm sau, té ngã; mất ngủ tái phát khi ngừng (mục 4.2.8). QĐ 2058/2020 Bài 27 mục 4.1 nhắc hạn chế lạm dụng nhóm giải lo âu gây nghiện. Anh làm việc trên cao và với điện, sợ nghiện, đã tái phát sau 10 ngày diazepam; hậu quả riêng cho nghề thợ điện là lập luận từ tài liệu."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn giấc ngủ: mất ngủ mạn (khó vào giấc, thức giữa đêm), 5 – 6 đêm mỗi tuần trong khoảng 8 tháng, kèm suy giảm chức năng ban ngày (mệt, cáu, khó tập trung, đấu nhầm dây một lần)",
+     "Khởi phát sau đợt rét đậm rồi nồm ẩm cuối tháng 2 đầu tháng 3; duy trì bởi nằm giường lâu (22 giờ 30 đến 5 giờ 30 cho 4,5 – 5 giờ ngủ), ngủ bù cuối tuần, ngủ trưa 30 – 40 phút, điện thoại trên giường, cà phê – nước tăng lực buổi chiều, thuốc lá đến 23 giờ, bia cuối tuần và lo sợ không ngủ được",
+     "Thuốc đang dùng: thuốc nhỏ mắt có dexamethason tự mua, nhỏ theo đợt từ tháng 4, chưa khám mắt; không phải nguyên nhân khởi phát mất ngủ nhưng cần ngừng tự dùng và đo nhãn áp",
+     "Không có trầm cảm, chưa có gợi ý ngưng thở khi ngủ hay chân không yên, không bệnh thực tổn, không động kinh, không bệnh nặng thêm khi thiếu ngủ (không có chống chỉ định hạn chế giấc ngủ: ESRS 2023 mục 4.1.1)",
+     "Lý do thật đi khám: sợ có bệnh chưa ai phát hiện và sợ thuốc ngủ lâu dài; mất niềm tin sau ba nơi khám"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: mở đầu bằng việc ghi nhận anh đã đi ba nơi, hỏi mỗi nơi đã làm gì và xem hồ sơ trước khi hỏi lại; anh dịu lại và kể thật. Sau đó tách khởi phát (thời tiết) khỏi duy trì: giờ lên giường, giờ ngủ ước, số lần thức, giờ dậy, ngủ bù, ngủ trưa, điện thoại, xem giờ (ESRS 2023 mục 3.2, Bảng 4). ISI khoảng 17 điểm thuộc mức vừa (15 – 21: ESRS 2023 mục 3.2).",
+     "Vì sao là mất ngủ mạn: khó vào giấc, khó duy trì giấc ngủ, ít nhất 3 lần mỗi tuần, gây suy giảm chức năng, không do bệnh thực tổn hay chất (QĐ 2058/2020 Bài 27 mục 3.1.1, ngưỡng 1 tháng). ICSD-3 yêu cầu ít nhất 3 lần mỗi tuần trong ít nhất 3 tháng, có hậu quả ban ngày, cơ hội ngủ đủ (ESRS 2023 Bảng 2). Anh đạt cả hai (8 tháng); hai văn bản khác ngưỡng vì hệ phân loại và năm (sổ mâu thuẫn, ca TT-0161).",
+     "Hỏi thuốc phải cụ thể: 'có uống thuốc gì không' sẽ nhận 'không'; phải hỏi cả thuốc nhỏ, thuốc bôi, thuốc mua ở tiệm. Thuốc nhỏ mắt có dexamethason bắt đầu sau mất ngủ (tháng 4 so với tháng 3) và dùng theo đợt nên không phải nguyên nhân (ESRS 2023 mục 3.5 nêu corticosteroid có thể gây mất ngủ; tác dụng toàn thân của corticoid nhỏ mắt: không có trong tài liệu đã tải). Vẫn cần khám mắt và ngừng tự dùng (AAO 2018).",
+     "Hỏi riêng caffeine, nicotin, bia là bắt buộc: rượu thường bị dùng sai để tự chữa mất ngủ (ESRS 2023 mục 3.5); bia giúp vào giấc nhanh nhưng anh tỉnh lúc 3 – 4 giờ sáng. QĐ 2058/2020 Bài 27 mục 4.3: không cà phê, thuốc lá buổi tối, không rượu vì phá vỡ nhịp thức ngủ.",
+     "Loại trừ trầm cảm: anh chỉ có mệt (1 trong 3 triệu chứng đặc trưng), còn thích bóng đá, ăn ngon, không tự trách, không ý nghĩ tự hại; thể nhẹ cần ít nhất 2/3 triệu chứng đặc trưng và 2/7 triệu chứng phổ biến, kéo dài ít nhất 2 tuần (QĐ 2058/2020 Bài 20 mục 3.1.1). Vẫn phải hỏi riêng và trực tiếp về ý nghĩ tự hại (ESRS 2023 mục 3.5).",
+     "Loại trừ ngưng thở khi ngủ: BMI 23,0, vòng cổ 37 cm, người ngủ chung chỉ nghe ngáy nhẹ, không ngưng thở, ban ngày không ngủ gật. ESRS 2023 mục 3.5 đòi sàng lọc OSA bằng công cụ như STOP-Bang ở mọi người mất ngủ, dương tính mới làm đa ký tại nhà hoặc đa ký; cách tính điểm và điểm cắt: không có trong tài liệu đã tải. Chưa chỉ định đa ký (mục 3.4).",
+     "Cận lâm sàng: không cần để chẩn đoán mất ngủ (ESRS 2023 mục 3.4). Công thức máu, đường huyết, men gan, thận, TSH, điện tim, X-quang ngực, CT sọ đã có và bình thường (QĐ 2058/2020 Bài 27 mục 3.1.2 liệt kê các xét nghiệm này; ESRS 2023 Bảng 4 'khi có chỉ định'); làm lại chỉ làm anh thêm mất niềm tin. Cơ sở không có X-quang, siêu âm nên cũng không có CT; không làm được TSH, đa ký.",
+     "Kết cục 'đúng nhưng diễn tiến xấu': chống outcome bias. Kế hoạch đúng không bảo đảm anh ngủ tốt sau hai tuần; ngược lại, nếu kê diazepam 10 ngày anh có thể ngủ vài đêm và bác sĩ tưởng mình đúng. Đánh giá theo guideline và quy trình (AASM 2021, ESRS 2023), không theo việc đêm nay anh ngủ được hay không."
+    ],
+    "phan_tich_xu_tri": [
+     "Đầu tay là CBT-I hoặc dạng ngắn, không phải thuốc: AASM 2021 khuyến cáo 1 (mạnh), 2 – 4 (có điều kiện); ESRS 2023 Bảng 16 (A). Tuyến cơ sở làm được dạng ngắn 1 – 4 buổi gồm kiểm soát kích thích và hạn chế giấc ngủ (AASM 2021 Bảng 3).",
+     "Kiểm soát kích thích (AASM 2021 Bảng 3): chỉ lên giường khi buồn ngủ; không ngủ được thì ra khỏi giường; giường chỉ để ngủ; dậy cùng giờ; không ngủ trưa. Với anh: dậy 5 giờ 30 cả cuối tuần, điện thoại ngoài tầm với (cho số khẩn đổ chuông), bỏ ngủ bù.",
+     "Hạn chế giấc ngủ: giới hạn thời gian nằm bằng thời gian ngủ trung bình từ nhật ký rồi tăng dần theo hiệu suất giấc ngủ (AASM 2021 Bảng 3; ngưỡng 85% hoặc 90%: ESRS 2023 mục 4.1.1). Mức tối thiểu 4,5, 5 hoặc 6 giờ là các biến thể (ESRS 2023 mục 4.1.1); chọn khoảng 6 giờ thận trọng vì nghề là lựa chọn biên tập. Cửa sổ giường tính lại từ nhật ký ở lần tái khám.",
+     "An toàn: hạn chế giấc ngủ làm tăng mệt và giảm tỉnh táo những tuần đầu, cần theo dõi buồn ngủ; chống chỉ định gồm động kinh và bệnh nặng thêm khi thiếu ngủ, anh không có (ESRS 2023 mục 4.1.1). Kyle 2023 (n = 642) không thấy tăng tai nạn, nhưng thợ điện làm việc trên cao nên nhường việc nguy hiểm khi buồn ngủ rõ (suy diễn của người biên soạn).",
+     "Thuốc ngủ: không bắt buộc, không đầu tay. Nếu CBT-I chưa đủ, ESRS 2023 Bảng 16 cho benzodiazepin hoặc nhóm Z ngắn hạn không quá 4 tuần sau quyết định chung, không tăng liều (mục 1.4, 4.2.1). AASM 2017 khuyến cáo 2, 4 – 6 gợi ý có điều kiện eszopiclone, zolpidem, triazolam, temazepam; AASM 2026 khuyến cáo 2 gợi ý không phối hợp so với CBT-I đơn thuần. Liều: AASM 2017 chỉ nêu liều trong thử nghiệm (zolpidem 10 mg, eszopiclone 2 – 3 mg, temazepam 15 mg, triazolam 0,25 mg), không phải liều khởi đầu khuyến cáo; liều theo tuổi và nghề: không có trong tài liệu đã tải. Anh sợ nghiện nên không thuốc là hợp ý anh (ESRS 2023 mục 4: quyết định chung).",
+     "Thuốc nhỏ mắt có corticoid: AAO 2018 nêu tránh corticoid bừa bãi, đo nhãn áp khi dùng cho viêm kết mạc mạn hoặc tái phát, giảm dần nếu đã dùng lâu. Anh dùng nhiều đợt không toa nên hẹn khám mắt; thuốc thay thế và liều: không có trong tài liệu đã tải cho ca này.",
+     "Trả lời nỗi sợ thật: khám và hồ sơ cũ không thấy bệnh thực tổn; mất ngủ mạn là rối loạn điều trị được và là yếu tố nguy cơ cho sức khỏe tâm thần (ESRS 2023 mục 3.5), nên là lý do điều trị chứ không phải để khám thêm nơi thứ tư; giải thích vì sao cách này khác ba nơi trước (không phải thuốc bổ).",
+     "Tái khám có mốc: sau khoảng 2 tuần mang nhật ký; xem hiệu suất giấc ngủ; bắt đầu hạn chế giấc ngủ có hướng dẫn; hỏi lại tâm trạng, bia, thuốc lá, buồn ngủ ban ngày, an toàn lao động; khám mắt. Không đáp ứng hoặc nghi rối loạn khác: đa ký (ESRS 2023 mục 3.4, Bảng 4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc ngủ lần khám này",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến lần tái khám",
+      "ghi_chu": "ESRS 2023 Bảng 16: CBT-I đầu tay, thuốc khi CBT-I chưa đủ. Nếu sau CBT-I vẫn cần thuốc: benzodiazepin hoặc nhóm Z tối đa 4 tuần, không tăng liều (ESRS 2023 mục 1.4, 4.2.1). AASM 2026 khuyến cáo 2 (có điều kiện). Liều nếu cần dùng: không có trong tài liệu đã tải (AASM 2017 chỉ nêu liều trong thử nghiệm)."
+     },
+     {
+      "thuoc": "Ngừng tự nhỏ thuốc nhỏ mắt có dexamethason (tự mua)",
+      "ham_luong": "Theo lọ đang dùng (anh mang theo)",
+      "lieu": "Ngừng tự dùng; không tự nhỏ lại khi ngứa đỏ mắt",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Hôm nay",
+      "so_ngay": "Đến khi khám mắt",
+      "ghi_chu": "AAO Conjunctivitis PPP 2018: tránh corticoid bừa bãi; dùng kéo dài hoặc tái phát phải đo nhãn áp và đồng tử; giảm dần khi đã dùng lâu. Dùng 12 ngày đợt này nên ngừng hoặc giảm dần theo bác sĩ mắt. Thuốc thay thế: không có trong tài liệu đã tải cho ca này."
+     }
+    ],
+    "dan_do": [
+     "Cùng anh xem hồ sơ cũ: máu, tuyến giáp, điện tim, X-quang, CT đều bình thường nên không làm lại. Lần này khác ba nơi trước vì mất ngủ mạn điều trị bằng thay thói quen duy trì nó, không bằng thuốc bổ (ESRS 2023 mục 4.1.1: CBT-I không gây lệ thuộc, hiệu quả bền hơn thuốc).",
+     "Giờ dậy cố định 5 giờ 30 mỗi sáng, cả thứ 7 và chủ nhật. Chỉ lên giường khi buồn ngủ; không ngủ được thì ra khỏi giường, buồn ngủ rồi mới vào lại. Giường chỉ để ngủ, không lướt điện thoại, không tính việc, không xem giờ (AASM 2021 Bảng 3, kiểm soát kích thích ý a – e).",
+     "Bỏ ngủ bù cuối tuần; giấc trưa nếu cần thì ngắn. Không cà phê, nước tăng lực sau buổi trưa; không hút thuốc buổi tối; không uống bia để ngủ (QĐ 2058/2020 Bài 27 mục 4.3, tr. 151). Tập thư giãn, thở bụng trước khi nằm (AASM 2021 Bảng 3, liệu pháp thư giãn).",
+     "Ghi nhật ký ngủ mỗi sáng 7 – 14 ngày: giờ lên giường, ước giờ ngủ, số lần thức, giờ dậy, cà phê, thuốc lá, bia (ESRS 2023 mục 3.2); mang theo khi tái khám.",
+     "Những tuần đầu thu hẹp thời gian nằm có thể buồn ngủ hơn: không làm việc trên cao, đóng cắt điện hay lái xe khi buồn ngủ rõ; nhường việc nguy hiểm và báo ngay nếu suýt có sự cố (ESRS 2023 mục 4.1.1).",
+     "Không tự nhỏ lại thuốc nhỏ mắt có corticoid, không tự mua thuốc ngủ hay tăng liều; khám mắt trong vài ngày tới để tìm nguyên nhân đỏ ngứa và đo nhãn áp (AAO 2018).",
+     "Báo sớm nếu bạn cùng phòng thấy anh ngáy to có ngưng thở, ban ngày buồn ngủ gục, chân khó chịu về đêm, hoặc anh buồn chán, mất hứng thú, nghĩ đến chuyện không muốn sống (ESRS 2023 mục 3.5; QĐ 2058/2020 Bài 20 mục 3.1.1). Tái khám sau khoảng 2 tuần với nhật ký ngủ (lựa chọn biên tập)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Phúc làm đúng hai tuần đầu: giờ dậy cố định, bỏ bia, bớt cà phê, ghi nhật ký; đêm khá hơn nhưng chưa ổn. Ở tái khám, bác sĩ thu hẹp thời gian nằm quanh 6 giờ (0 giờ đến 6 giờ) theo nhật ký. Tuần đầu anh buồn ngủ, nặng đầu, cáu gắt; ngày thứ 5 anh đấu nhầm dây lần hai, may thợ phụ phát hiện. Sợ có chuyện, anh bỏ nhật ký, quay lại nằm sớm, ra tiệm thuốc mua thuốc ngủ không toa, rồi nhắn bác sĩ rằng 'cách này không ăn thua, y như ba chỗ kia'. Sau 6 tuần anh vẫn mất ngủ, niềm tin với việc khám càng giảm. Ca này có kết cục xấu dù kế hoạch đúng: CBT-I và hạn chế giấc ngủ có thể tăng mệt và buồn ngủ những tuần đầu (ESRS 2023 mục 4.1.1), và một lần suýt sai sót không chứng minh kế hoạch sai (Kyle 2023, n = 642, không thấy tăng tai nạn lao động). Bài học là chống outcome bias: không đổi kế hoạch chỉ vì một kết cục xấu, nhưng cũng không bỏ qua cảnh báo; bài học hệ thống là hẹn kiểm tra sớm về buồn ngủ sau khi bắt đầu hạn chế giấc ngủ, điều chỉnh việc trên cao và duy trì liên lạc, thay vì chỉ hẹn 2 tuần.",
+ "nhieu": [
+  "Thuốc nhỏ mắt có dexamethason: dễ bị gán là nguyên nhân mất ngủ, nhưng mất ngủ có từ tháng 3, trước lọ thuốc đầu tiên (tháng 4) và thuốc chỉ nhỏ theo đợt. Vấn đề thật là tự dùng không đo nhãn áp (AAO 2018).",
+  "Hồ sơ ba nơi (công thức máu, tuyến giáp, điện tim, X-quang ngực, CT sọ) đều bình thường: xét nghiệm lặp lại vô ích. 'Khám tổng quát làm hết' chỉ làm anh thêm mất niềm tin.",
+  "Mỏi vai gáy do leo thang và mệt ban ngày dễ khiến nghĩ đến thiếu máu hay trầm cảm; thực ra là hậu quả của thiếu ngủ và việc nặng (khám và hồ sơ không thấy bệnh thực tổn)."
+ ],
+ "bai_hoc_bien": [
+  "Người đã khám nhiều nơi không khỏi: hỏi nơi trước đã làm gì, xem hồ sơ, ghi nhận công sức của họ; hỏi lại y như các nơi trước làm họ đóng lại, lặp lại xét nghiệm bình thường làm mất niềm tin (ESRS 2023 mục 3.4, Bảng 4).",
+  "Hỏi 'có uống thuốc gì không' sẽ nhận 'không'. Hỏi cụ thể thuốc nhỏ, thuốc bôi, thuốc tiệm, caffeine, thuốc lá, bia (ESRS 2023 mục 3.5) và đối chiếu thời điểm: thuốc ra đời sau mất ngủ là yếu tố cần xử lý, không phải nguyên nhân khởi phát.",
+  "Lý do thật là sợ có bệnh chưa ai tìm ra và sợ thuốc ngủ cả đời. Khám 'làm hết' không trả lời được nỗi sợ này; giải thích vì sao không cần làm thêm và đưa ra điều trị cụ thể mới trả lời được.",
+  "Không có X-quang, siêu âm: mất ngủ mạn không cần hình ảnh để chẩn đoán; biết điều gì không cần làm và khi nào chuyển đa ký (ESRS 2023 mục 3.4).",
+  "Xử trí đúng nhưng diễn tiến xấu: kế hoạch đúng vẫn có thể thất bại vì tác dụng phụ giai đoạn đầu của hạn chế giấc ngủ (ESRS 2023 mục 4.1.1). Đánh giá quyết định bằng guideline và quy trình, không bằng một kết cục; đặt mốc theo dõi sớm cho nghề nguy hiểm."
+ ],
+ "diem_nho": [
+  "Mất ngủ mạn: than phiền khó vào giấc, khó duy trì giấc ngủ hoặc dậy sớm, ít nhất 3 đêm mỗi tuần trong ít nhất 3 tháng, có hậu quả ban ngày, không giải thích hoàn toàn bằng bệnh khác (ESRS 2023 Bảng 2, ICSD-3); ICD-10 trong QĐ 2058/2020 Bài 27 mục 3.1.1 dùng ngưỡng 1 tháng.",
+  "CBT-I là điều trị đầu tay cho người lớn mọi tuổi (AASM 2021 khuyến cáo 1, mạnh; ESRS 2023 Bảng 16, A). Thuốc ngủ nhóm benzodiazepin và nhóm Z chỉ ngắn hạn không quá 4 tuần (ESRS 2023 Bảng 16).",
+  "Mọi người mất ngủ cần sàng lọc ngưng thở khi ngủ, hỏi rượu, thuốc, caffeine, nicotin và hỏi riêng về trầm cảm (ESRS 2023 mục 3.5). Đa ký không cần cho chẩn đoán mất ngủ (ESRS 2023 mục 3.4).",
+  "Hạn chế giấc ngủ và kiểm soát kích thích có thể làm buồn ngủ ban ngày những tuần đầu; đánh giá phù hợp và theo dõi, nhất là nghề nguy hiểm (ESRS 2023 mục 4.1.1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 27 (mục 3.1.1, 3.1.2, 3.2, 4.1, 4.3, tr. 150 – 152); Bài 20 mục 3.1.1 (tr. 119 – 120); Bài 22 mục 3.1.1 (tr. 132).",
+  "ESRS 2023 – The European Insomnia Guideline, J Sleep Res 2023;32:e14035 – TL-0464 – mục 1.4, 3.1, 3.2, 3.4, 3.5, 4.1.1, 4.2.1, 4.2.2, 4.2.8; Bảng 2, 4, 5, 16; Hình 1.",
+  "AASM 2021 – Behavioral and psychological treatments for chronic insomnia disorder in adults, J Clin Sleep Med 2021;17(2):255-262 – TL-0470 – khuyến cáo 1 – 6, Bảng 3.",
+  "AASM 2017 – Pharmacologic treatment of chronic insomnia in adults, J Clin Sleep Med 2017;13(2):307-349 – TL-0482 – khuyến cáo 2, 4 – 6, 8, 9.",
+  "AASM 2026 – Combination treatment for chronic insomnia disorder in adults, J Clin Sleep Med 2026;22(1) – TL-0448 – khuyến cáo 1, 2 và remark.",
+  "AAO Conjunctivitis Preferred Practice Pattern 2018 – TL-0266 – mục Follow-up, Allergic conjunctivitis, Adenoviral (corticoid nhỏ mắt: theo dõi nhãn áp, giảm dần)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 08/11/2026, viết: Sonnet. Đã đọc: TL-0443 (Bài 27, 20, 22); TL-0464 ESRS 2023 (mục 1.4, 3, 4.1.1, 4.2, Bảng 2, 4, 5, 16); TL-0470 AASM 2021 (khuyến cáo, Bảng 3); TL-0482 AASM 2017 (bảng khuyến cáo); TL-0448 AASM 2026 (khuyến cáo, remark); TL-0266 AAO 2018 (đoạn corticoid). TL-0481 chỉ có phần phụ lục dữ liệu, không trích.",
+  "Không có trong tài liệu đã tải: cách tính điểm, điểm cắt STOP-Bang; liều khởi đầu thuốc ngủ cho người này (AASM 2017 chỉ nêu liều trong thử nghiệm); liều doxepin, mirtazapin riêng cho mất ngủ; tác dụng toàn thân của corticoid nhỏ mắt lên giấc ngủ; cách ngừng corticoid nhỏ mắt và thuốc thay thế; khoảng cách tái khám (2 tuần là lựa chọn biên tập); cửa sổ giường 6 giờ (chọn trong biến thể 4,5 – 5 – 6 giờ của ESRS 2023, thận trọng vì nghề); theo dõi buồn ngủ sớm cho thợ điện (suy diễn từ ESRS 2023 mục 4.1.1).",
+  "Mâu thuẫn/khác biệt nguồn ghi cả hai cách: phối hợp CBT-I với thuốc (BYT 2020, ESRS 2023, AASM 2026) và vệ sinh giấc ngủ đơn thuần (BYT 2020, AASM 2021, ESRS 2023) theo mục sổ từ TT-0161; ngưỡng thời gian mất ngủ mạn (ICD-10 1 tháng, ICSD-3 3 tháng); corticoid nhỏ mắt theo mục HH-0685. Mục mới đề xuất: thuốc chống trầm cảm liều thấp (trazodon) cho mất ngủ, xem TT-0151_mau_thuan.md.",
+  "Không dùng ảnh da. Âm thanh: AT-TIM-BT-NL-01 (mạch 76), AT-PHOI-BT-NL-01."
+ ]
+}
