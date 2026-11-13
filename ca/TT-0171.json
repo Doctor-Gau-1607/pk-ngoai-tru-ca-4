@@ -1,0 +1,506 @@
+{
+ "ma_ca": "TT-0171",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-13)",
+ "benh": "TT_roi_loan_hoang_so",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn hoảng sợ",
+  "chan_doan_phai_loai_tru": [
+   "Hội chứng vành cấp",
+   "Cường giáp",
+   "Loạn nhịp"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Thợ hàn (hàn khung thép, mái tôn công trình, làm trên cao ngoài trời)",
+  "yeu_to_khoi_phat": "Phơi nắng lâu (hàn mái tôn buổi trưa khoảng 3 giờ liền, không uống nước)",
+  "thuoc_dang_dung": "Thuốc tránh thai đang dùng (của vợ, uống hằng ngày, để chung hộp thuốc gia đình; anh là nam, không dùng; anh tự uống amoxicillin 500 mg còn dư 3 ngày nay)",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc (sợ lên cơn khi làm trên cao, sợ ngã giàn giáo như đồng nghiệp; ngại nói với chủ thầu nên cần giấy bác sĩ)"
+ },
+ "benh_nhan": {
+  "ten": "Lê Quang Thịnh",
+  "tuoi": 34,
+  "gioi": "Nam",
+  "nghe": "Thợ hàn (nhận hàn khung thép, mái tôn công trình, làm trên cao ngoài trời)",
+  "can_nang": 68,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh Thịnh'. Anh xưng 'em', gọi bác sĩ là 'bác sĩ', gọi vợ là 'nhà em'.",
+  "tinh_cach": "Thợ hàn 12 năm, nói thẳng, sĩ diện, quen làm việc nặng nên ngại nói chuyện sợ hãi ('đàn ông thợ hàn mà sợ thì mất mặt'). Hay cáu khi bị hỏi dài dòng. Ít chữ, trả lời cụt, chỉ mở lòng khi thấy bác sĩ không chê.",
+  "kieu_nhieu": "Đòi kháng sinh: tin 'khói hàn đọng phổi sinh viêm', đã tự uống amoxicillin dư 3 ngày không đỡ, đòi 'loại mạnh hơn, tiêm càng tốt, ở tiệm thuốc người ta bán cho là hết'. Bị từ chối thì nhắc 'bác sĩ khác cho em rồi', hỏi 'vậy không cho thuốc thì em về làm sao', nhưng chịu nghe nếu thấy được giải thích đúng nỗi sợ của mình và được giao việc cụ thể.",
+  "nguoi_nha": "Vợ",
+  "ten_nguoi_nha": "Nguyễn Thị Hằng",
+  "ngoai_hinh": {
+   "da": "#b98660",
+   "toc": "#1d1512",
+   "kieuToc": "ngan",
+   "ao": "#5b6b74",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d3a37c",
+    "toc": "#1d1815",
+    "kieuToc": "dai",
+    "ao": "#8a6f7f",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Hồi hộp, tức ngực, nghẹn cổ từng cơn; xin kháng sinh và giấy nghỉ việc",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 34 tuổi, thợ hàn, đi cùng vợ, đến khám vì hồi hộp, tức ngực, nghẹn cổ từng cơn khoảng 5 tuần nay; xin thuốc kháng sinh và giấy nghỉ việc. Sinh hiệu lúc tiếp đón: mạch 94 l/p, HA 130/82 mmHg, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho anh Thịnh về với giải thích và hẹn tái khám sau 1–2 tuần (có hoặc không kèm SSRI) mà không chuyển khám chuyên khoa. Ý nghĩ 'chết quách đi cho khỏi sợ' chưa ai đánh giá có hệ thống, trong khi tài liệu nêu rõ bệnh nhân hoảng sợ cần được đánh giá nguy cơ tự sát rõ ràng và CBT hoặc điều trị ban đầu tại tuyến cơ sở có thể chưa đủ khi có ý nghĩ tự sát (Canada 2014, mục 2 Suicide risk và phần tóm tắt Panic disorder). Tuần đầu dùng thuốc, anh có thể thấy tim đập mạnh hơn (tăng lo âu thoáng qua đầu điều trị, NICE CG113 1.3.23) và cho rằng thuốc làm bệnh nặng thêm, bỏ thuốc; vẫn không dám lên mái tôn, mất thêm công trình, vợ vẫn không biết về ý nghĩ chết, nên khó có ai ở bên anh khi nỗi sợ nặng lên.",
+    "nhap_vien": "Giữ anh Thịnh nhập viện nội trú (tim mạch hoặc tâm thần) vì 'tức ngực kèm ý nghĩ chết'. ECG, TSH bình thường, sinh hiệu ổn, không có kế hoạch hay ý định tự sát; người có cơn hoảng sợ thường không cần nằm giường bệnh nội khoa hay tâm thần (NICE CG113 1.3.6). Anh là thợ công nhật, nằm viện mất thu nhập nhiều ngày, tốn viện phí, chủ thầu biết 'thợ hàn đi nằm viện tâm thần' nên có thể không gọi lại; anh càng tin mình mắc bệnh nặng, càng sợ lên cơn khi ra viện.",
+    "cap_cuu": "Gọi xe cấp cứu đưa anh Thịnh lên bệnh viện tuyến trên như đau ngực cấp. Cơn đã hết, không đau lúc khám, ECG nhịp xoang bình thường, không có yếu tố nguy cơ vành rõ rệt (ESC 2023, Hình 5: ECG trong 10 phút, hs-cTn khi nghi ACS); chuyển cấp cứu không đổi được chẩn đoán. Anh nhận thông điệp 'tim mình có vấn đề nên phải đi cấp cứu', củng cố đúng nỗi sợ nuôi cơn hoảng sợ; tốn tiền, mất ngày công, rồi vẫn phải đi khám chuyên khoa tâm thần vì ý nghĩ chết chưa ai hỏi."
+   },
+   "loi_mo": "Chào bác sĩ. Dạo này em cứ hồi hộp, tức ngực, nghẹn cổ từng cơn, em nghi do khói hàn đọng trong phổi sinh viêm. Bác sĩ cho em thuốc kháng sinh mạnh mạnh một chút, với cho em tờ giấy nghỉ việc nửa tháng, em hết sức làm rồi.",
+   "sinh_hieu": {
+    "mach": 94,
+    "ha": "130/82",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hồi hộp, tức ngực, nghẹn cổ từng cơn khoảng 5 tuần. Anh cho rằng 'khói hàn đọng phổi sinh viêm' nên xin kháng sinh, và xin giấy nghỉ việc nửa tháng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và hai yêu cầu (kháng sinh, giấy nghỉ)"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Thợ hàn 12 năm, nhận hàn khung thép, mái tôn công trình, thường làm trên cao 4–6 m, ngoài nắng. Chủ thầu trả công theo ngày, nghỉ ngày nào mất tiền ngày đó. Vợ làm công nhân may, con trai 3 tuổi.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nghề, thu nhập theo ngày, gia đình"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cơn đầu cách đây 5 tuần: hàn mái tôn buổi trưa nắng khoảng 3 giờ liền, không uống nước, đột nhiên tim đập thình thịch, tay tê run, thấy sắp chết, tụt xuống nằm dưới gốc cây. Đồng nghiệp bảo 'say nắng', cho uống nước, khoảng 25 phút thì hết. Sau đó khỏe lại, làm việc tiếp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau phơi nắng lâu, dễ neo vào 'say nắng'"
+    },
+    {
+     "id": "con",
+     "noi_dung": "Mỗi cơn đến đột ngột: tim đập mạnh, vã mồ hôi, run, tê đầu ngón tay và quanh miệng, thấy nghẹt thở, nghẹn ở cổ như có gì chặn, bó chặt giữa ngực, chóng mặt, thấy mình xa lạ, sợ chết hoặc sợ mất kiểm soát. Lên đỉnh sau chừng 10 phút, cả cơn 20–30 phút thì hết hẳn, giữa các cơn khỏe. Tổng cộng khoảng 7 cơn trong 5 tuần, 2 tuần gần đây có 3 cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm cơn hoảng sợ (≥4 triệu chứng, lên đỉnh trong vài phút)"
+    },
+    {
+     "id": "con_khong_nang",
+     "noi_dung": "5 trong 7 cơn không dính nắng hay nóng: một lúc xem tivi buổi tối, một lúc tắm sáng, một lần thức giấc 2 giờ sáng, một lần đang chạy xe máy, một lần ở xưởng trong bóng râm. Cơn không liên quan gắng sức: khiêng thép, leo giàn giáo giữa hai cơn không đau ngực. Đau kiểu bó giữa ngực, không lan tay hay hàm, không đổi theo hít sâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn tái diễn không báo trước, không do nóng hay gắng sức"
+    },
+    {
+     "id": "tranh_ne",
+     "noi_dung": "Từ cơn đầu, ngày nào anh cũng lo cơn quay lại. Đã từ chối 2 công trình mái tôn, né làm việc ngoài trời buổi trưa, luôn mang chai nước, không dám chạy xe máy đường xa một mình. Thu nhập mấy tuần nay giảm khoảng một nửa. Lo lắng kéo dài trên 1 tháng kể từ cơn đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo cơn tái phát và né tránh trên 1 tháng (tiêu chuẩn rối loạn hoảng sợ)"
+    },
+    {
+     "id": "khong_cuong_giap",
+     "noi_dung": "Không sụt cân, ăn uống bình thường, không sợ nóng hơn người khác, không tiêu chảy, tay không run khi nghỉ giữa các cơn. Không đau thắt ngực khi gắng sức, không ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không gợi ý cường giáp hay bệnh vành"
+    },
+    {
+     "id": "ho_khoi",
+     "noi_dung": "Ho khan nhẹ buổi sáng đã nhiều năm (hút nửa gói thuốc lá mỗi ngày, 10 năm). Không sốt, không khạc đờm vàng xanh, không khó thở khi gắng sức. 'Nghẹn cổ' chỉ trong cơn. Hàn ngoài trời thoáng, có đeo khẩu trang.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Triệu chứng hô hấp nền, không có dấu nhiễm khuẩn"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "3 ngày nay tự uống amoxicillin 500 mg còn dư từ lần viêm họng trước, 2 viên mỗi ngày, không đỡ gì. Muốn xin 'loại mạnh hơn, tiêm càng tốt' vì tin khói hàn làm phổi viêm. 'Ở tiệm thuốc người ta bán cho là hết.'",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tự dùng kháng sinh dư, đòi kháng sinh không chỉ định"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Không có bệnh mạn tính, không thuốc thường xuyên. Vợ uống thuốc tránh thai mỗi ngày, vỉ thuốc để chung trong hộp thuốc gia đình; anh không dùng. Không dùng thuốc ngủ, thuốc giảm cân, thuốc kích thích.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc tránh thai là của vợ; xác nhận không dùng thuốc nào gây hồi hộp"
+    },
+    {
+     "id": "chat_kich_thich",
+     "noi_dung": "Cà phê 2 ly mỗi ngày và 1 lon nước tăng lực mỗi ngày (tăng từ khi làm công trình ngoài nắng). Bia 2–3 lon vào cuối tuần, không uống rượu buổi sáng, không run tay khi sáng dậy. Không ma túy. Hút nửa gói thuốc lá mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Cà phê, nước tăng lực, bia, thuốc lá"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng bệnh tim, tăng huyết áp, tiểu đường, bệnh tuyến giáp. Cha 66 tuổi bị tăng huyết áp. Trong họ không ai chết đột ngột hoặc bệnh tim trước 55 tuổi. Chưa bao giờ khám tâm thần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử bản thân và gia đình, yếu tố nguy cơ vành"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Ngủ khó vào giấc vì sợ cơn ban đêm, hay thức lúc 2–3 giờ sáng. Ăn được. Vẫn thích đá bóng cuối tuần nhưng đi ít hơn. Dạo này hay cáu gắt với vợ con. Không thấy mình vô dụng. Không nghe tiếng nói lạ, không nghi ngờ ai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc trầm cảm, loạn thần; ảnh hưởng chức năng"
+    },
+    {
+     "id": "ban",
+     "noi_dung": "Lý do thật xin giấy nghỉ: anh sợ lên mái tôn, sợ lên cơn khi đang đứng 5 m trên cao rồi ngã. Tháng trước một đồng nghiệp ngã giàn giáo gãy xương chậu. Anh ngại nói với chủ thầu vì sợ bị chê 'nhát, hết sức' rồi mất mối, nên cần tờ giấy bác sĩ làm lý do nghỉ.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: muốn nghỉ khỏi công việc vì sợ làm việc trên cao",
+     "dieu_kien_lo": "Nếu chỉ hỏi chung 'anh bị gì', anh nói 'em mệt, cần nghỉ'. Chỉ kể khi bác sĩ hỏi vì sao hôm nay quyết định đi khám và xin nghỉ, hoặc hỏi công việc bị ảnh hưởng ra sao, hoặc hỏi anh sợ điều gì khi lên cao làm việc."
+    },
+    {
+     "id": "tu_sat",
+     "noi_dung": "Hai tuần nay, vài lần lúc nằm không ngủ được anh nghĩ 'chết quách đi cho khỏi sợ'. Chưa nghĩ ra cách nào cụ thể, chưa chuẩn bị gì, không có ý định hành động vì còn vợ và con trai 3 tuổi. Chưa nói với vợ.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Ý nghĩ chết thụ động, chưa kế hoạch: cờ đỏ cần đánh giá nguy cơ",
+     "dieu_kien_lo": "Nếu bác sĩ chỉ hỏi 'có buồn chán không', anh trả lời 'không, chỉ sợ thôi'. Chỉ nói khi bác sĩ hỏi thẳng, nhẹ nhàng về ý nghĩ chết hoặc tự hại (kể cả khi khám tâm thần hỏi ý tưởng tự hại), anh nói nhỏ và nhìn xuống. Nếu hỏi tiếp về kế hoạch, ý định, phương tiện thì anh trả lời như trên."
+    },
+    {
+     "id": "vo",
+     "noi_dung": "Chị Hằng đi cùng, thấy chồng 'dạo này hay cáu, ngủ chập chờn, không chịu lên công trình' nhưng không biết anh nghĩ đến chuyện chết. Chị lo chồng bị 'bệnh tim vì khói hàn'. Chị sẵn sàng đưa anh đi khám chuyên khoa nếu được giải thích.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguồn lực hỗ trợ gia đình, người đi cùng khi chuyển tuyến"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi căng, nói cụt. Da sạm nắng, ấm, khô, không vã mồ hôi lúc khám, niêm hồng, không dấu mất nước (môi ẩm, da véo trở lại nhanh). BMI 24,1.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Dáng vẻ gọn gàng, hợp tác nhưng cáu khi bị hỏi dài. Khí sắc hơi trầm lo, nói khi bác sĩ hỏi ra nỗi sợ làm việc trên cao. Lời nói mạch lạc, không hoang tưởng, không ảo giác. Nhận thức đủ, tự nhận 'sợ mà không kiểm soát được'. Khi được hỏi riêng về ý nghĩ tự hại, anh ngập ngừng rồi thừa nhận có ý nghĩ thụ động (xem sự thật tu_sat), không kế hoạch, không phương tiện, không ý định.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói mạch lạc, nét mặt căng thẳng."
+    },
+    "dau_mat_co": {
+     "a": "Không bướu giáp, không nhân giáp sờ được, không lồi mắt, không co cơ mi, không hạch cổ.",
+     "k": 1
+    },
+    "run_nghi": {
+     "a": "Hai tay giơ thẳng không run, không rung giật cơ, lòng bàn tay hơi ẩm.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amidan không to, không mủ, không phù nề thanh quản, mũi thông. Không hạch cổ đau.",
+     "k": 1,
+     "hien": "Họng không đỏ, amidan không to."
+    },
+    "tim": {
+     "a": "Tim đều 94 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3. Không phù chân, tĩnh mạch cổ không nổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 94 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Lồng ngực cân đối. Rì rào phế nang rõ hai bên, không ran. Nhịp thở 18 l/p, không co kéo. Ấn thành ngực không đau.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, hai phổi thông khí đều.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, gan lách không to.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da sạm nắng ở cổ, cẳng tay; vài vết bỏng hồ quang nhỏ đã lành ở mu tay. Không ban, không tổn thương cấp.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 94 l/p, trục trung gian, PR 150 ms, QRS 90 ms, không sóng delta. QTc 410 ms. Không ST chênh, không sóng T đảo, không sóng Q bệnh lý.",
+     "n": "Cần: loại thiếu máu cơ tim và đường dẫn phụ/loạn nhịp ngay tại chỗ, có kết quả ngay (ESC 2023, Hình 5: ECG trong 10 phút khi nghi hội chứng vành cấp; ESC 2019 SVT mục 8: SVT có thể bị nhầm là hoảng sợ, cần ECG 12 chuyển đạo)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 1,6 mUI/L · FT4 14 pmol/L (trong giới hạn bình thường).",
+     "n": "Loại cường giáp: TSH nhạy và đặc hiệu nhất, dùng làm xét nghiệm đầu (ATA 2016 mục B2); Canada 2014 Bảng 7 liệt kê TSH trong xét nghiệm nền khi cần. Cơn hồi hộp, run, vã mồ hôi giống cường giáp nên phải xác nhận."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "5,2 mmol/L (đường huyết mao mạch)",
+     "n": "Rẻ (20.000 đ), hợp lý vì hạ đường huyết nằm trong bệnh cơ thể có thể gây triệu chứng hoảng sợ (Canada 2014, mục Panic disorder) và anh làm việc nặng, nhịn ăn trưa. Không làm cũng không trừ điểm."
+    },
+    "trop": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Không đau ngực lúc khám, cơn không do gắng sức, 34 tuổi, ECG bình thường, tiền sử gia đình không bệnh vành sớm; xác suất hội chứng vành cấp rất thấp. ESC 2023 Hình 5 dùng hs-cTn khi nghi ACS (bước 'A.C.S.'). Ngưỡng 'xác suất bao nhiêu thì không cần troponin': không có trong tài liệu đã tải. Nếu đau ngực kéo dài trên 20 phút hoặc khi gắng sức thì làm lại."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Canada 2014 Bảng 7 xếp công thức máu là xét nghiệm nền 'khi cần'. Không thiếu máu hay nhiễm trùng trên lâm sàng (không sốt, họng và phổi bình thường)."
+    },
+    "lyte": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Canada 2014 Bảng 7 xếp điện giải là xét nghiệm nền 'khi cần'. Anh đã uống nước, môi ẩm, không nôn hay tiêu chảy; không đổi quyết định hôm nay."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "SpO₂ 98%, nghe phổi bình thường, không sốt, không ho đờm; không thấy chỉ định cho kháng sinh. Ho khan nhẹ buổi sáng ở người hút thuốc 10 năm là triệu chứng nền, chưa đủ chỉ định chụp. Nếu ho kéo dài hoặc có triệu chứng mới thì chụp sau. Chỉ định chụp X-quang trong ho mạn: không có trong tài liệu đã tải."
+    },
+    "holter_ecg": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Cơn mạch tăng dần theo cảm xúc, không bắt đầu và dừng đột ngột, ECG xoang, PR bình thường, không sóng delta (ESC 2019 SVT mục 8). Nếu sau này có cơn tim đều, nhanh, bắt đầu và dừng đột ngột thì ghi ECG ngay trong cơn rồi cân nhắc Holter."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "250.000 đ không đổi quyết định khi khám tim và ECG bình thường, không dấu suy tim hay âm thổi. ESC 2019 SVT mục 8 cần siêu âm tim khi đã xác định SVT, ở đây chưa có bằng chứng."
+    },
+    "chi_mau": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Phơi nhiễm khói hàn là có thật, nhưng không có triệu chứng thần kinh, đau bụng, thiếu máu hay chu kỳ phơi nhiễm gợi ý nhiễm độc; chỉ định xét nghiệm chì hay kim loại hàn cho thợ hàn: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ (chưa có agoraphobia điển hình), mức vừa đến nặng về chức năng, khởi phát sau phơi nắng lâu, kèm ý nghĩ chết thụ động",
+     "ok": 1,
+     "n": "Cơn hoảng sợ tái diễn không báo trước (≥4 trong 13 triệu chứng, lên đỉnh trong vài phút) và ≥1 cơn kèm lo cơn tái phát hoặc đổi hành vi kéo dài ≥1 tháng (Canada 2014 Bảng 11, 12; DSM-5). 5/7 cơn không dính nắng, nên 'say nắng' chỉ là yếu tố khởi phát. Từ chối công trình, thu nhập giảm một nửa là suy giảm chức năng đáng kể; ý nghĩ chết thụ động chưa kế hoạch cần đánh giá nguy cơ (Canada 2014 mục 2 Suicide risk)."
+    },
+    {
+     "t": "Hội chứng vành cấp",
+     "n": "34 tuổi, hút thuốc nhưng không tăng huyết áp, tiểu đường, không tiền sử gia đình bệnh vành sớm; cơn không do gắng sức, đau không lan, tự hết sau 20–30 phút, không đau lúc khám, ECG bình thường (ESC 2023 Hình 5). Không làm troponin do xác suất rất thấp; quay lại ngay nếu đau ngực kéo dài trên 20 phút, đau khi gắng sức, vã mồ hôi lạnh kèm ECG đổi. Ở người trẻ, nhồi máu hiếm nhưng nỗi sợ nhồi máu là nội dung thường gặp của cơn hoảng sợ (WFSBP 2022 Bảng 5)."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Không sụt cân, không sợ nóng, không bướu giáp, không lồi mắt, không run tay; TSH 1,6 và FT4 14 bình thường (ATA 2016 mục B2). ATA 2016 (phần biểu hiện lâm sàng): cường giáp gây tim nhanh, lo âu nên khi nghi vẫn cần TSH."
+    },
+    {
+     "t": "Loạn nhịp (nhịp nhanh trên thất, rung nhĩ, hội chứng tiền kích thích)",
+     "n": "Mạch tăng dần theo cảm xúc, không bắt đầu và dừng đột ngột; ECG xoang, PR 150 ms, không sóng delta (ESC 2019 SVT mục 8: nhịp nhanh trên thất có thể bị nhầm là rối loạn hoảng sợ, ECG 12 chuyển đạo là bắt buộc). Chưa có Holter: dặn ghi ECG ngay trong cơn nếu tim đều, nhanh, bắt đầu và dừng đột ngột."
+    },
+    {
+     "t": "Kiệt sức vì nóng, say nắng, mất nước",
+     "n": "Chỉ giải thích được cơn đầu. 5/7 cơn sau xảy ra trong nhà, mát, trong bóng râm hoặc khi đang chạy xe; hiện không sốt, không mất nước (môi ẩm, da véo trở lại nhanh), không rối loạn ý thức. Tiêu chuẩn chẩn đoán say nắng, kiệt sức vì nóng: không có trong tài liệu đã tải; loại trừ bằng lâm sàng."
+    },
+    {
+     "t": "Hạ đường huyết",
+     "n": "Cơn xảy ra cả lúc xem tivi, thức giấc ban đêm, không liên quan bữa ăn; đường huyết mao mạch 5,2 mmol/L. Canada 2014 (mục Panic disorder) nêu hạ đường huyết là bệnh cơ thể có thể gây triệu chứng hoảng sợ."
+    },
+    {
+     "t": "Lo âu do cà phê, nước tăng lực, thuốc lá, bia",
+     "n": "Cà phê 2 ly, nước tăng lực 1 lon mỗi ngày, hút nửa gói và bia 2–3 lon cuối tuần làm triệu chứng nặng thêm nhưng cơn đã có cả khi nghỉ và lúc nằm đêm; không uống rượu buổi sáng, không run tay khi dậy. Đánh giá caffeine, rượu, chất gây nghiện là phần của đánh giá nền (Canada 2014 mục Baseline assessment). Mức bia vượt ngưỡng 2 ly chuẩn mỗi lần uống (Canada 2026, CMAJ, hộp ngưỡng nguy cơ) nên cần tư vấn giảm."
+    },
+    {
+     "t": "Trầm cảm điển hình đi kèm",
+     "n": "Anh còn thích đá bóng, không thấy mình vô dụng, ăn được; mất ngủ do sợ cơn ban đêm. Trầm cảm gặp ở 20–36% bệnh nhân lo âu và làm tăng nguy cơ tự sát (Canada 2014, mục Comorbidity); cần chuyên khoa xác định khi có ý nghĩ chết. Công cụ sàng lọc trầm cảm cụ thể: không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Rối loạn lo âu lan tỏa",
+     "n": "Lo âu lan tỏa, dai dẳng, thường kéo dài khoảng 6 tháng (QĐ 2058/2020 Bài 22 mục 3.1.1). Ở đây lo xuất hiện thành cơn đột ngột lên đỉnh trong vài phút và lo chính là sợ cơn tái phát."
+    },
+    {
+     "t": "Viêm họng, viêm phổi do khói hàn cần kháng sinh",
+     "n": "Không sốt, họng không đỏ, amidan không to, phổi sạch, SpO₂ 98%, nhịp thở 18; 'nghẹn cổ' chỉ xảy ra trong cơn. Kháng sinh dư tự dùng 3 ngày không đỡ vì không có nhiễm khuẩn; không nên dùng kháng sinh còn thừa (WHO AWaRe 2022 Bảng 2.3). Chẩn đoán 'sốt khói kim loại': không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng, thẳng, nhẹ nhàng về ý nghĩ chết hoặc tự hại; hỏi có kế hoạch, phương tiện, ý định, yếu tố bảo vệ không; phân tầng nguy cơ: ý nghĩ thụ động, chưa kế hoạch nên chưa phải cấp cứu",
+     "v": "c",
+     "n": "Bệnh nhân rối loạn hoảng sợ cần được đánh giá nguy cơ tự sát rõ ràng, ngay cả khi không có trầm cảm đi kèm (Canada 2014, mục 2 Suicide risk). NICE CG113 1.3.36: đánh giá nguy cơ toàn diện và lập kế hoạch quản lý nguy cơ ở tuyến chuyên khoa. Công cụ phân tầng nguy cơ và ngưỡng nhập viện cho ý nghĩ chết thụ động: không có trong tài liệu đã tải (QĐ 2058/2020 chỉ nêu nhập viện sớm khi trầm cảm mức nặng có ý tưởng tự sát)."
+    },
+    {
+     "t": "Giải thích bằng lời đơn giản: đây là cơn hoảng sợ, không phải nhồi máu, không phải do khói hàn; ECG và TSH bình thường; phát tờ thông tin viết tay về cơn hoảng sợ",
+     "v": "c",
+     "n": "Người đến khám vì cơn hoảng sợ nên được xét nghiệm tối thiểu để loại bệnh thực thể cấp, không nhập viện thông thường, và được phát thông tin bằng văn bản (NICE CG113 1.3.6). Nội dung cơn: WFSBP 2022 Bảng 5. Cách nói cho thợ hàn 'không mất mặt' là kỹ năng giao tiếp, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển khám chuyên khoa tâm thần (bệnh viện tâm thần hoặc khoa tâm thần tuyến trên) trong 1–2 ngày, không phải cấp cứu; viết thư giới thiệu đủ thông tin; vợ đi cùng, nói rõ với vợ lý do chuyển",
+     "v": "c",
+     "n": "Tiêu chí hướng tới chuyển chuyên khoa: ý nghĩ tự sát dai dẳng và suy giảm chức năng nặng (NICE CG113, phụ lục Step 4 nêu cho lo âu lan tỏa, ngoại suy cho hoảng sợ); đánh giá lại toàn diện, đánh giá nguy cơ, thử CBT và dùng thuốc ở chuyên khoa (NICE 1.3.35–1.3.38). CBT đơn độc ở tuyến cơ sở có thể chưa đủ khi có ý nghĩ tự sát (Canada 2014, tóm tắt Panic disorder). Thời hạn '1–2 ngày' không có trong tài liệu đã tải, là lựa chọn của ca."
+    },
+    {
+     "t": "Chuẩn bị trước chuyển và kế hoạch an toàn: ghi lại ECG, TSH đã làm; dặn vợ ở bên anh những ngày này; nói rõ các dấu hiệu phải đến cấp cứu ngay; cất xa nơi ở các vật nguy hiểm trong nhà (thuốc, dây, dụng cụ)",
+     "v": "c",
+     "n": "Can thiệp theo nguyên tắc kế hoạch an toàn, đa thành phần hoặc kèm theo dõi/hỗ trợ có thể cân nhắc (mhGAP 2023, SUI1, có điều kiện, bằng chứng rất thấp). Nội dung chi tiết từng bước (số điện thoại, người liên hệ): không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không kê kháng sinh; ngưng amoxicillin dư; giải thích họng và phổi bình thường, không sốt, nên không có nhiễm khuẩn",
+     "v": "c",
+     "n": "Tránh dùng kháng sinh còn thừa (WHO AWaRe 2022 Bảng 2.3, nhóm bệnh nhân). Tiêu chuẩn cụ thể không kê khi viêm đường hô hấp trên do virus: không có trong tài liệu đã tải cho ca này."
+    },
+    {
+     "t": "Nói rõ hướng điều trị đầu tay: SSRI và/hoặc CBT ngắn; bắt đầu sertralin liều thấp ngay tại phòng khám trước chuyển HOẶC để tuyến chuyên khoa bắt đầu sau khi đánh giá nguy cơ",
+     "v": "c",
+     "n": "SSRI là thuốc đầu tay cho hoảng sợ (mhGAP 2023 ANX1, có điều kiện; NICE CG113 1.3.25; WFSBP 2022 Bảng 9, LoE A/RG 1). CBT ngắn có cấu trúc nên được cung cấp (mhGAP 2023 ANX2, mạnh; NICE 1.3.9, 1.3.12). Liều đích sertralin 50–200 mg/ngày (WFSBP 2022 Bảng 7); khởi liều thấp, tăng chậm (NICE 1.3.27). Hai cách đều chấp nhận: bắt đầu trước chuyển có lợi vì thuốc mất 4–12 tuần mới đủ tác dụng (Canada 2014), để chuyên khoa kê có lợi vì có đánh giá nguy cơ; nếu bắt đầu thì phải gặp lại 1–2 tuần sau (Canada 2014 mục Baseline assessment: theo dõi mỗi 1–2 tuần ban đầu)."
+    },
+    {
+     "t": "Khai thác lý do thật xin giấy nghỉ (sợ lên cao); cấp giấy nghỉ ngắn ngày ghi tình trạng bệnh đến khi khám chuyên khoa; khuyên tạm không làm việc trên cao cho đến khi được đánh giá",
+     "v": "c",
+     "n": "Rối loạn hoảng sợ làm giảm năng suất lao động và gây nghỉ việc nhiều (trung bình 36 ngày/năm, Canada 2014 mục Panic disorder). Quy định cấp giấy nghỉ, số ngày nghỉ: không có trong tài liệu đã tải. Việc khuyên tạm không làm việc trên cao là nhận định của biên tập vì cơn có thể xảy ra bất kỳ lúc nào, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn đi cấp cứu ngay nếu có ý nghĩ tự hại tăng lên hoặc có kế hoạch cụ thể, đau ngực kéo dài trên 20 phút hoặc khi gắng sức, ngất, khó thở không hết; hẹn mang kết quả chuyên khoa quay lại tái khám",
+     "v": "c",
+     "n": "Dấu hiệu nghi hội chứng vành cấp: ESC 2023 Hình 5. Với ý nghĩ tự sát tăng lên: phải đánh giá lại ngay (NICE CG113 1.3.36). Hạn tái khám cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tư vấn giảm cà phê, nước tăng lực, bia và thuốc lá",
+     "v": "a",
+     "n": "Caffeine, rượu, chất gây nghiện là phần của đánh giá nền (Canada 2014, mục Baseline assessment). Tác động cụ thể của từng chất lên cơn hoảng sợ, ngưỡng nên giảm bao nhiêu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho benzodiazepin ngắn ngày (tối đa 7 ngày) để cắt cơn trong lúc chờ chuyên khoa",
+     "v": "a",
+     "n": "mhGAP 2023 ANX6: cấp cứu lo âu nặng có thể cân nhắc benzodiazepin ngắn hạn 3–7 ngày; WFSBP 2022 Bảng 9: có thể ghép với thuốc chống trầm cảm trong vài tuần đầu khi không có tiền sử rối loạn sử dụng chất; thận trọng hơn là tối đa 7 ngày. Anh uống bia vài lon mỗi tuần, nguy cơ phối hợp với rượu (Joint 2025, Bảng 2) nên không cần cho."
+    },
+    {
+     "t": "Kê benzodiazepin uống đều đặn dài ngày (alprazolam, diazepam) cho cơn hoảng sợ",
+     "v": "w",
+     "n": "mhGAP 2023 ANX6: không khuyến cáo (mạnh, bằng chứng thấp); NICE CG113 1.3.20: kết quả dài hạn kém hơn, không nên kê cho hoảng sợ; Canada 2014 Bảng 15: hàng hai. WFSBP 2022 Bảng 9 chỉ cho ca kháng trị khi không có tiền sử rối loạn sử dụng chất; đã tra mục 'Benzodiazepin trong rối loạn hoảng sợ' trong mau_thuan.md."
+    },
+    {
+     "t": "Kê kháng sinh uống (amoxicillin–clavulanat, cefuroxim) hoặc tiêm cho 'phổi nhiễm khói hàn'",
+     "v": "w",
+     "n": "Không có nhiễm khuẩn trên lâm sàng; không nên dùng kháng sinh thừa (WHO AWaRe 2022 Bảng 2.3). Kháng sinh không làm đỡ cơn và củng cố niềm tin sai về bệnh."
+    },
+    {
+     "t": "Làm troponin, siêu âm tim, Holter 24 giờ 'cho chắc' khi ECG và khám tim bình thường",
+     "v": "w",
+     "n": "Không đổi quyết định hôm nay (ESC 2023 Hình 5; ESC 2019 SVT mục 8); tốn 800.000 đ và ngày công của một thợ nhận công theo ngày."
+    },
+    {
+     "t": "Hẹn tái khám tại phòng khám 1–2 tuần sau chuyên khoa để nhận kết quả, chỉnh thuốc, phối hợp theo dõi",
+     "v": "a",
+     "n": "Phối hợp thông tin giữa tuyến cơ sở và chuyên khoa là điều cần có (NICE CG113 1.3.39). Khoảng 1–2 tuần theo dõi ban đầu khi mới dùng thuốc: Canada 2014, mục Baseline assessment."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ: cơn hoảng sợ tái diễn không báo trước, lo cơn tái phát và né tránh công việc trên cao trên 1 tháng (Canada 2014 Bảng 11, 12)",
+     "Yếu tố khởi phát: phơi nắng lâu, mất nước, kiệt sức vì nóng ở cơn đầu; yếu tố duy trì: caffeine, nước tăng lực, thuốc lá",
+     "Ý nghĩ chết thụ động, chưa kế hoạch, chưa ý định (cờ đỏ cần đánh giá nguy cơ chuyên khoa)",
+     "Suy giảm chức năng nghề nghiệp mức vừa đến nặng (từ chối công trình, thu nhập giảm một nửa)",
+     "Đã loại trừ ở mức cơ sở: hội chứng vành cấp, cường giáp, loạn nhịp (ECG, TSH bình thường); không có nhiễm khuẩn hô hấp"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: (1) tả một cơn từ đầu đến cuối: đột ngột, lên đỉnh sau chừng 10 phút, 20–30 phút hết (Canada 2014 Bảng 11), giữa cơn khỏe; (2) khởi phát: cơn đầu sau phơi nắng 3 giờ rồi hỏi các cơn sau có dính nắng không, để không dừng ở 'say nắng'; (3) cơn có liên quan gắng sức hay không, đau lan hay không (nghĩ tới bệnh vành); (4) mạch có bắt đầu và dừng đột ngột không (loạn nhịp); sụt cân, sợ nóng, run tay (cường giáp); (5) cà phê, nước tăng lực, rượu bia, thuốc lá, thuốc đang dùng (thuốc của vợ, kháng sinh tự uống); (6) lo cơn tái phát và né tránh trong ít nhất 1 tháng (Canada 2014 Bảng 12); (7) vì sao hôm nay quyết định đi khám và xin giấy nghỉ, công việc bị ảnh hưởng thế nào; (8) hỏi riêng, thẳng về ý nghĩ chết, tự hại.",
+     "Khám: mạch 94, HA 130/82, không sốt, SpO₂ 98%; tim đều không âm thổi, phổi sạch, họng không đỏ, không bướu giáp, không run; khám tâm thần có hỏi ý tưởng tự hại. Khám họng và phổi bình thường là lý do không kê kháng sinh.",
+     "Cận lâm sàng: ECG 12 chuyển đạo (ESC 2023 Hình 5; ESC 2019 SVT mục 8) và TSH, FT4 (ATA 2016 mục B2) là hai xét nghiệm đổi quyết định; đường huyết mao mạch rẻ, hợp lý. Troponin, siêu âm tim, Holter, X-quang, công thức máu, điện giải không đổi quyết định hôm nay nên không chỉ định; nếu xuất hiện dấu mới thì làm lại.",
+     "Chẩn đoán: rối loạn hoảng sợ là chẩn đoán có tiêu chuẩn dương tính (cơn không báo trước tái diễn và ≥1 tháng lo cơn hoặc đổi hành vi; Canada 2014 Bảng 11, 12), không phải chẩn đoán loại trừ. Cơn đầu sau nắng chỉ là yếu tố khởi phát; 5/7 cơn không dính nắng. Điều làm anh phải chuyển tuyến không phải là chẩn đoán khó mà là ý nghĩ chết kèm suy giảm chức năng nặng và nghề nguy hiểm khi lên cơn trên cao."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: chuyển khám chuyên khoa tâm thần có hẹn trong 1–2 ngày, không cấp cứu, không nhập viện. Lý do chuyển: ý nghĩ chết kéo dài hai tuần, suy giảm chức năng nặng, cần đánh giá nguy cơ toàn diện và bắt đầu CBT, thuốc ở chuyên khoa (NICE CG113 1.3.35–1.3.38; Canada 2014, mục 2 Suicide risk và tóm tắt Panic disorder). Cơn hoảng sợ đơn thuần thường được chăm sóc ở tuyến cơ sở, không nhập viện (NICE CG113 1.3.6); đây là chuyển có hẹn kịp thời chứ không phải chuyển khẩn.",
+     "Điều trị mục tiêu: SSRI đầu tay (mhGAP 2023 ANX1; NICE 1.3.25; WFSBP 2022 Bảng 9) kèm CBT (mhGAP 2023 ANX2; NICE 1.3.9, 1.3.12), CBT tối ưu 7–14 giờ, mỗi tuần 1–2 giờ, hoàn thành trong 4 tháng (NICE 1.3.15, 1.3.16). Nếu có đáp ứng, dùng thuốc ít nhất 6 tháng (NICE 1.3.27; mhGAP ANX1) hoặc 6–12 tháng (WFSBP 2022) hoặc 12–24 tháng (Canada 2014) rồi giảm dần: mốc tính khác nhau và bối cảnh khác nhau, ghi cả ba (theo mục đã có trong mau_thuan.md).",
+     "Không kháng sinh vì không có nhiễm khuẩn; không benzodiazepin đều đặn (mhGAP ANX6; NICE 1.3.20); benzodiazepin chỉ có thể ngắn hạn tối đa 7 ngày (mhGAP ANX6; WFSBP 2022 Bảng 9). Không làm troponin, siêu âm tim, Holter vì không đổi quyết định.",
+     "Giấy nghỉ: viết giấy ngắn ngày ghi đúng tình trạng, giải thích lý do thật (sợ trên cao) để anh nói thẳng với chủ thầu; quy định số ngày nghỉ không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin (tùy chọn bắt đầu tại phòng khám trước chuyển; nếu để chuyên khoa thì không kê)",
+      "ham_luong": "50 mg/viên",
+      "lieu": "25 mg (nửa viên) × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn, cùng giờ mỗi ngày",
+      "so_ngay": "7 ngày rồi chuyên khoa hoặc phòng khám đánh giá lại, không ngưng đột ngột",
+      "ghi_chu": "Khởi liều thấp, tăng chậm (NICE CG113 2011, 1.3.27); liều đích 50–200 mg/ngày (WFSBP 2022 Bảng 7); tăng lo âu thoáng qua đầu điều trị và nguy cơ ngưng thuốc đột ngột phải nói trước (NICE 1.3.23). Anh 34 tuổi nên không áp dụng cảnh báo dưới 30 tuổi (NICE 1.2.30). Liều 25 mg và 7 ngày là lựa chọn biên tập, không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cơn hoảng sợ rất khó chịu nhưng không gây nhồi máu hay đột tử; ECG và xét nghiệm tuyến giáp của anh bình thường. Khi lên cơn: ngồi hoặc nằm xuống chỗ an toàn, thở chậm, nhắc 'cơn sẽ hết sau chừng 20–30 phút', không cố làm việc trên cao (WFSBP 2022 Bảng 5 về thời gian cơn; mhGAP 2023 ANX4: kỹ thuật thư giãn).",
+     "Khói hàn không làm phổi anh bị viêm lúc này, họng và phổi bình thường, nên anh không cần kháng sinh; ngưng amoxicillin còn dư và không mua kháng sinh ở tiệm thuốc (WHO AWaRe 2022 Bảng 2.3).",
+     "Nói với chị Hằng về những điều anh đã kể, nhờ chị ở bên anh mấy ngày này; không để anh một mình lúc mất ngủ ban đêm.",
+     "Đi cấp cứu ngay nếu ý nghĩ chết mạnh lên hoặc nghĩ ra cách cụ thể, đau ngực trên 20 phút hoặc khi gắng sức, ngất, khó thở không hết (ESC 2023 Hình 5; mhGAP 2023 SUI1).",
+     "Giảm cà phê, nước tăng lực, bia và thuốc lá; tạm không làm việc trên cao cho đến khi chuyên khoa đánh giá (nhận định biên tập, không có trong tài liệu đã tải).",
+     "Mang theo tờ ECG, kết quả TSH và thư giới thiệu đến chuyên khoa; sau khám quay lại phòng khám để phối hợp theo dõi."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hằng đưa anh Thịnh đến khoa tâm thần bệnh viện tỉnh sau 2 ngày, mang theo ECG, TSH và thư giới thiệu. Bác sĩ chuyên khoa hỏi riêng lại về ý nghĩ chết: thụ động, không kế hoạch, không phương tiện, có yếu tố bảo vệ (vợ, con trai 3 tuổi), nên điều trị ngoại trú kèm kế hoạch an toàn có vợ tham gia (mhGAP 2023 SUI1) và hẹn gặp lại sau 1 tuần. Anh bắt đầu sertralin 25 mg rồi lên 50 mg sau 1 tuần, kèm CBT ngắn mỗi tuần (NICE CG113 1.3.12, 1.3.15–1.3.16). Tuần đầu anh thấy tim đập mạnh hơn và suýt bỏ thuốc nhưng đã được dặn trước (NICE 1.3.23) nên uống tiếp. Ý nghĩ chết hết sau khoảng 2 tuần, cơn thưa dần, tuần 8–10 anh tập lên giàn giáo thấp từng bước cùng đồng nghiệp rồi mới trở lại mái tôn. Anh nói thẳng với chủ thầu về bệnh, bỏ nước tăng lực, giảm bia và thuốc lá; giữ thuốc ít nhất 6–12 tháng sau thuyên giảm rồi giảm dần (NICE 1.3.27; WFSBP 2022). Anh quay lại phòng khám tái khám phối hợp, không còn xin kháng sinh.",
+ "nhieu": [
+  "Đòi kháng sinh: tin khói hàn đọng phổi, đã tự uống amoxicillin dư 3 ngày. Họng, phổi bình thường, không sốt nên không có chỉ định; tránh dùng kháng sinh còn thừa (WHO AWaRe 2022 Bảng 2.3). Lời từ chối giữ được lòng tin khi gắn với nỗi sợ thật của anh: 'phổi anh sạch, thứ làm anh khổ là cơn hoảng sợ, và có cách chữa'.",
+  "Say nắng: cơn đầu sau 3 giờ hàn giữa trưa khiến cả anh lẫn đồng nghiệp kết luận 'say nắng'. 5/7 cơn sau không dính nắng, nên chẩn đoán vẫn là rối loạn hoảng sợ; nắng chỉ là yếu tố khởi phát.",
+  "Cà phê, nước tăng lực, thuốc lá làm hồi hộp, run: gây ngờ cường giáp hay loạn nhịp nhưng mạch tăng dần theo cảm xúc, ECG và TSH bình thường.",
+  "Thuốc tránh thai: là của vợ, để chung hộp thuốc gia đình, anh không dùng; không liên quan cơn và không gây hồi hộp ở anh; dễ khiến người học tưởng là thuốc anh đang dùng.",
+  "Giấy nghỉ việc: yêu cầu thật là 'cho em lý do nghỉ', lý do thật là sợ lên cao. Cấp giấy ngắn ngày kèm giải thích tốt hơn từ chối hay cấp nửa tháng không đánh giá."
+ ],
+ "bai_hoc_bien": [
+  "Ca 'điển hình' vẫn có cờ đỏ: chẩn đoán không khó, điều làm đổi hướng xử trí là hỏi thẳng, riêng về ý nghĩ chết. Nếu chỉ hỏi 'có buồn không', anh trả lời 'không, chỉ sợ'. Hỏi ra ý nghĩ thụ động, chưa kế hoạch rồi đánh giá yếu tố bảo vệ giúp chọn chuyển chuyên khoa có hẹn thay vì cho về hay cấp cứu (Canada 2014 mục 2 Suicide risk).",
+  "Chuyển tuyến không có nghĩa là cấp cứu hay nhập viện: ECG và TSH bình thường, sinh hiệu ổn nên chuyển có hẹn trong 1–2 ngày, kèm thư, ECG, người nhà đi cùng và kế hoạch an toàn (NICE CG113 1.3.6 và 1.3.36).",
+  "Khi hai yêu cầu của người bệnh (kháng sinh, giấy nghỉ) đều có vẻ vô lý, đi tìm động cơ thật: sợ ngã giàn giáo, ngại nói với chủ thầu. Từ chối kháng sinh có giải thích, cấp giấy nghỉ ngắn là hai việc không mâu thuẫn.",
+  "Không dừng ở 'say nắng' hay 'do khói hàn': hỏi các cơn sau có dính nắng không, ECG và TSH loại bệnh thực thể, rồi chẩn đoán dương tính theo tiêu chuẩn cơn và lo cơn tái phát ≥1 tháng.",
+  "Nguồn lực đầy đủ không có nghĩa là làm hết: troponin, siêu âm tim, Holter, X-quang không đổi quyết định nên biện luận để không làm."
+ ],
+ "diem_nho": [
+  "Cơn hoảng sợ: đợt sợ hãi hoặc khó chịu dữ dội lên đỉnh trong vài phút, ≥4 trong 13 triệu chứng; rối loạn hoảng sợ cần cơn không báo trước tái diễn và ≥1 tháng lo cơn hoặc đổi hành vi (Canada 2014 Bảng 11, 12).",
+  "Bệnh nhân hoảng sợ cần được đánh giá nguy cơ tự sát rõ ràng, kể cả khi chưa có trầm cảm (Canada 2014 mục 2 Suicide risk); CBT đơn độc có thể chưa đủ khi có ý nghĩ tự sát (Canada 2014 tóm tắt Panic disorder).",
+  "Người đến cấp cứu hoặc phòng khám vì cơn hoảng sợ: xét nghiệm tối thiểu loại bệnh thực thể cấp, thường không nhập viện, chuyển về chăm sóc ban đầu có tờ thông tin (NICE CG113 1.3.6).",
+  "Điều trị đầu tay: SSRI (mhGAP 2023 ANX1; WFSBP 2022 Bảng 9) và CBT ngắn (mhGAP 2023 ANX2); không kê benzodiazepin đều đặn (mhGAP 2023 ANX6; NICE CG113 1.3.20).",
+  "Thuốc 4–12 tuần mới đủ tác dụng (Canada 2014); không cải thiện sau 12 tuần mới đổi nhóm (NICE 1.3.28); điều trị ít nhất 6 tháng sau tối ưu liều (NICE 1.3.27) hoặc 6–12 tháng (WFSBP 2022) hoặc 12–24 tháng (Canada 2014)."
+ ],
+ "nguon": [
+  "WHO – mhGAP guideline 2023 (ấn bản 3) – TL-0573 – ANX1, ANX2, ANX4, ANX6 và SUI1.",
+  "NICE – CG113 Generalised anxiety disorder and panic disorder in adults (2011, cập nhật 2020) – TL-0598 – khuyến cáo 1.2.30, 1.3.6, 1.3.9, 1.3.12, 1.3.15, 1.3.16, 1.3.20, 1.3.23, 1.3.25, 1.3.27, 1.3.28, 1.3.35–1.3.39 và phần Step 4 liệt kê yếu tố chuyển chuyên khoa.",
+  "WFSBP 2022 – Guidelines for treatment of anxiety, OCD and PTSD, Part I (World J Biol Psychiatry 2022;24:79-117) – TL-0587 – Bảng 5, Bảng 7, Bảng 9.",
+  "Canadian clinical practice guidelines for anxiety, PTSD and OCD (Katzman 2014, BMC Psychiatry) – TL-0596 – mục 2 Epidemiology (Suicide risk), Baseline assessment và Bảng 7, Bảng 11, Bảng 12, Bảng 15, phần Panic disorder (tóm tắt, tác động công việc), mục Comorbidity (MDD).",
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp (kho cũ tltk-10000-ca) – Bài 22 mục 3.1.1 (không có bài riêng về rối loạn hoảng sợ); phần trầm cảm nặng có ý tưởng tự sát cần nhập viện sớm.",
+  "ESC 2023 – Guidelines for the management of acute coronary syndromes – TL-0069 – Hình 5 (đánh giá A.C.S., ECG trong 10 phút).",
+  "ESC 2019 – Guidelines for the management of patients with supraventricular tachycardia – TL-0687 – mục 8 (đánh giá ban đầu; SVT có thể bị nhầm là rối loạn hoảng sợ).",
+  "ATA 2016 – Guidelines for diagnosis and management of hyperthyroidism – TL-0324 – mục B2 (đánh giá sinh hóa) và phần biểu hiện lâm sàng.",
+  "WHO – AWaRe antibiotic book 2022 – TL-0018 – Bảng 2.3 (trách nhiệm của bệnh nhân: tránh dùng kháng sinh còn thừa).",
+  "Wood E và cs. – Screening for high-risk drinking and alcohol use disorder (CMAJ 2026;198:E655) – kho cũ tltk-10000-ca (10 Tâm thần cơ bản) – hộp ngưỡng nguy cơ thấp (≤2 ly chuẩn mỗi lần uống).",
+  "Joint Clinical Practice Guideline on Benzodiazepine Tapering (ASAM và cs. 2025) – kho cũ tltk-10000-ca (10 Tâm thần cơ bản) – Bảng 2 (nguy cơ khi phối hợp benzodiazepin với rượu và thuốc ức chế thần kinh trung ương)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-13): viết theo tài liệu đã tải; đã đọc TL-0573 ANX1–ANX6, SUI1; TL-0598 mục 1.2.30, 1.3.6–1.3.39 và phần Step 4; TL-0587 Bảng 5, 7, 9; TL-0596 mục 2 (Suicide risk, Baseline assessment, Bảng 7, 11, 12), tóm tắt Panic disorder, mục Comorbidity (MDD); QĐ 2058/2020 Bài 22; ESC 2023 Hình 5; ESC 2019 SVT mục 8; ATA 2016 mục B2; WHO AWaRe 2022 Bảng 2.3.",
+  "Thiết kế: kết cục 'chuyển tuyến kịp thời' được dựng bằng cờ đỏ ý nghĩ chết thụ động (hỏi thẳng mới lộ) kèm suy giảm chức năng nặng; chuyển chuyên khoa có hẹn, không cấp cứu, không nhập viện. Tiêu chí 'ý nghĩ tự sát dai dẳng' trong NICE là liệt kê cho lo âu lan tỏa (Step 4), ngoại suy cho hoảng sợ; NICE 1.3.36 và Canada 2014 hỗ trợ đánh giá nguy cơ và chuyên khoa.",
+  "Không có trong tài liệu đã tải: ngưỡng và công cụ phân tầng nguy cơ tự sát tuyến cơ sở; thời hạn chuyển chuyên khoa (1–2 ngày là lựa chọn của ca); quy định cấp giấy nghỉ và số ngày nghỉ; khuyến cáo tạm ngừng làm việc trên cao; chẩn đoán say nắng, sốt khói kim loại; chỉ định chì máu cho thợ hàn; liều 25 mg và 7 ngày của sertralin.",
+  "Mâu thuẫn đã có trong sổ và đã áp dụng: benzodiazepin trong rối loạn hoảng sợ (ca TT-0177), điều trị ban đầu hoảng sợ mức vừa (TT-0177), thời gian dùng SSRI sau đáp ứng (TT-0192). Thuốc tránh thai là của vợ, theo cách các ca TH-0009, TH-0422.",
+  "Mạch 94 l/p (<100) nên dùng âm thanh tim bình thường AT-TIM-BT-NL-01. Ca không có dấu hiệu da then chốt nên không dùng ảnh da."
+ ]
+}
