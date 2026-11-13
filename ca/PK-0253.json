@@ -1,0 +1,461 @@
+{
+ "ma_ca": "PK-0253",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "PK_tu_van_tranh_thai",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Tư vấn tránh thai",
+  "chan_doan_phai_loai_tru": [
+   "(đánh giá chống chỉ định)"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "nghe_nghiep": "Bán hàng online",
+  "yeu_to_khoi_phat": "Sau chơi thể thao",
+  "thuoc_dang_dung": "NSAID tự mua",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Kim Oanh",
+  "tuoi": 45,
+  "gioi": "Nữ",
+  "nghe": "Nhân viên bán hàng online",
+  "can_nang": 58,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhẹn, nói nhiều, quen nói chuyện bán hàng và hay thúc giục. Sốt ruột vì đang tăng ca, tin vào cách chữa nhanh mình từng được làm. Ngại nói chuyện vợ chồng với người lạ.",
+  "kieu_nhieu": "Đòi truyền dịch: nằng nặc xin 'một chai nước cho khỏe nhanh' vì lần trước truyền thấy khỏe ngay, lặp lại nhiều lần và nài nỉ. Dịu lại khi bác sĩ giải thích cụ thể nguy cơ, lợi ích và đưa cách thay thế (uống đủ nước, giấy nghỉ đúng bệnh).",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e8c4a0",
+   "toc": "#2b1d16",
+   "kieuToc": "dai",
+   "ao": "#c97b84",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Đau nhức hai chân sau chơi thể thao, xin truyền nước",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Cơ sở không có xét nghiệm nào."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 45 tuổi, nhân viên bán hàng online, tự đến khám vì đau nhức đùi và bắp chân hai bên từ hôm qua sau khi chơi thể thao. Chị đã tự uống ibuprofen từ nhà thuốc. Sinh hiệu lúc tiếp đón: mạch 78 l/p, HA 132/84 mmHg, nhiệt độ 36,9 °C, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Oanh được giữ lại phòng khám truyền dịch và theo dõi qua ngày dù ăn uống được, nước tiểu bình thường, HA 126/80 mmHg. Chị mất thêm một ngày làm việc và phí truyền dịch, chân vẫn đau như cũ vì cơ tự hồi phục theo thời gian, và vẫn ra về với bao cao su dùng không đều, chưa được tư vấn tránh thai. Không có tài liệu đã tải khuyến cáo truyền dịch cho đau cơ sau gắng sức.",
+    "chuyen_tuyen": "Chị Oanh bị chuyển lên bệnh viện tuyến trên làm Doppler tĩnh mạch vì đau hai bắp chân, trong khi chân hai bên đối xứng, không phù, không nóng đỏ, Homans âm tính. Chị tốn một buổi chờ đợi, chi phí đi lại, mất ngày công và vẫn chưa được tư vấn biện pháp tránh thai; tiêu chuẩn chuyển tuyến cho đau cơ sau gắng sức không có trong tài liệu đã tải. Chị có thể bỏ ngay quyết định dùng thuốc vì sợ 'tuyến trên bảo chân có vấn đề'."
+   },
+   "loi_mo": "Chào bác sĩ, em đau nhức hai chân từ hôm qua, đi cầu thang không nổi. Bác sĩ truyền cho em một chai nước đi cho khỏe nhanh, tiện cho em xin cái giấy nghỉ luôn nha, em đang bận lắm.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "132/84",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đi khám vì đau nhức đùi và bắp chân hai bên từ hôm qua, sau trận pickleball Chủ nhật. Chị muốn bác sĩ cho truyền một chai nước cho khỏe nhanh, kèm giấy nghỉ ốm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khai ban đầu: đau cơ sau thể thao"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chủ nhật chị đi chơi pickleball với hội chị em, đánh gần ba tiếng, lâu rồi mới chơi lại. Chiều đó bình thường; sáng thứ Hai ngủ dậy đau ê hai đùi và hai bắp chân, đi xuống cầu thang phải vịn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau gắng sức, đau đối xứng"
+    },
+    {
+     "id": "dau_co",
+     "noi_dung": "Đau ê ẩm, căng hai bên đùi và bắp chân, đối xứng, đau nhiều khi ngồi xuống đứng lên, đi bộ thì đỡ dần. Không sưng một chân, không nóng đỏ, không tê yếu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm đau cơ lành tính, đối xứng, không dấu hiệu huyết khối"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Nước tiểu vàng bình thường, không đỏ nâu hay sẫm như nước trà. Uống nước đủ, ăn uống được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Gợi ý không tiêu cơ vân, không mất nước"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Không sốt, không khó thở, không đau ngực, không chóng mặt. Không đau một bên bắp chân hơn bên kia.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu nặng"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Từ hôm qua tự mua ở nhà thuốc ibuprofen 400 mg, uống ngày 3 viên sau ăn, đã uống 4 viên; uống thấy đỡ chút. Hay tự mua thuốc giảm đau kiểu này mỗi lần đau lưng. Không uống thuốc nào khác, không uống thực phẩm chức năng, thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: NSAID tự mua"
+    },
+    {
+     "id": "da_day",
+     "noi_dung": "Ibuprofen uống sau ăn, chưa thấy đau bụng hay đi cầu phân đen.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Làm nhân viên bán hàng online cho một shop mỹ phẩm, mỗi ngày ngồi livestream và trả lời đơn tám đến mười tiếng liền. Tuần này shop đang chạy khuyến mãi nên rất bận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nghề: ngồi lâu (nguy cơ huyết khối nền)"
+    },
+    {
+     "id": "giay_nghi",
+     "noi_dung": "Quản lý shop chỉ trừ lương ngày nghỉ khi có giấy bác sĩ. Chị muốn nghỉ hai ngày để chân hết đau và tránh bị trừ lương; thật ra chị cũng mệt vì tăng ca cả tuần.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: xin giấy nghỉ ốm",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao hôm nay quyết định đi khám, công việc ra sao, hoặc hỏi thẳng chị cần giấy tờ gì. Hỏi chung 'có gì cần giúp' thì nói 'chỉ cần truyền nước cho khỏe thôi'."
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Lần trước đau lưng, chị đến phòng khám tư, được truyền chai nước và thấy khỏe ngay, nên tin truyền nước là nhanh nhất. Chị nằng nặc đòi truyền nếu bác sĩ không cho.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: đòi truyền dịch; cần giải thích nguy cơ/lợi ích"
+    },
+    {
+     "id": "nhu_cau_tt",
+     "noi_dung": "Chị muốn hỏi thêm chuyện tránh thai nhưng ngại nói. Chị 45 tuổi, có hai con (20 và 16 tuổi), chồng vẫn dùng bao cao su nhưng chị chán, sợ rách và muốn đổi sang cách khác chắc chắn hơn. Chưa muốn sinh thêm.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nhu cầu thật: tư vấn biện pháp tránh thai",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi về kinh nguyệt, sinh hoạt vợ chồng, kế hoạch sinh con, hoặc hỏi chị còn muốn hỏi gì nữa không. Hỏi về chân thì chỉ trả lời chuyện chân."
+    },
+    {
+     "id": "kinh",
+     "noi_dung": "Kinh bắt đầu ngày thứ Hai tuần trước (khoảng 12 ngày trước), ra 4 ngày, lượng như mọi tháng. Một năm nay chu kỳ lúc 26 lúc 35 ngày, không đều như trước. Không ra máu giữa kỳ, không ra máu sau quan hệ, không đau bụng dưới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kinh nguyệt: tiền mãn kinh, không ra máu bất thường"
+    },
+    {
+     "id": "quan_he",
+     "noi_dung": "Từ khi sinh con chồng luôn dùng bao cao su, chưa lần nào quan hệ không bao; từ kỳ kinh gần nhất đến nay vẫn dùng đều và đúng cách, không bị rách hay tuột. Chưa dùng thuốc tránh thai, DCTC hay thuốc tiêm bao giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Căn cứ chắc chắn không có thai khi không có xét nghiệm"
+    },
+    {
+     "id": "khong_thai",
+     "noi_dung": "Không buồn nôn, không căng ngực, không có dấu hiệu nghén. Không cho con bú.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng thai"
+    },
+    {
+     "id": "huyet_ap",
+     "noi_dung": "Chưa từng được nói huyết áp cao; khám sức khỏe công ty năm ngoái huyết áp bình thường. Không đái tháo đường, không bệnh tim, thận hay gan.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc chống chỉ định: THA, tim mạch, đái tháo đường, gan thận"
+    },
+    {
+     "id": "migraine",
+     "noi_dung": "Thỉnh thoảng nhức đầu hai bên thái dương khi mệt, uống nước nghỉ ngơi là hết. Chưa bao giờ thấy chớp sáng, đốm tối, tê tay trước khi đau đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ migraine có tiền triệu"
+    },
+    {
+     "id": "huyet_khoi",
+     "noi_dung": "Chưa từng bị huyết khối tĩnh mạch sâu, thuyên tắc phổi, đột quỵ; chưa phẫu thuật hay bó bột phải nằm lâu. Người nhà không ai bị huyết khối khi còn trẻ; bố bị nhồi máu cơ tim năm 72 tuổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử huyết khối cá nhân và gia đình"
+    },
+    {
+     "id": "ung_thu",
+     "noi_dung": "Chưa từng sờ thấy u vú, tiết dịch núm vú; không có tiền sử ung thư vú, u gan hay bệnh gan. Chưa bao giờ phẫu thuật vì ung thư.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ ung thư vú, bệnh gan"
+    },
+    {
+     "id": "thuoc_la",
+     "noi_dung": "Không hút thuốc lá, không vape. Thỉnh thoảng một ly rượu vang khi tiệc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hút thuốc (ngưỡng 35 tuổi trở lên)"
+    },
+    {
+     "id": "pap",
+     "noi_dung": "Lần khám phụ khoa gần nhất cách đây hơn hai năm, kết quả bình thường theo lời chị, không còn giấy. Không khí hư hôi, không ngứa.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "tt_dung",
+     "noi_dung": "Thuốc tránh thai chị biết qua quảng cáo trên mạng nên hơi lo béo, lo ung thư. Chị chỉ ngại nếu phải uống mỗi ngày, vì hay quên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sở thích, lo ngại và khả năng tuân thủ của người bệnh"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Tay phải 130/84, tay trái 128/82 mmHg. Đo lại sau nghỉ 5 phút: 126/80 mmHg. Không đo cao.",
+     "k": 1,
+     "hien": "Đo hai lần cách 5 phút: 130/84 rồi 126/80 mmHg."
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, đi lại hơi chậm, bước xuống thấp thì nhăn mặt. BMI 23,2 kg/m². Da niêm hồng, không phù.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai đùi và hai bắp chân căng nhẹ, ấn đau lan tỏa đều hai bên, đối xứng. Chu vi bắp chân hai bên bằng nhau (36 cm), không phù, không nóng đỏ, không tĩnh mạch nông giãn, dấu Homans âm tính. Mạch mu chân bắt rõ.",
+     "k": 1,
+     "hien": "Hai bắp chân chu vi bằng nhau, không phù, không nóng đỏ; ấn cơ đùi và bắp chân đau lan tỏa hai bên."
+    },
+    "co_xuong_khop": {
+     "a": "Khớp gối, cổ chân, háng không sưng, vận động đủ biên độ. Đau khi co duỗi chủ động đùi và bắp chân, sức cơ còn M4–5.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm hai bên, không ran.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, không sờ thấy gan to.",
+     "k": 0
+    },
+    "vu": {
+     "a": "Hai vú cân đối, không sờ thấy khối, không tiết dịch núm vú, hạch nách không sờ thấy.",
+     "k": 1
+    },
+    "phu_khoa": {
+     "a": "Âm hộ, âm đạo bình thường, cổ tử cung hồng láng, không dịch bất thường, không ra máu. Tử cung ngả trước, kích thước bình thường, di động, không đau; hai phần phụ không sờ thấy khối.",
+     "k": 1,
+     "hien": "Khám mỏ vịt và khám hai tay: không thấy bất thường."
+    },
+    "than_kinh": {
+     "a": "Cảm giác và phản xạ gân xương hai chân bình thường, không yếu liệt.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da không ban, không bầm tím, không tím tái đầu chi.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "n": "Cơ sở không có xét nghiệm: không thử thai được. Cách thay thế là hỏi bệnh theo tiêu chí 'chắc chắn không có thai' (không triệu chứng thai và dùng bao cao su đều, đúng cách; CDC SPR 2024 Box 3) kết hợp khám phụ khoa; BYT 2026 yêu cầu 'thăm khám để loại trừ có thai' (Viên thuốc tránh thai kết hợp, mục 3.2)."
+    },
+    "ck": {
+     "n": "Cơ sở không có xét nghiệm. Nước tiểu bình thường, đau đối xứng ở cơ, ăn uống được nên không có gợi ý tiêu cơ vân cần CK; không có trong tài liệu đã tải ngưỡng chỉ định CK."
+    },
+    "ddimer": {
+     "n": "Không có xét nghiệm, và không có chỉ định: bắp chân đối xứng, không phù, không nóng đỏ, không tiền sử huyết khối. Nếu nghi huyết khối thật thì phải chuyển tuyến, không dùng D-dimer ở nơi không có xét nghiệm. Tiêu chuẩn chẩn đoán huyết khối tĩnh mạch sâu không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tư vấn tránh thai ở phụ nữ 45 tuổi, tiền mãn kinh, đã đánh giá chống chỉ định: đủ điều kiện dùng viên tránh thai kết hợp (hoặc các biện pháp nội tiết/DCTC khác)",
+     "ok": 1,
+     "n": "Không có chống chỉ định tuyệt đối hay tương đối theo BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 2.1–2.2: HA 126–130/80–84, không hút thuốc, không migraine có tiền triệu, không huyết khối, không ung thư vú, không bệnh gan. Tuổi ≥ 40: phân loại 2 cho viên kết hợp (CDC MEC 2024 Bảng D1, Age) và vẫn dùng được đến mãn kinh nếu không có yếu tố bất lợi khác (WHO MEC 2025 mục 5.1.6)."
+    },
+    {
+     "t": "Đau cơ sau gắng sức (đau cơ khởi phát muộn), lành tính",
+     "ok": 1,
+     "n": "Đau đối xứng hai đùi và bắp chân sau chơi thể thao dài chưa quen, chu vi bắp chân bằng nhau, không phù, nước tiểu bình thường. Tên và thời gian diễn tiến điển hình của đau cơ khởi phát muộn không có trong tài liệu đã tải; đây là chẩn đoán lâm sàng của người soạn."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu chi dưới",
+     "n": "Phải loại trừ vì sắp dùng estrogen và chị ngồi livestream nhiều giờ. Hai chân đối xứng, không phù, không nóng đỏ, Homans âm tính, không tiền sử huyết khối nên không nghĩ; tiền sử huyết khối/thuyên tắc là chống chỉ định tuyệt đối viên kết hợp (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 2.1; CDC MEC 2024 Bảng D1, DVT/PE: nhóm 4 khi không dùng chống đông)."
+    },
+    {
+     "t": "Tăng huyết áp (chống chỉ định viên kết hợp)",
+     "n": "HA hai tay 130/84 và 128/82, đo lại 126/80 mmHg: dưới ngưỡng. Chống chỉ định tuyệt đối khi ≥ 160/100 mmHg; tăng huyết áp đã kiểm soát hoặc 140–159/90–99 là chống chỉ định tương đối (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 2.1–2.2). Đo HA là bắt buộc (mục 3.2)."
+    },
+    {
+     "t": "Đau nửa đầu có tiền triệu",
+     "n": "Chỉ nhức đầu căng thẳng khi mệt, không chớp sáng, không tê tay; migraine có tiền triệu là chống chỉ định tuyệt đối (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 2.1)."
+    },
+    {
+     "t": "Có thai",
+     "n": "Không triệu chứng thai, dùng bao cao su đều, đúng cách từ kỳ kinh gần nhất, kinh bắt đầu cách đây 12 ngày: đủ tiêu chí chắc chắn không có thai (CDC SPR 2024 Box 3). Có thai hoặc nghi ngờ có thai là chống chỉ định (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 2.1). Không có xét nghiệm nên phải dựa vào hỏi bệnh."
+    },
+    {
+     "t": "Ung thư vú, bệnh gan nặng, hút thuốc lá ở người ≥ 35 tuổi",
+     "n": "Khám vú bình thường, không tiền sử, không hút thuốc, không bệnh gan: loại trừ các chống chỉ định này (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 2.1)."
+    },
+    {
+     "t": "Tiêu cơ vân do gắng sức",
+     "n": "Nước tiểu bình thường, đau nhẹ, ăn uống được, không yếu cơ; không có xét nghiệm CK nên dựa vào lâm sàng. Nếu nước tiểu sẫm màu, yếu cơ hoặc đau tăng dữ dội thì phải chuyển tuyến (không có trong tài liệu đã tải)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi nhu cầu và giới thiệu các biện pháp tránh thai phù hợp (viên kết hợp, DCTC, que cấy, thuốc tiêm...), để chị chọn theo ưu tiên của mình",
+     "v": "c",
+     "n": "BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 3.1: tìm hiểu nhu cầu, cung cấp thông tin về hiệu quả, lợi ích, tác dụng phụ; BYT 2026 mục 1 của DCTC: phụ nữ muốn biện pháp tạm thời, dài hạn, hiệu quả cao. Hướng dẫn quốc gia liệt kê nhiều biện pháp nên lựa chọn theo ưa thích của người bệnh."
+    },
+    {
+     "t": "Cho chị dùng viên tránh thai kết hợp (hoặc DCTC chứa đồng/levonorgestrel, que cấy, viên chỉ có progestin nếu chị chọn) sau khi đã loại trừ chống chỉ định",
+     "v": "c",
+     "n": "Không có chống chỉ định (xem chan_doan). Chị lo quên thuốc hằng ngày nên DCTC hay que cấy cũng hợp lý; hướng dẫn không chọn một biện pháp duy nhất cho người 45 tuổi. Chị thích 'đổi sang viên uống' nên viên kết hợp là mặc định của ca; nếu chị chọn DCTC thì kiểm tra chống chỉ định riêng (BYT 2026, DCTC mục 2.1–2.2)."
+    },
+    {
+     "t": "Bắt đầu hôm nay (đang ngày thứ 12 của chu kỳ vì chắc chắn không có thai) và dùng thêm bao cao su hoặc tránh giao hợp trong 7 ngày kế tiếp",
+     "v": "c",
+     "n": "BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 3.3.1: bắt đầu bất kỳ lúc nào nếu biết chắc không có thai; nếu sau 5 ngày đầu chu kỳ thì cần biện pháp hỗ trợ 7 ngày. Chị đang dùng bao cao su nên tiếp tục bao cao su làm biện pháp hỗ trợ."
+    },
+    {
+     "t": "Hướng dẫn cách uống mỗi ngày 1 viên cùng giờ và cách xử trí khi quên thuốc (quên 1–2 viên loại 30–35 mcg estrogen: uống ngay khi nhớ; trễ ≥ 48 giờ: dùng thêm bao cao su 7 ngày)",
+     "v": "c",
+     "n": "BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 3.4 và 4.1 (Bảng xử trí nhanh khi quên uống thuốc; 4.1.1). Chị hay quên nên dán lịch lên vỉ thuốc, đặt báo thức."
+    },
+    {
+     "t": "Dặn tái khám sau 3 tháng đầu để đo huyết áp, cân nặng và khám lại; đến ngay khi có dấu hiệu bất thường. Nhắc bao cao su vẫn cần để phòng bệnh lây truyền qua đường tình dục",
+     "v": "c",
+     "n": "BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 3.1: trong 3 tháng đầu phải đến cơ sở y tế đo huyết áp, cân nặng, định kỳ khám lại; biện pháp này không phòng nhiễm khuẩn đường sinh sản và bệnh lây truyền qua đường tình dục. Danh sách dấu hiệu cần đến khám ngay cụ thể không có trong tài liệu đã tải mục này."
+    },
+    {
+     "t": "Giải thích đau cơ sau gắng sức sẽ giảm dần; nghỉ ngơi, vận động nhẹ, uống đủ nước. Hạn chế tự uống ibuprofen kéo dài; cần giảm đau thì dùng theo hướng dẫn của bác sĩ",
+     "v": "a",
+     "n": "Điều trị đau cơ sau gắng sức không có trong tài liệu đã tải; cách làm là thực hành lâm sàng thông thường, không chấm c. BYT 2026 có nêu dùng ibuprofen hoặc paracetamol giảm đau trong xử trí tác dụng phụ của biện pháp tránh thai (các mục về DCTC và viên progestin), liều cụ thể cho đau cơ không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không truyền dịch: giải thích truyền dịch không giúp cơ hồi phục nhanh hơn, có nguy cơ biến chứng kim và nhiễm trùng, thay bằng uống nước và nghỉ ngơi",
+     "v": "w",
+     "n": "Không có chỉ định truyền dịch vì không mất nước, ăn uống được, nước tiểu bình thường. Không có tài liệu đã tải khuyến cáo truyền dịch cho đau cơ sau gắng sức; đây là nhận định của người soạn. Chiều bệnh nhân truyền dịch là việc không cần thiết."
+    },
+    {
+     "t": "Cấp giấy nghỉ ngắn ngày (1–2 ngày) đúng với tình trạng thực tế nếu người bệnh thật sự đau không làm việc được; không cấp giấy vì lý do khác",
+     "v": "a",
+     "n": "Quy định về giấy nghỉ ốm không có trong tài liệu đã tải; chấm a vì hợp lý nhưng không có nguồn để quy định số ngày. Lý do thật là tránh bị trừ lương; bác sĩ đồng cảm nhưng cấp giấy theo bệnh thật."
+    },
+    {
+     "t": "Kê viên tránh thai kết hợp mà không hỏi tiền sử, không đo huyết áp, không loại trừ thai",
+     "v": "h",
+     "n": "Đo huyết áp là bắt buộc và hỏi kỹ tiền sử để phát hiện chống chỉ định trước khi dùng; thăm khám loại trừ có thai (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 3.2). Bỏ qua có thể dẫn đến dùng estrogen cho người có tăng huyết áp, tiền sử huyết khối hoặc migraine có tiền triệu."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tư vấn tránh thai ở phụ nữ 45 tuổi, tiền mãn kinh, chu kỳ không đều nhưng còn kinh",
+     "Đã đánh giá chống chỉ định: HA 126–130/80–84 mmHg, không hút thuốc, không migraine có tiền triệu, không huyết khối, không ung thư vú, không bệnh gan: đủ điều kiện dùng viên tránh thai kết hợp",
+     "Chắc chắn không có thai: không triệu chứng thai, dùng bao cao su đều và đúng, kinh cách 12 ngày",
+     "Đau cơ sau gắng sức hai đùi, hai bắp chân, không dấu hiệu huyết khối hay tiêu cơ vân",
+     "Tự dùng ibuprofen từ nhà thuốc; lý do đến khám thật là xin giấy nghỉ ốm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: bắt đầu bằng lý do khai (đau chân), hỏi sâu khởi phát và đặc điểm đau; hỏi nghề (ngồi livestream nhiều giờ) và thuốc đang dùng; hỏi thẳng chuyện kinh nguyệt, sinh hoạt vợ chồng và kế hoạch sinh con thì mới lộ nhu cầu tránh thai; hỏi vì sao hôm nay mới đi khám thì lộ lý do thật là giấy nghỉ ốm.",
+     "Vì sao phải khám chân kỹ: chị sắp dùng estrogen và hay ngồi lâu. Đau đối xứng, chu vi bắp chân bằng nhau, không phù, không nóng đỏ nên không nghĩ huyết khối. Tiền sử huyết khối là chống chỉ định tuyệt đối viên kết hợp (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 2.1; CDC MEC 2024 Bảng D1).",
+     "Vì sao đo huyết áp hai lần: đo huyết áp là bắt buộc trước khi kê viên kết hợp (%s mục 3.2). Chống chỉ định tuyệt đối khi ≥ 160/100 mmHg, tương đối khi 140–159/90–99 (mục 2.1–2.2). CDC MEC 2024 Bảng D1: tăng huyết áp đã kiểm soát nhóm 3. Chị mới uống ibuprofen vài ngày, HA vẫn dưới ngưỡng; tác động của NSAID lên huyết áp không có trong tài liệu đã tải.",
+     "Vì sao tuổi 45 không phải chống chỉ định: CDC MEC 2024 Bảng D1 xếp tuổi ≥ 40 là nhóm 2 cho viên kết hợp; WHO MEC 2025 mục 5.1.6: không có yếu tố bất lợi khác thì dùng được đến mãn kinh. BYT 2026 chỉ ghi ≥ 35 tuổi kèm hút thuốc (tuyệt đối khi ≥ 15 điếu/ngày, tương đối khi dưới 15 điếu/ngày) (mục 2.1–2.2). Chị không hút thuốc.",
+     "Vì sao chắc chắn không có thai dù không thử được: CDC SPR 2024 Box 3 cho phép kết luận khi không triệu chứng thai và có một trong các tiêu chí, trong đó 'dùng đều đặn và đúng cách một biện pháp tin cậy' (chị dùng bao cao su đều). BYT 2026 mục 3.2 yêu cầu thăm khám loại trừ thai. Chu kỳ không đều ở tuổi 45 không loại trừ rụng trứng nên vẫn cần tránh thai; BYT 2026 không nêu mốc ngừng tránh thai ở tuổi mãn kinh cho viên kết hợp (mục tháo DCTC: sau mất kinh ≥ 12 tháng).",
+     "Vì sao không chọn nhiều xét nghiệm: ca không có xét nghiệm. CDC SPR 2024 xếp huyết áp là cần thiết; đường huyết, mỡ máu, men gan, Pap trước khi bắt đầu viên kết hợp là loại C (không đóng góp đáng kể cho an toàn), nên thiếu xét nghiệm không cản việc kê thuốc.",
+     "Vì sao kinh nguyệt không đều không cần thăm dò thêm: chu kỳ 26–35 ngày, kinh bình thường, không ra máu giữa kỳ hay sau quan hệ. BYT 2026 chỉ nêu tiền mãn kinh làm chu kỳ không đều là chống chỉ định tương đối với biện pháp tính theo vòng kinh; vì vậy không khuyên chị dùng biện pháp này."
+    ],
+    "phan_tich_xu_tri": [
+     "Chọn biện pháp theo nhu cầu của chị: chị 'chán bao cao su', sợ rách, hay quên thuốc hằng ngày. Viên kết hợp hiệu quả cao 99% nếu dùng đúng, 90–97% nếu quên (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp, đoạn đầu). DCTC và que cấy là dài hạn, không cần nhớ hằng ngày (BYT 2026, DCTC mục 1); hướng dẫn không buộc chọn một biện pháp, cả hai đều chấp nhận được khi chị đồng ý và không có chống chỉ định.",
+     "Cách uống: mỗi ngày 1 viên cùng giờ; vỉ 28 viên uống tiếp vỉ sau ngay hôm sau, vỉ 21 viên nghỉ 7 ngày (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 3.4). Bắt đầu hôm nay vì chắc chắn không có thai; vì đã quá 5 ngày đầu chu kỳ nên phải tiếp tục bao cao su 7 ngày (mục 3.3.1).",
+     "Quên thuốc: quên 1–2 viên loại estrogen 30–35 mcg thì uống ngay khi nhớ; trễ ≥ 48 giờ tuần 1 hoặc tuần 2–3 cần dùng bao cao su 7 ngày, tuần 1 cân nhắc thuốc khẩn cấp nếu có quan hệ (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 4.1, Bảng xử trí nhanh).",
+     "Tái khám: trong 3 tháng đầu đến đo huyết áp, cân nặng và khám lại theo hẹn; có thể đến bất cứ lúc nào nếu có dấu hiệu khác thường (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 3.1).",
+     "Không truyền dịch: không có chỉ định (không mất nước, ăn uống được). Nói với chị: truyền dịch không làm cơ lành nhanh hơn; thay bằng uống nước, nghỉ ngơi và đi lại nhẹ. Tài liệu đã tải không có khuyến cáo về truyền dịch cho đau cơ; đây là nhận định của người soạn.",
+     "Giấy nghỉ ốm: tài liệu đã tải không có quy định; cấp ngắn ngày đúng tình trạng (đau cơ khiến đi lại khó). Không đồng ý ghi chẩn đoán sai, không cấp theo lý do tránh trừ lương.",
+     "Ibuprofen tự mua: không nằm trong danh sách thuốc tương tác với viên kết hợp ở BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 2.2 (rifampicin/rifabutin, ritonavir-booster, thuốc chống co giật). Khuyên không tự uống kéo dài; liều giảm đau cho đau cơ không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Viên tránh thai kết hợp (estrogen + progestin)",
+      "ham_luong": "Loại estrogen 30–35 mcg (hoặc ≤ 20 mcg); hàm lượng progestin và tên thương mại không có trong tài liệu đã tải",
+      "lieu": "1 viên mỗi ngày",
+      "duong": "Uống",
+      "thoi_diem": "Bắt đầu hôm nay (ngày 12 chu kỳ), cùng giờ mỗi ngày",
+      "so_ngay": "Dùng liên tục theo vỉ: vỉ 28 viên nối tiếp, vỉ 21 viên nghỉ 7 ngày",
+      "ghi_chu": "Ngày 1–7 dùng thêm bao cao su (BYT QĐ 1359/QĐ-BYT 2026 (Hướng dẫn quốc gia KHHGĐ), Viên thuốc tránh thai kết hợp mục 3.3.1, 3.4). Quên thuốc xử trí theo mục 4.1. Tái khám 3 tháng đầu (mục 3.1)."
+     },
+     {
+      "thuoc": "Bao cao su nam",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Mỗi lần giao hợp",
+      "duong": "Dùng ngoài",
+      "thoi_diem": "7 ngày đầu kể từ khi bắt đầu viên kết hợp, và lâu dài nếu cần phòng bệnh lây truyền qua đường tình dục",
+      "so_ngay": "Tối thiểu 7 ngày",
+      "ghi_chu": "BYT 2026, Viên thuốc tránh thai kết hợp mục 3.1 và 3.3.1."
+     },
+     {
+      "thuoc": "Paracetamol (nếu cần giảm đau)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải; theo tờ hướng dẫn",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Ngắn ngày",
+      "ghi_chu": "Thay cho ibuprofen tự mua; liều cho đau cơ không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống viên tránh thai đều đặn mỗi ngày cùng giờ, dán lịch trên vỉ, đặt báo thức điện thoại.",
+     "Mấy ngày đầu tiếp tục dùng bao cao su; bao cao su cũng giúp phòng bệnh lây qua đường tình dục.",
+     "Quên thuốc: uống ngay khi nhớ ra; trễ từ 48 giờ trở lên thì phải dùng bao cao su 7 ngày và hỏi lại bác sĩ (BYT 2026, Viên thuốc tránh thai kết hợp, mục 4.1).",
+     "Tái khám sau 3 tháng để đo huyết áp, cân nặng; đến sớm nếu có dấu hiệu khác thường (BYT 2026, Viên thuốc tránh thai kết hợp, mục 3.1).",
+     "Đau cơ sẽ giảm dần; chưa nên chơi lại ngay, tập nhẹ rồi tăng dần; uống nước đủ. Nếu đau tăng, sưng một bên chân, nước tiểu sẫm màu hoặc yếu cơ thì khám lại ngay.",
+     "Chị thông cảm là bác sĩ không truyền nước vì không cần và có nguy cơ; bác sĩ ghi giấy nghỉ theo đúng tình trạng thật."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Oanh đồng ý không truyền dịch, nhận giấy nghỉ hai ngày, bắt đầu viên tránh thai kết hợp và dùng bao cao su thêm 7 ngày. Đau cơ giảm chậm hơn chị tưởng: sau hai ngày vẫn còn đau khi leo cầu thang, chị chơi lại sớm nên phải nghỉ thêm vài ngày. Huyết áp tái khám tháng thứ ba bình thường. Bài học: xử trí đúng (không truyền dịch, tư vấn tránh thai an toàn) vẫn có thể thấy khỏi chậm hơn kỳ vọng, và phải nói trước mốc 'khỏi chậm' để người bệnh không quay lại đòi truyền dịch. Thời gian hồi phục điển hình của đau cơ sau gắng sức không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Đòi truyền dịch: lần trước đau lưng được truyền thấy khỏe. Không có chỉ định, giải thích bằng nguy cơ/lợi ích cụ thể và thay bằng uống nước, nghỉ ngơi.",
+  "Đau hai chân khiến nghĩ huyết khối: chỉ cần khám đối xứng, phù, nóng đỏ; vì chuẩn bị dùng estrogen nên vẫn phải hỏi tiền sử huyết khối.",
+  "Ibuprofen tự mua: không có trong danh sách tương tác thuốc với viên kết hợp ở BYT 2026; chỉ cần khuyên không tự dùng kéo dài."
+ ],
+ "bai_hoc_bien": [
+  "Lý do khai (đau chân, xin truyền nước) khác nhu cầu thật (tránh thai) và lý do thật (giấy nghỉ ốm): phải hỏi mở 'còn điều gì muốn hỏi không' và hỏi về kinh nguyệt, sinh hoạt vợ chồng.",
+  "Không có xét nghiệm: loại trừ thai bằng tiêu chí 'chắc chắn không có thai' (CDC SPR 2024 Box 3) và khám; đo huyết áp là điều bắt buộc, các xét nghiệm đường, mỡ, men gan, Pap trước khi bắt đầu viên kết hợp không phải điều kiện (CDC SPR 2024 bảng khám/xét nghiệm, loại C).",
+  "Tuổi 45 không loại trừ viên kết hợp nếu không có yếu tố nguy cơ (CDC MEC 2024 Bảng D1: nhóm 2; WHO MEC 2025 mục 5.1.6).",
+  "Chiều bệnh nhân bằng truyền dịch không chữa được nhu cầu thật; thay bằng thông cảm lý do thật và giải quyết đúng việc."
+ ],
+ "diem_nho": [
+  "Chống chỉ định tuyệt đối viên kết hợp (BYT 2026): mang thai, ≥ 35 tuổi hút ≥ 15 điếu/ngày, HA ≥ 160/100, bệnh tim mạch/huyết khối, migraine có tiền triệu, ung thư vú, bệnh gan nặng...",
+  "Đo huyết áp là bắt buộc trước khi kê viên kết hợp (BYT 2026 mục 3.2).",
+  "Bắt đầu viên kết hợp bất kỳ lúc nào biết chắc không có thai; sau 5 ngày đầu chu kỳ phải thêm biện pháp hỗ trợ 7 ngày (BYT 2026 mục 3.3.1).",
+  "Quên viên thuốc: uống ngay khi nhớ; trễ ≥ 48 giờ thêm bao cao su 7 ngày (BYT 2026 mục 4.1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 1359/QĐ-BYT 2026, Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản, nội dung Kế hoạch hóa gia đình – TL-0604 – Viên thuốc tránh thai kết hợp mục 2.1, 2.2, 3.1–3.4, 4.1 (Bảng xử trí nhanh, 4.1.1); DCTC mục 1, 2.1–2.2, 3.5.1 (tháo DCTC khi mãn kinh ≥ 12 tháng).",
+  "WHO – Medical eligibility criteria for contraceptive use, 6th ed., 2025 – TL-0610 – mục 5.1.6 (Age).",
+  "CDC – U.S. Medical Eligibility Criteria for Contraceptive Use 2024 – TL-0620 – Bảng D1 (Age ≥ 40: 2; THA đã kiểm soát: 3; hút thuốc ≥ 35 tuổi; migraine có tiền triệu: 4; DVT/PE).",
+  "CDC – U.S. Selected Practice Recommendations for Contraceptive Use 2024 – TL-0621 – Box 3 (chắc chắn không có thai), bảng khám và xét nghiệm trước khi dùng biện pháp (huyết áp; Pap, đường, mỡ, men gan loại C)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-13): viết theo QĐ 1359/2026, WHO MEC 2025, CDC MEC/SPR 2024. Không mâu thuẫn mới: tuổi ≥ 40 (CDC nhóm 2, WHO 'dùng được đến mãn kinh', BYT chỉ ghi ≥ 35 + hút thuốc) khác phạm vi chứ không trái nhau.",
+  "Thiếu tài liệu: điều trị đau cơ sau gắng sức (liều paracetamol, thời gian hồi phục), chỉ định truyền dịch, quy định giấy nghỉ ốm, hàm lượng progestin và tên thương mại viên kết hợp, danh sách dấu hiệu cảnh báo cần khám ngay khi dùng viên kết hợp. Đã ghi 'không có trong tài liệu đã tải' tại chỗ."
+ ]
+}
