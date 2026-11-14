@@ -1,0 +1,725 @@
+{
+ "ma_ca": "TK-0293",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-14)",
+ "benh": "TK_tien_dinh_ngoai_bien_viem_tk_tien_dinh",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Rối loạn tiền đình ngoại biên (viêm TK tiền đình)",
+  "chan_doan_phai_loai_tru": [
+   "Đột quỵ",
+   "BPPV"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Giáo viên tiểu học (dạy lớp 3, đang cuối học kỳ, đứng lớp cả ngày)",
+  "yeu_to_khoi_phat": "Sau chơi thể thao (đánh cầu lông đôi hai tiếng chiều tối thứ Bảy, khoảng một tiếng sau buổi chơi thì bắt đầu quay)",
+  "thuoc_dang_dung": "Thuốc kháng viêm không steroid tự mua (viên ibuprofen 400 mg ở nhà thuốc: hai viên trong đợt này vì đau vai, đau bắp chân sau cầu lông; thỉnh thoảng 2–3 lần mỗi tháng khi đau đầu hay đau bụng kinh)",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc: chị sợ viên giảm đau đã làm hại tai (mẹ chị từng bị điếc sau một đợt tiêm thuốc), muốn nghe bác sĩ nói rõ có phải do thuốc không"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Thanh Hương",
+  "tuoi": 47,
+  "gioi": "Nữ",
+  "nghe": "Giáo viên tiểu học",
+  "can_nang": 52,
+  "chieu_cao": 157,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị tự xưng 'tôi' hoặc 'chị', gọi bác sĩ là 'bác sĩ'. Chồng là anh Quân, gọi vợ là 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Gọn gàng, nói mạch lạc, quen giảng bài nên kể theo thứ tự thời gian. Lo xa, hay đọc kỹ tờ hướng dẫn trong hộp thuốc, ngại nghỉ dạy vì cuối học kỳ. Tin bác sĩ nhưng muốn được giải thích rõ.",
+  "kieu_nhieu": "Hợp tác tốt: trả lời thẳng, nhớ tên thuốc, giờ uống, giờ khởi phát; sẵn lòng làm mọi nghiệm pháp, không giấu, không phóng đại. Chị tự nhắc viên giảm đau nhưng chỉ nói rõ nỗi sợ thật (thuốc hại tai) khi được hỏi 'chị lo điều gì nhất'. Hỏi chung thì chị trả lời chung.",
+  "nguoi_nha": "Chồng",
+  "ten_nguoi_nha": "Quân",
+  "ngoai_hinh": {
+   "da": "#e2b48c",
+   "toc": "#1e1915",
+   "kieuToc": "bui",
+   "ao": "#6f8f84",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d2a07a",
+    "toc": "#2a2420",
+    "kieuToc": "ngan",
+    "ao": "#4b5b78",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Chóng mặt, buồn nôn từ tối hôm qua",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am",
+   "ecg"
+  ],
+  "loi_bao": "Phòng khám tư ở thị trấn không làm được xét nghiệm nào (máu, nước tiểu, kể cả đường huyết mao mạch), không có điện tim, siêu âm, X-quang, CT, phòng đo thính lực; vì vậy cũng không có MRI. Còn dùng được: ống nghe, huyết áp kế, nhiệt kế, máy đo SpO₂, đèn soi tai, đèn pin, tủ thuốc (thuốc uống, thuốc tiêm). Không có giường lưu, không truyền dịch kéo dài. Bệnh viện huyện cách 18 km (30 phút xe) có khoa nội, xét nghiệm, điện tim, truyền dịch, không có MRI. Bệnh viện tỉnh có MRI, khoa thần kinh, cách 75 km (hơn hai giờ xe)."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nữ 47 tuổi, giáo viên tiểu học, chồng Quân chở đến bằng xe máy lúc 16 giờ Chủ nhật. Chị ngồi nghiêng người, mắt hay nhắm, tay giữ mép bàn. Chị nói chóng mặt, buồn nôn từ tối hôm qua, đã nôn bốn lần, muốn nhờ bác sĩ xem giúp. Sinh hiệu lúc tiếp đón (ngồi): mạch 82 l/p, HA 124/78 mmHg, nhiệt 36,8 °C, nhịp thở 18, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập bệnh viện huyện lúc này không đổi xử trí: chị đứng đi được (mức 1), HINTS ngoại biên, nghe không giảm (GRACE-3 2023, Bảng 3, tr. 458; Bảng 4, tr. 460); điều trị là chống nôn vài ngày và phục hồi tiền đình (TL-0451 Bảng 3, tr. S366). Chị lạ giường, nằm lâu thì chậm bù trừ (GRACE-3 tr. 474), lớp 3 thiếu cô cuối kỳ, và câu hỏi về viên thuốc vẫn chưa ai trả lời.",
+    "chuyen_tuyen": "Chuyển bệnh viện tỉnh 75 km chụp CT hay MRI khi HINTS đã ngoại biên: GRACE-3 2023 khuyến cáo mạnh không CT (khuyến cáo 5, tr. 447) và không MRI làm đầu tiên khi có người khám được HINTS (khuyến cáo 6); MRI trong 48 giờ đầu kém chính xác hơn HINTS (tr. 462). Chị ngồi xe hơn hai giờ khi còn buồn nôn, tốn một ngày công của chồng, kết quả nhiều khả năng không đổi xử trí.",
+    "cap_cuu": "Gọi 115 hay kích hoạt đường dây đột quỵ là quá mức: không dấu khu trú, HINTS ngoại biên, nghe không giảm mới (GRACE-3 2023, Bảng 4, tr. 460). Chị nằm chờ nhiều giờ ở cấp cứu, chồng hoảng, chị càng tin mình bị 'tai biến' trong khi chưa ai giải thích về viên thuốc."
+   },
+   "loi_mo": "Chào bác sĩ, tôi là Hương, giáo viên tiểu học. Từ tối hôm qua tôi bị chóng mặt, nhà cứ quay tròn, buồn nôn, nôn bốn lần rồi. Hôm qua tôi đánh cầu lông với mấy chị đồng nghiệp, về đau vai, đau bắp chân nên uống một viên thuốc giảm đau tôi hay mua ở nhà thuốc, một lúc sau thì bị quay. Sáng nay uống thêm một viên thì ợ nóng rồi nôn luôn. Nằm yên thì đỡ chút, quay đầu là quay mạnh. Tôi không biết có liên quan không.",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "124/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chóng mặt, buồn nôn từ tối hôm qua; chị kể có uống viên giảm đau trước khi quay và không biết có liên quan không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nói ra; nỗi lo thật về thuốc chỉ rõ khi hỏi"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 20 giờ 30 tối thứ Bảy, vừa tắm xong chị thấy nhà quay tròn, phải vịn tường, nôn ngay. Từ đó quay liên tục, nằm yên vẫn quay, mở mắt hoặc quay đầu thì quay mạnh hơn, nằm nghiêng phải thì đỡ một chút. Nôn bốn lần, từ trưa hôm qua chỉ ăn vài thìa cháo. Không có cơn quay ngắn theo tư thế khi nằm xuống, trở mình hay ngửa đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vertigo liên tục khoảng 19 giờ, không theo cơn, không theo tư thế: hội chứng tiền đình cấp, chưa đủ 24 giờ nên là 'đang tiến triển' (Bárány AUVP 2022, mục 3.2)"
+    },
+    {
+     "id": "the_thao",
+     "noi_dung": "Chiều tối thứ Bảy chị đánh cầu lông đôi hai tiếng từ 18 giờ, mỗi tuần một buổi. Không ngã, không bị cầu hay vợt chạm vào đầu mặt, không xoay cổ đột ngột. Uống ít nước, ra nhiều mồ hôi. Không đau đầu, không đau cổ mới.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát bề ngoài: chỉ trùng thời gian"
+    },
+    {
+     "id": "thuoc_nsaid",
+     "noi_dung": "Viên ibuprofen 400 mg mua ở nhà thuốc, còn cả vỉ. Tối thứ Bảy 19 giờ 45 uống một viên sau cầu lông, mới ăn nửa ổ bánh mì. Sáng nay 7 giờ uống một viên khi chưa ăn, ợ nóng nhẹ rồi nôn ra. Tổng hai viên. Vài năm nay mỗi tháng 2–3 viên khi đau đầu hay đau bụng kinh, chưa từng chóng mặt. Không dùng aspirin, kháng sinh, thuốc ngủ, lợi tiểu hay thuốc khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: ibuprofen trong liều (QĐ 361/2014, Phụ lục NSAID, bảng liều 400–1.200 mg/24 giờ)"
+    },
+    {
+     "id": "lo_thuoc",
+     "noi_dung": "Hỏi chị lo điều gì nhất, chị nói: tờ hướng dẫn trong hộp thuốc ghi chóng mặt trong tác dụng không mong muốn; mẹ chị khoảng hai mươi năm trước bị điếc hai tai sau một đợt tiêm thuốc ở trạm. Chị sợ viên giảm đau đã làm hại tai mình, muốn bác sĩ nói rõ có phải do thuốc không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật đến khám: nghi tác dụng phụ của thuốc (nhiễm độc tiền đình do thuốc là có thật với aminozid, QĐ 5643/2015, mục 2.1b, nhưng chị không dùng thuốc nhóm đó)"
+    },
+    {
+     "id": "khong_trung_uong",
+     "noi_dung": "Không đau đầu dữ dội, đau gáy, yếu liệt, méo miệng, nói khó, nuốt sặc, nhìn đôi, tê, ngất, co giật, sốt. Chị tỉnh táo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng thần kinh trung ương (Bárány AUVP 2022, mục 3.1 tiêu chí D"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Không ù tai, đau tai, chảy dịch, nghe kém, đầy tức tai. Tuần trước hơi sổ mũi hai ngày rồi tự hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng tai (Bárány AUVP 2022, mục 3.1 tiêu chí D)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không tăng huyết áp, đái tháo đường, hút thuốc, rượu, bệnh tim; chưa từng đột quỵ. Kinh nguyệt đều. Thỉnh thoảng đau đầu quanh kỳ kinh, chưa bao giờ kèm chóng mặt quay hay sợ ánh sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ mạch máu thấp (Bárány AUVP 2022, mục 4.6.1)"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Chị dạy lớp 3, đang cuối học kỳ, ngại nghỉ. Chồng làm thợ điện công trình, đi 7–17 giờ; con gái học xa nhà. Nghỉ ở nhà thì ban ngày chị ở một mình. Chồng xin nghỉ được chiều nay và sáng mai.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguồn lực chăm sóc, nguy cơ ngã khi ở một mình ban ngày"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Chị tỉnh, tiếp xúc tốt, mặt nhợt, mồ hôi nhẹ trên trán, nhắm mắt khi quay đầu; nằm nghiêng phải thì dễ chịu hơn, ngồi thẳng thì nôn khan. Môi hơi khô, da véo mất nhanh, 52 kg.",
+     "k": 1,
+     "hien": "Chị ngồi nghiêng người, mắt hay nhắm, mồ hôi nhẹ trên trán. Môi hơi khô."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 122/76, mạch 78. Ngồi 1 phút: 120/76, mạch 84, quay nhiều hơn. Đứng 1 phút có người đỡ: 118/74, mạch 88. Huyết áp không tụt khi đổi tư thế (TL-0451, phần AVS: chỉ tìm hạ huyết áp tư thế khi không khởi phát được rung giật hoặc chóng mặt chỉ lúc ngồi dậy).",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, không phản ứng. Ấn thượng vị khó chịu nhẹ, không đau khu trú. Chị nói 'ợ nóng sau viên thuốc sáng nay'. Không nôn máu, không đi ngoài phân đen.",
+     "k": 1,
+     "hien": "Bụng mềm. Ấn thượng vị chị nói hơi khó chịu."
+    },
+    "dau_mat_co": {
+     "a": "Cổ mềm, gấp, duỗi, xoay đủ biên độ, không đau chói, không điểm đau cột sống cổ, không bầm. Không hạch cổ, không âm thổi cạnh cổ.",
+     "k": 1,
+     "hien": "Xoay cổ hai bên đủ, không đau, không điểm đau cột sống cổ."
+    },
+    "hong_tai_mui": {
+     "a": "Ống tai ngoài và màng nhĩ hai bên bình thường, không mụn nước (không gợi ý Ramsay Hunt, Bárány AUVP 2022, bảng 1). Họng không đỏ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ, không méo mặt, lưỡi giữa, nuốt bình thường. Cảm giác đều hai bên, sức cơ 5/5, phản xạ đều, Babinski âm tính. Ngón–mũi và gót–gối chính xác. Không cứng gáy, không nhìn đôi.",
+     "k": 1
+    },
+    "hints_van_nhan": {
+     "a": "Nhìn thẳng: rung giật ngang kèm xoay, pha nhanh sang phải, một chiều, mạnh hơn khi nhìn sang phải, yếu đi khi nhìn sang trái nhưng không đổi chiều; giảm khi nhìn cố định ngón tay. Đẩy đầu nhanh sang trái: mắt trượt khỏi mục tiêu rồi giật bắt kịp sang phải (GRACE-3 2023 Bảng 4, tr. 460); sang phải: mắt giữ được mục tiêu. Che mắt luân phiên: không lệch dọc. Cả ba thành phần ngoại biên, hợp tổn thương tiền đình trái (Bárány AUVP 2022, mục 3.1 tiêu chí B, C, E). HIT tay có độ nhạy thấp, phụ thuộc người khám (mục 4.3.2); vHIT: cơ sở không có.",
+     "k": 1,
+     "hien": "Nhìn thẳng: nhãn cầu giật liên tục sang phải, nhìn sang trái thì yếu đi nhưng vẫn giật sang phải; giảm khi nhìn cố định vào ngón tay. Đẩy đầu nhanh sang trái: mắt trượt khỏi mục tiêu rồi giật bắt kịp; sang phải: mắt giữ được mục tiêu. Che mắt luân phiên: mắt không dịch chuyển dọc."
+    },
+    "nghe_thi_tham": {
+     "a": "Cọ ngón tay sát tai: nghe rõ như nhau hai bên. Không giảm nghe một bên mới xuất hiện (HINTS plus, GRACE-3 2023, Bảng 4, tr. 460).",
+     "k": 1,
+     "hien": "Nghe cọ ngón tay hai bên như nhau, đều rõ."
+    },
+    "dang_di_thang_bang": {
+     "a": "Ngồi tự giữ thân. Đứng được không cần đỡ, hai chân dang rộng. Đi được vài chục bước, chao đảo, lệch trái, vịn tường khi quay người; Romberg nghiêng trái. Mất vững mức 1 (GRACE-3 2023, Bảng 3, tr. 458: 7% là đột quỵ). Nghiêng về bên tổn thương (QĐ 5643/2015, Chóng mặt, mục 3.1e).",
+     "k": 1,
+     "hien": "Ngồi tự giữ thân. Đứng được không cần đỡ, hai chân dang rộng. Đi được vài chục bước, chao đảo, lệch sang trái, vịn tường khi quay người."
+    },
+    "dix_hallpike": {
+     "a": "Không làm lúc này: đang có rung giật tự phát liên tục; chị sẽ quay mạnh hơn và nôn, chỉ thấy rung giật sẵn có, không thấy kiểu BPPV. Dix–Hallpike dành cho hội chứng theo cơn khởi phát bởi tư thế (GRACE-3 2023, khuyến cáo 11, tr. 447; TL-0451 Bảng 2).",
+     "k": 0,
+     "hien": "Chị nằm ngửa đầu nghiêng: quay nhiều hơn, nôn khan, mắt vẫn giật sang phải như lúc ngồi."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 5,6 mmol/L (kết quả nếu ở nơi có máy).",
+     "n": "Hạ đường huyết là bệnh giả đột quỵ (QĐ 5331/2020, Chương 2 mục I.4). Cơ sở không làm được; chị tỉnh táo, đã ăn cháo, không đổi hướng xử trí."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 80 l/p, đều, không rung nhĩ, QTc 410 ms, không ST–T bất thường (kết quả nếu ở nơi có máy).",
+     "n": "Chóng mặt quay liên tục kèm rung giật tự phát không phải kiểu loạn nhịp (GRACE-3 2023, chú thích Hình 1, tr. 445)."
+    },
+    "ct_nao": {
+     "n": "HINTS ngoại biên: GRACE-3 2023 khuyến cáo mạnh không CT sọ (khuyến cáo 5, tr. 447); CT bình thường dễ gây yên tâm giả (tr. 462). Cơ sở không có CT."
+    },
+    "mri_so_nao": {
+     "n": "Chỉ khi HINTS trung ương hoặc chưa rõ (GRACE-3 2023, khuyến cáo 7); không làm đầu tiên khi có người khám được HINTS (khuyến cáo 6). Cơ sở không có MRI."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thần kinh tiền đình bên trái (hội chứng tiền đình cấp ngoại biên một bên), giờ thứ 20 (còn 'đang tiến triển'); mất vững mức 1; mất nước nhẹ do nôn",
+     "ok": 1,
+     "n": "Bárány AUVP 2022, mục 3.1, 3.2 (> 3 giờ, chưa đủ 24 giờ: 'đang tiến triển'): vertigo liên tục, rung giật ngoại biên một chiều, giảm VOR bên đối diện, không dấu trung ương, không triệu chứng tai. Không có yếu tố khởi phát thật (mục 4.2). QĐ 5643/2015, mục 2.2: thường do virus."
+    },
+    {
+     "t": "Kích ứng dạ dày nhẹ do ibuprofen uống lúc đói (ợ nóng, ấn thượng vị khó chịu)",
+     "ok": 1,
+     "n": "QĐ 361/2014, Phụ lục NSAID mục 2: phần lớn uống khi no, theo dõi tai biến dạ dày; mục 3.3: người nguy cơ thấp (dưới 65 tuổi, không bệnh tim mạch, không dùng corticosteroid) dùng liều thấp nhất, ngắn nhất. Không dấu xuất huyết."
+    },
+    {
+     "t": "Đột quỵ tuần hoàn sau (tiểu não, thân não, nhồi máu mê nhĩ hoặc AICA), kể cả do bóc tách động mạch đốt sống sau chơi thể thao",
+     "n": "Loại trừ lâm sàng, chưa bằng hình ảnh. Thiếu yếu tố nguy cơ mạch máu không loại trừ đột quỵ (GRACE-3 2023, tr. 457: 15% đột quỵ tuổi 15–49 là bóc tách động mạch) nên phải khám mắt. Không đau đầu cổ mới, không chấn thương (Bárány vascular 2022, mục 2.1.2 tiêu chí B4; TL-0451 Bảng 1)."
+    },
+    {
+     "t": "BPPV (chóng mặt kịch phát tư thế lành tính)",
+     "n": "Loại trừ: vertigo liên tục gần 20 giờ kể cả nằm yên, không có cơn ngắn theo tư thế, có rung giật tự phát liên tục (GRACE-3 2023, khuyến cáo 11, tr. 447; TL-0451 Bảng 2). Dix–Hallpike lúc này chỉ làm chị quay và nôn thêm."
+    },
+    {
+     "t": "Bệnh Ménière, viêm mê nhĩ hoặc zona tai (Ramsay Hunt)",
+     "n": "Không ù tai, nghe kém, đau tai; màng nhĩ bình thường, không mụn nước (Bárány AUVP 2022, bảng 1). Ménière là cơn ngắn kèm triệu chứng ốc tai (TL-0451 Bảng 3)."
+    },
+    {
+     "t": "Chóng mặt do thuốc (ibuprofen tự mua hoặc thuốc nhiễm độc tiền đình)",
+     "n": "Không có trong tài liệu đã tải việc ibuprofen gây chóng mặt quay liên tục có rung giật ngoại biên. Nhiễm độc tiền đình do thuốc nêu với aminozid, lợi tiểu, rượu (QĐ 5643/2015, mục 2.1b, 2.1d); chị không dùng nhóm nào. Hai viên trước khi quay chỉ trùng thời gian."
+    },
+    {
+     "t": "Hạ huyết áp tư thế, hạ đường huyết hoặc rối loạn nhịp tim",
+     "n": "Huyết áp không tụt khi đổi tư thế, chị tỉnh táo, mạch đều; rung giật tự phát một chiều không do các nguyên nhân này (GRACE-3 2023, chú thích Hình 1, tr. 445). Không đo được đường huyết ở cơ sở."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Khám vận nhãn HINTS plus (rung giật, đẩy đầu, che mắt luân phiên, nghe), thần kinh, dáng đi và soi tai trước khi kết luận ngoại biên",
+     "v": "c",
+     "n": "GRACE-3 2023, khuyến cáo 1–3 (tr. 447), Bảng 3, 4 (tr. 458, 460); Bárány AUVP 2022, mục 3.1, 4.5.3 (soi tai mọi người chóng mặt cấp)."
+    },
+    {
+     "t": "Không CT, không chuyển tuyến chụp MRI vì HINTS plus ngoại biên; cơ sở cũng không có CT, MRI",
+     "v": "c",
+     "n": "GRACE-3 2023, khuyến cáo 5, 6 (tr. 447); MRI trong 48 giờ đầu kém chính xác hơn HINTS (tr. 462); DWI có thể bình thường trong 24 giờ đầu ở tới 16% tổn thương nhỏ (Bárány AUVP 2022, mục 4.5.2). MRI chỉ khi HINTS trung ương hoặc chưa rõ (khuyến cáo 7)."
+    },
+    {
+     "t": "Hỏi chị 'lo điều gì nhất', hỏi tên thuốc, hàm lượng, giờ uống, tiền sử dùng thuốc độc tai; trả lời thẳng nỗi lo thuốc bằng kết quả khám",
+     "v": "c",
+     "n": "Ibuprofen 400 mg hai viên nằm trong liều 400–1.200 mg/24 giờ (QĐ 361/2014, Phụ lục NSAID, bảng liều). Không có trong tài liệu đã tải việc NSAID gây chóng mặt quay; nhiễm độc tiền đình do thuốc nêu với aminozid (QĐ 5643/2015, mục 2.1b), chị không dùng."
+    },
+    {
+     "t": "Tạm ngừng ibuprofen khi còn nôn, chưa ăn, không uống lúc đói; đau cơ dùng paracetamol",
+     "v": "c",
+     "n": "QĐ 361/2014, Phụ lục NSAID mục 2, 3.3. Paracetamol: Phụ lục thuốc giảm đau mục 3.1: 500–1.000 mg mỗi lần, cách 6–8 giờ, không quá 4 g/24 giờ; bảng bậc 1: 500–3.000 mg/24 giờ."
+    },
+    {
+     "t": "Thuốc chống nôn ngắn ngày: domperidon hoặc ondansetron hoặc metoclopramid, liều đầu tại phòng khám rồi theo dõi xem giữ được thuốc và nước",
+     "v": "c",
+     "n": "TL-0451 (HNO 2025, Bảng 3, tr. S366; tr. S363): tối đa 2–3 ngày; GRACE-3 2023 (tr. 444, 474): không quá 3–5 ngày. Chị 47 tuổi nên AGS Beers 2023 không áp dụng. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bù nước oresol từng ngụm nhỏ sau thuốc chống nôn",
+     "v": "c",
+     "n": "QĐ 5642/2015, mục 3.1, 4.2.3a: mất nước độ I, uống được thì dùng ORESOL (áp dụng tương tự; không có bài mất nước do nôn ở người lớn trong tài liệu đã tải)."
+    },
+    {
+     "t": "Hẹn tái khám sau 24 giờ, hoặc ngay nếu nôn không uống được, đi không vững hơn hay có dấu thần kinh mới; chồng ở cạnh tối nay; dặn dấu hiệu cấp cứu; hướng dẫn phục hồi tiền đình khi hết nôn, tái khám 2–4 tuần",
+     "v": "c",
+     "n": "Bárány AUVP 2022, mục 3.2, ghi chú 13, 16: dấu thần kinh hay tai mới thì xét lại chẩn đoán. Mốc 24 giờ là chọn lựa an toàn của ca (chị ở một mình ban ngày), không có trong tài liệu đã tải. Cấp cứu: QĐ 5331/2020, Chương 5 mục I. Phục hồi tiền đình: GRACE-3 2023 (tr."
+    },
+    {
+     "t": "Corticoid uống ngắn ngày sau khi thảo luận lợi và hại",
+     "v": "a",
+     "n": "GRACE-3 2023, khuyến cáo 14 (tr. 447, 472–473): quyết định chung cho người đến trong 3 ngày; hại: xuất huyết tiêu hóa, tăng đường huyết (tr. 473). Chị ợ nóng, không đo được đường huyết nên không dùng cũng đúng. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cinnarizin ngắn ngày, hoặc huyết thanh ngọt ưu trương theo QĐ 5643; hoặc tiếp tục ibuprofen sau khi ăn no, liều thấp nhất",
+     "v": "a",
+     "n": "TL-0451 (tr. S363, Bảng 3): cinnarizin ± dimenhydrinat tối đa 2–3 ngày. QĐ 5643/2015, mục 4.1a: huyết thanh ngọt ưu trương, tanganil. QĐ 361/2014, Phụ lục NSAID mục 2: liều thấp nhất, ngắn nhất, uống khi no; hợp lý khi đã ăn được."
+    },
+    {
+     "t": "Chụp CT sọ hoặc chuyển tuyến chụp MRI ngay vì sợ đột quỵ",
+     "v": "w",
+     "n": "GRACE-3 2023, khuyến cáo 5 (mạnh, chống CT) và 6 (chống MRI đầu tiên khi có người khám được HINTS), tr. 447; CT bình thường dễ gây yên tâm giả (tr. 462)."
+    },
+    {
+     "t": "Kê thuốc chống chóng mặt, chống nôn, an thần kéo dài hơn một tuần",
+     "v": "w",
+     "n": "GRACE-3 2023 (tr. 474): quá vài ngày bị khuyên không nên vì cản bù trừ sinh lý và tác dụng phụ; TL-0451 (tr. S363): 2–3 ngày để tránh ức chế bù trừ trung ương."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng tiền đình cấp ngoại biên một bên, thứ nhất là viêm thần kinh tiền đình bên trái (AUVP) giờ thứ 20, 'đang tiến triển' (Bárány AUVP 2022, mục 3.2); HINTS plus ngoại biên (GRACE-3 2023, Bảng 4)",
+     "Mất vững mức 1: đi được nhưng chao đảo, lệch trái (GRACE-3 2023, Bảng 3)",
+     "Mất nước nhẹ do nôn, ăn ít; kích ứng dạ dày nhẹ do ibuprofen uống lúc đói, chưa dấu xuất huyết",
+     "Lý do thật: sợ viên giảm đau đã làm hại tai (mẹ từng điếc sau tiêm thuốc); thuốc không phải nguyên nhân"
+    ],
+    "phan_tich_chan_doan": [
+     "Nỗi lo thật chỉ lộ khi hỏi 'chị lo điều gì nhất'. Trả lời đúng: rung giật tự phát một chiều, HIT bất thường một bên, không giảm nghe là tổn thương tiền đình, không phải tác dụng phụ; không có trong tài liệu đã tải việc ibuprofen gây chóng mặt quay kiểu này, nhiễm độc tiền đình do thuốc nêu với aminozid (QĐ 5643/2015, mục 2.1b) mà chị không dùng. Cầu lông và hai viên thuốc chỉ trùng giờ; viêm thần kinh tiền đình khởi phát không có yếu tố báo trước (Bárány AUVP 2022, mục 4.2); sau cầu lông chỉ cần hỏi chấn thương, đau đầu, đau cổ để loại bóc tách (TL-0451 Bảng 1).",
+     "Chưa đủ 24 giờ nên theo Bárány AUVP 2022 là 'đang tiến triển' (mục 3.2); chứng minh giảm VOR cần vHIT mà cơ sở không có, HIT tay có độ nhạy thấp (mục 4.3.2), nên hẹn lại, không chốt vĩnh viễn. Không CT (khuyến cáo 5); MRI chỉ khi HINTS trung ương, chưa rõ hay có dấu mới (khuyến cáo 7)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, hẹn lại sớm: chẩn đoán lâm sàng, không cần hình ảnh (GRACE-3 2023, tr. 444). Chị đứng đi được, uống được sau liều chống nôn đầu, không dấu trung ương nên không nhập viện hay chuyển tuyến (TL-0451 Bảng 3). Hẹn 24 giờ vì chị còn 'đang tiến triển' và ban ngày ở một mình (lựa chọn của ca).",
+     "Chống nôn 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3); cả hai đúng, Beers không áp dụng (47 tuổi). Corticoid: quyết định chung (khuyến cáo 14), dùng hay không đều đúng. Ibuprofen ngừng khi còn nôn; đau cơ dùng paracetamol (QĐ 361/2014, Phụ lục NSAID mục 2, 3.3; Phụ lục thuốc giảm đau mục 3.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Domperidon (hoặc ondansetron, metoclopramid)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải (theo tờ hướng dẫn thuốc)",
+      "duong": "Uống",
+      "thoi_diem": "Khi buồn nôn; liều đầu tại phòng khám, theo dõi xem giữ được thuốc và nước",
+      "so_ngay": "Tối đa 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3 2023)",
+      "ghi_chu": "TL-0451 HNO 2025, Bảng 3 (tr. S366), tr. S363; GRACE-3 2023 tr. 444. Chị 47 tuổi, không áp dụng AGS Beers 2023."
+     },
+     {
+      "thuoc": "Oresol",
+      "ham_luong": "Gói pha theo hướng dẫn trên gói",
+      "lieu": "Uống từng ngụm nhỏ sau thuốc chống nôn, theo khát (số ml: không có trong tài liệu đã tải)",
+      "duong": "Uống",
+      "thoi_diem": "Sau liều chống nôn, rải đều trong ngày",
+      "so_ngay": "1–2 ngày hoặc đến khi ăn uống lại",
+      "ghi_chu": "QĐ 5642/2015, mục 4.2.3a (áp dụng tương tự)."
+     },
+     {
+      "thuoc": "Paracetamol (đau cơ)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi đau, cách 6–8 giờ, tối đa 3 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau khi ăn được",
+      "so_ngay": "2–3 ngày",
+      "ghi_chu": "QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1 (500–1.000 mg/lần, không quá 4 g/24 giờ) và bảng bậc 1 (500–3.000 mg/24 giờ): ghi mức thận trọng."
+     },
+     {
+      "thuoc": "Ibuprofen 400 mg (chị đang tự dùng)",
+      "ham_luong": "400 mg",
+      "lieu": "Tạm ngừng khi còn nôn, chưa ăn",
+      "duong": "Uống",
+      "thoi_diem": "Nếu dùng lại: sau khi ăn no",
+      "so_ngay": "Liều thấp nhất, ngắn nhất",
+      "ghi_chu": "QĐ 361/2014, Phụ lục NSAID mục 2, 3.3, bảng liều 400–1.200 mg/24 giờ."
+     },
+     {
+      "thuoc": "Corticoid uống (tùy chọn sau thảo luận)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Trong 3 ngày từ khởi phát",
+      "so_ngay": "Ngắn ngày; số ngày: không có trong tài liệu đã tải",
+      "ghi_chu": "TL-0072 (GRACE-3 2023), khuyến cáo 14 (tr. 447, 472–473). Chị ợ nóng, không đo được đường huyết: không dùng cũng đúng; nếu dùng thì ngừng NSAID."
+     }
+    ],
+    "dan_do": [
+     "Chị bị viêm thần kinh tiền đình bên trái: dây thần kinh thăng bằng ở tai bị viêm, thường do virus (QĐ 5643/2015, mục 2.2). Hai viên ibuprofen không phải thủ phạm, tài liệu đã tải không nêu thuốc đó gây chóng mặt quay; nhưng tạm ngừng khi đang nôn vì dễ đau dạ dày.",
+     "Đi cấp cứu ngay nếu yếu liệt, méo miệng, nói khó, nhìn đôi, tê, lơ mơ, đau đầu dữ dội, đau cổ, nghe kém đột ngột, đi không vững hơn (QĐ 5331/2020, Chương 5 mục I; Bárány AUVP 2022, ghi chú 13, 16).",
+     "Khi hết nôn tập phục hồi tiền đình theo tờ hướng dẫn (GRACE-3 2023, tr. 444; TL-0451 Bảng 3). Tái khám sau 24 giờ, hoặc ngay nếu nôn không uống được; kiểm tra lại sau 2–4 tuần (TL-0451 Bảng 3)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 24 giờ",
+   "tiep_don": "Chị Hương tái khám theo hẹn lúc 15 giờ thứ Hai, chồng Quân dìu vào, chị ngồi gục đầu vào thành ghế, tay ôm cái xô nhựa nhỏ. Chị nói đêm qua nôn nhiều hơn, uống gì cũng ói, nằm không dám cử động; sáng nay đi vệ sinh phải bám tường, suýt ngã. Chị hỏi nhỏ: 'em nặng hơn thế này có phải tai biến không bác sĩ?'. Sinh hiệu lúc tiếp đón (nằm): mạch 108 l/p, HA 98/62 mmHg, nhiệt 36,9 °C, nhịp thở 20, SpO₂ 98%.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Cho chị về bù oresol là giao việc bù nước cho người không uống được: chị ói cả viên chống nôn, mạch 108, HA nằm 98/62 tụt 90/58 khi ngồi, ít nước tiểu, không tự đi được (GRACE-3 2023, Bảng 3, tr. 458: mức 2; QĐ 5642/2015, mục 4.2.3a: mất nước từ độ II, không uống được thì bù tĩnh mạch). Ban ngày chồng đi công trình, chị ở một mình, dễ ngã; tối chị lả hơn, phải vào cấp cứu trong đêm, lúc chưa ai kiểm tra điện giải và đường huyết.",
+    "chuyen_tuyen": "Chuyển bệnh viện tỉnh 75 km chụp CT hay MRI vì 'nặng hơn nghĩa là đột quỵ' là sai chỗ: HINTS lặp lại vẫn ngoại biên, nghe không giảm, không dấu khu trú mới (GRACE-3 2023, khuyến cáo 2, 5, 6, tr. 447; TL-0451 Bảng 1). MRI trong 48 giờ đầu kém chính xác hơn HINTS (tr. 462). Chị ngồi xe hơn hai giờ khi mất nước chưa bù, dễ ngã và hít sặc, vẫn cần nằm viện bù dịch ở đâu đó.",
+    "cap_cuu": "Gọi 115 hay kích hoạt đường dây đột quỵ là quá mức: tỉnh táo, không dấu thần kinh mới, HINTS ngoại biên (GRACE-3 2023, Bảng 4, tr. 460). Chị bị chở xa tới trung tâm đột quỵ, chụp CT sọ vốn không giúp (khuyến cáo 5), chờ nhiều giờ khi chưa được truyền dịch, trong khi cần nhất là bệnh viện huyện gần nhất."
+   },
+   "loi_mo": "Bác sĩ ơi, em nặng hơn rồi. Đêm qua em nôn thêm sáu lần, viên chống nôn uống vào là ói ra, cháo với nước cũng ói. Nhà vẫn quay, quay đầu là quay dữ lắm, em không dám nhúc nhích. Sáng nay đi vệ sinh phải bám tường, suýt ngã. Em khát khô mà uống không được. Em sợ lắm, có phải tai biến không bác sĩ? Em không uống thêm viên giảm đau nào từ hôm qua.",
+   "sinh_hieu": {
+    "mach": 108,
+    "ha": "98/62",
+    "nhiet": "36,9",
+    "nhip_tho": 20,
+    "spo2": 98,
+    "canh_bao": [
+     "mach",
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Đêm qua nôn thêm sáu lần, hôm nay bốn lần. Ba lần thử uống nước, cháo loãng và viên chống nôn đều nôn ra sau 10–15 phút. Cơn quay vẫn liên tục, cùng kiểu hôm qua. Sáng nay đi vệ sinh phải bám tường, suýt ngã, chồng đỡ kịp, chưa ngã lần nào.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Nặng hơn: quay còn, nôn dai dẳng, không uống được"
+    },
+    {
+     "id": "khong_dau_moi",
+     "noi_dung": "Hỏi lại từng ý: không đau đầu, đau gáy, đau cổ, không nhìn đôi, không tê mặt hay tê người, không yếu liệt, nói không ngọng, nuốt không sặc, không ù tai, không nghe kém, không đau tai, không sốt, không ngất. Chị tỉnh táo, nhớ rõ mọi chuyện từ hôm qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khi nặng hơn phải hỏi lại triệu chứng trung ương và tai mới"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Từ sáng qua gần như không ăn được; hôm nay giữ được vài ngụm nước. Đi tiểu một lần từ sáng, nước tiểu sẫm, ít. Khát, khô miệng. Không tiêu chảy, không sốt, không nôn ra máu, không đi ngoài phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất nước độ II do nôn, không uống được (QĐ 5642/2015, mục 3.1, 4.2.3a, áp dụng tương tự)"
+    },
+    {
+     "id": "thuoc_da_dung",
+     "noi_dung": "Chị đã ngừng ibuprofen từ trưa Chủ nhật; đêm qua thử một viên paracetamol 500 mg, nôn ra. Sau lời giải thích hôm qua chị bớt sợ viên giảm đau nhưng thấy 'càng ngày càng tệ', và hỏi nặng hơn có phải đột quỵ không. Chị đã nghe lợi hại của corticoid và chọn không uống vì còn ợ nóng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: ngừng NSAID"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Chồng xin nghỉ đến hết ngày mai, thứ Tư đi công trình xa. Chị đã báo trường nghỉ ốm. Về nhà thì thứ Tư chị ở một mình. Bệnh viện huyện cách 18 km; chị không ngồi nổi xe máy.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguồn lực chăm sóc, phương tiện vận chuyển an toàn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Chị mệt, nằm nghiêng phải, mắt nhắm, môi khô nứt nhẹ, lưỡi khô, da véo nếp mất chậm. Mắt không trũng, tay chân ấm, tỉnh táo, trả lời đúng.",
+     "k": 1,
+     "hien": "Chị nằm nghiêng phải, mắt nhắm, môi khô nứt, lưỡi khô. Tay chân ấm."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 98/62, mạch 106. Ngồi 1 phút: 90/58, mạch 118, quay dữ, nôn khan. Đứng được vài giây rồi phải ngồi nên không đo tư thế đứng. Huyết áp tụt khi ngồi là dấu giảm thể tích, không đổi kết luận về nguyên nhân quay.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim nhanh đều 108 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim nhanh, đều, tần số 108 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 20.",
+     "k": 0,
+     "hien": "Phổi thông khí đều hai bên.",
+     "media": [
+      {
+       "vi_tri": "Phế trường hai bên",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, nói rõ, không méo mặt, nuốt được. Cảm giác đều, sức cơ 5/5, Babinski âm tính. Ngón–mũi, gót–gối chính xác. Không cứng gáy, không nhìn đôi. Không dấu khu trú mới so với lượt 1.",
+     "k": 1
+    },
+    "hints_van_nhan": {
+     "a": "Nhìn thẳng: rung giật ngang kèm xoay, pha nhanh sang phải, một chiều, giống hôm qua, mạnh hơn khi nhìn sang phải, không đổi chiều ở mọi hướng nhìn (chị buồn nôn nên giảm khi cố định không rõ, Bárány AUVP 2022, mục 4.3.1). Đẩy đầu nhanh sang trái: mắt trượt khỏi mục tiêu rồi giật bắt kịp; sang phải: giữ được mục tiêu. Che mắt luân phiên: không lệch dọc. Không rung giật dọc hay xoay thuần túy. Ba thành phần vẫn ngoại biên (GRACE-3 2023, Bảng 4, tr. 460): nặng hơn về triệu chứng nhưng không đổi về dấu thần kinh.",
+     "k": 1,
+     "hien": "Nhìn thẳng: nhãn cầu vẫn giật liên tục sang phải như hôm qua, nhìn sang trái thì yếu đi nhưng vẫn giật sang phải. Đẩy đầu nhanh sang trái: mắt trượt khỏi mục tiêu rồi giật bắt kịp; sang phải: mắt giữ được mục tiêu. Che mắt luân phiên: mắt không dịch chuyển dọc."
+    },
+    "nghe_thi_tham": {
+     "a": "Cọ ngón tay sát tai: nghe rõ như nhau hai bên. Không giảm nghe mới (HINTS plus, GRACE-3 2023, Bảng 4, tr. 460; Bárány AUVP 2022, mục 4.3.4).",
+     "k": 1,
+     "hien": "Nghe cọ ngón tay hai bên như nhau, đều rõ."
+    },
+    "dang_di_thang_bang": {
+     "a": "Ngồi tự giữ thân, nghiêng trái. Đứng được không cần đỡ vài chục giây, hai chân dang rộng, người lắc về trái; không tự đi được, 3–4 bước phải có người đỡ nách. Mất vững mức 2, nặng hơn lượt 1 (GRACE-3 2023, Bảng 3, tr. 458: 28% là đột quỵ; mức 3 là 100%). Chị chưa mức 3, HINTS ngoại biên, không dấu mới; không ngồi hay đứng nổi khi không đỡ mới là dấu trung ương (TL-0451 Bảng 1, 2).",
+     "k": 1,
+     "hien": "Ngồi tự giữ thân, hơi nghiêng trái. Đứng được không cần đỡ vài chục giây, hai chân dang rộng, người lắc. Không tự đi được, bước vài bước phải có người đỡ nách."
+    },
+    "dix_hallpike": {
+     "a": "Không làm lúc này: rung giật tự phát liên tục, chị nôn khi ngả đầu nhẹ (GRACE-3 2023, khuyến cáo 11, tr. 447). BPPV hậu viêm có thể xuất hiện sau (Bárány AUVP 2022, mục 4.1).",
+     "k": 0,
+     "hien": "Chị nằm ngửa đầu nghiêng: quay dữ hơn, nôn, mắt vẫn giật sang phải như lúc ngồi."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 4,6 mmol/L (kết quả nếu ở nơi có máy).",
+     "n": "Nhịn ăn gần hai ngày; hạ đường huyết là bệnh giả đột quỵ (QĐ 5331/2020, Chương 2 mục I.4). Cơ sở không làm được; chị không run, không vã mồ hôi."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 136 mmol/L, K 3,2 mmol/L, Cl 96 mmol/L (kết quả nếu ở nơi có máy).",
+     "n": "QĐ 5642/2015, mục 5: hạ kali là biến chứng mất nước do tiêu chảy, dùng tham chiếu tương tự (không có bài riêng cho nôn). Cơ sở không làm được: lý do nhập viện, không chờ kết quả.",
+     "bang": {
+      "na": 136,
+      "k": 3.2,
+      "cl": 96
+     }
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 8,2 mmol/L, creatinin 90 µmol/L, eGFR 73 (kết quả nếu ở nơi có máy).",
+     "n": "Giảm thể tích nhẹ. Cơ sở không làm được.",
+     "bang": {
+      "ure": 8.2,
+      "creat": 90,
+      "egfr": 73
+     }
+    },
+    "ua": {
+     "v": "a",
+     "r": "Tỷ trọng 1,030; ceton 2+; không protein, không bạch cầu, không hồng cầu (kết quả nếu ở nơi có que thử).",
+     "n": "Hợp nhịn ăn, mất nước; không đổi xử trí. Cơ sở không có que thử."
+    },
+    "ct_nao": {
+     "n": "HINTS vẫn ngoại biên: không CT (GRACE-3 2023, khuyến cáo 5, tr. 447; tr. 462). Cơ sở không có CT."
+    },
+    "mri_so_nao": {
+     "n": "Chỉ khi có dấu trung ương hay HINTS đổi (GRACE-3 2023, khuyến cáo 7; Bárány AUVP 2022, ghi chú 13, 16); trong 24–48 giờ đầu có thể âm tính giả (Bárány mục 4.5.2; GRACE-3 tr. 462)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thần kinh tiền đình bên trái, ngày thứ hai (giờ thứ 43), thể nặng: nôn dai dẳng, mất vững mức 2; mất nước độ II do nôn (mạch 108, HA nằm 98/62 tụt 90/58 khi ngồi, thiểu niệu, da khô), không còn uống được",
+     "ok": 1,
+     "n": "Bárány AUVP 2022, mục 3.1; ghi chú 4: mức nặng là nằm liệt giường. Mất vững mức 2 (GRACE-3 2023, Bảng 3). Mất nước độ II (QĐ 5642/2015, mục 3.1, áp dụng tương tự: mạch 100–120, da khô, thiểu niệu; HA nằm chưa dưới 90). Không xét nghiệm nên mức mất nước và điện giải là suy luận lâm sàng."
+    },
+    {
+     "t": "Đột quỵ tuần hoàn sau (tiểu não, thân não, nhồi máu mê nhĩ hoặc AICA) – đánh giá lại vì 'nặng hơn'",
+     "n": "Loại trừ lâm sàng lần hai. Nặng hơn nhưng dấu thần kinh không đổi: HINTS ba thành phần ngoại biên, nghe không giảm, không nhìn đôi, không yếu liệt, không đau đầu cổ, ngồi và đứng tự giữ được (GRACE-3 2023, Bảng 3, 4; Bárány AUVP 2022, ghi chú 13, 16; TL-0451 Bảng 1)."
+    },
+    {
+     "t": "Thiếu thiamine cấp do nôn kéo dài, ăn ít",
+     "n": "TL-0451 Bảng 1 (tr. S362): nôn dai dẳng, ăn ít cần nghĩ đến thiếu thiamine cấp (khuyến cáo 8, tr. S365: nếu nghi thì bổ sung B1 liều cao ưu tiên)."
+    },
+    {
+     "t": "BPPV (chóng mặt kịch phát tư thế lành tính)",
+     "n": "Loại trừ: vertigo liên tục gần hai ngày kể cả nằm yên, rung giật tự phát liên tục (GRACE-3 2023, khuyến cáo 11, tr. 447). BPPV hậu viêm có thể xuất hiện sau (Bárány AUVP 2022, mục 4.1)."
+    },
+    {
+     "t": "Hạ đường huyết hoặc rối loạn điện giải (hạ kali, hạ natri) do nôn, nhịn ăn",
+     "n": "Chưa kiểm được ở cơ sở này; chị tỉnh táo, không run, không vã mồ hôi. Hạ đường huyết là bệnh giả đột quỵ (QĐ 5331/2020, Chương 2 mục I.4). Lý do nhập viện có xét nghiệm, không chờ kết quả."
+    },
+    {
+     "t": "Tác dụng phụ của ibuprofen hoặc xuất huyết tiêu hóa trên",
+     "n": "Chị đã ngừng ibuprofen từ trưa Chủ nhật, không nôn máu, không phân đen, ấn thượng vị khó chịu nhẹ như hôm qua. Rung giật tự phát và HIT bất thường không giải thích được bằng thuốc. Vẫn theo dõi tai biến dạ dày (QĐ 361/2014, Phụ lục NSAID mục 2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá lại toàn diện khi nặng hơn: hỏi lại triệu chứng trung ương và tai mới, khám thần kinh, lặp HINTS plus và dáng đi, tìm dấu mất nước",
+     "v": "c",
+     "n": "Bárány AUVP 2022, ghi chú 13, 16, mục 4.6.1: có dấu thần kinh hay tai mới thì xét lại chẩn đoán. GRACE-3 2023, Bảng 3, 4 (tr. 458, 460); TL-0451 Bảng 1 (tr. S362): không ngồi hay đứng được khi không có người đỡ là dấu trung ương."
+    },
+    {
+     "t": "Nhập viện bệnh viện huyện để bù dịch tĩnh mạch, kiểm điện giải, đường huyết, ure–creatinin, theo dõi dấu thần kinh và ngã",
+     "v": "c",
+     "n": "QĐ 5642/2015, mục 3.1, 4.2.3a: mất nước từ độ II, không uống được thì bù tĩnh mạch (áp dụng tương tự). TL-0451 Bảng 3 (tr. S366): chuyển khi nặng hoặc nghi trung ương; ở đây nặng nhưng HINTS ngoại biên nên nhập viện huyện gần, không cần trung tâm đột quỵ."
+    },
+    {
+     "t": "Không chuyển trung tâm đột quỵ, không CT sọ vì HINTS vẫn ngoại biên, không dấu mới; ghi rõ điều kiện chuyển tỉnh chụp MRI",
+     "v": "c",
+     "n": "GRACE-3 2023, khuyến cáo 2, 5, 6, 7 (tr. 447); Bárány AUVP 2022, mục 4.5.2: DWI có thể bình thường trong 24 giờ đầu ở tới 16% tổn thương nhỏ."
+    },
+    {
+     "t": "Bàn giao bệnh viện huyện (SBAR): viêm thần kinh tiền đình ngày 2, HINTS ngoại biên, mất vững mức 2, mất nước độ II, đã dùng hai viên ibuprofen, chưa dùng corticoid; đề nghị đo đường huyết, điện giải, ure–creatinin; thuốc chống nôn trước khi chuyển; đi ô tô có người đi kèm, nằm nghiêng, túi nôn",
+     "v": "c",
+     "n": "Cấu trúc SBAR, an toàn vận chuyển: nhận xét thực hành, không có trong tài liệu đã tải. Thuốc chống nôn: TL-0451 Bảng 3 (tr. S366), tối đa 2–3 ngày (tr. S363); đường tiêm, liều: không có trong tài liệu đã tải. Chị 47 tuổi, Beers 2023 không áp dụng."
+    },
+    {
+     "t": "Giải thích cho chị và chồng: nặng hơn không có nghĩa là đột quỵ, chị không làm sai điều gì; vì sao nhập viện huyện chứ không đi xa",
+     "v": "c",
+     "n": "Cách trấn an: nhận xét hành vi, không có trong tài liệu đã tải. Căn cứ: HINTS ngoại biên lặp lại (GRACE-3 2023, Bảng 4)."
+    },
+    {
+     "t": "Bổ sung vitamin B1 liều cao tĩnh mạch khi nhập viện vì nôn dai dẳng, ăn ít",
+     "v": "a",
+     "n": "TL-0451 Bảng 1 (tr. S362): nôn dai dẳng, ăn ít: đo thiamine và bổ sung ngay 3 × 200–500 mg/ngày truyền ngắn, 5 ngày; khuyến cáo 8 (tr. S365). Chị mới nôn khoảng hai ngày, không dấu thần kinh gợi ý nên không bắt buộc."
+    },
+    {
+     "t": "Corticoid ngắn ngày (tiêm hoặc uống) sau khi thảo luận lợi và hại; cinnarizin ngắn ngày sau khi hết nôn",
+     "v": "a",
+     "n": "GRACE-3 2023, khuyến cáo 14 (tr. 447, 472–473): người đến trong 3 ngày; chị ở ngày thứ hai nhưng không uống được; hại: xuất huyết tiêu hóa, tăng đường huyết (tr. 473), chị đã ợ nóng. Liều, đường tiêm: không có trong tài liệu đã tải. Cinnarizin: TL-0451 (tr."
+    },
+    {
+     "t": "Cho chị về nhà, bù oresol, hẹn lại ngày mai",
+     "v": "w",
+     "n": "QĐ 5642/2015, mục 4.2.3a: mất nước từ độ II, không uống được thì bù tĩnh mạch. Chị ói cả viên chống nôn, mạch 108, HA tụt khi ngồi, không tự đi được (GRACE-3 Bảng 3: mức 2), ban ngày ở một mình."
+    },
+    {
+     "t": "Chuyển trung tâm đột quỵ 75 km chụp CT sọ hoặc MRI ngay vì 'nặng hơn'",
+     "v": "w",
+     "n": "GRACE-3 2023, khuyến cáo 5, 6 (tr. 447); CT bình thường dễ gây yên tâm giả (tr. 462). HINTS vẫn ngoại biên, không dấu mới."
+    },
+    {
+     "t": "Tăng thuốc ức chế tiền đình, an thần (diazepam) kéo dài để 'cắt cơn' quay",
+     "v": "w",
+     "n": "GRACE-3 2023 (tr. 474): quá vài ngày bị khuyên không nên vì cản bù trừ; TL-0451 (tr. S363): tối đa 2–3 ngày."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thần kinh tiền đình bên trái ngày thứ hai, thể nặng, HINTS plus vẫn ngoại biên, không dấu trung ương mới (Bárány AUVP 2022, mục 3.1; GRACE-3 2023, Bảng 4)",
+     "Mất vững mức 2, nặng hơn lượt 1 (GRACE-3 2023, Bảng 3)",
+     "Mất nước độ II do nôn, không uống được: mạch 108, HA nằm 98/62 tụt 90/58 khi ngồi, thiểu niệu, da khô (QĐ 5642/2015, mục 3.1, áp dụng tương tự); điện giải và đường huyết chưa biết",
+     "Nôn dai dẳng, ăn ít: nguy cơ thiếu thiamine cấp (TL-0451 Bảng 1); kích ứng dạ dày nhẹ do ibuprofen (đã ngừng)",
+     "Nỗi sợ hôm nay: 'nặng hơn có phải đột quỵ'"
+    ],
+    "phan_tich_chan_doan": [
+     "Khi nặng hơn, đánh giá lại toàn diện: hỏi lại triệu chứng trung ương và tai mới, khám thần kinh, lặp HINTS plus và dáng đi (Bárány AUVP 2022, ghi chú 13, 16; GRACE-3 2023, Bảng 3, 4). Nặng hơn về nôn, mất nước, mất vững, nhưng dấu thần kinh không đổi, nghe không giảm, vẫn ngồi và đứng tự giữ được: viêm thần kinh tiền đình thể nặng, không phải bệnh mới.",
+     "Mức 2 làm nguy cơ đột quỵ tăng (28%, GRACE-3 Bảng 3) và HIT có thể yên tâm giả ở nhồi máu AICA (Bảng 4); vì thế nêu điều kiện chuyển tỉnh chụp MRI và dặn viện huyện theo dõi sát (TL-0451 Bảng 1; Bárány AUVP, mục 4.6.1, 4.5.2). Nôn dai dẳng, ăn ít đáng nghĩ thiếu thiamine (TL-0451 Bảng 1) nhưng chưa dấu thần kinh gợi ý."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện huyện, không chuyển tỉnh, không cấp cứu: HINTS ngoại biên, không dấu mới (GRACE-3 2023, khuyến cáo 2, 5, 6, tr. 447) nên không cần trung tâm đột quỵ. Mất nước độ II không uống được thì bù tĩnh mạch (QĐ 5642/2015, mục 4.2.3a, áp dụng tương tự), cần xét nghiệm và theo dõi ngã mà phòng khám không làm được.",
+     "Dịch: Ringer lactat hoặc NaCl 0,9% (QĐ 5642 còn nêu NaCl 0,9% + glucose 5% tỷ lệ 1:1); lượng, tốc độ, kali: không có trong tài liệu đã tải, theo điện giải đồ. Chống nôn 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3). B1 liều cao, corticoid: tùy chọn (TL-0451 Bảng 1; GRACE-3 khuyến cáo 14)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Ringer lactat (hoặc NaCl 0,9%)",
+      "ham_luong": "Chai truyền theo bệnh viện",
+      "lieu": "Lượng, tốc độ: không có trong tài liệu đã tải; theo mạch, huyết áp, nước tiểu, điện giải",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Ngay khi nhập viện",
+      "so_ngay": "Đến khi uống được, hết mất nước",
+      "ghi_chu": "QĐ 5642/2015, mục 4.2.3a (áp dụng tương tự; không có bài mất nước do nôn ở người lớn)."
+     },
+     {
+      "thuoc": "Ondansetron (hoặc domperidon, metoclopramid)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải",
+      "duong": "Tiêm tĩnh mạch hoặc uống (đường tiêm: không có trong tài liệu đã tải)",
+      "thoi_diem": "Trước khi vận chuyển và khi buồn nôn",
+      "so_ngay": "Tối đa 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3 2023)",
+      "ghi_chu": "TL-0451 HNO 2025, Bảng 3 (tr. S366), tr. S363; GRACE-3 2023 tr. 444, 474. Chị 47 tuổi, không áp dụng AGS Beers 2023."
+     },
+     {
+      "thuoc": "Vitamin B1 (thiamine) liều cao (tùy chọn)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "3 × 200–500 mg/ngày, truyền ngắn",
+      "duong": "Tĩnh mạch",
+      "thoi_diem": "Khi nhập viện",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "TL-0451 HNO 2025, Bảng 1 (tr. S362); khuyến cáo 8 (tr. S365): ghi cho nghi thiếu thiamine cấp; chị chỉ nguy cơ."
+     },
+     {
+      "thuoc": "Corticoid (tùy chọn, quyết định chung)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải",
+      "duong": "Tiêm hoặc uống khi uống được",
+      "thoi_diem": "Trong 3 ngày từ khởi phát",
+      "so_ngay": "Ngắn ngày; số ngày: không có trong tài liệu đã tải",
+      "ghi_chu": "TL-0072 (GRACE-3 2023), khuyến cáo 14 (tr. 447, 472–473). Chị ợ nóng sau ibuprofen: cân nhắc."
+     },
+     {
+      "thuoc": "Paracetamol (đau cơ, khi uống được)",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần, cách 6–8 giờ, tối đa 3 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau",
+      "so_ngay": "Dừng khi hết đau",
+      "ghi_chu": "QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1 (không quá 4 g/24 giờ) và bảng bậc 1 (500–3.000 mg/24 giờ): mức thận trọng. Không dùng ibuprofen khi còn nôn."
+     }
+    ],
+    "dan_do": [
+     "Chị nặng hơn vì nôn nhiều, không uống được, cơ thể thiếu nước; bác sĩ đã khám lại mắt và dáng đi, vẫn là kiểu của tai trong, không phải tai biến (Bárány AUVP 2022, mục 3.1; GRACE-3 2023, Bảng 4). Chị không làm sai điều gì, và không phải do viên thuốc giảm đau.",
+     "Chị cần nằm bệnh viện huyện để truyền dịch và thử máu mà phòng khám không làm được. Đi ô tô, có người nhà đi kèm, nằm nghiêng, mang túi nôn; không chở xe máy."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hương nằm bệnh viện huyện ba ngày: truyền dịch, tiêm chống nôn, kali hơi thấp được bù, đường huyết bình thường. Ngày thứ ba chị uống được cháo, đi có người đỡ; cơn quay giảm dần, không dấu thần kinh hay giảm nghe mới, không phải chụp MRI. Xuất viện với tờ tập phục hồi tiền đình; tuần thứ ba đi vững, trở lại đứng lớp; sau 4 tuần hết triệu chứng.",
+ "nhieu": [
+  "Viên ibuprofen uống khoảng 45 phút trước khi quay: trùng giờ nên chị tin là 'tác dụng phụ'. Không có trong tài liệu đã tải việc ibuprofen gây chóng mặt quay liên tục; liều trong 400–1.200 mg/24 giờ (QĐ 361/2014, Phụ lục NSAID). Rung giật ngoại biên một chiều và HIT bất thường chỉ ra tổn thương tiền đình.",
+  "Buổi cầu lông chiều tối thứ Bảy: nhìn như yếu tố khởi phát, gợi chấn thương cổ, bóc tách động mạch đốt sống, BPPV. Không chấn thương, không đau đầu cổ mới, vertigo liên tục không theo tư thế (Bárány AUVP 2022, mục 4.2; TL-0451 Bảng 1)."
+ ],
+ "bai_hoc_bien": [
+  "Hội chứng tiền đình cấp: HINTS plus bởi người được huấn luyện thay CT; ngoại biên thì không cần hình ảnh; thiếu yếu tố nguy cơ mạch máu không loại trừ đột quỵ (GRACE-3 2023, khuyến cáo 2, 3, 5, 6, tr. 447; tr. 457).",
+  "Bệnh nhân hợp tác tốt vẫn có nỗi sợ riêng: chị sợ viên thuốc hại tai. Không hỏi 'chị lo điều gì nhất' thì chị ra về vẫn sợ. Trả lời bằng bằng chứng khám, không chỉ nói 'không sao'.",
+  "Nặng hơn ở lượt 2: đánh giá lại toàn diện (hỏi lại, khám lại, lặp HINTS), phân biệt nặng do nôn, mất nước với bệnh mới trung ương, rồi nâng mức chăm sóc đúng chỗ, không chuyển xa, không cho về (Bárány AUVP 2022, ghi chú 13, 16; GRACE-3 2023, Bảng 3, 4)."
+ ],
+ "diem_nho": [
+  "Viêm thần kinh tiền đình (Bárány 2022, mục 3.1): vertigo liên tục ≥ 24 giờ, rung giật ngoại biên một chiều tăng khi bỏ cố định, giảm VOR bên đối diện pha nhanh, không dấu trung ương, không triệu chứng tai. > 3 giờ nhưng chưa đủ 24 giờ: 'đang tiến triển' (mục 3.2).",
+  "HINTS plus ngoại biên: rung giật một chiều, HIT có cú giật bắt kịp, không lệch dọc, không giảm nghe mới (GRACE-3 2023, Bảng 4, tr. 460). Mất vững mức 1/2/3: 7%/28%/100% là đột quỵ (Bảng 3, tr. 458).",
+  "Chống nôn, chống chóng mặt chỉ vài ngày: 2–3 ngày (TL-0451 tr. S363) hoặc không quá 3–5 ngày (GRACE-3 2023, tr. 444, 474). Corticoid ngắn ngày cho người đến trong 3 ngày là quyết định chung (khuyến cáo 14). Mọi viêm thần kinh tiền đình cần phục hồi tiền đình (GRACE-3 tr. 444; TL-0451 Bảng 3)."
+ ],
+ "nguon": [
+  "GRACE-3 2023 – Edlow JA và cs., Acad Emerg Med 2023;30:442-486 – TL-0072 – tr. 444 (tóm tắt), Box 1 khuyến cáo 1–15 (tr. 447–448), tr. 457 (bóc tách động mạch, yếu tố nguy cơ), Bảng 3 (tr. 458), Bảng 4 (tr. 460), tr. 462 (CT, MRI), corticoid (tr. 472–473), thuốc ức chế tiền đình (tr. 474), chú thích Hình 1 (tr. 445).",
+  "Bárány Society 2022 – Strupp M và cs., Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res 2022;32:389-406 – TL-0465 – mục 3.1, 3.2, ghi chú 4, 13, 14, 16; mục 4.1, 4.2, 4.3.1–4.3.4, 4.5.2, 4.5.3, 4.6.1, 4.6.2, 4.8.",
+  "Bárány Society 2022 – Vascular vertigo and dizziness: diagnostic criteria. J Vestib Res 2022;32:205-222 – TL-0468 – mục 2.1.2.",
+  "TL-0451 – Tarnutzer và cs., HNO 2025;73(Suppl 3):357-369 – Bảng 1 (tr. S362), Bảng 2, tr. S363, khuyến cáo 4, 6, 8 (tr. S365), Bảng 3 (tr. S366).",
+  "BYT – QĐ 5643/QĐ-BYT 2015 (TL-0130) – bài Chóng mặt, mục 2.1b, 2.1d, 2.2, 3.1e, 4.1a.",
+  "BYT – QĐ 361/QĐ-BYT 2014 (TL-0286) – Phụ lục: hướng dẫn sử dụng NSAID (mục 2, 3.2, 3.3, bảng liều) và thuốc giảm đau (mục 1–3.1, bảng bậc 1).",
+  "BYT – QĐ 5642/QĐ-BYT 2015 (TL-0038) – Bệnh tiêu chảy do vi khuẩn, mục 3.1, 4.2.3a, 5 (dùng tương tự cho mất nước do nôn; không có bài riêng trong tài liệu đã tải).",
+  "BYT – QĐ 5331/QĐ-BYT 2020 (TL-0030) – Chương 2 mục I.4 (bệnh giả đột quỵ), Chương 5 mục I (dấu hiệu cần gọi cấp cứu).",
+  "AGS Beers 2023 (TL-0022) – Bảng 2: không áp dụng vì chị 47 tuổi."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-14. Tài liệu đã đọc: TL-0072 (tr. 444–448, 457–462, 472–474), TL-0465 (mục 3, 4), TL-0468 (mục 2.1.2), TL-0451 (Bảng 1–3), TL-0130 bài Chóng mặt, TL-0286 Phụ lục NSAID và thuốc giảm đau, TL-0038 mục 3.1, 4.2.3a, TL-0030 (Chương 2 mục I.4, Chương 5 mục I).",
+  "Thiếu tài liệu: liều thuốc chống nôn, cinnarizin, corticoid, đường tiêm; lượng dịch, kali; NSAID gây chóng mặt quay; ngưỡng thời gian nôn nghi thiếu thiamine; giấy nghỉ ốm; bài mất nước do nôn ở người lớn (dùng QĐ 5642 tương tự). Mâu thuẫn dùng lại mục cũ (TK-0267), không có mới."
+ ]
+}
