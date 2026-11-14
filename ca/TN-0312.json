@@ -1,0 +1,695 @@
+{
+ "ma_ca": "TN-0312",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1",
+ "benh": "TN_dai_mau_danh_gia",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Đái máu (đánh giá)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư bàng quang",
+   "Sỏi",
+   "Viêm cầu thận"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "nghe_nghiep": "Thợ hàn",
+  "yeu_to_khoi_phat": "Phơi nắng lâu",
+  "thuoc_dang_dung": "Thuốc tránh thai đang dùng (bạn gái dùng; bản thân không dùng thuốc)",
+  "ly_do_that_su_den_kham": "Muốn được nghỉ khỏi công việc",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Quốc Huy",
+  "tuoi": 27,
+  "gioi": "Nam",
+  "nghe": "Thợ hàn công trình",
+  "can_nang": 62,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhảu, hơi vội, nói ngắn, hay nghe lời bạn bè. Làm hàn trên giàn giáo, ngại leo xuống uống nước hay đi tiểu. Sợ mất công, sợ bị trừ lương.",
+  "kieu_nhieu": "Đòi kháng sinh: nghe bạn bảo đái ra màu lạ là nhiễm trùng và uống thuốc là khỏi, nên vào là xin ngay 'ít thuốc kháng sinh'. Nếu bác sĩ từ chối mà không giải thích sẽ nài hoặc tự mua. Chịu nghe khi được giải thích bằng bằng chứng nước tiểu của chính anh.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c68e5f",
+   "toc": "#1c1a18",
+   "kieuToc": "ngan",
+   "ao": "#3b4f6b",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Nước tiểu sẫm màu 2 ngày, hơi rát, xin kháng sinh",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Phạm Quốc Huy, 27 tuổi, thợ hàn. Đến vì nước tiểu sẫm màu 2 ngày, đi tiểu hơi rát. Sinh hiệu: HA 122/76 mmHg, mạch 88 l/p, nhiệt độ 36,9 °C, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Huy 27 tuổi, hút 5 điếu/ngày 6 năm (khoảng 1,5 gói-năm), 8 hồng cầu/QTLC, siêu âm thận – bàng quang bình thường: xếp nguy cơ thấp, chưa cần soi bàng quang hay CT ngay, chỉ thử lại nước tiểu trong 6 tháng (AUA/SUFU 2025, Bảng 4, phát biểu 10). Gửi tuyến trên soi bàng quang và CT niệu hôm nay là quá tay: tốn kém, anh mất thêm ngày công vốn đang ngại nghỉ, và tiếp xúc tia X, cản quang không cần thiết.",
+    "nhap_vien": "Nhập viện theo dõi đái máu ở anh Huy là quá mức: sinh hiệu ổn, không đau quặn, không sốt, creatinin và UACR bình thường, nước tiểu không đỏ, không cục máu (QĐ 3931/2015, Đái máu mục 3: can thiệp ngoại khoa khi tắc nghẽn do máu cục). Anh nằm viện vài ngày, mất thu nhập, càng tin mình bệnh nặng và đòi thêm thuốc, trong khi điều cần làm là uống đủ nước và thử lại nước tiểu sau 3 tuần."
+   },
+   "loi_mo": "Chào bác sĩ. Hai hôm nay em đi tiểu ra nước sẫm màu, đi tiểu có hơi rát. Bạn em bảo là nhiễm trùng, bác sĩ kê cho em ít thuốc kháng sinh uống cho nhanh khỏi.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "122/76",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Nước tiểu sẫm màu 2 ngày, đi tiểu hơi rát. Muốn bác sĩ cho kháng sinh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Nước tiểu màu vàng cam sẫm, không đỏ, không hồng, không có cục. Chưa bao giờ thấy nước tiểu đỏ. Hôm nay đi 3 lần, lần sau nhạt hơn lần sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Màu nước tiểu: đái máu đại thể hay không"
+    },
+    {
+     "id": "rat",
+     "noi_dung": "Rát nhẹ ở cuối bãi tiểu, 2 ngày nay. Không tiểu dắt, không tiểu khó, tia tiểu bình thường, không đau trên xương mu, không sốt, không đau quặn hay đau hông lưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiết niệu, đau quặn thận"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Hai ngày liền hàn ngoài trời trên giàn giáo, nắng khoảng 37 °C, làm 10–12 giờ/ngày, mặc đồ bảo hộ kín. Uống chừng 1 lít nước/ngày vì ngại leo xuống đi tiểu, uống thêm 2 lon nước tăng lực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mất nước sau phơi nắng lâu"
+    },
+    {
+     "id": "co",
+     "noi_dung": "Không đau cơ, không yếu cơ, nước tiểu không màu nước cola. Không chạy hay tập nặng ngoài công việc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại myoglobin niệu"
+    },
+    {
+     "id": "ts_niem",
+     "noi_dung": "Chưa từng đái máu, sỏi, nhiễm trùng tiểu, chấn thương hay thủ thuật đường tiểu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tiết niệu"
+    },
+    {
+     "id": "thuoc_la",
+     "noi_dung": "Hút 5 điếu/ngày được 6 năm (khoảng 1,5 gói-năm). Rượu bia cuối tuần 2–3 lon.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hút thuốc (yếu tố nguy cơ ung thư tiết niệu)"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Hàn que và hàn MIG thép carbon. Không tiếp xúc benzen, thuốc nhuộm, cao su, hóa dầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phơi nhiễm nghề nghiệp"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Gia đình không ai bệnh thận, điếc, sỏi, thận đa nang hay ung thư.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình"
+    },
+    {
+     "id": "nhiem_trung",
+     "noi_dung": "Hai tháng nay không đau họng, không nhiễm trùng da. Không phù mặt, không phù chân, không tăng cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc viêm cầu thận sau nhiễm trùng"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Không dùng thuốc nào, không thuốc giảm đau, không kháng sinh, không rifampicin. Bạn gái uống thuốc tránh thai hằng ngày, anh không dùng thuốc gì. Chưa mua kháng sinh uống.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Một bạn gái, không dùng bao cao su. Không tiết dịch niệu đạo, không loét. Bạn gái không triệu chứng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nguy cơ bệnh lây qua đường tình dục"
+    },
+    {
+     "id": "thuc_pham",
+     "noi_dung": "Không ăn củ dền, thanh long ruột đỏ. Không uống thuốc nhuộm nước tiểu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nước tiểu đỏ do thức ăn"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Công trình chạy tiến độ, tổ trưởng không cho nghỉ nếu không có giấy. Em làm 12 giờ/ngày, mệt rã, muốn có giấy bác sĩ xin nghỉ 3–4 ngày mà không bị trừ công. Nghĩ có bệnh thì dễ xin nghỉ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi công việc dạo này thế nào, hỏi vì sao anh muốn kháng sinh, hoặc hỏi anh có cần giấy tờ gì không.",
+     "k": 1,
+     "y": "Động cơ thật: xin nghỉ việc"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, môi hơi khô, niêm mạc hồng, da rám nắng. Không phù mặt, không vàng da.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu mới: vàng cam sẫm, trong, không đỏ, không hồng, không cục máu.",
+     "k": 1,
+     "hien": "Vàng cam sẫm, trong."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau khi gõ, không sờ thấy thận. Cầu bàng quang âm tính, ấn trên xương mu không đau.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù mắt cá hai chân.",
+     "k": 1
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối, gan lách không to.",
+     "k": 0
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Miệng sáo bình thường, vắt niệu đạo không tiết dịch.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Bìu, tinh hoàn, mào tinh không đau, không sưng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "e",
+     "r": "Que nhúng hồng cầu 2+, bạch cầu esterase và nitrit âm tính, protein vết, tỷ trọng cao. Soi cặn: 8 hồng cầu/QTLC, hồng cầu đa số đồng dạng, không trụ hồng cầu, 1–2 bạch cầu/QTLC, không vi khuẩn.",
+     "bang": {
+      "u_sg": 1.032,
+      "u_ph": 5.5,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Vết (0,15)",
+      "u_ery": "2+ (50)"
+     },
+     "ab": 1,
+     "n": "Hồng cầu 3–10/QTLC thuộc nhóm nguy cơ thấp (AUA/SUFU 2025, Bảng 4). Hồng cầu đồng dạng, không trụ: không gợi ý nguồn cầu thận (KDIGO 2021, mục 1.3). Bạch cầu, nitrit âm: không đủ tiêu chuẩn nhiễm khuẩn (QĐ 3931/2015, Viêm bàng quang cấp mục 2.1.1). Tỷ trọng cao phù hợp mất nước."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Hồng cầu 2+, bạch cầu esterase âm tính, nitrit âm tính, protein vết.",
+     "ab": 1,
+     "n": "Que nhúng ≥ 1+ là đủ để đánh giá tiếp (QĐ 2388/2024, mục 3.2.2); AUA/SUFU 2025 (phát biểu 2) yêu cầu soi cặn xác nhận."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 8,1 · Creatinin 96 µmol/L · eGFR 96 mL/ph/1,73m²",
+     "bang": {
+      "ure": 8.1,
+      "creat": 96,
+      "egfr": 96
+     },
+     "ab": 1,
+     "n": "Bắt buộc khi đánh giá đái máu vi thể (AUA/SUFU 2025, phát biểu 3: khám, đo huyết áp, creatinin). Ure hơi cao, creatinin bình thường: mất nước nhẹ."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "UACR 18 mg/g (dưới 30 mg/g)",
+     "n": "Sàng lọc tổn thương thận khi đái máu (QĐ 2388/2024, mục 3.2.2). Nước tiểu cô đặc, vừa mất nước nên có thể tăng giả (KDIGO 2024, Bảng 16)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 152 g/L · BC 7,8 G/L · TC 245 G/L",
+     "bang": {
+      "wbc": 7.8,
+      "hgb": 152,
+      "plt": 245
+     }
+    },
+    "cay_nuoc_tieu": {
+     "v": "u",
+     "r": "Cấy giữa dòng sau 48 giờ: không mọc vi khuẩn.",
+     "n": "Thực tế kết quả có sau 48 giờ, không cần chờ vì không có hội chứng bàng quang kèm bạch cầu, nitrit. QĐ 3931/2015 (mục 2.1.1) chỉ cấy khi điều trị thông thường không đáp ứng hoặc tái phát; cấy ở đây là tùy chọn vì có rát và đái máu."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Hai thận kích thước bình thường, đồng nhất, không ứ nước, không sỏi, không khối.",
+     "n": "Không bắt buộc ở nhóm nguy cơ thấp (AUA/SUFU 2025, phát biểu 10); QĐ 3931/2015 (Đái máu mục 2) liệt kê siêu âm là thăm dò theo lâm sàng. EAU 2026 mục 3.3.1: siêu âm là hình ảnh đầu tay khi nghi sỏi. Làm hay không đều chấp nhận."
+    },
+    "sa_tlt": {
+     "v": "a",
+     "r": "Bàng quang thành mỏng, không khối, không sỏi, tồn lưu sau tiểu dưới 20 mL. Tiền liệt bình thường.",
+     "n": "Đi kèm siêu âm thận."
+    },
+    "naat_sti": {
+     "v": "a",
+     "r": "NAAT nước tiểu đầu dòng: Chlamydia và lậu cầu âm tính.",
+     "n": "Rát khi tiểu ở nam có quan hệ không bao cao su: làm cũng chấp nhận được. Không có tài liệu đã tải đặt thành bắt buộc trong ca đái máu."
+    },
+    "ct_bung": {
+     "n": "Không chỉ định: nguy cơ thấp không cần hình ảnh ngay (AUA/SUFU 2025, phát biểu 10); CT niệu dành cho nhóm nguy cơ cao (phát biểu 15)."
+    },
+    "soi_bang_quang": {
+     "n": "Không chỉ định ngay: soi bàng quang cho nhóm trung bình và cao (AUA/SUFU 2025, phát biểu 12, 15). Chỉ xét lại nếu đái máu dai dẳng khi thử lại."
+    },
+    "psa": {
+     "n": "27 tuổi, không triệu chứng tuyến tiền liệt: không có chỉ định."
+    },
+    "ck": {
+     "n": "Không đau cơ, nước tiểu soi có hồng cầu: không phải myoglobin niệu (QĐ 3931/2015, Đái máu mục 2b)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái máu vi thể nguy cơ thấp (AUA/SUFU 2025), chưa rõ nguyên nhân, có yếu tố thuận lợi là mất nước sau phơi nắng; chưa có bằng chứng nhiễm khuẩn, sỏi, ung thư hay bệnh cầu thận",
+     "ok": 1,
+     "n": "8 hồng cầu/QTLC, 27 tuổi, 1,5 gói-năm, không phơi nhiễm hóa chất: đủ cả ba tiêu chí nguy cơ thấp (Bảng 3, 4). Nguyên nhân cụ thể: không có trong tài liệu đã tải (không tài liệu nào đã tải nêu đái máu do phơi nắng); chỉ ghi là yếu tố thuận lợi, chưa chứng minh."
+    },
+    {
+     "t": "Nhiễm khuẩn tiết niệu / viêm bàng quang cấp",
+     "n": "Rát nhẹ nhưng bạch cầu esterase, nitrit âm, soi không bạch cầu, cấy âm tính. Viêm bàng quang cấp cần hội chứng bàng quang kèm bạch cầu niệu, nitrit (QĐ 3931/2015, mục 2.1.1; mô tả ở phụ nữ, nam không có trong tài liệu đã tải). Chẩn đoán nhiễm khuẩn phải có bằng chứng (AUA/SUFU 2025, phát biểu 7)."
+    },
+    {
+     "t": "Ung thư bàng quang",
+     "n": "Nguy cơ thấp (27 tuổi, không phơi nhiễm benzen hay amin thơm, 1,5 gói-năm), siêu âm bàng quang không khối: không soi bàng quang ngay (AUA/SUFU 2025, Bảng 3, 4, phát biểu 10). Sẽ xếp lại nếu hồng cầu còn khi thử lại (phát biểu 11)."
+    },
+    {
+     "t": "Sỏi tiết niệu",
+     "n": "Không đau quặn, không đau hông lưng, siêu âm không sỏi, không ứ nước (EAU 2026 mục 3.3.1: siêu âm là đầu tay). Sỏi cũng là nguyên nhân đái máu (QĐ 3931/2015, Đái máu mục 2c)."
+    },
+    {
+     "t": "Viêm cầu thận / bệnh thận IgA",
+     "n": "Không phù, HA 122/76, creatinin 96 µmol/L, UACR 18 mg/g, hồng cầu đồng dạng, không trụ; không viêm họng, da trước đó (QĐ 2388/2024, bài viêm cầu thận sau nhiễm trùng mục 3.1, 4.2; KDIGO 2021, mục 1.3)."
+    },
+    {
+     "t": "Myoglobin niệu hoặc nước tiểu đỏ không do hồng cầu",
+     "n": "Soi cặn có hồng cầu thật, không đau cơ, không ăn thức ăn nhuộm màu (QĐ 3931/2015, Đái máu mục 2b)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích kết quả: có ít hồng cầu trong nước tiểu, chưa thấy dấu nhiễm khuẩn, thận bình thường; phần lớn không nguy hiểm nhưng phải thử lại nước tiểu để chắc",
+     "v": "c",
+     "n": "Nguy cơ thấp: thử lại thay vì đánh giá ngay (AUA/SUFU 2025, phát biểu 10). Nội dung giải thích do người biên soạn, không có trong tài liệu."
+    },
+    {
+     "t": "Xác nhận đái máu bằng que nhúng hoặc soi cặn: ở ca này làm tổng phân tích nước tiểu kèm soi cặn",
+     "v": "c",
+     "n": "Cách A: que nhúng ≥ 1+ đã cần đánh giá tiếp, không cần soi để khẳng định (QĐ 2388/2024, mục 3.2.2). Cách B: que nhúng dương tính phải xác nhận bằng soi cặn, định nghĩa ≥ 3 hồng cầu/QTLC (AUA/SUFU 2025, phát biểu 1, 2; KDIGO 2021, mục 1.3). Khác nhau vì QĐ 2388 viết cho sàng lọc bệnh thận mạn, AUA đánh giá nguy cơ ung thư tiết niệu, KDIGO 2021 tìm hồng cầu biến dạng, trụ (sổ mâu thuẫn, TQ-0073)."
+    },
+    {
+     "t": "Không kê kháng sinh; giải thích vì sao và hứa gọi nếu cấy dương tính, hướng dẫn quay lại nếu rát tăng, sốt",
+     "v": "c",
+     "n": "Không có hội chứng bàng quang kèm bạch cầu esterase, nitrit (QĐ 3931/2015, Viêm bàng quang cấp mục 2.1.1). Kháng sinh khi chưa có bằng chứng gây hại: tác dụng phụ, C. difficile, kháng thuốc (AUA/CUA/SUFU rUTI 2025, tr. 7, viết cho phụ nữ nhiễm khuẩn tiết niệu tái phát); chẩn đoán nhiễm khuẩn cần bằng chứng (AUA/SUFU 2025, phát biểu 7). Lời thoại gợi ý: 'Nước tiểu anh chưa có dấu hiệu nhiễm trùng, uống kháng sinh bây giờ không giúp mà còn có hại. Anh uống đủ nước, tôi có kết quả cấy sẽ báo.'"
+    },
+    {
+     "t": "Cho uống đủ nước 2,5–3 lít/ngày, mang chai nước lên giàn giáo, nghỉ ở chỗ mát và đi tiểu theo giờ",
+     "v": "c",
+     "n": "EAU 2026, Bảng 4.5: uống 2,5–3,0 lít/ngày (khuyến cáo phòng sỏi, dùng làm tham chiếu); QĐ 3931/2015, Viêm bàng quang mục 2.1.2: nước tiểu > 1,5 lít/24 giờ, không nhịn tiểu quá 6 giờ (viết cho phụ nữ). Không có khuyến cáo riêng cho thợ hàn phơi nắng trong tài liệu đã tải."
+    },
+    {
+     "t": "Xếp nguy cơ thấp (tuổi, gói-năm, mức hồng cầu, không phơi nhiễm hóa chất); chưa soi bàng quang, chưa CT",
+     "v": "c",
+     "n": "AUA/SUFU 2025: Bảng 3, 4 (dưới 40 tuổi, dưới 10 gói-năm, 3–10 hồng cầu/QTLC); phát biểu 9 (phân tầng), 10 (thử lại nước tiểu thay vì soi bàng quang hay hình ảnh)."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tuần: thử lại nước tiểu có soi cặn, đo lại huyết áp; sớm hơn nếu có dấu cờ đỏ",
+     "v": "c",
+     "n": "Thử lại sau khi nguyên nhân lành tính hết, ít nhất 3 tuần, không quá 3 tháng (AUA/SUFU 2025, phát biểu 6 và thảo luận tr. 16). Mốc 3 tuần là lựa chọn của ca, nằm trong khoảng đó."
+    },
+    {
+     "t": "Dặn quay lại ngay nếu nước tiểu đỏ hoặc hồng, có cục máu, đau quặn hông lưng, sốt rét run, phù, tiểu ít",
+     "v": "c",
+     "n": "Đái máu đại thể từng có thì xếp nguy cơ cao (AUA/SUFU 2025, tr. 21); đau quặn thận, sốt là triệu chứng cần đánh giá (QĐ 3931/2015, Đái máu mục 2a); phù, thiểu niệu, tăng huyết áp là biểu hiện viêm cầu thận (QĐ 2388/2024, bài viêm cầu thận sau nhiễm trùng, mục 3.1)."
+    },
+    {
+     "t": "Hỏi thẳng nhu cầu xin nghỉ; giải thích nghỉ việc không phải thuốc chữa đái máu; đề nghị với tổ trưởng cho nghỉ giữa ca nơi mát, hoặc cấp giấy nghỉ 1–2 ngày vì mất nước, mệt nếu bác sĩ thấy cần",
+     "v": "c",
+     "n": "Giấy nghỉ ốm: TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm, chưa đối chiếu bản hiện hành, ghi theo sổ mâu thuẫn). Thời gian nghỉ cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm siêu âm thận – bàng quang hôm nay",
+     "v": "a",
+     "n": "Chấp nhận (QĐ 3931/2015, Đái máu mục 2; EAU 2026 mục 3.3.1) nhưng không bắt buộc ở nguy cơ thấp (AUA/SUFU 2025, phát biểu 10)."
+    },
+    {
+     "t": "Xét nghiệm NAAT Chlamydia, lậu trong nước tiểu",
+     "v": "a",
+     "n": "Rát nhẹ, quan hệ không bao cao su: chấp nhận được, không bắt buộc."
+    },
+    {
+     "t": "Cho thuốc cầm máu (tranexamic) uống",
+     "v": "a",
+     "n": "QĐ 3931/2015, Đái máu mục 3 nêu Transamin cho đái máu có triệu chứng; đái máu vi thể nguy cơ thấp không cần. Chỉ định cho đái máu vi thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê kháng sinh (levofloxacin hoặc ciprofloxacin) vì anh yêu cầu và còn rát",
+     "v": "w",
+     "n": "Không có chẩn đoán nhiễm khuẩn (bạch cầu esterase, nitrit âm; cấy âm). Kháng sinh không chỉ định gây hại: tác dụng phụ, C. difficile, kháng thuốc; fluoroquinolone không đầu tay vì kháng thuốc, kéo dài QTc, đứt gân (AUA/CUA/SUFU rUTI 2025, tr. 7); QĐ 3931/2015 mục 2.1.2: fluoroquinolone không phải lựa chọn đầu tay."
+    },
+    {
+     "t": "Viết giấy nghỉ 3–4 ngày ghi 'viêm đường tiết niệu' để anh xin nghỉ",
+     "v": "w",
+     "n": "Ghi chẩn đoán không có thật vào giấy nghỉ ốm là không trung thực, trái TT 56/2017/TT-BYT Điều 3 (nguồn bổ sung tự tìm, chưa đối chiếu)."
+    },
+    {
+     "t": "Chuyển ngay soi bàng quang và CT niệu cản quang",
+     "v": "a",
+     "n": "Không cần ở nguy cơ thấp; dành cho nhóm trung bình, cao (AUA/SUFU 2025, phát biểu 12, 15)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái máu vi thể nguy cơ thấp, chưa rõ nguyên nhân (8 hồng cầu/QTLC)",
+     "Yếu tố thuận lợi: mất nước sau 2 ngày hàn dưới nắng (chưa chứng minh)",
+     "Đã loại trừ nhiễm khuẩn tiết niệu (bạch cầu, nitrit âm, cấy âm), sỏi và ứ nước (siêu âm), nguồn cầu thận (hồng cầu đồng dạng, creatinin, UACR, huyết áp bình thường)",
+     "Chưa có chỉ định soi bàng quang hay CT",
+     "Động cơ thật: xin giấy nghỉ việc"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi màu nước tiểu (không đỏ, không cục: không đái máu đại thể) → hỏi triệu chứng tiết niệu, đau quặn → hỏi hút thuốc, hóa chất, tiền sử, gia đình, nhiễm trùng gần đây, thuốc → khám nước tiểu mẫu, hố thắt lưng, cầu bàng quang, phù → xét nghiệm nước tiểu có soi cặn, creatinin, UACR, cấy.",
+     "Đái máu vi thể: ≥ 3 hồng cầu/QTLC trên soi một mẫu đúng cách; que nhúng dương tính phải soi xác nhận (AUA/SUFU 2025, phát biểu 1, 2); QĐ 2388/2024 mục 3.2.2 cho que nhúng ≥ 1+ là cần đánh giá tiếp; QĐ 3931/2015 nêu ngưỡng > 10.000 hồng cầu/mL.",
+     "Nguy cơ thấp cần đủ ba tiêu chí: 3–10 hồng cầu/QTLC, dưới 40 tuổi, không hút hoặc dưới 10 gói-năm, và không có yếu tố nguy cơ khác (Bảng 3, 4). Anh Huy 8 hồng cầu, 27 tuổi, 1,5 gói-năm, không tiếp xúc benzen hay amin thơm.",
+     "Không có hội chứng bàng quang kèm bạch cầu niệu, nitrit nên không phải viêm bàng quang (QĐ 3931/2015, mục 2.1.1). Cùng tài liệu: viêm bàng quang gặp ở nữ gấp 9 lần nam; hướng dẫn ở nam không có trong tài liệu đã tải.",
+     "Hồng cầu đồng dạng, không trụ, không phù, HA bình thường, UACR dưới 30: không gợi ý cầu thận; hồng cầu biến dạng, trụ hồng cầu, protein niệu, suy thận gợi ý bệnh thận nội khoa (KDIGO 2021, mục 1.3; AUA/SUFU 2025, phát biểu 8). Hồng cầu > 20/QTLC kéo dài không giải thích được là mốc chuyển thận học (KDIGO 2024, Hình 48).",
+     "Phát hiện thuốc đang dùng: anh không dùng thuốc gì, bạn gái dùng thuốc tránh thai không liên quan đái máu."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh: không đủ tiêu chuẩn nhiễm khuẩn (QĐ 3931/2015, mục 2.1.1; AUA/SUFU 2025, phát biểu 7); đòi kháng sinh vì sợ bệnh và muốn nghỉ việc: xử trí bằng giải thích và đáp ứng nhu cầu thật.",
+     "Uống đủ nước, mang nước lên công trường (EAU 2026, Bảng 4.5: 2,5–3,0 lít/ngày; QĐ 3931/2015, mục 2.1.2: nước tiểu > 1,5 lít/24 giờ).",
+     "Hẹn 3 tuần thử lại nước tiểu có soi cặn (AUA/SUFU 2025, phát biểu 6, tr. 16). Nếu còn hồng cầu: nguy cơ thấp thử lại trong vòng 6 tháng, vẫn còn thì nâng nhóm trung bình, soi bàng quang và siêu âm thận (phát biểu 10–12).",
+     "Giấy nghỉ: chỉ cấp khi có lý do y khoa thật, ghi đúng chẩn đoán (TT 56/2017, nguồn bổ sung tự tìm).",
+     "Những việc sai: kháng sinh không chỉ định, giấy nghỉ ghi bệnh không có thật; quá tay: CT, soi bàng quang, nhập viện."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc (không kháng sinh, không cầm máu)",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Không có chỉ định thuốc: QĐ 3931/2015 mục 2.1.1; AUA/SUFU 2025, phát biểu 7, 10."
+     }
+    ],
+    "dan_do": [
+     "Uống 2,5–3 lít nước/ngày (EAU 2026, Bảng 4.5), mang chai nước lên giàn giáo, nghỉ ở chỗ mát, đừng nhịn tiểu quá 6 giờ (QĐ 3931/2015, mục 2.1.2).",
+     "Tái khám sau 3 tuần để thử lại nước tiểu (AUA/SUFU 2025, phát biểu 6); mang theo kết quả cấy.",
+     "Quay lại ngay nếu nước tiểu đỏ, có cục máu, đau quặn hông lưng, sốt rét run, phù, tiểu ít (QĐ 3931/2015; QĐ 2388/2024).",
+     "Đừng tự mua kháng sinh: không giúp và có hại (AUA/CUA/SUFU rUTI 2025, tr. 7)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 tuần",
+   "tiep_don": "Anh Huy tái khám sau 3 tuần như hẹn. Anh đã uống nước nhiều hơn, nước tiểu hết sẫm màu và hết rát từ ngày thứ 4. Anh mang kết quả cấy: không mọc vi khuẩn. Sinh hiệu: HA 118/74 mmHg, mạch 72 l/p, nhiệt độ 36,7 °C, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Huy hết triệu chứng, huyết áp bình thường, creatinin 88 µmol/L, UACR bình thường, nhưng còn 4 hồng cầu/QTLC: vẫn nguy cơ thấp nên chỉ thử lại nước tiểu trong 6 tháng, chưa soi bàng quang hay CT (AUA/SUFU 2025, Bảng 4, phát biểu 10). Chuyển tiết niệu soi bàng quang ngay khiến anh nghỉ thêm ngày công, chịu thủ thuật xâm lấn không cần, và dễ tin mình bị bệnh nặng dù chưa có dấu hiệu nào.",
+    "nhap_vien": "Nhập viện làm toàn bộ thăm dò vì còn hồng cầu trong nước tiểu là quá tay: anh khỏe, ổn định, không đái máu đại thể, không protein niệu (QĐ 2388/2024, mục 3.2.2: đái máu vi thể dai dẳng không protein chỉ cần theo dõi hồng cầu, protein, MLCT và huyết áp). Anh mất thêm thu nhập, công trình thiếu người hàn, và không có thêm thông tin nào làm đổi quyết định."
+   },
+   "loi_mo": "Chào bác sĩ. Em đỡ nhiều rồi, hết rát, nước tiểu vàng nhạt lại. Nhưng tờ phiếu ghi vẫn còn hồng cầu, vậy em có phải uống kháng sinh không?",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "118/74",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Nước tiểu vàng nhạt từ ngày thứ 4, hết rát. Không đỏ, không hồng, chưa có cục máu. Uống 2–2,5 lít/ngày, mang chai nước lên giàn giáo.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 3 tuần, không đái máu đại thể"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Không đau hông lưng, không sốt, không phù, không tiểu ít, không tiểu dắt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Không uống kháng sinh hay thuốc nào, kể cả thuốc người khác cho. Còn uống 1 lon nước tăng lực mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc, kháng sinh tự mua"
+    },
+    {
+     "id": "cong_viec",
+     "noi_dung": "Công trình dịu hơn, tổ trưởng cho hàn buổi sáng sớm và chiều muộn nên đỡ nắng. Anh không còn xin giấy nghỉ, chỉ muốn yên tâm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện lao động đã đổi"
+    },
+    {
+     "id": "lo_lang",
+     "noi_dung": "Anh sợ 'còn máu trong nước tiểu là còn nhiễm trùng', nghe bạn nói thế nên xin kháng sinh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao anh nghĩ phải uống kháng sinh hoặc anh lo điều gì nhất.",
+     "k": 1,
+     "y": "Nỗi lo thật"
+    },
+    {
+     "id": "hut_thuoc",
+     "noi_dung": "Vẫn hút 5 điếu/ngày, chưa bỏ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hút thuốc"
+    }
+   ],
+   "kham": {
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu mới: vàng nhạt, trong.",
+     "k": 1,
+     "hien": "Vàng nhạt, trong."
+    },
+    "toan_than": {
+     "a": "Tỉnh, môi ẩm, niêm hồng, không phù.",
+     "k": 1
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng không đau, cầu bàng quang âm tính.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù chân.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "e",
+     "r": "Que nhúng hồng cầu 1+, bạch cầu esterase, nitrit, protein âm tính, tỷ trọng 1,015. Soi cặn: 4 hồng cầu/QTLC đồng dạng, không trụ, không bạch cầu.",
+     "bang": {
+      "u_sg": 1.015,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_ery": "1+ (25)"
+     },
+     "ab": 1,
+     "n": "Còn hồng cầu sau khi mất nước và nghi nhiễm trùng đã hết: đái máu vi thể dai dẳng nhẹ, vẫn 3–10 hồng cầu/QTLC thuộc nhóm nguy cơ thấp (AUA/SUFU 2025, phát biểu 6, Bảng 4). Dương tính 2 trong 3 lần thử: đái máu vi thể, không phải thoáng qua (QĐ 2388/2024, mục 3.2.2)."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Hồng cầu 1+, bạch cầu esterase và nitrit âm tính, protein âm tính.",
+     "ab": 1
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,9 · Creatinin 88 µmol/L · eGFR 106 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.9,
+      "creat": 88,
+      "egfr": 106
+     },
+     "n": "Đái máu vi thể dai dẳng: theo dõi MLCT hằng năm (QĐ 2388/2024, mục 3.2.2). Creatinin hết cô đặc."
+    },
+    "uacr": {
+     "v": "e",
+     "r": "UACR 9 mg/g",
+     "n": "Đái máu dai dẳng cần xét nghiệm protein, albumin niệu (QĐ 2388/2024, mục 3.2.2). Dưới 30 mg/g: không albumin niệu; KDIGO 2024, điểm thực hành 1.1.1.2: lặp lại xét nghiệm để xác nhận."
+    },
+    "abdus": {
+     "n": "Đã bình thường ở lượt 1, không triệu chứng mới: không lặp lại."
+    },
+    "cay_nuoc_tieu": {
+     "n": "Đã có kết quả âm tính, không triệu chứng: không cần cấy lại."
+    },
+    "soi_bang_quang": {
+     "n": "Chưa chỉ định: nguy cơ thấp thử lại trong vòng 6 tháng (AUA/SUFU 2025, phát biểu 10); soi bàng quang nếu còn hồng cầu khi thử lại (phát biểu 11–12)."
+    },
+    "ct_bung": {
+     "n": "Không chỉ định: CT dành cho nhóm cao (AUA/SUFU 2025, phát biểu 15)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái máu vi thể nguy cơ thấp, dai dẳng nhẹ sau 3 tuần, chưa rõ nguyên nhân; không có nhiễm khuẩn, không protein niệu, chức năng thận bình thường; đỡ một phần",
+     "ok": 1,
+     "n": "Triệu chứng hết nhưng còn 4 hồng cầu/QTLC đồng dạng: còn đái máu vi thể, vẫn đủ ba tiêu chí nguy cơ thấp (AUA/SUFU 2025, Bảng 4). Hồi phục chậm hơn dự kiến không đồng nghĩa với thất bại điều trị, vì không có điều trị đặc hiệu nào. Nguyên nhân: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm khuẩn tiết niệu còn tồn tại",
+     "n": "Cấy âm tính, bạch cầu esterase, nitrit âm, không bạch cầu, hết rát (QĐ 3931/2015, mục 2.1.1)."
+    },
+    {
+     "t": "Bệnh cầu thận (IgA, Alport, màng đáy mỏng)",
+     "n": "Huyết áp 118/74, không protein niệu, UACR 9 mg/g, creatinin bình thường, hồng cầu đồng dạng, không tiền sử gia đình, không điếc (QĐ 2388/2024, bài viêm cầu thận sau nhiễm trùng mục 4.2). Đái máu đơn độc không loại trừ hẳn: cần theo dõi."
+    },
+    {
+     "t": "Ung thư tiết niệu / sỏi",
+     "n": "Nguy cơ thấp, siêu âm lượt 1 bình thường; sẽ nâng nhóm nếu còn hồng cầu khi thử lại (AUA/SUFU 2025, phát biểu 11)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: hết rát là nhờ uống đủ nước, không cần kháng sinh; còn ít hồng cầu không phải vì còn nhiễm trùng, cần thử lại; không có kháng sinh nào 'thất bại' ở đây",
+     "v": "c",
+     "n": "Không có bằng chứng nhiễm khuẩn (QĐ 3931/2015, mục 2.1.1; AUA/SUFU 2025, phát biểu 7). Lời thoại gợi ý: 'Nhiễm trùng thì phải có bạch cầu, nitrit và vi khuẩn; của anh không có. Hồng cầu còn lại chậm hết, tôi theo dõi tiếp.'"
+    },
+    {
+     "t": "Xếp lại nguy cơ thấp; chưa soi bàng quang, chưa CT; hẹn thử lại nước tiểu có soi cặn sau 3 tháng (trong vòng 6 tháng); nếu còn hồng cầu thì nâng nhóm trung bình, soi bàng quang và siêu âm thận",
+     "v": "c",
+     "n": "AUA/SUFU 2025: Bảng 4; phát biểu 10 (thử lại trong vòng 6 tháng), 11 (còn đái máu thì xếp lại trung bình hoặc cao), 12 (soi bàng quang và siêu âm thận). Mốc 3 tháng: lựa chọn của ca, nằm trong khoảng 6 tháng. QĐ 2388/2024, mục 3.2.2 nói thăm dò ác tính ở 'độ tuổi phù hợp' mà không nêu tuổi: không mâu thuẫn, dùng bảng nguy cơ của AUA."
+    },
+    {
+     "t": "Xét nghiệm creatinin, UACR, đo huyết áp; dặn theo dõi huyết áp, protein, creatinin, hồng cầu niệu hằng năm nếu còn đái máu",
+     "v": "c",
+     "n": "QĐ 2388/2024, mục 3.2.2: đái máu vi thể dai dẳng không protein cần xét nghiệm hồng cầu, protein hoặc albumin niệu, MLCT, theo dõi HA hằng năm; AUA/SUFU 2025, phát biểu 3, 8 (chuyển thận học nếu nghi bệnh thận nội khoa)."
+    },
+    {
+     "t": "Dặn tiếp tục uống đủ nước, bỏ hút thuốc, và quay lại ngay nếu nước tiểu đỏ, có cục máu, đau hông lưng, sốt, phù",
+     "v": "c",
+     "n": "Bỏ hút thuốc: không có trong tài liệu đã tải cho ca này (hút thuốc là yếu tố nguy cơ trong AUA/SUFU 2025, Bảng 3). Nước uống: EAU 2026, Bảng 4.5 (tham chiếu). Từng đái máu đại thể thì nâng nhóm cao (AUA/SUFU 2025, tr. 21)."
+    },
+    {
+     "t": "Không cần giấy nghỉ; hỏi lại điều kiện làm việc và nhắc uống nước khi nắng",
+     "v": "c",
+     "n": "Không còn triệu chứng; giấy nghỉ chỉ khi có lý do y khoa (TT 56/2017, nguồn bổ sung tự tìm, chưa đối chiếu)."
+    },
+    {
+     "t": "Chuyển tiết niệu soi bàng quang sớm vì còn hồng cầu",
+     "v": "a",
+     "n": "Không bắt buộc ở nguy cơ thấp (AUA/SUFU 2025, phát biểu 10); QĐ 2388/2024, mục 3.2.2 cho thăm dò ác tính ở tuổi phù hợp."
+    },
+    {
+     "t": "Lặp lại siêu âm thận – bàng quang hôm nay",
+     "v": "a",
+     "n": "Đã bình thường lượt 1; không có chỉ định mới."
+    },
+    {
+     "t": "Cho kháng sinh 'cho sạch hồng cầu'",
+     "v": "w",
+     "n": "Cấy âm tính, không bạch cầu, nitrit âm: không nhiễm khuẩn. Kháng sinh không chỉ định gây hại (AUA/CUA/SUFU rUTI 2025, tr. 7)."
+    },
+    {
+     "t": "Chuyển thận học hoặc sinh thiết thận",
+     "v": "w",
+     "n": "Chưa đủ mốc: không protein niệu, hồng cầu dưới 20/QTLC, không trụ hồng cầu, creatinin bình thường (KDIGO 2024, Hình 48; AUA/SUFU 2025, phát biểu 8)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái máu vi thể nguy cơ thấp, dai dẳng nhẹ (4 hồng cầu/QTLC), chưa rõ nguyên nhân",
+     "Đã hết rát, nước tiểu hết sẫm; cấy âm tính",
+     "Huyết áp, creatinin, UACR bình thường: không dấu hiệu bệnh cầu thận",
+     "Tiếp tục xếp nguy cơ thấp: thử lại nước tiểu, chưa soi bàng quang"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi diễn tiến, màu nước tiểu, cờ đỏ, thuốc → khám nước tiểu mẫu, phù → nước tiểu soi cặn, creatinin, UACR → xếp nguy cơ → xử trí.",
+     "Còn đái máu vi thể sau khi nguyên nhân lành tính (mất nước, nghi nhiễm trùng) đã qua: xét nguy cơ theo bảng (AUA/SUFU 2025, phát biểu 6, Bảng 4); anh vẫn dưới 40 tuổi, hồng cầu 3–10/QTLC, 1,5 gói-năm: nguy cơ thấp.",
+     "Đái máu vi thể dai dẳng (dương tính ≥ 2/3 lần) không protein: xét nghiệm MLCT, albumin niệu, theo dõi huyết áp hằng năm (QĐ 2388/2024, mục 3.2.2).",
+     "Hồi phục chậm: nước tiểu hết sẫm sau 4 ngày nhưng hồng cầu còn sau 3 tuần; AUA/SUFU 2025 nêu thử lại trong 6 tháng, không đưa mốc hồi phục. Mốc 'khi nào đáng lo': đái máu đại thể, đau, sốt, phù, protein niệu, hoặc vẫn còn hồng cầu khi thử lại."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kháng sinh: không có bằng chứng nhiễm khuẩn (QĐ 3931/2015, mục 2.1.1; AUA/SUFU 2025, phát biểu 7); kháng sinh không chỉ định gây hại (AUA/CUA/SUFU rUTI 2025, tr. 7).",
+     "Thử lại nước tiểu có soi cặn sau 3 tháng (AUA/SUFU 2025, phát biểu 10: trong vòng 6 tháng); còn hồng cầu: nâng nhóm trung bình, soi bàng quang và siêu âm thận (phát biểu 11–12).",
+     "Giữ nước đủ, theo dõi huyết áp, creatinin, protein niệu hằng năm nếu còn (QĐ 2388/2024, mục 3.2.2).",
+     "Những việc sai: kháng sinh, chuyển thận học hoặc sinh thiết thận; quá tay: nhập viện, CT."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Không có chỉ định: QĐ 3931/2015 mục 2.1.1; AUA/SUFU 2025, phát biểu 7, 10."
+     }
+    ],
+    "dan_do": [
+     "Uống đủ nước, nghỉ ở chỗ mát khi hàn ngoài trời (EAU 2026, Bảng 4.5).",
+     "Tái khám sau 3 tháng thử lại nước tiểu (AUA/SUFU 2025, phát biểu 10: trong vòng 6 tháng).",
+     "Quay lại ngay nếu nước tiểu đỏ, có cục máu, đau hông lưng, sốt, phù (QĐ 3931/2015; QĐ 2388/2024).",
+     "Bỏ hút thuốc."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ba tháng sau anh Huy quay lại thử nước tiểu: que nhúng âm tính, soi cặn 0–1 hồng cầu/QTLC, creatinin và huyết áp bình thường. Hồng cầu niệu mất sau chừng 8–10 tuần, chậm hơn anh nghĩ vì triệu chứng hết sau 4 ngày. Không tìm thấy nguyên nhân khác; không dùng kháng sinh lần nào. Anh vẫn hút thuốc nhưng đã mang theo chai nước 1,5 lít khi hàn.",
+ "nhieu": [
+  "Đòi kháng sinh: anh nghe bạn nói và muốn khỏi nhanh; xử trí bằng giải thích dựa vào kết quả bạch cầu, nitrit, cấy âm tính của chính anh, không từ chối trống không.",
+  "Rát nhẹ khi tiểu và nước tiểu sẫm: do cô đặc và mất nước, không phải viêm bàng quang; nước tiểu sẫm màu không đồng nghĩa với đái máu đại thể.",
+  "Hút thuốc 1,5 gói-năm và nghề hàn khiến dễ nghĩ ung thư; bảng nguy cơ cho thấy vẫn thấp, chưa soi bàng quang.",
+  "Bạn gái dùng thuốc tránh thai: không liên quan đái máu; chỉ gợi nhắc hỏi tiền sử tình dục."
+ ],
+ "bai_hoc_bien": [
+  "Kháng sinh chỉ dùng khi có bằng chứng nhiễm khuẩn (bạch cầu, nitrit, hội chứng bàng quang). Từ chối nhưng đưa cho người bệnh lý do bằng chính kết quả của họ.",
+  "Nước tiểu sẫm màu: phân biệt đái máu đại thể, nước tiểu cô đặc, myoglobin, thức ăn; soi cặn phân định.",
+  "Đái máu vi thể: xếp nguy cơ trước khi nhờ soi bàng quang hay CT; nguy cơ thấp thì thử lại nước tiểu.",
+  "Còn hồng cầu sau 3 tuần khi đã hết triệu chứng không phải thất bại điều trị: chuyển sang kế hoạch thử lại có mốc và cờ đỏ rõ ràng.",
+  "Hỏi động cơ thật: nhiều người xin thuốc hay giấy nghỉ vì áp lực công việc; đáp ứng đúng nhu cầu mà không ghi bệnh giả."
+ ],
+ "diem_nho": [
+  "Đái máu vi thể: ≥ 3 hồng cầu/QTLC trên soi cặn; nguy cơ thấp khi dưới 40 tuổi, dưới 10 gói-năm, 3–10 hồng cầu, không yếu tố khác (AUA/SUFU 2025, phát biểu 1, Bảng 4).",
+  "Nguy cơ thấp: thử lại nước tiểu trong 6 tháng; còn đái máu thì nâng nhóm (AUA/SUFU 2025, phát biểu 10–11).",
+  "Đái máu đại thể từng có là nhóm nguy cơ cao (AUA/SUFU 2025, tr. 21).",
+  "Đái máu vi thể dai dẳng: MLCT, albumin niệu, huyết áp hằng năm (QĐ 2388/2024, mục 3.2.2).",
+  "Không kê kháng sinh khi không có bằng chứng nhiễm khuẩn (QĐ 3931/2015, mục 2.1.1; AUA/CUA/SUFU rUTI 2025, tr. 7)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2388/QĐ-BYT 2024 – TL-0280 – mục 3.2.2; bài viêm cầu thận sau nhiễm trùng mục 3.1, 4.2.",
+  "BYT – QĐ 3931/QĐ-BYT 2015 – TL-0285 – Đái máu (mục 1–3); Viêm bàng quang cấp (mục 1.1, 2.1.1, 2.1.2).",
+  "KDIGO 2021 Glomerular Diseases – TL-0680 – mục 1.3. KDIGO 2024 CKD – TL-0308 – điểm thực hành 1.1.1.2, Bảng 16, Hình 48.",
+  "EAU Guidelines on Urolithiasis 2026 – TL-0511 – mục 3.3.1, Bảng 4.5.",
+  "AUA/CUA/SUFU Updates to rUTI in Women 2025 – TL-0522 – tr. 7 (tác hại kháng sinh không chỉ định).",
+  "AUA/SUFU Microhematuria Guideline 2025 (Barocas DA, et al. J Urol 2025;213(5):547-557) – nguồn bổ sung tự tìm: https://www.auanet.org/documents/Guidelines/PDF/2025%20Guidelines/MH%20Unabridged%20FINAL.pdf – phát biểu 1–12, 15, Bảng 3, 4 (số phát biểu và trang do công cụ đọc web trích từ bản toàn văn, nên kiểm lại); TL-0520 trong kho thực chất là AUA về nhiễm khuẩn tiết niệu tái phát, không phải vi tiểu máu.",
+  "TT 56/2017/TT-BYT Điều 3 khoản 1, Điều 20 khoản 1 điểm c (giấy nghỉ ốm) – nguồn bổ sung tự tìm, theo sổ mâu thuẫn, chưa đối chiếu bản hiện hành.",
+  "Không có trong tài liệu đã tải: nguyên nhân đái máu do phơi nắng, mất nước; thời gian hồi phục hồng cầu niệu; xử trí nhiễm khuẩn tiết niệu ở nam; thời gian nghỉ."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-14: viết mới. Đã đọc TL-0280 mục 3.2.2, TL-0285 (Đái máu, Viêm bàng quang cấp), TL-0680 mục 1.3, TL-0308 (1.1.1.2, Bảng 16, Hình 48), TL-0511 (3.3.1, Bảng 4.5), TL-0522 tr. 7, AUA/SUFU 2025 (web).",
+  "Biến 'thuốc tránh thai đang dùng' không áp dụng cho nam: chuyển thành bạn gái dùng thuốc, người bệnh không dùng thuốc; đặt làm nhiễu và gợi hỏi tiền sử tình dục.",
+  "Biến 'phơi nắng lâu' hiểu là phơi nắng lâu; để tránh đái máu đại thể (nhóm cao theo AUA), nước tiểu chỉ sẫm màu, đái máu vi thể 8 hồng cầu/QTLC.",
+  "Mốc 3 tuần, 3 tháng: lựa chọn của ca, nằm trong khung AUA/SUFU 2025."
+ ]
+}
