@@ -1,0 +1,504 @@
+{
+ "ma_ca": "TT-0200",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TT_co_the_hoa",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn triệu chứng cơ thể (cơ thể hóa)",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh thực thể bỏ sót"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Buôn bán nhỏ (bán rau và nước chè ở chợ sớm)",
+  "yeu_to_khoi_phat": "Sau đợt không khí lạnh",
+  "thuoc_dang_dung": "Không rõ loại thuốc đang dùng (túi thuốc không nhãn)",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Sửu",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Buôn bán nhỏ: bán rau và nước chè ở góc chợ sớm gần nhà, thường dậy 4 giờ rưỡi, đứng bán đến trưa; cháu gái trông hàng buổi chiều",
+  "can_nang": 49,
+  "chieu_cao": 152,
+  "xung_ho": "Bà tự xưng \"tôi\" hoặc \"bà\" với cháu, gọi bác sĩ là \"bác sĩ\" hoặc \"cô\" (bác sĩ trẻ hơn bà). Bác sĩ gọi bà là \"bà\" hoặc \"bà Sửu\". Cháu Ngân gọi bà là \"bà\", xưng \"cháu\" với bà và \"cháu\" với bác sĩ.",
+  "tinh_cach": "Nhanh nhẹn, nói to, quen buôn bán nên hay cười xòa, \"khổ mấy cũng chịu\". Sợ làm phiền con cháu và sợ tốn tiền. Gạt đi mọi thứ bằng \"không sao đâu, già thì đau mỏi thế\". Chịu nghe khi bác sĩ hỏi chuyện buôn bán và giờ giấc hằng ngày của bà, không thích bị hỏi \"bà thấy thế nào\" kiểu cảm giác.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi \"bà có đau không, có mệt không\" thì bà đáp \"không, hơi mỏi thôi\", \"bình thường\". Hỏi từng triệu chứng cụ thể cũng giảm nhẹ. Chỉ khi bác sĩ hỏi theo chức năng (sáng nay mấy giờ dậy, mấy hôm nay bán được mấy tiếng, đi bộ ra chợ nghỉ mấy lần, ai đang trông hàng) thì bà kể thật; cháu Ngân bổ sung nếu được hỏi riêng một câu. Bà ngại bị cho là \"yếu\", dịu lại khi được ghi nhận việc bà vẫn lo cho gia đình.",
+  "nguoi_nha": "Cháu gái Ngân, 20 tuổi, sinh viên năm hai, ở cùng bà, chở bà đi khám. Sốt ruột, thương bà, hay nói \"bà cứ bảo không sao\". Biết bà nghỉ bán buổi sáng bốn hôm gần đây, ngủ chập chờn, nhưng không biết bà đã đi khám tổng cộng bao nhiêu nơi.",
+  "ten_nguoi_nha": "Cháu Ngân (cháu gái)",
+  "ngoai_hinh": {
+   "da": "#c9a47e",
+   "toc": "#e4e4e4",
+   "kieuToc": "bui",
+   "ao": "#8a6f5a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 5,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#e0b894",
+    "toc": "#1f1713",
+    "kieuToc": "dai",
+    "ao": "#4f7ab3",
+    "aoKieu": "thun",
+    "kinh": true,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Khám sức khỏe tổng quát (bà nói \"hơi mỏi mỏi\", tê tay chân, nặng đầu, hay mệt mỏi)",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Lê Thị Sửu, 79 tuổi, bán rau ở chợ, đi khám cùng cháu gái Ngân. Lý do ghi: khám sức khỏe tổng quát. Sinh hiệu: mạch 76 l/p, HA 138/80 mmHg, nhiệt 36,6 °C, nhịp thở 18 l/p, SpO₂ 97%, cân nặng 49 kg, cao 152 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Sửu 79 tuổi sinh hiệu ổn bị giữ lại \"theo dõi\" vài ngày. Bà mất buổi chợ và tiền nằm viện, cháu Ngân phải nghỉ học trông hàng; bà hiểu nằm viện là bằng chứng \"bệnh nặng chưa tìm ra\", niềm tin vào bệnh thực thể vững hơn. Nằm viện ở tuổi này còn có nguy cơ sảng (NICE CG103 2010, khuyến cáo 1.2.1) và khám xét lặp dễ dẫn đến lo âu, trầm cảm (QĐ 2058/2020 Bài 25 mục 5).",
+    "chuyen_tuyen": "Bà Sửu bị chuyển lên tuyến trên chụp CT, MRI, nội soi, Holter \"cho chắc\". Bà tốn tiền, mất buổi bán, lo lắng của bà không được giải thích. Kết quả (nếu làm) bình thường nhưng bà hiểu là \"máy chưa thấy\" và đi thêm nhiều nơi nữa, như bảy nơi trước (khám xét lặp gây tốn kém, dễ dẫn đến lo âu, trầm cảm; QĐ 2058/2020 Bài 25 mục 5; CDDR 2024 6C20, tr. 432: người bệnh hay đổi cơ sở khám)."
+   },
+   "loi_mo": "Chào cô. Tôi khỏe, không có bệnh gì đâu. Cháu nó cứ bắt đi khám tổng quát cho yên tâm, cô khám cho cháu nó thấy là được. Hơi mỏi mỏi chút thôi, già thì ai chẳng thế.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/80",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà đến khám tổng quát: \"Cháu nó bắt đi cho yên tâm, chứ tôi khỏe, không bệnh gì nặng đâu\". Nếu bị hỏi có khó chịu gì không, bà chỉ nói \"hơi mỏi mỏi thôi\".",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám nêu ra; bà giảm nhẹ triệu chứng"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Từ khoảng ba năm nay lúc nào trong người cũng có vài chuyện, không cố định: đau mỏi vai gáy và lưng, tê rần hai bàn tay và bàn chân, nặng đầu, chóng mặt lâng lâng (không quay cuồng), thỉnh thoảng tim đập mạnh và tức ngực trái vài giây (không liên quan gắng sức), đầy bụng, ợ hơi, ngủ chập chờn. Hầu như ngày nào cũng có vài thứ, tuần này thứ này, tuần sau thứ khác. Bà gọi đó là \"hơi mỏi\" và \"già thì thế\".",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi từng nhóm triệu chứng cụ thể (đầu, ngực, bụng, tay chân, giấc ngủ), hỏi từ bao giờ và có ngày nào hoàn toàn không có không. Hỏi \"có đau không, có mệt không\" thì bà đáp \"không, hơi mỏi\".",
+     "k": 1,
+     "y": "Nhiều triệu chứng cơ thể thay đổi, dai dẳng khoảng 3 năm"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Chín ngày qua bà nghỉ bán buổi sáng bốn hôm (trước đó bà dậy 4 giờ rưỡi ra chợ bảy ngày một tuần), phải để cháu Ngân dọn hàng nửa buổi. Đi bộ ba trăm mét ra chợ bà phải nghỉ hai lần vì mỏi chân. Ba tuần nay bà bỏ buổi họp hội phụ nữ và lễ chùa mùng một. Ngồi một chỗ nghĩ về mấy chỗ đau mỏi khoảng hai ba giờ mỗi ngày, nhất là khi trằn trọc ban đêm.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi theo chức năng: sáng nay mấy giờ dậy, mấy hôm nay bán được mấy tiếng, ai trông hàng, đi bộ ra chợ có phải nghỉ không, bỏ việc gì. Hỏi \"bà thấy mệt không\" thì bà nói không.",
+     "k": 1,
+     "y": "Ảnh hưởng chức năng nghề nghiệp, xã hội mức vừa; bận tâm triệu chứng vài giờ mỗi ngày"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Khoảng 10 ngày trước có đợt không khí lạnh, sáng nào bà cũng ra chợ lúc 4 giờ rưỡi, áo mỏng, đứng bán đến trưa, chân ướt vì xả nước rửa rau. Sau đó đau mỏi vai gáy và tê tay chân nặng hơn, ho khan vài tiếng hai ngày rồi hết, không sốt, không khó thở, không đờm. Triệu chứng nền có từ ba năm trước, \"trở trời là nặng\" như mọi năm.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi vì sao dạo này nặng hơn, hỏi gần đây có gì thay đổi, hỏi thời tiết, hoặc hỏi có sốt ho khó thở không.",
+     "k": 1,
+     "y": "Yếu tố khởi phát: đợt không khí lạnh làm nặng thêm triệu chứng nền, không phải bệnh mới"
+    },
+    {
+     "id": "da_kham",
+     "noi_dung": "Ba năm qua bà đã đi khám khoảng bảy nơi: trạm y tế xã, hai phòng khám tư, bệnh viện huyện hai lần, bệnh viện tỉnh một lần và một thầy châm cứu. Nơi nào cũng bảo \"không có gì nặng, tuổi già\". Bà thấy yên tâm vài tuần rồi lại thấy mỏi chỗ khác, lại đi nơi khác. Bà nói \"bác sĩ nào cũng nói không sao, mà người tôi cứ khó chịu\".",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi đã đi khám ở đâu, bao nhiêu lần, họ nói gì, sau đó bà thấy sao.",
+     "k": 1,
+     "y": "Khám nhiều nơi, kết quả âm tính, lời trấn an chỉ giữ được vài tuần"
+    },
+    {
+     "id": "ket_qua_cu",
+     "noi_dung": "Cháu Ngân giữ ảnh chụp phiếu kết quả bệnh viện huyện cách đây 5 tháng: điện tim nhịp xoang, không bất thường; đường huyết lúc đói 5,4 mmol/L; Hb 124 g/L, bạch cầu 6,6 G/L, tiểu cầu 236 G/L; creatinin 68 µmol/L; AST, ALT bình thường; siêu âm bụng không bất thường. Chưa từng làm xét nghiệm tuyến giáp.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi có kết quả xét nghiệm hay phiếu khám cũ không (hỏi bà thì bà nói \"không nhớ\"; hỏi cháu Ngân thì cháu mở điện thoại).",
+     "k": 1,
+     "y": "Kết quả cũ gần đây làm phương án B khi bà từ chối xét nghiệm"
+    },
+    {
+     "id": "thuoc_khong_ro",
+     "noi_dung": "Bà mang theo túi nylon đựng bốn thứ, tất cả đã bóc khỏi hộp, vỉ cắt rời không nhãn: một viên trắng nhỏ uống buổi sáng (\"nghe nói cho tim, huyết áp\", bà uống khi nhớ), một viên vàng uống khi nhức mỏi (khoảng một đến hai viên mỗi ngày, ba bốn ngày một tuần), một lọ thuốc bổ dạng nang mềm, và một gói thuốc nam bà mua ở chợ. Bà và cháu không biết tên thuốc, không còn toa; thuốc do nhiều nơi cho. Một nhà thuốc đầu chợ bán cho bà viên vàng nhưng cháu không nhớ tên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi \"bà đang uống thuốc gì\" kèm xin xem túi thuốc hoặc vỉ thuốc; hỏi chung bà đáp \"không uống gì đâu, uống vài viên bổ thôi\". Không biết tên thuốc dù hỏi kỹ.",
+     "k": 1,
+     "y": "Thuốc đang dùng không rõ loại: cần rà soát, không tự kết luận"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Lý do thật: bà muốn \"khám tổng quát\" cho biết trong người có gì không. Bạn hàng cùng chợ vừa bị đột quỵ tháng trước, bà sợ mình đột ngột như thế rồi phiền con cháu. Bà hình dung khám tổng quát là bác sĩ nhìn, nghe, sờ, đo huyết áp là biết, không phải chích máu hay chụp.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì khiến bà đi khám hôm nay, bà đang lo điều gì, hay hỏi \"khám tổng quát\" với bà nghĩa là gì. Nếu bác sĩ vội nói \"do tuổi, do stress\" thì bà cười xòa, đổi chuyện.",
+     "k": 1,
+     "y": "Động cơ thật: kiểm tra tổng quát sau khi bạn hàng đột quỵ; hình dung khám là không xét nghiệm"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Hai tuần qua bà không buồn chán, vẫn thích xem hát tuồng, nói chuyện với bạn hàng, hết ngày bà cười nói bình thường. Không mất hứng thú. Ngủ chập chờn ba bốn đêm một tuần vì đau mỏi; ăn vẫn được, cân khoảng 49 kg, không sụt cân. Không ý nghĩ tự hại. Không có cơn sợ chết dữ dội lên đỉnh trong vài phút. Ngoài chuyện sức khỏe bà không lo nhiều việc khác.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi hai câu sàng lọc của ICOPE (buồn chán, mất hứng thú trong 2 tuần), hỏi giấc ngủ, ăn uống, cân nặng, ý nghĩ tự hại, cơn hoảng sợ.",
+     "k": 1,
+     "y": "Không trầm cảm, không hoảng sợ, không lo âu lan tỏa; không sụt cân"
+    },
+    {
+     "id": "bao_dong",
+     "noi_dung": "Không sốt, không khó thở khi gắng sức, không đau ngực khi đi bộ hay leo cầu thang, không ngất hay suýt ngất, không ngã trong năm nay, không yếu liệt hay nói khó, không đi ngoài phân đen, không tiểu khó, không sụt cân ngoài ý muốn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi từng dấu hiệu báo động (khó thở, đau ngực khi gắng sức, ngất, ngã, yếu liệt, phân đen, sụt cân).",
+     "k": 1,
+     "y": "Không dấu hiệu báo động thực thể"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Nếu bác sĩ đề nghị xét nghiệm máu, nước tiểu, điện tim, chụp phim: bà từ chối, nói \"đi khám mấy lần lấy máu hoài mà có sao đâu, tốn tiền, tôi nghỉ bán thì mất buổi chợ, mà tôi sợ kim\". Giải thích một lần bà vẫn không đồng ý, nhưng chịu đo huyết áp, nghe tim phổi, và nói \"nếu lần sau còn mệt thì tôi tính\". Bà chịu ký giấy ghi nhận từ chối sau khi được tư vấn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ đề nghị bất kỳ xét nghiệm, điện tim hay chụp phim nào; hỏi lý do thì bà nói về tiền, mất buổi bán và sợ kim.",
+     "k": 1,
+     "y": "Từ chối xét nghiệm: giải thích một lần, tôn trọng, ghi hồ sơ, phương án B"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Mãn kinh năm 52 tuổi, sinh ba con. Từng được bảo huyết áp \"hơi cao\" cách đây vài năm nhưng không theo dõi. Không đái tháo đường, không bệnh tim đã biết, không hen, không phẫu thuật. Không hút thuốc, không uống rượu, uống trà xanh vài ly mỗi ngày. Không dị ứng thuốc đã biết.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nhanh nhẹn, nói to và cười xòa. Da niêm hồng, không vàng da, không phù, không vã mồ hôi, không run. Cân 49 kg, cao 152 cm (BMI 21,2).",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không hạch cổ. Mắt không lồi, đồng tử đều. Cơ thang hai bên căng nhẹ, ấn đau nhẹ không khu trú.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, T1 T2 rõ, không âm thổi, không T3, T4. Không phù, tĩnh mạch cổ không nổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm, không ran, không rít. Không dấu hiệu viêm phế quản hay viêm phổi.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, thở đều 18 l/p.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng, ấn không đau khu trú, gan lách không sờ thấy, không khối.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "Nằm 138/80 mmHg, mạch 76 l/p; đứng sau 3 phút 134/80 mmHg, mạch 82 l/p, không chóng mặt tăng. Không hạ huyết áp tư thế.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch quay, mu chân bắt rõ hai bên, chi ấm, không âm thổi động mạch cảnh.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt, thần kinh sọ bình thường. Sức cơ 5/5 bốn chi, phản xạ gân xương đều hai bên, không dấu thần kinh khu trú. Cảm giác nông và rung âm thoa bàn chân còn, không giảm kiểu đi găng đi vớ.",
+     "k": 1
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống cổ lưng cử động đủ biên độ, ấn đau cơ lan tỏa nhẹ vai gáy và cạnh sống lưng, không điểm đau xương, không sưng nóng khớp, không teo cơ.",
+     "k": 1
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng lên khỏi ghế 5 lần không dùng tay trong 12 giây (dưới 14 giây). Dáng đi vững, quay người không loạng choạng.",
+     "k": 1,
+     "hien": "Bà đứng dậy khỏi ghế năm lần được, đi lại vững."
+    },
+    "tam_than": {
+     "a": "Ăn mặc gọn, hợp tác, nói rành rọt, hay cười xòa. Khí sắc bình thường, cảm xúc phù hợp. Chú ý dồn vào các chỗ khó chịu khi được hỏi kỹ nhưng vẫn gạt đi bằng \"già thì thế\". Nhớ đủ ba từ (hoa, cửa, gạo) sau vài phút, nói đúng ngày tháng và nơi ở. Không hoang tưởng, không ảo giác. Không ý nghĩ tự hại.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, hay cười xòa, nói mạch lạc."
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "u",
+     "r": "Bà từ chối làm điện tim hôm nay (\"dán dây lạnh người, mà tim tôi có sao đâu\"). Kết quả 5 tháng trước (cháu Ngân giữ ảnh): nhịp xoang, không bất thường.",
+     "n": "Điện tâm đồ thuộc nhóm loại trừ nguyên nhân thực thể (QĐ 2058/2020 Bài 25 mục 3.1.2). Nặng ngực thoáng, tim đập mạnh ở người 79 tuổi: nên làm một lần, nhưng điện tim cũ bình thường, khám tim, huyết áp, SpO2 bình thường, không đau ngực khi gắng sức. Từ chối được tôn trọng (Luật KBCB 2023 Điều 10 khoản 4, Điều 13 khoản 1); mời làm lại ở lần tái khám."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Bà từ chối lấy máu, không có kết quả hôm nay. Kết quả 5 tháng trước: Hb 124 g/L, bạch cầu 6,6 G/L, tiểu cầu 236 G/L.",
+     "n": "Huyết học nằm trong cận lâm sàng loại trừ (QĐ 2058/2020 Bài 25 mục 3.1.2). Phương án B: dùng kết quả 5 tháng trước, khám không thấy da niêm nhợt, không phân đen, cân nặng không giảm; ghi từ chối kèm cam kết (Luật KBCB 2023 Điều 13 khoản 1); hẹn làm lại khi bà đồng ý hoặc khi có dấu hiệu mới."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Bà từ chối lấy máu, không có kết quả hôm nay. Kết quả 5 tháng trước: đường huyết đói 5,4 mmol/L.",
+     "n": "Sinh hóa máu thuộc đánh giá loại trừ (QĐ 2058/2020 Bài 25 mục 3.1.2). Không đái nhiều, không khát, cân ổn; đã có kết quả bình thường gần đây nên dùng làm phương án B."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Bà từ chối chích đầu ngón tay: \"sợ kim\".",
+     "n": "Chấp nhận, không bắt buộc hôm nay: không triệu chứng tăng đường huyết, đường huyết đói 5 tháng trước bình thường. Lý do từ chối (sợ kim) là dữ kiện của ca."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "Bà từ chối lấy máu, không có kết quả hôm nay. Chưa từng làm xét nghiệm tuyến giáp.",
+     "n": "Hormon tuyến giáp có trong danh sách loại trừ (QĐ 2058/2020 Bài 25 mục 3.1.2). Khám tuyến giáp không to, mạch 76, không run, cân ổn; không bắt buộc hôm nay, làm khi bà đồng ý (điểm còn thiếu của phương án B vì chưa có kết quả cũ)."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu. Kết quả 5 tháng trước: creatinin 68 µmol/L.",
+     "n": "Chấp nhận, không bắt buộc: có kết quả bình thường gần đây. Sẽ cần khi cân nhắc thuốc (thuốc đang dùng chưa rõ loại; Beers 2023 Bảng 6 liệt kê thuốc cần chỉnh theo chức năng thận)."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu, không có kết quả hôm nay.",
+     "n": "Chấp nhận: cần natri máu nếu sau này dùng SSRI (SSRI có thể gây SIADH hoặc hạ natri, theo dõi natri khi bắt đầu hoặc đổi liều, Beers 2023 Bảng 4)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Bà từ chối chụp, không làm.",
+     "n": "Không cần: ho khan hai ngày đã hết, không sốt, SpO2 97%, thở 18, phổi sạch. Chụp lồng ngực nằm trong danh sách xét nghiệm loại trừ của QĐ 2058/2020 Bài 25 mục 3.1.2 nhưng chỉ khi có chỉ định lâm sàng."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Bà từ chối chụp, không làm.",
+     "n": "Không cần: không đau đầu dữ dội, không dấu thần kinh khu trú, định hướng tốt. CT, MRI có trong danh sách loại trừ (QĐ 2058/2020 Bài 25 mục 3.1.2), nhưng làm \"cho chắc\" gây tốn kém, dễ dẫn đến lo âu (mục 5)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn triệu chứng cơ thể (cơ thể hóa; ICD-10 F45.0, ICD-11 6C20 mức vừa): nhiều triệu chứng cơ thể thay đổi (đau mỏi vai gáy lưng, tê tay chân, nặng đầu, chóng mặt, tim đập mạnh, tức ngực thoáng, đầy bụng, ngủ kém) khoảng ba năm, khám nhiều nơi không thấy bệnh thực thể, ảnh hưởng nghề buôn bán và sinh hoạt; đợt này nặng lên sau đợt không khí lạnh",
+     "ok": 1,
+     "n": "Đạt cả hai hệ phân loại nên ca không phải chọn: ICD-10 cần ít nhất hai năm triệu chứng nhiều và thay đổi không có giải thích cơ thể thỏa đáng, dai dẳng không chấp nhận lời trấn an, tật chứng xã hội và gia đình (QĐ 2058/2020 Bài 25 mục 3.1.1; mã F45.0 theo TL-0001, Phụ lục ICD-10). ICD-11 6C20 cần triệu chứng gây khổ sở, chú ý quá mức dai dẳng sau khám và trấn an, có triệu chứng hầu hết các ngày trong ít nhất vài tháng (ví dụ ≥ 3 tháng), ảnh hưởng chức năng (CDDR 2024 6C20, tr. 429–430). Mức vừa: nghĩ về triệu chứng vài giờ mỗi ngày, ảnh hưởng chức năng mức vừa (CDDR 2024 6C20.1, tr. 430–431). Bà giảm nhẹ triệu chứng bằng lời nhưng chức năng đã giảm rõ (nghỉ bán, bỏ hội, đi nghỉ chân) nên chẩn đoán dựa vào chức năng, không dựa vào lời bà. Ở người trên 75 tuổi chẩn đoán khó hơn vì bệnh thực thể đi kèm nhiều hơn và triệu chứng thường dai dẳng hơn (CDDR 2024 tr. 433). Tiêu chuẩn riêng cho ≥ 75 tuổi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bệnh thực thể bỏ sót (tim mạch, nội tiết, thiếu máu, thần kinh, tiêu hóa) là nguyên nhân các triệu chứng",
+     "n": "Loại trừ bằng lâm sàng và kết quả cũ gần đây vì bà từ chối xét nghiệm hôm nay: sinh hiệu bình thường, không hạ huyết áp tư thế, tim phổi bụng thần kinh bình thường, chair rise 12 giây, cân không giảm, không dấu báo động; điện tim, đường huyết, Hb, creatinin, men gan, siêu âm bụng 5 tháng trước bình thường. Chưa có TSH. Gói xét nghiệm loại trừ và phối hợp chuyên khoa (QĐ 2058/2020 Bài 25 mục 3.1.2, 4.1) vẫn là kế hoạch khi bà đồng ý. Đây là loại trừ chưa hoàn toàn: phải đặt mốc mở lại hồ sơ."
+    },
+    {
+     "t": "Trầm cảm ở người cao tuổi",
+     "n": "Không ủng hộ: không buồn chán, không mất hứng thú trong 2 tuần (hai câu sàng lọc ICOPE 2025 Bảng 3.1, tr. 19), ăn được, không sụt cân, không ý nghĩ tự hại. Cơ thể hóa chỉ chẩn đoán khi bận tâm triệu chứng xảy ra ngoài giai đoạn khí sắc (CDDR 2024 tr. 434; QĐ 2058/2020 Bài 25 mục 3.2)."
+    },
+    {
+     "t": "Lo âu lan tỏa, rối loạn hoảng sợ",
+     "n": "Không ủng hộ: bà không lo nhiều việc khác ngoài sức khỏe, không cơn sợ dữ dội lên đỉnh trong vài phút (CDDR 2024 tr. 434: lo âu lan tỏa lo nhiều lĩnh vực; hoảng sợ có cơn tự giới hạn). Đồng mắc lo âu và trầm cảm thường gặp, cần hỏi lại ở lần tái khám (CDDR 2024 tr. 432)."
+    },
+    {
+     "t": "Sa sút trí tuệ, sảng",
+     "n": "Không ủng hộ: định hướng đúng ngày tháng và nơi ở, nhớ đủ ba từ (ICOPE 2025 Bảng 3.1, tr. 19: sai định hướng hoặc không nhớ đủ ba từ là không đạt), thần kinh bình thường, không lú lẫn mới."
+    },
+    {
+     "t": "Triệu chứng do thuốc đang dùng (loại thuốc chưa rõ)",
+     "n": "Chưa loại trừ được vì không biết thuốc; triệu chứng có từ ba năm, thuốc có thể làm nặng hoặc không liên quan. Đánh giá thuốc ở người cao tuổi: rà soát có cấu trúc, bỏ thuốc không cần, trùng hoạt chất (ICOPE 2025 mục 4.2.4). Nếu viên vàng là NSAID: tránh dùng kéo dài ở người cao tuổi (Beers 2023 Bảng 2); loại thuốc cụ thể: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nghe bà kể, ghi nhận bà vẫn lo cho gia đình; không hỏi \"bà thấy sao\" mà hỏi theo chức năng: mấy giờ dậy, mấy hôm nay bán được mấy tiếng, ai trông hàng, đi ra chợ có nghỉ không, bỏ việc gì; hỏi riêng cháu Ngân một câu (với sự đồng ý của bà)",
+     "v": "c",
+     "n": "Người bệnh giảm nhẹ nên dùng câu hỏi chức năng thay cho câu hỏi cảm giác; ICD-11 tính độ nặng theo mức ảnh hưởng chức năng và thời gian bận tâm (CDDR 2024 6C20.0–6C20.2, tr. 430–431). Câu hỏi cụ thể và cách hỏi riêng người nhà: không có trong tài liệu đã tải. Người nhà chỉ biết thông tin sức khỏe khi bà đồng ý (Luật KBCB 2023 Điều 10 khoản 2)."
+    },
+    {
+     "t": "Khám đầy đủ (tim, phổi, bụng, thần kinh, cơ xương khớp, tuyến giáp, huyết áp đổi tư thế), sàng lọc nhận thức (nhớ ba từ, định hướng), chair rise, hai câu buồn chán – mất hứng thú, cân nặng, ý nghĩ tự hại; hỏi từng dấu hiệu báo động",
+     "v": "c",
+     "n": "Khám lâm sàng là cơ sở loại trừ khi không có xét nghiệm (QĐ 2058/2020 Bài 25 mục 3.1.1–3.2, 4.1). Sàng lọc người cao tuổi: ICOPE 2025 Bảng 3.1, tr. 19 (nhớ ba từ, định hướng, chair rise 5 lần trong 14 giây, sụt hơn 3 kg trong 3 tháng, chán ăn, hai câu trầm cảm). Ngưỡng nghi bệnh thực thể từ dấu báo động: không có trong tài liệu đã tải; danh sách dấu báo động là của ca."
+    },
+    {
+     "t": "Khi bà từ chối xét nghiệm: hỏi lý do (tiền, mất buổi chợ, sợ kim), nói rõ xét nghiệm nào sẽ giúp quyết định điều gì, giải thích một lần, tôn trọng quyết định, ghi từ chối vào hồ sơ và cho ký cam kết sau tư vấn",
+     "v": "c",
+     "n": "Không ép buộc khám chữa bệnh (Luật KBCB 2023 Điều 10 khoản 4); lựa chọn sau khi được giải thích về tình trạng, kết quả, rủi ro (Luật KBCB 2023 Điều 11 khoản 1); từ chối nhưng cam kết bằng văn bản sau khi được tư vấn (Luật KBCB 2023 Điều 13 khoản 1). Xét nghiệm, khám xét lặp không chỉ định gây tốn kém và dễ dẫn đến lo âu, trầm cảm (QĐ 2058/2020 Bài 25 mục 5)."
+    },
+    {
+     "t": "Phương án B: dùng kết quả cháu Ngân giữ (điện tim, đường huyết, Hb, creatinin, men gan, siêu âm bụng 5 tháng trước bình thường) kèm khám lâm sàng hôm nay để loại trừ tạm thời bệnh thực thể; chưa có TSH; đặt mốc mở lại hồ sơ và mời làm xét nghiệm khi bà đồng ý",
+     "v": "c",
+     "n": "Gói loại trừ thực thể (QĐ 2058/2020 Bài 25 mục 3.1.2, 4.1: phối hợp chuyên khoa để tránh bỏ sót). Mốc mở lại: sụt hơn 3 kg trong 3 tháng hoặc chán ăn (ICOPE 2025 Bảng 3.1, tr. 19); các mốc khác (ngất, đau ngực khi gắng sức, khó thở, yếu liệt, phân đen) là tiêu chí an toàn của ca, không có trong tài liệu đã tải. Thời hạn dùng kết quả cũ (6 tháng) là nhận định của ca."
+    },
+    {
+     "t": "Ép bà làm xét nghiệm \"không làm thì không khám tiếp\", hoặc hù dọa \"bà có thể bị đột quỵ\" để bà đồng ý",
+     "v": "w",
+     "n": "Không bị ép buộc (Luật KBCB 2023 Điều 10 khoản 4); tôn trọng quyền lựa chọn sau khi được giải thích (Luật KBCB 2023 Điều 11 khoản 1, Điều 13 khoản 1). Dọa làm tăng lo lắng, trái hướng giải thích hợp lý (CDDR 2024 tr. 431–432)."
+    },
+    {
+     "t": "Giải thích hợp lý bằng dữ kiện của chính bà: triệu chứng thật, khám hôm nay và kết quả cũ chưa thấy bệnh nguy hiểm; triệu chứng nặng lên mỗi khi trời lạnh, thiếu ngủ, lo lắng; liên hệ với điều bà quan tâm (còn bán buôn được); không nói \"bà tưởng tượng\", \"bà thần kinh\"",
+     "v": "c",
+     "n": "Liệu pháp giải thích hợp lý, liệu pháp tâm lý là chủ đạo (QĐ 2058/2020 Bài 25 mục 4.1). Người bệnh dễ phản ứng tiêu cực với gợi ý yếu tố tâm lý, nhất là khi triệu chứng nặng (CDDR 2024 6C20, tr. 431–432), nên nói theo dữ kiện của bà. Cơ chế vì sao lạnh làm nặng đau mỏi: không có trong tài liệu đã tải. Câu chữ cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Rà soát thuốc: xem túi thuốc, chụp ảnh từng viên, nhờ cháu Ngân hỏi lại nhà thuốc đầu chợ và nơi đã cho thuốc, mang cả túi, vỏ vỉ và toa cũ đến lần tái khám; hôm nay không tự ý ngưng hay tăng thuốc chưa rõ loại; không thêm thuốc giảm đau",
+     "v": "c",
+     "n": "Người cao tuổi nhiều bệnh dễ có thuốc không phù hợp; rà soát có cấu trúc để bỏ thuốc không cần, trùng hoạt chất, thay thế khi cần (ICOPE 2025 mục 4.2.4); bước rà soát thuốc nằm trong đánh giá chuyên sâu (ICOPE 2025 Bảng 3.1 và mục 4.2.4). Cách làm với thuốc không nhãn, việc không ngưng thuốc chưa rõ: không có trong tài liệu đã tải, là nhận định của ca. Nếu là NSAID: Beers 2023 Bảng 2 (tránh dùng kéo dài trừ khi không có lựa chọn khác và dùng được thuốc bảo vệ dạ dày)."
+    },
+    {
+     "t": "Ngừng gói thuốc nam không rõ thành phần",
+     "v": "a",
+     "n": "Tài liệu đã tải không có dữ liệu hiệu quả hay an toàn cho thuốc nam không rõ thành phần; ngừng là chấp nhận được (cùng cách mục sổ về thuốc nam không rõ thành phần). Tiếp tục dùng không chấm w vì không có nguồn nói gây hại."
+    },
+    {
+     "t": "Liệu pháp tâm lý chủ đạo: thở chậm, thư giãn luyện tập mỗi ngày; giữ ấm khi ra chợ lúc trời lạnh; trở lại bán buổi sáng dần (hai buổi một tuần rồi tăng), nhờ cháu dọn hàng thay vì nghỉ hẳn; đi lễ chùa và họp hội trở lại",
+     "v": "c",
+     "n": "Liệu pháp tâm lý là chủ đạo, thư giãn luyện tập có tác dụng điều trị và phòng bệnh (QĐ 2058/2020 Bài 25 mục 4.1, 4.3, 6). Né tránh hoạt động vì sợ làm nặng triệu chứng càng gây thêm cứng cơ, đau mỏi sau gắng sức (CDDR 2024 tr. 431). Số buổi, kỹ thuật thư giãn, cách giữ ấm: không có trong tài liệu đã tải; kế hoạch tăng dần là thiết kế của ca."
+    },
+    {
+     "t": "Hôm nay chưa kê thuốc hướng thần; hẹn lại sau 2 tuần cùng một bác sĩ, nếu cần thì xét thuốc chống trầm cảm sau khi biết thuốc đang dùng và (nếu bà đồng ý) có natri máu",
+     "v": "c",
+     "n": "Nguyên tắc chọn thuốc: đơn trị, khởi liều thấp, tăng chậm, hạn chế giải lo âu gây nghiện (QĐ 2058/2020 Bài 25 mục 4.1). Hướng dẫn xét SSRI ở người cao tuổi theo dõi natri khi bắt đầu hoặc đổi liều (Beers 2023 Bảng 4). Mốc 2 tuần là lựa chọn của ca."
+    },
+    {
+     "t": "Kê ngay một thuốc chống trầm cảm nhóm SSRI liều thấp (ví dụ sertralin) kèm theo dõi natri",
+     "v": "a",
+     "n": "Chấp nhận: QĐ 2058/2020 Bài 25 mục 4.3 liệt kê sertralin 50–200 mg/24 giờ; liều khởi đầu và thời gian dùng cho người cao tuổi: không có trong tài liệu đã tải. Kém thận trọng hơn vì chưa biết thuốc đang dùng, chưa có natri máu và bà từ chối xét nghiệm (Beers 2023 Bảng 4)."
+    },
+    {
+     "t": "Kê vitamin nhóm B hoặc dinh dưỡng bổ sung, chế độ ăn dễ tiêu",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 25 mục 4.3 liệt kê dinh dưỡng, vitamin nhóm B, khoáng chất trong trường hợp cần thiết; chỉ định và liều cho người này: không có trong tài liệu đã tải. Không bắt buộc, không hại."
+    },
+    {
+     "t": "Kê benzodiazepin (diazepam, alprazolam…) hoặc thuốc ngủ nhóm Z (zolpidem) để bà ngủ và bớt lo",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: tránh vì lú lẫn, sảng, té ngã, gãy xương ở người cao tuổi (khuyến cáo mạnh). QĐ 2058/2020 Bài 25 mục 4.1, 4.3, 5 liệt kê benzodiazepin nhưng cảnh báo phụ thuộc và lạm dụng. Theo cách chấm của các ca cơ thể hóa cùng tuổi (TT-0216) và hoảng sợ (TT-0177) dùng đều chấm w; Beers không nêu ngoại lệ ngắn hạn cho trường hợp này."
+    },
+    {
+     "t": "Nhập viện \"theo dõi\" hoặc chuyển tuyến chụp CT, MRI, nội soi, Holter \"cho chắc\"",
+     "v": "w",
+     "n": "Không có dấu báo động; khám xét lặp gây tốn kém, có thể dẫn đến lo âu, trầm cảm (QĐ 2058/2020 Bài 25 mục 4.1, 5). Tiêu chuẩn nhập viện, chuyển tuyến cho rối loạn cơ thể hóa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần (cùng một bác sĩ), rồi mỗi 4–6 tuần; quay lại sớm nếu đau ngực khi gắng sức, khó thở, ngất hay suýt ngất, yếu liệt, nói khó, té ngã, phân đen, sụt cân, lú lẫn mới",
+     "v": "c",
+     "n": "Bác sĩ theo dõi lâu dài, phối hợp chuyên khoa (QĐ 2058/2020 Bài 25 mục 4.1, 5); hẹn ngày theo dõi cụ thể là một thành phần chăm sóc người cao tuổi (ICOPE 2025 mục 4.2.4 và các bước chăm sóc kế tiếp). Mốc 2 tuần, 4–6 tuần và danh sách dấu hiệu quay lại là thiết kế của ca."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn triệu chứng cơ thể (cơ thể hóa; ICD-10 F45.0, QĐ 2058/2020 Bài 25; tương ứng rối loạn đau khổ cơ thể 6C20 mức vừa, ICD-11 CDDR 2024): nhiều triệu chứng thay đổi khoảng 3 năm, khám nhiều nơi không thấy bệnh thực thể, ảnh hưởng nghề buôn bán và xã hội",
+     "Yếu tố làm nặng: đợt không khí lạnh 10 ngày trước, ngủ chập chờn, bận tâm triệu chứng 2–3 giờ mỗi ngày, né hoạt động; thuốc đang dùng chưa rõ loại",
+     "Đã loại trừ tạm thời (lâm sàng và kết quả cũ, chưa hoàn toàn vì từ chối xét nghiệm): bệnh thực thể bỏ sót, trầm cảm, lo âu, hoảng sợ, sa sút trí tuệ, sảng; theo dõi đồng mắc"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do đến → triệu chứng cụ thể theo từng hệ, từ bao giờ → chức năng (mấy giờ dậy, bán được mấy tiếng, nghỉ bao nhiêu buổi, ai trông hàng) → đã khám ở đâu, kết quả → khởi phát (đợt lạnh) → thuốc (xin xem túi) → tâm trạng, giấc ngủ, ăn, cân → dấu báo động → hỏi điều bà lo (QĐ 2058/2020 Bài 25 mục 3.1.1; CDDR 2024 6C20, tr. 429–431).",
+     "Khám: sinh hiệu, huyết áp đổi tư thế, tim, phổi, bụng, thần kinh, cơ xương khớp, tuyến giáp, chair rise, ba từ. Bình thường: không giải thích cơ thể thỏa đáng cho các triệu chứng (QĐ 2058/2020 Bài 25 mục 3.1.1; ICOPE 2025 Bảng 3.1, tr. 19).",
+     "Điểm khó của ca: bà giảm nhẹ bằng lời; độ nặng ICD-11 tính theo bận tâm và ảnh hưởng chức năng (CDDR 2024 tr. 430–431), nên chẩn đoán dựa vào chức năng và thời gian chứ không dựa vào lời \"không sao\".",
+     "Cận lâm sàng: bà từ chối; phương án B nhờ kết quả cũ 5 tháng. Gói có chỉ định khi bà đồng ý: điện tim, công thức máu, đường huyết, TSH, creatinin, điện giải (QĐ 2058/2020 Bài 25 mục 3.1.2).",
+     "Hai hệ phân loại khác nhau về ngưỡng: ICD-10 cần ≥ 2 năm, ICD-11 cần ≥ vài tháng; bà đạt cả hai (QĐ 2058/2020 Bài 25 mục 3.1.1; CDDR 2024 tr. 430). Ở ≥ 75 tuổi, ICD-11 lưu ý có nhiều triệu chứng và dai dẳng hơn, chẩn đoán khó vì bệnh thực thể đi kèm (CDDR 2024 tr. 433); đây là điểm cần ghi chú khi áp dụng, vì tài liệu không có tiêu chuẩn riêng cho nhóm tuổi này.",
+     "Điểm dừng chẩn đoán (mốc 2–4 tuần là thiết kế của ca; sụt cân theo ICOPE 2025 Bảng 3.1, tr. 19): nếu sau 2–4 tuần xuất hiện dấu mới (sụt cân, thiếu máu, ngất, đau ngực khi gắng sức, lú lẫn, yếu liệt) hoặc bà đồng ý làm xét nghiệm và có bất thường thì mở lại hồ sơ, không đóng khung \"cơ thể hóa\"."
+    ],
+    "phan_tich_xu_tri": [
+     "Tôn trọng từ chối: giải thích một lần, ghi hồ sơ, cho ký cam kết, giữ cánh cửa mở (Luật KBCB 2023 Điều 10 khoản 4, Điều 11 khoản 1, Điều 13 khoản 1). Không ép, không hù dọa.",
+     "Hướng xử trí: cho về, hẹn tái khám 2 tuần. Liệu pháp giải thích hợp lý và tâm lý là chủ đạo, thư giãn luyện tập (QĐ 2058/2020 Bài 25 mục 4.1, 4.3, 6); hoạt động trở lại dần.",
+     "Rà soát thuốc: bà có túi thuốc không nhãn; việc đầu tiên là biết đó là thuốc gì, ngừng thuốc nam không rõ thành phần, tránh thêm thuốc giảm đau; không đoán tên thuốc (ICOPE 2025 mục 4.2.4; Beers 2023 Bảng 2 nếu là NSAID).",
+     "Thuốc hướng thần: hôm nay không kê (cách A); SSRI liều thấp chấp nhận (cách B, sertralin 50–200 mg/24 giờ theo QĐ 2058/2020 Bài 25 mục 4.3) nhưng kém thận trọng vì chưa biết thuốc và chưa có natri máu (Beers 2023 Bảng 4). Benzodiazepin và thuốc Z: không (Beers 2023 Bảng 2).",
+     "Không nhập viện, không chuyển tuyến làm thêm chẩn đoán hình ảnh khi không có dấu báo động; khám xét lặp làm tốn kém, dễ dẫn đến lo âu và trầm cảm (QĐ 2058/2020 Bài 25 mục 5).",
+     "Tiên lượng: bệnh thường mạn tính, thường kháng trị (QĐ 2058/2020 Bài 25 mục 5) hoặc khoảng một nửa khỏi triệu chứng trong 6–12 tháng (CDDR 2024 tr. 432)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc hướng thần ở lần khám đầu (cách A)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Đến lần tái khám sau 2 tuần",
+      "ghi_chu": "Liệu pháp tâm lý là chủ đạo (QĐ 2058/2020 Bài 25 mục 4.1); chọn không kê ở lần đầu là nhận định của ca."
+     },
+     {
+      "thuoc": "Cách B (nếu bác sĩ chọn dùng thuốc): một thuốc chống trầm cảm khởi liều thấp, ví dụ sertralin",
+      "ham_luong": "Không ghi hàm lượng viên",
+      "lieu": "Khoảng liều 50–200 mg/24 giờ; liều khởi đầu cho người cao tuổi: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Một lần/ngày; giờ uống: không có trong tài liệu đã tải",
+      "so_ngay": "Thời gian dùng: không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 2058/2020 Bài 25 mục 4.1 (đơn trị, khởi liều thấp, tăng từ từ), mục 4.3 (danh sách thuốc). Beers 2023 Bảng 4: SSRI có thể gây SIADH hoặc hạ natri, theo dõi natri khi bắt đầu hoặc đổi liều; nên hoãn đến khi biết thuốc đang dùng và có natri máu."
+     },
+     {
+      "thuoc": "Thuốc đang dùng chưa rõ loại (viên trắng, viên vàng, thuốc bổ nang mềm)",
+      "ham_luong": "Không rõ",
+      "lieu": "Giữ nguyên cách bà đang uống cho đến khi xác định; không thêm thuốc giảm đau",
+      "duong": "Uống",
+      "thoi_diem": "Như cũ",
+      "so_ngay": "Đến lần tái khám mang đủ túi thuốc và vỏ vỉ",
+      "ghi_chu": "Rà soát thuốc có cấu trúc (ICOPE 2025 mục 4.2.4). Việc giữ nguyên tạm thời: không có trong tài liệu đã tải, là nhận định của ca. Nếu xác định là NSAID dùng kéo dài: Beers 2023 Bảng 2."
+     },
+     {
+      "thuoc": "Gói thuốc nam không rõ thành phần",
+      "ham_luong": "Không rõ",
+      "lieu": "NGỪNG",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Ngừng",
+      "ghi_chu": "Không có dữ liệu hiệu quả, an toàn trong tài liệu đã tải; ngừng là a."
+     },
+     {
+      "thuoc": "Benzodiazepin, thuốc ngủ nhóm Z",
+      "ham_luong": "Không áp dụng",
+      "lieu": "KHÔNG kê",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Beers 2023 Bảng 2 (tránh ở người cao tuổi); QĐ 2058/2020 Bài 25 mục 4.1, 5 (hạn chế, nguy cơ phụ thuộc)."
+     }
+    ],
+    "dan_do": [
+     "Bà đau mỏi và tê là thật, không phải bà bịa. Hôm nay khám tim, phổi, bụng, thần kinh đều tốt; điện tim, đường huyết, máu và siêu âm bụng hồi đầu năm bình thường, chưa thấy bệnh nguy hiểm nào bị bỏ sót.",
+     "Đợt lạnh vừa rồi và những đêm ngủ chập chờn làm các chỗ mỏi nặng thêm; bà nghỉ bán hẳn lại thấy lo và mỏi nhiều hơn. Mỗi ngày tập thở chậm, thư giãn; ra chợ hai buổi sáng một tuần, mặc ấm, chân khô, nhờ cháu dọn hàng, rồi tăng dần.",
+     "Bà không muốn lấy máu hôm nay, tôi ghi lại và tôn trọng. Nếu sau hai tuần còn mệt hoặc có gì mới, bà cho tôi làm điện tim và một lần lấy máu; tôi sẽ nói trước mỗi xét nghiệm để làm gì.",
+     "Mang cả túi thuốc, vỏ vỉ, toa cũ lần tới; cháu Ngân hỏi giúp nhà thuốc đầu chợ. Gói thuốc nam không rõ gì thì bà ngưng. Chưa tự mua thêm thuốc giảm đau.",
+     "Đến ngay khi (danh sách là tiêu chí an toàn của ca; sụt cân, chán ăn theo ICOPE 2025 Bảng 3.1, tr. 19): đau ngực khi đi bộ hoặc gắng sức, khó thở, ngất hoặc suýt ngất, yếu liệt một bên, nói khó, té ngã, đi ngoài phân đen, sụt cân hoặc chán ăn, lú lẫn. Tái khám sau 2 tuần với cùng bác sĩ."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ổn định, khỏi bệnh: bà Sửu về không kê thuốc hướng thần, ngừng gói thuốc nam, mang tờ kế hoạch viết tay, hứa mang túi thuốc. Hai tuần sau bà mang túi thuốc, đồng ý làm điện tim và một lần lấy máu: bình thường, không phát hiện bệnh thực thể (tình tiết do ca dựng). Sau 6 tuần bà ra chợ lại hai buổi sáng mỗi tuần, ngủ được 6 giờ, đi chùa và họp hội trở lại; sau 3 tháng chỉ còn mỏi vai gáy thoáng qua khi trở trời, không còn nghỉ bán vì triệu chứng. Kết cục tốt là thiết kế của ca; tiên lượng hai nguồn khác nhau: QĐ 2058/2020 Bài 25 mục 5 bệnh thường mạn tính, thường kháng trị; CDDR 2024 6C20, tr. 432 khoảng một nửa khỏi triệu chứng trong 6–12 tháng.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: bà đáp \"không, hơi mỏi\" cho mọi câu hỏi cảm giác; chỉ câu hỏi chức năng (mấy giờ dậy, mấy hôm nay bán mấy tiếng, nghỉ mấy lần) làm lộ nghỉ bán 4 buổi, bỏ hội, bận tâm vài giờ mỗi ngày. Cháu Ngân bổ sung. Chẩn đoán dựa vào chức năng, không vào lời bà (CDDR 2024 6C20.0–6C20.2, tr. 430–431; ICOPE 2025 Bảng 3.1, tr. 19).",
+  "Bà từ chối xét nghiệm vì tiền, mất buổi chợ, sợ kim; hình dung khám tổng quát là không chích máu (Luật KBCB 2023 Điều 10 khoản 4, Điều 13 khoản 1).",
+  "Túi thuốc không nhãn: chỉ lộ khi xin xem túi; hỏi chung bà chỉ nói \"vài viên bổ\". Không đoán tên thuốc; rà soát thuốc, ngừng thuốc nam không rõ, không thêm thuốc giảm đau (ICOPE 2025 mục 4.2.4)."
+ ],
+ "bai_hoc_bien": [
+  "Người bệnh giảm nhẹ triệu chứng: dùng câu hỏi chức năng thay cho câu hỏi cảm giác; độ nặng của rối loạn đau khổ cơ thể tính theo ảnh hưởng chức năng và thời gian bận tâm, không theo lời \"không sao\" (CDDR 2024 6C20.0–6C20.2, tr. 430–431).",
+  "Người bệnh từ chối xét nghiệm: tôn trọng, giải thích một lần, ghi nhận cam kết, dùng khám lâm sàng và kết quả cũ làm phương án B, đặt mốc mở lại hồ sơ; không ép, không hù dọa (Luật KBCB 2023 Điều 10, 11, 13; QĐ 2058/2020 Bài 25 mục 5).",
+  "Cơ thể hóa ở người ≥ 75 tuổi: chẩn đoán dựa vào kiểu hình nhiều năm cộng loại trừ có chỉ định, luôn đặt điểm dừng chẩn đoán; không dùng benzodiazepin hay thuốc Z; thận trọng SSRI (QĐ 2058/2020 Bài 25 mục 3.1.1, 4.1; CDDR 2024 tr. 433; Beers 2023 Bảng 2, 4)."
+ ],
+ "diem_nho": [
+  "ICD-10 F45.0: ≥ 2 năm nhiều triệu chứng thay đổi, từ chối trấn an, tật chứng xã hội (QĐ 2058/2020 Bài 25 mục 3.1.1). ICD-11 6C20: hầu hết các ngày ≥ vài tháng (ví dụ ≥ 3 tháng), chú ý quá mức sau trấn an, ảnh hưởng chức năng; mức vừa: nghĩ về triệu chứng vài giờ mỗi ngày (CDDR 2024, tr. 429–431)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 25 (mục 1, 3.1.1, 3.1.2, 3.2, 4.1–4.3, 5, 6).",
+  "WHO – Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders (CDDR), 2024 – TL-0571 – 6C20 Bodily distress disorder (tr. 429–435).",
+  "BYT – Thông tư mã hóa bệnh tật ICD-10, 2026 – TL-0001 – mã F45.0 (Somatization disorder), F45.1 (Phụ lục).",
+  "WHO – ICOPE 2025, Integrated care for older people (guidance for person-centred assessment and pathways in primary care) – TL-0016 – Bảng 3.1 (tr. 19), mục 4.2.4.",
+  "AGS – Beers Criteria 2023, J Am Geriatr Soc 71:2052–2081 – TL-0022 – Bảng 2 (benzodiazepin, thuốc Z, NSAID), Bảng 4 (SSRI), Bảng 6.",
+  "Quốc hội – Luật Khám bệnh, chữa bệnh 15/2023/QH15 – TL-0007 – Điều 10 khoản 2, 4; Điều 11 khoản 1; Điều 13 khoản 1.",
+  "NICE – CG103 2010, Delirium: prevention, diagnosis and management – TL-0108 – khuyến cáo 1.2.1."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 2026-11-18. Đã đọc: TL-0443 Bài 25; TL-0571 6C20 (tr. 429–435); TL-0001 F45.0, F45.1; TL-0016 Bảng 3.1, mục 4.2.4; TL-0022 Bảng 2, 4; TL-0007 Điều 10, 11, 13; TL-0108 1.2.1 (theo ca TT-0216).",
+  "Không có trong tài liệu đã tải: tiêu chuẩn chẩn đoán riêng cho ≥ 75 tuổi; tiêu chuẩn nhập viện, chuyển tuyến cho cơ thể hóa; liều khởi đầu và thời gian dùng thuốc chống trầm cảm ở người cao tuổi; số buổi, kỹ thuật thư giãn; cơ chế lạnh làm nặng đau mỏi; cách tách người nhà để hỏi riêng; ngưỡng MoCA; thuốc nam không rõ thành phần; thời hạn dùng kết quả xét nghiệm cũ.",
+  "Biến sổ cái: nữ 79 tuổi, điển hình, 1 lượt, nhiễu phủ nhận triệu chứng nặng, từ chối xét nghiệm (khoa_cls null, mỗi cls kèm r mô tả từ chối), buôn bán nhỏ, khởi phát sau đợt không khí lạnh, thuốc đang dùng không rõ loại, lý do thật muốn kiểm tra tổng quát, kết cục ổn định khỏi bệnh. Mâu thuẫn: theo mục sổ có sẵn (ngưỡng thời gian và tiên lượng cơ thể hóa TT-0211; benzodiazepin TT-0177; SSRI ở người cao tuổi TT-0216; thuốc nam không rõ thành phần); không mục mới.",
+  "Do người viết dựng: tên nhân vật, kết quả cũ 5 tháng trước, nội dung túi thuốc, quỹ đạo hồi phục, mốc tái khám 2 tuần và 4–6 tuần, mốc 6 tháng của kết quả cũ. Áp dụng ở ≥ 75 tuổi: tài liệu của QĐ 2058/2020 không phân tuổi; CDDR 2024 có mục riêng người cao tuổi (tr. 433)."
+ ]
+}
