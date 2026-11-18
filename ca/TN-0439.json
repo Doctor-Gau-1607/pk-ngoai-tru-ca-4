@@ -1,0 +1,636 @@
+{
+ "ma_ca": "TN-0439",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-18)",
+ "benh": "TN_suy_sinh_duc_nam",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Suy sinh dục nam / testosterone thấp",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Suy giáp"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Lễ tân khách sạn",
+  "yeu_to_khoi_phat": "Sau stress công việc",
+  "thuoc_dang_dung": "Thuốc dị ứng tự mua theo mùa",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch"
+ },
+ "benh_nhan": {
+  "ten": "Hồ Minh Khôi",
+  "tuoi": 47,
+  "gioi": "Nam",
+  "nghe": "Lễ tân khách sạn (ca xoay vòng: một tuần ca sáng, một tuần ca đêm 22 giờ – 6 giờ)",
+  "can_nang": 78,
+  "chieu_cao": 168,
+  "xung_ho": "Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'. Bác sĩ gọi anh là 'anh Khôi'.",
+  "tinh_cach": "Lịch sự, nhã nhặn theo kiểu nghề lễ tân: luôn mỉm cười, nói giảm nói tránh, sợ làm phiền người khác. Quen chịu đựng, coi mệt mỏi là 'chuyện thường của người trực đêm'. Rất ngại nói chuyện vợ chồng với người lạ, sợ bị coi là yếu.",
+  "kieu_nhieu": "Giấu tiền sử: hỏi chung 'trước đây có xét nghiệm gì, uống thuốc gì không' thì anh cười đáp 'dạ không có đâu bác sĩ, em khỏe lắm'. Chỉ kể chuyện tự thử testosterone, uống 'thuốc bổ thận' và triệu chứng tình dục khi bác sĩ hỏi riêng, kín đáo, không phán xét. Bị hỏi dồn thì anh cười xòa, chuyển sang chuyện ca trực.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9ad8a",
+   "toc": "#1f1b19",
+   "kieuToc": "ngan",
+   "ao": "#31506e",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Mệt mỏi, đau đầu âm ỉ nhiều tháng, xin truyền dịch cho khỏe",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Phòng khám tư có xét nghiệm (công thức máu, sinh hóa, xét nghiệm nội tiết gửi phòng xét nghiệm đối tác, có kết quả trong ngày) và siêu âm. Không có X-quang, đo mật độ xương DXA, CT, MRI, nội soi. Không có khám thị trường chuyên khoa mắt. Bệnh viện tỉnh cách khoảng 80 km (gần 2 giờ đi xe khách) có khoa nội tiết, mắt, chẩn đoán hình ảnh có MRI."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Hồ Minh Khôi, 47 tuổi, lễ tân khách sạn, đến phòng khám lúc 7 giờ 30 sáng (tuần này anh xoay sang ca sáng, chưa ăn sáng), đi một mình. Anh nói mấy tháng nay người 'đuối', hay đau đầu âm ỉ, khó tập trung, từ khi khách sạn cắt giảm nhân viên và anh phải gánh thêm việc. Anh đến chủ yếu để xin truyền một chai nước biển cho 'lại sức' như vài đồng nghiệp từng làm. Sinh hiệu: mạch 66 l/p, HA 118/76 mmHg, nhiệt độ 36,8 °C, nhịp thở 16 l/p, SpO₂ 98%, cân nặng 78 kg, cao 168 cm.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Anh Khôi được trấn an 'do stress, thiếu ngủ', cho thuốc bổ, hẹn tái khám một tháng. Đau đầu mới và hạn chế thị trường là dấu hiệu khối vùng yên, cần MRI có thuốc đối quang (EAU 2026 mục 3.3.4, 3.3.5; Endocrine Society 2018 khuyến cáo 1.4 Evidence); prolactin rất cao thường gặp khi u lớn (Endocrine Society 2011 khuyến cáo 1.1 Evidence). Hoãn một tháng, u có thể chèn giao thoa nhiều hơn, anh tiếp tục va vào cửa và có nguy cơ tai nạn khi chạy xe.",
+    "nhap_vien": "Anh bị giữ ở bệnh viện huyện để truyền dịch và thuốc bổ, nơi không có MRI lẫn bác sĩ nội tiết. Anh tỉnh, ăn uống được, sinh hiệu ổn, chưa có dấu hiệu cần gấp (đau đầu dữ dội đột ngột, mất thị lực đột ngột; Pituitary Society 2023, mục Imaging). Anh mất ngày công, tốn chi phí, tin 'truyền dịch là hợp', còn bệnh thật chưa được chụp hình và chưa có thuốc đặc hiệu."
+   },
+   "loi_mo": "Chào bác sĩ. Dạo này em mệt lắm, người cứ đuối đuối, đầu âm ỉ, làm việc không tập trung. Chắc do công việc áp lực quá. Bác sĩ truyền cho em chai nước biển với thuốc bổ cho lại sức giùm em, tuần sau là em đổi ca đêm rồi.",
+   "sinh_hieu": {
+    "mach": 66,
+    "ha": "118/76",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mệt, 'đuối', khó tập trung khoảng sáu tháng, tệ hơn từ khi khách sạn cắt giảm nhân viên: anh làm thêm việc, xoay ca một tuần sáng một tuần đêm, ngủ ngày 5–6 giờ chập chờn. Anh nghĩ do áp lực công việc và thiếu ngủ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, yếu tố khởi phát (stress công việc), thời gian"
+    },
+    {
+     "id": "dau_dau",
+     "noi_dung": "Đau đầu mới xuất hiện cùng khoảng năm đến sáu tháng nay, âm ỉ vùng trán và hai bên thái dương, uống paracetamol thì đỡ; không nôn, không sốt, không chấn thương đầu, không đột ngột dữ dội. Trước đây anh gần như không bao giờ đau đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cờ đỏ: đau đầu mới khởi phát ở nam trung niên (gợi khối vùng yên)"
+    },
+    {
+     "id": "thi_giac",
+     "noi_dung": "Hai ba tháng nay anh hay va vai vào khung cửa và góc quầy lễ tân, nhất là phía bên trái, khách đứng sát hai bên anh thường 'bỗng xuất hiện'. Thị lực nhìn thẳng thì anh thấy bình thường. Hai tháng trước anh ra tiệm kính đo thử, họ nói 'không cận không loạn, nên đi khám mắt chuyên khoa', anh bỏ qua vì bận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cờ đỏ: thu hẹp thị trường hai bên thái dương (gợi chèn ép giao thoa thị giác)"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Khoảng một năm nay ham muốn giảm rõ, sáng ngủ dậy gần như không còn cương, khi gần vợ cương yếu và không duy trì, chỉ quan hệ khoảng một lần mỗi tháng. Anh thấy xấu hổ, nghĩ do tuổi và áp lực nên chưa nói với ai kể cả vợ.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Triệu chứng tình dục (đặc hiệu nhất) bị giấu; xuất hiện trước đợt stress",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng, kín đáo, không phán xét về đời sống vợ chồng, ham muốn, cương buổi sáng (vd 'ở tuổi anh nhiều người thấy ham muốn và chuyện vợ chồng thay đổi, anh có thấy vậy không?'). Hỏi dồn dập hoặc có người ngoài thì anh cười xòa, nói 'bình thường thôi bác sĩ'."
+    },
+    {
+     "id": "xn_cu",
+     "noi_dung": "Ba tháng trước, sau khi đọc báo, anh tự đến phòng xét nghiệm tư thử testosterone lúc 3 giờ chiều, không nhịn ăn: 5,1 nmol/L, phiếu in mũi tên thấp. Anh sợ nên không hỏi bác sĩ nào, mua 'viên bổ thận tráng dương' ở tiệm thuốc đông y uống hai tháng mà không khá hơn, rồi bỏ. Phiếu xét nghiệm gấp trong ví.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tiền sử bị giấu: mẫu testosterone thấp trước đó (chưa đúng quy cách), thuốc bổ không rõ thành phần",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi lại không phán xét về xét nghiệm hormone hoặc thuốc bổ đã mua (vd 'anh có từng thử xét nghiệm gì hay mua thuốc bổ nào chưa, nhiều người làm vậy mà không dám nói'). Hỏi chung 'có xét nghiệm, đơn thuốc cũ không' thì anh đáp 'không có đâu bác sĩ'."
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mùa mưa nghẹt mũi, hắt hơi nên anh tự mua loratadin 10 mg uống khi cần, thỉnh thoảng; lâu lâu uống paracetamol 500 mg khi đau đầu. Không dùng corticoid, thuốc giảm đau gây nghiện, thuốc an thần, thuốc chữa dạ dày, thuốc tập gym hay thuốc tiêm nào. Không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng; loại trừ thuốc ức chế trục sinh dục hoặc làm tăng prolactin"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Anh buồn nản, hơi cáu và dễ mệt, nhưng vẫn thích xem bóng đá, vẫn đi làm đủ, ăn được; không mất hứng thú hoàn toàn, không ý nghĩ tự hại hay chán sống. Anh cho rằng đây chỉ là 'stress thường'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt với trầm cảm (chẩn đoán phải loại trừ)"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Anh không sợ lạnh, không táo bón, da không khô, cân nặng tăng khoảng 2 kg trong hai năm, mạch bình thường, không hồi hộp, không run tay, không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt với suy giáp (chẩn đoán phải loại trừ)"
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không đái tháo đường, không tăng huyết áp, không chấn thương đầu, không xạ trị vùng đầu cổ, không bệnh gan thận, không viêm tinh hoàn, không chấn thương hay mổ tinh hoàn, không ẩn tinh hoàn. Dậy thì bình thường, râu mọc chậm dạo này (cạo hai ngày một lần, trước đây mỗi ngày).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ nguyên nhân nguyên phát và nguyên nhân thứ phát khác"
+    },
+    {
+     "id": "con_cai",
+     "noi_dung": "Anh có hai con (15 và 11 tuổi) sinh tự nhiên, vợ 44 tuổi; vợ chồng không có ý định sinh thêm con.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ý định sinh con (quyết định có thể dùng testosterone hay không)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: vài đồng nghiệp nói 'truyền một chai là khỏe lại', anh muốn được truyền để ngày mai đỡ mệt mà đi làm. Anh không nghĩ mình có bệnh nội tiết. Anh nghe theo bác sĩ nếu được giải thích rõ vì sao chai nước biển không chữa được cái mệt của anh và việc cần làm là gì.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: muốn được truyền dịch",
+     "dieu_kien_lo": "Chỉ nói rõ khi bác sĩ hỏi anh mong muốn gì từ buổi khám hôm nay hoặc đã nghe ai nói về truyền dịch; nếu không anh chỉ nói 'cho em lại sức'."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, vẻ mệt. Cân 78 kg, cao 168 cm, BMI 27,6 kg/m²; vòng eo 94 cm. Da mịn, lông nách và lông ngực thưa, râu thưa. Niêm mạc hồng.",
+     "k": 1,
+     "hien": "Anh mệt, da mịn, râu và lông ngực thưa. Cân 78 kg, cao 168 cm, vòng eo 94 cm."
+    },
+    "mat": {
+     "a": "Thị lực nhìn thẳng 10/10 hai mắt, đồng tử đều, phản xạ ánh sáng tốt. Thị trường đối diện: hạn chế phần thái dương hai mắt (bán manh thái dương hai bên), rõ hơn ở mắt trái. Không liệt vận nhãn.",
+     "k": 1,
+     "hien": "Anh đọc bảng chữ tốt. Khi bác sĩ đưa ngón tay từ hai bên thái dương vào, anh thấy muộn hơn bình thường, nhất là bên trái."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt, các dây sọ khác bình thường, sức cơ và phản xạ gân xương bình thường, không dấu màng não.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Hai tinh hoàn trong bìu, mật độ mềm, thể tích giảm (ước khoảng 12 mL mỗi bên, thước đo tinh hoàn), mào tinh và thừng tinh bình thường, không giãn tĩnh mạch thừng tinh, không đau. Dương vật kích thước bình thường.",
+     "k": 1,
+     "hien": "Hai tinh hoàn mềm, hơi nhỏ so với tuổi."
+    },
+    "vu": {
+     "a": "Hai bên không to mô tuyến vú, không khối, ấn quanh núm vú không tiết dịch.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch. Tuyến giáp không to, không nhân.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Khí sắc hơi trầm nhưng đáp ứng cảm xúc phù hợp, tư duy mạch lạc, không hoang tưởng, không ý tưởng tự sát. PHQ-9: 8 điểm (nhẹ: mệt, ngủ chập chờn, khó tập trung, hơi chán; mục 9 = 0).",
+     "k": 1,
+     "hien": "Anh hơi trầm nhưng trả lời rõ ràng, lịch sự."
+    },
+    "tim": {
+     "a": "Tim đều 66 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 66 l/p."
+    }
+   },
+   "cls": {
+    "androgen": {
+     "v": "e",
+     "r": "Testosterone toàn phần 4,4 nmol/L (≈ 127 ng/dL), lấy 7 giờ 40 sáng, nhịn ăn, sau giấc ngủ đêm 6 giờ · DHEA-S 3,1 µmol/L (thấp theo khoảng của phòng xét nghiệm)",
+     "ab": 1,
+     "n": "Sáng 7–10 giờ, nhịn ăn; người trực đêm lấy sau giấc ngủ đủ (EAU 2026 mục 3.3.4, 3.3.5). Thấp hơn mọi ngưỡng: 12 nmol/L (EAU 2026), 300 ng/dL ≈ 10,4 nmol/L (AUA 2018 khuyến cáo 1), 264 ng/dL ≈ 9,2 nmol/L (Endocrine Society 2018 chú thích Hình 1); cùng mẫu cũ 5,1 nmol/L ⇒ nhất quán (Endocrine Society 2018 khuyến cáo 1.1; AUA 2018 khuyến cáo 2). < 6 nmol/L hoặc < 150 ng/dL (5,2 nmol/L) nên chụp MRI tuyến yên (EAU 2026 mục 3.3.5; Endocrine Society 2018 khuyến cáo 1.4)."
+    },
+    "fsh_lh": {
+     "v": "e",
+     "r": "LH 1,2 IU/L · FSH 1,9 IU/L · Estradiol 38 pmol/L (LH, FSH thấp so với testosterone rất thấp: không tương xứng)",
+     "ab": 1,
+     "n": "Phân biệt nguyên phát (LH tăng) với thứ phát (LH thấp hoặc 'bình thường không tương xứng') (EAU 2026 mục 3.3.4, Hình 3.1; AUA 2018 khuyến cáo 6; Endocrine Society 2018 khuyến cáo 1.3). Thấp ⇒ suy sinh dục thứ phát."
+    },
+    "prl": {
+     "v": "e",
+     "r": "Prolactin 340 ng/mL (≈ 340 µg/L; giới hạn trên bình thường ở nam < 25 µg/L)",
+     "ab": 1,
+     "n": "Đo prolactin khi testosterone thấp kèm LH thấp hoặc 'bình thường không tương xứng' (AUA 2018 khuyến cáo 7; EAU 2026 mục 3.3.5). > 250 µg/L thường là u tiết prolactin (Endocrine Society 2011 khuyến cáo 1.1 Evidence); > 200 ng/mL thì u tiết prolactin nhiều khả năng hơn (Pituitary Society 2023, Hình 2). Bình thường ở nam thường < 25 µg/L (Endocrine Society 2011)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 1,6 mIU/L · FT4 14 pmol/L (bình thường)",
+     "ab": 0,
+     "n": "Loại trừ suy giáp (ATA 2014, TL-0326: khoảng TSH 0,4–4,0 mIU/L); suy giáp nguyên phát cũng có thể làm tăng prolactin (Pituitary Society 2023, bảng nguyên nhân). Nên sàng lọc thiếu hụt TSH, ACTH, GH ở macroadenoma (Pituitary Society 2023)."
+    },
+    "cortisol_sang": {
+     "v": "u",
+     "r": "Cortisol huyết thanh 8 giờ: 340 nmol/L (bình thường)",
+     "ab": 0,
+     "n": "Sàng lọc thiếu hụt ACTH khi nghi macroadenoma (Pituitary Society 2023: ở 81 nam, thiếu ACTH 0% với u 10–19 mm, 6,9% với u 20–39 mm). Ngưỡng diễn giải: không có trong tài liệu đã tải; nội tiết tuyến trên đánh giá tiếp."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,8 G/L · Hb 134 g/L · Hct 40% · TC 245 G/L",
+     "ab": 0,
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58.0,
+      "neu": 3.94,
+      "lym_pct": 33.0,
+      "lym": 2.24,
+      "mono_pct": 7.0,
+      "mono": 0.48,
+      "eos_pct": 1.7,
+      "eos": 0.12,
+      "baso_pct": 0.3,
+      "baso": 0.02,
+      "rbc": 4.5,
+      "hgb": 134,
+      "hct": 0.4,
+      "mcv": 88.9,
+      "mch": 29.8,
+      "mchc": 335,
+      "rdw": 13.1,
+      "plt": 245
+     },
+     "n": "Hb hơi thấp, hồng cầu bình thường: phù hợp thiếu androgen (Hb sẽ tăng lại khi testosterone về bình thường; AUA 2018 khuyến cáo 14). Hct 40% là mốc nền trước khi cân nhắc testosterone (AUA 2018 khuyến cáo 11; Hct 48–50% tương đối, ≥ 54% tuyệt đối chống chỉ định: EAU 2026 Bảng 3.4)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose máu đói 5,3 mmol/L",
+     "ab": 0,
+     "bang": {
+      "glu": 5.3
+     },
+     "n": "Đồng mắc liên quan suy sinh dục chức năng: béo phì, đái tháo đường (EAU 2026 mục 3.2). Bình thường: không hỗ trợ nguyên nhân chức năng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Suy sinh dục nam thứ phát (giảm gonadotropin) nặng do tăng prolactin máu, nghi u tuyến yên tiết prolactin kích thước lớn (macroprolactinoma) có chèn ép giao thoa thị giác: bán manh thái dương hai bên, đau đầu mới; testosterone 4,4 nmol/L, LH thấp, prolactin 340 ng/mL",
+     "ok": 1,
+     "n": "Triệu chứng tình dục + testosterone thấp nhất quán (EAU 2026 mục 3.3.5; AUA 2018 khuyến cáo 1–3; Endocrine Society 2018 khuyến cáo 1.1) + LH thấp không tương xứng ⇒ thứ phát (Endocrine Society 2018 khuyến cáo 1.3) + prolactin rất cao ⇒ u tiết prolactin (Endocrine Society 2011 khuyến cáo 1.1 Evidence; Pituitary Society 2023 Hình 2). Đau đầu mới và khuyết thị trường gợi khối vùng yên (EAU 2026 mục 3.3.2; Endocrine Society 2018 khuyến cáo 1.4). Xác định bằng MRI có thuốc đối quang (EAU 2026 mục 3.3.5, khuyến cáo mạnh)."
+    },
+    {
+     "t": "Trầm cảm",
+     "n": "PHQ-9 8 điểm, mục 9 = 0, còn thích bóng đá, đi làm đủ: dưới ngưỡng 10 (độ nhạy, độ đặc hiệu 88%; PHQ-9, TL-0600). Mệt, giảm ham muốn có thể do thiếu androgen; testosterone chỉ cải thiện triệu chứng trầm cảm nhẹ (EAU 2026 mục 3.4.2.f). Không giải thích được testosterone rất thấp, LH thấp, prolactin 340, khuyết thị trường."
+    },
+    {
+     "t": "Suy giáp",
+     "n": "Không sợ lạnh, không táo bón, mạch 66, tuyến giáp không to; TSH 1,6 mIU/L, FT4 14 pmol/L bình thường (ATA 2014, TL-0326, khoảng TSH 0,4–4,0 mIU/L). Suy giáp nguyên phát có thể làm tăng prolactin nhưng ở mức thấp hơn nhiều và TSH sẽ tăng (Pituitary Society 2023, bảng nguyên nhân tăng prolactin)."
+    },
+    {
+     "t": "Suy sinh dục chức năng do béo phì, đồng mắc, thiếu ngủ ca đêm",
+     "n": "BMI 27,6 chỉ thừa cân nhẹ, glucose bình thường; testosterone 4,4 nmol/L thấp hơn nhiều mức do béo phì đơn thuần và kèm prolactin 340. Chẩn đoán chức năng là chẩn đoán loại trừ (EAU 2026 mục 3.3, 3.3.5)."
+    },
+    {
+     "t": "Suy sinh dục nguyên phát (tinh hoàn): Klinefelter, viêm tinh hoàn, chấn thương, ẩn tinh hoàn",
+     "n": "LH, FSH thấp chứ không tăng (EAU 2026 Hình 3.1); không tiền sử viêm, chấn thương, ẩn tinh hoàn; hai con tự nhiên, không nữ hóa tuyến vú."
+    },
+    {
+     "t": "Tăng prolactin do thuốc (thuốc an thần kinh, chống nôn, kháng histamin H2…)",
+     "n": "Anh chỉ dùng loratadin (H1) và paracetamol. Pituitary Society 2023 (bảng thuốc) liệt kháng histamin H2, metoclopramid, thuốc an thần kinh; một số thuốc như risperidon, metoclopramid làm prolactin > 200 µg/L ở người không có u (Endocrine Society 2011 khuyến cáo 1.1 Evidence): anh không dùng."
+    },
+    {
+     "t": "Suy tuyến yên nhiều trục (thiếu ACTH, TSH, GH), ung thư/u khác vùng yên, đột quỵ tuyến yên",
+     "n": "Cortisol 8 giờ và TSH/FT4 bình thường nên chưa gợi suy nhiều trục, nhưng nội tiết cần đánh giá lại (Pituitary Society 2023). Không đau đầu dữ dội đột ngột, mất thị lực cấp: chưa nghĩ apoplexy (Pituitary Society 2023, mục Imaging). Loại u khác của vùng yên: cần MRI."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng, kín đáo, không phán xét về ham muốn, cương buổi sáng, đời sống vợ chồng, xét nghiệm hormone và thuốc bổ đã dùng; hỏi đau đầu, va chạm khi đi lại, ý định sinh thêm con",
+     "v": "c",
+     "n": "Triệu chứng tình dục là đặc hiệu nhất (EAU 2026 mục 3.3.5, Bảng 3.2); đau đầu hoặc rối loạn thị giác gợi bệnh vùng yên, luôn bàn về sinh con (EAU 2026 mục 3.3.2); loại trừ thuốc và chất can thiệp trục sinh dục (EAU 2026 mục 3.3.5 khuyến cáo 1; AUA 2018 khuyến cáo 4)."
+    },
+    {
+     "t": "Khám thị trường đối diện, đáy mắt, tinh hoàn, vú, BMI và vòng eo",
+     "v": "c",
+     "n": "EAU 2026 mục 3.3.3 (BMI, vòng eo, kích thước tinh hoàn); khám thị trường ở người có nguy cơ u chèn giao thoa (Endocrine Society 2011 4.1 Remarks mục 3; Endocrine Society 2018 khuyến cáo 1.4 Evidence: khuyết thị trường là chỉ định MRI). Kỹ thuật khám thị trường đối diện: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Xét nghiệm buổi sáng nhịn ăn (sau giấc ngủ đủ với người trực đêm): testosterone toàn phần, LH, FSH, prolactin, TSH + FT4; công thức máu, glucose",
+     "v": "c",
+     "n": "EAU 2026 mục 3.3.4, 3.3.5; AUA 2018 khuyến cáo 1–3, 6, 7; Endocrine Society 2018 khuyến cáo 1.1, 1.3. Lặp lại testosterone: mẫu cũ của anh 5,1 nmol/L không đúng quy cách nên chỉ tham khảo; khi chuyển tuyến, nội tiết sẽ lặp lại nếu cần."
+    },
+    {
+     "t": "Chẩn đoán: suy sinh dục thứ phát nặng do tăng prolactin, nghi u tuyến yên lớn có chèn ép; chuyển tuyến sớm (trong vài ngày, không cấp cứu) đến bệnh viện có nội tiết, MRI tuyến yên có thuốc đối quang và khám thị trường chuyên khoa",
+     "v": "c",
+     "n": "MRI tuyến yên khi suy sinh dục thứ phát kèm prolactin tăng hoặc triệu chứng của khối (khuyến cáo mạnh) và khi testosterone < 6 nmol/L (yếu) (EAU 2026 mục 3.3.5); Endocrine Society 2018 khuyến cáo 1.4 Evidence: testosterone < 150 ng/dL (5,2 nmol/L), tăng prolactin kéo dài, khuyết thị trường, đau đầu mới; AUA 2018 Phụ lục C. Ngưỡng testosterone khác nhau nhưng ca này vượt cả ba (sổ mâu thuẫn TN-0439). AUA 2018 Phụ lục C cho phép bác sĩ có kinh nghiệm kê cabergoline mà chưa cần nội tiết; ca có chèn ép thị giác cần MRI và đo thị trường trước, phòng khám lại không có MRI nên chuyển."
+    },
+    {
+     "t": "Không truyền dịch/thuốc bổ theo yêu cầu; giải thích bằng chính bệnh của anh: mệt do thiếu hormone sinh dục vì u vùng yên, chai nước biển không chữa; việc phải làm là chụp MRI và gặp bác sĩ nội tiết",
+     "v": "c",
+     "n": "Giao tiếp, xử lý lý do thật. Không có dấu hiệu mất nước (sinh hiệu ổn, ăn uống được). Chỉ định truyền dịch ở ca này: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn: đau đầu dữ dội đột ngột, mờ hoặc mất thị lực đột ngột, nhìn đôi, nôn nhiều ⇒ đến cấp cứu ngay; viết thư chuyển tuyến kèm toàn bộ kết quả xét nghiệm và phiếu xét nghiệm cũ",
+     "v": "c",
+     "n": "Triệu chứng nghi apoplexy cần chụp hình ngay (Pituitary Society 2023, mục Imaging). Thư chuyển ghi: thị trường hạn chế thái dương hai bên, prolactin 340 ng/mL, testosterone 4,4 nmol/L, LH 1,2 IU/L."
+    },
+    {
+     "t": "Hẹn gặp lại sau khi có kết quả từ tuyến trên (khoảng 3 tháng) để theo dõi bằng xét nghiệm lặp",
+     "v": "c",
+     "n": "Sau khởi cabergoline: prolactin từ tháng thứ nhất, MRI lặp và khám thị trường ở macroadenoma gần giao thoa (Endocrine Society 2011 khuyến cáo 4.1 Remarks); MRI lặp 3–6 tháng sau khởi thuốc (Pituitary Society 2023, mục Imaging)."
+    },
+    {
+     "t": "Kê testosterone (tiêm hoặc gel) ngay vì testosterone thấp và để anh hết mệt, hết đuối",
+     "v": "w",
+     "n": "Nguyên nhân thực thể chưa điều trị: điều trị nguyên nhân trước (EAU 2026 mục 3.4.3.c, mạnh). Testosterone không dùng để tăng sức sống (EAU 2026 mục 3.4.2.f, mạnh); u lớn cần thận trọng vì u có thể phát triển, chỉ cân nhắc sau > 6 tháng điều trị thuốc (Pituitary Society 2023, mục Hypogonadism)."
+    },
+    {
+     "t": "Kết luận 'stress, thiếu ngủ ca đêm', kê thuốc an thần hoặc chống trầm cảm, hẹn tái khám 1 tháng",
+     "v": "w",
+     "n": "Bỏ sót khối vùng yên: PHQ-9 8 điểm dưới ngưỡng trầm cảm; khuyết thị trường và prolactin 340 không do stress. Trì hoãn để u chèn giao thoa (thị trường cải thiện ở trung vị 67% bệnh nhân điều trị: Endocrine Society 2011 khuyến cáo 4.1 Evidence)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Suy sinh dục nam thứ phát (giảm gonadotropin) nặng, khởi phát ở người lớn: testosterone toàn phần 4,4 nmol/L (≈ 127 ng/dL; mẫu cũ 5,1 nmol/L), LH 1,2, FSH 1,9 IU/L, kèm giảm ham muốn, mất cương buổi sáng, tinh hoàn hơi nhỏ, lông râu thưa, thiếu máu nhẹ (Hb 134 g/L) (EAU 2026 mục 3.3.5; AUA 2018 khuyến cáo 1–3, 6; Endocrine Society 2018 khuyến cáo 1.1, 1.3)",
+     "Nguyên nhân nghi: tăng prolactin 340 ng/mL do u tuyến yên tiết prolactin kích thước lớn (macroprolactinoma) có chèn ép giao thoa thị giác (bán manh thái dương hai bên, đau đầu mới); chờ MRI tuyến yên xác nhận (EAU 2026 mục 3.3.5; Endocrine Society 2018 khuyến cáo 1.4; Endocrine Society 2011 khuyến cáo 1.1; Pituitary Society 2023 Hình 2)",
+     "Đã loại trên lâm sàng và xét nghiệm: trầm cảm (PHQ-9 8, mục 9 = 0), suy giáp (TSH 1,6, FT4 14), suy sinh dục nguyên phát, tăng prolactin do thuốc, suy sinh dục chức năng đơn thuần; chưa thấy suy thượng thận (cortisol 8 giờ 340 nmol/L), nội tiết đánh giá lại các trục tuyến yên",
+     "Nhiễu và lý do thật: giấu tiền sử (xét nghiệm testosterone cũ, thuốc bổ thận, triệu chứng tình dục); muốn được truyền dịch 'cho lại sức'; ca đêm làm lệch giờ lấy mẫu máu (phải lấy sau giấc ngủ đủ)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi riêng tình dục, đau đầu, thị giác, xét nghiệm và thuốc đã dùng (hỏi lại lần hai nếu 'không có') → khám thị trường, tinh hoàn, vú, BMI → testosterone sáng nhịn ăn, LH, FSH, prolactin, TSH, FT4 → chẩn đoán suy sinh dục thứ phát do tuyến yên → chuyển MRI (EAU 2026 mục 3.3.2–3.3.5; AUA 2018 khuyến cáo 1–4, 6–8).",
+     "Không điển hình: anh đến vì mệt, xin truyền dịch chứ không vì rối loạn cương; triệu chứng tình dục đặc hiệu nhất bị giấu (EAU 2026 mục 3.3.5), còn mệt và kém tập trung kém đặc hiệu (Bảng 3.2) nên dễ quy cho stress, ca đêm. Điều suýt bỏ qua: đau đầu mới và va vào cửa hai bên là dấu hiệu chèn ép giao thoa (EAU 2026 mục 3.3.2).",
+     "Ngưỡng testosterone (mâu thuẫn trong sổ): EAU 2026 12 nmol/L; AUA 2018 khuyến cáo 1: 300 ng/dL (≈ 10,4) với hai mẫu sáng; Endocrine Society 2018 chú thích Hình 1: giới hạn dưới nam trẻ khỏe 264 ng/dL (≈ 9,2). Anh 4,4 nmol/L, thấp hơn cả ba. Ngưỡng MRI: EAU < 6 nmol/L; ES, AUA < 150 ng/dL (≈ 5,2); anh dưới cả hai. Ngưỡng prolactin gợi u: > 250 µg/L (Endocrine Society 2011) hoặc > 200 ng/mL (Pituitary Society 2023); 340 vượt cả hai.",
+     "Lấy mẫu sáng nhịn ăn, sau giấc ngủ đủ với người ca đêm (EAU 2026 mục 3.3.4); mẫu không nhịn ăn có thể thấp giả > 30% nên mẫu cũ 5,1 chỉ tham khảo. Với testosterone rất thấp kèm khối vùng yên, chờ mẫu lặp không được làm chậm MRI. Lý do thật (xin truyền dịch) lộ khi hỏi 'anh mong muốn gì từ buổi khám'."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến vì cần MRI tuyến yên có thuốc đối quang, đo thị trường và bác sĩ nội tiết (EAU 2026 mục 3.3.5; Endocrine Society 2011 khuyến cáo 4.1 Remarks mục 3); cơ sở không có X-quang nên cũng không có MRI, CT, DXA.",
+     "Không dùng testosterone lúc này: điều trị nguyên nhân thực thể trước (EAU 2026 mục 3.4.3.c); u lớn cần thận trọng, chỉ cân nhắc sau > 6 tháng điều trị thuốc, dạng tác dụng ngắn như gel (Pituitary Society 2023, mục Hypogonadism).",
+     "Thuốc đồng vận dopamin, ưu tiên cabergoline, làm giảm prolactin, co u, phục hồi chức năng sinh dục (Endocrine Society 2011 khuyến cáo 4.1): do nội tiết kê sau MRI. Dặn dấu hiệu cấp cứu (Pituitary Society 2023); tránh làm việc nguy hiểm hoặc lái xe một mình khi tầm nhìn hẹp: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau đầu, cách ít nhất 6 giờ; tối đa 4 g/24 giờ",
+      "so_ngay": "Vài ngày, đến khi gặp bác sĩ nội tiết",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), Hướng dẫn sử dụng thuốc giảm đau, mục 3.1 (paracetamol 500–1.000 mg mỗi 6–8 giờ, tối đa 4 g/24 giờ). Đau đầu tăng nhanh, nôn, mờ mắt đột ngột: không dùng thuốc mà đi cấp cứu."
+     },
+     {
+      "thuoc": "Testosterone (gel hoặc tiêm) và 'thuốc bổ thận' đã mua",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không dùng",
+      "duong": "Không",
+      "thoi_diem": "Không",
+      "so_ngay": "Không",
+      "ghi_chu": "Không dùng testosterone khi nguyên nhân thực thể chưa điều trị (EAU 2026 mục 3.4.3.c). Thành phần và độc tính 'thuốc bổ thận': không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Hormone sinh dục nam (testosterone) của anh thấp rất nhiều vì có thể có một khối nhỏ ở tuyến yên dưới đáy não làm tăng hormone prolactin; khối này cũng gây đau đầu và thu hẹp tầm nhìn hai bên khiến anh va vào cửa. Bệnh này có thuốc điều trị.",
+     "Anh cần đi chụp MRI vùng tuyến yên, khám mắt đo thị trường và gặp bác sĩ nội tiết ở bệnh viện tỉnh trong vài ngày tới, mang theo thư chuyển tuyến, phiếu xét nghiệm hôm nay và phiếu testosterone cũ (EAU 2026 mục 3.3.5; Endocrine Society 2011 4.1 Remarks).",
+     "Hôm nay chưa cần truyền dịch: chai nước biển không chữa được cái mệt của anh. Chưa tiêm hay bôi testosterone vì cần chữa nguyên nhân trước. Không uống thêm 'thuốc bổ thận'.",
+     "Đến cấp cứu NGAY nếu đau đầu dữ dội đột ngột, mờ hoặc mất thị lực, nhìn đôi, nôn nhiều (Pituitary Society 2023). Chuyện ham muốn, cương là triệu chứng của bệnh, không phải anh yếu; anh có thể nói với vợ. Hẹn gặp lại khi có kết quả từ bệnh viện tỉnh."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Ba tháng sau anh Khôi quay lại phòng khám gần nhà, mang giấy từ bệnh viện tỉnh. Anh đã đi khám ngày thứ ba sau lượt trước: MRI tuyến yên có thuốc đối quang thấy khối 18 mm chạm bờ dưới giao thoa thị giác, chưa xâm lấn xoang hang; thị trường: bán manh thái dương hai bên nhẹ; prolactin 352 ng/mL; cortisol sáng, TSH, FT4 bình thường. Bác sĩ nội tiết chẩn đoán u tiết prolactin, kê cabergoline 0,25 mg × 2 lần/tuần (0,5 mg/tuần) ba tháng nay, hẹn MRI và thị trường lại sau ba tháng nữa. Hôm nay anh đỡ nhiều nhưng chưa 'như xưa', nhờ 'cho mũi hormone nam như bạn em' hoặc 'truyền chai cho nhanh' vì đi bệnh viện tỉnh mất cả ngày. Sinh hiệu: mạch 64 l/p, HA 114/72 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 77 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Khôi bị chuyển ngay lên phẫu thuật thần kinh vì 'testosterone vẫn còn thấp'. Kháng thuốc chỉ xác định khi prolactin không về bình thường hoặc u không co ≥ 50% ở liều dung nạp tối đa, và phải tăng liều tối đa trước khi bàn mổ (Endocrine Society 2011 khuyến cáo 5.1); anh đã bình thường prolactin, hết đau đầu, thị trường khá hơn, còn tuyến sinh dục cần ≥ 6 tháng sau khi prolactin bình thường (Pituitary Society 2023). Anh mất thêm một ngày đường, tốn tiền, lo sợ mổ và nghi ngờ thuốc đang có tác dụng.",
+    "nhap_vien": "Anh được giữ nằm viện 'theo dõi hormone' và tiêm testosterone ngay. Anh ổn, không có dấu hiệu nặng nào: tiêu chuẩn nhập viện cho tình huống này không có trong tài liệu đã tải. Anh mất việc mấy ngày, tốn kém; dùng testosterone sớm làm khó nhận ra hồi phục thật, và sau khi dùng hormone sinh dục prolactin có thể tăng, cần thận trọng ở u lớn (Pituitary Society 2023, mục Hypogonadism)."
+   },
+   "loi_mo": "Chào bác sĩ. Em uống thuốc đúng lời rồi, đầu hết đau, đi lại không còn va vào cửa. Nhưng người vẫn chưa như xưa. Bạn em ở phòng tập tiêm mũi hormone nam lên nhanh lắm. Bác sĩ tiêm cho em một mũi, hoặc truyền chai cho em lại sức, chứ lên bệnh viện tỉnh xa quá.",
+   "sinh_hieu": {
+    "mach": 64,
+    "ha": "114/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dap_ung",
+     "noi_dung": "Đau đầu hết từ khoảng ba tuần sau khi uống thuốc; không còn va vào khung cửa. Ham muốn tăng nhẹ, buổi sáng cương lại 1–2 lần mỗi tuần (trước đó gần như không), quan hệ khoảng hai lần mỗi tháng nhưng chưa duy trì tốt. Mệt đỡ khoảng một nửa, râu mọc nhanh hơn một chút.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức đáp ứng sau 3 tháng (đỡ một phần, khác thất bại điều trị)"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống 0,25 mg thứ Hai và thứ Năm. Hai tuần đầu hơi buồn nôn, chóng mặt khi đứng dậy rồi hết. Từ khi đổi sang tuần ca đêm anh quên ba liều trong ba tháng. Anh nói thật: 'nếu khỏe hẳn em định ngưng cho đỡ tốn thuốc'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, dung nạp, ý định tự ngưng thuốc"
+    },
+    {
+     "id": "xung_dong",
+     "noi_dung": "Hỏi riêng: anh không có ham muốn quá mức, không cờ bạc, không mua sắm bốc đồng, không cáu gắt bất thường; vợ nói dạo này anh vui hơn trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ rối loạn kiểm soát xung động của thuốc đồng vận dopamin"
+    },
+    {
+     "id": "dau_hieu_nang",
+     "noi_dung": "Không đau đầu dữ dội đột ngột, thị lực nhìn thẳng ổn, không nhìn đôi, không chảy dịch trong từ mũi, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu nặng (apoplexy, chảy dịch não tủy)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật vẫn như lần trước: anh muốn 'lại sức nhanh' để khỏi nghỉ việc và khỏi chạy lên bệnh viện tỉnh; nghe bạn ở phòng tập nói tiêm testosterone là lên liền. Anh nghe theo nếu bác sĩ giải thích rõ vì sao chưa tiêm và còn cần chờ bao lâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhiễu: muốn truyền dịch hoặc tiêm hormone cho nhanh"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vẻ khỏe hơn lần trước. Cân 77 kg, vòng eo 93 cm. Râu mọc rõ hơn, lông nách còn thưa.",
+     "k": 1,
+     "hien": "Anh trông tươi hơn lần trước, cân 77 kg."
+    },
+    "mat": {
+     "a": "Thị lực nhìn thẳng 10/10 hai mắt. Thị trường đối diện: mắt phải gần bình thường, mắt trái còn hạn chế nhẹ phần thái dương (cải thiện so với lượt 1).",
+     "k": 1,
+     "hien": "Anh đáp nhanh hơn lần trước khi ngón tay đưa vào từ hai bên; bên trái còn hơi trễ."
+    },
+    "tam_than": {
+     "a": "Khí sắc tốt hơn, nói chuyện cởi mở. PHQ-9: 5 điểm (ngủ chập chờn vì ca đêm, còn hơi mệt); mục 9 = 0.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 64 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 64 l/p."
+    },
+    "bui_tinh_hoan": {
+     "a": "Hai tinh hoàn mềm, thể tích ước khoảng 12 mL mỗi bên, chưa thay đổi so với lượt 1; mào tinh, thừng tinh bình thường.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "prl": {
+     "v": "e",
+     "r": "Prolactin 21 ng/mL (lượt 1: 340 ng/mL)",
+     "ab": 0,
+     "n": "Theo dõi prolactin từ tháng thứ nhất khi dùng thuốc đồng vận dopamin để chỉnh liều (Endocrine Society 2011 4.1 Remarks mục 1). Prolactin thường về bình thường và u co nhiều nhất trong 6 tháng đầu (Pituitary Society 2023)."
+    },
+    "androgen": {
+     "v": "e",
+     "r": "Testosterone toàn phần 9,8 nmol/L (≈ 283 ng/dL), lấy 7 giờ 30 sáng, nhịn ăn, sau giấc ngủ đủ (lượt 1: 4,4 nmol/L)",
+     "ab": 1,
+     "n": "Tăng nhưng chưa bình thường, nằm vùng bất đồng của sổ: thấp hơn 12 nmol/L (EAU 2026 mục 3.3.5) và 300 ng/dL ≈ 10,4 nmol/L (AUA 2018 khuyến cáo 1), nhưng cao hơn 264 ng/dL ≈ 9,2 nmol/L (Endocrine Society 2018 chú thích Hình 1). Còn triệu chứng nên coi là chưa hồi phục hoàn toàn."
+    },
+    "fsh_lh": {
+     "v": "e",
+     "r": "LH 3,4 IU/L · FSH 3,8 IU/L · Estradiol 72 pmol/L (LH, FSH tăng lên so với lượt 1)",
+     "ab": 0,
+     "n": "Trục gonadotropin đang hồi phục khi hết tăng prolactin (lượt 1: LH 1,2, FSH 1,9). Đánh giá hồi phục ≥ 6 tháng sau khi prolactin bình thường; khoảng 60% nam hồi phục (Pituitary Society 2023, mục Hypogonadism)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Suy sinh dục nam thứ phát do u tuyến yên tiết prolactin kích thước lớn (macroprolactinoma 18 mm), đáp ứng một phần sau 3 tháng cabergoline 0,5 mg/tuần: prolactin về bình thường (21 ng/mL), hết đau đầu, thị trường cải thiện; testosterone 9,8 nmol/L còn thấp và triệu chứng tình dục mới hồi phục một phần",
+     "ok": 1,
+     "n": "Prolactin về bình thường, u co nhiều nhất trong 6 tháng đầu (Pituitary Society 2023); thị trường cải thiện ở trung vị 67% (Endocrine Society 2011 khuyến cáo 4.1 Evidence). Chức năng sinh dục hồi phục chậm hơn (≥ 6 tháng sau khi prolactin bình thường, khoảng 60% nam; Pituitary Society 2023): đỡ một phần ở tháng 3 là bình thường. Testosterone 9,8 nmol/L thấp theo EAU (12) và AUA (10,4), cao hơn ngưỡng 9,2 của ES."
+    },
+    {
+     "t": "Kháng cabergoline hoặc thất bại điều trị cần mổ",
+     "n": "Kháng thuốc: prolactin không bình thường và u không co 50% ở liều dung nạp tối đa (Endocrine Society 2011 khuyến cáo 5.1). Anh 0,5 mg/tuần, prolactin đã bình thường: không đạt. Kích thước u hiện tại: chờ MRI lặp."
+    },
+    {
+     "t": "Tác dụng phụ của cabergoline: rối loạn kiểm soát xung động, buồn nôn kéo dài, tổn thương van tim",
+     "n": "Buồn nôn, chóng mặt chỉ hai tuần đầu, thường nhẹ, giảm khi khởi liều thấp, tăng chậm (Pituitary Society 2023). Hỏi riêng không có bốc đồng (Pituitary Society 2023: nên hỏi cả vợ vì bệnh nhân có thể giấu). Siêu âm tim nền chỉ khi dự kiến dùng lâu liều > 2 mg/tuần (yếu); anh 0,5 mg/tuần."
+    },
+    {
+     "t": "Biến chứng của u hoặc của thuốc: apoplexy, chảy dịch não tủy qua mũi, rối loạn thị giác khi u co nhanh",
+     "n": "Hiện không đau đầu dữ dội đột ngột, thị lực ổn, không chảy dịch trong từ mũi. U co nhanh dưới thuốc có thể gây chảy dịch não tủy hoặc rối loạn thị giác, xử trí bằng phẫu thuật (Pituitary Society 2023, mục Complications); tỉ lệ: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi đáp ứng, tuân thủ, tác dụng phụ (buồn nôn, chóng mặt), rối loạn kiểm soát xung động (hỏi riêng, nếu được hỏi cả vợ) và các dấu hiệu nặng (đau đầu dữ dội, mờ mắt, chảy dịch trong từ mũi)",
+     "v": "c",
+     "n": "Theo dõi sau khởi thuốc (Endocrine Society 2011 4.1 Remarks); tầm soát rối loạn xung động bằng hỏi bệnh nhân và người thân (Pituitary Society 2023, mục Dopamine agonists); dấu hiệu biến chứng (Pituitary Society 2023, mục Complications)."
+    },
+    {
+     "t": "Xét nghiệm buổi sáng nhịn ăn (sau giấc ngủ đủ): prolactin, testosterone toàn phần, LH, FSH; công thức máu (Hct)",
+     "v": "c",
+     "n": "Endocrine Society 2011 4.1 Remarks mục 1 (theo dõi prolactin); EAU 2026 mục 3.3.4, 3.3.5; AUA 2018 khuyến cáo 2; Pituitary Society 2023: theo dõi hồi phục chức năng sinh dục."
+    },
+    {
+     "t": "Diễn giải: đỡ một phần, chưa phải thất bại; tiếp tục cabergoline đúng liều của bác sĩ nội tiết, không tự đổi liều, không tự ngưng",
+     "v": "c",
+     "n": "Tiêu chuẩn kháng thuốc chưa đạt (Endocrine Society 2011 khuyến cáo 5.1). Ngưng thuốc chỉ cân nhắc sau ít nhất 2 năm, prolactin bình thường và không thấy u trên MRI (Endocrine Society 2011 khuyến cáo 4.3; Pituitary Society 2023: cabergoline liều thấp 0,25–0,50 mg/tuần ít nhất 2 năm, ở người chọn lọc)."
+    },
+    {
+     "t": "Chưa khởi testosterone: hẹn đo lại testosterone sáng nhịn ăn khi đã ít nhất 6 tháng prolactin bình thường (khoảng 60% nam hồi phục); nếu vẫn thấp, còn triệu chứng và đã > 6 tháng điều trị thuốc thì bàn với nội tiết, dùng dạng tác dụng ngắn như gel, thận trọng vì u lớn",
+     "v": "c",
+     "n": "EAU 2026 mục 3.4.3.c (mạnh): điều trị nguyên nhân thực thể trước; Pituitary Society 2023 (mục Hypogonadism): nam hạ sinh dục > 6 tháng khi điều trị u prolactin thì cân nhắc testosterone (yếu), thận trọng u lớn (yếu), đánh giá lại mỗi 6 tháng. Không dùng testosterone để tăng sức sống (EAU 2026 mục 3.4.2.f, mạnh)."
+    },
+    {
+     "t": "Phối hợp tuyến trên: giữ lịch MRI tuyến yên lặp (3–6 tháng sau khởi thuốc hoặc 1 năm, sớm hơn khi prolactin tăng hay có triệu chứng mới) và đo thị trường; gửi đo DXA nền vì thiếu androgen kéo dài trên 6 tháng",
+     "v": "c",
+     "n": "MRI lặp 3–6 tháng sau khởi thuốc (Pituitary Society 2023, mục Imaging) hoặc 1 năm, hoặc 3 tháng nếu prolactin còn tăng hay triệu chứng mới (Endocrine Society 2011 khuyến cáo 4.1 Remarks mục 2): khác thời điểm (sổ mâu thuẫn TN-0439), lịch tháng 6 hợp cả hai. DXA nền khi hạ sinh dục kéo dài > 6 tháng (mạnh; Pituitary Society 2023, mục Bone disease; AUA 2018 Phụ lục C): phòng khám không có DXA nên gửi."
+    },
+    {
+     "t": "Dặn kỹ dấu hiệu cần đến cấp cứu ngay: đau đầu dữ dội đột ngột, mờ hoặc mất thị lực, nhìn đôi, chảy dịch trong như nước từ mũi, nôn nhiều",
+     "v": "c",
+     "n": "Triệu chứng nghi apoplexy cần chụp hình ngay (Pituitary Society 2023, mục Imaging). Chảy dịch não tủy khi u co: xét nghiệm β2-transferrin hoặc β-trace protein trong dịch mũi và phẫu thuật vá (Pituitary Society 2023, mục Dopamine agonists)."
+    },
+    {
+     "t": "Không tiêm testosterone hoặc truyền dịch theo yêu cầu; giải thích: thuốc đang chữa đúng nguyên nhân, testosterone thường tự hồi phục ở khoảng 60% nam khi prolactin ổn, chai nước biển không giúp",
+     "v": "c",
+     "n": "Giao tiếp, lý do thật. Pituitary Society 2023: hồi phục thường sau ≥ 6 tháng prolactin bình thường; EAU 2026 mục 3.4.2.f: không dùng testosterone để tăng sức; TRAVERSE 2024 (TL-0541): testosterone không giảm gãy xương (3,50% so với 2,46%, HR 1,43)."
+    },
+    {
+     "t": "Hẹn xét nghiệm và gặp lại trước lịch MRI của tuyến trên (khoảng 3 tháng), và đo testosterone khi ít nhất 6 tháng prolactin bình thường",
+     "v": "c",
+     "n": "Endocrine Society 2011 4.1 Remarks; Pituitary Society 2023: đánh giá hồi phục sinh dục ít nhất 6 tháng sau khi prolactin bình thường. Khoảng cách tái khám cụ thể tại tuyến cơ sở: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiêm hoặc kê testosterone ngay theo yêu cầu 'cho lại sức'",
+     "v": "w",
+     "n": "Chưa đủ 6 tháng prolactin bình thường nên chưa biết tuyến sinh dục có tự hồi phục không; u lớn cần thận trọng (Pituitary Society 2023); testosterone không dùng để tăng sức sống (EAU 2026 mục 3.4.2.f)."
+    },
+    {
+     "t": "Tự ngưng cabergoline vì prolactin đã bình thường hoặc anh thấy khỏe",
+     "v": "w",
+     "n": "Ngưng chỉ cân nhắc sau ít nhất 2 năm, prolactin bình thường và không thấy u trên MRI (Endocrine Society 2011 khuyến cáo 4.3; Pituitary Society 2023). Ngưng sớm dễ làm prolactin tăng lại: tỉ lệ cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng liều cabergoline tại phòng khám hoặc chuyển phẫu thuật thần kinh vì testosterone chưa bình thường",
+     "v": "w",
+     "n": "Chỉ đặt vấn đề khi kháng thuốc (prolactin không bình thường, u không co ≥ 50% ở liều tối đa dung nạp) hoặc không dung nạp (Endocrine Society 2011 khuyến cáo 5.1; Pituitary Society 2023). Anh dùng 0,5 mg/tuần, prolactin đã bình thường; việc đổi liều thuộc bác sĩ nội tiết."
+    },
+    {
+     "t": "Khởi gel testosterone 1% ngay sau khi giải thích lợi–hại, phối hợp bác sĩ nội tiết",
+     "v": "a",
+     "n": "Chấp nhận được nếu nội tiết đồng ý và anh hiểu rõ: Pituitary Society 2023 chỉ rõ gel là dạng nên dùng khi thay thế ở u lớn (đảo ngược nhanh nếu có tác dụng phụ) nhưng khuyến cáo cân nhắc sau > 6 tháng hạ sinh dục khi đang điều trị; EAU 2026 mục 3.4.1: testosterone < 12 nmol/L có triệu chứng và không chống chỉ định là ứng viên. Chưa phải hướng tối ưu ở tháng thứ 3."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Suy sinh dục nam thứ phát do u tuyến yên tiết prolactin kích thước lớn (macroprolactinoma 18 mm) đang điều trị cabergoline 0,5 mg/tuần: đáp ứng một phần ở tháng thứ 3 (prolactin 21 ng/mL, hết đau đầu, thị trường cải thiện; testosterone toàn phần 9,8 nmol/L, LH 3,4, FSH 3,8 còn thấp/bình thường thấp; ham muốn và cương buổi sáng hồi phục một phần) (Pituitary Society 2023; Endocrine Society 2011 khuyến cáo 4.1; EAU 2026 mục 3.3.5)",
+     "Chưa đạt tiêu chuẩn kháng thuốc; chưa có tác dụng phụ đáng kể; không trầm cảm (PHQ-9 5), không suy giáp (TSH 1,7)",
+     "Nhiễu và lý do thật: muốn được truyền dịch/tiêm hormone cho nhanh lại sức; tuân thủ kém khi đổi ca (quên 3 liều), ý định tự ngưng khi thấy khỏe"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi đáp ứng triệu chứng, tuân thủ, tác dụng phụ, rối loạn xung động, dấu hiệu nặng → khám thị trường, tim, cân → xét nghiệm prolactin, testosterone sáng nhịn ăn, LH, FSH, Hct → đánh giá mức đáp ứng → kế hoạch (Endocrine Society 2011 4.1 Remarks; Pituitary Society 2023).",
+     "Đỡ một phần ở tháng 3 là vùng xám: prolactin và triệu chứng chèn ép đáp ứng sớm, chức năng sinh dục cần thêm thời gian (≥ 6 tháng sau khi prolactin bình thường, khoảng 60% nam hồi phục; Pituitary Society 2023). Khác thất bại: kháng thuốc là prolactin không bình thường hoặc u không co 50% ở liều dung nạp tối đa (Endocrine Society 2011 khuyến cáo 5.1).",
+     "Testosterone 9,8 nmol/L (≈ 283 ng/dL): thấp theo EAU 2026 (12) và AUA 2018 (300 ng/dL ≈ 10,4), cao hơn giới hạn dưới 264 ng/dL ≈ 9,2 của ES 2018 (chú thích Hình 1). Ghi cả ba vì khác cách xác định ngưỡng (EAU theo kết quả điều trị, AUA/ES theo quần thể khỏe mạnh); còn triệu chứng nên coi là chưa hồi phục hoàn toàn.",
+     "Điều suýt bỏ qua: bệnh nhân thiếu kiên nhẫn (muốn tiêm testosterone), ý định tự ngưng thuốc khi thấy khỏe, quên liều khi đổi ca; biến chứng hiếm khi u co nhanh cần dặn trước (Pituitary Society 2023, mục Complications). Lý do thật: lại sức nhanh, ngại đi xa."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục cabergoline đúng đơn nội tiết: thuốc đồng vận dopamin, ưu tiên cabergoline, làm giảm prolactin, co u, phục hồi chức năng sinh dục (Endocrine Society 2011 khuyến cáo 4.1; EAU 2026 mục 3.4.3.c: điều trị nguyên nhân thực thể trước). Phòng khám cơ sở theo dõi, không đổi liều.",
+     "Testosterone chưa khởi ở tháng 3: đánh giá lại sau ≥ 6 tháng prolactin bình thường; nếu còn hạ sinh dục kéo dài thì bàn thay thế bằng dạng tác dụng ngắn như gel, thận trọng u lớn (Pituitary Society 2023). Dùng ngay sau bàn lợi–hại chỉ chấp nhận được, không tối ưu.",
+     "MRI lặp và thị trường tháng 6 hợp cả hai nguồn (Pituitary Society 2023; Endocrine Society 2011 khuyến cáo 4.1 Remarks); DXA nền do tuyến trên. An toàn: dặn dấu hiệu cấp cứu (Pituitary Society 2023), hỏi lại tuân thủ mỗi lần khám, không tiêm testosterone, không truyền dịch."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Cabergoline (tiếp tục theo đơn của bác sĩ nội tiết)",
+      "ham_luong": "Chế phẩm lưu hành tại Việt Nam: không có trong tài liệu đã tải; theo đơn tuyến trên",
+      "lieu": "0,25 mg × 2 lần/tuần (tổng 0,5 mg/tuần), giữ nguyên. Khoảng liều đã tải: 0,25–3 mg/tuần (Endocrine Society Hyperprolactinemia 2011 phần Evidence mục 4.1); thường 0,5–3,5 mg/tuần, tối đa FDA 2 mg/tuần (Pituitary Society 2023)",
+      "duong": "Uống",
+      "thoi_diem": "Hai ngày cố định mỗi tuần (thứ Hai và thứ Năm), kể cả tuần ca đêm; uống kèm bữa ăn: lời khuyên theo tình huống, không có trong tài liệu đã tải",
+      "so_ngay": "Liên tục; chỉ cân nhắc giảm hoặc ngưng sau ít nhất 2 năm, prolactin bình thường và không còn u trên MRI (Endocrine Society Hyperprolactinemia 2011 khuyến cáo 4.3; Pituitary Society 2023)",
+      "ghi_chu": "Tác dụng phụ: buồn nôn, khó chịu dạ dày, chóng mặt nhẹ, giảm khi khởi liều thấp, tăng chậm; rối loạn kiểm soát xung động (hỏi cả vợ); siêu âm tim nền khi dự kiến > 2 mg/tuần dài ngày (Pituitary Society 2023, mục Dopamine agonists). Chống chỉ định, tương tác, chỉnh liều theo gan thận: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Thuốc đang chữa đúng bệnh: đau đầu hết, tầm nhìn tốt lên, hormone prolactin đã về bình thường. Hormone nam hồi phục chậm hơn và cần chờ thêm; đỡ một phần ở tháng thứ ba là đúng quy luật, không phải thuốc kém.",
+     "Uống đều hai ngày mỗi tuần, kể cả tuần ca đêm (đặt nhắc điện thoại). KHÔNG tự ngưng khi thấy khỏe: chỉ bàn ngưng sau ít nhất 2 năm nếu xét nghiệm và MRI cho phép (Endocrine Society 2011 khuyến cáo 4.3; Pituitary Society 2023).",
+     "Chưa tiêm hormone nam và chưa truyền dịch: tuyến sinh dục có thể tự hồi phục sau khi prolactin ổn, chai nước biển không giúp. Sau khoảng ba tháng nữa sẽ đo lại hormone; khi đó bàn tiếp cùng bác sĩ nội tiết.",
+     "Báo bác sĩ nếu ham muốn bất thường, mê cờ bạc, mua sắm vô độ, hoặc buồn nôn kéo dài (Pituitary Society 2023). Đến cấp cứu NGAY nếu đau đầu dữ dội đột ngột, mờ hoặc mất thị lực, nhìn đôi, chảy dịch trong từ mũi (Pituitary Society 2023). Giữ lịch MRI, thị trường ở bệnh viện tỉnh; giảm cân từ từ, ngủ đủ (EAU 2026 mục 3.4.3.a, 3.4.3.c)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Khôi tái khám ở bệnh viện tỉnh, nhưng tháng thứ năm, ngay tuần đầu quay lại ca đêm và sau vài tuần tự bớt thuốc vì thấy khỏe, anh đột ngột đau đầu và mờ mắt trái. Nhờ đã được dặn trước, anh đến cấp cứu trong ngày; MRI cho thấy biến chứng thị giác liên quan khối u co nhỏ dưới thuốc (Pituitary Society 2023, mục Dopamine agonists: apoplexy do thuốc đồng vận dopamin làm u co rộng có thể gây rối loạn thị giác, cần sửa chữa phẫu thuật). Anh được mổ qua xương bướm, thị lực hồi phục một phần, testosterone còn thấp nên phải theo dõi nội tiết lâu dài (tỉ lệ biến chứng và kết cục phẫu thuật: không có trong tài liệu đã tải). Bài học khó: mọi quyết định ở cả hai lượt đều đúng theo tài liệu mà kết cục vẫn xấu; không đánh giá quyết định theo kết cục (outcome bias).",
+ "nhieu": [
+  "Giấu tiền sử: triệu chứng tình dục, phiếu testosterone cũ 5,1 nmol/L (mẫu chiều, không nhịn ăn, chỉ tham khảo; EAU 2026 mục 3.3.4) và 'viên bổ thận'; lộ khi hỏi riêng, không phán xét.",
+  "Lý do thật là muốn được truyền dịch (lượt 1) và tiêm hormone cho nhanh (lượt 2); lời mở chỉ nói mệt, đau đầu. Giải thích bằng bệnh của anh, không từ chối chung chung.",
+  "Không điển hình: không đến vì rối loạn cương; mệt, kém tập trung là triệu chứng kém đặc hiệu (EAU 2026 Bảng 3.2), dễ quy cho stress, ca đêm. Loratadin (kháng histamin H1) không liên quan; chỉ H2 nằm trong danh sách thuốc tăng prolactin (Pituitary Society 2023).",
+  "Cờ đỏ: đau đầu mới và khuyết thị trường thái dương hai bên (u vùng yên chèn giao thoa; EAU 2026 mục 3.3.2; Endocrine Society 2018 khuyến cáo 1.4). Không có X-quang kéo theo không MRI: bắt buộc chuyển tuyến. Ca đêm: lấy máu sau giấc ngủ đủ, nhịn ăn (EAU 2026 mục 3.3.4)."
+ ],
+ "bai_hoc_bien": [
+  "Nam trung niên mệt, đau đầu mới, kém tập trung: nghĩ đến thiếu androgen khi có triệu chứng tình dục (hỏi riêng, kín đáo), đo testosterone toàn phần buổi sáng nhịn ăn, kèm LH, FSH, prolactin (EAU 2026 mục 3.3.5; AUA 2018 khuyến cáo 1–3, 6–7; Endocrine Society 2018 khuyến cáo 1.1, 1.3).",
+  "Testosterone rất thấp (< 6 nmol/L hay < 150 ng/dL), prolactin tăng, đau đầu mới hoặc khuyết thị trường: MRI tuyến yên có thuốc đối quang, không chờ lặp mẫu hay điều trị thử (EAU 2026 mục 3.3.5; Endocrine Society 2018 khuyến cáo 1.4 Evidence; AUA 2018 Phụ lục C).",
+  "Đỡ một phần ở tháng 3 khi điều trị u tiết prolactin là bình thường: chức năng sinh dục cần ít nhất 6 tháng prolactin bình thường (khoảng 60% nam hồi phục); chưa tiêm testosterone, chưa đổi liều (Pituitary Society 2023; Endocrine Society 2011 khuyến cáo 4.1, 5.1). Quyết định đúng vẫn có thể ra kết cục xấu: dặn trước dấu hiệu cấp cứu."
+ ],
+ "diem_nho": [
+  "Hạ sinh dục nam: triệu chứng (tình dục đặc hiệu nhất) + testosterone toàn phần sáng nhịn ăn thấp ≥ 2 lần; ngưỡng 12 nmol/L (EAU 2026), 300 ng/dL (AUA 2018), 264 ng/dL (ES 2018). LH thấp ⇒ thứ phát ⇒ đo prolactin; MRI khi prolactin tăng, đau đầu, khuyết thị trường hoặc testosterone rất thấp.",
+  "U tiết prolactin: cabergoline ưu tiên (0,25–3 mg/tuần; Endocrine Society 2011 khuyến cáo 4.1); kháng thuốc khi prolactin không bình thường và u không co ≥ 50% ở liều tối đa dung nạp (5.1); ngưng sau ≥ 2 năm (4.3). Không dùng testosterone khi chưa điều trị nguyên nhân hoặc muốn có con (EAU 2026 mục 3.4.3.c, Bảng 3.4)."
+ ],
+ "nguon": [
+  "TL-0509 · EAU Guidelines on Sexual and Reproductive Health, Limited Update March 2026 – mục 3.1.3, Bảng 3.1, 3.2.2, 3.3.1–3.3.5 (Bảng 3.2, 3.3, Hình 3.1), 3.4.1 (Bảng 3.4), 3.4.2.f, 3.4.3.a–c, 3.5.1, 3.5.8 (Bảng 3.6), 11.5.3.a.1.",
+  "TL-0534 · AUA Evaluation and Management of Testosterone Deficiency 2018 (Mulhall JP, J Urol 2018;200:423) – khuyến cáo 1–4, 6–8, 10–12, 14–16, 23, 27, 29–31; Phụ lục C (MRI tuyến yên, DXA). Bản 2024 chỉ rà soát xác nhận (theo kho).",
+  "TL-0537 · Endocrine Society 2018 (Bhasin S, JCEM 2018;103:1715) – khuyến cáo 1.1–1.4 (phần Evidence, Technical remark), 2.1, 2.2; chú thích Hình 1 (264 ng/dL). Chưa kiểm được bản mới hơn tính đến 10/2026 (theo kho).",
+  "TL-0663 · Endocrine Society Hyperprolactinemia 2011 (Melmed S, JCEM 2011;96:273) – khuyến cáo 1.1 (Evidence), 4.1 (Evidence, Remarks), 4.3, 5.1. Pituitary Society 2023 Prolactinoma consensus (Nat Rev Endocrinol 2023;19:722–740; kho cũ tltk-10000-ca) – Imaging, Hypogonadism, Bone disease, Dopamine agonists, Complications.",
+  "TL-0541 · TRAVERSE fracture substudy (Snyder PJ, NEJM 2024;390:203) – tóm tắt: gãy xương lâm sàng 3,50% so với 2,46%, HR 1,43 (theo kho; thử nghiệm mẹ chỉ đọc qua EAU 2026).",
+  "TL-0600 · Kroenke K, et al. The PHQ-9 (J Gen Intern Med 2001;16:606) – ngưỡng 5, 10, 15, 20; độ nhạy, độ đặc hiệu ở 10. TL-0326 · ATA Hypothyroidism 2014 (Thyroid 2014;24:1670) – khoảng TSH 0,4–4,0 mIU/L. TL-0286 · QĐ 361/QĐ-BYT 2014, Hướng dẫn sử dụng thuốc giảm đau, mục 3.1 (paracetamol)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 2026-11-18. Đã đọc: TL-0509 mục 3.1–3.5.9, 11.5.3; TL-0534 khuyến cáo 1–31, Phụ lục C; TL-0537 khuyến cáo 1.1–2.6, Hình 1; TL-0663 phần 1.1, 3, 4, 5; Pituitary Society 2023 (Imaging, Hypogonadism, Bone disease, Dopamine agonists, Complications); TL-0600; TL-0326 (TSH 0,4–4,0); TL-0286 mục 3.1.",
+  "Mâu thuẫn: ngưỡng testosterone (EAU 12 nmol/L, AUA 300 ng/dL, ES 264 ng/dL) theo sổ mục 1 (ca đầu TN-0441): lượt 1 thấp hơn mọi ngưỡng, lượt 2 (9,8 nmol/L) rơi vào vùng bất đồng, ghi cả ba. Mục mới (TN-0439_mau_thuan.md): ngưỡng testosterone chụp MRI tuyến yên; thời điểm MRI lặp sau cabergoline; ngưỡng prolactin gợi u.",
+  "Không có trong tài liệu đã tải: liều khởi đầu và chế phẩm cabergoline tại Việt Nam, chống chỉ định, tương tác; kỹ thuật khám thị trường đối diện; ngưỡng cortisol sáng; tỉ lệ và kết cục phẫu thuật sau apoplexy do thuốc; lời khuyên lái xe, uống thuốc kèm bữa ăn, cách nhắc thuốc; chỉ định truyền dịch.",
+  "Thiết kế: lượt 1 chuyen_tuyen; lượt 2 ve_hen (3 tháng sau, đỡ một phần). Số liệu (prolactin 340/352, u 18 mm, testosterone 4,4 và 9,8 nmol/L) do người viết đặt cho khớp bệnh cảnh. Không ảnh da, không âm thanh tim/phổi."
+ ]
+}
