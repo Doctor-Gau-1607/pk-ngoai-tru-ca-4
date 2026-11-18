@@ -1,0 +1,697 @@
+{
+ "ma_ca": "TK-0572",
+ "phien_ban_kho": "0.3",
+ "benh": "TK_chong_mat_chuc_nang_lo_au",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Chóng mặt chức năng do lo âu",
+  "chan_doan_phai_loai_tru": [
+   "Tiền đình thực thể",
+   "Rối loạn nhịp"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "gioi": "Nữ",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Điều dưỡng",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi dùng kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Thị Thu Hạnh",
+  "tuoi": 47,
+  "gioi": "Nữ",
+  "nghe": "Điều dưỡng khoa Nội, bệnh viện huyện",
+  "can_nang": 52,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Điều dưỡng lâu năm, cẩn thận, nói nhanh, quen tự đánh giá bệnh của mình bằng thuật ngữ nghề nên hay đoán trước ('huyết áp thấp, thiếu máu lên não'). Không muốn bị coi là bệnh tâm lý, lo bị đồng nghiệp biết. Sống thanh đạm, tính toán từng đồng.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: hỏi giá trước mỗi chỉ định, chỉ chịu làm cái nào thật cần, nói thẳng hôm nay chỉ mang khoảng 250 nghìn, muốn 'truyền vitamin cho nhanh'. Khi bác sĩ giải thích đúng lý do thì chị chấp nhận bỏ xét nghiệm không đổi quyết định.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e4b28c",
+   "toc": "#2a1d18",
+   "kieuToc": "ngan",
+   "ao": "#8fb0a0",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Chóng mặt, lâng lâng gần 4 tháng, tái khám theo hẹn",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 47 tuổi, điều dưỡng khoa Nội bệnh viện huyện, đến theo giấy hẹn tái khám vì chóng mặt, lâng lâng gần 4 tháng nay. Hai tuần trước chị đã khám ở một phòng khám khác, được đo huyết áp và dặn quay lại nếu chưa hết. Sinh hiệu lúc tiếp đón: HA 124/78 mmHg, mạch 84 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Chị Hạnh bị đưa đi cấp cứu như một cơn chóng mặt cấp nghi đột quỵ, dù chị tỉnh, không dấu thần kinh khu trú, không ngất, không cơn quay cấp: không có cờ đỏ (HNO 2025, Bảng 1). Chị tốn một buổi cấp cứu, chi phí vượt xa 250 nghìn mang theo, kết quả bình thường, về nhà vẫn lâng lâng, chưa ai giải thích vì sao và vẫn nhỏ mũi mỗi ngày.",
+    "nhap_vien": "Chị Hạnh nhập viện nội trú để truyền dịch, dùng thuốc chống chóng mặt kéo dài. Với chóng mặt chức năng (PPPD), thuốc chống chóng mặt và chống nôn không được khuyến cáo (HNO 2025, Bảng 3). Chị nghỉ nhiều ngày, mất lương, chi phí vượt khả năng, ra viện vẫn nguyên triệu chứng vì lo âu và thuốc nhỏ mũi chưa được xử lý, và còn tin thêm rằng mình có bệnh nặng nên càng né tránh sinh hoạt.",
+    "chuyen_tuyen": "Chị Hạnh được chuyển lên tuyến trên để chụp MRI, đo Holter và thính lực đồ ngay. Không có phát hiện cận lâm sàng đặc hiệu nào cho PPPD, chẩn đoán dựa vào bệnh sử và tiêu chuẩn (Bárány 2017, mục 4.3); khám thần kinh, Dix–Hallpike và điện tim bình thường, chưa có cờ đỏ (HNO 2025, Bảng 1). Chi phí theo giá danh mục (MRI 2,5 triệu, Holter 0,4 triệu) vượt xa khả năng của chị, chị nghỉ việc đi xa, nhiều khả năng bỏ dở giữa chừng và vẫn chưa được giải thích hay xử trí thuốc nhỏ mũi."
+   },
+   "loi_mo": "Chào bác sĩ. Hai tuần trước tôi có đi khám rồi, người ta dặn nếu chưa hết thì quay lại nên hôm nay tôi đến. Tôi cứ lâng lâng, đi đứng không vững lắm, chắc do huyết áp thấp hay thiếu máu lên não thôi. Làm xét nghiệm gì thì tốn bao nhiêu, bác sĩ cho tôi hỏi trước nhé.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "124/78",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến vì giấy hẹn tái khám. Gần 4 tháng nay chị bị chóng mặt kiểu lâng lâng, đi như đứng trên thuyền. Hai tuần trước khám ở phòng khám khác, bác sĩ đo huyết áp, nói 'rối loạn tiền đình', không cho thuốc, dặn quay lại nếu chưa hết. Chị đỡ chút ít khi nghỉ vài ngày nên tưởng sẽ tự hết; đến chủ yếu vì đã hứa tái khám.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, thời gian triệu chứng (gần 4 tháng)"
+    },
+    {
+     "id": "tai_chinh",
+     "noi_dung": "Lương điều dưỡng hợp đồng, một con đang học đại học. Hôm nay chị chỉ mang khoảng 250 nghìn đồng, hỏi giá từng xét nghiệm và nói chỉ làm cái nào thật cần. Chị tự đoán 'thiếu máu lên não', muốn truyền vitamin cho nhanh.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Ràng buộc tiền: phải xếp ưu tiên xét nghiệm",
+     "nhieu": 1
+    },
+    {
+     "id": "mo_ta",
+     "noi_dung": "Không phải quay nhà quay đồ. Chị tả 'lâng lâng như đứng trên thuyền, đầu nặng, mắt như không bám nổi chỗ nhìn'. Gần như ngày nào cũng có, sáng nhẹ nhất, chiều tối tăng dần, không có khoảng nào hoàn toàn hết. Không bao giờ có một cơn quay kéo dài nhiều giờ, không buồn nôn, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất, dạng thời gian của chóng mặt (không quay, gần như mỗi ngày, tăng dần trong ngày)"
+    },
+    {
+     "id": "yeu_to_nang",
+     "noi_dung": "Tệ hơn khi đứng lâu hoặc đi bộ ở hành lang bệnh viện sáng đèn, khi đi siêu thị giữa các dãy kệ, khi ngồi sau xe máy chồng chở, khi nhìn màn hình máy tính cuộn hồ sơ lâu hoặc lướt điện thoại nhanh. Nằm yên trong phòng tối thì dịu nhất. Xoay đầu trên giường, ngước lên, cúi xuống không gây cơn quay riêng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'chóng mặt khi nào' thì chị nói 'không rõ, chiều hay bị'. Chỉ kể các tình huống khi bác sĩ hỏi cụ thể đứng hay nằm, đi xe, nhìn màn hình, đi siêu thị, hay thay đổi tư thế đầu.",
+     "k": 1,
+     "y": "Ba yếu tố làm nặng: tư thế đứng, chuyển động, kích thích thị giác"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cuối tháng 7, bố chị nhập viện tỉnh vì nhồi máu cơ tim. Chị đi xe khách đêm hơn 11 tiếng, ngồi ghế cuối, xe xóc, lo cuống. Giữa chặng có lúc chóng mặt, tim đập nhanh, tê quanh miệng, sợ mình ngất, kéo dài khoảng 20–30 phút. Xuống xe vẫn lâng lâng, những ngày sau không hết mà thành triệu chứng gần như hằng ngày. Trước đó chưa từng chóng mặt kiểu này, chưa từng có cơn quay cấp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau chuyến xe dài kèm cơn lo âu cấp (yếu tố khởi phát)"
+    },
+    {
+     "id": "tai_tien_dinh_am",
+     "noi_dung": "Không ù tai, không đầy tai, không nghe kém bên nào, không đau tai hay chảy dịch. Không đau đầu kiểu migraine, không sợ ánh sáng, không có cơn quay kéo dài từng đợt. Không nhìn đôi, nói khó, nuốt sặc, tê yếu tay chân. Chưa từng ngất, chưa té, chưa va đập đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc tiền đình thực thể và triệu chứng thần kinh"
+    },
+    {
+     "id": "tim_hoi_hop",
+     "noi_dung": "Thỉnh thoảng tim đập nhanh, đều, vài phút, thường sau khi nhỏ mũi nhiều lần liên tiếp hoặc lúc lo. Không đau ngực, không khó thở khi gắng sức, không ngất. Không bệnh tim trước đây, không có người thân đột tử trẻ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hồi hộp (sàng lọc rối loạn nhịp)"
+    },
+    {
+     "id": "thuoc_mui",
+     "noi_dung": "Ngạt mũi kéo dài khoảng hai năm, nhất là về đêm. Chị tự mua lọ thuốc nhỏ mũi co mạch (naphazolin) ở nhà thuốc, nhỏ 6–8 lần/ngày, nhất là trước khi ngủ và trước ca trực; hết thuốc thì nghẹt nặng hơn nên không dám bỏ. Chị cho là chẳng liên quan đến chóng mặt. Không dùng thuốc ngủ, thuốc an thần, thuốc huyết áp, kháng sinh hay thuốc 'bổ não'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc gì không' thì chị nói 'không uống thuốc gì'. Chỉ kể thuốc nhỏ mũi khi bác sĩ hỏi thuốc nhỏ, xịt, thuốc không cần đơn, hoặc hỏi về nghẹt mũi.",
+     "k": 1,
+     "y": "Thuốc đang dùng: thuốc nhỏ mũi co mạch kéo dài"
+    },
+    {
+     "id": "lo_au",
+     "noi_dung": "Dạo này chị lo nhiều: sợ ngất khi đang tiêm cho bệnh nhân, sợ làm sai y lệnh, sợ bố tái phát. Ngủ chập chờn 5–6 tiếng, hay tỉnh lúc 3 giờ, hay giật mình, căng cơ vai gáy. Chị là điều dưỡng nên tự cho đó là 'stress bình thường', không muốn bị gán là bệnh thần kinh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'có stress, lo lắng không' thì chị nói 'không, công việc quen rồi'. Chỉ kể khi bác sĩ hỏi cụ thể về giấc ngủ, nỗi sợ khi đi làm, chuyến xe hôm đó, hoặc hỏi chị tự nghĩ mình bị gì.",
+     "k": 1,
+     "y": "Lo âu đi kèm: giấc ngủ, sợ ngất, căng cơ"
+    },
+    {
+     "id": "anh_huong",
+     "noi_dung": "Chị nghỉ 5 ngày, nay xin chuyển sang việc ngồi quầy phát thuốc, né ca đêm, không đi chợ hay siêu thị một mình, ngồi xe máy phải bám chặt chồng. Sợ ngã khi bưng khay thuốc nên đi rất dè dặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ảnh hưởng chức năng và hành vi né tránh"
+    },
+    {
+     "id": "ha_tu_do",
+     "noi_dung": "Mỗi lần chóng mặt chị tự đo huyết áp ở khoa, thấy 105–125/65–80 mmHg nên nghi 'huyết áp thấp, thiếu máu lên não'. Kinh nguyệt đều, không rong kinh, không sụt cân, không nóng sợ nóng, không run tay.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không tăng huyết áp, đái tháo đường, bệnh tuyến giáp. Không hút thuốc, không rượu. Cà phê 2 ly/ngày. Mẹ khỏe; bố bị nhồi máu cơ tim năm nay (71 tuổi).",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 124/78 mmHg, mạch 80. Đứng 1 phút: 120/78, mạch 88. Đứng 3 phút: 122/80, mạch 90. Chị thấy lâng lâng hơn khi đứng nhưng không tối sầm. Huyết áp tâm thu không giảm, mạch tăng 10 l/p: không có hạ huyết áp tư thế (tiêu chuẩn: tâm thu giảm ≥ 20 hoặc tâm trương giảm ≥ 10 mmHg, hoặc tâm thu < 90; ESC 2018, mục 4.2.2, xây dựng cho ngất).",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi căng thẳng, nói nhanh. Gầy vừa (52 kg, cao 155 cm). Da niêm hồng, không vàng da, không run tay.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không hạch cổ. Tĩnh mạch cổ không nổi. Cơ thang hai bên căng, ấn hơi đau.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Ống tai ngoài sạch, màng nhĩ hai bên bình thường, không dịch, không mụn nước. Niêm mạc mũi đỏ, phù nề, cuốn mũi dưới to hai bên, không polyp, không mủ. Họng không đỏ. (Soi tai bắt buộc ở mọi người bệnh chóng mặt; HNO 2025, Khuyến cáo 6.)",
+     "k": 1
+    },
+    "am_thoa": {
+     "a": "Weber không lệch, Rinne dương tính hai tai: không giảm nghe dẫn truyền hay tiếp nhận một bên.",
+     "k": 0,
+     "hien": "Weber ở giữa, Rinne hai bên bình thường."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ. Thần kinh sọ bình thường, đồng tử đều, vận nhãn đủ các hướng. Sức cơ 5/5 bốn chi, phản xạ gân xương đều, Babinski âm tính. Ngón–mũi, gót–gối chính xác. Không dấu thần kinh khu trú (HNO 2025, Khuyến cáo 6).",
+     "k": 1
+    },
+    "hints_van_nhan": {
+     "a": "Không rung giật nhãn cầu tự phát hay khi nhìn lệch. Đẩy đầu nhanh hai bên: mắt giữ mục tiêu. Che mắt luân phiên: không lệch dọc. HINTS dành cho hội chứng tiền đình cấp liên tục, chị không có (HNO 2025, Khuyến cáo 4); kết quả chỉ cho thấy không có dấu vận nhãn trung ương.",
+     "k": 0,
+     "hien": "Không rung giật nhãn cầu. Đẩy đầu nhanh hai bên: mắt giữ mục tiêu. Che mắt luân phiên: không lệch dọc."
+    },
+    "dix_hallpike": {
+     "a": "Dix–Hallpike hai bên và nghiệm pháp lăn ngang: không rung giật nhãn cầu, không cơn quay, chỉ hơi lâng lâng như thường ngày. Không gợi ý BPPV (HNO 2025, Khuyến cáo 5; GRACE-3 2023, Khuyến cáo 11).",
+     "k": 1,
+     "hien": "Nằm ngửa đầu nghiêng hai bên và lăn ngang: không rung giật nhãn cầu, không cơn quay."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi hơi chậm, bước ngắn, dè dặt nhưng thẳng, quay người ổn; Romberg và đi nối gót ổn. Dáng đi chậm, thận trọng có thể gặp ở PPPD (Bárány 2017, mục 4.4.7); không thất điều.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Tỉnh, hợp tác, nét mặt căng, nói nhanh, hay nhìn đồng hồ. Khí sắc hơi lo, không buồn rầu rõ, tư duy mạch lạc, không ý tưởng tự hại. Chị tự điền GAD-7: 11 điểm (ngưỡng sàng lọc ≥ 10: độ nhạy 0,79, độ đặc hiệu 0,89; USPSTF 2023). Điểm sàng lọc chưa là chẩn đoán rối loạn lo âu lan tỏa (QĐ 2058, Bài 22 mục 3.1.1: thường kéo dài 6 tháng).",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 82 l/p, đều, trục bình thường. PR 160 ms, QRS 90 ms, QTc 420 ms. Không ST–T bất thường, không sóng delta, không block.",
+     "n": "Rẻ (50 nghìn), đổi được quyết định: loại trừ rối loạn nhịp và dẫn truyền. QĐ 2058 Bài 22 mục 3.1.2 liệt kê điện tâm đồ để loại trừ nguyên nhân thực thể của lo âu. Không có khuyến cáo riêng về Holter cho hồi hộp không ngất trong tài liệu đã tải (ESC 2018 chỉ áp dụng cho ngất)."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 5,2 mmol/L.",
+     "n": "Rẻ (20 nghìn), loại hạ đường huyết; không đổi hướng xử trí khi bệnh sử không gợi ý. Làm hay không đều không trừ điểm."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 6,8 G/L · Hb 128 g/L · TC 245 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58,
+      "neu": 3.94,
+      "lym_pct": 32,
+      "lym": 2.18,
+      "mono_pct": 6,
+      "mono": 0.41,
+      "eos_pct": 3,
+      "eos": 0.2,
+      "baso_pct": 1,
+      "baso": 0.07,
+      "rbc": 4.4,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 88,
+      "mch": 29.1,
+      "mchc": 328,
+      "rdw": 13.2,
+      "plt": 245
+     },
+     "n": "Không thiếu máu: bác bỏ nỗi nghi 'thiếu máu lên não' của chị. Nhưng khám da niêm hồng, kinh nguyệt bình thường nên có thể hoãn khi ngân sách hạn chế; làm hay không đều không trừ điểm."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,9 mUI/L · FT4 14 pmol/L",
+     "n": "QĐ 2058 Bài 22 mục 3.1.2 và 3.2 nêu hormon giáp để loại cường giáp khi nghi lo âu. Chị không sụt cân, không run, không sợ nóng, tuyến giáp không to, nên khả năng thấp; 180 nghìn chiếm gần hết ngân sách, có thể hoãn sang lượt sau. Làm hay không đều không trừ điểm."
+    },
+    "holter_ecg": {
+     "n": "Hồi hộp ngắn, đều, không ngất, điện tim bình thường: chưa cần; 400 nghìn vượt ngân sách."
+    },
+    "thinh_luc_do": {
+     "n": "Không ù tai, không nghe kém, âm thoa bình thường (HNO 2025, Khuyến cáo 6: chỉ cần thử nghe sơ bộ). Chưa cần thính lực đồ 200 nghìn."
+    },
+    "mri_so_nao": {
+     "n": "Không dấu thần kinh khu trú, không cờ đỏ (HNO 2025, Bảng 1); nhóm cắt lớp cũng bị khóa vì cơ sở không có siêu âm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chóng mặt tư thế–tri giác dai dẳng (PPPD, chóng mặt chức năng), khởi phát sau cơn lo âu cấp trong chuyến xe dài, kèm lo âu",
+     "ok": 1,
+     "n": "Đủ tiêu chuẩn Bárány 2017 mục 3: (A) lâng lâng, không quay, gần mỗi ngày gần 4 tháng (≥ 3 tháng), tăng dần trong ngày; (B) nặng hơn khi đứng, đi, ngồi xe, nhìn màn hình, dãy kệ; (C) khởi phát sau cơn hoảng/lo âu trong chuyến xe dài (lo âu và hoảng sợ mỗi loại chiếm khoảng 15% yếu tố khởi phát, ghi chú 6); (D) nghỉ việc, né tránh; (E) không bệnh khác giải thích tốt hơn. Là chẩn đoán dương tính chứ không phải loại trừ (mục 4.3); HNO 2025 gợi ý nghĩ tới PPPD khi chóng mặt ≥ 3 tháng, nặng khi đứng, vận động hay kích thích thị giác."
+    },
+    {
+     "t": "Viêm mũi do dùng thuốc co mạch kéo dài (yếu tố góp phần)",
+     "ok": 1,
+     "n": "Nhỏ naphazolin 6–8 lần/ngày hai năm, niêm mạc đỏ phù nề: dùng kéo dài có thể gây viêm mũi do thuốc và nghẹt nặng hơn khi ngưng (EPOS 2020, mục 6.1.10); QĐ 5643 Viêm mũi xoang cấp mục 4.2.1: xịt kéo dài làm bệnh nặng hơn. Thuốc không kê đơn có thể gây chóng mặt và khởi phát PPPD (Bárány 2017, mục 4.4.5). Mối liên quan trực tiếp giữa naphazolin với hồi hộp, chóng mặt của chị: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiền đình thực thể: BPPV",
+     "n": "Không có cơn quay theo tư thế đầu; Dix–Hallpike và nghiệm pháp lăn ngang không có rung giật nhãn cầu (HNO 2025, Khuyến cáo 5; GRACE-3 2023, Khuyến cáo 11)."
+    },
+    {
+     "t": "Tiền đình thực thể: viêm thần kinh tiền đình, bệnh Ménière, migraine tiền đình, u dây VIII",
+     "n": "Chưa từng có cơn quay cấp kéo dài, không ù tai, nghe kém hay đầy tai, âm thoa bình thường, không migraine (HNO 2025, mục Chóng mặt từng cơn: migraine tiền đình cần tiền sử migraine; Ménière cần giảm thính lực trên thính lực đồ). QĐ 5643 Chóng mặt mục 3.1: chóng mặt ngoại biên điển hình là quay, từng cơn, kèm buồn nôn, ù tai."
+    },
+    {
+     "t": "Tiền đình thực thể: bệnh tiền đình hai bên, thoái hóa thần kinh mạn",
+     "n": "Đẩy đầu, che mắt bình thường, Romberg ổn; triệu chứng nặng lên cả khi ngồi yên trước màn hình, khác bệnh tiền đình hai bên vốn ít triệu chứng khi ngồi yên (Bárány 2017, mục 4.4.4.1). Khởi phát sau một sự kiện, không thất điều (mục 4.4.4.2)."
+    },
+    {
+     "t": "Hội chứng mal de débarquement (MdDS)",
+     "n": "Khởi phát sau chuyến xe dài nên cần nghĩ tới. MdDS thường giảm khi đang chuyển động thụ động (ngồi xe) rồi tăng lại khi dừng, ngược với PPPD (Bárány 2017, mục 4.4.4.3). Chị nặng hơn khi ngồi sau xe máy và ở dãy kệ, kèm cơn lo âu lúc khởi phát, hợp PPPD."
+    },
+    {
+     "t": "Bệnh trung ương: thiếu máu hệ đốt sống–thân nền, đột quỵ tuần hoàn sau",
+     "n": "Ghi cả hai nguồn: QĐ 5643/2015 Chóng mặt mục 2.3a gọi \"thiểu năng tuần hoàn ĐM cột sống–thân nền\" là nguyên nhân thường gặp ở người trên 50 tuổi (kèm nhìn không rõ, song thị, rối loạn ngôn ngữ); Bárány 2022 (TL-0468) không khuyến cáo thuật ngữ này và đòi hỏi bằng chứng mạch máu hoặc dấu trung ương. Chị 47 tuổi, không nhìn đôi, nói khó, khám thần kinh bình thường, triệu chứng gần 4 tháng không tiến triển: không gợi ý."
+    },
+    {
+     "t": "Hạ huyết áp tư thế, rối loạn tự chủ (POTS)",
+     "n": "Nằm–đứng 3 phút: huyết áp không giảm, mạch tăng 10 l/p. PPPD không gây thay đổi bất thường nhịp tim hay huyết áp, còn rối loạn tự chủ không gây khó chịu với kích thích thị giác phức tạp khi ngồi yên (Bárány 2017, mục 4.4.3.3). Huyết áp 105–125 chị tự đo không phải hạ huyết áp có triệu chứng."
+    },
+    {
+     "t": "Rối loạn nhịp tim",
+     "n": "Hồi hộp ngắn, đều, thường sau nhỏ mũi nhiều lần, không ngất, không đau ngực; mạch đều 84 l/p, tim không âm thổi; điện tim nhịp xoang, không tiền kích thích, không block, QTc bình thường. HNO 2025 Bảng 1 chuyển cấp cứu khi chóng mặt kèm mất ý thức thoáng qua: chị không có."
+    },
+    {
+     "t": "Thiếu máu, hạ đường huyết, cường giáp",
+     "n": "Da niêm hồng, không run, không sụt cân, tuyến giáp không to; Hb 128 g/L, đường huyết mao mạch 5,2 mmol/L nếu đã làm. Cường giáp là chẩn đoán loại trừ của lo âu (QĐ 2058 Bài 22 mục 3.2)."
+    },
+    {
+     "t": "Rối loạn lo âu lan tỏa (chẩn đoán độc lập)",
+     "n": "GAD-7 11 điểm cho thấy lo âu đáng kể nhưng chưa đủ để khẳng định (QĐ 2058 Bài 22 mục 3.1.1: thường kéo dài 6 tháng). Lo âu có thể là một phần của PPPD hoặc cùng tồn tại (Bárány 2017, mục 4.4.3.1); không cần chẩn đoán thêm ở lượt này, theo dõi ở lượt sau."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích rõ chẩn đoán: chóng mặt chức năng là rối loạn thật của hệ thăng bằng, không phải bệnh thực thể nguy hiểm, và trấn an bằng kết quả khám, điện tim",
+     "v": "c",
+     "n": "Bárány 2017 mục 3: PPPD là rối loạn tiền đình chức năng mạn, không phải bệnh cấu trúc hay tâm thần. HNO 2025 Bảng 3: điều trị PPPD thường gồm giáo dục người bệnh. QĐ 2058 Bài 22 mục 4.1: giải thích hợp lý về triệu chứng cơ thể. NICE CG113 2011, khuyến cáo 1.2.10: giáo dục và theo dõi chủ động là bước đầu."
+    },
+    {
+     "t": "Giảm dần thuốc nhỏ mũi co mạch rồi ngưng, thay bằng rửa mũi natri clorid 0,9%",
+     "v": "c",
+     "n": "QĐ 5643 Viêm mũi xoang cấp mục 4.2.1: xịt oxymetazoline ngắn ngày (ví dụ 3 ngày), kéo dài làm bệnh nặng hơn; QĐ 5643 Ngạt mũi mục 4.1: rửa mũi natri clorid 0,9% (cũng liệt kê naphtazolin, không nêu thời gian dùng); ARIA-EAACI 2024–2025 Phần I: không dùng thuốc co mạch nội mũi dài hạn quá 5 ngày (khuyến cáo có điều kiện, bằng chứng rất thấp, bối cảnh viêm mũi dị ứng); EPOS 2020 mục 6.1.10: dùng kéo dài gây viêm mũi do thuốc; AHA/ACC 2025 Bảng 11: thuốc thông mũi dùng thời gian ngắn nhất có thể. Dừng ngay hay giảm dần: không có trong tài liệu đã tải; chị tự quyết cách giảm vì nghẹt đêm."
+    },
+    {
+     "t": "Hướng dẫn bài tập thích nghi tiền đình tại nhà, đi bộ đều mỗi ngày và quay lại sinh hoạt, không né tránh tình huống làm nặng",
+     "v": "c",
+     "n": "HNO 2025 Bảng 3 (PPPD): liệu pháp hành vi và vật lý trị liệu, kể cả bài tập tại nhà; Bárány 2017 mục 4.4.4.3: tập thích nghi tiền đình hoặc thuốc chống trầm cảm serotonin cải thiện rõ; mục 4.4.3.1: né tránh quá mức là cách xử lý kém thích nghi. Bài tập cụ thể, số buổi và thời gian: không có trong tài liệu đã tải (HNO 2025 chỉ dẫn tới vestibular.org)."
+    },
+    {
+     "t": "Giảm lo âu không dùng thuốc: thư giãn/hít thở, vận động đều, tự học theo nguyên tắc CBT có hướng dẫn, giữ giấc ngủ",
+     "v": "c",
+     "n": "mhGAP 2023: ANX2 (CBT ngắn, khuyến cáo mạnh), ANX3 (tự học có hướng dẫn hoặc không), ANX4 (thư giãn, chánh niệm), ANX5 (vận động có cấu trúc) cho người lớn lo âu lan tỏa/hoảng sợ; QĐ 2058 Bài 22 mục 4.1 và 4.3 (liệu pháp giải thích, thư giãn, nhận thức hành vi); NICE CG113 2011, khuyến cáo 1.2.12. Chị chưa chẩn đoán GAD nên áp dụng theo hướng tiếp cận."
+    },
+    {
+     "t": "Dặn dấu hiệu cần quay lại hay cấp cứu ngay: ngất hoặc mất ý thức thoáng qua, cơn quay cấp kéo dài, nhìn đôi, nói khó, nuốt sặc, tê yếu tay chân, đau đầu hay đau cổ mới dữ dội, nghe giảm đột ngột",
+     "v": "c",
+     "n": "HNO 2025, Bảng 1 (cờ đỏ: mất ý thức thoáng qua, song thị, khó nuốt, nói khó, đau đầu hay đau cổ mới, nghe giảm đột ngột không do tai): chuyển cấp cứu hoặc đơn vị đột quỵ gần nhất."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần, mang nhật ký triệu chứng (mức 0–10, tình huống làm nặng, số lần nhỏ mũi mỗi ngày)",
+     "v": "c",
+     "n": "Bárány 2017 mục 4.3: theo dõi tiến cứu giúp xác nhận chẩn đoán. Mốc 4 tuần là lựa chọn của ca, không có trong tài liệu đã tải (HNO 2025 Bảng 3 chỉ ghi theo dõi cùng chuyên gia tiền đình–tai)."
+    },
+    {
+     "t": "Giới thiệu khám chuyên khoa tiền đình/thần kinh–tai nếu điều kiện cho phép",
+     "v": "a",
+     "n": "HNO 2025 Bảng 3 (PPPD): giới thiệu chuyên khoa tiền đình để điều trị và quyết định thuốc dự phòng. Chị chưa có cờ đỏ, đã đủ cơ sở điều trị ban đầu tại tuyến này và không đủ tiền, nên không bắt buộc ở lượt 1; chấp nhận."
+    },
+    {
+     "t": "Thuốc chống chóng mặt hoặc chống nôn ngắn ngày (cinnarizin, tanganil, dimenhydrinat)",
+     "v": "a",
+     "n": "Ghi cả hai nguồn: QĐ 5643/2015 Chóng mặt mục 4.1 liệt kê thuốc chống chóng mặt (tanganil, cinarizin, serc) cho cơn chóng mặt cấp và chặn cơn kịch phát; HNO 2025 Bảng 3 (PPPD): thuốc chống chóng mặt, chống nôn không được khuyến cáo. Khác bối cảnh: QĐ 5643 viết cho cơn chóng mặt quay do mê nhĩ, trước khái niệm PPPD (Bárány 2017), còn chị không có cơn quay. Chấp nhận nhưng không cần."
+    },
+    {
+     "t": "Khởi thuốc chống trầm cảm SSRI ngay lượt này",
+     "v": "a",
+     "n": "mhGAP 2023 ANX1 (cân nhắc SSRI cho GAD, khuyến cáo có điều kiện, bằng chứng thấp); NICE CG113 2011 khuyến cáo 1.2.23 (nếu chọn thuốc, SSRI, ưu tiên sertralin); QĐ 2058 Bài 22 mục 4.3 (escitalopram 10–20 mg/24 giờ, sertralin 50–200 mg/24 giờ); HNO 2025 Bảng 3 (PPPD): thường dùng thuốc chống trầm cảm, quyết định cùng chuyên gia. Chị lo âu mức vừa, chưa thử biện pháp không thuốc, nên chưa bắt buộc. Liều khởi đầu riêng cho PPPD: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê benzodiazepin (diazepam, alprazolam, lorazepam…) dùng hằng ngày cho lo âu và chóng mặt",
+     "v": "w",
+     "n": "Theo mục đã có trong sổ mâu thuẫn (ca TT-0177): mhGAP 2023 ANX6 không khuyến cáo benzodiazepin cho lo âu lan tỏa/hoảng sợ (mạnh), chỉ ngắn hạn 3–7 ngày khi lo âu cấp nặng; NICE CG113 2011 khuyến cáo 1.2.26 và 1.3.20. QĐ 2058 Bài 22 mục 4.3 liệt kê kèm liều nhưng nêu nguy cơ lệ thuộc khi dùng kéo dài; WFSBP 2022 Bảng 9 chỉ cho ca kháng trị. Chị không phải ca kháng trị nên dùng đều đặn chấm w."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chóng mặt tư thế–tri giác dai dẳng (PPPD, chóng mặt chức năng), đủ tiêu chuẩn A–E của Bárány 2017",
+     "Yếu tố khởi phát: cơn lo âu/hoảng sợ cấp trong chuyến xe khách đêm 11 tiếng cuối tháng 7; lo âu còn đi kèm (GAD-7 11 điểm), chưa đủ chẩn đoán rối loạn lo âu lan tỏa",
+     "Yếu tố góp phần: nhỏ naphazolin 6–8 lần/ngày kéo dài hai năm, nghi viêm mũi do thuốc",
+     "Không có tiền đình thực thể (BPPV, tiền đình ngoại biên, trung ương), không có hạ huyết áp tư thế, không có rối loạn nhịp",
+     "Chưa có cờ đỏ"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: tính chất (không quay, lâng lâng), thời gian (hằng ngày gần 4 tháng), yếu tố làm nặng (đứng, chuyển động, nhìn màn hình, dãy kệ) và khởi phát (chuyến xe kèm hoảng sợ) là bốn câu hỏi quyết định. HNO 2025, Khuyến cáo 2 và 3: hỏi thời gian, yếu tố khởi phát, triệu chứng đi kèm và thuốc đang dùng; đừng dựa vào cách người bệnh tả chóng mặt để loại bệnh. Chị hay che 'lo lắng' và 'thuốc nhỏ mũi' nên phải hỏi cụ thể.",
+     "Tiêu chuẩn: (A) triệu chứng không quay hầu như mỗi ngày ≥ 3 tháng, tăng dần trong ngày; (B) nặng hơn khi đứng, vận động, kích thích thị giác; (C) khởi phát sau chuyến xe dài kèm hoảng sợ; (D) ảnh hưởng chức năng rõ (nghỉ việc, né ca đêm, né siêu thị); (E) không bệnh nào khác giải thích tốt hơn (Bárány 2017, TL-0484, mục 3). Cần cả năm tiêu chuẩn. PPPD không phải chẩn đoán loại trừ và không có phát hiện cận lâm sàng đặc hiệu (mục 4.3).",
+     "Khám đủ để đạt tiêu chuẩn E: soi tai, thần kinh (HNO 2025, Khuyến cáo 6), Dix–Hallpike (Khuyến cáo 5), nằm–đứng (ESC 2018 mục 4.2.2, tiêu chuẩn cho ngất), điện tim. HINTS không áp dụng vì không có hội chứng tiền đình cấp (Khuyến cáo 4). Bất thường khám không loại PPPD nhưng chỉ ra bệnh kèm theo (Bárány 2017, mục 4.3).",
+     "Hai điểm dễ lệch hướng: nỗi nghi \"huyết áp thấp, thiếu máu\" của chị (Hb 128, nằm–đứng không giảm) và chuyến xe dài gợi mal de débarquement, vốn giảm khi ngồi xe, còn chị nặng hơn khi ngồi xe máy (Bárány 2017, mục 4.4.4.3).",
+     "Lo âu: GAD-7 dương tính ở ngưỡng ≥ 10 (USPSTF 2023); với PPPD, câu chuyện stress không dùng để khẳng định hay bác bỏ chẩn đoán (Bárány 2017, mục 4.4.3.1). Tiền sử bố nhồi máu cơ tim và sợ mình cũng bệnh tim là nội dung cần trấn an bằng điện tim.",
+     "Thuốc nhỏ mũi: mối liên quan trực tiếp với chóng mặt hay hồi hộp không có trong tài liệu đã tải; nhưng thuốc không kê đơn có thể gây hoặc làm khởi phát PPPD (Bárány 2017, mục 4.4.5), dùng kéo dài gây viêm mũi do thuốc (EPOS 2020, mục 6.1.10) và làm tăng huyết áp (AHA/ACC 2025, Bảng 11). Là yếu tố nên loại bỏ."
+    ],
+    "phan_tich_xu_tri": [
+     "Ưu tiên theo ngân sách 250 nghìn: điện tim (50 nghìn) là xét nghiệm duy nhất đổi quyết định; đường huyết mao mạch, công thức máu rẻ; TSH (180 nghìn) hoãn được vì khả năng thấp. MRI, Holter, thính lực đồ không đổi xử trí khi chưa có cờ đỏ (HNO 2025, Bảng 1; Bárány 2017, mục 4.3).",
+     "Giải thích là can thiệp đầu tiên: PPPD là rối loạn chức năng có thật, tiên lượng cải thiện được (HNO 2025, Bảng 3; QĐ 2058 Bài 22 mục 4.1; NICE CG113 2011, 1.2.10).",
+     "Điều trị chính không thuốc: bài tập thích nghi tiền đình tại nhà, quay lại sinh hoạt, giảm lo âu bằng thư giãn, vận động, tự học CBT có hướng dẫn (HNO 2025, Bảng 3; mhGAP 2023, ANX2–ANX5). Bárány 2017 mục 4.4.4.3: tập thích nghi tiền đình hoặc thuốc chống trầm cảm serotonin cải thiện rõ.",
+     "Thuốc nhỏ mũi: giảm dần và ngưng, rửa mũi natri clorid 0,9% (QĐ 5643 Ngạt mũi mục 4.1; ARIA-EAACI 2024–2025 Phần I: không quá 5 ngày; EPOS 2020 mục 6.1.10). Cách ngưng không có trong tài liệu đã tải.",
+     "Không kê benzodiazepin đều đặn (mhGAP 2023 ANX6; NICE CG113 khuyến cáo 1.2.26, 1.3.20). Thuốc chống chóng mặt: QĐ 5643 mục 4.1 liệt kê cho cơn chóng mặt cấp, HNO 2025 Bảng 3 không khuyến cáo cho PPPD: ghi cả hai, chấp nhận không cần. SSRI để lượt sau nếu cần (mhGAP 2023 ANX1; NICE CG113 1.2.23; HNO 2025 Bảng 3).",
+     "Hẹn 4 tuần với nhật ký triệu chứng; dặn cờ đỏ theo HNO 2025 Bảng 1. Mốc tái khám 4 tuần không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "0,9%",
+      "lieu": "Số lần mỗi ngày: không có trong tài liệu đã tải; ví dụ rửa mũi 2 lần/ngày và khi nghẹt",
+      "duong": "Rửa mũi, hút dịch, xì nhẹ từng bên",
+      "thoi_diem": "Rửa trước khi ngủ và khi nghẹt thay cho thuốc co mạch",
+      "so_ngay": "Đến tái khám sau 4 tuần",
+      "ghi_chu": "QĐ 5643 Ngạt mũi mục 4.1: làm thông thoáng hốc mũi bằng natriclorid 0,9%. Ngưng dần thuốc nhỏ mũi co mạch (QĐ 5643 Viêm mũi xoang cấp mục 4.2.1; ARIA-EAACI 2024–2025 Phần I). Cách giảm liều, số ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Điện tim bình thường, tim chị không có vấn đề: tim đập nhanh thoáng qua thường sau nhỏ mũi nhiều lần hoặc lúc lo. Bố nhồi máu cơ tim không có nghĩa chị bị bệnh tim.",
+     "Giảm thuốc nhỏ mũi từng ngày, dùng nước muối rửa mũi thay thế, nghẹt vài đêm đầu là bình thường; dùng kéo dài làm bệnh nặng hơn (QĐ 5643 Viêm mũi xoang cấp mục 4.2.1; EPOS 2020 mục 6.1.10).",
+     "Mỗi ngày tập bài tập thăng bằng và đi bộ đều; cố ý quay lại các tình huống đang né (siêu thị, xe máy, màn hình) từng bước nhỏ, không nằm nghỉ cả ngày (HNO 2025, Bảng 3; Bárány 2017, mục 4.4.3.1).",
+     "Tập thở chậm hoặc thư giãn mỗi tối, đi bộ nhanh vừa sức, ngủ đúng giờ; có thể tự học theo nguyên tắc CBT có hướng dẫn (mhGAP 2023, ANX2–ANX5).",
+     "Ghi nhật ký mỗi ngày: mức chóng mặt 0–10, tình huống làm nặng, số lần nhỏ mũi; mang theo khi tái khám sau 4 tuần (Bárány 2017, TL-0484, mục 4.3: theo dõi tiến cứu).",
+     "Quay lại ngay hoặc đến cấp cứu nếu ngất hoặc mất ý thức thoáng qua, cơn quay kéo dài, nhìn đôi, nói khó, nuốt sặc, yếu tê tay chân, đau đầu hay đau cổ mới dữ dội, nghe giảm đột ngột (HNO 2025, Bảng 1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 4 tuần",
+   "tiep_don": "Tái khám sau 4 tuần. Chị Hạnh nói chóng mặt 'đỡ khoảng một nửa', chiều vẫn lâng lâng và vào siêu thị còn khó chịu; đã đi làm ca ngày trở lại. Chị vẫn nhỏ mũi vài lần mỗi ngày. Sinh hiệu: HA 118/74 mmHg, mạch 76 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chị Hạnh bị chuyển lên tuyến trên chỉ vì \"chưa hết hẳn\", để làm MRI, Holter và quyết định thuốc. HNO 2025 (Bảng 3) có khuyến cáo giới thiệu chuyên khoa tiền đình cho PPPD để quyết định thuốc dự phòng, nhưng chị đã giảm khoảng một nửa chỉ với biện pháp không thuốc, không có cờ đỏ (Bảng 1) và đã đi làm lại. Chị mất ngày công, chi phí vượt khả năng, MRI không cần cho chẩn đoán dựa vào tiêu chuẩn lâm sàng (Bárány 2017, mục 4.3), nên dễ nản và bỏ dở bài tập đang có hiệu quả.",
+    "nhap_vien": "Chị Hạnh nhập viện \"điều trị tiền đình\" vì đỡ chưa hết. Chị đang cải thiện ngoại trú, không có cờ đỏ, nên nằm viện chỉ làm mất lương và củng cố niềm tin rằng mình bệnh nặng, đúng điều khiến chị né tránh sinh hoạt; thuốc chống chóng mặt thêm vào không được khuyến cáo cho PPPD (HNO 2025, Bảng 3)."
+   },
+   "loi_mo": "Chào bác sĩ. Tôi đỡ được khoảng một nửa rồi, mà chiều vẫn còn lâng lâng, vào siêu thị vẫn khó chịu. Tôi giảm thuốc nhỏ mũi nhiều rồi nhưng đêm vẫn phải nhỏ. Đồng nghiệp bảo uống thuốc tiền đình là hết, bác sĩ cho tôi xin được không? Hôm nay tôi chỉ mang được khoảng 200 nghìn.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "118/74",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn. Chóng mặt giảm khoảng một nửa: sáng gần như hết, chiều tối còn lâng lâng. Đi làm ca ngày trở lại, vào siêu thị được 15–20 phút rồi khó chịu. Chị vẫn muốn xin 'thuốc tiền đình cho chắc'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và mức đáp ứng một phần"
+    },
+    {
+     "id": "tai_chinh",
+     "noi_dung": "Lương chưa về, hôm nay chị mang khoảng 200 nghìn đồng, hỏi trước xét nghiệm nào thật cần và không muốn lên bệnh viện tuyến trên vì xa và tốn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Ràng buộc tiền: không chỉ định cận lâm sàng không đổi quyết định",
+     "nhieu": 1
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Chị nhỏ mũi từ 6–8 xuống 2–3 lần/ngày, chủ yếu ban đêm, rửa mũi nước muối đều tối. Ba ngày đầu giảm thuốc nghẹt đêm nhiều, sau đó đỡ dần. Tập bài tập thăng bằng và đi bộ khoảng 3–4 buổi mỗi tuần, chưa đều; hít thở thư giãn 10 phút khoảng 5 đêm/tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức tuân thủ và đáp ứng với từng biện pháp"
+    },
+    {
+     "id": "tinh_huong",
+     "noi_dung": "Vẫn khó chịu khi nhìn màn hình hồ sơ lâu, đi giữa các dãy kệ và ngồi sau xe máy, nhưng bớt sợ, không còn bám chặt chồng. Nằm yên thì hết. Chưa từng có cơn quay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ba yếu tố làm nặng còn tồn tại nhưng nhẹ hơn"
+    },
+    {
+     "id": "hoi_hop",
+     "noi_dung": "Một lần tuần trước tim đập nhanh khoảng 10 phút sau khi nhỏ mũi hai lần liên tiếp trong nửa giờ vì nghẹt. Không ngất, không đau ngực, không khó thở.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hồi hộp còn lại, liên quan thuốc nhỏ mũi"
+    },
+    {
+     "id": "lo_au_nay",
+     "noi_dung": "Ngủ được khoảng 6 tiếng, ít giật mình hơn, vẫn sợ 'lỡ không khỏi hẳn' và sợ ca đêm. Bố đã xuất viện, ổn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'còn lo lắng không' thì chị nói 'đỡ rồi'. Chỉ nói sợ ca đêm và sợ không khỏi khi bác sĩ hỏi về giấc ngủ hoặc việc chưa dám quay lại.",
+     "k": 1,
+     "y": "Lo âu còn lại, nỗi sợ ca đêm"
+    },
+    {
+     "id": "co_do_am",
+     "noi_dung": "Không té, không ngất, không nhìn đôi, không nói khó, không yếu tê, không đau đầu dữ dội, không nghe giảm đột ngột.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ"
+    },
+    {
+     "id": "xin_thuoc",
+     "noi_dung": "Đồng nghiệp ở khoa bảo uống thuốc tiền đình vài ngày là hết nên chị xin. Chị chưa uống thuốc nào khác, không tự mua thuốc bổ não.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 118/74 mmHg, mạch 74. Đứng 3 phút: 118/76, mạch 82. Không hạ huyết áp tư thế, chị chỉ hơi lâng lâng.",
+     "k": 0
+    },
+    "hong_tai_mui": {
+     "a": "Màng nhĩ bình thường hai bên. Niêm mạc mũi bớt đỏ so với lượt trước, còn phù nhẹ, cuốn mũi dưới còn to nhẹ, không mủ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Thần kinh sọ, sức cơ, phản xạ, ngón–mũi, gót–gối bình thường, không dấu thần kinh khu trú. Không rung giật nhãn cầu.",
+     "k": 0
+    },
+    "dang_di_thang_bang": {
+     "a": "Đi tự tin hơn lượt trước, bước dài hơn, quay người ổn, Romberg và đi nối gót ổn.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Nét mặt thoải mái hơn, nói chậm hơn, khí sắc ổn, không ý tưởng tự hại. GAD-7 còn 8 điểm (lượt 1: 11; ngưỡng sàng lọc ≥ 10, USPSTF 2023), tức dưới ngưỡng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "tsh": {
+     "v": "a",
+     "r": "TSH 1,9 mUI/L · FT4 14 pmol/L",
+     "n": "Chưa làm ở lượt 1 vì ngân sách; khả năng cường giáp thấp (không sụt cân, không run, tuyến giáp không to), và đã đỡ rõ. QĐ 2058 Bài 22 mục 3.1.2 nêu hormon giáp để loại trừ. Làm hay không đều không trừ điểm."
+    },
+    "ecg": {
+     "n": "Đã có điện tim bình thường ở lượt 1. Hồi hộp thoáng qua sau nhỏ mũi, không ngất: không cần lặp lại."
+    },
+    "holter_ecg": {
+     "n": "Một lần hồi hộp 10 phút gắn với nhỏ mũi, điện tim lượt 1 bình thường: chưa cần Holter 400 nghìn."
+    },
+    "thinh_luc_do": {
+     "n": "Không giảm nghe, không ù tai: không có chỉ định."
+    },
+    "mri_so_nao": {
+     "n": "Đang cải thiện, không cờ đỏ (HNO 2025, Bảng 1); cơ sở không có siêu âm nên nhóm cắt lớp bị khóa."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chóng mặt tư thế–tri giác dai dẳng (PPPD, chóng mặt chức năng) có lo âu, đang đáp ứng một phần với điều trị không thuốc",
+     "ok": 1,
+     "n": "Triệu chứng còn ba yếu tố làm nặng nhưng giảm khoảng một nửa; GAD-7 từ 11 xuống 8; khám thần kinh, tư thế bình thường. Bárány 2017 mục 4.4.4.3: PPPD cải thiện rõ với tập thích nghi tiền đình hoặc thuốc chống trầm cảm serotonin. Thời gian đáp ứng kỳ vọng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm mũi do dùng thuốc co mạch (đang giảm dần)",
+     "ok": 1,
+     "n": "Niêm mạc bớt đỏ khi giảm nhỏ từ 6–8 xuống 2–3 lần/ngày; EPOS 2020 mục 6.1.10: dùng kéo dài gây viêm mũi do thuốc, nghẹt nặng hơn khi ngưng."
+    },
+    {
+     "t": "Thất bại điều trị sớm cần nâng bậc",
+     "n": "Giảm khoảng một nửa sau 4 tuần với tuân thủ chưa đều (tập 3–4 buổi/tuần) là đáp ứng, không phải thất bại. Mốc thời gian đánh giá đáp ứng: không có trong tài liệu đã tải; chỉ nâng bậc khi còn ảnh hưởng chức năng đáng kể dù đã tuân thủ đủ."
+    },
+    {
+     "t": "Tiền đình thực thể hoặc rối loạn nhịp tiềm ẩn bị bỏ sót",
+     "n": "Không có cờ đỏ, nghiệm pháp tư thế và thần kinh bình thường, điện tim lượt 1 bình thường; đáp ứng với điều trị không thuốc ủng hộ chẩn đoán đã chọn (Bárány 2017, mục 4.3: PPPD vẫn có thể cùng tồn tại với bệnh khác nên theo dõi tiếp)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định đáp ứng một phần là tiến triển phù hợp, tiếp tục kế hoạch không thuốc, chưa nâng bậc",
+     "v": "c",
+     "n": "Bárány 2017 mục 4.4.4.3 và HNO 2025 Bảng 3 (PPPD điều trị đa phương thức). Mốc thời gian đánh giá đáp ứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục giảm rồi ngưng thuốc nhỏ mũi co mạch, giữ rửa mũi natri clorid 0,9%; không nhỏ liên tiếp khi nghẹt",
+     "v": "c",
+     "n": "QĐ 5643 Viêm mũi xoang cấp mục 4.2.1 và Ngạt mũi mục 4.1; ARIA-EAACI 2024–2025 Phần I (không dùng dài hạn quá 5 ngày); EPOS 2020 mục 6.1.10; AHA/ACC 2025 Bảng 11. Cách ngưng, thời gian: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Duy trì bài tập thích nghi tiền đình tại nhà đều mỗi ngày và tăng dần tiếp xúc các tình huống còn né (siêu thị, ca đêm, màn hình, xe máy)",
+     "v": "c",
+     "n": "HNO 2025 Bảng 3 (liệu pháp hành vi, vật lý trị liệu, bài tập tại nhà); Bárány 2017 mục 4.4.3.1: né tránh quá mức là cách xử lý kém thích nghi. Chị mới tập 3–4 buổi/tuần nên cần đều hơn trước khi kết luận thất bại."
+    },
+    {
+     "t": "Đánh giá lại lo âu bằng GAD-7 (cân nhắc thêm PHQ-9) và duy trì thư giãn, vận động, tự học CBT",
+     "v": "c",
+     "n": "Bárány 2017 mục 4.4.3.1: dùng GAD-7 và PHQ-9 trong cơ sở thần kinh, tai, chăm sóc ban đầu; USPSTF 2023: GAD-7 ≥ 10 độ nhạy 0,79, độ đặc hiệu 0,89; mhGAP 2023 ANX2–ANX5."
+    },
+    {
+     "t": "Dặn lại cờ đỏ và hẹn tái khám sau 4–6 tuần; hết triệu chứng thì ngừng theo dõi, tái phát hoặc không đỡ thêm thì quay lại",
+     "v": "c",
+     "n": "HNO 2025 Bảng 1 (cờ đỏ). Mốc 4–6 tuần là lựa chọn của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc chống trầm cảm SSRI (sertralin hoặc escitalopram) nếu sau thời gian tuân thủ đủ vẫn còn ảnh hưởng chức năng",
+     "v": "a",
+     "n": "mhGAP 2023 ANX1; NICE CG113 2011 khuyến cáo 1.2.23 (SSRI, cân nhắc sertralin trước); QĐ 2058 Bài 22 mục 4.3 (escitalopram 10–20 mg/24 giờ, sertralin 50–200 mg/24 giờ); HNO 2025 Bảng 3: quyết định thuốc dự phòng cùng chuyên gia (thường thuốc chống trầm cảm). Chị đang đáp ứng, GAD-7 dưới ngưỡng nên chưa bắt buộc; liều khởi đầu và thời gian dùng riêng cho PPPD: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giới thiệu khám chuyên khoa tiền đình hoặc thần kinh–tai",
+     "v": "a",
+     "n": "HNO 2025 Bảng 3 (PPPD): giới thiệu để điều trị và quyết định thuốc dự phòng. Chị đang đáp ứng, không đủ tiền, không có cờ đỏ nên chưa bắt buộc; nên làm khi không đỡ thêm hoặc cần thuốc."
+    },
+    {
+     "t": "Thuốc chống chóng mặt hoặc chống nôn ngắn ngày theo yêu cầu của chị (cinnarizin, tanganil)",
+     "v": "a",
+     "n": "Ghi cả hai: QĐ 5643/2015 Chóng mặt mục 4.1 liệt kê thuốc chống chóng mặt cho cơn cấp và chặn cơn; HNO 2025 Bảng 3 không khuyến cáo cho PPPD. Chị không có cơn quay nên không cần; chấp nhận."
+    },
+    {
+     "t": "Kê benzodiazepin dùng hằng ngày để 'dễ ngủ, đỡ lo'",
+     "v": "w",
+     "n": "Như lượt 1: mhGAP 2023 ANX6 (không khuyến cáo, chỉ 3–7 ngày khi lo âu cấp nặng); NICE CG113 2011, 1.2.26 và 1.3.20; chị đã dưới ngưỡng GAD-7 và đang đáp ứng, không có chỉ định."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "PPPD (chóng mặt chức năng) có lo âu, đáp ứng một phần sau 4 tuần điều trị không thuốc (giảm khoảng một nửa, GAD-7 từ 11 xuống 8)",
+     "Viêm mũi do thuốc co mạch, đã giảm nhỏ từ 6–8 xuống 2–3 lần/ngày",
+     "Không có cờ đỏ, không có tiền đình thực thể hay rối loạn nhịp",
+     "Không phải thất bại điều trị"
+    ],
+    "phan_tich_chan_doan": [
+     "Đáp ứng một phần: triệu chứng giảm khoảng một nửa, đi làm lại, GAD-7 giảm dưới ngưỡng 10; đây là hướng phù hợp với PPPD cải thiện khi tập thích nghi tiền đình và giảm lo âu (Bárány 2017, mục 4.4.4.3; HNO 2025, Bảng 3). Chị chưa tuân thủ đủ (tập 3–4 buổi/tuần) nên chưa thể gọi là thất bại.",
+     "Phân biệt hồi phục chậm bình thường với thất bại sớm: thất bại cần tuân thủ đủ mà không đỡ, còn ảnh hưởng chức năng đáng kể, hoặc có dấu hiệu mới. Mốc thời gian cụ thể không có trong tài liệu đã tải, nên dựa vào chức năng và cờ đỏ.",
+     "Hồi hộp còn lại vẫn tập trung sau những lần nhỏ mũi dồn dập; điện tim lượt 1 bình thường nên không làm Holter. Mối liên quan trực tiếp giữa thuốc nhỏ mũi và hồi hộp, chóng mặt: không có trong tài liệu đã tải.",
+     "Xin \"thuốc tiền đình\": QĐ 5643/2015 mục 4.1 liệt kê thuốc chống chóng mặt cho cơn cấp, HNO 2025 Bảng 3 không khuyến cáo cho PPPD. Giải thích rằng chị không có cơn quay nên thuốc không đúng đích."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục kế hoạch không thuốc và làm đều hơn: bài tập tại nhà mỗi ngày, quay lại các tình huống đã né (HNO 2025, Bảng 3; Bárány 2017, mục 4.4.3.1).",
+     "Ngưng dần thuốc nhỏ mũi, rửa mũi muối; tránh nhỏ liên tiếp (QĐ 5643 Viêm mũi xoang cấp mục 4.2.1; ARIA-EAACI 2024–2025 Phần I; EPOS 2020 mục 6.1.10).",
+     "SSRI là bước tiếp theo nếu vẫn ảnh hưởng chức năng dù đã tuân thủ; quyết định cùng chuyên gia theo HNO 2025 Bảng 3, hoặc tại tuyến này theo mhGAP 2023 ANX1 và NICE CG113 1.2.23. Ghi cả hai vì khác bối cảnh nguồn lực, không mâu thuẫn.",
+     "Không làm MRI, Holter, thính lực đồ khi đang đáp ứng và không cờ đỏ: tiết kiệm chi phí cho chị (HNO 2025, Bảng 1; Bárány 2017, mục 4.3).",
+     "Không kê benzodiazepin đều đặn (mhGAP 2023 ANX6; NICE CG113 1.2.26, 1.3.20)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "0,9%",
+      "lieu": "Số lần mỗi ngày: không có trong tài liệu đã tải; ví dụ rửa mũi 2 lần/ngày và khi nghẹt",
+      "duong": "Rửa mũi, hút dịch, xì nhẹ từng bên",
+      "thoi_diem": "Rửa trước khi ngủ, thay thế lần nhỏ thuốc co mạch",
+      "so_ngay": "Đến tái khám sau 4–6 tuần",
+      "ghi_chu": "QĐ 5643 Ngạt mũi mục 4.1. Ngưng hẳn thuốc co mạch (QĐ 5643 Viêm mũi xoang cấp mục 4.2.1; ARIA-EAACI 2024–2025 Phần I); cách ngưng: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Đỡ một nửa sau 4 tuần là tốt; tiếp tục bài tập đều mỗi ngày, đừng dừng khi thấy đỡ (HNO 2025, Bảng 3).",
+     "Giảm nốt thuốc nhỏ mũi; nghẹt đêm thì rửa nước muối, không nhỏ hai lần liên tiếp.",
+     "Từng bước quay lại siêu thị, ca đêm, xe máy; mỗi tuần thêm một chút thay vì tránh hẳn (HNO 2025, Bảng 3; Bárány 2017, mục 4.4.3.1).",
+     "Giữ thư giãn, đi bộ, giấc ngủ; chưa cần thuốc an thần hay thuốc tiền đình. Nếu sau thời gian tập đủ mà còn ảnh hưởng công việc, quay lại để bàn thuốc chống trầm cảm hoặc giới thiệu chuyên khoa (HNO 2025, Bảng 3).",
+     "Quay lại ngay nếu ngất, nhìn đôi, nói khó, yếu tê tay chân, đau đầu hay đau cổ mới dữ dội, nghe giảm đột ngột (HNO 2025, Bảng 1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hạnh tập đều hơn sau lượt 2, ngưng hẳn thuốc nhỏ mũi sau khoảng 3 tuần, nghẹt mũi đêm vài ngày rồi đỡ nhờ rửa nước muối. Sau 3 tháng chị quay lại ca đêm, đi siêu thị bình thường, thỉnh thoảng lâng lâng khi mệt hoặc thiếu ngủ, không dùng thuốc chống chóng mặt hay thuốc an thần. Kết cục tốt nhờ giải thích đúng, xử lý yếu tố góp phần, tập thích nghi và giảm lo âu; tuy vậy PPPD không đảm bảo hồi phục hoàn toàn, theo dõi dài hạn ghi nhận phần lớn có diễn tiến lên xuống và nhiều người xuất hiện lo âu hoặc trầm cảm (Bárány 2017, TL-0484, mục 4.1.3–4.1.4), nên vẫn dặn quay lại khi tái phát.",
+ "nhieu": [
+  "Huyết áp tự đo 105–125/65–80 và nỗi nghi 'thiếu máu lên não': nằm–đứng không giảm huyết áp, Hb 128 g/L; huyết áp thấp không phải nguyên nhân (ESC 2018, mục 4.2.2; Bárány 2017, mục 4.4.3.3).",
+  "Chuyến xe khách 11 tiếng gợi mal de débarquement: MdDS giảm khi ngồi xe còn chị nặng hơn khi ngồi xe máy (Bárány 2017, mục 4.4.4.3).",
+  "Yêu cầu 'truyền vitamin' và 'thuốc tiền đình': không có chỉ định; thuốc chống chóng mặt không được khuyến cáo cho PPPD (HNO 2025, Bảng 3).",
+  "Ràng buộc tiền (250 nghìn ở lượt 1, 200 nghìn ở lượt 2): chỉ điện tim đổi quyết định; bỏ MRI, Holter, thính lực đồ."
+ ],
+ "bai_hoc_bien": [
+  "Không đủ tiền xét nghiệm: hỏi xét nghiệm nào đổi được quyết định. Ở đây chỉ điện tim (loại rối loạn nhịp) đổi quyết định; công thức máu, đường huyết mao mạch, TSH không bắt buộc; MRI, Holter, thính lực đồ bỏ được.",
+  "Không có siêu âm: chẩn đoán dựa vào bệnh sử và khám (soi tai, thần kinh, Dix–Hallpike, nằm–đứng); PPPD là chẩn đoán dương tính theo tiêu chuẩn chứ không phải chẩn đoán loại trừ (Bárány 2017, mục 4.3).",
+  "Không điển hình: chị không kể mình lo âu và coi thuốc nhỏ mũi là vô hại. Phải hỏi cụ thể về giấc ngủ, nỗi sợ, thuốc không kê đơn.",
+  "Đỡ một phần ở lượt 2 không phải thất bại: kiểm tra tuân thủ và chức năng trước khi nâng bậc điều trị. Xin thuốc tiền đình theo lời đồng nghiệp là dịp giải thích, không phải chỉ định.",
+  "Mâu thuẫn bối cảnh QĐ 5643/2015 (thuốc chống chóng mặt cho cơn cấp) với HNO 2025 (không khuyến cáo cho PPPD): ghi cả hai, chấp nhận không cần."
+ ],
+ "diem_nho": [
+  "PPPD: triệu chứng chóng mặt, không vững, hoặc chóng mặt không quay hầu như mỗi ngày ≥ 3 tháng; nặng hơn khi đứng, vận động, kích thích thị giác; có yếu tố khởi phát; gây ảnh hưởng chức năng; không bệnh khác giải thích tốt hơn (Bárány 2017, mục 3).",
+  "Hỏi: thời gian, yếu tố khởi phát, triệu chứng đi kèm, thuốc đang dùng; không dựa vào cách người bệnh tả để loại bệnh (HNO 2025, Khuyến cáo 2 và 3). Khám: soi tai, thần kinh, nghiệm pháp tư thế (Khuyến cáo 5 và 6).",
+  "Điều trị đa phương thức: giải thích, bài tập thích nghi tiền đình, liệu pháp hành vi; thuốc chống trầm cảm khi cần, thường quyết định cùng chuyên gia; thuốc chống chóng mặt không khuyến cáo (HNO 2025, Bảng 3; Bárány 2017, mục 4.4.4.3).",
+  "Thuốc nhỏ mũi co mạch: ngắn ngày, không quá 5 ngày; dùng kéo dài gây viêm mũi do thuốc (QĐ 5643 Viêm mũi xoang cấp mục 4.2.1; ARIA-EAACI 2024–2025 Phần I; EPOS 2020 mục 6.1.10).",
+  "Benzodiazepin dùng đều cho lo âu: không khuyến cáo (mhGAP 2023 ANX6; NICE CG113 1.2.26)."
+ ],
+ "nguon": [
+  "Bárány Society 2017, Diagnostic criteria for PPPD – TL-0484 – mục 3 (tiêu chuẩn A–E, ghi chú 6); 4.1.3; 4.3; 4.4.3.1; 4.4.3.3; 4.4.4.1; 4.4.4.2; 4.4.4.3; 4.4.5; 4.4.7; 4.5.",
+  "Tarnutzer và cs., HNO 2025, Interdisciplinary guidance paper on vertigo and dizziness – TL-0451 – Khuyến cáo 2–6; Bảng 1; Bảng 3.",
+  "Edlow và cs., GRACE-3 2023 – TL-0072 – Khuyến cáo 11.",
+  "BYT – QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh Tai Mũi Họng – TL-0130 – Chóng mặt mục 2.3a, 3.1, 4.1; Viêm mũi xoang cấp tính mục 4.2.1; Ngạt mũi mục 4.1.",
+  "BYT – QĐ 2058/QĐ-BYT 2020, Rối loạn tâm thần thường gặp – TL-0443 – Bài 22 mục 3.1.1, 3.1.2, 3.2, 4.1, 4.3.",
+  "WHO mhGAP guideline 2023 – TL-0573 – ANX1–ANX6.",
+  "NICE CG113 2011 (cập nhật), Generalised anxiety disorder and panic disorder in adults – TL-0598 – khuyến cáo 1.2.10, 1.2.11, 1.2.12, 1.2.23, 1.2.26, 1.3.20.",
+  "WFSBP 2022, Guidelines for treatment of anxiety disorders – TL-0587 – Bảng 9 (qua sổ mâu thuẫn).",
+  "USPSTF 2023, Screening for anxiety disorders in adults – TL-0581 – độ chính xác GAD-7.",
+  "ESC 2018 Guidelines on syncope – TL-0090 – mục 4.2.2 (tiêu chuẩn hạ huyết áp tư thế).",
+  "AHA/ACC 2025 Guideline for High BP in Adults – TL-0297 – Bảng 11.",
+  "ARIA-EAACI 2024–2025 Part I, Intranasal treatments – TL-0546; EPOS 2020 – TL-0087 – mục 6.1.10.",
+  "Bárány Society 2022, Vascular vertigo and dizziness – TL-0468 (qua sổ mâu thuẫn, thuật ngữ thiểu năng tuần hoàn đốt sống–thân nền)."
+ ],
+ "phien_ban_ca": 1,
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-18): viết theo tài liệu đã tải. Đã đọc TL-0484 (mục 3, 4.1.3, 4.3, 4.4.3–4.4.7, 4.5), TL-0451 (Khuyến cáo 2–8, Bảng 1, Bảng 3), TL-0072 (Khuyến cáo 11), TL-0130 (Chóng mặt; Viêm mũi xoang cấp 4.2.1; Ngạt mũi 4.1), TL-0443 (Bài 22), TL-0573 (ANX1–ANX7), TL-0598, TL-0581, TL-0090 (mục 4.2.2), TL-0297 (Bảng 11), TL-0546, TL-0087 (6.1.10).",
+  "Thiếu tài liệu: bài tập tiền đình cụ thể và thời gian; mốc đánh giá đáp ứng của PPPD; liều và thời gian SSRI riêng cho PPPD; cách ngưng thuốc nhỏ mũi co mạch (dừng ngay hay giảm dần); mối liên quan trực tiếp naphazolin với hồi hộp, chóng mặt; số lần rửa mũi mỗi ngày; chỉ định Holter cho hồi hộp không ngất. Mốc tái khám 4 tuần là lựa chọn của ca."
+ ]
+}
