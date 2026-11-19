@@ -1,0 +1,463 @@
+{
+ "ma_ca": "TT-0173",
+ "phien_ban_kho": "0.3",
+ "benh": "TT_roi_loan_hoang_so",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn hoảng sợ",
+  "chan_doan_phai_loai_tru": [
+   "Hội chứng vành cấp",
+   "Cường giáp",
+   "Loạn nhịp"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Sợ hãi quá mức",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Công nhân may mặc",
+  "yeu_to_khoi_phat": "Khiêng vật nặng",
+  "thuoc_dang_dung": "Thuốc xịt hen đang dùng",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Lương Văn Tài",
+  "tuoi": 24,
+  "gioi": "Nam",
+  "nghe": "Công nhân may mặc (tổ khiêng và cắt vải)",
+  "can_nang": 58,
+  "chieu_cao": 169,
+  "xung_ho": "Bác sĩ gọi anh là 'em' hoặc 'anh Tài'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Công nhân trẻ ở trọ, hiền, hay nghe đồn và hay lo xa. Nói nhanh, nhiều chuyện, cứ nhắc 'bạn em bị viêm phổi', 'chú hàng xóm chết đột ngột'. Sợ mất công khoán nên chỉ ghé khám sau giờ làm.",
+  "kieu_nhieu": "Sợ hãi quá mức: nghĩ ra điều xấu nhất, hỏi dồn 'em có chết không bác sĩ', đòi làm 'hết một lượt' và kháng sinh 'mạnh nhất'. Bị trấn an chung chung ('không sao đâu') thì càng hỏi lặp và nặng lời hơn. Chỉ dịu xuống khi bác sĩ nói cụ thể điều đã loại trừ bằng số đo, điều chưa làm được tối nay và vì sao không cần, kèm kế hoạch hẹn lại rõ ràng.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#17110d",
+   "kieuToc": "ngan",
+   "ao": "#6f8f72",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Hồi hộp, tức ngực từng cơn, ho khan",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ, kỹ thuật viên đã về: tối nay không làm được xét nghiệm máu, X-quang hay siêu âm; mẫu gửi đi (nếu có) chỉ có kết quả sáng hôm sau. Còn dùng được: ống nghe, nhiệt kế, huyết áp kế, máy đo SpO₂, máy điện tim, máy đo đường huyết mao mạch."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 24 tuổi, công nhân may, đến phòng khám lúc 19 giờ 30 sau ca vì hồi hộp, tức ngực từng cơn và ho khan vài ngày. Anh xin kê kháng sinh. Có bình xịt hen salbutamol mang theo. Sinh hiệu lúc tiếp đón: HA 124/78 mmHg, mạch 96 l/p, nhiệt 36,8 °C, nhịp thở 20 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Anh Tài, công nhân may 24 tuổi, được đưa vào cấp cứu như một cơn đau ngực cấp trong khi cơn không do gắng sức, ECG xoang bình thường, SpO₂ 99%, không yếu tố nguy cơ (ESC 2023 Hình 5; NICE CG113 1.3.6). Anh tốn một đêm, nghỉ ca và vẫn nghe 'xét nghiệm bình thường' mà không ai giải thích về cơn hoảng sợ, nên càng tin 'tim mình có bệnh'. Cơn tái diễn, anh quay lại xin kháng sinh hoặc đi khám nhiều nơi.",
+    "nhap_vien": "Anh Tài nằm viện theo dõi tim phổi vì sợ bỏ sót nhồi máu, dù ECG bình thường và cơn tự hết sau 20–30 phút. NICE CG113 1.3.6 khuyên thường không nhập viện khi cơn hoảng sợ đã được loại bệnh cơ thể cấp. Anh mất công khoán nhiều ngày, nỗi sợ 'bệnh nặng phải nằm viện' tăng thêm, và SSRI cùng CBT ngắn (mhGAP 2023 ANX1, ANX2) bị lùi lại.",
+    "chuyen_tuyen": "Anh được chuyển lên tuyến trên làm troponin, X-quang, siêu âm tim khi ECG xoang bình thường, cơn không giống nhịp nhanh trên thất (ESC 2019 SVT mục 8) và nguy cơ thấp. Anh nghỉ làm, tốn tiền đi lại và xét nghiệm, kết quả bình thường nhưng không được giải thích. Vòng sợ cơn tái phát vẫn còn và anh vẫn đòi kháng sinh."
+   },
+   "loi_mo": "Chào bác sĩ. Em hồi hộp, tức ngực từng cơn, mới ho khan mấy bữa nay. Bạn em ở xưởng vừa nằm viện vì viêm phổi, em sợ lắm. Bác sĩ cho em ít kháng sinh mạnh uống cho chắc, rồi làm hết xét nghiệm cho em luôn tối nay đi bác sĩ, lỡ trong ngực em đứt cái gì thì sao?",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "124/78",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hồi hộp, tức ngực từng cơn, ho khan vài ngày nay. Em sợ bị viêm phổi, muốn bác sĩ kê cho em ít kháng sinh mạnh uống cho chắc, em không dám đi chụp phổi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và yêu cầu kháng sinh"
+    },
+    {
+     "id": "ngoai_gio",
+     "noi_dung": "Em đi làm xong, gần 19 giờ 30 mới ghé phòng khám. Điều dưỡng báo giờ này kỹ thuật viên đã về nên chỉ đo được điện tim, đường huyết đầu ngón tay, SpO₂. Em muốn 'làm hết một lượt cho chắc' ngay tối nay.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Ràng buộc nguồn lực ngoài giờ"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Sáu tuần trước, ca đêm tăng ca, em khiêng cuộn vải khoảng 40 kg thì nhói một cái bên ngực trái chừng vài giây. Nghỉ 5 phút thì tim đập thình thịch, thở không ra hơi, tê môi và đầu ngón tay, thấy sắp chết. Ngồi chừng 25 phút thì hết. Em tin lúc đó 'đứt cái gì trong ngực'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau khiêng vật nặng"
+    },
+    {
+     "id": "con",
+     "noi_dung": "Từ đó có 5 cơn trong 6 tuần, cơn nào cũng giống nhau: tim đập mạnh, bóp nghẹt giữa ngực, thở nhanh, vã mồ hôi, run, tê, choáng, sợ chết. Lên đỉnh sau 5–10 phút, cả cơn 20–30 phút rồi hết hẳn. Cơn gần nhất cách đây 3 giờ lúc em ngồi ăn cơm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm cơn hoảng sợ"
+    },
+    {
+     "id": "khong_gang_suc",
+     "noi_dung": "Ba cơn xảy ra lúc ngồi nghỉ, một cơn đánh thức em lúc 2 giờ sáng. Đi bộ nhanh, leo 4 tầng không đau ngực, không ngất. Đau không lan tay hay hàm, không đổi theo hít sâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn không do gắng sức"
+    },
+    {
+     "id": "ne_tranh",
+     "noi_dung": "Từ sau cơn đầu, em xin đổi khỏi tổ khiêng vải, né ca đêm, né chợ đông và xe buýt chật. Ngày nào em cũng bấm mạch bằng đồng hồ vài chục lần, lo cơn lại tới.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể từ sau cơn đầu công việc, đi lại, sinh hoạt của anh có thay đổi gì. Hỏi chung 'có lo lắng không' thì trả lời 'em chỉ lo bệnh phổi thôi'.",
+     "k": 1,
+     "y": "Lo cơn tái phát và né tránh trên 1 tháng"
+    },
+    {
+     "id": "hen",
+     "noi_dung": "Hen nhẹ từ nhỏ, bụi vải làm ho. Có bình xịt salbutamol 100 mcg, trước kia vài tuần mới xịt một lần. Sáu tuần nay trong cơn em xịt 4–6 nhát, thấy tim đập mạnh hơn và tay run hơn chứ thở không đỡ. Cơn không có khò khè.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc xịt hen đang dùng và cơn không phải hen"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan ít từ 3 ngày nay do bụi vải, không đờm, không sốt, không khó thở khi nghỉ. Một đồng nghiệp trong xưởng mới nằm viện vì viêm phổi nên em sợ lây. Chưa uống kháng sinh nào vì sợ hại gan, nhưng muốn bác sĩ kê loại mạnh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1
+    },
+    {
+     "id": "tim_mach_am",
+     "noi_dung": "Không đau thắt ngực khi gắng sức, không phù chân, không ngất. Không hút thuốc. Nhà không ai bệnh tim hay đột tử sớm, mẹ em thì hay lo lắng, hay hồi hộp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ tim mạch, tiền sử gia đình"
+    },
+    {
+     "id": "nhip_tim",
+     "noi_dung": "Trong cơn đồng hồ báo mạch tăng dần lên 105–115, không bắt đầu hay dừng đột ngột, không có cảm giác đập ở cổ. Ngoài cơn mạch khoảng 70–80.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt với nhịp nhanh kịch phát"
+    },
+    {
+     "id": "giap_am",
+     "noi_dung": "Cân nặng 58 kg ổn định, không sụt cân, không sợ nóng, ăn uống và đi cầu bình thường, không bướu cổ. Tay chỉ run trong cơn hoặc sau khi xịt thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cường giáp"
+    },
+    {
+     "id": "cafe",
+     "noi_dung": "Từ khi tăng ca, mỗi ngày 3 ly cà phê sữa đá và một lon nước tăng lực trước ca đêm. Ngủ 4–5 giờ. Không rượu bia, không thuốc lá, không ma túy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chất kích thích, thiếu ngủ"
+    },
+    {
+     "id": "khong_tu_sat",
+     "noi_dung": "Em không buồn chán, vẫn ăn và còn đi làm, không có ý nghĩ tự làm hại mình.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc ý nghĩ tự hại trước khi dùng SSRI"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Thật ra em sợ nhất là cơn nào đó tim ngừng đập. Chú hàng xóm khiêng đồ nặng rồi mất đột ngột năm ngoái. Em nghĩ có viêm phổi hay 'tổn thương trong ngực' nên cần kháng sinh để khỏi chết.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều anh sợ nhất khi lên cơn, hoặc vì sao anh nghĩ cần kháng sinh, hoặc hỏi bình tĩnh lần thứ hai. Bị trấn an chung chung 'không sao đâu' thì anh càng hỏi dồn.",
+     "k": 1,
+     "y": "Động cơ thật: sợ chết đột ngột, tin cần kháng sinh"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Làm công ty may, lương khoán, tăng ca cuối năm. Sợ đổi tổ bị trừ công.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói nhanh, hơi vã mồ hôi lòng bàn tay, ngồi không yên. Da ấm, không xanh. BMI 20,3.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Hợp tác, nói mạch lạc, lo lắng rõ khi nhắc đến cơn, hỏi lặp 'em có chết không bác sĩ'. Không hoang tưởng, ảo giác. Nhận thức đủ. Không ý tưởng tự sát khi hỏi trực tiếp.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói nhanh, lo lắng."
+    },
+    "dau_mat_co": {
+     "a": "Không bướu giáp, không nhân giáp sờ được, không lồi mắt, không co cơ mi, không hạch cổ.",
+     "k": 1
+    },
+    "run_nghi": {
+     "a": "Hai tay giơ thẳng run nhẹ biên độ nhỏ, bàn tay ướt mồ hôi, không rung giật cơ. Run giảm sau vài phút nghỉ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3, không tiếng cọ. Tĩnh mạch cổ không nổi, không phù chân.",
+     "k": 1,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Lồng ngực cân đối. Rì rào phế nang rõ hai bên, không ran, không khò khè, không rít thì thở ra. Nhịp thở 20 l/p, không co kéo cơ hô hấp phụ.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p, hai phổi thông khí đều.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran, không khò khè."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Ấn khoang liên sườn IV cạnh ức trái đau nhẹ, đúng vị trí anh nhói lúc khiêng vải; cảm giác này khác với cảm giác bóp nghẹt trong cơn. Cử động vai, cổ không đau.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 94 l/p, trục trung gian, PR 140 ms, QRS 88 ms, không sóng delta, QTc 405 ms. Không ST chênh, không sóng T đảo, không sóng Q bệnh lý.",
+     "n": "Cần: máy điện tim có ngay tối nay, đổi quyết định vì loại biến đổi thiếu máu cục bộ và đường dẫn phụ (ESC 2023 Hình 5: ECG trong 10 phút khi nghi ACS; ESC 2019 SVT mục 8: nhịp nhanh trên thất có thể bắt chước rối loạn hoảng sợ). Nhịp xoang 94 l/p, không bắt đầu đột ngột."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "5,1 mmol/L (đo ngón tay)",
+     "n": "Rẻ, có ngay tối nay; hạ đường huyết có thể gây triệu chứng giống hoảng sợ (Canada 2014, phần Panic disorder, chẩn đoán phân biệt). Không làm không trừ điểm."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "Tối nay không làm được (ngoài giờ, không có kỹ thuật viên). Nếu gửi mẫu sáng mai: TSH 1,7 mUI/L · FT4 14 pmol/L (bình thường).",
+     "ab": 0,
+     "n": "Không đổi quyết định tối nay vì lâm sàng không gợi cường giáp: không sụt cân, không sợ nóng, không bướu, không lồi mắt (ATA 2016 mục B1). TSH là xét nghiệm sàng lọc đầu tay khi cần (ATA 2016 mục B2; Canada 2014 Bảng 7), nên hẹn làm trong ngày mai là hợp lý. Làm hay không đều không trừ điểm."
+    },
+    "trop": {
+     "n": "Tối nay không làm được, và cũng không cần: 24 tuổi, không yếu tố nguy cơ, cơn không do gắng sức, ECG bình thường. HEART H-E-A-R tối đa 1 điểm; thang cần troponin nên ở nơi không có troponin chỉ dùng để quyết định chuyển, không dùng để loại trừ (Backus 2013 Bảng 1; ghi chú TL-0110). Dặn quay lại ngay khi có dấu hiệu mới."
+    },
+    "cxr": {
+     "n": "Tối nay không có X-quang. Không cần: không sốt, phổi không ran, SpO₂ 99%, nhịp thở 20 l/p. Viêm phổi có biểu hiện nặng hơn viêm phế quản, khó thở và dấu nhiễm trùng toàn thân như tim và thở nhanh (WHO AWaRe 2022, Primary health care mục 4 Bronchitis)."
+    },
+    "ctm": {
+     "n": "Tối nay không làm được. Không đổi xử trí: không sốt, không dấu nhiễm trùng nên không có chỉ định kháng sinh (WHO AWaRe 2022, Primary health care mục 4 Bronchitis)."
+    },
+    "crp": {
+     "n": "Tối nay không làm được, và không cần: ho khan 3 ngày, không sốt, phổi sạch. Không dùng xét nghiệm để chiều ý xin kháng sinh."
+    },
+    "lyte": {
+     "n": "Không cần: chỉ nghĩ tới hạ kali khi dùng salbutamol liều rất cao (GINA 2026, mục 9, 'SABA toxicity'); anh xịt 4–6 nhát mỗi cơn, tim không loạn nhịp trên ECG."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ (chưa có né tránh nặng), mức vừa, khởi phát sau khiêng vật nặng",
+     "ok": 1,
+     "n": "Cơn hoảng sợ tái diễn không báo trước: ≥4 triệu chứng, lên đỉnh trong vài phút (Canada 2014 Bảng 11); ≥1 cơn kèm ≥1 tháng lo cơn tái phát hoặc đổi hành vi (Canada 2014 Bảng 12): anh có 8 triệu chứng, 5 cơn trong 6 tuần, né ca đêm, né khiêng vải, né xe buýt chật. Cơn thường kéo dài trung bình 30–45 phút và người bệnh sợ mình bị bệnh nặng như nhồi máu (WFSBP 2022 Bảng 5). Khiêng vật nặng là yếu tố khởi phát, không phải nguyên nhân thực thể."
+    },
+    {
+     "t": "Hội chứng vành cấp",
+     "n": "24 tuổi, không hút thuốc, không tiền sử gia đình sớm; cơn không do gắng sức, không lan, tự hết sau 20–30 phút; ECG bình thường (ESC 2023 Hình 5). H-E-A-R tối đa 1 điểm nhưng thiếu troponin nên chỉ dùng để quyết định chuyển (Backus 2013 Bảng 1)."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Không sụt cân, không sợ nóng, không bướu giáp, không lồi mắt; tay run chỉ trong cơn và sau xịt thuốc. Tăng hoạt adrenergic gây tim nhanh và lo âu (ATA 2016 mục B1) nên vẫn hẹn TSH ngày mai (mục B2)."
+    },
+    {
+     "t": "Loạn nhịp (nhịp nhanh trên thất, rung nhĩ)",
+     "n": "Mạch trong cơn tăng dần 105–115, không bắt đầu và dừng đột ngột, không đập ở cổ; ECG xoang, PR bình thường, không sóng delta (ESC 2019 SVT mục 8: có thể bắt chước hoảng sợ nên ECG là bắt buộc). Nếu về sau có cơn đều, nhanh, bắt đầu và dừng đột ngột thì cần Holter."
+    },
+    {
+     "t": "Cơn hen cấp hoặc tác dụng phụ của salbutamol",
+     "n": "Cơn không có khò khè, SpO₂ 99%, phổi sạch; tim nhanh, run, lo âu là tác dụng của salbutamol khi mới dùng hoặc dùng nhiều (GINA 2026 Phụ lục B tr. 247; mục 9 'SABA toxicity'). Canada 2014 ghi thuốc xịt đồng vận beta cũng có thể đi kèm cơn hoảng sợ. Không bỏ thuốc hen, nhưng không dùng để cắt cơn hoảng sợ."
+    },
+    {
+     "t": "Viêm phổi hoặc nhiễm trùng hô hấp cần kháng sinh",
+     "n": "Ho khan 3 ngày, không sốt, không ran, nhịp thở 20 l/p, SpO₂ 99%: là hô hấp trên hoặc phế quản do bụi vải, tự khỏi, không cần kháng sinh (WHO AWaRe 2022, Primary health care mục 4 Bronchitis). Đồng nghiệp bị viêm phổi chỉ là dữ kiện gây nhiễu."
+    },
+    {
+     "t": "Đau thành ngực do khiêng vật nặng",
+     "n": "Ấn đau nhẹ liên sườn IV cạnh ức là có thật nhưng khác tính chất cơn bóp nghẹt, không giải thích được vã mồ hôi, tê, sợ chết và 5 cơn lúc nghỉ. Có thể song song, chỉ cần thuốc giảm đau thông thường nếu còn đau."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: đây là cơn hoảng sợ, không phải nhồi máu hay viêm phổi; điện tim, SpO₂, nghe tim phổi bình thường; cơn không làm đứt hay hỏng gì trong ngực; phát tờ thông tin viết tay",
+     "v": "c",
+     "n": "Giải thích triệu chứng cơ thể là nguyên tắc đầu (QĐ 2058/2020 Bài 22 mục 4.1; WFSBP 2022 Bảng 5: người bệnh thường sợ nhồi máu); người đến khám vì cơn hoảng sợ nhận thông tin bằng văn bản, thường không nhập viện (NICE CG113 1.3.6). Trấn an cụ thể bằng số đo, không nói chung chung."
+    },
+    {
+     "t": "Không kê kháng sinh; nói rõ vì sao (ho khan do bụi vải, không sốt, phổi sạch)",
+     "v": "c",
+     "n": "Viêm phế quản cấp hầu hết do virus, không cần kháng sinh (WHO AWaRe 2022, Primary health care mục 4 Bronchitis, tr. 30–31). Trả lời đúng nỗi sợ chết mới gỡ được yêu cầu kháng sinh."
+    },
+    {
+     "t": "Bắt đầu sertralin 25 mg (nửa viên 50 mg) mỗi sáng sau ăn trong 7 ngày, rồi 50 mg/ngày nếu dung nạp",
+     "v": "c",
+     "n": "SSRI là thuốc đầu tay cho hoảng sợ (mhGAP 2023 ANX1; WFSBP 2022 Bảng 9, LoE A/RG 1; Canada 2014 Bảng 15; NICE CG113 1.3.25). Khởi liều thấp, tăng chậm (NICE 1.3.27); người bệnh hoảng sợ nhạy với bồn chồn lúc đầu (WFSBP 2022 tr. 86); tăng liều cách 1–2 tuần trong 4–6 tuần (Canada 2014 phần Pharmacological treatment). Sertralin 50–200 mg/ngày (WFSBP 2022 Bảng 7; QĐ 2058/2020 Bài 22 mục 4.3). Con số 25 mg và 7 ngày là lựa chọn biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo trước tác dụng phụ đầu điều trị (bồn chồn, buồn nôn, mất ngủ, tăng lo thoáng qua), thuốc cần vài tuần mới đủ tác dụng, không ngưng đột ngột",
+     "v": "c",
+     "n": "NICE CG113 1.3.23, 1.3.24, 1.3.29, 1.3.30; Canada 2014: khởi phát tác dụng sau 2–8 tuần, đáp ứng đầy đủ có thể tới 12 tuần hoặc hơn."
+    },
+    {
+     "t": "Báo nguy cơ ý nghĩ tự hại ở người dưới 30 tuổi dùng SSRI, hẹn gặp lại trong 1 tuần",
+     "v": "c",
+     "n": "NICE CG113 1.2.30 (1.3.22 dẫn lại): dưới 30 tuổi thì cảnh báo, gặp lại trong 1 tuần, theo dõi hằng tuần trong tháng đầu. Canada 2014: theo dõi mỗi 2 tuần trong 6 tuần đầu."
+    },
+    {
+     "t": "CBT ngắn dạng tự học có hướng dẫn, tập thở chậm và thư giãn, vận động đều đặn, tập đối mặt dần việc anh đang né",
+     "v": "c",
+     "n": "mhGAP 2023 ANX2 (CBT ngắn, mạnh), ANX3 (tự học có hướng dẫn), ANX4, ANX5; NICE CG113 1.3.9, 1.3.11; QĐ 2058/2020 Bài 22 mục 4.1 (tập đối mặt). CBT đầy đủ 7–14 giờ (NICE 1.3.15) khó với người bệnh tăng ca lương khoán."
+    },
+    {
+     "t": "Giảm cà phê, bỏ nước tăng lực, ngủ đủ giờ hơn",
+     "v": "c",
+     "n": "Canada 2014: khi đánh giá cơn hoảng sợ phải hỏi caffeine, thuốc xịt đồng vận beta, chất kích thích (phần Panic disorder và mục Baseline assessment). Không có ngưỡng ly cà phê trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục thuốc xịt hen nhưng chỉ dùng khi có khò khè, ho, nặng ngực do hen; không xịt để cắt cơn hoảng sợ; hẹn đánh giá kiểm soát hen",
+     "v": "c",
+     "n": "Salbutamol gây run và tim nhanh khi mới dùng (GINA 2026 Phụ lục B tr. 247); dùng nhiều làm tăng mạch, hồi hộp, lo âu và dễ nhầm với hen nặng (GINA 2026 mục 9 'SABA toxicity'). GINA không khuyến cáo chỉ dùng SABA đơn độc vì nguy cơ đợt cấp nặng (Phụ lục B): cần đánh giá hen lần sau, ngoài phạm vi ca này."
+    },
+    {
+     "t": "Duy trì SSRI ít nhất 6 tháng sau khi đạt liều tối ưu (NICE) hoặc 6–12 tháng sau thuyên giảm (WFSBP) hoặc 12–24 tháng (Canada 2014), rồi giảm dần; đánh giá lại sau 12 tuần",
+     "v": "c",
+     "n": "NICE CG113 1.3.27, 1.3.28 (12 tuần chưa đỡ thì đổi); WFSBP 2022 mục Duration of medication treatment (tr. 86); Canada 2014 phần tóm tắt điều trị. Khác nhau do mốc tính và bối cảnh từng guideline (xem sổ mâu thuẫn); không chấm sai cách nào."
+    },
+    {
+     "t": "Hẹn xét nghiệm TSH, FT4 ngày mai (không bắt buộc), tái khám sau 1 tuần",
+     "v": "a",
+     "n": "ATA 2016 mục B2; Canada 2014 Bảng 7 (TSH trong xét nghiệm nền); NICE 1.2.30 cho mốc 1 tuần. Lâm sàng không gợi cường giáp nên không làm cũng được."
+    },
+    {
+     "t": "Không dùng benzodiazepin làm thuốc nền cho hoảng sợ; nếu cơn nặng cấp thì chỉ ghép ngắn hạn tối đa 3–7 ngày",
+     "v": "c",
+     "n": "mhGAP 2023 ANX6 (mạnh): không khuyến cáo, cấp cứu lo âu nặng chỉ 3–7 ngày; NICE CG113 1.3.20: kết quả dài hạn kém hơn nên không kê. WFSBP 2022 Bảng 9: dùng ở ca kháng trị, hoặc ghép vài tuần đầu khi không có tiền sử lạm dụng chất. Hai nguồn khác nhau về năm và bối cảnh; ca này cơn tự hết, không cần ghép."
+    },
+    {
+     "t": "Kê propranolol để hết hồi hộp",
+     "v": "w",
+     "n": "Người bệnh có hen: chẹn beta có thể gây co thắt phế quản, từng liên quan tới tử vong do hen (GINA 2026 mục 3 tr. 66). Propranolol không hiệu quả cho hoảng sợ (WFSBP 2022 Bảng 9; Canada 2014 Bảng 15 'Not recommended'). QĐ 2058/2020 Bài 22 mục 4.3 nêu propranolol trong bài lo âu lan tỏa, không phải hoảng sợ ở người bệnh hen."
+    },
+    {
+     "t": "Kê kháng sinh 'cho chắc' (amoxicillin, cephalosporin...)",
+     "v": "w",
+     "n": "Không có dấu nhiễm trùng; WHO AWaRe 2022 Primary health care mục 4 Bronchitis: không dùng kháng sinh, tránh điều trị kháng sinh không cần thiết do nhầm với viêm phổi. Còn củng cố niềm tin 'trong ngực có bệnh'."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện làm troponin, X-quang 'cho chắc'",
+     "v": "w",
+     "n": "NICE CG113 1.3.6: thường không nhập viện khi đã làm xét nghiệm tối thiểu để loại bệnh cơ thể cấp; ECG bình thường, không dấu hiệu nặng (ESC 2023 Hình 5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ (cơn hoảng sợ tái diễn không báo trước, lo cơn tái phát và né tránh trên 1 tháng), mức vừa",
+     "Yếu tố khởi phát: khiêng vật nặng; yếu tố duy trì: cà phê, nước tăng lực, thiếu ngủ, dùng salbutamol nhiều trong cơn",
+     "Đồng mắc: hen nhẹ, đang dùng salbutamol; ho khan do bụi vải, không có nhiễm trùng",
+     "Đã loại trừ tại chỗ: hội chứng vành cấp, loạn nhịp (ECG), cường giáp (lâm sàng, hẹn TSH ngày mai)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: (1) tả một cơn từ đầu đến cuối, lên đỉnh bao lâu, kéo dài bao lâu, có liên quan gắng sức không; (2) cơn đầu xảy ra trong hoàn cảnh nào để lộ khiêng vật nặng chỉ là khởi phát; (3) thuốc đang dùng: hỏi bình xịt hen, xịt mấy nhát, cơn có khò khè không; (4) đồng hồ ghi mạch, nhịp tim có bắt đầu và dừng đột ngột không; (5) cân nặng, sợ nóng, bướu cổ, cà phê, nước tăng lực, ngủ; (6) sau cơn đầu công việc và sinh hoạt thay đổi gì; (7) điều anh sợ nhất và vì sao nghĩ cần kháng sinh.",
+     "Tiêu chuẩn: cơn là đợt sợ hãi hoặc khó chịu đột ngột lên đỉnh trong vài phút với ≥4 trong 13 triệu chứng (Canada 2014 Bảng 11); rối loạn hoảng sợ cần cơn không báo trước tái diễn và ≥1 cơn kèm ≥1 tháng lo cơn tái phát hoặc đổi hành vi (Canada 2014 Bảng 12). Anh có tim đập mạnh, vã mồ hôi, run, khó thở, nghẹt, đau ngực, choáng, tê, sợ chết (8 triệu chứng), 5 cơn trong 6 tuần, né ca đêm và nơi đông. Cơn trung bình 30–45 phút (WFSBP 2022 Bảng 5) phù hợp 20–30 phút của anh.",
+     "Vì sao không quy cho hen hay viêm phổi: không khò khè, SpO₂ 99%, phổi sạch, không sốt; ho khan vài ngày chỉ là bụi vải. Salbutamol làm run, tim nhanh, lo âu (GINA 2026 Phụ lục B; mục 9) và Canada 2014 ghi thuốc xịt đồng vận beta có thể đi kèm cơn hoảng sợ; xịt nhiều lần trong cơn làm anh thấy tệ hơn rồi nghĩ 'thuốc không cắt được cơn nên bệnh nặng'.",
+     "Ràng buộc nguồn lực ngoài giờ: không có xét nghiệm máu, X-quang. Quyết định trước khi có kết quả dựa vào lâm sàng và ECG, là việc làm tối thiểu cần để loại bệnh cơ thể cấp (NICE CG113 1.3.6; ESC 2023 Hình 5). Cường giáp loại bằng lâm sàng và hẹn TSH (ATA 2016 mục B1, B2). Loạn nhịp loại bằng ECG và mô tả cơn (ESC 2019 SVT mục 8).",
+     "Anh sợ hãi quá mức: hỏi 'em có chết không', đòi 'làm hết một lượt'. Trấn an có cấu trúc: nói điều đã loại trừ bằng số đo cụ thể (ECG, SpO₂, nghe phổi), nói điều chưa làm được tối nay và vì sao không cần, rồi hẹn lại. Chiều theo bằng xét nghiệm hay kháng sinh sẽ củng cố nỗi sợ."
+    ],
+    "phan_tich_xu_tri": [
+     "Mức vừa, kéo dài trên 1 tháng, tăng ca khó đi trị liệu trực tiếp: SSRI kèm CBT ngắn tự học có hướng dẫn. NICE CG113 1.3.12: hoảng sợ vừa đến nặng thì CBT hoặc thuốc chống trầm cảm; mhGAP 2023 ANX1 (SSRI) và ANX2 (CBT ngắn, mạnh); WFSBP 2022 Bảng 9: SSRI đầu tay.",
+     "Chọn sertralin: có trong QĐ 2058/2020 Bài 22 mục 4.3 (bài lo âu lan tỏa; QĐ không có bài riêng cho hoảng sợ), 50–200 mg/ngày (WFSBP 2022 Bảng 7), thuốc đầu tay (Canada 2014 Bảng 15). Khởi liều thấp, tăng chậm vì tăng lo thoáng qua (NICE 1.3.23, 1.3.27; WFSBP 2022 tr. 86). Dưới 30 tuổi: hẹn 1 tuần, theo dõi hằng tuần trong tháng đầu (NICE 1.2.30).",
+     "Không kê kháng sinh: không có bằng chứng nhiễm trùng (WHO AWaRe 2022, mục 4 Bronchitis). Không dùng benzodiazepin nền (mhGAP 2023 ANX6; NICE 1.3.20) hoặc chỉ ghép ngắn hạn 3–7 ngày nếu cơn nặng (mhGAP ANX6; WFSBP Bảng 9). Không kê propranolol: người bệnh hen (GINA 2026 tr. 66) và không hiệu quả cho hoảng sợ (WFSBP Bảng 9; Canada Bảng 15).",
+     "Thời gian: giữ thuốc ít nhất 6 tháng sau khi đạt liều tối ưu rồi giảm dần (NICE 1.3.27), hoặc 6–12 tháng (WFSBP 2022), hoặc 12–24 tháng (Canada 2014). Chưa đỡ sau 12 tuần thì đổi hướng (NICE 1.3.28); sau 2 can thiệp vẫn còn triệu chứng thì giới thiệu chuyên khoa tâm thần (NICE 1.3.35).",
+     "Cắt các yếu tố duy trì: cà phê, nước tăng lực, thiếu ngủ, lạm dụng salbutamol. Hẹn TSH ngày mai chỉ để yên tâm, không bắt buộc."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "25 mg (nửa viên) × 1 lần/ngày × 7 ngày, sau đó 50 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn, cùng giờ mỗi ngày",
+      "so_ngay": "7 ngày rồi tái khám; điều trị ít nhất 6 tháng sau khi đạt liều tối ưu",
+      "ghi_chu": "Khởi liều thấp, tăng chậm (NICE CG113 1.3.27); liều đích 50–200 mg/ngày (WFSBP 2022 Bảng 7; QĐ 2058/2020 Bài 22 mục 4.3); tăng liều cách 1–2 tuần nếu cần (Canada 2014). Liều 25 mg và 7 ngày là lựa chọn biên tập, không có trong tài liệu đã tải. Không ngưng đột ngột (NICE 1.3.30)."
+     },
+     {
+      "thuoc": "Salbutamol xịt (thuốc anh đang có)",
+      "ham_luong": "100 mcg/nhát",
+      "lieu": "Theo chỉ dẫn đang dùng, chỉ khi có khò khè, ho, nặng ngực do hen",
+      "duong": "Xịt hít",
+      "thoi_diem": "Chỉ khi cần",
+      "so_ngay": "Theo nhu cầu; đánh giá kiểm soát hen lần sau",
+      "ghi_chu": "Tremor, tim nhanh khi mới dùng (GINA 2026 Phụ lục B tr. 247); cần đi khám nếu phải dùng quá 4–6 lần trong 24 giờ hoặc thuốc không giữ được 4–6 giờ (GINA 2026 Phụ lục B). Số nhát mỗi lần dùng ở tuyến cơ sở: không có trong tài liệu đã tải, chỉ dặn không xịt để cắt cơn hoảng sợ."
+     }
+    ],
+    "dan_do": [
+     "Cơn hoảng sợ rất khó chịu nhưng không gây nhồi máu hay đột tử; điện tim, SpO₂ và nghe tim phổi của em bình thường. Khi lên cơn: ngồi xuống, thở chậm, nhắc 'cơn sẽ hết sau chừng 20–30 phút', không bỏ chạy khỏi nơi đang ở (WFSBP 2022 Bảng 5; mhGAP 2023 ANX4).",
+     "Uống sertralin nửa viên mỗi sáng 7 ngày rồi 1 viên; vài ngày đầu có thể bồn chồn, buồn nôn, ngủ kém; thuốc cần vài tuần mới đủ tác dụng; không tự ngưng (NICE 1.3.23, 1.3.24, 1.3.30; Canada 2014).",
+     "Không có chỉ định kháng sinh; đừng tự mua uống (WHO AWaRe 2022, mục 4 Bronchitis). Ho khan vài tuần có thể còn do bụi vải: đeo khẩu trang trong xưởng.",
+     "Bình xịt hen chỉ dùng khi có khò khè hay ho nặng ngực thật sự; xịt nhiều khi hoảng sợ sẽ làm tim đập mạnh và run hơn (GINA 2026 Phụ lục B).",
+     "Giảm cà phê, bỏ nước tăng lực, ngủ đủ hơn; tập thể dục đều; từng bước quay lại việc em đang né (mhGAP 2023 ANX5; QĐ 2058/2020 Bài 22 mục 4.1).",
+     "Đi cấp cứu ngay nếu đau ngực kéo dài trên 20 phút, đau khi gắng sức, ngất, khó thở liên tục hoặc tim đập nhanh đều bắt đầu và dừng đột ngột (ESC 2023 Hình 5; ESC 2019 SVT mục 8). Mốc 20 phút do biên tập chọn, không có trong tài liệu đã tải.",
+     "Quay lại ngay nếu có ý nghĩ tự làm hại mình hoặc bồn chồn dữ dội (NICE 1.2.30). Tái khám sau 1 tuần, nhớ mang bình xịt; đi làm xét nghiệm TSH ngày mai nếu muốn yên tâm."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Tài tuân thủ thuốc. Tuần 2 sertralin lên 50 mg; tuần 6 còn 1–2 cơn mỗi tuần nên lên 100 mg (trong khoảng 50–200 mg, WFSBP 2022 Bảng 7); tuần 12 còn một cơn mỗi hai tuần và vẫn né ca đêm. Anh hỏi sao chưa hết hẳn vì tưởng 'một tuần là xong', nhưng đáp ứng đầy đủ có thể mất tới 12 tuần hoặc hơn (Canada 2014) nên bác sĩ chưa đổi thuốc. Tuần 18 hết cơn hẳn, anh nhận lại việc khiêng vải từng bước và bỏ nước tăng lực. Thuốc giữ ít nhất 6–12 tháng rồi giảm dần (NICE CG113 1.3.27; WFSBP 2022). Hen được đánh giá lại ở lần khám riêng.",
+ "nhieu": [
+  "Bình xịt salbutamol: tim đập mạnh và run sau khi xịt dễ bị coi là cơn hen nặng; thật ra là tác dụng của thuốc và là cơn hoảng sợ, không có khò khè (GINA 2026 Phụ lục B; mục 9).",
+  "Đồng nghiệp mới bị viêm phổi và ho khan do bụi vải khiến anh xin kháng sinh; không sốt, phổi sạch, không có chỉ định (WHO AWaRe 2022, mục 4 Bronchitis).",
+  "Khiêng vật nặng và điểm ấn đau nhẹ cạnh ức: gợi đau thành ngực hay 'đứt gì trong ngực' nhưng không giải thích được 5 cơn lúc nghỉ.",
+  "Cà phê, nước tăng lực, thiếu ngủ làm cơn dễ tái phát; sợ hãi quá mức khiến anh đòi làm mọi xét nghiệm, trong khi tối nay chỉ có ECG, đường huyết mao mạch, SpO₂."
+ ],
+ "bai_hoc_bien": [
+  "Sợ hãi quá mức: trấn an có cấu trúc (đã loại trừ gì bằng số đo gì, chưa làm gì và vì sao không cần, hẹn lại khi nào) tốt hơn 'không sao đâu' hay chiều theo xét nghiệm.",
+  "Ngoài giờ không có kỹ thuật viên: quyết định hôm nay dựa vào lâm sàng và ECG; xét nghiệm không đổi quyết định (TSH) thì hẹn ngày mai, không giữ người bệnh lại.",
+  "Lý do thật sự đến khám là sợ chết và tin cần kháng sinh: không hỏi ra thì từ chối kháng sinh dễ làm mất lòng tin.",
+  "Thuốc xịt hen có thể làm cơn hoảng sợ tệ hơn và gây hiểu lầm là hen nặng; hỏi số nhát, có khò khè không, và đừng kê chẹn beta cho người bệnh hen.",
+  "Khỏi chậm hơn dự kiến là quỹ đạo bình thường của SSRI: đừng đổi thuốc trước 12 tuần nếu đang cải thiện (NICE CG113 1.3.28)."
+ ],
+ "diem_nho": [
+  "Rối loạn hoảng sợ: cơn không báo trước, ≥4 triệu chứng, lên đỉnh trong vài phút, kèm ≥1 tháng lo cơn tái phát hoặc đổi hành vi (Canada 2014 Bảng 11, 12).",
+  "Cơn hoảng sợ ở cấp cứu hoặc phòng khám: làm xét nghiệm tối thiểu để loại bệnh cơ thể cấp, thường không nhập viện, phát thông tin bằng văn bản (NICE CG113 1.3.6).",
+  "Đầu tay: SSRI hoặc CBT ngắn; không dùng benzodiazepin làm thuốc nền (mhGAP 2023 ANX1, ANX2, ANX6; NICE CG113 1.3.20).",
+  "Dưới 30 tuổi dùng SSRI: cảnh báo, gặp lại trong 1 tuần, theo dõi hằng tuần trong tháng đầu (NICE CG113 1.2.30)."
+ ],
+ "nguon": [
+  "WHO – mhGAP guideline 2023 (ấn bản 3) – TL-0573 – khuyến cáo ANX1–ANX6.",
+  "NICE – CG113 Generalised anxiety disorder and panic disorder in adults (2011, cập nhật 2020) – TL-0598 – khuyến cáo 1.2.30, 1.3.6, 1.3.9, 1.3.11, 1.3.12, 1.3.15, 1.3.20, 1.3.22–1.3.30, 1.3.35.",
+  "WFSBP 2022 – Guidelines for treatment of anxiety, OCD and PTSD, Part I (World J Biol Psychiatry 2022;24:79-117) – TL-0587 – Bảng 5, Bảng 7, mục Duration of medication treatment và Dosing (tr. 86), Bảng 9.",
+  "Canadian clinical practice guidelines for anxiety, PTSD and OCD (Katzman 2014, BMC Psychiatry) – TL-0596 – Bảng 7, 11, 12, 15; phần Panic disorder (chẩn đoán phân biệt, thuốc đồng vận beta, caffeine); phần tóm tắt điều trị dược.",
+  "BYT – QĐ 2058/QĐ-BYT 2020, Rối loạn tâm thần thường gặp (kho cũ tltk-10000-ca, 10 Tâm thần cơ bản) – Bài 22 Rối loạn lo âu lan tỏa, mục 4.1, 4.3 (không có bài riêng cho hoảng sợ).",
+  "ESC 2023 – Guidelines for the management of acute coronary syndromes – TL-0069 – Hình 5 (đánh giá A.C.S., ECG trong 10 phút).",
+  "ESC 2019 – Guidelines for the management of patients with supraventricular tachycardia – TL-0687 – mục 8 (đánh giá ban đầu).",
+  "ATA 2016 – Guidelines for diagnosis and management of hyperthyroidism – TL-0324 – mục B1, B2.",
+  "Backus BE và cs. – A prospective validation of the HEART score (Int J Cardiol 2013;168:2153) – TL-0110 – Bảng 1 và ghi chú sử dụng khi thiếu troponin.",
+  "GINA 2026 – Global Strategy for Asthma Management and Prevention – TL-0137 – mục 3 (tr. 66, thuốc làm hen nặng, chẹn beta), mục 9 (SABA toxicity), Phụ lục B (SABA, tr. 246–247).",
+  "WHO – AWaRe antibiotic book 2022 – TL-0018 – Primary health care, mục 4 Bronchitis (tr. 30–31)."
+ ],
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-19)",
+ "ghi_chu_bien_tap": [
+  "Ngày viết 2026-11-19. Tài liệu đã đọc: TL-0573 (ANX1–ANX6), TL-0598 (1.2.30, 1.3.x), TL-0587 (Bảng 5, 7, 9; tr. 86), TL-0596 (Bảng 7, 11, 12, 15; phần Panic disorder), QĐ 2058/2020 Bài 22 (kho cũ), TL-0069 Hình 5, TL-0687 mục 8, TL-0324 B1–B2, TL-0110 Bảng 1, TL-0137 (tr. 66, 247, mục 9), TL-0018 mục 4 Bronchitis.",
+  "Thiếu trong tài liệu đã tải: liều khởi đầu 25 mg và 7 ngày của sertralin; số nhát salbutamol mỗi lần; ngưỡng đau ngực 20 phút; số ly cà phê gây cơn; QĐ 2058/2020 không có bài riêng cho rối loạn hoảng sợ. Benzodiazepin, thời gian dùng SSRI và SSRI hay CBT trước dùng lại các mục có sẵn trong sổ mâu thuẫn (TT-0177, TT-0192). Chẹn beta trong hen: không phải mâu thuẫn thật (QĐ 2058 nêu cho lo âu lan tỏa, hai nguồn kia nói hoảng sợ và hen)."
+ ]
+}
