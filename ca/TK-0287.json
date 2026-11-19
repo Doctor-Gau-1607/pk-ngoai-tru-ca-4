@@ -1,0 +1,695 @@
+{
+ "ma_ca": "TK-0287",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-19)",
+ "benh": "TK_tien_dinh_ngoai_bien_viem_tk_tien_dinh",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Rối loạn tiền đình ngoại biên (viêm TK tiền đình)",
+  "chan_doan_phai_loai_tru": [
+   "Đột quỵ",
+   "BPPV"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Buôn bán nhỏ (bán tạp hóa trước nhà)",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu (xe khách đường dài hai chiều, mỗi chiều khoảng 7 giờ)",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài (naphazolin 0,05%)",
+  "ly_do_that_su_den_kham": "Muốn được kê kháng sinh"
+ },
+ "benh_nhan": {
+  "ten": "Ngô Thị Cúc",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Bán tạp hóa nhỏ trước nhà",
+  "can_nang": 48,
+  "chieu_cao": 151,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà xưng 'tôi', gọi bác sĩ là 'bác sĩ', gọi con gái là 'con Phượng'. Chị Phượng gọi mẹ là 'mẹ', xưng 'em' với bác sĩ.",
+  "tinh_cach": "Nhanh miệng, lo xa, quen ngồi quầy từ 5 giờ sáng, nghỉ bán ngày nào mất tiền ngày đó. Hay hỏi dồn, tự đoán bệnh. Tin 'chai nước' và 'thuốc tiêm' vì mỗi lần mệt vào tiệm truyền một chai là thấy tỉnh người. Tự đi chợ, tự nấu ăn, chưa từng té ngã. Sợ nhất là 'tai biến'.",
+  "kieu_nhieu": "Đòi truyền dịch: vào phòng là xin 'cho tôi chai nước biển với thuốc bổ cho hết quay'. Bác sĩ khuyên uống nước thì nhắc 'người ta truyền là hết liền', năn nỉ rồi hơi gắt, nhờ con gái nói giúp. Dịu lại khi được giải thích đơn giản và có việc cụ thể làm thay. Chuyện thật sự muốn kháng sinh và lọ thuốc nhỏ mũi chỉ lộ khi được hỏi đúng.",
+  "nguoi_nha": "Con gái, chị Phượng, 46 tuổi, bán quán nước cạnh nhà, bỏ quán nửa buổi đưa mẹ đi. Nói thật khi được hỏi riêng (số lọ thuốc nhỏ mũi trong nhà, mẹ nôn mấy lần).",
+  "ten_nguoi_nha": "Con gái (chị Phượng)",
+  "ngoai_hinh": {
+   "da": "#dcae8a",
+   "toc": "#d9d6d2",
+   "kieuToc": "bui",
+   "ao": "#7b8f6a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d4a07a",
+    "toc": "#231a15",
+    "kieuToc": "dai",
+    "ao": "#4f6f9a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Chóng mặt quay, nôn từ sáng Chủ nhật, đi không vững; con gái đưa đi",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có máy siêu âm (nên không có CT sọ, MRI, nội soi). Xét nghiệm máu, nước tiểu và điện tim làm được tại chỗ. Bệnh viện tỉnh có CT, MRI cách 60 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nữ 79 tuổi, bán tạp hóa nhỏ, con gái Phượng dìu vào, bà ôm cái thau nhựa, mắt nhắm, ngồi tựa vào con. Chóng mặt quay và nôn từ 5 giờ sáng Chủ nhật, hôm nay thứ Hai vẫn quay. Hai hôm trước bà đi xe khách đường dài. Vừa vào bà đã xin 'chai nước biển'. Sinh hiệu lúc tiếp đón (ngồi): mạch 86 l/p, HA 148/86 mmHg, nhiệt 36,9 °C, nhịp thở 18, SpO₂ 97%.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Cho về ngay khi bà còn buồn nôn, chưa thử uống được thuốc và nước: hôm qua bà nôn năm lần, uống rất ít. Ban ngày chị Phượng phải trông quán, bà tự đi vệ sinh với mức mất vững 1 (GRACE-3 2023, Bảng 3, tr. 458), nôn lại thì mất cả thuốc lẫn nước, chiều phải quay lại.",
+    "nhap_vien": "Khám vận nhãn đã cho kiểu ngoại biên ở cả ba thành phần nên GRACE-3 2023 (khuyến cáo 5, 6, tr. 447) không đòi hình ảnh. Nhập viện khi bà ngồi được, uống được sau thuốc chống nôn, có con gái ở cạnh là quá tay: bà 79 tuổi lạ giường, nghỉ bán thêm nhiều ngày, và chai truyền kèm theo củng cố niềm tin 'có truyền mới khỏi'.",
+    "chuyen_tuyen": "Chuyển bệnh viện tỉnh 60 km chụp CT hay MRI khi khám vận nhãn đã cho kiểu ngoại biên: GRACE-3 2023 khuyến cáo mạnh không dùng CT (khuyến cáo 5, tr. 447), MRI không phải xét nghiệm đầu tiên khi có người khám được HINTS (khuyến cáo 6). MRI-DWI còn có thể bình thường tới 16% ở tổn thương nhỏ trong 24 giờ đầu (Bárány AUVP 2022, mục 4.5.2)."
+   },
+   "loi_mo": "Bác sĩ ơi, cho tôi chai nước biển với thuốc bổ đi, truyền vô là hết quay liền. Tôi chóng mặt từ sáng hôm qua tới giờ, nhà nó cứ quay, nôn mấy lần, đi không nổi. Con Phượng phải dìu tôi tới đây. Nghỉ bán hai bữa rồi, khổ quá.",
+   "sinh_hieu": {
+    "mach": 86,
+    "ha": "148/86",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chóng mặt quay và nôn từ 5 giờ sáng Chủ nhật, đi không vững. Con gái Phượng đưa đi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Sáng Chủ nhật thức dậy đi vệ sinh thì nhà quay tròn, phải vịn tường, nôn năm lần trong ngày. Từ đó quay liên tục, nằm yên vẫn quay, mở mắt hay quay đầu thì quay hơn. Sáng nay nôn hai lần. Chưa có cơn nào ngắn rồi hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát cấp, liên tục trên 24 giờ, không thành cơn ngắn (Bárány AUVP, mục 3.1, tiêu chí A)"
+    },
+    {
+     "id": "chuyen_di",
+     "noi_dung": "Thứ Sáu bà đi xe khách khoảng 7 giờ ra tỉnh bên thăm em gái nằm viện, ngủ lại ghế cạnh giường, thứ Bảy đi xe về lại 7 giờ. Ngồi ghế cứng, sợ đi vệ sinh nên uống rất ít nước. Không té, không đập đầu. Hai chân không đau, không sưng; không khó thở, không đau ngực, không ho ra máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: đi xa ngồi lâu, uống ít nước; phân biệt huyết khối sau chuyến đi"
+    },
+    {
+     "id": "khong_trung_uong",
+     "noi_dung": "Không đau đầu, không yếu liệt tay chân, không méo miệng, không nói khó, không nhìn đôi, không tê mặt hay tay chân, không khó nuốt, không ngất, không co giật. Không đau gáy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng thần kinh trung ương (Bárány AUVP 2022, mục 3.1, tiêu chí D)"
+    },
+    {
+     "id": "tai",
+     "noi_dung": "Không ù tai, không đau tai, không chảy dịch. Hai tai nghe nặng nhiều năm nay, hai bên như nhau; từ hôm quay không nghe kém thêm bên nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tai: nghe kém hai bên cũ, không có giảm nghe một bên mới (HINTS plus)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Mấy năm trước khám sức khỏe, bác sĩ nói huyết áp 'hơi cao' nhưng không cho thuốc, bà không đo lại. Không đái tháo đường, chưa bị đột quỵ, không rung nhĩ, không bệnh tim. Chưa từng chóng mặt từng cơn. Không hút thuốc, không rượu. Không dùng thuốc ngủ, an thần, aspirin, lợi tiểu, không tiêm kháng sinh; chưa uống thuốc chống nôn hay thuốc chóng mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử, yếu tố nguy cơ mạch máu, rà thuốc gây chóng mặt (QĐ 5643/2015, Chóng mặt, mục 2.1b)"
+    },
+    {
+     "id": "tu_the",
+     "noi_dung": "Trước hôm Chủ nhật bà chưa bao giờ bị chóng mặt ngắn vài chục giây khi trở mình hay ngửa đầu lấy hàng trên kệ. Chỉ có một cơn quay liên tục từ sáng Chủ nhật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt BPPV (từng cơn ngắn theo tư thế)"
+    },
+    {
+     "id": "thuoc_nho_mui",
+     "noi_dung": "Gần tám tháng nay bà nhỏ lọ thuốc nhỏ mũi mua ở quầy thuốc đầu chợ (nhãn ghi naphazolin 0,05%), ngày 4 đến 5 lần và mỗi tối; không nhỏ thì nghẹt mũi không ngủ được. Bà nghĩ 'thuốc nhỏ mũi đâu phải thuốc' nên không kể.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'bà đang uống thuốc gì' thì bà nói không uống thuốc gì. Chỉ kể khi bác sĩ hỏi cụ thể thuốc nhỏ mũi, xịt mũi, thuốc tự mua; chị Phượng cũng nói số lọ trong nhà nếu được hỏi riêng.",
+     "k": 1,
+     "y": "Thuốc đang dùng kéo dài: thuốc nhỏ mũi co mạch"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều bà muốn nhất là kháng sinh. Mười ngày trước bà cảm nhẹ ba bốn ngày (sổ mũi, ho ít, không sốt) rồi hết; cộng nghẹt mũi mấy tháng nên bà nghĩ 'viêm xoang, vi trùng chạy vô tai trong làm quay'. Em gái bà ở bệnh viện tỉnh được truyền kháng sinh thì hết sốt. Trong nhà còn nửa vỉ amoxicillin dư từ đợt đau họng, bà chưa uống. Bà xin truyền nước vì nghĩ 'truyền thì thuốc vào nhanh, có kháng sinh trong chai càng tốt'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Ban đầu chỉ nói muốn truyền nước. Chỉ nói thẳng muốn kháng sinh khi bác sĩ hỏi bà nghĩ mình bị bệnh gì, mong bác sĩ cho thuốc gì, hoặc khi từ chối truyền dịch và hỏi vì sao bà muốn truyền.",
+     "k": 1,
+     "y": "Lý do thật: muốn được kê kháng sinh"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Mấy tháng trước mệt, bà vào tiệm đầu chợ truyền một chai nước biển kèm vitamin thấy 'tỉnh người' mấy ngày nên tin truyền nước là cách hồi sức nhanh nhất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Niềm tin về truyền dịch, nguồn của yêu cầu"
+    },
+    {
+     "id": "mat_nuoc",
+     "noi_dung": "Hai ngày nay bà uống rất ít, nước tiểu ít và vàng. Sáng nay thử ngụm nước ấm thì nôn lại. Không tiêu chảy, không sốt, không đau bụng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mức mất nước, khả năng uống: quyết định bù dịch uống hay truyền"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Bà ở cùng con gái Phượng; nhà vệ sinh trong nhà, cách giường khoảng năm bước. Ban ngày bà ngồi quầy tạp hóa trước nhà, chị Phượng ở quán cạnh nhà, ra vào được. Bà sốt ruột vì nghỉ bán hai ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người hỗ trợ ở nhà, nguy cơ ngã, khả năng theo dõi"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bà gầy, 48 kg, tỉnh, tiếp xúc tốt, ngồi tựa con gái; mở mắt hay quay đầu thì nôn khan. Môi hơi khô, nếp véo da mất nhanh. Không sốt, niêm hồng.",
+     "k": 1,
+     "hien": "Bà ngồi tựa, mắt nhắm, tỉnh. Môi hơi khô."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 148/86 mmHg, mạch 84. Ngồi dậy có đỡ 3 phút: 146/84, mạch 90, quay nhiều, nôn khan. Đứng 30 giây có hai người đỡ: 144/82, mạch 92, nghiêng về trái. Huyết áp không tụt; bà quay cả khi nằm yên nên không phải chóng mặt chỉ khi ngồi dậy (TL-0451, tr. S362–S363: chỉ khi ngồi dậy mới cần tìm hạ huyết áp tư thế).",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 86 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 86 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân mềm, không sưng, không nóng đỏ, bóp không đau, chu vi hai bên bằng nhau. Không phù cổ chân. Mạch mu chân bắt được hai bên.",
+     "k": 0,
+     "hien": "Hai chân không sưng, bóp bắp chân không đau."
+    },
+    "hong_tai_mui": {
+     "a": "Ống tai ngoài hai bên sạch, màng nhĩ hai bên nguyên vẹn, trong, không đỏ, không phồng, không mụn nước ở vành tai, ống tai hay vòm họng (không gợi ý Ramsay Hunt). Niêm mạc mũi hai bên đỏ sẫm, phù nề, cuốn dưới quá phát, không mủ, không dịch đục chảy xuống thành sau họng; ấn vùng trán và má không đau. Họng không đỏ, amidan không to.",
+     "k": 1,
+     "hien": "Màng nhĩ hai bên bình thường, không mụn nước. Niêm mạc mũi đỏ sẫm, phù nề, không mủ. Họng không đỏ."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, nói rõ, không méo mặt, lưỡi giữa. Sức cơ 5/5 bốn chi, cảm giác bình thường, phản xạ gân xương đều, Babinski âm tính. Ngón–mũi và gót–gối không run mục đích. Không cứng gáy.",
+     "k": 1
+    },
+    "hints_van_nhan": {
+     "a": "Nhìn thẳng: rung giật nhãn cầu ngang kèm thành phần xoay, pha nhanh sang phải, một chiều; mạnh hơn khi nhìn sang phải, yếu đi khi nhìn sang trái nhưng không đổi chiều ở mọi hướng nhìn; giảm khi nhìn cố định vào ngón tay, rõ hơn khi che mắt. Đẩy đầu nhanh: quay sang trái thì mắt trượt khỏi mục tiêu và có cú giật bắt kịp biên độ lớn (Bárány AUVP 2022, ghi chú 10); quay sang phải mắt giữ được mục tiêu. Che mắt luân phiên: không lệch dọc. Không nhìn đôi. Cả ba thành phần ngoại biên (GRACE-3 2023, Bảng 4, tr. 459–460), phù hợp tổn thương tiền đình trái (Bárány AUVP 2022, mục 3.1, tiêu chí B, C, E).",
+     "k": 1,
+     "hien": "Nhìn thẳng: nhãn cầu giật liên tục sang phải, nhìn sang trái thì yếu đi nhưng vẫn giật sang phải. Đẩy đầu nhanh sang trái: mắt trượt khỏi mục tiêu rồi giật bắt kịp; sang phải: mắt giữ được mục tiêu. Che mắt luân phiên: mắt không dịch chuyển dọc."
+    },
+    "nghe_thi_tham": {
+     "a": "Cọ ngón tay sát tai: hai bên như nhau, đều kém, khớp lời kể nghe nặng tai nhiều năm. Không có giảm nghe một bên mới (HINTS plus, GRACE-3 2023, khuyến cáo 3, tr. 447).",
+     "k": 1,
+     "hien": "Nghe cọ ngón tay hai bên như nhau, đều kém."
+    },
+    "dang_di_thang_bang": {
+     "a": "Ngồi bên giường tự giữ thân. Đứng được khi có người đỡ nhẹ; tự đi vài bước nhưng phải vịn tường, loạng choạng, nghiêng về trái, không ngã; không dám làm Romberg. Mất vững mức 1: mất thăng bằng nhẹ đến vừa khi đi, đi được độc lập (GRACE-3 2023, Bảng 3, tr. 458: mức 1 có đột quỵ ở 7%, 3/42). Nghiêng về bên tổn thương, hợp tổn thương ngoại biên (QĐ 5643/2015, Chóng mặt, mục 3.1e; Bárány AUVP 2022, ghi chú 3).",
+     "k": 1,
+     "hien": "Ngồi tự giữ thân. Đứng cần người đỡ nhẹ. Tự đi vài bước, vịn tường, nghiêng về bên trái, không ngã."
+    },
+    "dix_hallpike": {
+     "a": "Không phải nghiệm pháp thích hợp lúc này: bà đang quay liên tục cả khi nằm yên và có rung giật tự phát, đặt đầu thấp chỉ làm bà quay và nôn nhiều hơn, không thêm thông tin. Dix–Hallpike dành cho thể quay từng cơn ngắn theo tư thế (GRACE-3 2023, khuyến cáo 11, tr. 447; TL-0451 khuyến cáo 5).",
+     "k": 0,
+     "hien": "Nằm ngửa đầu thấp: bà quay nhiều hơn, nôn khan, rung giật vẫn một chiều như khi ngồi."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 6,4 mmol/L (nhịn ăn từ sáng).",
+     "n": "Loại hạ đường huyết, bệnh dễ nhầm với đột quỵ (QĐ 5331/2020, phần I mục 4); cần biết trước khi nghĩ tới corticoid (GRACE-3 2023, tr. 473)."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 84 l/p, đều, trục bình thường, QTc 438 ms, không rung nhĩ, không ST–T bất thường.",
+     "n": "Rung nhĩ là yếu tố nguy cơ mạch máu của chóng mặt (Bárány vascular 2022, mục 2.1.2). Ngưỡng QT trước thuốc chống nôn: không có trong tài liệu đã tải."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 137 · K 3,6 · Cl 99 mmol/L",
+     "bang": {
+      "na": 137,
+      "k": 3.6,
+      "cl": 99
+     },
+     "n": "Nôn nhiều, uống ít, 79 tuổi nên cần điện giải trước khi quyết định bù dịch; bình thường nên uống được thì không cần truyền."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 2,4 mg/L",
+     "bang": {
+      "crp": 2.4
+     },
+     "n": "Không có dấu viêm toàn thân; chỉ giúp thuyết phục bà, không có vai trò chẩn đoán viêm thần kinh tiền đình."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thần kinh tiền đình bên trái (hội chứng tiền đình cấp ngoại biên một bên, AUVP), ngày thứ hai, khoảng 27 giờ; mất nước nhẹ do nôn và uống ít",
+     "ok": 1,
+     "n": "Bárány AUVP 2022, mục 3.1: khởi phát cấp, vertigo liên tục từ 24 giờ (A); rung giật ngoại biên một chiều (B); giảm VOR bên trái, cú giật bắt kịp biên độ lớn (C, ghi chú 10); không dấu thần kinh trung ương, không triệu chứng tai mới (D, E); không bệnh khác giải thích hơn (F). QĐ 5643/2015, Chóng mặt, mục 2.2: thường do virus. Tuổi 79 ngoài khoảng gặp nhiều nhất 30–60 tuổi (Bárány AUVP, mục 4.1) nhưng không loại trừ."
+    },
+    {
+     "t": "Đột quỵ tuần hoàn sau (tiểu não, thân não, nhồi máu mê nhĩ)",
+     "n": "Loại trừ lâm sàng, chưa bằng hình ảnh. Bà 79 tuổi, huyết áp hơi cao chưa điều trị nên phải khám vận nhãn kỹ (Bárány vascular 2022, mục 2.1.2). HINTS đủ ba thành phần ngoại biên, nghe không giảm mới (GRACE-3 2023, khuyến cáo 2, 3), mất vững mức 1 (Bảng 3), không dấu khu trú. Khám lâm sàng phân biệt AUVP với hội chứng tiền đình cấp trung ương với độ nhạy, độ đặc hiệu khoảng 90% (Bárány AUVP, mục 4.5.2). HINTS chỉ đáng tin khi người khám đã luyện (GRACE-3, tr. 444); chưa chắc thì MRI-DWI hoặc hội chẩn (khuyến cáo 7)."
+    },
+    {
+     "t": "BPPV (chóng mặt kịch phát tư thế lành tính)",
+     "n": "Loại trừ: vertigo liên tục trên 24 giờ kể cả nằm yên, có rung giật tự phát; BPPV là cơn ngắn theo tư thế, Dix–Hallpike dành cho thể theo cơn (GRACE-3 2023, khuyến cáo 11; TL-0451 khuyến cáo 5)."
+    },
+    {
+     "t": "Chóng mặt do mất nước, hạ huyết áp tư thế hay say xe sau chuyến đi dài",
+     "n": "Không giải thích được rung giật một chiều và cú giật bắt kịp. Huyết áp không tụt khi ngồi, đứng; bà quay cả khi nằm yên (TL-0451, tr. S362–S363). Chuyến đi chỉ là nhiễu: AUVP không có yếu tố khởi phát đặc hiệu (Bárány AUVP, mục 4.2)."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu, thuyên tắc phổi sau chuyến xe dài",
+     "n": "Không đau hay sưng bắp chân, không khó thở, đau ngực, SpO₂ 97%, mạch 86; không có dấu hiệu nên không cần D-dimer hay Doppler (cơ sở không có siêu âm). Thang điểm Wells: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm tai giữa, viêm mê nhĩ, viêm xoang lan vào tai trong (điều bà nghĩ)",
+     "n": "Màng nhĩ bình thường, không đau tai, không mủ mũi, không sốt, CRP 2,4; không ù tai, không nghe kém mới (Bárány AUVP, mục 3.1 tiêu chí D, mục 4.3.4, 4.5.3). Kháng sinh liều cao trong QĐ 5643/2015 (Chóng mặt, mục 4.1c) chỉ cho viêm tai trong có mủ."
+    },
+    {
+     "t": "Bệnh Ménière, zona tai (Ramsay Hunt), rối loạn đường huyết, điện giải, thuốc độc tiền đình",
+     "n": "Không ù tai, nghe kém mới, đau tai, mụn nước; Ménière là cơn ngắn, hồi phục nhanh (Bárány AUVP, mục 4.6.2). Đường huyết 6,4, Na 137, K 3,6; không dùng thuốc ngủ, an thần hay thuốc độc tai (QĐ 5331/2020, phần I mục 4; QĐ 5643/2015, Chóng mặt, mục 2.1b)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Không chụp CT sọ, không chuyển tuyến chụp MRI vì cả ba thành phần HINTS và nghe đều ngoại biên (phòng khám cũng không có CT, MRI)",
+     "v": "c",
+     "n": "GRACE-3 2023 khuyến cáo 5, 6 (tr. 447), tóm tắt tr. 444. MRI-DWI có thể bình thường tới 16% ở tổn thương nhỏ trong 24 giờ đầu (Bárány AUVP 2022, mục 4.5.2). Chỉ chuyển MRI khi HINTS trung ương hoặc chưa rõ (khuyến cáo 7)."
+    },
+    {
+     "t": "Thuốc chống nôn ngắn ngày: domperidon hoặc ondansetron",
+     "v": "c",
+     "n": "TL-0451 (HNO 2025, Bảng 3, tr. S362–S363): domperidon, metoclopramid, ondansetron, tối đa 2–3 ngày để không cản bù trừ; GRACE-3 2023 (tr. 444): không quá 3–5 ngày. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giữ theo dõi tại phòng khám khoảng 2–3 giờ sau thuốc chống nôn: thử uống từng ngụm nước, khám lại vận nhãn và dáng đi trước khi cho về",
+     "v": "c",
+     "n": "Thời gian theo dõi không có trong tài liệu đã tải; chọn theo tiêu chí ngồi tự giữ thân, hết nôn, uống được. Có dấu thần kinh hay tai mới thì xét lại chẩn đoán (Bárány AUVP 2022, ghi chú 13, 16). TL-0451 Bảng 3: chuyển cấp cứu hoặc chuyên khoa khi nặng hay nghi trung ương."
+    },
+    {
+     "t": "Bù nước bằng đường uống (nước chín, nước cháo loãng có muối) từng ngụm; không truyền dịch vì bà uống được",
+     "v": "c",
+     "n": "Không có tài liệu đã tải nào chỉ định truyền dịch cho viêm thần kinh tiền đình khi uống được. Nguyên tắc chung (QĐ 2760/2023, B2 mục 1.2, 1.4, bệnh khác, chỉ làm nguyên tắc): bù dịch uống trước, truyền khi nôn nhiều, không uống được. Nguy cơ quá tải dịch, viêm tĩnh mạch ở tuổi 79: nhận định của tác giả ca."
+    },
+    {
+     "t": "Không kê kháng sinh; nói rõ vì sao: tai, mũi, họng không có dấu nhiễm khuẩn, không sốt, CRP bình thường, bệnh do viêm dây thần kinh (thường do virus)",
+     "v": "c",
+     "n": "QĐ 5643/2015, Chóng mặt, mục 2.2: do virus; Bárány AUVP 2022, mục 4.8: nguyên nhân virus 'có khả năng nhưng chưa chứng minh'. Kháng sinh trong mục 4.1c chỉ cho viêm tai trong có mủ. ACP/CDC 2016, Lời khuyên 4: không kháng sinh cho cảm lạnh; Lời khuyên 3: viêm xoang chỉ khi trên 10 ngày, nặng hoặc hai pha bệnh, bà không đủ."
+    },
+    {
+     "t": "Hướng dẫn tập phục hồi tiền đình sớm tại nhà khi hết nôn; hẹn lại sau khoảng 1 tuần, sớm hơn khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "GRACE-3 2023 (tr. 444): chuyển mọi người viêm thần kinh tiền đình đi phục hồi tiền đình dù có dùng corticoid hay không. TL-0451 Bảng 3: tập tại nhà, theo dõi 2–4 tuần. Mốc 1 tuần là chọn lựa an toàn của ca (79 tuổi, đòi truyền, đòi kháng sinh), không có trong tài liệu."
+    },
+    {
+     "t": "Dặn người ở cùng bà 24–48 giờ đầu, đi vệ sinh có người đỡ, dặn dấu hiệu phải đi cấp cứu ngay",
+     "v": "c",
+     "n": "QĐ 5331/2020, Chương 5 mục I: gọi cấp cứu khi đột ngột yếu hoặc tê mặt, tay, chân, rối loạn ý thức, khó nói, mất thị lực, mất thăng bằng, đau đầu dữ dội. Bárány AUVP 2022, ghi chú 13, 16: có dấu thần kinh hay tai mới thì xét lại."
+    },
+    {
+     "t": "Giảm dần rồi bỏ thuốc nhỏ mũi naphazolin, thay bằng rửa mũi natriclorid 0,9%",
+     "v": "a",
+     "n": "Co mạch tại chỗ kéo dài gây viêm mũi do thuốc (EPOS 2020 mục 6.1.10); ARIA-EAACI 2024–2025 mục 5.2.2 (viết cho viêm mũi dị ứng, tham khảo): không quá 5 ngày, người cao tuổi nên tránh. QĐ 5643/2015, Ngạt mũi mục 4.1: rửa mũi natriclorid 0,9%, vẫn liệt kê rỏ co mạch, không nêu thời gian. Không liên quan trực tiếp chóng mặt nên chấm a. Cách ngưng: không có trong tài liệu đã tải, chấp nhận cả hai."
+    },
+    {
+     "t": "Corticoid uống ngắn ngày sau khi thảo luận lợi và hại với bà",
+     "v": "a",
+     "n": "GRACE-3 2023, khuyến cáo 14 (tr. 447, 472–473): quyết định chung cho người đến trong 3 ngày đầu, bằng chứng rất thấp; hại: một ca xuất huyết tiêu hóa, vài ca tăng đường huyết; phản chỉ định tương đối: đái tháo đường kiểm soát kém, hưng cảm. TL-0451 Bảng 3: cân nhắc tùy bệnh đi kèm. Đường huyết 6,4, không đái tháo đường nên dùng được; không dùng vẫn đúng. Liều: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cinnarizin ngắn ngày, hoặc truyền 'huyết thanh ngọt ưu trương' theo QĐ 5643 khi không uống được",
+     "v": "a",
+     "n": "TL-0451 (tr. S363, Bảng 3): cinnarizin ± dimenhydrinat tối đa 2–3 ngày. QĐ 5643/2015, Chóng mặt, mục 4.1a: huyết thanh ngọt ưu trương, tanganil. Bà uống được sau chống nôn nên không cần truyền."
+    },
+    {
+     "t": "Metoclopramid, dimenhydrinat, meclizin hay diazepam (seduxen) cho bà",
+     "v": "w",
+     "n": "QĐ 5643/2015 (mục 4.1a) và TL-0451 có nêu các thuốc này nhưng AGS Beers 2023, Bảng 2: tránh metoclopramid (ngoại tháp), kháng histamin thế hệ 1 như dimenhydrinat, meclizin (kháng cholinergic, lú lẫn, té ngã) và benzodiazepin (lú lẫn, té ngã, gãy xương); GRACE-3 2023 (tr. 473) nêu AGS khuyên không dùng meclizin ở người già. Bà 79 tuổi, 48 kg, vừa mất vững mức 1."
+    },
+    {
+     "t": "Đồng ý truyền một chai nước biển kèm vitamin theo yêu cầu cho bà yên tâm",
+     "v": "w",
+     "n": "Không có chỉ định: bà uống được sau chống nôn, không tụt huyết áp, điện giải bình thường (không có tài liệu đã tải nào chỉ định truyền dịch cho bệnh này; QĐ 2760/2023, B2 mục 1.2, 1.4). Củng cố niềm tin sai vào chai nước; nguy cơ viêm tĩnh mạch, quá tải dịch: nhận định của tác giả ca."
+    },
+    {
+     "t": "Kê kháng sinh (uống hoặc truyền) theo yêu cầu vì 'viêm xoang lan vào tai'",
+     "v": "w",
+     "n": "Không có dấu nhiễm khuẩn (màng nhĩ bình thường, không mủ, CRP 2,4; ACP/CDC 2016, Lời khuyên 3–4). Kháng sinh không chữa viêm dây thần kinh tiền đình (Bárány AUVP 2022, mục 4.8), thêm tác dụng phụ (ACP/CDC 2016, tóm tắt) và làm bà tin sai nguyên nhân."
+    },
+    {
+     "t": "Cho tiếp lọ thuốc nhỏ mũi, đổi sang xịt co mạch khác, hoặc kê thuốc chống chóng mặt liên tục hai đến ba tuần cho 'bổ não'",
+     "v": "w",
+     "n": "Co mạch kéo dài gây viêm mũi do thuốc (EPOS 2020 mục 6.1.10), không quá 5 ngày, người cao tuổi nên tránh (ARIA-EAACI 2024–2025 mục 5.2.2). Thuốc ức chế tiền đình dùng kéo dài cản bù trừ (GRACE-3 2023, tr. 473); TL-0451 tr. S363: tối đa 2–3 ngày."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thần kinh tiền đình bên trái (AUVP), ngày thứ hai, khoảng 27 giờ (Bárány 2022, mục 3.1)",
+     "Mất vững mức 1, tự đi được nhưng phải vịn và nghiêng về trái (GRACE-3 2023, Bảng 3); nguy cơ ngã ở người 79 tuổi",
+     "Mất nước nhẹ do nôn và uống ít sau chuyến xe dài; điện giải bình thường",
+     "Huyết áp 148/86 một lần đo, đang dùng thuốc co mạch nhỏ mũi kéo dài: chưa kết luận tăng huyết áp, đo lại khi hết bệnh",
+     "Viêm mũi do thuốc nhỏ mũi naphazolin tám tháng; nghe kém hai bên theo tuổi",
+     "Lý do thật: muốn kháng sinh và tin phải truyền chai nước mới khỏi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (liên tục trên 24 giờ, không thành cơn, không dấu thần kinh khu trú, không ù tai, không nghe kém mới) → sinh hiệu, mất nước, huyết áp tư thế → khám vận nhãn (HINTS, nghe), dáng đi → cận lâm sàng tối thiểu (đường huyết, điện giải, điện tim) → chẩn đoán → xử trí (GRACE-3 2023, tr. 444; Bárány AUVP 2022, mục 3.1 – tài liệu đã tải).",
+     "Bà có cả ba thành phần ngoại biên cộng nghe không giảm mới (GRACE-3 2023, Bảng 4: đủ bốn dấu lành tính mới tin là viêm thần kinh tiền đình) và đạt tiêu chí A–F (Bárány AUVP 2022, mục 3.1). Không CT (khuyến cáo 5), không MRI khi có người khám được HINTS (khuyến cáo 6).",
+     "Điều đáng dừng lại: bà 79 tuổi, huyết áp cao nhẹ chưa điều trị nên không được bỏ qua đột quỵ hố sau; chuyến xe dài và uống ít nước dễ kéo ta về 'mất nước, say xe, thiếu máu lên não'. Mất vững mức 1 dự báo đột quỵ chỉ 7% (GRACE-3, Bảng 3) nhưng không thay được khám vận nhãn.",
+     "Applicability ≥75 tuổi: AUVP gặp nhiều nhất 30–60 tuổi (Bárány AUVP, mục 4.1); số liệu HINTS, corticoid riêng cho nhóm ≥75 không có trong tài liệu đã tải; HIT ở giường chỉ tính là bằng chứng rõ khi người có kinh nghiệm thấy cú giật bắt kịp biên độ lớn (ghi chú 10), cần nhớ suy giảm tiền đình theo tuổi (ghi chú 12).",
+     "Lý do thật (kháng sinh) chỉ lộ khi hỏi 'bà nghĩ mình bị bệnh gì, mong bác sĩ cho thuốc gì'. Thuốc nhỏ mũi bị giấu vì bà không coi là thuốc; phải hỏi riêng thuốc nhỏ mũi, xịt mũi, thuốc tự mua. Cảm lạnh tuần trước là nhiễu, không phải chỉ định kháng sinh (ACP/CDC 2016, Lời khuyên 4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Theo dõi vài giờ tại phòng khám rồi cho về, không nhập viện, không chuyển tuyến: viêm thần kinh tiền đình là chẩn đoán lâm sàng, không cần hình ảnh (GRACE-3 2023, tr. 444). Bà còn nôn nên phải xem bà ngồi được, uống được, các dấu vận nhãn không đổi trước khi về; thời gian theo dõi không có trong tài liệu.",
+     "Thuốc chống nôn chỉ vài ngày: TL-0451 nêu 2–3 ngày, GRACE-3 nêu không quá 3–5 ngày; cả hai đúng. Bà 79 tuổi nên chọn domperidon hoặc ondansetron; tránh metoclopramid, dimenhydrinat, meclizin, seduxen (AGS Beers 2023, Bảng 2) dù QĐ 5643/2015 vẫn nêu. Corticoid là lựa chọn sau thảo luận (GRACE-3 khuyến cáo 14; TL-0451 Bảng 3); bà đến trong 3 ngày, đường huyết 6,4 nên dùng được, không dùng vẫn đúng.",
+     "Không truyền dịch, không kháng sinh: bà uống được, điện giải bình thường, dây thần kinh viêm chứ không phải vi trùng trong tai. Câu thay thế: 'Chai nước không chữa được chỗ dây thần kinh thăng bằng bị viêm. Bác sĩ cho thuốc chống nôn rồi bà uống nước từng ngụm, uống được là đủ nước. Kháng sinh không chữa bệnh này, uống vào còn hại bụng.'",
+     "Phục hồi tiền đình sớm và hẹn lại: GRACE-3 tr. 444, TL-0451 Bảng 3; mốc 1 tuần là chọn lựa của ca. Thuốc nhỏ mũi: giảm dần rồi bỏ, rửa muối 0,9% (EPOS 2020 mục 6.1.10; ARIA-EAACI 2024–2025 mục 5.2.2); đo lại huyết áp khi hết bệnh, chưa kê thuốc hạ áp."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Domperidon (hoặc ondansetron)",
+      "ham_luong": "Không có trong tài liệu đã tải",
+      "lieu": "Không có trong tài liệu đã tải (theo tờ hướng dẫn thuốc)",
+      "duong": "Uống (ondansetron có thể tiêm)",
+      "thoi_diem": "Khi buồn nôn; liều đầu tại phòng khám",
+      "so_ngay": "Tối đa 2–3 ngày (TL-0451) hoặc không quá 3–5 ngày (GRACE-3)",
+      "ghi_chu": "TL-0451 HNO 2025, Bảng 3, tr. S362–S363; GRACE-3 2023, tr. 444. Tránh metoclopramid (AGS Beers 2023, Bảng 2). QTc 438 ms; ngưỡng QT: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natriclorid 0,9% rửa mũi",
+      "ham_luong": "Dung dịch muối sinh lý 0,9%",
+      "lieu": "Số lần mỗi ngày: không có trong tài liệu đã tải",
+      "duong": "Rửa mũi",
+      "thoi_diem": "Thay mỗi lần định nhỏ thuốc nhỏ mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "QĐ 5643/2015, Ngạt mũi, mục 4.1; EPOS 2020 mục 6.1.10; ARIA-EAACI 2024–2025 mục 5.2.2. Bỏ naphazolin giảm dần hoặc dừng ngay đều được."
+     }
+    ],
+    "dan_do": [
+     "Bà bị viêm dây thần kinh thăng bằng của tai bên trái, thường do virus (QĐ 5643/2015, Chóng mặt, mục 2.2). Không phải vi trùng vào tai nên kháng sinh không chữa được; chai nước biển cũng không chữa được chỗ viêm.",
+     "Hôm nay bà uống thuốc chống nôn rồi uống nước từng ngụm; uống được và đỡ nôn là đủ nước, không cần truyền. Thuốc chống nôn chỉ 2–3 ngày, không quá 3–5 ngày (TL-0451; GRACE-3 2023, tr. 444).",
+     "Đưa bà đi cấp cứu ngay nếu yếu liệt tay chân, méo miệng, nói khó, nhìn đôi, tê, lơ mơ, đau đầu dữ dội, đi không vững hơn, nghe kém hẳn một bên hay ù tai (QĐ 5331/2020, Chương 5 mục I; Bárány AUVP 2022, ghi chú 13).",
+     "Có người ở cạnh bà 24–48 giờ đầu; đi vệ sinh có người đỡ, giữ nhà sáng, bỏ đồ trên sàn; chị Phượng nhờ người coi quầy vài hôm (nhận định của tác giả ca, không có trong tài liệu đã tải).",
+     "Khi hết nôn, tập nhìn và xoay đầu nhẹ theo tờ hướng dẫn mỗi ngày (GRACE-3 2023, tr. 444; TL-0451 Bảng 3); chóng mặt đỡ chậm trong vài tuần là bình thường.",
+     "Giảm dần rồi bỏ thuốc nhỏ mũi, rửa mũi nước muối 0,9% khi nghẹt; đừng mua lọ khác (EPOS 2020 mục 6.1.10; ARIA-EAACI 2024–2025 mục 5.2.2). Bỏ nửa vỉ amoxicillin còn dư, không tự uống.",
+     "Quay lại sau khoảng 1 tuần, mang theo lọ thuốc nhỏ mũi; đến sớm hơn nếu nôn không uống được, lơ mơ hay đi không vững. Huyết áp đo lại khi bà khỏe (mốc 1 tuần là chọn lựa của ca, không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 1 tuần",
+   "tiep_don": "Nữ 79 tuổi, bán tạp hóa nhỏ, con gái Phượng đi cùng; bà tự đi vào, tay vịn khung cửa, nhìn quanh cẩn thận. Tái khám sau một tuần, ngày thứ chín kể từ khi chóng mặt. Bà nói cơn quay liên tục đã hết nhưng 'mấy hôm nay trở mình, ngẩng đầu là thấy chao chao'. Sinh hiệu lúc tiếp đón (ngồi): mạch 78 l/p, HA 140/82 mmHg, nhiệt 36,7 °C, nhịp thở 18, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "theo_doi": "Giữ bà nhiều giờ tại phòng khám 'cho chắc' khi bà ngồi yên, đi lại được, không nôn, các dấu đã gần bình thường. Bà mất thêm nửa ngày bán hàng và dễ hiểu là bệnh còn nặng nên cần truyền chai.",
+    "nhap_vien": "Bà đang hồi phục tốt: hết nôn, tự đi được, khám không có dấu mới. Nhập viện không thêm gì bà nằm viện nhiều ngày, mất quầy hàng, lạ giường dễ ngã đêm đi vệ sinh, chai truyền 'bổ não' củng cố niềm tin sai.",
+    "chuyen_tuyen": "Gửi bệnh viện tỉnh 60 km chụp MRI hay CT vì 'còn chao chao': không có dấu thần kinh hay tai mới, khám tư thế âm tính. GRACE-3 2023 khuyến cáo không CT (khuyến cáo 12) và không MRI thường quy (khuyến cáo 13, tr. 447); Cần nhớ suy giảm tiền đình theo tuổi (Bárány AUVP 2022, ghi chú 12). Bà đi cả ngày mà không thêm thông tin."
+   },
+   "loi_mo": "Chào bác sĩ. Cái quay liên tục hết rồi, đi được rồi, nhưng hai ba bữa nay trở mình hay ngẩng đầu lên là tôi thấy chao chao, đi nhanh quay đầu là lảo đảo. Tôi sợ nó tái lại, bác sĩ cho tôi chai nước biển bổ não với mũi thuốc tiêm cho hết hẳn đi, kẻo tôi lại phải nghỉ bán.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "140/82",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Cái quay liên tục hết rồi, nhưng hai ba ngày nay trở mình, ngẩng đầu là thấy chao chao, quay đầu nhanh thì lảo đảo. Con gái Phượng đi cùng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do tái khám: triệu chứng mới"
+    },
+    {
+     "id": "trieu_chung_moi",
+     "noi_dung": "Từ khoảng thứ Bảy: khi trở mình hay ngẩng cổ lấy hàng trên kệ, bà thấy lâng lâng, chao nhẹ chừng vài giây rồi đỡ, không quay tròn, không buồn nôn. Ngồi yên, nằm yên thì không sao. Quay đầu nhanh khi đi thì lảo đảo hơn. Bà lo đó là 'bệnh quay lại'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng mới: chao nhẹ khi đổi tư thế đầu, dễ gợi BPPV; thực chất là mất bù trừ tiền đình còn lại"
+    },
+    {
+     "id": "dien_tien_cu",
+     "noi_dung": "Cơn quay liên tục giảm dần, khoảng bốn năm ngày thì hết, bà tự đi lại được từ thứ Năm. Không nôn từ thứ Tư. Không yếu liệt, không ù tai, không nghe kém thêm, không đau đầu, không nhìn đôi, không tê.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viêm thần kinh tiền đình đang hồi phục; không dấu thần kinh, tai mới (Bárány AUVP 2022, ghi chú 13)"
+    },
+    {
+     "id": "thuoc_da_dung",
+     "noi_dung": "Bà uống thuốc chống nôn ba ngày rồi ngưng; không dùng corticoid sau khi nghe giải thích; không truyền dịch, không uống kháng sinh, đã bỏ nửa vỉ amoxicillin. Bà tập nhìn và xoay đầu theo tờ hướng dẫn nhưng làm 'cho có', sợ chóng mặt. Thuốc nhỏ mũi giảm còn một đến hai lần buổi tối, có rửa mũi nước muối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đã dùng theo xử trí lượt 1; tập phục hồi chưa đủ"
+    },
+    {
+     "id": "co_vai",
+     "noi_dung": "Cổ bà cử động bình thường, không đau cổ, không đau lưng nặng, không đau ngực hay khó thở khi nằm ngửa. Bà nằm ngửa được.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Điều kiện làm nghiệm pháp tư thế"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà sợ bệnh quay trở lại. Hàng xóm nói 'chóng mặt còn là còn vi trùng trong tai, phải chích kháng sinh cho sạch', nên bà vẫn muốn thuốc tiêm kèm chai 'bổ não'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật còn đó: muốn kháng sinh; đòi truyền dịch lặp lại"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bà tỉnh, hồng hào hơn, tự đi vào, môi ẩm, không nôn.",
+     "k": 0,
+     "hien": "Bà tỉnh, tự đi vào, môi ẩm."
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "hong_tai_mui": {
+     "a": "Màng nhĩ hai bên bình thường, không mụn nước, không dịch. Niêm mạc mũi hồng hơn lần trước, bớt phù nề, không mủ. Họng không đỏ.",
+     "k": 0,
+     "hien": "Màng nhĩ hai bên bình thường. Niêm mạc mũi hồng hơn, không mủ."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, nói rõ, không méo mặt. Sức cơ 5/5, cảm giác bình thường, phản xạ đều, Babinski âm tính. Ngón–mũi và gót–gối bình thường. Cổ cử động tự do, không đau.",
+     "k": 1
+    },
+    "hints_van_nhan": {
+     "a": "Nhìn thẳng, mắt mở: không rung giật tự phát; che mắt hoặc nhìn xa sang phải còn rung giật rất nhẹ pha nhanh sang phải. Đẩy đầu nhanh: quay sang trái còn cú giật bắt kịp nhỏ, sang phải bình thường. Che mắt luân phiên: không lệch dọc. Không nhìn đôi. Hợp viêm thần kinh tiền đình trái đang hồi phục, còn giảm VOR nhẹ (Bárány AUVP 2022, mục 3.1 tiêu chí C, ghi chú 10).",
+     "k": 1,
+     "hien": "Nhìn thẳng: không thấy rung giật tự phát. Nhìn xa sang phải: giật rất nhẹ. Đẩy đầu nhanh sang trái: mắt giật bắt kịp nhỏ; sang phải bình thường. Che mắt luân phiên: không dịch chuyển dọc."
+    },
+    "dang_di_thang_bang": {
+     "a": "Tự đi thẳng 10 m, quay người hơi chậm, nghiêng nhẹ sang trái khi quay đầu nhanh, không ngã. Đứng chụm chân nhắm mắt vững, Romberg âm tính.",
+     "k": 1,
+     "hien": "Tự đi thẳng 10 m, quay người hơi chậm, nghiêng nhẹ sang trái khi quay đầu nhanh. Đứng nhắm mắt vững."
+    },
+    "dix_hallpike": {
+     "a": "Dix–Hallpike hai bên (quay đầu 45°, ngả nhanh ra sau, đầu thấp khoảng 20° dưới mặt ngang, giữ đủ 30–60 giây): không có rung giật nhãn cầu, bà chỉ nói 'hơi chao' khi ngả, không quay tròn, không buồn nôn. Nghiệm pháp lăn ngang hai bên: không rung giật ngang. Âm tính cho BPPV ống sau và ống ngang (TL-0451, Hình 3a, 3b: BPPV có rung giật xoay hướng về đất, tăng rồi giảm, cơn 10–20 giây; GRACE-3 2023, khuyến cáo 11).",
+     "k": 1,
+     "hien": "Hai bên: ngả ra sau bà chỉ nói hơi chao, không thấy mắt giật, không quay tròn. Lăn ngang hai bên: không có gì."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "n",
+     "r": "Đường huyết mao mạch 5,8 mmol/L (ăn sáng cách 2 giờ).",
+     "n": "Không cần làm lại: không có triệu chứng chuyển hóa."
+    },
+    "ecg": {
+     "v": "n",
+     "r": "Nhịp xoang 76 l/p, đều, không rung nhĩ, không ST–T bất thường.",
+     "n": "Không cần: không có cơn thoáng qua kèm triệu chứng tim, thần kinh."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm thần kinh tiền đình bên trái đang hồi phục, ngày thứ chín (hết vertigo liên tục, còn giật nhãn cầu rất nhẹ, cú giật bắt kịp khi đẩy đầu sang trái, mất bù trừ khi quay đầu nhanh)",
+     "ok": 1,
+     "n": "Diễn tiến tốt: vertigo liên tục hết sau bốn năm ngày, không dấu thần kinh, tai mới (Bárány AUVP 2022, mục 3.1, ghi chú 13). Còn mất vững nhẹ là thường gặp, phục hồi tiền đình giúp bù trừ (GRACE-3 2023, tr. 444; TL-0451 Bảng 3). Tuổi cao: suy giảm tiền đình theo tuổi (Bárány AUVP, ghi chú 12)."
+    },
+    {
+     "t": "BPPV (chóng mặt kịch phát tư thế lành tính), kể cả thể sau nhiễm",
+     "ok": 0,
+     "n": "Bà kể chao khi trở mình, ngẩng đầu nên dễ nghĩ BPPV (AUVP có thể kéo theo BPPV ống sau, Bárány AUVP 2022, mục 4.1). Nhưng Dix–Hallpike hai bên và lăn ngang đều âm tính, không rung giật nhãn cầu, không quay tròn, không cơn 10–20 giây (TL-0451, Hình 3; GRACE-3 2023, khuyến cáo 11). Không làm Epley khi không có chẩn đoán."
+    },
+    {
+     "t": "Đột quỵ hay TIA tuần hoàn sau",
+     "ok": 0,
+     "n": "Không triệu chứng hay dấu thần kinh trung ương, không giật nhãn cầu trung ương, không nhìn đôi, đi vững hơn lượt trước, diễn tiến hồi phục dần (Bárány AUVP 2022, mục 3.1 tiêu chí D, E; ghi chú 13). Xuất hiện dấu mới thì xét lại (ghi chú 16)."
+    },
+    {
+     "t": "Viêm thần kinh tiền đình tái phát",
+     "ok": 0,
+     "n": "Không có vertigo liên tục mới, không rung giật tự phát rõ; tái phát gặp 1,9–10,7% (Bárány AUVP 2022, mục 4.1)."
+    },
+    {
+     "t": "Hạ huyết áp tư thế, thuốc",
+     "ok": 0,
+     "n": "Chao khi đổi tư thế đầu chứ không khi đứng dậy; huyết áp ngồi 140/82; đã ngưng thuốc chống nôn (TL-0451, tr. S362–S363)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Làm Dix–Hallpike hai bên và lăn ngang để xác nhận hay loại BPPV trước khi kết luận về kiểu chao khi đổi tư thế",
+     "v": "c",
+     "n": "GRACE-3 2023, khuyến cáo 11 (tr. 447); TL-0451, khuyến cáo 5, Hình 3a, 3b. Kết quả âm tính nên không làm Epley."
+    },
+    {
+     "t": "Không làm Epley, không kê thuốc cho kiểu chao khi đổi tư thế vì nghiệm pháp tư thế âm tính",
+     "v": "c",
+     "n": "Epley chỉ khi Dix–Hallpike dương tính (GRACE-3 2023, khuyến cáo 15, tr. 448; TL-0451, khuyến cáo 7)."
+    },
+    {
+     "t": "Ngưng hẳn thuốc chống nôn, không kê thuốc ức chế tiền đình kéo dài",
+     "v": "c",
+     "n": "TL-0451 tr. S362–S363: tối đa 2–3 ngày; GRACE-3 2023 (tr. 444, 473): không quá 3–5 ngày, dùng kéo dài cản bù trừ."
+    },
+    {
+     "t": "Tăng cường tập phục hồi tiền đình đều đặn tại nhà (nhìn–xoay đầu, đi quay người), hướng dẫn lại và kiểm tra bà làm đúng",
+     "v": "c",
+     "n": "GRACE-3 2023 (tr. 444): chuyển mọi người viêm thần kinh tiền đình đi phục hồi tiền đình. TL-0451 Bảng 3: VRT tập tại nhà bằng tờ hướng dẫn, video, ứng dụng."
+    },
+    {
+     "t": "Không chụp CT, không chuyển tuyến chụp MRI vì không có dấu mới",
+     "v": "c",
+     "n": "GRACE-3 2023, khuyến cáo 12, 13 (tr. 447). Phòng khám cũng không có CT, MRI."
+    },
+    {
+     "t": "Giải thích đơn giản: dây thần kinh thăng bằng đang lành, còn chao khi quay đầu nhanh là bình thường, cần tập để hết; từ chối lại chai nước biển và kháng sinh",
+     "v": "c",
+     "n": "Bárány AUVP 2022, mục 4.8: nguyên nhân virus, không có bằng chứng vi trùng; không tài liệu đã tải nào chỉ định truyền dịch hay kháng sinh (lượt 1: ACP/CDC 2016, Lời khuyên 3–4)."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 đến 4 tuần; đến sớm hơn khi có dấu hiệu mới",
+     "v": "c",
+     "n": "TL-0451 Bảng 3: viêm thần kinh tiền đình theo dõi sau 2–4 tuần; khẩn khi nặng hoặc nghi trung ương."
+    },
+    {
+     "t": "Bỏ hẳn thuốc nhỏ mũi, tiếp tục rửa mũi muối 0,9%",
+     "v": "a",
+     "n": "EPOS 2020 mục 6.1.10; ARIA-EAACI 2024–2025 mục 5.2.2; QĐ 5643/2015, Ngạt mũi, mục 4.1; không liên quan chóng mặt nên chấm a."
+    },
+    {
+     "t": "Cho truyền chai nước 'bổ não' hoặc tiêm kháng sinh theo yêu cầu",
+     "v": "w",
+     "n": "Không chỉ định; không tài liệu đã tải nào chỉ định truyền dịch hay kháng sinh. Củng cố niềm tin sai; nguy cơ viêm tĩnh mạch, quá tải dịch: nhận định của tác giả ca."
+    },
+    {
+     "t": "Làm Epley dù Dix–Hallpike âm tính, hoặc kê thuốc chống chóng mặt, ức chế tiền đình vài tuần, hoặc thêm corticoid",
+     "v": "w",
+     "n": "Epley chỉ khi Dix–Hallpike dương tính (GRACE-3 2023, khuyến cáo 15). Thuốc ức chế tiền đình kéo dài cản bù trừ (GRACE-3, tr. 473–474; TL-0451 tr. S363: 2–3 ngày); AGS Beers 2023, Bảng 2. Corticoid chỉ trong 3 ngày đầu, bằng chứng rất thấp (khuyến cáo 14); nay ngày thứ chín."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm thần kinh tiền đình bên trái đang hồi phục, ngày thứ chín, còn cú giật bắt kịp nhẹ và giật nhãn cầu rất nhẹ (Bárány AUVP 2022, mục 3.1)",
+     "Mất bù trừ tiền đình còn lại: chao nhẹ khi quay đầu nhanh, trở mình, ngẩng đầu; Dix–Hallpike và lăn ngang âm tính, loại BPPV",
+     "Viêm mũi do thuốc nhỏ mũi, đã giảm dần; huyết áp 140/82, chưa kết luận tăng huyết áp",
+     "Lý do thật: lo bệnh tái phát, vẫn muốn kháng sinh và chai bổ não"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bệnh (chao nhẹ vài giây khi đổi tư thế, không quay tròn, không dấu thần kinh, không tai mới) → khám vận nhãn, dáng đi → Dix–Hallpike hai bên, lăn ngang → chẩn đoán → xử trí (GRACE-3 2023, khuyến cáo 11).",
+     "Bẫy nhẹ: chao khi trở mình, ngẩng đầu dễ gợi BPPV 'sau nhiễm' (Bárány AUVP, mục 4.1). Chỉ nghiệm pháp tư thế âm tính mới loại được; không làm Epley hay kê thuốc 'cho BPPV' khi chưa có dương tính.",
+     "Applicability ≥75 tuổi: số liệu phục hồi tiền đình riêng cho nhóm này không có trong tài liệu đã tải; bù trừ có thể chậm hơn vì suy giảm tiền đình theo tuổi (Bárány AUVP, ghi chú 12)."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngưng thuốc chống nôn, không ức chế tiền đình kéo dài (TL-0451: 2–3 ngày; GRACE-3: ≤ 3–5 ngày), không CT, MRI (khuyến cáo 12, 13), không corticoid, không truyền dịch, không kháng sinh.",
+     "Trọng tâm là tập phục hồi tiền đình đều đặn (GRACE-3 tr. 444; TL-0451 Bảng 3) và hẹn tái khám 2–4 tuần (TL-0451 Bảng 3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc chống nôn hay ức chế tiền đình",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Đã dùng đủ 2–3 ngày, dùng kéo dài cản bù trừ (TL-0451 tr. S363; GRACE-3 2023, tr. 444, 473)."
+     },
+     {
+      "thuoc": "Natriclorid 0,9% rửa mũi (tiếp tục)",
+      "ham_luong": "Dung dịch muối sinh lý 0,9%",
+      "lieu": "Số lần mỗi ngày: không có trong tài liệu đã tải",
+      "duong": "Rửa mũi",
+      "thoi_diem": "Mỗi khi nghẹt mũi, thay lần nhỏ thuốc nhỏ mũi",
+      "so_ngay": "Đến khi hết nghẹt mũi",
+      "ghi_chu": "QĐ 5643/2015, Ngạt mũi, mục 4.1; EPOS 2020 mục 6.1.10; ARIA-EAACI 2024–2025 mục 5.2.2."
+     }
+    ],
+    "dan_do": [
+     "Bà đang lành đúng đường: dây thần kinh thăng bằng bên trái hồi phục dần. Chao nhẹ khi quay đầu nhanh là bình thường, không phải bệnh quay lại; không phải vi trùng nên kháng sinh, chai nước đều không giúp.",
+     "Câu thay thế cho chai nước: 'Thuốc tốt nhất lúc này là tập. Bà tập đều mỗi ngày thì não học lại cách giữ thăng bằng, uống thuốc chóng mặt kéo dài còn làm chậm lại.'",
+     "Tập nhìn và xoay đầu theo tờ hướng dẫn mỗi ngày, có người đứng cạnh những ngày đầu (GRACE-3 2023, tr. 444; TL-0451 Bảng 3).",
+     "Đưa bà đi cấp cứu ngay nếu yếu liệt, méo miệng, nói khó, nhìn đôi, tê, đau đầu dữ dội, nghe kém hẳn một bên, ù tai, quay liên tục trở lại (QĐ 5331/2020, Chương 5 mục I; TL-0451 Bảng 1).",
+     "Quay lại sau 2 đến 4 tuần (TL-0451 Bảng 3); đến sớm nếu nặng hơn. Bỏ hẳn thuốc nhỏ mũi, rửa nước muối 0,9%; lấy hàng trên kệ cao dùng thang chắc, làm chậm. Đo lại huyết áp tại nhà khi khỏe."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Cúc tập phục hồi tiền đình đều hơn sau lượt 2; sau hai tuần hết chao khi quay đầu, đi vững, mở quầy lại, tái khám 3 tuần không còn giật nhãn cầu. Bà bỏ hẳn thuốc nhỏ mũi sau hai tuần, rửa mũi muối; huyết áp đo lại tại nhà khoảng 134/80. Bà không dùng kháng sinh, không truyền dịch lần nào, và dặn hàng xóm 'bệnh này bác sĩ nói không phải vi trùng'. Kết cục tốt vì ở cả hai lượt xử trí đúng: khám vận nhãn để loại đột quỵ, không CT, không truyền dịch, không kháng sinh, chống nôn ngắn ngày, rồi ở lượt 2 làm nghiệm pháp tư thế để loại BPPV và chỉ tăng tập phục hồi.",
+ "nhieu": [
+  "Đòi truyền dịch: bà tin chai nước là thuốc hồi sức, nhắc 'ở tiệm người ta truyền liền', hơi gắt, nhờ con gái nói giúp. Đáp án là lập luận nguy cơ, lợi ích cụ thể (uống được, điện giải bình thường) kèm việc làm thay (thuốc chống nôn, uống nước từng ngụm, hẹn lại), không tranh cãi. Lượt 2 lặp lại kiểu 'bổ não', 'cho hết hẳn'.",
+  "Lý do thật là kháng sinh, chỉ lộ khi hỏi 'bà nghĩ mình bị bệnh gì, mong bác sĩ cho thuốc gì'. Niềm tin dựa trên nghẹt mũi nhiều tháng, cái cảm tuần trước và chuyện em gái ở bệnh viện tỉnh. Thuốc nhỏ mũi bị giấu vì bà không coi là thuốc; biến phụ chấm a.",
+  "Chuyến xe dài và uống ít nước là nhiễu dễ dẫn tới 'say xe, mất nước, huyết khối'; nhưng bà quay cả khi nằm yên, huyết áp không tụt, chân không sưng, vận nhãn kiểu ngoại biên. Lượt 2, triệu chứng mới (chao khi trở mình, ngẩng đầu) dễ bị gán nhầm là BPPV để làm Epley hay cho thêm thuốc; nghiệm pháp tư thế âm tính.",
+  "Không có siêu âm kéo theo không có CT, MRI: đáp án cũng không dùng (GRACE-3 khuyến cáo 5, 12); Doppler tĩnh mạch không có nên loại huyết khối bằng triệu chứng, dấu hiệu."
+ ],
+ "bai_hoc_bien": [
+  "Hội chứng tiền đình cấp ở người cao tuổi: HINTS ba thành phần cộng nghe, do người đã luyện làm, tốt hơn CT; không CT, không MRI nếu HINTS ngoại biên (GRACE-3 2023, khuyến cáo 2, 3, 5, 6; Bárány AUVP 2022, mục 4.5.2).",
+  "Viêm thần kinh tiền đình: thuốc chống nôn, ức chế tiền đình chỉ vài ngày (2–3 hoặc ≤ 3–5 ngày), tránh metoclopramid, dimenhydrinat, meclizin, benzodiazepin ở người cao tuổi; phục hồi tiền đình sớm; corticoid sau thảo luận (GRACE-3 khuyến cáo 14; TL-0451 Bảng 3; AGS Beers 2023).",
+  "Chao khi trở mình, ngẩng đầu sau viêm thần kinh tiền đình dễ gợi BPPV: phải làm Dix–Hallpike và lăn ngang; âm tính thì loại BPPV, không Epley, không thuốc, tăng tập phục hồi (GRACE-3 khuyến cáo 11; TL-0451 Hình 3, Bảng 3).",
+  "Đòi truyền dịch và kháng sinh: tìm động cơ thật bằng một câu hỏi, từ chối bằng lời đơn giản kèm việc cụ thể làm thay; không tài liệu đã tải nào chỉ định truyền dịch hay kháng sinh (QĐ 5643/2015 mục 2.2; Bárány AUVP mục 4.8; ACP/CDC 2016)."
+ ],
+ "diem_nho": [
+  "Viêm thần kinh tiền đình (Bárány 2022, mục 3.1): vertigo liên tục ≥ 24 giờ, rung giật ngoại biên một chiều, giảm VOR bên đối diện, không dấu trung ương, không triệu chứng tai mới.",
+  "HINTS ngoại biên khi đủ bốn dấu lành tính: rung giật một chiều, HIT có cú giật bắt kịp, không lệch dọc, không giảm nghe một bên mới (GRACE-3 2023, Bảng 4). Không CT sọ để loại đột quỵ (khuyến cáo 5).",
+  "BPPV loại bằng Dix–Hallpike và lăn ngang âm tính (GRACE-3 khuyến cáo 11); còn mất vững sau AUVP thì tập phục hồi tiền đình, hẹn 2–4 tuần (TL-0451 Bảng 3).",
+  "Thuốc nhỏ mũi co mạch dùng kéo dài gây viêm mũi do thuốc; người cao tuổi nên tránh, không quá 5 ngày (EPOS 2020 mục 6.1.10; ARIA-EAACI 2024–2025 mục 5.2.2)."
+ ],
+ "nguon": [
+  "GRACE-3 2023 – Edlow JA và cs., Guidelines for reasonable and appropriate care in the emergency department 3: acute dizziness and vertigo. Acad Emerg Med 2023;30:442-486 – TL-0072 – tóm tắt tr. 444, Box 1 khuyến cáo 1–15 (tr. 447–448), Bảng 3 (tr. 458), Bảng 4 (tr. 459–460), corticoid (tr. 472–473), thuốc ức chế tiền đình và Epley (tr. 473–474).",
+  "Bárány Society 2022 – Strupp M và cs., Acute unilateral vestibulopathy/vestibular neuritis: diagnostic criteria. J Vestib Res 2022;32:389-406 – TL-0465 – mục 3.1, 3.4.1 (ghi chú 1, 3, 10, 12, 13, 16), mục 4.1, 4.2, 4.3.4, 4.5.2, 4.5.3, 4.6.2, 4.8.",
+  "TL-0451 – Tarnutzer và cs., Diagnosis and treatment of vertigo and dizziness: interdisciplinary guidance paper. HNO 2025;73(Suppl 3):357-369 – khuyến cáo 5, 7; Bảng 1, Bảng 3; tr. S361–S364, Hình 3a–c.",
+  "BYT – QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh tai mũi họng – TL-0130 – Chóng mặt, mục 2.1b, 2.2, 3.1e, 4.1a, 4.1c; Ngạt mũi, mục 4.1.",
+  "BYT – QĐ 5331/QĐ-BYT 2020, Hướng dẫn chẩn đoán và xử trí đột quỵ não – TL-0030 – phần I mục 4 (chẩn đoán phân biệt); Chương 5 mục I (dấu hiệu cảnh báo).",
+  "BYT – QĐ 2760/QĐ-BYT 2023, Hướng dẫn chẩn đoán, điều trị sốt xuất huyết Dengue – TL-0029 – B2 mục 1.2, 1.4 (chỉ làm nguyên tắc chung về bù dịch, bệnh khác).",
+  "AGS Beers Criteria 2023, J Am Geriatr Soc 2023;71:2052-2081 – TL-0022 – Bảng 2 (kháng histamin thế hệ 1, benzodiazepin, metoclopramid).",
+  "ACP/CDC 2016 – Appropriate antibiotic use for acute respiratory tract infection in adults. Ann Intern Med 2016;164:425-434 – TL-0156 – Lời khuyên 3, 4.",
+  "EPOS 2020 – European position paper on rhinosinusitis and nasal polyps 2020 – TL-0087 – mục 6.1.10; ARIA-EAACI 2024–2025 – Allergic rhinitis and its impact on asthma, Part I – TL-0546 – mục 5.2.2 (viết cho viêm mũi dị ứng, dùng tham khảo)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-19 (bản 2: lượt 2 sửa theo duyệt, BPPV loại trừ). Tài liệu đã đọc: TL-0072 GRACE-3 (Box 1, Bảng 3, 4, tr. 444, 472–474); TL-0465 Bárány AUVP (mục 3.1, 4.1–4.8, ghi chú); TL-0451 (khuyến cáo 5, 7, Bảng 1, 3, Hình 3); TL-0130 QĐ 5643/2015; TL-0030 QĐ 5331/2020; TL-0022 Beers 2023; TL-0156 ACP/CDC 2016; TL-0087 EPOS 2020; TL-0546 ARIA-EAACI; TL-0029 QĐ 2760/2023 (nguyên tắc bù dịch).",
+  "Thiếu tài liệu: liều domperidon, ondansetron, cinnarizin, corticoid; thời gian theo dõi tại phòng khám và mốc hẹn 1 tuần lượt 1; số liệu HINTS, corticoid, phục hồi tiền đình riêng cho ≥75 tuổi; ngưỡng QT; cách ngưng thuốc nhỏ mũi; thang Wells; cường độ tập phục hồi tiền đình.",
+  "Mâu thuẫn nguồn ghi cả hai theo sổ (mục TK-0267): thuốc chống nôn ở người cao tuổi và thời gian 2–3 ngày (TL-0451) với 3–5 ngày (GRACE-3). Không có mâu thuẫn mới."
+ ]
+}
