@@ -1,0 +1,612 @@
+{
+ "ma_ca": "PK-0209",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "PK_thai_ngoai_tu_cung",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Thai ngoài tử cung (phát hiện)",
+  "chan_doan_phai_loai_tru": [
+   "Dọa sảy",
+   "Viêm ruột thừa"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Điều dưỡng",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Lê Thị Hạnh",
+  "tuoi": 46,
+  "gioi": "Nữ",
+  "nghe": "Điều dưỡng trạm y tế xã, trực luân phiên cả đêm; chồng sửa xe máy, hai con (con lớn đang học đại học xa nhà)",
+  "can_nang": 58,
+  "chieu_cao": 158,
+  "xung_ho": "Bác sĩ gọi chị là 'chị Hạnh'. Chị tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhẹn, nói như đang bàn giao ca, tự tin chuyên môn nên hay tự chẩn đoán cho mình (\"em là điều dưỡng em biết\"). Tiết kiệm, lo học phí cho con, ngại làm phiền người khác và ngại đồng nghiệp biết chuyện riêng. Không hay đi khám, chỉ đi khi có hẹn.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: ngay từ đầu nói \"em chỉ mang theo ba trăm nghìn\", mỗi lần bác sĩ nhắc xét nghiệm hay chuyển tuyến là hỏi \"bao nhiêu tiền, có đổi được cách xử trí không\"; chỉ yên tâm khi bác sĩ nói rõ cái nào bắt buộc, cái nào bỏ được. Là điều dưỡng nên hay tự gán (\"giống ruột dư\", \"do ngồi xe lâu\", \"sắp mãn kinh\"). Chuyện ra huyết, trễ kinh, quan hệ chỉ nói khi được hỏi riêng; hỏi chung thì đáp \"không có gì\". Lượt 2: thấy đỡ nên không đi tuyến trên, giấu việc uống ibuprofen và viên có acid folic, chỉ nói khi hỏi cụ thể.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d4ab88",
+   "toc": "#1c1612",
+   "kieuToc": "ngan",
+   "ao": "#6a8a9a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Tái khám nghẹt mũi theo hẹn",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám không có siêu âm (kéo theo không CT, nội soi). Có xét nghiệm cơ bản (công thức máu, sinh hóa, tổng phân tích nước tiểu), β-hCG định lượng và que thử thai tại giường. Bệnh viện huyện có siêu âm đầu dò âm đạo, β-hCG, phòng mổ."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 46 tuổi, tên Lê Thị Hạnh, điều dưỡng trạm y tế xã, tự chạy xe máy đến phòng khám tư nhân lúc 16 giờ chiều thứ Sáu, nói đến tái khám theo hẹn của bác sĩ cách đây hai tuần về chứng nghẹt mũi. Chị tươi tỉnh, nói nhanh, mang theo túi xách và một ít tiền mặt. Phòng khám có xét nghiệm cơ bản (công thức máu, sinh hóa, tổng phân tích nước tiểu) và que thử thai tại giường; không có siêu âm. Sinh hiệu lúc tiếp đón: mạch 86 l/p, HA 122/78 mmHg, nhiệt độ 36,9 °C, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Hạnh được dặn nhỏ nước muối, uống thuốc giảm đau vì cho là mệt do ngồi xe lâu, hẹn một tuần, tối đó vẫn đi trực đêm một mình ở trạm y tế cách bệnh viện gần một giờ xe. Khối chửa ở vòi trứng phải tiếp tục lớn mà không ai biết. Thai ngoài tử cung vỡ là nguyên nhân hàng đầu gây tử vong do chảy máu trong thai kỳ (ACOG PB 193 2018, mục Epidemiology) và có thể vỡ cả khi hCG thấp (ACOG PB 193 2018, mục Trends of Serial Serum hCG); người có thử thai dương tính kèm ấn đau bụng phải được chuyển ngay (NICE NG126 2026, mục 1.4.7).",
+    "theo_doi": "Chị được giữ lại phòng khám, làm β-hCG định lượng (150.000 đ), rồi hẹn đo lại sau 48 giờ \"xem có tăng gấp đôi không\". Chị tốn tiền mà vẫn chưa biết thai nằm ở đâu, vì hCG không dùng để xác định vị trí thai (NICE NG126 2026, mục 1.8.2) và chẩn đoán tối thiểu cần siêu âm đầu dò âm đạo (ACOG PB 193 2018, mục How is an ectopic pregnancy diagnosed?), phòng khám lại không có. Hai ngày sau chị vẫn phải đi tuyến trên, trễ thêm và tốn tiền hai lần.",
+    "cap_cuu": "Chị bị gọi xe cấp cứu 115 chở thẳng vào khoa cấp cứu giữa chiều thứ Sáu, mất thêm chi phí vận chuyển trong khi chỉ mang ba trăm nghìn và đang lo học phí cho con. Chị ổn định, không đau nhiều nên không thuộc nhóm chuyển thẳng cấp cứu (NICE NG126 2026, mục 1.4.1); chuyển trong ngày đến đơn vị thai sớm hoặc khoa sản có siêu âm là đủ (NICE NG126 2026, mục 1.4.7). Chi phí quá tay dễ khiến chị ngại đi tuyến trên."
+   },
+   "loi_mo": "Dạ chào bác sĩ, em tới tái khám cái mũi theo hẹn. Em nhỏ thuốc giảm còn mỗi tối một lần rồi, mà ban đêm vẫn nghẹt, em sợ phải nhỏ hoài. À, mấy hôm nay em hơi nặng nặng bụng dưới bên phải, chắc do đi xe khách chín tiếng về quê chồng dự đám giỗ, ngồi lâu quá. Em làm điều dưỡng, em tự sờ thấy giống ruột dư nhẹ, nhưng tối nay em còn ca trực. Bác sĩ khám mũi cho em, còn mấy xét nghiệm đắt thì thôi nha, em chỉ mang theo ba trăm nghìn, tháng này em đóng học phí cho con.",
+   "sinh_hieu": {
+    "mach": 86,
+    "ha": "122/78",
+    "nhiet": "36,9",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Em tới tái khám nghẹt mũi theo hẹn. Em có nói thêm là mấy hôm nay hơi nặng bụng dưới bên phải, chắc do đi xe khách ngồi lâu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra: tái khám mũi theo hẹn, kèm nặng bụng bên phải"
+    },
+    {
+     "id": "dau_bung",
+     "noi_dung": "Ba ngày nay, từ chiều hôm đi xe khách chín tiếng về (ngồi lâu, ít uống nước, nhịn tiểu), em nặng và đau âm ỉ ở bụng dưới, nghiêng bên phải, khoảng 3–4 trên 10, đi xe máy xóc thì nhói hơn, nằm nghỉ thì dịu. Không có cơn quặn, không đau vai, không choáng, không đau chuyển dần từ rốn xuống. Hôm qua em uống một viên paracetamol 500 mg thì đỡ ít.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau hạ vị lệch phải nhẹ, không điển hình, không dấu hiệu nặng"
+    },
+    {
+     "id": "ra_huyet",
+     "noi_dung": "Bốn ngày nay sáng nào lau cũng thấy dính chút nâu, hai hôm nay có vài chấm nâu thẫm trên băng vệ sinh, không phải máu đỏ tươi, không thấm đầy băng. Em tưởng kinh sắp tới vì chu kỳ em thất thường.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung chung \"có gì khác không\" thì đáp \"không có gì đâu bác sĩ\". Chỉ nói khi bác sĩ hỏi riêng về ra máu hoặc ra huyết âm đạo.",
+     "k": 1,
+     "y": "Ra huyết âm đạo ít, màu nâu thẫm"
+    },
+    {
+     "id": "kinh",
+     "noi_dung": "Một năm nay kinh em lúc có lúc không, cách nhau 35–60 ngày, lượng ít, em nghĩ sắp mãn kinh. Lần cuối cách nay khoảng bảy tuần. Hai tuần nay em buồn nôn nhẹ buổi sáng, căng tức ngực, em cho là nội tiết tiền mãn kinh. Hỏi có thể có thai không thì em cười: 46 tuổi rồi, làm gì còn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi \"kinh nguyệt thế nào\" thì đáp \"lúc có lúc không, sắp mãn kinh\". Chỉ nói ngày kinh cuối, buồn nôn, căng ngực khi bác sĩ hỏi ngày đầu kỳ kinh gần nhất, có trễ kinh không, hoặc có khả năng có thai không.",
+     "k": 1,
+     "y": "Trễ kinh khoảng 7 tuần bị che bởi kinh thưa tiền mãn kinh; dấu hiệu nghén kín đáo"
+    },
+    {
+     "id": "quan_he",
+     "noi_dung": "Vợ chồng em tránh thai bằng tính ngày và xuất ngoài. Khoảng bảy tuần trước có một lần không tránh vì em nghĩ tuổi này khó có thai. Không đặt vòng, không uống thuốc tránh thai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng về quan hệ vợ chồng và biện pháp tránh thai, bằng giọng không phán xét.",
+     "k": 1,
+     "y": "Quan hệ không bảo vệ, biện pháp tránh thai không tin cậy"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Mười hai năm trước em mổ nội soi bóc u nang buồng trứng ở bệnh viện tỉnh. Sinh hai con thường, chưa sảy thai hay phá thai, chưa viêm vùng chậu, chưa có thai ngoài tử cung, không hút thuốc. Không tăng huyết áp, đái tháo đường, dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử phẫu thuật vùng chậu (yếu tố nguy cơ), sản khoa, bệnh nền"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Không sốt, không ớn lạnh. Ăn kém vì nặng bụng, hôm qua đi cầu nát một lần. Tiểu bình thường, không buốt, không máu. Hai chân không sưng đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc viêm ruột thừa, nhiễm khuẩn tiết niệu, huyết khối chi dưới"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Em nhỏ naphazolin 0,05% gần tám tháng, mỗi tối hai ba lần cho dễ ngủ khi trực đêm. Hai tuần trước bác sĩ dặn bớt, giờ em còn một lần tối và nhỏ nước muối biển ban ngày. Không dùng thuốc nào khác ngoài một viên paracetamol hôm qua.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc nhỏ mũi kéo dài, lý do tái khám theo hẹn"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Em chỉ mang ba trăm nghìn, chồng em sửa xe máy dạo này ít khách, con lớn học đại học xa nhà. Em hỏi mỗi xét nghiệm giá bao nhiêu và có đổi được cách xử trí không, nếu không thì xin bỏ. Giải thích rõ cái nào bắt buộc, cái nào bỏ được thì em đồng ý đi tuyến trên.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ nhắc đến xét nghiệm hoặc chuyển tuyến.",
+     "k": 1,
+     "y": "Không đủ tiền xét nghiệm: cần xếp ưu tiên, nói rõ cái đổi quyết định"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói nhanh, da niêm hồng, không nhợt, không vã mồ hôi, không vàng da. Cân nặng 58 kg.",
+     "k": 0,
+     "hien": "Chị tỉnh, da hồng, nói nhanh, không vã mồ hôi."
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 122/78 mmHg, mạch 86 l/p. Đứng 3 phút: HA 120/76 mmHg, mạch 90 l/p, không chóng mặt. Không hạ huyết áp tư thế.",
+     "k": 0,
+     "hien": "Nằm: HA 122/78, mạch 86. Đứng 3 phút: HA 120/76, mạch 90, chị không chóng mặt."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn đau nhẹ hạ vị lệch phải và hố chậu phải, không đề kháng, không phản ứng dội. McBurney không đau hơn hẳn các điểm lân cận, Rovsing âm tính. Không sờ thấy khối. Nhu động ruột bình thường.",
+     "k": 1,
+     "hien": "Bụng mềm, chị hơi nhăn mặt khi ấn hạ vị lệch phải, không co cứng."
+    },
+    "phu_khoa": {
+     "a": "Âm hộ bình thường. Mỏ vịt: ít máu nâu thẫm ở lỗ cổ tử cung, cổ tử cung hơi tím, đóng kín, không mủ. Khám hai tay: tử cung kích thước gần bình thường, mềm, di động; lắc cổ tử cung đau nhẹ khi nghiêng về bên phải; phần phụ phải ấn đau, không rõ khối; túi cùng sau không đầy; phần phụ trái bình thường.",
+     "k": 1,
+     "hien": "Có ít máu nâu thẫm ở cổ tử cung; khi khám hai tay chị đau nhẹ bên phải."
+    },
+    "hong_tai_mui": {
+     "a": "Cuốn mũi dưới hai bên phù nề, niêm mạc đỏ sẫm. Họng không đỏ, màng nhĩ bình thường.",
+     "k": 0,
+     "hien": "Niêm mạc mũi đỏ sẫm, cuốn mũi phù; họng và tai bình thường."
+    },
+    "tim": {
+     "a": "Tim đều 86 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 86 l/p."
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Rì rào phế nang êm hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p, không khó thở."
+    },
+    "chi_duoi": {
+     "a": "Hai chân không phù, bắp chân mềm, không đau khi bóp, không nóng đỏ.",
+     "k": 0,
+     "hien": "Hai chân không phù, bắp chân mềm."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau khi gõ, không cầu bàng quang.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "e",
+     "r": "Que thử thai nước tiểu (điều dưỡng Linh làm tại giường, 5 phút): DƯƠNG TÍNH, vạch thứ hai rõ.",
+     "ab": 1,
+     "n": "Phụ nữ tuổi sinh đẻ đau bụng hoặc ra huyết âm đạo đều phải thử thai, dù đang là tuổi tiền mãn kinh hay không nghĩ có thai (ACOG PB 193 2018, mục How is an ectopic pregnancy diagnosed?; NICE NG126 2026, mục 1.4.5, 1.4.6). Đây là xét nghiệm rẻ nhất (20.000 đ) và đổi hẳn quyết định xử trí; phản ứng hCG nước tiểu dương tính là một phần chẩn đoán (QĐ 315/2015, Chửa ngoài tử cung, mục 2.2)."
+    },
+    "sa_chau": {
+     "v": "e",
+     "r": "Siêu âm đầu dò âm đạo tại bệnh viện tuyến trên: buồng tử cung không có túi thai; khối cạnh buồng trứng phải khoảng 24 mm, di động riêng với buồng trứng, không có tim thai; ít dịch ở túi cùng Douglas.",
+     "ab": 1,
+     "thay_the": "test_thai",
+     "n": "Phòng khám không có siêu âm. Chẩn đoán tối thiểu cần siêu âm đầu dò âm đạo và xác nhận có thai (ACOG PB 193 2018, mục How is an ectopic pregnancy diagnosed?; NICE NG126 2026, mục 1.5.1, 1.7.1–1.7.3). Cách thay thế tại phòng khám là thử thai + khám bụng + khám phụ khoa rồi chuyển trong ngày (NICE NG126 2026, mục 1.4.7); QĐ 315/2015, Chửa ngoài tử cung, mục 2.3 dựa vào lâm sàng cộng siêu âm và hCG."
+    },
+    "bhcg": {
+     "n": "Không cần làm tại phòng khám (150.000 đ): hCG không xác định vị trí thai (NICE NG126 2026, mục 1.8.2) và không đổi quyết định chuyển vì đã đủ thử thai dương tính kèm ấn đau bụng, đau khi lắc cổ tử cung (NICE NG126 2026, mục 1.4.7). Bệnh viện lấy hCG cùng lúc siêu âm, đo lại sau 48 giờ nếu cần (NICE NG126 2026, mục 1.8.5)."
+    },
+    "ctm": {
+     "n": "Không cần ở phòng khám (50.000 đ): không đổi quyết định chuyển, chị ổn định; bệnh viện sẽ làm công thức máu, chức năng gan, thận trước điều trị (QĐ 315/2015, Chửa ngoài tử cung, mục 4.2.2)."
+    },
+    "ua": {
+     "n": "Không cần: không triệu chứng tiết niệu, hố thắt lưng không đau; thử thai dương tính đã đủ để chuyển (NICE NG126 2026, mục 1.4.5)."
+    },
+    "crp": {
+     "n": "Không cần: không sốt, không rối loạn tiêu hóa nổi bật, thử thai dương tính; ở người có thai không chẩn đoán viêm ruột thừa chỉ dựa triệu chứng, dấu hiệu (WSES 2020 (TL-0263), Recommendation 1.2.2). Thành phần điểm Alvarado/AIR: không có trong tài liệu đã tải ở mức chi tiết."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thai ngoài tử cung nghi ở vòi trứng phải, chưa có dấu vỡ, huyết động ổn (thai khoảng 7 tuần theo kinh; chẩn đoán lâm sàng và que thử thai, chưa có siêu âm)",
+     "ok": 1,
+     "n": "Trễ kinh khoảng 7 tuần bị che bởi kinh thưa, ra huyết nâu thẫm ít, đau hạ vị lệch phải, buồn nôn, căng ngực, thử thai dương tính, đau khi lắc cổ tử cung, phần phụ phải ấn đau (QĐ 315/2015, Chửa ngoài tử cung, mục 2.1, 2.3; NICE NG126 2026, mục 1.4.3, 1.4.4, 1.4.7). Chưa có siêu âm nên chưa khẳng định vị trí thai (NICE NG126 2026, mục 1.8.1)."
+    },
+    {
+     "t": "Dọa sảy thai",
+     "n": "Dọa sảy thai thường chỉ tức nặng hạ vị, ra máu đỏ tươi, cổ tử cung đóng, thân tử cung to tương xứng tuổi thai (QĐ 315/2015, Dọa sẩy thai, mục 2.1.1); chẩn đoán dựa vào siêu âm đã thấy túi ối trong tử cung (mục 2.2, 2.4.1). Chị ra máu nâu thẫm, ấn đau phần phụ phải, chưa có túi thai nên chưa gọi là dọa sảy."
+    },
+    {
+     "t": "Viêm ruột thừa cấp",
+     "n": "Đau hố chậu phải nhưng không sốt, không đau chuyển dần từ rốn xuống, McBurney không nổi trội, Rovsing âm tính, thử thai dương tính; viêm ruột thừa có nhiễm trùng, rối loạn tiêu hóa, không có phản ứng thai nghén (QĐ 315/2015, Chửa ngoài tử cung, mục 3). Ở người có thai không chẩn đoán viêm ruột thừa chỉ dựa triệu chứng, dấu hiệu (WSES 2020 (TL-0263), Recommendation 1.2.2); điểm Alvarado có thể cao giả vì buồn nôn đầu thai kỳ (WSES 2020 (TL-0263), mục Diagnosis, Q.1.1)."
+    },
+    {
+     "t": "Rối loạn kinh nguyệt tiền mãn kinh, rong huyết cơ năng",
+     "n": "Với rong huyết, hCG âm tính và siêu âm không thấy thai (QĐ 315/2015, Dọa sẩy thai, mục 2.4.4); chị hCG nước tiểu dương tính."
+    },
+    {
+     "t": "Xuất huyết nang hoàng thể, u nang buồng trứng biến chứng",
+     "n": "Chị từng bóc u nang; khối cạnh tử cung và nang xuất huyết chỉ phân biệt bằng siêu âm (QĐ 315/2015, Chửa ngoài tử cung, mục 3); thử thai dương tính, trễ kinh, ra huyết nâu thẫm nghiêng về thai ngoài tử cung; xử trí đầu tiên cùng là chuyển có siêu âm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng, nhẹ nhàng về kinh nguyệt, ra huyết, quan hệ, tránh thai và làm que thử thai nước tiểu ngay dù chị cho là sắp mãn kinh",
+     "v": "c",
+     "n": "Phụ nữ tuổi sinh đẻ đau bụng hoặc ra huyết đều cần thử thai (ACOG PB 193 2018, mục How is an ectopic pregnancy diagnosed?; NICE NG126 2026, mục 1.4.5, 1.4.6). Đây là xét nghiệm rẻ nhất và đổi quyết định."
+    },
+    {
+     "t": "Chuyển trong ngày, ngay chiều nay, đến bệnh viện có khoa sản, siêu âm đầu dò âm đạo và β-hCG (đơn vị thai sớm hoặc cấp cứu sản phụ khoa); không để chờ hẹn tuần sau",
+     "v": "c",
+     "n": "Thử thai dương tính kèm đau, ấn đau bụng, đau khi lắc cổ tử cung thì chuyển ngay tới đơn vị thai sớm hoặc phụ khoa cấp cứu (NICE NG126 2026, mục 1.4.7, 1.4.9); chẩn đoán tối thiểu là siêu âm đầu dò âm đạo và xác nhận có thai (ACOG PB 193 2018, mục How is an ectopic pregnancy diagnosed?); thai ngoài tử cung là cấp cứu sản khoa (QĐ 315/2015, Chửa ngoài tử cung, mục 4.1). Chị ổn định nên không bắt buộc xe cấp cứu (NICE NG126 2026, mục 1.4.1)."
+    },
+    {
+     "t": "Giải thích lý do chuyển và nói thẳng chi phí: chỉ cần siêu âm và hCG ở tuyến trên, bỏ công thức máu, CRP, nước tiểu, β-hCG tại phòng khám; viết giấy chuyển kèm kết quả thử thai, báo trước; hẹn chị quay lại sau một tuần",
+     "v": "c",
+     "n": "Giải thích lý do chuyển và điều chị sẽ gặp ở nơi nhận (NICE NG126 2026, mục 1.4.12). Việc nào đổi quyết định mới làm, bỏ xét nghiệm trùng để chị chịu đi (thiết kế của ca theo nhiễu \"không đủ tiền xét nghiệm\"). Quy định bảo hiểm và giấy chuyển tuyến: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn bằng lời và viết giấy: đến cấp cứu ngay nếu đau tăng nhanh, đau vai, choáng, ngất, ra máu nhiều; không tự chạy xe máy, nhờ người nhà đi cùng; xin số điện thoại liên lạc",
+     "v": "c",
+     "n": "Cho thông tin viết về việc cần làm khi triệu chứng mới hoặc nặng thêm, cách tìm cấp cứu 24 giờ (NICE NG126 2026, mục 1.8.6, 1.13.1). Vỡ có thể xảy ra khi hCG thấp (ACOG PB 193 2018, mục Trends of Serial Serum hCG)."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi co mạch naphazolin, thay bằng nước muối sinh lý, giải thích vì chị nay có thai",
+     "v": "a",
+     "n": "Xịt oxymetazoline chỉ ngắn ngày (ví dụ 3 ngày), dùng kéo dài làm bệnh nặng hơn (QĐ 5643/2015, Viêm mũi xoang cấp tính, mục 4.2.1); thuốc thông mũi không dùng quá 5 ngày, tránh ở phụ nữ có thai (ARIA-EAACI 2024–2025 (TL-0546), mục 5.2.2). Cách ngưng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, kê thuốc giảm đau, hẹn tái khám mũi tuần sau, cho rằng đau do ngồi xe lâu hoặc ruột dư nhẹ",
+     "v": "h",
+     "n": "Bỏ sót thai ngoài tử cung có thể vỡ ngoài viện; thai ngoài tử cung vỡ là nguyên nhân hàng đầu gây tử vong do chảy máu trong thai kỳ (ACOG PB 193 2018, mục Epidemiology; NICE NG126 2026, mục 1.4.7)."
+    },
+    {
+     "t": "Giữ tại phòng khám, làm β-hCG định lượng và chờ 48 giờ rồi mới quyết định",
+     "v": "w",
+     "n": "hCG không xác định vị trí thai (NICE NG126 2026, mục 1.8.2) và cần siêu âm (ACOG PB 193 2018, mục How is an ectopic pregnancy diagnosed?); trì hoãn và tốn tiền."
+    },
+    {
+     "t": "Nghĩ viêm ruột thừa, chuyển ngoại khoa chờ mổ mà không dựa vào thử thai",
+     "v": "w",
+     "n": "Không thử thai ở phụ nữ tuổi sinh đẻ đau hố chậu phải là bỏ sót thai ngoài tử cung (ACOG PB 193 2018, mục How is an ectopic pregnancy diagnosed?; WSES 2020 (TL-0263), Recommendation 1.2.2)."
+    },
+    {
+     "t": "Kết luận dọa sảy thai, kê progesterone hoặc thuốc dưỡng thai, nghỉ ngơi",
+     "v": "w",
+     "n": "Chưa có siêu âm thấy túi thai trong tử cung nên không chẩn đoán dọa sảy (QĐ 315/2015, Chửa ngoài tử cung, mục 3); điều trị dọa sảy không giải quyết thai ngoài tử cung."
+    },
+    {
+     "t": "Tiêm methotrexate ngay tại phòng khám",
+     "v": "h",
+     "n": "Phải loại trừ thai trong tử cung trước và có siêu âm, hCG, theo dõi công thức máu, chức năng gan, thận (ACOG PB 193 2018, Box 1; QĐ 315/2015, Chửa ngoài tử cung, mục 4.2.2). Phòng khám không có siêu âm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thai ngoài tử cung nghi ở vòi trứng phải, chưa có dấu vỡ, huyết động ổn; thai khoảng 7 tuần theo kinh; que thử thai dương tính, chưa có siêu âm tại phòng khám.",
+     "Yếu tố nguy cơ: tuổi trên 35 và tiền sử phẫu thuật vùng chậu (mổ nội soi bóc u nang buồng trứng) (ACOG PB 193 2018, mục Risk Factors); biện pháp tránh thai không tin cậy.",
+     "Lý do thật: tái khám mũi theo hẹn, chị nhắc đau bụng như chuyện phụ và tự gán cho ngồi xe lâu; chị nghĩ kinh thưa là tiền mãn kinh nên không nghĩ có thai.",
+     "Thuốc nhỏ mũi naphazolin dùng kéo dài gần tám tháng (cần ngưng, nay có thai); hướng xử trí: chuyển trong ngày đến nơi có siêu âm đầu dò âm đạo và β-hCG."
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: để chị nói chuyện mũi → bắt câu \"nặng bụng bên phải\", hỏi kỹ ba ngày qua → hỏi RIÊNG về ra huyết, kinh nguyệt, quan hệ vợ chồng, tránh thai → tiền sử mổ → khám bụng, khám phụ khoa → que thử thai → chẩn đoán → nói rõ cái nào cần, cái nào bỏ được vì chị lo tiền → chuyển.",
+     "Vì sao vẫn nghĩ tới: biểu hiện không điển hình rất thường gặp (NICE NG126 2026, mục 1.4.2); chị có đủ nhóm triệu chứng thường gặp là đau bụng, trễ kinh, ra huyết, kèm căng ngực, buồn nôn (NICE NG126 2026, mục 1.4.3). Chậm kinh nhiều ca không rõ, ra máu ít sẫm màu dai dẳng (QĐ 315/2015, Chửa ngoài tử cung, mục 2.1). Dấu thực thể: ấn đau bụng, đau phần phụ, đau khi lắc cổ tử cung (NICE NG126 2026, mục 1.4.4); chị không mạch nhanh, hạ huyết áp, phản ứng phúc mạc nên chưa vỡ.",
+     "Không có yếu tố nguy cơ không loại trừ: khoảng một nửa số ca không có yếu tố nguy cơ nào (ACOG PB 193 2018, mục Risk Factors), khoảng một phần ba theo NICE NG126 2026, mục 1.4.8; hai nguồn khác con số, cùng kết luận. Chị có tuổi trên 35 và tiền sử phẫu thuật vùng chậu (ACOG PB 193 2018, mục Risk Factors).",
+     "Bẫy nhẹ: \"sắp mãn kinh\" làm bỏ qua chuyện thai, \"ngồi xe lâu\" và \"giống ruột dư\" là hai neo tự gán, thuốc nhỏ mũi và tái khám theo hẹn khiến chuyện bụng như chuyện phụ. Phân biệt: dọa sảy cần siêu âm đã thấy túi ối trong tử cung (QĐ 315/2015, Dọa sẩy thai, mục 2.4.1); viêm ruột thừa có nhiễm trùng, không có phản ứng thai nghén (QĐ 315/2015, Chửa ngoài tử cung, mục 3).",
+     "Ràng buộc nguồn lực và tiền: không có siêu âm; chẩn đoán tối thiểu là siêu âm đầu dò âm đạo và xác nhận có thai (ACOG PB 193 2018, mục How is an ectopic pregnancy diagnosed?). Chỉ que thử thai (20.000 đ) và chuyển tuyến đổi được quyết định; công thức máu, CRP, nước tiểu, hCG tại phòng khám bỏ được vì bệnh viện làm lại."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển trong ngày chứ không hẹn: thử thai dương tính kèm đau, ấn đau bụng hoặc đau khi lắc cổ tử cung thì chuyển ngay (NICE NG126 2026, mục 1.4.7), mức khẩn tùy bối cảnh (mục 1.4.9); thai ngoài tử cung là cấp cứu sản khoa (QĐ 315/2015, mục 4.1). Chị ổn định nên đi cùng người nhà bằng xe an toàn; 115 hoặc cấp cứu thẳng dành cho người không ổn định hoặc đau, ra máu nhiều (NICE NG126 2026, mục 1.4.1).",
+     "Không dùng methotrexate ở đây: cần siêu âm loại trừ thai trong tử cung, theo dõi công thức máu, gan, thận và hCG (ACOG PB 193 2018, Box 1; QĐ 315/2015, mục 4.2.2). Điều kiện nội khoa để bệnh viện cân nhắc: khối dưới 3,5 cm, không tim thai, huyết động ổn, β-hCG dưới 5.000 mIU/mL (QĐ 315/2015, mục 4.2.2); NICE: hCG dưới 1.500 IU/L dùng methotrexate, 1.500 đến dưới 5.000 chọn methotrexate hoặc mổ, từ 5.000 mổ (NICE NG126 2026, mục 1.15.1–1.15.3). Quyết định thuộc bệnh viện.",
+     "Thuốc nhỏ mũi: ngưng naphazolin, dùng nước muối (QĐ 5643/2015, Viêm mũi xoang cấp tính, mục 4.2.1; ARIA-EAACI 2024–2025 (TL-0546), mục 5.2.2). Dặn dấu hiệu nặng bằng lời và giấy (NICE NG126 2026, mục 1.8.6, 1.13.1), giải thích lý do chuyển (mục 1.4.12). Không kê thuốc giảm đau tại phòng khám."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "Lọ nhỏ mũi, rửa mũi",
+      "lieu": "Rửa hoặc nhỏ mũi thường xuyên; số lần mỗi ngày không có trong tài liệu đã tải",
+      "duong": "Nhỏ, rửa mũi",
+      "thoi_diem": "Ban ngày và trước khi ngủ",
+      "so_ngay": "Theo triệu chứng",
+      "ghi_chu": "QĐ 5643/2015, Viêm mũi xoang cấp tính, mục 4.2.1 (rửa mũi thường xuyên bằng nước muối sinh lý)."
+     },
+     {
+      "thuoc": "Naphazolin 0,05% nhỏ mũi (thuốc chị đang dùng, không kê tiếp)",
+      "ham_luong": "Lọ nhỏ mũi",
+      "lieu": "Ngưng; cách ngưng không có trong tài liệu đã tải",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Ngưng từ hôm nay",
+      "so_ngay": "Không dùng nữa",
+      "ghi_chu": "QĐ 5643/2015, mục 4.2.1 (ví dụ ngắn ngày 3 ngày); ARIA-EAACI 2024–2025 (TL-0546), mục 5.2.2 (không quá 5 ngày; tránh ở phụ nữ có thai)."
+     }
+    ],
+    "dan_do": [
+     "Chị Hạnh, em cám ơn chị đã nói. Phụ nữ còn kinh đau bụng nào em cũng hỏi chuyện kinh nguyệt và thử thai, chị đừng ngại; em giữ kín.",
+     "Que thử thai của chị dương tính, kinh trễ khoảng bảy tuần, ra máu nâu và đau bên phải khi khám, nên rất có thể thai nằm ngoài tử cung. Cần siêu âm đầu dò và thử máu hCG ở bệnh viện chiều nay mới biết chắc (NICE NG126 2026, mục 1.4.7; ACOG PB 193 2018).",
+     "Nếu đau tăng nhanh, đau lên vai, chóng mặt, ngất, ra máu nhiều thì đến cấp cứu ngay. Chị xin nghỉ trực, nhờ người chở đi, đừng tự chạy xe máy; em viết giấy chuyển, báo trước và bỏ bớt xét nghiệm để chị đỡ tốn. Một tuần sau chị mang giấy bệnh viện tới cho em xem, kể cả cái mũi. Ngưng thuốc nhỏ mũi co mạch, dùng nước muối."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Chị Hạnh quay lại phòng khám đúng hẹn một tuần, tám ngày sau lượt đầu, mang theo một túi giấy bệnh viện. Chị nói đỡ nhiều, muốn kiểm tra rồi đi làm lại, và ngại tốn thêm. Phòng khám vẫn không có siêu âm; có xét nghiệm cơ bản. Sinh hiệu lúc tiếp đón: mạch 80 l/p, HA 118/74 mmHg, nhiệt độ 36,8 °C, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị được khen \"đỡ rồi\", hẹn lấy hCG hằng tuần tại phòng khám và về đi tiêm chủng lưu động ngoài nắng. Trong khi hCG chưa giảm đủ 15% từ ngày 4 sang ngày 7, nghĩa là nguy cơ thất bại cao, cần thêm methotrexate hoặc phẫu thuật (ACOG PB 193 2018, mục What surveillance is needed after methotrexate treatment?). Vòi trứng vẫn có thể vỡ khi hCG đang giảm (ACOG PB 193 2018, mục Trends of Serial Serum hCG), và ibuprofen, acid folic chị vẫn uống có thể làm giảm hiệu quả thuốc (ACOG PB 193 2018, mục How should women be counseled…?). Đến khi đau dữ dội mới vào viện thì chị có thể phải mổ cấp cứu thay vì tiêm thêm một mũi.",
+    "theo_doi": "Chị được giữ lại nằm vài giờ, làm lại β-hCG, công thức máu, men gan, creatinin ở phòng khám (khoảng 300.000 đ) rồi mới quyết. Bệnh viện vẫn phải kiểm công thức máu, gan, thận trước mũi thứ hai (QĐ 315/2015, Chửa ngoài tử cung, mục 4.2.2) và kết quả ở phòng khám không thay quyết định của họ. Chị mất một buổi và 300.000 đ mà chưa được điều trị tiếp, lại càng ngại tuyến trên."
+   },
+   "loi_mo": "Dạ em chào bác sĩ. Em đỡ nhiều rồi, bác sĩ coi giùm giấy bệnh viện cho em, rồi em đi làm lại, mai em còn đi tiêm chủng lưu động ngoài xã. Bệnh viện cũng dặn lên lại mà em thấy đỡ nên em chưa đi, đi lại tốn tiền lắm. Mũi em cũng đỡ, em bỏ thuốc nhỏ rồi.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "118/74",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Em tới tái khám theo hẹn một tuần của bác sĩ, mang giấy bệnh viện. Em đỡ nhiều, muốn bác sĩ xem giùm rồi em đi làm lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra: tái khám theo hẹn, tưởng đã đỡ"
+    },
+    {
+     "id": "benh_vien",
+     "noi_dung": "Hôm đó bệnh viện huyện siêu âm đầu dò: trong tử cung không có túi thai, bên phải có khối khoảng 24 mm, không thấy tim thai, ít dịch túi cùng. β-hCG 1.880, nhóm máu O Rh dương, công thức máu, men gan, creatinin bình thường. Bác sĩ nói thai ngoài tử cung chưa vỡ, cho em chọn tiêm thuốc hoặc mổ nội soi; em chọn tiêm methotrexate một mũi vào bắp, 80 mg, rồi cho về, dặn lấy máu ngày 4 và ngày 7.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã được chẩn đoán và tiêm methotrexate một liều (diễn tiến từ xử trí chuẩn lượt 1)"
+    },
+    {
+     "id": "hcg",
+     "noi_dung": "Giấy ghi β-hCG: ngày 1 (hôm tiêm) 1.880, ngày 4 là 2.310, ngày 7 là 2.060 IU/L. Lấy máu ngày 7 buổi sáng thì em về xã đi trực; chiều y tá bệnh viện gọi nói giảm chưa đủ, dặn em lên lại để bàn tiêm mũi thứ hai hoặc mổ. Em chưa đi vì thấy đỡ đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dãy hCG: giảm 10,8% từ ngày 4 sang ngày 7 (< 15%), chưa đáp ứng đủ"
+    },
+    {
+     "id": "dau",
+     "noi_dung": "Ngày thứ hai thứ ba sau tiêm đau hố chậu phải tăng lên khoảng 5 trên 10 một ngày rồi dịu. Giờ chỉ còn nặng âm ỉ 2 trên 10, vẫn ra ít máu nâu. Hết buồn nôn. Không choáng, không ngất, không đau vai, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau nhẹ còn lại, không dấu hiệu vỡ"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Mấy hôm đau em uống ibuprofen 400 mg ngày hai lần, năm ngày nay, vì nghĩ liều nhỏ, hơn nữa em là điều dưỡng. Bệnh viện có dặn kiêng nhưng em quên.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung \"thuốc đang uống\" thì chị chỉ nói nhỏ mũi và vitamin. Chỉ nói ibuprofen khi hỏi cụ thể thuốc giảm đau, kháng viêm.",
+     "k": 1,
+     "y": "Dùng NSAID trong lúc điều trị methotrexate"
+    },
+    {
+     "id": "folic",
+     "noi_dung": "Sáng nào em cũng uống một viên đa sinh tố bổ có acid folic 400 mcg, uống từ lâu để đỡ mệt khi trực đêm. Em không nghĩ là thuốc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thuốc bổ, vitamin, acid folic, hoặc đọc lại giấy dặn của bệnh viện.",
+     "k": 1,
+     "y": "Dùng acid folic trong lúc điều trị methotrexate"
+    },
+    {
+     "id": "sinh_hoat",
+     "noi_dung": "Em đi làm lại từ thứ Hai, mai có đợt tiêm chủng lưu động ngoài sân nắng, em phải khiêng thùng vắc xin. Chồng em biết rồi, vợ chồng em chưa gần nhau lại. Em chưa nghĩ chuyện tránh thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hoạt động mạnh, nắng, tránh thai trong thời gian theo dõi"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Em tưởng tiêm một mũi là xong. Xét nghiệm, tiêm và đi lại đã hết hơn hai triệu, em lại ngại lên bệnh viện vì có người quen ở đó biết em có thai ngoài ở tuổi này. Nếu bác sĩ nói rõ xét nghiệm nào bắt buộc và hẹn giúp thì em đi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao chị chưa quay lại bệnh viện, hoặc nhắc chuyện chi phí.",
+     "k": 1,
+     "y": "Không đủ tiền xét nghiệm và ngại gặp người quen: lý do thật chưa quay lại"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, da niêm hồng, không nhợt, không vã mồ hôi.",
+     "k": 1,
+     "hien": "Chị tỉnh, da hồng, không vã mồ hôi."
+    },
+    "ha_tu_the": {
+     "a": "Nằm: HA 118/74, mạch 80. Đứng 3 phút: HA 116/72, mạch 86, không chóng mặt. Không hạ huyết áp tư thế.",
+     "k": 1,
+     "hien": "Nằm: HA 118/74, mạch 80. Đứng 3 phút: HA 116/72, mạch 86, chị không chóng mặt."
+    },
+    "bung": {
+     "a": "Bụng mềm, không chướng. Ấn đau nhẹ hố chậu phải, không đề kháng, không phản ứng dội, không đau khi gõ hai bên. Không sờ thấy khối.",
+     "k": 1,
+     "hien": "Bụng mềm, chị hơi nhăn mặt khi ấn hố chậu phải, không co cứng."
+    },
+    "phu_khoa": {
+     "a": "Mỏ vịt: ít máu nâu cũ ở cổ tử cung, cổ tử cung đóng. Khám hai tay: lắc cổ tử cung đau nhẹ, phần phụ phải đầy nhẹ và ấn đau, túi cùng sau không đầy.",
+     "k": 0,
+     "hien": "Có ít máu nâu cũ ở cổ tử cung; khi khám hai tay chị đau nhẹ bên phải."
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p."
+    }
+   },
+   "cls": {
+    "bhcg": {
+     "n": "Không cần làm lại ở phòng khám (150.000 đ): chị đã có dãy hCG ngày 1, 4, 7; hCG cần theo dõi đến khi về mức không có thai theo phòng xét nghiệm tham chiếu (ACOG PB 193 2018, mục What surveillance is needed after methotrexate treatment?) và do bệnh viện đang điều trị theo dõi. Làm thêm không đổi quyết định chuyển."
+    },
+    "ctm": {
+     "n": "Không cần ở phòng khám: không có dấu mất máu, sinh hiệu ổn; bệnh viện kiểm công thức máu, gan, thận trước mũi methotrexate thứ hai (QĐ 315/2015, Chửa ngoài tử cung, mục 4.2.2; ACOG PB 193 2018, mục Contraindications)."
+    },
+    "sa_chau": {
+     "v": "a",
+     "n": "Phòng khám không có siêu âm. Siêu âm theo dõi không thường quy vì hình ảnh không dự báo vỡ hay thời gian khỏi (ACOG PB 193 2018, mục What surveillance is needed after methotrexate treatment?); bệnh viện sẽ cân nhắc khi quyết định mũi thứ hai hoặc mổ. Chấp nhận nếu bệnh viện làm, không cần ở phòng khám."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Thai ngoài tử cung vòi trứng phải chưa vỡ, đang điều trị methotrexate đơn liều (ngày thứ 9), đáp ứng chưa đủ: β-hCG giảm 10,8% từ ngày 4 sang ngày 7 (< 15%), cần xử trí thêm (methotrexate liều thứ hai hoặc phẫu thuật)",
+     "ok": 1,
+     "n": "Ngày 4: 2.310; ngày 7: 2.060; (2.310 − 2.060) / 2.310 = 10,8%. Không giảm ít nhất 15% từ ngày 4 sang ngày 7 là dấu hiệu nguy cơ thất bại cao, cần methotrexate thêm hoặc phẫu thuật (ACOG PB 193 2018, mục What surveillance is needed after methotrexate treatment?; Box 2); QĐ 315/2015, Chửa ngoài tử cung, mục 4.2.2 cùng ngưỡng 15% và hướng tiêm mũi hai hoặc phẫu thuật; NICE NG126 2026, mục 1.15.4: hCG đi ngang hoặc tăng thì đánh giá lại để điều trị tiếp. hCG tăng trong vài ngày đầu rồi mới giảm là bình thường (ACOG PB 193 2018, cùng mục)."
+    },
+    {
+     "t": "Hồi phục chậm bình thường, chỉ cần chờ thêm",
+     "n": "Hồi phục bình thường là hCG giảm ít nhất 15% từ ngày 4 sang ngày 7 rồi theo dõi hằng tuần, hết hẳn thường trong 2–4 tuần, có thể tới 8 tuần (ACOG PB 193 2018, mục What surveillance is needed after methotrexate treatment?). Chị chưa đạt mốc đầu tiên nên không thể xếp vào nhóm này; cảm giác đỡ đau không thay thế hCG."
+    },
+    {
+     "t": "Vỡ khối chửa, chảy máu trong ổ bụng",
+     "n": "Sinh hiệu ổn, không hạ huyết áp tư thế, không nhợt, bụng không phản ứng phúc mạc, không đau vai. Đau ngày 2–3 sau tiêm là thường gặp (ACOG PB 193 2018, mục What are the potential adverse effects…?). Vỡ vẫn có thể xảy ra khi hCG đang giảm (ACOG PB 193 2018, mục Trends of Serial Serum hCG) nên vẫn dặn dấu hiệu nặng."
+    },
+    {
+     "t": "Viêm ruột thừa cấp hoặc thai trong tử cung còn sót",
+     "n": "Không sốt, đau nhẹ giảm dần; siêu âm bệnh viện không thấy túi thai trong tử cung (ghi trong giấy); đã loại trừ ở lượt 1."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đọc dãy hCG và tính phần trăm giảm ngày 4 sang ngày 7 (10,8% < 15%): giải thích đây là đáp ứng chưa đủ, chị đỡ đau không thay được kết quả hCG",
+     "v": "c",
+     "n": "Giảm dưới 15% từ ngày 4 sang ngày 7 cần thêm methotrexate hoặc phẫu thuật (ACOG PB 193 2018, mục What surveillance is needed after methotrexate treatment?; Box 2); QĐ 315/2015, Chửa ngoài tử cung, mục 4.2.2."
+    },
+    {
+     "t": "Chuyển lại ngay trong ngày về bệnh viện đã điều trị (khoa sản hoặc đơn vị thai sớm) để quyết định methotrexate liều hai hoặc phẫu thuật; gọi điện báo trước, kèm giấy hCG; không chờ hCG tuần sau",
+     "v": "c",
+     "n": "Đáp ứng chưa đủ thì tiêm lại 50 mg/m² và đo hCG lại, nếu hCG vẫn không giảm sau hai liều cân nhắc phẫu thuật (ACOG PB 193 2018, Box 2); QĐ 315/2015, mục 4.2.2 (mũi thứ hai hoặc phẫu thuật); NICE NG126 2026, mục 1.15.4. Thuốc, hCG đối chiếu và theo dõi gan thận thuộc bệnh viện đang điều trị."
+    },
+    {
+     "t": "Hỏi cụ thể thuốc giảm đau và thuốc bổ; yêu cầu ngưng ngay ibuprofen và mọi NSAID, và viên đa sinh tố có acid folic trong thời gian điều trị",
+     "v": "c",
+     "n": "Tránh acid folic, thực phẩm chứa acid folic và NSAID trong lúc điều trị vì có thể làm giảm hiệu quả methotrexate (ACOG PB 193 2018, mục How should women be counseled regarding the treatment effects of methotrexate?). Thuốc giảm đau thay thế cụ thể: không có trong tài liệu đã tải (ACOG chỉ nêu tránh thuốc phiện, rượu)."
+    },
+    {
+     "t": "Dặn dấu hiệu vỡ khối chửa (đau tăng đột ngột, đau vai, choáng, ngất, ra máu nhiều) và đến cấp cứu ngay; hạn chế khám vùng chậu, siêu âm lặp không cần thiết",
+     "v": "c",
+     "n": "Tư vấn nguy cơ vỡ và triệu chứng cần đến ngay; hạn chế khám vùng chậu và siêu âm khi có thể (ACOG PB 193 2018, mục How should women be counseled…?); người chọn methotrexate cần biết có thể phải nhập viện khẩn khi xấu đi (NICE NG126 2026, mục 1.15.3)."
+    },
+    {
+     "t": "Dặn kiêng vận động mạnh, khiêng vác nặng, quan hệ vợ chồng, nắng nhiều, rượu và tránh mang thai trong thời gian theo dõi (≥ 1 chu kỳ rụng trứng theo ACOG/nhãn FDA, một số chuyên gia 3 tháng, hoặc 6 tháng theo QĐ 315)",
+     "v": "c",
+     "n": "ACOG PB 193 2018 (mục How should women be counseled…?): tránh vận động mạnh, quan hệ tình dục đến khi xác nhận khỏi, nắng, rượu; không mang thai trong lúc điều trị và ít nhất một chu kỳ rụng trứng sau đó (nhãn FDA), một số chuyên gia khuyên chậm ít nhất 3 tháng. QĐ 315/2015, mục 4.2.2: sau điều trị 6 tháng mới có thai lại. Hai nguồn khác mốc, ca ghi cả hai; QĐ 315 thận trọng hơn."
+    },
+    {
+     "t": "Nói rõ xét nghiệm nào bắt buộc (hCG, công thức máu, gan, thận làm ở bệnh viện trước mũi hai), bỏ các xét nghiệm lặp tại phòng khám; thương lượng phương án chuyển (người nhà đi cùng, lịch hẹn, xin nghỉ trực)",
+     "v": "a",
+     "n": "Xếp ưu tiên chi phí theo nhiễu \"không đủ tiền xét nghiệm\" (thiết kế của ca). NICE NG126 2026, mục 1.15.2: người không thể quay lại theo dõi sau methotrexate thì phẫu thuật là lựa chọn đầu; nên cần giúp chị theo dõi được."
+    },
+    {
+     "t": "Hỏi vì sao chưa quay lại bệnh viện; nghe chuyện ngại gặp người quen và tôn trọng riêng tư, đề nghị đi bệnh viện khác nếu cần, hẹn chị gọi báo kết quả",
+     "v": "a",
+     "n": "Thiết kế của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, kê thuốc giảm đau ibuprofen hoặc diclofenac, hẹn lấy hCG hằng tuần tại phòng khám vì chị đã đỡ",
+     "v": "h",
+     "n": "Bỏ qua dấu hiệu đáp ứng chưa đủ (ACOG PB 193 2018, mục What surveillance is needed after methotrexate treatment?) và thêm NSAID làm giảm hiệu quả methotrexate (ACOG PB 193 2018, mục How should women be counseled…?)."
+    },
+    {
+     "t": "Tiêm hoặc kê methotrexate liều hai ngay tại phòng khám",
+     "v": "w",
+     "n": "Phải kiểm công thức máu, gan, thận và hCG trước, thuốc do bệnh viện theo dõi (ACOG PB 193 2018, mục Contraindications; QĐ 315/2015, mục 4.2.2). Phòng khám không đủ điều kiện theo dõi."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Thai ngoài tử cung vòi trứng phải chưa vỡ, đang điều trị methotrexate đơn liều (ngày 9); β-hCG ngày 1: 1.880, ngày 4: 2.310, ngày 7: 2.060 IU/L; giảm 10,8% từ ngày 4 sang ngày 7 (< 15%) nên đáp ứng chưa đủ.",
+     "Đau nhẹ còn lại và ra máu nâu ít, sinh hiệu ổn, chưa dấu hiệu vỡ; dùng ibuprofen và viên có acid folic trong lúc điều trị (có thể làm giảm hiệu quả methotrexate).",
+     "Lý do thật chưa quay lại bệnh viện: thấy đỡ, tốn tiền, ngại người quen; hướng xử trí: chuyển lại bệnh viện trong ngày để xét methotrexate liều hai hoặc phẫu thuật."
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: để chị kể chuyện đỡ → xin xem giấy bệnh viện, ghi ba kết quả hCG → hỏi cụ thể thuốc giảm đau và thuốc bổ → sinh hiệu tư thế, khám bụng → TÍNH phần trăm giảm hCG → chẩn đoán → xử trí, hỏi vì sao chưa quay lại.",
+     "Phân biệt hồi phục chậm bình thường với thất bại sớm: hCG tăng trong vài ngày đầu rồi giảm là bình thường, nhưng phải giảm ít nhất 15% từ ngày 4 sang ngày 7; không đạt thì nguy cơ thất bại cao, cần thêm methotrexate hoặc phẫu thuật (ACOG PB 193 2018, mục What surveillance is needed after methotrexate treatment?; QĐ 315/2015, Chửa ngoài tử cung, mục 4.2.2). Chị 10,8%. Cảm giác đỡ và đau nhẹ là bình thường vì đau ngày 2–3 sau tiêm là thường gặp (ACOG PB 193 2018, mục What are the potential adverse effects…?) nhưng không thay hCG.",
+     "Khỏi chậm hơn dự kiến: hCG về mức không có thai thường sau 2–4 tuần, có thể tới 8 tuần (TL-0091 ACOG PB 193 2018, mục What surveillance is needed after methotrexate treatment?); đỡ đau nhưng hCG giảm chậm là vùng xám cần theo dõi sát.",
+     "Điều kiện chọn methotrexate lượt trước đều thỏa: huyết động ổn, khối 24 mm dưới 3,5 cm (QĐ 315/2015, mục 4.2.2) và dưới 35 mm (NICE NG126 2026, mục 1.15.1, 1.15.3); hCG 1.880 dưới 5.000 mIU/mL (QĐ 315; ACOG PB 193 2018, mục Contraindications) và trong khoảng 1.500 đến dưới 5.000 IU/L cho chọn methotrexate hoặc mổ (NICE NG126 2026, mục 1.15.3). Ba nguồn cùng cho phép, không cần chọn một bên.",
+     "Vỡ vẫn có thể xảy ra khi hCG đang giảm (ACOG PB 193 2018, mục Trends of Serial Serum hCG); chị hiện không dấu hiệu. Ngưỡng về âm: QĐ 315/2015 mục 4.2.2 dừng theo dõi khi β-hCG dưới 10 mIU/mL; ACOG theo mức không có thai của phòng xét nghiệm; NICE (theo dõi chờ) dưới 20 IU/L (mục 1.14.3)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển lại bệnh viện trong ngày: đáp ứng chưa đủ thì tiêm lại 50 mg/m² và đo hCG lại, nếu vẫn không giảm sau hai liều cân nhắc phẫu thuật (ACOG PB 193 2018, Box 2); QĐ 315/2015, mục 4.2.2 (mũi thứ hai hoặc phẫu thuật; đơn liều thường 50 mg tùy diện tích da); NICE NG126 2026, mục 1.15.4. 50 mg/m² (ACOG) và \"thường 50 mg\" (QĐ 315) cùng hướng; chị diện tích da khoảng 1,6 m² nên 80 mg (phép tính diện tích da: không có trong tài liệu đã tải; thiết kế của ca).",
+     "Ngưng ibuprofen và acid folic: có thể làm giảm hiệu quả methotrexate (ACOG PB 193 2018, mục How should women be counseled…?); có thể góp phần làm đáp ứng kém, nhưng không chứng minh được từ số liệu của chị.",
+     "Dặn dấu hiệu vỡ, kiêng vận động mạnh, quan hệ, nắng, rượu, hạn chế khám vùng chậu và siêu âm lặp (ACOG PB 193 2018, mục How should women be counseled…?). Thời gian không mang thai sau methotrexate: ít nhất 1 chu kỳ rụng trứng (nhãn FDA, ACOG) hoặc 3 tháng (một số chuyên gia) hoặc 6 tháng (QĐ 315/2015, mục 4.2.2); chị 46 tuổi, vẫn cần tránh thai dù kinh thưa vì đã có thai trong chu kỳ thưa.",
+     "Chi phí: hCG, công thức máu, gan, thận do bệnh viện làm trước mũi hai, phòng khám không làm trùng. Người không thể quay lại theo dõi thì phẫu thuật là lựa chọn đầu (NICE NG126 2026, mục 1.15.2), nên cần giúp chị theo dõi được."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Methotrexat (liều thứ hai, do bệnh viện quyết định, KHÔNG kê tại phòng khám)",
+      "ham_luong": "Thuốc tiêm",
+      "lieu": "50 mg/m² tiêm bắp (ACOG PB 193 2018, Box 2), hoặc thường đơn liều 50 mg tùy diện tích da (QĐ 315/2015, mục 4.2.2); chị khoảng 80 mg (thiết kế của ca)",
+      "duong": "Tiêm bắp",
+      "thoi_diem": "Hôm nay hoặc ngày mai tại bệnh viện sau khi kiểm công thức máu, gan, thận",
+      "so_ngay": "Một liều rồi đo hCG lại; nếu không giảm sau hai liều cân nhắc phẫu thuật",
+      "ghi_chu": "ACOG PB 193 2018, Box 2; QĐ 315/2015, mục 4.2.2; NICE NG126 2026, mục 1.15.4."
+     },
+     {
+      "thuoc": "Ibuprofen (thuốc chị tự uống, ngưng)",
+      "ham_luong": "Viên 400 mg",
+      "lieu": "Ngưng toàn bộ NSAID",
+      "duong": "Uống",
+      "thoi_diem": "Ngưng từ hôm nay",
+      "so_ngay": "Trong suốt thời gian điều trị methotrexate",
+      "ghi_chu": "ACOG PB 193 2018, mục How should women be counseled…?. Thuốc giảm đau thay thế: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Đa sinh tố có acid folic 400 mcg (thuốc chị tự uống, ngưng)",
+      "ham_luong": "Viên",
+      "lieu": "Ngưng, tránh cả thực phẩm bổ sung acid folic",
+      "duong": "Uống",
+      "thoi_diem": "Ngưng từ hôm nay",
+      "so_ngay": "Trong suốt thời gian điều trị methotrexate",
+      "ghi_chu": "ACOG PB 193 2018, mục How should women be counseled…?. Thời điểm dùng lại: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Chị Hạnh, chị đỡ đau là tin tốt, nhưng thuốc có tác dụng hay chưa phải xem số hCG. Ngày 4 là 2.310, ngày 7 là 2.060, chỉ giảm khoảng 11%, chưa đủ 15% (ACOG PB 193 2018, Box 2). Chị cần tiêm thêm một mũi hoặc cân nhắc mổ, bệnh viện sẽ quyết.",
+     "Em viết giấy và gọi báo bệnh viện: chị đi trong hôm nay. Xét nghiệm lặp ở đây không cần, đỡ tốn cho chị. Nếu ngại người quen, chị cho em biết, em giúp tìm cách; vẫn phải giữ liên lạc với nơi đã tiêm để so dãy hCG.",
+     "Từ hôm nay chị bỏ ibuprofen và viên đa sinh tố có acid folic; hoãn tiêm chủng ngoài nắng, đừng khiêng thùng vắc xin; chưa gần chồng. Chưa mang thai lại: mốc ít nhất một chu kỳ rụng trứng (ACOG) hay 6 tháng (QĐ 315), bệnh viện sẽ dặn thêm.",
+     "Nếu đau tăng nhanh, đau vai, choáng, ngất, ra máu nhiều thì đi cấp cứu ngay. Sau đó chị lấy hCG mỗi tuần đến khi về mức không có thai, có thể kéo dài vài tuần."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 1: chị Hạnh đi bệnh viện huyện ngay chiều đó cùng chồng; siêu âm đầu dò: buồng tử cung trống, khối cạnh buồng trứng phải 24 mm không tim thai, ít dịch túi cùng; β-hCG 1.880 IU/L; ổn định nên được tiêm methotrexate 80 mg bắp một liều (50 mg/m², ACOG PB 193 2018, Box 2). Lượt 2: hCG ngày 4: 2.310, ngày 7: 2.060 (giảm 10,8%) nên cần thêm thuốc; chị quay lại bệnh viện, được tiêm liều hai, ngưng ibuprofen và acid folic. hCG giảm chậm từng tuần, về dưới ngưỡng không có thai sau khoảng bảy tuần kể từ mũi đầu, lâu hơn 2–4 tuần thường gặp (có thể tới 8 tuần, ACOG PB 193 2018, mục What surveillance is needed after methotrexate treatment?); chị phải lấy máu khoảng bảy lần, nghỉ trực mấy buổi, tốn gần sáu triệu đồng; không phải mổ, vòi trứng được giữ. Diễn tiến sau chuyển viện, số lần lấy máu, chi phí là thiết kế của ca.",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: chị hỏi giá từng xét nghiệm. Xếp ưu tiên là cốt lõi: que thử thai (20.000 đ) và chuyển tuyến đổi quyết định; công thức máu, CRP, nước tiểu, hCG tại phòng khám bỏ được; lượt 2 cũng bỏ xét nghiệm lặp. Thuốc nhỏ mũi naphazolin kéo dài gần tám tháng cần ngưng, tránh ở phụ nữ có thai.",
+  "Chị là điều dưỡng, tự gán đau bụng do ngồi xe lâu hoặc ruột dư, và nghĩ kinh thưa là tiền mãn kinh: neo chẩn đoán làm dễ không hỏi thai.",
+  "Lý do khám nêu ra (tái khám mũi theo hẹn) che lý do thật là đau bụng và có thai; ra huyết, trễ kinh, quan hệ chỉ nói khi hỏi riêng.",
+  "Lượt 2 \"đỡ một phần\": đau đỡ nhưng hCG giảm chưa đủ 15%; chị giấu ibuprofen, acid folic và ngại gặp người quen ở bệnh viện."
+ ],
+ "bai_hoc_bien": [
+  "Mọi phụ nữ còn khả năng có thai (kể cả 46 tuổi, kinh thưa) đau bụng hoặc ra huyết: thử thai trước; kinh thưa không loại trừ thai.",
+  "Không có siêu âm thì không chờ: thử thai dương tính kèm ấn đau bụng hoặc đau khi lắc cổ tử cung là chuyển trong ngày đến nơi có siêu âm đầu dò và hCG.",
+  "Sau methotrexate: hCG ngày 4 và 7 là thước đo, không phải cảm giác đỡ đau; giảm dưới 15% là cần liều hai hoặc phẫu thuật. Hỏi cụ thể NSAID và acid folic.",
+  "Khỏi chậm hơn dự kiến: hCG về âm thường 2–4 tuần, có thể 8 tuần; theo dõi hằng tuần, dặn dấu hiệu vỡ vì vỡ có thể xảy ra khi hCG đang giảm."
+ ],
+ "diem_nho": [
+  "Biểu hiện không điển hình rất thường gặp; triệu chứng: đau bụng/chậu, trễ kinh, ra huyết, căng ngực, tiêu hóa, chóng mặt, đau vai (NICE NG126 2026, mục 1.4.2, 1.4.3). Thử thai dương tính kèm ấn đau hoặc đau khi lắc cổ tử cung: chuyển ngay (NICE NG126 2026, mục 1.4.7).",
+  "Chẩn đoán tối thiểu: siêu âm đầu dò âm đạo và xác nhận có thai; hCG đơn độc không chẩn đoán được (ACOG PB 193 2018, mục How is an ectopic pregnancy diagnosed?; NICE NG126 2026, mục 1.8.2).",
+  "Sau methotrexate đơn liều: đo hCG ngày 4 và 7; giảm ít nhất 15% thì đo hằng tuần đến khi về mức không có thai; dưới 15% thì tiêm lại hoặc phẫu thuật (ACOG PB 193 2018, Box 2; QĐ 315/2015, mục 4.2.2; NICE NG126 2026, mục 1.15.4). Tránh NSAID, acid folic, nắng, rượu, quan hệ, vận động mạnh (ACOG PB 193 2018).",
+  "Tránh mang thai sau methotrexate: ít nhất 1 chu kỳ rụng trứng (ACOG, nhãn FDA; một số chuyên gia 3 tháng) hoặc 6 tháng (QĐ 315/2015, mục 4.2.2)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 315/QĐ-BYT năm 2015, Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa – TL-0036 – bài Chửa ngoài tử cung (mục 2.1, 2.2, 2.3, 3, 4.1, 4.2.2) và bài Dọa sẩy thai – sẩy thai (mục 2.1.1, 2.2, 2.4.1, 2.4.4).",
+  "ACOG – Practice Bulletin No. 193: Tubal Ectopic Pregnancy, Obstet Gynecol 2018;131:e91–e103 – TL-0091 – mục Epidemiology, Risk Factors, How is an ectopic pregnancy diagnosed?, Trends of Serial Serum hCG, Contraindications, Box 1, Box 2, What surveillance is needed after methotrexate treatment?, What are the potential adverse effects…?, How should women be counseled…?.",
+  "NICE – NG126 Ectopic pregnancy and miscarriage (2019, cập nhật 2026) – kho cũ tltk-10000-ca, Phụ khoa - thai sớm/Quốc tế – mục 1.4.1–1.4.12, 1.5.1, 1.7.1–1.7.3, 1.8.1–1.8.6, 1.13.1, 1.14.3, 1.15.1–1.15.4.",
+  "WSES – Diagnosis and treatment of acute appendicitis: 2020 update (TL-0263), Recommendation 1.2.2 và mục Clinical scoring; WSES 2025 (TL-0053), Recommendation 1, 2 (loại trừ viêm ruột thừa).",
+  "Bộ Y tế – QĐ 5643/QĐ-BYT năm 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh tai mũi họng – TL-0130 – Viêm mũi xoang cấp tính, mục 4.2.1; ARIA-EAACI 2024–2025 (TL-0546) mục 5.2.2."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 19/11/2026. Đã đọc: TL-0036 (Chửa ngoài tử cung mục 1–5; Dọa sẩy thai mục 2); TL-0091 (Epidemiology, Risk Factors, chẩn đoán, hCG, Contraindications, Box 1–2, surveillance, adverse effects, counseling); NICE NG126 mục 1.4–1.8, 1.13–1.15; TL-0263 (Q.1.1), TL-0053 (Recommendation 1–2); TL-0130 mục 4.2.1; TL-0546 mục 5.2.2.",
+  "Chỗ thiếu tài liệu: cách ngưng thuốc nhỏ mũi co mạch; số lần nước muối mỗi ngày; công thức tính diện tích da (liều 80 mg); thuốc giảm đau thay ibuprofen; thời gian nước tiểu hết dương tính; thành phần điểm Alvarado/AIR; quy định bảo hiểm và giấy chuyển tuyến; chi phí thực tế. Đã ghi \"không có trong tài liệu đã tải\" tại chỗ dùng.",
+  "Sổ mâu thuẫn: dùng mục PK-0212 (tỉ lệ thai ngoài tử cung không yếu tố nguy cơ: ACOG một nửa, NICE một phần ba). Mục mới: thời gian tránh thai sau methotrexate (ACOG ≥ 1 chu kỳ rụng trứng so với QĐ 315 sáu tháng); ghi nhận: ngưỡng hCG về âm, liều methotrexate, điều kiện methotrexate; xem PK-0209_mau_thuan.md.",
+  "Thiết kế của ca: không có siêu âm tại phòng khám; tuổi 46, kinh thưa; bệnh viện huyện có siêu âm, β-hCG, phòng mổ; dãy hCG 1.880 → 2.310 → 2.060; liều 80 mg; ibuprofen, acid folic, nhiễu tiền, kết cục. Danh mục dùng id sẵn có, không đề xuất mục mới. Không dùng media (mạch 86 và 80 không khớp tệp tim 60 l/p)."
+ ]
+}
