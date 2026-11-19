@@ -1,0 +1,539 @@
+{
+ "ma_ca": "TK-0600",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TK_hoi_chung_chan_khong_yen",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Hội chứng chân không yên",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh TK ngoại biên",
+   "Thiếu sắt"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Ở xa, khó tái khám",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Bảo vệ",
+  "yeu_to_khoi_phat": "Sau lao động ngoài trời nắng",
+  "thuoc_dang_dung": "Thuốc dạ dày tự mua",
+  "ly_do_that_su_den_kham": "Khó khăn tài chính, ngại xét nghiệm"
+ },
+ "benh_nhan": {
+  "ten": "Võ Thị Hường",
+  "tuoi": 77,
+  "gioi": "Nữ",
+  "nghe": "Bảo vệ trường tiểu học xã (trực cổng đêm, ban ngày tưới cây, nhổ cỏ sân)",
+  "can_nang": 48,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi' hoặc 'bà', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Tằn tiện, ít nói, quen chịu đựng, tính toán từng đồng. Hay gật 'ừ, ừ' nhưng không hiểu hết, ngại hỏi lại. Tự đi xe khách một mình lên khám, nhà cách 45 km.",
+  "kieu_nhieu": "Ở xa, khó tái khám: nhắc 'tôi không đi lại được đâu' và xin thuốc thật nhiều ngày; từ chối mọi thứ phải hẹn lại hay phải đóng thêm tiền. Chịu nghe và làm theo khi bác sĩ hỏi cụ thể nhà cách bao xa, xe mấy giờ, ai chở, rồi cho phương án gọn (thuốc đủ ngày, giấy dặn viết tay, số điện thoại để hỏi).",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#b8865f",
+   "toc": "#e0e0dc",
+   "kieuToc": "bui",
+   "ao": "#6e7f5a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Chân bứt rứt khó chịu ban đêm, ngủ không được, xin thuốc",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Võ Thị Hường, 77 tuổi, bảo vệ trường tiểu học xã, một mình đi xe khách 45 km lên khám vì chân khó chịu ban đêm, ngủ ít, ban ngày mệt. Bà nói nhỏ, ngại ngùng, mang theo ít tiền. Điều dưỡng Linh đã đo sinh hiệu: mạch 72 l/p, HA 138/78 mmHg, SpO₂ 97%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà Hường bị giữ lại nhập viện 'theo dõi mất ngủ, khó chịu hai chân', trong khi không có dấu hiệu nặng hay cấp cứu. Chẩn đoán dựa vào hỏi bệnh (IRLSSG 2014 (TL-0491) Bảng 1), nằm viện không gỡ được metoclopramid tự mua, trà đặc buổi tối ở nhà. Bà mất vài ngày lương trực, tiền viện phí, và nếu được cho thuốc ngủ thì tăng nguy cơ té ở tuổi 77 (AGS Beers 2023 (TL-0022) Bảng 2).",
+    "chuyen_tuyen": "Bà Hường được chuyển lên thần kinh tuyến trên 'làm cho chắc': thêm một chuyến xe, thêm xét nghiệm đắt, trong khi thuốc đầu tay (pregabalin, gabapentin) làm được ngay tại đây (AASM 2025 (TL-0455) khuyến cáo 2, 3). Bà vốn ngại tốn tiền và đi lại khó nên rất dễ bỏ dở, về nhà vẫn uống metoclopramid và trà đặc, chân vẫn bứt rứt mỗi đêm.",
+    "theo_doi": "Bà Hường được trấn an 'bệnh người già' rồi về, không dặn ngưng metoclopramid và trà đặc, không có thuốc, không giấy dặn. Mất ngủ kéo dài, ban ngày ngủ gật ở ghế gác, nguy cơ té; xử trí yếu tố làm nặng là bước đầu tiên (AASM 2025 (TL-0455) GPS 2, tr. 140) và bà ở xa nên ít có dịp quay lại sửa sai."
+   },
+   "loi_mo": "Chào bác sĩ. Cho tôi xin ít thuốc cho đỡ cái chân. Tối nào nó cũng bứt rứt, tôi không ngủ được. Thuốc bổ chân hay thuốc ngủ gì cũng được, bác sĩ đừng bắt tôi thử máu thử me gì, tốn lắm. Tôi ở xa, lên đây một chuyến vất vả lắm.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "138/78",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai chân khó chịu về đêm, ngủ chập chờn 3–4 giờ, ban ngày mệt, hay ngủ gật ở ghế gác. Bà xin thuốc ngủ hoặc thuốc bổ chân, không muốn thử máu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và yêu cầu ban đầu"
+    },
+    {
+     "id": "cam_giac",
+     "noi_dung": "Không đau nhói. Trong hai bắp chân như có kiến bò, nước chảy, kèm thôi thúc phải cựa, co duỗi chân. Không tê như đi tất, không nóng rát bàn chân, không co cứng bắp.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'đau thế nào' thì bà nói 'khó chịu, bứt rứt'. Chỉ kể chi tiết khi bác sĩ hỏi cụ thể cảm giác trong chân là gì, có thôi thúc phải cử động không, có tê, nóng rát hay co cứng bắp không.",
+     "k": 1,
+     "y": "Tiêu chí 1 và loại trừ bệnh thần kinh ngoại biên, chuột rút"
+    },
+    {
+     "id": "van_dong",
+     "noi_dung": "Ngồi ghế gác hoặc nằm là bị. Đứng dậy đi vòng quanh cổng trường, dậm chân, xoa bóp thì dịu ngay; ngồi xuống vài phút bị lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chí 2 và 3: xuất hiện khi nghỉ, đỡ khi vận động"
+    },
+    {
+     "id": "gio",
+     "noi_dung": "Nặng nhất từ chiều tối tới khoảng 1 giờ sáng. Buổi sáng, buổi trưa ngồi lâu hầu như không bị, dù ngồi yên cũng vậy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu chí 4: nặng về chiều tối và đêm"
+    },
+    {
+     "id": "tan_suat",
+     "noi_dung": "Bị từng đợt từ hai năm nay, ban đầu thỉnh thoảng; khoảng ba tháng gần đây gần như đêm nào cũng bị, nặng hơn hẳn từ sau đợt nắng nóng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến, tần suất (mạn tính: ít nhất 2 lần/tuần trong 1 năm)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Đợt nắng nóng ba tháng trước, bà phải nhổ cỏ, bê chậu cây ngoài sân cả buổi trưa, uống ít nước, mồ hôi nhiều. Đêm đó chân bứt rứt dữ dội và từ đó nặng hơn. Bà nghĩ 'tại nắng làm mất nước, mất sức'.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "thuoc_da_day",
+     "noi_dung": "Bà hay đầy bụng, ợ chua nên mua ở nhà thuốc viên metoclopramid 10 mg (bà gọi là 'thuốc tiêu hóa'), uống 1–2 viên sau bữa tối, gần như mỗi ngày bảy tuần nay; thỉnh thoảng thêm omeprazol 20 mg. Hộp thuốc còn trong túi.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi 'có uống thuốc gì không' thì bà nói 'có uống thuốc bổ thôi'. Chỉ khai khi bác sĩ hỏi cụ thể thuốc tự mua ở nhà thuốc, thuốc dạ dày, thuốc tiêu hóa, hoặc xin xem vỉ thuốc trong túi.",
+     "k": 1,
+     "y": "Thuốc kháng dopamin tự mua làm nặng bệnh"
+    },
+    {
+     "id": "tra",
+     "noi_dung": "Trực đêm nên uống 3–4 ly trà đặc cho tỉnh, đến khoảng 22 giờ. Không cà phê, không rượu, không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Caffeine, rượu (yếu tố làm nặng)"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không thuốc ngủ, không thuốc dị ứng, không thuốc chống trầm cảm, không thuốc cảm viên có chlorpheniramin. Thỉnh thoảng đau gối nên uống paracetamol.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc thuốc làm nặng khác (kháng histamin, chống trầm cảm)"
+    },
+    {
+     "id": "mau",
+     "noi_dung": "Ăn cơm với cá kho, rau; ít thịt. Phân vàng, không đen, không có máu; không chảy máu cam; đã mãn kinh từ lâu. Không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc thiếu sắt, mất máu"
+    },
+    {
+     "id": "da_day",
+     "noi_dung": "Đầy bụng, ợ chua nhiều năm nay. Không nôn, không nuốt vướng, không đau thượng vị dữ dội. Hai năm trước nội soi ở bệnh viện tỉnh: viêm dạ dày nông, thử vi khuẩn HP âm tính.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "te_nga",
+     "noi_dung": "Chưa té lần nào. Thỉnh thoảng loạng choạng nhẹ khi vừa ngủ dậy đứng lên. Đi lại sinh hoạt tự lo hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ té trước khi kê thuốc gây buồn ngủ"
+    },
+    {
+     "id": "ngu",
+     "noi_dung": "Hàng xóm ngủ cùng phòng trực không nghe bà ngáy to hay ngưng thở. Ban ngày chỉ ngủ gật khi mệt quá do thiếu ngủ.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "benh_nen",
+     "noi_dung": "Không biết có đái tháo đường, bệnh thận. Mẹ bà hồi trẻ cũng hay 'bứt chân' buổi tối.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "xa",
+     "noi_dung": "Nhà cách 45 km, xe khách chỉ chạy chuyến sáng sớm, về chiều; một chuyến đi về hết khoảng 150 nghìn và mất một buổi trực. Con trai làm công nhân xa, tháng về một lần. Bà có điện thoại bàn phím, nghe được, nhưng hay để quên sạc pin.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Điều kiện tái khám, cách liên lạc"
+    },
+    {
+     "id": "tai_chinh",
+     "noi_dung": "Lương bảo vệ khoảng 3,5 triệu/tháng. Hàng xóm nói thử máu mất mấy trăm nghìn nên bà sợ; bà chỉ mang theo khoảng 400 nghìn gồm cả tiền xe về. Bà có thẻ BHYT nhưng không biết xét nghiệm có được chi trả không. Đó là lý do bà xin 'thuốc bổ chân' và không muốn thử máu.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói thật khi bác sĩ hỏi vì sao bà ngại xét nghiệm, hỏi về chi phí hoặc khả năng chi trả, hoặc nhắc xét nghiệm lần thứ hai và hỏi 'có lo chuyện tiền không'. Hỏi chung chung thì bà nói 'thôi, không cần'.",
+     "k": 1,
+     "y": "Lý do thật: ngại tốn tiền xét nghiệm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói chuyện mạch lạc, trả lời đúng ngày tháng, tự kể được bệnh sử. Cân nặng 48 kg, cao 150 cm, BMI 21,3. Kết mạc, lòng bàn tay hồng. Hơi thiếu ngủ, mắt thâm quầng.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Sức cơ 5/5 bốn chi. Phản xạ gân gối, gót có, đều hai bên. Cảm giác nông (chạm, kim) bàn chân bình thường hai bên. Lasègue âm tính.",
+     "k": 1
+    },
+    "am_thoa": {
+     "a": "Cảm nhận rung âm thoa 128 Hz ở mắt cá và ngón chân cái bình thường hai bên.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai cẳng chân không phù, không giãn tĩnh mạch, bắp chân mềm, không đau khi bóp, da ấm. Lúc ngồi chờ khám bà thỉnh thoảng đổi chân, xoa bắp chân.",
+     "k": 1
+    },
+    "mach_ngoai_bien": {
+     "a": "Mạch mu chân, chày sau rõ hai bên, chân ấm.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Hai gối lạo xạo nhẹ, không sưng nóng, tầm vận động đủ. Cột sống thắt lưng không điểm đau.",
+     "k": 0
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng dậy khỏi ghế không cần vịn, đi bình thường, bước đủ dài. Đi nối gót ổn, Romberg âm tính.",
+     "k": 1
+    },
+    "ha_tu_the": {
+     "a": "HA nằm 140/80, đứng sau 1 phút 134/78 mmHg, không chóng mặt.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều 72 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối, thượng vị không đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ferritin_sat": {
+     "v": "e",
+     "r": "Ferritin 118 ng/mL · Sắt huyết thanh 15 µmol/L · Độ bão hòa transferrin 27% (lấy máu buổi sáng, bà không dùng sắt)",
+     "n": "AASM 2025 (TL-0455) GPS 1 (tr. 140): mọi RLS có ý nghĩa lâm sàng cần ferritin và độ bão hòa transferrin, lấy buổi sáng, không dùng sắt 24 giờ trước; bổ sung sắt khi ferritin ≤ 75 ng/mL hoặc TSAT < 20%. Ferritin 118 và TSAT 27% không thuộc ngưỡng nào: loại thiếu sắt, không cần sắt. Là xét nghiệm ưu tiên khi tiền có hạn (250.000 đ)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Creatinin 92 µmol/L · Ure 6,8 mmol/L · eGFR 55 mL/ph/1,73m²",
+     "bang": {
+      "creat": 92,
+      "ure": 6.8,
+      "egfr": 55
+     },
+     "ab": 1,
+     "n": "Cần để chỉnh liều gabapentinoid: AGS Beers 2023 (TL-0022) Bảng 6 (gabapentin, pregabalin: giảm liều khi CrCl < 60 mL/phút). Bà 77 tuổi, 48 kg, creatinin 92 µmol/L: CrCl ước tính khoảng 34 mL/phút theo công thức Cockcroft–Gault (công thức không có trong tài liệu đã tải)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,4 G/L · Hb 129 g/L · MCV 90,2 fL · TC 248 G/L",
+     "bang": {
+      "wbc": 6.4,
+      "neu_pct": 58.0,
+      "neu": 3.71,
+      "lym_pct": 32.0,
+      "lym": 2.05,
+      "mono_pct": 6.0,
+      "mono": 0.38,
+      "eos_pct": 3.0,
+      "eos": 0.19,
+      "baso_pct": 1.0,
+      "baso": 0.06,
+      "rbc": 4.3,
+      "hgb": 129,
+      "hct": 0.388,
+      "mcv": 90.2,
+      "mch": 30.0,
+      "mchc": 332,
+      "rdw": 13.4,
+      "plt": 248
+     },
+     "n": "Nữ Hb ≥ 120 g/L: chưa thiếu máu (BSG 2021 (TL-0219) tr. 4). Hữu ích nhưng không bắt buộc: ferritin, TSAT đã loại thiếu sắt."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch lúc đói 5,4 mmol/L",
+     "n": "Loại đái tháo đường gây bệnh thần kinh ngoại biên (IRLSSG 2014 (TL-0491) Bảng 3). Rẻ (20.000 đ); khám thần kinh bình thường nên làm hay không đều không trừ điểm."
+    },
+    "b12": {
+     "v": "a",
+     "r": "Vitamin B12 huyết thanh trong giới hạn bình thường.",
+     "n": "Dùng omeprazol cách quãng, thiếu B12 gây bệnh thần kinh ngoại biên; khám cảm giác bình thường nên chưa cần, để lượt sau nếu có tê bì. Chấp nhận nếu làm."
+    },
+    "abdus": {
+     "n": "Không có chỉ định: không dấu báo động đường tiêu hóa; cơ sở không có máy siêu âm."
+    },
+    "psg": {
+     "n": "Không ngáy, không ngưng thở theo người ngủ cùng phòng. RLS chẩn đoán bằng 5 tiêu chí lâm sàng (IRLSSG 2014 (TL-0491) Bảng 1); đa ký giấc ngủ chỉ liên quan khi nghi ngưng thở khi ngủ làm nặng (AASM 2025 (TL-0455) GPS 2)."
+    },
+    "noi_soi": {
+     "n": "Không có dấu hiệu báo động (sụt cân, nuốt vướng, phân đen, thiếu máu), đã nội soi cách 2 năm, Hb và ferritin bình thường (VAG 2024 (TL-0178) tr. 311: người từ 40 tuổi có khó tiêu nên nội soi để loại ung thư dạ dày, có dấu báo động thì nội soi bất kể tuổi)."
+    },
+    "mri_cot_song": {
+     "n": "Không có chỉ định: khám thần kinh bình thường, không đau lưng lan chân, Lasègue âm tính."
+    },
+    "ct_nao": {
+     "n": "Không có chỉ định: khám thần kinh bình thường."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng chân không yên mạn tính, có ý nghĩa lâm sàng (mất ngủ, mệt ban ngày), nặng lên do metoclopramid tự mua và trà đặc buổi tối",
+     "ok": 1,
+     "n": "Đủ 5 tiêu chí: thôi thúc cử động chân, khi nghỉ, đỡ khi vận động, nặng về tối, không do bệnh khác (IRLSSG 2014 (TL-0491) Bảng 1); mạn tính-dai dẳng vì ≥ 2 lần/tuần trong hơn 1 năm. Yếu tố làm nặng: kháng dopamin, caffeine (AASM 2025 (TL-0455) GPS 2)."
+    },
+    {
+     "t": "Bệnh thần kinh ngoại biên",
+     "n": "Loại trừ: không tê, không nóng rát, cảm giác nông và rung âm thoa bình thường, phản xạ còn, đường huyết bình thường (IRLSSG 2014 (TL-0491) Bảng 3). Có thể cùng tồn tại với RLS nên nếu sau này có tê bì thì nghĩ lại."
+    },
+    {
+     "t": "Thiếu sắt hoặc thiếu máu thiếu sắt",
+     "n": "Loại trừ: ferritin 118 ng/mL, TSAT 27%, Hb 129 g/L (AASM 2025 (TL-0455) GPS 1; BSG 2021 (TL-0219) tr. 4). Dù có dùng omeprazol cách quãng (BSG 2021 (TL-0219) tr. 8: PPI dài ngày có thể góp phần), chỉ số sắt vẫn bình thường nên không cần bổ sung sắt, không cần nội soi tìm nguyên nhân mất máu."
+    },
+    {
+     "t": "Bồn chồn do thuốc (akathisia do metoclopramid)",
+     "n": "Cần phân biệt (IRLSSG 2014 (TL-0491) Bảng 3). Bệnh bắt đầu từ hai năm nay, trước khi dùng metoclopramid 7 tuần; có nhịp nặng về tối, thôi thúc ở chân, đỡ khi đi. Metoclopramid là chất đối kháng thụ thể dopamin D2 (VAG 2024 (TL-0178) Bảng 5) nên làm nặng RLS (AASM 2025 (TL-0455) GPS 2: thuốc kháng dopamin)."
+    },
+    {
+     "t": "Chuột rút chân về đêm",
+     "n": "Không co cứng, không có cục cơ, bóp bắp chân không đau (IRLSSG 2014 (TL-0491) Bảng 3: chuột rút, đặc điểm là cơ co thắt cứng)."
+    },
+    {
+     "t": "Suy tĩnh mạch, phù chân, viêm khớp gối",
+     "n": "Không phù, không giãn tĩnh mạch, khớp gối không sưng nóng; triệu chứng không giảm khi kê chân (IRLSSG 2014 (TL-0491) Bảng 3)."
+    },
+    {
+     "t": "Bệnh rễ thần kinh thắt lưng hoặc đau cách hồi",
+     "n": "Không đau lưng lan chân, Lasègue âm tính, mạch mu chân rõ; triệu chứng nặng khi nghỉ, đỡ khi đi (khác đau cách hồi) (IRLSSG 2014 (TL-0491) Bảng 3)."
+    },
+    {
+     "t": "Mất ngủ nguyên phát cần thuốc ngủ",
+     "n": "Mất ngủ là hệ quả của RLS, không phải bệnh riêng; thuốc ngủ (clonazepam, kháng histamin) làm nặng hoặc không khuyến cáo (AASM 2025 (TL-0455) khuyến cáo 17; GPS 2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích bà bị hội chứng chân không yên (bệnh cảm giác–vận động thường gặp, không phải 'thiếu máu', không nguy hiểm tính mạng) và hỏi thẳng vì sao bà ngại xét nghiệm",
+     "v": "c",
+     "n": "Nhận ra lý do thật là tiền để chọn xét nghiệm cần nhất thay vì cho bà bỏ hết; chẩn đoán dựa vào hỏi bệnh (IRLSSG 2014 (TL-0491) Bảng 1)."
+    },
+    {
+     "t": "Xử trí yếu tố làm nặng trước: ngưng metoclopramid, chỉ uống trà đặc trước 14 giờ, không dùng thuốc ngủ kháng histamin",
+     "v": "c",
+     "n": "AASM 2025 (TL-0455) GPS 2 (tr. 140): bước đầu tiên là xử trí rượu, caffeine, thuốc kháng histamin, serotonin, kháng dopamin. AGS Beers 2023 (TL-0022) Bảng 2: tránh metoclopramid (tác dụng ngoại tháp, nguy cơ cao hơn ở người yếu và dùng kéo dài). Giờ cụ thể do ca chọn, không có trong tài liệu."
+    },
+    {
+     "t": "Chỉ định ferritin và độ bão hòa transferrin (buổi sáng, không dùng sắt 24 giờ trước) cùng creatinin; hoãn các xét nghiệm phụ nếu bà không đủ tiền",
+     "v": "c",
+     "n": "AASM 2025 (TL-0455) GPS 1; AGS Beers 2023 (TL-0022) Bảng 6 (chỉnh liều gabapentinoid theo CrCl). Tổng 300.000 đ; bà mang theo khoảng 400.000 đ gồm tiền xe nên xét nghiệm phụ (B12, đường huyết, công thức máu) để sau hoặc không làm."
+    },
+    {
+     "t": "Kê pregabalin liều thấp buổi tối, ví dụ 25 mg, hoặc gabapentin liều thấp, giảm theo độ lọc, tăng chậm",
+     "v": "c",
+     "n": "AASM 2025 (TL-0455) khuyến cáo 2, 3 (mạnh). eGFR 55, CrCl khoảng 34 mL/phút: AGS Beers 2023 (TL-0022) Bảng 6 giảm liều khi CrCl < 60; QĐ 3510/2025 (TL-0279) mục 3.3.3.1 hàng 30–60 mL/phút: pregabalin khởi đầu 25 mg/lần, tối đa 50 mg/lần (bảng này của bệnh thần kinh đái tháo đường, mượn vì tài liệu RLS không nêu liều); gabapentin theo độ lọc: không có trong tài liệu đã tải. Gộp một mục theo sổ mâu thuẫn TK-0422 mục 4."
+    },
+    {
+     "t": "Dặn tác dụng phụ buồn ngủ, chóng mặt; phòng té: đứng dậy từ từ, đèn ban đêm; mấy đêm đầu uống vào đêm nghỉ trực, chưa uống khi đi gác cổng",
+     "v": "c",
+     "n": "AASM 2025 (TL-0455) tr. 148–149: chóng mặt, buồn ngủ; QĐ 3510/2025 (TL-0279) mục 3.3.3.1: tác dụng phụ nặng hơn ở người cao tuổi, bắt đầu liều thấp và chỉnh chậm; AGS Beers 2023 (TL-0022) Bảng 3: tiền sử té. Bà chưa té nhưng đã hơi loạng choạng khi mới ngủ dậy."
+    },
+    {
+     "t": "Cấp thuốc đủ 4 tuần, viết giấy dặn bằng tay (tên thuốc, giờ uống, dấu hiệu phải báo), ghi số điện thoại phòng khám, hẹn gọi điện sau 2 tuần và tái khám sau 6–8 tuần khi có người chở",
+     "v": "c",
+     "n": "Ca ở xa, không quay lại sửa sai: xử trí trọn gói, dặn bằng văn bản, có số điện thoại. Mốc 2 tuần và 6–8 tuần là lựa chọn của ca, không có trong tài liệu đã tải cho RLS."
+    },
+    {
+     "t": "Giải thích thuốc cần vài tuần mới thấy rõ, tăng liều từ từ, không tự bỏ hoặc ngưng đột ngột",
+     "v": "c",
+     "n": "Ca khỏi chậm hơn dự kiến; QĐ 3510/2025 (TL-0279) mục 3.3.3.1: không ngưng thuốc chống co giật đột ngột, giảm liều từ từ ít nhất 1 tuần. Thời gian có hiệu quả của gabapentinoid trong RLS: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thay metoclopramid trị đầy bụng, ợ chua bằng omeprazol 20 mg buổi sáng ngắn hạn rồi đánh giá lại",
+     "v": "a",
+     "n": "VAG 2024 (TL-0178) tr. 312, Bảng 4: PPI liều chuẩn 1 lần/ngày (omeprazol 20 mg), đánh giá sau 8 tuần; AGS Beers 2023 (TL-0022) Bảng 2: tránh PPI liên tục > 8 tuần trừ chỉ định nguy cơ cao. Tùy bác sĩ chọn cách giải quyết đầy bụng; chấp nhận."
+    },
+    {
+     "t": "Đi bộ nhẹ, xoa bóp, ngâm chân buổi tối để đỡ triệu chứng",
+     "v": "a",
+     "n": "Đỡ khi vận động là tiêu chí 3 (IRLSSG 2014 (TL-0491) Bảng 1), nhưng khuyến cáo biện pháp không dùng thuốc: không có trong tài liệu đã tải. Chấp nhận."
+    },
+    {
+     "t": "Pramipexole hoặc ropinirole làm thuốc đầu tay",
+     "v": "a",
+     "n": "AASM 2025 (TL-0455) khuyến cáo 12, 14: không dùng thường quy (nguy cơ bùng phát triệu chứng, tr. 148), vẫn dùng được khi ưu tiên hiệu quả ngắn hạn; AAN 2016 (nguồn bổ sung tự tìm, sổ mâu thuẫn TK-0595) xếp mức A, B. Cả hai cách chấp nhận; ở tuổi 77, ở xa không theo dõi sát bùng phát nên gabapentinoid là đáp án chính."
+    },
+    {
+     "t": "Truyền sắt tĩnh mạch (ferric carboxymaltose) hoặc cho sắt uống",
+     "v": "w",
+     "n": "AASM 2025 (TL-0455) GPS 1: chỉ bổ sung sắt khi ferritin ≤ 75 ng/mL hoặc TSAT < 20%; khuyến cáo 4, 7 áp dụng cho người có 'tình trạng sắt phù hợp'. Ferritin 118, TSAT 27%: không có chỉ định, tốn tiền, sắt uống gây táo bón (tr. 148) và là thuốc gây khó tiêu (VAG 2024 (TL-0178) Bảng 3)."
+    },
+    {
+     "t": "Cho clonazepam hoặc thuốc ngủ nhóm benzodiazepin, Z-drug",
+     "v": "w",
+     "n": "AASM 2025 (TL-0455) khuyến cáo 17: không dùng clonazepam cho RLS; AGS Beers 2023 (TL-0022) Bảng 2 và 3: tránh benzodiazepin và Z-drug ở người cao tuổi (té, lú lẫn)."
+    },
+    {
+     "t": "Thay metoclopramid bằng domperidon, itoprid hoặc levosulpirid",
+     "v": "a",
+     "n": "VAG 2024 (TL-0178) Bảng 5: domperidon, itoprid, levosulpirid đều là chất đối kháng dopamin D2 (domperidon tối đa 1 tuần); AASM 2025 (TL-0455) GPS 2 xếp thuốc kháng dopamin vào yếu tố làm nặng RLS nhưng không nêu tên từng thuốc. Domperidon có làm nặng RLS hay không: không có trong tài liệu đã tải, nên không chấm sai; omeprazol hoặc không dùng thuốc vận động vẫn là cách an toàn hơn khi đã có RLS (trưởng nhóm duyệt hạ từ w xuống a)."
+    },
+    {
+     "t": "Cho thuốc kháng histamin an thần (diphenhydramin, chlorpheniramin) cho dễ ngủ",
+     "v": "h",
+     "n": "AASM 2025 (TL-0455) GPS 2: kháng histamin làm nặng RLS; AGS Beers 2023 (TL-0022) Bảng 2: kháng histamin thế hệ 1 gây kháng cholinergic mạnh, tránh ở người ≥ 65 tuổi."
+    },
+    {
+     "t": "Tiếp tục metoclopramid vì bà quen dùng và 'dễ chịu bụng'",
+     "v": "h",
+     "n": "AASM 2025 (TL-0455) GPS 2: kháng dopamin làm nặng RLS; AGS Beers 2023 (TL-0022) Bảng 2: tránh metoclopramid (tác dụng ngoại tháp ở người yếu, dùng kéo dài); VAG 2024 (TL-0178) Bảng 5: tối đa 5 ngày cho khó tiêu chức năng. Bà đã dùng bảy tuần."
+    },
+    {
+     "t": "Chuyển tuyến hoặc nhập viện ngay hôm nay",
+     "v": "w",
+     "n": "Không dấu hiệu nặng, không cần kỹ thuật tuyến trên; thuốc đầu tay làm được tại đây (AASM 2025 (TL-0455) khuyến cáo 2, 3). Chuyển tuyến chỉ nghĩ tới khi không đáp ứng thuốc hoặc cần sắt tĩnh mạch (khuyến cáo 4), sau khi chỉ số sắt thấp."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng chân không yên mạn tính–dai dẳng, có ý nghĩa lâm sàng (mất ngủ, mệt ban ngày)",
+     "Yếu tố làm nặng: metoclopramid tự mua (kháng dopamin), trà đặc buổi tối, thiếu ngủ",
+     "Đã loại: bệnh thần kinh ngoại biên (khám cảm giác, rung âm thoa bình thường), thiếu sắt (ferritin 118 ng/mL, TSAT 27%, Hb 129 g/L)",
+     "Chức năng thận giảm theo tuổi: eGFR 55, CrCl khoảng 34 mL/phút; cần giảm liều gabapentinoid",
+     "Nguy cơ té: tuổi 77, nhẹ cân, loạng choạng khi mới ngủ dậy; chưa té",
+     "Đầy bụng, ợ chua mạn tính, không dấu báo động; ở xa, tài chính hạn chế"
+    ],
+    "phan_tich_chan_doan": [
+     "Đủ 5 tiêu chí IRLSSG (IRLSSG 2014 (TL-0491) Bảng 1): thôi thúc cử động hai bắp chân kèm cảm giác kiến bò; xuất hiện khi ngồi gác hoặc nằm; đỡ khi đi lại; nặng từ chiều tối đến khoảng 1 giờ sáng; không do bệnh khác. Từ hai năm nay, ba tháng gần đây gần đêm nào cũng bị: mạn tính-dai dẳng (≥ 2 lần/tuần trong 1 năm) và có ý nghĩa lâm sàng vì ngủ 3–4 giờ, ban ngày mệt.",
+     "Vì sao hỏi cụ thể mới ra: bà chỉ nói 'bứt rứt, khó chịu'; phải hỏi cảm giác trong chân, có thôi thúc cựa không, có tê hay co cứng không, giờ nào nặng, đứng dậy đi có đỡ không.",
+     "Loại bệnh giống RLS (IRLSSG 2014 (TL-0491) Bảng 3): bệnh thần kinh ngoại biên (không tê, rung âm thoa, cảm giác kim bình thường), chuột rút (không co cứng), suy tĩnh mạch/phù (không phù), viêm khớp, bệnh rễ, đau cách hồi (nặng khi nghỉ, đỡ khi đi), bồn chồn do thuốc. Bồn chồn do metoclopramid cần nghĩ vì bà dùng bảy tuần, nhưng RLS có từ hai năm trước và có nhịp ngày đêm; thuốc làm nặng thêm.",
+     "Vì sao xét nghiệm sắt dù bà ngại: ferritin và TSAT là xét nghiệm cho mọi RLS có ý nghĩa lâm sàng, quyết định dùng sắt hay không (AASM 2025 (TL-0455) GPS 1, tr. 140). Kết quả bình thường (ferritin 118, TSAT 27%) giúp bà không phải mua sắt, không phải đi tuyến trên truyền sắt: xét nghiệm 250.000 đ đỡ tốn hơn so với đoán mò.",
+     "Yếu tố làm nặng: metoclopramid là chất đối kháng dopamin D2 (VAG 2024 (TL-0178) Bảng 5), thuộc nhóm kháng dopamin làm nặng RLS (AASM 2025 (TL-0455) GPS 2); trà đặc buổi tối là caffeine (GPS 2). AGS Beers 2023 (TL-0022) Bảng 2 khuyên tránh metoclopramid ở người cao tuổi; VAG 2024 (TL-0178) Bảng 5 chỉ cho dùng tối đa 5 ngày; bà dùng bảy tuần.",
+     "Thiếu máu thiếu sắt: Hb 129 g/L, nữ ngưỡng 120 g/L (BSG 2021 (TL-0219) tr. 4); ferritin 118 µg/L, cao hơn ngưỡng 30–45 µg/L (BSG 2021 (TL-0219) tr. 4) và ngưỡng 75 ng/mL của AASM 2025 (TL-0455). Vì chưa thiếu máu và không có dấu mất máu nên không cần nội soi tìm nguyên nhân (BSG 2021 (TL-0219) khuyến cáo 22).",
+     "Lưu ý áp dụng (≥ 75 tuổi): AASM 2025 (TL-0455) và IRLSSG 2014 (TL-0491) không có phần riêng cho người ≥ 75 tuổi; IRLSSG chỉ nêu tiêu chuẩn riêng cho người cao tuổi suy giảm nhận thức, bà còn tỉnh táo nên dùng tiêu chuẩn chung. Liều gabapentinoid cho RLS ở người cao tuổi: không có trong tài liệu đã tải; ca mượn quy tắc 'bắt đầu liều thấp, tăng chậm, giảm theo độ lọc' của AGS Beers 2023 (TL-0022) Bảng 6 và QĐ 3510/2025 (TL-0279) mục 3.3.3.1."
+    ],
+    "phan_tich_xu_tri": [
+     "Bước đầu là yếu tố làm nặng (AASM 2025 (TL-0455) GPS 2): ngưng metoclopramid, bớt trà đặc buổi tối. Có thể làm triệu chứng giảm một phần ngay trước khi dùng thuốc nào.",
+     "Thuốc đầu tay: pregabalin hoặc gabapentin (AASM 2025 (TL-0455) khuyến cáo 2, 3, mạnh). Bà 77 tuổi, CrCl khoảng 34 mL/phút nên khởi liều rất thấp: pregabalin 25 mg buổi tối (QĐ 3510/2025 (TL-0279) mục 3.3.3.1 hàng 30–60 mL/phút: khởi 25 mg/lần, tối đa 50 mg/lần; AGS Beers 2023 (TL-0022) Bảng 6). Giờ uống và mốc tăng liều là lựa chọn của ca vì tài liệu RLS không nêu liều.",
+     "Pramipexole, ropinirole: AASM 2025 khuyến cáo không dùng thường quy vì nguy cơ bùng phát (khuyến cáo 12, 14, tr. 148); AAN 2016 xếp mức A, B. Hai nguồn khác năm và cách cân nhắc nguy cơ lâu dài, cả hai cách đều được chấp nhận (sổ mâu thuẫn TK-0595). Ở bà, ở xa và khó theo dõi bùng phát nên chọn gabapentinoid.",
+     "Không dùng sắt: ferritin 118, TSAT 27% không đạt ngưỡng (AASM 2025 (TL-0455) GPS 1). Sắt uống còn gây táo bón (tr. 148) và khó tiêu (VAG 2024 (TL-0178) Bảng 3); truyền sắt phải lên tuyến trên, tốn tiền, không có lợi ích khi sắt bình thường.",
+     "Xét nghiệm có chọn lọc theo tiền: hai xét nghiệm ưu tiên là ferritin–TSAT và creatinin (300.000 đ); B12, đường huyết, công thức máu để sau. Công thức máu, đường huyết, B12 là tùy chọn: khám thần kinh bình thường và ferritin, TSAT đã loại thiếu sắt.",
+     "Khó tiêu: không thay bằng thuốc cùng nhóm D2 (domperidon, itoprid, levosulpirid: VAG 2024 (TL-0178) Bảng 5); PPI liều chuẩn 1 lần/ngày được (VAG 2024 (TL-0178) Bảng 4, tr. 312), đánh giá lại sau 4–8 tuần (VAG 2024 (TL-0178) tr. 312; AGS Beers 2023 (TL-0022) Bảng 2: > 8 tuần cần lý do). Chưa cần nội soi lại vì không có dấu báo động và đã nội soi 2 năm trước (VAG 2024 (TL-0178) tr. 311).",
+     "Ở xa, khó tái khám: cấp thuốc đủ 4 tuần, giấy dặn viết tay, số điện thoại, hẹn gọi sau 2 tuần, nhờ người chở khi tái khám sau 6–8 tuần. Đây là lựa chọn của ca, vì tài liệu không nêu lịch tái khám RLS; ngưỡng an toàn hạ thấp do bà không có dịp sửa sai."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pregabalin",
+      "ham_luong": "25 mg/viên (hàm lượng viên ở Việt Nam: không có trong tài liệu đã tải)",
+      "lieu": "25 mg × 1 lần/ngày; sau 2 tuần nếu dung nạp và còn triệu chứng thì 50 mg × 1 lần/ngày, không quá 50 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối trước khi ngủ; mấy đêm đầu uống vào đêm nghỉ trực",
+      "so_ngay": "28 ngày",
+      "ghi_chu": "AASM 2025 (TL-0455) khuyến cáo 3 (mạnh). Liều khởi đầu 25 mg và trần 50 mg/lần theo hàng 30–60 mL/phút (QĐ 3510/2025 (TL-0279) mục 3.3.3.1, bảng bệnh thần kinh đái tháo đường); liều cho RLS, giờ uống, mốc tăng sau 2 tuần: không có trong tài liệu đã tải, là lựa chọn của ca. Thay được bằng gabapentin (khuyến cáo 2), liều khởi đầu theo độ lọc: không có trong tài liệu. Không dừng đột ngột (QĐ 3510/2025 (TL-0279) mục 3.3.3.1). Tác dụng phụ: chóng mặt, buồn ngủ, phù, nhìn mờ."
+     },
+     {
+      "thuoc": "Omeprazol (nếu còn đầy bụng, ợ chua; thay metoclopramid)",
+      "ham_luong": "20 mg/viên",
+      "lieu": "20 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng trước ăn khoảng 30 phút",
+      "so_ngay": "28 ngày rồi đánh giá lại; không quá 8 tuần nếu không có lý do",
+      "ghi_chu": "VAG 2024 (TL-0178) Bảng 4: omeprazol 20 mg/ngày, đánh giá lại sau 8 tuần (tr. 312); AGS Beers 2023 (TL-0022) Bảng 2: tránh dùng liên tục > 8 tuần. 28 ngày là lựa chọn của ca."
+     },
+     {
+      "thuoc": "Metoclopramid (bà đang tự mua)",
+      "ham_luong": "10 mg",
+      "lieu": "Ngưng",
+      "duong": "Uống",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "Kháng dopamin làm nặng RLS (AASM 2025 (TL-0455) GPS 2); tránh ở người cao tuổi (AGS Beers 2023 (TL-0022) Bảng 2); tối đa 5 ngày (VAG 2024 (TL-0178) Bảng 5). Dặn không mua lại ở nhà thuốc."
+     },
+     {
+      "thuoc": "Trà đặc buổi tối (caffeine)",
+      "ham_luong": "-",
+      "lieu": "Bớt, chỉ uống trước 14 giờ",
+      "duong": "Uống",
+      "thoi_diem": "-",
+      "so_ngay": "-",
+      "ghi_chu": "AASM 2025 (TL-0455) GPS 2: caffeine làm nặng RLS. Mốc 14 giờ là lựa chọn của ca."
+     }
+    ],
+    "dan_do": [
+     "Giấy dặn viết tay đưa bà giữ: tên thuốc, giờ uống, số điện thoại phòng khám để gọi khi có vấn đề, ghi 'không uống metoclopramid, thuốc ngủ, thuốc dị ứng gây ngủ'.",
+     "Ngưng thuốc 'tiêu hóa' metoclopramid, đừng mua lại; trà đặc chỉ uống trước 14 giờ, tối uống nước lọc (AASM 2025 (TL-0455) GPS 2).",
+     "Pregabalin chỉ uống buổi tối, mới uống thì chóng mặt, buồn ngủ: đứng dậy chậm, ngồi mép giường trước khi đứng, bật đèn khi đi vệ sinh đêm; mấy đêm đầu uống vào đêm nghỉ trực để xem dung nạp, rồi mới uống đêm trực; không đi xe máy khi còn buồn ngủ. Không tự tăng hay ngưng đột ngột (QĐ 3510/2025 (TL-0279) mục 3.3.3.1).",
+     "Thuốc có thể đỡ chậm; nếu chưa đỡ ngay cũng đừng bỏ thuốc, gọi điện hỏi (thời gian thuốc có hiệu quả: không có trong tài liệu đã tải).",
+     "Gọi điện hoặc đến trạm y tế xã sớm nếu: buồn ngủ quá mức, ngã, lú lẫn, phù hai chân hoặc nhìn mờ (QĐ 3510/2025 (TL-0279) mục 3.3.3.1: tác dụng phụ), hoặc triệu chứng xuất hiện cả ban ngày và nặng hơn.",
+     "Gọi điện sau 2 tuần (phòng khám gọi bà; sạc pin điện thoại trước); tái khám sau 6–8 tuần khi có người chở, mang theo vỉ thuốc và giấy dặn (mốc là lựa chọn của ca, không có trong tài liệu đã tải). Kết quả ferritin, creatinin ghi vào giấy dặn để lần sau không phải làm lại.",
+     "Về xét nghiệm: lần tới nếu cần làm thêm, hỏi trước giá và hỏi trạm y tế xã xem thẻ BHYT có chi trả không."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Hường ngưng metoclopramid, bớt trà đặc và uống pregabalin 25 mg mỗi tối. Hai tuần đầu bà thấy gần như chưa đỡ và định bỏ thuốc vì tiếc tiền; cuộc gọi của điều dưỡng ở tuần thứ 2 giúp bà uống tiếp, tăng lên 50 mg. Tuần thứ 4 ngủ được khoảng 5 giờ; tuần thứ 10–12 chân chỉ còn nhẹ vào những đêm mệt, ngủ khoảng 6 giờ, đỡ buồn ngủ ở ghế gác. Chậm hơn bà mong vì thuốc phải tăng chậm theo tuổi và độ lọc, bà chưa tin thuốc và ngại quay lại. Kịch bản của ca, không từ tài liệu.",
+ "nhieu": [
+  "Ở xa, khó tái khám: 'tôi không đi lại được đâu', xin thuốc nhiều ngày; bác sĩ phải gói gọn xử trí, giấy dặn viết tay, số điện thoại, hẹn gọi điện thay cho hẹn tái khám.",
+  "Ngại xét nghiệm vì tiền: bà không nói thẳng, chỉ nói 'tốn lắm'; hỏi vì sao ngại mới lộ, rồi chọn xét nghiệm quan trọng nhất (ferritin, TSAT, creatinin).",
+  "Thuốc dạ dày tự mua (metoclopramid) bà coi là 'thuốc tiêu hóa', không khai khi hỏi chung 'thuốc gì'; chỉ lộ khi hỏi thuốc tự mua ở nhà thuốc. Trà đặc 3–4 ly mỗi đêm cũng vậy."
+ ],
+ "bai_hoc_bien": [
+  "Lời khai 'bứt rứt, khó chịu chân, xin thuốc ngủ' ở người ≥ 75 tuổi phải gom thành 5 tiêu chí (IRLSSG 2014 (TL-0491) Bảng 1) và loại bệnh giống RLS (IRLSSG 2014 (TL-0491) Bảng 3): hỏi cảm giác, thôi thúc, khi nghỉ, giờ nào, đi lại có đỡ không.",
+  "Bước đầu là hỏi thuốc tự mua: metoclopramid (kháng dopamin) và trà đặc là yếu tố làm nặng (AASM 2025 (TL-0455) GPS 2; VAG 2024 (TL-0178) Bảng 5); ngưng chúng có thể đã đỡ phần nào.",
+  "Ferritin và TSAT cho mọi RLS có ý nghĩa (AASM 2025 (TL-0455) GPS 1); khi người bệnh ngại tiền, hỏi lý do rồi ưu tiên xét nghiệm này; kết quả bình thường giúp tránh sắt thừa.",
+  "Người ≥ 75 tuổi, CrCl < 60: gabapentinoid khởi liều thấp, tăng chậm (AGS Beers 2023 (TL-0022) Bảng 6; QĐ 3510/2025 (TL-0279) mục 3.3.3.1); dặn té ngã; không cho thuốc ngủ, kháng histamin (AGS Beers 2023 (TL-0022) Bảng 2).",
+  "Khỏi chậm không phải thất bại: nếu chưa đỡ sau 4–6 tuần vẫn kiểm tra tuân thủ, yếu tố làm nặng, ferritin, độ lọc, rồi mới tăng liều hay chuyển tuyến; điều này phải được dặn ngay lúc ở xa không quay lại được."
+ ],
+ "diem_nho": [
+  "5 tiêu chí RLS: thôi thúc cử động chân; khi nghỉ; đỡ khi vận động; nặng chiều tối - đêm; không do bệnh khác. Mạn tính: ≥ 2 lần/tuần trong 1 năm (IRLSSG 2014 (TL-0491) Bảng 1).",
+  "Bước đầu: xử trí rượu, caffeine, kháng histamin, serotonin, kháng dopamin, ngưng thở khi ngủ chưa điều trị (AASM 2025 (TL-0455) GPS 2).",
+  "RLS: ferritin ≤ 75 ng/mL hoặc TSAT < 20% thì sắt uống hoặc tĩnh mạch; 75–100 chỉ tĩnh mạch (AASM 2025 (TL-0455) GPS 1, tr. 140). Ferritin 118, TSAT 27%: không bổ sung sắt.",
+  "Khuyến cáo mạnh: gabapentin, pregabalin, gabapentin enacarbil, ferric carboxymaltose tĩnh mạch; không dùng thường quy levodopa, pramipexole, ropinirole, rotigotine (AASM 2025 (TL-0455) khuyến cáo 1–4, 11–14); không dùng clonazepam (khuyến cáo 17).",
+  "Beers 2023: tránh metoclopramid, kháng histamin thế hệ 1, benzodiazepin; gabapentin, pregabalin giảm liều khi CrCl < 60 mL/phút (AGS Beers 2023 (TL-0022) Bảng 2, 6).",
+  "Metoclopramid là chất đối kháng dopamin D2, tối đa 5 ngày trong khó tiêu chức năng (VAG 2024 (TL-0178) Bảng 5)."
+ ],
+ "nguon": [
+  "AASM 2025 (TL-0455) - ĐÃ ĐỌC Good Practice Statement 1-3 (tr. 140), khuyến cáo 1-28 (tr. 137-138), bàn luận về đồng vận dopamin, sắt uống, gabapentinoid (tr. 147-149). J Clin Sleep Med 2025;21(1):137-152.",
+  "IRLSSG 2014 (TL-0491) - ĐÃ ĐỌC Bảng 1 (tr. 861), Bảng 3 (tr. 865), mục 9 người cao tuổi suy giảm nhận thức (tr. 868). Sleep Med 2014;15:860-73.",
+  "BSG 2021 (TL-0219) - ĐÃ ĐỌC Định nghĩa thiếu máu và ngưỡng ferritin (tr. 4), khuyến cáo 4, 9, 17-22, 28-29, tr. 8 (PPI dài ngày và thiếu sắt). Gut 2021;70:2030-51.",
+  "AGS Beers 2023 (TL-0022) - ĐÃ ĐỌC Bảng 2 (metoclopramid, kháng histamin thế hệ 1, PPI > 8 tuần, benzodiazepin), Bảng 3 (tiền sử té), Bảng 6 (gabapentin, pregabalin theo CrCl). J Am Geriatr Soc 2023.",
+  "VAG 2024 (TL-0178) - ĐÃ ĐỌC Bảng 3 (tr. 311), Bảng 4 (tr. 312), Bảng 5 (tr. 313), khuyến cáo PPI và nội soi (tr. 311-312). Clin Ter 2024;175(5):307-317.",
+  "QĐ 3510/2025 (TL-0279) - ĐÃ ĐỌC mục 3.3.3.1 (pregabalin theo độ lọc cầu thận, gabapentin, không ngưng đột ngột); mượn cho RLS vì AASM 2025 không nêu liều.",
+  "Nguồn bổ sung tự tìm, đã có trong sổ mâu thuẫn (TK-0595): AAN 2016 về đồng vận dopamin (Neurology, doi 10.1212/WNL.0000000000003388, chỉ đọc tóm tắt)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-19: viết ca TK-0600. Tài liệu đọc: TL-0455 (GPS 1-3, khuyến cáo 1-28, tr. 147-149), TL-0491 (Bảng 1, 3), TL-0219 (tr. 4, 8; khuyến cáo 4, 9, 18, 20, 22, 28, 29), TL-0022 (Bảng 2, 3, 6), TL-0178 (Bảng 3, 4, 5; tr. 311-313), TL-0279 (mục 3.3.3.1).",
+  "Thiết kế: thiếu sắt là chẩn đoán phải loại trừ thật (ferritin 118, TSAT 27%, Hb 129) nên không bổ sung sắt; ca khác TK-0599 (ferritin thấp). Ngại xét nghiệm vì tiền: ferritin-TSAT là xét nghiệm ưu tiên, creatinin cần cho chỉnh liều; còn lại tùy chọn. Tuổi ≥ 75 và ở xa nên lịch hẹn: gọi điện 2 tuần, tái khám 6-8 tuần là lựa chọn của ca.",
+  "Biến 'thuốc dạ dày tự mua' được dựng thành metoclopramid (kháng dopamin: AASM GPS 2 nêu nhóm; VAG 2024 Bảng 5 xếp metoclopramid là chất đối kháng D2; Beers 2023 Bảng 2 tránh) cộng omeprazol cách quãng. Tên cụ thể metoclopramid không có trong AASM; phần liên kết này là ghép hai nguồn.",
+  "Không có trong tài liệu đã tải: liều gabapentin/pregabalin cho RLS và liều cho người cao tuổi; liều gabapentin theo độ lọc; thời gian đáp ứng của gabapentinoid; lịch tái khám RLS; biện pháp không dùng thuốc; công thức Cockcroft–Gault; bảng tính CrCl. Cơ chế 'nắng nóng làm nặng RLS': không có trong tài liệu, chỉ ghi như yếu tố khởi phát bệnh sử. Hàm lượng viên pregabalin ở Việt Nam: không có trong tài liệu."
+ ]
+}
