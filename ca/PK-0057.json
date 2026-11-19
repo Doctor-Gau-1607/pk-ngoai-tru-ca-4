@@ -1,0 +1,822 @@
+{
+ "ma_ca": "PK-0057",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "PK_rlkn_tien_man_kinh_rong_kinh_thieu_mau_kem_lao_phoi_ngu_an_than",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Rối loạn kinh nguyệt",
+  "chan_doan_phai_loai_tru": [
+   "Có thai",
+   "Bệnh tuyến giáp",
+   "PCOS",
+   "U xơ"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Hai chẩn đoán cùng lúc",
+  "dien_tien_tai_kham": "Xuất hiện triệu chứng mới",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nữ",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Lao công (nhân viên vệ sinh bệnh viện huyện)",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho (dọn buồng bệnh có người ho kéo dài)",
+  "thuoc_dang_dung": "Thuốc ngủ an thần (viên diazepam 5 mg mua ở nhà thuốc)",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Châu Thị Mận",
+  "tuoi": 49,
+  "gioi": "Nữ",
+  "nghe": "Lao công (nhân viên vệ sinh) khoa Nội của bệnh viện huyện, 12 năm; ca sáng, lau buồng bệnh và nhà vệ sinh bằng nước tẩy; sống cùng chồng làm thợ hồ và con gái 24 tuổi",
+  "can_nang": 47,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi chị là 'chị Mận'. Chị tự xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Chịu khó, kiệm lời, sợ mất ngày công nên chỉ đi khám khi hết chịu nổi. Quen nghe bác sĩ trong bệnh viện nói chuyện nên hay đọc điện thoại rồi tự kết luận. Hay xin 'cho em thuốc cầm máu với thuốc bổ máu rồi em về làm'.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: vào phòng nói chắc nịch 'em bị rối loạn tiền mãn kinh, em đọc rồi' và chị đúng một phần. Chị gạt mọi triệu chứng không khớp bài đọc: ho là 'bụi nước tẩy', mồ hôi đêm là 'bốc hỏa', sụt cân là 'lo nghĩ'. Chỉ khi bác sĩ hỏi riêng từng triệu chứng, hỏi tiếp xúc ở chỗ làm, hỏi 'điều gì làm chị lo nhất' thì chị mới kể thêm; nỗi sợ thật (nhồi máu cơ tim như anh trai) chị chỉ nói khi được hỏi trực tiếp.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a76",
+   "toc": "#2b2622",
+   "kieuToc": "buoc",
+   "ao": "#7a9a8a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Ra máu âm đạo 16 ngày chưa dứt, mệt, tức ngực khi leo cầu thang; chị tự đọc là 'tiền mãn kinh' và xin thuốc cầm máu, thuốc bổ máu",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT (ngực, bụng, sọ). Còn làm được: xét nghiệm máu, Xpert đờm, X-quang ngực, điện tim, siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nữ 49 tuổi, tên Châu Thị Mận, lao công bệnh viện huyện, đến phòng khám một mình lúc 14 giờ sau ca sáng, vì ra máu âm đạo 16 ngày chưa dứt và mệt. Chị đưa tờ giấy chép tay những gì đọc trên mạng. Sinh hiệu lúc tiếp đón: mạch 104 l/p, HA 100/62 mmHg, nhiệt độ 37,8 °C, nhịp thở 22 l/p, SpO₂ 96%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Mận về với thuốc cầm máu, thuốc sắt và lời 'tiền mãn kinh, hẹn lại hai tuần'. Chị vẫn ho và hôm sau vẫn lau buồng khoa Nội, nơi có người già và người suy giảm miễn dịch; người bệnh lao còn ho khạc phải đeo khẩu trang, hạn chế tiếp xúc (QĐ 162/2024, Phần V mục 4.1). Lao không được đăng ký trong tối đa 3 ngày (Phần III mục 7.2.1), chồng và con gái chưa được sàng lọc (Phần IV mục 1.1.1).",
+    "nhap_vien": "Chị Mận bị giữ nội trú ngay chiều nay: mất ngày công, tốn viện phí, nằm khoa nội chung. Nội trú dành cho thể nặng, suy hô hấp, ho ra máu hoặc suy kiệt (QĐ 162/2024, Phần III mục 7.2.2); chị SpO₂ 96%, chưa ho ra máu nên ngoại trú tại đơn vị chống lao là đủ (mục 7.2.3). Chị càng tin mình bệnh rất nặng, đúng nỗi sợ chưa nói ra."
+   },
+   "loi_mo": "Dạ bác sĩ, em ra máu mười mấy ngày rồi chưa hết, ra nhiều, mệt lắm. Em đọc trên mạng rồi, tuổi này là rối loạn tiền mãn kinh, nhẹ thôi. Bác sĩ cho em xin thuốc cầm máu với thuốc bổ máu, em về làm kẻo mất công.",
+   "sinh_hieu": {
+    "mach": 104,
+    "ha": "100/62",
+    "nhiet": "37,8",
+    "nhip_tho": 22,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Em ra máu từ mùng ba tới nay, mười sáu ngày rồi chưa hết. Mấy hôm đầu ra nhiều. Em đọc mạng thì chắc rối loạn tiền mãn kinh. Em xin thuốc cầm máu với thuốc bổ máu thôi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Ra máu âm đạo 16 ngày; tự chẩn đoán tiền mãn kinh; xin thuốc cầm máu, bổ máu"
+    },
+    {
+     "id": "chu_ky",
+     "noi_dung": "Trước em có kinh đều, 28 ngày, bốn năm ngày. Năm sáu tháng nay thất thường: có tháng 21 ngày đã có lại, có tháng trễ gần 40 ngày. Kỳ này cách kỳ trước 35 ngày. Mấy ngày đầu thay sáu bảy băng, có cục nhỏ bằng hạt na, giờ còn hai ba băng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chu kỳ đều trước kia; 5–6 tháng nay thất thường (21 đến ~40 ngày); ra máu 16 ngày, lúc nhiều 6–7 băng/ngày, có cục"
+    },
+    {
+     "id": "mo_hoi_dem",
+     "noi_dung": "Mấy tháng nay em hay bừng nóng ở mặt, đêm đổ mồ hôi ướt áo, phải thay giữa đêm. Em nghĩ bốc hỏa tuổi mãn kinh nên không nói. Ngủ không được nên em mua thuốc ngủ uống.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bừng nóng mặt, mồ hôi đêm ướt áo vài tháng; mất ngủ"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Em có ho ba bốn tuần nay, đầu khan, giờ có chút đờm trắng. Em nghĩ do bụi với nước tẩy. Không ho ra máu. Ho mạnh thì đau tức bên phải ngực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho 3–4 tuần, khan rồi đờm trắng ít, đau tức ngực phải khi ho; không ho ra máu"
+    },
+    {
+     "id": "sut_can_sot",
+     "noi_dung": "Em sụt bốn ký trong hai tháng, 51 xuống 47, tưởng do lo và ăn kém. Chiều chiều em ớn lạnh, người nóng rần, nhưng chưa đo bao giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sụt 4 kg/2 tháng; ớn lạnh, nóng rần buổi chiều, chưa đo nhiệt"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Em dọn buồng khoa Nội. Hơn hai tháng nay ông cụ buồng cuối ho dữ lắm, ho cả đêm; em lau giường lau sàn của ông, chỉ đeo khẩu trang vải. Nghe nói sau ông chuyển khoa lao. Nhà em có chồng với con gái hai mươi bốn tuổi, không có cháu nhỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc gần người ho kéo dài (sau chuyển khoa lao) ~2 tháng, chỉ đeo khẩu trang vải; sống cùng chồng và con gái 24 tuổi"
+    },
+    {
+     "id": "tuc_nguc",
+     "noi_dung": "Mấy tuần nay leo cầu thang bệnh viện em tức nặng giữa ngực, hồi hộp, hụt hơi, ngồi nghỉ là hết. Không lan lên vai, không vã mồ hôi lạnh. Đứng dậy nhanh em chóng mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tức nặng giữa ngực, hồi hộp, hụt hơi khi gắng sức, hết khi nghỉ; chóng mặt khi đứng dậy"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Em uống viên thuốc ngủ trắng nhỏ, vỉ ghi diazepam 5 mg, mua ở nhà thuốc không toa, mỗi tối một viên chừng sáu tháng. Ngoài ra không thuốc gì. Em không hút thuốc, không uống rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diazepam 5 mg/đêm ~6 tháng, tự mua; không thuốc khác; không thuốc lá, không rượu"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Vợ chồng em ít gần nhau, chồng hay xuất ngoài, ít khi dùng bao cao su. Lần gần nhất cách đây hai tuần. Em không đau khi quan hệ, không uống thuốc tránh thai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Quan hệ lần cuối 2 tuần trước, không biện pháp tránh thai chắc chắn; chưa mãn kinh nên phải loại thai"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Em chưa bị lao, bệnh gan, bệnh tim, huyết áp cao, cục máu đông. Nhổ răng hay bị thương không chảy máu lâu, trong nhà không ai bị bệnh máu.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không tiền sử lao, bệnh gan, huyết khối, rối loạn đông máu"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Thật ra em sợ nhất là nhồi máu cơ tim. Anh trai em 54 tuổi, ba tháng trước đang làm rẫy thì ngã, người ta nói nhồi máu. Em tức ngực như vậy thì sợ lắm nhưng ngại nói, sợ tốn tiền.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bác sĩ hỏi về tiền sử gia đình, hoặc hỏi 'điều gì làm chị lo nhất', hoặc hỏi riêng về triệu chứng tức ngực",
+     "k": 0,
+     "y": "Lý do thật: sợ nhồi máu cơ tim vì anh trai mất ba tháng trước"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy, xanh, mệt, nói ngắt quãng. Cao 155 cm, nặng 47 kg (BMI 19,6). Niêm mạc mắt, lòng bàn tay nhợt. Da ẩm mồ hôi, không vàng da, không phù.",
+     "k": 1,
+     "hien": "Chị gầy, xanh, niêm mạc mắt nhợt, trán lấm tấm mồ hôi."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: HA 100/62 mmHg, mạch 98 l/p. Đứng 3 phút: HA 94/60 mmHg, mạch 118 l/p; hoa mắt, phải vịn ghế.",
+     "k": 1,
+     "hien": "Nằm 5 phút: HA 100/62 mmHg, mạch 98 l/p. Đứng 3 phút: HA 94/60 mmHg, mạch 118 l/p; chị hoa mắt, phải vịn ghế."
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân. Không hạch cổ. Mắt không lồi, tay không run.",
+     "k": 0,
+     "hien": "Tuyến giáp không to; không hạch cổ; tay không run."
+    },
+    "tim": {
+     "a": "Tim nhanh đều, T1 T2 rõ, không âm thổi, không ngựa phi.",
+     "k": 1,
+     "hien": "Tim đều, nhịp nhanh.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp tim nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p. Dưới đòn phải: ran nổ nhỏ hạt, vài ran ẩm, rì rào giảm nhẹ. Phổi trái bình thường. Không ran rít.",
+     "k": 1,
+     "hien": "Lồng ngực cân đối, thở hơi nhanh, không khò khè.",
+     "media": [
+      {
+       "vi_tri": "Dưới đòn phải (phía trước)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt ở vùng dưới đòn phải."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm, hạ vị tức nhẹ, không khối, gan lách không to.",
+     "k": 0,
+     "hien": "Bụng mềm, ấn hạ vị hơi tức, không khối."
+    },
+    "phu_khoa": {
+     "a": "Mỏ vịt: máu đỏ sẫm lượng vừa ở âm đạo, máu rỉ từ lỗ ngoài cổ tử cung. Cổ tử cung nhẵn, hồng, không polyp, loét, sùi, mủ. Hai tay: tử cung ngả trước, kích thước bình thường, chắc, di động, lắc không đau; hai phần phụ không khối, không đau.",
+     "k": 1,
+     "hien": "Có máu đỏ sẫm trong âm đạo; cổ tử cung nhẵn, không polyp hay loét, không mủ. Tử cung không to, lắc không đau, hai phần phụ không đau."
+    },
+    "da": {
+     "a": "Không mụn trứng cá, rậm lông, bầm tím, phát ban.",
+     "k": 0,
+     "hien": "Không mụn, không rậm lông, không bầm tím."
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "e",
+     "r": "Que thử thai nước tiểu: ÂM TÍNH.",
+     "n": "Phụ nữ chưa mãn kinh ra máu bất thường phải loại thai trước (FIGO 2018, mục 6.1; QĐ 315/2015, Rong kinh rong huyết mục 2.2). Chị 49 tuổi, không tránh thai chắc chắn nên không được bỏ qua."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "Hb 86 g/L · Hct 0,272 · MCV 70,5 fL · BC 9,6 G/L · TC 438 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 9.6,
+      "neu_pct": 70.0,
+      "neu": 6.72,
+      "lym_pct": 20.0,
+      "lym": 1.92,
+      "mono_pct": 8.0,
+      "mono": 0.77,
+      "eos_pct": 1.0,
+      "eos": 0.1,
+      "baso_pct": 1.0,
+      "baso": 0.1,
+      "rbc": 3.86,
+      "hgb": 86,
+      "hct": 0.272,
+      "mcv": 70.5,
+      "mch": 22.3,
+      "mchc": 316,
+      "rdw": 17.4,
+      "plt": 438
+     },
+     "n": "Công thức máu cho mọi người ra máu nhiều (NICE NG88 2018, mục 1.2.6; FIGO 2018, mục 6.1). Hb 86 g/L là thiếu máu mức vừa (60 đến dưới 90 g/L, QĐ 1832/2022, Thiếu máu mục 2.1a), hồng cầu nhỏ nhược sắc (Thiếu máu thiếu sắt mục 4.1). Tiểu cầu và bạch cầu hơi tăng: lưu ý viêm."
+    },
+    "ferritin_sat": {
+     "v": "a",
+     "r": "Ferritin 9 ng/mL · sắt huyết thanh 3,8 µmol/L · độ bão hòa transferrin 7%.",
+     "ab": 1,
+     "n": "Thiếu sắt khi ferritin < 30 ng/mL và/hoặc bão hòa transferrin < 30% (QĐ 1832/2022, Thiếu máu thiếu sắt mục 4.1); BSG 2021: < 15 µg/L hết dự trữ, < 30 µg/L thiếu sắt, 45 µg/L khi có viêm. Viêm mạn gồm lao làm ferritin tăng (QĐ 1832, mục 4.3b) nên ferritin 9 càng chắc thiếu sắt. Không bắt buộc (FIGO 2018, mục 6.1)."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "TSH 1,6 mIU/L · FT4 trong giới hạn bình thường.",
+     "n": "Mồ hôi đêm, sụt cân, hồi hộp, tim nhanh gợi bệnh giáp nên làm TSH là hợp lý (NICE NG88 2018, mục 1.2.10; QĐ 315/2015, mục 2.1)."
+    },
+    "sa_chau": {
+     "v": "e",
+     "r": "Tử cung ngả trước 74 × 45 × 38 mm, cơ tử cung đồng nhất, không u xơ, không adenomyosis. Nội mạc dày 12 mm, đều, không thấy polyp. Hai buồng trứng nhỏ, không đa nang, không u. Không dịch túi cùng, không túi thai.",
+     "ab": 1,
+     "n": "Siêu âm phụ khoa nên làm sớm để tìm polyp, u xơ (QĐ 315/2015, mục 2.2; FIGO 2018, mục 6.5). Nội mạc 12 mm khi đang ra máu không loại được tăng sản/ung thư: vẫn cần lấy mẫu ở tuổi ≥ 45 (FIGO 2018, mục 6.4). Ngưỡng độ dày nội mạc để sinh thiết: không có trong tài liệu đã tải."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Điện tim 12 chuyển đạo: nhịp xoang nhanh 102 l/p, trục bình thường, không ST chênh, không T đảo, không block.",
+     "n": "Điện tim 12 chuyển đạo là công cụ đầu tay khi nghi hội chứng vành cấp (ESC ACS 2023, mục 3.2); anh trai chị mất vì nhồi máu."
+    },
+    "trop": {
+     "v": "u",
+     "r": "hs-troponin T: 6 ng/L (không tăng).",
+     "n": "hs-cTn dùng cho mọi người nghi hội chứng vành cấp (ESC ACS 2023, mục 3.3.1). Không bắt buộc vì đau gắng sức hết khi nghỉ và điện tim bình thường."
+    },
+    "cxr": {
+     "v": "e",
+     "r": "X-quang ngực thẳng: đám mờ không đồng nhất kèm đường mờ xơ ở vùng dưới đòn phải (phân thùy 1, 2 thùy trên), trong đó có một hang thành mỏng khoảng 1,8 cm, thành trong nhẵn. Không tràn dịch màng phổi. Bóng tim bình thường.",
+     "ab": 1,
+     "n": "Ho > 2 tuần kèm sụt cân, sốt chiều, mồ hôi đêm, đau ngực là nghi lao (QĐ 162/2024, Phần II mục 1.1 Bảng 1); X-quang là phương tiện chẩn đoán (mục 3.2.1b); hang, đông đặc phân thùy 1, 2 thùy trên (mục 1.2 Bảng 2)."
+    },
+    "xpert": {
+     "v": "e",
+     "r": "Đờm khạc sáng nay: Xpert MTB/RIF phát hiện M. tuberculosis mức độ trung bình, không phát hiện kháng rifampicin.",
+     "ab": 1,
+     "n": "Xpert là xét nghiệm ban đầu cho người nghi lao (QĐ 162/2024, Phần II mục 2.1a, Sơ đồ 2); MTB (+) là bằng chứng vi khuẩn (mục 3.2.2); không kháng R thì điều trị phác đồ hàng 1 (Sơ đồ 2 nhánh B, chú thích 10)."
+    },
+    "ct_nguc": {
+     "v": "u",
+     "r": "CT ngực (nếu có): đông đặc kèm hang đỉnh phải.",
+     "thay_the": "cxr",
+     "n": "Cơ sở không có CT; đã đủ bằng chứng bằng X-quang và Xpert (QĐ 162/2024, Phần II mục 3.2.2). CT chỉ đặt ra khi chưa có bằng chứng vi khuẩn (Sơ đồ 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn kinh nguyệt tiền mãn kinh: ra máu tử cung bất thường kéo dài 16 ngày sau chu kỳ thất thường, nghiêng về rối loạn phóng noãn (AUB-O theo FIGO), kèm thiếu máu thiếu sắt mức vừa do mất máu (Hb 86 g/L, ferritin 9)",
+     "ok": 1,
+     "n": "Chu kỳ 24–38 ngày thường có phóng noãn; ra máu rối loạn phóng noãn không đều (FIGO 2018, mục 6.2); hành kinh bình thường ≤ 8 ngày (Hình 1/Bảng 1). QĐ 315/2015, mục 1: > 7 ngày là rong huyết (ghi cả hai ngưỡng); mục 2.4.2: tiền mãn kinh cần loại ác tính. Thiếu máu (QĐ 1832/2022, Thiếu máu mục 2.1a, 3.1a)."
+    },
+    {
+     "t": "Lao phổi mới (MTB phát hiện, không kháng rifampicin; hang thùy trên phải): bệnh thứ hai cùng lúc, cần đăng ký và điều trị tại đơn vị chống lao",
+     "ok": 1,
+     "n": "Ho > 2 tuần, sụt cân, sốt chiều, mồ hôi đêm, đau ngực, tiếp xúc gần người ho (QĐ 162/2024, Phần II mục 1.1 Bảng 1, mục 1.3); Xpert MTB (+), hang (mục 3.2.2, Bảng 2). Tiền mãn kinh không giải thích bệnh này."
+    },
+    {
+     "t": "Triệu chứng tim mạch cơ năng do thiếu máu (tức ngực, hồi hộp, hụt hơi khi gắng sức, tim nhanh), chưa phải hội chứng vành cấp",
+     "ok": 1,
+     "n": "Tức ngực, hồi hộp, khó thở khi gắng sức là biểu hiện thiếu máu (QĐ 1832/2022, Thiếu máu mục 3.1a); điện tim bình thường, troponin không tăng, đau hết khi nghỉ (ESC ACS 2023, mục 3.2, 3.3.1)."
+    },
+    {
+     "t": "Có thai",
+     "n": "Loại trừ: que thử thai âm (FIGO 2018, mục 6.1), siêu âm không túi thai."
+    },
+    {
+     "t": "Bệnh tuyến giáp (cường giáp, nhược giáp)",
+     "n": "Loại trừ: tuyến giáp không to, tay không run, TSH 1,6 (NICE NG88 2018, mục 1.2.10)."
+    },
+    {
+     "t": "Hội chứng buồng trứng đa nang (PCOS)",
+     "n": "Loại trừ: chu kỳ đều đến 5–6 tháng trước, không cường androgen, buồng trứng không đa nang (International PCOS Guideline 2023, khuyến cáo 1.1.1, 1.4.4, 1.7.3)."
+    },
+    {
+     "t": "U xơ tử cung, polyp, adenomyosis và tăng sản/ung thư nội mạc (PALM-COEIN); chẩn đoán chị tự lo",
+     "n": "U xơ, adenomyosis ít khả năng: tử cung bình thường, cơ đồng nhất (FIGO 2018, mục 4.1, 6.5). Tăng sản/ung thư nội mạc chưa loại hẳn: ≥ 45 tuổi, ra máu dai dẳng, nội mạc 12 mm, cần lấy mẫu (FIGO 2018, mục 6.4; QĐ 315/2015, mục 2.4.2). Nói với chị: chưa có bằng chứng ung thư, sẽ làm xét nghiệm để biết chắc."
+    },
+    {
+     "t": "Viêm nhiễm sinh dục, bệnh lý đông máu",
+     "n": "Loại trừ: không sốt cao, không khí hư mủ, lắc cổ tử cung không đau; không tiền sử chảy máu, chưa có chỉ định xét nghiệm đông máu (NICE NG88 2018, mục 1.2.7; FIGO 2018, mục 6.3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chuyển hôm nay, không cần xe cấp cứu, đến đơn vị chống lao tuyến huyện đăng ký và điều trị lao phổi nhạy thuốc theo chương trình (thư giới thiệu: Xpert MTB (+), không kháng R, X-quang có hang)",
+     "v": "c",
+     "n": "MTB (+) không kháng R: phác đồ hàng 1 (QĐ 162/2024, Phần II Sơ đồ 2, chú thích 10); 2HRZE/4RHE (Phần III mục 2.1.2) hoặc 2HRZE/4HR (WHO 2025 Module 4, khuyến cáo 1.1; HH-1338). Đăng ký tối đa 3 ngày tại tuyến huyện (mục 7.2.1), điều trị ngoại trú (mục 7.2.3). Quy định phòng khám tư chuyển người nghi lao: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích: tiền mãn kinh chỉ giải thích được kinh nguyệt và có thể mồ hôi đêm, không giải thích ho, sốt chiều, sụt cân, hang trên X-quang; hai bệnh cùng lúc, cần điều trị cả hai",
+     "v": "c",
+     "n": "NICE NG23, mục 1.3.1: nhận diện tiền mãn kinh không xét nghiệm chỉ ở người khỏe mạnh. Ho > 2 tuần, sụt cân, mồ hôi đêm là nghi lao (QĐ 162/2024, Phần II mục 1.1 Bảng 1)."
+    },
+    {
+     "t": "Phòng lây: khẩu trang y tế, che miệng khi ho, nghỉ làm ở khoa bệnh đến khi đơn vị chống lao cho phép; báo y tế cơ quan; chồng và con gái đến khám sàng lọc tiếp xúc",
+     "v": "c",
+     "n": "QĐ 162/2024, Phần V mục 4.1 (vệ sinh ho khạc, khẩu trang); Phần IV mục 1.1.1 (người sống cùng nhà), mục 1.2.2 (người từ 5 tuổi: test nhiễm lao và loại trừ lao hoạt động). Thời điểm đi làm lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cầm máu không nội tiết: tranexamic acid 500 mg × 3 lần/ngày đến khi ngừng ra máu (tối đa 2.000 mg/24 giờ), hoặc NSAID",
+     "v": "c",
+     "n": "NICE NG88 2018, mục 1.5.3, 1.5.9–1.5.10; QĐ 456/2026, mục VIII: 250 hoặc 500 mg × 3 lần/ngày đến khi ngừng xuất huyết, tối đa 750–2.000 mg/24 giờ, không dùng khi tiền căn huyết khối (chị chưa có). Liều NSAID: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bổ sung sắt uống: 1 viên sắt sulfat/ngày (BSG 2021) hoặc 100–200 mg sắt/ngày (QĐ 1832/2022); tiếp tục 3 tháng sau khi Hb bình thường; kiểm công thức máu sau 1–2 tuần",
+     "v": "c",
+     "n": "BSG 2021, khuyến cáo 18, 20; QĐ 1832/2022, Thiếu máu mục 4.2.1a (2–4 viên 50 mg sắt/ngày; kiểm máu 1–2 tuần/lần), Thiếu máu thiếu sắt mục 5.1. Hai nguồn khác liều: ghi cả hai (TH-0990). Hb 86 g/L chưa phải mức truyền (QĐ 1832/2022, mục 4.1)."
+    },
+    {
+     "t": "Giải thích tức ngực, hồi hộp do thiếu máu; điện tim và troponin bình thường; đi cấp cứu ngay nếu tức ngực > 15 phút, lan vai, vã mồ hôi lạnh, ngất",
+     "v": "c",
+     "n": "QĐ 1832/2022, Thiếu máu mục 3.1a; ESC ACS 2023, mục 3.1, 3.2, 3.3.1. Kỹ thuật trấn an: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn lấy mẫu nội mạc tại tuyến chuyên khoa: sinh thiết qua soi buồng tử cung hoặc nạo niêm mạc; không sinh thiết mù tại phòng khám",
+     "v": "c",
+     "n": "FIGO 2018, mục 6.4 (từ 45 tuổi, ra máu dai dẳng); NICE NG88, mục 1.3.10–1.3.11 (sinh thiết khi soi, không mù); QĐ 315/2015, mục 3.2.2 (nạo niêm mạc, tuyến huyện trở lên): PK-0065. Thời điểm so với điều trị lao: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Progestogen uống chu kỳ (medroxyprogesterone 10 mg/ngày × 10 ngày) cầm máu",
+     "v": "a",
+     "n": "QĐ 315/2015, Bảng 1, mục 3.2.2; NICE NG88, mục 1.5.3. Không chọn đầu tay: rifampicin làm giảm tác dụng thuốc tránh thai (QĐ 162/2024, Phần III mục 3.1.2; CDC US MEC 2024, Bảng C1, D1); ảnh hưởng lên thuốc nội tiết cầm máu: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ghi nhận diazepam 5 mg mỗi đêm 6 tháng, không kê thêm, hẹn bàn giảm dần",
+     "v": "a",
+     "n": "Thuốc mất ngủ ngắn hạn, tối đa 4 tuần (ESRS 2023, mục 1.2, Bảng 16); hạn chế nhóm giải lo âu gây nghiện (QĐ 2058/2020, Bài 27 mục 4.1). Cách giảm liều, tương tác thuốc lao: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho chị về với thuốc cầm máu, thuốc sắt, chẩn đoán 'tiền mãn kinh', hẹn lại 2 tuần, không xử trí lao",
+     "v": "w",
+     "n": "Bỏ sót lao phổi có hang đang lây ở người làm trong bệnh viện: lao phải đăng ký tối đa 3 ngày (QĐ 162/2024, Phần III mục 7.2.1), phòng lây (Phần V mục 4.1)."
+    },
+    {
+     "t": "Nhập viện nội trú ngay chiều nay",
+     "v": "w",
+     "n": "Chưa có chỉ định: SpO₂ 96%, Hb 86 g/L chưa mất bù, không ho ra máu (QĐ 162/2024, Phần III mục 7.2.2; QĐ 1832/2022, mục 4.1)."
+    },
+    {
+     "t": "Tự kê thuốc chống lao tại phòng khám cho chị về uống",
+     "v": "w",
+     "n": "Cơ sở không có CT; kháng sinh thử chỉ khi chưa có bằng chứng vi khuẩn (QĐ 162/2024, Phần II Sơ đồ 1); Xpert đã dương tính nên làm chậm điều trị."
+    },
+    {
+     "t": "Chỉ định CT ngực hoặc kháng sinh phổ rộng thử 1–2 tuần",
+     "v": "a",
+     "n": "Cơ sở không có CT; kháng sinh thử chỉ khi chưa có bằng chứng vi khuẩn (QĐ 162/2024, Phần II Sơ đồ 1); Xpert đã dương tính nên làm chậm điều trị."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chẩn đoán 1: Rối loạn kinh nguyệt tiền mãn kinh, ra máu 16 ngày, rối loạn phóng noãn (AUB-O), kèm thiếu máu thiếu sắt mức vừa (Hb 86, ferritin 9) có triệu chứng tim mạch cơ năng (FIGO 2018, mục 6.1, 6.2; QĐ 1832/2022, Thiếu máu mục 2.1a, 3.1a)",
+     "Chẩn đoán 2 (cùng lúc): Lao phổi mới có hang thùy trên phải, Xpert MTB (+) không kháng rifampicin, nguồn lây từ người bệnh ở buồng chị lau dọn (QĐ 162/2024, Phần II mục 3.2.2, Sơ đồ 2)",
+     "Đã loại: có thai, bệnh giáp, PCOS, u xơ/adenomyosis, hội chứng vành cấp. Chưa loại: tăng sản/ung thư nội mạc, cần lấy mẫu (FIGO 2018, mục 6.4). Lý do thật: sợ nhồi máu cơ tim; yếu tố khởi phát: tiếp xúc người ho; thuốc: diazepam tự mua"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi 'điều gì làm chị lo nhất' → chu kỳ, ngày ra máu, lượng → từng triệu chứng ngoài kinh nguyệt (ho, sốt chiều, mồ hôi đêm, sụt cân, tức ngực) → tiếp xúc nơi làm việc, người sống cùng → thuốc → tình dục/tránh thai → khám toàn thân, huyết áp tư thế, phổi, tim, mỏ vịt, hai tay → que thử thai, công thức máu, X-quang ngực, Xpert, siêu âm, điện tim → chẩn đoán → xử trí (QĐ 315/2015, mục 2.1, 2.2; QĐ 162/2024, Phần II mục 1.1).",
+     "Dữ kiện KHÔNG được giải thích bởi chẩn đoán 1: ho > 2 tuần có đờm, sốt nhẹ chiều (37,8 °C), sụt 4 kg, đau tức ngực phải khi ho, ran nổ đỉnh phải, tiếp xúc người ho, hang trên X-quang (QĐ 162/2024, Phần II mục 1.1 Bảng 1, mục 1.2 Bảng 2). Mồ hôi đêm có thể do tiền mãn kinh (NICE NG23, mục 1.3.1) nhưng cũng nghi lao: không đóng hồ sơ sau khi tìm được một nguyên nhân (premature closure).",
+     "Chị tự tra đúng một phần nên nguy hiểm: NICE NG23 mục 1.3.1 nhận diện tiền mãn kinh không xét nghiệm chỉ ở người khỏe mạnh. Bốn chẩn đoán phải loại: thai (que thử), giáp (TSH), PCOS (International PCOS Guideline 2023, khuyến cáo 1.1.1), u xơ (siêu âm); ung thư nội mạc chưa loại (FIGO 2018, mục 6.4). Tức ngực, tim nhanh do thiếu máu (QĐ 1832/2022, mục 3.1a); điện tim, troponin bình thường trả lời nỗi sợ thật. Không có CT: Xpert (+) và X-quang có hang đã đủ (QĐ 162/2024, mục 3.2.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Việc đầu tiên: lao phổi đang lây, đăng ký tối đa 3 ngày tại đơn vị chống lao huyện (QĐ 162/2024, Phần III mục 7.2.1); phác đồ do đơn vị chống lao kê. Phòng lây, nghỉ làm ở khoa bệnh, sàng lọc người sống cùng.",
+     "Rối loạn kinh nguyệt: tranexamic acid (QĐ 456/2026, mục VIII; NICE NG88 mục 1.5.3, 1.5.9); rifampicin làm giảm hiệu quả thuốc nội tiết (QĐ 162/2024, mục 3.1.2; CDC US MEC 2024). Sắt: ghi cả hai liều (BSG 2021; QĐ 1832/2022). Lấy mẫu nội mạc: nạo (QĐ 315/2015) hoặc sinh thiết qua soi (NICE NG88; FIGO 2018).",
+     "Không cấp cứu, không nhập viện: điện tim và troponin bình thường (ESC ACS 2023, mục 3.2, 3.3.1). Ngưỡng ra máu nhiều (băng/giờ): không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Tranexamic acid",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg × 3 lần/ngày (tối đa 2.000 mg/24 giờ)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn",
+      "so_ngay": "Đến khi ngừng ra máu",
+      "ghi_chu": "QĐ 456/2026, mục VIII; NICE NG88, mục 1.5.3, 1.5.9, 1.5.10. Tác dụng phụ: đau bụng, buồn nôn (QĐ 456/2026). Không dùng khi tiền căn huyết khối: chị chưa có."
+     },
+     {
+      "thuoc": "Sắt (II) sulfat + acid folic",
+      "ham_luong": "50 mg sắt/viên (hoặc sắt sulfat 200 mg/viên theo BSG)",
+      "lieu": "2 viên/ngày (QĐ 1832) hoặc 1 viên sắt sulfat 200 mg/ngày (BSG)",
+      "duong": "Uống",
+      "thoi_diem": "Lúc đói, hoặc trong bữa nếu khó chịu dạ dày; cùng nước cam",
+      "so_ngay": "3–6 tháng, thêm 3 tháng sau khi Hb bình thường",
+      "ghi_chu": "QĐ 1832/2022, Thiếu máu mục 4.2.1a, Thiếu máu thiếu sắt mục 5.1, 5.2; BSG 2021, khuyến cáo 18, 20."
+     },
+     {
+      "thuoc": "Thuốc chống lao (H, R, Z, E)",
+      "ham_luong": "Theo cân nặng 47 kg, do đơn vị chống lao kê",
+      "lieu": "2HRZE/4RHE (QĐ 162) hoặc 2HRZE/4HR (WHO 2025)",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi ngày, có giám sát",
+      "so_ngay": "6 tháng",
+      "ghi_chu": "Không kê tại phòng khám. QĐ 162/2024, Phần III mục 2.1.2, 7.2.1, 7.2.3; WHO 2025 Module 4, khuyến cáo 1.1."
+     },
+     {
+      "thuoc": "Diazepam (chị tự dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "Giữ 1 viên/đêm, không kê thêm",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Hẹn bàn giảm dần",
+      "ghi_chu": "ESRS 2023, mục 1.2, Bảng 16 (≤ 4 tuần); QĐ 2058/2020, Bài 27 mục 4.1. Tương tác, cách giảm liều: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Chị bị lao phổi, chữa khỏi nếu uống đủ thuốc, đủ ngày (QĐ 162/2024, Phần III mục 1.2, 1.4). Đến đơn vị chống lao huyện hôm nay, tối đa 3 ngày phải đăng ký (mục 7.2.1).",
+     "Đeo khẩu trang, che miệng khi ho, bỏ khăn giấy vào thùng kín, mở cửa phòng thoáng; nghỉ làm ở khoa đến khi được phép (QĐ 162/2024, Phần V mục 4.1, 4.2). Chồng và con gái đi sàng lọc (Phần IV mục 1.1.1).",
+     "Tức ngực do thiếu máu, tim đã kiểm tra bình thường. Cấp cứu ngay nếu đau ngực > 15 phút, vã mồ hôi lạnh, ngất (ESC ACS 2023, mục 3.1).",
+     "Uống đủ thuốc cầm máu và sắt (sắt làm phân đen, không phải xuất huyết tiêu hóa: QĐ 1832/2022, mục 5.2); ra máu nhiều, chóng mặt muốn ngất: quay lại ngay. Rifampicin làm giảm tác dụng thuốc tránh thai, dùng bao cao su (QĐ 162/2024, mục 3.1.2; NICE NG23 mục 1.2.3).",
+     "Quay lại sau 2–3 tuần kiểm máu, theo dõi ra máu, hẹn lấy mẫu nội mạc. Mắt vàng, chán ăn, buồn nôn, nước tiểu sẫm: đến ngay (QĐ 162/2024, Phần III mục 5.3.4a)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 tuần",
+   "tiep_don": "Ba tuần sau lần trước, chị Mận quay lại một mình lúc 15 giờ. Chị đã đăng ký ở đơn vị chống lao huyện và uống thuốc lao 19 ngày; ra máu âm đạo đã hết, tức ngực đỡ nhiều, nhưng bốn ngày nay mệt rũ, chán ăn, buồn nôn. Sinh hiệu: mạch 92 l/p, HA 104/64 mmHg, nhiệt độ 37,2 °C, nhịp thở 20 l/p, SpO₂ 97%; cân nặng 46 kg.",
+   "ket_luan": "nhap_vien",
+   "neu_sai": {
+    "ve_hen": "Chị Mận về với toa 'uống thuốc lao sau bữa tối cho đỡ buồn nôn' và thuốc bổ gan, tiếp tục uống đủ bốn thuốc. Vài ngày sau chị vàng da đậm, lơ mơ, người nhà đưa vào viện muộn. Men gan > 10 lần giới hạn trên đòi hỏi ngừng toàn bộ thuốc lao, điều trị tại bệnh viện; tăng bilirubin và rối loạn đông máu là tiên lượng xấu (QĐ 162/2024, Phần III mục 5.3.4a).",
+    "theo_doi": "Chị Mận được bỏ riêng pyrazinamid, giữ hai thuốc còn lại, hẹn xét nghiệm lại sau một tuần tại phòng khám. Rifampicin và isoniazid vẫn gây độc gan trên nền ALT gần 8 lần và bilirubin > 3 mg/dL, trong khi QĐ 162/2024, Phần III mục 3.1.3 nêu men gan ≥ 5 lần (hoặc ≥ 3 lần kèm vàng da) phải dừng ngay. Chị về nhà không ai theo dõi, nguy cơ nặng lên giữa chừng."
+   },
+   "loi_mo": "Dạ bác sĩ, em hết ra máu rồi, mừng lắm, tức ngực cũng đỡ. Mà mấy hôm nay em mệt rũ, ăn vô là buồn nôn. Em đọc mạng thì chắc tại thuốc sắt gây ra, bác sĩ cho em bỏ thuốc sắt đi. Thuốc lao thì em không dám bỏ đâu, trạm dặn rồi.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "104/64",
+    "nhiet": "37,2",
+    "nhip_tho": 20,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mấy hôm nay em mệt, chán ăn, ăn vô là buồn nôn, em nghĩ tại thuốc sắt. Em xin bỏ thuốc sắt thôi, thuốc lao em uống đều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Mệt, chán ăn, buồn nôn 4 ngày; nghi thuốc sắt, xin bỏ sắt"
+    },
+    {
+     "id": "mat_vang",
+     "noi_dung": "Chồng em nói mắt em vàng. Nước tiểu sậm như nước trà đặc ba bữa nay, người ngứa, tức nặng dưới sườn bên phải. Em không để ý trước đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mắt vàng, nước tiểu sậm 3 ngày, ngứa, tức hạ sườn phải"
+    },
+    {
+     "id": "thuoc_lao",
+     "noi_dung": "Đơn vị chống lao cấp thuốc một tháng, em uống một lần buổi sáng lúc đói, bốn năm viên, được mười chín ngày, không bỏ buổi nào. Họ có dặn thử men gan nhưng chưa tới hẹn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Uống thuốc chống lao 19 ngày, đủ liều; chưa có xét nghiệm men gan theo dõi"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Mấy hôm đầu buồn nôn và nhức đầu, em mua thuốc cảm có paracetamol uống hai ba lần mỗi ngày chừng năm sáu ngày, tưởng thuốc cảm thì lành. Em chưa nói ai.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bác sĩ hỏi tất cả thuốc tự mua, thuốc cảm, thuốc giảm đau, thuốc nam, hoặc giải thích vì sao cần biết (thuốc có thể hại gan)",
+     "k": 0,
+     "y": "Paracetamol (thuốc cảm) 2–3 lần/ngày × 5–6 ngày; yếu tố góp phần"
+    },
+    {
+     "id": "kinh",
+     "noi_dung": "Em uống thuốc cầm máu năm hôm là hết ra máu, em ngưng rồi. Thuốc sắt em vẫn uống, phân đen. Leo cầu thang đỡ tức ngực nhiều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đã hết ra máu, ngừng tranexamic; vẫn uống sắt; tức ngực đỡ"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho giảm nhiều, hết sốt chiều, hết đổ mồ hôi đêm. Em vẫn đeo khẩu trang, ngủ riêng, chưa đi làm lại. Em không uống rượu, không thuốc nam, chưa bị bệnh gan. Vẫn một viên diazepam mỗi tối.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ho, sốt chiều, mồ hôi đêm giảm; ngủ riêng, đeo khẩu trang, nghỉ làm"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Chồng em chụp phổi bình thường. Con gái em chụp phổi bình thường nhưng thử máu tìm lao dương tính, họ hẹn bàn thuốc phòng cho cháu sau.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chồng X-quang bình thường; con gái X-quang bình thường, test nhiễm lao dương tính, chưa điều trị"
+    },
+    {
+     "id": "tu_tra",
+     "noi_dung": "Em đọc mạng nói thuốc sắt làm vàng da, thuốc lao thì hại gan nhưng em sợ bỏ thuốc lao rồi bệnh nặng thêm. Nên em chỉ muốn bỏ thuốc sắt.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tự tra: đổ thuốc sắt, sợ bỏ thuốc lao; nhiễu từ mạng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Mệt, gầy (46 kg), tỉnh táo, không run vẫy. Da niêm vàng nhẹ, niêm mạc hồng hơn lần trước. Vài vết gãi ở cẳng tay, không phù, không chấm xuất huyết.",
+     "k": 1,
+     "hien": "Chị mệt, gầy, da hơi vàng; có vài vết gãi ở cẳng tay."
+    },
+    "mat": {
+     "a": "Củng mạc vàng rõ hai mắt, kết mạc hồng, thị lực và nhìn màu bình thường.",
+     "k": 1,
+     "hien": "Lòng trắng hai mắt vàng; thị lực bình thường."
+    },
+    "bung": {
+     "a": "Bụng mềm. Gan to 2 cm dưới bờ sườn phải, mềm, ấn đau nhẹ hạ sườn phải, Murphy âm tính, lách không sờ thấy, không dịch ổ bụng.",
+     "k": 1,
+     "hien": "Ấn hạ sườn phải hơi đau, gan to 2 cm dưới bờ sườn, bụng mềm, không dịch."
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Dưới đòn phải còn vài ran nổ nhỏ hạt, ít hơn lần trước; phổi trái bình thường.",
+     "k": 0,
+     "hien": "Thở đều, không khò khè, lồng ngực cân đối.",
+     "media": [
+      {
+       "vi_tri": "Dưới đòn phải (phía trước)",
+       "id": "AT-PHOI-RAN-NO-01",
+       "chu": "Ran nổ nhỏ hạt ở vùng dưới đòn phải, ít hơn lần trước."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, nhịp không nhanh.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1 T2 bình thường, không âm thổi."
+      }
+     ]
+    },
+    "da": {
+     "a": "Da vàng nhẹ; không ban, không mề đay, không bầm tím, vài vết gãi.",
+     "k": 0,
+     "hien": "Da vàng nhẹ, không ban, vài vết gãi."
+    }
+   },
+   "cls": {
+    "liver": {
+     "v": "e",
+     "r": "AST 268 U/L · ALT 312 U/L (bình thường < 40 U/L).",
+     "ab": 1,
+     "n": "Theo dõi men gan khi dùng thuốc chống lao, làm ngay khi có triệu chứng (QĐ 162/2024, Phần III mục 5.1.3, Bảng 4 dòng 10). ALT 312 U/L ≈ 7,8 lần giới hạn trên."
+    },
+    "chuc_nang_gan": {
+     "v": "e",
+     "r": "Bilirubin toàn phần 62 µmol/L (≈ 3,6 mg/dL), trực tiếp 41 µmol/L · ALP 210 U/L · GGT 150 U/L · albumin 36 g/L · INR 1,2.",
+     "ab": 1,
+     "n": "Bilirubin trên 3 mg/dL kèm men gan cao: dừng điều trị lao ngay (QĐ 162/2024, Phần III mục 3.1.3); bilirubin và rối loạn đông máu là yếu tố tiên lượng (mục 5.3.4a). INR 1,2: chưa rối loạn đông máu."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 98 g/L · Hct 0,305 · MCV 74,2 fL · BC 7,8 G/L · TC 360 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 7.8,
+      "neu_pct": 62.0,
+      "neu": 4.84,
+      "lym_pct": 28.0,
+      "lym": 2.18,
+      "mono_pct": 7.0,
+      "mono": 0.55,
+      "eos_pct": 2.0,
+      "eos": 0.16,
+      "baso_pct": 1.0,
+      "baso": 0.08,
+      "rbc": 4.11,
+      "hgb": 98,
+      "hct": 0.305,
+      "mcv": 74.2,
+      "mch": 23.8,
+      "mchc": 321,
+      "rdw": 16.0,
+      "plt": 360
+     },
+     "n": "Hb tăng 12 g/L sau 3 tuần; theo dõi 1–2 tuần/lần đến Hb 100 g/L (QĐ 1832/2022, Thiếu máu mục 4.2.1a); BSG 2021, khuyến cáo 20."
+    },
+    "huyet_thanh_hav_hev": {
+     "v": "a",
+     "r": "IgM anti-HAV âm, IgM anti-HEV âm, IgM anti-HBc âm (HBsAg, anti-HCV âm như lượt 1).",
+     "n": "Viêm gan do thuốc chỉ chẩn đoán sau khi loại căn nguyên khác (QĐ 162/2024, Phần III mục 5.3.3, dòng Viêm gan; mục 3.1.3c). Làm hay không đều chấp nhận."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Siêu âm bụng: gan to nhẹ, nhu mô đồng nhất, không ổ khu trú; đường mật trong và ngoài gan không giãn; túi mật không sỏi; không dịch ổ bụng; lách bình thường.",
+     "n": "Loại trừ tắc mật, tổn thương khu trú; chỉ định siêu âm riêng cho viêm gan do thuốc lao: không có trong tài liệu đã tải (lập luận lâm sàng)."
+    },
+    "ct_bung": {
+     "n": "Không cần và cơ sở không có CT: siêu âm đủ để loại tắc mật; vàng da kèm men gan cao sau thuốc lao là viêm gan do thuốc (QĐ 162/2024, Phần III mục 5.3.4a)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm gan do thuốc chống lao (rifampicin, isoniazid, pyrazinamid) mức nặng: ALT 312 U/L (≈ 7,8 lần giới hạn trên), bilirubin 3,6 mg/dL, buồn nôn, vàng da, ngứa; tuần điều trị thứ 3",
+     "ok": 1,
+     "n": "Chán ăn, buồn nôn, đau hạ sườn phải, vàng da, vàng mắt, tăng men gan và bilirubin (QĐ 162/2024, Phần III mục 5.3.4a). Dừng ngay khi ≥ 5 lần, hoặc ≥ 3 lần kèm vàng da (bilirubin > 3 mg/dL) (mục 3.1.3); 5–10 lần cân nhắc ngừng toàn bộ hoặc một số, > 10 lần ngừng toàn bộ (mục 5.3.4a): ghi cả hai (sổ, HH-1300)."
+    },
+    {
+     "t": "Lao phổi có hang thùy trên phải đang điều trị tuần 3, đáp ứng lâm sàng tốt (hết sốt, đỡ ho, tăng khả năng gắng sức)",
+     "ok": 1,
+     "n": "Xpert MTB (+) không kháng R, phác đồ hàng 1 (QĐ 162/2024, Phần II Sơ đồ 2, chú thích 10); giữ liên tục điều trị lao bằng phác đồ ít độc gan do chuyên khoa chọn (Phần III mục 5.3.3, 5.3.4a)."
+    },
+    {
+     "t": "Rối loạn kinh nguyệt tiền mãn kinh đã ngừng ra máu; thiếu máu thiếu sắt đang hồi phục (Hb 98 g/L); chưa lấy mẫu nội mạc",
+     "ok": 1,
+     "n": "FIGO 2018, mục 6.4: ra máu dai dẳng ở ≥ 45 tuổi cần lấy mẫu nội mạc; Hb 98 g/L là thiếu máu nhẹ (90–120 g/L, QĐ 1832/2022, Thiếu máu mục 2.1a)."
+    },
+    {
+     "t": "Viêm gan virus cấp (A, B, C, E)",
+     "n": "Loại trừ: HBsAg, anti-HCV, IgM anti-HAV, anti-HEV, anti-HBc IgM âm (QĐ 162/2024, Phần III mục 5.3.3: loại căn nguyên khác)."
+    },
+    {
+     "t": "Tắc mật, sỏi đường mật, tổn thương gan khu trú",
+     "n": "Loại trừ: siêu âm đường mật không giãn, không sỏi."
+    },
+    {
+     "t": "Buồn nôn do thuốc sắt hoặc tranexamic acid",
+     "n": "Không giải thích được men gan cao 7–8 lần, bilirubin cao, vàng da. Buồn nôn nhẹ do thuốc lao: dùng sau bữa tối, tiếp tục (QĐ 162/2024, mục 5.3.3); tranexamic acid gây buồn nôn (QĐ 456/2026, mục VIII); sắt làm phân đen (QĐ 1832/2022, mục 5.2). Vàng da do sắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Paracetamol (thuốc cảm tự mua) dùng cùng thuốc lao",
+     "n": "Yếu tố góp phần cần dừng; mức đóng góp: không có trong tài liệu đã tải. Chị giấu vì tưởng thuốc cảm lành."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Ngừng ngay thuốc chống lao gây độc gan (isoniazid, rifampicin, pyrazinamid), báo đơn vị chống lao đang quản lý và chuyển nhập viện hôm nay đến bệnh viện có khoa lao và tiêu hóa, kèm thư (ALT 312, bilirubin 3,6 mg/dL); điều trị hỗ trợ gan và phác đồ ít độc gan do chuyên khoa",
+     "v": "c",
+     "n": "QĐ 162/2024, Phần III mục 3.1.3: ≥ 5 lần, hoặc ≥ 3 lần kèm vàng da (bilirubin > 3 mg/dL): dừng ngay. Mục 5.3.4a: 5–10 lần cân nhắc ngừng toàn bộ hoặc một số thuốc, điều trị hỗ trợ, đánh giá bilirubin và đông máu; > 10 lần ngừng toàn bộ, điều trị tại bệnh viện. Mục 5.3.3: lao nặng không ngừng được thì streptomycin + ethambutol kèm fluoroquinolon. Hai mục khác chữ: ghi cả hai (HH-1300)."
+    },
+    {
+     "t": "Hỏi lại toàn bộ thuốc tự mua; ngừng paracetamol, thuốc cảm, thuốc nam và thuốc không cần thiết có thể hại gan",
+     "v": "c",
+     "n": "Phải loại căn nguyên khác trước khi kết luận viêm gan do thuốc lao (QĐ 162/2024, Phần III mục 5.3.3). Mức đóng góp paracetamol: không có trong tài liệu đã tải; lập luận lâm sàng."
+    },
+    {
+     "t": "Hoàn tất loại căn nguyên khác và tiên lượng: HBsAg, anti-HCV, IgM viêm gan A/E, siêu âm gan mật, bilirubin, INR, albumin; không làm chậm chuyển viện",
+     "v": "c",
+     "n": "QĐ 162/2024, Phần III mục 5.3.3 (loại căn nguyên khác), mục 5.3.4a (tiên lượng xấu: tăng bilirubin, rối loạn đông máu), mục 3.1.3c (viêm gan cấp đồng thời với lao)."
+    },
+    {
+     "t": "Giải thích: vàng da và men gan cao do thuốc lao, không phải thuốc sắt; không tự bỏ thuốc sắt theo mạng, cũng không tự bỏ hay uống tiếp thuốc lao: ngừng thuốc lao do bác sĩ quyết",
+     "v": "c",
+     "n": "QĐ 162/2024, Phần III mục 1.2, 1.4 (đủ liều, đủ thời gian), mục 5.3.3 (ngừng thuốc nghi ngờ). Vàng da do thuốc sắt, cách nói với người tự tra mạng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Rối loạn kinh nguyệt: ngừng tranexamic acid vì hết ra máu; sắt uống tiếp nếu nuốt được; theo dõi Hb; lấy mẫu nội mạc (sinh thiết qua soi hoặc nạo niêm mạc) khi viêm gan ổn định",
+     "v": "c",
+     "n": "QĐ 456/2026, mục VIII; BSG 2021, khuyến cáo 20; QĐ 1832/2022, mục 4.2.1a; FIGO 2018, mục 6.4; NICE NG88, mục 1.3.10–1.3.11; QĐ 315/2015, mục 3.2.2 (PK-0065). Thời điểm làm thủ thuật so với viêm gan: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục phòng lây, nghỉ làm đến khi đơn vị chống lao cho phép; con gái có test nhiễm lao dương tính cần đơn vị chống lao đánh giá điều trị lao tiềm ẩn",
+     "v": "c",
+     "n": "QĐ 162/2024, Phần V mục 4.1; Phần IV mục 1.2.2, 2.2. Thời điểm đi làm lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, thuốc lao uống sau bữa tối, thêm thuốc bổ gan, hẹn xét nghiệm lại sau một tuần",
+     "v": "w",
+     "n": "'Uống sau bữa tối' chỉ cho buồn nôn nhẹ (QĐ 162/2024, Phần III mục 5.3.3); ở mức này phải dừng ngay (mục 3.1.3) hoặc cân nhắc ngừng (mục 5.3.4a); không có người theo dõi."
+    },
+    {
+     "t": "Ngừng riêng pyrazinamid, giữ isoniazid và rifampicin, theo dõi men gan tại phòng khám",
+     "v": "a",
+     "n": "QĐ 162/2024, Phần III mục 5.3.4a cho phép ngừng một số thuốc ở mức 5–10 lần nhưng kèm điều trị tích cực, bệnh viện (mục 3.1.3 dừng ngay). Chỉ an toàn khi chuyên khoa lao quyết trong bệnh viện."
+    },
+    {
+     "t": "Chỉ định CT bụng tìm nguyên nhân vàng da",
+     "v": "a",
+     "n": "Cơ sở không có CT; siêu âm đủ loại tắc mật, CT không đổi quyết định hôm nay."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chẩn đoán 1: Viêm gan do thuốc chống lao (H, R, Z) mức nặng: ALT 312 U/L, AST 268 U/L, bilirubin 3,6 mg/dL, buồn nôn, vàng da, ngứa; tuần 3 (QĐ 162/2024, Phần III mục 3.1.3, 5.3.4a)",
+     "Chẩn đoán 2: Lao phổi có hang đang điều trị, đáp ứng lâm sàng; chẩn đoán 3: Rối loạn kinh nguyệt tiền mãn kinh đã ngừng ra máu, thiếu máu thiếu sắt đang hồi phục (Hb 98), chưa lấy mẫu nội mạc (FIGO 2018, mục 6.4)",
+     "Đã loại: viêm gan virus cấp, tắc mật, buồn nôn đơn thuần do sắt/tranexamic acid. Yếu tố góp phần: paracetamol tự mua. Chẩn đoán chị tự tra (thuốc sắt gây vàng da): sai"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi triệu chứng mới (mắt vàng, nước tiểu, ngứa, đau hạ sườn) → mọi thuốc đang uống kể cả tự mua → tiền sử gan, rượu → khám củng mạc, bụng, gan → men gan, bilirubin, INR, công thức máu, huyết thanh viêm gan, siêu âm bụng → chẩn đoán → xử trí.",
+     "Triệu chứng mới đắt giá: buồn nôn riêng lẻ khi uống rifampicin là tác dụng phụ nhẹ, tiếp tục dùng (QĐ 162/2024, mục 5.3.3); nhưng chán ăn, đau hạ sườn phải, vàng da kèm tăng men gan, bilirubin là viêm gan do thuốc (mục 5.3.4a). Điểm gãy: chị đổ buồn nôn cho thuốc sắt và bác sĩ dễ gật đầu bỏ sắt rồi cho về; người > 35 tuổi cần theo dõi men gan 4–6 tuần (mục 5.3.4a), chị chưa có xét nghiệm nào sau 19 ngày.",
+     "Ngưỡng: ≥ 3 lần kèm vàng da hoặc ≥ 5 lần là dừng ngay (QĐ 162/2024, mục 3.1.3); 5–10 lần cân nhắc ngừng toàn bộ hoặc một số (mục 5.3.4a): ALT ≈ 7,8 lần và bilirubin > 3 mg/dL thỏa cả hai, nên nhập viện."
+    ],
+    "phan_tich_xu_tri": [
+     "Nhập viện, không cho về: ngừng thuốc gây độc gan, điều trị hỗ trợ gan, đánh giá bilirubin và đông máu, phác đồ ít độc gan do chuyên khoa (QĐ 162/2024, Phần III mục 3.1.3, 5.3.3, 5.3.4a); tái điều trị từng thuốc khi men gan < 2 lần giới hạn trên (mục 3.1.3).",
+     "Nhiễu tự tra mạng: công nhận chị chủ động nghĩ đến thuốc, nói rõ vàng da và men gan khớp thuốc lao hơn thuốc sắt, dặn không tự bỏ thuốc theo mạng.",
+     "Rối loạn kinh nguyệt ưu tiên sau viêm gan: ngừng tranexamic acid khi hết ra máu (QĐ 456/2026, mục VIII), tiếp tục sắt, lấy mẫu nội mạc khi ổn định (FIGO 2018, mục 6.4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Isoniazid, rifampicin, pyrazinamid",
+      "ham_luong": "Theo phác đồ đã cấp",
+      "lieu": "NGỪNG",
+      "duong": "Uống",
+      "thoi_diem": "Ngừng ngay hôm nay",
+      "so_ngay": "Đến khi chuyên khoa quyết",
+      "ghi_chu": "QĐ 162/2024, Phần III mục 3.1.3, 5.3.4a. Tái dùng khi men gan < 2 lần giới hạn trên (mục 3.1.3)."
+     },
+     {
+      "thuoc": "Ethambutol, streptomycin, fluoroquinolon (phác đồ ít độc gan)",
+      "ham_luong": "Do chuyên khoa kê",
+      "lieu": "Không kê tại phòng khám",
+      "duong": "Theo chuyên khoa",
+      "thoi_diem": "Tại bệnh viện",
+      "so_ngay": "Theo chuyên khoa",
+      "ghi_chu": "QĐ 162/2024, Phần III mục 5.3.3, 5.3.4a. Liều: do chuyên khoa (Phụ lục 6)."
+     },
+     {
+      "thuoc": "Sắt (II) sulfat + acid folic",
+      "ham_luong": "50 mg sắt/viên",
+      "lieu": "2 viên/ngày hoặc 1 viên sắt sulfat 200 mg/ngày (BSG)",
+      "duong": "Uống",
+      "thoi_diem": "Trong bữa ăn nếu buồn nôn",
+      "so_ngay": "Tiếp tục, bệnh viện quyết",
+      "ghi_chu": "QĐ 1832/2022, mục 4.2.1a; BSG 2021, khuyến cáo 18, 20."
+     },
+     {
+      "thuoc": "Tranexamic acid; paracetamol, thuốc cảm tự mua",
+      "ham_luong": "Không áp dụng",
+      "lieu": "NGỪNG",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng",
+      "ghi_chu": "Tranexamic acid: đến khi ngừng xuất huyết (QĐ 456/2026, mục VIII). Paracetamol: lập luận lâm sàng; vai trò: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Chị cần nằm viện hôm nay: mắt vàng và men gan cao do thuốc lao, không phải thuốc sắt (QĐ 162/2024, Phần III mục 5.3.4a). Không tự bỏ hay tự uống tiếp thuốc lao.",
+     "Không uống thêm thuốc cảm, giảm đau, thuốc nam; khai hết thuốc cho bác sĩ bệnh viện.",
+     "Cấp cứu ngay nếu lơ mơ, nôn nhiều, chảy máu, vàng da đậm hơn (QĐ 162/2024, mục 5.3.4a).",
+     "Đeo khẩu trang, ngủ riêng, chưa đi làm lại (Phần V mục 4.1). Con gái đến đơn vị chống lao bàn lao tiềm ẩn (Phần IV mục 1.2.2).",
+     "Sau ổn định: lấy mẫu nội mạc (FIGO 2018, mục 6.4), kiểm công thức máu."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Mận nhập viện cùng ngày; men gan giảm dần sau khi ngừng ba thuốc, và chuyên khoa tái điều trị lao từng thuốc một (QĐ 162/2024, Phần III mục 3.1.3). Điểm gãy của chuỗi quyết định nằm trước cả hai lần khám: hai tháng chị ho trong buồng bệnh mà không ai hỏi, mồ hôi đêm và rối loạn kinh nguyệt khớp quá đẹp với bài đọc 'tiền mãn kinh'; nếu bác sĩ lượt 1 cũng dừng ở đó thì lao có hang tiếp tục lây trong khoa Nội. Biến chứng gắn với việc bỏ sót: hang phổi, thiếu máu thiếu sắt mức vừa, con gái nhiễm lao tiềm ẩn, rồi viêm gan do thuốc khi chưa có xét nghiệm men gan theo dõi. Ca tốt hơn nhờ ba việc: không đóng hồ sơ ở chẩn đoán tự tra, hỏi từng triệu chứng, dừng thuốc đúng ngưỡng.",
+ "nhieu": [
+  "Chẩn đoán tự tra (tiền mãn kinh): chị đúng một phần nên dễ khiến bác sĩ dừng ở rối loạn kinh nguyệt, gạt ho, sốt chiều, sụt cân, mồ hôi đêm. Công nhận phần đúng rồi hỏi tiếp từng triệu chứng (NICE NG23, mục 1.3.1 chỉ áp dụng cho người khỏe mạnh).",
+  "Lý do thật (sợ nhồi máu cơ tim vì anh trai mất): chỉ lộ khi hỏi 'điều gì làm chị lo nhất'; điện tim và hs-troponin bình thường trả lời nỗi sợ (ESC ACS 2023, mục 3.2, 3.3.1).",
+  "Lượt 2: chị tự gán buồn nôn cho thuốc sắt theo mạng, giấu việc uống thuốc cảm có paracetamol, không dám bỏ thuốc lao nên chỉ xin bỏ thuốc sắt; bác sĩ dễ gật đầu và cho về."
+ ],
+ "bai_hoc_bien": [
+  "Không đóng hồ sơ khi tìm được một chẩn đoán: tiền mãn kinh không giải thích ho > 2 tuần, sụt cân, sốt chiều, hang trên X-quang (QĐ 162/2024, Phần II mục 1.1 Bảng 1, mục 3.2.2).",
+  "Phụ nữ chưa mãn kinh ra máu: thử thai (FIGO 2018, mục 6.1), công thức máu (NICE NG88, mục 1.2.6); ≥ 45 tuổi ra máu dai dẳng thì lấy mẫu nội mạc, không sinh thiết mù (FIGO 2018, mục 6.4; NICE NG88, mục 1.3.11).",
+  "Tức ngực, hồi hộp khi gắng sức có thể do thiếu máu (QĐ 1832/2022, Thiếu máu mục 3.1a); điện tim và hs-troponin loại hội chứng vành cấp (ESC ACS 2023, mục 3.2, 3.3.1).",
+  "Lao: đăng ký tối đa 3 ngày (QĐ 162/2024, Phần III mục 7.2.1), phòng lây (Phần V mục 4.1), sàng lọc người sống cùng (Phần IV mục 1.1.1).",
+  "Viêm gan do thuốc lao: dừng ngay khi men gan ≥ 5 lần hoặc ≥ 3 lần kèm vàng da (QĐ 162/2024, Phần III mục 3.1.3); buồn nôn nhẹ thì tiếp tục (mục 5.3.3). Hỏi mọi thuốc tự mua."
+ ],
+ "diem_nho": [
+  "Chu kỳ bình thường 24–38 ngày, hành kinh ≤ 8 ngày (FIGO 2018, mục 6.2, Hình 1/Bảng 1); ra máu > 7 ngày là rong kinh/rong huyết (QĐ 315/2015, mục 1).",
+  "Thiếu máu vừa: Hb 60 đến dưới 90 g/L (QĐ 1832/2022, Thiếu máu mục 2.1a); thiếu sắt: ferritin < 30 ng/mL và/hoặc bão hòa transferrin < 30% (Thiếu máu thiếu sắt mục 4.1).",
+  "Ho > 2 tuần là triệu chứng nghi lao quan trọng nhất (QĐ 162/2024, Phần II mục 1.1 Bảng 1).",
+  "Tranexamic acid 250–500 mg × 3 lần/ngày đến khi ngừng xuất huyết, tối đa 750–2.000 mg/24 giờ (QĐ 456/2026, mục VIII).",
+  "Viêm gan do thuốc lao: 5–10 lần cân nhắc ngừng, > 10 lần ngừng toàn bộ (QĐ 162/2024, mục 5.3.4a)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 315/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa – TL-0036 – bài Rong kinh rong huyết: mục 1, 2.1, 2.2, 2.4.2, 3.2, 3.2.2, Bảng 1.",
+  "FIGO 2018 – Munro MG và cs., Int J Gynaecol Obstet 2018;143(3):393–408 – TL-0642 – mục 3.1, 4.1, 6.1–6.5; Hình 1, Bảng 1.",
+  "NICE NG88 2018 (cập nhật 2026), Heavy menstrual bleeding – TL-0640 – mục 1.2.6, 1.2.7, 1.2.10, 1.3.10, 1.3.11, 1.5.3, 1.5.9, 1.5.10 (viết cho kinh nhiều; ca tham khảo).",
+  "Bộ Y tế – QĐ 456/QĐ-BYT 2026, Xử trí u xơ cơ tử cung (kho cũ; bản chữ lỗi mã hóa nhưng đọc được liều) – mục VIII, tranexamic acid.",
+  "NICE NG23 Menopause (kho cũ) – mục 1.2.3, 1.3.1, 1.3.4; International PCOS Guideline 2023 (Teede HJ và cs.) – TL-0624 – khuyến cáo 1.1.1, 1.4.4, 1.7.3.",
+  "Bộ Y tế – QĐ 162/QĐ-BYT 2024, Chẩn đoán, điều trị và dự phòng bệnh lao – TL-0123 – Phần II mục 1.1 Bảng 1, 1.2 Bảng 2, 1.3, 2.1a, 3.2.1, 3.2.2, Sơ đồ 1, 2; Phần III mục 1.2, 1.4, 2.1.2, 3.1.2, 3.1.3, 5.1.3 (Bảng 4), 5.3.3, 5.3.4a, 7.2.1–7.2.3; Phần IV mục 1.1.1, 1.2.2, 2.2; Phần V mục 4.1, 4.2.",
+  "WHO Consolidated guidelines on TB, Module 4 (2025) – TL-0132 – khuyến cáo 1.1; CDC US MEC 2024 – TL-0620 – Bảng C1, D1 (rifampin).",
+  "Bộ Y tế – QĐ 1832/QĐ-BYT 2022, Một số bệnh lý huyết học (kho cũ) – Thiếu máu mục 2.1a, 3.1a, 4.1, 4.2.1a; Thiếu máu thiếu sắt mục 4.1, 4.3b, 5.1, 5.2. BSG 2021 (Snook J và cs., Gut) – TL-0219 – khuyến cáo 18, 20, mục ferritin.",
+  "ESC 2023, Acute coronary syndromes – TL-0069 – mục 3.1, 3.2, 3.3.1; ESRS 2023, European Insomnia Guideline – TL-0464 – mục 1.2, Bảng 16; Bộ Y tế – QĐ 2058/QĐ-BYT 2020 – TL-0443 – Bài 27 mục 4.1."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 2026-11-19. Đã đọc: TL-0036 (Rong kinh rong huyết); TL-0642 (6.1–6.5); TL-0640 (1.2–1.5); QĐ 456/2026; NICE NG23 (1.2.3, 1.3); TL-0624; TL-0123 (Phần II–V các mục trong nguon); QĐ 1832/2022; TL-0219 (khuyến cáo 17–20); TL-0069 (3.1–3.3); CDC MEC 2024; TL-0464; QĐ 2058/2020.",
+  "Chỗ thiếu tài liệu (đã ghi trong ca): ngưỡng nội mạc để sinh thiết; liều NSAID; ảnh hưởng rifampicin lên thuốc nội tiết cầm máu; thời điểm lấy mẫu nội mạc so với lao và viêm gan; quy định phòng khám tư chuyển người nghi lao; thời điểm nhân viên y tế đi làm lại; tương tác và cách giảm diazepam; vai trò paracetamol; vàng da do sắt; liều phác đồ thay thế; kỹ thuật trấn an.",
+  "Thiết kế: lượt 1 chuyen_tuyen (neu_sai ve_hen, nhap_vien); lượt 2 nhap_vien (neu_sai ve_hen, theo_doi). Mạch 104 dùng tệp tim nhanh; ran nổ nhỏ hạt đỉnh phải khớp tệp AT-PHOI-RAN-NO-01 (chữ trong hien không nêu ran). CT khóa nên ct_nguc khai thay_the cxr. Không ảnh da, không mục danh mục mới.",
+  "Mâu thuẫn: không có mâu thuẫn thật mới; áp dụng mục có sẵn (nạo so với sinh thiết qua soi, PK-0065; sắt BSG so với QĐ 1832, TH-0990; ngưỡng men gan hai mục QĐ 162, HH-1300; 2HRZE/4HR so với 4RHE, HH-1338; rong huyết 7 so với 8 ngày). Ghi nhận thêm: xem PK-0057_mau_thuan.md."
+ ]
+}
