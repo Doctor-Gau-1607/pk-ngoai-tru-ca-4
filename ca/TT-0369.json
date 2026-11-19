@@ -1,0 +1,763 @@
+{
+ "ma_ca": "TT-0369",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TT_roi_loan_an_uong",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn ăn uống (sàng lọc)",
+  "chan_doan_phai_loai_tru": [
+   "Cường giáp",
+   "Bệnh tiêu hóa"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có X-quang",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh (lớp 9, học thêm buổi tối, ôn thi vào lớp 10)",
+  "yeu_to_khoi_phat": "Sau stress công việc (áp lực học tập lớp 9: ôn thi vào lớp 10, học thêm kín lịch, thi thử điểm thấp hơn kỳ vọng)",
+  "thuoc_dang_dung": "Thuốc dị ứng tự mua (loratadin khi hắt hơi, nghẹt mũi)",
+  "ly_do_that_su_den_kham": "Muốn được truyền dịch (tin truyền nước biển giúp có sức học mà không phải ăn)"
+ },
+ "benh_nhan": {
+  "ten": "Lương Tuấn Kiệt",
+  "tuoi": 14,
+  "gioi": "Nam",
+  "nghe": "Học sinh lớp 9, học thêm Toán, Anh, Lý buổi tối, ôn thi vào lớp 10 chuyên",
+  "can_nang": 41,
+  "chieu_cao": 166,
+  "xung_ho": "Bác sĩ gọi em là 'em' hoặc 'Kiệt'. Kiệt xưng 'em', gọi bác sĩ là 'bác sĩ'. Mẹ (chị Quyên) xưng 'tôi' hoặc 'mẹ cháu', gọi con là 'cháu' hoặc 'Kiệt', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Ngoan, ít nói, học giỏi, cầu toàn, rất sợ làm mẹ thất vọng. Trả lời ngắn 'dạ không sao', né khi hỏi chuyện ăn và cân nặng; mở lòng khi được hỏi riêng, không bị trách và không bị dọa nhập viện. Thấy mình 'to bụng', nghĩ cả ngày về chuyện ăn.",
+  "kieu_nhieu": "Giấu tiền sử: mẹ nói 'trước giờ cháu khỏe mạnh', Kiệt phụ họa, giấu việc năm ngoái từng nằm khoa nhi 12 ngày vì chán ăn tâm thần rồi tự ngừng theo dõi. Giấy ra viện mẹ cất trong tủ. Chỉ kể khi bác sĩ hỏi nhẹ nhàng, không phán xét, nhất là khi hỏi riêng em hoặc nói rõ mục đích là chữa bệnh. Mẹ còn kể lệch, nói thay con, cho rằng truyền nước biển là bổ.",
+  "nguoi_nha": "Mẹ, chị Quyên, 41 tuổi, bán hàng tạp hóa, đi cùng cả hai lượt. Thương con, lo thi cử, hay nói thay con và nhắc 'ăn đi con' làm Kiệt bực. Sợ hàng xóm gán con 'bệnh tâm thần'. Không biết con tập luyện thêm mỗi tối và cân nhiều lần mỗi ngày.",
+  "ten_nguoi_nha": "Chị Quyên (mẹ, 41 tuổi)",
+  "ngoai_hinh": {
+   "da": "#e0b48f",
+   "toc": "#1c1714",
+   "kieuToc": "ngan",
+   "ao": "#8a97a8",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d9a984",
+    "toc": "#2b221d",
+    "kieuToc": "buoc",
+    "ao": "#a8566b",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mệt, chóng mặt, ăn không vô, đầy bụng; mẹ xin truyền nước biển cho con",
+ "khoa_cls": {
+  "nhom": [
+   "xquang"
+  ],
+  "loi_bao": "Cơ sở không có máy X-quang."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 14 tuổi, học sinh lớp 9, mẹ đưa đến khám vì ba tháng nay ăn ít, mệt, đứng dậy hay xây xẩm, hay đầy bụng. Mẹ xin cho con truyền nước biển cho có sức đi học và ôn thi. Em có dùng thuốc dị ứng tự mua khi hắt hơi. Sinh hiệu lúc tiếp đón: mạch 52 l/p, HA 92/54 mmHg, nhiệt 35,8 °C, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 41 kg, cao 166 cm.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Kiệt được cho về với lời dặn 'cố ăn nhiều lên', có thể kèm một chai nước biển, không được giới thiệu chuyên khoa. Em vẫn bỏ bữa vì tin truyền dịch đã 'nạp đủ sức', trong khi rối loạn ăn uống cần được đánh giá và điều trị sớm, nhất là khi sụt cân nhanh (NICE NG69 2017, 1.2.1, 1.2.2, 1.2.10). Em đã từng tự ngừng theo dõi một lần, nên một buổi khám không có đầu mối chuyên khoa dễ khiến gia đình 'đợi thi xong rồi tính', cân nặng tiếp tục rơi.",
+    "nhap_vien": "Kiệt bị nhập viện nội khoa ngay để truyền dịch và nuôi ăn dù K 3,7 mmol/L, QTc 428 ms, không ngất, mất nước chỉ nhẹ. NICE NG69 2017 1.10.3 chỉ đặt chăm sóc nội khoa cấp cho điện giải nặng, suy dinh dưỡng nặng, mất nước nặng hoặc dấu hiệu suy cơ quan; 1.11.2 không dùng ngưỡng cân hay BMI tuyệt đối; 1.11.3 cân nhắc thêm cha mẹ có giữ an toàn cho con được không. Em coi nhập viện là hình phạt vì 'không chịu ăn', mẹ sợ hàng xóm biết, dễ giấu bữa ăn và bỏ điều trị về sau."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Cháu nhà tôi mấy bữa nay mệt, đứng lên là xây xẩm, ăn không vô, hay đầy bụng. Bác sĩ cho cháu truyền chai nước biển cho có sức, nó sắp thi thử rồi tôi lo lắm. Trước giờ cháu khỏe mạnh, không bệnh tật gì hết.",
+   "sinh_hieu": {
+    "mach": 52,
+    "ha": "92/54",
+    "nhiet": "35,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mẹ kể ba tháng nay Kiệt ăn ít, mệt, chóng mặt khi đứng dậy, đầy bụng sau ăn. Mẹ xin truyền nước biển cho con có sức học vì sắp thi thử. Mẹ nói 'trước giờ cháu khỏe mạnh'. Kiệt ngồi cạnh, cúi đầu, chỉ nói 'dạ em mệt'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: mệt, xây xẩm, đầy bụng; xin truyền dịch"
+    },
+    {
+     "id": "sut_can",
+     "noi_dung": "Cân nặng 52 kg khoảng 6 tháng trước, 50 kg vào tháng 8, nay 41 kg; ba tháng gần đây sụt khoảng 9 kg. Mẹ thấy con gầy đi, mặc áo rộng. Kiệt nói 'em vẫn thấy mình mập, nhất là bụng với đùi'. Chiều cao học bạ năm lớp 8 là 164 cm, nay 166 cm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sụt cân nhanh, hình ảnh cơ thể méo mó, chiều cao tăng chậm"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Khoảng 5 tháng nay Kiệt bỏ bữa sáng, bữa trưa ở trường chỉ ăn rau hoặc cho bạn, bữa tối ăn ít cơm, tránh đồ chiên, đồ ngọt, tinh bột. Em ghi lượng ăn vào sổ, cân mình 3–4 lần mỗi ngày, sợ ăn vào là 'không dừng được'. Em uống nước lọc nhiều cho đỡ đói. Không nôn, không dùng thuốc nhuận tràng hay lợi tiểu, không ăn dồn từng cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ăn hạn chế, theo dõi calo, cân nhiều lần, sợ mất kiểm soát; không thanh lọc"
+    },
+    {
+     "id": "van_dong",
+     "noi_dung": "Tối nào Kiệt cũng tập bụng và chạy tại chỗ khoảng nửa giờ sau giờ học thêm 'cho đỡ mập', kể cả hôm mệt. Em không nói với mẹ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Vận động quá mức để giảm cân"
+    },
+    {
+     "id": "ap_luc_hoc",
+     "noi_dung": "Kiệt học thêm Toán, Anh, Lý năm buổi mỗi tuần đến 21–22 giờ, ngủ khoảng 5–6 tiếng. Thi thử Toán tháng trước điểm thấp hơn kỳ vọng. Mẹ mong con thi vào lớp 10 chuyên; em sợ làm mẹ thất vọng. Em bắt đầu ăn ít từ khi 'kiểm soát được chuyện ăn thì thấy mình giỏi hơn'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: áp lực học tập, ôn thi vào lớp 10"
+    },
+    {
+     "id": "tien_su_cu",
+     "noi_dung": "Tháng 9 năm ngoái (lớp 8) Kiệt sụt xuống 40 kg, nằm khoa nhi bệnh viện tỉnh 12 ngày, bác sĩ nói là chán ăn tâm thần. Em được ăn lại theo kế hoạch, lên cân dần đến 52 kg hồi tháng 5, rồi đi tái khám tâm lý ba buổi thì mẹ cho nghỉ vì 'con khỏe lại, béo lên', ngại hàng xóm biết con trai bị bệnh tâm thần. Giấy ra viện mẹ cất trong tủ. Từ tháng 6 em lại ăn ít dần.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Mẹ nói trước giờ con khỏe, Kiệt phụ họa. Chỉ kể khi bác sĩ hỏi nhẹ nhàng, không phán xét về những lần chuyện ăn uống hay cân nặng từng làm em hoặc gia đình lo, hoặc từng đi khám hay nằm viện; dễ nói hơn khi bác sĩ nói rõ mục đích là để chữa, không trách, hoặc khi hỏi riêng em (mời mẹ ra ngoài một lát).",
+     "y": "Tiền sử chán ăn tâm thần đã nhập viện, ngừng theo dõi sớm: tái phát"
+    },
+    {
+     "id": "tieu_hoa",
+     "noi_dung": "Kiệt no sớm, đầy bụng, đau thượng vị mơ hồ sau ăn, táo bón nhẹ. Các triệu chứng này xuất hiện sau khi em ăn rất ít, không đau về đêm, không sốt, không nôn, không tiêu chảy, không phân đen hay máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiêu hóa cơ năng, không dấu hiệu bệnh thực thể"
+    },
+    {
+     "id": "khong_cuong_giap",
+     "noi_dung": "Kiệt không hồi hộp, không run, không đổ mồ hôi, không nóng bứt rứt; ngược lại em hay thấy lạnh, tay chân lạnh, ngủ chập chờn vì đói. Không tiêu chảy.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có hội chứng cường giáp"
+    },
+    {
+     "id": "tam_trang_scoff",
+     "noi_dung": "Khí sắc không buồn, còn thích đá bóng với bạn cuối tuần nhưng ngại ăn chung. Không ý nghĩ tự hại. Về các câu SCOFF: không tự gây nôn; sợ mất kiểm soát lượng ăn; sụt hơn 6,3 kg trong 3 tháng; thấy mình mập dù mọi người nói gầy; chuyện ăn chi phối cả ngày. Tức 4 trong 5 câu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ trầm cảm, tự hại; SCOFF 4/5"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Kiệt tự mua thuốc dị ứng loratadin ở nhà thuốc, uống một viên khi hắt hơi, nghẹt mũi, khoảng 1–2 lần mỗi tuần. Không dùng thuốc giảm cân, nhuận tràng, lợi tiểu hay thực phẩm chức năng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng: thuốc dị ứng tự mua"
+    },
+    {
+     "id": "bi_treu",
+     "noi_dung": "Hồi hè một bạn cùng lớp trêu Kiệt là 'bụng bự' khi đi bơi. Em không kể với ai.",
+     "che_do": "giau",
+     "k": 0,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng em về bạn bè, trường lớp, có bị trêu chọc hay bắt nạt không.",
+     "y": "Có thể là yếu tố nguy cơ, cần hỏi (NICE NG69 1.1.2)"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Kiệt nghĩ chai nước biển có đường sẽ 'nạp đủ sức' để học mà không phải ăn, nhất là bữa tối trước giờ học thêm. Trong đợt nằm viện năm ngoái em được truyền dịch lúc đầu và nhớ 'truyền xong là khỏe'. Em sợ nhất bị ép ăn.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói thật khi bác sĩ hỏi riêng, bình tĩnh: em mong gì khi truyền nước, em nghĩ truyền nước giúp được gì, hay em thấy khó chỗ nào khi ăn.",
+     "y": "Lý do thật: muốn truyền dịch để thay bữa ăn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, rất gầy, má hóp, mặc áo rộng. Cân nặng 41 kg, cao 166 cm, BMI 14,9 kg/m², thấp hơn P5 theo tuổi và giới (bảng bách phân vị BMI theo tuổi: không có trong tài liệu đã tải). Da khô, lông tơ mịn ở lưng và cánh tay, tay chân lạnh, đầu ngón hơi tím. Không phù, không vàng da. Dậy thì: lông mu Tanner 2–3.",
+     "k": 1,
+     "hien": "Rất gầy, má hóp, tay chân lạnh."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 92/54 mmHg, mạch 52 l/p; đứng 3 phút 82/50 mmHg, mạch 76 l/p, choáng nhẹ, không ngất.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không âm thổi. Không lồi mắt, không co kéo mi. Không hạch cổ. Răng không mòn men.",
+     "k": 1
+    },
+    "run_nghi": {
+     "a": "Không run khi duỗi tay, không run lúc nghỉ. Lòng bàn tay khô, lạnh.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, chậm 52 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 52 l/p."
+    },
+    "bung": {
+     "a": "Bụng lõm, mềm, ấn đau nhẹ mơ hồ vùng thượng vị, không điểm đau khu trú, không phản ứng thành bụng, gan lách không to, nhu động ruột bình thường.",
+     "k": 1
+    },
+    "suc_co": {
+     "a": "Gốc chi giảm nhẹ: ngồi xổm đứng lên phải vịn.",
+     "k": 0,
+     "hien": "Ngồi xổm đứng lên phải vịn."
+    },
+    "tam_than": {
+     "a": "Lễ phép, hợp tác, nói ít, né tránh khi hỏi chuyện ăn và cân nặng, lo lắng rõ khi nói về hình dáng. Khí sắc không trầm, tư duy mạch lạc, không hoang tưởng, không ảo giác. Không ý tưởng tự sát hay tự hại.",
+     "k": 1,
+     "hien": "Lễ phép, kín đáo, lo lắng khi nói về cân nặng."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "BC 3,7 G/L · Hb 128 g/L · TC 205 G/L",
+     "bang": {
+      "wbc": 3.7,
+      "neu_pct": 40.0,
+      "neu": 1.48,
+      "lym_pct": 50.0,
+      "lym": 1.85,
+      "mono_pct": 8.0,
+      "mono": 0.3,
+      "eos_pct": 1.5,
+      "eos": 0.06,
+      "baso_pct": 0.5,
+      "baso": 0.02,
+      "rbc": 4.7,
+      "hgb": 128,
+      "hct": 0.39,
+      "mcv": 83.0,
+      "mch": 27.2,
+      "mchc": 328,
+      "rdw": 12.9,
+      "plt": 205
+     },
+     "n": "Bạch cầu giảm nhẹ, không nhiễm trùng; không đặc hiệu. Xét nghiệm máu có trong QĐ 2058/2020 Bài 26 mục 3.1.2; ý nghĩa của bạch cầu giảm: không có trong tài liệu đã tải."
+    },
+    "glu": {
+     "v": "a",
+     "r": "4,1 mmol/L",
+     "n": "Đường máu thấp-bình thường khi ăn rất ít; NICE NG69 2017 1.2.6 nêu hạ đường huyết không giải thích được là gợi ý rối loạn ăn uống."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 138 · K 3,7 · Cl 101 mmol/L",
+     "bang": {
+      "na": 138,
+      "k": 3.7,
+      "cl": 101
+     },
+     "n": "Bình thường; không có hành vi thanh lọc. Cần để loại mức nặng cần chăm sóc cấp (NICE NG69 2017 1.10.1, 1.10.3)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 8,2 mmol/L · Creatinin 62 µmol/L · eGFR 118 mL/ph/1,73m²",
+     "bang": {
+      "ure": 8.2,
+      "creat": 62,
+      "egfr": 118
+     },
+     "ab": 1,
+     "n": "Ure tăng nhẹ gợi mất nước nhẹ, thận bảo tồn (mất nước nặng là tiêu chí chăm sóc cấp: NICE NG69 2017 1.10.3)."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang chậm 52 l/p, QTc 428 ms, không block, không loạn nhịp, sóng T bình thường.",
+     "ab": 1,
+     "n": "NICE NG69 2017 1.10.2: xét ECG khi sụt cân nhanh, nhịp chậm, hạ huyết áp, vận động quá mức; mạch 52 chưa tới ví dụ mạch < 40 hay QT dài của tiêu chí nhập viện (1.11.3). QĐ 2058/2020 Bài 26 mục 3.1.2 có điện tâm đồ."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 1,6 mIU/L · FT4 13 pmol/L (trong giới hạn của phòng xét nghiệm)",
+     "n": "TSH bình thường loại trừ nhiễm độc giáp (ATA 2016 mục B2, tr. 1348); QĐ 2058/2020 Bài 26 mục 3.1.2 có hormon tuyến giáp."
+    },
+    "crp": {
+     "v": "a",
+     "r": "CRP 1,0 mg/L",
+     "bang": {
+      "crp": 1.0
+     },
+     "n": "Không viêm, ủng hộ không phải bệnh viêm ruột. Ngưỡng và vai trò của CRP trong rối loạn ăn uống: không có trong tài liệu đã tải."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Tỷ trọng 1,026 · ceton + · bạch cầu, nitrit, protein, glucose, hồng cầu âm tính",
+     "bang": {
+      "u_sg": 1.026,
+      "u_ph": 5.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_glu": "Âm tính",
+      "u_ket": "+",
+      "u_bil": "Âm tính",
+      "u_ubg": "Bình thường",
+      "u_ery": "Âm tính"
+     },
+     "ab": 1,
+     "n": "Nước tiểu cô đặc, ceton (+) do ăn quá ít; xét nghiệm nước tiểu có trong QĐ 2058/2020 Bài 26 mục 3.1.2."
+    },
+    "celiac": {
+     "v": "a",
+     "r": "Anti-tTG IgA âm tính",
+     "n": "Kém hấp thu, celiac là chẩn đoán phân biệt (QĐ 2058/2020 Bài 26 mục 3.2); không bắt buộc, âm tính củng cố loại trừ."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Gan, thận, tụy bình thường; quai ruột ít hơi, thành ruột không dày; không dịch ổ bụng.",
+     "n": "QĐ 2058/2020 Bài 26 mục 3.1.2 có siêu âm ổ bụng; thay cho X-quang bụng khi cơ sở không có X-quang."
+    },
+    "xq_bung": {
+     "v": "n",
+     "r": "Cơ sở không có X-quang.",
+     "thay_the": "abdus",
+     "n": "Không cần: đau bụng mơ hồ, khám bụng mềm, không dấu tắc ruột; nếu cần hình ảnh thì siêu âm bụng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chán ăn tâm thần tái phát, thể hạn chế (ICD-11 6B80, ICD-10 F50.0), cân nặng thấp rõ: BMI 14,9 kg/m² dưới P5 theo tuổi, sụt khoảng 21% trong 6 tháng",
+     "ok": 1,
+     "n": "Sụt từ 52 xuống 41 kg trong khoảng 6 tháng (21%), ăn hạn chế, ghi calo, cân nhiều lần, tập luyện quá mức, sợ mất kiểm soát ăn, thấy mình mập, tiền sử cùng bệnh đã nhập viện năm ngoái. ICD-11: BMI theo tuổi dưới bách phân vị 5 ở trẻ và thiếu niên, hoặc sụt trên 20% trong 6 tháng có thể thay cho tiêu chí cân nặng thấp (WHO ICD-11 CDDR 2024, 6B80, tr. 398); 6B80.0 hay 6B80.1 tùy BMI theo tuổi nằm giữa P5–P0,3 hay dưới P0,3 (tr. 399), bảng bách phân vị: không có trong tài liệu đã tải. ICD-10: cân nặng thấp hơn ít nhất 15% so với cân phải có, tránh thức ăn gây béo, luyện tập quá mức, hình ảnh thân thể méo mó do sợ béo; trước dậy thì thì không đạt cân phải có trong thời kỳ lớn (QĐ 2058/2020 Bài 26 mục 3.1.1). ICD-10 tính theo % cân nặng, ICD-11 theo bách phân vị BMI theo tuổi hoặc % sụt; cả hai cùng cho kết quả ở ca này. Thể hạn chế (6B80.x0, tr. 400) vì không nôn hay dùng thuốc thanh lọc. Chẩn đoán đã có từ lần nhập viện trước; lần này là tái phát sau khi ngừng theo dõi (NICE NG69 2017 1.2.8: không dùng một số đo như BMI hay thời gian bệnh để quyết định điều trị)."
+    },
+    {
+     "t": "Nhịp xoang chậm, hạ huyết áp tư thế và mất nước nhẹ do suy dinh dưỡng: mạch 52 l/p, đứng 82/50 mmHg mạch tăng 24 l/p, ure 8,2, ceton niệu +; chưa đạt mức chăm sóc cấp",
+     "ok": 1,
+     "n": "Hạ huyết áp tư thế, nhịp chậm, nhịp nhanh tư thế, hạ thân nhiệt là yếu tố nguy cơ y khoa độc lập với cân nặng (WHO ICD-11 CDDR 2024, 6B80, tr. 400). K 3,7, QTc 428 ms, đường huyết 4,1 và mất nước nhẹ chưa đạt điện giải nặng, suy dinh dưỡng nặng, mất nước nặng hay suy cơ quan (NICE NG69 2017 1.10.3) nên chuyển chuyên khoa kèm theo dõi thể chất; không dùng ngưỡng BMI tuyệt đối để nhập viện (1.11.2)."
+    },
+    {
+     "t": "Tiền sử chán ăn tâm thần đã nhập khoa nhi 12 ngày, ngừng tái khám sau ba buổi; yếu tố khởi phát tái phát là áp lực học tập ôn thi vào lớp 10",
+     "ok": 1,
+     "n": "Nguy cơ cao nhất ở tuổi 13–17 (NICE NG69 2017 1.2.4); khởi phát hay sau biến cố căng thẳng, nhiều người diễn tiến mạn tính (WHO ICD-11 CDDR 2024, 6B80, tr. 401); QĐ 2058/2020 Bài 26 mục 5 nêu có thể mạn tính. Tiền sử bị giấu nên phải hỏi lại không phán xét."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Loại trừ: mạch chậm 52 l/p, tay chân lạnh, không run, không nóng, tuyến giáp không to, không lồi mắt, TSH 1,6 mIU/L (ATA 2016 mục B2, tr. 1348: TSH là xét nghiệm sàng lọc đầu tiên, nhạy và đặc hiệu nhất). Sụt cân ở đây đi cùng ăn rất ít, không phải tăng chuyển hóa; ICD-11 cũng yêu cầu hạn chế ăn không do bệnh cơ thể khác như cường giáp (6B83, tr. 411)."
+    },
+    {
+     "t": "Bệnh tiêu hóa (viêm loét dạ dày, bệnh Crohn, celiac, kém hấp thu)",
+     "n": "Loại trừ: no sớm, đầy bụng, đau thượng vị nhẹ xuất hiện sau khi ăn rất ít; không sốt, không tiêu chảy, không máu trong phân, không đau đêm; CRP 1,0, anti-tTG âm tính, siêu âm bụng bình thường. Bệnh cơ thể thường có căn nguyên thực thể rõ và người bệnh nhận biết sụt cân, không tin mình mập như chán ăn tâm thần (QĐ 2058/2020 Bài 26 mục 3.2). Ở trẻ, đau bụng và 'không đói' có thể là cách trình bày của chán ăn tâm thần (WHO ICD-11 CDDR 2024, 6B80, tr. 401); NICE NG69 2017 1.2.6 cũng nêu đau bụng đi cùng hạn chế ăn mà bệnh cơ thể không giải thích hết."
+    },
+    {
+     "t": "Trầm cảm hoặc rối loạn lo âu là bệnh chính",
+     "n": "Loại trừ lúc này: khí sắc không trầm, còn thích đá bóng, không tự hại, không ám ảnh nào khác ngoài chuyện cân nặng; trầm cảm gây sụt cân do mất ngon nhưng không méo mó hình ảnh cơ thể (QĐ 2058/2020 Bài 26 mục 3.2). Vẫn phải hỏi lại tự hại và lo âu theo thời gian vì bệnh liên quan trầm cảm, nguy cơ tự sát cao (Bài 26 mục 1; NICE NG69 2017 1.2.9)."
+    },
+    {
+     "t": "Rối loạn ăn uống tránh – hạn chế thức ăn (ARFID)",
+     "n": "Loại trừ: hành vi ăn không phải do không thích vị hay sợ nghẹn, nôn, mà do lo cân nặng và dáng người. ICD-11 6B83 đòi hỏi kiểu ăn không do bận tâm cân nặng, dáng người (WHO ICD-11 CDDR 2024, 6B83, tr. 410–411)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích bình tĩnh, nghiêm túc, không đổ lỗi cho em hay mẹ: đây không phải cường giáp hay bệnh dạ dày; cơ thể đang thiếu năng lượng; lần khám này đã là một phần điều trị",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 26 mục 4.3: thăm khám ban đầu xem như trị liệu, thái độ nghiêm túc nhưng thân thiện; NICE NG69 2017 1.1.3, 1.1.4: hỏi người bệnh và gia đình hiểu gì về bệnh, sửa quan niệm sai, nhớ rằng gia đình có thể thấy có lỗi."
+    },
+    {
+     "t": "Giới thiệu ngay dịch vụ rối loạn ăn uống tại cộng đồng phù hợp lứa tuổi (khoa tâm thần nhi, tâm lý), phối hợp nhà dinh dưỡng; phòng khám giữ việc theo dõi thể chất",
+     "v": "c",
+     "n": "NICE NG69 2017 1.2.10: nghi rối loạn ăn uống thì giới thiệu ngay; 1.3.1, 1.3.20: hỗ trợ đa chuyên ngành, theo dõi cân nặng, sức khỏe thể chất; 1.3.10: liệu pháp gia đình tập trung vào chán ăn tâm thần cho trẻ và thiếu niên. QĐ 2058/2020 Bài 26 mục 4.1, 4.3: kết hợp tâm lý, dinh dưỡng, liệu pháp gia đình."
+    },
+    {
+     "t": "Không truyền dịch theo yêu cầu: giải thích truyền dịch không thay được bữa ăn; bù nước bằng đường uống, ăn theo kế hoạch của nhà dinh dưỡng",
+     "v": "c",
+     "n": "NICE NG69 2017 1.10.4: bù điện giải đường uống trừ khi hấp thu tiêu hóa kém hoặc rối loạn nặng; QĐ 2058/2020 Bài 26 mục 4.3: nuôi dưỡng đường tĩnh mạch chỉ 'trong những trường hợp cần thiết'. Hai nguồn không mâu thuẫn: ca này mất nước nhẹ, uống được, không có điện giải nặng. Việc truyền dịch củng cố niềm tin 'truyền thay ăn' là suy luận lâm sàng."
+    },
+    {
+     "t": "Không nhịn đói: ăn đều ba bữa chính và bữa phụ theo kế hoạch của nhà dinh dưỡng; đa vitamin–khoáng chất phù hợp tuổi; không tập luyện thêm để giảm cân",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 26 mục 4.3: không được nhịn đói, ăn đều đặn thức ăn giàu năng lượng; NICE NG69 2017 1.3.21: đa vitamin–khoáng chất; 1.3.23: tư vấn ăn bổ sung cho nhu cầu tăng trưởng và dậy thì; 1.10.8: ngừng luyện tập quá mức. Năng lượng và số bữa cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hướng dẫn mẹ giữ vai trò chính trong bữa ăn của con trong giai đoạn đầu, nhấn mạnh đây là tạm thời, không ép, không trách; mời gia đình cùng tham gia điều trị",
+     "v": "c",
+     "n": "NICE NG69 2017 1.3.11: liệu pháp gia đình giúp cha mẹ giữ vai trò trung tâm khi con ăn, nhấn mạnh tạm thời, không đổ lỗi; 1.1.6; QĐ 2058/2020 Bài 26 mục 4.3: liệu pháp gia đình kèm giáo dục."
+    },
+    {
+     "t": "Nói chuyện riêng với em: hỏi tự hại, khí sắc, bị trêu chọc hay bắt nạt, mong muốn thật khi xin truyền dịch",
+     "v": "c",
+     "n": "NICE NG69 2017 1.1.2: cảnh giác với bắt nạt, trêu chọc, bạo hành, bỏ bê ở trẻ; 1.2.9: đánh giá bệnh tâm thần đi kèm (trầm cảm, lo âu, tự hại); 1.1.1: người bệnh ngại và xấu hổ khi nói về bệnh."
+    },
+    {
+     "t": "Dặn dấu hiệu phải đến ngay hoặc nhập viện: ngất, đau ngực, hồi hộp, mạch < 40 l/p, QT dài, sụt cân nhanh (ví dụ > 1 kg/tuần), không uống được",
+     "v": "c",
+     "n": "NICE NG69 2017 1.11.3, 1.10.3; không dùng ngưỡng cân tuyệt đối (1.11.2)."
+    },
+    {
+     "t": "Phối hợp nhà trường: giảm áp lực học và thể dục nặng trong thời gian điều trị, giáo viên biết để hỗ trợ",
+     "v": "a",
+     "n": "NICE NG69 2017 1.1.5, 1.1.6: đánh giá tác động của trường học, lo nhu cầu học tập; khuyến khích giáo viên, bạn bè hỗ trợ. Mức giảm học thêm, thể dục cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám tại phòng khám để cân, đo mạch, HA tư thế, kiểm lại điện giải và ECG",
+     "v": "a",
+     "n": "NICE NG69 2017 1.3.1, 1.10.2; khoảng cách tái khám: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc chống trầm cảm ngay lúc này",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 26 mục 4.3 liệt kê SSRI, SNRI, 3 vòng (khoảng liều người lớn; liều trẻ em: không có trong tài liệu đã tải); NICE NG69 2017 1.3.24: không dùng thuốc như điều trị duy nhất. Hai nguồn khác cách, cả hai chấp nhận; ca không trầm cảm nên chưa cần (sổ mâu thuẫn)."
+    },
+    {
+     "t": "Dùng điểm SCOFF để chẩn đoán xác định",
+     "v": "w",
+     "n": "SCOFF chỉ gợi ý nghi ngờ (Morgan 1999: ≥ 2 điểm); NICE NG69 2017 1.2.5: không dùng công cụ sàng lọc làm phương pháp duy nhất."
+    },
+    {
+     "t": "Cho truyền dịch theo yêu cầu của mẹ và em rồi cho về",
+     "v": "w",
+     "n": "Không có chỉ định (mất nước nhẹ, uống được; NICE NG69 2017 1.10.3, 1.10.4; QĐ 2058/2020 Bài 26 mục 4.3). Không nguồn nào nêu truyền dịch gây hại; chấm sai vì bỏ sót việc giới thiệu ngay (1.2.10) và củng cố niềm tin sai (suy luận lâm sàng)."
+    },
+    {
+     "t": "Nhập viện ngay hoặc chuyển cấp cứu",
+     "v": "w",
+     "n": "Không có điện giải nặng, mất nước nặng, suy dinh dưỡng nặng hay suy cơ quan (NICE NG69 2017 1.10.3); không dùng ngưỡng BMI tuyệt đối (1.11.2); mẹ còn khả năng hỗ trợ tại nhà (1.11.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chán ăn tâm thần tái phát, thể hạn chế (ICD-11 6B80, ICD-10 F50.0), BMI 14,9 kg/m² dưới P5 theo tuổi, sụt khoảng 21% cân nặng trong 6 tháng, tập luyện quá mức; chưa phân 6B80.0 hay 6B80.1 vì thiếu bảng bách phân vị",
+     "Nhịp xoang chậm 52 l/p, hạ huyết áp tư thế và mất nước nhẹ do suy dinh dưỡng; K 3,7, QTc 428 ms",
+     "Tiền sử chán ăn tâm thần đã nhập khoa nhi 12 ngày, ngừng theo dõi sau 3 buổi; yếu tố khởi phát là áp lực ôn thi",
+     "Loại trừ: cường giáp, bệnh tiêu hóa, trầm cảm là bệnh chính, rối loạn ăn uống tránh – hạn chế thức ăn"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi cân nặng theo thời gian, ăn uống, hình ảnh cơ thể, SCOFF, vận động, tiền sử bệnh cũ (nhẹ nhàng, hỏi riêng) → khám cân, BMI, mạch, HA nằm–đứng, tuyến giáp, bụng, tâm thần → ECG, điện giải, TSH, đường huyết, ure–creatinin → chẩn đoán → xử trí.",
+     "Chán ăn tâm thần: sụt 21% trong 6 tháng, BMI 14,9 dưới P5 theo tuổi, ăn hạn chế, sợ mất kiểm soát, bận tâm cân nặng (WHO ICD-11 CDDR 2024, 6B80, tr. 398–399; QĐ 2058/2020 Bài 26 mục 3.1.1; QĐ 2892/2022 mục 7, Bảng 7.1: BMI theo tuổi < P5 là thiếu cân). Ở trẻ, 'không đói' và đau bụng có thể là cách trình bày (6B80, tr. 401).",
+     "SCOFF 4/5 điểm (≥ 2 là nghi). Morgan 1999 (nữ 18–40 tuổi, nhóm chuyên khoa): nhạy 100%, đặc hiệu 87,5%; USPSTF 2022 (JAMA 327:1061, tr. 1064): người lớn gộp nhạy 84%, đặc hiệu 80%, một nghiên cứu ở thiếu niên nam và nữ nhạy 73%, đặc hiệu 78%. Số khác nhau vì mẫu khác nhau; SCOFF không thay chẩn đoán (NICE NG69 2017 1.2.5).",
+     "Cường giáp và bệnh tiêu hóa là hai chẩn đoán cần loại trừ: mạch chậm, tay chân lạnh, không run, TSH 1,6 (ATA 2016 mục B2); đau bụng, no sớm xảy ra sau khi ăn ít, CRP, anti-tTG, siêu âm bụng bình thường (QĐ 2058/2020 Bài 26 mục 3.2). Cơ sở không có X-quang: không cần cho ca này, siêu âm bụng đủ.",
+     "Mức độ: mạch 52 l/p, hạ huyết áp tư thế, ure tăng nhưng K 3,7, QTc 428 ms, không ngất, mẹ hỗ trợ được tại nhà nên chưa có tiêu chí chăm sóc cấp (NICE NG69 2017 1.10.3, 1.11.3). Không dùng ngưỡng BMI tuyệt đối (1.11.2).",
+     "Tiền sử bị giấu (mẹ ngại bị coi là 'bệnh tâm thần'); hỏi nhẹ nhàng, hỏi riêng mới lộ. Lý do thật xin truyền dịch là muốn thay bữa ăn bằng nước biển."
+    ],
+    "phan_tich_xu_tri": [
+     "Giới thiệu ngay dịch vụ rối loạn ăn uống phù hợp tuổi, tâm thần nhi, nhà dinh dưỡng; phòng khám giữ theo dõi thể chất (NICE NG69 2017 1.2.10, 1.3.1, 1.3.10, 1.3.20; QĐ 2058/2020 Bài 26 mục 4.1).",
+     "Không truyền dịch: bù nước đường uống, ăn theo kế hoạch; tĩnh mạch chỉ khi cần thiết (NICE NG69 2017 1.10.4; QĐ 2058/2020 Bài 26 mục 4.3).",
+     "Ăn đều, không nhịn đói, đa vitamin–khoáng chất, ngừng tập luyện quá mức (QĐ 2058/2020 Bài 26 mục 4.3; NICE NG69 2017 1.3.21, 1.10.8).",
+     "Mẹ giữ vai trò chính ở bữa ăn trong giai đoạn đầu, không ép, không trách (NICE NG69 2017 1.3.11, 1.1.4).",
+     "Dặn tiêu chí đến ngay và nhập viện (NICE NG69 2017 1.11.3, 1.10.3); theo dõi tăng trưởng và dậy thì khi chưa dậy thì xong (1.10.11).",
+     "Thuốc chống trầm cảm chưa cần; không dùng thuốc đơn độc (NICE NG69 2017 1.3.24; QĐ 2058/2020 Bài 26 mục 4.3)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Đa vitamin và khoáng chất",
+      "ham_luong": "Chế phẩm phù hợp lứa tuổi",
+      "lieu": "1 viên hoặc 1 liều theo chế phẩm",
+      "duong": "Uống",
+      "thoi_diem": "Sau bữa ăn chính",
+      "so_ngay": "Đến khi khẩu phần đủ nhu cầu (theo nhà dinh dưỡng)",
+      "ghi_chu": "nguồn: NICE NG69 2017, 1.3.21: đa vitamin–khoáng chất phù hợp tuổi đến khi khẩu phần đủ; hàm lượng và liều cụ thể theo chế phẩm."
+     },
+     {
+      "thuoc": "Loratadin (thuốc dị ứng tự mua đang dùng)",
+      "ham_luong": "Giữ nguyên như đang dùng",
+      "lieu": "Giữ nguyên, chỉ dùng khi hắt hơi, nghẹt mũi",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần",
+      "so_ngay": "Theo triệu chứng",
+      "ghi_chu": "Đang dùng, giữ nguyên, ít khi dùng; tương tác với nhịp chậm, liều theo cân nặng: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bệnh này không phải cường giáp hay bệnh dạ dày. Cơ thể đang thiếu năng lượng nên tim chậm, huyết áp thấp, choáng, lạnh tay chân; cần ăn đều, không nhịn đói (QĐ 2058/2020 Bài 26 mục 4.3).",
+     "Truyền nước biển không thay được bữa ăn; uống đủ nước, ăn theo kế hoạch của nhà dinh dưỡng, uống đa vitamin–khoáng chất (NICE NG69 2017 1.10.4, 1.3.21).",
+     "Mẹ đi cùng Kiệt đến dịch vụ rối loạn ăn uống/tâm thần nhi trong tuần này; mẹ giữ vai trò chính ở bữa ăn lúc đầu, không ép, không la (NICE NG69 2017 1.2.10, 1.3.11).",
+     "Ngừng tập bụng, chạy sau giờ học thêm; nói với giáo viên chủ nhiệm để giảm áp lực trong thời gian điều trị (NICE NG69 2017 1.10.8, 1.1.5).",
+     "Tái khám tại phòng khám để cân, đo mạch, HA nằm–đứng, kiểm điện giải; đến ngay nếu ngất, đau ngực, tim đập bất thường, không uống được hoặc sụt cân nhanh (NICE NG69 2017 1.11.3; khoảng cách tái khám: không có trong tài liệu đã tải).",
+     "Hỏi riêng Kiệt có ai trêu chọc, áp lực nào em chưa nói; em có thể nói chuyện riêng với bác sĩ bất cứ khi nào (NICE NG69 2017 1.1.2)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Tái khám theo hẹn sau 3 tuần, mẹ đi cùng. Kiệt đã đến dịch vụ rối loạn ăn uống trẻ em hai lần, bắt đầu liệu pháp gia đình và gặp nhà dinh dưỡng một lần. Em đỡ choáng, ăn nhiều hơn một chút nhưng vẫn lo cân nặng; thi thử sắp đến nên mẹ lại xin truyền nước biển cho con. Sinh hiệu: mạch 58 l/p, HA 98/60 mmHg, nhiệt 36,2 °C, nhịp thở 16 l/p, SpO₂ 99%, cân nặng 42,3 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Kiệt bị nhập viện chỉ vì cân mới tăng 1,3 kg sau 3 tuần và vì mẹ xin 'cho con nằm viện cho yên tâm', trong khi mạch 58 l/p, K 3,9 mmol/L, QTc 420 ms, không ngất, cân đang đi lên. NICE NG69 2017 1.11.2 không dùng ngưỡng cân; 1.11.3 dựa vào tốc độ sụt cân (ví dụ > 1 kg/tuần), mạch < 40 l/p, QT dài; 1.11.4 không nhập viện chỉ để điều trị tâm lý. Em đang trị liệu gia đình đều, nằm viện làm đứt lịch hẹn và mất kỳ thi thử, dễ coi lên cân là bị phạt."
+   },
+   "loi_mo": "Dạ em có ăn thêm rồi mà cân lên có chút xíu thôi à. Sắp thi thử rồi, bác sĩ cho em truyền chai nước biển đi, em mệt lắm, mẹ cũng nói vậy.",
+   "sinh_hieu": {
+    "mach": 58,
+    "ha": "98/60",
+    "nhiet": "36,2",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tien_trien",
+     "noi_dung": "Gia đình đã đến dịch vụ rối loạn ăn uống trẻ em hai lần, bắt đầu liệu pháp gia đình, hẹn mỗi tuần; gặp nhà dinh dưỡng một lần. Mẹ nấu bữa tối, ngồi ăn cùng con. Kiệt hết xây xẩm khi đứng, vẫn mệt nhiều chiều tối.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đã bắt đầu điều trị chuyên khoa, đỡ choáng"
+    },
+    {
+     "id": "an_uong",
+     "noi_dung": "Kiệt ăn hai bữa rưỡi: sáng một ít, tối ăn đủ cùng mẹ, trưa ở trường vẫn ăn rất ít hoặc cho bạn. Em vẫn ghi lượng ăn, cân 2–3 lần mỗi ngày, hoảng khi thấy tăng 0,3–0,5 kg. Mẹ hay nhắc 'ăn đi con' làm em bực.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỡ một phần: ăn nhiều hơn nhưng bữa trưa vẫn hạn chế, còn cân nhiều lần"
+    },
+    {
+     "id": "van_dong",
+     "noi_dung": "Em đã bớt tập bụng, còn chạy tại chỗ khoảng 10–15 phút vài buổi trong tuần khi mẹ không để ý. Không nôn, không nhuận tràng, không lợi tiểu.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể về tập luyện thêm sau giờ học, hoặc hỏi riêng em, bình tĩnh.",
+     "y": "Còn vận động quá mức, giấu mẹ"
+    },
+    {
+     "id": "ap_luc_hoc",
+     "noi_dung": "Lịch học thêm vẫn năm buổi mỗi tuần, em ngủ 6 tiếng. Thi thử sắp đến, mẹ vẫn mong thi chuyên. Em nói 'nếu điểm thấp là lại muốn nhịn ăn'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố duy trì chưa xử lý: áp lực học tập"
+    },
+    {
+     "id": "du_dinh_ngung",
+     "noi_dung": "Mẹ nghĩ 'cháu khá hơn rồi, thi xong thì cho nghỉ buổi trị liệu để dành thời gian học'; Kiệt cũng nghĩ vậy vì 'lần trước cũng thế'. Em thừa nhận lần trước ngừng theo dõi, vài tháng sau em lại ăn ít.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi về kế hoạch sau thi hoặc ý định tiếp tục các buổi điều trị, và nhắc lại lần trước.",
+     "y": "Nguy cơ ngừng điều trị sớm, tái phát lần nữa"
+    },
+    {
+     "id": "truyen_dich",
+     "noi_dung": "Mẹ và Kiệt xin truyền nước biển 'cho có sức thi thử'. Mẹ thấy con còn mệt chiều tối nên tin truyền nước sẽ bổ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Vẫn xin truyền dịch trước thi thử"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Kiệt tính rằng nếu được truyền nước thì tối nay bớt được nửa bữa cơm, 'đỡ phải ăn mà vẫn có sức'. Em sợ nhất bữa ăn tối trước ngày thi thử.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói thật khi bác sĩ hỏi riêng, bình tĩnh về việc em mong gì khi truyền nước và em thấy khó chỗ nào trong bữa ăn.",
+     "y": "Lý do thật: muốn truyền dịch để thay bớt bữa ăn"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Khí sắc không trầm, còn đá bóng, ngủ chập chờn vì lo thi. Không ý nghĩ tự hại. Em kể bạn đã thôi trêu từ khi đổi chỗ ngồi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không trầm cảm, không tự hại"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy, má đỡ hóp hơn. Cân nặng 42,3 kg, cao 166 cm, BMI 15,4 kg/m². Da còn khô, lông tơ ở lưng, tay chân bớt lạnh.",
+     "k": 1,
+     "hien": "Gầy, tay chân bớt lạnh."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 98/60 mmHg, mạch 58 l/p; đứng 3 phút 94/58 mmHg, mạch 74 l/p, hơi choáng, không ngất.",
+     "k": 1
+    },
+    "tim": {
+     "a": "Tim đều, chậm 58 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 58 l/p."
+    },
+    "bung": {
+     "a": "Bụng lõm, mềm, không đau, nhu động bình thường.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Hợp tác hơn lượt đầu, vẫn bận tâm cân nặng và sợ tăng cân. Khí sắc không trầm, tư duy mạch lạc, không ý tưởng tự hại.",
+     "k": 1,
+     "hien": "Hợp tác, vẫn lo về cân nặng."
+    }
+   },
+   "cls": {
+    "lyte": {
+     "v": "e",
+     "r": "Na 139 · K 3,9 · Cl 102 mmol/L",
+     "bang": {
+      "na": 139,
+      "k": 3.9,
+      "cl": 102
+     },
+     "n": "Điện giải bình thường; theo dõi khi còn nhịp chậm và luyện tập thêm (NICE NG69 2017 1.10.1, 1.10.2)."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang chậm 58 l/p, QTc 420 ms, không block, không loạn nhịp.",
+     "ab": 1,
+     "n": "NICE NG69 2017 1.10.2: ECG khi còn nhịp chậm và vận động quá mức; mạch 58 chưa tới mức < 40 l/p hay QT dài cần nhập viện (1.11.3)."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "Không cần lặp: TSH lượt trước 1,6 mIU/L; mạch chậm không gợi cường giáp.",
+     "n": "ATA 2016 mục B2: TSH bình thường loại trừ nhiễm độc giáp."
+    },
+    "ctm": {
+     "v": "n",
+     "r": "Không cần lặp: không có dấu hiệu nhiễm trùng, thiếu máu rõ ở lượt trước.",
+     "n": "Không có chỉ định lặp lại sớm; sẽ làm lại cùng bộ xét nghiệm theo dõi của dịch vụ chuyên khoa."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chán ăn tâm thần tái phát (6B80) đang điều trị, đỡ một phần: cân tăng 1,3 kg, BMI 15,4, còn hạn chế bữa trưa, còn cân nhiều lần, còn vận động thêm",
+     "ok": 1,
+     "n": "Cân 42,3 kg trong 3 tuần (khoảng 0,4 kg/tuần), mạch 58, K 3,9: hồi phục chậm, không phải thất bại sớm. BMI vẫn thấp rõ so với tuổi (WHO ICD-11 CDDR 2024, 6B80, tr. 398). Ở thiếu niên tiên lượng tốt hơn người lớn (6B80, tr. 401) khi điều trị đầy đủ; NICE NG69 2017 1.3.2: tăng cân là then chốt để phục hồi các mặt khác."
+    },
+    {
+     "t": "Nhịp xoang chậm nhẹ, hạ huyết áp tư thế còn nhẹ, đã cải thiện; chưa đạt tiêu chí nhập viện",
+     "ok": 1,
+     "n": "Mạch 58 l/p, đứng 94/58 mmHg mạch tăng 16 l/p, K 3,9, QTc 420 ms. NICE NG69 2017 1.11.3: nhập viện khi mạch < 40 l/p, QT dài, sụt cân nhanh (ví dụ > 1 kg/tuần) hoặc tình trạng thể chất xấu đi; chưa có. Nhịp chậm, hạ huyết áp tư thế là yếu tố nguy cơ (WHO ICD-11 CDDR 2024, 6B80, tr. 400)."
+    },
+    {
+     "t": "Yếu tố duy trì chưa xử lý và nguy cơ ngừng điều trị sớm, tái phát lần nữa: áp lực học tập, kế hoạch ngừng trị liệu sau kỳ thi",
+     "ok": 1,
+     "n": "Chán ăn tâm thần có thể mạn tính (QĐ 2058/2020 Bài 26 mục 5); nhiều người có đợt kéo dài, hồi phục hoàn toàn cần duy trì cân nặng và hết hành vi giảm cân ít nhất khoảng 1 năm sau ngừng điều trị (WHO ICD-11 CDDR 2024, 6B80.2, tr. 399, tr. 401). Liệu pháp gia đình cho thiếu niên điển hình 18–20 buổi trong 1 năm (NICE NG69 2017 1.3.11)."
+    },
+    {
+     "t": "Thất bại điều trị sớm cần nhập viện",
+     "n": "Không: cân tăng, K 3,9, QTc 420 ms, không ngất, đã trị liệu gia đình đều. NICE NG69 2017 1.11.2 không dùng ngưỡng cân tuyệt đối; 1.11.4 không nhập viện chỉ để điều trị tâm lý; 1.11.3 mẹ hỗ trợ được tại nhà."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Tiếp tục điều trị ngoại trú: liệu pháp gia đình hằng tuần ở dịch vụ rối loạn ăn uống, nhà dinh dưỡng, phòng khám theo dõi thể chất",
+     "v": "c",
+     "n": "NICE NG69 2017 1.3.10, 1.3.11: liệu pháp gia đình thường 18–20 buổi trong 1 năm, xem lại sau 4 tuần rồi mỗi 3 tháng; 1.3.1, 1.3.20: đa chuyên ngành, theo dõi cân nặng và sức khỏe thể chất; QĐ 2058/2020 Bài 26 mục 4.1, 4.3."
+    },
+    {
+     "t": "Không truyền dịch: giải thích lại, hỏi riêng Kiệt về lo lắng khi ăn, cùng lên kế hoạch bữa trưa ở trường với mẹ và nhà dinh dưỡng",
+     "v": "c",
+     "n": "NICE NG69 2017 1.10.4 (bù đường uống), 1.3.23 (tư vấn ăn cho nhu cầu tăng trưởng, dậy thì); QĐ 2058/2020 Bài 26 mục 4.3 (đường tĩnh mạch chỉ khi cần thiết). Chi tiết kế hoạch bữa trưa: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cân cùng một cân, cùng giờ mỗi tuần tại phòng khám, chia sẻ kết quả với em và mẹ; khuyên giảm số lần tự cân ở nhà",
+     "v": "c",
+     "n": "NICE NG69 2017 1.3.3: xem xét chia sẻ kết quả cân; 1.3.1: theo dõi cân. Số lần tự cân ở nhà nên giảm: không có trong tài liệu đã tải (suy luận lâm sàng)."
+    },
+    {
+     "t": "Nói rõ cho Kiệt và mẹ khi nào phải nhập viện: sụt cân nhanh (ví dụ > 1 kg/tuần), mạch < 40 l/p, QT dài, ngất, điện giải nặng, tình trạng xấu đi",
+     "v": "c",
+     "n": "NICE NG69 2017 1.11.3, 1.10.3. Không dùng ngưỡng cân tuyệt đối (1.11.2)."
+    },
+    {
+     "t": "Lập kế hoạch dự phòng tái phát và nói rõ không ngừng điều trị khi mới đỡ, nhất là quanh kỳ thi: nhận dấu hiệu sớm (bỏ bữa, ghi calo, cân nhiều lần), nói với nhóm trị liệu; mẹ biết khi nào gọi",
+     "v": "c",
+     "n": "NICE NG69 2017 1.3.11 (giai đoạn cuối của liệu pháp gia đình: phòng tái phát, cách tìm hỗ trợ nếu ngừng điều trị); QĐ 2058/2020 Bài 26 mục 5, 6; WHO ICD-11 CDDR 2024, 6B80.2, tr. 399 (giữ chẩn đoán đến khi hồi phục lâu dài)."
+    },
+    {
+     "t": "Hướng dẫn mẹ hỗ trợ ăn uống không ép, không nhắc liên tục; hỗ trợ cả người nhà",
+     "v": "c",
+     "n": "NICE NG69 2017 1.1.4, 1.3.11, 1.3.12; QĐ 2058/2020 Bài 26 mục 4.3."
+    },
+    {
+     "t": "Khuyên dừng hẳn vận động thêm để giảm cân; thông báo cho giáo viên để giảm thể dục nặng, cân nhắc giảm học thêm",
+     "v": "a",
+     "n": "NICE NG69 2017 1.10.8: khuyên ngừng luyện tập quá mức; 1.1.5, 1.1.6: phối hợp nhà trường. Mức giảm học thêm cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kiểm lại điện giải và ECG hôm nay, hẹn cân, đo mạch, HA tư thế ở lần sau",
+     "v": "a",
+     "n": "NICE NG69 2017 1.10.1, 1.10.2; khoảng cách tái khám: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhập viện vì cân mới tăng 1,3 kg 'chưa đủ'",
+     "v": "w",
+     "n": "NICE NG69 2017 1.11.2: không dùng ngưỡng cân hay BMI tuyệt đối khi quyết định nhập viện; chưa có tiêu chí 1.11.3; 1.11.4: không nhập viện chỉ để điều trị tâm lý."
+    },
+    {
+     "t": "Cho truyền dịch để Kiệt có sức thi thử",
+     "v": "w",
+     "n": "Không có chỉ định (uống được, K 3,9; NICE NG69 2017 1.10.3, 1.10.4; QĐ 2058/2020 Bài 26 mục 4.3). Không nguồn nào nêu truyền dịch gây hại; chấm sai vì củng cố niềm tin 'truyền thay ăn', che bữa trưa vẫn thiếu (suy luận lâm sàng)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Chán ăn tâm thần tái phát (6B80) đang điều trị, đỡ một phần: cân 42,3 kg (BMI 15,4), còn hạn chế bữa trưa, còn tự cân nhiều lần, còn vận động thêm",
+     "Nhịp xoang chậm 58 l/p và hạ huyết áp tư thế nhẹ, đã cải thiện; K 3,9, QTc 420 ms",
+     "Yếu tố duy trì chưa xử lý: áp lực học tập; nguy cơ ngừng điều trị sớm sau kỳ thi như lần trước"
+    ],
+    "phan_tich_chan_doan": [
+     "Đỡ một phần: hết xây xẩm, mạch 52 → 58, K 3,7 → 3,9, cân 41 → 42,3 kg trong 3 tuần; còn hạn chế bữa trưa, cân nhiều lần, vận động thêm. Cân tăng, điện giải ổn, QTc 420 ms, mạch trên 40 nên là hồi phục chậm, không phải thất bại sớm (NICE NG69 2017 1.11.3).",
+     "Tăng cân là then chốt để cải thiện các mặt thể chất, tâm lý khác (NICE NG69 2017 1.3.2); ở thiếu niên tiên lượng tốt hơn người lớn (WHO ICD-11 CDDR 2024, 6B80, tr. 401).",
+     "Không dùng ngưỡng cân hay BMI tuyệt đối để nhập viện (NICE NG69 2017 1.11.2); gia đình hỗ trợ được tại nhà (1.11.3); đã trị liệu chuyên khoa nên không cần chuyển tuyến lại.",
+     "Tái phát: lần này là đợt tái phát sau khi ngừng theo dõi năm ngoái; nguyên nhân nền (áp lực học tập, kỳ vọng, hình ảnh cơ thể) chưa xử lý nên có nguy cơ tái phát lần nữa nếu ngừng trị liệu sớm (QĐ 2058/2020 Bài 26 mục 5; WHO ICD-11 CDDR 2024, 6B80.2, tr. 399). Không phải chẩn đoán sai ban đầu.",
+     "Lý do thật vẫn là muốn truyền dịch để bớt bữa ăn; hỏi riêng, không phán xét mới lộ."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú đa chuyên ngành: liệu pháp gia đình hằng tuần, nhà dinh dưỡng, phòng khám theo dõi cân, mạch, HA tư thế, điện giải (NICE NG69 2017 1.3.1, 1.3.10, 1.3.11, 1.3.20).",
+     "Không truyền dịch; lập kế hoạch bữa trưa ở trường (NICE NG69 2017 1.10.4, 1.3.23; QĐ 2058/2020 Bài 26 mục 4.3).",
+     "Báo trước tiêu chí nhập viện (NICE NG69 2017 1.11.3, 1.10.3); cân tại phòng khám, chia sẻ kết quả (1.3.3).",
+     "Kế hoạch dự phòng tái phát và không ngừng điều trị khi mới đỡ (NICE NG69 2017 1.3.11; QĐ 2058/2020 Bài 26 mục 5, 6).",
+     "Mẹ hỗ trợ không ép; phối hợp nhà trường giảm áp lực (NICE NG69 2017 1.1.4, 1.1.5, 1.1.6)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Đa vitamin và khoáng chất",
+      "ham_luong": "Chế phẩm phù hợp lứa tuổi",
+      "lieu": "1 viên hoặc 1 liều theo chế phẩm",
+      "duong": "Uống",
+      "thoi_diem": "Sau bữa ăn chính",
+      "so_ngay": "Tiếp tục đến khi khẩu phần đủ nhu cầu",
+      "ghi_chu": "nguồn: NICE NG69 2017, 1.3.21."
+     },
+     {
+      "thuoc": "Loratadin (thuốc dị ứng tự mua đang dùng)",
+      "ham_luong": "Giữ nguyên như đang dùng",
+      "lieu": "Giữ nguyên, chỉ dùng khi hắt hơi, nghẹt mũi",
+      "duong": "Uống",
+      "thoi_diem": "Khi cần",
+      "so_ngay": "Theo triệu chứng",
+      "ghi_chu": "Đang dùng, giữ nguyên; liều theo cân nặng: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cân tăng là tin tốt; cân lên chậm và sợ là bình thường. Đừng ngừng điều trị khi thấy mình 'khá hơn' hay sau kỳ thi: lần trước ngừng sớm nên tái phát (QĐ 2058/2020 Bài 26 mục 5; NICE NG69 2017 1.3.11).",
+     "Không truyền nước biển để thay bữa ăn; bữa trưa ở trường ăn theo kế hoạch đã bàn với nhà dinh dưỡng; ăn đủ bữa tối cùng mẹ (NICE NG69 2017 1.10.4, 1.3.23).",
+     "Đi liệu pháp gia đình mỗi tuần; cân tại phòng khám, ở nhà cân ít hơn; ngừng tập luyện thêm (NICE NG69 2017 1.3.3, 1.10.8).",
+     "Mẹ: ngồi ăn cùng con, không ép, không nhắc liên tục, không trách; tham gia buổi giáo dục gia đình (NICE NG69 2017 1.1.4, 1.3.11).",
+     "Nói với giáo viên chủ nhiệm để giảm áp lực, thể dục nặng; nếu sắp thi hay điểm thấp mà thấy muốn nhịn ăn, báo ngay cho nhóm trị liệu hoặc bác sĩ.",
+     "Tái khám để cân, đo mạch, HA tư thế, kiểm điện giải, ECG; đến ngay nếu ngất, đau ngực, tim đập bất thường, không uống được hoặc sụt cân nhanh (NICE NG69 2017 1.11.3; khoảng cách tái khám: không có trong tài liệu đã tải)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau lượt 1, Kiệt được giới thiệu ngay dịch vụ rối loạn ăn uống trẻ em, không truyền dịch, ăn theo kế hoạch; tiền sử nằm viện năm ngoái lộ ra khi hỏi riêng không phán xét. Lượt 2, sau 3 tuần, đỡ một phần: cân 42,3 kg (BMI 15,4), mạch 58, K 3,9, hết xây xẩm; còn hạn chế bữa trưa, còn cân nhiều lần, còn vận động thêm, còn xin truyền dịch trước thi thử. Gia đình tiếp tục liệu pháp gia đình hằng tuần và nhà dinh dưỡng. Đây là đợt tái phát sau lần điều trị trước bị ngừng sớm; áp lực học tập vẫn còn, nguy cơ tái phát lần nữa nếu ngừng trị liệu sau kỳ thi, nên theo dõi cân, mạch, điện giải đều và dự phòng tái phát (WHO ICD-11 CDDR 2024, 6B80.2, tr. 399).",
+ "nhieu": [
+  "Giấu tiền sử: mẹ và Kiệt nói 'trước giờ khỏe mạnh', giấu đợt nằm viện 12 ngày năm ngoái và việc tự ngừng theo dõi vì ngại bị coi là bệnh tâm thần; hỏi nhẹ nhàng, không phán xét, nhất là hỏi riêng em mới lộ.",
+  "Lý do thật là muốn truyền dịch để thay bữa ăn; mẹ cũng tin truyền nước là bổ nên khó nhận ra động cơ của con.",
+  "Mẹ nói thay con, chỉ kể mệt, xây xẩm, đầy bụng và xin truyền nước; không biết con ghi calo, cân nhiều lần, tập thêm mỗi tối. Thuốc dị ứng tự mua không liên quan nhưng phải ghi vào danh sách thuốc."
+ ],
+ "bai_hoc_bien": [
+  "Thiếu niên 13–17 tuổi nguy cơ cao nhất (NICE NG69 2017 1.2.4); sụt cân nhanh, ăn kiêng, đau bụng không giải thích, mạch chậm, hạ huyết áp tư thế là dấu gợi ý (NICE NG69 2017 1.2.6; WHO ICD-11 CDDR 2024, 6B80, tr. 400–401). Nam cũng bị, và tỉ lệ nam đang tăng (6B80, tr. 402).",
+  "Hỏi bệnh cũ không phán xét, hỏi riêng người bệnh trẻ, nói rõ mục đích là chữa; cha mẹ hay giấu vì kỳ thị (NICE NG69 2017 1.1.1, 1.1.2, 1.1.4).",
+  "Cường giáp và bệnh tiêu hóa là hai chẩn đoán cần loại trừ: TSH (ATA 2016 mục B2), CRP, anti-tTG, siêu âm bụng khi không có X-quang; đau bụng, đầy bụng có thể là cách trẻ trình bày chán ăn tâm thần (WHO ICD-11 CDDR 2024, 6B80, tr. 401).",
+  "Mạch, HA nằm–đứng, điện giải, ECG đánh giá nguy cơ thể chất; không dùng ngưỡng BMI tuyệt đối để nhập viện (NICE NG69 2017 1.10.2, 1.10.3, 1.11.2, 1.11.3).",
+  "Người bệnh xin truyền dịch: hỏi lý do thật; truyền dịch không thay bữa ăn, đường uống ưu tiên; đường tĩnh mạch chỉ khi cần thiết (NICE NG69 2017 1.10.4; QĐ 2058/2020 Bài 26 mục 4.3).",
+  "Đỡ một phần: phân biệt hồi phục chậm (cân tăng, sinh hiệu ổn) với thất bại sớm (sụt > 1 kg/tuần, mạch < 40, QT dài) (NICE NG69 2017 1.11.3).",
+  "Tái phát: nguyên nhân nền (áp lực học tập, kỳ vọng), ngừng theo dõi sớm; hồi phục cần duy trì ít nhất khoảng 1 năm sau ngừng điều trị, không ngừng khi mới đạt cân (WHO ICD-11 CDDR 2024, 6B80.2, tr. 399; NICE NG69 2017 1.3.11)."
+ ],
+ "diem_nho": [
+  "ICD-10 (BYT): cân nặng ≥ 15% thấp hơn cân phải có, tránh thức ăn gây béo, hình ảnh cơ thể méo mó do sợ béo (QĐ 2058/2020 Bài 26 mục 3.1.1). ICD-11: BMI theo tuổi < P5 ở trẻ và thiếu niên, hoặc sụt > 20% trong 6 tháng (WHO ICD-11 CDDR 2024, 6B80, tr. 398); 6B80.0: P5 đến P0,3, 6B80.1: dưới P0,3 (tr. 399). QĐ 2892/2022 mục 7, Bảng 7.1: BMI theo tuổi < P5 là thiếu cân.",
+  "SCOFF ≥ 2 điểm là nghi (Morgan 1999: nhạy 100%, đặc hiệu 87,5% ở nữ nhóm chuyên khoa; USPSTF 2022 tr. 1064: nhạy 84%, đặc hiệu 80% ở người lớn, nhạy 73%, đặc hiệu 78% trong một nghiên cứu thiếu niên); không dùng riêng để chẩn đoán (NICE NG69 2017 1.2.5).",
+  "Điều trị cho thiếu niên: liệu pháp gia đình tập trung vào chán ăn tâm thần (thường 18–20 buổi trong 1 năm), cha mẹ giữ vai trò chính ở bữa ăn lúc đầu; không dùng thuốc đơn độc (NICE NG69 2017 1.3.10, 1.3.11, 1.3.24).",
+  "Nhập viện khi điện giải, suy dinh dưỡng, mất nước nặng hoặc suy cơ quan; mạch < 40, QT dài, sụt > 1 kg/tuần là ví dụ; không có ngưỡng BMI tuyệt đối (NICE NG69 2017 1.10.3, 1.11.2, 1.11.3).",
+  "Giới thiệu ngay khi nghi ngờ rối loạn ăn uống (NICE NG69 2017 1.2.10); điều trị sớm càng quan trọng khi sụt cân nhanh (1.2.2)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT 2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 26 (mục 1, 3.1.1, 3.1.2, 3.2, 4.1, 4.3, 5, 6).",
+  "BYT – QĐ 2892/QĐ-BYT 2022, Hướng dẫn chẩn đoán và điều trị bệnh béo phì – TL-0281 – mục 7, Bảng 7.1 (phân loại cân nặng theo BMI theo tuổi, thiếu cân < P5).",
+  "NICE NG69 2017 (cập nhật 2025), Eating disorders: recognition and treatment – kho cũ tltk-10000-ca (Tâm thần cơ bản/Quốc tế) – khuyến cáo 1.1.1–1.1.6, 1.2.1–1.2.10, 1.3.1–1.3.3, 1.3.10–1.3.12, 1.3.20–1.3.24, 1.10.1–1.10.4, 1.10.8, 1.10.11, 1.11.1–1.11.4.",
+  "WHO – Clinical descriptions and diagnostic requirements for ICD-11 mental, behavioural and neurodevelopmental disorders 2024 – TL-0571 – 6B80 (tr. 398–402), 6B83 (tr. 410–411).",
+  "USPSTF 2022 – Screening for Eating Disorders in Adolescents and Adults, JAMA 2022;327(11):1061-1067 – TL-0586 (bản chữ cũng nằm ở tệp TL-0583) – tr. 1064.",
+  "Morgan JF, Reid F, Lacey JH. The SCOFF questionnaire. BMJ 1999;319:1467-8 – TL-0601.",
+  "ATA 2016 – Guidelines for diagnosis and management of hyperthyroidism and other causes of thyrotoxicosis, Thyroid 2016;26:1343-1421 – TL-0324 – mục B2 (tr. 1348)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (19/11/2026): viết theo TL-0443 Bài 26; TL-0281 mục 7; NICE NG69; TL-0571 (6B80, 6B83); TL-0586; TL-0601; TL-0324 B2.",
+  "Thiếu tài liệu (đã ghi 'không có trong tài liệu đã tải'): APA 2023 (bản chữ TL-0583 trùng TL-0586); bảng bách phân vị BMI theo tuổi và giới (nên chưa phân 6B80.0 hay 6B80.1); liều thuốc trẻ em; khoảng cách tái khám; cách lập kế hoạch bữa ăn cụ thể, mức giảm học thêm; ảnh hưởng của loratadin lên nhịp chậm.",
+  "Khóa X-quang; xq_bung khai v n kèm thay_the abdus. Không dùng ảnh da. Không có âm thanh tim chậm (mạch 52–58) nên chỉ mô tả bằng chữ. Mâu thuẫn dùng lại các mục TT-0366 (thuốc chống trầm cảm, ngưỡng cân, SCOFF); bổ sung số liệu SCOFF thiếu niên và ngưỡng ICD-11 cho trẻ: xem TT-0369_mau_thuan.md. Danh mục: đề xuất thêm xét nghiệm phospho, magie (theo dõi hội chứng nuôi ăn lại)."
+ ]
+}
