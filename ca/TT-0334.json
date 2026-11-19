@@ -1,0 +1,519 @@
+{
+ "ma_ca": "TT-0334",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-19)",
+ "benh": "TT_sa_sut_tri_tue_som",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Sa sút trí tuệ giai đoạn sớm (biểu hiện tâm thần)",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Mê sảng",
+   "Thiếu B12"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Nông dân",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Nhờ",
+  "tuoi": 82,
+  "gioi": "Nữ",
+  "nghe": "Nông dân, còn làm ba công ruộng và vườn rau sau nhà; ở cùng con gái út (Hồng), hai con trai ở gần",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà Nhờ', gọi chị Hồng là 'chị'. Bà xưng 'tôi'; chị Hồng xưng 'con', gọi bà là 'mẹ'.",
+  "tinh_cach": "Cứng đầu, tự ái, trước kia quán xuyến cả nhà. Nay hay phủ nhận ('tôi đâu có lú'), nói ít, hay tự mua thuốc ở tạp hóa vì tin 'uống cho khỏe'. Sợ nhất là bị coi là lẫn rồi con cháu quyết thay.",
+  "kieu_nhieu": "Tự uống thuốc trước khi đi khám 5 ngày: mua thuốc ở tạp hóa, khai thiếu hoặc sai tên nếu bác sĩ không hỏi cụ thể từng loại, số viên, mấy đêm; chị Hồng giữ vỉ thuốc làm bằng chứng.",
+  "nguoi_nha": "con gái",
+  "ten_nguoi_nha": "Chị Hồng (con gái út, 51 tuổi)",
+  "ngoai_hinh": {
+   "da": "#b88a62",
+   "toc": "#e6e3dd",
+   "kieuToc": "bui",
+   "ao": "#7a5c4d",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 4,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#c4946c",
+    "toc": "#2b2623",
+    "kieuToc": "dai",
+    "ao": "#4f6d8a",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Con gái đưa đi vì mẹ hay quên, nói lẫn, ban đêm không ngủ yên; cả nhà tưởng do thuốc mới (đổi thuốc ba tuần nay), còn bà nói mình đâu có lú",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám huyện không có máy CT hay MRI sọ não. Làm được: xét nghiệm máu và nước tiểu, X-quang, siêu âm, điện tim, đường huyết mao mạch. CT và MRI ở bệnh viện tỉnh cách 48 km, giờ hành chính, cần hẹn trước; con gái út có xe máy."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 82 tuổi, nông dân, sáng thứ Tư con gái út đưa đến khám vì hay quên, nói lẫn, đêm ngủ không yên. Ba tuần trước bệnh viện tỉnh đổi thuốc chống đông cho bà (rung nhĩ bốn năm); từ đó cả nhà thấy bà 'lú' hơn. Bà nói mình không bệnh, đi theo miễn cưỡng. Sinh hiệu: mạch 76 l/p (không đều), HA 128/74 mmHg, nhiệt 36,7 °C, nhịp thở 18 l/p, SpO₂ 96%, cân nặng 46 kg, cao 150 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Gia đình xin nhập khoa nội bệnh viện huyện 'theo dõi thuốc mới'. Bà không nhận ra phòng lạ, ban đêm bồn chồn đòi về tìm mẹ, tự rút dây truyền, chị Hồng phải trông suốt đêm; 4AT 2 điểm, sinh hiệu bình thường nên không có chỉ định cấp cứu. Người sa sút trí tuệ nhập viện có nguy cơ sảng cao hơn (NICE NG97 khuyến cáo 1.9.1), mà bệnh viện huyện cũng không có CT nên không rút ngắn chẩn đoán.",
+    "chuyen_tuyen": "Con trai thuê xe đưa bà lên bệnh viện tỉnh cách 48 km ngay hôm đó 'cho chụp đầu'. Bà ngồi xe gần hai giờ, chờ nhiều giờ giữa người lạ, thiếu ngủ nên lú hơn thoáng qua, cả nhà tưởng bệnh 'đột ngột nặng' và càng hoảng; không có hẹn nên có thể chờ CT sang hôm sau. Chuyển khẩn dành cho sảng, tiến triển nhanh hoặc không điển hình (DETeCD-ADRD 2024 khuyến cáo 12); ca này tiến triển chậm 14 tháng, không dấu khu trú, chụp có hẹn là đủ (nhận xét lâm sàng)."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi đâu có lú. Con nó bắt tôi đi khám, nó nói tại thuốc mới. Mà... tôi muốn nhờ bác sĩ một chuyện.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "128/74",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị Hồng: 'Bác sĩ ơi, mẹ con hay quên, hỏi đi hỏi lại, đêm không ngủ, nói có lúc không đâu vào đâu. Từ hồi đổi thuốc ba tuần nay con thấy mẹ lú hơn.' Bà Nhờ cau mày: 'Tôi đâu có lú, con nó bắt tôi đi.'",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám: hay quên, nói lẫn, mất ngủ; gia đình quy cho thuốc mới; bà phủ nhận bệnh"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Chị Hồng: mười bốn tháng nay mẹ hay quên, nặng dần từ từ, không có ngày nào đột ngột tệ hẳn; nhà tưởng 'già thì lẫn'. Ba tuần nay chị mới giữ thuốc cho mẹ nên mới thấy rõ mẹ quên bữa vừa ăn, quên uống thuốc. Không sốt, không té, không méo miệng, không liệt.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi bắt đầu từ bao giờ, nặng dần hay đột ngột, có té hay sốt không.",
+     "k": 1,
+     "y": "Khởi phát âm thầm, tiến triển chậm trên 6 tháng (14 tháng), không cấp tính; 'lú sau đổi thuốc' chỉ do người nhà mới để ý"
+    },
+    {
+     "id": "tri_nho",
+     "noi_dung": "Bà hỏi 'hôm nay thứ mấy' cả chục lần mỗi buổi, vừa ăn xong hỏi 'chưa ăn hả', gọi nhầm tên cháu ngoại, để lạc cái nón lá và chìa khóa tủ rồi nghi bị lấy. Chuyện đi cấy hồi trẻ vẫn kể rành rọt. Có lúc ngập ngừng tìm từ: 'cái... cái dùng để quạt lúa'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi cụ thể bà quên những gì, hỏi lặp, để lạc đồ.",
+     "k": 1,
+     "y": "Suy giảm trí nhớ gần, hỏi lặp, để lạc đồ, tìm từ; trí nhớ xa còn: đặc trưng sớm"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Bà tự ăn, tắm, mặc, đi vệ sinh. Nhưng hai lần quên bếp củi đang đun nồi cá, cháy nồi; không còn tự tính tiền khi bán rau; không nhớ lúc nào phải uống thuốc. Trước khi chị Hồng giữ thuốc, bà tự uống warfarin và nhiều tối bỏ hoặc uống đôi. Một buổi chiều bà đi về nhà cũ của cha mẹ, hàng xóm dắt về.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi bà tự làm được việc gì: nấu ăn, tiền bạc, uống thuốc, đi ra ngoài.",
+     "k": 1,
+     "y": "Hỏng việc phức tạp (bếp, tiền, thuốc), còn tự chăm sóc: mức nhẹ/sớm; quên thuốc có thể góp phần INR dao động (nhận xét lâm sàng)"
+    },
+    {
+     "id": "doi_thuoc",
+     "noi_dung": "Bà bị rung nhĩ bốn năm, trước uống warfarin 3 mg mỗi tối. Vì INR 'lúc cao lúc thấp' nên ba tuần trước bác sĩ bệnh viện tỉnh đổi sang apixaban 2,5 mg sáng và tối, dặn không cần thử INR nữa. Chị Hồng chia thuốc vào hộp 7 ngăn, bà uống đủ từ đó; vài viên warfarin cũ chị đã cất riêng. Cả nhà tin 'thuốc mới làm mẹ lú' và hỏi có nên xin đổi lại không.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi bà đang uống thuốc gì, đổi thuốc khi nào và vì sao.",
+     "k": 1,
+     "y": "Apixaban 2,5 mg × 2 (đổi từ warfarin 3 tuần trước vì INR dao động); nhà ngờ thuốc mới gây lú"
+    },
+    {
+     "id": "tu_uong",
+     "noi_dung": "Năm ngày trước bà mất ngủ nên tự ra tạp hóa mua một vỉ thuốc 'dị ứng, ngủ ngon' (chị Hồng xem vỉ: clorpheniramin 4 mg), uống mỗi tối 1 viên, ba tối liên tiếp. Sáng nào cũng nặng đầu, khô miệng, tiểu khó; ban đêm nói lảm nhảm 'đi tìm mẹ'. Chị Hồng thu vỉ thuốc; hai ngày nay bà ngưng và trở lại như trước. Bà không uống thuốc cảm, giảm đau, thuốc ngủ khác, thuốc nam.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi bà có tự mua hay uống thêm thuốc gì: tên thuốc, số viên, mấy đêm, ngưng từ bao giờ.",
+     "k": 1,
+     "y": "Nhiễu: tự uống clorpheniramin 4 mg, 1 viên/tối × 3 tối từ 5 ngày trước, ngưng 2 ngày, làm nặng thêm tạm thời; đã về nền; không dùng NSAID"
+    },
+    {
+     "id": "nga_dau",
+     "noi_dung": "Sáu tháng nay bà không té, không va đầu (chị Hồng hỏi kỹ vì biết mẹ uống thuốc loãng máu). Không đau đầu, nôn, yếu tay chân, méo miệng, nói ngọng. Cẳng tay có vài vết bầm nhỏ do cọ cạnh bàn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi có té, va đầu, đau đầu, nôn, yếu liệt không.",
+     "k": 1,
+     "y": "Không chấn thương đầu, không dấu khu trú: tụ máu dưới màng cứng, đột quỵ ít nghĩ dù đang dùng kháng đông"
+    },
+    {
+     "id": "hoang_tuong",
+     "noi_dung": "Hai tháng nay bà nghi con dâu lấy tiền bà cất dưới gối. Chiều tối bà bồn chồn, mặc áo đòi 'về nhà' dù đang ở nhà, hỏi mẹ đâu. Không nghe tiếng ai nói, không thấy người hay vật lạ, không đánh chửi ai.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi bà có nghi ngờ ai không, chiều tối ra sao, nghe hay thấy gì lạ không.",
+     "k": 0,
+     "y": "Hoang tưởng mất đồ nhẹ, bồn chồn chiều tối, không ảo giác: biểu hiện tâm thần của sa sút trí tuệ"
+    },
+    {
+     "id": "khong_tram_cam",
+     "noi_dung": "Bà ăn ngon, còn thích xem cải lương, đi chùa với bạn mỗi rằm, hay cười; không nói buồn hay chán, không nghĩ đến cái chết. Ngủ chập chờn từ khoảng 2 giờ sáng, chiều tối bồn chồn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi tâm trạng, hứng thú, ăn uống, giấc ngủ, ý nghĩ tự hại.",
+     "k": 1,
+     "y": "Không khí sắc trầm, không mất thích thú, không ý tưởng tự hại: loại trừ trầm cảm"
+    },
+    {
+     "id": "khong_cap",
+     "noi_dung": "Bà luôn tỉnh, nói đúng ý, không có lúc lơ mơ hay gọi không đáp, không có giờ nào trong ngày tỉnh hẳn hay lú hẳn ngoài lúc chiều tối bồn chồn. Không sốt, ho, tiểu buốt, tiêu chảy; ăn uống bình thường, hơi táo hai ngày nay.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi có lúc lơ mơ không, trong ngày có lúc tốt lúc xấu không, sốt, ho, tiểu buốt.",
+     "k": 1,
+     "y": "Không rối loạn ý thức, không dao động, không cấp, không nhiễm trùng: loại trừ sảng và nhiễm trùng"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Rung nhĩ bốn năm. Không đái tháo đường, tăng huyết áp, suy tim, đột quỵ. Ăn cơm với cá đồng, rau, trứng; không mổ dạ dày, không thuốc dạ dày, không metformin, không rượu, không tê chân tay. Mẹ bà 'lẫn' lúc cuối đời. Mắt mờ chưa mổ; nghe còn tốt.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Kể khi hỏi bệnh nền, ăn uống, thuốc dạ dày, rượu, tê bì, gia đình có ai lẫn, nghe và nhìn thế nào.",
+     "k": 0,
+     "y": "Tiền sử rung nhĩ; không yếu tố nguy cơ thiếu B12; tiền sử gia đình sa sút trí tuệ; giác quan (mắt)"
+    },
+    {
+     "id": "ly_that",
+     "noi_dung": "Điều bà chưa nói: bà đứng tên ba công ruộng, muốn làm giấy cho ba người con khi còn 'tỉnh', sợ lú nặng hơn thì không ký được. Văn phòng công chứng dặn đem 'giấy khám sức khỏe cho biết bà còn minh mẫn'. Hai con trai thúc, chị Hồng ngại vì sợ mẹ bị coi là không đủ năng lực. Bà đến để xin tờ giấy 'bà khỏe, còn tỉnh'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói thật khi bác sĩ hỏi bà mong bác sĩ giúp gì hôm nay, bà có việc giấy tờ nào phải lo không, hoặc vì sao bà chịu đi khám.",
+     "k": 1,
+     "y": "Lý do thật đi khám: xin giấy chứng nhận sức khỏe 'còn minh mẫn' để làm giấy tờ chia ruộng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, gầy nhỏ, lưng hơi còng. 46 kg, 150 cm, BMI 20,4. Da niêm hồng nhạt, môi hơi khô, không phù.",
+     "k": 0,
+     "hien": "Tỉnh, gầy nhỏ, lưng hơi còng. Da niêm hồng nhạt, môi hơi khô, không phù."
+    },
+    "dau_mat_co": {
+     "a": "Cổ mềm, không hạch, tuyến giáp không to. Không dấu cường hay suy giáp; vẫn cần TSH.",
+     "k": 0,
+     "hien": "Cổ mềm, không hạch, tuyến giáp không to."
+    },
+    "mat": {
+     "a": "Đục thể thủy tinh nhẹ hai mắt, đọc được chữ lớn, nhìn gần kém; không giải thích việc quên chuyện mới nhưng cần khảo sát giác quan trước khi chuyển (NICE NG97 khuyến cáo 1.2.6).",
+     "k": 0,
+     "hien": "Đồng tử đều. Đọc được chữ lớn, nhìn gần kém."
+    },
+    "tim": {
+     "a": "Tim loạn nhịp hoàn toàn, khoảng 76 l/p, cường độ T1 thay đổi, không âm thổi. Kho chưa có tệp âm thanh rung nhĩ nên không gắn media.",
+     "k": 0,
+     "hien": "Nhịp không đều, tần số khoảng 76 l/p. Không nghe âm thổi."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "da": {
+     "a": "Vài vết bầm nhỏ (1–2 cm) ở cẳng tay hai bên, không bầm ở thân, đầu mặt, không chấm xuất huyết. Da khô. Phù hợp dùng thuốc chống đông liều thấp.",
+     "k": 0,
+     "hien": "Vài vết bầm nhỏ ở cẳng tay hai bên. Không chấm xuất huyết. Da khô."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói trôi chảy, thỉnh thoảng ngập ngừng tìm từ; gọi đúng tên cái bút, cái đồng hồ. Làm đúng hai trong ba bước của lệnh ba bước. Mặt cân đối, lưỡi giữa, sức cơ 5/5 bốn chi, phản xạ gân xương đều 2+, Babinski (-), cổ mềm. Không dấu thần kinh khu trú (DETeCD-ADRD 2024 khuyến cáo 6).",
+     "k": 1,
+     "hien": "Nói trôi chảy, hiểu lệnh đơn giản. Mặt cân đối, sức cơ bốn chi đều. Không dấu thần kinh khu trú."
+    },
+    "sang_loc_sang": {
+     "a": "4AT: tỉnh táo (0); AMT4: đúng tuổi, ngày sinh, nơi ở, sai năm (1); đọc ngược các tháng được từ tháng 12 đến tháng 8 rồi dừng (1); thay đổi cấp hoặc dao động: không (0). Tổng 2 điểm (thang 0–12: 1–3 gợi ý suy giảm nhận thức, từ 4 gợi ý sảng; Bellelli 2014, Methods; NICE CG103 khuyến cáo 1.6.1). Đợt lảm nhảm do clorpheniramin đã hết hai ngày. Cách tính từng mục: không có trong bản chữ đã tải. Không có sảng.",
+     "k": 1,
+     "hien": "Tỉnh táo. Nói đúng tuổi, ngày sinh và nơi đang ở, sai năm. Đọc ngược các tháng được từ tháng 12 đến tháng 8."
+    },
+    "nhan_thuc_moca": {
+     "a": "MoCA 14/30 (điểm thô): nhớ lại 5 từ 1/5, vẽ đồng hồ sai, sao hình khối kém, sai năm và thứ. Bà học hết lớp 3, thị lực kém nên điểm có thể thấp hơn thực; điểm cắt và hiệu chỉnh học vấn: không có trong tài liệu đã tải; MoCA không nằm trong danh sách NICE NG97 khuyến cáo 1.2.3. Không dùng điểm đơn độc (DETeCD-ADRD 2024 khuyến cáo 7; NG97 khuyến cáo 1.2.4).",
+     "k": 1,
+     "hien": "Làm chậm, hỏi lại hướng dẫn nhiều lần, lúng túng ở phần vẽ đồng hồ và nhớ lại từ."
+    },
+    "tam_than": {
+     "a": "Hợp tác miễn cưỡng, tự ái ('tôi đâu có lú'), nói chậm. Khí sắc không trầm, cười khi nhắc cháu ngoại. Tư duy mạch lạc, có ý tưởng con dâu lấy tiền (nhẹ, không hệ thống). Không ảo thanh, ảo thị. Sai năm, đúng nơi. Không ý tưởng tự hại. Không có ba triệu chứng chính của trầm cảm (QĐ 2058 Bài 20 mục 3.1.1, tr. 119). Điểm cắt thang trầm cảm (nêu ở Bài 1 mục 3.1.2a, tr. 6): không có trong tài liệu đã tải.",
+     "k": 1,
+     "hien": "Hợp tác miễn cưỡng, tự ái, nói chậm. Nói con dâu lấy tiền. Không nghe thấy hay nhìn thấy gì lạ."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 6,1 mmol/L (khoảng 2 giờ sau bữa sáng).",
+     "n": "Đường huyết thuộc bảng chuyển hóa tầng 1 (DETeCD-ADRD 2024 khuyến cáo 8, Bảng 5; QĐ 2058/2020 Bài 1 mục 3.1.2d, tr. 6); làm được ngay tại giường."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Tỷ trọng 1.015, pH 6; protein, glucose, ceton, bạch cầu, nitrit, hồng cầu đều âm tính.",
+     "n": "Nước tiểu: QĐ 2058/2020 Bài 1 mục 3.1.2e (tr. 6); NICE NG97 khuyến cáo 1.2.2. Loại nhiễm trùng tiểu kín đáo (bà tiểu khó vài đêm)."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Rung nhĩ, đáp ứng thất khoảng 76 l/p, QRS hẹp, không biến đổi ST–T cấp.",
+     "n": "Rung nhĩ đã biết; điện tim nằm trong khảo sát cơ bản (ESC AF 2024, Bảng 8). Không đổi hướng xử trí: chấm a."
+    },
+    "ctm": {
+     "v": "e",
+     "r": "BC 6,2 G/L · Hb 122 g/L · MCV 91 fL · TC 228 G/L.",
+     "bang": {
+      "wbc": 6.2,
+      "neu_pct": 62.0,
+      "neu": 3.84,
+      "lym_pct": 28.0,
+      "lym": 1.74,
+      "mono_pct": 7.0,
+      "mono": 0.43,
+      "eos_pct": 2.5,
+      "eos": 0.16,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 4.05,
+      "hgb": 122,
+      "hct": 0.37,
+      "mcv": 91.0,
+      "mch": 30.1,
+      "mchc": 330,
+      "rdw": 13.5,
+      "plt": 228
+     },
+     "n": "Bộ tầng 1 (DETeCD-ADRD 2024 khuyến cáo 8; QĐ 2058/2020 Bài 1 mục 3.1.2b). Thiếu máu là yếu tố chảy máu có thể sửa ở người dùng kháng đông (ESC AF 2024, Hình 10). Thiếu B12 vẫn có khi không thiếu máu (NICE NG239 khuyến cáo 1.2.3)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 6,4 mmol/L · Creatinin 78 µmol/L · eGFR 65 mL/ph/1,73m².",
+     "bang": {
+      "ure": 6.4,
+      "creat": 78,
+      "egfr": 65
+     },
+     "n": "Bảng chuyển hóa tầng 1, gồm canxi (DETeCD-ADRD 2024 khuyến cáo 8, Bảng 5). Creatinin còn là tiêu chí giảm liều apixaban (ESC AF 2024 Bảng 11) và yếu tố chảy máu (Hình 10)."
+    },
+    "lyte": {
+     "v": "e",
+     "r": "Na 138 · K 4,2 · Cl 101 mmol/L.",
+     "bang": {
+      "na": 138,
+      "k": 4.2,
+      "cl": 101
+     },
+     "n": "Natri là yếu tố chuyển hóa gây lú (DETeCD-ADRD 2024 khuyến cáo 8, Bảng 5; QĐ 2058/2020 Bài 1 mục 3.1.2d)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 2,4 mIU/L · FT4 14 pmol/L (trong giới hạn).",
+     "n": "TSH thuộc bộ tầng 1 (DETeCD-ADRD 2024 khuyến cáo 8, Bảng 5); bệnh tuyến giáp thuộc chẩn đoán phân biệt (QĐ 2058/2020 Bài 1 mục 3.2, tr. 7)."
+    },
+    "b12": {
+     "v": "e",
+     "r": "Vitamin B12 toàn phần 388 ng/L (trên 350 ng/L).",
+     "n": "Hai cách. (A) DETeCD-ADRD 2024 khuyến cáo 8, Bảng 5: B12 trong bộ tầng 1 cho hầu hết mọi người. (B) NICE NG239 2024 khuyến cáo 1.2.5–1.2.6: làm khi có triệu chứng VÀ yếu tố nguy cơ; chỉ có triệu chứng thì dùng phán đoán lâm sàng. Bà có triệu chứng, không có yếu tố nguy cơ: cả hai chấp nhận được. NG239 Bảng 1: dưới 180 ng/L khẳng định thiếu, 180–350 chưa kết luận."
+    },
+    "inr": {
+     "v": "n",
+     "r": "INR 1,2. Bà đang dùng apixaban nên INR không phản ánh mức kháng đông.",
+     "n": "INR theo dõi thuốc kháng vitamin K; với DOAC dùng xét nghiệm đặc hiệu như anti-Xa (ESC AF 2024 mục 6.7.2). Bà đã đổi khỏi warfarin nên không cần theo dõi INR."
+    },
+    "ct_nao": {
+     "v": "e",
+     "r": "CT sọ không cản quang: teo vỏ não lan tỏa, giãn nhẹ rãnh cuận hải mã hai bên, vài ổ giảm đậm độ chất trắng quanh não thất (bệnh mạch máu nhỏ nhẹ); không xuất huyết, không tụ máu dưới màng cứng, không khối choán chỗ, không ổ nhồi máu mới. (Nếu làm ở nơi có CT.)",
+     "n": "Hình ảnh cấu trúc cho hầu hết người suy giảm nhận thức; MRI ưu tiên, CT nếu không có MRI (DETeCD-ADRD 2024 khuyến cáo 9; NICE NG97 khuyến cáo 1.2.13; QĐ 2058/2020 Bài 1 mục 3.1.2f, tr. 7). Teo não hay giảm đậm độ chất trắng không mặc nhiên là 'do tuổi' (khuyến cáo 9). Rung nhĩ làm tăng nguy cơ sa sút mạch máu (ESC AF 2024 mục 3.5). Phòng khám không có CT, MRI: chụp ở bệnh viện tỉnh theo hẹn; mức khẩn cho người dùng kháng đông: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Sa sút trí tuệ giai đoạn sớm (nghĩ nhiều Alzheimer hoặc thể hỗn hợp có thành phần mạch máu do rung nhĩ) có biểu hiện tâm thần: hoang tưởng mất đồ nhẹ, bồn chồn chiều tối, mất ngủ; chưa có hình ảnh và xét nghiệm nguyên nhân hồi phục",
+     "ok": 1,
+     "n": "QĐ 2058/2020 Bài 1 mục 3.1.1 (tr. 5–6): triệu chứng trên 6 tháng (14 tháng); suy giảm trí nhớ gần, rối loạn định hướng; ý thức tỉnh; hoang tưởng (30–40%), hội chứng hoàng hôn. DETeCD-ADRD 2024 Bảng 1: giảm so với trước, ảnh hưởng chức năng, không do sảng hay bệnh tâm thần chính. 'Giai đoạn sớm': còn tự chăm sóc; thang phân độ nhẹ–vừa–nặng không có trong tài liệu đã tải. Trên 80 tuổi thường nhiều bệnh lý não cùng lúc (Box 3); rung nhĩ liên quan sa sút mạch máu (ESC AF 2024 mục 3.5). Phân thể cần hình ảnh, chuyên khoa (NICE NG97 khuyến cáo 1.2.9, 1.2.12)."
+    },
+    {
+     "t": "Trầm cảm (giai đoạn trầm cảm, 'giả sa sút' do trầm cảm)",
+     "n": "Loại trừ: không khí sắc trầm, còn thích cải lương, ăn ngon, không ý tưởng tự hại; thể nhẹ cần 2/3 triệu chứng chính kéo dài ít nhất 2 tuần (QĐ 2058/2020 Bài 20 mục 3.1.1, tr. 119–120). Đổi khí sắc là triệu chứng sớm của Alzheimer nên đánh giá lại khi theo dõi (DETeCD-ADRD 2024, Box 3). Điểm cắt thang trầm cảm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Mê sảng, kể cả do thuốc (clorpheniramin tự mua) hoặc mê sảng chồng lên sa sút trí tuệ",
+     "n": "Loại trừ lúc này: khởi phát từ từ 14 tháng, tỉnh, không dao động, 4AT 2 điểm, không sốt, SpO₂ 96%. Ba đêm lảm nhảm sau clorpheniramin là sảng do thuốc thoáng qua, đã hết hai ngày (Beers 2023 Bảng 2; QĐ 2058/2020 Bài 4 mục 2, tr. 25). QĐ 2058 Bài 4 mục 3.3 (tr. 27): sảng cấp, dao động; sa sút trí tuệ từ từ, tỉnh táo. Bellelli 2014: từ 4 điểm gợi ý sảng; NICE CG103 khuyến cáo 1.3.1, 1.6.1, 1.6.3."
+    },
+    {
+     "t": "Thiếu vitamin B12, suy giáp và rối loạn chuyển hóa khác (nguyên nhân hồi phục được)",
+     "n": "Khả năng thấp, xét nghiệm hôm nay: ăn cá trứng đều, không thuốc dạ dày hay metformin, không tê bì (NICE NG239 Hộp 1–2; QĐ 2058/2020 Bài 1 mục 3.2, tr. 7). Hiếm là nguyên nhân chính, thường chỉ làm nặng thêm (DETeCD-ADRD 2024, bình luận khuyến cáo 8)."
+    },
+    {
+     "t": "Tổn thương cấu trúc não: tụ máu dưới màng cứng mạn, u não, nhồi máu não hoặc sa sút mạch máu, não úng thủy áp lực bình thường",
+     "n": "Chưa loại trừ vì không có CT, MRI; nghĩ ít: không té, không va đầu, không đau đầu nôn, không dấu khu trú, tiến triển chậm không theo bậc thang (DETeCD-ADRD 2024 khuyến cáo 9; NICE NG97 khuyến cáo 1.2.13). Đang dùng kháng đông nên cần chụp có hẹn; tụ máu dưới màng cứng ở người dùng kháng đông: không có trong tài liệu đã tải (nhận xét lâm sàng). Sa sút do xuất huyết dưới màng cứng: QĐ 2058/2020 Bài 2 mục 2, tr. 11."
+    },
+    {
+     "t": "Tác dụng của thuốc đang dùng: apixaban gây lú, hoặc thuốc kháng cholinergic tự mua",
+     "n": "Apixaban: triệu chứng có từ 14 tháng, trước khi đổi thuốc; tác dụng phụ thần kinh–tâm thần của apixaban: không có trong tài liệu đã tải. Clorpheniramin chỉ làm nặng thêm tạm thời, đã ngưng (NICE NG97 khuyến cáo 1.6.1–1.6.2; Beers 2023 Bảng 3)."
+    },
+    {
+     "t": "Nhiễm trùng, rối loạn loạn thần nguyên phát khởi phát muộn, hoặc các thể sa sút khác (Lewy, Parkinson, trán–thái dương)",
+     "n": "Ít nghĩ: không sốt, ho, tiểu buốt, que nước tiểu âm tính, diễn tiến trên 6 tháng (NICE CG103 khuyến cáo 1.4.7); hoang tưởng nhẹ, không hệ thống, không ảo thanh, trên nền suy giảm trí nhớ, khác tâm thần phân liệt (QĐ 2058/2020 Bài 4 mục 3.3, tr. 27); không ảo thị, mơ la hét, run nghỉ (QĐ 2058 Bài 1 mục 3.2; NICE NG97 khuyến cáo 1.2.9–1.2.12)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Cho bà về nhà hôm nay: lấy máu làm bộ xét nghiệm nhận thức tại phòng khám (công thức máu, ure–creatinin, điện giải, đường huyết, TSH, B12, CRP); hẹn chụp CT sọ (hoặc MRI nếu có) ở bệnh viện tỉnh trong vài ngày đến hai tuần, viết thư giới thiệu phòng khám trí nhớ hoặc tâm thần–thần kinh–lão khoa; tái khám lấy kết quả sau 1–2 tuần",
+     "v": "c",
+     "n": "Đánh giá theo tầng: bệnh sử có người nhà, khám, trắc nghiệm nhận thức, xét nghiệm tầng 1, hình ảnh cấu trúc (DETeCD-ADRD 2024 khuyến cáo 1, 3, 6–9, Bảng 5); NICE NG97 khuyến cáo 1.2.2, 1.2.6, 1.2.13; QĐ 2058/2020 Bài 1 mục 3.1.2 (tr. 6–7). Cho về vì không sảng (4AT 2 điểm), không dấu khu trú; chuyển khẩn dành cho thể không điển hình, tiến triển nhanh, khởi phát trước 65 tuổi hoặc sảng (khuyến cáo 12). Khung 'vài ngày đến hai tuần' vì đang dùng kháng đông: nhận xét lâm sàng. Tiêu chuẩn nhập viện/chuyển tuyến cho sa sút nhẹ: không có trong tài liệu đã tải. B12 hai cách (DETeCD khuyến cáo 8; NICE NG239 khuyến cáo 1.2.5–1.2.6): gộp hay không đều chấp nhận được."
+    },
+    {
+     "t": "Tiếp tục apixaban 2,5 mg × 2 lần/ngày như đơn bệnh viện tỉnh, không tự ngưng hay đổi; giải thích thuốc mới không phải nguyên nhân của chứng quên (đã quên từ 14 tháng); chị Hồng tiếp tục chia hộp thuốc và nhìn bà uống",
+     "v": "c",
+     "n": "Chỉ định kháng đông: CHA₂DS₂-VA từ 2 (tuổi từ 75 tính 2 điểm; ESC AF 2024 Bảng 10; Bảng khuyến cáo 6). DOAC ưu tiên hơn warfarin, đổi khi TTR dưới 70% (Bảng khuyến cáo 7, Class I); Beers 2023 Bảng 2: mọi DOAC ít xuất huyết nội sọ hơn warfarin. Liều 2,5 mg khi đủ 2/3: tuổi từ 80, cân từ 60 kg trở xuống, creatinin từ 133 µmol/L (Bảng 11): bà 82 tuổi, 46 kg. Sa sút trí tuệ là yếu tố chảy máu không sửa được nên xem lại thường xuyên hơn, hiếm khi là lý do ngưng (mục 6.7.1; Hình 10). Hộp chia thuốc: mục 8, tr. 3350."
+    },
+    {
+     "t": "Rà thuốc: ngưng hẳn clorpheniramin và mọi thuốc dị ứng, ngủ, cảm tự mua; không tự mua thuốc giảm đau chống viêm (diclofenac, ibuprofen...) khi đang dùng thuốc kháng đông; mất ngủ xử trí bằng cách không dùng thuốc",
+     "v": "c",
+     "n": "Kháng histamin thế hệ 1 (clorpheniramin): tránh (Beers 2023 Bảng 2); tránh kháng cholinergic, benzodiazepin, nhóm Z ở người sa sút (Bảng 3); NICE NG97 khuyến cáo 1.6.1–1.6.2. NSAID không COX-2: tránh dùng ngắn ngày theo lịch cùng thuốc chống đông (Beers Bảng 2; ESC AF 2024 mục 6.7.1)."
+    },
+    {
+     "t": "Trả lời việc giấy tờ: hôm nay là khám bệnh, chưa phải khám sức khỏe cấp giấy nên chưa ghi giấy 'bình thường, còn minh mẫn'; nếu cần thì hẹn khám sức khỏe theo mẫu, ghi trung thực rung nhĩ, kháng đông, suy giảm trí nhớ đang đánh giá; năng lực làm giấy chia ruộng thuộc chuyên khoa; hỏi riêng bà có ai ép không",
+     "v": "c",
+     "n": "TT 32/2023/TT-BYT (TL-0669) Điều 30 khoản 2a: khám bệnh ngoại trú không thuộc phạm vi khám sức khỏe; Điều 32 khoản 3, Điều 36 khoản 6: khám theo yêu cầu không đủ chuyên khoa thì chỉ kết luận từng chuyên khoa, không phân loại; Điều 37 khoản 3b: có bệnh, tật thì tư vấn điều trị hoặc giới thiệu. TT 25/2026/TT-BYT (TL-0668) Phụ lục Mẫu số 03 (từ đủ 18 tuổi, mục IV: bệnh, tật), Mẫu số 04 giấy khám sức khỏe tâm thần (mục V.2: năng lực nhận thức). Ai cấp giấy xác nhận 'minh mẫn' cho giao dịch dân sự: không có trong tài liệu đã tải. Khả năng hiểu: DETeCD-ADRD 2024 khuyến cáo 2, 10. Hỏi riêng bà có ai ép không: nhận xét lâm sàng."
+    },
+    {
+     "t": "Trấn an, nói chuyện với cả bà và chị Hồng: hỏi bà sợ điều gì, tôn trọng lòng tự ái, giải thích đây là thay đổi trí nhớ cần tìm nguyên nhân chứ không phải 'điên', chưa kết luận cho đến khi có kết quả; hỏi ý bà trước khi nói với con",
+     "v": "c",
+     "n": "Giao tiếp lấy bệnh nhân làm trung tâm, đánh giá khả năng hiểu (DETeCD-ADRD 2024 khuyến cáo 2, 10); thông báo trung thực, nhân ái (khuyến cáo 11); NICE NG97 khuyến cáo 1.1.1, 1.1.6–1.1.7. Lời nói cụ thể: nhận xét lâm sàng."
+    },
+    {
+     "t": "An toàn tại nhà: không để bà một mình với bếp củi; cất dao, thuốc trừ sâu; không ra vườn, ruộng một mình lúc chiều tối; thẻ tên có số điện thoại; giờ ngủ–thức cố định, ra nắng sáng, đi bộ nhẹ, hạn chế ngủ ngày, đèn nhỏ ban đêm",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 1 mục 4.3.2 (môi trường an toàn, vệ sinh giấc ngủ; tr. 9); NICE NG97 khuyến cáo 1.7.1–1.7.2, 1.7.14; mhGAP 2023 DEM3 khuyến cáo 3.1 (vận động 3–4 lần/tuần, 30–45 phút, trên 12 tuần). Thẻ tên, cất thuốc trừ sâu: nhận xét lâm sàng."
+    },
+    {
+     "t": "Dặn quay lại ngay hoặc gọi cấp cứu: té hoặc va đầu (dù nhẹ, vì đang dùng kháng đông), đau đầu dữ dội, nôn, lơ mơ đột ngột, yếu liệt, méo miệng, nói khó, co giật, phân đen, nôn ra máu, chảy máu không cầm; bà đi lạc không tìm thấy",
+     "v": "c",
+     "n": "Thay đổi cấp gợi sảng, cấp cứu y khoa (DETeCD-ADRD 2024 khuyến cáo 12; NICE CG103 khuyến cáo 1.3.1); chảy máu ở người dùng DOAC cần đánh giá nơi chảy, mức độ (ESC AF 2024 mục 6.7.2); nguy cơ gây hại là tiêu chí đánh giá lại ngay (NICE NG97 khuyến cáo 1.7.3). Té/va đầu ở người dùng kháng đông: nhận xét lâm sàng."
+    },
+    {
+     "t": "Tự ý ngưng apixaban 'vì sợ thuốc làm lú', đổi lại warfarin 'cho quen thuốc cũ', hoặc để bà dùng cả warfarin cũ còn lại",
+     "v": "h",
+     "n": "Ngưng không thay thuốc làm mất bảo vệ đột quỵ; yếu tố chảy máu hiếm khi là lý do ngưng (ESC AF 2024 mục 6.7.1; Bảng khuyến cáo 6). Đổi lại warfarin: bà không giữ được TTR, chuyển DOAC khi TTR dưới 70% (Bảng khuyến cáo 7, Class I); Beers 2023 Bảng 2: warfarin nhiều xuất huyết nội sọ hơn DOAC; chứng quên có từ trước khi đổi thuốc. Dùng cả hai thuốc chống đông: không có trong tài liệu đã tải mô tả riêng, suy từ hai thuốc cùng tác dụng."
+    },
+    {
+     "t": "Kê kháng histamin, thuốc ngủ (benzodiazepin, nhóm Z) hoặc thuốc an thần kinh (risperidon, haloperidol...) để bà ngủ được và bớt nghi",
+     "v": "w",
+     "n": "Cả hai cách. QĐ 2058/2020 Bài 1 mục 4.3.1b (tr. 8) liệt kê thuốc an thần kinh (risperidon 1–10 mg/ngày, haloperidol 0,5–20 mg/ngày...) cho hoang tưởng, không nêu điều kiện. NICE NG97 khuyến cáo 1.7.1–1.7.3: can thiệp tâm lý xã hội trước, chỉ dùng khi có nguy cơ gây hại hoặc đau khổ nặng; AGS Beers 2023 Bảng 3: tránh chống loạn thần (đột quỵ, suy giảm nhận thức, tử vong) trừ khi biện pháp không dùng thuốc thất bại hoặc đe dọa gây hại nghiêm trọng; tránh benzodiazepin, nhóm Z, kháng cholinergic. Khác nhau vì QĐ 2058 là hướng dẫn chung ICD-10, NICE và Beers riêng cho sa sút trí tuệ. Bà chưa thử biện pháp không dùng thuốc: chấm w vì Beers nêu rõ hại."
+    },
+    {
+     "t": "Cấp ngay giấy 'sức khỏe bình thường, còn minh mẫn' cho bà đem đi công chứng",
+     "v": "w",
+     "n": "Mẫu giấy yêu cầu ghi bệnh, tật (TT 25/2026 Mẫu số 03 mục IV); khám bệnh ngoại trú không phải khám sức khỏe cấp giấy (TT 32/2023 Điều 30 khoản 2a). MoCA 14/30, rung nhĩ, sa sút đang đánh giá: không có cơ sở ghi 'bình thường'. Không nguồn nào nói thẳng đó là gây hại; chấm w theo cách ghi giấy khám sức khỏe đã có trong sổ mâu thuẫn."
+    },
+    {
+     "t": "Đưa bà nhập viện bệnh viện huyện hoặc chuyển bệnh viện tỉnh ngay hôm nay",
+     "v": "a",
+     "n": "Không có chỉ định cấp cứu (4AT 2 điểm, sinh hiệu bình thường, không dấu khu trú, không té). Nhập viện làm tăng nguy cơ sảng (NICE NG97 khuyến cáo 1.9.1). Không hại nặng nhưng tốn kém, bà hoảng hơn: chấm a."
+    },
+    {
+     "t": "Cho thêm thuốc 'bổ não' (piracetam, ginkgo biloba, citicholin...) hoặc melatonin để ngủ",
+     "v": "a",
+     "n": "Cả hai cách. QĐ 2058/2020 Bài 1 mục 4.3.1a (tr. 7–8) liệt kê piracetam 400–1200 mg/ngày, ginkgo biloba 80–120 mg/ngày, citicholin 100–1000 mg/ngày; NICE NG97 khuyến cáo 1.4.6: không dùng ginseng, vitamin E, chế phẩm thảo dược; 1.7.13: không dùng melatonin cho mất ngủ ở người Alzheimer. Không hại rõ: chấm a."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Sa sút trí tuệ giai đoạn sớm (nghĩ nhiều Alzheimer hoặc thể hỗn hợp có thành phần mạch máu) có biểu hiện tâm thần: hoang tưởng mất đồ nhẹ, bồn chồn chiều tối, mất ngủ. Triệu chứng 14 tháng, trí nhớ gần giảm, hỏng việc phức tạp, còn tự chăm sóc; MoCA 14/30, 4AT 2 điểm",
+     "Đã loại trừ trên lâm sàng: trầm cảm, sảng (kể cả sảng thoáng qua do clorpheniramin, đã hết), nhiễm trùng. Chưa loại trừ bằng xét nghiệm, hình ảnh: thiếu B12, bệnh tuyến giáp, tổn thương cấu trúc não (máu hôm nay, CT/MRI ở bệnh viện tỉnh)",
+     "Bệnh kèm: rung nhĩ đang dùng apixaban 2,5 mg × 2 (đổi từ warfarin vì INR dao động); đục thể thủy tinh nhẹ. Đổi thuốc là mốc nhà để ý, không phải nguyên nhân",
+     "Lý do thật đi khám: xin giấy 'còn minh mẫn' để làm giấy chia ruộng; nỗi sợ sâu hơn là bị coi là lẫn rồi con cháu quyết thay"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: nghe cả bà và chị Hồng; mốc, tốc độ khởi phát; trí nhớ; chức năng; hoang tưởng; giấc ngủ; khí sắc; lơ mơ; sốt, ho, tiểu; té, va đầu (đang dùng kháng đông); thuốc đang dùng và thuốc tự mua (tên, số viên, mấy đêm); bà mong gì hôm nay (DETeCD-ADRD 2024 khuyến cáo 4–5; NICE NG97 khuyến cáo 1.2.1)",
+     "Khám: sinh hiệu, tim, da, tuyến giáp; thần kinh tập trung; thị lực, thính lực; 4AT loại sảng (NICE CG103 khuyến cáo 1.6.1; Bellelli 2014); MoCA, không dùng điểm đơn độc (DETeCD-ADRD 2024 khuyến cáo 6–7; NICE NG97 khuyến cáo 1.2.3–1.2.4); khám tâm thần",
+     "Cận lâm sàng: làm được bộ máu tầng 1 hôm nay, thiếu CT/MRI nên hẹn bệnh viện tỉnh (DETeCD-ADRD 2024 khuyến cáo 8–9, Bảng 5; NICE NG97 khuyến cáo 1.2.2, 1.2.13; QĐ 2058/2020 Bài 1 mục 3.1.2). INR không cần khi dùng apixaban (ESC AF 2024 mục 6.7.2). Không làm PET, dịch não tủy, điện não đồ, gen (NICE NG97 khuyến cáo 1.2.14, 1.2.18)",
+     "Vì sao là sa sút trí tuệ sớm chứ không phải trầm cảm hay sảng: khởi phát từ từ trên 6 tháng, ý thức tỉnh, không dao động, hỏng trí nhớ gần và việc phức tạp, không có triệu chứng chính của trầm cảm (QĐ 2058/2020 Bài 1 mục 3.1.1; Bài 4 mục 3.3; Bài 20 mục 3.1.1). Hoang tưởng (30–40%) thường gặp trong sa sút trí tuệ (Bài 1 mục 3.1.1b)",
+     "Dừng lại tự hỏi: 'lú sau đổi thuốc' và 'ba đêm nói sảng' dễ làm nghĩ do apixaban hay sảng đang diễn ra, kéo tới ngưng thuốc hoặc nhập viện. Dữ kiện ngược lại: triệu chứng 14 tháng trước khi đổi thuốc, 4AT 2 điểm, đã ngưng clorpheniramin (DETeCD-ADRD 2024, bình luận khuyến cáo 8–9)"
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng đúng: cho về, lấy máu hôm nay, hẹn CT/MRI ở bệnh viện tỉnh trong vài ngày đến hai tuần, giới thiệu chuyên khoa, tái khám sau 1–2 tuần. Không sảng, không dấu cấp hay nguy cơ gây hại trước mắt; không có CT nên chuyển có lý do (hình ảnh cấu trúc cho hầu hết người suy giảm nhận thức; đang dùng kháng đông). Tiêu chuẩn nhập viện/chuyển tuyến cho sa sút nhẹ: không có trong tài liệu đã tải",
+     "Thuốc: giữ apixaban 2,5 mg × 2 (ESC AF 2024 Bảng 10, 11; Bảng khuyến cáo 6–7); không ngưng, không đổi lại warfarin; ngưng clorpheniramin; không kê thuốc ngủ, an thần kinh: ghi cả hai cách (QĐ 2058 mục 4.3.1b so với NICE NG97 khuyến cáo 1.7.1–1.7.3, Beers 2023 Bảng 3). Chưa khởi thuốc sa sút trí tuệ (NICE NG97 khuyến cáo 1.5.5). Thuốc bổ não: ghi cả hai cách (QĐ 2058 mục 4.3.1a so với NG97 khuyến cáo 1.4.6)",
+     "Giấy tờ: hôm nay chưa cấp giấy 'bình thường'; nếu cần thì khám theo mẫu, ghi trung thực; năng lực làm giao dịch do chuyên khoa (TT 32/2023 Điều 30 khoản 2a, Điều 32 khoản 3, Điều 37 khoản 3b; TT 25/2026 Mẫu số 03 mục IV, Mẫu số 04 mục V.2). An toàn, lối sống (QĐ 2058 Bài 1 mục 4.3.2, 6; mhGAP 2023 DEM3 3.1); hỗ trợ người chăm sóc (mhGAP 2023 DEM1 1.1–1.3)",
+     "Ghi chú áp dụng (từ 75 tuổi): trắc nghiệm ngắn có thể thiếu thông tin ở người rất già hoặc ít học (DETeCD-ADRD 2024 khuyến cáo 7); trên 80 tuổi thường nhiều bệnh lý não cùng lúc (Box 3); liều apixaban giảm theo tuổi từ 80 (ESC AF 2024 Bảng 11); dữ liệu DOAC ở người trên 80 có thể nhiễu do thiên lệch kê đơn (mục 6.2.1). Số liệu riêng nhóm rất cao tuổi: không có trong tài liệu đã tải"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Apixaban (thuốc bà đang dùng, tiếp tục theo đơn bệnh viện tỉnh)",
+      "ham_luong": "2,5 mg/viên (liều giảm theo ESC AF 2024 Bảng 11)",
+      "lieu": "2,5 mg × 2 lần/ngày; đủ 2 trong 3 tiêu chí giảm liều: tuổi từ 80, cân từ 60 kg trở xuống (ESC AF 2024 Bảng 11); creatinin 78 µmol/L (dưới 133)",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối đều đặn; chị Hồng chia hộp 7 ngăn và nhìn bà uống (ESC AF 2024 mục 8, tr. 3350)",
+      "so_ngay": "Dài hạn theo chỉ định của bệnh viện tỉnh",
+      "ghi_chu": "Không cần thử INR (ESC AF 2024 mục 6.7.2). Không tự ngưng. Beers 2023 Bảng 2: DOAC ưu tiên hơn warfarin. Warfarin cũ giao lại bệnh viện hoặc bỏ. Xử trí quên liều: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Không kê clorpheniramin và thuốc dị ứng thế hệ 1, thuốc ngủ (benzodiazepin, nhóm Z), thuốc an thần kinh, thuốc giảm đau chống viêm (NSAID); không kê kháng sinh",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Beers 2023 Bảng 2 (kháng histamin thế hệ 1; NSAID cùng thuốc chống đông), Bảng 3; NICE NG97 khuyến cáo 1.6.1–1.6.2, 1.7.1–1.7.3. QĐ 2058/2020 Bài 1 mục 4.3.1b (tr. 8) có liệt kê thuốc an thần kinh; ca này chưa thử biện pháp không dùng thuốc. Không có bằng chứng nhiễm khuẩn nên không kháng sinh."
+     },
+     {
+      "thuoc": "Chưa khởi thuốc sa sút trí tuệ hôm nay (donepezil, rivastigmin, galantamin)",
+      "ham_luong": "—",
+      "lieu": "Chuyên khoa quyết định sau kết quả; khoảng liều: donepezil 5–23 mg/ngày, rivastigmin 1,5–12 mg/ngày, galantamin 8–24 mg/ngày (QĐ 2058/2020 Bài 1 mục 4.3.1a, tr. 7)",
+      "duong": "—",
+      "thoi_diem": "Sau chẩn đoán chuyên khoa",
+      "so_ngay": "—",
+      "ghi_chu": "NICE NG97 khuyến cáo 1.5.2, 1.5.5: khởi trị theo tư vấn người có chuyên môn. Liều khởi đầu: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Với bà (tự ái): 'Bà Nhờ không lú đâu. Trí nhớ gần của bà đang yếu dần, bác sĩ muốn tìm xem có do thiếu chất hay bệnh gì chữa được không. Hôm nay lấy máu, rồi hẹn bà chụp hình đầu ở bệnh viện tỉnh để biết chắc'",
+     "Về thuốc mới: 'Thuốc apixaban không làm bà quên; bà quên từ trước khi đổi. Thuốc này giúp bà khỏi đột quỵ vì tim đập không đều, đừng bỏ, đừng uống lại warfarin cũ. Đừng tự mua thuốc ngủ, dị ứng hay giảm đau ở tiệm; cái gì cũng đưa chị Hồng xem hoặc hỏi bác sĩ'",
+     "Về tờ giấy: 'Hôm nay bác sĩ khám bệnh, chưa phải khám cấp giấy sức khỏe nên chưa ghi giấy. Muốn làm giấy chia ruộng, ta khám đúng mẫu và nhờ chuyên khoa xem xét. Chuyện chia ruộng là ý của bà, cứ nói riêng với bác sĩ nếu có ai thúc'",
+     "Hẹn: lấy kết quả máu sau vài ngày; chụp CT hoặc MRI sọ ở bệnh viện tỉnh trong vài ngày đến hai tuần (DETeCD-ADRD 2024 khuyến cáo 9; mốc ngày: nhận xét lâm sàng), mang thư giới thiệu và thuốc đang uống; tái khám sau 1–2 tuần mang kết quả",
+     "An toàn: có người ở cùng khi nấu ăn, không một mình ra ruộng chiều tối, cất dao và thuốc trừ sâu; thẻ tên có số điện thoại",
+     "Sinh hoạt: ngủ dậy đúng giờ, ra nắng sáng, đi bộ nhẹ, ban ngày không ngủ nhiều, đèn nhỏ ban đêm (QĐ 2058/2020 Bài 1 mục 4.3.2; NICE NG97 khuyến cáo 1.7.14; mhGAP 2023 DEM3 3.1)",
+     "Với chị Hồng: cùng bà đi tìm đồ thay vì cãi chuyện mất tiền; chia việc chăm sóc cho anh em (mhGAP 2023 DEM1 khuyến cáo 1.1–1.3)"
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Nhờ về nhà với chị Hồng, tiếp tục apixaban 2,5 mg × 2, bỏ clorpheniramin, không dùng thuốc ngủ. Kết cục thiết kế (ổn định): xét nghiệm máu bình thường; CT sọ ở bệnh viện tỉnh ghi teo vỏ não, không tụ máu; phòng khám trí nhớ xác nhận sa sút trí tuệ sớm và lập kế hoạch chăm sóc; bà không té, không nhập viện; chuyện chia ruộng được chuyên khoa xem xét năng lực theo từng quyết định thay vì dựa vào tờ giấy 'bình thường'. Bài học: sa sút trí tuệ sớm hay bị gán cho 'thuốc mới' hoặc 'tuổi già'; hỏi từng thuốc tự mua và hỏi bà mong gì hôm nay mới ra lý do thật.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: bà tự mua clorpheniramin ở tạp hóa, uống ba đêm rồi ngưng; nếu không hỏi từng loại, số viên, mấy đêm thì khai thiếu. Thuốc làm nặng thêm tạm thời, dễ nhầm với sảng đang diễn ra hoặc tác dụng thuốc chống đông mới.",
+  "Gia đình quy chứng quên cho 'thuốc mới đổi ba tuần': thực ra triệu chứng có từ 14 tháng; nguy cơ bà bị ngưng kháng đông hoặc đổi lại warfarin.",
+  "Bà tự ái, phủ nhận bệnh và giấu lý do thật (xin giấy 'còn minh mẫn' để chia ruộng); chị Hồng ngại nói vì sợ mẹ bị coi là mất năng lực."
+ ],
+ "bai_hoc_bien": [
+  "Hay quên tăng dần trên 6 tháng, ý thức tỉnh, hỏng việc phức tạp: nghĩ sa sút trí tuệ; hỏi người nhà, không gán 'tuổi già' hay 'thuốc mới' (QĐ 2058/2020 Bài 1 mục 3.1.1; DETeCD-ADRD 2024 khuyến cáo 1, 4).",
+  "Hỏi từng thuốc tự mua (tên, số viên, mấy đêm), rà gánh nặng kháng cholinergic, loại sảng bằng 4AT (NICE NG97 khuyến cáo 1.2.6, 1.6.1–1.6.2; NICE CG103 khuyến cáo 1.6.1).",
+  "Không có CT vẫn quyết định được: hỏi bệnh, khám thần kinh, 4AT, MoCA, lấy máu tầng 1 tại chỗ, và chuyển có hẹn, có lý do (đang dùng kháng đông) thay vì chuyển khẩn hay bỏ qua (DETeCD-ADRD 2024 khuyến cáo 8–9, 12).",
+  "Người rung nhĩ dùng DOAC bị lú: không ngưng thuốc; yếu tố chảy máu hiếm khi là lý do ngưng; chia hộp thuốc nhờ người nhà (ESC AF 2024 mục 6.7.1, mục 8)."
+ ],
+ "diem_nho": [
+  "Sa sút trí tuệ: triệu chứng ít nhất 6 tháng, suy giảm trí nhớ và một lĩnh vực nhận thức khác, không rối loạn ý thức (QĐ 2058 Bài 1 mục 3.1.1c); mê sảng khởi phát cấp, dao động (Bài 4 mục 3.3). 4AT từ 4 điểm trở lên gợi ý mê sảng (Bellelli 2014)."
+ ],
+ "nguon": [
+  "BYT – QĐ 2058/QĐ-BYT ngày 14/5/2020, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 1 (mục 3.1.1–3.2, 4.3.1–4.3.2, 6; tr. 5–10); Bài 2 (mục 2, tr. 11); Bài 4 (mục 2, 3.3; tr. 25–27); Bài 20 (mục 3.1.1, tr. 119–120).",
+  "Alzheimer's Association – DETeCD-ADRD, Alzheimers Dement 2024;21(6):e14333 – TL-0457 – khuyến cáo 1–12, 15–18, Bảng 1, Bảng 5, Box 3–4.",
+  "NICE – Dementia (NG97), 2018 – TL-0479 – khuyến cáo 1.1.1, 1.1.6–1.1.7, 1.2.1–1.2.6, 1.2.9–1.2.14, 1.2.18, 1.2.32, 1.4.6, 1.5.2, 1.5.5, 1.6.1–1.6.2, 1.7.1–1.7.3, 1.7.13–1.7.14, 1.9.1.",
+  "NICE – Delirium (CG103), 2010, cập nhật 2023 – TL-0108 – khuyến cáo 1.2.1, 1.3.1, 1.4.7, 1.6.1–1.6.3.",
+  "Bellelli G và cs. – Validation of the 4AT. Age Ageing 2014;43(4):496-502 – TL-0597 – Methods.",
+  "NICE – Vitamin B12 deficiency in over 16s (NG239), 2024 – TL-0462 – khuyến cáo 1.2.3–1.2.6, Hộp 1–2, Bảng 1.",
+  "AGS Beers Criteria 2023 – TL-0022 – Bảng 2 (kháng histamin thế hệ 1; warfarin; NSAID), Bảng 3 (Dementia or cognitive impairment).",
+  "ESC Guidelines for the management of atrial fibrillation 2024, Eur Heart J 2024;45:3314 – TL-0303 – mục 3.5, 6.7.1, 6.7.2, 8 (tr. 3350), Bảng 8, 10, 11, Bảng khuyến cáo 6–7, Hình 9–10.",
+  "WHO – mhGAP guideline, ấn bản 3, 2023 – TL-0573 – DEM1 (1.1–1.3), DEM3 (3.1–3.2).",
+  "BYT – Thông tư 32/2023/TT-BYT – TL-0669 – Điều 30 khoản 2a, Điều 32 khoản 3, Điều 36 khoản 6, Điều 37 khoản 3b.",
+  "BYT – Thông tư 25/2026/TT-BYT – TL-0668 – Phụ lục XXIV, Mẫu số 03 (mục IV), Mẫu số 04 (mục V.2)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết ngày 2026-11-19. Đã đọc: TL-0443 (Bài 1, 2, 4, 20), TL-0457 (khuyến cáo 1–12, Box 3–4, Bảng 5), TL-0479 (1.1, 1.2, 1.4–1.7, 1.9), TL-0108 (1.2, 1.3, 1.6), TL-0597 (Methods), TL-0462 (1.2, Bảng 1), TL-0022 (Bảng 2, 3), TL-0303 (3.5, 6.2, 6.7, 8, Bảng 10–11, Hình 9–10), TL-0573 (DEM1, DEM3), TL-0669 (Điều 30, 32, 36, 37), TL-0668 (Mẫu 03, 04).",
+  "Thiếu tài liệu: thang phân độ sa sút trí tuệ; điểm cắt MoCA, thang trầm cảm; cách tính từng mục 4AT; tiêu chuẩn nhập viện/chuyển tuyến cho sa sút nhẹ; mức khẩn chụp hình ảnh não và tụ máu dưới màng cứng ở người dùng kháng đông; tác dụng phụ thần kinh–tâm thần của apixaban; xử trí quên liều apixaban; liều khởi đầu thuốc ức chế cholinesterase; ai cấp giấy xác nhận năng lực cho giao dịch dân sự và khi nào dùng Mẫu số 04; số liệu riêng nhóm từ 85 tuổi.",
+  "Số liệu thiết kế: kết quả xét nghiệm và CT (khai 'nếu làm ở nơi có'), MoCA 14/30, 4AT 2 điểm, tên nhân vật, khoảng cách bệnh viện tỉnh. Tim rung nhĩ không gắn media (kho chưa có tệp); phổi dùng AT-PHOI-BT-NL-01.",
+  "Mâu thuẫn ghi cả hai cách theo mục sẵn có trong sổ (từ TT-0341): thuốc an thần kinh; thuốc bổ não; xét nghiệm B12. Giấy khám sức khỏe: theo ghi nhận sẵn có trong sổ. Không có mâu thuẫn mới."
+ ]
+}
