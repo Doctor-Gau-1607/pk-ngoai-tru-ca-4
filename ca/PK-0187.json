@@ -1,0 +1,796 @@
+{
+ "ma_ca": "PK-0187",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "PK_rong_huyet_tien_man_kinh_khong_xet_nghiem_doi_truyen_dich",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Rong kinh / rong huyết",
+  "chan_doan_phai_loai_tru": [
+   "U xơ TC",
+   "Ung thư nội mạc",
+   "Rối loạn đông máu"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Bán hàng online",
+  "yeu_to_khoi_phat": "Sau chơi thể thao",
+  "thuoc_dang_dung": "NSAID tự mua",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm"
+ },
+ "benh_nhan": {
+  "ten": "Lâm Thị Mai Hương",
+  "tuoi": 47,
+  "gioi": "Nữ",
+  "nghe": "Nhân viên bán hàng online: livestream mỹ phẩm, đồ gia dụng mỗi tối khoảng 4 giờ, ban ngày chốt đơn cho công ty thương mại điện tử nhỏ",
+  "can_nang": 61,
+  "chieu_cao": 156,
+  "xung_ho": "Bác sĩ gọi chị là 'chị'. Chị tự xưng 'em' theo thói quen livestream, gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhảu, niềm nở kiểu người bán hàng, hay 'dạ chị ơi', pha trò để che mệt. Chạy theo doanh số, sợ lên hình xanh xao, sợ bị thay người live. Gọi thuốc cầm máu là 'thuốc cầm', chai truyền là 'sạc pin'. Tin 'đánh pickleball mạnh quá làm vỡ mạch trong bụng'.",
+  "kieu_nhieu": "Đòi truyền dịch: vừa ngồi xuống đã xin 'cho em một chai nước, thêm vitamin, thuốc bổ máu để tối nay còn live', kể chị đồng nghiệp truyền một chai là khỏe re. Bị từ chối cộc thì nài thêm và nói sẽ ra phòng khám khác truyền. Hỏi vì sao cần khỏe ngay tối nay thì lộ chuyện công ty đòi giấy; giải thích cụ thể chai dịch không đưa thêm máu hay sắt và nêu việc sẽ làm thay (cầm máu, bù sắt, giấy nghỉ ngắn) thì chị chấp nhận. Lượt sau chị lại xin, nhẹ hơn.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d8a47c",
+   "toc": "#2a1d18",
+   "kieuToc": "dai",
+   "ao": "#c25b56",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Ra máu âm đạo 12 ngày chưa dứt, mệt, chóng mặt; xin truyền một chai nước và thuốc bổ máu cho khỏe lại",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "sieu_am",
+   "tham_do"
+  ],
+  "loi_bao": "Phòng khám không có xét nghiệm nào (không công thức máu, ferritin, đông máu, nội tiết, kể cả que thử thai) và không có siêu âm; vì vậy cũng không có X-quang, CT, nội soi. Chỉ có khám lâm sàng, máy đo huyết áp, bộ khám phụ khoa. Phòng xét nghiệm tư và bệnh viện huyện cách khoảng 8 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 47 tuổi, nhân viên bán hàng online, đến khám vì ra máu âm đạo 12 ngày chưa dứt. Chị đi một mình, mặt xanh, nói nhanh. Cân nặng 61 kg, cao 156 cm. Sinh hiệu lúc tiếp đón: mạch 96 l/p, HA 108/68 mmHg, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hương bị giữ lại bệnh viện để truyền dịch dù mạch 96, HA 108/68, không ngất, chưa có dấu hiệu nặng hay mất bù (QĐ 1832/2022 Thiếu máu thiếu sắt mục 3.1, 5.1). Chai dịch không cầm máu cũng không bù sắt (nhận định lâm sàng; không có trong tài liệu đã tải); chị ra viện vẫn ra máu và mệt, lại mất 2–3 ngày lương và các buổi live.",
+    "theo_doi": "Chị Hương lưu phòng khám truyền chai nước và vitamin theo ý chị rồi về, không có thuốc cầm máu hay sắt. Ra máu vẫn đều mỗi ngày; rong kinh rong huyết kéo dài không điều trị đúng dẫn đến thiếu máu nhược sắc, suy nhược (QĐ 315/2015 Rong kinh rong huyết mục 4). Chị khỏe vài giờ rồi mệt lại, càng tin chai truyền và bỏ hẹn tái khám."
+   },
+   "loi_mo": "Dạ bác sĩ ơi, em ra máu hơn chục ngày rồi, mệt rã rời, tối nay còn phải live nữa. Bác sĩ cho em truyền một chai nước, thêm vitamin với thuốc bổ máu đi, chị bên em truyền một chai là khỏe re liền.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "108/68",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ra máu âm đạo 12 ngày chưa dứt, nhiều, mệt, hoa mắt khi đứng dậy. Chị xin truyền một chai nước với vitamin và thuốc bổ máu để tối nay còn livestream.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "chu_ky",
+     "noi_dung": "Một năm trước chu kỳ đều 28–30 ngày, hành kinh 5 ngày. Tám tháng nay thất thường: các kỳ cách nhau 24, 38, 33 rồi 51 ngày. Kỳ này bắt đầu sau 51 ngày, 2 ngày sau trận pickleball 3 giờ; chị cho là vận động mạnh làm 'vỡ mạch'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mẫu chu kỳ (FIGO 2018 hệ 1)"
+    },
+    {
+     "id": "luong",
+     "noi_dung": "Ngày 1–5 thay băng 1–2 giờ một lần, thấm ra quần, đêm dậy 2 lần, vài cục to bằng quả trứng cút. Từ ngày 6 còn 5 băng mỗi ngày, đỏ tươi lẫn sẫm. Hai tối đã bỏ live.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lượng máu, ảnh hưởng đời sống (NICE NG88 1.1.1)"
+    },
+    {
+     "id": "thieu_mau",
+     "noi_dung": "Hai tuần nay mệt, hoa mắt khi đứng dậy nhanh, hồi hộp, tay lạnh, hụt hơi khi lên 3 tầng cầu thang. Không ngất, không đau ngực, không khó thở khi nằm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng thiếu máu (QĐ 1832/2022 Thiếu máu 3.1a)"
+    },
+    {
+     "id": "cau_truc",
+     "noi_dung": "Không đau bụng dưới, không đau bụng kinh dữ dội, không nặng bụng, không khí hư hôi, không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu cấu trúc, nhiễm khuẩn (NICE NG88 1.2.1)"
+    },
+    {
+     "id": "thai",
+     "noi_dung": "Chồng làm công trình xa nhà, 7 tháng chưa về; chị không quan hệ từ đó, không bạn tình khác. Không đặt vòng, không nội tiết, không thuốc nam. Không buồn nôn, ngực không căng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại thai khi không có que thử (FIGO 2018 6.1)"
+    },
+    {
+     "id": "dong_mau",
+     "noi_dung": "Có kinh năm 13 tuổi, 5 ngày, không nhiều. Sinh 2 con không băng huyết; mổ ruột thừa, nhổ răng không chảy máu kéo dài. Không bầm tím, chảy máu cam hay chân răng; không dùng aspirin, thuốc chống đông; người nhà không ai bị bệnh chảy máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc đông máu bằng bệnh sử (FIGO 2018 Bảng 3)"
+    },
+    {
+     "id": "tien_man_kinh",
+     "noi_dung": "Vài tháng nay bốc hỏa về đêm 2–3 lần mỗi tuần, vã mồ hôi, ngủ kém. Cân nặng ổn định, không run tay, không sợ nóng hay lạnh, không rậm lông, không mụn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền mãn kinh, giáp (QĐ 315/2015 Mãn kinh–tiền mãn kinh 2.1)"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Sau trận pickleball, gối phải và vai phải đau. Hai tuần nay chị uống ibuprofen 400 mg 3 viên/ngày mua ở nhà thuốc, thêm diclofenac 50 mg 2 viên/ngày do đồng nghiệp cho, thường lúc đói cho kịp live; chị không biết hai thuốc cùng nhóm. Hai hôm nay nóng rát thượng vị nhẹ; phân vàng nâu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hai NSAID tự mua"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Không tăng huyết áp, đái tháo đường, bệnh gan thận; không hút thuốc, rượu. Không ai trong nhà bị ung thư tử cung, buồng trứng, đại tràng. Chị chưa từng làm công thức máu hay siêu âm tử cung; Pap lần cuối cách 5 năm, bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố nguy cơ nội mạc (FIGO 2018 6.4); không có dữ liệu cũ"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Quản lý chỉ cho nghỉ khi có giấy của bác sĩ, nếu không bị trừ thưởng và doanh số; chị sợ vắng live sẽ bị thay người nên xin truyền một chai và giấy nghỉ khoảng 10 ngày.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói thẳng khi bác sĩ hỏi vì sao cần khỏe ngay tối nay, công việc đòi hỏi gì, hoặc có cần giấy tờ gì không. Nếu chỉ hỏi 'chị còn khó chịu gì nữa', chị đáp 'không, chỉ là mệt'.",
+     "y": "Lý do thật đến khám"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Sợ lên hình xanh xao, khách chê, doanh số tụt; nghe 'tiền mãn kinh' thì sợ bị coi là hết thời. Cũng sợ trận pickleball đã làm vỡ thứ gì trong bụng.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi chị lo nhất điều gì, hoặc giải thích rằng đánh pickleball không làm vỡ mạch trong bụng.",
+     "y": "Nỗi lo thật"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: mạch 92, HA 112/70 mmHg. Đứng 1 phút: mạch 114, HA 104/66 mmHg, choáng váng nhẹ, hết sau vài giây. Đứng 3 phút: mạch 114, HA 102/64 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, dáng mệt. Cân nặng 61 kg, cao 156 cm (BMI 25,1). Niêm mạc mắt nhợt vừa, lòng bàn tay nhạt. Không phù, không xuất huyết dưới da.",
+     "k": 1,
+     "hien": "Tỉnh, đi lại chậm, vẻ mệt. Cân nặng 61 kg, cao 156 cm."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối. Trên xương mu không sờ thấy tử cung. Ấn thượng vị hơi khó chịu, không đề kháng. Gan lách không to.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân mềm, chu vi hai bên bằng nhau, không sưng đau, không giãn tĩnh mạch.",
+     "k": 1
+    },
+    "phu_khoa": {
+     "a": "Âm hộ bình thường. Mỏ vịt: máu đỏ tươi lẫn sẫm lượng vừa ở túi cùng sau, chảy từ lỗ cổ tử cung; cổ tử cung trơn láng, không polyp, không loét, không mủ. Hai tay: tử cung ngả trước, kích thước bình thường, chắc, di động, không đau; hai phần phụ không khối, không đau.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 94 g/L · MCV 80 fL · TC 372 G/L (nếu làm được ở nơi có xét nghiệm)",
+     "n": "Công thức máu cho mọi phụ nữ rong kinh, song song với điều trị (NICE NG88 2018 mục 1.2.6; FIGO 2018 mục 6.1). Hb 94 g/L là thiếu máu nhẹ (QĐ 1832/2022 Thiếu máu mục 2.1a). Cơ sở không có: dựa lâm sàng, khuyên làm ở nơi gần nhất trong tuần, không chờ kết quả để điều trị."
+    },
+    "test_thai": {
+     "v": "u",
+     "r": "Âm tính (nếu làm được)",
+     "n": "Cơ sở không có que thử thai; thay bằng bệnh sử và khám hai tay (FIGO 2018 mục 6.1; QĐ 315/2015 Rong kinh rong huyết mục 2.2)."
+    },
+    "soi_buong_tc": {
+     "v": "a",
+     "r": "Buồng tử cung không polyp; sinh thiết nội mạc (nếu làm được ở tuyến trên)",
+     "n": "Chưa bắt buộc hôm nay vì chưa thử điều trị nào (NICE NG88 mục 1.3.10; FIGO 2018 mục 6.4). Cơ sở không có nội soi; đặt mốc chuyển tuyến."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rong kinh–rong huyết tiền mãn kinh, nghĩ nhiều do rối loạn phóng noãn (AUB-O): ra máu 12 ngày, lượng nhiều, chu kỳ 24–51 ngày trong 8 tháng, bốc hỏa về đêm",
+     "n": "Ra máu quá 7 ngày là rong kinh/rong huyết (QĐ 315/2015 Rong kinh rong huyết mục 1); hành kinh > 8 ngày, chu kỳ bình thường 24–38 ngày (FIGO 2018 Hình 1). Chu kỳ dài thất thường gợi rối loạn phóng noãn (FIGO 2018 mục 6.2; QĐ 315/2015 Mãn kinh–tiền mãn kinh mục 2.1). Chưa xếp chắc PALM-COEIN vì không có siêu âm.",
+     "ok": 1
+    },
+    {
+     "t": "Thiếu máu do mất máu, chưa phân độ được vì không có Hb; chưa có dấu hiệu nặng",
+     "n": "Dấu hiệu thiếu oxy mô (QĐ 1832/2022 Thiếu máu mục 3.1a); xếp độ theo Hb (mục 2.1a, 3.2); dấu hiệu nặng là choáng, ngất (Thiếu máu thiếu sắt mục 3.1): chị chưa có.",
+     "ok": 1
+    },
+    {
+     "t": "Kích ứng dạ dày do dùng cùng lúc hai NSAID lúc đói (nóng rát thượng vị nhẹ, chưa phân đen)",
+     "n": "Không dùng đồng thời hai NSAID; hai NSAID và triệu chứng tiêu hóa là yếu tố nguy cơ biến chứng tiêu hóa (QĐ 361/2014 Phụ lục NSAID mục 2, 3.3).",
+     "ok": 1
+    },
+    {
+     "t": "Có thai (sẩy thai, thai ngoài tử cung)",
+     "n": "Không quan hệ 7 tháng, hai tay bình thường: loại trừ bằng bệnh sử và khám; thử thai chắc hơn (FIGO 2018 mục 6.1) nhưng cơ sở không có."
+    },
+    {
+     "t": "U xơ tử cung, polyp, bệnh cấu trúc khác",
+     "n": "Không đau bụng kinh nhiều, hai tay bình thường: chưa có chỉ định siêu âm (NICE NG88 mục 1.3.12); siêu âm không nhạy 100% (FIGO 2018 mục 6.5) nên chưa loại hẳn polyp, u xơ nhỏ."
+    },
+    {
+     "t": "Tăng sản hoặc ung thư nội mạc tử cung",
+     "n": "Chưa loại hẳn: 47 tuổi, ra máu thất thường 8 tháng (NICE NG88 mục 1.3.10; FIGO 2018 mục 6.4; QĐ 315/2015 mục 2.4.2). BMI 25,1, không tamoxifen. Đặt mốc chuyển tuyến vì không có siêu âm, soi buồng."
+    },
+    {
+     "t": "Rối loạn đông máu (bệnh von Willebrand...), bệnh giáp",
+     "n": "Bệnh sử đông máu âm tính (FIGO 2018 mục 6.3, Bảng 3; NICE NG88 mục 1.2.7); không triệu chứng giáp (NICE NG88 mục 1.2.10)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá thiếu máu bằng lâm sàng vì không có công thức máu (niêm mạc, mạch và HA nằm–đứng); chưa có dấu hiệu nặng nên điều trị ngoại trú, dặn rõ dấu hiệu phải quay lại ngay",
+     "v": "c",
+     "n": "Không có Hb nên dựa lâm sàng (QĐ 1832/2022 Thiếu máu mục 3.1a, 3.2). Dấu hiệu nặng: choáng, ngất (Thiếu máu thiếu sắt mục 3.1). Truyền máu chỉ khi nặng, mất bù (QĐ 315/2015 mục 3.2.4). Ngưỡng mạch, HA tư thế để chuyển viện: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Từ chối truyền dịch bằng lập luận lợi–hại cụ thể cho chị, hỏi vì sao cần khỏe ngay tối nay, và nói rõ việc sẽ làm thay (cầm máu, bù sắt, giấy nghỉ ngắn đúng bệnh)",
+     "v": "c",
+     "n": "Không tài liệu đã tải nào chỉ định truyền dịch cho rong kinh; điều trị là cầm máu, bổ sung sắt, dinh dưỡng (QĐ 315/2015 mục 3.2.4; QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.1). Chai dịch không chứa sắt hay hồng cầu: nhận định lâm sàng (tai-lieu/mau_thuan.md, 'Truyền dịch theo yêu cầu')."
+    },
+    {
+     "t": "Cầm máu: tranexamic acid 500 mg × 3 lần/ngày đến khi ngừng ra máu (tối đa 750–2.000 mg/24 giờ), hoặc progestin uống medroxyprogesteron acetat 10 mg/ngày × 10 ngày; hỏi tiền căn huyết khối trước khi kê",
+     "v": "c",
+     "n": "Tranexamic acid: NICE NG88 2018 mục 1.5.3, 1.5.9–1.5.10; liều, chống chỉ định theo QĐ 456/2026 mục VIII. Progestin: QĐ 315/2015 mục 3.2.2, Bảng 1; NICE NG88 mục 1.5.3. Ghi cả hai, không nguồn nào nói cách kia gây hại (tai-lieu/mau_thuan.md, PK-0192, PK-0061)."
+    },
+    {
+     "t": "Bù sắt uống: sắt (II) sulfat + acid folic 50 mg sắt/viên × 2 viên/ngày kèm nước cam hoặc vitamin C; dặn phân đen, táo bón là do sắt",
+     "v": "c",
+     "n": "QĐ 1832/2022 Thiếu máu mục 4.2.1a: 100–200 mg/ngày, 3–6 tháng; Thiếu máu thiếu sắt mục 5.2: 2 mg/kg/ngày (khoảng 122 mg), 6–12 tháng; mục 5.1: thêm 3 tháng sau khi Hb bình thường. Ghi cả hai."
+    },
+    {
+     "t": "Ngưng cả hai NSAID tự mua (dùng chung, lúc đói, đã nóng rát thượng vị); đau gối dùng paracetamol 500 mg 1–2 viên/lần, tối đa 3 lần/ngày",
+     "v": "c",
+     "n": "Không dùng đồng thời hai NSAID (QĐ 361/2014 Phụ lục NSAID mục 2). Paracetamol không quá 4 g/24 giờ (Phụ lục thuốc giảm đau mục 3.1) hoặc < 3 g/ngày ở nhóm nguy cơ cao (Phụ lục NSAID mục 3.3): ghi cả hai, chọn 3 g/ngày vì đang đau dạ dày."
+    },
+    {
+     "t": "Loại thai bằng bệnh sử và khám hai tay (không quan hệ 7 tháng, tử cung bình thường); dặn nếu có quan hệ trở lại phải thử thai trước khi dùng nội tiết",
+     "v": "c",
+     "n": "FIGO 2018 mục 6.1: bảo đảm ra máu không liên quan thai; QĐ 315/2015 Rong kinh rong huyết mục 2.2. Cơ sở không có que thử thai nên bệnh sử là cách duy nhất."
+    },
+    {
+     "t": "Cấp giấy nghỉ ốm ngắn (3 ngày) đúng tình trạng thực (choáng khi đứng, đang ra máu nhiều), không cấp 10 ngày như chị xin",
+     "v": "c",
+     "n": "Thủ tục cấp giấy nghỉ ốm: không có trong tài liệu đã tải; số ngày chọn theo lâm sàng."
+    },
+    {
+     "t": "Khuyên làm công thức máu (kèm ferritin nếu được) ở nơi gần nhất trong tuần, không chờ kết quả để điều trị; hẹn tái khám sau 7 ngày, nêu mốc chuyển tuyến (ra máu nhiều hơn, ngất, đau bụng, còn ra máu dù dùng thuốc đúng)",
+     "v": "c",
+     "n": "NICE NG88 mục 1.2.6: công thức máu song song với điều trị; mục 1.2.8 bỏ ferritin, FIGO 2018 mục 6.1 vẫn đề nghị. Chuyển chuyên khoa khi điều trị không thành công (NICE NG88 mục 1.5.6); soi buồng khi ra máu dai dẳng (mục 1.3.10); QĐ 315/2015 mục 3.2. Khoảng hẹn 7 ngày là chọn của ca (không có trong tài liệu đã tải)."
+    },
+    {
+     "t": "Chuyển tuyến ngay hôm nay để công thức máu, siêu âm đầu dò và lấy mẫu nội mạc",
+     "v": "a",
+     "n": "FIGO 2018 mục 6.4–6.5; NICE NG88 mục 1.3.10. Chấp nhận, chưa bắt buộc vì chưa thử điều trị, huyết động ổn (tai-lieu/mau_thuan.md, PK-0181)."
+    },
+    {
+     "t": "Ibuprofen 400 mg × 3 lần/ngày sau ăn no, giữ MỘT NSAID thay tranexamic acid để vừa giảm kinh vừa giảm đau gối",
+     "v": "a",
+     "n": "NICE NG88 mục 1.5.3, 1.5.9; liều 400–1.200 mg/24 giờ (QĐ 361/2014 Phụ lục NSAID mục 2) hoặc tối đa 2,4 g/ngày (WHO AWaRe 2022 tr. 48): chọn 1.200 mg, nhưng chị đang nóng rát thượng vị. QĐ 361 mục 3.2: 'bệnh lý chảy máu không được kiểm soát' là chống chỉ định tuyệt đối, không rõ gồm rong kinh."
+    },
+    {
+     "t": "Truyền dịch (nước muối, glucose, vitamin) theo yêu cầu để hết mệt",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải (tai-lieu/mau_thuan.md); không cầm máu, không bù sắt (QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.1)."
+    },
+    {
+     "t": "Nạo hoặc sinh thiết 'mù' nội mạc tử cung ngay tại phòng khám",
+     "v": "w",
+     "n": "NICE NG88 mục 1.3.11: chỉ lấy mẫu qua soi buồng, không sinh thiết mù; phòng khám không có điều kiện (tai-lieu/mau_thuan.md, PK-0065)."
+    },
+    {
+     "t": "Cho dùng tiếp cả ibuprofen và diclofenac như đang uống",
+     "v": "w",
+     "n": "QĐ 361/2014 Phụ lục NSAID mục 2: hai NSAID không tăng hiệu quả mà tăng tác dụng không mong muốn."
+    },
+    {
+     "t": "Cấp giấy nghỉ ốm 10–14 ngày theo yêu cầu dù chị không cần nghỉ dài",
+     "v": "w",
+     "n": "Thủ tục và số ngày giấy nghỉ ốm: không có trong tài liệu đã tải; chị chưa ngất, điều trị ngoại trú."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rong kinh–rong huyết tiền mãn kinh, nghĩ nhiều do rối loạn phóng noãn (AUB-O): ra máu 12 ngày, lượng nhiều, chu kỳ 24–51 ngày trong 8 tháng",
+     "Thiếu máu do mất máu (niêm mạc nhợt, mạch tăng 22 l/p khi đứng), chưa có Hb, chưa có dấu hiệu nặng",
+     "Kích ứng dạ dày do uống cùng lúc ibuprofen và diclofenac lúc đói",
+     "Loại trừ lâm sàng: thai (không quan hệ 7 tháng), rối loạn đông máu (bệnh sử âm tính), bệnh giáp; chưa loại hẳn polyp, u xơ nhỏ, tăng sản hoặc ung thư nội mạc vì không có siêu âm, soi buồng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do và lượng máu → mẫu chu kỳ một năm qua → triệu chứng thiếu máu → dấu hiệu cấu trúc, nhiễm khuẩn → thai → bệnh sử đông máu → tiền mãn kinh, giáp → thuốc đang dùng (hai NSAID) → tiền sử gia đình → vì sao cần khỏe ngay tối nay (QĐ 315/2015 Rong kinh rong huyết mục 2.1; NICE NG88 2018 mục 1.2.1; FIGO 2018 mục 6.1–6.3).",
+     "Khám thay xét nghiệm: HA, mạch nằm–đứng, niêm mạc, bụng, mỏ vịt, hai tay (QĐ 1832/2022 Thiếu máu mục 3.1a, 3.2).",
+     "AUB-O chứ không phải cấu trúc hay đông máu: chu kỳ 24–51 ngày, bốc hỏa, 47 tuổi (QĐ 315/2015 Mãn kinh–tiền mãn kinh mục 2; FIGO 2018 mục 6.2); không đau bụng kinh nhiều, tử cung bình thường (NICE NG88 mục 1.3.12); bệnh sử đông máu âm tính (FIGO 2018 Bảng 3). Hai NSAID giải thích nóng rát thượng vị, không giải thích kỳ ra máu.",
+     "Ung thư nội mạc chưa loại hẳn: 47 tuổi, ra máu thất thường 8 tháng (NICE NG88 mục 1.3.10; FIGO 2018 mục 6.4; QĐ 315/2015 mục 2.4.2). Điều trị trước và đặt mốc chuyển tuyến."
+    ],
+    "phan_tich_xu_tri": [
+     "Truyền dịch: không có trong tài liệu đã tải; chị không choáng, không ngất. Câu thay thế: 'Chai nước giúp chị khỏe vài tiếng nhưng không đưa thêm máu hay sắt vào người; hôm nay em kê thuốc cầm, thuốc sắt và giấy nghỉ ba ngày.' Hỏi 'vì sao tối nay phải khỏe ngay' mới lộ chuyện giấy và thưởng.",
+     "Cầm máu: tranexamic acid hoặc progestin (NICE NG88 mục 1.5.3; QĐ 315/2015 mục 3.2.2; liều tranexamic QĐ 456/2026 mục VIII). Chọn tranexamic acid vì uống theo đợt, không nội tiết. LNG-IUS là lựa chọn đầu khi chưa thấy tổn thương (NICE NG88 mục 1.5.2) nhưng cần tuyến trên.",
+     "Bù sắt uống 2 viên/ngày (QĐ 1832/2022 Thiếu máu mục 4.2.1a; Thiếu máu thiếu sắt mục 5.2); ngưng hai NSAID, dùng paracetamol (QĐ 361/2014 Phụ lục NSAID mục 2, 3.3). Giấy nghỉ ngắn đúng tình trạng.",
+     "Mốc chuyển tuyến thay cho siêu âm: ra máu nhiều hơn, ngất, đau bụng, hoặc còn ra máu dù dùng thuốc đúng (NICE NG88 mục 1.3.10, 1.5.6; FIGO 2018 mục 6.4). Không làm: sinh thiết hay nạo mù (NICE NG88 mục 1.3.11), truyền dịch, tiếp tục hai NSAID."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Tranexamic acid",
+      "ham_luong": "Viên 500 mg (có viên 250 mg)",
+      "lieu": "500 mg × 3 lần/ngày (tối đa 750–2.000 mg/24 giờ)",
+      "duong": "Uống",
+      "thoi_diem": "Chia 3 lần, sau ăn; bắt đầu ngay",
+      "so_ngay": "Đến khi ngừng ra máu; số ngày tối đa mỗi đợt: không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 456/2026 mục VIII (bối cảnh u xơ tử cung); NICE NG88 2018 mục 1.5.3, 1.5.9–1.5.10. Không dùng khi tiền căn huyết khối; ngưng và đi khám nếu đau hoặc sưng một bắp chân, khó thở, đau ngực."
+     },
+     {
+      "thuoc": "Sắt (II) sulfat + acid folic",
+      "ham_luong": "Viên chứa 50 mg sắt nguyên tố",
+      "lieu": "2 viên/ngày (100 mg sắt; 2 mg/kg/ngày cho 61 kg là khoảng 122 mg)",
+      "duong": "Uống",
+      "thoi_diem": "Lúc đói hấp thu tốt hơn; buồn nôn thì uống trong bữa ăn, kèm nước cam; tránh trà, cà phê ngay sau ăn",
+      "so_ngay": "3–6 tháng (QĐ 1832/2022 Thiếu máu mục 4.2.1a) hoặc 6–12 tháng (Thiếu máu thiếu sắt mục 5.2), thêm 3 tháng sau khi Hb bình thường (mục 5.1)",
+      "ghi_chu": "QĐ 1832/2022 Thiếu máu mục 4.2.1a; Thiếu máu thiếu sắt mục 5.1, 5.2, 7. Phân đen, táo bón là bình thường (mục 5.2)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1–2 viên/lần, cách nhau 6–8 giờ, tối đa 3 lần/ngày (≤ 3 g/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau gối hoặc vai",
+      "so_ngay": "Khi cần trong vài ngày",
+      "ghi_chu": "QĐ 361/2014 Phụ lục thuốc giảm đau mục 3.1: không quá 4 g/24 giờ; Phụ lục NSAID mục 3.3: < 3 g/ngày ở nhóm nguy cơ cao; chọn mức thận trọng vì đang nóng rát thượng vị."
+     }
+    ],
+    "dan_do": [
+     "Kinh nhiều, thất thường ở tuổi này thường do rối loạn phóng noãn của tiền mãn kinh (QĐ 315/2015 Mãn kinh–tiền mãn kinh mục 2); trận pickleball không làm 'vỡ mạch'.",
+     "Uống tranexamic acid đều đến khi ngừng ra máu, không tự ngưng khi mới bớt; đau hoặc sưng bắp chân, khó thở, đau ngực thì ngưng và đi khám ngay (QĐ 456/2026 mục VIII).",
+     "Uống sắt mỗi ngày kèm nước cam; phân đen, táo bón là bình thường (QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.2).",
+     "Ngưng ibuprofen và diclofenac; phân đen kèm nôn ra máu, đau bụng thì đi khám ngay (QĐ 361/2014 Phụ lục NSAID mục 3.3). Làm công thức máu trong tuần (NICE NG88 mục 1.2.6).",
+     "Quay lại ngay khi ra máu ướt đẫm nhanh, choáng, ngất, khó thở, đau ngực, đau bụng dưới nhiều, sốt; còn ra máu dù dùng thuốc đúng thì chuyển tuyến (NICE NG88 mục 1.5.6; FIGO 2018 mục 6.4). Tái khám sau 7 ngày, mang lịch ra máu."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 1 tuần",
+   "tiep_don": "Chị Hương quay lại đúng hẹn, một tuần sau lượt 1 (ra máu đã 19 ngày). Lần trước chị được kê tranexamic acid, sắt, paracetamol, ngưng hai thuốc giảm đau, giấy nghỉ 3 ngày, không được truyền dịch. Chị nói ra máu 'bớt nhưng chưa sạch', mệt đỡ một nửa, hôm nay muốn xin thêm giấy nghỉ. Sinh hiệu: mạch 88 l/p, HA 112/70 mmHg, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Hương bị nhập viện 'truyền cho nhanh khỏi' dù ra máu đã giảm còn 3 băng thấm ít, mạch 88, HA tư thế gần như không tụt. Chị mất thêm vài ngày làm, tốn viện phí, càng tin 'chai truyền làm khỏe', trong khi việc cần làm là uống đủ tranexamic acid và sắt (QĐ 315/2015 mục 3.2.4; QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.1).",
+    "chuyen_tuyen": "Chị Hương được gửi tuyến trên ngay hôm nay để lấy mẫu nội mạc. Về nguyên tắc không sai (FIGO 2018 mục 6.4), nhưng chị mới uống tranexamic acid 5 ngày rồi tự ngưng nên chưa thể coi điều trị không thành công (NICE NG88 mục 1.3.10, 1.5.6). Chị mất một ngày live và tiền xét nghiệm, nhiều khả năng không đi."
+   },
+   "loi_mo": "Dạ em đỡ rồi bác sĩ, ra bớt nhiều mà chưa hết sạch. Bác sĩ cho em xin thêm giấy nghỉ năm ngày với, cuối tháng em có đợt sale lớn, mà truyền cho em một chai nữa cho khỏe lên hình đi bác sĩ.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "112/70",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ra máu đã 19 ngày, 'bớt nhưng chưa sạch'. Chị muốn xin thêm giấy nghỉ năm ngày và một chai truyền để khỏe lên hình cho đợt sale cuối tháng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Uống tranexamic acid 500 mg × 3 lần/ngày đúng 5 ngày, ra máu giảm còn khoảng một phần ba. Thấy bớt nên tự ngưng; hai ngày sau ra nhiều lại 4 băng thấm vừa, nhất là sau một giờ đánh pickleball. Hôm qua uống lại, hôm nay còn 3 băng thấm ít, màu nâu đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến và tuân thủ thuốc"
+    },
+    {
+     "id": "sat",
+     "noi_dung": "Uống sắt 2 viên lúc đói, buồn nôn và táo bón nên bỏ 3 trong 7 ngày. Phân đen từ ngày thứ 3, chị hoảng nghĩ là chảy máu dạ dày nhưng không đau bụng, không nôn máu, không choáng thêm. Đã bỏ diclofenac, hết nóng rát thượng vị; còn ibuprofen 400 mg 1–2 viên/ngày sau ăn khi đau gối.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ sắt, phân đen do sắt"
+    },
+    {
+     "id": "thieu_mau",
+     "noi_dung": "Mệt đỡ khoảng một nửa, còn hoa mắt nhẹ khi đứng dậy nhanh. Đã nghỉ 3 ngày theo giấy, rồi live lại 4 tối, mỗi tối 2 giờ; không ngất, không khó thở. Không đau bụng dưới, không sốt, không đau hay sưng bắp chân, không đau ngực. Vẫn không quan hệ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thiếu máu sau 1 tuần; dấu hiệu cảnh báo"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Quản lý cho live ngắn 2 giờ mỗi tối nhưng vẫn đòi giấy cho những ngày vắng; sắp có đợt sale nên chị xin giấy năm ngày 'cho chắc'.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói thẳng khi bác sĩ hỏi chị đã đi làm lại chưa, làm mấy giờ, hoặc vì sao cần giấy thêm.",
+     "y": "Lý do thật xin thêm giấy"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: mạch 84, HA 114/72 mmHg. Đứng 1 phút: mạch 98, HA 108/68 mmHg, hơi choáng thoáng qua. Đứng 3 phút: mạch 96, HA 108/70 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, đỡ mệt hơn lần trước. Niêm mạc mắt nhợt nhẹ, lòng bàn tay hồng nhạt. Không phù. Cân nặng 61 kg.",
+     "k": 1,
+     "hien": "Tỉnh, đi lại bình thường, vẻ đỡ mệt. Cân nặng 61 kg."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối. Ấn thượng vị không đau.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai bắp chân mềm, không sưng, không đau.",
+     "k": 1
+    },
+    "phu_khoa": {
+     "a": "Mỏ vịt: máu nâu đỏ ít ở túi cùng sau, cổ tử cung trơn láng, không polyp, không loét. Hai tay: tử cung kích thước bình thường, chắc, di động, không đau; phần phụ không khối.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 101 g/L · MCV 80 fL (nếu làm được; chị chưa đi làm)",
+     "n": "Vẫn cần công thức máu (NICE NG88 2018 mục 1.2.6); chị chưa làm vì bận live. Cơ sở không có; lâm sàng cho thấy thiếu máu nhẹ hơn lần trước."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rong huyết tiền mãn kinh (nghĩ AUB-O) đáp ứng một phần vì dùng tranexamic acid gián đoạn, chưa phải thất bại điều trị",
+     "n": "Ra máu giảm còn một phần ba khi uống thuốc, tăng lại sau 2 ngày tự ngưng. Tranexamic acid dùng đến khi ngừng xuất huyết (QĐ 456/2026 mục VIII; NICE NG88 mục 1.5.10); thất bại cần đã dùng đủ và đúng thuốc (NICE NG88 mục 1.5.6).",
+     "ok": 1
+    },
+    {
+     "t": "Thiếu máu do mất máu đang cải thiện theo lâm sàng (mạch tăng khi đứng 22 → 14 l/p, niêm mạc nhợt nhẹ), chưa có Hb",
+     "n": "QĐ 1832/2022 Thiếu máu mục 3.1a, 3.2: xếp độ theo Hb (chưa có).",
+     "ok": 1
+    },
+    {
+     "t": "Phân đen do uống sắt, chưa nghĩ xuất huyết tiêu hóa",
+     "n": "Phân đen, táo là do sắt (QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.2); đã bỏ diclofenac, hết nóng rát (QĐ 361/2014 Phụ lục NSAID mục 2, 3.3).",
+     "ok": 1
+    },
+    {
+     "t": "Thất bại điều trị sớm hoặc tổn thương thực thể (polyp, u xơ, tăng sản nội mạc)",
+     "n": "Chưa loại trừ vì không có siêu âm, soi buồng (FIGO 2018 mục 6.5); mốc chuyển tuyến đặt rõ (NICE NG88 mục 1.3.10, 1.5.6)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định 'đỡ một phần' là đáp ứng thuốc bị gián đoạn (bớt khi uống, tăng khi tự ngưng), chưa coi là thất bại; hỏi tuân thủ không phán xét",
+     "v": "c",
+     "n": "NICE NG88 2018 mục 1.5.10, 1.5.6: dùng đủ trước khi gọi là thất bại. Mốc số ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Uống tranexamic acid 500 mg × 3 lần/ngày liên tục đến khi ngừng hẳn ra máu, không tự ngưng khi mới bớt",
+     "v": "c",
+     "n": "QĐ 456/2026 mục VIII: 250 hoặc 500 mg × 3 lần/ngày đến khi ngừng xuất huyết, tối đa 750–2.000 mg/24 giờ; NICE NG88 mục 1.5.9–1.5.10."
+    },
+    {
+     "t": "Thêm progestin uống: medroxyprogesteron acetat 10 mg/ngày × 10 ngày để cầm hẳn và điều hòa nội mạc; dặn ra máu 2–7 ngày sau viên cuối là bình thường",
+     "v": "c",
+     "n": "QĐ 315/2015 mục 3.2.2: progestin 10 mg/ngày × 10 ngày; Bảng 1: ra máu sau viên cuối 2–7 ngày; NICE NG88 mục 1.5.3. Cách bắt đầu khi đang ra máu: không có trong tài liệu đã tải (PK-0065)."
+    },
+    {
+     "t": "Tiếp tục sắt: uống trong bữa ăn để bớt buồn nôn, kèm nước cam; táo bón thì tăng rau, nước; nhắc phân đen là bình thường",
+     "v": "c",
+     "n": "QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.2, 7: uống trong bữa ăn nếu kích ứng; phân đen không phải xuất huyết tiêu hóa; không uống trà, cà phê ngay sau ăn."
+    },
+    {
+     "t": "Từ chối truyền dịch lần hai bằng câu nói cụ thể; không cấp thêm 5 ngày vì chị đã làm được 2 giờ mỗi tối",
+     "v": "c",
+     "n": "Không tài liệu đã tải nào chỉ định truyền dịch (tai-lieu/mau_thuan.md)."
+    },
+    {
+     "t": "Hẹn tái khám sau 10–14 ngày (sau khi hết thuốc và ra máu rút); mốc chuyển tuyến: ra máu nhiều, ngất, còn ra máu dù dùng thuốc đúng, hoặc thất thường lại",
+     "v": "c",
+     "n": "NICE NG88 mục 1.3.10, 1.5.6; FIGO 2018 mục 6.4; QĐ 315/2015 mục 3.2."
+    },
+    {
+     "t": "Cấp thêm giấy nghỉ 1–2 ngày vì còn choáng nhẹ khi đứng; khuyên tạm giảm pickleball cho tới khi hết ra máu",
+     "v": "a",
+     "n": "Số ngày giấy nghỉ: không có trong tài liệu đã tải; mạch còn tăng 14 l/p khi đứng nên chấp nhận."
+    },
+    {
+     "t": "Chuyển tuyến ngay hôm nay để công thức máu, siêu âm đầu dò, soi buồng và lấy mẫu nội mạc",
+     "v": "a",
+     "n": "FIGO 2018 mục 6.4, 6.5; NICE NG88 mục 1.3.10. Chấp nhận nhưng sớm hơn cần thiết vì thuốc chưa dùng đủ, đúng (tai-lieu/mau_thuan.md, PK-0181)."
+    },
+    {
+     "t": "Truyền dịch (nước muối, glucose, vitamin) theo yêu cầu để lên hình",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải; không cầm máu, không bù sắt (QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.1, 5.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rong huyết tiền mãn kinh (nghĩ AUB-O), đáp ứng một phần với tranexamic acid dùng gián đoạn; chưa phải thất bại điều trị",
+     "Thiếu máu do mất máu đang cải thiện theo lâm sàng, chưa có Hb; phân đen do sắt, hết kích ứng dạ dày sau ngưng hai NSAID",
+     "Chưa loại hẳn polyp, u xơ, tăng sản nội mạc: mốc chuyển tuyến đã đặt rõ"
+    ],
+    "phan_tich_chan_doan": [
+     "Câu hỏi quyết định: 'đỡ như thế nào, và chị uống thuốc ra sao': ra máu giảm một phần ba khi uống, tăng khi tự ngưng 2 ngày. Đỡ một phần chưa phải thất bại điều trị (NICE NG88 2018 mục 1.5.6, 1.5.10).",
+     "So với lượt 1: mạch tăng khi đứng 22 → 14 l/p, niêm mạc nhợt vừa → nhợt nhẹ: cải thiện nhưng chưa hết thiếu máu (QĐ 1832/2022 Thiếu máu mục 3.1a). Phân đen: hỏi đau bụng, nôn máu; sắt gây phân đen (Thiếu máu thiếu sắt mục 5.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Sửa cách dùng thuốc, không đổi thuốc hay nhập viện: tranexamic acid liên tục đến khi ngừng ra máu (QĐ 456/2026 mục VIII), thêm progestin 10 mg × 10 ngày (QĐ 315/2015 mục 3.2.2, Bảng 1); ra máu đã 19 ngày nên kết hợp.",
+     "Ra máu 2–7 ngày sau viên progestin cuối là bình thường (QĐ 315/2015 Bảng 1): dặn trước để chị không hoảng. Giấy nghỉ: chị làm được 2 giờ mỗi tối nên không cấp dài.",
+     "Khi nào đỡ một phần thành thất bại: dùng đủ thuốc đúng cách mà còn ra máu hoặc thất thường lại thì chuyển tuyến lấy mẫu nội mạc (NICE NG88 mục 1.3.10, 1.5.6; FIGO 2018 mục 6.4); số ngày cụ thể: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Tranexamic acid",
+      "ham_luong": "Viên 500 mg (có viên 250 mg)",
+      "lieu": "500 mg × 3 lần/ngày (tối đa 750–2.000 mg/24 giờ)",
+      "duong": "Uống",
+      "thoi_diem": "Chia 3 lần, sau ăn",
+      "so_ngay": "Liên tục đến khi ngừng hẳn ra máu; không tự ngưng khi mới bớt",
+      "ghi_chu": "QĐ 456/2026 mục VIII; NICE NG88 2018 mục 1.5.9–1.5.10."
+     },
+     {
+      "thuoc": "Medroxyprogesteron acetat",
+      "ham_luong": "Viên 10 mg (hàm lượng lưu hành tại Việt Nam: không có trong tài liệu đã tải)",
+      "lieu": "10 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Cùng một giờ mỗi ngày, bắt đầu hôm nay",
+      "so_ngay": "10 ngày",
+      "ghi_chu": "QĐ 315/2015 Rong kinh rong huyết mục 3.2.2, Bảng 1 (ô Mạn). Chống chỉ định khi có thai hoặc nghi có thai (Mãn kinh–tiền mãn kinh mục 3.4.2): chị không quan hệ 7 tháng."
+     },
+     {
+      "thuoc": "Sắt (II) sulfat + acid folic",
+      "ham_luong": "Viên chứa 50 mg sắt nguyên tố",
+      "lieu": "2 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Trong bữa ăn, kèm nước cam",
+      "so_ngay": "Tiếp tục như lượt 1 (QĐ 1832/2022)",
+      "ghi_chu": "QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.1, 5.2, 7."
+     }
+    ],
+    "dan_do": [
+     "Uống tranexamic acid liên tục đến khi ngừng hẳn, không ngừng khi mới bớt; medroxyprogesteron mỗi ngày đúng 10 ngày (QĐ 456/2026 mục VIII; QĐ 315/2015 mục 3.2.2).",
+     "Ra máu lại 2–7 ngày sau viên progestin cuối là bình thường, như một kỳ kinh nhẹ (QĐ 315/2015 Bảng 1, ô Mạn); quay lại nếu ra ào ạt, choáng, kéo dài hơn 7 ngày.",
+     "Chai truyền không đưa thêm máu hay sắt vào người; hết mệt là nhờ uống đủ thuốc cầm và thuốc sắt. Không gia hạn giấy dài.",
+     "Tạm giảm pickleball tới khi hết ra máu; làm công thức máu trong tuần (NICE NG88 mục 1.2.6). Tái khám sau 10–14 ngày; chuyển tuyến sớm nếu ra máu nhiều hoặc thất thường lại, ngất, đau ngực, đau hay sưng bắp chân (NICE NG88 mục 1.5.6; QĐ 456/2026 mục VIII)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau ra máu rút",
+   "tiep_don": "Chị Hương đến vào ngày thứ 4 sau viên progestin cuối, hai tuần sau lượt 2. Sau khi thêm medroxyprogesteron, chị hết ra máu từ ngày thứ 5 của đợt thuốc (tổng cộng khoảng 25 ngày), uống đủ 10 ngày. Từ hôm kia lại ra máu đỏ, chị hoảng nghĩ là 'tái phát'. Sinh hiệu: mạch 80 l/p, HA 114/72 mmHg, nhiệt 36,6 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Hương được cho về với đơn lặp lại progestin ba vòng, hẹn ba tháng, không giới thiệu làm công thức máu, siêu âm, soi buồng. Chị 47 tuổi, ra máu thất thường 8 tháng, đợt này cần hai loại thuốc mới cầm (NICE NG88 2018 mục 1.3.10; FIGO 2018 mục 6.4; QĐ 315/2015 mục 2.4.2). Hb vẫn chưa biết, polyp hoặc tăng sản nội mạc nếu có sẽ bị phát hiện chậm nhiều tháng.",
+    "nhap_vien": "Chị Hương nhập viện vì sợ 'tái phát', được truyền dịch mà không ai giải thích đây là ra máu do ngừng progestin, dự kiến 2–7 ngày sau viên cuối (QĐ 315/2015 Bảng 1). Chị mất thêm vài ngày lương, vẫn chưa được siêu âm hay soi buồng."
+   },
+   "loi_mo": "Dạ bác sĩ, em tưởng hết rồi mà hôm kia lại ra máu, chắc tái phát rồi. Bác sĩ truyền cho em chai vitamin để lấy lại sức với da dẻ, tuần sau em live đợt cuối tháng mà nhìn em xanh xao quá.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "114/72",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hết ra máu từ ngày thứ 5 của đợt progestin, nhưng từ hôm kia (4 ngày sau viên cuối) lại ra máu đỏ: hôm kia 3–4 băng, hôm nay 3 băng thấm vừa, đau bụng dưới âm ỉ nhẹ như sắp có kinh. Chị sợ tái phát và xin truyền chai vitamin trước đợt live cuối tháng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Uống medroxyprogesteron 10 mg đủ 10 ngày, kèm tranexamic acid đến ngày thứ 5 thì hết ra máu (tổng cộng khoảng 25 ngày). Mệt đỡ nhiều, hết choáng khi đứng, còn hụt hơi nếu live quá 2 giờ. Sắt uống đủ 6 trong 7 ngày, trong bữa ăn, phân đen, không táo bón. Chị chưa đi làm công thức máu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến sau thêm progestin"
+    },
+    {
+     "id": "mau_ra",
+     "noi_dung": "Máu đỏ, không cục, không mùi, ít hơn nhiều so với đợt trước, không ào ạt, không choáng. Không sốt, khí hư không hôi, không đau bụng dữ dội, không đau ngực, không khó thở, bắp chân không đau. Vẫn không quan hệ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ra máu rút hay tái phát; dấu hiệu cảnh báo"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Chị không cần giấy lần này, nhưng một ngày đi khám tuyến trên là một ngày không live; chị sợ bị trừ thưởng và sợ bệnh viện đông.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ đề nghị chuyển tuyến hoặc hỏi chị có khó khăn gì khi đi khám tiếp.",
+     "y": "Rào cản đi khám tiếp"
+    },
+    {
+     "id": "lo_that",
+     "noi_dung": "Chị sợ 'tiền mãn kinh là hết thời', sợ bệnh viện phát hiện u rồi phải cắt tử cung; vì vậy đòi truyền vitamin 'cho khỏe, cho đẹp' thay vì đi khám tiếp.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi chị lo nhất điều gì khi nghe chuyển tuyến, hoặc giải thích vì sao cần soi buồng và lấy mẫu.",
+     "y": "Nỗi lo thật"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: mạch 78, HA 116/72 mmHg. Đứng 1 phút: mạch 88, HA 112/70 mmHg. Đứng 3 phút: mạch 86, HA 112/70 mmHg. Không choáng.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, vẻ khỏe hơn nhiều. Niêm mạc mắt hồng nhạt, lòng bàn tay hồng. Không phù. Cân nặng 61 kg.",
+     "k": 1,
+     "hien": "Tỉnh, đi lại bình thường, vẻ khỏe hơn. Cân nặng 61 kg."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối.",
+     "k": 1
+    },
+    "phu_khoa": {
+     "a": "Mỏ vịt: máu đỏ vừa chảy từ lỗ cổ tử cung, không cục; cổ tử cung trơn láng, không polyp, không loét, không mủ. Hai tay: tử cung kích thước bình thường, chắc, di động, không đau; phần phụ không khối, không đau.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "e",
+     "r": "Hb 103 g/L · MCV 79 fL (nếu làm được ở nơi có xét nghiệm)",
+     "n": "Chưa có công thức máu: tuyến trên làm cùng ferritin (NICE NG88 2018 mục 1.2.6; FIGO 2018 mục 6.1). Hb 90–120 g/L là thiếu máu nhẹ (QĐ 1832/2022 Thiếu máu mục 2.1a)."
+    },
+    "soi_buong_tc": {
+     "v": "u",
+     "r": "Buồng tử cung không polyp; sinh thiết nội mạc gửi giải phẫu bệnh (nếu làm được ở tuyến trên)",
+     "n": "NICE NG88 mục 1.3.4, 1.3.10–1.3.11: soi buồng kèm sinh thiết khi ra máu bất thường dai dẳng; FIGO 2018 mục 6.4; QĐ 315/2015 mục 2.4.2, 3.2.2. Cơ sở không có nội soi."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Ra máu do ngừng progestin (ra máu rút), không phải tái phát; rong huyết tiền mãn kinh nghĩ do rối loạn phóng noãn, đã cầm sau tranexamic acid và medroxyprogesteron",
+     "n": "Ra máu 2–7 ngày sau viên cuối (QĐ 315/2015 Bảng 1, ô Mạn; mục 3.2.1). Lượng giảm rõ, không cục, sinh hiệu ổn: không phải thất bại.",
+     "ok": 1
+    },
+    {
+     "t": "Thiếu máu do mất máu đang hồi phục theo lâm sàng (hết hạ HA tư thế, niêm mạc hồng nhạt), chưa có Hb, ferritin; đang bù sắt",
+     "n": "Mạch tăng khi đứng chỉ còn 10 l/p; QĐ 1832/2022 Thiếu máu mục 3.1a, 3.2; Thiếu máu thiếu sắt mục 5.1.",
+     "ok": 1
+    },
+    {
+     "t": "Chưa loại trừ hẳn tổn thương nội mạc, polyp, u xơ: cần tuyến trên làm công thức máu, siêu âm, soi buồng, sinh thiết",
+     "n": "47 tuổi, ra máu thất thường 8 tháng, cần hai loại thuốc mới cầm (NICE NG88 mục 1.3.10; FIGO 2018 mục 6.4; QĐ 315/2015 mục 2.4.2); công thức máu cho mọi phụ nữ rong kinh (NICE NG88 mục 1.2.6).",
+     "ok": 1
+    },
+    {
+     "t": "Tái phát hoặc điều trị thất bại",
+     "n": "Ra máu đúng cửa sổ 2–7 ngày sau viên cuối, lượng giảm, không cục, huyết động ổn (QĐ 315/2015 Bảng 1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích ra máu hiện nay là ra máu do ngừng progestin, dự kiến, kèm dấu hiệu phân biệt với tái phát (ra ào ạt, choáng, kéo dài hơn 7 ngày); từ chối truyền vitamin và nói việc sẽ làm thay; hỏi rào cản đi khám (mất ngày live, sợ đông, sợ u), hẹn buổi sáng",
+     "v": "c",
+     "n": "QĐ 315/2015 Rong kinh rong huyết Bảng 1 (ô Mạn: chảy máu sau viên cuối 2–7 ngày), mục 3.2.1. Không tài liệu đã tải nào chỉ định truyền dịch hay vitamin cho bệnh cảnh này (tai-lieu/mau_thuan.md)."
+    },
+    {
+     "t": "Chuyển tuyến sản khoa có hẹn trong 1–2 tuần, sau khi hết ra máu rút, để công thức máu và ferritin, siêu âm đầu dò, soi buồng kèm sinh thiết nội mạc (hoặc nạo niêm mạc tại bệnh viện), và bàn dụng cụ tử cung giải phóng levonorgestrel",
+     "v": "c",
+     "n": "NICE NG88 2018 mục 1.2.6, 1.3.10–1.3.11 (soi buồng kèm sinh thiết, không sinh thiết mù), 1.5.2; FIGO 2018 mục 6.4–6.5; QĐ 315/2015 mục 2.4.2, 3.2. Nạo hay sinh thiết qua soi: tai-lieu/mau_thuan.md (PK-0065)."
+    },
+    {
+     "t": "Tiếp tục sắt uống đủ liều trong bữa ăn, ăn thức ăn giàu sắt; công thức máu 1–2 tuần/lần đến Hb 100 g/L rồi hàng tháng (ở nơi làm được)",
+     "v": "c",
+     "n": "QĐ 1832/2022 Thiếu máu mục 4.2.1a (sắt 100–200 mg/ngày, công thức máu 1–2 tuần/lần đến Hb 100 g/L rồi hàng tháng); Thiếu máu thiếu sắt mục 5.1, 5.2."
+    },
+    {
+     "t": "Kê sẵn tranexamic acid để dùng nếu ra máu nhiều trong lúc chờ khám tuyến trên; dặn dấu hiệu quay lại ngay",
+     "v": "c",
+     "n": "NICE NG88 mục 1.5.9–1.5.10; liều QĐ 456/2026 mục VIII (250 hoặc 500 mg × 3 lần/ngày, tối đa 750–2.000 mg/24 giờ)."
+    },
+    {
+     "t": "Tiếp tục medroxyprogesteron 10 mg/ngày × 10 ngày từ ngày 16 của vòng kinh kế tiếp, 3 vòng kinh liền, tái khám sau 3 vòng, chuyển tuyến nếu còn ra máu bất thường",
+     "v": "a",
+     "n": "QĐ 315/2015 mục 3.2.2; NICE NG88 mục 1.5.3. Chấp nhận, làm được trong lúc chờ lịch hẹn; nhưng 47 tuổi, ra máu thất thường 8 tháng nên cần dữ liệu tuyến trên (NICE NG88 mục 1.3.10)."
+    },
+    {
+     "t": "Truyền dịch hoặc vitamin theo yêu cầu cho khỏe, cho da đẹp",
+     "v": "w",
+     "n": "Không có chỉ định trong tài liệu đã tải (tai-lieu/mau_thuan.md); sinh hiệu ổn, ra máu rút dự kiến (QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.1)."
+    },
+    {
+     "t": "Nhập viện theo dõi vì ra máu rút",
+     "v": "w",
+     "n": "Ra máu dự kiến, sinh hiệu ổn, lượng giảm (QĐ 315/2015 Bảng 1); truyền chỉ khi nặng, mất bù (QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.1)."
+    },
+    {
+     "t": "Chỉ định cắt tử cung ngay",
+     "v": "w",
+     "n": "QĐ 315/2015 mục 3.2.3: cân nhắc cắt tử cung khi trên 40 tuổi mà thuốc không hiệu quả; NICE NG88 mục 1.5.6: phẫu thuật sau khi chuyên khoa đánh giá; chị đã cầm máu bằng thuốc, chưa có chẩn đoán."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Ra máu do ngừng progestin sau đợt tranexamic acid + medroxyprogesteron; nền rong huyết tiền mãn kinh nghĩ do rối loạn phóng noãn (AUB-O)",
+     "Thiếu máu do mất máu đang hồi phục theo lâm sàng, chưa có Hb và ferritin",
+     "Chưa loại trừ hẳn tổn thương nội mạc, polyp, u xơ; chưa từng có công thức máu, siêu âm hay soi buồng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: diễn tiến sau thêm progestin → mô tả máu (cục, mùi, lượng, ngày so với viên cuối) → dấu hiệu cảnh báo → khám nằm–đứng, bụng, mỏ vịt, hai tay. Không hỏi ngày sau viên cuối thì dễ gọi sai là tái phát (QĐ 315/2015 Rong kinh rong huyết Bảng 1).",
+     "Chị mong 'vài ngày', thực tế ra máu khoảng 25 ngày; phân biệt hồi phục chậm với thất bại là thuốc có tác dụng hay không (NICE NG88 mục 1.5.6).",
+     "Chị chưa từng có công thức máu, siêu âm hay soi buồng; 47 tuổi, ra máu thất thường 8 tháng, đợt này cần hai loại thuốc: nên hoàn tất đánh giá ở tuyến trên (NICE NG88 mục 1.2.6, 1.3.10; FIGO 2018 mục 6.4–6.5; QĐ 315/2015 mục 2.4.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có hẹn, không cấp cứu: công thức máu, ferritin, siêu âm đầu dò, soi buồng kèm sinh thiết (NICE NG88 mục 1.3.10–1.3.11) hoặc nạo niêm mạc tại bệnh viện (QĐ 315/2015 mục 3.2.2), bàn LNG-IUS (NICE NG88 mục 1.5.2): ghi cả hai cách lấy mẫu (PK-0065). Cách khác chấp nhận: lặp progestin 3 vòng rồi chuyển nếu bất thường (QĐ 315/2015 mục 3.2.2); chị chưa có dữ liệu nào nên chuyển sớm.",
+     "Không truyền vitamin theo yêu cầu (không có trong tài liệu đã tải). Câu thay thế: 'Da dẻ chị sẽ đẹp lại khi hết thiếu máu; việc đó cần sắt và đi khám đầy đủ, không phải chai truyền.'"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sắt (II) sulfat + acid folic",
+      "ham_luong": "Viên chứa 50 mg sắt nguyên tố",
+      "lieu": "2 viên/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Trong bữa ăn, kèm nước cam",
+      "so_ngay": "Tiếp tục như lượt 1 (QĐ 1832/2022)",
+      "ghi_chu": "QĐ 1832/2022 Thiếu máu mục 4.2.1a; Thiếu máu thiếu sắt mục 5.2. Công thức máu 1–2 tuần/lần đến Hb 100 g/L rồi hàng tháng."
+     },
+     {
+      "thuoc": "Tranexamic acid (kê sẵn)",
+      "ham_luong": "Viên 500 mg (có viên 250 mg)",
+      "lieu": "500 mg × 3 lần/ngày (tối đa 750–2.000 mg/24 giờ)",
+      "duong": "Uống",
+      "thoi_diem": "Chỉ khi ra máu nhiều (ướt đẫm băng sau 1–2 giờ); sau ăn",
+      "so_ngay": "Đến khi ngừng ra máu; số ngày tối đa mỗi đợt: không có trong tài liệu đã tải",
+      "ghi_chu": "NICE NG88 2018 mục 1.5.9–1.5.10; QĐ 456/2026 mục VIII. Không dùng khi tiền căn huyết khối; không phối hợp thuốc tránh thai."
+     }
+    ],
+    "dan_do": [
+     "Ra máu lại 4 ngày sau viên cuối là điều dự kiến (QĐ 315/2015 Bảng 1, ô Mạn), không phải bệnh tái phát; quay lại ngay nếu ra ào ạt, choáng, ngất, hoặc kéo dài hơn 7 ngày.",
+     "Đi tuyến trên trong 1–2 tuần, sau khi hết ra máu rút: công thức máu, ferritin, siêu âm đầu dò, soi buồng và sinh thiết nội mạc; hỏi dụng cụ tử cung giải phóng levonorgestrel (NICE NG88 mục 1.2.6, 1.3.10, 1.5.2). Mang tờ giới thiệu ghi diễn tiến và thuốc đã dùng.",
+     "Tiếp tục sắt mỗi ngày, ăn thức ăn giàu sắt; phân đen là bình thường (QĐ 1832/2022 Thiếu máu mục 4.2.1a; Thiếu máu thiếu sắt mục 5.2).",
+     "Ra máu nhiều trong lúc chờ: tranexamic acid 500 mg × 3 lần/ngày theo đơn (QĐ 456/2026 mục VIII); không dùng lại hai NSAID (QĐ 361/2014 Phụ lục NSAID mục 2). Không tự đi xin truyền dịch nơi khác."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hương đi khám sản ở bệnh viện huyện sau 10 ngày, xin được lịch buổi sáng để không bỏ live. Tại đó: Hb 103 g/L, ferritin thấp; siêu âm đầu dò tử cung bình thường, không u xơ, nội mạc 8 mm sau khi hết ra máu; soi buồng không thấy polyp, sinh thiết cho nội mạc tăng sinh theo chu kỳ, không tăng sản không điển hình, không ác tính. Chị chọn đặt dụng cụ tử cung giải phóng levonorgestrel; ba tháng sau ra máu thất thường giảm rõ, Hb lên 118 g/L. Từ lúc ra máu đến khi cầm hẳn và Hb hồi phục mất khoảng 3 tháng, chậm hơn nhiều so với 'vài ngày' chị mong. Điều giúp chị an toàn là không truyền dịch, uống đủ thuốc, nhận ra ra máu rút và chuyển tuyến có hẹn (mọi kết quả cận lâm sàng ở đây là dữ kiện do ca dựng, không lấy từ tài liệu).",
+ "nhieu": [
+  "Đòi truyền dịch ('sạc pin' để lên hình) cả ba lượt: hỏi 'vì sao cần khỏe ngay tối nay' mới lộ giấy nghỉ và thưởng; nói chai dịch không đưa thêm máu hay sắt (nhận định lâm sàng, không có trong tài liệu đã tải) kèm việc sẽ làm thì chị chấp nhận.",
+  "Lý do thật là xin giấy nghỉ ốm: cấp ngắn ngày đúng tình trạng, không cấp 10 ngày.",
+  "Hai NSAID tự mua gây nóng rát thượng vị, không gây kỳ ra máu (QĐ 361/2014 Phụ lục NSAID mục 2). Phân đen do sắt dễ nhầm xuất huyết tiêu hóa (QĐ 1832/2022 Thiếu máu thiếu sắt mục 5.2); ra máu rút sau progestin dễ nhầm tái phát (QĐ 315/2015 Bảng 1)."
+ ],
+ "bai_hoc_bien": [
+  "Không có xét nghiệm: dùng khám nằm–đứng, niêm mạc, mạch để quyết định ngoại trú; loại thai bằng bệnh sử và khám; công thức máu làm nơi khác song song (NICE NG88 mục 1.2.6).",
+  "Đòi truyền dịch: từ chối bằng lập luận lợi–hại cho người bệnh này, hỏi động cơ ẩn, cho điều đúng ngay trong buổi khám.",
+  "Đỡ một phần: tìm nguyên nhân (uống thuốc gián đoạn) trước khi gọi là thất bại; dặn trước ra máu rút sau progestin; ca 47 tuổi ra máu thất thường vẫn cần đánh giá nội mạc ở tuyến trên (NICE NG88 mục 1.3.10; FIGO 2018 mục 6.4)."
+ ],
+ "diem_nho": [
+  "Ra máu quá 7 ngày là rong kinh/rong huyết (QĐ 315/2015 mục 1); chu kỳ bình thường 24–38 ngày (FIGO 2018 Hình 1).",
+  "Tranexamic acid 250 hoặc 500 mg × 3 lần/ngày đến khi ngừng ra máu, tối đa 750–2.000 mg/24 giờ (QĐ 456/2026 mục VIII); progestin 10 mg/ngày × 10 ngày, ra máu 2–7 ngày sau viên cuối (QĐ 315/2015 mục 3.2.2, Bảng 1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 315/QĐ-BYT 2015 Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa – TL-0036 – Rong kinh rong huyết (mục 1, 2.1, 2.2, 2.4.2, 3.2, 3.2.1–3.2.4, 4, Bảng 1); Mãn kinh – tiền mãn kinh (mục 2, 2.1, 3.4.2).",
+  "NICE NG88 2018 (rà soát 2026) Heavy menstrual bleeding – TL-0640 – 1.1.1, 1.2.1–1.2.10, 1.3.4, 1.3.9–1.3.12, 1.3.18, 1.5.2, 1.5.3, 1.5.6, 1.5.8–1.5.10, 1.5.23.",
+  "FIGO 2018 – The two FIGO systems for normal and abnormal uterine bleeding (Munro MG et al., Int J Gynaecol Obstet 2018;143:393) – TL-0642 – Hình 1, Bảng 3, mục 6.1–6.5.",
+  "BYT – QĐ 456/2026 Hướng dẫn chẩn đoán và xử trí u xơ cơ tử cung – kho cũ tltk-10000-ca (bản chữ lỗi phông) – mục VIII.",
+  "BYT – QĐ 1832/QĐ-BYT 2022 Hướng dẫn chẩn đoán và điều trị một số bệnh lý huyết học – TL-0542 – Thiếu máu mục 2.1a, 3.1a, 3.2, 4.2.1a; Thiếu máu thiếu sắt mục 2.2, 3.1, 3.2, 4.1, 5.1–5.3, 7.",
+  "BYT – QĐ 361/QĐ-BYT 2014 Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Phụ lục NSAID mục 2, 3.2, 3.3, bảng liều tr. 200; Phụ lục thuốc giảm đau mục 3.1. WHO AWaRe antibiotic book 2022 – TL-0018 – tr. 48 (ibuprofen tối đa 2,4 g/ngày)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-20): đã đọc QĐ 315/2015 (TL-0036), NICE NG88 (TL-0640), FIGO 2018 (TL-0642), QĐ 456/2026 (kho cũ), QĐ 1832/2022 (TL-0542), QĐ 361/2014 (TL-0286), AWaRe 2022 (TL-0018). Mâu thuẫn theo mục có sẵn: PK-0065, PK-0188, PK-0192, PK-0061, PK-0181, ibuprofen, paracetamol, truyền dịch theo yêu cầu.",
+  "Thiếu trong tài liệu đã tải: số ngày gọi là thất bại và tối đa mỗi đợt tranexamic acid; cách bắt đầu progestin khi đang ra máu; ngưỡng mạch, HA tư thế để chuyển viện; thời điểm soi buồng; thủ tục và số ngày giấy nghỉ ốm. QĐ 456/2026 bản chữ lỗi phông, liều đọc được ở mục VIII.",
+  "Không ảnh, không âm thanh. khoa_cls.nhom gồm xn, sieu_am, tham_do như PK-0061. Kết quả cận lâm sàng là dữ kiện dựng."
+ ]
+}
