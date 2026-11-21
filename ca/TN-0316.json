@@ -1,0 +1,869 @@
+{
+ "ma_ca": "TN-0316",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1",
+ "benh": "TN_dai_mau_danh_gia",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Đái máu (đánh giá)",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư bàng quang",
+   "Sỏi",
+   "Viêm cầu thận"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Thân nhân trả lời thay",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Chủ quán ăn",
+  "yeu_to_khoi_phat": "Sau quan hệ tình dục",
+  "thuoc_dang_dung": "Paracetamol liều cao kéo dài",
+  "ly_do_that_su_den_kham": "Sợ lây bệnh cho người thân"
+ },
+ "benh_nhan": {
+  "ten": "Trần Quốc Việt",
+  "tuoi": 34,
+  "gioi": "Nam",
+  "nghe": "Chủ quán cơm bình dân",
+  "can_nang": 64,
+  "chieu_cao": 167,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'. Bà Nhàn xưng 'tôi', gọi bác sĩ là 'bác sĩ', gọi con là 'thằng Việt'.",
+  "tinh_cach": "Trầm, ngại nói chuyện nhạy cảm, hay nghe mẹ, đứng bếp 12 giờ/ngày nên đau lưng, tự mua thuốc ở tiệm thuốc. Rất thương vợ con, im lặng chịu đựng.",
+  "kieu_nhieu": "Thân nhân trả lời thay: bà Nhàn giành trả lời hầu hết câu hỏi, đoán 'nóng trong vì nhậu', đòi thuốc kháng sinh và thuốc bổ thận 'cho chắc'. Anh Việt ngồi im, gật hoặc 'dạ'. Chuyện quan hệ vợ chồng, nỗi sợ lây bệnh và số viên paracetamol thật chỉ nói khi bác sĩ mời bà ra ngoài hoặc hỏi riêng anh bằng giọng không phán xét. Hỏi chung chung anh đáp 'không có gì đâu bác sĩ'.",
+  "nguoi_nha": "Mẹ ruột, bà Lê Thị Nhàn, 61 tuổi, bán quán cùng con, ở chung nhà với con dâu và cháu gái 2 tuổi. Bà biết: con đi tiểu ra nước đỏ hồng một hôm, con hay đau lưng và uống thuốc đau lưng, con hút thuốc, uống bia. Bà KHÔNG biết chuyện đái máu xuất hiện sau khi vợ chồng gần nhau, nỗi sợ bệnh lây của con và con uống paracetamol bao nhiêu viên mỗi ngày.",
+  "ten_nguoi_nha": "Bà Nhàn (mẹ)",
+  "ngoai_hinh": {
+   "da": "#c79a74",
+   "toc": "#1c1a18",
+   "kieuToc": "ngan",
+   "ao": "#5d6b7a",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#b98c68",
+    "toc": "#8a8580",
+    "kieuToc": "bui",
+    "ao": "#7a5c4a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 2,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Nước tiểu đỏ hồng một lần cách đây 6 ngày, mẹ đưa đi khám",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tư gần chợ chỉ làm được xét nghiệm cơ bản: công thức máu; sinh hóa nền (glucose, ure, creatinin, điện giải, AST, ALT, CRP); tổng phân tích và que thử nước tiểu có soi cặn; lấy mẫu gửi cấy nước tiểu, kết quả sau 48 giờ. Không có siêu âm, X-quang, CT, nội soi; không làm UACR, PSA, NAAT, định lượng paracetamol. Bệnh viện đa khoa huyện cách khoảng 20 km (40 phút xe máy) có siêu âm, CT, nội soi bàng quang và khoa tiết niệu."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Anh Trần Quốc Việt, 34 tuổi, chủ quán cơm, đến cùng mẹ là bà Nhàn. Theo mẹ kể: nước tiểu đỏ hồng một hôm cách đây 6 ngày, nay hết. Sinh hiệu: HA 124/78 mmHg, mạch 78 l/p, nhiệt độ 36,8 °C, SpO₂ 99%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Anh Việt về nhà với kháng sinh và ít thuốc bổ thận như mẹ xin, nước tiểu đã hết đỏ nên cả nhà yên tâm và anh không đi bệnh viện. Đái máu đại thể một lần vẫn xếp nhóm nguy cơ cao, cần nội soi bàng quang và hình ảnh cắt lớp (AUA/SUFU 2025, phát biểu 15), nhưng không ai làm; nếu có tổn thương thì chỉ lộ ra khi đái máu quay lại. Anh vẫn uống 8–10 viên paracetamol mỗi ngày, men gan có thể tăng thêm (QĐ 361/2014, mục 3.1), và nỗi sợ làm lây cho vợ con vẫn nằm im.",
+    "nhap_vien": "Nhập viện nội trú ngay là quá mức: anh ổn định, không cục máu, không bí tiểu, creatinin bình thường (QĐ 3931/2015, Đái máu mục 3: can thiệp khi tắc do máu cục). Anh nằm 3–4 ngày, bỏ quán, mất thu nhập, vợ và mẹ càng lo mình mắc bệnh nặng, trong khi các thăm dò cần làm đều làm được ngoại trú ở khoa tiết niệu."
+   },
+   "loi_mo": "Chào bác sĩ. Thằng nhà tôi hôm thứ Hai đi tiểu ra nước đỏ, giờ hết rồi. Bác sĩ cho nó ít thuốc kháng sinh với thuốc bổ thận cho chắc, kẻo nó nóng trong.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "124/78",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bà Nhàn: 'Hôm thứ Hai thằng Việt đi tiểu ra nước đỏ hồng như nước rửa thịt, mấy lần. Giờ hết rồi, tôi nghĩ nóng trong vì nhậu. Bác sĩ cho nó ít thuốc kháng sinh, thuốc bổ thận cho chắc.' Anh Việt gật đầu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (do mẹ kể)"
+    },
+    {
+     "id": "nuoc_tieu",
+     "noi_dung": "Nước tiểu hồng đỏ, trong, không cục, đỏ suốt bãi tiểu (đầu, giữa, cuối), 3 lần đi tiểu đầu tiên rồi nhạt dần, vàng bình thường từ chiều hôm sau. Không có máu nhỏ ra ngoài lúc không đi tiểu. Từ đó đến nay không tái phát.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đái máu đại thể, đái máu toàn bãi hay chảy máu niệu đạo"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Xốn nhẹ cuối bãi tiểu đúng 1 ngày rồi hết. Không tiểu dắt, không tiểu khó, tia tiểu bình thường, không đau trên xương mu, không sốt, không đau quặn hay đau hông lưng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tiết niệu, đau quặn thận, sốt"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Chỉ nói khi hỏi riêng: tối hôm trước với vợ, gần nhau lâu hơn mọi khi; sáng hôm sau đi tiểu ra nước đỏ hồng. Chỉ quan hệ với vợ, không bao cao su, không tiết dịch niệu đạo, không loét, vợ không có triệu chứng. Không chấn thương dương vật, không đặt vật lạ hay thủ thuật.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Khởi phát sau quan hệ tình dục; nguy cơ bệnh lây qua đường tình dục",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ mời bà Nhàn ra ngoài hoặc hỏi riêng anh Việt về sinh hoạt vợ chồng và hoàn cảnh ngay trước khi đái máu."
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Đau lưng vì đứng bếp 12 giờ/ngày. Gần 3 tháng nay uống Hapacol 500 mg (chỉ có paracetamol) 8–10 viên/ngày, mua ở tiệm thuốc không toa; hôm nào bận uống nhiều hơn. Không dùng ibuprofen, diclofenac, aspirin, thuốc nam, thuốc bắc, thuốc chống đông. Bà Nhàn chỉ biết 'nó uống thuốc đau lưng'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: paracetamol liều cao kéo dài; NSAID, chống đông"
+    },
+    {
+     "id": "ruou_thuoc",
+     "noi_dung": "Hút 10 điếu/ngày được 14 năm (khoảng 7 gói-năm). Bia 2 lon/ngày hầu hết các ngày, cuối buổi bán.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hút thuốc (nguy cơ ung thư tiết niệu); rượu bia (độc gan khi dùng paracetamol)"
+    },
+    {
+     "id": "hoa_chat",
+     "noi_dung": "Nấu bếp gas, không tiếp xúc benzen, thuốc nhuộm, hóa chất công nghiệp, cao su.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phơi nhiễm nghề nghiệp"
+    },
+    {
+     "id": "ts_niem",
+     "noi_dung": "Chưa từng đái máu, sỏi, nhiễm trùng tiểu, chấn thương hay thủ thuật đường tiểu. Không đi nước ngoài hay vùng sán máng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử tiết niệu"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Gia đình không ai bệnh thận, điếc, sỏi, thận đa nang hay ung thư.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử gia đình"
+    },
+    {
+     "id": "nhiem_trung",
+     "noi_dung": "Hai tháng nay không đau họng, không nhiễm trùng da. Không phù mặt, không phù chân, nước tiểu không nhiều bọt, không tăng cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc viêm cầu thận sau nhiễm trùng, bệnh thận IgA"
+    },
+    {
+     "id": "do_do",
+     "noi_dung": "Không ăn củ dền, thanh long ruột đỏ, không uống rifampicin hay metronidazol, không đau cơ, không tập nặng. Không chảy máu cam, bầm da, đi cầu phân đen.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nước tiểu đỏ không do hồng cầu; rối loạn đông máu"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Em sợ đây là bệnh lây qua đường tình dục hay bệnh gì đó lây được. Nhà có vợ, bé 2 tuổi, mẹ, ăn chung nồi, tắm chung phòng. Em không dám nói ở nhà, nhờ mẹ đưa đi khám chứ không dám kể chuyện vợ chồng. Em muốn hỏi bệnh này có lây cho vợ con không.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: sợ lây bệnh cho người thân",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng anh, hỏi anh lo điều gì nhất, hoặc hỏi anh có sợ lây cho ai không."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm hồng, da không vàng, không bầm máu. Không phù mặt.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu mới: vàng nhạt, trong, không cục máu.",
+     "k": 1,
+     "hien": "Vàng nhạt, trong."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau khi gõ, không sờ thấy thận. Cầu bàng quang âm tính, ấn trên xương mu không đau.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù mắt cá hai chân.",
+     "k": 1
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Dương vật không sang thương, không tổn thương da; miệng sáo bình thường, vắt niệu đạo không tiết dịch.",
+     "k": 1
+    },
+    "bui_tinh_hoan": {
+     "a": "Bìu, tinh hoàn, mào tinh không đau, không sưng.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối, gan lách không to, không đau hạ vị.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "e",
+     "r": "Que nhúng hồng cầu 1+, bạch cầu esterase và nitrit âm tính, protein âm tính. Soi cặn: 12 hồng cầu/QTLC, đa số đồng dạng, không trụ hồng cầu, 1–2 bạch cầu/QTLC, không vi khuẩn.",
+     "bang": {
+      "u_sg": 1.018,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_ery": "1+ (25)"
+     },
+     "ab": 1,
+     "n": "Hồng cầu thật trên soi cặn xác nhận đái máu (AUA/SUFU 2025, phát biểu 1, 2; QĐ 3931/2015, Đái máu mục 2a). Hồng cầu đồng dạng, không trụ: không gợi ý nguồn cầu thận (KDIGO 2021, mục 1.3). Bạch cầu esterase, nitrit âm: không đủ tiêu chuẩn nhiễm khuẩn (QĐ 3931/2015, Viêm bàng quang cấp mục 2.1.1; EAU Urological Infections 2026, mục 3.10.3 cho viêm niệu đạo: ≥ 10 bạch cầu/QTLC cặn nước tiểu đầu dòng hoặc bạch cầu esterase dương)."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Hồng cầu 1+, bạch cầu esterase, nitrit, protein âm tính.",
+     "n": "Que ≥ 1+ đủ để đánh giá tiếp (QĐ 2388/2024, mục 3.2.2); AUA/SUFU 2025 (phát biểu 2) yêu cầu soi cặn xác nhận. Đã có tổng phân tích nước tiểu thì không cần làm riêng."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,8 · Creatinin 84 µmol/L · eGFR 108 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.8,
+      "creat": 84,
+      "egfr": 108
+     },
+     "ab": 1,
+     "n": "Bắt buộc trong đánh giá đái máu (AUA/SUFU 2025, phát biểu 3); đánh giá chức năng thận trước khi chụp cản quang (CT niệu)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 46 · ALT 68 U/L (giới hạn trên 40)",
+     "ab": 1,
+     "n": "Tăng men gan nhẹ ở người uống 4–5 g paracetamol/ngày kèm bia: QĐ 361/2014 (Phụ lục thuốc giảm đau mục 3.1) chống chỉ định paracetamol khi đang tăng men gan; QĐ 3610/2015 (Ngộ độc paracetamol mục 2): người nghiện rượu dễ ngộ độc ở liều điều trị."
+    },
+    "cay_nuoc_tieu": {
+     "v": "a",
+     "r": "Mẫu giữa dòng gửi labo huyện, kết quả sau 48 giờ: không mọc vi khuẩn.",
+     "n": "Tùy lâm sàng (QĐ 3931/2015, Đái máu mục 2a); không bạch cầu, nitrit nên chưa cần."
+    },
+    "naat_sti": {
+     "v": "n",
+     "r": "(Phòng khám không làm được NAAT.)",
+     "n": "EAU Urological Infections 2026, mục 3.10.4: NAAT làm cho mọi trường hợp viêm niệu đạo nghi ngờ. Anh không có dịch niệu đạo, bạch cầu esterase âm: chưa đủ tiêu chuẩn viêm niệu đạo (mục 3.10.3); bệnh viện làm NAAT nếu anh lo ngại là hợp lý."
+    },
+    "uacr": {
+     "v": "n",
+     "r": "(Phòng khám không làm được UACR.)",
+     "n": "QĐ 2388/2024, mục 3.2.2: UACR/UPCR sàng lọc; que nhúng protein âm tính tạm thay (cùng mục: nếu không có thể định tính bằng que nhúng)."
+    },
+    "abdus": {
+     "v": "e",
+     "r": "Ở bệnh viện huyện (phòng khám không có siêu âm): hai thận kích thước bình thường, đồng nhất, không ứ nước, không sỏi, không khối.",
+     "ab": 1,
+     "n": "Siêu âm hệ thận–tiết niệu là thăm dò theo lâm sàng (QĐ 3931/2015, Đái máu mục 2a); EAU Urolithiasis 2026, mục 3.3.1: siêu âm là hình ảnh đầu tay khi nghi sỏi (độ nhạy 45%, độ đặc hiệu 88% với sỏi thận)."
+    },
+    "ct_nieu": {
+     "v": "a",
+     "r": "Ở bệnh viện huyện: CT niệu nhiều thì có cản quang: không sỏi, không khối thận, đài bể thận và niệu quản bình thường, bàng quang không khối.",
+     "n": "Nhóm nguy cơ cao (gồm tiền sử đái máu đại thể): nội soi bàng quang và hình ảnh cắt lớp đường tiết niệu trên (AUA/SUFU 2025, phát biểu 15; theo bản web, chưa đối chiếu PDF); QĐ 3931/2015 (mục 2c) dùng cắt lớp khi nghi nguồn một bên. Siêu âm hay cắt lớp trước đều chấp nhận (TN-0311)."
+    },
+    "soi_bang_quang": {
+     "v": "e",
+     "r": "Ở bệnh viện huyện: nội soi bàng quang ống mềm: niệu đạo, tuyến tiền liệt, niêm mạc bàng quang bình thường, không u, không sỏi, hai lỗ niệu quản phun nước tiểu trong.",
+     "ab": 1,
+     "n": "Tiền sử đái máu đại thể xếp nguy cơ cao: nội soi bàng quang (AUA/SUFU 2025, phát biểu 15, tr. 21; theo bản web, chưa đối chiếu PDF). QĐ 3931/2015 (mục 2c): nội soi bàng quang, tốt nhất khi đang đái máu. Anh 34 tuổi, hút 7 gói-năm: nguy cơ ung thư thấp nhưng tiêu chí đái máu đại thể không phụ thuộc tuổi."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái máu đại thể một đợt, hiện còn đái máu vi thể (12 hồng cầu/QTLC đồng dạng), xếp nguy cơ cao vì có đái máu đại thể, chưa rõ nguyên nhân; khởi phát sau quan hệ tình dục",
+     "ok": 1,
+     "n": "Đái máu đại thể từng có thì xếp nhóm nguy cơ cao dù dưới 40 tuổi (AUA/SUFU 2025, Bảng 4, tr. 21; theo bản web, chưa đối chiếu PDF). Nguyên nhân cụ thể và mối liên quan với quan hệ tình dục: không có trong tài liệu đã tải; chỉ ghi là hoàn cảnh khởi phát."
+    },
+    {
+     "t": "Tăng men gan nhẹ (AST 46, ALT 68) liên quan paracetamol 4–5 g/ngày kèm bia, chưa loại trừ nguyên nhân khác",
+     "ok": 1,
+     "n": "QĐ 361/2014 (Phụ lục thuốc giảm đau mục 3.1): không quá 4 g/24 giờ, chống chỉ định khi tăng men gan; QĐ 3610/2015 (Ngộ độc paracetamol mục 6): không uống quá 3 g/ngày."
+    },
+    {
+     "t": "Ung thư bàng quang, u đường tiết niệu trên",
+     "n": "34 tuổi, 7 gói-năm, không phơi nhiễm hóa chất nên xác suất thấp, nhưng trước hết phải cảnh giác khối u thận–tiết niệu (QĐ 3931/2015, Đái máu mục 2c) và đái máu đại thể cần nội soi bàng quang cùng hình ảnh (AUA/SUFU 2025, phát biểu 15). Loại trừ bằng nội soi bàng quang và CT niệu."
+    },
+    {
+     "t": "Sỏi tiết niệu",
+     "n": "Không đau quặn, không đau hông lưng, không tiểu cát (QĐ 3931/2015, Đái máu mục 2c); sỏi không đau vẫn có thể gây đái máu nên chỉ loại hẳn bằng hình ảnh (EAU Urolithiasis 2026, mục 3.3.1)."
+    },
+    {
+     "t": "Viêm cầu thận, bệnh thận IgA",
+     "n": "Hồng cầu đồng dạng, không trụ, protein niệu âm, creatinin và huyết áp bình thường, không phù, không nhiễm trùng họng, da trước đó (KDIGO 2021, mục 1.3; QĐ 2388/2024, bài viêm cầu thận sau nhiễm trùng mục 3.1, 4.2)."
+    },
+    {
+     "t": "Viêm niệu đạo hoặc nhiễm khuẩn tiết niệu lây qua đường tình dục",
+     "n": "Không dịch niệu đạo, bạch cầu esterase và nitrit âm, soi cặn không bạch cầu (EAU Urological Infections 2026, mục 3.10.3). NAAT làm ở bệnh viện (mục 3.10.4)."
+    },
+    {
+     "t": "Chảy máu niệu đạo hoặc chấn thương niệu đạo, dương vật khi quan hệ",
+     "n": "Máu đỏ suốt bãi tiểu, không chảy ngoài lúc tiểu: không phải chảy máu niệu đạo, vốn không phụ thuộc lần đi tiểu (QĐ 3931/2015, Đái máu mục 2b); khám dương vật, niệu đạo bình thường."
+    },
+    {
+     "t": "Nước tiểu đỏ không do hồng cầu: thức ăn, thuốc, myoglobin",
+     "n": "Soi cặn có hồng cầu thật, không ăn củ dền, không rifampicin, không đau cơ (QĐ 3931/2015, Đái máu mục 2b)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Mời bà Nhàn ra ngoài, hỏi riêng anh Việt về hoàn cảnh trước khi đái máu, sinh hoạt vợ chồng, số viên paracetamol, nỗi lo",
+     "v": "c",
+     "n": "Kỹ năng tách người bệnh khỏi thân nhân: không có trong tài liệu đã tải. Là điểm dạy của biến 'thân nhân trả lời thay'."
+    },
+    {
+     "t": "Xác nhận đái máu bằng tổng phân tích nước tiểu kèm soi cặn (hoặc que nhúng ≥ 1+)",
+     "v": "c",
+     "n": "Cách A: que ≥ 1+ đủ đánh giá tiếp, không cần soi (QĐ 2388/2024, mục 3.2.2). Cách B: que dương tính phải xác nhận bằng soi, ≥ 3 hồng cầu/QTLC (AUA/SUFU 2025, phát biểu 1, 2; KDIGO 2021, mục 1.3). Khác nhau vì mục đích: sàng lọc bệnh thận mạn so với phân tầng nguy cơ ung thư (mục 'Xác nhận đái máu', TQ-0073)."
+    },
+    {
+     "t": "Xếp nguy cơ cao vì có đái máu đại thể, chuyển khoa tiết niệu: siêu âm hệ tiết niệu, nội soi bàng quang, cắt lớp niệu nhiều thì (nội soi và hình ảnh cắt lớp theo AUA/SUFU 2025; siêu âm trước, cắt lớp khi cần theo QĐ 3931/2015)",
+     "v": "c",
+     "n": "AUA/SUFU 2025, phát biểu 15 (theo bản web); QĐ 3931/2015, Đái máu mục 2a, 2c. Hai nguồn khác thời điểm và bối cảnh: QĐ 3931 viết 2015 cho tuyến có siêu âm là phương tiện sẵn, AUA phân tầng nguy cơ ung thư tiết niệu. Phòng khám không có siêu âm, CT, nội soi nên chuyển. Không bên nào nói cách kia gây hại (mục TN-0311)."
+    },
+    {
+     "t": "Không kê kháng sinh, không kê thuốc cầm máu hay 'thuốc bổ thận'",
+     "v": "c",
+     "n": "Không đủ tiêu chuẩn nhiễm khuẩn (QĐ 3931/2015, Viêm bàng quang cấp mục 2.1.1; AUA/SUFU 2025, phát biểu 7). Cầm máu (Transamin) chỉ nằm trong điều trị triệu chứng đang chảy (QĐ 3931/2015, mục 3); đã hết đái máu thì không cần."
+    },
+    {
+     "t": "Giảm paracetamol: tạm ngừng khi đang tăng men gan hoặc dưới 3 g/ngày; không dùng tiếp 8–10 viên/ngày",
+     "v": "c",
+     "n": "Cách A: chống chỉ định khi đang có tăng men gan (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1). Cách B: người có bệnh gan dùng dưới 3 g/ngày (QĐ 361/2014, Phụ lục NSAID mục 3.3, bảng nguy cơ cao); QĐ 3610/2015 mục 6: không quá 3 g/ngày. Con số 3 g thận trọng hơn mức 4 g chung; theo sổ mâu thuẫn (TH-1329, TM-0250). Hẹn thử lại AST/ALT."
+    },
+    {
+     "t": "Tiếp tục paracetamol 8–10 viên/ngày như cũ",
+     "v": "w",
+     "n": "Vượt cả hai mức 3 g và 4 g, đang tăng men gan, uống bia thường xuyên (QĐ 361/2014 mục 3.1; QĐ 3610/2015 mục 2, 6)."
+    },
+    {
+     "t": "Nói với anh rằng chưa có bằng chứng nhiễm khuẩn qua đường tình dục, nhưng kết quả NAAT và hình ảnh còn chờ; chưa thể hứa 'không lây', không đoán bệnh",
+     "v": "c",
+     "n": "Chưa có tiêu chuẩn viêm niệu đạo (EAU Urological Infections 2026, mục 3.10.3). Nguyên nhân đái máu chưa biết nên không khẳng định (không có trong tài liệu đã tải). Lời nói cụ thể do người biên soạn."
+    },
+    {
+     "t": "Xét nghiệm NAAT Chlamydia, lậu cầu ở bệnh viện (nước tiểu đầu dòng)",
+     "v": "a",
+     "n": "EAU Urological Infections 2026, mục 3.10.4: làm NAAT khi nghi viêm niệu đạo; ở đây không triệu chứng niệu đạo nên là tùy chọn, hợp lý vì anh lo lắng."
+    },
+    {
+     "t": "Dặn quay lại ngay nếu nước tiểu đỏ lại, có cục máu, đau quặn hông lưng, sốt rét run, bí tiểu; hẹn tái khám sau khi có kết quả bệnh viện",
+     "v": "c",
+     "n": "Cục máu gây tắc phải can thiệp (QĐ 3931/2015, Đái máu mục 3); đau quặn, sốt là triệu chứng cần đánh giá (mục 2a). Thời điểm tái khám do ca chọn."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái máu đại thể một đợt, hiện còn đái máu vi thể 12 hồng cầu/QTLC đồng dạng, nhóm nguy cơ cao, chưa rõ nguyên nhân, khởi phát sau quan hệ tình dục",
+     "Tăng men gan nhẹ (AST 46, ALT 68 U/L) do paracetamol 4–5 g/ngày cộng bia, cần theo dõi",
+     "Chưa có bằng chứng nhiễm khuẩn hay bệnh cầu thận; u, sỏi chưa loại hẳn vì chưa có hình ảnh và nội soi",
+     "Nhiễu: mẹ trả lời thay, đòi kháng sinh; lý do thật: anh sợ lây bệnh cho vợ con, mẹ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi bà Nhàn và anh Việt về màu, thời điểm nước tiểu đỏ → mời bà ra ngoài hỏi riêng về hoàn cảnh khởi phát, thuốc, thuốc lá, bia, hóa chất → khám nước tiểu mẫu, hố thắt lưng, cầu bàng quang, dương vật, bìu, phù → tổng phân tích nước tiểu có soi cặn, creatinin, men gan → chẩn đoán → chuyển tuyến.",
+     "Đái máu: nước tiểu có máu, đại thể khi nhìn thấy được; vi thể khi chỉ thấy trên xét nghiệm (QĐ 3931/2015, Đái máu mục 1). Soi cặn ≥ 3 hồng cầu/QTLC (AUA/SUFU 2025, phát biểu 1). Trước hết cảnh giác khối u thận–tiết niệu (QĐ 3931/2015, mục 2c).",
+     "Vì sao nguy cơ cao dù chỉ 34 tuổi: đái máu đại thể từng có thì xếp nhóm cao, cần nội soi bàng quang và hình ảnh cắt lớp (AUA/SUFU 2025, phát biểu 15; theo bản web, chưa đối chiếu PDF). Nguy cơ thấp chỉ áp dụng cho đái máu vi thể.",
+     "Phân biệt: hồng cầu đồng dạng, không trụ, protein âm, creatinin và huyết áp bình thường nên ít nghĩ cầu thận (KDIGO 2021, mục 1.3; QĐ 2388/2024, mục 3.2.2). Máu đỏ toàn bãi tiểu, không phải chảy máu niệu đạo (QĐ 3931/2015, mục 2b). Bạch cầu, nitrit âm và không dịch niệu đạo: chưa phải viêm niệu đạo (EAU Urological Infections 2026, mục 3.10.3).",
+     "Điều mẹ không biết: khởi phát sau quan hệ, paracetamol 8–10 viên/ngày, nỗi sợ lây. Mối liên quan đái máu với quan hệ tình dục không có trong tài liệu đã tải: chỉ ghi hoàn cảnh.",
+     "Nỗi sợ lây cho vợ con: chưa có bằng chứng nhiễm khuẩn, chưa đủ để nói chắc; nếu NAAT dương tính thì đưa vợ cùng xét nghiệm (EAU Urological Infections 2026, mục 3.10.1: viêm niệu đạo lây qua quan hệ tình dục)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển khoa tiết niệu bệnh viện huyện: siêu âm, CT niệu nhiều thì, nội soi bàng quang ống mềm (AUA/SUFU 2025, phát biểu 15; QĐ 3931/2015, mục 2a, 2c). Nguồn lực: phòng khám chỉ có xét nghiệm cơ bản. Thứ tự siêu âm hay cắt lớp trước do tuyến trên quyết (sổ mâu thuẫn, TN-0311).",
+     "Không kháng sinh, không cầm máu: chưa có nhiễm khuẩn, đã hết chảy (QĐ 3931/2015, mục 2.1.1, mục 3; AUA/SUFU 2025, phát biểu 7).",
+     "Paracetamol: tăng men gan thì không dùng (QĐ 361/2014, mục 3.1) hoặc dưới 3 g/ngày (mục 3.3 bảng nguy cơ cao; QĐ 3610/2015, mục 6). Đau lưng do đứng bếp: tư vấn tập và đổi tư thế (NICE NG59 2016, khuyến cáo 1.2.1, 1.2.2); không dùng paracetamol đơn độc làm điều trị chính (1.2.26). Hẹn thử lại men gan.",
+     "Nói rõ cho anh: chưa kết luận 'lây' hay 'không lây', chờ NAAT và hình ảnh.",
+     "Việc sai: cho về với kháng sinh, tiếp tục paracetamol cũ, hứa 'không lây', nhập viện ngay."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol (Hapacol) – tạm ngừng",
+      "ham_luong": "500 mg/viên",
+      "lieu": "Ngừng khi men gan còn cao; nếu thật cần: tối đa 500 mg × 3 lần/ngày (1,5 g)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn, cách nhau ≥ 6 giờ",
+      "so_ngay": "Ngắn ngày, hẹn thử lại men gan sau 3 tuần",
+      "ghi_chu": "Không dùng quá 3 g/ngày (QĐ 3610/2015 mục 6; QĐ 361/2014 mục 3.3); không dùng khi đang tăng men gan (mục 3.1). Mức 1,5 g là chọn của ca, thấp hơn trần. Không uống bia trong thời gian này; tránh thuốc khác chứa paracetamol."
+     },
+     {
+      "thuoc": "Không kê kháng sinh, không kê thuốc cầm máu, không thuốc bổ thận",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Không có chỉ định (QĐ 3931/2015 mục 2.1.1; AUA/SUFU 2025, phát biểu 7)."
+     }
+    ],
+    "dan_do": [
+     "Đi bệnh viện huyện làm siêu âm, CT niệu, nội soi bàng quang; mang theo kết quả nước tiểu, men gan này (AUA/SUFU 2025, phát biểu 15; QĐ 3931/2015, mục 2c).",
+     "Quay lại ngay nếu nước tiểu đỏ lại, có cục máu, đau quặn hông lưng, sốt rét run, tiểu không ra (QĐ 3931/2015, mục 2a, 3).",
+     "Không tự mua paracetamol quá 3 g/ngày, tránh bia, không dùng thêm thuốc giảm đau khác (QĐ 3610/2015, mục 6).",
+     "Đau lưng: nghỉ giữa giờ, tập giãn cơ lưng (NICE NG59, khuyến cáo 1.2.1–1.2.2)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2",
+   "tiep_don": "Anh Việt tái khám một mình sau 3 tuần. Bệnh viện huyện đã làm siêu âm hệ tiết niệu, CT niệu nhiều thì có cản quang và nội soi bàng quang ống mềm: bình thường; NAAT Chlamydia, lậu cầu âm tính. Nước tiểu không đỏ lại. Sinh hiệu: HA 120/76 mmHg, mạch 74 l/p, nhiệt độ 36,7 °C, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển thận học làm sinh thiết thận cho anh Việt là quá tay: không protein niệu, hồng cầu 6/QTLC đồng dạng, không trụ, creatinin 82 µmol/L, huyết áp 120/76 (KDIGO 2024, Hình 48 chưa đủ mốc; QĐ 3931/2015 chỉ nêu sinh thiết khi đái máu hai bên ở người trẻ nghĩ IgA). Anh chịu thủ thuật xâm lấn có nguy cơ chảy máu, mất thêm ngày công và càng tin mình bệnh nặng.",
+    "nhap_vien": "Nhập viện để làm lại nội soi và CT vì còn hồng cầu trong nước tiểu là không cần: đã làm đủ đánh giá nguy cơ cao âm tính, anh khỏe và ổn định. Anh nằm viện, bỏ quán, chịu thêm tia X và cản quang; vợ càng nghi chồng giấu bệnh nặng nên khoảng cách trong nhà không giảm."
+   },
+   "loi_mo": "Chào bác sĩ. Em đi bệnh viện làm hết rồi, họ bảo bình thường. Mà tờ giấy vẫn ghi còn hồng cầu trong nước tiểu, vậy là em còn bệnh đúng không? Thuốc đau lưng em vẫn uống mỗi ngày.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "120/76",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ lúc đi bệnh viện huyện, nước tiểu không đỏ lại, vàng nhạt, hết xốn. Anh đi một mình lần này, mẹ ở quán. Kết quả bệnh viện đã có (xem tiếp đón).",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến sau 3 tuần: không đái máu đại thể tái phát"
+    },
+    {
+     "id": "benh_vien",
+     "noi_dung": "Bác sĩ tiết niệu bệnh viện huyện nói 'không thấy gì nguy hiểm', hẹn anh quay lại nơi này theo dõi. Anh chưa hiểu 'còn hồng cầu' là gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hiểu kết quả bệnh viện"
+    },
+    {
+     "id": "paracetamol",
+     "noi_dung": "Đã bớt, nhưng vẫn uống 5–6 viên/ngày (2,5–3 g) vì đau lưng, không dám bỏ hẳn. Hết bia, còn 1 lon cuối tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã giảm một phần paracetamol; vẫn còn dùng"
+    },
+    {
+     "id": "dau_lung",
+     "noi_dung": "Đau thắt lưng hai bên, âm ỉ khi đứng lâu, đỡ khi ngồi nghỉ, không lan xuống chân, không tê yếu chân, không đau lúc nằm đêm. Không đau hố thắt lưng kiểu quặn, nước tiểu không đỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đau lưng cơ học, không phải đau quặn thận"
+    },
+    {
+     "id": "nuoc_tieu_moi",
+     "noi_dung": "Không đỏ, không cục, không sẫm, không bọt, không phù. Hút còn 10 điếu/ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tái phát đái máu đại thể, protein niệu, phù"
+    },
+    {
+     "id": "ly_do_that2",
+     "noi_dung": "Em đã nằm ngủ riêng, dùng bát đũa và khăn tắm riêng, không dám bế con, không gần vợ từ hôm đó vì sợ lây. Vợ buồn, mẹ không hiểu sao em khó khăn như vậy. Em muốn bác sĩ nói chắc là không lây.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Anh tự cách ly với vợ con vì sợ lây",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh sống chung với vợ con ra sao, hỏi sau lần khám trước anh có lo lắng, có tránh gần ai không, hoặc hỏi riêng về quan hệ vợ chồng."
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm hồng, không vàng da, không phù. Cân nặng 64 kg, không đổi.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu mới: vàng nhạt, trong, không cục.",
+     "k": 1,
+     "hien": "Vàng nhạt, trong."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau khi gõ, cầu bàng quang âm tính.",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Không phù chân.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "e",
+     "r": "Que nhúng hồng cầu 1+, bạch cầu esterase, nitrit, protein âm tính. Soi cặn: 6 hồng cầu/QTLC đồng dạng, không trụ, không bạch cầu.",
+     "bang": {
+      "u_sg": 1.02,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_ery": "1+ (25)"
+     },
+     "ab": 1,
+     "n": "Còn hồng cầu sau 3 tuần: đái máu vi thể dai dẳng (QĐ 2388/2024, mục 3.2.2: tối thiểu 2 trong 3 lần dương tính). Không protein, không trụ: chưa gợi ý cầu thận (KDIGO 2021, mục 1.3). Đánh giá đường tiết niệu đã âm tính ở bệnh viện, nên chuyển sang theo dõi."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,6 · Creatinin 82 µmol/L · eGFR 110 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.6,
+      "creat": 82,
+      "egfr": 110
+     },
+     "ab": 1,
+     "n": "QĐ 2388/2024 (mục 3.2.2): đái máu vi thể dai dẳng cần theo dõi hồng cầu, protein, mức lọc cầu thận ước tính và huyết áp hằng năm."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 38 · ALT 54 U/L (giới hạn trên 40)",
+     "ab": 1,
+     "n": "ALT giảm từ 68 xuống 54 sau khi giảm paracetamol và bia nhưng vẫn cao: tiếp tục giảm tới ngừng (QĐ 361/2014, Phụ lục thuốc giảm đau mục 3.1: chống chỉ định khi tăng men gan)."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "UACR 8 mg/g (dưới 30 mg/g)",
+     "thay_the": "que_nt",
+     "n": "Phòng khám không có UACR; thay bằng que nhúng protein âm tính. QĐ 2388/2024 (mục 3.2.2): UACR/UPCR hoặc que nhúng. KDIGO 2024 Hình 48: chuyển thận học khi albumin niệu ≥ 300 mg/g kèm hồng cầu niệu."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Hồng cầu 1+, bạch cầu, nitrit, protein âm tính.",
+     "n": "Que nhúng protein âm tính: không có albumin niệu rõ (QĐ 2388/2024, mục 3.2.2)."
+    },
+    "naat_sti": {
+     "v": "n",
+     "r": "(Đã làm ở bệnh viện huyện: Chlamydia và lậu cầu âm tính. Phòng khám không làm được.)",
+     "n": "EAU Urological Infections 2026, mục 3.10.4. Kết quả đã có, không làm lại."
+    },
+    "soi_bang_quang": {
+     "n": "Đã làm bình thường; chưa có chỉ định lặp lại khi đái máu vi thể còn nhẹ, không protein, không triệu chứng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái máu đại thể một đợt đã đánh giá nguy cơ cao âm tính (siêu âm, CT niệu, nội soi bàng quang, NAAT bình thường); còn đái máu vi thể nhẹ 6 hồng cầu/QTLC đồng dạng, không protein niệu, eGFR bình thường, đang theo dõi",
+     "ok": 1,
+     "n": "Đái máu vi thể dai dẳng không protein: theo dõi hồng cầu, protein/albumin niệu, mức lọc cầu thận ước tính, huyết áp hằng năm (QĐ 2388/2024, mục 3.2.2). Chưa đủ mốc chuyển thận học (KDIGO 2024, Hình 48: trụ hồng cầu, hồng cầu > 20/QTLC kéo dài không giải thích được, albumin niệu ≥ 300 mg/g kèm hồng cầu)."
+    },
+    {
+     "t": "Tăng men gan nhẹ (ALT 54) đang giảm sau giảm paracetamol và bia",
+     "ok": 1,
+     "n": "QĐ 361/2014 (Phụ lục thuốc giảm đau mục 3.1): chống chỉ định khi tăng men gan; đánh giá lại ALT sau ngừng."
+    },
+    {
+     "t": "Ung thư bàng quang, u đường tiết niệu trên",
+     "n": "Nội soi bàng quang và CT niệu bình thường: loại trừ ở thời điểm này (AUA/SUFU 2025, phát biểu 15; QĐ 3931/2015, mục 2c). Đái máu tái phát là lý do đánh giá lại."
+    },
+    {
+     "t": "Sỏi tiết niệu",
+     "n": "Siêu âm và CT niệu không sỏi, không ứ nước (EAU Urolithiasis 2026, mục 3.3.1; QĐ 3931/2015, mục 2c)."
+    },
+    {
+     "t": "Viêm cầu thận, bệnh thận IgA",
+     "n": "Không protein niệu, không trụ, hồng cầu đồng dạng, creatinin và huyết áp bình thường, không phù (KDIGO 2021, mục 1.3; QĐ 2388/2024, mục 3.2.2); còn theo dõi vì chưa sinh thiết, tái phát đái máu đại thể sẽ gợi IgA (QĐ 2388/2024, bài IgA)."
+    },
+    {
+     "t": "Nhiễm khuẩn lây qua đường tình dục (viêm niệu đạo)",
+     "n": "NAAT Chlamydia, lậu cầu âm tính, bạch cầu esterase âm, không dịch niệu đạo (EAU Urological Infections 2026, mục 3.10.3, 3.10.4). M. genitalium, Trichomonas không nằm trong xét nghiệm đã làm; không có triệu chứng niệu đạo nên không cần thêm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích kết quả bệnh viện: không thấy sỏi, u hay tổn thương bàng quang; còn ít hồng cầu trong nước tiểu, theo dõi tiếp, chưa phải bệnh thận",
+     "v": "c",
+     "n": "QĐ 2388/2024, mục 3.2.2 (đái máu vi thể dai dẳng không protein: theo dõi). Nguyên nhân đái máu không xác định: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi anh sống với vợ con thế nào; nói rõ kết quả âm tính nên không có cơ sở để anh cách ly, dùng riêng bát đũa; quan hệ vợ chồng lại hay không: bàn thẳng, không phán xét",
+     "v": "c",
+     "n": "NAAT âm tính, không viêm niệu đạo (EAU Urological Infections 2026, mục 3.10.3, 3.10.4). Việc kiêng quan hệ không có trong tài liệu đã tải. Đái máu vi thể không nằm trong nhóm bệnh lây."
+    },
+    {
+     "t": "Thử lại nước tiểu có soi cặn và đo huyết áp, creatinin hằng năm; hẹn sớm hơn sau 3 tháng để chắc hết đái máu và men gan bình thường",
+     "v": "c",
+     "n": "Theo dõi hồng cầu, protein, mức lọc cầu thận và huyết áp hằng năm (QĐ 2388/2024, mục 3.2.2). Mốc 3 tháng do ca chọn; lịch theo dõi sau đánh giá đái máu đại thể âm tính nằm ở AUA/SUFU 2025 (phát biểu 25, theo bản web, chưa đối chiếu PDF)."
+    },
+    {
+     "t": "Ngừng paracetamol hoặc giữ dưới 3 g/ngày, tăng dần tập vận động cho đau lưng; không dùng thuốc giảm đau khác khi chưa hỏi",
+     "v": "c",
+     "n": "Chống chỉ định khi tăng men gan (QĐ 361/2014, mục 3.1) hoặc dưới 3 g/ngày (mục 3.3; QĐ 3610/2015, mục 6). NICE NG59, khuyến cáo 1.2.1, 1.2.2 (vận động); 1.2.26 không dùng paracetamol đơn độc."
+    },
+    {
+     "t": "Dặn quay lại ngay nếu nước tiểu đỏ lại, cục máu, đau quặn, sốt, phù, tiểu ít; đái máu đại thể tái phát thì đánh giá lại",
+     "v": "c",
+     "n": "QĐ 3931/2015, mục 2a, 3; QĐ 2388/2024, bài viêm cầu thận sau nhiễm trùng mục 3.1 (phù, thiểu niệu, tăng huyết áp); AUA/SUFU 2025 (tr. 21; theo bản web)."
+    },
+    {
+     "t": "Chuyển thận học hoặc sinh thiết thận",
+     "v": "w",
+     "n": "Chưa đủ mốc: không protein niệu, hồng cầu dưới 20/QTLC, không trụ hồng cầu, creatinin bình thường (KDIGO 2024, Hình 48). QĐ 3931/2015 chỉ nêu sinh thiết khi đái máu hai bên ở người trẻ nghĩ bệnh thận IgA."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái máu đại thể một đợt, đánh giá nguy cơ cao (siêu âm, CT niệu, nội soi bàng quang, NAAT) âm tính; còn đái máu vi thể dai dẳng nhẹ (6 hồng cầu/QTLC), không protein niệu, đang theo dõi",
+     "Tăng men gan nhẹ do paracetamol, đang giảm (ALT 68 xuống 54)",
+     "Đã loại trừ ung thư bàng quang, sỏi; viêm cầu thận chưa gợi ý, tiếp tục theo dõi",
+     "Đỡ một phần: đái máu đại thể hết nhưng còn hồng cầu vi thể, còn dùng paracetamol, anh còn tự cách ly vì sợ lây"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi diễn tiến, thuốc, tái phát → khám nước tiểu, hố thắt lưng, phù, huyết áp → nước tiểu có soi cặn, creatinin, men gan → đối chiếu kết quả bệnh viện → chẩn đoán → hẹn.",
+     "Đỡ một phần không phải thất bại: đái máu đại thể hết, men gan giảm, còn hồng cầu vi thể và còn paracetamol. Hồng cầu có thể còn dai dẳng sau đợt đại thể; QĐ 2388/2024 (mục 3.2.2) hướng dẫn xử trí đái máu vi thể dai dẳng là thăm dò bệnh lý ác tính ở người thích hợp (đã làm) rồi theo dõi.",
+     "Mốc cần nghĩ tới bệnh thận: protein/albumin niệu, trụ hồng cầu, hồng cầu > 20/QTLC kéo dài, tăng huyết áp, creatinin tăng (KDIGO 2024, Hình 48; KDIGO 2021, mục 1.3). Anh chưa có mốc nào.",
+     "Nỗi sợ lây dai dẳng: kết quả NAAT âm tính chứng tỏ không có Chlamydia, lậu cầu; không có triệu chứng niệu đạo (EAU Urological Infections 2026, mục 3.10). Bác sĩ nói rõ để anh thôi cách ly; quan hệ lại sau đó: không có trong tài liệu đã tải.",
+     "Paracetamol vẫn là mối nguy: men gan còn cao (QĐ 361/2014, mục 3.1 chống chỉ định)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không làm thêm hình ảnh, không sinh thiết thận, không kháng sinh: đã đủ đánh giá, chưa có mốc chuyển thận học (KDIGO 2024, Hình 48; QĐ 2388/2024, mục 3.2.2).",
+     "Theo dõi: thử lại nước tiểu có soi cặn, huyết áp, creatinin, men gan sau 3 tháng, rồi hằng năm (QĐ 2388/2024, mục 3.2.2; mốc 3 tháng là lựa chọn của ca).",
+     "Đau lưng: tập luyện, đổi tư thế, nghỉ giữa giờ; NSAID cân nhắc sau khi men gan và thận ổn (NICE NG59, khuyến cáo 1.2.1, 1.2.2, 1.2.22, 1.2.26).",
+     "Giải tỏa lo sợ: kết quả NAAT, bạch cầu esterase, nitrit âm; nhắc anh về nhà nói với vợ, có thể mời vợ cùng khám nếu muốn (không có trong tài liệu đã tải)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol – ngừng dần",
+      "ham_luong": "500 mg/viên",
+      "lieu": "Giảm còn tối đa 500 mg × 2 lần/ngày (1 g) trong 1 tuần rồi ngừng; không dùng khi ALT còn tăng",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Tối đa 7 ngày",
+      "ghi_chu": "Dưới 3 g/ngày (QĐ 3610/2015 mục 6; QĐ 361/2014 mục 3.3); không dùng khi đang tăng men gan (mục 3.1). Mức 1 g/ngày là chọn của ca để ngừng dần."
+     },
+     {
+      "thuoc": "Không kê kháng sinh, thuốc cầm máu, thuốc bổ thận",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Không có chỉ định (QĐ 3931/2015 mục 2.1.1; AUA/SUFU 2025, phát biểu 7)."
+     }
+    ],
+    "dan_do": [
+     "Tái khám sau 3 tháng: nước tiểu có soi cặn, huyết áp, creatinin, men gan; sớm hơn nếu nước tiểu đỏ lại (QĐ 2388/2024, mục 3.2.2).",
+     "Quay lại ngay nếu nước tiểu đỏ, có cục máu, đau quặn hông lưng, sốt rét run, phù, tiểu ít (QĐ 3931/2015, mục 2a, 3).",
+     "Ngừng bia và giảm paracetamol; đổi tư thế, tập lưng 10 phút mỗi sáng (NICE NG59, khuyến cáo 1.2.1–1.2.2).",
+     "Hết nằm ngủ riêng, hết dùng bát riêng: kết quả xét nghiệm không cho thấy nhiễm khuẩn lây (EAU Urological Infections 2026, mục 3.10.4).",
+     "Bỏ thuốc lá: yếu tố nguy cơ của ung thư tiết niệu (AUA/SUFU 2025, Bảng 4, hút thuốc; theo bản web)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3",
+   "tiep_don": "Anh Việt tái khám sau 3 tháng, tự đến. Không đái máu lại. Sinh hiệu: HA 118/74 mmHg, mạch 70 l/p, nhiệt độ 36,6 °C, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển lại khoa tiết niệu để soi bàng quang và CT lần nữa khi nước tiểu sạch, không tái phát là quá tay: anh đã âm tính toàn bộ đánh giá nguy cơ cao, hồng cầu niệu hết, men gan và creatinin bình thường. Anh thêm tia X, thủ thuật, tốn kém và quay lại tin mình còn bệnh nặng, giữa lúc anh vừa hòa lại với vợ.",
+    "nhap_vien": "Nhập viện làm sinh thiết thận hay làm lại thăm dò khi hồng cầu niệu đã hết là không có chỉ định (KDIGO 2024, Hình 48 chưa đủ mốc; QĐ 2388/2024, mục 3.2.2). Anh bỏ quán nhiều ngày, mất thu nhập, chịu nguy cơ thủ thuật xâm lấn vô ích."
+   },
+   "loi_mo": "Chào bác sĩ. Em hết đái máu rồi, uống nước tiểu vàng lắm. Em đến để bác sĩ xem còn gì lo không. Em cũng bỏ thuốc đau lưng rồi.",
+   "sinh_hieu": {
+    "mach": 70,
+    "ha": "118/74",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Ba tháng qua nước tiểu luôn vàng, không đỏ lại, không xốn. Anh đã ngừng paracetamol khoảng 6 tuần, bỏ bia, giảm hút còn 5 điếu/ngày. Đau lưng đỡ nhờ tập mỗi sáng và nghỉ giữa giờ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến 3 tháng: không tái phát"
+    },
+    {
+     "id": "gia_dinh2",
+     "noi_dung": "Anh đã nói thẳng với vợ, hai vợ chồng ở chung lại bình thường. Không có đái máu sau những lần quan hệ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giải tỏa nỗi sợ lây; không tái phát sau quan hệ"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Không còn paracetamol hay thuốc giảm đau nào khác, không thuốc bổ, không thuốc nam.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã ngừng paracetamol"
+    },
+    {
+     "id": "phu",
+     "noi_dung": "Không phù, không nước tiểu bọt, không tăng cân. Huyết áp đo ở trạm y tế 118/74.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dấu hiệu bệnh thận"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, niêm hồng, không phù. Cân nặng 64 kg.",
+     "k": 1
+    },
+    "nuoc_tieu_mau": {
+     "a": "Nước tiểu mẫu mới: vàng nhạt, trong.",
+     "k": 1,
+     "hien": "Vàng nhạt, trong."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng không đau, cầu bàng quang âm tính.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù chân.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "e",
+     "r": "Que nhúng hồng cầu âm tính, bạch cầu esterase, nitrit, protein âm tính. Soi cặn: 0–1 hồng cầu/QTLC, không trụ.",
+     "bang": {
+      "u_sg": 1.016,
+      "u_ph": 6.0,
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_ery": "Âm tính"
+     },
+     "ab": 1,
+     "n": "Hết đái máu vi thể sau đợt đại thể: kết thúc đánh giá; không còn đái máu dai dẳng (QĐ 2388/2024, mục 3.2.2). Que âm tính ở lần thử lại theo dõi."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 4,4 · Creatinin 80 µmol/L · eGFR 112 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.4,
+      "creat": 80,
+      "egfr": 112
+     },
+     "ab": 1,
+     "n": "Thận ổn định (QĐ 2388/2024, mục 3.2.2: theo dõi mức lọc cầu thận ước tính)."
+    },
+    "liver": {
+     "v": "e",
+     "r": "AST 26 · ALT 31 U/L (giới hạn trên 40)",
+     "ab": 1,
+     "n": "Men gan về bình thường sau khi ngừng paracetamol và bia: xác nhận mối liên quan (QĐ 361/2014, mục 3.1)."
+    },
+    "soi_bang_quang": {
+     "n": "Không chỉ định lặp lại khi không tái phát (AUA/SUFU 2025; theo bản web, chưa đối chiếu PDF)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Đái máu đại thể thoáng qua một lần, đã đánh giá nguy cơ cao không thấy nguyên nhân; hiện hết hoàn toàn, không tái phát; tăng men gan do paracetamol đã hồi phục",
+     "ok": 1,
+     "n": "Nước tiểu sạch, men gan bình thường, creatinin bình thường. Nguyên nhân đái máu không xác định: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ung thư bàng quang, sỏi, viêm cầu thận",
+     "n": "Đã loại trừ bằng nội soi bàng quang, CT niệu, soi cặn đồng dạng, không protein, creatinin bình thường (AUA/SUFU 2025, phát biểu 15; KDIGO 2021, mục 1.3). Tái phát đái máu đại thể là lý do đánh giá lại."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Báo tin tốt, giải thích: thăm dò không thấy bệnh nguy hiểm, nước tiểu đã sạch, men gan bình thường",
+     "v": "c",
+     "n": "QĐ 2388/2024, mục 3.2.2. Lời nói do người biên soạn."
+    },
+    {
+     "t": "Theo dõi nước tiểu, huyết áp, mức lọc cầu thận mỗi năm; quay lại sớm nếu đái máu đại thể tái phát",
+     "v": "c",
+     "n": "QĐ 2388/2024, mục 3.2.2 (hằng năm); AUA/SUFU 2025 (tr. 21; theo bản web, chưa đối chiếu PDF)."
+    },
+    {
+     "t": "Duy trì không dùng paracetamol liều cao; đau lưng: vận động, nghỉ giữa giờ; nếu phải dùng thuốc, tối đa dưới 3 g/ngày",
+     "v": "c",
+     "n": "QĐ 3610/2015, mục 6; QĐ 361/2014, mục 3.3; NICE NG59, khuyến cáo 1.2.1, 1.2.2."
+    },
+    {
+     "t": "Bỏ thuốc lá, giảm bia",
+     "v": "c",
+     "n": "Hút thuốc là yếu tố nguy cơ ung thư tiết niệu (AUA/SUFU 2025, Bảng 4; theo bản web)."
+    },
+    {
+     "t": "Chuyển thận học hoặc sinh thiết thận",
+     "v": "w",
+     "n": "Hồng cầu niệu hết, không protein niệu: không đủ mốc (KDIGO 2024, Hình 48)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Đái máu đại thể thoáng qua, đã đánh giá nguy cơ cao, không tìm thấy nguyên nhân; hết đái máu, không tái phát (ổn định, khỏi)",
+     "Tăng men gan do paracetamol liều cao: đã hồi phục sau ngừng thuốc",
+     "Đã loại trừ ung thư bàng quang, sỏi, viêm cầu thận, nhiễm khuẩn lây qua đường tình dục"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi tái phát, thuốc, phù, sinh hoạt vợ chồng → khám nước tiểu, phù → nước tiểu có soi cặn, creatinin, men gan → kết luận.",
+     "Hết hồng cầu niệu sau 3 tháng, nước tiểu sạch: đái máu thoáng qua đã kết thúc; theo dõi hằng năm vì đái máu vi thể dai dẳng đã hết (QĐ 2388/2024, mục 3.2.2).",
+     "Men gan bình thường sau ngừng paracetamol và bia: xác nhận tăng men gan liên quan thuốc (QĐ 361/2014, mục 3.1; QĐ 3610/2015, mục 2).",
+     "Điểm dạy: đái máu đại thể, dù trẻ, vẫn đánh giá nguy cơ cao; kết quả âm tính thì theo dõi, không lặp lại thăm dò."
+    ],
+    "phan_tich_xu_tri": [
+     "Không thuốc: theo dõi.",
+     "Theo dõi nước tiểu, huyết áp, creatinin hằng năm (QĐ 2388/2024, mục 3.2.2).",
+     "Không lặp lại thăm dò khi không tái phát; tái phát thì đánh giá lại (AUA/SUFU 2025; theo bản web).",
+     "Bỏ thuốc lá, ngừng paracetamol liều cao, vận động cho đau lưng (NICE NG59, khuyến cáo 1.2.1–1.2.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Không có chỉ định thuốc; theo dõi (QĐ 2388/2024, mục 3.2.2)."
+     }
+    ],
+    "dan_do": [
+     "Tái khám sau 12 tháng: nước tiểu có soi cặn, huyết áp, creatinin (QĐ 2388/2024, mục 3.2.2).",
+     "Quay lại ngay nếu nước tiểu đỏ, có cục máu, đau quặn hông lưng, sốt, phù (QĐ 3931/2015, mục 2a, 3).",
+     "Không tự mua paracetamol quá 3 g/ngày; không uống thêm thuốc khác chứa paracetamol (QĐ 3610/2015, mục 6).",
+     "Bỏ thuốc lá; tập lưng mỗi sáng (NICE NG59, khuyến cáo 1.2.1–1.2.2)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Một năm sau anh Việt quay lại thử nước tiểu theo hẹn: que âm tính, soi cặn không hồng cầu, huyết áp và creatinin bình thường. Anh không đái máu lại lần nào, men gan bình thường, đã bỏ paracetamol liều cao. Nguyên nhân của đợt đái máu không được xác định. Điều anh nhớ nhất là câu bác sĩ nói riêng với anh 'kết quả không cho thấy bệnh lây'; từ đó anh nói chuyện thẳng với vợ và đỡ sợ hơn.",
+ "nhieu": [
+  "Thân nhân trả lời thay: bà Nhàn giành lời, đoán 'nóng trong vì nhậu', đòi kháng sinh và thuốc bổ thận; xử trí bằng cách mời bà ra ngoài để hỏi riêng anh Việt, không làm bà mất mặt (nói là 'phần khám cần riêng tư').",
+  "Lý do thật: anh sợ lây bệnh cho vợ, con 2 tuổi, mẹ; chỉ lộ khi hỏi riêng và hỏi anh lo nhất điều gì, hoặc khi hỏi anh có tránh gần ai không (lượt 2).",
+  "Paracetamol liều cao: mẹ chỉ biết 'thuốc đau lưng', số viên chỉ lộ khi hỏi trực tiếp anh; lượt 2 anh chỉ giảm một nửa nên 'đỡ một phần'.",
+  "Khởi phát sau quan hệ tình dục: dễ khiến nghĩ ngay nhiễm khuẩn lây qua đường tình dục và kê kháng sinh, trong khi bạch cầu, nitrit, dịch niệu đạo đều âm."
+ ],
+ "bai_hoc_bien": [
+  "Đái máu đại thể dù trẻ vẫn xếp nhóm nguy cơ cao: nội soi bàng quang và hình ảnh cắt lớp (AUA/SUFU 2025, phát biểu 15; QĐ 3931/2015, mục 2c), không dựa vào tuổi để bỏ.",
+  "Thân nhân trả lời thay: tách bệnh nhân ra hỏi riêng về tình dục, thuốc tự mua, nỗi sợ.",
+  "Hỏi số viên paracetamol thực tế: 8–10 viên/ngày vượt trần 4 g và gây tăng men gan (QĐ 361/2014, mục 3.1; QĐ 3610/2015, mục 6).",
+  "Nhiễm khuẩn lây qua đường tình dục cần dấu hiệu viêm niệu đạo (EAU Urological Infections 2026, mục 3.10.3), không kê kháng sinh theo kinh nghiệm khi không có.",
+  "Đỡ một phần không phải thất bại: đái máu đại thể hết, còn hồng cầu vi thể và còn thuốc cũ; đánh giá âm tính thì theo dõi, không lặp lại thăm dò."
+ ],
+ "diem_nho": [
+  "Đái máu: đại thể khi mắt thấy, vi thể khi soi ≥ 3 hồng cầu/QTLC (QĐ 3931/2015, mục 1; AUA/SUFU 2025, phát biểu 1).",
+  "Que nhúng ≥ 1+ đủ để đánh giá tiếp (QĐ 2388/2024, mục 3.2.2); soi cặn xác nhận và tìm trụ, hồng cầu biến dạng (KDIGO 2021, mục 1.3; AUA/SUFU 2025, phát biểu 2).",
+  "Đái máu đại thể từng có: nhóm nguy cơ cao, nội soi bàng quang và CT niệu (AUA/SUFU 2025, phát biểu 15; theo bản web, chưa đối chiếu PDF).",
+  "Paracetamol tối đa 4 g/ngày chung, dưới 3 g/ngày khi có bệnh gan, không dùng khi đang tăng men gan (QĐ 361/2014, mục 3.1, 3.3; QĐ 3610/2015, mục 6).",
+  "Chuyển thận học khi trụ hồng cầu, hồng cầu > 20/QTLC kéo dài không giải thích được, albumin niệu ≥ 300 mg/g kèm hồng cầu (KDIGO 2024, Hình 48)."
+ ],
+ "nguon": [
+  "TL-0285 · BYT – QĐ 3931/QĐ-BYT 2015, Đái máu (mục 1 định nghĩa; 2a chẩn đoán xác định và thăm dò; 2b chẩn đoán phân biệt; 2c nguyên nhân và thăm dò chuyên sâu; mục 3 điều trị); Viêm bàng quang cấp (mục 2.1.1, 2.1.2).",
+  "TL-0280 · BYT – QĐ 2388/QĐ-BYT 2024, mục 3.2.2 (hồng cầu niệu bằng que nhúng, đái máu vi thể dai dẳng, UACR); Viêm cầu thận thứ phát sau nhiễm trùng mục 3.1, 4.2; Bệnh thận IgA.",
+  "TL-0680 · KDIGO 2021 Glomerular Diseases, mục 1.3 (Evaluation of hematuria), Practice Point 1.3.1.",
+  "TL-0308 · KDIGO 2024 CKD, Figure 48 (referral to specialist kidney care: red cell casts, RBC > 20/HPF sustained, albuminuria + hematuria).",
+  "TL-0511 · EAU Guidelines on Urolithiasis 2026, mục 3.3.1 (siêu âm đầu tay; độ nhạy 45%, độ đặc hiệu 88% với sỏi thận).",
+  "TL-0512 · EAU Guidelines on Urological Infections 2026, mục 3.10.1, 3.10.3, 3.10.4 (viêm niệu đạo: tiêu chuẩn, NAAT).",
+  "TL-0286 · BYT – QĐ 361/QĐ-BYT 2014, Phụ lục thuốc giảm đau mục 3.1 (paracetamol không quá 4 g/24 giờ, chống chỉ định khi tăng men gan), Phụ lục NSAID mục 3.3 (nguy cơ cao: dưới 3 g/ngày).",
+  "TL-0035 · BYT – QĐ 3610/QĐ-BYT 2015, Ngộ độc paracetamol mục 2 (người nghiện rượu, bệnh gan), mục 6 (không quá 3 g/ngày).",
+  "TL-0372 · NICE NG59 Low back pain and sciatica in over 16s, khuyến cáo 1.2.1, 1.2.2, 1.2.22, 1.2.26.",
+  "AUA/SUFU Microhematuria Guideline 2025 (Barocas DA, et al. J Urol 2025;213(5):547-557; PMID 40013563; doi:10.1097/JU.0000000000004490) – nguồn bổ sung tự tìm: https://www.auanet.org/guidelines-and-quality/guidelines/microhematuria. Số phát biểu và Bảng 4 theo ca TN-0304, TN-0311, TN-0312 và bản web; chưa đối chiếu PDF (tải bị chặn). TL-0520 trong kho thực chất là AUA về UTI tái phát."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 21/11/2026. Đã đọc: TL-0285 (Đái máu 1–3), TL-0280 (3.2.2; VCT sau nhiễm trùng 3.1, 4.2), TL-0680 (1.3), TL-0308 (Fig 48), TL-0511 (3.3.1), TL-0512 (3.10), TL-0286, TL-0035 (mục 6), TL-0372; AUA/SUFU 2025 qua ca cũ.",
+  "Không có trong tài liệu đã tải: mối liên quan đái máu với quan hệ tình dục; nguyên nhân; kiêng quan hệ khi đái máu; lịch theo dõi sau đánh giá đái máu đại thể âm tính (3 tháng, 12 tháng là mốc ca chọn); liều NSAID cho đau lưng; thời điểm men gan hồi phục.",
+  "Mâu thuẫn: không có mục mới; áp dụng mục 'Xác nhận đái máu: que nhúng hay soi cặn' (TQ-0073), 'Hình ảnh đường tiết niệu trên' (TN-0311), paracetamol 3 g hay 4 g và bệnh gan (TH-1329, TM-0250).",
+  "Thiết kế: 3 lượt chuyen_tuyen, ve_hen, ve_hen. khoa_cls xquang, sieu_am. Lượt 1 abdus, ct_nieu, soi_bang_quang khai r giả định 'ở bệnh viện huyện'; lượt 2 tiếp từ kết quả bình thường; uacr lượt 2 thay_the que_nt. Nguyên nhân đái máu không xác định. Số liệu, nhân vật, ket_cuc là hư cấu."
+ ]
+}
