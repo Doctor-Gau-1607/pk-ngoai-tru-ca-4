@@ -1,0 +1,813 @@
+{
+ "ma_ca": "TK-0429",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "Bệnh thần kinh ngoại biên (ĐTĐ/rượu)",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Bệnh thần kinh ngoại biên (ĐTĐ/rượu)",
+  "chan_doan_phai_loai_tru": [
+   "Thiếu B12",
+   "Chèn ép rễ"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Bệnh nhân hợp tác tốt",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Buôn bán nhỏ (chủ tiệm tạp hóa đầu hẻm, đứng quầy khoảng 12 tiếng, bán cả bia lon)",
+  "yeu_to_khoi_phat": "Tự ngưng thuốc đang dùng (ba tháng trước tự ngưng atorvastatin vì nghe nói gây tê chân; ngưng rồi vẫn tê)",
+  "thuoc_dang_dung": "Statin đang dùng (atorvastatin 20 mg mỗi tối, một năm trước; uống 11 tháng rồi tự ngưng)",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe (cần giấy khám sức khỏe nộp hồ sơ thuê sạp ở chợ mới; ngại ghi bệnh sẽ mất sạp)"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Văn Phước",
+  "tuoi": 67,
+  "gioi": "Nam",
+  "nghe": "Buôn bán nhỏ (chủ tiệm tạp hóa đầu hẻm)",
+  "can_nang": 71,
+  "chieu_cao": 165,
+  "xung_ho": "Bác sĩ gọi ông là 'ông'. Ông xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Cẩn thận, thật thà, ghi sổ tay từng ngày uống thuốc, nói thẳng, ít than. Tin 'bia không phải rượu'; lo mất sạp nếu giấy ghi bệnh.",
+  "kieu_nhieu": "Hợp tác tốt: trả lời đầy đủ, làm đúng lời dặn, đến đúng hẹn, mang sổ tay; nhưng chỉ nói đúng điều được hỏi (không tự kể bia, thuốc đã ngưng, giấy tờ); tin chắc chân tê do thuốc mỡ máu.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c08a63",
+   "toc": "#b8b8b8",
+   "kieuToc": "ngan",
+   "ao": "#6b7f94",
+   "aoKieu": "so_mi",
+   "kinh": true,
+   "nep": 2,
+   "bieuCam": "binh"
+  }
+ },
+ "ly_do_kham": "Hai bàn chân tê, đêm rát như kiến cắn hơn ba tháng; ông nghĩ do thuốc mỡ máu nên tự ngưng mà chân vẫn tê",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu (tối, ngoài giờ)",
+   "tiep_don": "Nam 67 tuổi, chủ tiệm tạp hóa, đến một mình lúc 19 giờ 40 sau khi đóng cửa. Ngoài giờ hành chính: kỹ thuật viên xét nghiệm và X-quang đã về; điều dưỡng Linh lấy được máu gửi phòng xét nghiệm ngoài, kết quả chỉ có sáng mai; que thử nước tiểu và đường huyết mao mạch làm được tại chỗ. Ông mang sổ tay nhỏ, thỉnh thoảng cựa hai bàn chân trong đôi dép nhựa. Chưa ăn tối. Sinh hiệu lúc tiếp đón (ngồi): mạch 78 l/p, HA 142/86 mmHg, nhiệt 36,8 °C, nhịp thở 18, SpO₂ 97%, cân nặng 71 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Cho ông Phước nhập viện ngay tối nay để làm hết xét nghiệm là quá tay: ông tỉnh, thở 18 l/p, ceton niệu âm, không nôn, không mất nước, chân không loét hay nhiễm trùng nên không có dấu hiệu khủng hoảng tăng đường huyết (ADA 2026 mục 2, Bảng 2.1), còn tiêu chuẩn nhập viện cho bệnh đa dây thần kinh ĐTĐ không loét không có trong tài liệu đã tải (QĐ 3510/2025 mục 3.3.3 chỉ nói chỉnh thuốc rồi đánh giá sau 2–4 tuần).",
+    "chuyen_tuyen": "Chuyển ông lên tuyến trên làm điện cơ và MRI cột sống ngay là quá tay: tê mang vớ đối xứng, Lasègue âm tính, sức cơ 5/5 là hình thái điển hình; ADA 2026 tr. S265 nói điện sinh lý, MRI cột sống hiếm khi cần trừ khi biểu hiện không điển hình (cấp, bất đối xứng, có yếu cơ)."
+   },
+   "loi_mo": "Chào bác sĩ. Hai bàn chân tôi tê rồi rát như kiến cắn, đêm nào cũng vậy, hơn ba tháng rồi. Tôi nghĩ do viên thuốc mỡ máu nên tôi ngưng nó luôn, mà chân vẫn tê y như cũ. Bác sĩ coi giúp tôi bị gì.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "142/86",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hai bàn chân tê rồi rát như kiến cắn, đêm nào cũng vậy, kéo dài hơn ba tháng. Ông nghĩ do viên thuốc mỡ máu nên đã tự ngưng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám và suy diễn của người bệnh"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Tám tháng nay đầu các ngón chân tê như mang vớ dày, lên bàn chân, mắt cá; hai chân như nhau, tay không tê. Ba tháng nay thêm rát như kiến cắn, thỉnh thoảng nhói như điện giật, nặng nhất 9–10 giờ đêm. Chân không yếu, không vấp ngã, không đau lưng lan xuống chân, đại tiểu tiện bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Diễn tiến đối xứng ngọn chi, không dấu rễ"
+    },
+    {
+     "id": "statin",
+     "noi_dung": "Một năm trước bác sĩ khác cho atorvastatin 20 mg mỗi tối vì mỡ máu cao; ông uống đều 11 tháng. Tê bắt đầu khoảng sáu tháng sau khi uống. Ba tháng trước nghe khách nói 'thuốc mỡ làm tê chân' nên tự ngưng; chân vẫn tê rát như cũ, không đau bắp thịt, không nước tiểu sẫm màu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng đã tự ngưng; mốc thời gian"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Bia lon 3–4 lon (330 mL) mỗi chiều từ khi đóng cửa tiệm, hơn hai mươi năm, cuối tuần nhiều hơn. Ông không coi bia là rượu nên không tự nhắc. Không rượu mạnh, sáng không uống, chưa từng run tay, co giật hay ảo giác khi nghỉ uống. Ăn cơm đủ bữa có thịt cá.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu bia hằng ngày, không tiền sử cai nặng"
+    },
+    {
+     "id": "duong",
+     "noi_dung": "Ba tháng nay khát, uống nhiều nước, đêm tiểu hai lần, sụt khoảng 2 kg; chưa từng thử đường huyết. Cha mất vì tiểu đường và suy thận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng tăng đường huyết chưa chẩn đoán; tiền sử gia đình"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Ông cần giấy khám sức khỏe nộp hồ sơ thuê sạp ở chợ mới, hạn nộp còn khoảng chín tuần; tính 'khám một lượt cho xong', và sợ ghi bệnh thì mất sạp.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao chọn đi khám tối nay, ai hoặc nơi nào yêu cầu giấy tờ, hoặc hỏi ông mong muốn gì ở buổi khám; hỏi riêng chuyện chân thì ông không nhắc.",
+     "k": 1,
+     "y": "Lý do thật đến khám: xin giấy chứng nhận sức khỏe"
+    },
+    {
+     "id": "khac",
+     "noi_dung": "Không dùng thuốc nào khác, không hút thuốc, không ăn chay, chưa mổ dạ dày; chân chưa từng loét hay phồng nước.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ nguyên nhân khác"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, BMI 26,1 (71 kg, 165 cm). Da niêm hồng, lưỡi không teo gai, không vàng da, không sao mạch, không phù, không run tay.",
+     "k": 0,
+     "hien": "Ông tỉnh, tiếp xúc tốt, không phù, không vàng da, hơi thở không mùi rượu."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 142/86 mmHg, mạch 78. Đứng 3 phút: 136/84 mmHg, mạch 84, không choáng. Tụt 6/2, dưới ngưỡng > 20/10 mmHg: không hạ huyết áp tư thế (ADA 2026 tr.",
+     "k": 0,
+     "hien": "Nằm 142/86, mạch 78; đứng 3 phút 136/84, mạch 84, ông không choáng."
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, thần kinh sọ bình thường; tay bình thường. Hai chân kiểu mang vớ đối xứng. Monofilament 10 g (3 vị trí mỗi bàn chân): chân phải không cảm nhận cả 3 vị trí, chân trái 1/3; mất cảm giác bảo vệ (QĐ 3510/2025 Phụ lục 01). Âm thoa 128 Hz: mất rung ở ngón cái và mắt cá hai bên (Phụ lục 03). Kim châm: giảm tới giữa cẳng chân (Phụ lục 05). Phản xạ gót giảm nhiều hai bên (Phụ lục 04), gối giảm nhẹ. Romberg lắc nhẹ, không ngã. Không mất cảm giác theo khoanh da rễ. Babinski âm tính.",
+     "k": 1,
+     "hien": "Tỉnh, thần kinh sọ bình thường; tay bình thường; chân: đã khám cảm giác, phản xạ."
+    },
+    "chi_duoi": {
+     "a": "Hai bàn chân da khô, mỏng bóng, nứt gót nông; móng dày vàng nhẹ. Chai nhẹ dưới đầu xương bàn 1 chân phải (khoảng 1 cm), chưa bong, không xuất huyết. Không loét, phồng nước, đỏ nóng sưng, biến dạng, phù; mạch mu chân và chày sau rõ hai bên. Dép nhựa mỏng, đế mòn. Mất cảm giác bảo vệ, chưa loét: nguy cơ loét mức 1 (ADA 2026 Bảng 12.1).",
+     "k": 1,
+     "hien": "Hai bàn chân khô, nứt gót, chai nhẹ dưới ngón cái chân phải; không loét, không phù."
+    },
+    "suc_co": {
+     "a": "Sức cơ gập mu, duỗi ngón cái, gập lòng bàn chân 5/5 hai bên; ngồi xổm đứng dậy được, không teo cơ; ấn cơ đùi, bắp chân không đau.",
+     "k": 1,
+     "hien": "Đứng lên ngồi xuống được, sức chân hai bên đều, ấn bắp đùi bắp chân không đau."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Điều dưỡng Linh đo tại giường lúc 19 giờ 45 (bữa trưa cách khoảng 8 giờ): 9,2 mmol/L",
+     "ab": 1,
+     "bang": {
+      "glu": 9.2
+     },
+     "n": "Chỉ gợi ý: tiêu chuẩn chẩn đoán ĐTĐ dùng glucose huyết tương và HbA1c làm trong phòng xét nghiệm (ADA 2026 KC 2.1a, Bảng 2.1)."
+    },
+    "que_nt": {
+     "v": "u",
+     "r": "Que thử 10 thông số: glucose 2+, ceton âm, protein âm, hồng cầu âm, bạch cầu âm, nitrit âm, tỷ trọng 1,020",
+     "ab": 1,
+     "bang": {
+      "u_glu": "2+",
+      "u_ket": "Âm tính",
+      "u_pro": "Âm tính",
+      "u_ery": "Âm tính",
+      "u_leu": "Âm tính",
+      "u_nit": "Âm tính",
+      "u_sg": 1.02
+     },
+     "n": "Ceton âm, ông tỉnh, thở 18 l/p, uống được: không có dấu hiệu khủng hoảng tăng đường huyết (ADA 2026 mục 2 nêu khủng hoảng gồm DKA, HHS)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "Glucose huyết tương đói: mẫu gửi phòng xét nghiệm ngoài (kỹ thuật viên đã về), kết quả sáng mai.",
+     "n": "FPG ≥ 7,0 mmol/L, đủ hai kết quả bất thường cùng mẫu với HbA1c thì xác nhận ĐTĐ khi không có tăng đường huyết rõ rệt (ADA 2026 Bảng 2.1, chú thích *;"
+    },
+    "hba1c": {
+     "v": "e",
+     "r": "HbA1c: mẫu gửi, kết quả sáng mai.",
+     "n": "HbA1c ≥ 6,5%, làm trong phòng xét nghiệm (ADA 2026 Bảng 2.1)."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure, creatinin, eGFR: mẫu gửi, kết quả sáng mai.",
+     "n": "Cần eGFR để chọn liều pregabalin (QĐ 3510/2025 mục 3.3.3.1) và metformin (QĐ 5481/2020 Phụ lục 01);"
+    },
+    "b12": {
+     "v": "e",
+     "r": "Vitamin B12 huyết thanh: mẫu gửi, kết quả sáng mai.",
+     "n": "Tê bì là triệu chứng thường gặp của thiếu B12 và sắp dùng metformin, pregabalin là yếu tố nguy cơ (NICE NG239 2024 mục 1.2.5, Hộp 1–2);"
+    },
+    "tsh": {
+     "v": "u",
+     "r": "TSH, FT4: mẫu gửi, kết quả sáng mai.",
+     "n": "Suy giáp là chẩn đoán phân biệt (QĐ 3510/2025 mục 3.2.4; ADA 2026 tr."
+    },
+    "lipid": {
+     "v": "u",
+     "r": "Bộ mỡ máu: mẫu gửi, kết quả sáng mai.",
+     "n": "Đã ngưng statin 3 tháng, người ĐTĐ chưa dùng statin nên làm lipid (ADA 2026 KC 10.16)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh đa dây thần kinh ngoại biên đối xứng ngọn chi, thể có đau, mất cảm giác bảo vệ hai bàn chân; nghi do đái tháo đường típ 2 chưa chẩn đoán, rượu góp phần; chẩn đoán lâm sàng, chờ xét nghiệm",
+     "ok": 1,
+     "n": "Tê mang vớ đối xứng, đau rát về đêm, mất monofilament, rung, kim châm, phản xạ gót (QĐ 3510/2025 mục 3.2.2, Bảng 1, Hình 4); khát, tiểu đêm, sụt cân, đường mao mạch 9,2 mmol/L, cha bị ĐTĐ."
+    },
+    {
+     "t": "Thiếu vitamin B12",
+     "n": "Chưa loại hẳn tối nay vì B12 gửi mẫu: ăn thịt cá đều, lưỡi không teo gai, chưa dùng thuốc dạ dày; thiếu B12 gây tê bì, dị cảm, mất thăng bằng giống bệnh này (QĐ 3510/2025 mục 3.2.4."
+    },
+    {
+     "t": "Chèn ép rễ thắt lưng cùng",
+     "n": "Không đau lưng lan, Lasègue âm tính, sức cơ 5/5, không mất cảm giác theo khoanh da, tê đối xứng hai chân kiểu mang vớ (QĐ 3510/2025 mục 3.2.2). Loại trừ bằng khám; MRI cột sống hiếm khi cần ở hình thái điển hình (ADA 2026 tr."
+    },
+    {
+     "t": "Tê chân do statin (bệnh thần kinh hoặc bệnh cơ)",
+     "n": "Ngưng 3 tháng, tê rát không đổi; không đau hay yếu cơ gốc chi, sức cơ 5/5. Triệu chứng cơ do statin là đau hoặc yếu cơ gốc chi hai bên, khởi phát trong vài tuần sau khởi liều và thường hết trong thời gian tương tự sau ngưng (ACC/AHA 2026 mục 4.2.11, phần tóm tắt)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi theo chức năng và hỏi thẳng: ngủ mấy giờ, đứng quầy được bao lâu, bia rượu (loại, số lon mỗi ngày), thuốc đang dùng và thuốc đã tự ngưng, khát–tiểu đêm, vì sao chọn đi khám tối nay",
+     "v": "c",
+     "n": "Rượu và thuốc là nguyên nhân phải loại trừ (ADA 2026 tr. S265; QĐ 3510/2025 mục 3.2.4); sàng lọc rượu (Canadian guideline 2023, khuyến cáo 2)."
+    },
+    {
+     "t": "Khám cảm giác bàn chân: một công cụ (monofilament 10 g hoặc Ipswich) hoặc phối hợp thêm rung 128 Hz, kim châm, phản xạ gót; xem da, mạch chân, sức cơ, Lasègue",
+     "v": "c",
+     "n": "QĐ 3510/2025 mục 3.2.2: dùng một trong các công cụ; ADA 2026 KC 12.18, 12.24: monofilament cộng ít nhất một đánh giá khác. Cả hai đều đúng (sổ TK-0422 mục 1)."
+    },
+    {
+     "t": "Gửi máu tối nay (kết quả sáng mai): glucose huyết tương đói, HbA1c, ure–creatinin–eGFR, B12, TSH, công thức máu, AST/ALT, mỡ máu; làm tại chỗ glucose mao mạch và que thử nước tiểu",
+     "v": "c",
+     "n": "HbA1c và FPG cùng mẫu (ADA 2026 Bảng 2.1, KC 2.1b); loại trừ B12, suy giáp, suy thận (QĐ 3510/2025 mục 3.2.4; NICE NG239 2024 mục 1.2.5); lipid (ADA 2026 KC 10.16)."
+    },
+    {
+     "t": "Quyết định khi chưa có kết quả: chưa kết luận ĐTĐ, chưa kê metformin vì chưa biết creatinin; kê pregabalin ở mức thấp nhất của bảng theo độ lọc (25 mg buổi tối) hoặc chờ creatinin sáng mai rồi mới kê",
+     "v": "c",
+     "n": "QĐ 3510/2025 mục 3.3.3.1: pregabalin theo độ lọc, hàng thấp nhất 25 mg/lần khi chưa biết eGFR (sổ MT-1070); metformin cần eGFR (QĐ 5481/2020 Phụ lục 01); người cao tuổi khởi liều thấp, tăng chậm (ADA 2026 tr. S267). Hai cách đều đúng."
+    },
+    {
+     "t": "Hẹn điều dưỡng gọi báo kết quả sáng mai; nếu HbA1c và FPG xác nhận ĐTĐ và eGFR đủ thì ông ghé lấy metformin 500 mg sau ăn tối, tăng sau 5–7 ngày (QĐ 5481/2020) hoặc sau 4 tuần (QĐ 5904/2019)",
+     "v": "c",
+     "n": "QĐ 5481/2020 Phần 4 mục 4.2a, Phụ lục 01 (tăng mỗi 5–7 ngày); QĐ 5904/2019 Phần 3 mục E, Bước 1–2 (khám lại sau 4 tuần). Ghi cả hai (sổ MT-0741)."
+    },
+    {
+     "t": "Rượu bia: giảm tối đa 1–2 đơn vị/ngày (1 đơn vị ≈ 300 mL bia) hoặc bỏ hẳn; ông không có tiền sử co giật, mê sảng khi ngưng nên không cần cai nội trú",
+     "v": "c",
+     "n": "QĐ 5481/2020 mục dinh dưỡng f (1–2 đơn vị, 1 đơn vị ≈ 300 mL bia); QĐ 3510/2025 mục 3.2.4 và ADA 2026 tr. S265 không nêu mức an toàn; can thiệp ngắn, đánh giá nguy cơ cai (Canadian guideline 2023, khuyến cáo 4, 5)."
+    },
+    {
+     "t": "Nói rõ statin không phải thủ phạm, dặn không tự ngưng hay tự uống lại; quyết định dùng lại statin theo kết quả mỡ máu và ĐTĐ ở lần sau",
+     "v": "c",
+     "n": "ACC/AHA 2026 mục 4.2.11 (KC 2): ghi nhận lo ngại, nêu nguy cơ khi bỏ statin; ADA 2026 KC 10.18. Tài liệu đã tải không nêu statin gây bệnh thần kinh kiểu mang vớ."
+    },
+    {
+     "t": "Giấy khám sức khỏe: không cấp tối nay và không ghi 'bình thường'; giải thích giấy theo mẫu cần đủ khám và xét nghiệm (huyết học, glucose, ure, creatinin, AST, ALT, nước tiểu, X-quang tim phổi), ghi trung thực bệnh đang có, hẹn hoàn thiện khi đủ kết quả",
+     "v": "c",
+     "n": "TT 25/2026/TT-BYT Phụ lục XXIV Mẫu số 03 mục III.1, IV; TT 32/2023 Điều 37 khoản 3b. Tiêu chuẩn phân loại cho thuê sạp: không có trong tài liệu đã tải (sổ NH-0050, MT-1033)."
+    },
+    {
+     "t": "Giáo dục chân (không đi chân đất hay dép mỏng, kiểm tra chân mỗi tối, không ngâm nước nóng); hẹn tái khám 4 tuần; dặn quay lại ngay khi loét, phồng nước, bàn chân đỏ nóng sưng, yếu chân tăng, tê lan lên tay, bí tiểu, khát nhiều kèm nôn hay lơ mơ",
+     "v": "c",
+     "n": "QĐ 3510/2025 mục 3.5, mục 3.3.3 (đánh giá sau 2–4 tuần); ADA 2026 tr. S270 (loét, sưng đỏ nóng không giải thích được: chuyển khẩn); NICE CG173 2013 mục 1.1.5–1.1.6."
+    },
+    {
+     "t": "Kê amitriptylin buổi tối",
+     "v": "w",
+     "n": "Bậc 1 trong QĐ 3510/2025 mục 3.3.3.3 nhưng AGS Beers 2023 Bảng 2, 3 tránh TCA ở người ≥ 65 tuổi; NeuPSIG 2025 Bảng 2 chú thích † (sổ TK-0512 mục 1)."
+    },
+    {
+     "t": "Kê tramadol, opioid hoặc benzodiazepin để giảm đau, giúp ngủ",
+     "v": "h",
+     "n": "Không dùng opioid, tramadol cho đau thần kinh ĐTĐ (QĐ 3510/2025 mục 3.4; ADA 2026 KC 12.22); Beers 2023 Bảng 2, 5: tránh benzodiazepin, opioid kèm gabapentinoid."
+    },
+    {
+     "t": "Cấp giấy khám sức khỏe 'đủ sức khỏe/bình thường' tối nay để ông nộp hồ sơ",
+     "v": "w",
+     "n": "Khám chưa đủ cận lâm sàng, ông đang có bệnh thần kinh nghi do ĐTĐ; Mẫu số 03 mục IV buộc ghi bệnh tật (TT 25/2026); sổ NH-0050, MT-1033."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh đa dây thần kinh ngoại biên đối xứng ngọn chi, thể có đau, mất cảm giác bảo vệ hai bàn chân, nghi do đái tháo đường típ 2 chưa chẩn đoán và rượu góp phần;",
+     "Triệu chứng tăng đường huyết (khát, tiểu đêm, sụt 2 kg), đường mao mạch 9,2 mmol/L, glucose niệu 2+: cần HbA1c và FPG ở phòng xét nghiệm để xác nhận (ADA 2026 Bảng 2.1)",
+     "Đã cân nhắc, chưa nghiêng về: thiếu B12 (chờ kết quả), chèn ép rễ, tê do statin, suy giáp, suy thận"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi chức năng, rượu, thuốc đã ngưng, khát–tiểu đêm, lý do chọn đi khám tối nay → sinh hiệu → khám chân, thần kinh, sức cơ, cột sống → glucose mao mạch, que nước tiểu, gửi máu → chẩn đoán lâm sàng (QĐ 3510/2025 mục 3.2, Hình 4; ADA 2026 tr. S265: chẩn đoán loại trừ).",
+     "Statin là mồi nhử: tê bắt đầu sáu tháng sau khi uống, ngưng 3 tháng không đổi, không đau hay yếu cơ gốc chi (ACC/AHA 2026 mục 4.2.11); ADA 2026 tr. S267: statin không hiệu quả trong điều trị hay phòng bệnh thần kinh ĐTĐ.",
+     "ĐTĐ cần HbA1c ≥ 6,5% hoặc FPG ≥ 7,0 mmol/L trong phòng xét nghiệm (ADA 2026 Bảng 2.1, KC 2.1b); B12 > 350 ng/L ít khả năng thiếu, 180–350 chưa xác định (NICE NG239 2024 Bảng 1). Liều, mục tiêu giảm đau riêng cho nhóm 60–74 tuổi: không có trong tài liệu đã tải, chỉ nêu khởi thấp, tăng chậm (ADA 2026 tr. S267)."
+    ],
+    "phan_tich_xu_tri": [
+     "Cho về, ngoại trú, hẹn 4 tuần (QĐ 3510/2025 mục 3.3.3). Không cờ đỏ. Chưa biết eGFR nên không kê metformin; pregabalin hàng thấp nhất 25 mg/lần (mục 3.3.3.1).",
+     "Thuốc đau bước 1 nhiều cách đúng: pregabalin, gabapentin, duloxetin, amitriptylin (QĐ 3510/2025 mục 3.4; ADA 2026 KC 12.22). Amitriptylin chấm w ở ≥ 65 tuổi (Beers 2023 Bảng 2); opioid, tramadol chấm h. Trần pregabalin 300 mg/ngày (QĐ 3510/2025 Bảng 2) hoặc 600 mg/ngày (NeuPSIG 2025 Bảng 2): QĐ viết cho người ĐTĐ tuyến cơ sở, NeuPSIG tổng hợp thử nghiệm liều cao.",
+     "Rượu: 1–2 đơn vị/ngày (QĐ 5481/2020) hoặc bỏ hẳn (ADA 2026 tr. S265); tương tác rượu–pregabalin: không có trong tài liệu đã tải. Giấy khám sức khỏe: không cấp giấy 'bình thường' (TT 25/2026 Mẫu số 03 mục IV; sổ NH-0050, MT-1033), nói rõ cách làm trọn bộ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pregabalin",
+      "ham_luong": "25 mg (viên nang)",
+      "lieu": "Tuần 1: 1 viên tối trước ngủ. Tuần 2: 1 viên sáng + 1 viên tối. Từ tuần 3: 1 viên × 3 lần/ngày nếu không choáng, buồn ngủ. Tối đa theo hàng thấp nhất của bảng: 50 mg/lần × 3 (khi chưa biết eGFR)",
+      "duong": "Uống",
+      "thoi_diem": "Tối trước ngủ (đau nặng về đêm); liều sáng, trưa sau ăn",
+      "so_ngay": "28 ngày (đến lần tái khám)",
+      "ghi_chu": "QĐ 3510/2025 mục 3.3.3.1: eGFR 30–60 khởi 25 mg/lần, tối đa 50 mg/lần × 3; chưa biết eGFR nên dùng hàng thấp nhất (sổ MT-1070). Người cao tuổi khởi liều thấp, tăng chậm (ADA 2026 tr."
+     },
+     {
+      "thuoc": "Metformin (kê có điều kiện)",
+      "ham_luong": "500 mg",
+      "lieu": "500 mg × 1 viên sau ăn tối, chỉ bắt đầu khi sáng mai HbA1c ≥ 6,5%, FPG ≥ 7,0 mmol/L và eGFR ≥ 45; tăng lên 500 mg × 2 sau 5–7 ngày (QĐ 5481/2020) hoặc sau 4 tuần (QĐ 5904/2019)",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 5481/2020 mục 4.2a, Phụ lục 01 (500–2000 mg/ngày; giảm liều eGFR 30–45, chống chỉ định < 30; thận trọng khi nghiện rượu mạn). QĐ 5904/2019 Phần 3 mục E."
+     }
+    ],
+    "dan_do": [
+     "Uống pregabalin đúng lịch, ghi sổ như ông vẫn làm; choáng, ngủ gà thì giữ liều cũ và báo, không tự ngưng đột ngột (QĐ 3510/2025 mục 3.3.3.1).",
+     "Điều dưỡng Linh gọi sáng mai báo kết quả; nếu là ĐTĐ ông ghé lấy metformin.",
+     "Giảm bia rõ rệt, tốt nhất bỏ hẳn; bia là rượu, không phải 'nước giải khát' (QĐ 5481/2020 mục dinh dưỡng f).",
+     "Chăm sóc chân: kiểm tra mỗi tối, đi giày hoặc dép đế dày vừa chân, không chân đất, không ngâm nước nóng, không tự cạo chai (QĐ 3510/2025 mục 3.5; ADA 2026 KC 12.30–12.31)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 4 tuần, chưa đỡ",
+   "tiep_don": "Tối thứ Hai, 19 giờ 30, đúng hẹn 4 tuần sau lượt 1; vẫn ngoài giờ, mẫu gửi tối nay có kết quả sáng mai. Ông đến một mình, mang sổ tay, các vỉ thuốc đã uống hết và phiếu kết quả lượt 1; nói 'tôi uống đúng từng viên mà chẳng đỡ chút nào'. Hôm sau lượt 1 điều dưỡng Linh đã báo kết quả và ông lấy metformin 500 mg mỗi tối sau ăn. Sinh hiệu lúc tiếp đón (ngồi): mạch 76 l/p, HA 138/84 mmHg, nhiệt 36,7 °C, nhịp thở 18, SpO₂ 98%, cân nặng 70,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Gửi ông lên tuyến trên làm điện cơ, MRI vì 'thuốc không đỡ': mới 4 tuần, pregabalin mới 75 mg/ngày, còn dưới liều duy trì 150–300 mg/ngày (QĐ 3510/2025 Bảng 2), mà QĐ 3510/2025 mục 3.4 chỉ coi là thất bại khi đã chỉnh đến liều tối ưu khoảng 12 tuần không giảm đau đáng kể.",
+    "theo_doi": "Giữ nguyên liều cũ, dặn ông 'uống thêm cho thuốc ngấm': 25 mg × 3 chưa tới khoảng liều hiệu quả nên đau đêm vẫn như cũ. QĐ 3510/2025 mục 3.3.3 yêu cầu chỉnh liều để tìm ngưỡng đáp ứng, NICE CG173 2013 mục 1.1.5 yêu cầu xem lại việc chỉnh liều."
+   },
+   "loi_mo": "Thưa bác sĩ, tôi uống thuốc đúng từng viên, ghi hết trong sổ đây, mà chân vẫn rát, tê y như bữa đầu. Tôi lo thuốc không hợp hay bệnh nặng thêm rồi.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/84",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "khong_do",
+     "noi_dung": "Bốn tuần uống pregabalin 25 mg đúng lịch (tuần 1 một viên tối, tuần 2 hai viên, tuần 3–4 ba viên mỗi ngày), ghi sổ từng ngày. Đau đêm vẫn 6/10, ngủ khoảng 4 giờ, chân vẫn tê rát; ban ngày phải ngồi nghỉ. Không choáng, không buồn ngủ, không phù, hơi khô miệng.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ dù tuân thủ tốt; liều còn thấp"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Đã uống đủ 63 viên pregabalin đúng lịch; metformin 500 mg mỗi tối đủ 27 ngày, tuần đầu hơi đầy bụng rồi hết. Không tự đổi liều hay uống thêm thuốc khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, dung nạp"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Sau khi bác sĩ dặn, ông giảm còn 2 lon bia mỗi chiều, không bỏ hẳn; cuối tuần có khách vẫn 3–4 lon. Ông nghĩ 'giảm một nửa là được rồi'. Không buồn nôn, không run tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rượu giảm chưa đủ"
+    },
+    {
+     "id": "statin",
+     "noi_dung": "Ông vẫn chưa uống lại thuốc mỡ máu, đang chờ bác sĩ nói. Ông vẫn lo 'thuốc mỡ làm tê chân' và hỏi thẳng 'bao giờ mới uống lại được?'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo ngại statin cần giải thích"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Hạn nộp hồ sơ thuê sạp còn khoảng năm tuần. Ông hiểu giấy phải ghi đúng bệnh; hỏi kịp không và có bị từ chối vì ghi tiểu đường không.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lý do thật vẫn còn: giấy tờ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, 70,5 kg. Da niêm hồng, không phù, không vàng da; hơi thở không mùi rượu.",
+     "k": 0,
+     "hien": "Ông tỉnh, nhẹ hơn 0,5 kg, không phù, không vàng da."
+    },
+    "than_kinh": {
+     "a": "Khám lại như lượt 1: mang vớ đối xứng, chân phải không cảm nhận monofilament cả 3 vị trí, chân trái 1/3; mất rung từ ngón cái tới mắt cá; kim châm giảm tới giữa cẳng chân; phản xạ gót giảm nhiều. Không yếu cơ mới, không tê tay, không rối loạn tiểu tiện, không dấu tự chủ (ADA 2026 KC 12.19). Lasègue âm tính.",
+     "k": 1,
+     "hien": "Khám lại bàn chân và thần kinh: tê mang vớ hai bên như lần trước, không yếu cơ mới, tay bình thường."
+    },
+    "chi_duoi": {
+     "a": "Chai nhẹ dưới đầu xương bàn 1 chân phải, như lần trước, không bong, không loét, không đỏ nóng sưng, không phù; mạch mu chân bắt rõ. Ông đã đổi sang giày thể thao cũ đế dày khi đứng quầy. Nguy cơ loét mức 1 (ADA 2026 Bảng 12.1).",
+     "k": 1,
+     "hien": "Bàn chân khô, chai nhẹ ngón cái chân phải, không loét, không phù."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Điều dưỡng Linh đo lúc 19 giờ 40 (bữa trưa cách khoảng 8 giờ): 7,8 mmol/L",
+     "ab": 0,
+     "bang": {
+      "glu": 7.8
+     },
+     "n": "Giảm so với 9,2 mmol/L lần trước sau 4 tuần metformin; chỉ gợi ý, không thay HbA1c."
+    },
+    "hba1c": {
+     "v": "n",
+     "r": "Không làm lại. Phiếu lượt 1: HbA1c 8,7%.",
+     "n": "HbA1c hằng quý khi thay đổi liệu pháp (QĐ 5481/2020 Phần 4, Bảng 5 và đoạn đánh giá kiểm soát đường huyết);"
+    },
+    "glu": {
+     "v": "n",
+     "r": "Không làm lại. Phiếu lượt 1: glucose huyết tương đói 8,9 mmol/L (cùng mẫu với HbA1c 8,7%).",
+     "n": "Hai kết quả bất thường cùng mẫu: ĐTĐ típ 2 (ADA 2026 Bảng 2.1, KC 2.1b)."
+    },
+    "creat": {
+     "v": "n",
+     "r": "Không làm lại. Phiếu lượt 1: ure 5,4 mmol/L · creatinin 82 µmol/L · eGFR 84 mL/ph/1,73m²",
+     "n": "eGFR ≥ 60 là hàng khởi 50 mg/lần, tối đa 100 mg/lần × 3 của pregabalin (QĐ 3510/2025 mục 3.3.3.1);"
+    },
+    "b12": {
+     "v": "n",
+     "r": "Không làm lại. Phiếu lượt 1: vitamin B12 410 ng/L (≈ 303 pmol/L)",
+     "n": "Trên 350 ng/L: ít khả năng thiếu B12 (NICE NG239 2024 Bảng 1)."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "Không làm lại. Phiếu lượt 1: TSH và FT4 trong giới hạn bình thường theo phiếu.",
+     "n": "Loại trừ suy giáp (QĐ 3510/2025 mục 3.2.4)."
+    },
+    "lipid": {
+     "v": "n",
+     "r": "Không làm lại. Phiếu lượt 1 (đã ngưng statin 3 tháng): cholesterol toàn phần 6,3 · LDL-C 4,1 · HDL-C 1,0 · triglycerid 2,6 mmol/L",
+     "n": "Cơ sở để dùng lại statin (ADA 2026 KC 10.18, 10.20)."
+    },
+    "uacr": {
+     "v": "u",
+     "r": "Mẫu nước tiểu gửi tối nay, kết quả sáng mai.",
+     "n": "Đánh giá thận bằng UACR và eGFR ít nhất mỗi năm ở mọi người ĐTĐ típ 2 (ADA 2026 KC 11.1a)."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Tổng phân tích nước tiểu bằng máy: mẫu gửi, kết quả sáng mai.",
+     "n": "Mục của giấy khám sức khỏe (TT 25/2026 Phụ lục XXIV Mẫu số 03 mục III.1b)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh đa dây thần kinh ngoại biên đối xứng ngọn chi, thể có đau, do đái tháo đường típ 2 mới chẩn đoán (HbA1c 8,7%, FPG 8,9 mmol/L), rượu góp phần; đáp ứng thuốc chưa đủ vì liều pregabalin còn thấp (75 mg/ngày) và rượu chưa bỏ",
+     "ok": 1,
+     "n": "ĐTĐ: HbA1c ≥ 6,5% và FPG ≥ 7,0 mmol/L cùng mẫu (ADA 2026 Bảng 2.1). Bệnh thần kinh đối xứng, đau thần kinh cần chỉnh liều (QĐ 3510/2025 mục 3.3.3); mới 4 tuần, chưa phải thất bại (mục 3.4: khoảng 12 tuần ở liều tối ưu)."
+    },
+    {
+     "t": "Thiếu vitamin B12",
+     "n": "B12 410 ng/L (> 350 ng/L: ít khả năng thiếu, NICE NG239 2024 Bảng 1); vẫn theo dõi vì dùng metformin và pregabalin (NG239 Hộp 2; ADA 2026 mục 9, Bảng 9.2)."
+    },
+    {
+     "t": "Chèn ép rễ thắt lưng cùng, suy giáp, tê do statin, không tuân thủ thuốc",
+     "n": "Lasègue âm tính, không yếu cơ, tê đối xứng (QĐ 3510/2025 mục 3.2.2); TSH bình thường, eGFR 84, ngưng statin 3 tháng không đổi, đếm vỉ đủ, không tác dụng phụ; không cần MRI hay điện cơ (ADA 2026 tr."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Quy trình khi không đỡ: đối chiếu chẩn đoán (khám lại chân, loại trừ rễ, đọc B12, TSH, creatinin), kiểm tra tuân thủ (đếm viên), liều đã đủ chưa, rượu, đường huyết, tác dụng phụ",
+     "v": "c",
+     "n": "QĐ 3510/2025 mục 3.4: thất bại khi đã chỉnh đến liều tối ưu khoảng 12 tuần không giảm đau đáng kể; NICE CG173 2013 mục 1.1.5–1.1.6; ADA 2026 tr. S265."
+    },
+    {
+     "t": "Tăng pregabalin vì còn dưới liều, không đổi thuốc: eGFR 84 (hàng ≥ 60) nên 50 mg × 2 lần/ngày một tuần rồi 50 mg × 3 lần/ngày nếu không choáng, buồn ngủ; trần 300 mg/ngày (QĐ 3510/2025) hoặc 600 mg/ngày (NeuPSIG 2025)",
+     "v": "c",
+     "n": "QĐ 3510/2025 mục 3.3.3.1, Bảng 2: eGFR ≥ 60 khởi 50 mg/lần, tối đa 100 mg/lần × 3, duy trì 300 mg/ngày; NeuPSIG 2025 Bảng 2: 150–600 mg/ngày. Ghi cả hai (sổ TK-0425), 300 mg thận trọng hơn."
+    },
+    {
+     "t": "Rượu: giảm tối đa 1–2 đơn vị/ngày (QĐ 5481/2020) hoặc bỏ hẳn (QĐ 3510/2025 mục 3.2.4; ADA 2026 tr. S265); nhắc lại can thiệp ngắn",
+     "v": "c",
+     "n": "Mục sổ TK-0425: ghi cả hai. Can thiệp ngắn: Canadian guideline 2023, khuyến cáo 4. Tương tác rượu–pregabalin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "ĐTĐ típ 2: tăng metformin lên 500 mg × 2 lần/ngày sau ăn sáng và tối (khám lại sau 4 tuần); mục tiêu HbA1c dưới 7,5% hoặc 8% (QĐ 5481/2020 Bảng 5) hoặc dưới 7% (ADA 2026 KC 6.3a); HbA1c lại sau 3 tháng",
+     "v": "c",
+     "n": "QĐ 5904/2019 Phần 3 mục E Bước 2; QĐ 5481/2020 Phụ lục 01 (thận trọng nghiện rượu mạn) và mục 4.2f (HbA1c 8,7% dưới 9%); mục tiêu: sổ MT-0335 mục 1; ADA 2026 KC 12.20."
+    },
+    {
+     "t": "Dùng lại statin cường độ vừa: atorvastatin 20 mg buổi tối, giải thích rõ vì sao tê không do statin, dặn báo nếu đau hay yếu cơ gốc chi; lipid lại sau 4–12 tuần",
+     "v": "c",
+     "n": "ADA 2026 KC 10.18, 10.17, Bảng 10.1; QĐ 3879/2014 mục IV.4 (ghi cả hai, sổ MT-0425 mục 1); ACC/AHA 2026 mục 4.2.11 KC 2."
+    },
+    {
+     "t": "Giấy khám sức khỏe: gửi tổng phân tích nước tiểu và UACR, hẹn chụp X-quang tim phổi ban ngày để có đủ cận lâm sàng; hoàn thiện ở lần tái khám, ghi trung thực ĐTĐ và bệnh thần kinh đang điều trị",
+     "v": "c",
+     "n": "TT 25/2026 Phụ lục XXIV Mẫu số 03 mục III.1; TT 32/2023 Điều 37 khoản 3b. Hạn nộp còn năm tuần nên kịp."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần; dặn choáng, ngủ gà, phù chân, nhìn mờ thì gọi; không ngưng pregabalin đột ngột; khám chân mỗi lần khám",
+     "v": "c",
+     "n": "QĐ 3510/2025 mục 3.3.3.1 (tác dụng phụ; giảm dần ít nhất 1 tuần trước khi ngưng); mục 3.3.3: đánh giá sau 2–4 tuần; ADA 2026 KC 12.25: kiểm tra chân mỗi lần khám khi đã mất cảm giác."
+    },
+    {
+     "t": "Kê amitriptylin buổi tối",
+     "v": "w",
+     "n": "AGS Beers 2023 Bảng 2, 3 tránh TCA ở ≥ 65 tuổi; NeuPSIG 2025 Bảng 2 chú thích † (sổ TK-0512 mục 1)."
+    },
+    {
+     "t": "Kê tramadol, opioid hoặc benzodiazepin",
+     "v": "h",
+     "n": "QĐ 3510/2025 mục 3.4; ADA 2026 KC 12.22; Beers 2023 Bảng 5."
+    },
+    {
+     "t": "Kết luận 'thuốc không hợp', ngưng pregabalin đột ngột và bỏ điều trị đau",
+     "v": "w",
+     "n": "Thuốc chống co giật không ngưng đột ngột, phải giảm dần ít nhất 1 tuần (QĐ 3510/2025 mục 3.3.3.1); chưa thử liều đủ."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh đa dây thần kinh ngoại biên đối xứng ngọn chi, thể có đau, do đái tháo đường típ 2 mới chẩn đoán (HbA1c 8,7%, FPG 8,9 mmol/L cùng mẫu; ADA 2026 Bảng 2.1), rượu góp phần;",
+     "Đau thần kinh chưa đáp ứng vì pregabalin mới 75 mg/ngày và rượu chưa bỏ; chưa phải thất bại điều trị (QĐ 3510/2025 mục 3.4)",
+     "Đã loại trừ: thiếu B12 (410 ng/L), suy giáp, suy thận (eGFR 84), chèn ép rễ, tê do statin"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi tuân thủ (đếm viên), rượu, lo ngại statin → khám lại thần kinh, chân → đọc phiếu lượt 1 → chẩn đoán → xử trí theo quy trình khi không đỡ.",
+     "Quy trình: chẩn đoán còn đúng; tuân thủ đủ; liều 75 mg/ngày dưới khoảng duy trì 150–300 mg/ngày (QĐ 3510/2025 Bảng 2); rượu, đường huyết cao còn duy trì; không tác dụng phụ. Kết luận: chưa đủ liều, chưa đủ thời gian, chưa phải kháng thuốc (mục 3.4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Pregabalin tăng lên 50 mg × 2 rồi × 3 (150 mg/ngày), trong hàng eGFR ≥ 60 (QĐ 3510/2025 mục 3.3.3.1: tối đa 100 mg/lần × 3). Trần 300 mg/ngày (QĐ 3510/2025 Bảng 2) hoặc 600 mg/ngày (NeuPSIG 2025 Bảng 2), con số QĐ thận trọng hơn.",
+     "Metformin tăng 500 mg × 2 sau khoảng 4 tuần (QĐ 5904/2019 Phần 3 mục E Bước 2) hoặc sau 5–7 ngày (QĐ 5481/2020); rượu hằng ngày tăng nguy cơ nhiễm acid lactic (Phụ lục 01). Statin dùng lại (ACC/AHA 2026 mục 4.2.11). Giấy: gửi nước tiểu, X-quang ban ngày, chưa kết luận hôm nay (TT 25/2026 Mẫu số 03 mục III.1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pregabalin",
+      "ham_luong": "25 mg (viên nang)",
+      "lieu": "Tuần 1: 2 viên (50 mg) sáng + 2 viên tối. Từ tuần 2: 2 viên × 3 lần/ngày (150 mg/ngày) nếu không choáng, buồn ngủ. Tối đa theo hàng eGFR ≥ 60: 100 mg/lần × 3",
+      "duong": "Uống",
+      "thoi_diem": "Sáng, trưa sau ăn; tối trước ngủ",
+      "so_ngay": "28 ngày (đến lần tái khám); không ngưng đột ngột",
+      "ghi_chu": "QĐ 3510/2025 mục 3.3.3.1 (hàng ≥ 60: khởi 50 mg/lần, tối đa 100 mg/lần × 3) và Bảng 2 (duy trì 300 mg/ngày); NeuPSIG 2025 Bảng 2 (150–600 mg/ngày chia hai lần);"
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và sau ăn tối",
+      "so_ngay": "Dùng lâu dài",
+      "ghi_chu": "QĐ 5904/2019 Phần 3 mục E Bước 2; QĐ 5481/2020 Phụ lục 01 (500–2000 mg/ngày, giảm liều eGFR 30–45, chống chỉ định < 30). Theo dõi B12 (ADA 2026 mục 9, Bảng 9.2)."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "1 viên × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Dùng lâu dài; lipid lại sau 4–12 tuần",
+      "ghi_chu": "ADA 2026 KC 10.18, 10.17, Bảng 10.1 (atorvastatin 10–20 mg: cường độ vừa); QĐ 3879/2014 Rối loạn lipid máu mục IV.4 (10–20 mg/ngày). Giờ uống trong ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Uống pregabalin theo lịch mới, ghi sổ; tuần đầu tăng liều có thể choáng nhẹ, buồn ngủ: ngồi dậy chậm, báo nếu choáng nhiều; không ngưng đột ngột (QĐ 3510/2025 mục 3.3.3.1).",
+     "Bia: giảm tối đa 1–2 lon mỗi ngày hoặc bỏ hẳn; uống bia lúc đang dùng metformin làm tăng nguy cơ nhiễm acid lactic (QĐ 5481/2020 Phụ lục 01).",
+     "Dùng lại thuốc mỡ máu mỗi tối; báo ngay nếu đau hoặc yếu bắp thịt đùi, vai hay nước tiểu sẫm màu (ACC/AHA 2026 mục 4.2.11). Chân tê của ông không do thuốc này."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · tái khám sau 4 tuần nữa, đỡ rõ",
+   "tiep_don": "Tối thứ Hai, 19 giờ 35, bốn tuần sau lượt 2 (tám tuần từ lúc đầu). Ông tới đúng hẹn, mặt tươi: 'đêm qua tôi ngủ một giấc tới sáng'. Ông mang phiếu X-quang tim phổi, tổng phân tích nước tiểu và UACR làm ban ngày sau lượt 2. Tối nay vẫn không có kỹ thuật viên. Sinh hiệu lúc tiếp đón (ngồi): mạch 74 l/p, HA 134/82 mmHg, nhiệt 36,6 °C, nhịp thở 18, SpO₂ 98%, cân nặng 69,5 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển ông lên tuyến trên chỉ vì còn tê đầu ngón chân là quá tay: đau đã giảm khoảng 70% (6 xuống 2/10), mức giảm từ 50% là giảm đau 'mạnh' (QĐ 3510/2025 mục 3.3.3); ADA 2026 tr. S266 nói chưa có điều trị đảo ngược tổn thương thần kinh nên tê còn là điều dự kiến.",
+    "nhap_vien": "Nhập viện nội tiết để 'hạ đường huyết nhanh và làm đủ giấy tờ' là không cần: glucose mao mạch 7,1 mmol/L, không biến chứng cấp (khủng hoảng tăng đường huyết chỉ khi DKA hoặc HHS, ADA 2026 mục 2), điều trị ngoại trú là đủ (QĐ 3510/2025 mục 3.3.3)."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi khá hơn nhiều rồi, ngủ được cả đêm. Còn tê ở đầu ngón thôi. Bác sĩ coi giùm xong là giấy tờ của tôi làm được không, còn một tuần nữa là hết hạn nộp.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "134/82",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "do_hon",
+     "noi_dung": "Hai tuần sau khi tăng liều, đau đêm giảm rõ: nay 2/10 (trước 6/10), ngủ khoảng 6 giờ, đứng quầy cả ngày không phải ngồi nghỉ. Đầu ngón chân vẫn tê nhưng chịu được.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng thuốc: giảm đau trên 50%"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Pregabalin 50 mg × 3 lần/ngày từ tuần hai; tuần đầu hơi buồn ngủ chiều rồi hết, không choáng, không phù. Metformin 500 mg × 2: không đầy bụng. Atorvastatin 20 mg mỗi tối đủ 4 tuần: không đau bắp thịt, không nước tiểu sẫm màu; tê không nặng thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dung nạp; statin không làm tê"
+    },
+    {
+     "id": "ruou",
+     "noi_dung": "Hiện chỉ uống 1 lon bia vào tối thứ Bảy; ba tuần nay không uống hằng ngày, không khó chịu hay run tay khi bỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giảm rượu thành công"
+    },
+    {
+     "id": "duong",
+     "noi_dung": "Hết khát, tiểu đêm 0–1 lần, cân giảm khoảng 1 kg.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Triệu chứng đường huyết"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Hạn nộp còn khoảng một tuần. Ông tự khai theo mẫu, có ghi đái tháo đường đang điều trị và rượu bia trước đây; lo ghi bệnh thì ban quản lý chợ từ chối, nhưng họ chỉ nói cần 'giấy khám sức khỏe còn hạn', chưa nêu tiêu chuẩn bệnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lý do thật cần giải quyết trung thực"
+    }
+   ],
+   "kham": {
+    "than_kinh": {
+     "a": "Vẫn mang vớ đối xứng: chân phải không cảm nhận monofilament cả 3 vị trí, chân trái 1/3; mất rung từ ngón cái tới mắt cá; phản xạ gót giảm nhiều. Sức cơ 5/5, Lasègue âm tính. Đau giảm nhưng mất cảm giác bảo vệ còn: nguy cơ loét mức 1 (ADA 2026 Bảng 12.1).",
+     "k": 1,
+     "hien": "Khám lại bàn chân: vẫn tê mang vớ hai bên như trước, không yếu cơ."
+    },
+    "chi_duoi": {
+     "a": "Chai nhẹ dưới đầu xương bàn 1 chân phải như cũ, không bong, không loét, không đỏ nóng sưng, không phù; mạch mu chân bắt rõ. Giày đế dày vừa chân.",
+     "k": 1,
+     "hien": "Bàn chân khô, chai nhẹ ngón cái chân phải, không loét, không phù."
+    },
+    "suc_co": {
+     "a": "Sức cơ gốc chi và ngọn chi 5/5; ấn cơ đùi, bắp chân không đau; đứng lên ngồi xuống bình thường sau 4 tuần atorvastatin.",
+     "k": 1,
+     "hien": "Đứng lên ngồi xuống bình thường, ấn bắp đùi bắp chân không đau."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Điều dưỡng Linh đo lúc 19 giờ 40 (bữa trưa cách khoảng 8 giờ): 7,1 mmol/L",
+     "ab": 0,
+     "bang": {
+      "glu": 7.1
+     },
+     "n": "Giảm tiếp (9,2 → 7,8 → 7,1 mmol/L); chỉ gợi ý, HbA1c đánh giá sau 3 tháng điều trị (QĐ 5481/2020 Phần 4: HbA1c hằng quý khi đổi liệu pháp)."
+    },
+    "cxr": {
+     "v": "n",
+     "r": "Không làm lại. Phiếu chụp ban ngày sau lượt 2: X-quang tim phổi thẳng bình thường.",
+     "n": "Mục của giấy khám sức khỏe (TT 25/2026 Phụ lục XXIV Mẫu số 03 mục III.1c);"
+    },
+    "uacr": {
+     "v": "n",
+     "r": "Không làm lại. Phiếu sau lượt 2: UACR 12 mg/g creatinin (< 30 mg/g); eGFR 84",
+     "n": "Bình thường (ADA 2026 mục 11: albumin niệu < 30 mg/g); làm lại mỗi năm (KC 11.1a)."
+    },
+    "lipid": {
+     "v": "a",
+     "r": "Bộ mỡ máu: mẫu gửi tối nay, kết quả sáng mai (mới 4 tuần sau khởi statin).",
+     "n": "ADA 2026 KC 10.17: 4–12 tuần sau khởi hoặc đổi liều; làm ở lần tái khám sau cũng đúng."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh đa dây thần kinh ngoại biên do đái tháo đường típ 2 (rượu góp phần), thể có đau: đau đã đáp ứng (giảm trên 50%) với pregabalin 150 mg/ngày; vẫn mất cảm giác bảo vệ hai bàn chân, nguy cơ loét mức 1",
+     "ok": 1,
+     "n": "QĐ 3510/2025 mục 3.3.3: giảm đau ≥ 50% là 'mạnh', cải thiện giấc ngủ, hoạt động, công việc. Bệnh thần kinh chưa được đảo ngược (ADA 2026 tr. S266); khám chân 6–12 tháng/lần ở mức 1 (Bảng 12.1)."
+    },
+    {
+     "t": "Đái tháo đường típ 2 đang điều trị, chưa có biến chứng thận qua UACR; chưa khám mắt",
+     "n": "UACR 12 mg/g, eGFR 84 (ADA 2026 KC 11.1a). Khám mắt ban đầu khi chẩn đoán ĐTĐ típ 2 (ADA 2026 KC 12.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá đáp ứng: giảm đau (6 → 2/10, trên 50%), giấc ngủ, tác dụng phụ; giữ pregabalin 50 mg × 3 lần/ngày, không tăng thêm vì đã đạt hiệu quả",
+     "v": "c",
+     "n": "QĐ 3510/2025 mục 3.3.3: 30–49% có ý nghĩa, ≥ 50% là mạnh; mục 3.3.3.1: tăng liều không thêm lợi ích nhưng thêm tác dụng phụ; NICE CG173 2013 mục 1.1.6 (đánh giá giảm đau, giấc ngủ, tác dụng phụ, nhu cầu điều trị tiếp)."
+    },
+    {
+     "t": "Giữ pregabalin, không ngưng đột ngột; thời gian duy trì sau khi đỡ đau: không có trong tài liệu đã tải, xem lại ở lần sau; nếu ngưng thì giảm dần ít nhất 1 tuần",
+     "v": "c",
+     "n": "QĐ 3510/2025 mục 3.3.3.1: thuốc chống co giật phải giảm dần ít nhất 1 tuần trước khi ngưng; NICE CG173 2013 mục 1.1.7: giảm dần khi ngưng hoặc đổi thuốc."
+    },
+    {
+     "t": "Rượu: duy trì thấp (tối đa 1–2 đơn vị/ngày theo QĐ 5481/2020) hoặc bỏ hẳn (ADA 2026 tr. S265); khen ngợi và củng cố",
+     "v": "c",
+     "n": "Ghi cả hai (sổ TK-0425). Can thiệp ngắn: Canadian guideline 2023, khuyến cáo 4."
+    },
+    {
+     "t": "ĐTĐ: giữ metformin 500 mg × 2; HbA1c sau 3 tháng điều trị; mục tiêu dưới 7,5% hoặc 8% (QĐ 5481/2020 Bảng 5) hoặc dưới 7% (ADA 2026 KC 6.3a); khám mắt ban đầu; UACR mỗi năm; theo dõi B12 khi dùng metformin và pregabalin",
+     "v": "c",
+     "n": "ADA 2026 KC 12.4 (khám mắt), KC 11.1a (UACR), mục 9 Bảng 9.2 (B12); NICE NG239 2024 Hộp 2. Ghi cả hai mục tiêu (sổ MT-0335 mục 1). Khoảng cách theo dõi B12: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giấy: cấp phiếu tóm tắt khám bệnh và kết quả xét nghiệm (ghi trung thực ĐTĐ típ 2, bệnh đa dây thần kinh đang điều trị ổn định); phòng khám không đủ chuyên khoa theo mẫu nên không phân loại sức khỏe, hướng ông tới cơ sở khám sức khỏe đủ chuyên khoa kịp hạn, mang phiếu này",
+     "v": "c",
+     "n": "TT 32/2023 Điều 30 khoản 2a, Điều 32 khoản 3, Điều 37 khoản 3b, 6, Điều 38 khoản 4a; TT 25/2026 Mẫu số 03 mục IV. Yêu cầu của ban quản lý chợ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám 3 tháng (HbA1c, lipid, khám chân, đánh giá thuốc đau); khám chân mỗi 6–12 tháng ở nguy cơ mức 1; dặn quay lại ngay khi có loét, đỏ nóng sưng, đau tăng, yếu chân",
+     "v": "c",
+     "n": "QĐ 5481/2020 Phần 4 (HbA1c hằng quý khi đổi liệu pháp); ADA 2026 Bảng 12.1 (mức 1: mỗi 6–12 tháng), tr. S270."
+    },
+    {
+     "t": "Ghi 'bình thường' hoặc bỏ ghi đái tháo đường trên giấy theo ý ông để dễ thuê sạp",
+     "v": "w",
+     "n": "Mẫu số 03 mục IV buộc ghi tình trạng sức khỏe và bệnh tật (TT 25/2026); ghi sai không trung thực (sổ NH-0050, MT-1033)."
+    },
+    {
+     "t": "Ngưng pregabalin đột ngột vì đã hết đau",
+     "v": "w",
+     "n": "Thuốc chống co giật không được ngưng đột ngột, phải giảm dần ít nhất 1 tuần (QĐ 3510/2025 mục 3.3.3.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh đa dây thần kinh ngoại biên do đái tháo đường típ 2, rượu góp phần, thể có đau: đau đã đáp ứng (giảm trên 50%) với pregabalin 150 mg/ngày; mất cảm giác bảo vệ còn, nguy cơ loét mức 1 (QĐ 3510/2025 mục 3.3.3;",
+     "Đái tháo đường típ 2 đang điều trị metformin 500 mg × 2; chưa biến chứng thận (UACR 12 mg/g, eGFR 84); chưa khám mắt",
+     "Tình trạng giấy tờ: phòng khám không phải cơ sở khám sức khỏe đủ chuyên khoa theo mẫu; cấp phiếu tóm tắt khám bệnh"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi đáp ứng thuốc, rượu, statin, giấy tờ → khám lại chân, thần kinh → đọc phiếu nước tiểu, UACR, X-quang → chẩn đoán → xử trí.",
+     "Giảm đau 6 → 2/10 (khoảng 67%) là 'mạnh' khi ≥ 50% (QĐ 3510/2025 mục 3.3.3), nhờ tăng liều đúng, giảm rượu, đường huyết; chưa phải hết bệnh: còn mất cảm giác bảo vệ (ADA 2026 Bảng 12.1). Dùng lại statin 4 tuần không đau cơ củng cố tê không do statin (ACC/AHA 2026 mục 4.2.11). UACR bình thường (ADA 2026 KC 11.1a); cần khám mắt ban đầu (KC 12.4)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ pregabalin 150 mg/ngày vì tăng liều không thêm lợi ích (QĐ 3510/2025 mục 3.3.3.1); thời gian duy trì: không có trong tài liệu đã tải; ngưng thì giảm dần ít nhất 1 tuần. Trần 300 hoặc 600 mg/ngày như lượt 2.",
+     "ĐTĐ: HbA1c sau 3 tháng (QĐ 5481/2020 Phần 4); mục tiêu dưới 7,5% hoặc 8% (Bảng 5) hoặc dưới 7% (ADA 2026 KC 6.3a); metformin tăng tiếp khi chưa đạt (QĐ 5904/2019 Phần 3 mục E Bước 3). Không ghi sai bệnh trên giấy; yêu cầu của ban quản lý chợ: không có trong tài liệu đã tải."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Pregabalin",
+      "ham_luong": "25 mg (viên nang)",
+      "lieu": "2 viên (50 mg) × 3 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng, trưa sau ăn; tối trước ngủ",
+      "so_ngay": "12 tuần (đến lần tái khám); không ngưng đột ngột",
+      "ghi_chu": "QĐ 3510/2025 mục 3.3.3.1: hàng eGFR ≥ 60 tối đa 100 mg/lần × 3; thời gian duy trì sau khi đỡ đau: không có trong tài liệu đã tải; ngưng thì giảm dần ít nhất 1 tuần."
+     },
+     {
+      "thuoc": "Metformin",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn sáng và tối",
+      "so_ngay": "12 tuần",
+      "ghi_chu": "Giữ nguyên liều đang dùng (QĐ 5904/2019 Phần 3 mục E; QĐ 5481/2020 Phụ lục 01)."
+     },
+     {
+      "thuoc": "Atorvastatin",
+      "ham_luong": "20 mg",
+      "lieu": "1 viên × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "12 tuần; lipid lại sau 4–12 tuần",
+      "ghi_chu": "Giữ nguyên liều đang dùng (ADA 2026 KC 10.18, Bảng 10.1)."
+     }
+    ],
+    "dan_do": [
+     "Giữ lịch thuốc đang dùng; không tự tăng hay ngưng pregabalin; nếu muốn ngưng thì hỏi bác sĩ để giảm dần (QĐ 3510/2025 mục 3.3.3.1).",
+     "Giấy tờ: mang phiếu tóm tắt tới cơ sở khám sức khỏe đủ chuyên khoa (mắt, tai mũi họng, răng hàm mặt…) trong tuần này; khai trung thực (TT 25/2026 Mẫu số 03; TT 32/2023 Điều 32 khoản 3).",
+     "Khám mắt (đáy mắt) một lần cho người mới chẩn đoán ĐTĐ típ 2 (ADA 2026 KC 12.4); HbA1c và mỡ máu sau 3 tháng."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau ba tháng ông đỡ rõ: đau thần kinh còn 1–2/10, ngủ đủ giấc, tê đầu ngón vẫn còn nhẹ (ADA 2026 tr. S266: chưa có điều trị đảo ngược tổn thương thần kinh). Bia chỉ còn một lon cuối tuần, HbA1c giảm còn 7,3%, tiếp tục atorvastatin, không đau cơ. Ông đến cơ sở khám sức khỏe đủ chuyên khoa mang phiếu tóm tắt, ghi trung thực đái tháo đường và bệnh thần kinh đang điều trị, kịp nộp hồ sơ và thuê được sạp mới (HbA1c 7,3% và chi tiết thuê sạp là hư cấu của ca, không dẫn nguồn).",
+ "nhieu": [
+  "Bệnh nhân hợp tác tốt nhưng chỉ trả lời đúng câu hỏi: không hỏi tới bia, thuốc đã tự ngưng, giấy tờ thì không biết; bác sĩ dễ bỏ sót rượu (ông coi bia không phải rượu) và lý do thật.",
+  "Statin là mồi nhử: tê bắt đầu sáu tháng sau khi uống thuốc nên ông tự ngưng; ngưng 3 tháng không đổi, không đau cơ gốc chi. Bác sĩ dễ gật đầu 'do thuốc' hoặc đo CK rồi dừng ở đó (ACC/AHA 2026 mục 4.2.11)."
+ ],
+ "bai_hoc_bien": [
+  "Bệnh thần kinh ĐTĐ là chẩn đoán loại trừ: nghĩ rượu, B12, suy giáp, thuốc; tê chân có thể là biểu hiện đầu tiên của ĐTĐ chưa chẩn đoán (ADA 2026 tr. S265; QĐ 3510/2025 mục 3.2.4; ADA 2026 Bảng 2.1).",
+  "Không đỡ chưa phải thất bại: kiểm tra chẩn đoán, tuân thủ, liều, yếu tố duy trì (rượu, đường huyết) trước khi đổi thuốc; thất bại khi đã chỉnh tới liều tối ưu khoảng 12 tuần (QĐ 3510/2025 mục 3.4; NICE CG173 2013 mục 1.1.5).",
+  "Giấy khám sức khỏe không phải tờ để 'ghi bình thường': ghi trung thực bệnh, khám đủ chuyên khoa mới phân loại (TT 25/2026 Mẫu số 03 mục IV; TT 32/2023 Điều 32 khoản 3, Điều 37)."
+ ],
+ "diem_nho": [
+  "ĐTĐ: HbA1c ≥ 6,5% hoặc FPG ≥ 7,0 mmol/L trong phòng xét nghiệm; khi không có tăng đường huyết rõ cần hai kết quả bất thường, có thể cùng một mẫu (ADA 2026 Bảng 2.1, KC 2.1b).",
+  "Pregabalin theo eGFR (QĐ 3510/2025 mục 3.3.3.1): ≥ 60 khởi 50 mg/lần, tối đa 100 mg/lần × 3; 30–60 khởi 25 mg/lần, tối đa 50 mg/lần × 3. Giảm đau ≥ 50% là mạnh (mục 3.3.3). Không ngưng đột ngột."
+ ],
+ "nguon": [
+  "BYT 2025 – QĐ 3510/QĐ-BYT, Hướng dẫn chẩn đoán và điều trị bệnh thần kinh đái tháo đường – TL-0279 – mục 3.2–3.5, Bảng 1–2, Phụ lục 01–05.",
+  "ADA 2026 – Standards of Care, mục 12, Diabetes Care 2026;49(Suppl 1):S261-S276 – TL-0446; mục 2, 6, 9, 10, 11 – TL-0296.",
+  "NeuPSIG 2025 – Soliman N. và cs., Lancet Neurol 2025;24:413-428 – TL-0453 – Bảng 2 (tr. 423).",
+  "NICE CG173 2013 (cập nhật 2020) – Neuropathic pain in adults – kho cũ tltk-10000-ca, mục 07 – 1.1.5–1.1.9.",
+  "NICE NG239 2024 – Vitamin B12 deficiency in over 16s – TL-0462 – 1.2.3, 1.2.5, Hộp 1–2, Bảng 1.",
+  "AGS Beers Criteria 2023, J Am Geriatr Soc 2023;71:2052-2081 – TL-0022 – Bảng 2, 3, 5.",
+  "ACC/AHA 2026 Dyslipidemia Guideline, JACC 2026;87(19):2624-2757 – TL-0292 – mục 4.2.11.",
+  "BYT 2020 – QĐ 5481/QĐ-BYT, Hướng dẫn chẩn đoán và điều trị ĐTĐ típ 2 – TL-0031. BYT 2019 – QĐ 5904/QĐ-BYT – TL-0284 – Phần 3 mục E. BYT 2014 – QĐ 3879/QĐ-BYT – TL-0039 – mục IV.4.",
+  "Canadian guideline for high-risk drinking and AUD, CMAJ 2023 – TL-0579 – khuyến cáo 2, 4, 5.",
+  "BYT 2026 – TT 25/2026/TT-BYT, Phụ lục XXIV Mẫu số 03 – TL-0668. BYT 2023 – TT 32/2023/TT-BYT – TL-0669 – Điều 30, 32, 37, 38."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 21/11/2026. Tài liệu đã đọc: TL-0279 (mục 3.2.2, 3.2.4, 3.3.1–3.3.3.3, 3.4, 3.5, Bảng 1–2, Phụ lục 01–05); TL-0446 (KC 12.17–12.25, 12.30–12.31, tr. S265–S269); TL-0296 (Bảng 2.1; mục 9; mục 10 KC 10.16–10.20; mục 11 KC 11.1a); TL-0453 (Bảng 2); NICE CG173 (kho cũ, 1.1.5–1.1.9); TL-0462 (1.2.3, 1.2.5, Hộp 1–2, Bảng 1); TL-0022 (Bảng 2, 3, 5, 6); TL-0292 (mục 4.2.11); TL-0031 (mục 4.2, Bảng 5, Phụ lục 01); TL-0284 (Phần 3 mục E); TL-0039 (Rối loạn lipid IV.4); TL-0579 (khuyến cáo 2–5); TL-0668 (Mẫu số 03); TL-0669 (Điều 30, 32, 37, 38).",
+  "Thiếu tài liệu đã tải: liều khởi đầu và mục tiêu giảm đau riêng cho người cao tuổi; liều gabapentin theo độ lọc; tương tác rượu–pregabalin; ngưỡng lượng rượu gây bệnh thần kinh; thời gian duy trì thuốc đau sau khi đỡ; khoảng cách theo dõi B12; tiêu chuẩn nhập viện cho bệnh thần kinh ĐTĐ không loét; yêu cầu sức khỏe của ban quản lý chợ, tiêu chuẩn phân loại; hàm lượng pregabalin 25 mg ở Việt Nam; giờ uống atorvastatin; statin–bệnh thần kinh ngoại biên.",
+  "Mâu thuẫn theo sổ: TK-0422 mục 1, 3; TK-0512 mục 1, 2; MT-1070; TK-0425; MT-0741; MT-0335 mục 1; MT-0425 mục 1; NH-0050, MT-1033. Ghi nhận mới: TK-0429_mau_thuan.md."
+ ]
+}
