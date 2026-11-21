@@ -1,0 +1,560 @@
+{
+ "ma_ca": "TM-0239",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_viem_hong_amidan_man_nguoi_rat_cao_tuoi_thuoc_nho_mui_keo_dai",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm họng - amidan mạn",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư vòm/họng",
+   "Trào ngược"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Tiểu thương chợ",
+  "yeu_to_khoi_phat": "Sau khi đi xa ngồi lâu",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi dùng kéo dài",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Trần Thị Nhung",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Tiểu thương chợ (bán rau ngoài chợ)",
+  "can_nang": 46,
+  "chieu_cao": 150,
+  "xung_ho": "Bác sĩ gọi bà là 'bà' hoặc 'bác'. Bà xưng 'tui', gọi bác sĩ là 'bác sĩ'. Cháu nội xưng 'con', gọi bà là 'nội'.",
+  "tinh_cach": "Bà Nhung 79 tuổi, bán rau ở chợ hơn 50 năm, đứng sạp từ 3 giờ sáng, sống với con trai, nói nhanh gọn, hay nói 'đỡ rồi mà'. Rất tiết kiệm, nghỉ bán buổi nào là mất thu nhập buổi đó. Nghe hơi kém, sợ bị 'bắt đi soi chụp'.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: hỏi giá, hỏi từng xét nghiệm 'có đổi được thuốc không', không được giải thích thì từ chối hết và nói 'cho thuốc là được'. Mang theo ít tiền. Bác sĩ phải nói xét nghiệm nào đổi quyết định, xét nghiệm nào bỏ được.",
+  "nguoi_nha": "Cháu nội gái Ngân, 26 tuổi, chạy xe chở bà đi khám, thương bà, hay nhắc bà đi soi nhưng bà gạt đi. Biết bà nhỏ mũi hằng ngày.",
+  "ten_nguoi_nha": "Cháu nội (Ngân)",
+  "ngoai_hinh": {
+   "da": "#b88a62",
+   "toc": "#d9d6d0",
+   "kieuToc": "buoc",
+   "ao": "#8a6f5a",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#c49a74",
+    "toc": "#2a211b",
+    "kieuToc": "buoc",
+    "ao": "#6b7f8f",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám theo hẹn: họng còn vướng, xin lấy thêm thuốc súc họng",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở không có máy siêu âm (nên cũng không có CT và nội soi). Còn dùng được: xét nghiệm cơ bản, X-quang, ống nghe, đèn soi họng, đè lưỡi, đèn soi tai, gương soi thanh quản gián tiếp."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 – Tái khám theo hẹn",
+   "tiep_don": "Bà Trần Thị Nhung, 79 tuổi, bán rau ngoài chợ, đến theo hẹn tái khám cùng cháu nội. Hai tuần trước bà khám ở đây vì vướng họng; phiếu cũ ghi viêm họng mạn, cho súc họng bicarbonat, hẹn tái khám, cân nặng 46 kg. Bà sốt ruột vì đang nghỉ bán. Sinh hiệu: mạch 78 l/p, HA 132/78 mmHg, nhiệt độ 36,7 °C, nhịp thở 18 l/p, SpO₂ 96%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bà bị giữ nhập viện 'cho chắc' dù không sốt, không nuốt đau tăng dần, không khối, không hạch, không khó thở. Bà nghỉ bán nhiều ngày, mất thu nhập, viện phí vượt xa số tiền mang theo, cháu nội phải bỏ việc ở lại. Viêm amidan mạn chủ yếu là điều trị ngoại trú và cân nhắc phẫu thuật (QĐ 5643/2015, mục 4.1, tr. 144).",
+    "chuyen_tuyen": "Bà bị chuyển khẩn trong ngày lên tuyến trên chụp CT, sinh thiết dù chưa có cờ đỏ: không khối ở họng, không hạch cứng, không triệu chứng một bên. Sinh thiết chỉ khi có khối (QĐ 5643/2015, Ung thư vòm mục 3.1.2, tr. 284). Bà tốn tiền xe, viện phí, mất cả ngày bán, tưởng mình đã bị ung thư nên sợ và dễ bỏ không quay lại."
+   },
+   "loi_mo": "Bác sĩ ơi, tui tới tái khám như bác sĩ hẹn. Họng còn vướng vướng hà, cho tui lấy thêm thuốc súc họng rồi tui đi bán, nghỉ lâu tụi bạn hàng giành chỗ. Mà bác sĩ làm ơn đừng cho làm xét nghiệm gì tốn tiền nha.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "132/78",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn. Họng còn vướng như có đờm dính, nhất là khi nuốt nước bọt; muốn lấy thêm thuốc súc họng. Hai tuần nay đỡ chút xíu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai): tái khám theo hẹn"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Khoảng 3 tháng nay: vướng họng và tằng hắng nhiều nhất lúc mới ngủ dậy, họng khô, thỉnh thoảng ho khan, cháu nói hơi thở hơi hôi. Nuốt cơm, cháo, nước đều trôi, không đau khi nuốt thức ăn, không nghẹn, giọng không khàn. Không sốt. Ăn ít hơn trước vì mất ngon, ngủ chập chờn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Biểu hiện không điển hình ở người rất cao tuổi: vướng, khô, ăn kém, ngủ kém, không đau họng hay sốt (QĐ 5643/2015, Viêm họng mạn tính mục 3.1.2, tr. 159: khô, vướng họng rõ nhất buổi sáng, tằng hắng dai dẳng)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba tháng trước bà đi xe đò hơn 7 giờ về quê dự đám giỗ, ngồi sát cửa gió máy lạnh, tới nơi ăn no rồi nằm võng ngay. Sáng hôm sau họng rát, vướng, mũi nghẹt; từ đó không hết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau đi xa ngồi lâu, lạnh: yếu tố thuận lợi, không chứng minh trào ngược hay ung thư (QĐ 5643/2015, Viêm amidan mục 2, tr. 141: lạnh đột ngột)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Từ hôm đó bà nhỏ mũi bằng chai thuốc nhỏ mũi mua ở tiệm thuốc đầu chợ (nhãn ghi xylometazolin), 3–4 lần mỗi ngày, đã khoảng 10 tuần. Bà không xem đó là 'thuốc' nên lần trước quên kể; nhỏ thì thông, ngưng vài giờ là nghẹt hơn lúc đầu nên vẫn nhỏ. Không uống thuốc thường xuyên nào khác; thỉnh thoảng uống siro ho thảo dược.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: co mạch nhỏ mũi kéo dài khoảng 10 tuần (QĐ 5643/2015, Viêm mũi xoang cấp mục 4.2.1, tr. 112: xịt kéo dài có thể làm bệnh nặng hơn; ARIA-EAACI 2024–2025: không dùng quá 5 ngày)"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Nghẹt mũi cả hai bên, luân phiên. Không ù tai hay nghe kém một bên, không đau nửa đầu, không xì hoặc khạc ra máu, không thấy hạch ở cổ, không nuốt đau tăng dần. Cân 46 kg như phiếu cũ, quần áo không rộng ra.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cờ đỏ ung thư âm tính: triệu chứng một bên, chảy máu, ù tai, hạch (QĐ 5643/2015, Ung thư vòm mục 3.1.1, tr. 284; Ung thư hạ họng mục 3, tr. 267)"
+    },
+    {
+     "id": "trao_nguoc",
+     "noi_dung": "Không ợ nóng, không ợ chua, không trớ thức ăn lên miệng, không đau sau xương ức. Thỉnh thoảng đầy bụng sau bữa no. Chưa uống thuốc dạ dày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng thực quản điển hình: triệu chứng họng đơn độc, không thử thuốc theo kinh nghiệm (San Diego 2025, Symptom Characterization & Role of Medical Trials)"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không hút thuốc, không uống rượu. Chưa ai báo có bệnh mạn tính. Còn ít răng, đeo hàm giả hàm trên.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử, yếu tố nguy cơ ung thư họng (thuốc lá, rượu): QĐ 5643/2015, Ung thư thanh quản mục 2, tr. 278"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Bà mang theo ít tiền, hỏi từng xét nghiệm 'có đổi được thuốc không'; nếu bác sĩ không giải thích thì từ chối hết và nói 'cho thuốc là được'. Mỗi buổi nghỉ bán là mất thu nhập cả ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ràng buộc tài chính: phải xếp ưu tiên xét nghiệm"
+    },
+    {
+     "id": "tam_ly",
+     "noi_dung": "Bạn hàng bán cá cùng dãy chợ mất năm ngoái vì 'ung thư cổ họng', bắt đầu cũng 'vướng vướng ở họng'. Bà lo mình bị giống vậy nhưng không dám nói, sợ nói ra là bị bắt đi chụp, soi tốn tiền.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Nỗi sợ ẩn: ung thư; trấn an bằng dữ kiện đã khám",
+     "dieu_kien_lo": "Khi bác sĩ hỏi bà lo điều gì nhất, hỏi có quen ai bị bệnh họng, hoặc hỏi nhẹ nhàng về nỗi sợ ung thư"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Họng: niêm mạc đỏ sẫm, khô; thành sau nhiều hạt lympho gồ lên, dải gồ sau trụ sau hai bên (trụ giả), dịch nhầy dính dọc thành sau. Hai amidan nhỏ, đối xứng, mặt gồ ghề, trụ trước đỏ sẫm, ấn thấy ít chất bã đậu ở hốc; không loét, không khối, không giả mạc hay mủ phủ; màn hầu và lưỡi gà cân đối. Mũi: niêm mạc đỏ sẫm, cuốn dưới phù hai bên, ít dịch trong, không polyp, không máu. Tai: ống tai sạch, màng nhĩ hai bên bình thường. (QĐ 5643/2015: viêm họng mạn quá phát, trụ giả, mục 3.1.3, tr. 159–160; amidan thể xơ teo ở người lớn, mục 3.1.1.2, tr. 142.)",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm hai bên nhỏ, mềm, di động, không đau. Không hạch cảnh, sau cơ ức đòn chũm, thượng đòn. Tuyến giáp không to. Không hạch cứng, cố định hay chỉ một bên. (Ung thư amidan: một bên to, cứng, hạch cùng bên, QĐ 5643/2015 mục 3.2, tr. 143; ung thư hạ họng: hạch to dần, cứng, cố định, tr. 267.)",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nói rõ. Vận nhãn đủ hướng, cảm giác mặt hai bên đều, mặt cân đối, lưỡi thè giữa, màn hầu nâng đều khi phát âm. Không liệt dây sọ. (Ung thư vòm lan nền sọ có thể liệt dây sọ: QĐ 5643/2015 mục 3.1.1, tr. 284.)",
+     "k": 1
+    },
+    "quan_sat_nuot": {
+     "a": "Uống từng ngụm nước và ăn miếng bánh mềm: trôi liền, không sặc, giọng không ướt. Nuốt nước bọt khan thấy 'vướng' giữa cổ, không đau chói, không chỉ được một điểm. Giọng nói bình thường, không khàn.",
+     "k": 1
+    },
+    "noi_soi_mui": {
+     "a": "Phòng khám không có ống nội soi tai mũi họng. Soi vòm họng bằng gương gián tiếp: bà nôn ọe mạnh, không soi được. Vòm họng không đánh giá được tại đây.",
+     "k": 0
+    },
+    "soi_thanh_quan": {
+     "a": "Không có ống nội soi. Soi thanh quản bằng gương gián tiếp: bà nôn ọe, không thấy dây thanh. Giọng nói bình thường.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Gầy, tỉnh táo, nói nhanh, môi hơi khô. BMI khoảng 20,4. Không sốt. Niêm mạc hồng. Cân 46 kg, bằng lần trước. Không chóng mặt khi đứng dậy.",
+     "k": 0
+    },
+    "rang_ham_mat": {
+     "a": "Còn khoảng 8 răng, đeo hàm giả hàm trên, nướu hơi đỏ, cao răng, hơi thở hơi hôi. Niêm mạc miệng không loét, không mảng trắng. (Răng miệng kém là yếu tố thuận lợi: QĐ 5643/2015 tr. 141, 161.)",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "BC 7,2 G/L (Neu 62%, Lym 28%) · Hb 126 g/L · TC 240 G/L",
+     "n": "Không cần, và bà không đủ tiền: không sốt, không dấu nhiễm khuẩn cấp. Bạch cầu trên 10 G/L là tiêu chuẩn của viêm amidan cấp do vi khuẩn (QĐ 5643/2015, mục 3.1.2.1, tr. 143); viêm amidan mạn chẩn đoán bằng lâm sàng (mục 3.1.1.2, tr. 142)."
+    },
+    "crp": {
+     "v": "n",
+     "r": "CRP 3 mg/L",
+     "n": "Không cần: QĐ 5643/2015 không có tiêu chuẩn CRP cho viêm họng, amidan mạn và kết quả không đổi xử trí. WHO AWaRe 2022 (Viêm họng, tr. 47): Centor 0–2 điểm thì xét nghiệm thường không cần."
+    },
+    "test_lien_cau": {
+     "v": "n",
+     "r": "Âm tính",
+     "n": "Không cần: không sốt, không amidan phủ mủ, không hạch đau, nghiêng về không phải đợt cấp do liên cầu (WHO AWaRe 2022, tr. 47; IDSA 2012 khuyến cáo 4)."
+    },
+    "aslo": {
+     "v": "n",
+     "r": "ASLO 150 đơn vị (bình thường 200 đơn vị, QĐ 5643/2015 tr. 143)",
+     "n": "Không cần: QĐ 5643/2015 (mục 3.1.2.2, tr. 143) nêu ASLO là một test; bà không có biến chứng khớp, thận, tim. IDSA 2012 (khuyến cáo chẩn đoán 3): hiệu giá kháng thể không dùng để chẩn đoán viêm họng cấp."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm họng mạn tính quá phát (viêm họng hạt, trụ giả) kèm viêm amidan mạn thể xơ teo, không có đợt cấp",
+     "ok": 1,
+     "n": "Vướng, khô họng buổi sáng, tằng hắng; họng đỏ sẫm, hạt lympho, trụ giả, amidan nhỏ gồ ghề có bã đậu. Chẩn đoán bằng cơ năng và khám họng (QĐ 5643/2015, Viêm họng mạn tính mục 3.3, tr. 160; Viêm amidan mạn mục 3.1.1.2, tr. 142). Không sốt, không mủ phủ nên không phải đợt cấp."
+    },
+    {
+     "t": "Viêm mũi do dùng thuốc nhỏ mũi co mạch kéo dài (nghi), góp phần thở miệng, khô họng",
+     "ok": 1,
+     "n": "Nhỏ co mạch khoảng 10 tuần, ngưng là nghẹt hơn; niêm mạc mũi đỏ sẫm, cuốn dưới phù. Dùng kéo dài làm bệnh nặng hơn (QĐ 5643/2015, Viêm mũi xoang cấp mục 4.2.1, tr. 112); gây nghẹt hồi ứng và viêm mũi do thuốc (AAO-HNSF 2015, Potential Harms; ARIA-EAACI 2024–2025). Tài liệu đã tải không mô tả hình ảnh khám mũi của bệnh này: chẩn đoán lâm sàng."
+    },
+    {
+     "t": "Ung thư vòm mũi họng",
+     "n": "Loại trừ trên lâm sàng, chưa bằng nội soi: nghẹt mũi hai bên và do co mạch, không chảy máu mũi, không ù tai hay nghe kém một bên, không đau nửa đầu, màng nhĩ bình thường, không liệt dây sọ, không hạch cổ (QĐ 5643/2015, mục 3.1.1, tr. 284). Chẩn đoán xác định cần sinh thiết khối ở vòm (mục 3.1.2); chưa có chỉ định khi chưa thấy khối."
+    },
+    {
+     "t": "Ung thư amidan, hạ họng, thanh quản",
+     "n": "Loại trừ trên lâm sàng: hai amidan nhỏ, đối xứng, không loét, không khối; không nuốt đau hay nuốt khó tăng dần; giọng không khàn; hạch không to cứng (QĐ 5643/2015: ung thư amidan mục 3.2, tr. 143; hạ họng mục 3, tr. 267; thanh quản mục 3.1.1, tr. 278). Không phải thể sờ thấy khối nên chưa cần sinh thiết; soi vòm họng - thanh quản không làm được ở đây (xem xử trí)."
+    },
+    {
+     "t": "Trào ngược họng - thanh quản",
+     "n": "Chưa đủ cơ sở: không ợ nóng, ợ chua hay trớ (triệu chứng GERD, QĐ 5643/2015 mục 4, tr. 180). Triệu chứng họng không đồng nghĩa trào ngược; chẩn đoán LPRD cần bằng chứng khách quan, soi thanh quản không chẩn đoán được (San Diego 2025, Definition & Terminology; Role of Laryngoscopy)."
+    },
+    {
+     "t": "Viêm amidan cấp hoặc viêm họng do liên cầu",
+     "n": "Loại trừ: không sốt, amidan không sưng đỏ phủ mủ, hạch dưới hàm không đau (QĐ 5643/2015, mục 3.1.1.1, tr. 141–142). WHO AWaRe 2022 (tr. 47): Centor 0–2 điểm thường không cần xét nghiệm."
+    },
+    {
+     "t": "Loạn cảm họng",
+     "n": "Cân nhắc rồi loại: bà vướng nhất khi nuốt nước bọt còn thức ăn trôi, giống loạn cảm họng, nhưng khám họng có dấu viêm rõ; loạn cảm họng thì khám họng không thấy bệnh lý (QĐ 5643/2015, Viêm họng mạn tính mục 3.5, tr. 160)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán lâm sàng viêm họng mạn + viêm amidan mạn sau khi hỏi cờ đỏ, sờ hạch cổ, khám họng - mũi - tai - thần kinh sọ; không làm xét nghiệm vì không đổi xử trí",
+     "v": "c",
+     "n": "QĐ 5643/2015 (Viêm amidan mạn mục 3.1.1.2, tr. 142; Viêm họng mạn tính mục 3.3, tr. 160): chẩn đoán dựa vào cơ năng và khám họng. WHO AWaRe 2022 (tr. 47): Centor 0–2 điểm thường không cần xét nghiệm."
+    },
+    {
+     "t": "Ngưng thuốc nhỏ mũi co mạch; thay bằng rửa hoặc nhỏ mũi nước muối sinh lý; báo trước vài ngày đầu sẽ còn nghẹt",
+     "v": "c",
+     "n": "Các mốc đều bị vượt: QĐ 5643/2015 (Viêm mũi xoang cấp mục 4.2.1, tr. 112) ví dụ 3 ngày, kéo dài làm bệnh nặng hơn; AAO-HNSF 2015 (Potential Harms) không quá 3–5 ngày liên tục; ARIA-EAACI 2024–2025 không quá 5 ngày và tránh ở người cao tuổi; EPOS 2020 (Hình 1.4.1) dưới 10 ngày (xem sổ mâu thuẫn, HH-0007). Nước muối: QĐ 5643/2015 (Viêm họng mạn tính mục 4.2.2, tr. 161). Cách ngưng (hẳn hay giảm dần) và thời gian hết nghẹt hồi ứng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Súc họng natri bicarbonat ấm sáng và tối; đánh răng, giữ hàm giả sạch; uống nước đều",
+     "v": "c",
+     "n": "QĐ 5643/2015 (Viêm họng mạn tính mục 4.2.2, tr. 161: súc họng thuốc kiềm tính; Viêm amidan cấp mục 4.2.1, tr. 144: nửa thìa cà phê bicarbonat trong một cốc nước ấm; Viêm họng mạn tính mục 6, tr. 161: vệ sinh răng miệng). Số lần mỗi ngày và thời gian dùng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh (amoxicillin, macrolid...) cho 'viêm họng mạn' khi không có đợt cấp",
+     "v": "w",
+     "n": "Viêm amidan cấp chỉ dùng kháng sinh khi nghi nhiễm khuẩn hoặc đe dọa biến chứng (QĐ 5643/2015 mục 4.1, tr. 144); WHO AWaRe 2022 (tr. 46): hầu hết viêm họng không cần kháng sinh. Tài liệu đã tải không có chỉ định kháng sinh cho viêm họng, amidan mạn không đợt cấp."
+    },
+    {
+     "t": "Trào ngược nghi ngờ: chỉ lối sống (không ăn trong 3 giờ trước khi nằm, tránh ăn no rồi nằm ngay, đầu giường cao 10–15 cm) và theo dõi, đo trào ngược nếu dai dẳng; HOẶC thử PPI theo QĐ 5643/2015",
+     "v": "c",
+     "n": "Cách A: San Diego 2025 (triệu chứng họng đơn độc thì đánh giá thực quản thay vì thử thuốc); ACG 2022 (khuyến cáo ngoài thực quản 2). Cách B: PPI chọn lựa cho trào ngược họng - thanh quản (QĐ 5643/2015, mục 6.3–6.4, tr. 181–182); thử thì omeprazol 20 mg × 2 lần/ngày × 3 tháng (San Diego 2025) hoặc 8–12 tuần (ACG 2022, khuyến cáo 3), chỉ khi có triệu chứng thực quản điển hình; AGS Beers 2023 (Bảng 2) tránh PPI cố định > 8 tuần ở ≥ 65 tuổi trừ nhóm nguy cơ cao. Theo sổ mâu thuẫn (TM-0248, TH-0162): không chấm w cho thử PPI."
+    },
+    {
+     "t": "Nội soi vòm họng - thanh quản: không khẩn, hẹn ở tuyến có thiết bị khi bà thuận tiện, HOẶC theo dõi 4 tuần sau khi bỏ thuốc nhỏ mũi rồi soi nếu chưa hết hoặc có cờ đỏ; nói rõ đây là xét nghiệm duy nhất đáng tiền, xét nghiệm máu bỏ được",
+     "v": "c",
+     "n": "Cách A: San Diego 2025 (Role of Laryngoscopy, đồng thuận 93%): soi thanh quản cần thiết để loại trừ bệnh không do trào ngược kể cả ác tính. Cách B: QĐ 5643/2015 chẩn đoán viêm họng mạn bằng cơ năng và khám họng (tr. 142, 160); nội soi mũi - vòm họng nêu ở bài Ung thư vòm (mục 3.1.1, tr. 284). Hai nguồn khác năm (2015, 2025) và phạm vi; tài liệu đã tải không có ngưỡng tuổi riêng cho nội soi."
+    },
+    {
+     "t": "Chuyển khẩn trong ngày, chụp CT hoặc sinh thiết khi chưa có cờ đỏ",
+     "v": "w",
+     "n": "Sinh thiết chỉ khi thấy khối (QĐ 5643/2015, Ung thư vòm mục 3.1.2, tr. 284); CT đánh giá mức lan khi đã có u (tr. 284). Bà không có khối, hạch cứng hay triệu chứng một bên."
+    },
+    {
+     "t": "Không chỉ định cắt amidan: không viêm cấp tái phát nhiều lần, không áp xe quanh amidan, không biến chứng, không quá phát gây khó thở",
+     "v": "c",
+     "n": "QĐ 5643/2015 (mục 4.2.2.1, tr. 144: chỉ định khi viêm nhiều lần, thường 5–6 lần/năm, biến chứng hoặc quá phát gây khó thở; mục 4.2.2.2, tr. 145: người quá yếu, người trên 50 tuổi là chống chỉ định tương đối). AAO-HNSF 2019 (TL-0564) chỉ cho trẻ; tài liệu đã tải không có hướng dẫn cắt amidan cho người lớn."
+    },
+    {
+     "t": "Trấn an có cấu trúc: hỏi ra nỗi sợ ung thư, nói rõ đã khám và loại trừ gì, nêu dấu hiệu phải quay lại; không chiều lòng đòi 'chụp cho chắc'",
+     "v": "c",
+     "n": "Dữ kiện trấn an: QĐ 5643/2015 (tr. 143, 267, 284). Cấu trúc 'gọi tên - cho dữ kiện - nêu mốc' là nhận xét biên tập. San Diego 2025 (Laryngeal Hyperresponsiveness & Hypervigilance): lo âu đặc hiệu theo triệu chứng làm tăng cảm nhận triệu chứng họng."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần; quay lại sớm nếu sốt, đau họng một bên tăng, há miệng khó, nuốt đau nuốt nghẹn tăng dần, khàn tiếng, khạc hoặc xì ra máu, nổi hạch, ngạt mũi hay ù tai một bên, sụt cân",
+     "v": "c",
+     "n": "Mốc 4 tuần do biên tập chọn (tài liệu đã tải không nêu thời gian tái khám). Dấu hiệu quay lại: triệu chứng một bên của ung thư vòm (QĐ 5643/2015, tr. 284), nuốt đau tăng dần và hạch cứng (tr. 267), khàn tiếng kéo dài (tr. 278); viêm tấy quanh amidan là biến chứng cục bộ (mục 5.1, tr. 145). Triệu chứng riêng của áp xe quanh amidan: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm họng mạn tính quá phát (viêm họng hạt, trụ giả) kèm viêm amidan mạn thể xơ teo, không có đợt cấp",
+     "Viêm mũi do dùng thuốc nhỏ mũi co mạch kéo dài (nghi); người rất cao tuổi, gầy, ăn kém",
+     "Đã loại trừ trên lâm sàng, chưa bằng nội soi: ung thư vòm, amidan, hạ họng, thanh quản; trào ngược họng - thanh quản; viêm amidan cấp do liên cầu; loạn cảm họng"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: thời gian và giờ nặng nhất của vướng họng, nuốt thức ăn hay chỉ nuốt nước bọt, giọng, sốt, cân nặng; cờ đỏ một bên (ngạt mũi, ù tai, chảy máu, đau nửa đầu), ợ nóng - trớ; thuốc đang dùng, kể cả thuốc nhỏ mũi tự mua; hỏi nỗi lo nhất. Bà không xem thuốc nhỏ mũi là thuốc nên chỉ lộ khi hỏi thẳng.",
+     "Khám: họng (hạt, trụ giả, amidan nhỏ đối xứng, không loét), mũi, tai, hạch cổ hai bên, dây sọ, quan sát nuốt, giọng. Tất cả khớp viêm họng, amidan mạn (QĐ 5643/2015, tr. 142, 159–160) và không có dấu ung thư (tr. 143, 267, 284).",
+     "Cận lâm sàng: máu, CRP, test liên cầu, ASLO đều không đổi xử trí; bà không đủ tiền nên bỏ hết. Xét nghiệm duy nhất đổi quyết định là soi vòm họng - thanh quản, mà phòng khám không có ống soi (siêu âm không có thì CT, nội soi cũng không).",
+     "Đây là bệnh không điển hình ở tuổi ≥ 75: không đau họng, không sốt, chỉ vướng, khô, ăn kém. Tài liệu đã tải không có hướng dẫn riêng cho người ≥ 75 tuổi và nhóm này ít có trong các thử nghiệm: kết luận mang tính thận trọng, không phải khuyến cáo riêng cho tuổi."
+    ],
+    "phan_tich_xu_tri": [
+     "Ngoại trú, không kháng sinh: không đợt cấp (QĐ 5643/2015 tr. 144; WHO AWaRe 2022 tr. 46). Việc quan trọng nhất là ngưng co mạch nhỏ mũi vì đã vượt mọi mốc nguồn nêu (3, 5, dưới 10 ngày).",
+     "Điều trị tại chỗ: súc họng kiềm ấm, nước muối mũi, vệ sinh răng miệng (QĐ 5643/2015 tr. 144, 161).",
+     "Soi vòm họng - thanh quản: ghi cả hai cách, hẹn không khẩn hoặc chờ 4 tuần rồi soi (San Diego 2025; QĐ 5643/2015). Trào ngược chỉ lối sống hoặc thử PPI (sổ mâu thuẫn TM-0248).",
+     "Trấn an cụ thể và hẹn tái khám (mốc 4 tuần do biên tập chọn, tài liệu đã tải không nêu) giúp bà quay lại, vì bà dễ bỏ vì tiền và vì sợ."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri bicarbonat (natri hydrocarbonat) súc họng",
+      "ham_luong": "Nửa thìa cà phê pha trong một cốc nước ấm",
+      "lieu": "Một cốc mỗi lần súc",
+      "duong": "Súc họng, nhổ ra, không nuốt",
+      "thoi_diem": "Sáng sau khi dậy và tối trước khi ngủ (số lần: biên tập chọn)",
+      "so_ngay": "4 tuần rồi tái khám (biên tập chọn)",
+      "ghi_chu": "QĐ 5643/2015: Viêm amidan cấp mục 4.2.1 (tr. 144) nêu công thức; Viêm họng mạn tính mục 4.2.2 (tr. 161) súc họng kiềm tính. Số lần và thời gian cho viêm họng mạn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% rửa hoặc nhỏ mũi",
+      "ham_luong": "0,9%, dạng sẵn có tại cơ sở",
+      "lieu": "Rửa hoặc nhỏ mỗi bên mũi khi nghẹt",
+      "duong": "Nhỏ, rửa mũi",
+      "thoi_diem": "Khi nghẹt mũi, thay cho thuốc co mạch",
+      "so_ngay": "Đến khi mũi thông (4 tuần rồi tái khám)",
+      "ghi_chu": "QĐ 5643/2015 (Viêm họng mạn tính mục 4.2.2, tr. 161: nhỏ mũi, rửa mũi bằng nước muối sinh lý). Số lần và thể tích: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Thuốc nhỏ mũi co mạch (xylometazolin) đang tự dùng",
+      "ham_luong": "Chai đang dùng",
+      "lieu": "Ngưng, không nhỏ thêm",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Không dùng nữa",
+      "so_ngay": "Ngưng hẳn",
+      "ghi_chu": "QĐ 5643/2015 (tr. 112), ARIA-EAACI 2024–2025, AAO-HNSF 2015: dùng kéo dài có hại. Cách ngưng hẳn hay giảm dần: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bỏ chai thuốc nhỏ mũi; vài ngày đầu nghẹt hơn là chuyện thường, dùng nước muối, đừng nhỏ lại. Cháu nội giúp nhắc và giấu chai.",
+     "Súc họng bicarbonat sáng tối, ăn mềm, uống nước đều, đánh răng và rửa hàm giả sau ăn; không ăn no rồi nằm ngay, kê đầu giường cao 10–15 cm (QĐ 5643/2015 tr. 182).",
+     "Bà không cần làm xét nghiệm máu. Việc đáng tiền duy nhất là soi vòm họng - thanh quản; nếu họng chưa hết sau 4 tuần (mốc do biên tập chọn, tài liệu đã tải không nêu) thì phải đi soi.",
+     "Đã khám và chưa thấy khối, hạch cứng hay triệu chứng một bên: nói rõ để bà bớt sợ như chuyện bạn hàng; vẫn quay lại ngay nếu sốt, đau họng một bên tăng, há miệng khó, nuốt đau nghẹn tăng dần, khàn tiếng, khạc ra máu, nổi hạch, sụt cân.",
+     "Hẹn tái khám sau 4 tuần (mốc do biên tập chọn, tài liệu đã tải không nêu)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – Tái khám sau 4 tuần",
+   "tiep_don": "Bốn tuần sau, bà Trần Thị Nhung quay lại với cháu Ngân. Bà đã ngưng thuốc nhỏ mũi từ sau lần khám trước, nhỏ nước muối khi nghẹt; mũi thông hơn, họng đỡ nhưng còn vướng buổi sáng. Sinh hiệu: mạch 76 l/p, HA 128/76 mmHg, nhiệt độ 36,6 °C, nhịp thở 18 l/p, SpO₂ 97%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bà được cho về, tiếp tục súc họng, hẹn thêm một tháng dù đã hơn 4 tháng vướng họng ở tuổi 79 mà chưa ai soi vòm họng và thanh quản. Nếu có tổn thương tại chỗ thì sẽ không bị phát hiện sớm, và cả bà lẫn bác sĩ đều không thể nói chắc 'không có gì'. San Diego 2025 coi soi thanh quản là bước cần thiết để loại trừ bệnh không do trào ngược, kể cả ác tính (Role of Laryngoscopy, đồng thuận 93%).",
+    "nhap_vien": "Bà bị giữ nhập viện để 'làm đủ xét nghiệm' dù không sốt, không nuốt đau, không khó thở. Bà mất nhiều ngày bán, tốn viện phí vượt xa số tiền mang theo, trong khi việc cần làm chỉ là một lần soi vòm họng - thanh quản ngoại trú ở nơi có ống soi."
+   },
+   "loi_mo": "Bác sĩ ơi, tui ngưng cái thuốc nhỏ mũi rồi, mũi thông hơn nhiều. Họng thì đỡ chừng một nửa, còn vướng vướng buổi sáng thôi. Cho tui lấy thuốc súc họng tiếp rồi tui đi bán nha, tui đỡ rồi mà.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "128/76",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn 4 tuần. Họng đỡ khoảng một nửa, còn vướng buổi sáng; muốn lấy thêm thuốc súc họng rồi đi bán.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Tuần đầu ngưng thuốc nhỏ mũi nghẹt nhiều, ngủ khổ; tuần 2–3 đỡ dần, nay thở được hai bên mũi, không còn phải nhỏ. Vướng họng và tằng hắng đỡ khoảng một nửa, còn nhiều nhất lúc mới thức dậy, khô họng đỡ. Không sốt, nuốt cơm cháo bình thường, giọng không khàn, ăn ngon hơn, cân 46,5 kg. Súc họng bicarbonat đều khoảng 3 tuần rồi hay quên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đỡ một phần, cùng chiều với việc bỏ co mạch; không dấu thất bại điều trị, không cờ đỏ mới (QĐ 5643/2015, mục 5, tr. 161: viêm họng mạn dai dẳng, dễ tái phát nếu không loại bỏ nguyên nhân)"
+    },
+    {
+     "id": "chua_soi",
+     "noi_dung": "Bà chưa đi nội soi: 'đỡ rồi thì thôi', ngại tốn tiền và mất buổi bán. Cháu nội nhắc nhiều lần. Bà vẫn mang theo ít tiền và vẫn hỏi 'có đổi thuốc được không' với mỗi xét nghiệm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kế hoạch lượt 1 (soi nếu chưa hết) chưa thực hiện; nhiễu không đủ tiền"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Vẫn không ngạt mũi hay ù tai một bên, không chảy máu, không đau nửa đầu, không nổi hạch, không nuốt đau tăng dần, không ợ nóng hay trớ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cờ đỏ vẫn âm tính (QĐ 5643/2015, tr. 267, 284)"
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Họng: niêm mạc bớt đỏ, đỡ khô, dịch nhầy ít hơn; hạt lympho thành sau và trụ giả vẫn còn nhưng bớt gồ. Hai amidan nhỏ, đối xứng, mặt gồ ghề, ít bã đậu; không loét, không khối, không mủ phủ. Mũi: niêm mạc hồng, cuốn dưới hết phù, thông hai bên. Tai: màng nhĩ bình thường. (QĐ 5643/2015, tr. 142, 159–160.)",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Hạch dưới hàm hai bên nhỏ, mềm, di động như lần trước. Không hạch cổ cứng hay chỉ một bên. Tuyến giáp không to.",
+     "k": 1
+    },
+    "noi_soi_mui": {
+     "a": "Phòng khám không có ống nội soi tai mũi họng; soi vòm họng bằng gương gián tiếp: bà nôn ọe, không soi được. Vòm họng không đánh giá được tại đây.",
+     "k": 0
+    },
+    "soi_thanh_quan": {
+     "a": "Không có ống nội soi; gương gián tiếp: bà nôn ọe, không thấy dây thanh. Giọng nói bình thường.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Gầy, tỉnh táo, nói nhanh. Cân 46,5 kg, tăng nhẹ so với lần trước. Không sốt.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "r": "Không có thay đổi so với lượt trước: BC 7,0 G/L · Hb 125 g/L",
+     "n": "Không làm lại: bà đỡ, không sốt, không đổi xử trí; bà không đủ tiền (QĐ 5643/2015, mục 3.1.2.1–3.1.2.2, tr. 143)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm họng mạn tính quá phát + viêm amidan mạn thể xơ teo, đang hồi phục chậm sau khi bỏ thuốc co mạch (đỡ một phần), chưa đợt cấp",
+     "ok": 1,
+     "n": "Mũi hết phù, họng bớt nhầy, đỡ khoảng một nửa sau 4 tuần: cùng chiều với điều trị, không phải thất bại. Hạt lympho và trụ giả cần thời gian; tài liệu đã tải không nêu thời gian hồi phục hay tiêu chí thất bại điều trị của viêm họng mạn (QĐ 5643/2015, mục 5, tr. 161)."
+    },
+    {
+     "t": "Viêm mũi do thuốc nhỏ mũi co mạch kéo dài, đã đỡ sau khi ngưng",
+     "ok": 1,
+     "n": "Thở được hai bên mũi sau khi bỏ thuốc, cuốn dưới hết phù (QĐ 5643/2015, Viêm mũi xoang cấp mục 4.2.1, tr. 112; AAO-HNSF 2015, Potential Harms)."
+    },
+    {
+     "t": "Ung thư vòm - amidan - hạ họng - thanh quản",
+     "n": "Lâm sàng không gợi (không triệu chứng một bên, hạch, khối, khàn, nuốt đau tăng dần; QĐ 5643/2015, tr. 143, 267, 278, 284), nhưng chưa loại trừ bằng nội soi: bà ≥ 75 tuổi, triệu chứng họng gần 4 tháng, chưa ai soi vòm họng - thanh quản (San Diego 2025, Role of Laryngoscopy)."
+    },
+    {
+     "t": "Trào ngược họng - thanh quản",
+     "n": "Vẫn không ợ nóng, không trớ: triệu chứng họng đơn độc, chưa có bằng chứng khách quan (San Diego 2025, Definition & Terminology). Không đoán trào ngược để thử thuốc khi chưa soi."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định 'đỡ một phần' là hồi phục chậm cùng chiều với việc bỏ co mạch, không phải thất bại điều trị: không đổi thuốc, không kháng sinh, không thêm xét nghiệm máu",
+     "v": "c",
+     "n": "Khám khách quan cùng chiều (mũi hết phù, họng bớt nhầy). Kháng sinh không có chỉ định khi không đợt cấp (QĐ 5643/2015 mục 4.1, tr. 144; WHO AWaRe 2022, tr. 46). Tài liệu đã tải không có tiêu chí 'thất bại điều trị' cho viêm họng mạn."
+    },
+    {
+     "t": "Chuyển tuyến có hẹn, không khẩn, để soi vòm họng - thanh quản bằng ống mềm: bà ≥ 75 tuổi, triệu chứng họng kéo dài gần 4 tháng, chưa được soi, chưa hết hẳn dù đã bỏ co mạch; giấy chuyển ghi rõ lý do và mục tiêu loại trừ u",
+     "v": "c",
+     "n": "San Diego 2025 (LPS: ít nhất 2 lần/tuần, trên 8 tuần; Role of Laryngoscopy, đồng thuận 93%): soi thanh quản cần thiết để loại trừ bệnh không do trào ngược, kể cả ác tính. QĐ 5643/2015: nội soi mũi - vòm họng (Ung thư vòm mục 3.1.1, tr. 284), soi thanh quản (Ung thư thanh quản mục 3.1.2, tr. 278–279). Đây là cách B đã nêu ở lượt 1; ngưỡng tuổi riêng: không có trong tài liệu đã tải, mức thận trọng do biên tập."
+    },
+    {
+     "t": "Giải thích vì sao nội soi là xét nghiệm duy nhất đáng tiền (đổi được quyết định), còn xét nghiệm máu, X-quang, CT bỏ được; hẹn ngày giờ cụ thể, nhờ cháu đi cùng, tránh buổi bà bán chính",
+     "v": "c",
+     "n": "Nhận xét biên tập về xếp ưu tiên. CT đánh giá mức lan khi đã có u (QĐ 5643/2015, tr. 284), chưa có chỉ định. Chi phí nội soi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục súc họng bicarbonat, nước muối mũi, không nhỏ lại co mạch; nghẹt mũi tái phát thì quay lại khám",
+     "v": "c",
+     "n": "QĐ 5643/2015 (tr. 112, 144, 161); ARIA-EAACI 2024–2025 (tránh co mạch ở người cao tuổi). Thời gian dùng súc họng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bắt đầu thử PPI ngay (omeprazol 20 mg × 2 lần/ngày) trước khi soi",
+     "v": "a",
+     "n": "Cách B ở lượt 1 (QĐ 5643/2015 mục 6.3, tr. 181) được chấp nhận; nhưng bà không có triệu chứng thực quản nên San Diego 2025 không khuyên thử thuốc cho triệu chứng họng đơn độc, và AGS Beers 2023 (Bảng 2) tránh PPI cố định > 8 tuần ở ≥ 65 tuổi (sổ mâu thuẫn TM-0248, TH-0162)."
+    },
+    {
+     "t": "Thêm hoặc đổi sang kháng sinh vì 'đỡ chưa hết'",
+     "v": "w",
+     "n": "Không có đợt cấp, đang đỡ; WHO AWaRe 2022 (tr. 46): hầu hết viêm họng không cần kháng sinh; QĐ 5643/2015 (tr. 144)."
+    },
+    {
+     "t": "Hẹn sau nội soi hoặc sau 4 tuần; quay lại ngay nếu sốt, đau họng một bên tăng, há miệng khó, chảy dãi, nuốt đau nuốt nghẹn tăng, khàn tiếng, khạc ra máu, nổi hạch, sụt cân",
+     "v": "c",
+     "n": "Mốc do biên tập chọn. Dấu hiệu: QĐ 5643/2015 (tr. 267, 278, 284); viêm tấy quanh amidan là biến chứng cục bộ của viêm amidan mạn (mục 5.1, tr. 145). Dấu hiệu riêng của áp xe quanh amidan: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm họng mạn tính quá phát + viêm amidan mạn thể xơ teo, đỡ một phần sau khi bỏ co mạch, chưa đợt cấp",
+     "Viêm mũi do thuốc nhỏ mũi co mạch kéo dài, đã đỡ sau ngưng",
+     "Chưa loại trừ bằng nội soi: ung thư vòm - amidan - hạ họng - thanh quản; trào ngược họng - thanh quản"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi: mũi, họng đỡ bao nhiêu, bà có thật sự bỏ co mạch, cờ đỏ một bên, giọng, nuốt, cân, vì sao chưa đi soi. Khám: họng, mũi, hạch, nuốt.",
+     "Phân biệt hồi phục chậm với thất bại sớm: dấu khách quan (mũi hết phù, họng bớt nhầy, cân tăng) và triệu chứng đều cải thiện, không sốt, không mủ, không dấu mới: là hồi phục chậm, không phải thất bại.",
+     "Cận lâm sàng: không cần làm lại; nội soi vòm họng - thanh quản là việc duy nhất đổi quyết định mà phòng khám không làm được.",
+     "Ung thư vòm - họng chưa thể loại trừ chỉ bằng lâm sàng ở người ≥ 75 tuổi còn triệu chứng họng gần 4 tháng chưa được soi (San Diego 2025). Tài liệu đã tải không có ngưỡng tuổi riêng."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có hẹn, không khẩn, để soi vòm họng - thanh quản (San Diego 2025; QĐ 5643/2015 tr. 278–279, 284). Cách A ở lượt 1 (hẹn khi tiện) và cách B (đợi 4 tuần rồi soi) đều dẫn tới quyết định này.",
+     "Không đổi thuốc, không kháng sinh, không thêm xét nghiệm máu; thử PPI không bắt buộc (sổ mâu thuẫn TM-0248).",
+     "Giúp bà đi được: hẹn cụ thể, giải thích chi phí hợp lý, cháu nội đi cùng, giấy chuyển rõ ràng."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri bicarbonat (natri hydrocarbonat) súc họng",
+      "ham_luong": "Nửa thìa cà phê pha trong một cốc nước ấm",
+      "lieu": "Một cốc mỗi lần súc",
+      "duong": "Súc họng, nhổ ra, không nuốt",
+      "thoi_diem": "Sáng và tối",
+      "so_ngay": "Đến khi đi nội soi và tái khám (biên tập chọn)",
+      "ghi_chu": "QĐ 5643/2015 (tr. 144, 161). Số lần và thời gian cho viêm họng mạn: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% rửa hoặc nhỏ mũi",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa hoặc nhỏ mỗi bên mũi khi nghẹt",
+      "duong": "Nhỏ, rửa mũi",
+      "thoi_diem": "Khi nghẹt mũi",
+      "so_ngay": "Khi cần",
+      "ghi_chu": "QĐ 5643/2015 (tr. 161). Không dùng lại thuốc co mạch (tr. 112; ARIA-EAACI 2024–2025)."
+     }
+    ],
+    "dan_do": [
+     "Giấy chuyển (tài liệu đã tải không có mẫu; nội dung do biên tập soạn): bà 79 tuổi, vướng họng gần 4 tháng, đã bỏ co mạch, đỡ một phần, chưa soi vòm họng - thanh quản; khám amidan nhỏ đối xứng, không hạch, không liệt dây sọ; xin soi để loại trừ u.",
+     "Nói rõ với bà và cháu: soi là để loại trừ bệnh nặng; kết quả bình thường thì bà yên tâm, chỉ cần theo dõi tiếp. Hẹn ngày cụ thể, cháu chở đi.",
+     "Tiếp tục súc họng và nước muối mũi, không mua lại thuốc nhỏ mũi co mạch.",
+     "Quay lại hoặc đi cấp cứu sớm nếu sốt, đau họng một bên tăng, há miệng khó, nuốt đau nuốt nghẹn tăng dần, khàn tiếng, khạc ra máu, nổi hạch, sụt cân (QĐ 5643/2015, tr. 267, 278, 284)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Nhung đi soi vòm họng - thanh quản ở bệnh viện tỉnh 10 ngày sau lượt 2: không thấy u, niêm mạc họng đỏ nhẹ, amidan xơ teo, hợp viêm họng, amidan mạn; bà mừng, hứa không mua lại thuốc nhỏ mũi. Chín ngày sau nội soi bà sốt, đau họng bên phải tăng, há miệng khó, không nuốt được nước; bà nhập viện vì viêm tấy quanh amidan phải (áp xe), được dẫn lưu và điều trị nội trú 6 ngày, nghỉ bán gần 3 tuần, cháu Ngân phải trông sạp. Quyết định không kê kháng sinh khi không có đợt cấp và chuyển nội soi đúng hẹn vẫn đúng theo tài liệu; viêm tấy quanh amidan là biến chứng cục bộ có thể xảy ra của viêm amidan mạn (QĐ 5643/2015, mục 5.1, tr. 145). Kết cục xấu không chứng minh quyết định sai (outcome bias).",
+ "nhieu": [
+  "Không đủ tiền xét nghiệm: bà hỏi giá từng xét nghiệm, từ chối hết nếu không được giải thích; máu, CRP, test liên cầu, ASLO bỏ được, chỉ soi vòm họng - thanh quản là đáng tiền (nhưng cơ sở không có).",
+  "Thuốc nhỏ mũi dùng kéo dài: bà không xem là thuốc nên không kể; nghẹt hồi ứng khiến bà không dám bỏ.",
+  "Nỗi sợ ẩn: bạn hàng mất vì 'ung thư cổ họng', bà giấu vì sợ bị bắt đi soi chụp tốn tiền.",
+  "Không điển hình ở người ≥ 75 tuổi: không đau họng, không sốt, chỉ vướng, khô, ăn kém, ngủ kém; khởi phát sau đi xa ngồi lâu, lạnh, ăn no nằm ngay làm dễ nghĩ trào ngược.",
+  "Lượt 2 đỡ một phần: dễ chủ quan 'đỡ rồi', bà không đi soi; hoặc ngược lại dễ đổi thuốc, thêm kháng sinh vì chưa hết."
+ ],
+ "bai_hoc_bien": [
+  "Người ≥ 75 tuổi vướng họng kéo dài: viêm họng, amidan mạn là chẩn đoán lâm sàng (QĐ 5643/2015, tr. 142, 160) nhưng phải hỏi cờ đỏ một bên, sờ hạch, khám dây sọ rồi mới yên tâm (tr. 143, 267, 284). Tài liệu đã tải không có hướng dẫn riêng cho nhóm tuổi này.",
+  "Hỏi thuốc tự mua: thuốc nhỏ mũi co mạch kéo dài làm nặng thêm nghẹt mũi và khô họng; đã vượt mọi mốc (3, 5, dưới 10 ngày).",
+  "Không đủ tiền xét nghiệm: loại xét nghiệm không đổi xử trí (máu, CRP, test liên cầu, ASLO) và giữ lại cái đổi quyết định là soi vòm họng - thanh quản (San Diego 2025).",
+  "Đỡ một phần: phân biệt hồi phục chậm (dấu khách quan và triệu chứng cùng cải thiện) với thất bại điều trị; không đổi thuốc, nhưng thực hiện bước đã hứa (soi) nếu chưa hết.",
+  "Xử trí đúng vẫn có thể diễn tiến xấu: đánh giá quyết định theo thông tin lúc quyết định, không theo kết cục."
+ ],
+ "diem_nho": [
+  "Amidan mạn thể xơ teo ở người lớn; viêm họng mạn quá phát có trụ giả (QĐ 5643/2015, tr. 142, 159–160).",
+  "Cắt amidan: viêm 5–6 lần/năm, biến chứng; người > 50 tuổi hoặc quá yếu là chống chỉ định tương đối (QĐ 5643/2015, tr. 144–145).",
+  "Triệu chứng họng ≥ 2 lần/tuần, > 8 tuần cần soi thanh quản trước khi quy cho trào ngược (San Diego 2025).",
+  "Co mạch nhỏ mũi: 3 ngày (QĐ 5643/2015 tr. 112), không quá 3–5 ngày (AAO-HNSF 2015), không quá 5 ngày (ARIA-EAACI 2024–2025), dưới 10 ngày (EPOS 2020)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng (TL-0130) – ĐÃ ĐỌC Viêm amidan cấp và mạn mục 2, 3.1–3.2, 4.1–4.2, 5 (tr. 141–145); Viêm họng mạn tính mục 3–6 (tr. 159–161); Viêm mũi xoang cấp mục 4.2.1 (tr. 112); Trào ngược dạ dày thực quản mục 4–6 (tr. 179–182); Ung thư vòm mũi họng mục 3 (tr. 284–285); Ung thư hạ họng mục 3 (tr. 267); Ung thư thanh quản mục 3.1 (tr. 278–279).",
+  "San Diego Consensus for Laryngopharyngeal Symptoms and LPR Disease 2025 (Am J Gastroenterol 2025;121:322–336; TL-0552) – ĐÃ ĐỌC Definition & Terminology; Symptom Characterization & Role of Medical Trials; Role of Laryngoscopy; Laryngeal Hyperresponsiveness & Hypervigilance.",
+  "ARIA-EAACI 2024–2025 Part I (TL-0546) – thuốc co mạch nội mũi; AAO-HNSF Adult Sinusitis 2015 (TL-0157) – Potential Harms; EPOS 2020 (TL-0087) – Hình 1.4.1.",
+  "WHO AWaRe Antibiotic Book 2022 (TL-0018), Pharyngitis tr. 46–47; IDSA GAS Pharyngitis 2012 (TL-0158), khuyến cáo 3, 4; AAO-HNSF Tonsillectomy in Children 2019 (TL-0564); AGS Beers 2023 (TL-0022), Bảng 2 (PPI); ACG 2022 (TL-0212), khuyến cáo ngoài thực quản 2–3 (theo sổ mâu thuẫn TM-0248)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (21/11/2026) – viết: Sonnet. Tài liệu đã đọc: TL-0130 (các mục nêu trên), TL-0552, TL-0546, TL-0157, TL-0087, TL-0158, TL-0018, TL-0022 (theo sổ mâu thuẫn).",
+  "Thiếu trong tài liệu đã tải: hướng dẫn riêng cho người ≥ 75 tuổi và ngưỡng tuổi cho nội soi; cách ngưng co mạch (hẳn hay giảm dần), thời gian hết nghẹt hồi ứng, hình ảnh khám mũi của viêm mũi do thuốc; số lần súc họng bicarbonat mỗi ngày và thời gian cho viêm họng mạn; thời gian hồi phục, tiêu chí thất bại điều trị; dấu hiệu riêng của áp xe quanh amidan; chi phí nội soi; hướng dẫn cắt amidan cho người lớn. Các mốc tái khám 4 tuần, hẹn nội soi do biên tập chọn.",
+  "Mâu thuẫn: không có mục mới; dùng lại mục 'Mốc thời gian dùng thuốc xịt co mạch mũi' (HH-0007), 'Trào ngược họng - thanh quản' (TM-0248), 'PPI > 8 tuần ở ≥ 65 tuổi' (TH-0162), ghi nhận 'cắt amidan ở người lớn' và 'nội soi trước khi quy cho trào ngược' (TM-0248, TM-0261).",
+  "Kết cục (áp xe quanh amidan sau nội soi) là tình huống thiết kế, không có tỉ lệ trong tài liệu đã tải."
+ ]
+}
