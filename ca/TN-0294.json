@@ -1,0 +1,698 @@
+{
+ "ma_ca": "TN-0294",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-27)",
+ "benh": "TN_viem_nieu_dao_STI",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Viêm niệu đạo / bệnh lây qua đường TD",
+  "chan_doan_phai_loai_tru": [
+   "Nhiễm khuẩn tiết niệu",
+   "Viêm TLT"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Giấu tiền sử",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nhân viên bán thuốc",
+  "yeu_to_khoi_phat": "Sau gắng sức nặng",
+  "thuoc_dang_dung": "Thuốc ho thảo dược",
+  "ly_do_that_su_den_kham": "Sợ mắc lao"
+ },
+ "benh_nhan": {
+  "ten": "Võ Thị Bích Liên",
+  "tuoi": 48,
+  "gioi": "Nữ",
+  "nghe": "Nhân viên bán thuốc tại một quầy thuốc tư nhân gần chợ",
+  "can_nang": 52,
+  "chieu_cao": 155,
+  "xung_ho": "Bác sĩ gọi chị là 'chị Liên'. Chị tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhẹn, hay nói chuyện nghề thuốc ('tôi bán thuốc nên tôi biết'), tự ái chuyên môn, rất kín chuyện riêng vì sợ tiếng đồn trong khu chợ. Nói giảm, đổi đề tài khi bị hỏi chuyện nhạy cảm; dễ mở lòng nếu được hỏi riêng, nhẹ nhàng và được hứa giữ kín.",
+  "kieu_nhieu": "Giấu tiền sử: vào phòng khám chị tự chẩn đoán 'viêm đường tiểu do bê hàng nặng' và xin kháng sinh năm ngày; gạt mọi câu hỏi chung ('không có gì khác'), chỉ kể bạn tình khi bác sĩ hỏi riêng, không phán xét, có hứa giữ kín. Chuyện sợ lao chỉ lộ khi hỏi vì sao hôm nay đi khám. Lượt 2 vẫn còn một mảnh giấu: chị đã quan hệ lại khi đang uống thuốc.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#d9a982",
+   "toc": "#2b2420",
+   "kieuToc": "ngan",
+   "ao": "#9fb7a5",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Tiểu rát, đau bụng dưới và đau lưng sau khi khuân hàng nặng",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT. Có xét nghiệm, X-quang, siêu âm, xét nghiệm kép Chlamydia - lậu và Xpert cho kết quả trong ngày."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · chiều thứ Ba",
+   "tiep_don": "Nữ 48 tuổi, nhân viên bán thuốc, đến phòng khám một mình lúc 5 giờ chiều sau khi nhờ người trông quầy; tiểu rát năm ngày, đau bụng dưới và đau lưng từ sau khi khuân hàng nhập. Sinh hiệu lúc tiếp đón: mạch 80 l/p, HA 122/76 mmHg, nhiệt độ 36,9 °C, nhịp thở 17 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Liên bị giữ nằm viện dù viêm cổ tử cung - niệu đạo do Chlamydia chưa biến chứng: BYT điều trị chủ yếu ngoại trú, chỉ nội trú khi có biến chứng (QĐ 5165/2021 (TL-0499) mục 3.1; phác đồ uống ở QĐ 5169/2021 (TL-0498) mục 3.2.1). Quầy thuốc chỉ có chị và ông chủ đang ốm, đóng cửa nhiều ngày, chị mất thu nhập và rất sợ chuyện kín bị lộ giữa phòng bệnh chung, nên dễ bỏ về giữa chừng.",
+    "chuyen_tuyen": "Chị Liên bị chuyển lên tuyến trên để làm xét nghiệm lậu - Chlamydia và chụp phổi. Phòng khám đã có xét nghiệm kép trong ngày, X-quang ngực và Xpert (QĐ 5169/2021 mục 2.2; QĐ 162/2024 (TL-0123) Phần II mục 3.2.1), WHO khuyến cáo điều trị ngay trong buổi khám (WHO 2021 (TL-0502) mục 8.5). Chị mất nửa ngày đi lại, thuốc đến muộn khi vẫn còn lây cho bạn tình, và chị ngại nên có thể không đến nơi mới."
+   },
+   "loi_mo": "Bác sĩ ơi, mấy hôm nay tôi đi tiểu rát, hơi tức bụng dưới với đau lưng. Hôm kia tôi bê mấy thùng hàng nhập nặng quá, chắc gắng sức nên sinh ra vậy. Tôi bán thuốc nên cũng biết, chắc là viêm đường tiểu, bác sĩ kê cho tôi đợt kháng sinh năm ngày là được.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "122/76",
+    "nhiet": "36,9",
+    "nhip_tho": 17,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Năm ngày nay tiểu rát, nhất là cuối bãi; đi tiểu 7–8 lần ban ngày, hơi nhiều hơn thường nhưng không buồn tiểu gấp, không ra máu, không sốt, không đau hông. Tức nhẹ vùng bụng dưới âm ỉ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Triệu chứng đường tiểu dưới nhẹ, không có dấu hiệu viêm thận - bể thận, không tiểu gấp điển hình"
+    },
+    {
+     "id": "khi_hu",
+     "noi_dung": "Hơn một tuần nay khí hư vàng đục hơn trước, hơi dính quần lót, không hôi, không ngứa, không bọt. Có một lần ra ít máu hồng sau khi quan hệ, chị nghĩ do tuổi gần mãn kinh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiết dịch âm đạo - cổ tử cung bất thường và chảy máu sau quan hệ đi kèm tiểu khó (QĐ 5169/2021 mục 2.1.1)"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Hai tháng nay chị có quan hệ với anh Thành, nhân viên giao hàng của công ty dược, anh đã có vợ. Hai người không dùng bao cao su vì chị nghĩ 'tuổi này rồi, mà anh nói anh sạch'. Lần gần nhất cách đây chín ngày. Chị không quan hệ hậu môn hay đường miệng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị rất kín chuyện riêng. Chỉ kể khi bác sĩ hỏi riêng, nhẹ nhàng, không phán xét về bạn tình trong hai tháng qua và bao cao su, nhất là sau lời hứa giữ kín. Hỏi chung chung 'có gì khác không' thì chị nói không có.",
+     "k": 1,
+     "y": "Bạn tình mới trong 60 ngày, không bao cao su: phơi nhiễm đường tình dục"
+    },
+    {
+     "id": "chong",
+     "noi_dung": "Chồng chị làm tài xế xe tải đường dài, ít khi ở nhà. Mười hai ngày trước anh về ba đêm, hai vợ chồng quan hệ một lần, không bao cao su. Chị chưa nói gì với chồng và không biết ai nhiễm trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bạn tình thứ hai trong 60 ngày: phải được khám và điều trị (QĐ 5165/2021 mục 3.1)"
+    },
+    {
+     "id": "di_ung_kinh",
+     "noi_dung": "Không dị ứng thuốc. Kinh thưa và không đều hơn một năm nay, kỳ cuối khoảng năm tuần trước. Không đặt vòng, không uống thuốc tránh thai, không dùng thuốc nội tiết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khả năng có thai và dị ứng trước khi dùng doxycyclin"
+    },
+    {
+     "id": "gang_suc",
+     "noi_dung": "Hai ngày trước chị khuân khoảng hai chục thùng hàng, sau đó đau ê vùng thắt lưng hai bên, đau tăng khi cúi và hết đau khi nằm. Tiểu rát đã có từ ba ngày trước khi khuân hàng nhưng chị nhớ lẫn và cho rằng 'tại gắng sức'. Chị lo bàng quang bị 'sa' vì khuân nặng.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: gắng sức gây đau lưng cơ học trùng thời điểm, nhưng tiểu rát có trước"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Bốn tuần trước chị bị cảm cúm ba hôm rồi ho khan kéo dài đến nay, nặng vào buổi sáng, thỉnh thoảng khạc ít đờm trắng. Không sốt kéo dài, không ra mồ hôi đêm, không ho ra máu, không khó thở, cân nặng vẫn 52 kg. Chị uống siro ho thảo dược mua ở quầy hai tuần, 3 lần mỗi ngày, ho không đỡ rõ; không dùng thuốc nào khác, không dùng kháng sinh.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Ho bán cấp sau nhiễm virus; thuốc đang dùng là siro ho thảo dược"
+    },
+    {
+     "id": "ly_that",
+     "noi_dung": "Điều làm chị đi khám hôm nay: ông chủ quầy thuốc (67 tuổi) được chẩn đoán lao phổi, đờm có vi khuẩn lao, cách đây ba tuần. Chị ngồi chung quầy kín, bật máy lạnh với ông tám tiếng mỗi ngày gần bốn năm, nay lại ho ba tuần. Chị sợ mình bị lao, sợ nói ra bị chủ cho nghỉ và hàng xóm tránh mặt, nên lấy chuyện tiểu rát làm cớ đi khám.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi vì sao hôm nay chị chọn đi khám, chị lo điều gì nhất, hay hỏi tiếp về ho kéo dài và người quanh mình có ai mắc bệnh lao. Không tự nhắc.",
+     "k": 0,
+     "y": "Động cơ ẩn: sợ mắc lao do tiếp xúc nghề nghiệp"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, nói nhanh, hơi lo lắng, không sốt. Niêm mạc hồng. Hạch cổ, nách, bẹn không to.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ hạ vị, không đề kháng, không phản ứng dội, không cầu bàng quang, không khối.",
+     "k": 1,
+     "hien": "Bụng phẳng, không chướng."
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau, không dấu chạm thận; không đau trên xương mu.",
+     "k": 0
+    },
+    "co_xuong_khop": {
+     "a": "Cơ cạnh sống thắt lưng hai bên căng, ấn đau khu trú ở L4–L5; đau tăng khi cúi và nghiêng, giảm khi nằm; Lasègue âm tính; không yếu chi dưới; không đau khi gõ cột sống.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 17 l/p. Không co lõm. Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 17 l/p. Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "phu_khoa": {
+     "a": "Âm hộ không loét, không mụn nước. Mỏ vịt: âm đạo ít dịch, không bọt, không vón; cổ tử cung đỏ, dịch nhầy mủ vàng chảy ra từ lỗ cổ tử cung, chạm tăm bông thì chảy máu; không sa thành âm đạo hay cổ tử cung khi rặn. Khám hai tay: lắc cổ tử cung không đau, tử cung bình thường không đau, hai phần phụ không đau, không khối.",
+     "k": 1,
+     "hien": "Âm hộ không loét, không tổn thương da. Chị căng người và nhìn đi chỗ khác khi nằm tư thế khám."
+    }
+   },
+   "cls": {
+    "test_thai": {
+     "v": "u",
+     "r": "Âm tính.",
+     "n": "Trước khi dùng doxycyclin phải loại trừ thai: QĐ 5169/2021 mục 3.2.1 không dùng doxycyclin cho phụ nữ mang thai; WHO 2024 (TL-0501) Bảng 2 cũng ghi như vậy. Chị kinh còn, không tránh thai."
+    },
+    "ua": {
+     "v": "u",
+     "r": "Tổng phân tích nước tiểu: bạch cầu esterase 2+, nitrit âm tính, hồng cầu vết, protein vết; cặn: nhiều bạch cầu, không thấy vi khuẩn.",
+     "ab": 1,
+     "n": "Que nhúng giúp chẩn đoán viêm bàng quang khi chưa rõ (EAU 2026 (TL-0512) mục 3.4.3.d, khuyến cáo yếu); bạch cầu niệu đi cùng nitrit âm, không vi khuẩn gợi ý viêm niệu đạo - cổ tử cung hơn là nhiễm khuẩn tiết niệu (QĐ 5165/2021 mục 2.3.2)."
+    },
+    "soi_huyet_trang": {
+     "v": "u",
+     "r": "Soi tươi dịch âm đạo - cổ tử cung: nhiều bạch cầu (> 10/vi trường 400), không thấy Trichomonas, không thấy tế bào đầu mối, KOH không có sợi nấm.",
+     "ab": 1,
+     "n": "Bạch cầu > 10/vi trường 400 là chỉ điểm nhạy của viêm cổ tử cung, không có bạch cầu thì ít nghĩ viêm cổ tử cung (CDC STI 2021 (TL-0370) tr. 63); soi tươi còn tìm đồng nhiễm viêm âm đạo (QĐ 5165/2021 mục 2.3.2)."
+    },
+    "naat_sti": {
+     "v": "e",
+     "r": "Mẫu quệt âm đạo - cổ tử cung, xét nghiệm kép Chlamydia - lậu có kết quả trong ngày: dương tính C. trachomatis; âm tính N. gonorrhoeae.",
+     "ab": 1,
+     "n": "NAAT là xét nghiệm nhạy nhất, dùng được mẫu âm đạo, cổ tử cung hoặc nước tiểu (QĐ 5169/2021 mục 2.2; CDC 2021 tr. 65; WHO 2021 mục 8.4.5). WHO 2021 mục 8.5 (khuyến cáo mạnh) điều trị theo kết quả NAAT nếu có trong cùng buổi khám. Kết quả âm tính lậu nên không cần ceftriaxone."
+    },
+    "giang_mai": {
+     "v": "u",
+     "r": "RPR không phản ứng.",
+     "n": "Người mắc Chlamydia phải làm HIV, lậu và giang mai (CDC 2021 tr. 66); QĐ 5165/2021 mục 3.1: huyết thanh giang mai và HIV trước và sau điều trị."
+    },
+    "virus_mau": {
+     "v": "u",
+     "r": "HBsAg âm tính · Anti-HCV âm tính · HIV âm tính.",
+     "n": "HIV là mục BYT yêu cầu (QĐ 5165/2021 mục 3.1; CDC 2021 tr. 63, 66). Phơi nhiễm mới chín ngày, chưa loại trừ hẳn nên cần làm lại sau điều trị (mốc cụ thể: không có trong tài liệu đã tải)."
+    },
+    "cay_nuoc_tieu": {
+     "v": "a",
+     "r": "Cấy nước tiểu giữa dòng: gửi, kết quả sau 48 giờ, chưa có trong ngày.",
+     "n": "Không đổi quyết định hôm nay: không tiểu gấp, nitrit âm, có mủ cổ tử cung. EAU 2026 mục 3.4.3.d chỉ cấy khi nghi nhiễm khuẩn tiết niệu toàn thân, triệu chứng không điển hình hoặc không đáp ứng điều trị."
+    },
+    "abdus": {
+     "v": "a",
+     "r": "Siêu âm bụng: hai thận kích thước bình thường, không ứ nước, không sỏi; bàng quang thành mỏng, không tồn lưu nước tiểu.",
+     "n": "Cơ sở không có CT; đau lưng cơ học, không sốt, hố thắt lưng không đau nên không cần hình ảnh học, siêu âm chỉ để yên tâm. Chỉ định chụp hình trong đau lưng - tiểu rát: không có trong tài liệu STI đã tải."
+    },
+    "cxr": {
+     "v": "u",
+     "r": "X-quang ngực thẳng: hai phổi sáng, không đông đặc, không hang, không nốt, không hạch rốn phổi to; góc sườn hoành nhọn; bóng tim bình thường.",
+     "ab": 0,
+     "n": "Người ho trên 2 tuần là người nghi lao (QĐ 162/2024 (TL-0123) Phần II mục 1.1a Bảng 1) nên chụp X-quang ngực và làm xét nghiệm vi sinh (Sơ đồ 1, mục 3.2.1). X-quang không nghi lao thì tìm nguyên nhân khác (Sơ đồ 1). Ho 3–8 tuần sau nhiễm hô hấp trên với X-quang bình thường: nghĩ ho sau nhiễm (CHEST/ACCP 2006 (TL-0160), tóm tắt)."
+    },
+    "xpert": {
+     "v": "u",
+     "r": "Một mẫu đờm buổi sáng (ít, nhầy): Xpert MTB/RIF không phát hiện MTB.",
+     "ab": 0,
+     "n": "Xét nghiệm sinh học phân tử là phương tiện chẩn đoán ban đầu (QĐ 162/2024 mục 3.2.1, 3.2.2). Xpert âm tính kèm X-quang bình thường và lâm sàng khớp ho sau nhiễm là đủ để hiện chưa nghĩ lao; vẫn dặn quay lại nếu ho kéo dài hay có dấu nghi lao. Soi AFB ngoại trú cần 2 mẫu cách nhau ít nhất 2 giờ (mục 3.2.2)."
+    },
+    "igra": {
+     "v": "a",
+     "r": "Gửi mẫu Quantiferon, kết quả sau 2 ngày: âm tính.",
+     "n": "Người làm việc cùng phòng với người bệnh lao phổi thuộc nhóm nguy cơ cao mắc lao tiềm ẩn; chẩn đoán lao tiềm ẩn dựa vào IGRA hoặc Mantoux dương tính và loại trừ lao hoạt động (QĐ 162/2024 Phần IV mục 1.1.1, 1.2.2). Mốc thời gian làm test sau phơi nhiễm và việc lặp lại khi âm tính: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm cổ tử cung - niệu đạo cấp do Chlamydia trachomatis, chưa biến chứng",
+     "ok": 1,
+     "n": "Ở nữ Chlamydia có triệu chứng thì là tiết dịch âm đạo bất thường, tiểu khó, chảy máu khi quan hệ, viêm cổ tử cung (QĐ 5169/2021 mục 2.1.1); khám có mủ cổ tử cung, dễ chảy máu, bạch cầu > 10/vi trường (CDC 2021 tr. 63; WHO 2021 mục 8.4.3); bạn tình mới không bao cao su; NAAT dương tính Chlamydia, âm tính lậu. Không có tiêu chuẩn viêm vùng chậu (CDC 2021 tr. 94)."
+    },
+    {
+     "t": "Ho bán cấp sau nhiễm virus, chưa có bằng chứng lao phổi",
+     "ok": 1,
+     "n": "Ho trên 2 tuần buộc phải loại trừ lao (QĐ 162/2024 Phần II mục 1.1a). X-quang bình thường và Xpert âm tính, không sốt kéo dài, không gầy sút: hướng ho sau nhiễm 3–8 tuần (CHEST/ACCP 2006 (TL-0160)). Mốc mở lại: ho kéo dài, sốt chiều, ra mồ hôi đêm, sụt cân, ho ra máu."
+    },
+    {
+     "t": "Nhiễm khuẩn tiết niệu (viêm bàng quang)",
+     "n": "Chẩn đoán viêm bàng quang khi có triệu chứng tiểu và không có khí hư (EAU 2026 mục 3.4.3.a, d). Chị có khí hư vàng và mủ cổ tử cung, không tiểu gấp, nitrit âm, cặn không vi khuẩn. Mốc mở lại: tiểu gấp, tiểu nhiều lần, tiểu máu đỏ, sốt, đau hông lưng."
+    },
+    {
+     "t": "Viêm tuyến tiền liệt (khung loại trừ của sổ cái)",
+     "n": "Phụ nữ không có tuyến tiền liệt nên loại trừ về giải phẫu; tiểu rát kèm khí hư ở nữ gợi ý viêm cổ tử cung - âm đạo (WHO 2021 mục 8.4.2). Tài liệu đã tải không nêu bệnh tương đương ở nữ."
+    },
+    {
+     "t": "Lậu hoặc viêm âm đạo do Trichomonas, vi khuẩn, nấm",
+     "n": "Cần phân biệt (QĐ 5165/2021 mục 2.3.2; QĐ 5169/2021 mục 2.4). NAAT âm tính lậu; soi tươi không thấy Trichomonas, tế bào đầu mối, sợi nấm; khí hư không bọt, không vón, không ngứa."
+    },
+    {
+     "t": "Viêm vùng chậu",
+     "n": "Viêm cổ tử cung có thể là dấu nhiễm khuẩn lên cao nên phải tìm dấu viêm vùng chậu (CDC 2021 tr. 63). Không đau bụng dưới rõ, không sốt, lắc cổ tử cung, ấn tử cung và phần phụ không đau: chưa đủ 1 trong 3 tiêu chuẩn tối thiểu (CDC 2021 tr. 94). Mốc mở lại: đau bụng dưới tăng, sốt, đau khi quan hệ."
+    },
+    {
+     "t": "Đau lưng cơ học sau khuân hàng; viêm thận - bể thận, sỏi niệu, sa tạng chậu",
+     "n": "Đau ê cạnh sống, tăng khi cúi, giảm khi nằm, hố thắt lưng không đau, không sốt, siêu âm thận bình thường; khám mỏ vịt không sa. Tiểu rát có trước khuân hàng nên gắng sức chỉ là nhiễu về thời điểm. Cơ sở không có CT, thay bằng khám lâm sàng, nước tiểu và siêu âm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng tư về tình dục: bạn tình trong 60 ngày (kể cả chồng), bao cao su; hứa giữ kín, giọng không phán xét",
+     "v": "c",
+     "n": "CDC 2021 tr. 2: kỹ năng phỏng vấn tôn trọng, không phán xét, câu hỏi mở và Box 1 (5 chữ P: bạn tình, thực hành, phòng ngừa, tiền sử, ý định có thai); QĐ 5165/2021 mục 2.3.1: tiền sử quan hệ không an toàn; WHO 2021 mục 8.5: khai thác tiền sử y khoa, tình dục và đánh giá nguy cơ STI."
+    },
+    {
+     "t": "Khám phụ khoa: mỏ vịt và khám hai tay (lắc cổ tử cung, tử cung, phần phụ)",
+     "v": "c",
+     "n": "WHO 2021 mục 8.5 (thực hành tốt): khám bụng, chậu, mỏ vịt, hai tay để loại viêm vùng chậu; CDC 2021 tr. 63: tìm mủ cổ tử cung, cổ tử cung dễ chảy máu và dấu viêm vùng chậu."
+    },
+    {
+     "t": "Phân biệt viêm niệu đạo - cổ tử cung với viêm bàng quang bằng nước tiểu, soi tươi và NAAT kép Chlamydia - lậu",
+     "v": "c",
+     "n": "EAU 2026 mục 3.4.3: viêm bàng quang khi không có khí hư; QĐ 5165/2021 mục 2.3.2; NAAT độ nhạy trên 90% (QĐ 5165/2021 mục 2.2.3; QĐ 5169/2021 mục 2.2); WHO 2021 mục 8.5."
+    },
+    {
+     "t": "Điều trị trong cùng ngày theo kết quả NAAT kép (có trong ngày), HOẶC điều trị kinh nghiệm ngay phủ cả lậu và Chlamydia khi không đợi được",
+     "v": "c",
+     "n": "WHO 2021 mục 8.5 (mạnh): điều trị cùng buổi, ưu tiên theo xét nghiệm phân tử nếu có kết quả cùng ngày; CDC 2021 tr. 63: điều trị kinh nghiệm cho phụ nữ nguy cơ cao (bạn tình mới) hoặc khi khó hẹn lại; QĐ 5165/2021 mục 2.3.1: cơ sở thiếu xét nghiệm điều trị theo lâm sàng. Khác nhau vì nguồn lực: WHO/BYT viết cho tuyến hạn chế xét nghiệm, EAU/CDC cho nơi có NAAT nhanh."
+    },
+    {
+     "t": "NAAT chỉ dương tính Chlamydia: doxycyclin 100 mg × 2 lần/ngày × 7 ngày HOẶC azithromycin 1 g uống liều đơn",
+     "v": "c",
+     "n": "QĐ 5169/2021 mục 3.2.1: cả hai là phác đồ ưu tiên; CDC 2021 tr. 65 và WHO 2024 Bảng 2: doxycyclin 7 ngày là lựa chọn đầu, azithromycin khi khó tuân thủ; EAU 2026 mục 3.10.5.d.1: doxycyclin đầu tay. Khác nhau vì năm và bằng chứng (azithromycin kém hơn về thất bại vi sinh)."
+    },
+    {
+     "t": "Thử thai trước khi dùng doxycyclin",
+     "v": "c",
+     "n": "QĐ 5169/2021 mục 3.2.1: không dùng doxycyclin, tetracyclin, ofloxacin cho phụ nữ mang thai; chị kinh thưa, không tránh thai."
+    },
+    {
+     "t": "Điều trị bạn tình trong 60 ngày (anh Thành và chồng chị), kiêng quan hệ đến khi chị và bạn tình điều trị xong, giữ bí mật cho chị",
+     "v": "c",
+     "n": "QĐ 5165/2021 mục 3.1 (bạn tình 60 ngày; kiêng trong lúc điều trị và 7 ngày sau); QĐ 5169/2021 mục 3.1 (7 ngày sau bắt đầu điều trị); CDC 2021 tr. 66 (đến khi hết phác đồ, hết triệu chứng và mọi bạn tình đã điều trị); EAU 2026 mục 3.10.5 (đánh giá bạn tình, giữ bí mật). Mốc thận trọng hơn: đến khi cả hai bên xong thuốc và hết triệu chứng."
+    },
+    {
+     "t": "Xét nghiệm HIV và giang mai (lậu đã có trong NAAT)",
+     "v": "c",
+     "n": "QĐ 5165/2021 mục 3.1; CDC 2021 tr. 63, 66."
+    },
+    {
+     "t": "Hỏi vì sao hôm nay chị đi khám, lo điều gì; hỏi tiếp ho kéo dài và tiếp xúc người bệnh lao",
+     "v": "c",
+     "n": "Câu hỏi mở (CDC 2021 tr. 2). Ho trên 2 tuần là triệu chứng nghi lao quan trọng nhất (QĐ 162/2024 Phần II mục 1.1a Bảng 1); người làm việc cùng phòng với người bệnh lao phổi là người tiếp xúc (Phần I mục 1.5)."
+    },
+    {
+     "t": "Chụp X-quang ngực và Xpert đờm cho người ho trên 2 tuần có tiếp xúc nguồn lây",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần II mục 3.2.1, Sơ đồ 1: X-quang ngực và xét nghiệm vi sinh khi có triệu chứng nghi lao; X-quang không nghi lao thì tìm nguyên nhân khác."
+    },
+    {
+     "t": "Ho sau nhiễm: giải thích, không kê kháng sinh, hẹn xem lại nếu ho kéo dài",
+     "v": "c",
+     "n": "CHEST/ACCP 2006 (TL-0160), tóm tắt: ho 3–8 tuần với X-quang bình thường nghĩ ho sau nhiễm; trừ viêm xoang vi khuẩn hay ho gà giai đoạn sớm, kháng sinh không có vai trò."
+    },
+    {
+     "t": "Hẹn tái khám sau khi hết thuốc để xem viêm cổ tử cung đã hết; dặn quay lại ngay nếu đau bụng dưới, sốt, khí hư tăng",
+     "v": "c",
+     "n": "CDC 2021 tr. 63–64: người điều trị viêm cổ tử cung quay lại để xác định đã hết viêm; QĐ 5169/2021 mục 3.1: còn triệu chứng sau phác đồ thì tái khám. Ngày hẹn chính xác: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Làm IGRA hoặc Mantoux cho người tiếp xúc, sau khi loại trừ lao hoạt động",
+     "v": "a",
+     "n": "QĐ 162/2024 Phần IV mục 1.1.1, 1.2.2. Thời điểm làm và việc lặp lại: không có trong tài liệu đã tải; cho thuốc phòng lao tiềm ẩn khi chưa có kết quả: không có trong tài liệu."
+    },
+    {
+     "t": "Đau lưng cơ học: giải thích, tránh khuân vác nặng vài ngày; paracetamol khi đau",
+     "v": "a",
+     "n": "QĐ 361/2014 (TL-0286) Hội chứng đau thắt lưng mục 4.2.1: paracetamol 0,5 g × 4–6 viên/24 giờ, tối đa 4 g; NICE NG59 (TL-0372) khuyến cáo 1.2.1 (tư vấn tự quản lý) và 1.2.26 (không dùng paracetamol đơn độc), nên tư vấn hoạt động là chính, thuốc chỉ hỗ trợ."
+    },
+    {
+     "t": "Kê kháng sinh 3–5 ngày cho viêm bàng quang như chị xin mà không khám phụ khoa, không làm NAAT",
+     "v": "w",
+     "n": "EAU 2026 mục 3.4.3: viêm bàng quang chỉ khi không có khí hư; chị có khí hư vàng và mủ cổ tử cung. Đợt ngắn không phải phác đồ Chlamydia (7 ngày hoặc azithromycin 1 g: QĐ 5169/2021 mục 3.2.1) nên bỏ sót STI, nguy cơ viêm vùng chậu, vô sinh (QĐ 5169/2021 mục I) và để bạn tình lây tiếp."
+    },
+    {
+     "t": "Cho thuốc chống lao thử vì chị tiếp xúc người bệnh lao và ho ba tuần",
+     "v": "w",
+     "n": "Chẩn đoán lao không có bằng chứng vi khuẩn cần triệu chứng, X-quang bất thường nghi lao, loại trừ nấm phổi và không đáp ứng kháng sinh ngoài lao (QĐ 162/2024 Phần II mục 3.2.2, Sơ đồ 1). Chị X-quang bình thường, Xpert âm tính nên không có chỉ định."
+    },
+    {
+     "t": "Tự báo tin cho chồng chị hoặc ông chủ quầy mà chưa được chị đồng ý",
+     "v": "w",
+     "n": "Bạn tình cần được đánh giá và điều trị nhưng phải giữ bí mật cho người bệnh (EAU 2026 mục 3.10.5). Bác sĩ hướng dẫn chị cách tự báo hoặc dùng giấy mời cho bạn tình (CDC 2021 tr. 66)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm cổ tử cung - niệu đạo cấp do Chlamydia trachomatis (NAAT dương tính), không đồng nhiễm lậu, chưa biến chứng, chưa có dấu viêm vùng chậu",
+     "Đã loại trừ: nhiễm khuẩn tiết niệu (viêm bàng quang), viêm thận - bể thận hoặc sỏi niệu, lậu, viêm âm đạo do Trichomonas/vi khuẩn/nấm, viêm vùng chậu, sa tạng chậu; lao phổi tại thời điểm này (X-quang bình thường, Xpert âm tính); viêm tuyến tiền liệt không áp dụng ở nữ",
+     "Nền và nhiễu: ho bán cấp sau nhiễm virus, đau lưng cơ học sau khuân hàng, tiếp xúc nghề nghiệp với người bệnh lao phổi, tự chẩn đoán viêm đường tiểu; hai bạn tình (anh Thành và chồng) chưa điều trị; HIV và giang mai âm tính lần đầu"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi triệu chứng tiểu và khí hư → hỏi riêng về bạn tình, bao cao su → hỏi dị ứng, kinh nguyệt, thuốc đang dùng → hỏi vì sao hôm nay đi khám và ho kéo dài → khám bụng, hố thắt lưng, cột sống, phổi, khám phụ khoa mỏ vịt và hai tay → xét nghiệm thai, nước tiểu, soi tươi, NAAT, HIV, giang mai, X-quang ngực, Xpert → chẩn đoán → điều trị cùng ngày.",
+     "Chlamydia ở nữ thường không triệu chứng (70%), khi có triệu chứng là khí hư, tiểu khó, chảy máu khi quan hệ (QĐ 5169/2021 (TL-0498) mục 2.1.1). Viêm bàng quang chỉ chẩn đoán khi tiểu rát mà không có khí hư (EAU 2026 (TL-0512) mục 3.4.3): chị vừa tiểu rát vừa có khí hư vàng nên không thể gọi là 'viêm đường tiểu' dù chị bán thuốc.",
+     "Mủ cổ tử cung, cổ tử cung dễ chảy máu và bạch cầu > 10/vi trường 400 là viêm cổ tử cung (CDC STI 2021 (TL-0370) tr. 63; WHO 2021 (TL-0502) mục 8.4.3). Lắc cổ tử cung, ấn tử cung, phần phụ không đau nên chưa viêm vùng chậu (CDC 2021 tr. 94).",
+     "Đau lưng là nhiễu về thời điểm: tiểu rát có trước khuân hàng, đau lưng cơ học tăng khi cúi, hố thắt lưng không đau, siêu âm thận bình thường. Không có CT nên dùng lâm sàng và siêu âm; mốc chuyển tuyến nếu sốt, đau hông lưng, tiểu máu đại thể (suy từ tiêu chuẩn viêm thận - bể thận, EAU 2026 mục 3.4.3.d).",
+     "Chị giấu chuyện bạn tình vì xấu hổ và sợ tiếng đồn; hỏi riêng, nhẹ nhàng, hứa giữ kín thì chị nói (CDC 2021 tr. 2). Động cơ thật là sợ lao: ho trên 2 tuần và làm việc cùng phòng với người bệnh lao phổi (QĐ 162/2024 (TL-0123) Phần I mục 1.5, Phần II mục 1.1a); X-quang bình thường và Xpert âm tính nên tìm nguyên nhân khác (Sơ đồ 1), phù hợp ho sau nhiễm 3–8 tuần (CHEST/ACCP 2006 (TL-0160))."
+    ],
+    "phan_tich_xu_tri": [
+     "Điều trị cùng ngày: WHO 2021 mục 8.5 điều trị theo NAAT cùng buổi khám, CDC 2021 tr. 63 cho điều trị kinh nghiệm khi nguy cơ cao; cả hai đều đúng, khác nhau theo nguồn lực xét nghiệm. NAAT âm tính lậu nên không cần ceftriaxone (QĐ 5165/2021 (TL-0499) mục 3.2.1 chỉ cho lậu).",
+     "Chlamydia sinh dục không biến chứng: doxycyclin 100 mg × 2 lần/ngày × 7 ngày hoặc azithromycin 1 g liều đơn (QĐ 5169/2021 mục 3.2.1); CDC 2021 tr. 65 và WHO 2024 (TL-0501) Bảng 2 ưu tiên doxycyclin, azithromycin khi khó tuân thủ; EAU 2026 mục 3.10.5.d.1 doxycyclin đầu tay, azithromycin 1 g khi chống chỉ định doxycyclin. Chị làm việc bận, ít hẹn lại được thì azithromycin liều đơn là lựa chọn hợp lý.",
+     "Bạn tình trong 60 ngày phải được khám và điều trị (QĐ 5165/2021 mục 3.1; CDC 2021 tr. 66). Anh Thành và chồng chị đều trong khoảng này. Kiêng quan hệ: trong lúc điều trị và 7 ngày sau (QĐ 5165/2021), 7 ngày sau bắt đầu điều trị (QĐ 5169/2021 mục 3.1), hoặc đến khi hết phác đồ, hết triệu chứng và bạn tình đã điều trị (CDC 2021 tr. 66); mốc dài hơn là cách thận trọng hơn.",
+     "HIV và giang mai: làm trước và sau điều trị (QĐ 5165/2021 mục 3.1). Hẹn tái khám sau khi hết thuốc để xem cổ tử cung đã hết viêm (CDC 2021 tr. 63–64).",
+     "Lao: không cho thuốc chống lao thử khi X-quang bình thường (QĐ 162/2024 Sơ đồ 1, mục 3.2.2). IGRA hoặc Mantoux để tìm lao tiềm ẩn ở người tiếp xúc, chỉ làm sau khi đã loại trừ lao hoạt động (Phần IV mục 1.2.2). Thuốc ho thảo dược đang dùng: hiệu quả và tương tác với doxycyclin không có trong tài liệu đã tải; chị có thể ngưng khi hết ho."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Doxycyclin",
+      "ham_luong": "Viên 100 mg",
+      "lieu": "100 mg × 2 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng và tối; uống liều đầu ngay tại phòng khám",
+      "so_ngay": "7 ngày (14 viên, phát đủ)",
+      "ghi_chu": "QĐ 5169/2021 mục 3.2.1; CDC 2021 tr. 65; WHO 2024 Bảng 2. Thử thai âm tính. Cách uống và tác dụng phụ: không có trong tài liệu đã tải. Hoặc dùng azithromycin 1 g liều đơn thay cho doxycyclin."
+     },
+     {
+      "thuoc": "Azithromycin (lựa chọn thay thế doxycyclin, không dùng cùng lúc)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "1 g (2 viên) liều duy nhất",
+      "duong": "Uống",
+      "thoi_diem": "Uống tại phòng khám, có người nhìn",
+      "so_ngay": "1 liều duy nhất",
+      "ghi_chu": "QĐ 5169/2021 mục 3.2.1; CDC 2021 tr. 65 (dễ tuân thủ nhưng kém doxycyclin hơn ở một số vị trí); WHO 2024 Bảng 2 (khi khó tuân thủ). Không có trong tài liệu đã tải: tương tác với thuốc ho thảo dược."
+     },
+     {
+      "thuoc": "Paracetamol (nếu đau lưng, không bắt buộc)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "0,5 g × 4–6 viên/24 giờ chia 3 lần, tối đa 4 g/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sau ăn khi đau",
+      "so_ngay": "Vài ngày, ngưng khi hết đau",
+      "ghi_chu": "QĐ 361/2014 mục 4.2.1. NICE NG59 khuyến cáo 1.2.26 không dùng paracetamol đơn độc nên điều trị chính là tư vấn tránh khuân vác nặng, giữ vận động nhẹ."
+     },
+     {
+      "thuoc": "Siro ho thảo dược (đang dùng, không kê thêm)",
+      "ham_luong": "Theo hộp chị đang dùng",
+      "lieu": "Giữ nguyên hoặc ngưng khi hết ho",
+      "duong": "Uống",
+      "thoi_diem": "Theo chị đang dùng",
+      "so_ngay": "Ngưng khi hết ho",
+      "ghi_chu": "Hiệu quả và an toàn của thuốc thảo dược: không có trong tài liệu đã tải. Không kê kháng sinh cho ho sau nhiễm (CHEST/ACCP 2006)."
+     }
+    ],
+    "dan_do": [
+     "Uống đủ 14 viên doxycyclin dù hết rát; không tự dùng thêm kháng sinh khác (QĐ 5169/2021 mục 3.2.1, 3.1).",
+     "Không quan hệ trong lúc điều trị cho đến khi chị và cả hai bạn tình đều đã điều trị xong; dùng bao cao su về sau (QĐ 5165/2021 mục 3.1, 4; CDC 2021 tr. 66). Anh Thành và chồng chị cần khám, xét nghiệm, điều trị; chuyện này bác sĩ giữ kín, chị chọn cách báo (tự nói hoặc đưa giấy mời).",
+     "Tái khám sau khi hết thuốc (khoảng 8–10 ngày), mang theo vỉ thuốc. Quay lại ngay nếu đau bụng dưới, sốt, khí hư tăng, ra máu âm đạo nhiều (CDC 2021 tr. 63–64).",
+     "HIV và giang mai làm lại sau điều trị (QĐ 5165/2021 mục 3.1); thời điểm cụ thể: không có trong tài liệu đã tải.",
+     "Nếu ho kéo dài thêm, sốt chiều, ra mồ hôi đêm, sụt cân hoặc ho ra máu thì đến khám lại để làm lại Xpert và X-quang (QĐ 162/2024 Phần II mục 1.1a Bảng 1). Kết quả IGRA hẹn sau 2 ngày. Nên nói với trung tâm kiểm soát bệnh tật rằng chị làm việc cùng ông chủ quầy.",
+     "Tránh khuân vác nặng vài ngày, vận động nhẹ khi đỡ đau (QĐ 361/2014 mục 4.2.1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · chiều thứ Năm (chín ngày sau)",
+   "tiep_don": "Chị Liên trở lại chiều thứ Năm tuần sau, chín ngày sau lượt 1, một mình. Hôm lượt 1 chị đã được xử trí đúng: NAAT dương tính Chlamydia, âm tính lậu, HIV và RPR âm tính, X-quang ngực, Xpert và IGRA âm tính; chị uống doxycyclin 7 ngày. Chị báo hết rát, hết khí hư, ho đã thưa. Sinh hiệu lúc tiếp đón: mạch 76 l/p, HA 118/74 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Chị Liên bị giữ nhập viện dù đã hết triệu chứng, khám bình thường, không sốt và đã uống đủ thuốc. Không có chỉ định nội trú cho nhiễm Chlamydia không biến chứng (QĐ 5169/2021 (TL-0498) mục 3.1, 3.3). Chị mất thêm ngày công, phải kể lý do cho người trông quầy, và việc cần làm thật sự là báo bạn tình, xét nghiệm lại đúng thời điểm vẫn bị bỏ ngỏ.",
+    "chuyen_tuyen": "Chị Liên bị chuyển lên tuyến trên 'để xét nghiệm khỏi bệnh' hoặc khám chuyên khoa. Khi đã hết triệu chứng, không có chỉ định test khỏi bệnh sớm (CDC STI 2021 (TL-0370) tr. 66); tuyến trên cũng làm lại đúng các xét nghiệm đó ở thời điểm dễ dương tính giả. Chị tốn tiền, lo thêm và dễ bỏ luôn việc báo bạn tình."
+   },
+   "loi_mo": "Bác sĩ ơi, tôi uống hết thuốc rồi, hết rát hết khí hư rồi, ho cũng thưa. Bác sĩ thử lại cho tôi một cái hôm nay cho chắc, tôi yên tâm rồi tôi mới dám đi làm lại bình thường.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "118/74",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Từ ngày thứ hai của thuốc hết rát, khí hư trong dần và hết từ ngày thứ năm, hết tức bụng dưới. Đau lưng đã hết sau ba ngày nghỉ khuân vác. Ho thưa dần, chỉ còn thỉnh thoảng buổi sáng, không sốt, không ra mồ hôi đêm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng lâm sàng đầy đủ sau điều trị Chlamydia"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Chị uống đủ 14 viên doxycyclin, không bỏ liều nào, hơi buồn nôn hai ngày đầu. Không còn viên thừa.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ điều trị tốt, không nghĩ thất bại điều trị do uống thiếu"
+    },
+    {
+     "id": "quan_he_lai",
+     "noi_dung": "Ngày thứ tư của thuốc anh Thành rủ gặp. Anh bảo hôm trước anh đã mua một liều thuốc uống một lần ở tiệm bạn và uống rồi, nên hai người quan hệ không bao cao su. Chị cũng nghĩ 'uống thuốc rồi' nên bỏ qua. Từ đó chị không gặp lại anh.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chị xấu hổ vì đã hứa kiêng mà không giữ được. Hỏi chung 'có kiêng đủ không' thì chị trả lời 'dạ có'. Chỉ kể khi bác sĩ hỏi lại không phán xét, chẳng hạn nói nhiều người khó giữ được hẹn kiêng, rồi hỏi cụ thể từ ngày bắt đầu thuốc có quan hệ lần nào không.",
+     "k": 1,
+     "y": "Nguy cơ tái nhiễm; quyết định thời điểm xét nghiệm lại"
+    },
+    {
+     "id": "chong_ban_tinh",
+     "noi_dung": "Chồng gọi điện, khoảng bốn tuần nữa mới về. Chị chưa nói gì, rất sợ. Chị hỏi bác sĩ có thể cho thuốc để chị đưa chồng uống khi về, khỏi phải nói lý do. Anh Thành chỉ uống một liều thuốc mua ở tiệm, chưa đi khám, chưa thử HIV và giang mai.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bạn tình chưa điều trị đầy đủ: nguy cơ tái nhiễm"
+    },
+    {
+     "id": "muon_thu_lai",
+     "noi_dung": "Chị muốn thử lại ngay hôm nay vì ở tiệm khách vẫn hay hỏi và chị muốn chắc là hết hẳn mới yên tâm. Chị chưa nghe nói xét nghiệm có thể dương tính dù đã khỏi.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: muốn xét nghiệm lại quá sớm; hiểu 'khỏi' là phải âm tính ngay"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui hơn lượt trước, không sốt. Niêm mạc hồng.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau hạ vị, không đề kháng, không cầu bàng quang.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p. Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 16 l/p. Lồng ngực cân đối, rung thanh đều, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "phu_khoa": {
+     "a": "Âm hộ không loét. Mỏ vịt: cổ tử cung hồng, dịch trong, không còn mủ, không chảy máu khi chạm tăm bông. Khám hai tay: lắc cổ tử cung không đau, tử cung và hai phần phụ không đau, không khối.",
+     "k": 1,
+     "hien": "Âm hộ không loét. Chị bớt căng thẳng hơn lượt trước khi nằm tư thế khám."
+    }
+   },
+   "cls": {
+    "naat_sti": {
+     "v": "n",
+     "r": "Xét nghiệm kép: dương tính C. trachomatis (tải lượng thấp); âm tính N. gonorrhoeae.",
+     "n": "Làm NAAT dưới 4 tuần sau hoàn thành điều trị không khuyến cáo vì vi khuẩn chết còn trong mẫu gây dương tính giả (CDC STI 2021 (TL-0370) tr. 66); kết quả dương tính hôm nay không phân biệt được vi khuẩn chết, thất bại điều trị hay tái nhiễm do quan hệ ngày thứ tư. Test khỏi bệnh không khuyến cáo khi đã đỡ, trừ nghi tái nhiễm hoặc tuân thủ kém (CDC tr. 66)."
+    },
+    "soi_huyet_trang": {
+     "v": "a",
+     "r": "Soi tươi dịch âm đạo - cổ tử cung: bạch cầu ≤ 10/vi trường 400, không Trichomonas, không tế bào đầu mối.",
+     "n": "Không có bạch cầu thì ít nghĩ viêm cổ tử cung còn tồn tại (CDC 2021 tr. 63); khám đã bình thường nên làm hay không đều chấp nhận."
+    },
+    "virus_mau": {
+     "v": "a",
+     "r": "HBsAg âm tính · Anti-HCV âm tính · HIV âm tính.",
+     "n": "HIV và giang mai làm sau điều trị (QĐ 5165/2021 (TL-0499) mục 3.1) nhưng chị có phơi nhiễm lại ngày thứ tư của thuốc nên cửa sổ chưa qua; mốc làm lại: không có trong tài liệu đã tải."
+    },
+    "giang_mai": {
+     "v": "a",
+     "r": "RPR không phản ứng.",
+     "n": "Như HIV: làm sau điều trị theo QĐ 5165/2021 mục 3.1; kết quả âm tính hôm nay chưa loại trừ hẳn do phơi nhiễm lại ngày thứ tư."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm cổ tử cung - niệu đạo do Chlamydia trachomatis đã khỏi lâm sàng sau điều trị đủ; nguy cơ tái nhiễm vì phơi nhiễm lại và bạn tình chưa điều trị",
+     "ok": 1,
+     "n": "Hết triệu chứng, cổ tử cung hết mủ, uống đủ thuốc: khỏi lâm sàng, không nghĩ thất bại điều trị (QĐ 5169/2021 mục 3.1: chỉ tái khám đánh giá khi còn triệu chứng sau phác đồ). Phần lớn nhiễm lại sau điều trị là tái nhiễm do bạn tình chưa điều trị hoặc bạn tình mới nhiễm, không phải thất bại (CDC 2021 tr. 66)."
+    },
+    {
+     "t": "Thất bại điều trị hoặc đề kháng",
+     "n": "Hết triệu chứng, tuân thủ đủ 14 viên; tiêu chuẩn thất bại điều trị nói trong tài liệu là còn triệu chứng sau phác đồ (QĐ 5169/2021 mục 3.1). NAAT dương tính nếu làm sớm không đủ để kết luận (CDC 2021 tr. 66)."
+    },
+    {
+     "t": "Viêm vùng chậu",
+     "n": "Không đau bụng dưới, không sốt, lắc cổ tử cung, tử cung, phần phụ không đau (CDC 2021 tr. 94)."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Ho đã thưa, X-quang bình thường, Xpert và IGRA âm tính ở lượt 1; dặn quay lại nếu có dấu nghi lao (QĐ 162/2024 (TL-0123) Phần II mục 1.1a Bảng 1). Mốc làm lại IGRA: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lại về tuân thủ, triệu chứng, và chuyện quan hệ từ ngày bắt đầu thuốc, giọng không phán xét; hỏi tình trạng điều trị của bạn tình",
+     "v": "c",
+     "n": "Câu hỏi không phán xét, cụ thể (CDC 2021 tr. 2); phần lớn nhiễm lại do bạn tình chưa điều trị hoặc quan hệ với bạn tình mới nhiễm (CDC 2021 tr. 66); QĐ 5169/2021 mục 3.1."
+    },
+    {
+     "t": "Khám phụ khoa lại để xác nhận viêm cổ tử cung đã hết",
+     "v": "c",
+     "n": "CDC 2021 tr. 63–64: người được điều trị quay lại để xác định viêm cổ tử cung đã hết."
+    },
+    {
+     "t": "Xác nhận khỏi bằng lâm sàng (hết triệu chứng, khám bình thường, uống đủ thuốc); không kê thêm kháng sinh, không kéo dài doxycyclin",
+     "v": "c",
+     "n": "QĐ 5169/2021 mục 3.1: tái khám đánh giá lại chỉ khi còn triệu chứng sau phác đồ; CDC 2021 tr. 66: phần lớn nhiễm lại là tái nhiễm, không phải thất bại."
+    },
+    {
+     "t": "Không làm lại NAAT hôm nay; hẹn NAAT khoảng 4 tuần sau khi hết thuốc vì nghi tái nhiễm, HOẶC xét nghiệm khỏi bệnh 6–12 tuần; và dù thế nào cũng xét nghiệm lại sau 3 tháng",
+     "v": "c",
+     "n": "CDC 2021 tr. 66: test khỏi bệnh (NAAT ≥ 4 tuần sau hết thuốc) chỉ khi nghi tái nhiễm, tuân thủ kém hoặc còn triệu chứng; NAAT < 4 tuần dễ dương tính giả; retest 3 tháng (CDC tr. 64, 66; QĐ 5169/2021 mục 3.3). EAU 2026 (TL-0512) mục 3.10.6: test khỏi bệnh 6–12 tuần sau điều trị. Khác nhau vì mục đích (xác nhận khỏi so với tìm tái nhiễm) và hội ban hành."
+    },
+    {
+     "t": "Điều trị bạn tình: anh Thành (khám, xét nghiệm đầy đủ, điều trị đúng phác đồ) và chồng chị; kiêng quan hệ đến khi cả hai xong và hết triệu chứng; không quan hệ không bao cao su",
+     "v": "c",
+     "n": "QĐ 5165/2021 mục 3.1; QĐ 5169/2021 mục 3.1; CDC 2021 tr. 66 (kiêng đến khi bạn tình điều trị xong). Anh Thành chỉ uống một liều không rõ thuốc nên chưa chắc đã điều trị đủ."
+    },
+    {
+     "t": "Hẹn xét nghiệm lại sau 3 tháng, ghi hẹn ngay hôm nay; HIV và giang mai làm lại sau điều trị",
+     "v": "c",
+     "n": "CDC 2021 tr. 66: nên lên lịch tái khám ngay lúc điều trị; QĐ 5169/2021 mục 3.3: khám lại sau 3 tháng, nếu không được thì trong 3–12 tháng; QĐ 5165/2021 mục 3.1."
+    },
+    {
+     "t": "Theo dõi ho: đã thưa dần, không làm thêm xét nghiệm lao; dặn quay lại nếu ho kéo dài hay có dấu nghi lao",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần II mục 1.1a Bảng 1 và Sơ đồ 1: X-quang không nghi lao thì tìm nguyên nhân khác; CHEST/ACCP 2006 (TL-0160): ho sau nhiễm tự khỏi."
+    },
+    {
+     "t": "Cho thuốc để chị đưa chồng uống khi về, khỏi phải nói lý do",
+     "v": "a",
+     "n": "CDC 2021 tr. 66–67: điều trị bạn tình theo kinh nghiệm (EPT) được cân nhắc khi pháp luật cho phép, kèm tài liệu hướng dẫn cho bạn tình. Quy định ở Việt Nam về EPT: không có trong tài liệu đã tải. Chồng vẫn cần khám, HIV và giang mai nên khuyên chồng đến khám là cách tốt hơn."
+    },
+    {
+     "t": "Làm lại HIV, giang mai ngay hôm nay",
+     "v": "a",
+     "n": "QĐ 5165/2021 mục 3.1 yêu cầu làm sau điều trị nhưng mốc cụ thể không có trong tài liệu đã tải; chị có phơi nhiễm lại nên âm tính hôm nay chưa đủ."
+    },
+    {
+     "t": "Làm NAAT lại hôm nay cho chị yên tâm",
+     "v": "w",
+     "n": "NAAT < 4 tuần sau hết thuốc có thể dương tính do vi khuẩn chết (CDC 2021 tr. 66), dễ gây hoang mang và điều trị lại không cần thiết."
+    },
+    {
+     "t": "Kéo dài doxycyclin hoặc đổi kháng sinh mạnh hơn vì chị lo 'chưa sạch'",
+     "v": "w",
+     "n": "Chị đã hết triệu chứng, đủ thuốc; thất bại điều trị Chlamydia là còn triệu chứng sau phác đồ (QĐ 5169/2021 mục 3.1) và nhiễm lại chủ yếu do tái nhiễm (CDC 2021 tr. 66), nên không có chỉ định."
+    },
+    {
+     "t": "Cho phép quan hệ lại không bao cao su vì chị đã uống đủ thuốc",
+     "v": "w",
+     "n": "Phải kiêng đến khi cả chị và mọi bạn tình điều trị xong (CDC 2021 tr. 66; QĐ 5165/2021 mục 3.1); bạn tình chưa điều trị nên nguy cơ tái nhiễm."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm cổ tử cung - niệu đạo do Chlamydia trachomatis, khỏi lâm sàng sau doxycyclin 7 ngày; chưa có chỉ định làm lại NAAT hôm nay",
+     "Đã loại trừ: thất bại điều trị hoặc đề kháng, viêm vùng chậu, lao phổi tại thời điểm này",
+     "Nền và nhiễu: phơi nhiễm lại ngày thứ tư của thuốc, hai bạn tình chưa điều trị đủ, muốn thử lại sớm, HIV và giang mai chưa qua cửa sổ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi triệu chứng và tuân thủ → hỏi lại không phán xét về quan hệ từ lúc bắt đầu thuốc và tình trạng bạn tình → khám bụng, phổi, phụ khoa → chọn xét nghiệm → kết luận.",
+     "Khỏi lâm sàng = hết triệu chứng, cổ tử cung hết mủ và dễ chảy máu, uống đủ thuốc (QĐ 5169/2021 (TL-0498) mục 3.1; CDC STI 2021 (TL-0370) tr. 63–64). Chị không có tiêu chuẩn thất bại điều trị.",
+     "NAAT sớm (< 4 tuần sau hết thuốc) có thể dương tính vì xác vi khuẩn chết (CDC 2021 tr. 66); chị còn phơi nhiễm lại nên nếu dương tính cũng không phân biệt được. Chỉ làm test khỏi bệnh khi nghi tái nhiễm, tuân thủ kém hoặc còn triệu chứng (CDC 2021 tr. 66); chị thuộc nhóm nghi tái nhiễm nên NAAT khoảng 4 tuần sau hết thuốc là hợp lý."
+    ],
+    "phan_tich_xu_tri": [
+     "Không kê thêm kháng sinh. Xét nghiệm lại: khoảng 4 tuần sau hết thuốc nếu nghi tái nhiễm (CDC 2021 tr. 66) hoặc test khỏi bệnh 6–12 tuần (EAU 2026 (TL-0512) mục 3.10.6); dù thế nào cũng xét nghiệm lại sau 3 tháng để tìm tái nhiễm (CDC 2021 tr. 64, 66; QĐ 5169/2021 mục 3.3), không phụ thuộc bạn tình đã điều trị hay chưa.",
+     "Bạn tình là điểm mấu chốt: tái nhiễm chủ yếu do bạn tình chưa điều trị hoặc bạn tình mới (CDC 2021 tr. 66). Anh Thành cần khám và điều trị đủ, chồng chị cần khám khi về; chị nên chủ động nói chuyện, bác sĩ giữ bí mật và có thể đưa giấy mời bạn tình (CDC 2021 tr. 66–67).",
+     "Kiêng quan hệ đến khi chị và bạn tình điều trị xong và hết triệu chứng (CDC 2021 tr. 66); QĐ 5165/2021 (TL-0499) mục 3.1 nói 7 ngày sau khi kết thúc điều trị; dùng bao cao su.",
+     "Lao: ho đã thưa, X-quang bình thường, Xpert âm tính, không cần xét nghiệm thêm; quay lại nếu ho kéo dài hoặc sốt chiều, mồ hôi đêm, sụt cân (QĐ 162/2024 (TL-0123) Phần II mục 1.1a Bảng 1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thêm kháng sinh",
+      "ham_luong": "—",
+      "lieu": "—",
+      "duong": "—",
+      "thoi_diem": "—",
+      "so_ngay": "—",
+      "ghi_chu": "Đã đủ doxycyclin 7 ngày, khỏi lâm sàng (QĐ 5169/2021 mục 3.1); không kéo dài hay đổi thuốc (CDC 2021 tr. 66)."
+     },
+     {
+      "thuoc": "Siro ho thảo dược (đang dùng, không đổi)",
+      "ham_luong": "Theo hộp chị đang dùng",
+      "lieu": "Ngưng khi hết ho",
+      "duong": "Uống",
+      "thoi_diem": "Theo chị đang dùng",
+      "so_ngay": "Ngưng khi hết ho",
+      "ghi_chu": "Hiệu quả thuốc thảo dược: không có trong tài liệu đã tải; ho sau nhiễm tự khỏi (CHEST/ACCP 2006)."
+     }
+    ],
+    "dan_do": [
+     "Không quan hệ cho đến khi chị và cả hai bạn tình đã điều trị xong; về sau dùng bao cao su (CDC 2021 tr. 66; QĐ 5165/2021 mục 3.1).",
+     "Mời anh Thành đi khám đủ; nói chuyện với chồng trước khi anh về hoặc khi anh về để anh đi khám, xét nghiệm HIV và giang mai; bác sĩ sẵn sàng đưa giấy mời hoặc gặp cùng chị (CDC 2021 tr. 66–67).",
+     "Hẹn xét nghiệm lại: khoảng 4 tuần sau hết thuốc nếu muốn xác nhận sớm (CDC 2021 tr. 66) hoặc 6–12 tuần (EAU 2026 mục 3.10.6), và chắc chắn lại sau 3 tháng (QĐ 5169/2021 mục 3.3); lúc đó làm luôn HIV và giang mai.",
+     "Quay lại ngay nếu rát trở lại, khí hư, đau bụng dưới, sốt (CDC 2021 tr. 63–64).",
+     "Nếu ho không hết hoặc có sốt chiều, ra mồ hôi đêm, sụt cân thì khám lại (QĐ 162/2024 Phần II mục 1.1a Bảng 1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Liên uống đủ doxycyclin, hết rát và khí hư; X-quang, Xpert, IGRA đều âm tính, ho tự hết sau ba tuần, ông chủ quầy tiếp tục điều trị lao. Sau buổi tái khám chị kể được chuyện với anh Thành, anh đi khám và điều trị đủ; khi chồng về chị nói thẳng, hai vợ chồng cùng đi khám, xét nghiệm HIV, giang mai âm tính. NAAT khoảng bốn tuần sau hết thuốc và lần sau ba tháng đều âm tính, không tái nhiễm. Chị nhớ: đừng tự gọi là viêm đường tiểu khi có khí hư, và khỏi bệnh phải đi cùng điều trị bạn tình.",
+ "nhieu": [
+  "Giấu tiền sử: chị tự chẩn đoán viêm đường tiểu và gạt câu hỏi chung; bạn tình chỉ lộ khi hỏi riêng không phán xét (CDC STI 2021 (TL-0370) tr. 2). Lượt 2 còn giấu chuyện quan hệ lại ngày thứ tư.",
+  "Sau gắng sức nặng: đau lưng cơ học trùng thời điểm với tiểu rát, nhưng tiểu rát có trước ba ngày; hố thắt lưng không đau, siêu âm thận bình thường. Không có CT nên dùng lâm sàng, nước tiểu và siêu âm.",
+  "Sợ mắc lao: lý do thật đến khám; ho 3 tuần sau cảm, tiếp xúc nghề nghiệp; X-quang bình thường, Xpert âm tính (QĐ 162/2024 (TL-0123) Phần II mục 1.1a, Sơ đồ 1).",
+  "Thuốc ho thảo dược: không phải nguyên nhân tiểu rát, không làm ho đỡ; tương tác với doxycyclin không có trong tài liệu đã tải.",
+  "Nghề bán thuốc: neo chẩn đoán 'viêm đường tiểu' và xin kháng sinh năm ngày; EAU 2026 (TL-0512) mục 3.4.3 chỉ gọi viêm bàng quang khi không có khí hư."
+ ],
+ "bai_hoc_bien": [
+  "Tiểu rát ở phụ nữ có khí hư hoặc ra máu sau quan hệ: hỏi riêng về bạn tình và khám mỏ vịt trước khi gọi là viêm đường tiểu (EAU 2026 mục 3.4.3; QĐ 5169/2021 (TL-0498) mục 2.1.1; CDC 2021 tr. 2).",
+  "Người giấu chuyện kín vì xấu hổ: hỏi riêng, giọng không phán xét, hứa giữ kín, hỏi cụ thể từng bạn tình trong 60 ngày kể cả chồng (QĐ 5165/2021 (TL-0499) mục 3.1; CDC 2021 tr. 2, 66).",
+  "Hỏi 'vì sao hôm nay chị đi khám': nỗi sợ lao là lý do thật; ho trên 2 tuần phải được X-quang và Xpert, nhưng ho sau nhiễm là chẩn đoán thường gặp khi kết quả bình thường (QĐ 162/2024 Phần II mục 1.1a; CHEST/ACCP 2006 (TL-0160)).",
+  "Khỏi lâm sàng không đồng nghĩa test lại ngay: NAAT < 4 tuần dễ dương tính giả, tái nhiễm chủ yếu do bạn tình chưa điều trị; xét nghiệm lại sau 3 tháng (CDC 2021 tr. 66; QĐ 5169/2021 mục 3.3; EAU 2026 mục 3.10.6)."
+ ],
+ "diem_nho": [
+  "Chlamydia ở nữ: 70% không triệu chứng; khi có là khí hư, tiểu khó, chảy máu khi quan hệ, viêm cổ tử cung (QĐ 5169/2021 mục 2.1.1). Viêm cổ tử cung: mủ cổ tử cung hoặc chảy máu khi chạm, bạch cầu > 10/vi trường 400 (CDC 2021 tr. 63).",
+  "Chlamydia sinh dục không biến chứng: doxycyclin 100 mg × 2 lần/ngày × 7 ngày hoặc azithromycin 1 g liều đơn (QĐ 5169/2021 mục 3.2.1; CDC 2021 tr. 65; WHO 2024 (TL-0501) Bảng 2). Không dùng doxycyclin cho phụ nữ mang thai.",
+  "Bạn tình trong 60 ngày phải được điều trị; kiêng quan hệ đến khi cả hai xong và hết triệu chứng; xét nghiệm lại sau 3 tháng, test khỏi bệnh chỉ khi nghi tái nhiễm (CDC 2021 tr. 66; QĐ 5165/2021 mục 3.1; QĐ 5169/2021 mục 3.3).",
+  "Ho trên 2 tuần là triệu chứng nghi lao quan trọng nhất; người làm việc cùng phòng với người bệnh lao phổi là người tiếp xúc; X-quang không nghi lao thì tìm nguyên nhân khác (QĐ 162/2024 Phần I mục 1.5, Phần II mục 1.1a, Sơ đồ 1)."
+ ],
+ "nguon": [
+  "BYT – QĐ 5165/QĐ-BYT 2021 (Lậu) – TL-0499 – mục 1, 2.1.1, 2.2.1, 2.2.3, 2.3.1, 2.3.2, 3.1, 3.2.1, 4.",
+  "BYT – QĐ 5169/QĐ-BYT 2021 (Chlamydia trachomatis) – TL-0498 – mục 1, 2.1.1, 2.2, 2.4, 3.1, 3.2.1, 3.3.",
+  "CDC STI Treatment Guidelines 2021 – TL-0370 – tr. 2 (Box 1 và phỏng vấn tình dục); Cervicitis tr. 63–64; Chlamydial Infections tr. 65–67; PID tr. 94.",
+  "WHO 2021, Management of symptomatic STIs – TL-0502 – mục 8.4.2–8.4.5, 8.5. WHO 2024, Updated recommendations N. gonorrhoeae, C. trachomatis – TL-0501 – Bảng 2.",
+  "EAU Urological Infections 2026 – TL-0512 – mục 3.4.3, 3.10.5, 3.10.6 (viết cho nam, dùng tham khảo cho nữ).",
+  "BYT – QĐ 162/2024 (Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao) – TL-0123 – Phần I mục 1.5; Phần II mục 1.1a Bảng 1; Phần II mục 3.2.1, 3.2.2, Sơ đồ 1; Phần IV mục 1.1.1, 1.2.2.",
+  "CHEST/ACCP 2006, Postinfectious Cough (Braman) – TL-0160 – tóm tắt và Kết luận.",
+  "BYT – QĐ 361/QĐ-BYT 2014 – TL-0286 – Hội chứng đau thắt lưng mục 4.2.1; NICE NG59 – TL-0372 – khuyến cáo 1.2.1, 1.2.26."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: Sonnet 5.5, 27/11/2026. Tài liệu đã đọc: TL-0499 toàn văn; TL-0498 mục 1–3; TL-0370 Cervicitis tr. 63–64, Chlamydial tr. 65–67, Gonococcal tr. 72–75, PID tr. 94, Box 1 tr. 2; TL-0502 mục 8.4–8.5; TL-0501 Bảng 1–2; TL-0512 mục 3.4.3, 3.10.5–3.10.6; TL-0123 Phần I mục 1.5, Phần II mục 1.1a, Phần II mục 3.2, Phần IV mục 1; TL-0160 tóm tắt; TL-0286 mục 4.2.1; TL-0372 1.2.26.",
+  "Mâu thuẫn đã có trong sổ, ghi cả hai: doxycyclin 7 ngày hoặc azithromycin 1 g (TN-0289); thời điểm xét nghiệm lại (TN-0289); mốc kiêng quan hệ (TN-0302); điều trị cùng ngày hay chờ NAAT (TN-0297); paracetamol cho đau lưng (MT-0333). Không có mâu thuẫn mới.",
+  "Thiếu tài liệu: tương tác doxycyclin, azithromycin với siro thảo dược và hiệu quả thuốc thảo dược; mốc làm lại HIV, giang mai sau điều trị; mốc làm IGRA sau phơi nhiễm và việc lặp lại; quy định Việt Nam về điều trị bạn tình theo kinh nghiệm và bảo mật; ngày hẹn tái khám chính xác sau điều trị viêm cổ tử cung. CDC 2021: số trang theo bản chữ (PID tr. 94, theo dõi Chlamydia tr. 66). Danh mục: dùng id sẵn có, không đề xuất mục mới."
+ ]
+}
