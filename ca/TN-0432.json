@@ -1,0 +1,606 @@
+{
+ "ma_ca": "TN-0432",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TN_nang_than_don_thuan_tinh_co",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Nang thận đơn thuần / phát hiện tình cờ",
+  "chan_doan_phai_loai_tru": [
+   "Ung thư thận",
+   "Áp xe"
+  ],
+  "nhom_tuoi": "Cao tuổi (60–74 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Tiếp xúc người bệnh ho",
+  "thuoc_dang_dung": "Thuốc ngủ an thần",
+  "ly_do_that_su_den_kham": "Sợ nhồi máu cơ tim"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Hòa",
+  "tuoi": 67,
+  "gioi": "Nữ",
+  "nghe": "Nội trợ",
+  "can_nang": 52,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Hiền, hay lo xa, dễ hoảng khi nghe tin xấu. Thương hàng xóm, nghe đâu cũng đọc. Tin những gì tra trên điện thoại con cháu, nhưng nghe lời bác sĩ nếu được giải thích tử tế. Sợ tốn tiền, sợ làm phiền con cháu.",
+  "kieu_nhieu": "Mang theo tờ in từ mạng kết luận 'ung thư thận, phải mổ' và đòi bác sĩ trả lời có hay không; có phần đúng (có nang thận) nên cần được công nhận phần đó. Không tự kể nhói ngực và nỗi sợ nhồi máu cơ tim, chỉ nói khi được hỏi thẳng.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c99a74",
+   "toc": "#d8d6d2",
+   "kieuToc": "bui",
+   "ao": "#8a6f9e",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Có nang thận trên phiếu siêu âm, sợ ung thư thận; ho 4 ngày",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Phòng khám không có máy CT. Xét nghiệm, X-quang, siêu âm, điện tim vẫn làm được."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Phạm Thị Hòa, 67 tuổi, nội trợ. Cầm phiếu siêu âm bụng làm hôm qua ở phòng siêu âm tư (kết luận ghi \"nang thận phải 45 mm, theo dõi\") và một tờ in từ mạng, hỏi có phải ung thư thận không; kèm ho khan 4 ngày. Sinh hiệu: HA 138/82 mmHg, mạch 76 l/p, nhiệt 36,8 °C, SpO2 97%, cân nặng 52 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bà Hòa bị chuyển lên bệnh viện tỉnh để chụp CT có cản quang \"cho chắc\", mất một ngày đi lại và tốn kém, trong khi siêu âm đã đủ để xếp nang đơn thuần Bosniak I, loại không cần theo dõi thêm (Bosniak 2019 Bảng 3, 4; ACR 2018 mục 5). Nghe \"chuyển lên trên\" bà càng tin mình bị ung thư thận, còn nhói ngực và cơn ho vẫn chưa được ai giải thích.",
+    "nhap_vien": "Bà nhập viện vì \"nhói ngực và nang thận\" dù ECG bình thường, nhói ngực không điển hình và nang không triệu chứng (QĐ 3931/2015 Nang đơn thận mục 4a). Nằm viện 2–3 ngày làm bà lo hơn, ngủ kém hơn, dễ được kê thêm thuốc an thần, mà benzodiazepin ở người từ 65 tuổi làm tăng nguy cơ ngã, lú lẫn (Beers 2023 Bảng 2); phần xử trí đáng làm (giải thích, hẹn lại) vẫn bỏ sót."
+   },
+   "loi_mo": "Chào bác sĩ. Hôm qua tôi đi siêu âm bụng, người ta ghi là nang thận, tôi lên mạng đọc thấy nói có thể thành ung thư thận, phải mổ. Tôi sợ quá bác sĩ ơi. Mấy hôm nay tôi còn ho nữa.",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "138/82",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hôm qua đi siêu âm bụng \"kiểm tra sức khỏe\", phiếu ghi nang thận phải 45 mm, theo dõi. Về đọc mạng thấy nói nang thận có thể thành ung thư, phải mổ nên rất sợ. Ho khan 4 ngày.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai), chẩn đoán tự tra mạng"
+    },
+    {
+     "id": "nang_tc",
+     "noi_dung": "Không đau hông lưng, không tiểu máu, không tiểu buốt, không sốt, không sụt cân. Tiểu 4–5 lần/ngày, nước tiểu vàng trong. Chưa từng bị sỏi thận. Phòng siêu âm chỉ đưa tờ kết luận, không mô tả gì thêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nang không triệu chứng; loại trừ ung thư, nhiễm trùng hoặc chảy máu nang"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không tăng huyết áp, tiểu đường, bệnh thận; không hút thuốc; chưa mổ lần nào. Trong nhà không ai bị bệnh thận đa nang hay phải chạy thận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử; loại trừ bệnh thận đa nang trội"
+    },
+    {
+     "id": "ho",
+     "noi_dung": "Ho khan, ít, 4 ngày, không đờm, không sốt, không khó thở, không ho ra máu, không ra mồ hôi đêm, ăn uống và cân nặng không đổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ho mới 4 ngày, chưa có triệu chứng nghi lao"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Bà Sáu hàng xóm thân ho kéo dài khoảng 2 tháng, gầy đi, chưa đi khám. Hơn 2 tháng nay bà sang nấu cơm, trông nom bà Sáu mỗi ngày chừng 2 giờ trong căn phòng nhỏ kín. Thấy bà Sáu ho dai nên sợ bị lây \"bệnh phổi\", đi kiểm tra tổng quát và phát hiện nang thận.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: tiếp xúc gần người ho kéo dài"
+    },
+    {
+     "id": "thuoc_ngu",
+     "noi_dung": "Mất ngủ nhiều năm, uống 1 viên diazepam 5 mg mỗi tối khoảng 3 năm, mua theo toa cũ ở nhà thuốc. Ngưng vài hôm là trằn trọc cả đêm. Thỉnh thoảng đêm đứng dậy đi vệ sinh thấy choáng, chưa từng ngã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc ngủ an thần dài hạn ở người 67 tuổi"
+    },
+    {
+     "id": "dau_nguc",
+     "noi_dung": "Mấy đêm gần đây khi nằm yên, nghĩ nhiều, bà thấy nhói ngực trái vài giây đến vài phút kèm hồi hộp, tự hết khi đổi tư thế hoặc hít sâu. Không lan tay hay hàm, không khó thở, không vã mồ hôi. Đi chợ 500 m, leo 2 tầng cầu thang không bị tức ngực.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi có đau ngực, hồi hộp, hay khó ngủ vì lo, hoặc hỏi bà còn khó chịu gì khác.",
+     "k": 1,
+     "y": "Triệu chứng đau ngực không điển hình"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Lý do thật: sáu tháng trước anh trai bà đột ngột mất vì nhồi máu cơ tim. Từ đó thấy nhói ngực là bà nghĩ \"tới lượt mình\", không dám nói vì sợ bị đặt ống, tốn tiền. Có tờ siêu âm nên bà nhân dịp đi khám cả thể. Khi kể ra bà xin \"đo tim cho chắc\".",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi gia đình có ai bị bệnh tim, bà sợ điều gì nhất, hoặc sau khi hỏi về nhói ngực.",
+     "k": 1,
+     "y": "Động cơ thật: sợ nhồi máu cơ tim"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Ở với con trai, con dâu và cháu nội 3 tuổi. Nhà bà Sáu sát vách.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, lo âu, nói nhanh. Da niêm hồng, không phù, không sốt. BMI 22.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Gõ trong, rì rào phế nang êm dịu hai phổi, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p. Gõ trong hai phổi.",
+     "media": [
+      {
+       "vi_tri": "Hai phổi (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "co_xuong_khop": {
+     "a": "Ấn thành ngực trái không tái hiện cơn nhói.",
+     "k": 0
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau, không khối, gan lách không sờ thấy.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đầy, không đau khi vỗ, không sờ thấy khối thận; cầu bàng quang âm tính.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, không hạch thượng đòn.",
+     "k": 0
+    },
+    "chi_duoi": {
+     "a": "Không phù, bắp chân không đau.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "abdus": {
+     "v": "e",
+     "r": "Thận phải, cực dưới: nang 45 × 41 mm, tròn, bờ đều, thành mỏng, trống âm hoàn toàn, tăng âm phía sau, không vách, không vôi hóa, không thành phần đặc. Thận phải 102 mm, thận trái 99 mm, nhu mô dày bình thường, không giãn đài bể. Gan, mật, tụy, lách bình thường.",
+     "ab": 1,
+     "n": "Nang đơn thuần: tròn, bờ đều, dịch trong, trống âm (QĐ 3931/2015 Nang đơn thận mục 3b); trống âm kèm tăng âm phía sau là dịch đơn thuần (Bosniak 2019 Bảng 3). Siêu âm đủ để xếp Bosniak I (Bosniak 2019 Bảng 2, chú thích). Phiếu cũ không mô tả nên chụp lại tại chỗ là hợp lý."
+    },
+    "creat": {
+     "v": "e",
+     "r": "Ure 5,1 mmol/L · Creatinin 70 µmol/L · eGFR 82 mL/ph/1,73m²",
+     "bang": {
+      "ure": 5.1,
+      "creat": 70,
+      "egfr": 82
+     },
+     "n": "QĐ 3931/2015 Nang đơn thận mục 3b: ure, creatinin để đánh giá chức năng thận."
+    },
+    "ua": {
+     "v": "e",
+     "r": "Hồng cầu âm tính, bạch cầu âm tính, nitrit âm tính, protein âm tính, glucose âm tính.",
+     "n": "QĐ 3931/2015 mục 3b: tìm hồng cầu, bạch cầu niệu (nang nhiễm trùng, chảy máu)."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 76 l/p, trục bình thường, không thay đổi ST-T, không sóng Q bệnh lý.",
+     "n": "ESC 2023 (ACS) mục 3.2: điện tim 12 chuyển đạo là công cụ đầu tay khi nghi hội chứng vành."
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Hai phế trường sáng, không thâm nhiễm, không hang, không tràn dịch màng phổi; bóng tim không to.",
+     "n": "QĐ 162/2024 Phần II mục 1.2: X-quang ngực dùng cho người nghi lao; ho 4 ngày chưa thuộc người nghi lao (Bảng 1: ho kéo dài trên 2 tuần) nên chấp nhận, không bắt buộc."
+    },
+    "trop": {
+     "n": "Không đang đau ngực, đặc điểm không điển hình, ECG bình thường: không cần troponin ở ca này (thiết kế ca); nếu đau khi gắng sức hoặc kéo dài thì phải làm."
+    },
+    "xpert": {
+     "n": "Ho 4 ngày, không đờm: chưa là người nghi lao theo triệu chứng (QĐ 162/2024 Phần II mục 1.1 Bảng 1: ho kéo dài trên 2 tuần)."
+    },
+    "igra": {
+     "n": "Nguồn lây (bà Sáu) chưa được chẩn đoán lao; người tiếp xúc cần định nghĩa nguồn là người bệnh lao phổi (QĐ 162/2024 Phần IV mục 1.1.1): chưa có chỉ định."
+    },
+    "ct_bung": {
+     "n": "Cơ sở không có CT. Siêu âm đã xếp Bosniak I; CT chỉ khi nang không đơn thuần trên siêu âm (Bosniak 2019 tr. 481) hoặc \"khi cần thiết\" (QĐ 3931/2015 mục 3c)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Nang thận đơn thuần (Bosniak I) thận phải 45 mm, phát hiện tình cờ, không triệu chứng",
+     "ok": 1,
+     "n": "Tròn, thành mỏng, trống âm, tăng âm sau, không vách, không vôi, không thành phần đặc; nước tiểu, creatinin bình thường (QĐ 3931/2015 mục 3; Bosniak 2019 Bảng 3, 4). Rất thường gặp ở tuổi này (QĐ 3931/2015 mục 1)."
+    },
+    {
+     "t": "Ung thư thận (u thận dạng nang)",
+     "n": "Không có thành dày, vách, nốt đặc: ung thư dạng nang là Bosniak III–IV với thành hoặc vách dày không đều ngấm thuốc (ACR 2018 Bảng 2; EAU RCC 2026 Bảng 5.1). Không tiểu máu, không sụt cân, không đau hông."
+    },
+    {
+     "t": "Áp xe thận, nang thận nhiễm trùng hoặc chảy máu",
+     "n": "Nhiễm trùng, chảy máu nang gây sốt, đau, rét run (QĐ 3931/2015 mục 3a); bà không sốt, không đau hông, nước tiểu không bạch cầu, dịch nang trống âm hoàn toàn."
+    },
+    {
+     "t": "Bệnh thận đa nang trội (ADPKD)",
+     "n": "Chỉ một nang, hai thận kích thước bình thường, creatinin bình thường, không tiền sử gia đình; ADPKD có nhiều nang hai thận (QĐ 3931/2015 mục 1; QĐ 2388/2024 bài bệnh thận đa nang trội)."
+    },
+    {
+     "t": "Nhói ngực không điển hình, chưa gợi ý hội chứng vành, kèm lo âu sau mất người thân",
+     "ok": 1,
+     "n": "Nhói vài giây đến vài phút khi nằm yên, đổi tư thế hoặc hít sâu thì hết, không lan, gắng sức không đau, ECG bình thường (ESC 2023 mục 3.2). Một điện tim không loại trừ hoàn toàn: dặn quay lại khi đổi tính chất."
+    },
+    {
+     "t": "Ho khan cấp 4 ngày, chưa đủ tiêu chuẩn người nghi lao; có tiếp xúc gần người ho kéo dài",
+     "ok": 1,
+     "n": "Người nghi lao phổi: ho kéo dài trên 2 tuần (QĐ 162/2024 Phần II mục 1.1 Bảng 1); bà ho 4 ngày, X-quang bình thường. Nguy cơ có thật nên phải hẹn lại, không được trấn an cho qua."
+    },
+    {
+     "t": "Lao phổi",
+     "n": "Chưa đủ: ho 4 ngày, không sốt, không sụt cân, X-quang bình thường (QĐ 162/2024 Phần II mục 3.2.1). Giữ trong chẩn đoán phân biệt cho lần sau."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích nang thận đơn thuần là lành tính, rất thường gặp ở người lớn tuổi, không phải ung thư; thừa nhận bà đúng ở chỗ có nang thận",
+     "v": "c",
+     "n": "QĐ 3931/2015 mục 1: 25% người trên 40, 50% trên 50, trên 90% trên 70 tuổi có nang đơn; Bosniak I: \"benign simple renal cyst requiring no follow-up\" (Bosniak 2019 Bảng 4)."
+    },
+    {
+     "t": "Không điều trị nang (không chọc hút, không mổ)",
+     "v": "c",
+     "n": "QĐ 3931/2015 mục 4a: nang dưới 3 cm không triệu chứng không điều trị; nang 3–6 cm không triệu chứng bài không nêu riêng. Chọc hút xơ hóa chỉ khi nang trên 6 cm hoặc chèn ép (mục 4b), mổ khi nang lớn (mục 4c)."
+    },
+    {
+     "t": "Về theo dõi nang: không cần chụp theo dõi, hoặc siêu âm lại cùng nước tiểu, creatinin định kỳ và tránh va chạm mạnh vùng hông",
+     "v": "c",
+     "n": "Hai nguồn khác nhau: Bosniak I, II không cần theo dõi (ACR 2018 mục 5; EAU RCC 2026 mục 3.5.7; Bosniak 2019 Bảng 4); QĐ 3931/2015 mục 3c, 4a theo dõi định kỳ bằng siêu âm, nước tiểu, chức năng thận (khoảng cách: không có trong tài liệu đã tải). Chấp nhận cả hai."
+    },
+    {
+     "t": "Chuyển tuyến hoặc chụp CT, MRI có cản quang \"cho chắc\"",
+     "v": "a",
+     "n": "Không cần vì nang điển hình; QĐ 3931/2015 mục 3c cho chụp \"khi cần thiết\"; Bosniak 2019 tr. 481: CT, MRI khi không phải nang đơn thuần trên siêu âm. Cơ sở không có CT."
+    },
+    {
+     "t": "Chọc hút xơ hóa cồn hoặc mổ nội soi nang 45 mm",
+     "v": "w",
+     "n": "QĐ 3931/2015 mục 4b, 4c: chỉ cho nang trên 6 cm hoặc có triệu chứng chèn ép; nang 45 mm không triệu chứng."
+    },
+    {
+     "t": "Làm điện tim, hỏi riêng về nhói ngực và nỗi sợ nhồi máu cơ tim; giải thích kết quả, dặn quay lại ngay khi đau ngực khi gắng sức, kéo dài, lan tay hàm, vã mồ hôi, khó thở",
+     "v": "c",
+     "n": "ESC 2023 (ACS) mục 3.2: điện tim là xét nghiệm đầu tay. Đáp ứng đúng lý do thật của bà; dấu hiệu cảnh báo là lời dặn thông thường."
+    },
+    {
+     "t": "Ho 4 ngày: giải thích thường do virus, không dùng kháng sinh; dặn quay lại khi ho trên 2 tuần, sốt nhẹ chiều, sụt cân, ra mồ hôi đêm hoặc ho ra máu",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần II mục 1.1 Bảng 1: các triệu chứng nghi lao phổi ở người lớn."
+    },
+    {
+     "t": "Khuyên bà Sáu đi khám lao sớm; bà hạn chế ở trong phòng kín với bà Sáu, mở cửa thông thoáng",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần V mục 4.1, 4.2: thông khí tốt cho phòng người bệnh lao, che miệng khi ho. Khuyến cáo riêng cho người chăm sóc: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Thuốc ngủ: không ngừng đột ngột; đánh giá lại nhu cầu, ưu tiên liệu pháp hành vi (CBT-I) và lộ trình giảm dần, hoặc duy trì ngắn hạn có theo dõi sau khi cùng quyết định",
+     "v": "c",
+     "n": "Beers 2023 Bảng 2: tránh benzodiazepin từ 65 tuổi; ESRS 2023 mục 4.2.1, Bảng 16: CBT-I đầu tay, benzodiazepin tối đa 4 tuần; Joint 2025 khuyến cáo 5, 6: giảm 5–10% mỗi 2–4 tuần, không quá 25% mỗi 2 tuần; QĐ 2058/2020 Bài 27 mục 4.3 liệt kê diazepam, không nêu giới hạn tuổi."
+    },
+    {
+     "t": "Ngưng ngay diazepam",
+     "v": "w",
+     "n": "Joint 2025 (TL-0575) điểm chính 3: không ngưng benzodiazepin đột ngột ở người đang phụ thuộc; cai nhanh có thể gây co giật, mê sảng (phần Giới thiệu)."
+    },
+    {
+     "t": "Kê thêm benzodiazepin hoặc thuốc nhóm Z để bà bớt lo, ngủ ngon",
+     "v": "w",
+     "n": "Beers 2023 Bảng 2: tránh ở người từ 65 tuổi (ngã, lú lẫn); ESRS 2023 mục 4.2.1."
+    },
+    {
+     "t": "Kê levofloxacin hoặc kháng sinh phổ rộng cho ho 4 ngày",
+     "v": "w",
+     "n": "Ho virus không cần kháng sinh; QĐ 162/2024 Phần II mục 3.2.2: thử kháng sinh phổ rộng khi chẩn đoán lao phải không dùng nhóm fluoroquinolon vì che lấp lao."
+    },
+    {
+     "t": "Hẹn tái khám sau 3 tuần, hoặc sớm hơn nếu ho kéo dài trên 2 tuần hay có dấu hiệu cảnh báo",
+     "v": "c",
+     "n": "Mốc 2 tuần: QĐ 162/2024 Phần II mục 1.1 Bảng 1; khoảng 3 tuần là chọn của ca."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Nang thận đơn thuần (Bosniak I) thận phải 45 mm, phát hiện tình cờ, không triệu chứng; chức năng thận bình thường",
+     "Nhói ngực không điển hình, chưa gợi ý hội chứng vành; lo âu sau khi anh trai mất vì nhồi máu cơ tim",
+     "Ho khan cấp 4 ngày, có tiếp xúc gần người ho kéo dài, chưa đủ tiêu chuẩn người nghi lao",
+     "Dùng diazepam 5 mg mỗi tối khoảng 3 năm ở người 67 tuổi (nguy cơ ngã, phụ thuộc)"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: hỏi triệu chứng của nang (đau hông, tiểu máu, sốt), sau đó mới hỏi ho, tiếp xúc, thuốc đang dùng, gia đình. Bà chỉ nói về đau ngực và anh trai khi được hỏi thẳng.",
+     "Khám: hố thắt lưng, bụng, tim, phổi. Cận lâm sàng: siêu âm tại chỗ, nước tiểu, creatinin, điện tim; X-quang ngực chấp nhận. Cơ sở không có CT, nhưng không cần CT.",
+     "Siêu âm đủ xếp Bosniak I: trống âm, tăng âm sau, thành mỏng, không vách (Bosniak 2019 Bảng 3, chú thích Bảng 2; QĐ 3931/2015 mục 3b). Cùng một nang, Bosniak chỉ dùng siêu âm cho loại I; nang không đơn thuần trên siêu âm mới cần CT, MRI (Bosniak 2019 tr. 481).",
+     "Ung thư thận, áp xe, thận đa nang được loại bằng đặc điểm hình ảnh, nước tiểu, tiền sử và không có triệu chứng, nên không cần chuyển tuyến.",
+     "Bà Hòa \"đúng\" một nửa: Google nói có nang thận (đúng), nhưng kết luận ung thư là sai. Không hạ thấp bà: công nhận điều đúng rồi giải thích điều chưa đúng."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, giải thích, hẹn lại. Nang đơn không điều trị (QĐ 3931/2015 mục 4a). Về theo dõi nang có hai cách ghi trong tài liệu: không cần (ACR 2018, EAU 2026) hoặc siêu âm định kỳ (QĐ 3931/2015). Lý do khác nhau: ACR, EAU dựa trên phân loại Bosniak 2019 bằng CT, MRI, QĐ 3931 là hướng dẫn trong nước 2015, không dùng Bosniak.",
+     "Đau ngực: điện tim bình thường kèm đặc điểm không điển hình đủ để cho về có dặn dò; nói thẳng với bà về nỗi sợ nhồi máu cơ tim mới giải được lý do khám thật.",
+     "Ho 4 ngày chưa phải ho kéo dài; vẫn hẹn lại vì tiếp xúc (QĐ 162/2024 Phần II mục 1.1 Bảng 1).",
+     "Thuốc ngủ: không bỏ đột ngột, bàn lộ trình giảm dần (Joint 2025 khuyến cáo 5, 6). Hai cách trong tài liệu (Beers, ESRS tránh và hạn chế; QĐ 2058/2020, AASM cho dùng) nên ghi cả hai."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Diazepam (thuốc đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "Giữ 1 viên mỗi tối cho tới khi thống nhất lộ trình giảm",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối trước ngủ",
+      "so_ngay": "Không ngưng đột ngột; giảm 5–10% mỗi 2–4 tuần, không quá 25% mỗi 2 tuần nếu quyết định giảm",
+      "ghi_chu": "Joint 2025 (TL-0575) khuyến cáo 5, 6, điểm chính 3; Beers 2023 Bảng 2 (tránh ở ≥ 65 tuổi); tách viên để giảm liều: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Nang thận của bà là nang nước lành tính, không cần mổ, không cần chụp thêm; tránh va chạm mạnh vùng hông lưng (QĐ 3931/2015 mục 4a).",
+     "Nhói ngực: đến cấp cứu ngay nếu đau tức ngực khi đi bộ hay leo cầu thang, đau kéo dài, lan tay hoặc hàm, vã mồ hôi, khó thở.",
+     "Ho: quay lại nếu ho trên 2 tuần, sốt chiều, sụt cân, mồ hôi đêm, ho ra máu (QĐ 162/2024 Phần II mục 1.1 Bảng 1); bảo bà Sáu đi khám lao sớm, mở cửa thông thoáng khi ngồi chung.",
+     "Không bỏ diazepam đột ngột, không tự uống thêm (Joint 2025 điểm chính 3); đứng dậy chậm vào ban đêm. Hẹn lại sau 3 tuần."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 tuần",
+   "tiep_don": "Tái khám sau 3 tuần như đã hẹn vì ho chưa hết. Bà Hòa kể bà Sáu vừa được bệnh viện huyện báo lao phổi. Sinh hiệu: HA 130/78 mmHg, mạch 84 l/p, nhiệt 37,6 °C, SpO2 96%, cân nặng 50 kg (lần trước 52 kg).",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bà Hòa về nhà với thuốc ho và lời trấn an, trong khi vẫn ngủ chung phòng với cháu nội 3 tuổi và đi chợ mỗi ngày. Lao không được điều trị sớm sẽ còn lây người nhà; trẻ dưới 5 tuổi tiếp xúc hộ gia đình với người bệnh lao phổi thuộc nhóm phải loại trừ lao hoạt động và điều trị lao tiềm ẩn (QĐ 162/2024 Phần IV mục 1.2.1), còn nguyên tắc là điều trị sớm ngay sau khi chẩn đoán (Phần III mục 7.1).",
+    "nhap_vien": "Bà nhập viện chỉ để bắt đầu thuốc lao dù thể bệnh không nặng: không ho ra máu, không suy hô hấp, không suy kiệt. Nội trú dành cho lao nặng hoặc có biến chứng, còn người bệnh lao nhạy cảm thuốc điều trị ngoại trú tại xã hoặc huyện (QĐ 162/2024 Phần III mục 7.2.2, 7.2.3). Nằm viện làm bà tốn kém, lo hơn, xa gia đình, mà vẫn phải đăng ký vào hệ thống chống lao trong 3 ngày.",
+    "theo_doi": "Bà Hòa được giữ lại phòng khám theo dõi thêm 1–2 tuần để chờ \"thêm kết quả\" dù Xpert đã dương tính. Mỗi ngày chậm là một ngày bà còn ho khạc trong nhà có cháu 3 tuổi; chẩn đoán đã đủ bằng chứng vi khuẩn (QĐ 162/2024 Phần II mục 3.2.2) và phải điều trị sớm ngay sau khi chẩn đoán (Phần III mục 7.1)."
+   },
+   "loi_mo": "Bác sĩ ơi, bà Sáu người ta nói bị lao phổi rồi. Tôi ho gần một tháng nay, đầu đỡ đỡ mà giờ vẫn còn, sáng có chút đờm, chiều người âm ấm. Tôi sợ lắm, nhà còn thằng cháu nhỏ.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "130/78",
+    "nhiet": "37,6",
+    "nhip_tho": 20,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ho dai dẳng hơn 3 tuần, mấy hôm đầu có đỡ rồi vẫn còn, sáng khạc ít đờm trắng đục. Bà Sáu được báo lao phổi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám (lời khai)"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Chiều thấy người âm ấm, gai gai; vài đêm ra mồ hôi ướt áo; ăn kém, sụt khoảng 2 kg trong 3 tuần. Không ho ra máu, không khó thở. Nhói ngực còn thưa và nhẹ hơn trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng toàn thân nghi lao"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Bà vẫn sang chăm bà Sáu đều cho đến khi bà ấy được báo lao. Ở nhà mỗi tối ngủ chung phòng với cháu nội 3 tuổi; cháu chưa ho, chưa sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc nguồn lây, người sống chung (cháu dưới 5 tuổi)"
+    },
+    {
+     "id": "khac",
+     "noi_dung": "Không hút thuốc, không tiểu đường, chưa từng thử HIV. Vẫn uống diazepam 5 mg mỗi tối như lời dặn, chưa tự bỏ, ngủ chập chờn nhưng không ngã. Hông lưng không đau, nước tiểu bình thường; bà đỡ lo về cái nang sau lần giải thích trước.",
+     "che_do": "khi_hoi",
+     "k": 0
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Gầy hơn, 50 kg. Da niêm hồng nhạt, sốt nhẹ 37,6 °C, tỉnh, lo lắng.",
+     "k": 0
+    },
+    "phoi": {
+     "a": "Nhịp thở 20 l/p. Vùng dưới đòn phải gõ đục nhẹ, rì rào phế nang giảm, có ran nổ to hạt; phổi trái bình thường.",
+     "k": 1,
+     "hien": "Nhịp thở 20 l/p. Vùng dưới đòn phải gõ đục nhẹ; phổi trái gõ trong.",
+     "media": [
+      {
+       "vi_tri": "Vùng dưới đòn, đỉnh phổi phải",
+       "id": "AT-PHOI-RAN-NO-TO-01",
+       "chu": "Ran nổ to hạt vùng đỉnh phổi phải."
+      },
+      {
+       "vi_tri": "Phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Không hạch cổ, hạch thượng đòn.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng không đau, không khối.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "cxr": {
+     "v": "e",
+     "r": "Đám mờ thâm nhiễm không đồng nhất vùng đỉnh và dưới đòn phải, có vài hình sáng nhỏ nghi hang; không tràn dịch màng phổi, khí quản không lệch; phổi trái bình thường.",
+     "ab": 1,
+     "n": "QĐ 162/2024 Phần II mục 1.2 Bảng 2: hình ảnh bất thường nghi lao trên X-quang ngực."
+    },
+    "xpert": {
+     "v": "e",
+     "r": "Hai mẫu đờm: MTB phát hiện (mức thấp); kháng rifampicin: không phát hiện.",
+     "ab": 1,
+     "n": "QĐ 162/2024 Phần II mục 3.2.2: Xpert MTB (+) là bằng chứng vi khuẩn xác định lao phổi."
+    },
+    "ct_nguc": {
+     "n": "Cơ sở không có CT; X-quang và Xpert đã đủ chẩn đoán xác định (QĐ 162/2024 Phần II mục 3.2.2)."
+    },
+    "abdus": {
+     "n": "Nang thận đã đánh giá lượt trước, không triệu chứng mới: không cần siêu âm lại (ACR 2018 mục 5); hoặc theo dõi định kỳ theo QĐ 3931/2015 mục 4a."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Lao phổi mới, Xpert MTB (+), chưa thấy kháng rifampicin",
+     "ok": 1,
+     "n": "Ho trên 2 tuần, sốt nhẹ chiều, sụt cân, mồ hôi đêm, tổn thương đỉnh phải có hang nhỏ, Xpert MTB (+), tiếp xúc gần nguồn lây (QĐ 162/2024 Phần II mục 1.1 Bảng 1, mục 3.2.2)."
+    },
+    {
+     "t": "Nang thận đơn thuần (Bosniak I) thận phải 45 mm, không triệu chứng mới, không cần xử trí thêm",
+     "ok": 1,
+     "n": "Giữ chẩn đoán lượt 1 (Bosniak 2019 Bảng 4; QĐ 3931/2015 mục 4a). Nang không liên quan lao phổi."
+    },
+    {
+     "t": "Viêm phổi cộng đồng hoặc nhiễm virus hô hấp kéo dài",
+     "n": "Ho trên 3 tuần, sốt chiều, sụt cân, mồ hôi đêm, hang ở đỉnh phổi và Xpert (+) không phù hợp với viêm phổi thường (QĐ 162/2024 Phần II mục 3.2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Chẩn đoán xác định lao phổi bằng triệu chứng, X-quang ngực và Xpert đờm; không cần CT ngực",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần II mục 3.2.2 (bằng chứng vi khuẩn); cơ sở không có CT."
+    },
+    {
+     "t": "Chuyển ngay, kèm giấy chuyển tuyến, đến đơn vị quản lý lao tuyến huyện để đăng ký (trong tối đa 3 ngày) và điều trị ngoại trú phác đồ 2HRZE/4RHE",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần III mục 2.1.2 (phác đồ A1), 7.2.1 (đăng ký tuyến huyện, tối đa 3 ngày), 7.2.3 (ngoại trú tại xã hoặc huyện, tái khám hàng tháng, cấp thuốc tối đa 30 ngày mỗi lần)."
+    },
+    {
+     "t": "Tư vấn phòng lây: che miệng khi ho, đeo khẩu trang khi ra khỏi nhà hoặc tiếp xúc người khác, nhà thông thoáng, hạn chế tiếp xúc trực tiếp với trẻ nhỏ; giải thích khả năng lây giảm mạnh sau 2–4 tuần điều trị",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần V mục 1.1 (lây giảm sau 2–4 tuần điều trị), mục 4.1, 4.2."
+    },
+    {
+     "t": "Cháu nội 3 tuổi và người sống chung (con trai, con dâu) đi khám sàng lọc; cháu nếu loại trừ được lao hoạt động thì điều trị lao tiềm ẩn",
+     "v": "c",
+     "n": "QĐ 162/2024 Phần IV mục 1.1.1, 1.2.1 (trẻ dưới 5 tuổi tiếp xúc hộ gia đình: loại trừ lao hoạt động, chẩn đoán lao tiềm ẩn); mục 1.2.2 (người từ 5 tuổi: test lao và loại trừ lao hoạt động). Phác đồ lao tiềm ẩn: không kê tại phòng khám, do đơn vị lao quyết định."
+    },
+    {
+     "t": "Diazepam: không ngừng đột ngột; báo đơn vị lao vì isoniazid làm tăng và rifamycin làm giảm nồng độ diazepam",
+     "v": "c",
+     "n": "QĐ 162/2024 Phụ lục 7 Bảng 4 (diazepam); Joint 2025 điểm chính 3. Hậu quả lâm sàng cụ thể của tương tác: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nang thận: trấn an lần nữa, không làm gì thêm",
+     "v": "c",
+     "n": "Bosniak I không cần theo dõi (ACR 2018 mục 5; EAU RCC 2026 mục 3.5.7), hoặc theo dõi định kỳ (QĐ 3931/2015 mục 4a)."
+    },
+    {
+     "t": "Thử kháng sinh phổ rộng, nhất là levofloxacin, rồi theo dõi đáp ứng",
+     "v": "w",
+     "n": "Đã có Xpert (+) nên không cần thử; QĐ 162/2024 Phần II mục 3.2.2: không dùng fluoroquinolon khi thử kháng sinh để chẩn đoán lao; chậm điều trị (Phần III mục 7.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Lao phổi mới, Xpert MTB (+), chưa thấy kháng rifampicin, thể không nặng, điều trị ngoại trú",
+     "Nang thận đơn thuần (Bosniak I) thận phải 45 mm, không cần theo dõi thêm",
+     "Cháu nội 3 tuổi sống chung, cần loại trừ lao hoạt động và xét lao tiềm ẩn"
+    ],
+    "phan_tich_chan_doan": [
+     "Hỏi bệnh: thời gian ho, đờm, sốt chiều, mồ hôi đêm, sụt cân, ho ra máu; hỏi tiếp xúc, người sống chung, HIV, tiểu đường, thuốc đang dùng.",
+     "Khám phổi thấy ran nổ to hạt vùng đỉnh phải; X-quang có thâm nhiễm đỉnh phải, nghi hang; Xpert MTB (+) cho chẩn đoán xác định (QĐ 162/2024 Phần II mục 3.2.2). Không có CT cũng không cần.",
+     "Bà mắc lao dù lượt 1 xử trí đúng: ho 4 ngày, X-quang bình thường chưa đủ chẩn đoán, nhưng hẹn lại sớm giúp phát hiện lúc còn nhẹ. Mốc ho trên 2 tuần: QĐ 162/2024 Phần II mục 1.1 Bảng 1. Đánh giá quyết định theo thông tin lúc đó, không theo kết cục (tránh thiên lệch kết cục).",
+     "Nang thận không đổi và không liên quan lao phổi."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến để đăng ký và điều trị ngoại trú tại đơn vị lao (QĐ 162/2024 Phần III mục 7.2.1, 7.2.3). Không nhập viện vì không ho ra máu, suy hô hấp, suy kiệt (mục 7.2.2).",
+     "Phác đồ A1 2HRZE/4RHE theo cân nặng (Phần III mục 2.1.2; Phụ lục 6): thuốc do đơn vị lao kê và cấp; ghi vào đáp án để người học biết, không kê tại phòng khám.",
+     "Sàng lọc người tiếp xúc: cháu 3 tuổi ưu tiên (Phần IV mục 1.2.1).",
+     "Phòng lây: Phần V mục 4. Diazepam: giữ nguyên nguyên tắc không ngừng đột ngột, báo đơn vị lao (Phụ lục 7 Bảng 4)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "HRZE viên hỗn hợp liều cố định (do đơn vị lao kê, cấp)",
+      "ham_luong": "75 mg + 150 mg + 400 mg + 275 mg",
+      "lieu": "3 viên mỗi ngày (cân nặng 40–54 kg), giai đoạn tấn công",
+      "duong": "Uống",
+      "thoi_diem": "Một lần mỗi ngày, giờ cố định, xa bữa ăn",
+      "so_ngay": "2 tháng tấn công, sau đó 4 tháng duy trì (RHE)",
+      "ghi_chu": "QĐ 162/2024 Phần III mục 1.3, 2.1.2 (phác đồ A1); Phụ lục 6 Bảng 3. Liều duy trì theo bảng cân nặng cùng phụ lục."
+     }
+    ],
+    "dan_do": [
+     "Bà bị lao phổi, chữa khỏi được nếu uống thuốc đủ 6 tháng, uống đều mỗi ngày, có người trực tiếp theo dõi (QĐ 162/2024 Phần III mục 7.1).",
+     "Đến đơn vị lao tuyến huyện ngay, mang giấy chuyển tuyến và kết quả Xpert; phải đăng ký trong 3 ngày (QĐ 162/2024 Phần III mục 7.2.1).",
+     "Che miệng khi ho, đeo khẩu trang ra khỏi nhà, mở cửa thông thoáng, tạm không ngủ chung phòng với cháu; đưa cháu và người nhà đi khám.",
+     "Không tự ngừng diazepam; ho ra máu, khó thở thì đến cấp cứu."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Hòa được đăng ký tại đơn vị lao huyện và điều trị ngoại trú 2HRZE/4RHE. Sau 2 tháng hết ho, tăng 2 kg, đờm âm tính. Cháu nội được loại trừ lao hoạt động và dùng điều trị lao tiềm ẩn, hai người lớn trong nhà không mắc. Nang thận không đổi. Quyết định ở lượt 1 đúng, nhưng bà vẫn mắc lao vì đã phơi nhiễm từ trước khi đến khám.",
+ "nhieu": [
+  "Chẩn đoán tự tra mạng: bà đúng ở chỗ có nang thận, sai ở chỗ ung thư; công nhận phần đúng rồi giải thích, không hạ thấp bà.",
+  "Lý do thật là nỗi sợ nhồi máu cơ tim (anh trai mất); nhói ngực và chuyện anh trai chỉ ra khi được hỏi thẳng."
+ ],
+ "bai_hoc_bien": [
+  "Nang thận đơn thuần: siêu âm đủ để xếp Bosniak I; chưa nghĩ tới ung thư khi thành mỏng, trống âm, không vách (Bosniak 2019 Bảng 3, 4). Cơ sở không có CT vẫn chẩn đoán được.",
+  "Theo dõi nang: ACR 2018, EAU 2026 không cần; QĐ 3931/2015 siêu âm, nước tiểu, creatinin định kỳ. Biết cả hai và vì sao khác nhau.",
+  "Hỏi thẳng nỗi sợ thật của người bệnh (nhồi máu cơ tim): một điện tim và lời giải thích có thể giải quyết nhiều hơn mọi xét nghiệm.",
+  "Chống thiên lệch kết cục: lượt 1 xử trí đúng nhưng lượt 2 vẫn mắc lao; an toàn là nhờ dặn mốc 2 tuần và hẹn lại.",
+  "Tiếp xúc người ho kéo dài: ho trên 2 tuần mới nghi lao (QĐ 162/2024 Phần II mục 1.1); người sống chung với trẻ dưới 5 tuổi cần sàng lọc."
+ ],
+ "diem_nho": [
+  "Nang đơn thận: tròn, bờ đều, dịch trong, trống âm, không bóng cản (QĐ 3931/2015 mục 3b); Bosniak I không cần theo dõi (ACR 2018 mục 5; EAU RCC 2026 mục 3.5.7).",
+  "Chọc hút xơ hóa chỉ khi nang trên 6 cm hoặc có triệu chứng (QĐ 3931/2015 mục 4b); nang không đơn thuần trên siêu âm cần CT hoặc MRI (Bosniak 2019 tr. 481).",
+  "Người nghi lao phổi: ho kéo dài trên 2 tuần (QĐ 162/2024 Phần II mục 1.1 Bảng 1); Xpert MTB (+) là bằng chứng vi khuẩn (mục 3.2.2).",
+  "Đăng ký tuyến huyện trong tối đa 3 ngày; ngoại trú tại xã hoặc huyện; cấp thuốc tối đa 30 ngày mỗi lần (QĐ 162/2024 Phần III mục 7.2).",
+  "Benzodiazepin từ 65 tuổi: tránh (Beers 2023 Bảng 2); không ngưng đột ngột (Joint 2025 điểm chính 3); isoniazid, rifamycin tương tác diazepam (QĐ 162/2024 Phụ lục 7 Bảng 4)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 3931/QĐ-BYT 2015 (TL-0285), bài Nang đơn thận: mục 1, 3a–3d, 4a–4c – ĐÃ ĐỌC.",
+  "Bosniak 2019, Radiology 292:475 (TL-0530): Bảng 2 (chú thích về siêu âm), Bảng 3 (định nghĩa dịch đơn thuần), Bảng 4, tr. 481; ACR 2018 (TL-0535): Bảng 2, mục 5; EAU RCC 2026 (TL-0508): mục 3.5.7, 5.2.5 Bảng 5.1; QĐ 2388/2024 (TL-0280): bệnh thận đa nang trội – ĐÃ ĐỌC các mục trên.",
+  "Bộ Y tế – QĐ 162/QĐ-BYT 2024 Hướng dẫn chẩn đoán, điều trị và dự phòng bệnh lao (TL-0123): Phần II mục 1.1 (Bảng 1), 1.2 (Bảng 2), 3.1, 3.2.1, 3.2.2; Phần III mục 1.3, 2.1.2, 7.1, 7.2.1–7.2.3; Phần IV mục 1.1.1, 1.2.1, 1.2.2; Phần V mục 1.1, 4.1, 4.2; Phụ lục 6 (Bảng 1–3), Phụ lục 7 (Bảng 4) – ĐÃ ĐỌC. Số trang không ghi vì bản chữ không giữ.",
+  "ESC 2023 hội chứng vành cấp (TL-0069) mục 3.1.2, 3.2; AGS Beers 2023 (TL-0022) Bảng 2; ESRS 2023 mất ngủ (TL-0464) mục 4.2.1, Bảng 16; Joint CPG 2025 giảm liều benzodiazepin (TL-0575) điểm chính 3, khuyến cáo 5, 6; QĐ 2058/2020 (TL-0443) Bài 27 mục 4.3 (theo mục đã có trong sổ mâu thuẫn)."
+ ],
+ "ghi_chu_bien_tap": [
+  "27/11/2026: viết mới, 2 lượt. Đã đọc đủ các mục ghi trong nguồn; kiểm bằng rg trên bản chữ trước khi nộp.",
+  "Mâu thuẫn: theo dõi nang Bosniak I (ACR, EAU không cần; QĐ 3931 siêu âm định kỳ) – ghi cả hai (TN-0432_mau_thuan.md). Thuốc ngủ ở ≥ 65 tuổi: áp dụng mục đã có trong sổ.",
+  "Thiếu tài liệu: khoảng cách siêu âm định kỳ nang (QĐ 3931 không nêu); xử trí nang 3–6 cm không triệu chứng (không nêu); khuyến cáo khẩu trang cho người chăm sóc; hậu quả tương tác rifampicin–diazepam; cách tách viên diazepam 5 mg để giảm 5–10%; phác đồ lao tiềm ẩn chi tiết cho trẻ (không kê tại phòng khám). Số trang QĐ 162/2024 không ghi, chỉ ghi Phần, mục."
+ ]
+}
