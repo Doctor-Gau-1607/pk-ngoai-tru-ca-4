@@ -1,0 +1,790 @@
+{
+ "ma_ca": "TN-0435",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-27)",
+ "benh": "TN_suy_sinh_duc_nam",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Suy sinh dục nam / testosterone thấp",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm",
+   "Suy giáp"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Ca bẫy",
+  "loai_bay": "Hai chẩn đoán cùng lúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Từng khám 3 nơi không khỏi",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Tái phát",
+  "gioi": "Nam",
+  "co_co_do": "Có",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Xe ôm",
+  "yeu_to_khoi_phat": "Sau ăn thức ăn đường phố",
+  "thuoc_dang_dung": "Corticoid tự mua",
+  "ly_do_that_su_den_kham": "Muốn được cho thuốc ngủ"
+ },
+ "benh_nhan": {
+  "ten": "Nguyễn Văn Sáu",
+  "tuoi": 52,
+  "gioi": "Nam",
+  "nghe": "Chạy xe ôm (xe máy), khoảng 12 giờ mỗi ngày, hay chạy tối và đêm",
+  "can_nang": 74,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh Sáu'. Anh xưng 'tôi', gọi bác sĩ là 'bác sĩ'. Vợ anh (chị Nguyệt, 48 tuổi) xưng 'em', gọi chồng là 'ảnh', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Cộc, kiệm lời, sĩ diện đàn ông, mệt mỏi, nghi ngờ (\"chỗ nào cũng bảo tôi stress\"). Chỉ nói chuyện chăn gối khi được hỏi riêng, kín đáo, không phán xét; mềm lại khi bác sĩ nhắc đúng những gì anh đã làm và không bắt làm lại xét nghiệm vô ích.",
+  "kieu_nhieu": "Từng khám 3 nơi không khỏi: mất niềm tin, trả lời cộc, \"lại hỏi nữa\", đòi thuốc ngủ rồi về vì mai còn chạy xe. Lượt 1 không đưa vỉ thuốc nếu chỉ bị hỏi \"uống thuốc gì theo toa\"; lượt 2 chỉ đưa xấp giấy cũ khi được hỏi. Hợp tác khi bác sĩ tóm được cái đã làm ở ba nơi và chỉ ra điều chưa nơi nào làm.",
+  "nguoi_nha": "Lượt 1: vợ (chị Nguyệt) chở anh bằng xe máy, ngồi sát, lo, hay ngắt lời, giữ túi ni lông đựng thuốc và giấy cũ của anh; anh ngại nói chuyện vợ chồng khi có chị. Lượt 2: anh đi một mình.",
+  "ten_nguoi_nha": "Vợ (chị Nguyệt)",
+  "ngoai_hinh": {
+   "da": "#b9825a",
+   "toc": "#2a2420",
+   "kieuToc": "ngan",
+   "ao": "#6b7a59",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#c99872",
+    "toc": "#1d1713",
+    "kieuToc": "dai",
+    "ao": "#a06a7a",
+    "aoKieu": "baba",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Mất ngủ kéo dài, hai ngày nay mệt lả, chóng mặt; xin thuốc ngủ",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ: không có kỹ thuật viên chẩn đoán hình ảnh nên không X-quang, siêu âm (kéo theo không CT, MRI, nội soi). Phòng xét nghiệm chỉ nhận mẫu: sinh hóa trả sau khoảng 2 giờ, hormon sau nhiều giờ nên quyết định phải làm trước kết quả. Dùng được tại giường: ống nghe, huyết áp kế, nhiệt kế, SpO₂, đường huyết mao mạch, que nước tiểu, điện tim."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · tối thứ Sáu",
+   "tiep_don": "Anh Sáu, 52 tuổi, chạy xe ôm, được vợ chở đến phòng khám lúc 20 giờ 40 tối thứ Sáu (ngoài giờ, kỹ thuật viên đã về). Anh ngồi gục đầu trên ghế, mặt xanh xao, nói khẽ là mất ngủ cả năm nay, hai ngày nay mệt lả, chóng mặt, chỉ xin một viên thuốc ngủ rồi về. Sinh hiệu lúc tiếp đón (nằm): mạch 112 l/p, HA 88/54 mmHg, nhiệt độ 37,4 °C, nhịp thở 22 l/p, SpO₂ 98%.",
+   "ket_luan": "cap_cuu",
+   "neu_sai": {
+    "ve_hen": "Anh được kê thuốc ngủ, dặn uống nước rồi về. Đêm đó anh vẫn nôn, tiêu chảy, không giữ được thuốc và chưa được tiêm glucocorticoid: huyết áp tụt thêm, hạ đường huyết, lơ mơ, có thể ngất hoặc sốc tại nhà (ESE/ES 2024 (TL-0063) mục 6.3, Bảng 9). Thuốc ngủ còn che dấu hiệu rối loạn ý thức mà vợ anh cần để gọi cấp cứu.",
+    "theo_doi": "Anh nằm giường ở phòng khám qua đêm, uống nước đường–muối, chỉ một điều dưỡng canh. Cơ sở không có xét nghiệm tức thì, nội tiết hay hồi sức; chưa dùng glucocorticoid thì cơn kháng dịch (ESE/ES 2024 Bảng 9), xấu đi giữa đêm vẫn phải chuyển viện nặng hơn.",
+    "nhap_vien": "Anh được chở xe nhà đến khoa nội theo đường nhập viện thường: làm thủ tục, chờ giường nên liều hydrocortisone đầu tiên bị lùi hàng giờ, trong khi điều trị không được trì hoãn (ESE/ES 2024 mục 6.3). Huyết áp nằm 88/54 mmHg tụt thêm khi đứng nên anh dễ ngất trên xe."
+   },
+   "loi_mo": "Bác sĩ cho tôi xin viên thuốc ngủ thôi. Cả năm nay tôi không ngủ được, đi ba chỗ rồi mà chỗ nào cũng bảo tôi stress với thuốc bổ. Hai bữa nay còn mệt rã, chóng mặt, chắc tại thiếu ngủ. Cho tôi thuốc ngủ rồi tôi về, mai còn chạy xe.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "88/54",
+    "nhiet": "37,4",
+    "nhip_tho": 22,
+    "spo2": 98,
+    "canh_bao": [
+     "Mạch nhanh, huyết áp thấp ở tư thế nằm"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tôi mất ngủ cả năm nay, nằm trằn trọc, ngủ chập chờn được ba bốn tiếng. Hai bữa nay mệt rã, chóng mặt, đứng dậy là tối sầm. Cho tôi thuốc ngủ rồi tôi về.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra: xin thuốc ngủ; triệu chứng cấp bị xem nhẹ"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Tối thứ Tư tôi ăn gỏi cuốn với bún thịt nướng ở xe hàng đầu hẻm. Khuya đó đau quặn bụng, nôn ba lần, đi cầu lỏng. Thứ Năm và hôm nay đi cầu khoảng sáu bảy lần, phân lỏng sệt không máu, nôn thêm mấy lần, uống nước vào là ói. Hôm nay tôi không chạy xe, nằm cả ngày. Không sốt cao, chỉ ớn lạnh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát: ăn đồ đường phố, nôn và tiêu chảy hai ngày (yếu tố thúc đẩy; dễ đóng hồ sơ ở viêm dạ dày–ruột)"
+    },
+    {
+     "id": "thuoc_tu_mua",
+     "noi_dung": "Tôi đau lưng, đau gối mấy năm vì ngồi xe. Tám tháng trước bà chủ tiệm thuốc bán cho vỉ 'thuốc xương khớp', viên nhỏ trắng. Uống vào hết đau, ăn ngon, khỏe hẳn nên tôi uống đều, ngày bốn viên, hết vỉ mua vỉ khác. Vỉ thuốc còn trong túi của vợ, trên vỉ ghi Dexamethason 0,5 mg. Ngoài ra tôi không uống thuốc gì.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi cụ thể có tự mua thuốc xương khớp, thuốc giảm đau, thuốc tễ, thuốc nam hay thuốc ngoài toa không, hoặc hỏi vợ về túi thuốc. Hỏi 'đang uống thuốc gì theo toa' thì anh nói không có.",
+     "k": 1,
+     "y": "Corticoid tự mua (dexamethasone khoảng 2 mg/ngày × 8 tháng): chìa khóa của cả ca"
+    },
+    {
+     "id": "ngung_thuoc",
+     "noi_dung": "Từ tối thứ Tư đến giờ tôi nôn hoài, uống thuốc vào là ói nên chừng hai ngày nay không uống được viên nào. Trước đó tôi uống đều mỗi ngày, hiếm khi bỏ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngưng đột ngột corticoid lâu ngày cộng nôn, tiêu chảy: nguy cơ cơn suy thượng thận"
+    },
+    {
+     "id": "hinh_dang",
+     "noi_dung": "Mấy tháng nay tôi mập bụng, mặt tròn ra, da dễ bầm, đụng nhẹ là thâm. Cân nặng tăng khoảng sáu bảy ký. Tôi tưởng do ngồi xe nhiều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Dạng Cushing ngoại sinh (bị gán cho ngồi nhiều)"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Chuyện đó... tám chín tháng nay tôi hết hứng, buổi sáng thức dậy không còn cương như xưa, lúc cần thì không lên. Tôi xấu hổ nên không kể với ai, ba nơi trước cũng không dám nói. Tôi tưởng già rồi nên vậy.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi riêng, kín đáo (nhờ vợ ra ngoài hoặc hỏi nhỏ) về ham muốn, chuyện vợ chồng, cương buổi sáng. Không nói khi vợ ngồi cạnh hoặc khi bác sĩ chỉ hỏi chung 'còn gì khác không'.",
+     "k": 1,
+     "y": "Dữ kiện KHÔNG giải thích được bởi suy thượng thận cấp: mất ham muốn, mất cương buổi sáng ~8–9 tháng (chẩn đoán thứ hai)"
+    },
+    {
+     "id": "ba_noi",
+     "noi_dung": "Chỗ đầu là phòng khám tư: bảo tôi lo âu, cho diazepam 5 mg hai tuần, uống xong ngủ gật khi chạy xe nên tôi bỏ. Chỗ hai là bệnh viện quận: lấy máu, nói tuyến giáp bình thường, cho vitamin. Chỗ ba là thầy lang, cho thuốc bổ thận. Không chỗ nào hỏi tôi tự uống thuốc gì. Vợ giữ xấp giấy cũ, nhưng tôi không muốn đưa lại.",
+     "che_do": "tu_ke",
+     "k": 0,
+     "y": "Nhiễu: khám 3 nơi không khỏi, mất niềm tin, thuốc an thần cũ"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Mất ngủ làm tôi chạy xe lơ mơ, sợ tai nạn, sợ mất khách quen. Tôi nghĩ ngủ được là hết mệt. Tôi không muốn nằm viện vì nghỉ một ngày là mất tiền ngày đó, vợ con còn trông vào xe.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Khi bác sĩ hỏi vì sao anh đến xin thuốc ngủ, anh lo điều gì nhất, hoặc khi bác sĩ nói phải đi bệnh viện.",
+     "k": 1,
+     "y": "Lý do thật: muốn thuốc ngủ để chạy xe; sợ mất ngày công nên từ chối nhập viện"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, mệt, mặt xanh xao, nói chậm, môi khô, nếp véo da mất chậm. Mặt tròn đầy, bụng to (vòng eo 98 cm), cân nặng 74 kg, cao 168 cm (BMI 26,2). Da cẳng tay mỏng, vài mảng bầm xanh tím, rạn da màu tím nhạt hai bên hông. Không phù, không vàng da.",
+     "k": 1,
+     "hien": "Tỉnh, mệt, môi khô. Mặt tròn, bụng to (vòng eo 98 cm), cân nặng 74 kg, cao 168 cm. Da cẳng tay mỏng, vài mảng bầm."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: HA 88/54 mmHg, mạch 112 l/p. Đứng chưa đến 1 phút: HA 68/44 mmHg, mạch 128 l/p, choáng, vã mồ hôi, phải ngồi xuống ngay nên ngưng nghiệm pháp.",
+     "k": 1,
+     "hien": "Nằm: HA 88/54. Đứng chưa đến 1 phút: HA 68/44, anh choáng và phải ngồi xuống."
+    },
+    "tim": {
+     "a": "Tim nhanh đều 112 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Tim nhanh, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 22 l/p, phế âm đều hai bên, không ran, không co kéo.",
+     "k": 0,
+     "hien": "Nhịp thở 22 l/p, không co kéo.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn đau nhẹ quanh rốn, không phản ứng thành bụng, không co cứng, nhu động ruột tăng, không khối, gan lách không to.",
+     "k": 1,
+     "hien": "Bụng mềm, ấn đau nhẹ quanh rốn, không phản ứng thành bụng."
+    },
+    "tam_than": {
+     "a": "Tỉnh, định hướng tốt, nói chậm, hơi cáu, khí sắc mệt mỏi, tập trung kém. Không hoang tưởng, không có ý nghĩ tự hại.",
+     "k": 0,
+     "hien": "Tỉnh, định hướng tốt, mệt, hơi cáu, không ý nghĩ tự hại."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "e",
+     "r": "Đường huyết mao mạch (điều dưỡng Linh): 3,6 mmol/L",
+     "ab": 1,
+     "bang": {
+      "glu": 3.6
+     },
+     "n": "Đường huyết thấp gợi ý suy thượng thận (ESE/ES 2024 (TL-0063) Bảng 5, Bảng 9). Cách điều trị hạ đường huyết trong cơn: không có trong tài liệu đã tải. Làm tại giường."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Ceton (++), tỷ trọng 1.028, protein âm, bạch cầu âm, nitrit âm, hồng cầu âm.",
+     "n": "Ceton do nhịn ăn và mất nước; không đổi xử trí. Chấp nhận, không bắt buộc."
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 128 · K 4,6 · Cl 94 mmol/L (trả sau khoảng 2 giờ, sau khi đã tiêm hydrocortisone)",
+     "ab": 1,
+     "bang": {
+      "na": 128,
+      "k": 4.6,
+      "cl": 94
+     },
+     "n": "Hạ natri gặp ở suy thượng thận; kali ít tăng vì aldosteron còn (ESE/ES 2024 mục 6.3, Bảng 5, Bảng 9). Không được chờ kết quả mới dùng hydrocortisone (ESE/ES 2024 mục 6.3)."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 9,4 mmol/L · Creatinin 108 µmol/L · eGFR 71 mL/ph/1,73m² (trả sau khoảng 2 giờ)",
+     "ab": 1,
+     "bang": {
+      "ure": 9.4,
+      "creat": 108,
+      "egfr": 71
+     },
+     "n": "Ure tăng nhẹ do mất thể tích (ESE/ES 2024 Bảng 9). Lấy cùng lúc đặt đường truyền, không chờ."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 8,6 G/L · eosin 9% (0,77 G/L) · Hb 158 g/L · Hct 0,47 · TC 265 G/L (cô đặc máu)",
+     "ab": 1,
+     "bang": {
+      "wbc": 8.6,
+      "neu_pct": 50.0,
+      "neu": 4.3,
+      "lym_pct": 33.0,
+      "lym": 2.84,
+      "mono_pct": 7.0,
+      "mono": 0.6,
+      "eos_pct": 9.0,
+      "eos": 0.77,
+      "baso_pct": 1.0,
+      "baso": 0.09,
+      "rbc": 5.3,
+      "hgb": 158,
+      "hct": 0.47,
+      "mcv": 89.0,
+      "mch": 29.8,
+      "mchc": 336,
+      "rdw": 13.4,
+      "plt": 265
+     },
+     "n": "Eosin tăng (ESE/ES 2024 Bảng 9), bạch cầu không tăng nên không gợi nhiễm khuẩn huyết; Hb, Hct cao do cô đặc máu."
+    },
+    "cortisol_sang": {
+     "v": "a",
+     "r": "Cortisol huyết thanh lúc 21 giờ 05: 41 nmol/L; ACTH thấp. Trả sau nhiều giờ.",
+     "ab": 1,
+     "n": "Không bắt buộc và không được chờ: điều trị không được trì hoãn vì xét nghiệm (ESE/ES 2024 mục 6.3). Mẫu buổi tối không phải mẫu 8–9 giờ sáng của R 2.7 nên giá trị chẩn đoán hạn chế (suy luận)."
+    },
+    "androgen": {
+     "v": "n",
+     "r": "Không đo lúc này.",
+     "n": "Không đo testosterone khi đang bệnh cấp hoặc đang hồi phục: Endocrine Society 2018 (TL-0537) mục 1.1 (nhận xét kỹ thuật); EAU 2026 (TL-0509) mục 3.3.2 (tránh đo khi bệnh cấp). Đo sáng 7–10 giờ, nhịn ăn, lúc ổn định (EAU 2026 mục 3.3.4)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Cơn suy thượng thận cấp (nghi) trên nền suy thượng thận do glucocorticoid ngoại sinh: dexamethasone tự mua khoảng 2 mg/ngày × 8 tháng, ngưng đột ngột 2 ngày vì nôn và tiêu chảy",
+     "ok": 1,
+     "n": "Hạ huyết áp kèm nôn hoặc mệt nặng (ESE/ES 2024 (TL-0063) Bảng 9); người dùng glucocorticoid gần đây kèm tụt huyết áp, nôn, tiêu chảy thì nghĩ cơn suy thượng thận bất kể loại thuốc, đường dùng, liều (R 3.2). Dexamethasone 2 mg/ngày gấp 4–8 lần liều sinh lý 0,25–0,5 mg (mục 3.4), ngưng đột ngột và nôn–tiêu chảy là yếu tố thúc đẩy. Hạ đường huyết, hạ natri, eosin cao khớp (Bảng 5, 9). Chẩn đoán lâm sàng, không chờ xét nghiệm (mục 6.3)."
+    },
+    {
+     "t": "Suy sinh dục nam thứ phát (chức năng) do glucocorticoid ngoại sinh – nghi, chưa xác lập (hoãn đo testosterone đến khi hết bệnh cấp)",
+     "ok": 1,
+     "n": "Mất ham muốn và mất cương buổi sáng 8–9 tháng, cùng thời gian dùng dexamethasone, không được cơn suy thượng thận giải thích. Là triệu chứng gợi ý thiếu testosterone (Endocrine Society 2018 (TL-0537) Bảng 3); glucocorticoid là nguyên nhân thứ phát (Bảng 1; ESE/ES 2024 Bảng 7). Không đo lúc bệnh cấp (Endocrine Society 2018 mục 1.1)."
+    },
+    {
+     "t": "Mất nước do viêm dạ dày–ruột cấp đơn thuần (đóng hồ sơ sớm)",
+     "n": "Là yếu tố khởi phát nhưng KHÔNG đủ giải thích: huyết áp 68/44 mmHg khi đứng, hạ đường huyết, hạ natri, eosin cao, mặt tròn, da mỏng bầm. Bù nước mà không hỏi thuốc tự mua thì bỏ sót nguyên nhân (ESE/ES 2024 mục 6.3)."
+    },
+    {
+     "t": "Nhiễm khuẩn huyết, sốc nhiễm khuẩn",
+     "n": "Nhiệt độ 37,4 °C, bạch cầu 8,6 G/L, không ổ nhiễm khuẩn; nhiễm khuẩn là yếu tố thúc đẩy cơn (ESE/ES 2024 Bảng 9) nên bệnh viện vẫn theo dõi."
+    },
+    {
+     "t": "Rối loạn lo âu, trầm cảm (đã được chẩn đoán ở nơi khám đầu)",
+     "n": "Mất ngủ, mệt, khí sắc kém nằm trong dấu hiệu Cushing ngoại sinh và cai glucocorticoid (ESE/ES 2024 Bảng 5, Bảng 7); không giải thích được tụt huyết áp, hạ đường huyết, hạ natri. Sàng lọc PHQ-9 chi tiết để khi ổn định (lượt sau)."
+    },
+    {
+     "t": "Suy giáp",
+     "n": "Không phù niêm, mạch nhanh (không chậm < 60 l/p), TSH 2,3 mUI/L và FT4 bình thường ở nơi thứ hai; suy giáp cần TSH tăng, hormon giáp giảm (QĐ 3879/2014 (TL-0039) Suy giáp người lớn, mục IV.3, tr. 90). Không lặp lại xét nghiệm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng mọi thuốc tự mua (thuốc xương khớp, thuốc tễ, thuốc nam, giảm đau), xem vỉ thuốc: tên, liều, thời gian, lúc ngưng",
+     "v": "c",
+     "n": "Người dùng glucocorticoid gần đây kèm tụt huyết áp, nôn, tiêu chảy: nghĩ cơn suy thượng thận bất kể loại, đường dùng, liều (ESE/ES 2024 (TL-0063) R 3.2). Thuốc 'xương khớp' tự mua thường chứa glucocorticoid (sổ mâu thuẫn, mục 'Ngưng glucocorticoid ẩn'; QĐ 3879/2014 (TL-0039) Suy thượng thận do dùng corticoid, mục I)."
+    },
+    {
+     "t": "Đặt nằm đầu thấp, lập đường truyền, tiêm hydrocortisone 100 mg tĩnh mạch (hoặc bắp) ngay, không chờ xét nghiệm hay chẩn đoán hình ảnh",
+     "v": "c",
+     "n": "ESE/ES 2024 mục 6.3 (tr. G43): nghi cơn suy thượng thận thì tiêm ngay hydrocortisone 100 mg tĩnh mạch hoặc bắp, rồi hồi sức dịch; không trì hoãn vì xét nghiệm hay hình ảnh. QĐ 3879/2014 (TL-0039) Suy thượng thận cấp, mục IV: 100 mg bắp + 100 mg tĩnh mạch. Hai nguồn khác tổng liều khởi đầu, ghi cả hai. Nôn–tiêu chảy kéo dài mà huyết động mất ổn định thì nhập viện (Bảng 8)."
+    },
+    {
+     "t": "Truyền NaCl 0,9% nhanh (hồi sức dịch), thể tích theo đáp ứng, hoặc 1 lít NaCl 0,9% mỗi 4–6 giờ, khoảng 4 lít/24 giờ",
+     "v": "c",
+     "n": "ESE/ES 2024 mục 6.3 (tr. G43): \"rapid volume resuscitation\" bằng NaCl 0,9%, không nêu thể tích. QĐ 3879/2014, Suy thượng thận cấp, mục IV.1: 1 lít mỗi 4–6 giờ. Thể tích và tốc độ theo ESE 2024: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Gọi xe cấp cứu chuyển bệnh viện có nội tiết và hồi sức ngay sau liều đầu; bàn giao: giờ và liều đã tiêm, vỉ dexamethasone, nôn–tiêu chảy hai ngày, HA, đường huyết; theo dõi mạch, HA, ý thức trên đường",
+     "v": "c",
+     "n": "Mất ổn định huyết động thì nhập viện truyền tĩnh mạch (ESE/ES 2024 Bảng 8); người từng có cơn suy thượng thận cần nội tiết đánh giá (R 2.11). Phòng khám ngoài giờ không có xét nghiệm tức thì, hình ảnh, người theo dõi liên tục."
+    },
+    {
+     "t": "Thử đường huyết mao mạch, ghi điện tim, que nước tiểu tại giường; lấy máu Na, K, ure, creatinin lúc đặt đường truyền nhưng không chờ kết quả",
+     "v": "c",
+     "n": "Hạ đường huyết, hạ natri, ure tăng đều có trong Bảng 9 (ESE/ES 2024) nhưng 'không bắt buộc cho chẩn đoán'; điều trị không được chậm vì xét nghiệm (mục 6.3)."
+    },
+    {
+     "t": "Giải thích cho anh và vợ vì sao không cho về: 'thuốc xương khớp' đã làm tuyến thượng thận nghỉ việc, thiếu hormon này khi nôn–tiêu chảy thì tụt huyết áp, nguy hiểm tính mạng; hứa viết giấy nghỉ cho thời gian nằm viện",
+     "v": "c",
+     "n": "Cách nói là nhận xét thiết kế ca; nội dung theo ESE/ES 2024 mục 6.3 và Bảng 9. Anh từ chối vì sợ mất ngày công (suy luận từ bối cảnh nghề)."
+    },
+    {
+     "t": "Hỏi riêng kín đáo (nhờ vợ ra ngoài) về ham muốn, cương buổi sáng; ghi nhận nghi suy sinh dục do glucocorticoid, KHÔNG đo testosterone lúc này, hẹn đo sáng khi ổn định",
+     "v": "a",
+     "n": "Không bắt buộc ở lượt cấp cứu. Không đo testosterone khi bệnh cấp (Endocrine Society 2018 (TL-0537) mục 1.1; EAU 2026 (TL-0509) mục 3.3.2); hai mẫu buổi sáng nhịn ăn khi ổn định (mục 3.3.4)."
+    },
+    {
+     "t": "Kê thuốc ngủ hoặc an thần (benzodiazepin, thuốc nhóm Z) cho anh về",
+     "v": "h",
+     "n": "Rối loạn ý thức là dấu hiệu theo dõi cơn suy thượng thận (ESE/ES 2024 Bảng 9) nên thuốc ngủ che dấu hiệu (suy luận, như mục PK-0248 của sổ). CBT-I đầu tay, benzodiazepin tối đa 4 tuần (ESRS 2023 (TL-0464) tóm tắt, mục 4.2.1) và giảm tỉnh táo khi chạy xe."
+    },
+    {
+     "t": "Cho uống gấp đôi liều thuốc xương khớp, hoặc uống ORS rồi về nhà theo dõi",
+     "v": "h",
+     "n": "Khi nôn, tiêu chảy kéo dài hoặc huyết động không ổn định phải dùng glucocorticoid đường tiêm (ESE/ES 2024 R 3.1B, R 3.2); uống không giữ được vì nôn."
+    },
+    {
+     "t": "Chờ kết quả Na, K, cortisol hoặc đợi sáng mai làm xét nghiệm rồi mới dùng hydrocortisone",
+     "v": "h",
+     "n": "Không được trì hoãn vì xét nghiệm hay hình ảnh (ESE/ES 2024 mục 6.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Cơn suy thượng thận cấp (nghi) trên nền suy thượng thận do glucocorticoid ngoại sinh (dexamethasone tự mua khoảng 2 mg/ngày × 8 tháng, ngưng đột ngột hai ngày), do nôn–tiêu chảy sau ăn thức ăn đường phố",
+     "Dạng Cushing ngoại sinh: mặt tròn, bụng to, da mỏng bầm, rạn da",
+     "Chẩn đoán thứ hai nghi, chưa xác lập: suy sinh dục nam thứ phát (chức năng) do glucocorticoid; hoãn đo testosterone đến khi ổn định",
+     "Nhiễu: khởi phát giống viêm dạ dày–ruột đơn thuần; 'stress, lo âu' ở ba nơi khám trước; xin thuốc ngủ; anh từ chối nhập viện vì mất ngày công"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (nôn–tiêu chảy hai ngày, thuốc tự mua, ngưng đột ngột) → khám (tụt huyết áp tư thế, mặt tròn, da mỏng, bụng mềm) → que, đường huyết, ECG tại giường → chẩn đoán → tiêm hydrocortisone, truyền dịch, chuyển cấp cứu.",
+     "Vì sao là cơn suy thượng thận chứ không chỉ mất nước: hạ huyết áp kèm nôn, mệt nặng là tiêu chuẩn (ESE/ES 2024 Bảng 9); tụt huyết áp, nôn, tiêu chảy ở người dùng glucocorticoid gần đây thì nghĩ cơn suy thượng thận (R 3.2). Dùng > 3–4 tuần liều trên sinh lý nên trục thượng thận bị ức chế (mục 3.4). Đường huyết 3,6, Na 128, eosin 9% khớp (Bảng 5, 9).",
+     "Dữ kiện chẩn đoán 1 không giải thích: mất ham muốn và mất cương buổi sáng 8–9 tháng, do thiếu testosterone thứ phát (Endocrine Society 2018 Bảng 1, 3). Đóng hồ sơ ở \"suy thượng thận\" là bẫy.",
+     "Không đo testosterone lúc bệnh cấp (Endocrine Society 2018 mục 1.1; EAU 2026 (TL-0509) mục 3.3.2); đo sáng 7–10 giờ, nhịn ăn, hai lần, khi ổn định (mục 3.3.4).",
+     "Loại trừ: suy giáp (TSH 2,3 mUI/L, QĐ 3879/2014 (TL-0039) mục IV.3), lo âu/trầm cảm (mất ngủ, mệt thuộc ESE/ES 2024 Bảng 5, 7)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hydrocortisone 100 mg tĩnh mạch hoặc bắp ngay rồi hồi sức dịch NaCl 0,9%, không chờ xét nghiệm (ESE/ES 2024 mục 6.3); QĐ 3879/2014, Suy thượng thận cấp mục IV: 100 mg bắp + 100 mg tĩnh mạch và 1 lít NaCl 0,9% mỗi 4–6 giờ: ghi cả hai.",
+     "Duy trì hydrocortisone 200 mg/24 giờ (truyền liên tục, hoặc 50 mg mỗi 6 giờ tiêm) đến khi hồi phục lâm sàng và có hướng dẫn của nội tiết, do bệnh viện làm (ESE/ES 2024 mục 6.3, tr. G43); sau đó chuyển hydrocortisone uống và hẹn nội tiết (R 2.5, R 2.11).",
+     "Không dùng fludrocortison (ESE/ES 2024 R 2.12). Không kê thuốc ngủ: che dấu hiệu theo dõi, nguyên nhân chưa sửa, anh chạy xe (ESRS 2023 (TL-0464)). Anh từ chối nhập viện vì sợ mất ngày công: giải thích nguy cơ tử vong và hứa viết giấy nghỉ cho bệnh viện."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Hydrocortisone natri succinat (dạng tiêm)",
+      "ham_luong": "100 mg/lọ",
+      "lieu": "100 mg",
+      "duong": "Tiêm tĩnh mạch chậm (hoặc bắp)",
+      "thoi_diem": "Ngay khi nhận ra, trước kết quả xét nghiệm",
+      "so_ngay": "Một liều tại phòng khám; bệnh viện duy trì 200 mg/24 giờ (hoặc 50 mg mỗi 6 giờ)",
+      "ghi_chu": "ESE/ES 2024 (TL-0063) mục 6.3: 100 mg tĩnh mạch hoặc bắp, rồi 200 mg/24 giờ ở bệnh viện; hoặc QĐ 3879/2014 (TL-0039) Suy thượng thận cấp mục IV: 100 mg bắp + 100 mg tĩnh mạch."
+     },
+     {
+      "thuoc": "NaCl 0,9%",
+      "ham_luong": "500 mL/chai",
+      "lieu": "Hồi sức dịch nhanh, thể tích theo đáp ứng huyết động; hoặc 1 lít mỗi 4–6 giờ",
+      "duong": "Truyền tĩnh mạch",
+      "thoi_diem": "Ngay sau khi đặt đường truyền",
+      "so_ngay": "Chuyển bệnh viện tiếp tục",
+      "ghi_chu": "ESE/ES 2024 mục 6.3: rapid volume resuscitation bằng NaCl 0,9% (không nêu thể tích); hoặc QĐ 3879/2014 (Suy thượng thận cấp, mục IV.1): 1 lít mỗi 4–6 giờ, khoảng 4 lít/24 giờ."
+     }
+    ],
+    "dan_do": [
+     "Anh Sáu, \"thuốc xương khớp\" anh uống tám tháng có corticoid, làm tuyến thượng thận nghỉ việc; hai ngày nay nôn, tiêu chảy nên thiếu hormon, huyết áp tụt. Đây là cấp cứu: phải tiêm thuốc, truyền nước rồi vào bệnh viện (ESE/ES 2024 (TL-0063) mục 6.3, Bảng 9).",
+     "Mang theo vỉ thuốc, xấp giấy cũ; nói với bác sĩ ở bệnh viện anh dùng dexamethasone dài ngày và đã ngưng hai ngày. Đừng tự mua lại thuốc đó; ra viện sẽ được thuốc thay thế và hẹn khám nội tiết (ESE/ES 2024 R 2.5, R 2.11).",
+     "Chuyện ngủ, chuyện vợ chồng anh ngại nói: để khi anh khỏe lại tôi sẽ hỏi riêng và làm xét nghiệm đúng lúc; thuốc ngủ lúc này không giúp mà còn che dấu hiệu nguy hiểm."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sáng thứ Hai, bảy tuần sau",
+   "tiep_don": "Anh Sáu quay lại lúc 7 giờ 20 sáng thứ Hai, bảy tuần sau cơn suy thượng thận (bệnh viện điều trị bốn ngày, cho về với hydrocortisone uống và hẹn khám nội tiết mà anh chưa đi). Anh đi một mình, chưa ăn sáng vì định chạy xe sớm, còn mệt và vẫn mất ngủ nên xin thuốc ngủ lần nữa. Sinh hiệu: mạch 74 l/p, HA 122/78 mmHg, nhiệt độ 36,8 °C, nhịp thở 16 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh bị chuyển gấp lên tuyến trên để chụp MRI tuyến yên và xin tiêm testosterone. MRI chưa có chỉ định vì testosterone khoảng 6,5 nmol/L, prolactin bình thường, không đau đầu hay mờ mắt (Endocrine Society 2018 (TL-0537) mục 1.4; EAU 2026 (TL-0509) Hình 3.1). Anh mất thêm hai ngày công và thêm một nơi thứ tư nữa mà không khỏi.",
+    "nhap_vien": "Anh bị giữ nằm viện vài ngày 'cho chắc'. Huyết áp 122/78 mmHg không tụt khi đứng, mạch 74 l/p, không nôn hay tiêu chảy nên không có dấu hiệu cơn suy thượng thận tái diễn (ESE/ES 2024 (TL-0063) Bảng 9). Anh mất ngày công, vẫn chưa được hỏi về thuốc tự mua và chuyện tình dục, về nhà vẫn mệt, mất ngủ và nghi ngờ bác sĩ."
+   },
+   "loi_mo": "ra viện bảy tuần rồi mà tôi vẫn không khá. Cái vụ nôn, choáng hết rồi, nhưng người cứ uể oải, hết hứng thú mọi thứ, ngủ không nổi. Bác sĩ cho tôi xin thuốc ngủ đi, không ngủ thì chạy xe lơ mơ nguy hiểm lắm. Đừng bắt tôi xét nghiệm lại mấy thứ đã làm ở ba chỗ nữa nhé.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "122/78",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Ra viện bảy tuần mà vẫn mệt, mất ngủ, người uể oải. Cho tôi thuốc ngủ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra: xin thuốc ngủ; không đỡ sau điều trị cơn suy thượng thận"
+    },
+    {
+     "id": "ra_vien",
+     "noi_dung": "Tôi nằm bệnh viện bốn ngày, truyền nước, tiêm thuốc. Bác sĩ nói tuyến thượng thận bị 'nghỉ' vì uống thuốc xương khớp lâu, cho tôi hydrocortisone viên 10 mg: sáng một viên rưỡi, chiều nửa viên, dặn không được tự bỏ, hẹn khám nội tiết sau bốn tuần. Tôi chưa đi vì mất ngày công.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xử trí lượt 1: hydrocortisone thay thế 20 mg/ngày; hẹn nội tiết chưa đi"
+    },
+    {
+     "id": "giay_cu",
+     "noi_dung": "Xấp giấy các nơi: (1) phòng khám tư: toa diazepam 5 mg hai tuần. (2) bệnh viện quận, sáu tháng trước (lúc tôi đang uống thuốc xương khớp): TSH 2,3 mUI/L, FT4 bình thường; testosterone toàn phần lấy 8 giờ sáng nhịn ăn là 205 ng/dL (7,1 nmol/L), bác sĩ nói 'hơi thấp nhưng tuổi này chấp nhận được', không làm thêm gì. (3) công thức máu, đường huyết đói 5,6 mmol/L, điện tim bình thường.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Chỉ đưa khi bác sĩ hỏi có giấy xét nghiệm, toa thuốc của các nơi trước không, hoặc anh đã xét nghiệm những gì.",
+     "k": 1,
+     "y": "Mẫu testosterone buổi sáng thứ nhất (thấp) và TSH bình thường: tránh lặp lại xét nghiệm vô ích"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Từ hồi dùng thuốc xương khớp tới giờ gần như không còn chuyện vợ chồng. Ham muốn mất, buổi sáng không còn cương, lúc cần thì yếu. Tôi thấy râu mọc chậm, lông ở nách thưa, sức cơ yếu hơn trước, đêm có lúc bừng nóng mặt. Tôi ngại nên ba nơi trước tôi không dám nói.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Anh đi một mình nên nói khi bác sĩ hỏi riêng về ham muốn, cương, chuyện vợ chồng, râu tóc, sức cơ. Hỏi chung chung thì anh lảng sang chuyện mất ngủ.",
+     "k": 1,
+     "y": "Triệu chứng tình dục đặc hiệu và triệu chứng thiếu testosterone (chẩn đoán đích)"
+    },
+    {
+     "id": "tuyen_yen",
+     "noi_dung": "Tôi không đau đầu, mắt không mờ, không thấy bị mất một góc nhìn, ngực không to hay đau, không tiết sữa. Cũng chưa bị gãy xương hay té đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Âm tính triệu chứng khối vùng yên, nữ hóa tuyến vú: không cần MRI"
+    },
+    {
+     "id": "mong_con",
+     "noi_dung": "Hai đứa con tôi lớn rồi, vợ tôi 48 tuổi, tụi tôi không định sinh thêm.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Khi bác sĩ hỏi về con cái, kế hoạch sinh thêm hoặc chuyện sinh con.",
+     "k": 1,
+     "y": "Không muốn có con: cho phép bàn testosterone (EAU 2026, AUA 2018)"
+    },
+    {
+     "id": "dex_lai",
+     "noi_dung": "Hai tuần trước đau lưng dữ quá, không chạy xe nổi nên tôi mua lại vỉ thuốc xương khớp, uống hai viên mỗi ngày khoảng mười ngày rồi bỏ vì sợ. Tôi không dám nói với bác sĩ ở viện, sợ bị mắng. Hydrocortisone thì tôi vẫn uống đều.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi thẳng từ lúc ra viện anh có uống lại thuốc xương khớp hay thuốc giảm đau tự mua không, hoặc hỏi nguyên nhân đau lưng và cách anh đối phó. Hỏi 'có uống thuốc gì ngoài toa không' thì anh nói không.",
+     "k": 1,
+     "y": "Tái dùng dexamethasone tự mua (nguyên nhân nền chưa xử lý: đau lưng mạn do nghề)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Ba nơi trước nơi nào cũng cho thuốc ngủ hay thuốc an thần nên tôi tưởng ngủ được là hết bệnh. Thật ra tôi lo nhất là chuyện kia: sợ vợ chán, sợ mình hết làm đàn ông, mà không biết nói với ai.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Khi bác sĩ hỏi anh lo điều gì nhất, vì sao đến xin thuốc ngủ lần nữa, hoặc khi bác sĩ nói chuyện nhẹ nhàng, không phán xét.",
+     "k": 1,
+     "y": "Lý do thật: lo về chức năng sinh dục; xin thuốc ngủ chỉ là cái cớ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nét mặt mệt. Cân nặng 75 kg, cao 168 cm (BMI 26,6), vòng eo 99 cm. Mặt còn hơi tròn, da cẳng tay còn mỏng nhưng vết bầm cũ đã mờ. Râu thưa, lông nách thưa, lông mu thưa nhẹ. Không phù, không vàng da.",
+     "k": 1,
+     "hien": "Tỉnh, mệt. Cân nặng 75 kg, cao 168 cm, vòng eo 99 cm. Râu và lông nách thưa."
+    },
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: HA 122/78 mmHg, mạch 74 l/p. Đứng 3 phút: HA 118/76 mmHg, mạch 80 l/p, không choáng.",
+     "k": 1,
+     "hien": "Nằm: HA 122/78. Đứng 3 phút: HA 118/76, không choáng."
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p, phế âm đều hai bên, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 16 l/p, không co kéo.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, béo trung tâm, không đau, gan lách không to.",
+     "k": 0,
+     "hien": "Bụng mềm, không đau."
+    },
+    "bui_tinh_hoan": {
+     "a": "Hai tinh hoàn trong bìu, mềm, thể tích khoảng 12 mL mỗi bên (đo bằng thước đo thể tích), không khối, không giãn tĩnh mạch thừng tinh, mào tinh bình thường, không đau. Dương vật bình thường, lỗ tiểu ở đỉnh.",
+     "k": 1,
+     "hien": "Hai tinh hoàn trong bìu, mềm, không khối, không đau."
+    },
+    "truc_trang": {
+     "a": "Tuyến tiền liệt kích thước bình thường, mật độ đàn hồi, không nhân, không đau, rãnh giữa rõ.",
+     "k": 1,
+     "hien": "Tuyến tiền liệt không to, không nhân, không đau."
+    },
+    "vu": {
+     "a": "Hai bên không to vú, không khối, không tiết dịch núm vú, không đau.",
+     "k": 0,
+     "hien": "Không nữ hóa tuyến vú, không khối."
+    },
+    "tam_than": {
+     "a": "Tỉnh, tiếp xúc tốt, khí sắc trầm nhẹ, mệt, tập trung kém. Không hoang tưởng, không ý nghĩ tự hại. PHQ-9 anh tự điền: 8 điểm (mất ngủ 2, mệt 2, giảm hứng thú 2, tập trung 1, chậm chạp 1; ý nghĩ chết 0).",
+     "k": 1,
+     "hien": "Tỉnh, khí sắc mệt, không ý nghĩ tự hại. PHQ-9: 8 điểm."
+    },
+    "co_xuong_khop": {
+     "a": "Cột sống thắt lưng ấn đau cạnh sống L4–L5 hai bên, gập hạn chế nhẹ. Lasègue âm tính hai bên, không teo cơ, sức cơ chi dưới 5/5.",
+     "k": 0,
+     "hien": "Ấn đau cạnh sống thắt lưng, Lasègue âm tính, sức cơ bình thường."
+    }
+   },
+   "cls": {
+    "androgen": {
+     "v": "e",
+     "r": "Testosterone toàn phần lấy 7 giờ 50 sáng, nhịn ăn: 188 ng/dL (6,5 nmol/L). Mẫu cũ sáu tháng trước: 205 ng/dL (7,1 nmol/L).",
+     "ab": 1,
+     "n": "Thấp hơn mọi ngưỡng: 12 nmol/L (EAU 2026 (TL-0509) mục 3.3.5), 300 ng/dL (AUA 2018 (TL-0534) khuyến cáo 1), 264 ng/dL (Endocrine Society 2018 (TL-0537) Hình 1); sổ mục \"Ngưỡng testosterone toàn phần\" (TN-0441). Hai mẫu sáng nhịn ăn đều thấp cùng triệu chứng đủ chẩn đoán (Endocrine Society mục 1.1; AUA khuyến cáo 2, 3). Mẫu mới lấy sau khi anh dùng lại thuốc xương khớp 10 ngày rồi ngưng vài ngày: có thể còn ảnh hưởng, vẫn thấp. Lấy 7–10 giờ, nhịn ăn (EAU mục 3.3.4)."
+    },
+    "fsh_lh": {
+     "v": "e",
+     "r": "LH 1,6 IU/L · FSH 2,1 IU/L · Estradiol 48 pmol/L (LH, FSH thấp, không tương xứng với testosterone thấp)",
+     "ab": 1,
+     "n": "Phân biệt nguyên phát (LH tăng) với thứ phát (LH thấp hoặc bình thường không tương xứng): Endocrine Society 2018 khuyến cáo 1.3; AUA 2018 khuyến cáo 6; EAU 2026 mục 3.3.4, Hình 3.1. Thấp ⇒ thứ phát, hợp với glucocorticoid (Endocrine Society Bảng 1)."
+    },
+    "prl": {
+     "v": "e",
+     "r": "Prolactin 11 ng/mL (không tăng)",
+     "ab": 1,
+     "n": "Đo prolactin khi testosterone thấp kèm LH thấp hoặc thấp-bình thường (AUA 2018 khuyến cáo 7; EAU 2026 mục 3.3.4, khuyến cáo chẩn đoán); Endocrine Society 2018 mục 1.4 (nhận xét kỹ thuật). Bình thường nên không cần MRI tuyến yên."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "Hb 146 g/L · Hct 0,44 · BC 7,2 G/L · TC 255 G/L",
+     "bang": {
+      "wbc": 7.2,
+      "neu_pct": 58.0,
+      "neu": 4.18,
+      "lym_pct": 31.0,
+      "lym": 2.23,
+      "mono_pct": 7.0,
+      "mono": 0.5,
+      "eos_pct": 3.0,
+      "eos": 0.22,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 4.9,
+      "hgb": 146,
+      "hct": 0.44,
+      "mcv": 89.8,
+      "mch": 29.8,
+      "mchc": 332,
+      "rdw": 13.2,
+      "plt": 255
+     },
+     "n": "Nền trước khi cân nhắc testosterone: đo hemoglobin, hematocrit (AUA 2018 khuyến cáo 11). Hct 44% dưới mức 48% (Endocrine Society 2018 mục 2.2; EAU 2026 mục 3.4.1: 48–50% là chống chỉ định tương đối, ≥ 54% tuyệt đối)."
+    },
+    "psa": {
+     "v": "a",
+     "r": "PSA 0,9 ng/mL",
+     "n": "PSA nền ở nam > 40 tuổi (AUA 2018 khuyến cáo 12; EAU 2026 mục 3.5.8); Endocrine Society 2018 khuyến cáo 2.3 chỉ bàn ở nam 55–69 tuổi hoặc 40–69 tuổi nguy cơ cao (sổ TN-0441): ghi cả hai."
+    },
+    "cortisol_sang": {
+     "v": "n",
+     "r": "Không làm hôm nay.",
+     "n": "Cortisol 8–9 giờ sáng chỉ lấy sau ≥ 24 giờ không dùng hydrocortisone, khi đã về liều sinh lý (ESE/ES 2024 (TL-0063) R 2.7, tr. G37–G38); mới bảy tuần sau cơn nên do nội tiết quyết định (R 2.11). Ngưỡng ESE 2024 khác QĐ 3879/2014: sổ mục \"Ngưỡng cortisol 8 giờ sáng\" (NT-0103)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Suy sinh dục nam thứ phát (chức năng) liên quan glucocorticoid ngoại sinh, có thể kèm thừa cân",
+     "ok": 1,
+     "n": "Testosterone toàn phần 188 ng/dL, hai mẫu sáng nhịn ăn thấp, LH và FSH thấp không tương xứng, triệu chứng tình dục đặc hiệu (mất ham muốn, mất cương buổi sáng) kèm lông râu thưa (Endocrine Society 2018 (TL-0537) khuyến cáo 1.1, 1.3; AUA 2018 (TL-0534) khuyến cáo 1, 2, 6; EAU 2026 (TL-0509) mục 3.3.5, Hình 3.1). Glucocorticoid gây suy sinh dục thứ phát (Endocrine Society 2018 Bảng 1)."
+    },
+    {
+     "t": "Suy thượng thận do glucocorticoid sau cơn suy thượng thận cấp, đang thay thế bằng hydrocortisone",
+     "ok": 1,
+     "n": "Chẩn đoán đã có từ lượt 1; vẫn phải duy trì hydrocortisone, không tự ngưng, chưa đánh giá phục hồi trục dưới đồi–tuyến yên–thượng thận (ESE/ES 2024 (TL-0063) R 2.7, R 2.11)."
+    },
+    {
+     "t": "Suy sinh dục nam nguyên phát (tinh hoàn)",
+     "n": "Loại trừ: LH 1,6 IU/L thấp, không tăng; tinh hoàn mềm 12 mL, không khối (Endocrine Society 2018 khuyến cáo 1.3; EAU 2026 Hình 3.1)."
+    },
+    {
+     "t": "U tuyến yên tiết prolactin hoặc khối vùng yên",
+     "n": "Loại trừ: prolactin 11 ng/mL, không đau đầu, không mất thị trường, không tiết sữa; testosterone trên 150 ng/dL nên không chỉ định MRI (Endocrine Society 2018 mục 1.4; AUA 2018 khuyến cáo 7)."
+    },
+    {
+     "t": "Trầm cảm",
+     "n": "PHQ-9 = 8 điểm, dưới ngưỡng 10 (PHQ-9, Kroenke 2001 (TL-0600), bảng điểm). Mệt, mất ngủ, giảm hứng thú trùng triệu chứng suy sinh dục và suy thượng thận (ESE/ES 2024 Bảng 5, Bảng 7; Endocrine Society 2018 Bảng 3): chưa kết luận trầm cảm, khám lại sau khi điều trị nguyên nhân."
+    },
+    {
+     "t": "Suy giáp",
+     "n": "TSH 2,3 mUI/L, FT4 bình thường sáu tháng trước, không có dấu hiệu suy giáp mới; QĐ 3879/2014 (TL-0039) Suy giáp người lớn, mục IV.3."
+    },
+    {
+     "t": "Ngưng thở khi ngủ gây mất ngủ và mệt",
+     "n": "Ít nghĩ: vợ nói ngáy nhưng không ngưng thở, ban ngày không gật gù nặng; cần đánh giá ngưng thở khi ngủ trước testosterone (Endocrine Society 2018 mục 2.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đọc kỹ giấy tờ ba nơi, không lặp lại TSH và công thức máu cũ; xin lỗi anh vì phải hỏi lại chuyện riêng rồi hỏi kín (nhờ anh nói riêng) về ham muốn, cương buổi sáng, vỉ thuốc xương khớp đã mua lại",
+     "v": "c",
+     "n": "Nhận xét thiết kế. Hỏi triệu chứng tình dục là bước đầu (AUA 2018 khuyến cáo 1; EAU 2026 mục 3.3.1). Dùng lại glucocorticoid tự mua cần hỏi thẳng vì anh đã giấu (ESE/ES 2024 R 3.2: nghĩ suy thượng thận ở người từng dùng glucocorticoid)."
+    },
+    {
+     "t": "Lấy testosterone toàn phần buổi sáng nhịn ăn (lần hai), LH, FSH, prolactin, SHBG nếu ngưỡng ranh giới",
+     "v": "c",
+     "n": "Hai mẫu sáng nhịn ăn riêng biệt (Endocrine Society 2018 khuyến cáo 1.1; AUA 2018 khuyến cáo 2; EAU 2026 mục 3.3.4). Phân biệt nguyên phát/thứ phát bằng LH (Endocrine Society khuyến cáo 1.3; AUA khuyến cáo 6); prolactin khi LH thấp (AUA khuyến cáo 7)."
+    },
+    {
+     "t": "Ghi ba ngưỡng testosterone: 12 nmol/L (EAU 2026 mục 3.3.5), 300 ng/dL (AUA 2018 khuyến cáo 1), 264 ng/dL (Endocrine Society 2018 Hình 1); 188 ng/dL thấp hơn cả ba",
+     "v": "c",
+     "n": "Mâu thuẫn đã ghi trong sổ (mục \"Ngưỡng testosterone toàn phần\", TN-0441): ba nguồn khác ngưỡng dưới của người trẻ khỏe mạnh/đồng thuận; ca này thấp hơn cả ba nên kết luận như nhau."
+    },
+    {
+     "t": "Xếp loại thứ phát/chức năng do glucocorticoid, không chỉ định MRI yên",
+     "v": "c",
+     "n": "LH thấp, prolactin bình thường, không triệu chứng khối, testosterone > 150 ng/dL (Endocrine Society 2018 mục 1.4); EAU 2026 Hình 3.1: MRI khi testosterone < 6 nmol/L hoặc prolactin cao, đau đầu, rối loạn thị giác."
+    },
+    {
+     "t": "Ngưng hẳn thuốc xương khớp tự mua; tiếp tục hydrocortisone, không thêm fludrocortisone",
+     "v": "c",
+     "n": "Hydrocortisone 15–25 mg/ngày là liều sinh lý (ESE/ES 2024 Bảng 1, R 2.2); R 2.5 chuyển glucocorticoid tác dụng dài (dexamethasone) sang tác dụng ngắn; R 2.12 khuyến cáo không dùng fludrocortisone cho suy thượng thận do glucocorticoid. Glucocorticoid ngoại sinh còn là nguyên nhân của suy sinh dục."
+    },
+    {
+     "t": "Hẹn nội tiết (anh chưa đi): đánh giá phục hồi trục thượng thận và giảm liều dần",
+     "v": "c",
+     "n": "ESE/ES 2024 R 2.11: bệnh nhân muốn ngưng glucocorticoid cần được đánh giá bởi nội tiết; R 2.7: cortisol 8–9 giờ sáng chỉ đo sau ≥ 24 giờ không dùng hydrocortisone (tr. G37–G38). Không tự làm tại phòng khám."
+    },
+    {
+     "t": "Dặn quy tắc ngày bệnh: sốt, nhiễm trùng thì uống gấp đôi liều hydrocortisone (40 mg/ngày) suốt đợt; nôn hoặc tiêu chảy kéo dài thì tiêm bắp hydrocortisone 100 mg và đi viện; mang thẻ suy thượng thận",
+     "v": "c",
+     "n": "ESE/ES 2024 R 1.2, R 3.1A–3.1B và Bảng 8, tr. G44–G45: gấp đôi liều thay thế (hydrocortisone 40 mg/ngày, chia 20 mg sáng, 10 mg trưa, 10 mg 17 giờ); nôn hoặc tiêu chảy kéo dài mà còn tỉnh táo: hydrocortisone 100 mg bắp ngay, lặp lại sau 6 giờ nếu cần, không hết hoặc huyết động mất ổn định thì nhập viện (Bảng 8)."
+    },
+    {
+     "t": "Bàn testosterone: A là chỉnh nguyên nhân rồi đo lại sau ~3 tháng, hoặc B là gel 1–2% 50–100 mg/ngày sau khi bàn lợi–hại, kèm PSA, thăm trực tràng, hematocrit, con cái",
+     "v": "c",
+     "n": "Hai cách đều đúng, sổ mục TN-0441: chỉnh nguyên nhân trước (Endocrine Society 2018 khuyến cáo 2.1 nhận xét; EAU 2026 mục 3.4) hoặc điều trị ngay khi có triệu chứng và testosterone thấp (AUA 2018 khuyến cáo 8, 9; EAU mục 3.4.2); gel 1–2% 50–100 mg/ngày (EAU Bảng 3.5). Nền: PSA (AUA khuyến cáo 12), hematocrit (AUA khuyến cáo 11; 48–50% chống chỉ định tương đối, ≥ 54% tuyệt đối, EAU mục 3.4.1), con cái (AUA khuyến cáo 10, 16; anh không muốn sinh thêm). Đánh giá đầu sau 3 tháng (EAU mục 3.5.8)."
+    },
+    {
+     "t": "Không kê thuốc ngủ; giải thích mất ngủ do glucocorticoid và các nguyên nhân khác, hướng dẫn vệ sinh giấc ngủ, CBT-I; anh chạy xe ôm nên tránh benzodiazepin",
+     "v": "c",
+     "n": "ESRS 2023 (TL-0464) tóm tắt, mục 4.1.1, 4.2.1: CBT-I đầu tay, benzodiazepin chỉ ngắn hạn và giảm tỉnh táo. Thuốc ngủ ở người đang suy thượng thận che dấu rối loạn ý thức (ESE/ES 2024 Bảng 9; suy luận như mục PK-0248 của sổ)."
+    },
+    {
+     "t": "Đau lưng: vận động nhẹ có hướng dẫn, thuốc kháng viêm không steroid liều thấp ngắn ngày nếu cần, thận trọng dạ dày (anh đang dùng hydrocortisone); không dùng lại corticoid",
+     "v": "a",
+     "n": "NICE NG59 2020 (TL-0372) 1.2.2 (nhóm tập), 1.2.22–1.2.24 (NSAID uống liều thấp nhất, ngắn nhất, cân nhắc bảo vệ dạ dày)."
+    },
+    {
+     "t": "Kê testosterone ngay chỉ để \"khỏe, có sức hơn\", không thăm trực tràng, không PSA, không bàn về con cái",
+     "v": "w",
+     "n": "Không có trong khuyến cáo: chỉ dùng cho người có triệu chứng và xét nghiệm xác nhận (AUA 2018 khuyến cáo 8; EAU 2026 mục 3.4); chống chỉ định/thận trọng ung thư tiền liệt tuyến (AUA 2018 khuyến cáo 12; EAU mục 3.5.4). TRAVERSE: gãy xương lâm sàng 3,50% so với 2,46% giả dược, HR 1,43 (TL-0541, Buhr 2024); EAU 2026 mục 3.4.2.e nói chưa đủ dữ liệu về nguy cơ gãy xương."
+    },
+    {
+     "t": "Kê diazepam hoặc zolpidem theo yêu cầu",
+     "v": "w",
+     "n": "Anh chạy xe ôm; ESRS 2023 mục 4.2.1 nêu benzodiazepin giảm tỉnh táo. Anh đã nhận thuốc an thần ở ba nơi mà không khỏi."
+    },
+    {
+     "t": "Bảo anh bỏ hydrocortisone vì \"đã khỏe\", hoặc thay bằng dexamethasone để tiện uống một lần",
+     "v": "h",
+     "n": "Ngưng đột ngột hoặc dùng thuốc dài tác dụng đã gây cơn suy thượng thận lần trước (ESE/ES 2024 R 2.5, R 3.2); cần nội tiết đánh giá trước khi ngưng (R 2.11)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Suy sinh dục nam thứ phát (chức năng) liên quan glucocorticoid ngoại sinh, testosterone toàn phần 188 ng/dL (hai mẫu sáng nhịn ăn), LH và FSH thấp, prolactin bình thường, có triệu chứng tình dục đặc hiệu",
+     "Suy thượng thận do glucocorticoid sau cơn cấp, đang uống hydrocortisone 20 mg/ngày; anh tự dùng lại thuốc xương khớp khoảng 10 ngày gần đây, đã ngưng",
+     "Đã loại trừ: suy sinh dục nguyên phát, khối vùng yên, suy giáp, trầm cảm (PHQ-9 8), ngưng thở khi ngủ nặng",
+     "Nhiễu: xin thuốc ngủ là lý do bề mặt, nỗi sợ thật là chuyện tình dục mà anh ngại nói; ba nơi khám trước đều kê thuốc an thần"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự (Endocrine Society 2018 mục 1; EAU 2026 mục 3.3): hỏi bệnh (giấy cũ, triệu chứng tình dục, thuốc tự mua dùng lại, dấu hiệu khối vùng yên, con cái) → khám (cân nặng, vòng eo, lông râu, tinh hoàn, trực tràng, vú, HA tư thế, PHQ-9) → xét nghiệm → chẩn đoán → xử trí.",
+     "Thứ phát và liên quan glucocorticoid: LH 1,6 IU/L thấp, không tương xứng testosterone thấp (Endocrine Society 2018 khuyến cáo 1.3; EAU 2026 Hình 3.1; Endocrine Society Bảng 1). Mẫu cũ 205 ng/dL cũng thấp hơn mọi ngưỡng, không phải \"tuổi này chấp nhận được\".",
+     "Hai chẩn đoán cùng lúc: suy thượng thận giải thích mệt, cơn cấp, nhưng không giải thích mất ham muốn, mất cương buổi sáng, râu và lông nách thưa, tinh hoàn nhỏ. Mất ngủ, mệt, giảm hứng thú trùng cả hai và trùng trầm cảm (ESE/ES 2024 Bảng 5, 7; Endocrine Society 2018 Bảng 3).",
+     "Mức testosterone chẩn đoán: 12 nmol/L (EAU 2026 mục 3.3.5) hoặc 300 ng/dL (AUA 2018 khuyến cáo 1) hoặc 264 ng/dL (Endocrine Society 2018 Hình 1). Ba nguồn khác nhau vì khác nguồn dữ liệu và bối cảnh; anh thấp hơn cả ba."
+    ],
+    "phan_tich_xu_tri": [
+     "Thuốc ngủ che dấu hiệu rối loạn ý thức, không sửa nguyên nhân; CBT-I đầu tay, benzodiazepin chỉ ngắn hạn (ESRS 2023 (TL-0464) mục 4.1.1, 4.2.1); anh chạy xe ôm.",
+     "Hydrocortisone tiếp tục, ngưng thuốc xương khớp; nội tiết đánh giá phục hồi trục thượng thận (ESE/ES 2024 R 2.7, R 2.11); không dùng fludrocortisone (R 2.12).",
+     "Testosterone, hai cách đều đúng. A: sửa nguyên nhân rồi đo lại sau khoảng 3 tháng (Endocrine Society 2018 khuyến cáo 2.1; EAU 2026 mục 3.4, 3.5.8). B: gel 1–2% 50–100 mg/ngày sau khi bàn lợi–hại (AUA 2018 khuyến cáo 8, 9; EAU Bảng 3.5). Khác nhau vì AUA, EAU nhấn điều trị khi có triệu chứng, Endocrine Society nhấn nguyên nhân đảo ngược được.",
+     "Trước và trong testosterone: PSA, thăm trực tràng, hematocrit (AUA 2018 khuyến cáo 11, 12; EAU mục 3.4.1, 3.5.8); testosterone ức chế sinh tinh (AUA khuyến cáo 10, 16). TRAVERSE: gãy xương 3,50% so với 2,46%, HR 1,43 (TL-0541)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Hydrocortisone viên",
+      "ham_luong": "10 mg",
+      "lieu": "1,5 viên (15 mg) buổi sáng và 0,5 viên (5 mg) khoảng 14 giờ, tổng 20 mg/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Sáng lúc thức dậy, chiều 14 giờ, uống cùng bữa ăn",
+      "so_ngay": "Tiếp tục đến khi nội tiết đánh giá, không tự ngưng",
+      "ghi_chu": "Đã được kê khi ra viện. Liều sinh lý 15–25 mg/ngày (ESE/ES 2024 (TL-0063) Bảng 1, R 2.2). Chia liều sáng–chiều: không có số cụ thể trong tài liệu đã tải cho ca này."
+     },
+     {
+      "thuoc": "Thuốc xương khớp tự mua (dexamethasone)",
+      "ham_luong": "Theo vỉ anh đang giữ",
+      "lieu": "Ngưng, không dùng lại",
+      "duong": "Uống",
+      "thoi_diem": "Không",
+      "so_ngay": "Ngưng hẳn",
+      "ghi_chu": "Glucocorticoid tác dụng dài dùng lén là nguyên nhân cơn suy thượng thận và suy sinh dục (ESE/ES 2024 R 2.5; Endocrine Society 2018 Bảng 1)."
+     },
+     {
+      "thuoc": "Testosterone gel 1–2% (chỉ nếu chọn cách B sau khi bàn lợi–hại, đã có PSA, thăm trực tràng, hematocrit)",
+      "ham_luong": "Gel 1–2%",
+      "lieu": "50–100 mg/ngày",
+      "duong": "Thoa da",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Đánh giá sau 3 tháng",
+      "ghi_chu": "EAU 2026 (TL-0509) Bảng 3.5, mục 3.5.8. Thận trọng lây sang người khác khi tiếp xúc (Bảng 3.5). Nếu chọn cách A thì không kê."
+     }
+    ],
+    "dan_do": [
+     "Không bỏ hydrocortisone, không uống lại thuốc xương khớp; sốt hoặc nhiễm trùng thì gấp đôi liều (40 mg/ngày); nôn, tiêu chảy kéo dài thì tiêm bắp hydrocortisone 100 mg và đi viện ngay (ESE/ES 2024 R 3.1A–3.1B, Bảng 8).",
+     "Mang theo thẻ ghi suy thượng thận; đi khám nội tiết trong tuần này, nhờ vợ nhắc.",
+     "Chuyện vợ chồng là bệnh thật có thể điều trị, không phải yếu đuối; hẹn tái khám 3 tháng đo lại testosterone, hematocrit, PSA (EAU 2026 mục 3.5.8).",
+     "Đau lưng: tập nhẹ, cần thì kháng viêm liều thấp ngắn ngày sau ăn (NICE NG59 1.2.22–1.2.24); không uống thuốc xương khớp không rõ thành phần."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Lượt 1: anh Sáu nhận ra thuốc xương khớp là glucocorticoid, đồng ý chuyển viện; bệnh viện điều trị bốn ngày rồi cho về với hydrocortisone. Lượt 2: chẩn đoán thứ hai (suy sinh dục nam thứ phát liên quan glucocorticoid) được xác lập, anh không được kê thuốc ngủ, ngưng thuốc tự mua, hẹn nội tiết, bàn testosterone hai cách. Tái phát: anh từng dùng lại thuốc tự mua 10 ngày, nguy cơ lặp lại cơn nếu ngưng đột ngột; thời gian hồi phục trục: không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Từng khám ba nơi không khỏi: nơi nào cũng cho thuốc ngủ hoặc an thần, gán cho stress, lo âu (ESE/ES 2024 (TL-0063) Bảng 5, 7: triệu chứng trùng lo âu, trầm cảm).",
+  "Khởi phát sau ăn thức ăn đường phố: nôn, tiêu chảy khiến nghĩ viêm dạ dày–ruột đơn thuần, che nguyên nhân ngưng đột ngột glucocorticoid (ESE/ES 2024 R 3.2).",
+  "Lý do thật khi đến khám là xin thuốc ngủ; nỗi lo thật là chuyện tình dục anh ngại nói, chỉ lộ khi hỏi riêng.",
+  "Thuốc xương khớp tự mua: anh không biết có glucocorticoid, lượt 2 còn dùng lại lén 10 ngày."
+ ],
+ "bai_hoc_bien": [
+  "Người dùng glucocorticoid gần đây (kể cả thuốc xương khớp không rõ thành phần) kèm tụt huyết áp, nôn, tiêu chảy: nghĩ cơn suy thượng thận, tiêm hydrocortisone ngay, không chờ xét nghiệm (ESE/ES 2024 (TL-0063) R 3.2, mục 6.3).",
+  "Không đo testosterone khi bệnh cấp; đo hai mẫu sáng nhịn ăn khi ổn định, kèm LH, FSH, prolactin để phân biệt nguyên phát và thứ phát (Endocrine Society 2018 (TL-0537) khuyến cáo 1.1, 1.3; AUA 2018 (TL-0534) khuyến cáo 2, 6, 7; EAU 2026 (TL-0509) mục 3.3).",
+  "Không kê thuốc ngủ cho người đang suy thượng thận và chạy xe; điều trị nguyên nhân trước (ESRS 2023 (TL-0464) 4.2.1).",
+  "Bàn testosterone kèm PSA, hematocrit, con cái; ghi cả hai cách (chỉnh nguyên nhân rồi đo lại, hoặc bắt đầu gel) theo mục sổ TN-0441."
+ ],
+ "diem_nho": [
+  "Ngưỡng testosterone: 12 nmol/L (EAU 2026 mục 3.3.5), 300 ng/dL (AUA 2018 khuyến cáo 1), 264 ng/dL (Endocrine Society 2018 Hình 1).",
+  "Hydrocortisone tiêm 100 mg ngay khi nghi cơn suy thượng thận; hydrocortisone sinh lý 15–25 mg/ngày (ESE/ES 2024 Bảng 1, R 2.2)."
+ ],
+ "nguon": [
+  "ESE/ES 2024 – TL-0063 – R 1.2, R 2.2, R 2.5, R 2.7, R 2.11, R 2.12, R 3.1A–3.1B, R 3.2, mục 6.3 (tr. G43), Bảng 1, 5, 7, 8, 9.",
+  "QĐ 3879/2014 – TL-0039 – Suy thượng thận cấp mục IV; Suy giáp người lớn mục IV.3.",
+  "QĐ 3879/2014 – TL-0039 – Suy thượng thận cấp mục IV; Suy giáp mục IV.3.",
+  "AUA 2018 – TL-0534 – khuyến cáo 1–12, 16.",
+  "Endocrine Society 2018 – TL-0537 – khuyến cáo 1.1, 1.3, 1.4, 2.1, 2.3, mục 2.2, Bảng 1–3, Hình 1.",
+  "TRAVERSE fracture substudy 2024 – TL-0541 – Kết quả (HR 1,43).",
+  "PHQ-9 Kroenke 2001 – TL-0600.",
+  "ESRS Insomnia 2023 – TL-0464 – tóm tắt, mục 4.1.1, 4.2.1.",
+  "NICE NG59 2020 – TL-0372 – 1.2.2, 1.2.16, 1.2.22–1.2.24."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 2026-11-27. Tài liệu đã đọc: TL-0063 (R 1.2, 2.x, 3.x, mục 6.3, Bảng 1–9), TL-0039 (suy thượng thận cấp, suy giáp), TL-0509 (mục 3.3–3.5, Bảng 3.3, 3.5), TL-0534, TL-0537, TL-0541, TL-0600, TL-0464, TL-0372.",
+  "Mâu thuẫn: đã có trong sổ (ngưỡng testosterone; lối sống hay testosterone ngay; Hct; PSA; hydrocortisone + NaCl; cortisol; thuốc ngủ); không thêm mục mới.",
+  "Không có trong tài liệu đã tải (ESE/ES 2024): thể tích dịch truyền cho cơn cấp, cách điều trị hạ đường huyết trong cơn, thời gian hồi phục trục thượng thận, cách chia 15 mg sáng + 5 mg chiều, khoảng tái khám cho nhánh A. Không ảnh da."
+ ]
+}

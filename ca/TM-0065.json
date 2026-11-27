@@ -1,0 +1,679 @@
+{
+ "ma_ca": "TM-0065",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_viem_ket_mac_cap_vi_khuan",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm kết mạc (virus/vi khuẩn/dị ứng)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm màng bồ đào",
+   "Glôcôm cấp",
+   "Viêm giác mạc"
+  ],
+  "nhom_tuoi": "Học sinh (6–15 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ hoàn toàn khi tái khám",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Học sinh",
+  "yeu_to_khoi_phat": "Sau dùng thực phẩm chức năng",
+  "thuoc_dang_dung": "Kháng sinh đã dùng 3 ngày",
+  "ly_do_that_su_den_kham": "Đọc thông tin trên mạng lo lắng"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Quốc Bảo",
+  "tuoi": 10,
+  "gioi": "Nam",
+  "nghe": "Học sinh lớp 5",
+  "can_nang": 32,
+  "chieu_cao": 139,
+  "xung_ho": "Bé 10 tuổi, xưng 'con', gọi bác sĩ là 'bác sĩ'. Mẹ (chị Thu Hà, 37 tuổi) xưng 'em', gọi bác sĩ là 'bác sĩ'; gọi con là 'thằng Bảo' hoặc 'cháu'.",
+  "tinh_cach": "Bảo hiếu động, mê đá bóng, đội trường sắp đá giải liên trường. Sợ bị cấm đi học, cấm đá bóng nên trả lời 'con không sao đâu' cho mọi câu hỏi về cảm giác (đau, khó chịu, nhìn mờ). Mẹ hay lo, đọc nhiều bài trên mạng và nhóm phụ huynh, nói nhanh, hỏi dồn.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: Bảo giảm nhẹ mọi thứ ('không đau, không sao, nhìn rõ'). Câu hỏi cảm giác ('có đau không, có khó chịu không') luôn nhận 'không'; chỉ khi bác sĩ hỏi theo chức năng (sáng dậy mở mắt thế nào, nhìn bảng lúc mới dậy ra sao, ra nắng có phải nheo mắt không, đá bóng có phải dừng lại không, có dụi mắt không) thì Bảo mới kể thật. Mẹ không tự kể lý do thật mình lo.",
+  "nguoi_nha": "Mẹ bé, chị Thu Hà, 37 tuổi, đi cùng. Bảo tự khai được phần lớn; mẹ bổ sung lịch dùng thuốc, kẹo dẻo, và nỗi lo.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hà)",
+  "ngoai_hinh": {
+   "da": "#e3b48c",
+   "toc": "#1b1410",
+   "kieuToc": "ngan",
+   "ao": "#4f8f5f",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#dfae86",
+    "toc": "#2a1d16",
+    "kieuToc": "buoc",
+    "ao": "#c9a24d",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đỏ hai mắt, dính ghèn buổi sáng",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ hành chính: phòng khám mở buổi tối, kỹ thuật viên đã về. Phòng xét nghiệm, X-quang, siêu âm đóng đến 7 giờ 30 sáng hôm sau; mẫu gửi đi chỉ có kết quả sau nhiều giờ, không kịp cho quyết định tối nay. Còn dùng được: bảng thị lực, đèn soi (đèn pin), thuốc nhuộm fluorescein và đèn xanh, nhiệt kế, máy đo SpO₂ do điều dưỡng Linh làm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé trai 10 tuổi, 32 kg, mẹ đưa đến lúc 19 giờ 20 tối thứ Sáu vì đỏ hai mắt, dính ghèn. Mắt phải đỏ từ sáng thứ Hai, mắt trái từ chiều thứ Ba. Mẹ tự mua thuốc nhỏ mắt kháng sinh, nhỏ từ tối thứ Ba (đã 3 ngày), mắt đỡ ít nhưng chưa hết đỏ. Sinh hiệu: nhiệt 36,8 °C, mạch 88 l/p, nhịp thở 20 l/p, SpO₂ 99%. Bé tỉnh, vui, nói 'con không sao đâu'.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bảo thị lực 10/10, giác mạc không bắt màu fluorescein, không đau, ghèn không nhiều và đã đỡ sau 3 ngày nhỏ thuốc, nên chưa có tiêu chí nào trong danh sách chuyển chuyên khoa của AAO 2018 (Provider and Setting: mất thị lực, đau vừa–nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng điều trị...). Chuyển lên tuyến trên tối thứ Sáu nghĩa là mẹ con mất cả buổi tối và có thể cả ngày thứ Bảy, tốn kém, và Bảo ngồi phòng chờ đông người trong lúc còn lây. Mẹ còn hiểu 'phải chuyển' là bệnh nặng như bài đã đọc trên mạng nên lo hơn, thay vì được trấn an.",
+    "nhap_vien": "Nhập viện chỉ cần khi viêm kết mạc lậu cầu nặng phải dùng thuốc tiêm hoặc ở trẻ sơ sinh (AAO 2018, Provider and Setting; QĐ 40/2015, Viêm kết mạc cấp, mục 4b: kháng sinh toàn thân chỉ cho lậu cầu, bạch hầu); Bảo không thuộc nhóm nào. Nằm viện không thêm lợi ích, gây tốn kém, nguy cơ nhiễm chéo từ bệnh nhân khác, và làm mẹ tin con bị bệnh nặng, càng đòi kháng sinh tiêm 'cho mạnh'."
+   },
+   "loi_mo": "Dạ chào bác sĩ. Thằng Bảo nhà em bị đỏ hai mắt mấy hôm nay, em nhỏ thuốc kháng sinh 3 ngày rồi mà chưa hết hẳn. Đọc trên mạng em sợ lắm bác sĩ ơi, bác sĩ khám kỹ giúp em.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mắt phải đỏ từ sáng thứ Hai (5 ngày nay), mắt trái đỏ từ chiều thứ Ba (4 ngày). Sáng dậy mi dính ghèn khô, phải lau bằng khăn ướt mới mở được mắt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, khởi phát lần lượt hai mắt"
+    },
+    {
+     "id": "ghen",
+     "noi_dung": "Ghèn màu trắng đục hơi vàng, đặc, dính mi buổi sáng. Từ lúc nhỏ thuốc ghèn ít hơn khoảng một nửa; ban ngày lau xong không đầy lại ngay. Không chảy nước mắt ròng ròng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất tiết tố (nhầy mủ so với nước), phân biệt vi khuẩn với virus (AAO 2018, Bảng 1)"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Hỏi 'có đau, có khó chịu không' thì Bảo đáp 'không sao'. Hỏi theo chức năng thì kể thật: sáng mới mở mắt nhìn bảng ở lớp hơi mờ như có màng, chớp mắt hoặc lau ghèn là rõ ngay; đọc truyện, chơi điện thoại và đá bóng buổi chiều vẫn được, ra nắng không phải nheo mắt, không đeo kính râm; ban đêm không thức giấc vì đau; chỉ hơi cộm rát nhẹ khi gió thổi. Không đau nhức sâu trong mắt, không đau đầu, không buồn nôn, không thấy quầng sáng quanh đèn.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bảo trả lời 'không sao' với mọi câu hỏi cảm giác. Chỉ lộ khi bác sĩ hỏi chức năng: sáng mở mắt ra sao, nhìn bảng lúc mới dậy, ra nắng có nheo mắt không, đá bóng có phải dừng không, đêm có thức vì mắt không.",
+     "k": 1,
+     "y": "Câu hỏi chức năng thay câu hỏi cảm giác: đau sâu, chói, mờ (loại trừ viêm màng bồ đào, glôcôm cấp, viêm giác mạc)"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Tối thứ Ba mẹ mua ở nhà thuốc (không có toa) một chai thuốc nhỏ mắt kháng sinh 0,3% (chai ghi tobramycin), nhỏ cho cả hai mắt khoảng 3–4 lần mỗi ngày, dùng chung một chai; đầu chai có lần chạm vào mi mắt. Không thuốc uống, không thuốc nhỏ mắt nào khác, không corticoid.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: kháng sinh nhỏ mắt 3 ngày, cách nhỏ, dùng chung chai"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Từ Chủ nhật mẹ cho Bảo ăn kẹo dẻo vitamin–kẽm 'tăng đề kháng, sáng mắt' mua online, 2 viên mỗi ngày, vì thấy nhiều người đọc nói tốt mùa lớp có người đỏ mắt. Sáng thứ Hai mắt đỏ nên mẹ nghi kẹo dẻo gây dị ứng, đã ngưng từ thứ Ba.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Yếu tố khởi phát: thực phẩm chức năng (nghi dị ứng nhưng không có dấu dị ứng)"
+    },
+    {
+     "id": "ngua",
+     "noi_dung": "Bảo ít ngứa, không dụi mắt nhiều; không hắt hơi, không ngạt mũi, không chàm, không hen, chưa từng dị ứng thức ăn hay thuốc. Không đeo kính áp tròng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngứa, cơ địa dị ứng, kính áp tròng (loại trừ dị ứng; AAO 2018, Bảng 1; QĐ 40/2015, Viêm kết mạc dị ứng cấp tính, mục 3)"
+    },
+    {
+     "id": "toan_than",
+     "noi_dung": "Không sốt, không ho, không đau họng, không đau tai, không phát ban. Ăn uống bình thường, tiêm chủng đủ theo sổ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng hô hấp, tai, họng kèm theo (gợi ý virus hay vi khuẩn lan từ họng, tai: AAO 2018, Bảng 1)"
+    },
+    {
+     "id": "lay",
+     "noi_dung": "Lớp có 2 bạn cũng đỏ mắt tuần này. Ở nhà em gái Na 4 tuổi chưa đỏ; hai anh em dùng chung khăn mặt treo ở nhà tắm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người bệnh, đường lây trong nhà"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Hai đêm nay mẹ mất ngủ vì đọc trên mạng và trong nhóm phụ huynh: 'đau mắt đỏ không khỏi dễ loét giác mạc, mù', 'kẹo dẻo gây dị ứng mắt' và xem hình mắt mù. Mẹ đến khám tối nay vì sợ con bị loét giác mạc, muốn bác sĩ nói chắc chắn là không sao, muốn thuốc kháng sinh 'mạnh hơn' hoặc tiêm, và muốn làm xét nghiệm cho biết 'đúng bệnh gì'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói vì ngại bị coi là lo quá. Chỉ lộ khi bác sĩ hỏi chị đã đọc hoặc nghe gì về bệnh này, điều gì làm chị lo nhất, chị mong bác sĩ giúp gì tối nay.",
+     "k": 1,
+     "y": "Lý do thật sự đến khám: đọc thông tin trên mạng, sợ mù"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Chưa từng đỏ mắt. Không chấn thương, không hóa chất, không bụi bay vào mắt. Không bệnh mạn tính, không dị ứng thuốc.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tiền sử mắt, chấn thương, dị ứng thuốc"
+    },
+    {
+     "id": "giai_bong",
+     "noi_dung": "Thứ Bảy tuần sau đội của Bảo đá giải liên trường. Bảo sợ bị cấm nên nói 'con không sao'. Mẹ cũng muốn biết khi nào con được đi học và đá bóng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Động cơ giấu triệu chứng, câu hỏi nghỉ học"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực 10/10 mỗi mắt, không kính. Hai mắt: mi phù nhẹ, bờ mi và lông mi dính ghèn khô vàng nhạt. Kết mạc nhãn cầu cương tụ lan tỏa mức vừa (đậm ở cùng đồ, không đậm ở rìa), phản ứng dạng nhú nhỏ ở kết mạc sụn mi dưới, không hột, không giả mạc, không xuất huyết dưới kết mạc. Tiết tố nhầy mủ vàng nhạt mức ít–vừa, ở mắt trái nhiều hơn mắt phải. Giác mạc trong, tiền phòng sâu, đồng tử tròn đều 3 mm, phản xạ ánh sáng tốt.",
+     "k": 1,
+     "hien": "Hai mắt đỏ, có ghèn vàng nhạt dính bờ mi. Thị lực: đọc được hàng nhỏ nhất của bảng với mỗi mắt."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi đèn xanh: giác mạc hai mắt không bắt màu, không thấy chấm bắt màu hay ổ thâm nhiễm.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch trước tai hai bên. Hạch dưới hàm nhỏ, di động, không đau. Vùng cổ bình thường.",
+     "k": 1,
+     "hien": "Sờ vùng trước tai, dưới hàm, cổ hai bên."
+    },
+    "hong_tai_mui": {
+     "a": "Họng không đỏ, amidan không to. Mũi thông, không dịch. Màng nhĩ hai bên bình thường.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, vui, tiếp xúc tốt. Da niêm hồng, không phát ban, không dấu hiệu mất nước.",
+     "k": 0
+    },
+    "da": {
+     "a": "Da mặt và da mi không chàm, không ban, không nổi mề đay; không tổn thương da quanh mắt.",
+     "k": 0,
+     "hien": "Da mặt, quanh mắt."
+    },
+    "nhan_ap": {
+     "a": "Ước lượng bằng ngón tay: hai nhãn cầu mềm đều. Không cần đo bằng nhãn áp kế vì không đau nhức, đồng tử đều, giác mạc trong; tránh lây qua dụng cụ (AAO 2018, Prevention: khử khuẩn nhãn áp kế).",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "n": "Không cần: viêm kết mạc chẩn đoán bằng hỏi bệnh và khám mắt (AAO 2018, Diagnostic Tests: một số ca chẩn đoán dựa vào bệnh sử và khám). Ngoài giờ nên cũng không làm được."
+    },
+    "crp": {
+     "v": "n",
+     "n": "Không cần, như công thức máu; không sốt, không dấu nhiễm trùng toàn thân."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Không làm: cấy kết mạc ở viêm kết mạc thường (không có yếu tố nguy cơ) hiếm khi giúp quyết định điều trị; chỉ khi tái phát, nặng, mạn tính hoặc không đáp ứng thuốc (AAO 2018, Diagnostic Tests – Cultures). Bảo mủ ít–vừa và đã đỡ; ngoài giờ kết quả cũng chỉ có sau nhiều ngày, không kịp quyết định."
+    },
+    "test_adeno": {
+     "v": "n",
+     "n": "Không cần: ghèn nhầy mủ, không hột, không hạch trước tai, không sốt hay viêm đường hô hấp nên ít nghĩ adenovirus (AAO 2018, Bảng 1 hàng Adenoviral). Ngoài giờ không làm được; xét nghiệm này không bắt buộc (AAO 2018, Diagnostic Tests – Viral)."
+    },
+    "ige_tong": {
+     "v": "n",
+     "n": "Không cần: không ngứa, không tiền sử dị ứng; tài liệu đã tải không có chỉ định IgE toàn phần để chẩn đoán viêm kết mạc cấp. Ngoài giờ không làm được."
+    },
+    "test_lay_da": {
+     "v": "n",
+     "n": "Không cần: AAO 2018 (Diagnostic Tests – Allergy Skin Testing) dùng để tìm dị nguyên khí trong viêm kết mạc dị ứng; Bảo không có dấu dị ứng. Không liên quan quyết định tối nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc cấp do vi khuẩn mức nhẹ–vừa, hai mắt, đã dùng kháng sinh nhỏ 3 ngày và đỡ một phần; chưa tổn thương giác mạc",
+     "ok": 1,
+     "n": "Ghèn nhầy mủ vàng nhạt dính mi, đỏ lan tỏa, nhú nhỏ kết mạc sụn mi, khởi phát một mắt rồi sang mắt kia, không sốt, không hạch trước tai (AAO 2018, Bảng 1 hàng Bacterial; QĐ 40/2015, Viêm kết mạc cấp, mục 3a: bệnh lúc đầu ở một mắt sau lan sang hai mắt). Thị lực 10/10, fluorescein âm tính. Mức nhẹ: ghèn không nhiều, không đau (AAO 2018, Treatment – Bacterial: mức nặng có mủ nhiều, đau, viêm rõ)."
+    },
+    {
+     "t": "Viêm kết mạc do virus (adenovirus)",
+     "n": "Ít nghĩ: ghèn đặc, không chảy nước ròng ròng, không hột sụn mi, không hạch trước tai, không sốt, không viêm đường hô hấp (AAO 2018, Bảng 1 hàng Adenoviral: nước mắt, phản ứng hột, hạch trước tai là dấu đặc trưng; QĐ 40/2015, mục 3 thể virus). Không loại hẳn vì lớp có người đỏ mắt và xét nghiệm không làm được tối nay; xử trí hỗ trợ và phòng lây giống nhau."
+    },
+    {
+     "t": "Viêm kết mạc dị ứng (nghi do kẹo dẻo vitamin–kẽm)",
+     "n": "Ít nghĩ: không ngứa nổi bật, không phù mọng kết mạc, không nhú to, ghèn mủ chứ không nhầy trong, không tiền sử dị ứng (QĐ 40/2015, Viêm kết mạc dị ứng cấp tính, mục 3a, 3d: ngứa, bỏng rát, phù nề mọng nước, tiết tố nhầy; AAO 2018, Bảng 1 hàng Allergic: hai bên ngay từ đầu, ngứa). Kẹo dẻo ăn từ Chủ nhật, đỏ mắt từ thứ Hai; đã ngưng từ thứ Ba mà mắt trái vẫn đỏ thêm. Tương quan giữa kẹo dẻo vitamin–kẽm và đỏ mắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Viêm màng bồ đào trước",
+     "n": "Loại trừ: bệnh này có cương tụ rìa, đau, sợ ánh sáng, chảy nước mắt, nhìn mờ, tủa sau giác mạc (QĐ 40/2015, Viêm màng bồ đào trước cấp tính, mục 3a). Bảo cương tụ lan tỏa, không đậm ở rìa, thị lực 10/10, không đau, không chói khi ra nắng, đồng tử tròn đều."
+    },
+    {
+     "t": "Glôcôm góc đóng cấp",
+     "n": "Loại trừ: khởi phát đột ngột, đau nhức mắt lan nửa đầu, nhìn mờ như qua sương, quầng xanh đỏ quanh đèn, buồn nôn, thị lực giảm nhiều, nhãn áp rất cao (QĐ 40/2015, Glôcôm góc đóng nguyên phát, mục 3a). Bảo không có triệu chứng nào (hỏi theo chức năng), thị lực 10/10, mắt mềm, đồng tử đều."
+    },
+    {
+     "t": "Viêm giác mạc (viêm loét giác mạc do vi khuẩn, herpes)",
+     "n": "Loại trừ: đau nhức, chói, sợ ánh sáng, cương tụ rìa, ổ loét bắt màu fluorescein (QĐ 40/2015, Viêm loét giác mạc do vi khuẩn, mục 3a). Giác mạc trong, không bắt màu fluorescein, không chói ngoài nắng. Mờ nhìn lúc mới dậy hết khi chớp hoặc lau ghèn là do ghèn trên bề mặt mắt, không phải tổn thương giác mạc."
+    },
+    {
+     "t": "Viêm kết mạc lậu cầu hoặc thể mủ nặng khác",
+     "n": "Không: mủ không nhiều, mi chỉ phù nhẹ, không hạch trước tai, giác mạc không thâm nhiễm (AAO 2018, Bảng 1 hàng Gonococcal: mi phù nặng, mủ nhiều, hạch trước tai; QĐ 40/2015, Viêm kết mạc cấp, mục 3a, 3d: mủ bẩn hình thành rất nhanh sau khi lau). Bảo lau xong không đầy lại ngay."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích viêm kết mạc vi khuẩn mức nhẹ, thường tự giới hạn, đang đáp ứng thuốc; lau, rửa mắt bằng gạc sạch thấm nước muối sinh lý 0,9%",
+     "v": "c",
+     "n": "AAO 2018 (Treatment – Mild Bacterial Conjunctivitis): thường tự giới hạn. QĐ 40/2015 (Viêm kết mạc cấp, mục 4b) và QĐ 708/2015 (Viêm kết mạc cấp, mục 4.1): rửa mắt bằng natri clorid 0,9% để loại tiết tố, mủ. Số lần lau mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kháng sinh nhỏ mắt: tiếp tục tobramycin 0,3% cho đủ tổng 5–7 ngày kể từ lúc bắt đầu, HOẶC ngừng, chỉ lau mắt và theo dõi",
+     "v": "c",
+     "n": "Hai cách đều đúng (sổ mâu thuẫn, mục TM-0096, viêm kết mạc vi khuẩn nhẹ). AAO 2018 (Treatment – Mild Bacterial): thường tự khỏi không cần điều trị; kháng sinh nhỏ phổ rộng 5–7 ngày giúp khỏi sớm hơn, giảm lây, không thuốc nào hơn thuốc nào, là quyết định cá nhân. QĐ 40/2015 (mục 4b) và QĐ 708/2015 (mục 4.1): nhỏ kháng sinh (aminoglycosid như tobramycin). Hai nguồn khác nhau vì QĐ 40/QĐ 708 viết chung cho viêm kết mạc cấp (kể cả thể mủ nặng), AAO có phân thể nhẹ. Bảo đã đỡ khi nhỏ, nên tiếp tục cũng hợp lý."
+    },
+    {
+     "t": "Nhỏ đúng cách: rửa tay trước nhỏ, đầu chai không chạm mi hoặc mắt; bỏ chai đã chạm bề mặt mắt, mua chai mới nếu còn nhỏ; mỗi bé một chai",
+     "v": "c",
+     "n": "AAO 2018 (Prevention): để tránh nhiễm chéo, chai thuốc nhỏ mắt nhiều liều phải bỏ sau khi lỡ chạm bề mặt mắt. Chai của Bảo đầu chai đã chạm mi. Thời hạn dùng sau khi mở chai: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Quyết định xử trí ngay tối nay bằng lâm sàng, không chờ xét nghiệm (kết quả sớm nhất sáng mai)",
+     "v": "c",
+     "n": "AAO 2018 (Diagnostic Tests – Cultures): cấy kết mạc cho viêm kết mạc thường hiếm khi giúp chọn điều trị; chỉ khi tái phát, nặng, mạn tính hoặc không đáp ứng. QĐ 708/2015 (mục 4.1) nêu khi chưa có xét nghiệm thì chọn kháng sinh phổ rộng."
+    },
+    {
+     "t": "Phòng lây: rửa tay xà phòng, khăn mặt riêng cho Bảo và em Na, không dụi mắt, không dùng chung chai thuốc; nghỉ học, không đá bóng, không đi bơi trong lúc còn ghèn mủ",
+     "v": "c",
+     "n": "AAO 2018 (Counseling and Referral; Prevention): tư vấn phòng lây là bắt buộc, rửa tay bằng xà phòng, khăn riêng, tránh tiếp xúc gần; ngày đi học lại 'tùy tuổi, nghề, loại và mức độ'. Mốc số ngày nghỉ học cho viêm kết mạc vi khuẩn: không có trong tài liệu đã tải; ca dùng mốc 'đến khi hết ghèn mủ', do biên tập đặt. Điều trị có thể giảm lây và cho trẻ đi học sớm hơn (Treatment – Mild Bacterial)."
+    },
+    {
+     "t": "Hỏi lý do thật, giải thích cho mẹ: giác mạc không tổn thương, thị lực bình thường, nguy cơ mù rất thấp, nêu rõ dấu hiệu phải đi khám ngay; hẹn tái khám sau 3 ngày (tối thứ Hai)",
+     "v": "c",
+     "n": "AAO 2018 (Highlighted Findings: viêm kết mạc hiếm khi gây mất thị lực hoặc tổn thương cấu trúc vĩnh viễn; Provider and Setting: chuyển khi mất thị lực, đau vừa–nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng). Treatment – Bacterial: tái khám sau 3–4 ngày nếu không đỡ. Mốc tái khám 3 ngày cho ca đã đỡ là do biên tập đặt."
+    },
+    {
+     "t": "Tạm ngưng kẹo dẻo vitamin–kẽm đến khi mắt khỏi, HOẶC cho dùng tiếp",
+     "v": "a",
+     "n": "Không có bằng chứng dị ứng (QĐ 40/2015, Viêm kết mạc dị ứng cấp tính, mục 4a: ngừng tiếp xúc dị nguyên nếu xác định được; ở đây chưa xác định). Tác dụng, tác hại của kẹo dẻo vitamin–kẽm trên mắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đổi sang kháng sinh nhỏ mắt khác phổ rộng (nhóm quinolon, hoặc phối hợp gramicidin/neomycin/polymyxin B)",
+     "v": "a",
+     "n": "QĐ 708/2015 (Viêm kết mạc cấp, mục 4.1) nêu các nhóm này khi chưa có xét nghiệm; AAO 2018 (Treatment – Mild Bacterial): không có bằng chứng thuốc nào vượt trội. Đổi không cần thiết vì Bảo đang đỡ với tobramycin."
+    },
+    {
+     "t": "Chuyển chuyên khoa mắt soi đèn khe cho yên tâm",
+     "v": "a",
+     "n": "Không bắt buộc: chưa có tiêu chí chuyển (AAO 2018, Provider and Setting). Không gây hại nhưng tốn kém, Bảo còn lây."
+    },
+    {
+     "t": "Kháng histamin uống vì nghi dị ứng kẹo dẻo",
+     "v": "a",
+     "n": "Không có chỉ định: không có dấu dị ứng (QĐ 40/2015, Viêm kết mạc dị ứng cấp tính, mục 4b chỉ dùng cho thể dị ứng). Không gây hại đáng kể nhưng không giúp bệnh hiện tại."
+    },
+    {
+     "t": "Nhỏ corticoid hoặc thuốc nhỏ phối hợp kháng sinh–corticoid cho mau hết đỏ",
+     "v": "w",
+     "n": "AAO 2018 (Treatment; Highlighted Findings): tránh dùng corticoid bừa vì có thể kéo dài nhiễm virus (adenovirus), làm nặng nhiễm HSV, chưa loại hẳn virus tối nay. QĐ 40/2015 (mục 4b) và QĐ 708/2015 (mục 4.1): thận trọng khi dùng corticoid."
+    },
+    {
+     "t": "Kháng sinh toàn thân (cephalosporin tiêm hoặc uống) cho 'mạnh' như mẹ đòi",
+     "v": "w",
+     "n": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b) và QĐ 708/2015 (mục 4.2): kháng sinh toàn thân chỉ dùng trong thể tiến triển nặng, thường do lậu cầu, bạch hầu; AAO 2018 (Treatment – Bacterial): toàn thân chỉ cho lậu cầu, Chlamydia. Bảo là thể nhẹ."
+    },
+    {
+     "t": "Ciprofloxacin hoặc ofloxacin uống cho bé 10 tuổi",
+     "v": "h",
+     "n": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b, phần toàn thân) và QĐ 708/2015 (mục 4.2): fluoroquinolon uống chống chỉ định cho trẻ dưới 16 tuổi. Bảo 10 tuổi."
+    },
+    {
+     "t": "Cho đi học và đá bóng bình thường vì 'bé không sao'",
+     "v": "w",
+     "n": "AAO 2018 (Counseling and Referral): tư vấn phòng lây là bắt buộc; viêm kết mạc vi khuẩn còn lây khi còn tiết tố. Lớp đã có 2 bạn đỏ mắt, Bảo còn ghèn mủ, dùng chung khăn với em."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc cấp do vi khuẩn mức nhẹ–vừa, hai mắt (phải trước, trái sau), ngày thứ 5 và thứ 4, đang đáp ứng một phần với tobramycin nhỏ 3 ngày",
+     "Chưa tổn thương giác mạc (fluorescein âm tính), thị lực 10/10, không có cờ đỏ cần chuyển chuyên khoa mắt",
+     "Đã loại trừ viêm màng bồ đào trước, glôcôm góc đóng cấp, viêm giác mạc; ít nghĩ virus và dị ứng",
+     "Yếu tố lây: dùng chung khăn với em gái, lớp có 2 bạn đỏ mắt; cách nhỏ thuốc chưa đúng (dùng chung chai, đầu chai chạm mi)",
+     "Lo lắng của mẹ do đọc thông tin trên mạng (sợ mù); Bảo giảm nhẹ triệu chứng vì sợ bị cấm đá bóng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: (1) Hỏi bệnh: thời gian, một hay hai mắt, tính chất ghèn, ngứa, đau, chói, nhìn mờ, tiếp xúc người đỏ mắt, thuốc đã dùng, kính áp tròng, chấn thương, dị ứng (AAO 2018, mục History). (2) Khám: thị lực, kết mạc và dạng phản ứng, hạch trước tai, giác mạc nhuộm fluorescein, đồng tử (mục Physical Examination). (3) Cận lâm sàng: thường không cần. (4) Chẩn đoán và loại trừ ba bệnh nguy hiểm. (5) Xử trí và phòng lây.",
+     "Vì sao nghĩ vi khuẩn: ghèn đặc vàng nhạt dính mi, nhầy mủ, đỏ lan tỏa, nhú nhỏ, khởi phát một mắt rồi sang mắt kia, không sốt, không hạch trước tai, không viêm đường hô hấp (AAO 2018, Bảng 1 hàng Bacterial: bulbar injection, mucopurulent discharge; QĐ 40/2015, Viêm kết mạc cấp, mục 3a). Mức nhẹ vì mủ ít–vừa, không đau, thị lực bình thường (AAO 2018, Treatment – Moderate to Severe: mủ nhiều, đau, viêm rõ).",
+     "Vì sao chưa loại hẳn virus: lớp có 2 bạn đỏ mắt, đều lần lượt hai mắt; adenovirus là nguyên nhân hay gặp trong học đường (AAO 2018, Bảng 1 hàng Adenoviral). Nhưng thiếu các dấu đặc trưng (hột, hạch trước tai, nước mắt, sốt). Xét nghiệm nhanh adenovirus tối nay không có; không cần vì không đổi quyết định (xử trí hỗ trợ và phòng lây như nhau).",
+     "Vì sao không phải dị ứng do kẹo dẻo: dị ứng cấp có ngứa, bỏng rát, phù mọng, tiết nhầy, nhú to, có tiền sử tiếp xúc dị nguyên (QĐ 40/2015, Viêm kết mạc dị ứng cấp tính, mục 3a, 3d). Bảo không ngứa, không tiền sử dị ứng, ghèn mủ, mắt trái vẫn đỏ thêm sau khi ngưng kẹo. Thứ tự thời gian 'sau kẹo dẻo' chỉ trùng hợp.",
+     "Ba bệnh phải loại trừ. Viêm màng bồ đào trước: cương tụ rìa, đau, sợ ánh sáng, chảy nước mắt, nhìn mờ, tủa sau giác mạc (QĐ 40/2015, mục 3a). Glôcôm góc đóng cấp: đau nhức mắt lan nửa đầu, nhìn mờ như qua sương, quầng xanh đỏ, buồn nôn, nhãn áp rất cao (Glôcôm góc đóng nguyên phát, mục 3a). Viêm giác mạc: đau, chói, ổ loét bắt màu fluorescein (Viêm loét giác mạc do vi khuẩn, mục 3a). Bảo thị lực 10/10, không đau, không chói, fluorescein âm tính nên cả ba bị loại trừ.",
+     "Vì sao dùng câu hỏi chức năng: Bảo nói 'không sao' với mọi câu cảm giác vì sợ bị cấm đá bóng. Hỏi sáng dậy mở mắt ra sao, nhìn bảng lúc mới dậy, ra nắng có nheo mắt không, đêm có thức vì mắt không mới ra thông tin thật: mờ nhẹ hết khi chớp hoặc lau ghèn (là do ghèn), không chói, không đau. Đó là dữ kiện loại trừ viêm giác mạc, viêm màng bồ đào, glôcôm cấp; không được chỉ dựa vào câu 'không sao' của bé.",
+     "Vì sao hỏi lý do thật: mẹ đến vì sợ mù sau khi đọc trên mạng và muốn kháng sinh mạnh, xét nghiệm. Nếu chỉ kê thuốc mà không hỏi 'chị đã đọc gì, lo nhất điều gì', mẹ về vẫn lo, có thể tự mua thêm thuốc (corticoid, kháng sinh uống).",
+     "Ngoài giờ không có xét nghiệm: quyết định hôm nay hoàn toàn dựa vào lâm sàng. Bài học: viêm kết mạc không cần cấy hay xét nghiệm nhanh để xử trí tối nay (AAO 2018, Diagnostic Tests – Cultures). Tài liệu đã tải không nêu tỷ lệ viêm kết mạc vi khuẩn so với virus ở học sinh Việt Nam."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, hẹn tái khám. Không có tiêu chí chuyển: thị lực bình thường, không đau vừa–nặng, không mủ nhiều, giác mạc không tổn thương, đang đáp ứng thuốc (AAO 2018, Provider and Setting).",
+     "Kháng sinh nhỏ mắt, ghi cả hai cách: dùng tobramycin 0,3% cho đủ tổng 5–7 ngày (AAO 2018, Treatment – Mild Bacterial: kháng sinh nhỏ phổ rộng 5–7 ngày giúp khỏi sớm hơn, giảm lây; QĐ 40/2015 mục 4b và QĐ 708/2015 mục 4.1: aminoglycosid) hoặc không dùng, chỉ lau mắt và theo dõi (AAO: mức nhẹ thường tự khỏi). Khác nhau vì AAO phân mức nhẹ, QĐ viết cho viêm kết mạc cấp nói chung. Bảo đã dùng 3 ngày và đỡ nên tiếp tục thêm khoảng 3 ngày.",
+     "Không áp dụng ở đây phác đồ 'tra 15–30 phút/lần' trong QĐ 40/2015 (mục 4b) và QĐ 708/2015 (mục 4.1): đoạn đó viết cho những ngày đầu bệnh diễn biến nhanh, nhiều tiết tố mủ (thể mủ do lậu cầu); Bảo là thể nhẹ đã đỡ. Số lần nhỏ cho thể nhẹ: không có trong tài liệu BYT đã tải; liều 1–2 giọt mỗi 4 giờ lúc thức lấy từ nguồn bổ sung tự tìm (xem phần nguồn).",
+     "Cách nhỏ thuốc: đầu chai đã chạm mi nên bỏ chai, dùng chai mới nếu còn nhỏ (AAO 2018, Prevention: chai nhiều liều bỏ sau khi chạm bề mặt mắt); mỗi bé một chai, không dùng chung.",
+     "Không corticoid nhỏ: AAO 2018 (Treatment) tránh dùng bừa; QĐ 40/QĐ 708 thận trọng. Không kháng sinh toàn thân: chỉ cho thể nặng, thường lậu cầu, bạch hầu (QĐ 40/2015 mục 4b; QĐ 708/2015 mục 4.2); fluoroquinolon uống chống chỉ định dưới 16 tuổi.",
+     "Phòng lây: rửa tay xà phòng, khăn riêng, không dụi mắt; nghỉ học, không đá bóng, không bơi đến khi hết ghèn mủ (mốc số ngày: không có trong tài liệu đã tải, AAO 2018 Counseling: tùy tuổi, nghề, loại và mức độ).",
+     "Hẹn tái khám sau 3 ngày (mốc biên tập đặt, AAO nêu 3–4 ngày nếu không đỡ); đến ngay nếu đau nhức sâu, chói nhiều, nhìn mờ không hết khi chớp, ghèn mủ nhiều vàng xanh, mi sưng nề (AAO 2018, Provider and Setting; QĐ 40/2015 mục 3a)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Tobramycin nhỏ mắt (tùy chọn theo AAO 2018, nên dùng theo QĐ 40/2015; dùng chai mới)",
+      "ham_luong": "0,3%",
+      "lieu": "1–2 giọt vào mỗi mắt",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Mỗi 4 giờ lúc thức, sau khi lau sạch ghèn",
+      "so_ngay": "Thêm khoảng 3 ngày cho đủ tổng 5–7 ngày kể từ lúc bắt đầu (AAO 2018)",
+      "ghi_chu": "AAO 2018 (Treatment – Mild Bacterial: 5–7 ngày); QĐ 40/2015 (Viêm kết mạc cấp, mục 4b); QĐ 708/2015 (mục 4.1). Liều nhỏ cho trẻ: nguồn bổ sung tự tìm https://drugs.com/dosage/tobramycin-ophthalmic.html (lấy theo sổ mâu thuẫn TM-0096, chưa mở lại được khi viết ca này). Không dùng kháng sinh thì bỏ dòng này."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (rửa mắt, lau ghèn)",
+      "ham_luong": "0,9%",
+      "lieu": "Gạc sạch thấm, lau mi từ trong ra ngoài, mỗi mắt một gạc riêng",
+      "duong": "Rửa mắt",
+      "thoi_diem": "Sáng dậy khi mi dính ghèn và trước mỗi lần nhỏ thuốc",
+      "so_ngay": "Đến khi hết ghèn",
+      "ghi_chu": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b); QĐ 708/2015 (mục 4.1). Số lần mỗi ngày: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bảo bị viêm kết mạc do vi khuẩn mức nhẹ, đang đỡ; giác mạc không tổn thương, thị lực bình thường, nguy cơ mù rất thấp (AAO 2018, Highlighted Findings: hiếm khi gây mất thị lực). Không cần kháng sinh uống hay tiêm.",
+     "Lau ghèn bằng gạc sạch thấm nước muối sinh lý, mỗi mắt một gạc. Nhỏ thuốc đúng cách bằng chai mới: rửa tay, đầu chai không chạm mi hay mắt; mỗi bé một chai. Đã có chai bị chạm thì bỏ.",
+     "Không dụi mắt; rửa tay xà phòng; khăn mặt riêng cho Bảo và em Na, không dùng chung gối, chai thuốc; giặt khăn bằng nước nóng.",
+     "Bảo nghỉ học và không đá bóng, không đi bơi đến khi hết ghèn mủ; giải bóng thứ Bảy tuần sau sẽ xem tình trạng mắt lúc tái khám (mốc số ngày nghỉ học: không có trong tài liệu đã tải).",
+     "Kẹo dẻo vitamin–kẽm: có thể tạm ngưng cho đến khi mắt khỏi; không có bằng chứng kẹo gây đỏ mắt lần này (tài liệu đã tải không có thông tin).",
+     "Đưa Bảo đến ngay nếu đau nhức sâu trong mắt, chói nhiều, nhìn mờ không hết khi chớp, ghèn vàng xanh nhiều, mi sưng nề, sốt (AAO 2018, Provider and Setting).",
+     "Tái khám sau 3 ngày, tối thứ Hai (AAO 2018, Treatment – Bacterial: tái khám sau 3–4 ngày nếu không đỡ). Mẹ đừng tự mua corticoid hay kháng sinh khác; khi lo, gọi phòng khám thay vì đọc thêm trên mạng, mẹ hỏi gì cũng được."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 3 ngày",
+   "tiep_don": "Tái khám 18 giờ 50 tối thứ Hai, sau 3 ngày. Mắt hết đỏ, hết ghèn từ chiều Chủ nhật; Bảo đã dùng tobramycin tổng khoảng 6 ngày. Sinh hiệu: nhiệt 36,7 °C, mạch 84 l/p, nhịp thở 18 l/p, SpO₂ 99%. Bé vui, nói 'con khỏi rồi, cho con đi học và đá bóng nha bác sĩ'.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bảo đã hết ghèn, kết mạc trắng, thị lực 10/10, fluorescein âm tính nên không có tiêu chí chuyển (AAO 2018, Provider and Setting: mất thị lực, đau, mủ nhiều, tổn thương giác mạc, không đáp ứng, tái phát). Chuyển để 'soi đèn khe cho chắc' không phát hiện thêm gì cần điều trị, chỉ tốn chi phí và thêm một buổi học của Bảo. Mẹ càng tin lời trên mạng rằng bệnh 'để lại di chứng', thay vì yên tâm khi khám chuyên khoa chỉ cần nếu sau này tái phát nhiều đợt hoặc đau, mờ.",
+    "theo_doi": "Giữ Bảo thêm nhiều lần tái khám hoặc cho nhỏ kháng sinh 'cho sạch hẳn' kéo dài không có cơ sở: AAO 2018 (Treatment – Mild Bacterial) nêu đợt 5–7 ngày, Bảo đã đủ, và kháng sinh nhỏ bừa có thể gây độc cho bề mặt mắt (Treatment, đoạn đầu). Bảo bị nghỉ học thêm vô ích, lỡ giải đá bóng, mẹ nhận đúng thông điệp 'bệnh vẫn chưa hết' mà bệnh đã khỏi."
+   },
+   "loi_mo": "Bác sĩ ơi, thằng Bảo hết đỏ hết ghèn từ Chủ nhật rồi. Nhưng em đọc thêm trên mạng thấy nói bệnh này không chữa dứt điểm sẽ tái đi tái lại, bác sĩ cho em xin thêm thuốc nhỏ với làm xét nghiệm dị ứng kẹo dẻo cho chắc nha.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "Không đo",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "dien_tien",
+     "noi_dung": "Từ chiều Chủ nhật mắt hết đỏ, sáng nay mở mắt dễ, không còn ghèn dính mi. Hai mắt cùng khỏi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn tiến: đỡ hoàn toàn"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Hỏi theo chức năng: sáng dậy mở mắt dễ, nhìn bảng rõ ngay, ra nắng không nheo, chơi bóng buổi chiều Chủ nhật không phải dừng, đêm ngủ ngon. Không đau, không chói, không mờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Xác nhận không có triệu chứng còn lại bằng câu hỏi chức năng"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Mẹ nhỏ tobramycin 3 lần mỗi ngày, hôm nay là ngày thứ 6, sáng nay còn nhỏ. Lần này mẹ mua chai mới ngày thứ Bảy và nhỏ đúng cách. Mẹ hỏi có cần nhỏ tiếp cho 'sạch hẳn' không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thời gian dùng kháng sinh, khi nào ngưng"
+    },
+    {
+     "id": "lo_mang",
+     "noi_dung": "Mẹ đọc thêm: 'viêm kết mạc không điều trị dứt điểm dễ tái phát, để lại sẹo giác mạc' và 'kẹo dẻo gây dị ứng cần thử dị ứng'. Mẹ muốn thuốc nhỏ thêm, xét nghiệm dị ứng, giấy xác nhận để Bảo đi học và đá bóng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Mẹ không tự nói ra khi bác sĩ đã báo hết bệnh. Chỉ lộ khi bác sĩ hỏi chị còn băn khoăn gì, chị đã đọc thêm gì từ lần trước.",
+     "k": 1,
+     "y": "Nỗi lo còn lại do thông tin trên mạng; yêu cầu xét nghiệm, thuốc thêm"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Em Na không đỏ mắt. Từ thứ Bảy hai anh em dùng khăn riêng. Hai bạn cùng lớp đã đi học lại.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lây trong nhà, lớp"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Từ thứ Ba đến nay mẹ không cho Bảo ăn kẹo dẻo; không đỏ mắt lại. Mẹ còn một hộp chưa mở, hỏi có nên cho ăn tiếp.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Kẹo dẻo vitamin–kẽm, câu hỏi dùng lại"
+    },
+    {
+     "id": "giai_bong",
+     "noi_dung": "Thứ Bảy này đá giải liên trường; Bảo muốn đi học lại ngày mai, mẹ xin giấy cho nhà trường và huấn luyện viên.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Đi học lại, thi đấu"
+    }
+   ],
+   "kham": {
+    "mat": {
+     "a": "Thị lực 10/10 mỗi mắt. Hai mắt: mi không phù, bờ mi sạch, kết mạc nhãn cầu trắng, hết cương tụ, kết mạc sụn mi hồng, nhú nhỏ không còn rõ, không tiết tố, không hột, không giả mạc. Giác mạc trong. Đồng tử tròn đều, phản xạ ánh sáng tốt.",
+     "k": 1,
+     "hien": "Hai mắt trắng, không ghèn. Thị lực: đọc được hàng nhỏ nhất với mỗi mắt."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhuộm fluorescein: giác mạc hai mắt không bắt màu, không có chấm bắt màu hay thâm nhiễm dưới biểu mô.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch trước tai.",
+     "k": 0
+    },
+    "toan_than": {
+     "a": "Tỉnh, vui, không sốt, không phát ban.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "n",
+     "n": "Không cần: đã khỏi, không sốt. Ngoài giờ không làm được."
+    },
+    "phet_ket_mac": {
+     "v": "n",
+     "n": "Không cần: cấy kết mạc chỉ khi tái phát, nặng, mạn tính hoặc không đáp ứng thuốc (AAO 2018, Diagnostic Tests – Cultures); Bảo đáp ứng tốt, đã khỏi. Không cần kiểm tra lại cấy dù đã khỏi."
+    },
+    "test_adeno": {
+     "v": "n",
+     "n": "Không cần: đã khỏi, không đổi xử trí; không xét nghiệm lại để khẳng định bệnh đã qua (AAO 2018, Diagnostic Tests – Viral chỉ giúp chẩn đoán lúc đang bệnh)."
+    },
+    "ige_tong": {
+     "v": "n",
+     "n": "Không cần: không có dấu dị ứng, mắt khỏi sau kháng sinh nhỏ. Tài liệu đã tải không có chỉ định IgE toàn phần cho trường hợp này."
+    },
+    "test_lay_da": {
+     "v": "n",
+     "n": "Không cần: AAO 2018 (Diagnostic Tests – Allergy Skin Testing) dùng tìm dị nguyên khi nghĩ viêm kết mạc dị ứng; Bảo không có triệu chứng dị ứng. Tương quan kẹo dẻo vitamin–kẽm và mắt: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc cấp do vi khuẩn mức nhẹ, hai mắt, đã khỏi hoàn toàn sau khoảng 6 ngày tobramycin nhỏ; không biến chứng",
+     "ok": 1,
+     "n": "Hết đỏ, hết ghèn, thị lực 10/10, fluorescein âm tính, hết triệu chứng chức năng: đạt tiêu chí kết quả điều trị (AAO 2018, Patient Outcome Criteria: giảm hoặc hết dấu hiệu, triệu chứng; giữ thị lực bình thường; ngăn tổn thương bề mặt mắt)."
+    },
+    {
+     "t": "Viêm kết mạc dị ứng do kẹo dẻo vitamin–kẽm",
+     "n": "Không: không ngứa, không tiền sử dị ứng; mắt hết dù chưa dùng kháng histamin và đã ngưng kẹo từ lâu mới khỏi cùng với kháng sinh nhỏ. Thử dị ứng với kẹo dẻo: tài liệu đã tải không nêu."
+    },
+    {
+     "t": "Viêm kết mạc chưa khỏi hoặc tái phát",
+     "n": "Không: kết mạc trắng, không tiết tố, không nhú, không thâm nhiễm. Tái phát nhiều đợt mới cần chuyển chuyên khoa mắt (AAO 2018, Provider and Setting: Recurrent episodes)."
+    },
+    {
+     "t": "Viêm giác mạc sau viêm kết mạc (thâm nhiễm dưới biểu mô, viêm giác mạc chấm)",
+     "n": "Không: giác mạc trong, fluorescein không bắt màu, không chói, không mờ, thị lực 10/10 (AAO 2018, Physical Examination: dye-staining pattern). QĐ 40/2015 (Viêm kết mạc cấp, mục 3 thể virus) có nhắc viêm giác mạc chấm biểu mô ở thể virus; Bảo không có."
+    },
+    {
+     "t": "Viêm màng bồ đào, glôcôm cấp",
+     "n": "Vẫn loại trừ: không đau, không chói, không mờ, thị lực 10/10, mắt trắng (QĐ 40/2015, Viêm màng bồ đào trước cấp tính, mục 3a; Glôcôm góc đóng nguyên phát, mục 3a)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác nhận khỏi bằng lâm sàng: hết đỏ, hết ghèn, thị lực bình thường, fluorescein âm tính, hết triệu chứng chức năng; không cần xét nghiệm kiểm tra",
+     "v": "c",
+     "n": "AAO 2018 (Patient Outcome Criteria; Diagnostic Tests – Cultures: chỉ cấy khi tái phát, nặng, mạn tính, không đáp ứng). Không có chỉ định làm xét nghiệm kiểm tra khi đã khỏi: tài liệu đã tải không nêu."
+    },
+    {
+     "t": "Ngưng kháng sinh nhỏ mắt vì đã khỏi, tổng khoảng 6 ngày (đợt 5–7 ngày), HOẶC giảm dần số lần rồi dừng khi bệnh thuyên giảm",
+     "v": "c",
+     "n": "AAO 2018 (Treatment – Mild Bacterial): đợt 5–7 ngày thường hiệu quả. QĐ 40/2015 (Viêm kết mạc cấp, mục 4b) và QĐ 708/2015 (mục 4.1): khi bệnh thuyên giảm có thể giảm số lần tra mắt; không nêu số ngày dừng. Hai cách đều đúng, khác ở cách viết, không đối nghịch."
+    },
+    {
+     "t": "Cho đi học lại và chơi thể thao khi đã hết ghèn, hết đỏ; tiếp tục rửa tay, khăn riêng vài ngày",
+     "v": "c",
+     "n": "AAO 2018 (Counseling and Referral): ngày đi học lại tùy tuổi, loại, mức độ; (Treatment – Mild Bacterial): điều trị giúp trẻ về trường sớm hơn. Mốc số ngày: không có trong tài liệu đã tải. Bảo đã hết ghèn, hết đỏ."
+    },
+    {
+     "t": "Bỏ chai thuốc nhỏ mắt đã mở, không giữ lại tự dùng cho lần sau; không tự mua kháng sinh, corticoid nhỏ mắt",
+     "v": "c",
+     "n": "AAO 2018 (Prevention): chai nhiều liều chạm bề mặt mắt phải bỏ; (Treatment): tránh dùng kháng sinh, corticoid bừa. Thời hạn dùng của chai đã mở: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích cho mẹ: bệnh đã khỏi, không để lại sẹo hay di chứng khi giác mạc bình thường; chỉ cần khám lại khi đỏ, ghèn, đau, mờ trở lại; tái phát nhiều đợt thì khám chuyên khoa mắt",
+     "v": "c",
+     "n": "AAO 2018 (Highlighted Findings: viêm kết mạc hiếm khi gây mất thị lực hoặc tổn thương cấu trúc vĩnh viễn; Provider and Setting: chuyển khi mất thị lực, đau, mủ nhiều, tổn thương giác mạc, không đáp ứng, tái phát)."
+    },
+    {
+     "t": "Cấp giấy xác nhận đã khám và khỏi cho trường và đội bóng",
+     "v": "a",
+     "n": "Không có trong tài liệu đã tải; ca cho phép vì hợp lý hành chính, không ảnh hưởng chuyên môn."
+    },
+    {
+     "t": "Cho dùng lại kẹo dẻo vitamin–kẽm, hoặc tiếp tục để riêng",
+     "v": "a",
+     "n": "Không có bằng chứng kẹo gây đỏ mắt; tác dụng của kẹo trên mắt: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chuyển chuyên khoa mắt soi đèn khe cho yên tâm",
+     "v": "a",
+     "n": "Không bắt buộc: không có tiêu chí chuyển (AAO 2018, Provider and Setting). Không hại nhưng tốn kém."
+    },
+    {
+     "t": "Làm xét nghiệm dị ứng (IgE, test lẩy da) với kẹo dẻo cho mẹ yên tâm",
+     "v": "a",
+     "n": "Không có chỉ định: không có dấu dị ứng; AAO 2018 (Diagnostic Tests – Allergy Skin Testing) dành cho viêm kết mạc dị ứng. Tốn kém, kết quả không đổi xử trí."
+    },
+    {
+     "t": "Nhỏ thêm kháng sinh vài ngày 'cho sạch hẳn' hoặc đổi thuốc mạnh hơn",
+     "v": "w",
+     "n": "AAO 2018 (Treatment – Mild Bacterial: đợt 5–7 ngày; Treatment: kháng sinh nhỏ bừa có thể gây độc). Bảo đã đủ và đã khỏi."
+    },
+    {
+     "t": "Nhỏ corticoid để 'trắng mắt hẳn' hoặc phòng tái phát",
+     "v": "w",
+     "n": "AAO 2018 (Treatment): tránh corticoid bừa. QĐ 40/2015 (mục 4b): thận trọng corticoid. Mắt đã trắng, không có chỉ định."
+    },
+    {
+     "t": "Cho nghỉ học thêm vài ngày và không được đá bóng 'cho chắc'",
+     "v": "w",
+     "n": "Không có cơ sở khi đã hết ghèn, hết đỏ (AAO 2018, Counseling and Referral: ngày đi học lại tùy mức độ; Treatment – Mild Bacterial: điều trị cho trẻ về trường sớm hơn). Nghỉ thừa chỉ làm hỏng giải của bé."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc cấp do vi khuẩn mức nhẹ, hai mắt, đã khỏi hoàn toàn sau khoảng 6 ngày kháng sinh nhỏ",
+     "Không biến chứng: thị lực 10/10, giác mạc trong, fluorescein âm tính",
+     "Không còn lây; lo lắng của mẹ do thông tin trên mạng",
+     "Không có bằng chứng dị ứng kẹo dẻo vitamin–kẽm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi diễn tiến và triệu chứng chức năng (không chỉ hỏi 'còn đau không'), khám thị lực, kết mạc, tiết tố, nhuộm giác mạc, rồi kết luận khỏi (AAO 2018, mục Physical Examination; Patient Outcome Criteria).",
+     "Tiêu chí xác nhận khỏi: kết mạc trắng, hết ghèn, không nhú, thị lực bình thường, giác mạc không bắt màu fluorescein, hết triệu chứng chức năng (AAO 2018, Patient Outcome Criteria). Bảo đủ cả bốn.",
+     "Phân biệt khỏi thật và đỡ tạm: nếu còn ghèn, còn cương tụ thì phải tìm nguyên nhân khác (virus, dị ứng, lậu cầu, viêm bờ mi) và xét lại (AAO 2018, Provider and Setting: không đáp ứng điều trị là chỉ định chuyển). Bảo không có.",
+     "Khi nào cần xét nghiệm dù đã khỏi: không cần. Cấy hay xét nghiệm nhanh chỉ khi tái phát, nặng, mạn tính hoặc không đáp ứng (AAO 2018, Diagnostic Tests – Cultures). Tài liệu đã tải không nêu xét nghiệm kiểm tra sau khi khỏi.",
+     "Nỗi lo mới của mẹ: 'dứt điểm', 'tái phát', 'sẹo giác mạc', 'thử dị ứng kẹo'. Nên giải thích bằng dữ kiện: giác mạc không tổn thương thì không để lại sẹo; kẹo dẻo không có dấu dị ứng; chỉ khám lại khi có dấu hiệu mới (AAO 2018, Highlighted Findings)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: cho về, không hẹn tái khám định kỳ; khám lại nếu có dấu hiệu mới (AAO 2018, Provider and Setting).",
+     "Ngưng kháng sinh nhỏ: đã đủ khoảng 6 ngày, nằm trong đợt 5–7 ngày (AAO 2018, Treatment – Mild Bacterial); QĐ 40/QĐ 708 không nêu số ngày dừng, chỉ nói giảm số lần khi bệnh thuyên giảm (mục 4b, 4.1). Không kéo dài thêm.",
+     "Không corticoid nhỏ, không kháng sinh bổ sung: không có chỉ định (AAO 2018, Treatment; QĐ 40/2015 mục 4b: thận trọng corticoid).",
+     "Đi học lại và chơi thể thao: khi hết ghèn, hết đỏ, vì điều trị giúp trẻ về trường sớm hơn (AAO 2018, Treatment – Mild Bacterial; Counseling). Mốc số ngày: không có trong tài liệu đã tải. Phòng khám có thể cấp giấy xác nhận.",
+     "Chai thuốc đã mở: không giữ lại tự dùng cho lần sau (AAO 2018, Prevention: bỏ chai nhiều liều sau khi chạm bề mặt mắt). Thời hạn sử dụng sau mở chai: không có trong tài liệu đã tải.",
+     "Không xét nghiệm dị ứng: không có dấu dị ứng, mắt khỏi, không đổi xử trí."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Tobramycin nhỏ mắt: ngưng",
+      "ham_luong": "0,3%",
+      "lieu": "Không dùng thêm",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Dừng từ tối nay",
+      "so_ngay": "Đã đủ khoảng 6 ngày (đợt 5–7 ngày)",
+      "ghi_chu": "AAO 2018 (Treatment – Mild Bacterial); QĐ 40/2015 (mục 4b): giảm số lần khi bệnh thuyên giảm, không nêu số ngày dừng. Bỏ chai đã mở (AAO 2018, Prevention)."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (rửa mắt) chỉ khi còn dính ghèn",
+      "ham_luong": "0,9%",
+      "lieu": "Gạc sạch thấm, lau mi, mỗi mắt một gạc",
+      "duong": "Rửa mắt",
+      "thoi_diem": "Chỉ khi mi dính ghèn",
+      "so_ngay": "Không cần thường quy khi mắt đã sạch",
+      "ghi_chu": "QĐ 40/2015 (Viêm kết mạc cấp, mục 4b). Giữ nguyên như lượt 1 nếu còn ghèn."
+     }
+    ],
+    "dan_do": [
+     "Bảo đã khỏi: mắt trắng, hết ghèn, thị lực bình thường, giác mạc không tổn thương nên không để lại sẹo hay di chứng (AAO 2018, Patient Outcome Criteria; Highlighted Findings).",
+     "Ngưng thuốc nhỏ mắt từ tối nay; bỏ chai đã mở, không giữ dùng lại hoặc cho em Na (AAO 2018, Prevention). Không tự mua kháng sinh hay corticoid nhỏ mắt.",
+     "Bảo đi học lại ngày mai và đá giải thứ Bảy được; phòng khám cấp giấy xác nhận. Vài ngày nữa vẫn rửa tay xà phòng, khăn riêng, không dụi mắt.",
+     "Không cần thử dị ứng kẹo dẻo vì không có dấu dị ứng; có thể cho dùng lại hoặc không, theo ý gia đình (tài liệu đã tải không có thông tin về kẹo).",
+     "Đưa Bảo khám lại nếu đỏ mắt, ghèn, đau, chói, nhìn mờ trở lại; nếu đỏ mắt tái đi tái lại nhiều đợt thì khám chuyên khoa mắt (AAO 2018, Provider and Setting: recurrent episodes).",
+     "Mẹ lo gì có thể gọi hỏi phòng khám, không cần tự đọc thêm trên mạng rồi lo."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bảo nhỏ tobramycin 0,3% thêm 3 ngày, lau mắt bằng nước muối sinh lý, dùng chai mới và khăn riêng. Sau tổng khoảng 6 ngày hai mắt hết đỏ, hết ghèn, thị lực 10/10, giác mạc không bắt màu fluorescein. Bảo ngưng thuốc, đi học lại ngày thứ Ba và đá giải thứ Bảy. Em gái Na không đỏ mắt. Không cần xét nghiệm, không cần kháng sinh toàn thân, không cần corticoid.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: Bảo nói 'không sao' với câu hỏi cảm giác vì sợ bị cấm đá bóng; chỉ câu hỏi chức năng (mở mắt buổi sáng, nhìn bảng, ra nắng, đá bóng, ngủ đêm) mới cho dữ kiện thật để loại trừ viêm giác mạc, viêm màng bồ đào, glôcôm cấp.",
+  "Kẹo dẻo vitamin–kẽm: trùng hợp thời gian (ăn Chủ nhật, đỏ mắt thứ Hai) nên mẹ nghi dị ứng, nhưng không ngứa, không phù mọng, không tiền sử dị ứng, mắt khỏi với kháng sinh nhỏ. Tài liệu đã tải không có thông tin về kẹo dẻo.",
+  "Kháng sinh nhỏ đã dùng 3 ngày: dễ khiến bác sĩ kết luận 'thuốc đã không hiệu quả, cần thuốc mạnh hơn'; thật ra mắt đã đỡ một nửa, cách nhỏ chưa đúng (dùng chung chai, đầu chai chạm mi).",
+  "Ngoài giờ không xét nghiệm: không cấy, không test adenovirus, không công thức máu; quyết định bằng lâm sàng và không cần xét nghiệm (AAO 2018, Diagnostic Tests – Cultures)."
+ ],
+ "bai_hoc_bien": [
+  "Với bé nói 'không sao': hỏi theo chức năng, không hỏi cảm giác. Mờ nhìn lúc mới dậy hết khi chớp hoặc lau ghèn khác với mờ liên tục của viêm giác mạc, viêm màng bồ đào, glôcôm cấp; nhưng phải khám thị lực và nhuộm fluorescein để chắc.",
+  "Viêm kết mạc vi khuẩn mức nhẹ: thường tự khỏi; kháng sinh nhỏ 5–7 ngày giúp khỏi sớm, giảm lây, không thuốc nào hơn thuốc nào, nên dùng hay không dùng đều đúng (AAO 2018, Treatment – Mild Bacterial; QĐ 40/2015, mục 4b). Không dùng corticoid bừa, không kháng sinh toàn thân, không fluoroquinolon uống ở trẻ dưới 16 tuổi.",
+  "Không áp dụng phác đồ 'nhỏ 15–30 phút/lần' của QĐ 40/QĐ 708 cho thể nhẹ: đoạn đó viết cho những ngày đầu của thể mủ nặng.",
+  "Lý do thật là nỗi lo sau khi đọc trên mạng: hỏi 'chị đã đọc gì, lo nhất điều gì' rồi trả lời bằng dữ kiện đo được (thị lực, fluorescein) thay vì thêm xét nghiệm, thuốc mạnh.",
+  "Ngoài giờ, không xét nghiệm: quyết định ngay tối nay bằng lâm sàng; viêm kết mạc không cần cấy thường quy (AAO 2018, Diagnostic Tests – Cultures).",
+  "Lượt tái khám khi đã khỏi: dùng tiêu chí khỏi (hết đỏ, hết ghèn, thị lực bình thường, fluorescein âm tính), ngưng thuốc, bỏ chai đã mở, không làm xét nghiệm kiểm tra, dặn khi nào quay lại."
+ ],
+ "diem_nho": [
+  "Viêm kết mạc vi khuẩn không do lậu cầu: một hoặc hai mắt, kết mạc đỏ, tiết tố mủ hoặc nhầy mủ; mức nhẹ thường tự giới hạn (AAO Conjunctivitis PPP 2018, Bảng 1 hàng Bacterial; Treatment – Mild Bacterial).",
+  "QĐ 40/2015 (Viêm kết mạc cấp, mục 3a): bệnh lúc đầu ở một mắt sau lan hai mắt; thể mủ nặng có mủ bẩn hình thành rất nhanh sau khi lau. Điều trị mục 4b: rửa NaCl 0,9%, kháng sinh nhỏ aminoglycosid hoặc fluoroquinolon; toàn thân chỉ cho lậu cầu, bạch hầu; fluoroquinolon chống chỉ định dưới 16 tuổi.",
+  "Kháng sinh nhỏ phổ rộng 5–7 ngày giúp khỏi sớm hơn; không có thuốc nào hơn thuốc nào; quyết định cá nhân (AAO 2018, Treatment – Mild Bacterial).",
+  "Cấy kết mạc chỉ khi viêm kết mạc tái phát, nặng, mạn tính hoặc không đáp ứng thuốc (AAO 2018, Diagnostic Tests – Cultures).",
+  "Chuyển chuyên khoa mắt khi mất thị lực, đau vừa–nặng, mủ nhiều, tổn thương giác mạc, sẹo kết mạc, không đáp ứng, tái phát nhiều đợt, tiền sử HSV mắt hay suy giảm miễn dịch (AAO 2018, Provider and Setting).",
+  "Chai thuốc nhỏ mắt nhiều liều phải bỏ sau khi chạm bề mặt mắt (AAO 2018, Prevention). Tránh dùng kháng sinh, corticoid bừa (AAO 2018, Treatment)."
+ ],
+ "nguon": [
+  "AAO – Conjunctivitis Preferred Practice Pattern 2018 (Ophthalmology 2019;126(1):P94-P169) – TL-0266 – ĐÃ ĐỌC: Highlighted Findings; Bảng 1 (hàng Adenoviral, Allergic, Bacterial, Gonococcal); Care Process – History, Physical Examination, Diagnostic Tests (Cultures, Viral, Allergy Skin Testing), Patient Outcome Criteria; Prevention; Treatment (đoạn đầu), Adenoviral, Bacterial (Mild; Moderate to Severe); Provider and Setting; Counseling and Referral",
+  "BYT – QĐ 40/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – TL-0242 – ĐÃ ĐỌC: Viêm kết mạc cấp (mục 3a, 3d, 4b, 5); Viêm kết mạc dị ứng cấp tính (mục 3, 4); Viêm màng bồ đào trước cấp tính (mục 3a); Glôcôm góc đóng nguyên phát (mục 3a); Viêm loét giác mạc do vi khuẩn (mục 3a)",
+  "BYT – QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – ĐÃ ĐỌC: Sử dụng kháng sinh trong nhãn khoa, Viêm kết mạc cấp (mục 4.1, 4.2)",
+  "Nguồn bổ sung tự tìm: liều tobramycin nhỏ mắt 0,3% cho trẻ (1–2 giọt mỗi 4 giờ lúc thức), https://drugs.com/dosage/tobramycin-ophthalmic.html – lấy theo mục sổ mâu thuẫn TM-0096 (16/10/2026); ngày 27/11/2026 không mở lại được trang để đối chiếu, cần kiểm lại"
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (27/11/2026) – viết: Sonnet. Tài liệu đã đọc: TL-0266 (AAO Conjunctivitis PPP 2018), TL-0242 (QĐ 40/2015), TL-0015 (QĐ 708/2015) các mục ghi trong nguon.",
+  "Thiếu trong tài liệu đã tải: số lần nhỏ kháng sinh cho viêm kết mạc vi khuẩn nhẹ ở trẻ; mốc số ngày nghỉ học cho viêm kết mạc vi khuẩn; tác dụng, tác hại của kẹo dẻo vitamin–kẽm trên mắt; thời hạn dùng chai thuốc nhỏ mắt đã mở; xét nghiệm kiểm tra sau khi khỏi. Mốc tái khám 3 ngày và 'nghỉ đến khi hết ghèn mủ' do biên tập đặt.",
+  "Mâu thuẫn: dùng lại mục TM-0072 (kháng sinh nhỏ mắt) và mục TM-0096 (viêm kết mạc vi khuẩn nhẹ: dùng hoặc không dùng) – gộp một mục c 'A hoặc B'. Không có mâu thuẫn mới. QĐ 40 mục 4b và QĐ 708 mục 4.1 'tra 15–30 phút/lần' viết cho thể mủ diễn biến nhanh nên không áp cho thể nhẹ.",
+  "Fluoroquinolon: QĐ 40 mục 4b và QĐ 708 mục 4.2 chống chỉ định dưới 16 tuổi nằm trong phần toàn thân, ca chỉ chấm h cho dạng uống; nhỏ mắt quinolon chấm a vì tài liệu không nêu chống chỉ định cho dạng nhỏ.",
+  "Mục khám/CLS: dùng id có sẵn (mat, giac_mac_fluorescein, dau_mat_co, nhan_ap, da; ctm, crp, phet_ket_mac, test_adeno, ige_tong, test_lay_da). Không đề xuất danh mục mới. Không có ảnh da."
+ ]
+}
