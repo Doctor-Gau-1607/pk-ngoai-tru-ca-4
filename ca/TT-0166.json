@@ -1,0 +1,809 @@
+{
+ "ma_ca": "TT-0166",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TT_roi_loan_hoang_so_trung_nien",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn hoảng sợ",
+  "chan_doan_phai_loai_tru": [
+   "Hội chứng vành cấp",
+   "Cường giáp",
+   "Loạn nhịp"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Đoàn Thị Hồng Lan",
+  "tuoi": 49,
+  "gioi": "Nữ",
+  "nghe": "Thợ sơn nhà (sơn tường, sơn dầu, thợ chính của nhóm 4 người, hơn 20 năm)",
+  "can_nang": 54,
+  "chieu_cao": 153,
+  "xung_ho": "Bác sĩ gọi chị là 'chị Lan'. Chị xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh nhẹn, làm lụng quen tay chân, ngại làm phiền người khác. Đã từng nằm viện vì cục máu đông nên tin chắc 'bệnh của em là bệnh máu', không phải 'bệnh thần kinh'; hay lên mạng đọc triệu chứng, hay tự đếm mạch. Sợ mất việc vì là lao động chính của nhà.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: lấy diazepam 5 mg còn thừa trong đơn cũ của chồng, uống 1 viên mỗi tối, coi là 'thuốc ngủ nhẹ cho dịu thần kinh' nên không nhắc tới. Hỏi chung 'thuốc đang dùng' chị chỉ đưa hộp thuốc chống đông. Chỉ kể diazepam khi bác sĩ hỏi cụ thể thuốc ngủ, thuốc an thần, thuốc của người nhà hoặc 'đã tự uống gì cho dịu cơn', không phán xét; chồng xác nhận nếu được hỏi.",
+  "nguoi_nha": "chồng",
+  "ten_nguoi_nha": "Anh Bình",
+  "ngoai_hinh": {
+   "da": "#bf8e6a",
+   "toc": "#2a2420",
+   "kieuToc": "bui",
+   "ao": "#6b7f8f",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#b98760",
+    "toc": "#3a332e",
+    "kieuToc": "ngan",
+    "ao": "#8a7f6b",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 2,
+    "bieuCam": "binh_thuong"
+   }
+  }
+ },
+ "ly_do_kham": "Cơn tim đập mạnh, tức ngực, khó thở về đêm; muốn kiểm tra có cục máu mới không",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT. Xét nghiệm, ECG, X-quang và siêu âm vẫn làm được."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 – Khám lần đầu: cơn tim đập mạnh, tức ngực, khó thở về đêm",
+   "tiep_don": "Nữ 49 tuổi, thợ sơn nhà, đến khám vì những cơn tim đập mạnh, tức ngực trái, khó thở, nhất là về đêm, khoảng 7 tuần nay. Chị đang uống thuốc chống đông sau một đợt nằm viện năm ngoái, mang theo hộp thuốc. Anh Bình (chồng) chở chị đến, ngồi chờ ngoài. Chị nói muốn 'khám xem có cục máu mới không cho yên tâm'. Sinh hiệu lúc tiếp đón: mạch 88 l/p, HA 118/74 mmHg, nhiệt 36,6 °C, nhịp thở 18 l/p, SpO₂ 98%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập khoa nội theo dõi 24–48 giờ vì 'đau ngực, từng bị thuyên tắc phổi'. Chị mất vài ngày công trong khi ECG xoang bình thường, SpO₂ 98%, chân không sưng đau, D-dimer âm tính ở nhóm PE-unlikely (ESC 2019, Bảng 5 và khuyến cáo D-dimer). NICE CG113 1.3.6: người đến vì cơn hoảng sợ thường không cần giường nội hay tâm thần. Chị ra viện vẫn chưa được điều trị và tin thêm 'phổi mình có vấn đề', nên cơn đêm tiếp diễn.",
+    "chuyen_tuyen": "Chuyển chị lên tuyến trên chụp CT động mạch phổi 'cho chắc'. Chị tốn tiền chụp, tiền xe, nhiều ngày công; ESC 2019 (mục 4.3) nhấn mạnh tránh lạm dụng hình ảnh học, D-dimer là bước kế tiếp ở nhóm PE-unlikely (Bảng 5) mà D-dimer chị âm tính. CT bình thường nhưng cơn chưa được điều trị nên đêm sau lại tái diễn, chị càng tin 'phổi có chuyện'.",
+    "theo_doi": "Giữ chị nằm phòng khám truyền dịch vài giờ rồi cho về, không giải thích, không điều trị. Chị thấy 'được truyền' thì khỏe hơn nên tin mình có bệnh thực thể nặng; không tài liệu hoảng sợ nào đã tải nêu truyền dịch (mhGAP 2023 ANX1–ANX6; NICE CG113 1.3.12). Diazepam của chồng vẫn được uống tiếp và chị quay lại xin truyền mỗi khi lên cơn."
+   },
+   "loi_mo": "Chào bác sĩ. Dạo này em hay lên cơn giữa đêm, tim đập thình thịch, tức ngực, thở không ra hơi, thấy như sắp chết. Năm ngoái em bị cục máu đông ở phổi rồi, nên em sợ nó lại chạy lên phổi. Bác sĩ khám giúp em xem có cục máu mới không, để em yên tâm.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "118/74",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 98,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khoảng 7 tuần nay, vài lần mỗi tuần chị bị cơn tim đập mạnh, tức nặng ngực trái, khó thở, tê đầu ngón tay, buồn nôn, nhiều nhất về đêm. Chị nghĩ 'cục máu lại lên phổi' vì năm ngoái từng bị, và muốn bác sĩ khám xem có cục máu mới không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và cách chị giải thích triệu chứng"
+    },
+    {
+     "id": "con",
+     "noi_dung": "Mỗi cơn đến đột ngột, thường lúc đang ngủ: tim đập mạnh, tức nặng ngực trái, thở như bị nghẹt, run người, vã mồ hôi, buồn nôn, tê đầu ngón tay và quanh miệng, chóng mặt, có lúc 'như đứng ngoài nhìn mình'. Đỉnh sau khoảng 10 phút, cả cơn 20–30 phút rồi hết hẳn, sau đó mệt rã. Khoảng 4–5 cơn mỗi tuần, chừng 30 cơn trong 7 tuần. Trong cơn chị nghĩ mình sắp chết.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn đủ ≥4 triệu chứng, lên đỉnh trong vài phút, có sợ chết"
+    },
+    {
+     "id": "ban_dem",
+     "noi_dung": "Khoảng 2/3 số cơn làm chị thức giấc lúc 1–3 giờ sáng. 1/3 cơn ban ngày, thường lúc đứng trên thang hoặc đang nghĩ về cái chân. Không cơn nào xảy ra khi vác thùng sơn nặng hay đi bộ nhanh.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn đêm; không do gắng sức"
+    },
+    {
+     "id": "khong_mang_phoi",
+     "noi_dung": "Đau không nhói theo nhịp thở, không đổi theo tư thế. Không ho ra máu, không ngất, không sốt, không khó thở kéo dài ngoài cơn. Lần thuyên tắc phổi năm ngoái chị khó thở tăng dần nhiều ngày, đau nhói bên phải khi hít sâu và sưng chân trái: 'khác hẳn kiểu này'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phân biệt cơn hiện tại với đợt thuyên tắc phổi cũ"
+    },
+    {
+     "id": "chan_trai",
+     "noi_dung": "Chân trái: năm ngoái huyết khối tĩnh mạch sâu kèm thuyên tắc phổi, không tìm ra nguyên nhân. Hiện chân không sưng, không đau, không nóng đỏ. Không phẫu thuật, gãy xương, bó bột hay nằm bất động gần đây; không ung thư.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử huyết khối; không yếu tố nguy cơ mới"
+    },
+    {
+     "id": "doi_thuoc",
+     "noi_dung": "Tám tuần trước, bác sĩ bệnh viện tỉnh đổi thuốc chống đông từ warfarin sang rivaroxaban 20 mg, 1 viên mỗi tối sau ăn, vì INR dao động và nhà xa khó đi thử máu. Chị uống đều, không bỏ ngày nào. Viên mới nhỏ xíu, không phải thử máu nữa nên chị lo 'thuốc yếu hơn'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đổi thuốc chống đông; uống đều"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Cơn đầu tiên vào đêm thứ 3 sau khi đổi thuốc: 2 giờ sáng chị tỉnh dậy vì tim đập dữ dội, nghĩ 'thuốc mới nhỏ vậy chắc yếu, cục máu chạy lên phổi'. Từ đó cơn đều mỗi tuần, đêm nào chị cũng lo cơn quay lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau đổi thuốc điều trị"
+    },
+    {
+     "id": "ne_tranh",
+     "noi_dung": "Hơn một tháng nay chị không dám ngủ một mình khi chồng đi công trình xa, từ chối leo giàn giáo, chỉ đứng thang thấp rồi nhường thợ phụ làm chỗ cao. Hay tự đếm mạch, lên mạng đọc 'dấu hiệu thuyên tắc phổi' nhiều lần mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo cơn tái phát và đổi hành vi ≥1 tháng"
+    },
+    {
+     "id": "tu_dung",
+     "noi_dung": "Năm đêm gần đây chị uống 1 viên diazepam 5 mg còn thừa trong đơn cũ của chồng trước khi ngủ, 'cho dịu thần kinh'. Cơn đêm nhẹ hơn nhưng sáng lơ mơ, có hôm đứng thang thấy choáng. Hết thuốc từ tối hôm kia; đêm qua cơn quay lại mạnh nên chị đến khám. Chị không khai vì nghĩ 'chỉ là thuốc ngủ'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'thuốc đang dùng' chị chỉ đưa hộp rivaroxaban. Chỉ kể diazepam khi bác sĩ hỏi cụ thể 'thuốc ngủ, thuốc an thần, thuốc của người nhà' hoặc 'đã tự uống gì cho dịu cơn', hoặc hỏi anh Bình; hỏi không phán xét thì chị kể đủ tên, liều, số đêm.",
+     "k": 1,
+     "y": "Tự uống diazepam 5 đêm: che mờ bệnh cảnh, nguy cơ khi làm việc trên cao"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Không uống ibuprofen, diclofenac hay aspirin; đau mỏi lưng thì dán cao. Không bầm tím, chảy máu cam, chân răng, phân đen; kinh nguyệt đều. Cà phê 2 ly mỗi sáng, không rượu, không hút thuốc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không NSAID, không dấu chảy máu: nền để cân nhắc SSRI cùng thuốc chống đông"
+    },
+    {
+     "id": "khong_cuong_giap",
+     "noi_dung": "Không sụt cân, sợ nóng, tiêu chảy, run tay thường xuyên; chưa từng ngất; không đau ngực ngoài cơn; không bệnh tim, hen, đái tháo đường. Ăn được, còn thích xem phim với con, không chán nản, không ý nghĩ tự làm hại mình. Cha mất lúc 74 tuổi vì đột quỵ, nhà không ai bệnh tim sớm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phủ nhận cường giáp, ngất, đau ngực ngoài cơn; không trầm cảm, không ý nghĩ tự hại"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều chị thật sự cần là giấy chứng nhận sức khỏe: công ty thầu mới yêu cầu trong hai tuần tới mới ký hợp đồng thợ chính sơn mặt ngoài nhà cao tầng. Chị là lao động chính, hai con đang đi học, sợ bác sĩ ghi 'bệnh đông máu', 'bệnh thần kinh' thì bị loại nên chỉ muốn 'khám qua rồi ký giấy khỏe'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nếu chỉ hỏi chuyên môn, chị nói 'khám cho yên tâm thôi'. Chỉ nói khi bác sĩ hỏi 'hôm nay chị mong bác sĩ giúp gì', hỏi về công việc sắp tới hoặc giấy tờ cần, hoặc cuối buổi khám mà chưa nhắc giấy: chị đưa mẫu giấy trong túi.",
+     "k": 1,
+     "y": "Động cơ thật: xin giấy chứng nhận sức khỏe để ký hợp đồng"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói nhanh, hơi căng thẳng; tay chai sạm do làm sơn. BMI 23,1. Da ấm khô, không vã mồ hôi. Không bầm tím, không chấm xuất huyết.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, nhanh nhẹn. Khí sắc bình thường, lo lắng khi nói về cơn, hỏi lại 'có phải cục máu không bác sĩ' nhiều lần. Lời nói mạch lạc, không hoang tưởng, không ảo giác; nhận thức đủ. Không ý tưởng tự sát.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, hơi căng thẳng, hỏi lại nhiều lần về 'cục máu'."
+    },
+    "dau_mat_co": {
+     "a": "Không bướu giáp, không nhân giáp sờ được, không lồi mắt, không co cơ mi, không hạch cổ. Tĩnh mạch cổ không nổi.",
+     "k": 1
+    },
+    "run_nghi": {
+     "a": "Hai tay giơ thẳng không run, không rung giật cơ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3. Không phù, không tiếng cọ.",
+     "k": 1,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran, không cọ màng phổi. Nhịp thở 18 l/p, không co kéo. Ấn thành ngực không đau.",
+     "k": 1,
+     "hien": "Nhịp thở 18 l/p, hai phổi thông khí đều.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "chi_duoi": {
+     "a": "Hai chân cân đối; chu vi cẳng chân hai bên bằng nhau (33 cm). Không phù, không nóng đỏ, ấn bắp chân không đau, không giãn tĩnh mạch nổi.",
+     "k": 1,
+     "hien": "Hai chân không phù, không đau khi ấn."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 88 l/p, trục trung gian, PR 150 ms, QRS 86 ms, QTc 410 ms. Không ST chênh, không T đảo, không sóng Q, không S1Q3T3, không block nhánh phải.",
+     "n": "ECG trong 10 phút khi nghi hội chứng vành cấp (ESC 2023 Hình 5); tìm dấu căng thất phải của thuyên tắc phổi (ESC 2019 mục 4.1) và nhịp nhanh trên thất (ESC 2019 SVT mục 9.1.1)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 1,9 mUI/L · FT4 14 pmol/L (bình thường).",
+     "n": "Sàng lọc đầu tiên khi nghi nhiễm độc giáp; tim nhanh, lo âu do tăng adrenergic (ATA 2016, mục B2); nằm trong xét nghiệm nền (Canada 2014 Bảng 7)."
+    },
+    "ddimer": {
+     "v": "e",
+     "r": "D-dimer 290 µg/L FEU (ngưỡng < 500).",
+     "n": "Có tiền sử PE nên phải loại PE tái phát. Geneva giản lược: tiền sử PE/DVT 1 + mạch 75–94 l/p 1 = 2 điểm, PE-unlikely (ESC 2019 Bảng 5); D-dimer là bước kế tiếp ở nhóm này (khuyến cáo D-dimer, I A). Cơ sở không có CT nên đây là chiến lược thay thế. Ảnh hưởng của thuốc chống đông lên D-dimer không có trong tài liệu đã tải: đọc cùng lâm sàng thấp và uống thuốc đều."
+    },
+    "trop": {
+     "v": "a",
+     "r": "Troponin T hs 4 ng/L (ngưỡng < 14).",
+     "n": "Ít đổi quyết định: 49 tuổi, không yếu tố nguy cơ xơ vữa, cơn không do gắng sức, ECG bình thường; HEART tối đa 2 điểm (nhóm thấp 0–3) (Backus 2013 Bảng 1). Không bắt buộc."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,1 G/L · Hb 126 g/L · TC 268 G/L (công thức bạch cầu bình thường)",
+     "n": "Hb và tiểu cầu nền trước khi thêm SSRI cho người dùng thuốc chống đông là hợp lý (NICE CG113 1.2.29; ESC 2019 mục 8.2). Không bắt buộc."
+    },
+    "ct_nguc": {
+     "v": "u",
+     "r": "Không thấy khuyết thuốc ở các nhánh động mạch phổi.",
+     "thay_the": "ddimer",
+     "n": "Cơ sở không có CT. Nhóm PE-unlikely và D-dimer âm tính thì không cần hình ảnh học (ESC 2019 mục 4.3, khuyến cáo D-dimer); chuyển chụp CT chỉ khi lâm sàng đổi (khó thở gắng sức, đau nhói theo nhịp thở, sưng đau chân, ho ra máu, SpO₂ tụt)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ, mức vừa, khởi phát sau khi đổi thuốc chống đông (lo cục máu tái phát), có tự dùng diazepam làm che mờ bệnh cảnh",
+     "ok": 1,
+     "n": "Cơn hoảng sợ cần ≥4 trong 13 triệu chứng, lên đỉnh trong vài phút (Canada 2014 Bảng 11): chị có 8–9 triệu chứng và sợ chết. Rối loạn hoảng sợ cần cơn không báo trước, tái diễn, ≥1 cơn kèm ≥1 tháng lo cơn hoặc đổi hành vi (Bảng 12): khoảng 30 cơn trong 7 tuần, không dám ngủ một mình, né giàn giáo. Quá trình chẩn đoán phải hỏi cả tự dùng thuốc (NICE CG113 1.3.2)."
+    },
+    {
+     "t": "Hội chứng vành cấp",
+     "n": "49 tuổi, không yếu tố nguy cơ xơ vữa, cơn không do gắng sức, ECG bình thường, troponin 4 ng/L; HEART tối đa 2 điểm (nhóm thấp 0–3) (Backus 2013 Bảng 1). Quay lại ngay nếu đau kéo dài, đau gắng sức, vã mồ hôi lạnh (ESC 2023 Hình 5)."
+    },
+    {
+     "t": "Thuyên tắc phổi / huyết khối tĩnh mạch sâu tái phát (đang dùng thuốc chống đông)",
+     "n": "Ngoài ba chẩn đoán của sổ cái nhưng bắt buộc nghĩ tới vì tiền sử. Geneva giản lược 2 điểm (PE-unlikely), D-dimer 290 µg/L (ESC 2019 Bảng 5, khuyến cáo D-dimer); SpO₂ 98%, ECG không căng thất phải, chân không sưng đau, uống rivaroxaban đều. Cơn rời rạc, có đỉnh, tê quanh miệng, run, ban đêm: khác hẳn đợt PE cũ."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Không sụt cân, sợ nóng, bướu giáp, lồi mắt, run tay; TSH 1,9 và FT4 14 bình thường (ATA 2016 mục B2)."
+    },
+    {
+     "t": "Loạn nhịp (nhịp nhanh trên thất, rung nhĩ)",
+     "n": "Mạch 88 đều, ECG xoang, PR bình thường; cơn kéo dài 20–30 phút, không bắt đầu và dừng đột ngột (ESC 2019 SVT mục 8, 9.1.1). Ghi ECG trong cơn hoặc Holter nếu sau này có cơn tim đều nhanh bắt đầu và dừng đột ngột."
+    },
+    {
+     "t": "Rối loạn lo âu do thuốc hoặc chất (diazepam tự dùng và ngưng đột ngột, cà phê)",
+     "n": "Ngưng benzodiazepin, caffeine có thể liên quan cơn (Canada 2014, chẩn đoán panic). Cơn có từ trước 5 đêm dùng diazepam nên chỉ là yếu tố làm nặng, che mờ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng mọi thuốc: thuốc ngủ, an thần, thuốc người nhà, giảm đau chống viêm, thảo dược; xem hộp thuốc; hỏi cà phê, rượu; hỏi anh Bình",
+     "v": "c",
+     "n": "Quá trình chẩn đoán phải hỏi tự dùng thuốc (NICE CG113 2011, 1.3.2); đánh giá ban đầu gồm thuốc kê đơn, không kê đơn, rượu, caffeine (Canada 2014, Baseline assessment)."
+    },
+    {
+     "t": "Giải thích đơn giản: đây là cơn hoảng sợ, không phải cục máu mới; ECG, D-dimer, TSH bình thường; cho tờ thông tin viết",
+     "v": "c",
+     "n": "Giải thích cơ chế triệu chứng, phát tài liệu trước khi điều trị (WFSBP 2022, General principles; NICE CG113 1.3.6)."
+    },
+    {
+     "t": "Cho về, không nhập viện, không chuyển tuyến, không truyền dịch; dặn quay lại ngay nếu khó thở khi gắng sức, đau nhói theo nhịp thở, sưng đau một chân, ho ra máu, ngất",
+     "v": "c",
+     "n": "Cơn hoảng sợ: xét nghiệm tối thiểu, thường không nhập viện (NICE CG113 1.3.6). PE-unlikely và D-dimer âm tính thì loại PE không cần CT (ESC 2019 Bảng 5, khuyến cáo D-dimer, mục 4.3). Dấu hiệu quay lại: nhận định biên tập theo triệu chứng PE (ESC 2019 mục 4.1)."
+    },
+    {
+     "t": "Giữ nguyên rivaroxaban theo thầy thuốc điều trị huyết khối, không tự ngưng hay giảm liều; báo thầy thuốc đó chị bắt đầu thuốc chống trầm cảm",
+     "v": "c",
+     "n": "Thời gian và liều chống đông thuộc người điều trị huyết khối, đánh giá lại định kỳ theo nguy cơ tái phát và chảy máu (ESC 2019 mục 8.2)."
+    },
+    {
+     "t": "Ngưng hoặc giảm rivaroxaban để 'an toàn khi dùng thuốc chống trầm cảm'",
+     "v": "w",
+     "n": "Nguy cơ chảy máu của SSRI xử lý bằng theo dõi, tránh NSAID, bảo vệ dạ dày (NICE CG113 1.2.29; mhGAP 2023 ANX1); không tài liệu đã tải khuyên ngưng chống đông vì SSRI, trong khi chị có tiền sử PE/DVT (ESC 2019 mục 8)."
+    },
+    {
+     "t": "Lường nguy cơ chảy máu khi thêm SSRI cho người dùng thuốc chống đông: hỏi dấu chảy máu, tránh ibuprofen, diclofenac, aspirin (đau thì paracetamol), cân nhắc thuốc bảo vệ dạ dày, dặn quay lại ngay nếu phân đen, nôn máu, chảy máu khó cầm",
+     "v": "c",
+     "n": "NICE CG113 1.2.29; mhGAP 2023 ANX1 Implementation; Canada 2014 Safety and side effects; NSAID và kháng tiểu cầu nên tránh ở người dùng thuốc chống đông (ESC 2019 mục 8.2). Loại và liều thuốc bảo vệ dạ dày không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Dặn ngưng diazepam của chồng; giải thích không kê benzodiazepin đều đặn (lệ thuộc, buồn ngủ, nguy hiểm khi leo giàn giáo)",
+     "v": "c",
+     "n": "mhGAP 2023 ANX6 (mạnh), NICE CG113 1.3.20: không dùng cho hoảng sợ; nguy cơ lệ thuộc, cảnh báo khi vận hành máy (ANX6 Implementation). Cách ngưng sau 5 đêm 5 mg không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê benzodiazepin ghép ngắn hạn (tối đa 7 ngày) lúc bắt đầu SSRI",
+     "v": "a",
+     "n": "Mâu thuẫn nguồn đã ghi: mhGAP 2023 ANX6 chỉ nêu cấp cứu, 3–7 ngày; WFSBP 2022 Bảng 9 cho ghép vài tuần đầu (LoE B, RG 2). Chị làm việc trên cao nên nên tránh."
+    },
+    {
+     "t": "Kê benzodiazepin dùng đều hằng ngày hoặc dài ngày",
+     "v": "w",
+     "n": "mhGAP 2023 ANX6 (mạnh) và NICE CG113 1.3.20; WFSBP 2022 Bảng 9 chỉ cho ca kháng trị, không tiền sử lạm dụng chất."
+    },
+    {
+     "t": "Bắt đầu sertralin 25 mg (nửa viên 50 mg) mỗi sáng sau ăn trong 7 ngày đầu, rồi 50 mg/ngày nếu dung nạp",
+     "v": "c",
+     "n": "SSRI đầu tay (WFSBP 2022 Bảng 9; mhGAP 2023 ANX1; NICE CG113 1.3.25; Canada 2014 Bảng 15); sertralin, escitalopram ít tác dụng phụ nhất (mhGAP ANX1 Remarks). Khởi liều thấp, tăng chậm (NICE 1.3.27; WFSBP tr. 86: người Đông Á bắt đầu nửa liều hoặc ít hơn); 50–200 mg (Bảng 7). Số 25 mg và mốc 7 ngày là quyết định biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉ CBT ngắn tự học có hướng dẫn, chưa dùng thuốc",
+     "v": "a",
+     "n": "Hoảng sợ mức vừa: CBT hoặc thuốc theo ý người bệnh (NICE CG113 1.3.12; mhGAP 2023 ANX2, ANX1); không phải mâu thuẫn thật. Ca chọn thuốc cộng CBT vì >30 cơn, né tránh rõ."
+    },
+    {
+     "t": "Hướng dẫn CBT ngắn tự học có hướng dẫn, tập thở chậm, vận động đều; dần đối mặt tình huống né (thang thấp, ngủ một mình)",
+     "v": "c",
+     "n": "mhGAP 2023 ANX2 (mạnh), ANX3, ANX4, ANX5; NICE CG113 1.3.9, 1.3.11, 1.3.15–1.3.16; Canada 2014: người dùng thuốc cần dặn dần đối mặt nỗi sợ."
+    },
+    {
+     "t": "Giảm cà phê, hỏi ý nghĩ tự hại và trầm cảm; hẹn tái khám sau 2 tuần rồi tuần 4, 6, 12",
+     "v": "c",
+     "n": "Caffeine có thể liên quan cơn (Canada 2014, chẩn đoán panic); mức giảm không có trong tài liệu đã tải. NICE CG113 1.3.41: xem lại trong 2 tuần rồi tuần 4, 6, 12; 1.3.42: đánh giá tuần 12; 1.3.4: cảnh giác trầm cảm."
+    },
+    {
+     "t": "Hỏi lý do thật; nói rõ khám bệnh hôm nay không phải khám sức khỏe cấp giấy; khám đi làm phải đủ nội dung theo mẫu, ghi trung thực; chưa ký giấy 'đủ sức khỏe làm việc trên cao'",
+     "v": "c",
+     "n": "Khám bệnh ngoại trú không thuộc khám sức khỏe cấp giấy (TT 32/2023/TT-BYT Điều 30 khoản 2a); khám đi làm phải đủ nội dung theo mẫu (TT 25/2026/TT-BYT Điều 36 khoản 3a, 6); khám theo yêu cầu thiếu chuyên khoa không phân loại (TT 32/2023 Điều 32 khoản 3; TT 25/2026 Điều 36 khoản 7). Tiêu chuẩn làm việc trên cao không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ký giấy chứng nhận đủ sức khỏe làm việc trên cao ngay để chị khỏi mất việc",
+     "v": "w",
+     "n": "Không ký khống, phải khám đủ theo mẫu (TT 25/2026/TT-BYT Điều 36 khoản 6; TT 32/2023 Điều 32 khoản 3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ mức vừa (khoảng 30 cơn trong 7 tuần, đổi hành vi >1 tháng), khởi phát sau khi đổi warfarin sang rivaroxaban",
+     "Đã loại hội chứng vành cấp, cường giáp, loạn nhịp và thuyên tắc phổi tái phát (PE-unlikely, D-dimer âm tính)",
+     "Yếu tố làm nặng: tự dùng diazepam của chồng 5 đêm rồi ngưng, cà phê",
+     "Tiền sử PE và DVT chân trái, đang dùng rivaroxaban 20 mg/ngày: cần tính nguy cơ chảy máu khi thêm SSRI"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: (1) hỏi cơn, ban đêm; (2) đổi thuốc, mốc khởi phát; (3) thuốc tự dùng, thuốc người nhà (NICE 1.3.2); (4) khám tim, phổi, chân, giáp, tâm thần; (5) ECG, D-dimer, TSH; (6) hỏi lý do thật là giấy sức khỏe (TT 32/2023 Điều 30 khoản 2a).",
+     "Diagnostic timeout: trước khi gán 'hoảng sợ' hỏi: còn bệnh nguy hiểm nào giải thích được cơn (vành, PE, loạn nhịp, cường giáp); thuốc nào làm nặng (diazepam, cà phê); cơn có đủ tiêu chuẩn không (Canada 2014 Bảng 11, 12). Bẫy neo vào tiền sử: dễ kết luận 'lại cục máu' (chuyển CT) hoặc 'chỉ lo lắng' mà không tính điểm.",
+     "Loại PE không cần CT: Geneva giản lược 2 điểm, D-dimer 290 µg/L, SpO₂ 98%, chân không triệu chứng (ESC 2019 Bảng 5, khuyến cáo D-dimer); ảnh hưởng thuốc chống đông lên D-dimer không có trong tài liệu đã tải nên dặn dấu hiệu quay lại. Hội chứng vành cấp: ECG bình thường, HEART tối đa 2 điểm (nhóm thấp 0–3) (ESC 2023 Hình 5; Backus 2013 Bảng 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ rivaroxaban, xử lý nguy cơ chảy máu bằng hỏi dấu hiệu, tránh NSAID/aspirin, cân nhắc bảo vệ dạ dày (NICE CG113 1.2.29; ESC 2019 mục 8.2).",
+     "Sertralin khởi liều thấp cộng CBT ngắn tự học (mhGAP 2023 ANX1–ANX3; NICE 1.3.12, 1.3.27); chỉ CBT hoặc chỉ thuốc đều chấm a. Benzodiazepin: ghép ngắn ≤7 ngày chấm a, dùng đều chấm w (mhGAP ANX6; NICE 1.3.20; WFSBP Bảng 9)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "25 mg (nửa viên) × 1 lần/ngày trong 7 ngày; sau đó 50 mg (1 viên) × 1 lần/ngày nếu dung nạp",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "14 ngày rồi tái khám; điều trị nhiều tháng",
+      "ghi_chu": "SSRI đầu tay (WFSBP 2022 Bảng 9; mhGAP 2023 ANX1; NICE CG113 1.3.25); tăng chậm (NICE 1.3.27); đích 50–200 mg (WFSBP Bảng 7). Mốc 25 mg và 7 ngày là quyết định biên tập, không có trong tài liệu đã tải. Báo trước bồn chồn, buồn nôn (NICE 1.3.23)."
+     },
+     {
+      "thuoc": "Rivaroxaban (đang dùng, không kê mới)",
+      "ham_luong": "20 mg/viên",
+      "lieu": "1 viên × 1 lần/ngày, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, sau ăn",
+      "so_ngay": "Theo lịch của thầy thuốc điều trị huyết khối",
+      "ghi_chu": "Giữ nguyên theo đơn tuyến tỉnh; quyết định liều và thời gian thuộc thầy thuốc điều trị huyết khối (ESC 2019 mục 8.2). Không đổi tại phòng khám."
+     }
+    ],
+    "dan_do": [
+     "Đây là cơn hoảng sợ, không phải cục máu mới. Thuốc cần vài tuần mới đỡ rõ, uống đều mỗi sáng, không tự ngưng đột ngột (NICE CG113 1.3.24, 1.3.30; Canada 2014).",
+     "Không uống tiếp diazepam của chồng, không tự mua thuốc ngủ. Không uống ibuprofen, diclofenac, aspirin khi đang dùng thuốc chống đông; đau mỏi thì hỏi bác sĩ (ESC 2019 mục 8.2; NICE 1.2.29).",
+     "Quay lại ngay nếu phân đen, nôn máu, chảy máu khó cầm, bầm lan rộng; hoặc khó thở khi gắng sức, đau nhói theo nhịp thở, sưng đau một chân, ho ra máu, ngất (ESC 2019 mục 4.1, 8.2).",
+     "Làm bài CBT tự học mỗi tuần, tập thở chậm; tập dần ngủ một mình và đứng thang thấp, chưa tự leo giàn giáo cao khi còn cơn (mhGAP 2023 ANX2–ANX5).",
+     "Giấy chứng nhận sức khỏe: khám đi làm phải đủ nội dung theo mẫu, ghi trung thực; đề nghị công ty gia hạn (TT 25/2026 Điều 36). Tái khám sau 2 tuần, rồi tuần 4, 6, 12 (NICE 1.3.41)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – Tái khám tuần 2: đỡ một phần",
+   "tiep_don": "Tái khám sau 2 tuần theo hẹn, đi một mình. Chị nói 'đỡ chút đỉnh, chưa hết'. Chị uống sertralin đều theo đơn (25 mg 7 ngày, rồi 50 mg), vẫn dùng rivaroxaban, đã ngưng diazepam của chồng. Sinh hiệu lúc tiếp đón: mạch 82 l/p, HA 116/72 mmHg, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển chị lên chuyên khoa tâm thần tuyến trên vì 'chưa hết cơn sau 2 tuần'. Chị mới có một biện pháp đang chạy được 2 tuần, mới dùng 50 mg được 1 tuần; NICE CG113 1.3.35 chỉ nêu chuyển chuyên khoa khi đã qua 2 can thiệp mà vẫn còn triệu chứng đáng kể, và WFSBP 2022 (tr. 87) thấy nên thử ít nhất 4 tuần. Chị tốn tiền, nghỉ việc, và dễ hiểu 'thuốc không ăn', rồi bỏ thuốc giữa chừng.",
+    "nhap_vien": "Nhập viện vì còn cơn thưa trong khi sinh hiệu ổn, bầm nhỏ do va thang, không dấu chảy máu mất ổn định. NICE CG113 1.3.6: cơn hoảng sợ thường không cần giường nội hay tâm thần. Chị mất tiền, mất công và nhận thêm 'nhãn bệnh nặng' dễ khiến chị giấu thuốc, né tái khám vì sợ ảnh hưởng hợp đồng."
+   },
+   "loi_mo": "Bác sĩ ơi, uống thuốc hai tuần rồi em đỡ chút xíu, cơn thưa hơn mà chưa hết. Mới hôm trước em còn lên một cơn ngay lúc đứng trên thang. Em sốt ruột quá, bác sĩ cho em ít thuốc ngủ như của chồng em được không, hay là tăng thuốc lên cho nhanh khỏi?",
+   "sinh_hieu": {
+    "mach": 82,
+    "ha": "116/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tien_trien",
+     "noi_dung": "Tuần đầu 3 cơn, tuần vừa rồi 2 cơn: một cơn đêm, một cơn ban ngày trên thang thấp, chỉ khoảng 10 phút, nhẹ hơn trước, ít nghĩ 'sắp chết' hơn. Chị thấy 'đỡ một nửa'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đỡ một phần sau 2 tuần"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Ngày 2–5 buồn nôn nhẹ, bồn chồn, ngủ chập chờn; từ ngày 8 (lúc lên 50 mg) hết. Uống lúc 8 giờ sáng sau ăn, quên 1 lần. Không tiêu chảy, không run, không giật cơ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ khởi đầu đã qua; tuân thủ tốt"
+    },
+    {
+     "id": "khong_dung_lai",
+     "noi_dung": "Không uống lại diazepam từ sau buổi khám, anh Bình đã cất đi. Không dùng ibuprofen hay aspirin. Chị xin thuốc ngủ vì còn sợ đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dùng lại thuốc ngủ; xin lại vì còn sợ đêm"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Một vết bầm nhỏ (1 cm) ở cẳng tay phải do va vào thang, đã nhạt dần. Không chảy máu cam hay chân răng, không phân đen, không đau thượng vị, kinh nguyệt không thay đổi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bầm nhỏ do chấn thương, không dấu chảy máu của SSRI cùng thuốc chống đông"
+    },
+    {
+     "id": "ne_tranh",
+     "noi_dung": "Chưa dám leo giàn giáo; ngủ một mình được 3/7 đêm; còn tự đếm mạch vài lần mỗi ngày. Mới đọc 1 bài trong tờ tự học CBT vì 'bận quá'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Né tránh còn; chưa làm CBT"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, đỡ căng thẳng hơn lần trước. Da ấm khô. Một vết bầm xanh nhạt 1 cm ở cẳng tay phải; không bầm hay chấm xuất huyết nơi khác.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Khí sắc tốt hơn, nói chuyện thoải mái. Lo lắng còn nhưng ít hỏi lại về 'cục máu'. Không hoang tưởng, không ảo giác; không ý tưởng tự sát.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nhẹ nhàng hơn lần trước."
+    },
+    "run_nghi": {
+     "a": "Hai tay giơ thẳng không run, không rung giật cơ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 82 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 82 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ddimer": {
+     "v": "n",
+     "r": "D-dimer không cần làm lại.",
+     "n": "Không có dấu hiệu mới gợi thuyên tắc phổi (không khó thở gắng sức, đau theo nhịp thở, sưng chân; ESC 2019 mục 4.1, 4.2). Chỉ làm lại khi lâm sàng đổi."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ đang điều trị sertralin, đáp ứng một phần sau 2 tuần (chưa phải thất bại điều trị)",
+     "ok": 1,
+     "n": "Thuốc có thể cần 2–8 tuần mới giảm triệu chứng, 12 tuần hoặc hơn để đầy đủ (Canada 2014, tổng quan điều trị); thử ít nhất 4 tuần, đáp ứng một phần ở tuần 4 vẫn có thể đáp ứng thêm trong 4–6 tuần tiếp (WFSBP 2022 tr. 87); đổi thuốc khi không cải thiện sau 12 tuần (NICE CG113 1.3.28)."
+    },
+    {
+     "t": "Tác dụng phụ khởi đầu của sertralin (buồn nôn, bồn chồn), đã qua",
+     "n": "Tăng lo thoáng qua đầu điều trị; hoảng sợ nhạy với bồn chồn lúc đầu và dễ ngưng thuốc (NICE CG113 1.3.23; WFSBP 2022 tr. 86). Đã hết từ ngày 8 nên không cần đổi hay giảm liều (NICE 1.2.31)."
+    },
+    {
+     "t": "Chảy máu liên quan SSRI cùng rivaroxaban",
+     "n": "Chỉ có vết bầm 1 cm sau va chạm, không chảy máu niêm mạc, không phân đen (NICE CG113 1.2.29; Canada 2014 Safety and side effects). Tiếp tục theo dõi, chưa cần can thiệp."
+    },
+    {
+     "t": "Hội chứng ngưng diazepam hoặc phụ thuộc benzodiazepin",
+     "n": "Chỉ 5 đêm 5 mg, đã ngưng, không run, không giật cơ; chị xin thuốc vì sợ đêm. mhGAP 2023 ANX6: nguy cơ lệ thuộc khi dùng quá 3–7 ngày."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích đỡ một phần ở tuần 2 là bình thường; chưa đủ mốc để kết luận thuốc không hợp; khen việc uống đều",
+     "v": "c",
+     "n": "Thuốc cần 2–8 tuần mới có tác dụng, 12 tuần hoặc hơn để đầy đủ (Canada 2014); thử ít nhất 4 tuần (WFSBP 2022 tr. 87); NICE CG113 1.3.24: báo trước độ trễ tác dụng."
+    },
+    {
+     "t": "Giữ sertralin 50 mg/ngày, chưa tăng liều trước tuần 4; nếu tuần 4 còn cơn đáng kể thì tăng lên 100 mg",
+     "v": "c",
+     "n": "Tăng chậm (NICE CG113 1.3.27); chỉ tăng đến liều cao nhất khuyến cáo khi liều thấp hoặc trung bình thất bại (WFSBP 2022 tr. 86, Bảng 7: 50–200 mg); mốc tuần 4 theo WFSBP tr. 87. Tăng ngay lên 100 mg ở tuần 2 chấm a vì chưa đủ thời gian."
+    },
+    {
+     "t": "Đổi hoặc ngưng sertralin vì 'chưa hết cơn' sau 2 tuần",
+     "v": "w",
+     "n": "Đổi thuốc khi không cải thiện sau 12 tuần (NICE CG113 1.3.28); chị đã đỡ một phần và dung nạp tốt."
+    },
+    {
+     "t": "Từ chối kê benzodiazepin hoặc thuốc ngủ theo yêu cầu; giải thích lý do; hướng dẫn thở chậm và bài tập khi sợ đêm",
+     "v": "c",
+     "n": "mhGAP 2023 ANX6 (mạnh) và NICE CG113 1.3.20: không kê cho hoảng sợ. Ghép ngắn hạn ≤7 ngày chấm a (WFSBP 2022 Bảng 9); dùng đều chấm w. Chị làm việc trên cao nên nên tránh."
+    },
+    {
+     "t": "Soát chảy máu: vết bầm nhỏ do va chạm, nhắc tránh ibuprofen, aspirin; CTM không bắt buộc; dặn quay lại ngay nếu phân đen, nôn máu, chảy máu khó cầm",
+     "v": "c",
+     "n": "NICE CG113 1.2.29; ESC 2019 mục 8.2 (NSAID, kháng tiểu cầu là yếu tố nguy cơ chảy máu); Canada 2014 Safety and side effects."
+    },
+    {
+     "t": "Bắt đầu thật sự CBT tự học có hướng dẫn mỗi tuần, tập dần đối mặt tình huống né (ngủ một mình, đứng thang rồi tăng độ cao)",
+     "v": "c",
+     "n": "mhGAP 2023 ANX2 (mạnh), ANX3; NICE CG113 1.3.9, 1.3.15–1.3.16; thuốc chỉ đáp ứng một phần thì thêm liệu pháp tâm lý (NICE 1.2.36, mục GAD). Số buổi mỗi tuần và độ cao tập không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn theo dõi tuần 4 và 6 (khám hoặc điện thoại), đánh giá chính thức tuần 12",
+     "v": "c",
+     "n": "NICE CG113 1.3.41: xem lại tại 4, 6 và 12 tuần; 1.3.42: đánh giá hiệu quả ở tuần 12. Canada 2014 (Baseline assessment): theo dõi mỗi 1–2 tuần rồi mỗi 4 tuần đầu điều trị."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ mức vừa đang điều trị sertralin 50 mg, đáp ứng một phần ở tuần 2 (cơn 4–5 xuống 2–3 cơn/tuần)",
+     "Tác dụng phụ khởi đầu đã qua; không có dấu chảy máu liên quan SSRI cùng rivaroxaban",
+     "Né tránh tình huống còn; chưa thực hiện CBT"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: (1) số cơn 2 tuần qua, so với trước; (2) tác dụng phụ, tuân thủ; (3) thuốc ngủ, thuốc giảm đau, dấu chảy máu (NICE 1.2.29); (4) khám tâm thần, vết bầm, tim; (5) không cần xét nghiệm.",
+     "Cơn thưa, nhẹ hơn, tác dụng phụ đã hết: đây là hồi phục chậm bình thường, không phải thất bại sớm. Mốc cân nhắc tăng liều là tuần 4 (WFSBP tr. 87), mốc kết luận đổi thuốc là tuần 12 (NICE 1.3.28, 1.3.42). Bẫy: sốt ruột (chị lẫn bác sĩ) rồi đổi thuốc, tăng nhanh hoặc kê thuốc ngủ."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ sertralin 50 mg, chưa tăng: tăng chậm (NICE 1.3.27), thử tối thiểu 4 tuần (WFSBP tr. 87); tăng ngay 100 mg chấm a vì chưa đủ thời gian (WFSBP tr. 86 nói tăng khi liều thấp/trung bình thất bại).",
+     "Benzodiazepin: từ chối theo yêu cầu (mhGAP ANX6; NICE 1.3.20); ghép ngắn chấm a, dùng đều chấm w. Thêm CBT tự học (mhGAP ANX2 mạnh); tiếp tục tránh NSAID và theo dõi chảy máu (NICE 1.2.29; ESC 2019 mục 8.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "50 mg (1 viên) × 1 lần/ngày, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "Đến tuần 4 rồi đánh giá; nếu còn cơn đáng kể thì tăng 100 mg",
+      "ghi_chu": "Giữ liều, thử ít nhất 4 tuần (WFSBP 2022 tr. 87); tăng chậm (NICE CG113 1.3.27); liều tối đa 200 mg (WFSBP Bảng 7). Mốc 4 tuần theo WFSBP; mức tăng 50 mg là quyết định biên tập."
+     },
+     {
+      "thuoc": "Rivaroxaban (đang dùng, không kê mới)",
+      "ham_luong": "20 mg/viên",
+      "lieu": "1 viên × 1 lần/ngày, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, sau ăn",
+      "so_ngay": "Theo lịch của thầy thuốc điều trị huyết khối",
+      "ghi_chu": "Giữ nguyên theo đơn tuyến tỉnh (ESC 2019 mục 8.2); không đổi tại phòng khám."
+     }
+    ],
+    "dan_do": [
+     "Đỡ một phần ở tuần 2 là bình thường; thuốc cần vài tuần mới đủ tác dụng, đừng ngưng hay tự tăng (NICE CG113 1.3.24, 1.3.30; Canada 2014).",
+     "Không tự uống thuốc ngủ hay diazepam; sợ đêm thì thở chậm, làm bài tự học (mhGAP 2023 ANX2–ANX4, ANX6). Chưa tự leo giàn giáo cao khi còn cơn; tập dần đứng thang thấp.",
+     "Tránh ibuprofen, aspirin; quay lại ngay nếu phân đen, nôn máu, chảy máu khó cầm (NICE 1.2.29; ESC 2019 mục 8.2) hoặc khó thở gắng sức, đau nhói theo nhịp thở, sưng đau một chân.",
+     "Theo dõi tuần 4 và 6, khám đánh giá tuần 12 (NICE 1.3.41, 1.3.42)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 – Tái khám tuần 12: gần như hết cơn",
+   "tiep_don": "Tái khám tuần 12 theo hẹn. Các lần theo dõi tuần 4 và 6 qua điện thoại chị đều ổn, vẫn dùng sertralin 50 mg và rivaroxaban. Chị nói 'hơn một tháng nay em không lên cơn nào', muốn hỏi chuyện ngưng thuốc và tờ giấy chứng nhận sức khỏe. Sinh hiệu: mạch 76 l/p, HA 114/70 mmHg, nhiệt 36,6 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển chị lên chuyên khoa tâm thần vì 'còn dùng thuốc, chưa bỏ được'. Chị đã hết cơn, dung nạp thuốc và làm được CBT; chuyển chuyên khoa chỉ đặt ra khi còn triệu chứng đáng kể sau 2 can thiệp (NICE CG113 1.3.35). Chị tốn thời gian và tiền, nhận 'nhãn tâm thần' mà chị rất sợ, nên có thể bỏ tái khám hoặc giấu bệnh khi đi khám sức khỏe.",
+    "theo_doi": "Cho ngưng sertralin ngay vì chị khỏe rồi và chỉ hẹn khi có cơn. Ngưng đột ngột có thể gây chóng mặt, tê, buồn nôn, lo âu và mất ngủ (NICE CG113 1.3.30–1.3.32); thuốc cần dùng ít nhất vài tháng sau khi đạt liều tối ưu (NICE 1.3.27; WFSBP 2022 tr. 86, 94; Canada 2014). Cơn có thể quay lại, đúng lúc chị đang nhận công trình mới trên giàn giáo.",
+    "nhap_vien": "Nhập viện để 'ngưng thuốc an toàn'. Chị khỏe, sinh hiệu bình thường, không có chỉ định nằm viện (NICE CG113 1.3.6); chị mất công, trả viện phí và có thể lỡ hợp đồng đang chờ."
+   },
+   "loi_mo": "Chào bác sĩ. Em khỏe nhiều rồi, hơn một tháng nay không có cơn nào, em leo thang lại được rồi. Giờ em muốn ngưng thuốc cho nhẹ người, với lại bác sĩ ký giúp em tờ giấy chứng nhận sức khỏe để em đi làm ở công ty mới được không?",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "114/70",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tien_trien",
+     "noi_dung": "Cơn cuối vào tuần 6, từ đó hơn 5 tuần không cơn. Ngủ ngon, ngủ một mình được, không còn đếm mạch. Từ tuần 8 chị đứng thang 3 m trở lại, đã làm xong 5 trên 7 bài tự học CBT. Chị vẫn dùng sertralin 50 mg và rivaroxaban đều.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Thuyên giảm sau 12 tuần"
+    },
+    {
+     "id": "muon_ngung",
+     "noi_dung": "Chị muốn ngưng sertralin vì thấy khỏe, ngại uống 'thuốc thần kinh' lâu và sợ người ta biết. Chị chưa biết nên dùng bao lâu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Muốn ngưng thuốc sớm: nguy cơ tái phát"
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Không còn buồn nôn hay bồn chồn. Khi bác sĩ hỏi tế nhị, chị nói giảm ham muốn nhẹ so với trước, chấp nhận được. Không bầm tím mới, không chảy máu cam hay chân răng, không phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tác dụng phụ tình dục nhẹ; không dấu chảy máu"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Công ty thầu hẹn nhận giấy chứng nhận sức khỏe trong tuần này mới ký hợp đồng thợ chính sơn mặt ngoài nhà cao tầng. Chị muốn bác sĩ ký 'đủ sức khỏe', sợ ghi thuốc chống đông và thuốc thần kinh thì bị loại. Chị đã hiểu từ lượt trước rằng khám bệnh không phải khám sức khỏe cấp giấy.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Xin giấy chứng nhận sức khỏe: cần khám đủ mẫu, ghi trung thực"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vui vẻ, da hồng, không bầm tím, không chấm xuất huyết.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Khí sắc tốt, chủ động kể chuyện công việc, không còn hỏi lại về 'cục máu'. Không lo âu quá mức, không ý tưởng tự sát.",
+     "k": 1,
+     "hien": "Tỉnh, vui vẻ, hợp tác, nói chuyện thoải mái."
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "n",
+     "r": "Không cần làm lại.",
+     "n": "Không cần: không cơn, không triệu chứng tim mới; ECG lượt 1 bình thường. ECG lặp lại chấm a."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ, thuyên giảm sau 12 tuần sertralin 50 mg cùng CBT tự học; cần duy trì thuốc để phòng tái phát",
+     "ok": 1,
+     "n": "Hơn 5 tuần không cơn, hết né tránh, tuân thủ tốt: đáp ứng sau 12 tuần (NICE CG113 1.3.42). Nên tiếp tục thuốc sau thuyên giảm vì bệnh có thể tái phát khi ngưng sớm (NICE 1.3.27; WFSBP 2022 tr. 86, 94; Canada 2014)."
+    },
+    {
+     "t": "Tác dụng phụ tình dục nhẹ của SSRI, chấp nhận được",
+     "n": "Rối loạn chức năng tình dục là tác dụng phụ thường gặp của SSRI (Canada 2014, Safety and side effects; WFSBP 2022 tr. 86); cần chủ động hỏi vì người bệnh ít tự kể. Xử trí cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nguy cơ chảy máu của SSRI cùng rivaroxaban",
+     "n": "Không có dấu chảy máu mới sau 12 tuần (NICE CG113 1.2.29; Canada 2014)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá hiệu quả ở tuần 12 bằng hỏi cơn, né tránh; kết luận đã đáp ứng nên tiếp tục thuốc, không ngưng, không đổi",
+     "v": "c",
+     "n": "NICE CG113 1.3.42: tuần 12 đánh giá hiệu quả để quyết định tiếp tục hay đổi; 1.3.45: bảng tự điền ngắn."
+    },
+    {
+     "t": "Tiếp tục sertralin 50 mg: ít nhất 6 tháng sau liều tối ưu (NICE, mhGAP) hoặc 6–12 tháng sau thuyên giảm (WFSBP) hoặc 12–24 tháng (Canada 2014), rồi giảm dần từ từ theo hẹn bác sĩ",
+     "v": "c",
+     "n": "NICE CG113 1.3.27 (≥6 tháng sau liều tối ưu, rồi giảm dần); WFSBP 2022 tr. 86, 94 (6–12 tháng sau thuyên giảm); Canada 2014 (≥12–24 tháng). Cả ba đều đúng vì cách tính mốc khác nhau (sổ mâu thuẫn: thời gian dùng SSRI trong hoảng sợ)."
+    },
+    {
+     "t": "Ngưng sertralin ngay, đột ngột vì đã khỏe",
+     "v": "w",
+     "n": "Ngưng đột ngột gây triệu chứng ngưng thuốc và tái phát (NICE CG113 1.3.30–1.3.32; WFSBP 2022 tr. 94)."
+    },
+    {
+     "t": "Hỏi chủ động tác dụng phụ (kể cả tình dục), dấu chảy máu; nhắc tránh ibuprofen, aspirin; báo thầy thuốc huyết khối biết chị đang dùng sertralin",
+     "v": "c",
+     "n": "NICE CG113 1.2.29, 1.3.22; ESC 2019 mục 8.2; Canada 2014 Safety and side effects. Chỉnh liều rivaroxaban thuộc thầy thuốc điều trị huyết khối (ESC 2019 nêu giảm liều sau 6 tháng, không thuộc phạm vi phòng khám này)."
+    },
+    {
+     "t": "Tiếp tục CBT (hoàn thành bài còn lại), tập dần, kế hoạch khi cơn quay lại: quay lại sớm, không tự dùng diazepam",
+     "v": "c",
+     "n": "mhGAP 2023 ANX2–ANX4, ANX6; NICE CG113 1.3.15–1.3.16. Số buổi tối thiểu để phòng tái phát không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nói rõ khám bệnh ngoại trú không phải khám sức khỏe cấp giấy; hướng dẫn đi khám sức khỏe đi làm đủ nội dung theo mẫu, khai trung thực bệnh đã điều trị; có thể viết tóm tắt tình trạng điều trị nếu chị yêu cầu",
+     "v": "c",
+     "n": "TT 32/2023/TT-BYT Điều 30 khoản 2a, Điều 32 khoản 3; TT 25/2026/TT-BYT Điều 2 khoản 3 (Điều 36 khoản 3a, 6, 7). Tiêu chuẩn làm việc trên cao và Mẫu 03 Phụ lục XXIV không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ký giấy chứng nhận đủ sức khỏe làm việc trên cao tại chỗ vì chị đã khỏi",
+     "v": "w",
+     "n": "NICE CG113 1.3.43: dùng thuốc quá 12 tuần thì xem lại mỗi 8–12 tuần."
+    },
+    {
+     "t": "Hẹn tái khám mỗi 8–12 tuần khi còn dùng thuốc; quay lại sớm nếu cơn trở lại",
+     "v": "c",
+     "n": "NICE CG113 1.3.43: nếu dùng thuốc quá 12 tuần thì xem lại mỗi 8–12 tuần tùy diễn tiến."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ đã thuyên giảm sau 12 tuần sertralin 50 mg cùng CBT tự học",
+     "Tác dụng phụ tình dục nhẹ của SSRI, không dấu chảy máu",
+     "Đang dùng rivaroxaban 20 mg/ngày theo thầy thuốc điều trị huyết khối; cần báo thầy thuốc đó"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: (1) cơn từ lần trước, né tránh, giấc ngủ; (2) tuân thủ thuốc và CBT; (3) hỏi tế nhị tác dụng phụ tình dục, dấu chảy máu; (4) khám tâm thần, tim; (5) không cần xét nghiệm.",
+     "Chị khỏi nên muốn ngưng thuốc: bẫy là đồng ý ngưng sớm; tài liệu đều nói tiếp tục sau thuyên giảm rồi giảm dần (NICE 1.3.27, 1.3.30; WFSBP tr. 86, 94; Canada 2014). Tác dụng phụ tình dục dễ bị bỏ sót nhưng là lý do thường gặp khiến người bệnh tự ngưng thuốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục sertralin 50 mg: ghi cả ba mốc (6 tháng NICE/mhGAP, 6–12 tháng WFSBP, 12–24 tháng Canada) vì mâu thuẫn do cách tính mốc; ngưng đột ngột chấm w (NICE 1.3.30–1.3.32).",
+     "Giấy sức khỏe: không ký khống, hướng dẫn khám đủ mẫu (TT 25/2026 Điều 36; TT 32/2023 Điều 30, 32); tiêu chuẩn làm việc trên cao không có trong tài liệu đã tải. Giữ rivaroxaban, báo thầy thuốc huyết khối về sertralin (ESC 2019 mục 8.2; NICE 1.2.29)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "50 mg (1 viên) × 1 lần/ngày, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "Ít nhất 6 tháng sau liều tối ưu (NICE 1.3.27) hoặc 6–12 tháng sau thuyên giảm (WFSBP tr. 94) hoặc 12–24 tháng (Canada 2014); rồi giảm dần",
+      "ghi_chu": "Đang dùng, đã đáp ứng; không ngưng đột ngột, giảm dần từ từ khi dừng (NICE CG113 2011, 1.3.30); mốc thời gian theo NICE 1.3.27, WFSBP 2022 tr. 94, Canada 2014; hẹn 8–12 tuần/lần (NICE 1.3.43)."
+     },
+     {
+      "thuoc": "Rivaroxaban (đang dùng, không kê mới)",
+      "ham_luong": "20 mg/viên",
+      "lieu": "1 viên × 1 lần/ngày, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối, sau ăn",
+      "so_ngay": "Theo lịch của thầy thuốc điều trị huyết khối",
+      "ghi_chu": "Giữ nguyên theo đơn tuyến tỉnh (ESC 2019 mục 8.2); không đổi tại phòng khám."
+     }
+    ],
+    "dan_do": [
+     "Tiếp tục uống sertralin mỗi sáng, không tự ngưng dù đã khỏe; muốn dừng phải giảm dần theo hẹn bác sĩ (NICE CG113 1.3.30; WFSBP 2022 tr. 94).",
+     "Nếu cơn quay lại, đến khám sớm, không tự dùng diazepam hay thuốc ngủ (mhGAP 2023 ANX6); tiếp tục CBT, tập thở.",
+     "Báo thầy thuốc huyết khối khi tái khám là chị đang dùng sertralin; tránh ibuprofen, aspirin; quay lại ngay nếu phân đen, nôn máu, chảy máu khó cầm (NICE 1.2.29; ESC 2019 mục 8.2).",
+     "Giấy chứng nhận sức khỏe: đến cơ sở khám sức khỏe đi làm, khám đủ mẫu, khai trung thực việc đã điều trị; phòng khám hôm nay chỉ khám bệnh (TT 32/2023 Điều 30 khoản 2a; TT 25/2026 Điều 36). Tái khám 8–12 tuần (NICE 1.3.43)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Lan tiếp tục sertralin 50 mg và rivaroxaban, hoàn thành 7 bài CBT, hết cơn từ tuần 6 và từ tuần 8 đứng thang 3 m trở lại. Chị đi khám sức khỏe đi làm đủ mẫu ở cơ sở có thẩm quyền, khai trung thực việc đã điều trị và được ký hợp đồng sau khi cơ sở đó hoàn tất. Chị uống sertralin đủ thời gian rồi giảm dần theo hẹn (NICE CG113 1.3.27, 1.3.30), không tái phát, và báo thầy thuốc huyết khối về thuốc đang dùng. Ca ổn định, khỏi bệnh.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: diazepam 5 mg của chồng 5 đêm, chỉ lộ khi hỏi cụ thể hoặc hỏi anh Bình; cơn đêm nhẹ đi, sáng lơ mơ khi đứng thang, ngưng thì cơn dội lại (NICE CG113 1.3.2; mhGAP 2023 ANX6).",
+  "Tiền sử PE/DVT: chị tin 'lại cục máu', người khám dễ chuyển CT hoặc nhập viện, hoặc ngược lại bỏ qua PE vì 'chỉ lo lắng'. Không có CT nên dùng Geneva giản lược và D-dimer (ESC 2019 Bảng 5).",
+  "Đổi warfarin sang rivaroxaban 8 tuần trước làm khởi phát cơn; thêm SSRI cho người dùng chống đông đòi hỏi tính nguy cơ chảy máu (NICE 1.2.29), không ngưng chống đông.",
+  "Lý do thật là xin giấy chứng nhận sức khỏe: chị che giấu bệnh vì sợ mất việc; không ký khống, nói rõ khám bệnh khác khám sức khỏe cấp giấy (TT 32/2023; TT 25/2026).",
+  "Đỡ một phần ở tuần 2 dễ bị đọc là thất bại; hết cơn ở tuần 12 dễ bị đọc là 'khỏi, ngưng thuốc'."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi tự dùng thuốc bằng câu cụ thể không phán xét (thuốc ngủ, thuốc người nhà), hỏi cả người nhà; thuốc an thần tự dùng che mờ bệnh cảnh và nguy hiểm cho người làm việc trên cao.",
+  "Có tiền sử thuyên tắc phổi vẫn có thể bị hoảng sợ; không loại PE bằng cảm tính hay chuyển CT mặc định: dùng Geneva + D-dimer, dặn dấu hiệu quay lại (ESC 2019 Bảng 5, mục 4.3).",
+  "Thêm SSRI cho người dùng thuốc chống đông: tính nguy cơ chảy máu, tránh NSAID/aspirin, cân nhắc bảo vệ dạ dày, KHÔNG ngưng chống đông (NICE 1.2.29; ESC 2019 mục 8.2).",
+  "Đỡ một phần sớm không phải thất bại (mốc 4 tuần, 12 tuần: WFSBP tr. 87; NICE 1.3.28, 1.3.42); khi đã khỏi vẫn tiếp tục thuốc rồi giảm dần. Hỏi lý do thật; khám bệnh không thay khám sức khỏe cấp giấy (TT 32/2023; TT 25/2026)."
+ ],
+ "diem_nho": [
+  "Cơn hoảng sợ: ≥4 trong 13 triệu chứng, lên đỉnh trong vài phút; rối loạn hoảng sợ cần ≥1 tháng lo cơn hoặc đổi hành vi (Canada 2014 Bảng 11, 12).",
+  "Geneva giản lược: tiền sử PE/DVT 1, mạch 75–94 l/p 1, ≥95 l/p 2; 0–2 điểm PE-unlikely thì làm D-dimer (ESC 2019 Bảng 5, khuyến cáo D-dimer).",
+  "SSRI tăng nguy cơ chảy máu, nhất là cùng thuốc ảnh hưởng đông máu; cân nhắc bảo vệ dạ dày (NICE CG113 1.2.29; mhGAP 2023 ANX1). NSAID, kháng tiểu cầu nên tránh ở người dùng thuốc chống đông (ESC 2019 mục 8.2).",
+  "Đầu tay: SSRI (WFSBP 2022 Bảng 9; mhGAP ANX1) và CBT ngắn (mhGAP ANX2); không benzodiazepin đều đặn (mhGAP ANX6; NICE 1.3.20). Theo dõi tuần 2, 4, 6, 12 (NICE 1.3.41)."
+ ],
+ "nguon": [
+  "WHO – mhGAP guideline 2023 (ấn bản 3) – TL-0573 – ANX1 (và Remarks, Implementation considerations), ANX2–ANX6.",
+  "NICE – CG113 GAD and panic disorder in adults (2011, cập nhật 2020) – TL-0598 – 1.2.29, 1.2.31, 1.2.36 (mục GAD, áp dụng suy rộng), 1.3.2–1.3.45.",
+  "WFSBP 2022 – Guidelines for treatment of anxiety, OCD and PTSD, Part I (World J Biol Psychiatry 2022;24:79-117) – TL-0587 – Bảng 5, 7, 9; General principles, Duration, Dosing, Treatment resistance (tr. 86–87), Panic long-term (tr. 94).",
+  "Canadian guidelines for anxiety, PTSD and OCD (Katzman 2014, BMC Psychiatry) – TL-0596 – Bảng 7, 11, 12, 15; Baseline assessment, Safety and side effects, Panic disorder.",
+  "ESC 2019 – Acute pulmonary embolism (Eur Heart J 2020;41:543-603) – TL-0089 – mục 4.1–4.4, Bảng 5, khuyến cáo D-dimer và CTPA, mục 8.2 (tr. 576).",
+  "ESC 2023 ACS – TL-0069 – Hình 5. ESC 2019 SVT – TL-0687 – mục 8, 9.1.1. ATA 2016 hyperthyroidism – TL-0324 – mục B2. Backus 2013 – HEART score – TL-0110 – Bảng 1.",
+  "BYT – TT 32/2023/TT-BYT (TL-0669) – Điều 30 khoản 2a, Điều 32 khoản 3. BYT – TT 25/2026/TT-BYT (kho cũ tltk-10000-ca, thư mục 13, bản sửa đổi kèm Phụ lục XXIV) – Điều 2 khoản 3 (Điều 36 khoản 3, 6, 7).",
+  "Không có trong tài liệu đã tải: sertralin 25 mg và mốc 7 ngày; mốc tăng liều tuần 4 (WFSBP chỉ nêu thử ≥4 tuần); loại và liều thuốc bảo vệ dạ dày; ảnh hưởng thuốc chống đông lên D-dimer; giá trị siêu âm chân loại PE; cách ngưng diazepam sau 5 đêm; số buổi CBT; xử trí giảm ham muốn do SSRI; tiêu chuẩn sức khỏe làm việc trên cao; Mẫu 03 Phụ lục XXIV."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-27): đã đọc TL-0573 ANX1–ANX6; TL-0598 mục 1.2.23–1.2.36, 1.3.1–1.3.45; TL-0587 Bảng 7, 9, Duration, Dosing, Treatment resistance, General principles, Panic long-term; TL-0596 Bảng 7, 11, 12, Baseline assessment, Safety and side effects, Panic disorder; TL-0089 mục 4.1–4.4, Bảng 5, khuyến cáo D-dimer, mục 8.2; TL-0069 Hình 5; TL-0687 mục 9.1.1; TL-0324 mục B2; TL-0110 Bảng 1; TL-0669 Điều 30, 32; TT 25/2026 (kho cũ) Điều 36.",
+  "Mâu thuẫn áp dụng từ sổ: benzodiazepin trong hoảng sợ, SSRI hay CBT trước (TT-0177); thời gian dùng SSRI (TT-0192); chỉnh liều sertralin (TT-0169); NSAID ở người dùng thuốc chống đông (TH-1196); giấy chứng nhận sức khỏe (NH-0050, TH-1196). Không có mâu thuẫn thật mới. Siêu âm Doppler chân, INR, glucose không đưa vào ca để gọn.",
+  "Ghi nhận: NICE 1.2.29, 1.2.36 thuộc mục GAD, ca dùng suy rộng cho hoảng sợ; mhGAP ANX1 nêu nguy cơ chảy máu cho cả hoảng sợ và GAD. Không có khuyến cáo riêng SSRI ở người dùng DOAC trong tài liệu đã tải. Giảm liều rivaroxaban sau 6 tháng (ESC 2019, IIa) thuộc thầy thuốc điều trị huyết khối."
+ ]
+}
