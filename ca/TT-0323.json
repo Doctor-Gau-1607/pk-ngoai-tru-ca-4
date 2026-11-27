@@ -1,0 +1,743 @@
+{
+ "ma_ca": "TT-0323",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TT_lo_au_benh_tat",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn lo âu bệnh tật",
+  "chan_doan_phai_loai_tru": [
+   "Bệnh thực thể"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "gioi": "Nam",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "nghe_nghiep": "Nội trợ",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Đỗ Quang Huy",
+  "tuoi": 37,
+  "gioi": "Nam",
+  "nghe": "Nội trợ (ở nhà trông hai con, nấu ăn; trước làm kế toán)",
+  "can_nang": 66,
+  "chieu_cao": 169,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'tôi', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Cẩn thận, tỉ mỉ vì từng làm kế toán: ghi mọi số đo vào sổ. Ngại bị coi là yếu đuối ('đàn ông ở nhà trông con mà còn lo vớ vẩn'), hay xin lỗi vì kể dài. Nói nhỏ lại khi nhắc đến nỗi sợ.",
+  "kieu_nhieu": "Kể lể lộn xộn: hỏi mở thì nhảy từ năm ngoái sang tuần trước rồi quay về chuyện bố, lặp lại số đo, chen chuyện vụn vặt. Hỏi cụ thể từng việc (mấy lần, lúc nào, kéo dài bao lâu) thì trả lời gọn. Để im lâu hoặc hỏi quá chung thì lại lan man. Phần xấu hổ (số lần đo, hỏi vợ, nỗi sợ như bố) chỉ nói khi được hỏi đúng hoặc được bình thường hóa.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e0b48e",
+   "toc": "#1c1a1a",
+   "kieuToc": "ngan",
+   "ao": "#6b7f94",
+   "aoKieu": "thun",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Hồi hộp, nặng đầu, tê tay từng lúc; muốn kiểm tra huyết áp",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám chỉ làm xét nghiệm cơ bản (công thức máu, sinh hóa nền, nước tiểu) và điện tim. Không có X-quang, siêu âm, CT, nội soi; không có TSH, troponin, Holter, đo HA lưu động 24 giờ. Mẫu gửi bệnh viện huyện có kết quả sau khoảng 3 ngày."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 37 tuổi, nội trợ, đến khám một mình vì hồi hộp, nặng đầu, tê tay từng lúc mấy tháng nay, muốn kiểm tra huyết áp. Đang uống amlodipin 5 mg mỗi sáng từ khi được chẩn đoán tăng huyết áp. Mang theo một cuốn sổ ghi huyết áp và vài tờ phiếu cũ. Điều dưỡng Linh đo sinh hiệu: mạch 88 l/p, HA 138/88 mmHg, nhiệt độ 36,7 °C, nhịp thở 18 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Anh Huy được gửi lên bệnh viện tỉnh 'làm lại tim–não cho chắc', trong khi HA sau nghỉ 126/78 mmHg, điện tim và xét nghiệm cơ bản bình thường, và anh đã được đánh giá tăng huyết áp ở tuyến trên năm ngoái. Thêm một vòng thăm dò chỉ nuôi niềm tin 'chắc còn gì chưa tìm ra'; thăm dò lặp lại làm xấu quan hệ thầy thuốc – người bệnh và dẫn đến đi khám nhiều nơi (ICD-11 CDDR 2024, mục 6B23, tr. 319; QĐ 2058/2020, Bài 25 mục 5). Nỗi sợ giống bố vẫn không ai hỏi tới.",
+    "nhap_vien": "Anh Huy bị giữ lại nằm theo dõi một đêm vì 'tê tay, hồi hộp', dù không có dấu thần kinh khu trú, điện tim bình thường và HA không ở mức cấp cứu (QĐ 5904/2019, Phần 3 mục D.1). Anh về nhà với cảm giác 'bệnh nặng đến mức phải nằm viện', tốn kém, bỏ hai con một ngày và có thêm lý do để đo HA liên tục. Không ai gọi tên chuyện đang xảy ra là lo âu về bệnh."
+   },
+   "loi_mo": "Chào bác sĩ. Chuyện là thế này, năm ngoái đi khám công ty người ta bảo huyết áp cao, rồi tôi lên bệnh viện tỉnh, uống thuốc... mà thôi, giờ tôi hay hồi hộp, đầu nặng nặng, tay có lúc tê tê. Đo ở nhà thì lên xuống, hôm 150 hôm 120... Bác sĩ xem giúp tôi có sao không. Xin lỗi, tôi kể dài quá.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "138/88",
+    "nhiet": "36,7",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến khám vì hồi hộp, nặng đầu, tê tay mấy tháng nay; muốn bác sĩ xem huyết áp 'có ổn không'. Đi một mình, nói với vợ là 'đi lấy thuốc'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, đến một mình"
+    },
+    {
+     "id": "tha",
+     "noi_dung": "Mười bốn tháng trước khám sức khỏe công ty đo 148/94. Bệnh viện tỉnh làm xét nghiệm máu, nước tiểu, điện tim, siêu âm bụng đều bình thường, cho amlodipin 5 mg uống sáng. Sau 3 tháng HA 128/80, bác sĩ hẹn 6 tháng; anh chưa đi lại. Uống rất đều.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử THA đã được đánh giá ở tuyến trên, đang dùng thuốc và tuân thủ"
+    },
+    {
+     "id": "hoi_hop",
+     "noi_dung": "Hồi hộp từng đợt 5–15 phút, vài lần mỗi tuần, hay vào lúc ngồi yên buổi tối hoặc ngay sau khi đo thấy HA cao. Không do gắng sức, không ngất, không đau thắt ngực, leo ba tầng cầu thang vẫn bình thường. Chưa từng có cơn sợ ập đến bất ngờ giữa lúc yên ổn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm hồi hộp; không gắng sức; phân biệt với hoảng sợ"
+    },
+    {
+     "id": "dau_te",
+     "noi_dung": "Nặng đầu hai bên gần như cả ngày, không đau dữ dội, không nôn, không nhìn mờ. Tê đầu ngón tay hai bên 1–2 phút lúc đang hồi hộp, thở nhanh. Chưa lần nào yếu liệt, méo miệng, nói khó, chưa ngất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc triệu chứng thần kinh, đau đầu"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Không nhớ bắt đầu từ lúc nào, chỉ biết sau khi được báo huyết áp cao thì dần dần lo hơn. Không có biến cố gì đặc biệt trong nhà, công việc hay sức khỏe ở thời điểm đó.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không rõ yếu tố khởi phát"
+    },
+    {
+     "id": "do_ha",
+     "noi_dung": "Đo HA bằng máy cổ tay mua trên mạng khoảng 15–20 lần mỗi ngày, cả khi thức giấc nửa đêm; ghi từng số vào sổ. Thấy 130–150 là lo, đo lại đến khi ra số thấp mới yên. Hơn một giờ mỗi ngày dành cho việc đo, ghi, so sánh.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có đo HA ở nhà không' thì nói 'thỉnh thoảng thôi, mỗi ngày vài lần'. Chỉ nói số thật khi bác sĩ hỏi cụ thể một ngày đo mấy lần, đo lúc nào, hoặc cùng xem sổ và đếm.",
+     "y": "Hành vi kiểm tra lặp lại: số lần đo HA mỗi ngày"
+    },
+    {
+     "id": "tim_kiem",
+     "noi_dung": "Đêm khuya đọc bài về đột quỵ ở người trẻ, tự bắt mạch cổ, soi lưỡi, thử nhấc hai tay. Mỗi tối hỏi vợ 'mặt anh có méo không'; vợ nói 'không' thì yên một lúc rồi lại hỏi.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi cụ thể về việc anh làm mỗi khi lo (đọc gì, kiểm tra gì, hỏi ai) và đã nói rằng nhiều người có nỗi lo như vậy. Hỏi 'có lo lắng gì không' thì nói 'cũng hơi lo'.",
+     "y": "Tìm kiếm thông tin, kiểm tra cơ thể, xin trấn an"
+    },
+    {
+     "id": "noi_so",
+     "noi_dung": "Bố bị THA không điều trị, mất vì đột quỵ lúc 52 tuổi, bốn năm trước; anh là người thấy bố gục. Mẹ khỏe, nhà không ai có bệnh giáp hay tâm thần. Anh sợ mình 'đi đúng đường đó', nhất là từ khi có tên bệnh 'huyết áp cao'; ngại nói vì sợ vợ nghĩ yếu đuối.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm anh lo nhất, anh nghĩ mình có thể bị bệnh gì, hoặc hỏi về bệnh của người thân. Nói nhỏ, ngập ngừng.",
+     "y": "Động cơ thật: sợ đột quỵ như bố; tiền sử gia đình"
+    },
+    {
+     "id": "kham_nhieu",
+     "noi_dung": "Ba tháng nay đi khám ba nơi: phòng khám tim mạch tư (điện tim bình thường), cấp cứu bệnh viện huyện một đêm (HA 142/90, điện tim bình thường), nhà thuốc mua thuốc 'bổ não'. Ai cũng nói 'không sao', vài ngày sau lại lo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đi khám nhiều nơi, trấn an không bền"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chỉ có amlodipin 5 mg sáng; nghĩ thuốc gây hồi hộp, định tự ngưng vài hôm. Ba ly cà phê mỗi ngày (có cả chiều), không thuốc lá, bia thỉnh thoảng, không thuốc cảm, thuốc ngủ hay thực phẩm chức năng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng, cà phê, ý định tự ngưng thuốc"
+    },
+    {
+     "id": "tuyen_giap",
+     "noi_dung": "Không sụt cân, không run tay, không sợ nóng, không ra mồ hôi nhiều, đại tiện bình thường. Không cơn đau đầu kèm vã mồ hôi từng đợt. Không ngáy to hay ngưng thở khi ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc nguyên nhân thực thể: cường giáp, u thượng thận"
+    },
+    {
+     "id": "khi_sac",
+     "noi_dung": "Vẫn vui khi chơi với con, còn thích nấu ăn, ăn được, cân nặng ổn. Ngủ muộn, 5–6 tiếng vì đo HA và xem điện thoại. Không có ý nghĩ tự làm hại mình, không dùng rượu thuốc để đỡ lo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Loại trừ trầm cảm, ý nghĩ tự hại"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Từ khi có bệnh không dám chạy bộ, đá bóng vì sợ tăng huyết áp. Vẫn lo cơm nước, đưa đón hai con (4 và 7 tuổi) nhưng chậm vì cứ dừng lại đo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ảnh hưởng chức năng và né tránh vận động"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Ngồi ghế tựa, nghỉ 10 phút, đo hai lần cách 2 phút: tay phải 126/78 và 124/78 mmHg; tay trái 126/80 mmHg. Hai tay chênh dưới 10 mmHg.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, nói nhiều, hơi căng thẳng. BMI 23,1 kg/m², vòng eo 82 cm. Không run tay, không vã mồ hôi.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 88 l/p, T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 88 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân. Không lồi mắt, không co kéo mi. Không hạch cổ.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Mặt cân đối, nói rõ. Sức cơ 5/5 bốn chi, cảm giác đều hai bên, phản xạ gân xương đều, Romberg âm tính, không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Tiếp xúc tốt, kể nhiều, hay quay lại chuyện cũ; nói nhỏ khi nhắc nỗi sợ. Khí sắc không trầm, còn mỉm cười khi nói về con. Lo âu rõ khi nói về huyết áp, đột quỵ. Lúc bình tĩnh thừa nhận 'chắc tôi lo quá' nhưng 'lỡ đúng thì sao'. Không hoang tưởng, không ảo giác, không ý tưởng tự hại.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 86 l/p, trục bình thường, PR 0,15 s, QRS hẹp, không ST chênh, không sóng T đảo, không dày thất.",
+     "n": "Điện tim trong xét nghiệm cơ bản ở người THA (QĐ 5904/2019, Phần 1 Bước 2 mục 10) và để loại nguyên nhân thực thể (QĐ 2058/2020, Bài 25 mục 3.1.2)."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "Hb 148 g/L · BC 6,8 G/L · TC 245 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58.0,
+      "neu": 3.94,
+      "lym_pct": 32.0,
+      "lym": 2.18,
+      "mono_pct": 6.0,
+      "mono": 0.41,
+      "eos_pct": 3.0,
+      "eos": 0.2,
+      "baso_pct": 1.0,
+      "baso": 0.07,
+      "rbc": 4.9,
+      "hgb": 148,
+      "hct": 0.44,
+      "mcv": 89.0,
+      "mch": 30.2,
+      "mchc": 336,
+      "rdw": 12.8,
+      "plt": 245
+     },
+     "n": "Hb trong xét nghiệm cơ bản ở người THA (QĐ 5904/2019, Phần 1 Bước 2 mục 4); không thiếu máu."
+    },
+    "glu": {
+     "v": "u",
+     "r": "5,0 mmol/L",
+     "bang": {
+      "glu": 5.0
+     },
+     "n": "Glucose đói (QĐ 5904/2019, Phần 1 Bước 2 mục 5); loại hạ đường huyết là nguyên nhân hồi hộp."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,6 mmol/L · Creatinin 84 µmol/L · eGFR 108 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.6,
+      "creat": 84,
+      "egfr": 108
+     },
+     "n": "Creatinin, ure (QĐ 5904/2019, Phần 1 Bước 2 mục 7)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 140 · K 4,1 · Cl 103 mmol/L",
+     "bang": {
+      "na": 140,
+      "k": 4.1,
+      "cl": 103
+     },
+     "n": "Kali bình thường, không gợi ý cường aldosteron (QĐ 5904/2019, Phần 1 Bước 2 mục 7)."
+    },
+    "ua": {
+     "v": "a",
+     "r": "Tỷ trọng 1,018 · pH 6,0 · Không protein, glucose, hồng cầu, bạch cầu, nitrit",
+     "n": "Không protein niệu: không có dấu tổn thương thận do THA (QĐ 5904/2019, Phần 1 Bước 2 mục 9)."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "Phòng khám không làm được. Nếu gửi mẫu bệnh viện huyện (3 ngày): TSH 1,9 mIU/L, FT4 bình thường.",
+     "n": "QĐ 2058/2020 (Bài 22 mục 3.2) liệt kê loại cường giáp; lâm sàng không gợi ý (không sụt cân, run, sợ nóng; giáp không to) và phòng khám chỉ có xét nghiệm cơ bản: gửi hay không đều chấp nhận."
+    },
+    "holter_ecg": {
+     "v": "n",
+     "r": "Phòng khám không có Holter.",
+     "n": "Hồi hộp gắn với lúc theo dõi số đo, điện tim bình thường, không ngất: không có chỉ định."
+    },
+    "holter_ha": {
+     "v": "n",
+     "r": "Phòng khám không có máy đo HA lưu động.",
+     "n": "HA phòng khám sau nghỉ đã gần mục tiêu; đã được đánh giá THA tuyến trên năm ngoái."
+    },
+    "echo": {
+     "n": "Không có siêu âm tại phòng khám; không có dấu hiệu suy tim hay bệnh van tim."
+    },
+    "ct_nao": {
+     "n": "Không dấu thần kinh khu trú, không đau đầu dữ dội đột ngột: không có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lo âu bệnh tật (nghi bệnh; ICD-11 6B23.0, nhận thức còn tốt) trên nền tăng huyết áp độ 1 đã điều trị ổn",
+     "ok": 1,
+     "n": "Sợ dai dẳng mắc bệnh nặng (đột quỵ như bố) kèm đo HA, kiểm tra cơ thể, tìm thông tin, xin trấn an, đi khám nhiều nơi, ảnh hưởng chức năng; dai dẳng dù đã khám và trấn an; lúc bình tĩnh còn thừa nhận có thể mình lo quá (ICD-11 CDDR 2024, mục 6B23, tr. 317–319). Có bệnh nền thật nên dùng ngưỡng cao (tr. 319), nhưng mức lo và hành vi vượt rõ so với THA đã kiểm soát."
+    },
+    {
+     "t": "Bệnh thực thể gây hồi hộp, tê tay (cường giáp, rối loạn nhịp, thiếu máu, hạ đường huyết)",
+     "n": "Giáp, tim bình thường; điện tim, công thức máu, glucose bình thường; không sụt cân, run tay. TSH không có nhưng lâm sàng không gợi ý (QĐ 2058/2020, Bài 22 mục 3.2)."
+    },
+    {
+     "t": "Tăng huyết áp chưa kiểm soát hoặc thứ phát; thiếu máu não thoáng qua",
+     "n": "HA sau nghỉ 126/78 mmHg, trong mục tiêu (QĐ 5904/2019, Phần 1 Bước 5A.2); K, creatinin, nước tiểu bình thường; đã được đánh giá thứ phát ở tuyến trên (Bước 4B.2). Không dấu thần kinh khu trú."
+    },
+    {
+     "t": "Rối loạn hoảng sợ",
+     "n": "Không có cơn sợ bất ngờ; hoảng chỉ do nỗi sợ bệnh thì không chẩn đoán thêm (ICD-11 CDDR 2024, tr. 321)."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Còn hứng thú, không ý nghĩ tự hại (ICD-11 CDDR 2024, tr. 321)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi bệnh có cấu trúc (số lần đo HA mỗi ngày, tìm thông tin, xin trấn an, đi khám nhiều nơi, điều anh lo nhất, bệnh của người thân, khí sắc, ý nghĩ tự hại); đo HA đúng quy trình; khám tim, giáp, thần kinh, tâm thần; điện tim và xét nghiệm cơ bản",
+     "v": "c",
+     "n": "QĐ 5904/2019: Phần 1 Bước 1–2, Phụ lục 1.1 (nghỉ 5–10 phút, đo ít nhất hai lần cách 1–2 phút); QĐ 2058/2020 Bài 25 mục 3.1.2, Bài 22 mục 3.2. Hỏi nỗi lo mới lộ nỗi sợ như bố (ICD-11 CDDR 2024, tr. 318–319)."
+    },
+    {
+     "t": "Gọi tên vấn đề bằng lời dễ hiểu: lo âu quá mức về bệnh tật, không phải 'tưởng tượng' hay 'yếu'; ghi nhận nỗi sợ giống bố; nêu từng điều bình thường bằng con số (HA 126/78, điện tim, xét nghiệm, khám thần kinh)",
+     "v": "c",
+     "n": "Giải thích hợp lý là nguyên tắc điều trị (QĐ 2058/2020, Bài 22 mục 4.1); người lo bệnh dễ thấy mình không được nghe nghiêm túc (ICD-11 CDDR 2024, tr. 319). Cấu trúc câu trấn an: không có trong tài liệu đã tải, theo thiết kế ca."
+    },
+    {
+     "t": "Không làm thêm thăm dò chỉ để trấn an và không chuyển tuyến; hướng chăm sóc là phòng khám theo dõi và hẹn lịch",
+     "v": "c",
+     "n": "Thăm dò lặp lại không cần thiết làm xấu quan hệ thầy thuốc – người bệnh (ICD-11 CDDR 2024, tr. 319); đi khám nhiều chuyên khoa gây tốn kém, có thể dẫn đến lo âu và trầm cảm (QĐ 2058/2020, Bài 25 mục 5)."
+    },
+    {
+     "t": "Giữ nguyên amlodipin 5 mg sáng, không tự ngưng, không tăng liều theo số đo ở nhà",
+     "v": "c",
+     "n": "HA sau nghỉ trong mục tiêu: tâm thu 120 đến dưới 130, tâm trương 70 đến dưới 80 mmHg dưới 65 tuổi (QĐ 5904/2019, Phần 1 Bước 5A.2); không tự bỏ thuốc (Phần 1 mục D.2). Đánh trống ngực là tác dụng phụ có nêu của amlodipin (Phần 3 mục G) nhưng anh dùng 14 tháng, hồi hộp mới vài tháng và gắn với lúc đo."
+    },
+    {
+     "t": "Đặt khung đo HA tại nhà: sáng và tối, mỗi buổi 2 phép đo cách 1–2 phút, ghi sổ rồi dừng; không đo giữa đêm, không đo lại khi thấy số cao; mang sổ đến tái khám",
+     "v": "c",
+     "n": "Đo HA tại nhà 2 lần/ngày (sáng, tối), mỗi lần đo 2 lần cách 1–2 phút, nguyên tắc nêu để xác định chẩn đoán (VSH/VNHA 2024, Đ1.2.2); khuyến khích ghi sổ để so sánh khi tái khám (VSH/VNHA 2024, Đ4.1). Việc dừng đo khi theo dõi lâu dài: lựa chọn của ca."
+    },
+    {
+     "t": "Giảm hành vi duy trì lo: không đọc bài về đột quỵ ban đêm, không tự bắt mạch, soi lưỡi, không hỏi vợ 'mặt anh có méo không' nhiều lần; thay bằng một việc khác 10–15 phút khi cơn lo dâng",
+     "v": "c",
+     "n": "Kiểm tra cơ thể, tìm thông tin, xin trấn an lặp lại là đặc điểm thiết yếu (ICD-11 CDDR 2024, tr. 317). CBT cho lo âu sức khỏe có hiệu quả (Cooper 2017; Cochrane 2007; nguồn bổ sung tự tìm). Kỹ thuật cụ thể: lựa chọn của ca."
+    },
+    {
+     "t": "Tập thể lực mức vừa trở lại (đi bộ nhanh, chạy nhẹ), kỹ thuật thư giãn; giảm cà phê, nhất là buổi chiều tối",
+     "v": "c",
+     "n": "Hoạt động thể lực mức vừa ≥ 150 phút/tuần (QĐ 5904/2019, Phần 1 mục D.1e); thư giãn, hoạt động thể lực (QĐ 2058/2020, Bài 22 mục 4.1; Bài 25 mục 4.3); mhGAP 2023 ANX4, ANX5 viết cho lo âu lan tỏa, hoảng sợ (ngoại suy). Cà phê: QĐ 2058/2020, Bài 27 mục 4.3."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần mang sổ HA; dặn quay lại ngay (cấp cứu) khi yếu liệt, méo miệng, nói khó, đau đầu dữ dội đột ngột, đau ngực dữ dội; hẹn khám THA định kỳ sau đó",
+     "v": "c",
+     "n": "Dấu thần kinh khu trú (méo miệng, nói khó, liệt nửa người), đau ngực, đau đầu dữ dội, nhìn mờ là dấu nặng (QĐ 5904/2019, Phần 3 mục D.1 và Bước 1). Khi HA ổn định khám định kỳ 1–3 tháng/lần (Phần 1 Bước 2). Hẹn 2 tuần: lựa chọn của ca."
+    },
+    {
+     "t": "Giới thiệu liệu pháp nhận thức hành vi (tự học có hướng dẫn hoặc chuyên viên tâm lý) ngay từ lượt này",
+     "v": "a",
+     "n": "mhGAP 2023 ANX2 (CBT ngắn, mạnh; tr. 20) viết cho lo âu lan tỏa, hoảng sợ, ngoại suy; CBT cho lo bệnh: Cooper 2017, Axelsson 2019 (nguồn bổ sung tự tìm). Chấp nhận nếu bàn kỹ."
+    },
+    {
+     "t": "Kê benzodiazepin (diazepam, alprazolam…) dùng hằng ngày để bớt hồi hộp",
+     "v": "w",
+     "n": "QĐ 2058/2020 Bài 22 mục 4.3 liệt kê (diazepam 5–20 mg/ngày) nhưng Bài 25 mục 4.1 hạn chế nhóm gây nghiện; mhGAP 2023 ANX6 không khuyến cáo, chỉ ngắn hạn 3–7 ngày cho lo âu cấp nặng; NICE CG113 2011 mục 1.3.20 không nên kê cho hoảng sợ; WFSBP 2022 Bảng 9 cho phép ở ca kháng trị. Không có lo âu cấp cần cắt ngay; dùng đều chấm w (mục sổ, ca TT-0177)."
+    },
+    {
+     "t": "Tăng amlodipin hoặc thêm thuốc hạ áp theo các số đo cao ở nhà",
+     "v": "w",
+     "n": "HA phòng khám đúng quy trình trong mục tiêu (QĐ 5904/2019, Phần 1 Bước 5A.2); chỉnh liều theo số đo lúc lo: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng amlodipin vì cho rằng thuốc gây hồi hộp",
+     "v": "w",
+     "n": "Không tự ý bỏ thuốc (QĐ 5904/2019, Phần 1 mục D.2); duy trì lâu dài khi đã đạt mục tiêu (Bước 5A.6)."
+    },
+    {
+     "t": "Chuyển bệnh viện tuyến trên hoặc cho nằm viện theo dõi để làm lại tim–não",
+     "v": "w",
+     "n": "Không dấu nặng, đã đánh giá tuyến trên (QĐ 5904/2019, Phần 1 Bước 4B.2); thăm dò lặp lại không cần (ICD-11 CDDR 2024, tr. 319; QĐ 2058/2020, Bài 25 mục 5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lo âu bệnh tật (ICD-11 6B23.0, nhận thức còn tốt; tương ứng nghi bệnh F45.2 trong ICD-10)",
+     "Sợ đột quỵ giống bố; hành vi đo HA 15–20 lần/ngày, tìm thông tin, xin trấn an, đi khám 3 nơi; ảnh hưởng việc nhà và vận động",
+     "Tăng huyết áp độ 1 đã điều trị bằng amlodipin 5 mg, HA phòng khám sau nghỉ trong mục tiêu",
+     "Chưa có bằng chứng bệnh thực thể giải thích hồi hộp, nặng đầu, tê đầu ngón; chưa gợi ý hoảng sợ riêng hay trầm cảm"
+    ],
+    "phan_tich_chan_doan": [
+     "Đặc điểm thiết yếu của 6B23: sợ dai dẳng mắc bệnh nặng kèm hành vi kiểm tra, tìm thông tin, xin trấn an (nhiều lần đi khám) hoặc né tránh, gây đau khổ hoặc suy giảm chức năng (ICD-11 CDDR 2024, tr. 317). Anh đo HA hơn một giờ mỗi ngày, hỏi vợ mỗi tối, đi khám 3 nơi, không dám chạy bộ; diễn giải thảm họa cảm giác thường (tr. 318).",
+     "Nỗi lo vẫn còn dù đã khám và trấn an (tr. 319). Có THA và bố đột quỵ lúc 52 tuổi nên lo là thường gặp; chỉ chẩn đoán khi mức lo và hành vi rõ ràng quá mức, không tương xứng (tr. 319): HA sau nghỉ đã trong mục tiêu (126/78; QĐ 5904/2019, Phần 1 Bước 5A.2) mà nỗi sợ vẫn tăng. Lúc bình tĩnh anh nhận 'chắc tôi lo quá': nhận thức còn tốt (6B23.0, tr. 318).",
+     "Loại bệnh thực thể: giáp, tim bình thường; điện tim, công thức máu, glucose, điện giải, creatinin, nước tiểu bình thường; không sụt cân, run. TSH không có tại phòng khám nhưng lâm sàng không gợi ý (QĐ 2058/2020, Bài 22 mục 3.2). THA ở người trẻ cần nghĩ thứ phát (QĐ 5904/2019, Phần 1 Bước 4A.1: ≤ 40 tuổi), nhưng anh đã được đánh giá ở tuyến trên (Bước 4B.2).",
+     "Phân biệt: hoảng sợ cần cơn bất ngờ, anh không có; hoảng chỉ do nỗi sợ bệnh thì không chẩn đoán thêm. Trầm cảm: còn hứng thú, không ý nghĩ tự hại (ICD-11 CDDR 2024, tr. 321). Khởi phát không rõ: sau khi biết có THA thì lo dần lên; bệnh thường mạn tính, dễ tái phát (tr. 319)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không cần thêm thăm dò hay chuyển tuyến: mọi con số đã bình thường; làm lặp lại không giải quyết nỗi sợ, có hại cho quan hệ thầy thuốc – người bệnh (ICD-11 CDDR 2024, tr. 319; QĐ 2058/2020, Bài 25 mục 5).",
+     "Trọng tâm là liệu pháp tâm lý (QĐ 2058/2020, Bài 25 mục 4.1): gọi tên bệnh, ghi nhận nỗi sợ giống bố, trấn an bằng số liệu, giải thích hợp lý (Bài 22 mục 4.1). Tài liệu đã tải không có bài riêng cho nghi bệnh nên các điểm điều trị được ngoại suy.",
+     "Giữ amlodipin 5 mg (khởi đầu 5 mg, duy trì 5–10 mg; QĐ 5904/2019, Phần 3 mục G); không tăng liều theo số đo lúc lo, không ngưng vì sợ thuốc gây hồi hộp (Phần 1 mục D.2).",
+     "Khung đo HA tại nhà: 2 lần/ngày, mỗi lần 2 phép đo cách 1–2 phút, ghi sổ (VSH/VNHA 2024, Đ1.2.2, Đ4.1). Đo 15–20 lần/ngày là hành vi kiểm tra duy trì lo; con số cụ thể khi theo dõi lâu dài là lựa chọn của ca. Cho vận động trở lại (QĐ 5904/2019, Phần 1 mục D.1e), vì né vận động vì sợ tăng HA là hành vi né tránh.",
+     "Chưa kê thuốc hướng thần. Benzodiazepin dùng đều chấm w (mhGAP 2023 ANX6; NICE CG113 2011 mục 1.3.20, so với WFSBP 2022 Bảng 9 và QĐ 2058/2020 Bài 22 mục 4.3; ghi cả hai). CBT: nên bàn, chấp nhận (a).",
+     "Hẹn 2 tuần để đánh giá bằng số liệu (số lần đo, giờ ngủ, việc nhà); dặn dấu cấp cứu thật (QĐ 5904/2019, Phần 3 mục D.1) để việc không đo thêm là an toàn."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg/viên",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, một giờ cố định",
+      "so_ngay": "Giữ nguyên, dùng lâu dài; tái khám sau 2 tuần",
+      "ghi_chu": "Giữ nguyên đơn đang dùng. Khởi đầu 5 mg, duy trì 5–10 mg; tác dụng phụ: phù mắt cá, đỏ mặt, đánh trống ngực, nhịp nhanh (QĐ 5904/2019, Phần 3 mục G). Không tự ngưng (Phần 1 mục D.2). Không kê thêm thuốc nào khác ở lượt này."
+     }
+    ],
+    "dan_do": [
+     "Bệnh của anh có tên: lo âu quá mức về bệnh tật. Đây là bệnh thật, điều trị được, không phải yếu đuối hay tưởng tượng; hôm nay chưa thấy dấu hiệu tim, não hay tuyến giáp bị bệnh (ICD-11 CDDR 2024, mục 6B23).",
+     "Uống amlodipin 5 mg mỗi sáng, không ngưng, không tự tăng giảm theo số đo (QĐ 5904/2019, Phần 1 mục D.2).",
+     "Đo HA sáng và tối, mỗi buổi 2 lần cách 1–2 phút, ngồi nghỉ 5 phút, không cà phê hay hút thuốc trong 2 giờ trước đo, ghi sổ rồi dừng; không đo giữa đêm, không đo lại khi thấy số cao (VSH/VNHA 2024, Đ1.2.2; QĐ 5904/2019, Phụ lục 1.1).",
+     "Khi muốn kiểm tra, hoãn 10–15 phút và làm việc khác; không đọc về đột quỵ ban đêm, không hỏi vợ 'mặt anh có méo không' nhiều lần (ICD-11 CDDR 2024, tr. 317). Nói với vợ thường làm nhẹ gánh; anh quyết khi nào sẵn sàng.",
+     "Vận động mức vừa tối thiểu 150 phút mỗi tuần, bắt đầu bằng đi bộ nhanh; không cà phê buổi chiều tối (QĐ 5904/2019, Phần 1 mục D.1e; QĐ 2058/2020, Bài 27 mục 4.3).",
+     "Đi cấp cứu ngay nếu yếu hoặc tê một bên người, méo miệng, nói khó, đau đầu dữ dội đột ngột, đau ngực dữ dội hoặc ngất (QĐ 5904/2019, Phần 3 mục D.1). Tái khám sau 2 tuần, mang sổ HA (lịch hẹn: lựa chọn của ca); lo nhiều hơn thì gọi hẹn sớm thay vì đi khám nơi khác."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Tái khám đúng hẹn sau 2 tuần, đến một mình. Cuốn sổ ghi huyết áp dày hơn rõ rệt; mang thêm phiếu siêu âm tim và siêu âm Doppler động mạch cảnh ở một phòng khám tư, và phiếu cấp cứu bệnh viện huyện đêm hôm kia. Trông mệt, quầng thâm dưới mắt. Điều dưỡng Linh đo sinh hiệu: mạch 96 l/p, HA 142/90 mmHg, nhiệt độ 36,8 °C, nhịp thở 20 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Anh Huy được chuyển cấp cứu vì 'HA nhà 158/98 mmHg', nhưng ở phòng khám sau nghỉ HA 128/78 mmHg, không có dấu thần kinh khu trú, điện tim đêm qua bình thường. Anh không đủ tiêu chí cấp cứu tăng huyết áp (QĐ 5904/2019, Phần 3 mục D.1: ≥ 200/120 mmHg, hoặc ≥ 180/110 mmHg kèm đau ngực, đau đầu dữ dội, nhìn mờ, dấu thần kinh khu trú). Đây là lần cấp cứu thứ hai trong tuần; anh càng tin 'suýt chết' và tối đó lại đo HA suốt đêm.",
+    "nhap_vien": "Anh Huy nhập viện theo dõi vài ngày 'cho yên tâm', dù không có ý nghĩ tự hại, không loạn thần, không dấu hiệu nặng; tài liệu đã tải không nêu tiêu chuẩn nhập viện cho rối loạn lo âu bệnh tật (không có trong tài liệu đã tải). Anh xa hai con nhỏ, vợ biết chuyện qua điện thoại bệnh viện khi anh chưa sẵn sàng nói, và nằm viện không dạy được cách giảm kiểm tra.",
+    "theo_doi": "Anh Huy chỉ được trấn an và 'theo dõi thêm' như lần trước, không nâng bậc dù lo âu đã nặng hơn lượt 1. Anh tiếp tục ngủ 3–4 tiếng, đo HA 25–30 lần/ngày, lại đi cấp cứu, tốn kém, dần mệt mỏi chán nản. Đây là bệnh mạn, dễ tái phát (ICD-11 CDDR 2024, mục 6B23, tr. 319); đi khám nhiều nơi có thể dẫn đến lo âu, trầm cảm (QĐ 2058/2020, Bài 25 mục 5)."
+   },
+   "loi_mo": "Bác sĩ ơi, tuần này tệ lắm. Anh hàng xóm nhà bên, chưa tới bốn mươi hai tuổi, tự nhiên đổ quỵ phải đưa đi cấp cứu... mà trước đó cơ, thứ Hai tôi còn đo thấy 140... Rồi tối hôm kia tôi đo bốn lần liền ra 158/98, tay chân tê hết, tôi tưởng không qua nổi đêm nên chạy lên bệnh viện. Tôi đã cố làm theo lời bác sĩ rồi mà không được.",
+   "sinh_hieu": {
+    "mach": 96,
+    "ha": "142/90",
+    "nhiet": "36,8",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": [
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Lo hơn hẳn từ khi anh hàng xóm 41 tuổi bị đột quỵ nhập viện 9 ngày trước. Đi tái khám vì tối hôm kia đo 158/98 mmHg rồi vào cấp cứu.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do: sự kiện làm nặng thêm và đợt cấp cứu"
+    },
+    {
+     "id": "do_ha",
+     "noi_dung": "Đo HA 25–30 lần mỗi ngày, sổ ghi hơn 300 số trong 2 tuần. Có thử giảm hai hôm đầu nhưng 'không chịu nổi' rồi đo bù. Cả đêm hôm kia đo liên tục.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Báo cáo 'tôi đã giảm nhiều rồi'. Chỉ nhận số lần thật khi bác sĩ cùng xem sổ, đếm từng ngày, hoặc nói rằng ai cũng khó giảm lúc đầu và việc đo bù không phải lỗi của anh.",
+     "y": "Hành vi kiểm tra tăng, không thực hiện được khung đo"
+    },
+    {
+     "id": "dem_cap_cuu",
+     "noi_dung": "Đêm hôm kia nằm đo HA cổ tay: 158/98 sau 4 lần liên tiếp (tay không ngang tim), hồi hộp, thở nhanh, tê quanh miệng và đầu ngón tay khoảng 15 phút, sợ chết. Ở cấp cứu huyện HA 144/92, điện tim bình thường, cho về. Cơn chỉ xuất hiện khi đang nhìn chằm chằm con số, không có cơn bất ngờ lúc yên.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn hoảng thứ phát do nỗi sợ bệnh, không phải hoảng sợ riêng"
+    },
+    {
+     "id": "ngu_an",
+     "noi_dung": "Ngủ 3–4 tiếng, thức 2–3 lần để đo HA; ăn ít hơn, sút khoảng 1,5 kg trong 2 tuần. Vẫn vui khi hai con cười, vẫn thích nấu ăn; không thấy buồn kéo dài.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đánh giá lại: ngủ, ăn, khí sắc (loại trừ trầm cảm)"
+    },
+    {
+     "id": "tu_hai",
+     "noi_dung": "Có lúc nghĩ 'sống thế này mệt quá', nhưng không nghĩ tự làm hại mình, không có kế hoạch, vì còn hai con. Không rượu, không thuốc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ý nghĩ tự hại"
+    },
+    {
+     "id": "kham_them",
+     "noi_dung": "Tuần này đi hai nơi: phòng khám tim mạch tư (siêu âm tim, Doppler cảnh bình thường, 'tim rất tốt', nhưng anh vẫn lo 'lỡ máy sót') và cấp cứu huyện. Tốn khoảng 1,8 triệu đồng; vợ hỏi sao tháng này hao tiền.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đi khám thêm, tốn kém, trấn an không bền"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Hai buổi sáng đưa con đi học trễ vì còn đo HA; không dám ra khỏi nhà xa khi chưa đo; nấu cơm chậm. Hết cà phê buổi chiều, còn một ly buổi sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Suy giảm chức năng nặng hơn"
+    },
+    {
+     "id": "vo",
+     "noi_dung": "Vợ thấy anh lạ, hỏi mấy lần; anh vẫn bảo 'chỉ đau đầu'. Chưa nói chuyện sợ như bố vì ngại vợ cho là yếu đuối, đàn ông ở nhà trông con. Thật ra rất muốn có người cùng gánh.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vợ biết gì, ai đang hỗ trợ, anh có muốn vợ biết không. Nếu bác sĩ đề nghị mời vợ cùng đến thì ngập ngừng, đồng ý khi được giải thích đây là bệnh cần điều trị, không phải yếu đuối.",
+     "y": "Chưa nói với vợ; hỗ trợ gia đình"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Vẫn uống amlodipin 5 mg mỗi sáng, không bỏ ngày nào, không thuốc nào khác, chưa uống thuốc ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ thuốc, không thuốc ngủ tự mua"
+    },
+    {
+     "id": "co_do",
+     "noi_dung": "Không yếu liệt, méo miệng, nói khó, đau đầu dữ dội đột ngột, đau ngực khi gắng sức hay ngất. Tê đầu ngón chỉ thoáng khi hồi hộp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu nặng"
+    }
+   ],
+   "kham": {
+    "ha_hai_tay": {
+     "a": "Ngồi nghỉ 10 phút trong phòng yên tĩnh, đo hai lần cách 2 phút: tay phải 128/78 và 126/78 mmHg; tay trái 126/78 mmHg. HA lúc tiếp đón 142/90 mmHg là lúc đang căng thẳng.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt mỏi, quầng thâm mắt, nói nhiều. Tay lạnh ẩm nhẹ, không run. Cân nặng 64,5 kg.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 96 l/p, T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 96 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "than_kinh": {
+     "a": "Mặt cân đối, nói rõ, sức cơ 5/5 bốn chi, cảm giác đều hai bên, không dấu thần kinh khu trú.",
+     "k": 1
+    },
+    "tam_than": {
+     "a": "Tiếp xúc tốt nhưng kể lộn xộn, lặp số đo. Lo âu rõ hơn lượt 1; khí sắc hơi mệt nhưng còn đáp ứng và cười khi nói về con. Nỗi sợ tập trung vào đột quỵ; lúc bình tĩnh thừa nhận có thể mình lo quá. Không hoang tưởng, không ảo giác, không ý tưởng hay kế hoạch tự hại.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "n",
+     "r": "Phiếu cấp cứu bệnh viện huyện đêm hôm kia: nhịp xoang, không bất thường (giống lượt 1).",
+     "n": "Đã có hai điện tim bình thường; làm lại để trấn an là thăm dò lặp lại không cần thiết (ICD-11 CDDR 2024, tr. 319)."
+    },
+    "echo": {
+     "v": "u",
+     "r": "Không làm tại phòng khám. Phiếu phòng khám tư: siêu âm tim, thất trái không dày, EF 65%, van bình thường.",
+     "n": "Đã có kết quả bình thường; chụp lại không đổi xử trí (ICD-11 CDDR 2024, tr. 319)."
+    },
+    "doppler_canh": {
+     "v": "u",
+     "r": "Không làm tại phòng khám. Phiếu phòng khám tư: Doppler động mạch cảnh hai bên, không mảng xơ, độ dày nội trung mạc bình thường.",
+     "n": "Đã có kết quả bình thường; không đổi xử trí."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "Phòng khám không làm được. Nếu gửi mẫu bệnh viện huyện: TSH 1,9 mIU/L, FT4 bình thường.",
+     "n": "Lâm sàng vẫn không gợi ý cường giáp (sút cân do ăn ít, không sợ nóng, không run); làm hay không đều chấp nhận (QĐ 2058/2020, Bài 22 mục 3.1.2)."
+    },
+    "ct_nao": {
+     "n": "Không dấu thần kinh khu trú; không có chỉ định, và phòng khám không có CT."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn lo âu bệnh tật (ICD-11 6B23.0) nặng hơn sau khi người quen đột quỵ, kèm cơn hoảng thứ phát do nỗi sợ bệnh; THA độ 1 đang kiểm soát",
+     "ok": 1,
+     "n": "Nỗi sợ, hành vi kiểm tra (25–30 lần đo/ngày), đi khám thêm, mất ngủ, suy giảm chức năng đều tăng so với lượt 1; bùng lên khi người quen bị bệnh (ICD-11 CDDR 2024, mục 6B23, tr. 319). Cơn hoảng chỉ do nỗi sợ nên không chẩn đoán thêm hoảng sợ (tr. 321). Nhận thức còn."
+    },
+    {
+     "t": "Bệnh thực thể: thiếu máu não thoáng qua hoặc đột quỵ, THA chưa kiểm soát, loạn nhịp, cường giáp",
+     "n": "Không dấu thần kinh khu trú, HA sau nghỉ 126–128/78 mmHg, hai điện tim, siêu âm tim, Doppler cảnh bình thường; không gợi ý cường giáp. Dấu cần quay lại ngay: QĐ 5904/2019, Phần 3 mục D.1."
+    },
+    {
+     "t": "Rối loạn hoảng sợ",
+     "n": "Cơn xuất hiện khi dán mắt vào con số, không có cơn bất ngờ; không chẩn đoán thêm khi cơn chỉ do nỗi sợ bệnh (ICD-11 CDDR 2024, tr. 321)."
+    },
+    {
+     "t": "Giai đoạn trầm cảm",
+     "n": "Còn hứng thú với con và việc nhà, khí sắc đáp ứng, không ý nghĩ tự hại; mất ngủ và sút cân nhẹ gắn với đo HA và ăn ít (ICD-11 CDDR 2024, tr. 321). Theo dõi lại ở lượt sau."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá lại toàn diện: so sánh với lượt 1 bằng số liệu (số lần đo mỗi ngày, giờ ngủ, cân nặng, việc nhà, số nơi đã khám), hỏi sự kiện làm nặng, khí sắc, ý nghĩ tự hại, rượu và thuốc; đo HA đúng quy trình, khám thần kinh, khám tâm thần",
+     "v": "c",
+     "n": "Lo bệnh bùng lên khi người quen bị bệnh (ICD-11 CDDR 2024, tr. 319); loại trầm cảm (tr. 321); QĐ 5904/2019 Phụ lục 1.1. Hỏi ý nghĩ tự hại: QĐ 2058/2020, Bài 22 mục 5 nhắc nguy cơ tự sát khi điều trị không kịp thời."
+    },
+    {
+     "t": "Điều trị phối hợp: CBT có cấu trúc hằng tuần (tại phòng khám hoặc chuyên viên tâm lý) cùng SSRI (sertralin 50 mg sáng) sau khi bàn lợi, hại với anh",
+     "v": "c",
+     "n": "Liệu pháp tâm lý chủ đạo kèm hóa dược (QĐ 2058/2020, Bài 25 mục 4.1, 4.2); sertralin 50–200 mg/ngày, khởi liều thấp tăng từ từ (Bài 25 mục 4.1, 4.3). mhGAP 2023 ANX1 (SSRI, có điều kiện; tr. 18), ANX2 (CBT ngắn, mạnh; tr. 20) viết cho lo âu lan tỏa, hoảng sợ; CBT cho lo bệnh: Cooper 2017, Axelsson 2019, Cochrane 2007 (nguồn bổ sung tự tìm). SSRI riêng cho lo bệnh: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Chỉ liệu pháp nhận thức hành vi, không dùng thuốc (nếu anh từ chối thuốc)",
+     "v": "a",
+     "n": "mhGAP 2023 ANX2 (mạnh); hỗ trợ người bệnh chọn thuốc hay liệu pháp tâm lý sau khi nói rõ tác dụng phụ, chi phí (ANX1, ghi chú triển khai). Hợp lệ theo mục sổ (TT-0177)."
+    },
+    {
+     "t": "Chỉ dùng SSRI, chưa có liệu pháp tâm lý có cấu trúc",
+     "v": "a",
+     "n": "QĐ 2058/2020 Bài 25 mục 4.3 liệt kê thuốc nhưng gọi liệu pháp tâm lý là chủ đạo (mục 4.1); chấp nhận nếu chưa có người làm CBT, vẫn kèm hướng dẫn giảm kiểm tra."
+    },
+    {
+     "t": "Giữ nguyên amlodipin 5 mg, không đổi thuốc hạ áp theo số đo lúc hoảng; HA phòng khám sau nghỉ gần mục tiêu",
+     "v": "c",
+     "n": "HA 126–128/78 mmHg trong mục tiêu (QĐ 5904/2019, Phần 1 Bước 5A.2); 142/90 lúc tiếp đón là căng thẳng. Tiếp tục thuốc lâu dài (Bước 5A.6)."
+    },
+    {
+     "t": "Làm lại khung đo HA tại nhà cùng anh: sáng và tối, mỗi buổi đo 2 lần cách 1–2 phút, ngồi nghỉ, tay ngang tim, ghi vào sổ rồi dừng; xin phép bác sĩ giữ cuốn sổ cho đến tái khám nếu anh đồng ý",
+     "v": "c",
+     "n": "VSH/VNHA 2024 Đ1.2.2, Đ4.1; QĐ 5904/2019, Phụ lục 1.1 (nghỉ, tay ngang tim). Số đo cổ tay nằm, không ngang tim đêm hôm kia bị lệch. Việc giữ sổ: lựa chọn của ca."
+    },
+    {
+     "t": "Với sự đồng ý của anh, mời vợ cùng đến buổi sau: giải thích bệnh, không trả lời trấn an lặp lại, cùng ghi nhận việc giảm kiểm tra",
+     "v": "c",
+     "n": "Liệu pháp gia đình (QĐ 2058/2020, Bài 22 mục 4.3 liệt kê; ngoại suy cho lo bệnh). Hỏi anh có sẵn sàng để vợ biết không: lựa chọn của ca, vì anh ngại."
+    },
+    {
+     "t": "Vệ sinh giấc ngủ: giờ đi ngủ và thức cố định, chỉ lên giường khi buồn ngủ, không đo HA hay xem điện thoại trước ngủ và khi thức giấc, bỏ cà phê chiều tối, tập thư giãn; chưa kê thuốc ngủ",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 27 mục 4.3 (vệ sinh giấc ngủ, thư giãn, không cà phê buổi tối). Thuốc ngủ: ESRS 2023 mục 4.2.1, Bảng 16 tối đa 4 tuần, so với QĐ 2058/2020 Bài 27 mục 4.3 liệt kê không giới hạn; ghi cả hai (mục sổ TT-0156). Mất ngủ ở đây do đo HA ban đêm."
+    },
+    {
+     "t": "Hẹn tái khám sau 1–2 tuần rồi mỗi 2–4 tuần; đánh giá đáp ứng với thuốc sau 2–4 tuần; dặn quay lại ngay khi ý nghĩ tự hại, kích động, mất ngủ nặng, dấu thần kinh khu trú hoặc đau ngực dữ dội",
+     "v": "c",
+     "n": "Dấu cấp cứu: QĐ 5904/2019, Phần 3 mục D.1. Điều trị lo âu duy trì thêm ít nhất 6 tháng sau khi đỡ (QĐ 2058/2020, Bài 22 mục 4.3, ngoại suy). Mốc 1–2 tuần, 2–4 tuần và dặn tác dụng phụ SSRI: lựa chọn của ca."
+    },
+    {
+     "t": "Chuyển chuyên khoa tâm thần để làm CBT nếu địa phương có sẵn",
+     "v": "a",
+     "n": "Tiêu chí chuyển tuyến cho lo bệnh: không có trong tài liệu đã tải. CBT ngắn làm được ở cơ sở không chuyên (mhGAP 2023 ANX2, tr. 20); chấp nhận nếu có sẵn."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc ngủ nhóm Z dùng hằng đêm để bớt hồi hộp và ngủ",
+     "v": "w",
+     "n": "mhGAP 2023 ANX6 không khuyến cáo, chỉ ngắn hạn 3–7 ngày; NICE CG113 2011 mục 1.3.20; QĐ 2058/2020 Bài 25 mục 4.1 hạn chế nhóm gây nghiện; so với QĐ 2058/2020 Bài 22 mục 4.3, WFSBP 2022 Bảng 9 liệt kê. Không lo âu cấp cần cắt ngay; dùng đều chấm w (TT-0177; thuốc ngủ: TT-0156)."
+    },
+    {
+     "t": "Tăng amlodipin hoặc thêm thuốc hạ áp theo số đo 158/98 mmHg đêm hôm kia",
+     "v": "w",
+     "n": "Số đo đo lúc hoảng, tay không ngang tim; HA phòng khám sau nghỉ trong mục tiêu (QĐ 5904/2019, Phần 1 Bước 5A.2, Phụ lục 1.1)."
+    },
+    {
+     "t": "Chuyển cấp cứu hoặc nhập viện theo dõi, chụp thêm tim–não để anh yên tâm",
+     "v": "w",
+     "n": "Không dấu thần kinh khu trú, HA phòng khám bình thường, điện tim, siêu âm tim, Doppler cảnh bình thường (QĐ 5904/2019, Phần 3 mục D.1); thăm dò lặp lại nuôi bệnh (ICD-11 CDDR 2024, tr. 319; QĐ 2058/2020, Bài 25 mục 5). Tiêu chuẩn nhập viện cho lo bệnh: không có trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn lo âu bệnh tật (ICD-11 6B23.0) mức nặng hơn so với lượt 1",
+     "Yếu tố làm nặng: người quen 41 tuổi đột quỵ; hành vi đo HA tăng lên 25–30 lần/ngày; cơn hoảng thứ phát lúc nhìn số đo; đi cấp cứu thêm; mất ngủ, sút 1,5 kg, suy giảm chức năng",
+     "THA độ 1 đang điều trị amlodipin 5 mg, HA phòng khám sau nghỉ 126–128/78 mmHg",
+     "Chưa có bằng chứng bệnh thực thể; không chẩn đoán thêm rối loạn hoảng sợ, trầm cảm hay lo âu lan tỏa"
+    ],
+    "phan_tich_chan_doan": [
+     "So với lượt 1: số lần đo tăng (15–20 lên 25–30/ngày), thêm hai lần đi khám, ngủ 5–6 xuống 3–4 giờ, trễ giờ đưa con; HA sau nghỉ đứng yên (126–128/78 mmHg). Nỗi sợ và hành vi nặng lên đúng mô hình lo bệnh bùng lên khi người quen bị bệnh (ICD-11 CDDR 2024, mục 6B23, tr. 319).",
+     "Vì sao không thêm rối loạn hoảng sợ: cơn tê quanh miệng, thở nhanh, sợ chết đêm hôm kia xuất hiện khi nhìn con số đo; hoảng chỉ do nỗi sợ bệnh thì không chẩn đoán riêng (tr. 321). Vì sao chưa phải trầm cảm: còn thích nấu ăn, vui khi con cười, không ý nghĩ tự hại; ăn ngủ kém do hành vi kiểm tra (tr. 321), nhưng vẫn phải hỏi kỹ vì bệnh mạn dễ kèm trầm cảm (QĐ 2058/2020, Bài 25 mục 5).",
+     "Vì sao không cần thêm thăm dò: HA sau nghỉ trong mục tiêu (QĐ 5904/2019, Phần 1 Bước 5A.2); không dấu thần kinh khu trú (Phần 3 mục D.1); hai điện tim, siêu âm tim, Doppler cảnh bình thường. Số 158/98 mmHg đo nằm, tay không ngang tim, lúc hoảng.",
+     "Insight vẫn còn ('chắc tôi lo quá' lúc bình tĩnh) nên giữ 6B23.0 (tr. 318); còn hợp tác điều trị."
+    ],
+    "phan_tich_xu_tri": [
+     "Nâng bậc chăm sóc vì nặng hơn dù đã làm theo hướng dẫn: thêm điều trị có cấu trúc, không nhắc lại lời trấn an (QĐ 2058/2020, Bài 25 mục 4.1, 4.2: liệu pháp hóa dược kết hợp liệu pháp tâm lý).",
+     "Thuốc và CBT đều đúng, không mâu thuẫn mà khác mức: mhGAP 2023 ANX2 ưu tiên CBT ngắn (mạnh), ANX1 cân nhắc SSRI (có điều kiện); QĐ 2058/2020 liệt kê thuốc nhưng gọi tâm lý là chủ đạo. Phối hợp là đáp án; chỉ CBT khi anh từ chối thuốc, hoặc chỉ thuốc khi chưa có người làm CBT, đều chấp nhận. Bằng chứng riêng cho lo bệnh không có trong tài liệu đã tải; các nguồn được ngoại suy.",
+     "Sertralin 50 mg là liều thấp nhất trong khoảng 50–200 mg/ngày (QĐ 2058/2020, Bài 25 mục 4.3), khởi liều thấp, tăng từ từ (mục 4.1). Liều 25 mg, tác dụng phụ, thời gian có tác dụng, tương tác với amlodipin: không có trong tài liệu đã tải.",
+     "Benzodiazepin, thuốc ngủ hằng đêm chấm w (mhGAP 2023 ANX6; WFSBP 2022 Bảng 9; ghi cả hai). Giữ amlodipin 5 mg, không tăng liều theo số đo hoảng (QĐ 5904/2019, Phần 1 Bước 5A.2, 5A.6).",
+     "Khung đo HA cụ thể và sự tham gia của vợ làm giảm hành vi duy trì lo (QĐ 2058/2020, Bài 22 mục 4.3; VSH/VNHA 2024 Đ1.2.2, Đ4.1). Giấc ngủ bằng vệ sinh giấc ngủ và bỏ đo đêm (Bài 27 mục 4.3). Hẹn 1–2 tuần vì nặng và có thuốc mới; sau đó đánh giá đáp ứng 2–4 tuần."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin",
+      "ham_luong": "5 mg/viên",
+      "lieu": "5 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, một giờ cố định",
+      "so_ngay": "Giữ nguyên, dùng lâu dài",
+      "ghi_chu": "Giữ nguyên đơn đang dùng (QĐ 5904/2019, Phần 3 mục G; Phần 1 mục D.2: không tự ngưng)."
+     },
+     {
+      "thuoc": "Sertralin (chỉ khi anh đồng ý sau khi bàn lợi, hại)",
+      "ham_luong": "50 mg/viên",
+      "lieu": "50 mg × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "Tái khám sau 1–2 tuần; đánh giá đáp ứng sau 2–4 tuần; thời gian điều trị lo bệnh: không có trong tài liệu đã tải",
+      "ghi_chu": "QĐ 2058/2020 Bài 25 mục 4.3: sertralin 50–200 mg/24 giờ, khởi liều thấp, tăng từ từ (mục 4.1); mhGAP 2023 ANX1 (có điều kiện, bằng chứng thấp, viết cho lo âu lan tỏa, hoảng sợ). Liều 25 mg, tác dụng phụ, thời gian khởi phát, tương tác với amlodipin: không có trong tài liệu đã tải. Nếu anh từ chối thuốc: không kê, tiếp tục CBT."
+     }
+    ],
+    "dan_do": [
+     "Anh đã làm được một phần; nặng lên sau khi người quen đột quỵ là diễn biến thường gặp của bệnh lo âu về bệnh tật, không phải lỗi của anh (ICD-11 CDDR 2024, mục 6B23, tr. 319).",
+     "Hôm nay HA sau nghỉ là 126–128/78 mmHg, trong mục tiêu; điện tim, siêu âm tim, Doppler cảnh bình thường. Số 158/98 đêm hôm kia đo lúc hoảng, nằm, tay không ngang tim (QĐ 5904/2019, Phụ lục 1.1). Vẫn uống amlodipin 5 mg mỗi sáng (Phần 1 mục D.2).",
+     "Điều trị gồm nói chuyện có cấu trúc mỗi tuần (CBT) và, nếu anh đồng ý, sertralin 50 mg buổi sáng; cần vài tuần mới thấy rõ, có thể khó chịu lúc đầu thì báo bác sĩ (tác dụng phụ, thời gian tác dụng: không có trong tài liệu đã tải). Không tự ngưng hay tăng liều.",
+     "Đo HA sáng và tối, mỗi buổi 2 lần cách 1–2 phút, ngồi nghỉ, tay ngang tim, ghi sổ rồi dừng; không đo giữa đêm (VSH/VNHA 2024, Đ1.2.2). Nếu không nhịn được, ghi vào sổ và mang đến, không tự trách.",
+     "Ngủ cùng giờ mỗi ngày, chỉ lên giường khi buồn ngủ, không cà phê chiều tối, không xem điện thoại hay đo HA lúc thức giấc, tập thở thư giãn (QĐ 2058/2020, Bài 27 mục 4.3). Không dùng thuốc ngủ tự mua.",
+     "Nếu anh đồng ý, mời vợ đến buổi sau để cùng hiểu bệnh; đàn ông ở nhà trông con cũng bị lo âu, không phải yếu đuối.",
+     "Quay lại ngay hoặc đi cấp cứu khi yếu hay tê một bên người, méo miệng, nói khó, đau đầu dữ dội đột ngột, đau ngực dữ dội, ngất (QĐ 5904/2019, Phần 3 mục D.1), hoặc có ý nghĩ làm hại bản thân, kích động, mất ngủ nặng. Hẹn tái khám sau 1–2 tuần."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Sau 12 tuần CBT có cấu trúc cộng sertralin 50 mg, anh Huy đo HA 2 lần/ngày vào giờ cố định, ngủ 6–7 tiếng, đưa con đi học đúng giờ, chạy bộ nhẹ trở lại và đã kể nỗi sợ như bố với vợ (chị đi cùng hai buổi). Dao động ngắn khi nghe tin người quen nhập viện nhưng anh quay lại đúng hẹn thay vì đi cấp cứu. Lịch giảm thuốc: thiết kế của ca, không có trong tài liệu đã tải cho lo bệnh.",
+ "nhieu": [
+  "Kể lể lộn xộn: lời mở nhảy giữa năm ngoái, tuần trước, chuyện bố; dễ khiến bác sĩ dừng ở 'huyết áp dao động' và bỏ sót phần xấu hổ (số lần đo, hỏi vợ, nỗi sợ như bố).",
+  "Đang dùng thuốc hạ áp có tác dụng phụ 'đánh trống ngực' (amlodipin) và HA phòng khám lúc tiếp đón 138/88 mmHg: dễ kéo vào hướng chỉnh thuốc hạ áp hoặc đổi thuốc.",
+  "Lượt 2: HA nhà 158/98 mmHg, cấp cứu đêm hôm trước, người quen đột quỵ làm cả buổi khám xoay quanh con số thay vì nỗi sợ."
+ ],
+ "bai_hoc_bien": [
+  "Người lo âu bệnh tật không hết lo vì thêm một kết quả bình thường; họ yên hơn khi được nghe nỗi sợ thật (bố mất vì đột quỵ), được gọi tên bệnh và giúp giảm hành vi kiểm tra. Hỏi 'điều gì làm anh lo nhất' và 'một ngày anh đo mấy lần' mới mở được phần anh giấu.",
+  "Phần giấu vì ngại ngùng nằm ở hành vi (đo 15–20 lần, hỏi vợ, đọc bài đột quỵ), không ở triệu chứng thực thể; hỏi chung thì anh nói 'thỉnh thoảng thôi'.",
+  "Có bệnh nền thật (THA) và nguy cơ gia đình thì dùng ngưỡng cao, nhưng vẫn gọi tên khi mức lo và hành vi rõ ràng quá mức; không làm thêm thăm dò chỉ để trấn an, không chỉnh thuốc hạ áp theo số đo lúc lo. Tái khám nặng hơn không có nghĩa lượt 1 sai: nâng bậc bằng số liệu so sánh, thêm CBT có cấu trúc và cân nhắc SSRI, hẹn ngắn hơn, mời người nhà khi anh sẵn sàng."
+ ],
+ "diem_nho": [
+  "ICD-11 6B23: sợ dai dẳng mắc bệnh nặng kèm kiểm tra cơ thể, tìm thông tin, xin trấn an hoặc né tránh; gây đau khổ hoặc suy giảm chức năng (CDDR 2024 tr. 317). Có bệnh nền thật thì ngưỡng cao (tr. 319); cơn hoảng chỉ do nỗi sợ bệnh thì không chẩn đoán hoảng sợ riêng (tr. 321).",
+  "Tài liệu đã tải không có bài riêng cho lo âu bệnh tật: QĐ 2058/2020 Bài 25, Bài 22 và mhGAP 2023 ANX1, ANX2 được ngoại suy. Benzodiazepin dùng đều chấm w (mhGAP ANX6, NICE CG113 mục 1.3.20), QĐ 2058/2020 và WFSBP 2022 Bảng 9 có liệt kê: ghi cả hai."
+ ],
+ "nguon": [
+  "WHO – ICD-11 Clinical descriptions and diagnostic requirements, 2024 – TL-0571 – mục 6B23 (tr. 317–321).",
+  "BYT – QĐ 2058/QĐ-BYT 2020 – TL-0443 – Bài 25 (mục 3.1.2, 4.1–4.3, 5); Bài 22 (mục 3.1.2, 3.2, 4.1, 4.3, 5); Bài 27 (mục 4.3).",
+  "BYT – QĐ 5904/QĐ-BYT 2019, bệnh không lây nhiễm tại trạm y tế xã – TL-0284 – Phần 1 (Bước 1–2, 4A.1, 4B.2, 5A.2, 5A.6; mục D.1e, D.2; Phụ lục 1.1); Phần 3 (mục D.1, G).",
+  "VSH/VNHA 2024, quản lý tăng huyết áp tại Việt Nam – TL-0288 – Đ1.2.2, Đ4.1.",
+  "WHO – mhGAP guideline 2023 – TL-0573 – ANX1 (tr. 18), ANX2 (tr. 20), ANX4–ANX6 (viết cho lo âu lan tỏa, hoảng sợ; ngoại suy).",
+  "NICE CG113 2011 (TL-0598) mục 1.3.20; WFSBP 2022 (TL-0587) Bảng 9; ESRS 2023 (TL-0464) mục 4.2.1, Bảng 16 – chỉ cho mục benzodiazepin, thuốc ngủ (theo sổ mâu thuẫn, TT-0177, TT-0156).",
+  "Nguồn bổ sung tự tìm: Cooper K và cs. CBT for Health Anxiety: systematic review and meta-analysis. Behav Cogn Psychother 2017;45(2):110-123. PubMed 28229805.",
+  "Nguồn bổ sung tự tìm: Thomson AB, Page LA. Psychotherapies for hypochondriasis. Cochrane Database Syst Rev 2007;(4):CD006520. PubMed 17943915.",
+  "Nguồn bổ sung tự tìm: Axelsson E, Hedman-Lagerlöf E. CBT for health anxiety: efficacy and health economic outcomes. Expert Rev Pharmacoecon Outcomes Res 2019;19(6):663-676. PubMed 31859542.",
+  "Không có trong tài liệu đã tải: khuyến cáo điều trị riêng cho lo âu bệnh tật (CBT, số buổi); SSRI riêng cho lo bệnh; sertralin 25 mg, tác dụng phụ, thời gian khởi phát, tương tác với amlodipin; thời gian điều trị lo bệnh; tiêu chuẩn nhập viện, chuyển tuyến cho lo bệnh; ảnh hưởng của cà phê lên hồi hộp; kỹ thuật trấn an có cấu trúc."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-27 (bản 1). Đã đọc: TL-0571 mục 6B23 (tr. 317–321); TL-0443 Bài 22, 25, 27; TL-0284 Phần 1 (Bước 1–5, Phụ lục 1.1), Phần 3 (mục D.1, G); TL-0288 Đ1.2.2, Đ4.1; TL-0573 ANX1, ANX2, ANX6; mục benzodiazepin, thuốc ngủ trong tai-lieu/mau_thuan.md (TT-0177, TT-0156).",
+  "Biến sổ cái: nội trợ (nam, trông hai con, trước làm kế toán); khởi phát không rõ; amlodipin 5 mg đang dùng; lý do thật: giấu hành vi kiểm tra và nỗi sợ như bố vì ngại bị coi yếu đuối; nhiễu kể lể lộn xộn; chỉ xét nghiệm cơ bản (khóa X-quang, siêu âm; không TSH, Holter, đo HA 24 giờ); tái khám nặng hơn; kết cục ổn định.",
+  "Chọn của ca: mốc hẹn 2 tuần, 1–2 tuần; sertralin 50 mg; lượt 2 ve_hen kèm nâng bậc (CBT cộng SSRI), chuyển chuyên khoa tâm thần chấm a vì tài liệu không có tiêu chí chuyển tuyến. Không có mâu thuẫn mới (dùng mục TT-0177, TT-0156). PMID ba nguồn bổ sung giữ như TT-0329, chưa tra lại. 'Người trẻ ≤ 40 tuổi' (QĐ 5904 Bước 4A.1) lấy từ bản html."
+ ]
+}
