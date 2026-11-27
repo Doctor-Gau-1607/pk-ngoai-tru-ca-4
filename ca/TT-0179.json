@@ -1,0 +1,810 @@
+{
+ "ma_ca": "TT-0179",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TT_roi_loan_hoang_so_thanh_nien",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn hoảng sợ",
+  "chan_doan_phai_loai_tru": [
+   "Hội chứng vành cấp",
+   "Cường giáp",
+   "Loạn nhịp"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Lễ tân khách sạn",
+  "yeu_to_khoi_phat": "Tiếp xúc hóa chất",
+  "thuoc_dang_dung": "Vitamin, thực phẩm chức năng",
+  "ly_do_that_su_den_kham": "Nghi ngờ tác dụng phụ của thuốc"
+ },
+ "benh_nhan": {
+  "ten": "Vũ Quang Huy",
+  "tuoi": 27,
+  "gioi": "Nam",
+  "nghe": "Lễ tân khách sạn 3 sao (ca xoay, mỗi tuần 2–3 đêm trực quầy một mình, 4 năm)",
+  "can_nang": 66,
+  "chieu_cao": 174,
+  "xung_ho": "Bác sĩ gọi anh là 'anh Huy'. Anh xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Lịch sự, quen cười niềm nở với khách nên ít khi kể mình lo; cẩn thận, hay đọc nhãn thuốc và tìm 'tác dụng phụ' trên mạng, hay nhìn đồng hồ thông minh đếm nhịp tim. Sợ bị gán 'bệnh thần kinh' vì sợ mẹ lo và sợ mất ca trực.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: lấy propranolol 40 mg trong hộp thuốc huyết áp của mẹ, khi lên cơn uống nửa đến 1 viên 'cho hết đập tim', coi là 'thuốc tim' nên không nhắc. Hỏi chung 'thuốc đang dùng' anh chỉ đưa lọ vitamin. Chỉ kể propranolol khi được hỏi cụ thể thuốc tim, thuốc huyết áp, thuốc của người nhà hoặc 'đã tự uống gì để cắt cơn'; mẹ xác nhận nếu được hỏi. Thuốc làm mạch chậm, che mờ nhịp nhanh trong cơn.",
+  "nguoi_nha": "mẹ",
+  "ten_nguoi_nha": "Cô Hà",
+  "ngoai_hinh": {
+   "da": "#c49a74",
+   "toc": "#1f1a17",
+   "kieuToc": "ngan",
+   "ao": "#e8eef2",
+   "aoKieu": "so_mi",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#b88a64",
+    "toc": "#4a4540",
+    "kieuToc": "bui",
+    "ao": "#8f6f7a",
+    "aoKieu": "thun",
+    "kinh": true,
+    "nep": 3,
+    "bieuCam": "binh_thuong"
+   }
+  }
+ },
+ "ly_do_kham": "Cơn tim đập nhanh, tức ngực, sợ chết; nghi viên vitamin 'Multi-B Energy' gây tác dụng phụ lên tim",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1 – Khám lần đầu: cơn tim đập nhanh, tức ngực, sợ chết sau sự cố hóa chất",
+   "tiep_don": "Nam 27 tuổi, lễ tân khách sạn, đến khám vì 7 tuần nay lên những cơn tim đập nhanh, tức ngực, khó thở, run, sợ chết, hay xảy ra giữa đêm lúc trực quầy. Anh mang theo lọ vitamin 'Multi-B Energy' mua online và nghi viên này gây hại tim. Cô Hà (mẹ) chở anh đến, ngồi chờ ngoài. Sinh hiệu lúc tiếp đón: mạch 68 l/p, HA 108/68 mmHg, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập khoa tim mạch theo dõi 24–48 giờ vì 'đau ngực, tim đập nhanh'. ECG xoang bình thường, troponin 3 ng/L, anh trẻ không yếu tố nguy cơ nên điểm HEART tối đa 1 (nhóm thấp 0–3) (Backus 2013, Bảng 1); NICE CG113 1.3.6: người đến vì cơn hoảng sợ thường không nhập giường nội hay tâm thần. Anh mất ca trực, tốn viện phí, ra viện vẫn chưa được điều trị và càng tin 'tim mình có bệnh', cơn đêm tiếp tục.",
+    "chuyen_tuyen": "Chuyển lên tuyến trên làm siêu âm tim, Holter và CT mạch vành 'cho chắc'. Các kết quả đều bình thường nhưng anh mất vài ngày công, tốn tiền xe và xét nghiệm; NICE CG113 1.3.6 chỉ cần xét nghiệm tối thiểu để loại bệnh thực thể cấp. Không ai giải thích, nên anh về với niềm tin 'tim mình có vấn đề', tiếp tục dùng propranolol của mẹ và lọ vitamin 'nghi ngờ'.",
+    "theo_doi": "Giữ anh ở phòng khám vài giờ chờ cơn để ghi ECG rồi cho về, không giải thích, không điều trị. Không có cơn trong buổi khám nên anh về với kết luận 'chưa thấy gì', tin là bệnh ẩn; cơn đêm sau vẫn dội lại và anh lại uống propranolol của mẹ, trong khi propranolol không hiệu quả cho rối loạn hoảng sợ (WFSBP 2022, Bảng 9, LoE A-/RG 1; Canada 2014, Bảng 15)."
+   },
+   "loi_mo": "Chào bác sĩ. Hai tháng nay thỉnh thoảng em lên cơn, tim đập thình thịch, tức ngực, thở không ra hơi, run, thấy như sắp chết. Em mới uống viên vitamin này được hơn tháng, em nghĩ nó có tác dụng phụ lên tim nên mang đến cho bác sĩ xem. Bác sĩ khám giúp em xem tim em có sao không.",
+   "sinh_hieu": {
+    "mach": 68,
+    "ha": "108/68",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Gần 7 tuần nay anh lên cơn tim đập nhanh mạnh, tức ngực trái, khó thở, run, sợ chết. Anh nghĩ nguyên nhân là viên vitamin 'Multi-B Energy' mua online hơn một tháng trước, nhãn ghi vitamin nhóm B, vitamin C, chiết xuất guarana và taurin. Anh muốn bác sĩ khám tim và nói viên đó có hại không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và cách anh giải thích triệu chứng"
+    },
+    {
+     "id": "con",
+     "noi_dung": "Cơn đến đột ngột, thường 2–4 giờ sáng lúc đứng quầy một mình, đôi khi ban ngày lúc khách đông: tim đập mạnh, tức ngực trái, thở như nghẹt, run người, vã mồ hôi, buồn nôn, tê đầu ngón tay và quanh miệng, chóng mặt, có lúc 'như đứng ngoài nhìn mình'. Đồng hồ thông minh ghi 118–130 l/p, nhịp tăng dần trong hai ba phút, đỉnh khoảng 10 phút, cả cơn 20–30 phút rồi giảm từ từ, sau đó mệt rã. Trong cơn anh sợ chết. Khoảng 25 cơn trong 7 tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn đủ ≥4 triệu chứng, lên đỉnh trong vài phút, có sợ chết; nhịp nhanh tăng và giảm dần"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Bảy tuần trước, lúc dọn kho, anh trộn nhầm nước tẩy bồn cầu với nước tẩy trắng chứa clo, hít hơi hắc, ho, cay mắt, tức ngực vài giờ. Hôm sau hết hẳn, anh không nhập viện, không dùng thuốc. Ba ngày sau cơn đầu tiên xảy ra lúc 3 giờ sáng ở quầy. Từ đó không ho, không khò khè, không khó thở ngoài cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau tiếp xúc hóa chất; không còn triệu chứng hô hấp ngoài cơn"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Viên Multi-B Energy anh uống mỗi sáng từ 4 tuần trước, nên cơn đầu (7 tuần trước) đã có trước viên này; từ khi uống, cơn dày hơn, từ 1–2 lên 3–4 cơn mỗi tuần. Anh ngưng viên này hai ngày nay vì sợ, nhưng đêm qua vẫn lên cơn. Mỗi ngày anh uống 3 ly cà phê và 1 lon nước tăng lực mỗi khi trực đêm. Không thuốc nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Mốc thời gian: cơn có trước viên vitamin; caffeine và guarana làm dày cơn"
+    },
+    {
+     "id": "tu_dung",
+     "noi_dung": "5 ngày gần đây, mỗi lần lên cơn anh uống nửa đến 1 viên propranolol 40 mg trong hộp thuốc huyết áp của mẹ, tổng khoảng 6 viên, lần cuối 2 giờ sáng đêm qua. Tim đập đỡ hơn nhưng vẫn sợ chết, vẫn khó thở. Anh coi đó là 'thuốc tim' nên không nhắc.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Hỏi chung 'thuốc đang dùng' anh chỉ đưa lọ vitamin. Chỉ kể khi bác sĩ hỏi cụ thể thuốc tim, thuốc huyết áp, thuốc của người nhà, hoặc 'đã tự uống gì để cắt cơn', hoặc hỏi cô Hà; hỏi không phán xét thì anh kể đủ tên, liều, số ngày.",
+     "k": 1,
+     "y": "Tự uống propranolol của mẹ: che mờ nhịp nhanh, mạch hôm nay thấp"
+    },
+    {
+     "id": "ne_tranh",
+     "noi_dung": "Hơn một tháng nay anh xin đổi ca ngày, không dám đứng quầy một mình ban đêm, tránh vào thang máy, nhìn đồng hồ đo nhịp tim nhiều lần mỗi ngày, mất ngủ vì sợ cơn. Đã nghỉ 2 ngày công.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo cơn tái phát và đổi hành vi ≥1 tháng"
+    },
+    {
+     "id": "khong_nguy_hiem",
+     "noi_dung": "Cơn không do gắng sức; đá bóng cuối tuần không đau ngực, không ngất. Không sụt cân, sợ nóng, tiêu chảy, run tay thường xuyên. Không bệnh tim, hen, đái tháo đường, động kinh. Không hút thuốc, không ma túy hay thuốc lắc, bia 1–2 lon cuối tuần. Gia đình không ai bệnh tim sớm hay đột tử.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Phủ nhận bệnh tim, cường giáp, chất kích thích"
+    },
+    {
+     "id": "tam_trang",
+     "noi_dung": "Ăn được, còn đi chơi với bạn bè, không buồn chán, không ý nghĩ tự làm hại mình. Chỉ sợ cơn quay lại giữa đêm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không trầm cảm, không ý nghĩ tự hại"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Điều anh thật sự lo là viên vitamin đã làm hại tim mình, hoặc hơi hóa chất đã làm hỏng phổi, tim, và sợ 'bệnh thần kinh'. Anh muốn bác sĩ xác nhận 'do thuốc' để khỏi nghĩ mình có bệnh tâm lý và để có lý do xin nghỉ trực đêm.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nếu chỉ hỏi chuyên môn anh nói 'em lo viên thuốc thôi'. Chỉ nói khi bác sĩ hỏi 'anh nghĩ nguyên nhân là gì', 'anh lo nhất điều gì' hoặc hỏi về công việc, ca trực.",
+     "k": 1,
+     "y": "Động cơ thật: nghi tác dụng phụ của vitamin, sợ nhãn 'bệnh tâm thần'"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói năng lịch sự, hơi căng thẳng. BMI 21,8. Da ấm khô, không vã mồ hôi. Không tím, không phù.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng. Khí sắc bình thường, lo lắng khi nói về cơn, hỏi lại 'tim em có sao không' nhiều lần. Lời nói mạch lạc, không hoang tưởng, không ảo giác; nhận thức đủ. Không ý tưởng tự sát.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, hơi căng thẳng, hỏi lại nhiều lần về tim."
+    },
+    "dau_mat_co": {
+     "a": "Không bướu giáp, không nhân giáp sờ được, không lồi mắt, không co cơ mi, không hạch cổ.",
+     "k": 1
+    },
+    "run_nghi": {
+     "a": "Hai tay giơ thẳng không run, không rung giật cơ.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 68 l/p. T1, T2 rõ, không âm thổi, không T3. Không phù, không tiếng cọ.",
+     "k": 1,
+     "hien": "Tim đều, tần số 68 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran, không khò khè. Nhịp thở 16 l/p, không co kéo. Ấn thành ngực không đau.",
+     "k": 1,
+     "hien": "Nhịp thở 16 l/p, hai phổi thông khí đều.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 68 l/p, trục trung gian, PR 160 ms, QRS 88 ms, QTc 405 ms. Không ST chênh, không T đảo, không sóng delta, không block.",
+     "n": "ECG trong 10 phút khi đau ngực (ESC 2023 ACS, Hình 5); loại nhịp nhanh trên thất, tiền kích thích (ESC 2019 SVT, mục 8, 9.1.1). Mạch 68 phần nào do propranolol nên một ECG bình thường không loại hết cơn nhịp nhanh: cơn tăng và giảm dần (đồng hồ) gợi nhịp xoang hơn vòng vào lại, vốn khởi phát và kết thúc đột ngột (ESC 2019 SVT, mục 8, 9.1.1.1)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 1,6 mUI/L · FT4 15 pmol/L (bình thường).",
+     "n": "Cường giáp gây tim nhanh, run, lo âu; xét nghiệm đầu tiên là TSH (ATA 2016, mục B2); nằm trong xét nghiệm nền của lo âu (Canada 2014, Bảng 7; Panic disorder: Diagnosis)."
+    },
+    "glu": {
+     "v": "e",
+     "r": "Glucose 5,2 mmol/L.",
+     "n": "Hạ đường huyết có thể gây cơn giống hoảng sợ (Canada 2014, Panic disorder: Diagnosis); glucose nằm trong xét nghiệm nền (Bảng 7).",
+     "bang": {
+      "glu": 5.2
+     }
+    },
+    "trop": {
+     "v": "a",
+     "r": "Troponin T hs 3 ng/L (ngưỡng < 14).",
+     "n": "Ít đổi quyết định: 27 tuổi, không yếu tố nguy cơ, cơn không do gắng sức, ECG bình thường; HEART tối đa 1 điểm (Backus 2013, Bảng 1). Không bắt buộc."
+    },
+    "ctm": {
+     "v": "a",
+     "r": "BC 7,4 G/L · Hb 148 g/L · TC 252 G/L",
+     "n": "Xét nghiệm nền trước khi dùng thuốc (Canada 2014, Bảng 7). Không bắt buộc.",
+     "bang": {
+      "wbc": 7.4,
+      "neu_pct": 58,
+      "lym_pct": 32,
+      "hgb": 148,
+      "plt": 252
+     }
+    },
+    "lyte": {
+     "v": "a",
+     "r": "Na 140 · K 4,1 · Cl 103 mmol/L.",
+     "n": "Điện giải nằm trong xét nghiệm nền (Canada 2014, Bảng 7); có ích trước khi dùng SSRI. Không bắt buộc.",
+     "bang": {
+      "na": 140,
+      "k": 4.1,
+      "cl": 103
+     }
+    },
+    "cxr": {
+     "v": "a",
+     "r": "Phổi hai bên sáng, không tổn thương nhu mô, góc sườn hoành nhọn, bóng tim bình thường.",
+     "n": "Hít hơi hóa chất 7 tuần trước, hết triệu chứng sau 1 ngày, phổi và SpO₂ bình thường nên không bắt buộc. Có thể làm để yên tâm. Tài liệu về độc chất hít không có trong tài liệu đã tải."
+    },
+    "holter_ecg": {
+     "v": "n",
+     "r": "Nhịp xoang, không loạn nhịp.",
+     "n": "Không cần: cơn tăng dần và giảm dần, ECG xoang, mạch 68, nhịp đồng hồ trong cơn 118–130 l/p. Chỉ cân nhắc nếu sau này có cơn tim đập đều bắt đầu và dừng đột ngột (ESC 2019 SVT, mục 8, 9.1.1.1)."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Cấu trúc tim bình thường, EF 62%.",
+     "n": "Không cần: khám tim bình thường, ECG và troponin bình thường, không khó thở gắng sức. Không có khuyến cáo siêu âm tim cho cơn hoảng sợ trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ, mức vừa, khởi phát sau sự cố hít hóa chất, có tự dùng propranolol và caffeine, guarana làm dày cơn",
+     "ok": 1,
+     "n": "Cơn hoảng sợ cần ≥4 trong 13 triệu chứng, lên đỉnh trong vài phút (Canada 2014, Bảng 11): anh có 9 triệu chứng và sợ chết. Rối loạn hoảng sợ cần cơn không báo trước, tái diễn, ≥1 cơn kèm ≥1 tháng lo cơn hoặc đổi hành vi (Bảng 12): khoảng 25 cơn trong 7 tuần, xin đổi ca, né thang máy. Phải hỏi cả tự dùng thuốc (NICE CG113 1.3.2) và vẽ mốc thời gian (1.3.5)."
+    },
+    {
+     "t": "Hội chứng vành cấp",
+     "n": "27 tuổi, không yếu tố nguy cơ, cơn không do gắng sức, ECG bình thường, troponin 3 ng/L; HEART tối đa 1 điểm (Backus 2013, Bảng 1). Quay lại ngay nếu đau kéo dài, đau khi gắng sức, vã mồ hôi lạnh (ESC 2023, Hình 5)."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Không sụt cân, sợ nóng, tiêu chảy, bướu giáp, lồi mắt, run tay; TSH 1,6, FT4 15 bình thường (ATA 2016, mục B2)."
+    },
+    {
+     "t": "Loạn nhịp (nhịp nhanh trên thất, tiền kích thích)",
+     "n": "ECG xoang, PR bình thường, không sóng delta; nhịp tăng và giảm dần trong 20–30 phút, không khởi phát hay dừng đột ngột (ESC 2019 SVT, mục 8, 9.1.1.1). Mạch hôm nay thấp một phần do propranolol: ghi ECG trong cơn hoặc Holter nếu sau này có cơn tim đập đều bắt đầu và dừng đột ngột."
+    },
+    {
+     "t": "Rối loạn lo âu do chất (caffeine, guarana, nước tăng lực, thuốc) hoặc do tổn thương hóa chất",
+     "n": "Cơn có từ 3 ngày sau sự cố, trước viên vitamin nên viên này chỉ làm nặng thêm, không phải khởi phát. Caffeine, thuốc kích thích có thể gây cơn hoảng sợ (Canada 2014, Panic disorder: Diagnosis). Guarana chứa caffeine: không có trong tài liệu đã tải. Phổi, SpO₂ bình thường, hết triệu chứng sau 1 ngày nên không còn tổn thương hô hấp do hóa chất; không có tài liệu độc chất trong kho đã tải."
+    },
+    {
+     "t": "Hạ đường huyết",
+     "n": "Glucose 5,2 mmol/L (Canada 2014, Panic disorder: Diagnosis); cơn không liên quan bữa ăn."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi riêng mọi chất và thuốc: vitamin, thực phẩm chức năng (đọc nhãn), cà phê, nước tăng lực, thuốc người nhà, thuốc tim, huyết áp; hỏi cô Hà; vẽ mốc thời gian cơn, sự cố hóa chất, viên vitamin",
+     "v": "c",
+     "n": "Quá trình chẩn đoán phải hỏi tự dùng thuốc (NICE CG113 1.3.2) và vẽ mốc thời gian (1.3.5); đánh giá ban đầu gồm thuốc kê đơn, không kê đơn, rượu, caffeine (Canada 2014, Baseline assessment)."
+    },
+    {
+     "t": "Giải thích đơn giản: đây là cơn hoảng sợ, không phải bệnh tim; ECG, TSH, đường máu bình thường; cơn có trước viên vitamin nên viên này không phải nguyên nhân khởi phát; cho tờ thông tin viết",
+     "v": "c",
+     "n": "Giải thích cơ chế, phát tài liệu trước khi điều trị (WFSBP 2022, General principles, tr. 86; NICE CG113 1.3.6). Thông tin báo cáo phản ứng bất lợi của thực phẩm chức năng không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho về, không nhập viện, không chuyển tuyến; dặn quay lại ngay nếu đau ngực khi gắng sức, ngất, khó thở kéo dài, tim đập đều bắt đầu và dừng đột ngột",
+     "v": "c",
+     "n": "Cơn hoảng sợ: xét nghiệm tối thiểu, thường không nhập viện (NICE CG113 1.3.6)."
+    },
+    {
+     "t": "Ngưng propranolol của mẹ và không tự dùng thuốc người khác",
+     "v": "c",
+     "n": "Propranolol không hiệu quả cho rối loạn hoảng sợ (WFSBP 2022, tr. 94 và Bảng 9, LoE A-/RG 1; Canada 2014, Bảng 15: không khuyến cáo)."
+    },
+    {
+     "t": "Kê propranolol để cắt cơn",
+     "v": "a",
+     "n": "WFSBP 2022 (Bảng 9) và Canada 2014 (Bảng 15) cho là không hiệu quả; không nguồn nào nói gây hại, nên không phải w."
+    },
+    {
+     "t": "Tạm ngưng viên Multi-B Energy (có guarana), giảm cà phê và nước tăng lực, nhất là lúc trực đêm",
+     "v": "c",
+     "n": "Caffeine và thuốc kích thích có thể gây cơn hoảng sợ (Canada 2014, Panic disorder: Diagnosis). Mức giảm cà phê và vai trò của guarana không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bắt đầu sertralin 25 mg (nửa viên 50 mg) mỗi sáng sau ăn trong 7 ngày đầu, rồi 50 mg/ngày nếu dung nạp",
+     "v": "c",
+     "n": "SSRI đầu tay (WFSBP 2022, Bảng 9; mhGAP 2023, ANX1; NICE CG113 1.3.25; Canada 2014, Bảng 15); sertralin và escitalopram ít tác dụng phụ nhất (mhGAP ANX1, Remarks). Khởi liều thấp, tăng chậm (NICE 1.3.27); người Đông Á bắt đầu nửa liều (WFSBP tr. 86); sertralin 50–200 mg (Bảng 7). Mốc 25 mg, 7 ngày là quyết định biên tập, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Báo trước: bồn chồn, buồn nôn, tim đập hơn ở 1–2 tuần đầu thường thoáng qua; thuốc cần vài tuần mới có tác dụng; không tự ngưng",
+     "v": "c",
+     "n": "Báo trước tăng lo âu thoáng qua lúc bắt đầu, độ trễ tác dụng (NICE CG113 1.3.23, 1.3.24); người hoảng sợ dễ bỏ thuốc vì bồn chồn ban đầu (WFSBP 2022, tr. 86)."
+    },
+    {
+     "t": "Chỉ CBT ngắn tự học có hướng dẫn, chưa dùng thuốc",
+     "v": "a",
+     "n": "Hoảng sợ mức vừa: CBT hoặc thuốc theo ý người bệnh (NICE CG113 1.3.12; mhGAP ANX1, ANX2); không phải mâu thuẫn thật (sổ mâu thuẫn, mục từ TT-0177). Ca chọn thuốc cộng CBT vì >20 cơn, đổi hành vi."
+    },
+    {
+     "t": "Hướng dẫn CBT ngắn tự học có hướng dẫn, tập thở chậm, vận động đều; dần đối mặt tình huống né (đứng quầy một mình, thang máy)",
+     "v": "c",
+     "n": "mhGAP 2023, ANX2 (mạnh), ANX3, ANX4, ANX5; NICE CG113 1.3.9, 1.3.11, 1.3.17–1.3.18. Số buổi mỗi tuần không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê benzodiazepin ghép ngắn hạn (tối đa 7 ngày) lúc bắt đầu SSRI",
+     "v": "a",
+     "n": "Mâu thuẫn nguồn đã ghi (mục từ TT-0177): mhGAP 2023, ANX6 chỉ nêu cấp cứu, 3–7 ngày; WFSBP 2022 (Bảng 9) cho ghép vài tuần đầu (LoE B, RG 2). Anh trực quầy đêm một mình nên nên tránh."
+    },
+    {
+     "t": "Kê benzodiazepin dùng đều hằng ngày hoặc dài ngày",
+     "v": "w",
+     "n": "mhGAP 2023, ANX6 (mạnh) và NICE CG113 1.3.20: không nên kê; WFSBP 2022 (Bảng 9) chỉ cho ca kháng trị, không tiền sử lạm dụng chất."
+    },
+    {
+     "t": "Hẹn xem lại trong 2 tuần rồi tuần 4, 6, 12; hỏi trầm cảm, ý nghĩ tự hại",
+     "v": "c",
+     "n": "NICE CG113 1.3.41: xem lại trong 2 tuần rồi tuần 4, 6, 12; 1.3.4: cảnh giác trầm cảm đi kèm; Canada 2014 (Baseline assessment): theo dõi mỗi 1–2 tuần rồi mỗi 4 tuần."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ mức vừa (khoảng 25 cơn trong 7 tuần, đổi hành vi >1 tháng), khởi phát 3 ngày sau sự cố hít hóa chất",
+     "Đã loại hội chứng vành cấp, cường giáp, loạn nhịp, hạ đường huyết; phổi bình thường sau hít hóa chất",
+     "Yếu tố làm dày cơn: caffeine (3 ly cà phê, nước tăng lực), viên vitamin có guarana; tự dùng propranolol của mẹ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: (1) hỏi cơn và nhịp đồng hồ; (2) mốc thời gian: sự cố hóa chất, cơn đầu, viên vitamin (NICE 1.3.5); (3) thuốc tự dùng, caffeine, thuốc người nhà (NICE 1.3.2); (4) khám tim, phổi, giáp, tâm thần; (5) ECG, TSH, glucose; (6) hỏi anh nghĩ nguyên nhân là gì.",
+     "Diagnostic timeout: còn bệnh nguy hiểm nào giải thích được cơn (vành, loạn nhịp, cường giáp, hạ đường huyết); thuốc, chất nào làm nặng; cơn có đủ tiêu chuẩn (Canada 2014, Bảng 11, 12). Bẫy neo vào 'thuốc gây ra' hoặc 'hơi hóa chất làm hỏng tim phổi': mốc thời gian cho thấy cơn có trước viên vitamin.",
+     "Mạch 68 thấp một phần do propranolol: không dùng một ECG bình thường để kết luận không có loạn nhịp; cơn đồng hồ tăng giảm dần và khám tim bình thường nên không cần Holter ngay; HEART tối đa 1 điểm (ESC 2019 SVT, mục 8, 9.1.1.1; Backus 2013, Bảng 1)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không làm echo, Holter, CT mạch vành vì không có chỉ điểm bệnh tim; xét nghiệm tối thiểu để loại bệnh thực thể (NICE 1.3.6).",
+     "Sertralin khởi liều thấp cộng CBT ngắn tự học (mhGAP ANX1–ANX3; NICE 1.3.12, 1.3.27); chỉ CBT hoặc chỉ thuốc chấm a. Benzodiazepin ghép ngắn ≤7 ngày chấm a, dùng đều chấm w (mhGAP ANX6; NICE 1.3.20; WFSBP Bảng 9). Propranolol không hiệu quả (WFSBP Bảng 9; Canada Bảng 15)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "25 mg (nửa viên) × 1 lần/ngày trong 7 ngày; sau đó 50 mg (1 viên) × 1 lần/ngày nếu dung nạp",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "14 ngày rồi tái khám; điều trị nhiều tháng",
+      "ghi_chu": "SSRI đầu tay (WFSBP 2022, Bảng 9; mhGAP 2023, ANX1; NICE CG113 1.3.25); tăng chậm (NICE 1.3.27); đích 50–200 mg (WFSBP Bảng 7). Mốc 25 mg và 7 ngày là quyết định biên tập, không có trong tài liệu đã tải. Báo trước bồn chồn, buồn nôn (NICE 1.3.23)."
+     }
+    ],
+    "dan_do": [
+     "Đây là cơn hoảng sợ, không phải bệnh tim. Thuốc cần vài tuần mới đỡ rõ, uống đều mỗi sáng, không bỏ ngày, không tự ngưng (NICE CG113 1.3.24, 1.3.29, 1.3.30).",
+     "Không uống propranolol của mẹ hay thuốc của người khác. Tạm ngưng Multi-B Energy; giảm cà phê và nước tăng lực, nhất là khi trực đêm (Canada 2014, Panic disorder: Diagnosis).",
+     "Quay lại ngay nếu đau ngực khi gắng sức, ngất, khó thở kéo dài, tim đập đều bắt đầu và dừng đột ngột; hoặc ý nghĩ tự làm hại mình (ESC 2019 SVT, mục 9.1.1.1; NICE 1.3.4).",
+     "Làm bài CBT tự học mỗi tuần, tập thở chậm, tập dần đứng quầy tối và đi thang máy (mhGAP 2023, ANX2–ANX5).",
+     "Hẹn tái khám sau 2 tuần, rồi tuần 4, 6, 12 (NICE 1.3.41). Hơi hóa chất đã qua và phổi bình thường; nếu ho, khò khè quay lại thì khám lại. Không có tài liệu độc chất trong kho đã tải."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 – Tái khám tuần 4: vẫn lên cơn, nói đã uống thuốc đều",
+   "tiep_don": "Tái khám sau 4 tuần, đi một mình. Tuần 2 anh gọi điện nói 'chưa thấy đỡ, thuốc làm em nôn nao'. Hôm nay anh nói 'em uống thuốc đều rồi mà cơn vẫn y như cũ, hay thuốc không hợp em'. Anh đã ngưng propranolol của mẹ theo dặn. Sinh hiệu lúc tiếp đón: mạch 84 l/p, HA 116/72 mmHg, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển anh lên chuyên khoa tâm thần tuyến trên vì 'đã dùng thuốc 4 tuần mà không đỡ'. Thực tế anh mới dùng thuốc không đều và chưa đạt liều; NICE CG113 1.3.35 chỉ nêu chuyển chuyên khoa khi đã qua 2 can thiệp mà còn triệu chứng đáng kể. Anh tốn tiền, nghỉ ca, nhận 'nhãn tâm thần' mà anh sợ, nên dễ bỏ thuốc hẳn.",
+    "nhap_vien": "Nhập viện nội trú vì 'không đỡ', sinh hiệu ổn và không dấu hiệu nguy hiểm. NICE CG113 1.3.6: cơn hoảng sợ thường không cần giường nội hay tâm thần. Anh mất ca trực, tốn viện phí, về nhà vẫn dùng thuốc không đều vì nguyên nhân thật chưa được hỏi, và càng tin 'bệnh nặng'."
+   },
+   "loi_mo": "Chào bác sĩ. Em uống thuốc đều rồi, mà cơn vẫn như cũ, tuần rồi còn ba bốn cơn. Em đọc trên mạng thuốc này gây hồi hộp, tim đập, chắc nó không hợp em. Bác sĩ đổi cho em thuốc khác, hoặc cho em ít thuốc an thần như mấy bạn em hay uống được không?",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "116/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tien_trien",
+     "noi_dung": "Cơn vẫn 3–4 lần mỗi tuần, vẫn đêm là nhiều, vẫn sợ chết. Anh nói đã uống sertralin 'đều' mỗi sáng và đã ngưng propranolol. Anh nghĩ thuốc làm tim đập hơn nên 'không hợp'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Không đỡ; anh cho là thuốc không hợp"
+    },
+    {
+     "id": "bo_thuoc",
+     "noi_dung": "Ba ngày đầu uống nửa viên, anh bồn chồn, buồn nôn, tim đập hơn, sợ 'thuốc tâm thần nghiện' nên ngưng 4 ngày. Sau đó uống lại cách ngày, có tuần chỉ 2 viên; tính cả tháng khoảng 12 ngày có uống, chưa lần nào tới 1 viên 50 mg. Anh không nói vì sợ bị trách.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Anh nói 'đều' nếu hỏi chung. Chỉ kể khi bác sĩ hỏi cụ thể 'mỗi ngày mấy viên', 'ngày nào quên hay bỏ', 'thuốc làm anh thấy gì', hỏi không phán xét; anh đưa vỉ thuốc còn gần đầy.",
+     "k": 1,
+     "y": "Không đều: uống khoảng 12/28 ngày, chỉ 25 mg; bỏ vì tác dụng phụ đầu"
+    },
+    {
+     "id": "caffeine",
+     "noi_dung": "Mỗi ngày vẫn 3 ly cà phê, 1–2 lon nước tăng lực khi trực đêm. Anh không uống lại Multi-B Energy. Không dùng thêm thực phẩm chức năng nào khác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Caffeine vẫn cao: yếu tố duy trì cơn"
+    },
+    {
+     "id": "propranolol",
+     "noi_dung": "Từ khi bác sĩ dặn, anh không dùng propranolol của mẹ nữa; mẹ đã cất hộp thuốc. Không dùng thuốc ngủ, thuốc an thần hay rượu để cắt cơn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đã ngưng propranolol; không dùng chất khác"
+    },
+    {
+     "id": "ne_tranh",
+     "noi_dung": "Vẫn nhìn đồng hồ đếm nhịp nhiều lần mỗi ngày, vẫn xin đổi ca ngày, chưa dám ngủ một mình khi mẹ đi vắng. Nghỉ thêm 3 ngày công trong tháng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Né tránh còn nguyên: chưa tập đối mặt"
+    },
+    {
+     "id": "khong_moi",
+     "noi_dung": "Không đau ngực khi gắng sức, không ngất, không sụt cân, run tay, sợ nóng. Không buồn chán, không ý nghĩ tự hại. Không ho, khò khè sau sự cố hóa chất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu hiệu mới; không trầm cảm, không tự hại"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hợp tác, mệt mỏi, thiếu ngủ. Da ấm khô.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, hơi nản, lo lắng. Lời nói mạch lạc, không hoang tưởng; nhận thức đủ. Không ý tưởng tự sát.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, hơi nản, lo lắng."
+    },
+    "run_nghi": {
+     "a": "Hai tay giơ thẳng không run.",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 84 l/p, PR 156 ms, QRS 88 ms, QTc 408 ms. Không bất thường.",
+     "n": "Hữu ích lần này vì anh đã ngưng propranolol nên mạch phản ánh đúng nền: xoang bình thường, không tiền kích thích (ESC 2019 SVT, mục 9.1.1). Không bắt buộc vì ECG lần 1 bình thường và không dấu hiệu mới."
+    },
+    "tsh": {
+     "v": "n",
+     "r": "Không cần làm lại (TSH 4 tuần trước bình thường).",
+     "n": "Làm lại không đổi quyết định khi không có dấu hiệu cường giáp (ATA 2016, mục B2)."
+    },
+    "holter_ecg": {
+     "v": "n",
+     "r": "Nhịp xoang.",
+     "n": "Không cần: không cơn nhịp đều khởi phát và dừng đột ngột (ESC 2019 SVT, mục 9.1.1.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ chưa đáp ứng vì dùng thuốc không đều, liều chưa tới, còn caffeine; chưa phải kháng trị",
+     "ok": 1,
+     "n": "Trước khi gọi kháng trị phải xem lại chẩn đoán, tuân thủ, liều trong khoảng điều trị, thời gian thử đủ, thuốc dùng kèm (WFSBP 2022, tr. 87, Treatment resistance). Anh dùng ~12/28 ngày, chỉ 25 mg (khoảng điều trị 50–200 mg, Bảng 7); người hoảng sợ dễ bỏ thuốc vì bồn chồn ban đầu (WFSBP tr. 86; NICE CG113 1.3.23)."
+    },
+    {
+     "t": "Sai chẩn đoán (bệnh tim, cường giáp, loạn nhịp)",
+     "n": "ECG xoang 84 khi đã ngưng propranolol, TSH, troponin, glucose lần 1 bình thường; cơn vẫn kiểu hoảng sợ (Canada 2014, Bảng 11, 12; ATA 2016, mục B2). Chưa có lý do tìm thêm."
+    },
+    {
+     "t": "Không dung nạp sertralin",
+     "n": "Bồn chồn, buồn nôn ở những ngày đầu là thoáng qua, phổ biến ở người hoảng sợ (NICE CG113 1.3.23; WFSBP tr. 86); chưa đủ để kết luận 'không hợp'. Đổi thuốc khi không đỡ sau 12 tuần dùng đúng (NICE 1.3.28)."
+    },
+    {
+     "t": "Rối loạn lo âu do chất (caffeine)",
+     "n": "Caffeine, thuốc kích thích có thể liên quan cơn (Canada 2014, Panic disorder: Diagnosis); anh vẫn 3 ly cà phê và 1–2 lon nước tăng lực."
+    },
+    {
+     "t": "Trầm cảm đi kèm",
+     "n": "Ăn được, vẫn đi chơi, không buồn chán, không ý nghĩ tự hại; vẫn cảnh giác (NICE CG113 1.3.4)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Rà soát trước khi coi là thất bại điều trị: xem lại chẩn đoán, tuân thủ, liều trong khoảng điều trị, thời gian thử đủ, thuốc và chất dùng kèm",
+     "v": "c",
+     "n": "WFSBP 2022, tr. 87 (Treatment resistance). Mốc thử ≥4 tuần trong tài liệu nêu cho lo âu lan tỏa và lo âu xã hội, áp dụng suy rộng cho hoảng sợ."
+    },
+    {
+     "t": "Hỏi tuân thủ bằng câu cụ thể không phán xét (số viên, ngày bỏ, lý do, vỉ thuốc); giải thích bồn chồn, buồn nôn đầu là thoáng qua, không gây nghiện",
+     "v": "c",
+     "n": "NICE CG113 1.3.23, 1.3.29, 1.3.31 (SSRI không gây dung nạp hay thèm thuốc); WFSBP 2022, tr. 86; Canada 2014 (Baseline assessment): theo dõi tác dụng phụ vì là lý do chính bỏ thuốc."
+    },
+    {
+     "t": "Giữ sertralin, bắt đầu lại 25 mg mỗi sáng sau ăn đều 7 ngày rồi 50 mg/ngày; chưa tăng 100 mg, chưa đổi thuốc",
+     "v": "c",
+     "n": "Khởi liều thấp, tăng chậm (NICE 1.3.27; WFSBP tr. 86); khoảng 50–200 mg (Bảng 7). Anh chưa dùng đều ngày nào nên chưa thử đủ; đổi hoặc thêm thuốc khi sau 12 tuần không đỡ (NICE 1.3.28, 1.3.42). Mốc 7 ngày là quyết định biên tập."
+    },
+    {
+     "t": "Đổi sang thuốc khác (escitalopram, venlafaxin) ngay vì 'không hợp'",
+     "v": "a",
+     "n": "Đổi thuốc khi không đỡ sau 12 tuần (NICE 1.3.28) và sau khi rà tuân thủ, liều, thời gian (WFSBP tr. 87). Chưa thử đủ nên chưa cần, nhưng không nguồn nào nói gây hại."
+    },
+    {
+     "t": "Kê benzodiazepin ghép ngắn hạn (tối đa 7 ngày)",
+     "v": "a",
+     "n": "Mâu thuẫn nguồn đã ghi (mục từ TT-0177): mhGAP 2023, ANX6 và WFSBP 2022 (Bảng 9). Anh trực quầy đêm nên nên tránh."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc ngủ dùng đều đặn theo yêu cầu 'cho dịu'",
+     "v": "w",
+     "n": "mhGAP 2023, ANX6 (mạnh); NICE CG113 1.3.20, 1.3.21 (không kê benzodiazepin hay kháng histamin gây ngủ cho hoảng sợ)."
+    },
+    {
+     "t": "Giảm cà phê và nước tăng lực; không dùng lại viên vitamin chứa guarana; ghi nhật ký số cơn mỗi tuần",
+     "v": "c",
+     "n": "Caffeine liên quan cơn (Canada 2014, Panic disorder: Diagnosis); bảng tự điền ngắn theo dõi kết quả (NICE 1.3.45). Mức giảm không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hướng dẫn CBT ngắn tự học có hướng dẫn mỗi tuần, tập thở chậm; tập dần đối mặt tình huống né (đứng quầy tối, ngủ một mình)",
+     "v": "c",
+     "n": "mhGAP 2023, ANX2 (mạnh), ANX3, ANX4; NICE CG113 1.3.9, 1.3.17–1.3.18. Số buổi không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tuần 6 (khám hoặc điện thoại) và tuần 12; hỏi trầm cảm, tự hại",
+     "v": "c",
+     "n": "NICE CG113 1.3.41, 1.3.42; Canada 2014 (Baseline assessment): theo dõi 1–2 tuần rồi 4 tuần."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ mức vừa, chưa đáp ứng điều trị do dùng sertralin không đều (~12/28 ngày), chỉ 25 mg, vì bồn chồn ban đầu",
+     "Yếu tố duy trì: caffeine vẫn cao, chưa tập đối mặt tình huống né",
+     "Không có bằng chứng sai chẩn đoán hay kháng trị"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: (1) hỏi cơn còn y như cũ; (2) hỏi thuốc cụ thể, vỉ thuốc, lý do bỏ; (3) hỏi caffeine, thuốc khác; (4) khám tim, tâm thần; (5) ECG nếu cần; (6) hỏi trầm cảm, ý nghĩ tự hại.",
+     "Diagnostic timeout: 'không đỡ' có phải sai chẩn đoán, sai thuốc, không tuân thủ, biến chứng, đề kháng? Anh nói 'đều' nhưng vỉ thuốc còn đầy: bẫy tin lời nói chung. Quy trình rà soát theo WFSBP 2022 (tr. 87).",
+     "Không lặp lại xét nghiệm đã bình thường (TSH, troponin) vì không có dấu mới (ATA 2016, mục B2; ESC 2023, Hình 5)."
+    ],
+    "phan_tich_xu_tri": [
+     "Không đổi thuốc, không thêm benzodiazepin: trước hết dùng đúng cách. Mốc đổi thuốc sau 12 tuần dùng đúng (NICE 1.3.28).",
+     "Thuốc cộng CBT, bỏ caffeine; benzodiazepin ghép ngắn chấm a, dùng đều chấm w (mhGAP ANX6; NICE 1.3.20; WFSBP Bảng 9)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "25 mg (nửa viên) × 1 lần/ngày trong 7 ngày; sau đó 50 mg (1 viên) × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn, uống đều mỗi ngày",
+      "so_ngay": "4 tuần rồi tái khám tuần 6; điều trị nhiều tháng",
+      "ghi_chu": "NICE CG113 1.3.25, 1.3.27, 1.3.29; WFSBP 2022 Bảng 7 (50–200 mg). Mốc 25 mg và 7 ngày là quyết định biên tập, không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Cơn chưa đỡ vì thuốc chưa được uống đều; bồn chồn, buồn nôn đầu thường thoáng qua và thuốc không gây nghiện (NICE CG113 1.3.23, 1.3.31). Uống sau ăn, mỗi sáng, không bỏ ngày.",
+     "Nếu quên hoặc ngưng đột ngột có thể chóng mặt, tê, buồn nôn, lo âu (NICE 1.3.30–1.3.32); báo bác sĩ nếu khó chịu nhiều (1.3.33).",
+     "Giảm cà phê và nước tăng lực, không dùng lại viên vitamin chứa guarana, không dùng thuốc của người khác (Canada 2014, Panic disorder: Diagnosis).",
+     "Ghi nhật ký cơn; tập thở chậm, CBT tự học, tập dần đứng quầy tối (mhGAP ANX2–ANX4; NICE 1.3.45).",
+     "Quay lại ngay nếu đau ngực khi gắng sức, ngất, ý nghĩ tự hại. Tái khám tuần 6, tuần 12 (NICE 1.3.41)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 – Tái khám tuần 12: hết cơn, muốn ngưng thuốc",
+   "tiep_don": "Tái khám tuần 12. Tuần 6 anh nhắn tin 'đỡ nhiều, tuần 8 gần như hết'. Anh uống sertralin 50 mg đều từ tuần 5, không dùng propranolol, cà phê giảm còn 1 ly. Hôm nay anh nói 'hơn ba tuần nay em không lên cơn nào', muốn ngưng thuốc cho nhẹ người và hỏi uống lại vitamin được không. Sinh hiệu: mạch 72 l/p, HA 112/70 mmHg, nhiệt 36,6 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển anh lên chuyên khoa tâm thần vì 'còn dùng thuốc, chưa bỏ được'. Anh đã hết cơn, dung nạp tốt; chuyển chuyên khoa chỉ đặt ra khi còn triệu chứng đáng kể sau 2 can thiệp (NICE CG113 1.3.35). Anh tốn tiền, nghỉ ca và nhận 'nhãn tâm thần' mà anh sợ, nên có thể bỏ tái khám.",
+    "theo_doi": "Cho ngưng sertralin ngay vì anh khỏe, chỉ hẹn khi có cơn. Ngưng đột ngột có thể gây chóng mặt, tê, buồn nôn, lo âu, mất ngủ (NICE CG113 1.3.30–1.3.32); thuốc cần tiếp tục sau khi đạt liều tối ưu (NICE 1.3.27; WFSBP 2022, tr. 86, 94). Cơn có thể quay lại đúng lúc anh trở lại ca đêm một mình."
+   },
+   "loi_mo": "Chào bác sĩ. Em khỏe nhiều rồi, hơn ba tuần nay không có cơn nào, em trực đêm lại được. Giờ em muốn ngưng thuốc cho nhẹ người. Với lại em muốn hỏi em uống lại viên vitamin hồi trước có được không, và thuốc em đang uống có hại tim hay gan không?",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "112/70",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "tien_trien",
+     "noi_dung": "Hơn ba tuần nay không có cơn nào; còn vài lần hồi hộp thoáng qua rồi tự hết, không sợ chết. Anh đã trực quầy đêm một mình, đi thang máy được. Không nhìn đồng hồ nhiều như trước.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Đáp ứng điều trị, đã giảm né tránh"
+    },
+    {
+     "id": "muon_ngung",
+     "noi_dung": "Anh thấy khỏe nên muốn ngưng sertralin, sợ phụ thuộc thuốc, và lo uống lâu 'hại gan, hại tim'. Anh hỏi uống lại viên vitamin cũ được không.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Muốn ngưng sớm; lo thuốc; hỏi vitamin"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Từ tuần 5 anh uống đều 1 viên 50 mg mỗi sáng sau ăn, không bỏ ngày nào. Bồn chồn, buồn nôn hết từ tuần 2 đến tuần 3. Hiện không buồn nôn, không đau đầu; hơi giảm hứng thú tình dục, không phiền. Không chảy máu bất thường, không chóng mặt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ tốt; tác dụng phụ nhẹ"
+    },
+    {
+     "id": "cafe_cbt",
+     "noi_dung": "Cà phê còn 1 ly buổi sáng, không nước tăng lực. Anh làm được các bài CBT tự học, tập thở mỗi tối, mẹ nhắc. Không rượu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Giảm caffeine; làm CBT"
+    },
+    {
+     "id": "an_toan",
+     "noi_dung": "Không ý nghĩ tự hại, không buồn chán. Không còn ho, khò khè sau sự cố hóa chất.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không trầm cảm, không tự hại"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, hồng hào, thoải mái, cười tự nhiên. Không vã mồ hôi.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Khí sắc bình thường, nói chuyện thoải mái, không lo lắng thái quá. Lời nói mạch lạc; nhận thức đủ. Không ý tưởng tự sát.",
+     "k": 1,
+     "hien": "Tỉnh, vui vẻ, hợp tác."
+    },
+    "tim": {
+     "a": "Tim đều 72 l/p. T1, T2 rõ, không âm thổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 72 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "n",
+     "r": "Nhịp xoang 72 l/p, không bất thường.",
+     "n": "Không cần: khỏe, hết cơn, không dấu mới. Sertralin không nêu theo dõi ECG trong tài liệu đã tải (WFSBP 2022, Bảng 7: chỉ citalopram và escitalopram vượt liều có nhắc ECG)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ đã đáp ứng sertralin 50 mg và CBT, hết cơn từ tuần 9; cần tiếp tục thuốc",
+     "ok": 1,
+     "n": "Hết cơn, dần hết né tránh ở tuần 12. Đánh giá hiệu quả ở tuần 12 (NICE CG113 1.3.42); sau thuyên giảm tiếp tục điều trị 6–12 tháng (WFSBP 2022, tr. 86, 94)."
+    },
+    {
+     "t": "Khỏi hẳn, có thể ngưng thuốc ngay",
+     "n": "Điều trị tiếp sau khi đạt liều tối ưu rồi giảm dần (NICE 1.3.27); ngưng đột ngột gây triệu chứng ngưng thuốc (1.3.30–1.3.32)."
+    },
+    {
+     "t": "Hội chứng ngưng thuốc hoặc tác dụng phụ nặng của SSRI",
+     "n": "Anh uống đều, không chóng mặt, tê, buồn nôn; chỉ giảm hứng thú tình dục nhẹ (WFSBP 2022, mục Medications – SSRIs: rối loạn tình dục là một tác dụng phụ). Hỏi chủ động (NICE 1.3.23)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Đánh giá hiệu quả tuần 12: hết cơn, giảm né tránh; kết luận đã đáp ứng nên tiếp tục thuốc, không ngưng, không đổi",
+     "v": "c",
+     "n": "NICE CG113 1.3.42: tuần 12 đánh giá hiệu quả để quyết định tiếp tục hay đổi; 1.3.45: bảng tự điền ngắn."
+    },
+    {
+     "t": "Tiếp tục sertralin 50 mg: ít nhất 6 tháng sau liều tối ưu (NICE, mhGAP) hoặc 6–12 tháng sau thuyên giảm (WFSBP) hoặc 12–24 tháng (Canada 2014), rồi giảm dần từ từ theo hẹn bác sĩ",
+     "v": "c",
+     "n": "NICE CG113 1.3.27; WFSBP 2022, tr. 86, 94; Canada 2014 (tóm tắt điều trị). Cả ba đều đúng vì cách tính mốc khác nhau (sổ mâu thuẫn: thời gian dùng SSRI trong hoảng sợ, ca TT-0192). Bản chữ mhGAP ANX1 không nêu thời gian."
+    },
+    {
+     "t": "Ngưng sertralin ngay, đột ngột vì đã khỏe",
+     "v": "w",
+     "n": "Ngưng đột ngột gây triệu chứng ngưng thuốc và tái phát (NICE CG113 1.3.30–1.3.32; WFSBP 2022, tr. 94)."
+    },
+    {
+     "t": "Giải thích SSRI không gây nghiện hay thèm thuốc; hỏi chủ động tác dụng phụ, kể cả tình dục; dặn quay lại nếu chảy máu bất thường",
+     "v": "c",
+     "n": "NICE CG113 1.3.23, 1.3.31; WFSBP 2022 (mục Medications – SSRIs). Xét nghiệm gan, theo dõi tim khi dùng sertralin không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không dùng lại viên vitamin có guarana; muốn bổ sung vitamin thì chọn loại không chứa chất kích thích, hoặc không cần",
+     "v": "c",
+     "n": "Caffeine và thuốc kích thích có thể liên quan cơn (Canada 2014, Panic disorder: Diagnosis). Lợi ích bổ sung vitamin cho anh không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tiếp tục CBT, tập dần, kế hoạch khi cơn quay lại: quay lại sớm, không dùng propranolol hay thuốc người khác",
+     "v": "c",
+     "n": "mhGAP 2023, ANX2–ANX4; NICE CG113 1.3.15–1.3.18; propranolol không hiệu quả (WFSBP Bảng 9; Canada Bảng 15)."
+    },
+    {
+     "t": "Chuyển chuyên khoa tâm thần vì 'còn dùng thuốc'",
+     "v": "a",
+     "n": "NICE CG113 1.3.35: chỉ khi còn triệu chứng đáng kể sau 2 can thiệp; anh đã đáp ứng."
+    },
+    {
+     "t": "Hẹn tái khám mỗi 8–12 tuần khi còn dùng thuốc; quay lại sớm nếu cơn trở lại",
+     "v": "c",
+     "n": "NICE CG113 1.3.43: nếu dùng thuốc quá 12 tuần thì xem lại mỗi 8–12 tuần."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ đã đáp ứng sertralin 50 mg và CBT, hết cơn từ tuần 9",
+     "Nhiễu đã xử lý: propranolol ngưng, caffeine còn 1 ly, vitamin guarana ngưng",
+     "Cần tiếp tục thuốc, không ngưng sớm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi cơn và né tránh; tuân thủ; tác dụng phụ chủ động; caffeine, vitamin; đánh giá tâm trạng; khám tim, tâm thần.",
+     "Diagnostic timeout: 'khỏe' có nghĩa là hết bệnh? Thuốc cần tiếp tục 6–12 tháng sau thuyên giảm (WFSBP 2022, tr. 86, 94; NICE 1.3.27).",
+     "Không làm lại xét nghiệm, ECG vì không có dấu mới."
+    ],
+    "phan_tich_xu_tri": [
+     "Tiếp tục thuốc, giảm dần chậm sau mốc, không ngưng đột ngột (NICE 1.3.27, 1.3.30).",
+     "Tái khám 8–12 tuần; hoàn thành CBT; kế hoạch xử trí khi cơn quay lại (NICE 1.3.43, 1.3.15–1.3.18)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "50 mg (1 viên) × 1 lần/ngày, giữ nguyên",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn",
+      "so_ngay": "Cấp thuốc đến lần tái khám sau 8–12 tuần; tiếp tục ít nhất 6 tháng rồi giảm dần",
+      "ghi_chu": "Tiếp tục ≥6 tháng sau liều tối ưu (NICE CG113 1.3.27), 6–12 tháng (WFSBP 2022, tr. 86, 94), 12–24 tháng (Canada 2014); giảm dần chậm, không ngưng đột ngột (NICE 1.3.30)."
+     }
+    ],
+    "dan_do": [
+     "Hết cơn là thuốc đang có tác dụng, chưa phải hết bệnh: uống đều mỗi sáng, không tự ngưng; khi đủ thời gian sẽ giảm dần theo hẹn (NICE CG113 1.3.27, 1.3.30).",
+     "Thuốc không gây nghiện hay thèm thuốc (NICE 1.3.31). Báo nếu chảy máu bất thường, giảm hứng thú tình dục nhiều, chóng mặt, tê.",
+     "Không dùng lại viên vitamin có guarana; hạn chế cà phê, nước tăng lực khi trực đêm (Canada 2014, Panic disorder: Diagnosis).",
+     "Tiếp tục CBT, tập thở; nếu cơn quay lại thì quay lại khám sớm, không dùng propranolol hay thuốc của người khác (WFSBP Bảng 9).",
+     "Tái khám mỗi 8–12 tuần (NICE 1.3.43)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Huy uống sertralin đều 50 mg từ tuần 5, hoàn thành CBT tự học, hết cơn từ tuần 9 và trực quầy đêm trở lại. Anh không dùng lại propranolol của mẹ, giảm cà phê, bỏ viên vitamin có guarana, tiếp tục thuốc rồi giảm dần theo hẹn (NICE CG113 1.3.27, 1.3.30) và đi tái khám đều mỗi 8–12 tuần (1.3.43). Ca ổn định, khỏi bệnh.",
+ "nhieu": [
+  "Tự uống thuốc trước 5 ngày: propranolol 40 mg của mẹ khi lên cơn, chỉ lộ khi hỏi cụ thể hoặc hỏi cô Hà; làm mạch thấp, che mờ nhịp nhanh; propranolol không hiệu quả cho hoảng sợ (WFSBP 2022, Bảng 9; Canada 2014, Bảng 15).",
+  "Tiếp xúc hóa chất: hít hơi clo và axit khi dọn kho; hết sau 1 ngày, nhưng anh tin 'hơi độc làm hỏng tim phổi'. Phổi, SpO₂, X-quang bình thường. Tài liệu độc chất hít không có trong tài liệu đã tải.",
+  "Vitamin, thực phẩm chức năng: 'Multi-B Energy' chứa guarana; cơn đầu có trước viên nên không phải nguyên nhân khởi phát, nhưng caffeine làm cơn dày (Canada 2014, Panic disorder: Diagnosis).",
+  "Lý do thật là nghi tác dụng phụ của thuốc: anh muốn bác sĩ xác nhận 'do thuốc' để tránh nhãn bệnh tâm thần; phải hỏi 'anh nghĩ nguyên nhân là gì'.",
+  "Không đỡ ở tuần 4 dễ bị đọc là thất bại thuốc: thực ra dùng ~12/28 ngày, 25 mg; phải rà tuân thủ, liều, thời gian trước khi đổi thuốc (WFSBP 2022, tr. 87)."
+ ],
+ "bai_hoc_bien": [
+  "Hỏi tự dùng thuốc bằng câu cụ thể, hỏi cả người nhà; thuốc người nhà như propranolol làm mạch thấp, che mờ nhịp tim và không hiệu quả cho hoảng sợ.",
+  "Vẽ mốc thời gian: cơn có trước viên vitamin nên không đổ lỗi cho viên; hóa chất, caffeine, vitamin chỉ là yếu tố làm nặng hoặc khởi phát (NICE 1.3.5; Canada 2014).",
+  "Cơn 'không đỡ' sau 4 tuần: xem lại chẩn đoán, tuân thủ, liều, thời gian thử, thuốc dùng kèm trước khi gọi kháng trị hoặc đổi thuốc (WFSBP 2022, tr. 87). Bồn chồn đầu điều trị làm bỏ thuốc (NICE 1.3.23).",
+  "Khi đã hết cơn vẫn tiếp tục thuốc rồi giảm dần; không ngưng đột ngột (NICE 1.3.27, 1.3.30; WFSBP tr. 86, 94)."
+ ],
+ "diem_nho": [
+  "Cơn hoảng sợ: ≥4 trong 13 triệu chứng, lên đỉnh trong vài phút; rối loạn hoảng sợ cần ≥1 tháng lo cơn hoặc đổi hành vi (Canada 2014, Bảng 11, 12).",
+  "Propranolol không hiệu quả cho hoảng sợ (WFSBP 2022, Bảng 9; Canada 2014, Bảng 15); benzodiazepin không nên kê (mhGAP ANX6; NICE 1.3.20).",
+  "SSRI đầu tay, khởi liều thấp tăng chậm, đủ liều và thời gian: sertralin 50–200 mg (WFSBP Bảng 7); đánh giá tuần 12, xem lại tuần 2, 4, 6, 12 (NICE 1.3.41, 1.3.42).",
+  "Trước khi gọi kháng trị: chẩn đoán, tuân thủ, liều, thời gian, thuốc dùng kèm (WFSBP tr. 87). Thời gian dùng SSRI 6 tháng đến 24 tháng tùy nguồn (NICE; WFSBP; Canada 2014)."
+ ],
+ "nguon": [
+  "WHO – mhGAP guideline 2023 (ấn bản 3) – TL-0573 – ANX1 (và Remarks), ANX2–ANX6.",
+  "NICE – CG113 GAD and panic disorder in adults (2011, cập nhật 2020) – TL-0598 – 1.3.1–1.3.6, 1.3.9–1.3.35, 1.3.41–1.3.45.",
+  "WFSBP 2022 – Guidelines for treatment of anxiety, OCD and PTSD, Part I (World J Biol Psychiatry 2022;24:79-117) – TL-0587 – Bảng 7, 9; General principles, Duration, Dosing, Treatment resistance (tr. 86–87), Panic disorder, Long-term (tr. 94–95).",
+  "Canadian guidelines for anxiety, PTSD and OCD (Katzman 2014, BMC Psychiatry) – TL-0596 – Bảng 7, 11, 12, 15; Baseline assessment; Panic disorder: Diagnosis.",
+  "ESC 2023 ACS – TL-0069 – Hình 5. ESC 2019 SVT – TL-0687 – mục 8, 9.1.1, 9.1.1.1. ATA 2016 hyperthyroidism – TL-0324 – mục B2. Backus 2013 – HEART score – TL-0110 – Bảng 1.",
+  "Không có trong tài liệu đã tải: sertralin 25 mg và mốc 7 ngày; guarana chứa caffeine, thành phần và tác dụng của thực phẩm chức năng; độc chất hít khí clo, axit và theo dõi hậu quả; mức giảm cà phê; số buổi CBT; theo dõi gan, tim khi dùng sertralin; báo cáo phản ứng bất lợi của thực phẩm chức năng; hậu quả riêng của propranolol uống tự ý."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-27): đã đọc TL-0573 ANX1–ANX6; TL-0598 1.3.1–1.3.45; TL-0587 Bảng 7, 9, Duration, Dosing, Treatment resistance, Panic long-term; TL-0596 Bảng 7, 11, 12, 15, Baseline assessment, Panic: Diagnosis; TL-0687 mục 8, 9.1.1.1 (đọc đoạn khởi phát và kết thúc đột ngột); TL-0069 Hình 5; TL-0324 mục B2; TL-0110 Bảng 1.",
+  "Mâu thuẫn áp dụng từ sổ: benzodiazepin trong hoảng sợ và SSRI hay CBT trước (TT-0177); thời gian dùng SSRI (TT-0192). Không có mâu thuẫn thật mới. Mốc thử đủ ≥4 tuần của WFSBP nêu cho lo âu lan tỏa và lo âu xã hội, áp dụng suy rộng cho hoảng sợ.",
+  "Cặp tương phản P-0638 vai B với TT-0159 (mất ngủ mạn): cùng nhóm chuyên khoa, khác chẩn đoán đích; ca này lấy hoảng sợ có cơn đỉnh, tự dùng propranolol, caffeine, không phải mất ngủ.",
+  "Không có tài liệu về độc chất hít hóa chất và thực phẩm chức năng trong kho: ca chỉ dựa vào khám phổi, SpO₂, X-quang và nêu rõ chỗ thiếu. Điều dưỡng Linh tự lo phần mô tả."
+ ]
+}
