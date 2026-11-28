@@ -1,0 +1,731 @@
+{
+ "ma_ca": "TK-0589",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết 2026-11-28, soát nguồn với kho tài liệu đã tải",
+ "benh": "TK_chong_mat_chuc_nang_lo_au_phu_nhan_trieu_chung",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Chóng mặt chức năng do lo âu",
+  "chan_doan_phai_loai_tru": [
+   "Tiền đình thực thể",
+   "Rối loạn nhịp"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không đỡ",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Ngoài giờ, không có kỹ thuật viên",
+  "loai_ket_cuc": "Biến chứng do bỏ sót",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Thợ mộc nội thất làm khoán (đứng máy cưa bàn, máy bào, leo thang lắp tủ tại nhà khách; thu nhập theo công trình, không đi làm thì không có tiền)",
+  "yeu_to_khoi_phat": "Sau dùng thực phẩm chức năng (bốn tháng trước, vài hôm sau khi uống lọ viên 'tăng lực' mua trên mạng thì có một đêm tim đập mạnh, run tay, sợ hãi; sáng hôm sau bắt đầu lâng lâng dai dẳng)",
+  "thuoc_dang_dung": "Kháng sinh đã dùng 3 ngày (tự mua ở quầy thuốc, amoxicillin–acid clavulanic 625 mg × 2 viên mỗi ngày, bỏ vì không bớt và đi lỏng); còn viên tăng lực và nước tăng lực anh không coi là thuốc",
+  "ly_do_that_su_den_kham": "Đọc thông tin trên mạng nên lo lắng (bài đăng nói chóng mặt kéo dài là 'thiểu năng tuần hoàn não' hoặc u não, báo trước đột quỵ); anh sợ nghe kết quả xấu, nói nhẹ đi và đi khám 'cho vợ yên tâm'"
+ },
+ "benh_nhan": {
+  "ten": "Trương Minh Hậu",
+  "tuoi": 28,
+  "gioi": "Nam",
+  "nghe": "Thợ mộc nội thất làm khoán, có xưởng nhỏ ở nhà cùng một cậu học việc",
+  "can_nang": 66,
+  "chieu_cao": 168,
+  "xung_ho": "Bác sĩ gọi anh là 'anh'. Anh tự xưng 'em', gọi bác sĩ là 'bác sĩ'. Vợ là chị Ngân, gọi anh là 'anh Hậu' hoặc 'ảnh', gọi bác sĩ là 'bác sĩ'; anh gọi vợ là 'Ngân'.",
+  "tinh_cach": "Ít nói, tự ái nghề 'thợ không than', sợ mất mối khoán và bị coi là yếu; thật thà nhưng quen nói giảm. Ban đêm hay lướt điện thoại đọc về bệnh, tin bài đăng trên mạng hơn lời hàng xóm.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi 'có nặng không, có khó chịu nhiều không' thì anh đáp 'hơi hơi thôi, không sao'. Chỉ kể đúng mức độ khi bác sĩ hỏi việc cụ thể (leo thang, đứng máy cưa, đi chợ, ngày nghỉ làm, giấc ngủ). Thuốc: nói 'chỉ uống kháng sinh mấy hôm'; viên tăng lực và nước tăng lực không coi là thuốc, chỉ kể khi bác sĩ hỏi riêng. Lý do thật (sợ u não, 'thiểu năng tuần hoàn não') chỉ lộ khi bác sĩ hỏi anh đã đọc hay nghe gì và lo điều gì nhất. Chị Ngân nói thẳng hơn anh.",
+  "nguoi_nha": "Vợ",
+  "ten_nguoi_nha": "Bùi Thị Ngân",
+  "ngoai_hinh": {
+   "da": "#c8946a",
+   "toc": "#1d1612",
+   "kieuToc": "ngan",
+   "ao": "#8a7a58",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo",
+   "nguoiNha": {
+    "da": "#d6a883",
+    "toc": "#241a16",
+    "kieuToc": "dai",
+    "ao": "#7a9a8a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Hơi choáng, lâng lâng đầu mấy tháng nay; đi khám 'cho chắc' vì vợ nhắc, tuần trước có uống mấy hôm kháng sinh mà không bớt",
+ "khoa_cls": {
+  "nhom": [
+   "xn",
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Ngoài giờ (tối 19 giờ 40): kỹ thuật viên xét nghiệm và chẩn đoán hình ảnh đã về nên phòng khám không làm được xét nghiệm máu, nước tiểu, X-quang, siêu âm (kéo theo không CT, nội soi); mẫu gửi đi chỉ có kết quả sáng hôm sau. Còn dùng được: ống nghe, huyết áp kế, đèn soi tai, búa phản xạ, máy đo đường huyết mao mạch, máy điện tim. Không có Holter, MRI. Quyết định phải dựa vào hỏi bệnh, khám và điện tim."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu (lâng lâng bốn tháng)",
+   "tiep_don": "Nam 28 tuổi, thợ mộc, đến một mình lúc 19 giờ 40 sau khi tắt máy ở xưởng, quần áo còn dính mùn cưa; chị Ngân (vợ) ở nhà giục anh đi. Anh ngồi xuống cẩn thận, tay đặt lên tay vịn ghế, nói ngắn gọn 'chắc em hơi choáng chút thôi, không có gì nặng đâu'. Sinh hiệu lúc tiếp đón (ngồi): mạch 84 l/p đều, HA 126/78 mmHg, nhiệt 36,8 °C, nhịp thở 17, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện 'theo dõi tim và thần kinh': điện tim bình thường, huyết áp không tụt, khám tiền đình và thần kinh bình thường, không cờ đỏ nên không có chỉ định nằm viện (TL-0451 Bảng 1, tr. S362–S363; ESC SVT 2019 mục 8). Anh mất vài ngày công khoán, ra viện vẫn không ai giải thích vì sao lâng lâng, và càng tin mình mắc 'bệnh nặng chưa tìm ra' như bài trên mạng.",
+    "chuyen_tuyen": "Chuyển tỉnh chụp MRI sọ não và khám tim mạch gấp 'cho chắc': không cờ đỏ, và PPPD không có xét nghiệm hình ảnh đặc hiệu (TL-0451 Bảng 1; TL-0484 mục 4.3). Anh mất một ngày công và khoảng 2,5 triệu đồng; kết quả bình thường làm anh nghĩ 'có bệnh mà máy chưa thấy', nỗi lo còn nguyên và chưa ai xử lý lo âu hay chất kích thích."
+   },
+   "loi_mo": "Chào bác sĩ. Em hơi choáng đầu mấy tháng nay, chắc do làm nhiều thôi chứ cũng không nặng gì đâu. Vợ em cứ bắt đi khám cho chắc. Tuần trước em có uống mấy hôm kháng sinh mà không thấy bớt, bác xem giúp em với.",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "126/78",
+    "nhiet": "36,8",
+    "nhip_tho": 17,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Em hơi choáng, lâng lâng đầu mấy tháng nay, hơi hơi thôi. Em đi khám cho vợ yên tâm; tuần trước em có uống kháng sinh mà không bớt.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám (anh nói giảm nhẹ)"
+    },
+    {
+     "id": "mo_ta",
+     "noi_dung": "Không quay tròn. Đầu lâng lâng như đứng trên tấm ván lỏng; không nôn. Gần như ngày nào cũng có, sáng nhẹ, chiều tối rõ hơn; ngồi hay nằm thì đỡ nhưng không hết. Thỉnh thoảng vài giây thấy nền xưởng chao rồi hết. Anh nói: 'Hơi hơi thôi'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chóng mặt không quay, hầu hết các ngày từ ≥3 tháng, tăng dần trong ngày, có cơn thoáng vài giây (TL-0484 mục 3, tiêu chuẩn A, ghi chú 2–3)"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Bốn tháng trước có một đêm tim đập thình thịch, run tay, sợ như sắp chết chừng 20 phút (không ngất, không đau ngực). Sáng hôm sau bắt đầu lâng lâng, từ đó không hết hẳn. Không va đầu, không cơn quay dữ dội, không ù tai, nghe kém, chảy dịch tai, đau đầu kèm sợ ánh sáng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau cơn hoảng sợ; loại cơn kịch phát (TL-0484 tiêu chuẩn C, ghi chú 6; mục 4.4.2)"
+    },
+    {
+     "id": "yeu_to_nang",
+     "noi_dung": "Nặng khi đứng lâu, đi bộ, nhất là chỗ đông, nhiều thứ chuyển động: siêu thị, đường đông xe; nhìn lưỡi máy bào quay, đống ván sọc, lướt điện thoại lâu cũng nặng thêm. Ngồi yên trong xe thì đỡ. Em tránh siêu thị, nhờ vợ đi chợ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ba yếu tố làm nặng (đứng, chuyển động, kích thích thị giác phức tạp) và né tránh (TL-0484 tiêu chuẩn B, ghi chú 5; mục 4.1.3)"
+    },
+    {
+     "id": "khong_trung_uong",
+     "noi_dung": "Không yếu liệt, tê, méo miệng, nói khó, nhìn đôi, nuốt sặc, nôn, ngất, đau đầu dữ dội hay đau cổ. Chưa từng té, cũng chưa từng suýt té. Không sốt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc cờ đỏ; không té, không suýt té (TL-0451 Bảng 1; TL-0484 mục 4.4.7)"
+    },
+    {
+     "id": "tim_hoi_hop",
+     "noi_dung": "Thỉnh thoảng tim đập nhanh vài phút khi uống nước tăng lực hay lúc lo, nghỉ thì từ từ hết; không đột ngột bắt đầu rồi dừng, không đau ngực, không ngất. Nhà không ai chết đột ngột lúc trẻ. Chưa đo điện tim bao giờ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hỏi cơn hồi hộp để loại rối loạn nhịp (ESC SVT 2019 mục 8: khởi phát đột ngột gợi AVNRT/AVRT)"
+    },
+    {
+     "id": "khang_sinh",
+     "noi_dung": "Khoảng 10 ngày trước em ra quầy thuốc nói bị chóng mặt; cô bán thuốc bảo 'viêm tai trong', bán vỉ kháng sinh (em giữ vỏ: amoxicillin + acid clavulanic 625 mg), uống 2 viên mỗi ngày được 3 ngày thì bỏ vì không bớt và hơi đi lỏng. Chóng mặt có từ trước đó nhiều tháng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc tự mua, đã có triệu chứng trước thuốc; không phải nhóm aminozid gây độc tiền đình (TL-0130 Chóng mặt mục 2.1b; TL-0451 Khuyến cáo 2)"
+    },
+    {
+     "id": "tpcn",
+     "noi_dung": "Từ bốn tháng trước em uống lọ viên 'tăng lực, chống mệt' mua trên mạng, nhãn ghi nhân sâm, taurine, caffeine (không ghi hàm lượng): sáng 1 viên, mệt thì 2 viên. Chiều thêm 1–2 lon nước tăng lực cho kịp việc, sáng 2 ly cà phê. Em không coi mấy thứ đó là thuốc nên nãy không nói.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Chất kích thích, thực phẩm chức năng: yếu tố khởi phát và duy trì (TL-0484 mục 4.4.5; QĐ 2058 Bài 22 mục 3.2; NICE CG113 1.2.11)",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi riêng thực phẩm chức năng, thuốc bổ, nước tăng lực, cà phê; hỏi 'đang uống thuốc gì' thì anh chỉ nhắc kháng sinh."
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Leo thang quá hai ba bậc là nhờ cậu học việc leo thay; đứng máy cưa bàn nửa tiếng là phải ngồi nghỉ, hai lần giật mình tắt máy vì thấy 'chao', ván không lệch, chưa bị thương. Ba tuần nay bỏ hai công trình lắp tủ vì ngại đứng thang lâu, mất khoảng một nửa thu nhập tháng. Đi chợ, siêu thị, chạy xe đường đông đều tránh.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Tiêu chuẩn D: ảnh hưởng chức năng và nghề (TL-0484 mục 3; NICE CG113 1.2.10: theo dõi cả triệu chứng và chức năng)",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi việc làm, sinh hoạt cụ thể (leo thang, đứng máy cưa, đi chợ, chạy xe, bỏ việc, thu nhập). Hỏi 'có nặng không', 'có ảnh hưởng nhiều không' thì anh chỉ nói 'hơi hơi thôi, không sao'."
+    },
+    {
+     "id": "lo_au_ngu",
+     "noi_dung": "Ngủ 4–5 giờ, lướt điện thoại tới khuya, hay hồi hộp, khó thư giãn, dễ cáu với vợ. GAD-7 12 điểm; PHQ-9 6 điểm, không ý nghĩ tự hại. Em nói: 'Em đâu có lo, em chỉ thấy đầu có vấn đề'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "GAD-7 ≥ 10 dương tính (USPSTF 2023: nhạy 0,79, đặc hiệu 0,89); PHQ-9 < 10 (USPSTF trầm cảm 2023); hỏi tự hại (QĐ 2058 Bài 22 mục 5)"
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Tối nào anh cũng đọc bài trên mạng: chóng mặt kéo dài là 'thiểu năng tuần hoàn não' hoặc 'u não', báo trước đột quỵ; người cùng xóm 35 tuổi vừa bị đột quỵ. Anh sợ nghe kết quả xấu nên nói nhẹ đi; anh muốn chụp MRI nhưng ngại nói.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Động cơ thật: lo bệnh nặng theo thông tin mạng; thuật ngữ cũ 'thiểu năng tuần hoàn' (sổ mâu thuẫn mục TK-0271)",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi anh đã đọc hay nghe gì về bệnh này, anh nghĩ nguyên nhân là gì, hoặc điều gì làm anh lo nhất; hỏi chung chỉ nói 'chắc do làm nhiều'."
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 124/76, mạch 72. Đứng 3 phút: 126/80, mạch 86. Huyết áp không tụt, nhịp tăng 14 l/p; anh nói 'bồng bềnh hơn' khi đứng.",
+     "k": 1
+    },
+    "hong_tai_mui": {
+     "a": "Ống tai ngoài sạch, màng nhĩ hai bên bình thường, không đỏ, không phồng, không dịch. Mũi, họng bình thường.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, hạch cổ không to, không lồi mắt.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, mặt cân đối, sức cơ 5/5, cảm giác, phản xạ bình thường, Babinski âm tính, ngón–mũi và gót–gối chính xác.",
+     "k": 1
+    },
+    "hints_van_nhan": {
+     "a": "Không rung giật nhãn cầu tự phát; theo dõi mượt. Đẩy đầu nhanh hai bên mắt giữ được mục tiêu; che mắt luân phiên không lệch dọc. Không dấu trung ương hay mất bù trừ (TL-0484 mục 4.3).",
+     "k": 1,
+     "hien": "Nhìn thẳng và nhìn sang hai bên: không thấy nhãn cầu giật. Đẩy đầu nhanh sang phải và sang trái: mắt giữ được mục tiêu. Che mắt luân phiên: mắt không dịch chuyển dọc."
+    },
+    "nghe_thi_tham": {
+     "a": "Cọ ngón tay sát tai: hai bên nghe như nhau (TL-0451 Khuyến cáo 6).",
+     "k": 1,
+     "hien": "Nghe cọ ngón tay hai bên như nhau."
+    },
+    "dix_hallpike": {
+     "a": "Dix–Hallpike hai bên và nghiệm pháp lăn ngang: anh nói 'hơi chao', không rung giật nhãn cầu, không cơn quay, không kiểu tiềm ẩn rồi kéo dài 10–20 giây (TL-0451 Khuyến cáo 5).",
+     "k": 1,
+     "hien": "Nằm ngửa quay đầu phải và trái: anh nói 'hơi chao'; không thấy nhãn cầu giật."
+    },
+    "dang_di_thang_bang": {
+     "a": "Romberg âm tính; đi thẳng, quay người, nối gót được; bước hơi ngắn, thận trọng, mắt nhìn sàn; không loạng choạng (TL-0484 mục 4.4.7).",
+     "k": 1,
+     "hien": "Đứng, quay người và đi nối gót được; bước ngắn, thận trọng, mắt nhìn xuống sàn."
+    },
+    "tim": {
+     "a": "Tim đều 84 l/p, T1, T2 rõ, không âm thổi, không T3.",
+     "k": 1,
+     "hien": "Tim đều, tần số khoảng 84 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "tam_than": {
+     "a": "Nói ngắn, né khi hỏi về lo lắng; tay ẩm, hơi run khi giữ thẳng tay, gõ chân liên tục. Định hướng tốt, không ý tưởng tự hại (QĐ 2058 Bài 22 mục 5).",
+     "k": 1
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "u",
+     "r": "Đường huyết mao mạch 5,3 mmol/L (chưa ăn tối).",
+     "n": "Loại hạ đường huyết (TL-0484 mục 3, tiêu chuẩn E)."
+    },
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 84 l/p, PR 150 ms, QRS 90 ms, QTc 410 ms, không sóng delta (tiền kích thích), không block, không biến đổi ST–T.",
+     "n": "Có cơn hồi hộp: điện tim 12 chuyển đạo, tìm tiền kích thích lúc nhịp xoang (ESC SVT 2019 Bảng 7, mục 9.1.1); loạn nhịp là yếu tố khởi phát hiếm, khoảng 3% (TL-0484 mục 3, ghi chú 6)."
+    },
+    "mri_so_nao": {
+     "v": "n",
+     "r": "Cơ sở không có MRI.",
+     "n": "Không cờ đỏ; PPPD không có xét nghiệm hình ảnh đặc hiệu (TL-0484 mục 4.3; TL-0451 Bảng 1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Chóng mặt dai dẳng tư thế–tri giác (PPPD, chóng mặt chức năng) khởi phát sau cơn hoảng sợ và chất kích thích, kèm lo âu (GAD-7 12 điểm), anh phủ nhận mức độ",
+     "ok": 1,
+     "n": "TL-0484 tiêu chuẩn A–E đủ: A (4 tháng, hầu hết các ngày), B (đứng, chuyển động, thị giác, có né tránh), C (cơn hoảng sợ, thực phẩm chức năng: mục 4.4.5), D (bỏ việc khoán, tránh thang, máy cưa), E (khám và điện tim không giải thích bằng bệnh khác). PPPD không phải chẩn đoán loại trừ (mục 4.3). Thành phần viên tăng lực không rõ nên ngưng để loại lo âu do chất giống amphetamin (QĐ 2058 Bài 22 mục 3.2)."
+    },
+    {
+     "t": "Rối loạn tiền đình thực thể (viêm thần kinh tiền đình chưa bù trừ, BPPV, Ménière, đau nửa đầu tiền đình, bệnh tiền đình hai bên) và độc tiền đình do kháng sinh",
+     "n": "Không rung giật, đẩy đầu và Dix–Hallpike bình thường, không cơn kịch phát, ù tai, đau nửa đầu (TL-0484 mục 4.4.1–4.4.2; TL-0451 Khuyến cáo 5, 6). Màng nhĩ bình thường; kháng sinh không phải aminozid, chóng mặt có trước thuốc (TL-0130 Chóng mặt mục 2.1b)."
+    },
+    {
+     "t": "Rối loạn nhịp tim, nhịp nhanh trên thất, hội chứng nhịp tim nhanh tư thế (POTS), cường giáp",
+     "n": "Cơn hồi hộp từ từ, điện tim không tiền kích thích, huyết áp không tụt; PPPD không gây thay đổi bất thường nhịp tim, huyết áp (TL-0484 mục 4.4.3.3; ESC SVT 2019 mục 8, 9.1.1). Máu, TSH chưa làm được ngoài giờ: hẹn sáng hôm sau. Ngưỡng nhịp của POTS: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tác dụng phụ của thực phẩm chức năng, nước tăng lực, cà phê",
+     "n": "Thực phẩm chức năng có thể gây chóng mặt, khởi phát PPPD (TL-0484 mục 4.4.5); NICE CG113 1.2.11: chế phẩm tự mua thiếu bằng chứng an toàn. Là yếu tố khởi phát, duy trì; tác dụng từng thành phần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bệnh trung ương (đột quỵ hố sau, u não) và 'thiểu năng tuần hoàn não'",
+     "n": "Không cờ đỏ, thần kinh bình thường (TL-0451 Bảng 1). Thuật ngữ thiểu năng tuần hoàn ĐM cột sống–thân nền: QĐ 5643 Chóng mặt mục 2.3a dùng cho người trên 50 tuổi, Bárány 2022 (TL-0468) không khuyến cáo (sổ TK-0271); anh 28 tuổi, không triệu chứng thân não."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích chẩn đoán dương tính: rối loạn chức năng thăng bằng, không phải u não hay 'thiểu năng tuần hoàn não'; cần thời gian, điều trị nhiều mặt; hỏi anh đã đọc gì và đáp nỗi lo đó",
+     "v": "c",
+     "n": "TL-0451 Nguyên tắc điều trị (tiên lượng, kỳ vọng thực tế), Bảng 3 tr. S366–S367 (giáo dục người bệnh); QĐ 2058 Bài 22 mục 4.1 (giải thích hợp lý). Hạn chế đọc tin ban đêm: nhận định lâm sàng."
+    },
+    {
+     "t": "Ngưng viên 'tăng lực' và nước tăng lực; giảm cà phê còn tối đa 1 ly mỗi sáng",
+     "v": "c",
+     "n": "TL-0484 mục 4.4.5; QĐ 2058 Bài 22 mục 4.3 (tránh chất kích thích) và mục 3.2 (loại do chất giống amphetamin); NICE CG113 1.2.11. Mức cà phê cụ thể: không có trong tài liệu đã tải, chọn của ca."
+    },
+    {
+     "t": "Hỏi chức năng và dặn an toàn nghề: còn lâng lâng thì không đứng máy cưa, không leo thang cao; làm việc ở mặt đất trước",
+     "v": "c",
+     "n": "Chức năng là tiêu chuẩn D (TL-0484 mục 3; NICE CG113 1.2.10). Quy định an toàn lao động thợ mộc: không có trong tài liệu đã tải, nhận định lâm sàng."
+    },
+    {
+     "t": "Vận động đều, tập đối mặt dần với chỗ đông và vật chuyển động (đi bộ, siêu thị ngắn tăng dần), vật lý trị liệu tiền đình tại nhà; không né tránh",
+     "v": "c",
+     "n": "TL-0451 Bảng 3 tr. S366–S367 (hành vi, vật lý trị liệu, bài tập tại nhà); QĐ 2058 Bài 22 mục 4.1; mhGAP 2023 ANX5. Bài tập cụ thể: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Sàng lọc lo âu, trầm cảm (GAD-7, PHQ-9), hỏi ý nghĩ tự hại; giải thích không phải 'tâm thần'",
+     "v": "c",
+     "n": "TL-0484 mục 4.4.3.1 (GAD-7, PHQ-9; PPPD là rối loạn chức năng, không phải cấu trúc hay tâm thần); USPSTF 2023 (TL-0581, TL-0582); QĐ 2058 Bài 22 mục 5."
+    },
+    {
+     "t": "Hẹn khám lại sau 4 tuần, mang nhật ký triệu chứng và vỏ thuốc, lọ viên; quay lại sớm nếu có cơn quay, yếu liệt, nói khó, nhìn đôi, ngất, đau đầu dữ dội",
+     "v": "c",
+     "n": "TL-0484 mục 4.3 (theo dõi để xác nhận); cờ đỏ: TL-0451 Bảng 1 tr. S362–S363; NICE CG113 1.2.10. Mốc 4 tuần là chọn của ca."
+    },
+    {
+     "t": "Hẹn lấy máu sáng hôm sau (công thức máu, điện giải, TSH) để loại nguyên nhân khác",
+     "v": "a",
+     "n": "ESC SVT 2019 Bảng 7; QĐ 2058 Bài 22 mục 3.1.2. Không bắt buộc vì mạch, khám và điện tim bình thường."
+    },
+    {
+     "t": "Thuốc chống chóng mặt, chống nôn ngắn ngày",
+     "v": "a",
+     "n": "Sổ TK-0572: QĐ 5643/2015 mục 4.1 liệt kê cho cơn do mê nhĩ; TL-0451 Bảng 3 (PPPD) không khuyến cáo. Chấp nhận, không cần."
+    },
+    {
+     "t": "Kê kháng sinh tiếp hoặc đổi kháng sinh vì 'viêm tai trong'",
+     "v": "w",
+     "n": "Màng nhĩ bình thường (TL-0451 Khuyến cáo 6: soi tai bắt buộc); chóng mặt có trước thuốc và không đỡ. Kháng sinh không nằm trong điều trị PPPD (TL-0451 Bảng 3)."
+    },
+    {
+     "t": "Chụp MRI/CT sọ não hoặc chuyển gấp 'cho yên tâm' theo ý anh",
+     "v": "w",
+     "n": "Không cờ đỏ (TL-0451 Bảng 1); PPPD không cần hình ảnh để chẩn đoán (TL-0484 mục 4.3)."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc ngủ dùng đều để 'bớt lo, ngủ được'",
+     "v": "w",
+     "n": "Sổ mục TT-0177: mhGAP 2023 ANX6; NICE CG113 1.2.26, 1.3.20; QĐ 2058 Bài 22 mục 4.1 (hạn chế giải lo âu gây nghiện)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "PPPD (chóng mặt chức năng) thỏa tiêu chuẩn A–E của Bárány Society 2017 (TL-0484 mục 3), khởi phát sau cơn hoảng sợ và chất kích thích; lo âu kèm theo (GAD-7 12 điểm)",
+     "Ảnh hưởng chức năng đáng kể nhưng bị phủ nhận: bỏ hai công trình, tránh thang, máy cưa, chỗ đông",
+     "Đã loại: tiền đình thực thể, độc tiền đình do kháng sinh, loạn nhịp/POTS, hạ đường huyết, bệnh trung ương; chờ máu và TSH sáng hôm sau",
+     "Lý do thật: sợ u não, 'thiểu năng tuần hoàn não' đọc trên mạng"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự: hỏi bệnh (không quay, ≥3 tháng, ba yếu tố làm nặng, khởi phát, thuốc kể cả thực phẩm chức năng) → hỏi CHỨC NĂNG (leo thang, máy cưa, đi chợ, thu nhập) → huyết áp tư thế → khám tai, thần kinh, vận nhãn, Dix–Hallpike, dáng đi, tim → đường huyết mao mạch, điện tim → chẩn đoán (TL-0484 mục 4.3; TL-0451 Khuyến cáo 2, 5, 6).",
+     "Anh phủ nhận: câu hỏi cảm giác ('có nặng không') cho 'hơi hơi'; chỉ câu hỏi chức năng lộ mức độ. Tiêu chuẩn D phải hỏi chủ động (TL-0484 mục 3; NICE CG113 1.2.10).",
+     "Anh không té, không suýt té: té hay suýt té tái diễn gợi rối loạn dáng đi chứ không phải PPPD đơn thuần (TL-0484 mục 4.4.7); 'giật mình tắt máy' chỉ là né tránh.",
+     "Chất kích thích: hỏi riêng mới ra; thực phẩm chức năng có thể khởi phát PPPD (TL-0484 mục 4.4.5). Kháng sinh tự mua không liên quan, không phải aminozid (TL-0130 Chóng mặt mục 2.1b). Ngoài giờ không có máu: dùng điện tim, hẹn máu sáng hôm sau, không chờ kết quả để xử trí (ESC SVT 2019 mục 8, Bảng 7)."
+    ],
+    "phan_tich_xu_tri": [
+     "PPPD điều trị nhiều mặt: giáo dục, hành vi, vật lý trị liệu tại nhà, thuốc dự phòng (thường chống trầm cảm) quyết định cùng chuyên gia; không dùng thuốc chống nôn, chống chóng mặt (TL-0451 Bảng 3 tr. S366–S367). Sổ TK-0572: thuốc chống chóng mặt ngắn ngày chỉ chấm a. Lượt 1 ưu tiên giải thích, ngưng chất kích thích, theo dõi 4 tuần (NICE CG113 1.2.10).",
+     "Không chụp hình, không kháng sinh, không benzodiazepin; nỗi lo của anh cần giải thích chứ không cần thêm xét nghiệm. Hẹn 4 tuần, dặn cờ đỏ (TL-0451 Bảng 1)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc chống chóng mặt, kháng sinh, thuốc bổ, benzodiazepin",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "TL-0451 Bảng 3 tr. S366–S367; màng nhĩ bình thường nên không có chỉ định kháng sinh (TL-0451 Khuyến cáo 6); mhGAP 2023 ANX6."
+     },
+     {
+      "thuoc": "Viên 'tăng lực' và nước tăng lực (đang tự dùng)",
+      "ham_luong": "Không rõ hàm lượng (nhãn không ghi)",
+      "lieu": "Ngưng hẳn",
+      "duong": "Uống",
+      "thoi_diem": "Từ tối nay",
+      "so_ngay": "Không dùng lại",
+      "ghi_chu": "TL-0484 mục 4.4.5; QĐ 2058 Bài 22 mục 4.3, 3.2; NICE CG113 1.2.11. Cà phê tối đa 1 ly là chọn của ca; cách ngưng caffeine: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Chóng mặt của anh là rối loạn chức năng thăng bằng, không phải u não hay tắc mạch; điều trị được nhưng cần thời gian (TL-0451 Bảng 3).",
+     "Ngưng viên tăng lực, nước tăng lực, cà phê một ly mỗi sáng; không dùng lại kháng sinh khi chưa có bác sĩ khám. Đi bộ mỗi ngày, vào chỗ đông từ ít đến nhiều; tạm không leo thang cao, không đứng máy cưa khi còn lâng lâng; ghi nhật ký giờ, nơi, mức 0–10 (TL-0451 Bảng 3).",
+     "Sáng mai lấy máu nếu được; tái khám sau 4 tuần cùng chị Ngân. Đi cấp cứu nếu cơn quay dữ dội, yếu liệt, méo miệng, nói khó, nhìn đôi, ngất (TL-0451 Bảng 1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · tái khám sau 4 tuần (không đỡ)",
+   "tiep_don": "Anh Hậu tái khám đúng hẹn lúc 19 giờ 50, lần này có chị Ngân đi cùng, chị ngồi sát bên và hay liếc nhìn anh. Anh nói 'vẫn vậy thôi, không sao đâu bác sĩ', tay vịn thành ghế khi ngồi xuống; quầng thâm dưới mắt, nói chậm. Chị Ngân nói thêm 'ảnh nói vậy chứ nghỉ làm mấy bữa rồi'. Sinh hiệu lúc tiếp đón (ngồi): mạch 88 l/p đều, HA 128/80 mmHg, nhiệt 36,7 °C, nhịp thở 17, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Nhập viện 'đánh giá lại toàn bộ' vì không đỡ sau 4 tuần: không triệu chứng mới, sinh hiệu bình thường, không cờ đỏ nên không có chỉ định (TL-0451 Bảng 1). Anh mất thêm ngày công, không ai điều trị lo âu hay chất kích thích, và nghĩ 'bệnh nặng đến mức phải nằm viện'.",
+    "chuyen_tuyen": "Chuyển tỉnh chụp MRI sọ não vì chưa hết sau 4 tuần: PPPD ít khi tự hết, cần điều trị tiếp (TL-0484 mục 4.5), không dấu mới (TL-0451 Bảng 1). Anh mất một ngày công và khoảng 2,5 triệu đồng mà chưa được điều trị lo âu; kết quả bình thường lại làm anh tin 'bệnh thực thể chưa tìm ra'."
+   },
+   "loi_mo": "Chào bác sĩ. Em vẫn vậy thôi, cũng không nặng hơn đâu, chắc tại em làm nhiều. Bác cho em thuốc nào uống một lần cho hết hẳn, mấy tuần nay em chưa làm được trọn ngày.",
+   "sinh_hieu": {
+    "mach": 88,
+    "ha": "128/80",
+    "nhiet": "36,7",
+    "nhip_tho": 17,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chóng mặt vẫn như cũ sau bốn tuần, chưa ngày nào hết; em muốn có thuốc cho hết hẳn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám; không đỡ"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Sau lượt trước em ngưng viên tăng lực được hai tuần rồi uống lại vì 'mệt quá, làm không kịp công trình'; mỗi ngày hai lon nước tăng lực, ba ly cà phê. Em đi bộ được vài hôm rồi bỏ; ghi nhật ký được năm ngày; không đi lấy máu sáng hôm sau vì bận.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Không đỡ do không tuân thủ và vẫn dùng chất kích thích (TL-0484 mục 4.4.5; QĐ 2058 Bài 22 mục 4.3)",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi từng việc đã làm theo dặn (viên tăng lực, nước tăng lực, cà phê, đi bộ, nhật ký, lấy máu); hỏi chung 'có làm theo không' thì anh nói 'cũng làm'."
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Chị Ngân nói: 'Ảnh nói hơi hơi nhưng một tháng nay nghỉ sáu ngày, giao hết việc leo thang cho cậu học việc, ba tuần không ra chợ, đọc điện thoại tới hai ba giờ sáng. Hôm bữa vào siêu thị ảnh phải bỏ xe đẩy ra ngoài ngồi.' Anh cúi đầu, không cãi.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Suy giảm chức năng nặng hơn anh nói (TL-0484 mục 3, tiêu chuẩn D); người nhà là nguồn bổ sung",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi riêng chị Ngân hoặc hỏi việc cụ thể (ngày nghỉ làm, đi chợ, siêu thị, giấc ngủ); hỏi anh 'có nặng hơn không' thì anh nói 'không'."
+    },
+    {
+     "id": "khong_dau_moi",
+     "noi_dung": "Không cơn quay, ù tai, nghe kém, đau đầu, yếu liệt, nói khó, nhìn đôi, ngất, té hay suýt té. Vẫn lâng lâng hằng ngày, nặng buổi chiều, giống lần trước.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không dấu mới, không cờ đỏ (TL-0451 Bảng 1; TL-0484 mục 4.4.7)"
+    },
+    {
+     "id": "diem",
+     "noi_dung": "Hỏi lại: GAD-7 14 điểm; PHQ-9 11 điểm (chán nản vài ngày, giảm hứng thú, ngủ 4 giờ). Hỏi riêng: không ý nghĩ tự hại, không kế hoạch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "GAD-7 ≥ 10, PHQ-9 ≥ 10 (USPSTF 2023, TL-0581, TL-0582); tự hại (QĐ 2058 Bài 22 mục 5)"
+    }
+   ],
+   "kham": {
+    "hints_van_nhan": {
+     "a": "Không rung giật nhãn cầu; đẩy đầu hai bên mắt giữ được mục tiêu; che mắt luân phiên không lệch dọc. Giống lần trước.",
+     "k": 1,
+     "hien": "Nhìn thẳng và nhìn sang hai bên: không thấy nhãn cầu giật. Đẩy đầu nhanh sang phải và sang trái: mắt giữ được mục tiêu. Che mắt luân phiên: mắt không dịch chuyển dọc."
+    },
+    "dang_di_thang_bang": {
+     "a": "Romberg âm tính, nối gót được; bước ngắn, thận trọng hơn lần trước, không loạng choạng, không té (TL-0484 mục 4.4.7).",
+     "k": 1,
+     "hien": "Đứng, quay người và đi nối gót được; bước ngắn, thận trọng."
+    },
+    "tam_than": {
+     "a": "Nói chậm, mắt mệt, khí sắc thấp, thu mình hơn lần trước. Định hướng tốt, không hoang tưởng; hỏi riêng: không ý tưởng tự hại, không kế hoạch (QĐ 2058 Bài 22 mục 5).",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 86 l/p, bình thường, giống lần trước.",
+     "n": "Không cần lặp lại nếu không triệu chứng mới (ESC SVT 2019 Bảng 7)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "PPPD kèm lo âu (GAD-7 14) chưa kiểm soát, nặng hơn do không tuân thủ, còn chất kích thích, chưa điều trị lo âu; chẩn đoán không đổi",
+     "ok": 1,
+     "n": "Không dấu mới, khám như lần trước; không đỡ vì mới giải thích và theo dõi, anh làm theo một phần (TL-0484 mục 3, 4.3, 4.5: chỉ thiểu số tự khỏi)."
+    },
+    {
+     "t": "Sai chẩn đoán: tiền đình thực thể bỏ sót, bệnh trung ương",
+     "n": "HINTS, dáng đi, thần kinh bình thường; không cơn kịch phát, không té (TL-0484 mục 4.4.1–4.4.4, 4.4.7; TL-0451 Bảng 1)."
+    },
+    {
+     "t": "Sai thuốc, đề kháng: chất kích thích duy trì lo âu",
+     "n": "Chưa dùng thuốc đặc hiệu; viên tăng lực, nước tăng lực, cà phê nhiều (TL-0484 mục 4.4.5; QĐ 2058 Bài 22 mục 3.2)."
+    },
+    {
+     "t": "Biến chứng: giai đoạn trầm cảm hoặc rối loạn lo âu lan tỏa; loạn nhịp, cường giáp",
+     "n": "PHQ-9 11, GAD-7 14: sàng lọc dương tính, chưa đủ chẩn đoán (TL-0484 mục 4.4.3.1; QĐ 2058 Bài 23 mục 3.1.1). Điện tim hai lần bình thường; máu, TSH chưa có (ESC SVT 2019 Bảng 7)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Rà vì sao không đỡ: hỏi từng việc đã làm (chất kích thích, vận động, nhật ký, xét nghiệm), khám lại thần kinh–tiền đình; không dấu mới thì giữ chẩn đoán",
+     "v": "c",
+     "n": "TL-0484 mục 3 (tiêu chuẩn E), 4.3, 4.5; TL-0451 Khuyến cáo 2; NICE CG113 1.2.10."
+    },
+    {
+     "t": "Ngưng hẳn viên tăng lực, nước tăng lực; cà phê còn 1 ly; ghi lượng uống vào nhật ký",
+     "v": "c",
+     "n": "TL-0484 mục 4.4.5; QĐ 2058 Bài 22 mục 4.3, 3.2; NICE CG113 1.2.11. Mức cà phê: chọn của ca."
+    },
+    {
+     "t": "Điều trị nhiều mặt: SSRI (escitalopram) cộng liệu pháp hành vi nhận thức hoặc tập đối mặt dần có hướng dẫn và vật lý trị liệu tiền đình tại nhà",
+     "v": "c",
+     "n": "NICE CG113 1.2.17 (lo âu kèm suy giảm chức năng rõ: can thiệp tâm lý cường độ cao hoặc thuốc), 1.2.23; QĐ 2058 Bài 22 mục 4.2–4.3 (escitalopram 10–20 mg/24 giờ); mhGAP 2023 ANX1, ANX2; TL-0451 Bảng 3 tr. S366–S367 (thuốc dự phòng quyết định cùng chuyên gia). Sổ mục TK-0577."
+    },
+    {
+     "t": "Giải thích thuốc: tác dụng sau 1 tuần trở lên, có thể bồn chồn, mất ngủ lúc đầu; dưới 30 tuổi cảnh báo ý nghĩ tự hại, khám lại trong 1 tuần, theo dõi mỗi tuần suốt tháng đầu, rồi 2–4 tuần/lần trong 3 tháng đầu; không tự ngưng",
+     "v": "c",
+     "n": "NICE CG113 1.2.28, 1.2.30, 1.2.32."
+    },
+    {
+     "t": "Hỏi riêng ý nghĩ tự hại, nhờ chị Ngân để mắt; hẹn gọi lại sau 1 tuần, tái khám sau 4 tuần",
+     "v": "c",
+     "n": "QĐ 2058 Bài 22 mục 5; NICE CG113 1.2.30. Đường dây hỗ trợ khủng hoảng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Kê benzodiazepin hằng ngày để 'đỡ lo, ngủ được'",
+     "v": "w",
+     "n": "Sổ mục TT-0177: mhGAP 2023 ANX6; NICE CG113 1.2.26, 1.3.20."
+    },
+    {
+     "t": "Chụp MRI hoặc chuyển tỉnh gấp, cho rằng đã thất bại điều trị cơ bản",
+     "v": "w",
+     "n": "Không dấu mới (TL-0451 Bảng 1); chưa điều trị đủ nên chưa là thất bại (TL-0484 mục 4.3)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "PPPD kèm lo âu (GAD-7 14) chưa kiểm soát; nặng hơn do không tuân thủ và dùng lại chất kích thích; PHQ-9 11 cần theo dõi",
+     "Chẩn đoán không đổi: không dấu mới, khám và điện tim như lần trước; không phải sai bệnh hay đề kháng thuốc",
+     "Suy giảm chức năng nặng hơn anh nói (nghỉ 6 ngày, tránh chợ, siêu thị, bỏ leo thang)"
+    ],
+    "phan_tich_chan_doan": [
+     "Khi không đỡ: sai chẩn đoán? (không dấu mới, HINTS, điện tim bình thường) → không tuân thủ? (còn nước tăng lực, không tập) → sai thuốc? (chưa thuốc đặc hiệu, còn chất kích thích) → biến chứng? (PHQ-9 11) → đề kháng? (chưa điều trị đủ). Chẩn đoán đúng, điều trị chưa đủ.",
+     "Anh vẫn phủ nhận: phải hỏi từng việc và hỏi riêng chị Ngân; câu hỏi chức năng cho thông tin đúng (NICE CG113 1.2.10; TL-0484 mục 3). PPPD ít khi tự hết, đa số có lo âu hoặc trầm cảm đi kèm nếu không điều trị (TL-0484 mục 4.5)."
+    ],
+    "phan_tich_xu_tri": [
+     "Nâng điều trị lên nhiều mặt: SSRI cộng hành vi nhận thức/tập đối mặt và vật lý trị liệu tiền đình (NICE CG113 1.2.17, 1.2.23; QĐ 2058 Bài 22 mục 4.2–4.3; TL-0451 Bảng 3). Benzodiazepin dùng đều chấm sai (mhGAP 2023 ANX6; NICE 1.2.26).",
+     "Dưới 30 tuổi: khám lại trong 1 tuần, theo dõi hằng tuần suốt tháng đầu, rồi 2–4 tuần/lần trong 3 tháng đầu (NICE CG113 1.2.30, 1.2.32). Ngoài giờ không có máu nên không chờ kết quả; mốc hẹn 1 và 4 tuần là chọn của ca."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Escitalopram",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg mỗi ngày (khoảng liều 10–20 mg/ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Một lần mỗi ngày, cùng giờ; giờ cụ thể không có trong tài liệu đã tải",
+      "so_ngay": "Đánh giá sau 1 và 4 tuần; sau khi cải thiện duy trì ít nhất 6 tháng (QĐ 2058 Bài 22 mục 4.3) hoặc ít nhất 1 năm (NICE CG113 1.2.33)",
+      "ghi_chu": "QĐ 2058 Bài 22 mục 4.3, tr. 134–135; NICE CG113 1.2.23, 1.2.28, 1.2.30. Dùng ngoài chỉ định cho PPPD (TL-0451 Bảng 3). Hoặc sertralin 50 mg/ngày (QĐ 2058: 50–200 mg/ngày). Hai mốc duy trì khác năm và bối cảnh nên ghi cả hai."
+     }
+    ],
+    "dan_do": [
+     "Thuốc cần 1 tuần trở lên mới có tác dụng, lúc đầu có thể bồn chồn, mất ngủ; không tự ngưng. Có ý nghĩ tự hại hoặc bứt rứt dữ dội phải báo ngay; chị Ngân theo dõi giúp (NICE CG113 1.2.28, 1.2.30).",
+     "Ngưng hẳn viên tăng lực, nước tăng lực; cà phê một ly; đi bộ mỗi ngày, tập đối mặt chỗ đông tăng dần; ghi nhật ký (TL-0451 Bảng 3; QĐ 2058 Bài 22 mục 4.1).",
+     "Gọi lại sau 1 tuần, tái khám sau 4 tuần. Đi cấp cứu nếu cơn quay dữ dội, yếu liệt, nói khó, nhìn đôi, ngất (TL-0451 Bảng 1)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · sau 6 tuần dùng thuốc (không đỡ, bỏ lỡ hẹn tuần 4)",
+   "tiep_don": "Chị Ngân dẫn anh Hậu đến lúc 19 giờ 30; hẹn 4 tuần nhưng anh bỏ hẹn, hai tuần sau mới chịu đi. Anh gầy đi thấy rõ, râu lởm chởm, nói rất ít, mắt nhìn xuống; chị Ngân nói thay phần lớn: anh nghỉ làm hơn ba tuần, ở nhà gần như cả ngày. Anh chỉ nói 'em vẫn vậy, thuốc không thấy gì'. Sinh hiệu lúc tiếp đón (ngồi): mạch 80 l/p đều, HA 122/76 mmHg, nhiệt 36,6 °C, nhịp thở 16, SpO₂ 99%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Cho về, hẹn 4 tuần với đúng kế hoạch cũ: anh đã dùng thuốc 6 tuần mà vẫn nghỉ làm hơn ba tuần, GAD-7 15, PHQ-9 17. Giữ nguyên là kéo dài suy giảm chức năng, mất mối khoán, trầm cảm nặng thêm; NICE CG113 1.2.35: không đáp ứng thuốc cần can thiệp tâm lý cường độ cao hoặc đổi thuốc; TL-0451 Bảng 3 khuyến cáo chuyển neuro-otology. Anh đã bỏ một hẹn nên dễ mất theo dõi.",
+    "nhap_vien": "Nhập viện nội trú vì 'nặng': không ý nghĩ hay kế hoạch tự hại, không cờ đỏ thần kinh, sinh hiệu bình thường nên không có chỉ định (TL-0451 Bảng 1; QĐ 2058 Bài 22 mục 5). Anh mất thêm ngày công, thêm nhãn 'bệnh nặng chưa tìm ra' mà anh sợ, vẫn chưa có liệu pháp hành vi hay chỉnh thuốc do chuyên khoa."
+   },
+   "loi_mo": "Chào bác sĩ. Em vẫn vậy, uống thuốc sáu tuần không thấy gì hết. Em chưa làm lại được, vợ em đưa em đi.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "122/76",
+    "nhiet": "36,6",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Em vẫn lâng lâng như cũ, uống thuốc sáu tuần không thấy gì. Em không làm việc được, vợ em đưa em đi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám; không đỡ sau 6 tuần"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Escitalopram 10 mg uống buổi sáng. Tuần đầu bồn chồn, mất ngủ, buồn nôn nên em bỏ ngày, sau đó cứ nhớ thì uống; bỏ chừng một phần ba số ngày vì sợ 'nghiện thuốc tâm thần'. Không uống alprazolam hay thuốc ngủ. Viên tăng lực đã ngưng hẳn; nước tăng lực còn một lon mỗi ngày, cà phê hai ly.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dùng thuốc không đều, tác dụng kích hoạt tuần đầu, sợ lệ thuộc (NICE CG113 1.2.28, 1.2.31; QĐ 2058 Bài 22 mục 4.1)"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Không dấu mới (cơn quay, yếu liệt, nói khó, nhìn đôi, ngất, té). Hơn ba tuần nay anh không đứng máy cưa, không leo thang, chỉ ra xưởng giám sát rồi về; mất hai mối khoán, cậu học việc xin nghỉ. Anh tránh ra khỏi nhà trước chiều, ngại gặp hàng xóm; chị Ngân phải đi chợ, đón con. Hai lần anh sợ dữ dội 15–20 phút (tim đập mạnh, thở nhanh) khi bị người khác nhìn thấy mình choáng; không ngất.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Biến chứng: tránh né lan rộng, nghỉ làm (TL-0484 mục 4.4.3.1: tránh né vừa đến nặng có thể là ám ảnh sợ); không dấu mới, không cờ đỏ (TL-0451 Bảng 1)",
+     "dieu_kien_lo": "Chỉ lộ khi bác sĩ hỏi việc làm, sinh hoạt hằng ngày, thu nhập, hoặc hỏi riêng chị Ngân; hỏi anh 'có nặng hơn không' thì anh nói 'cũng vậy thôi'."
+    },
+    {
+     "id": "diem",
+     "noi_dung": "GAD-7 15 điểm; PHQ-9 17 điểm: chán nản gần như mỗi ngày, mất hứng thú, ngủ 3–4 giờ, sút 3 kg, thấy mình vô dụng với vợ con. Hỏi riêng câu 9: không ý nghĩ tự hại, không kế hoạch; anh nói 'nhiều lúc mệt quá nhưng không nghĩ chuyện dại dột'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "PHQ-9 ≥ 16 là trầm cảm nặng hơn trong định nghĩa của NICE NG222 2022 (TL-0585); GAD-7 ≥ 10 (USPSTF 2023); tự hại (QĐ 2058 Bài 22 mục 5, Bài 23 mục 3.1.1)"
+    }
+   ],
+   "kham": {
+    "hints_van_nhan": {
+     "a": "Không rung giật nhãn cầu; đẩy đầu hai bên mắt giữ được mục tiêu; che mắt luân phiên không lệch dọc. Giống hai lần trước.",
+     "k": 1,
+     "hien": "Nhìn thẳng và nhìn sang hai bên: không thấy nhãn cầu giật. Đẩy đầu nhanh sang phải và sang trái: mắt giữ được mục tiêu. Che mắt luân phiên: mắt không dịch chuyển dọc."
+    },
+    "dang_di_thang_bang": {
+     "a": "Romberg âm tính, nối gót được; bước ngắn, chậm, thận trọng, không loạng choạng, không té (TL-0484 mục 4.4.7).",
+     "k": 1,
+     "hien": "Đứng, quay người và đi nối gót được; bước ngắn, chậm."
+    },
+    "tam_than": {
+     "a": "Gầy đi, nói rất ít và chậm, khí sắc thấp rõ, thu mình, ít giao tiếp bằng mắt. Định hướng tốt, không hoang tưởng; hỏi riêng: không ý tưởng hay kế hoạch tự hại (QĐ 2058 Bài 22 mục 5).",
+     "k": 1
+    }
+   },
+   "cls": {},
+   "chan_doan": [
+    {
+     "t": "PPPD kèm lo âu chưa đáp ứng sau 6 tuần SSRI dùng không đều; biến chứng tránh né lan rộng, nghỉ làm, nghi giai đoạn trầm cảm (PHQ-9 17) cần chuyên khoa",
+     "ok": 1,
+     "n": "Tiêu chuẩn A–E vẫn đủ (TL-0484 mục 3); tránh né vừa đến nặng kèm lo lắng có thể là rối loạn ám ảnh sợ đồng mắc (mục 4.4.3.1); khi trầm cảm và lo âu đều nặng thì ưu tiên chẩn đoán trầm cảm (QĐ 2058 Bài 23 mục 3.1.1)."
+    },
+    {
+     "t": "Sai chẩn đoán: tiền đình thực thể, bệnh trung ương, loạn nhịp",
+     "n": "Ba lần khám HINTS, dáng đi, thần kinh bình thường, hai điện tim bình thường, không dấu mới (TL-0484 mục 4.4; TL-0451 Bảng 1)."
+    },
+    {
+     "t": "Thất bại do thuốc: không tuân thủ, liều chưa đủ, tác dụng phụ",
+     "n": "Uống khoảng hai phần ba số ngày, sợ lệ thuộc; 10 mg ở đầu khoảng 10–20 mg (QĐ 2058 Bài 22 mục 4.3); còn 1 lon nước tăng lực mỗi ngày."
+    },
+    {
+     "t": "Rối loạn hoảng sợ hoặc ám ảnh sợ nơi đông người kèm theo; nguyên nhân thực thể gây hạ khí sắc (cường giáp, thiếu máu)",
+     "n": "Hai cơn sợ dữ dội khi bị nhìn thấy mình choáng (TL-0484 mục 4.4.3.1), cần chuyên khoa phân loại. Chưa có máu, TSH (ngoài giờ; mạch 80, không triệu chứng giáp): chuyên khoa làm (QĐ 2058 Bài 22 mục 3.1.2, 3.2)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Xác định lý do không đáp ứng: bỏ chừng một phần ba số ngày thuốc vì sợ lệ thuộc và tác dụng phụ tuần đầu, còn nước tăng lực, bỏ hẹn tuần 4; không dấu mới nên giữ chẩn đoán",
+     "v": "c",
+     "n": "NICE CG113 1.2.28, 1.2.31; TL-0484 mục 4.3, 4.4.5."
+    },
+    {
+     "t": "Chuyển có hẹn, có giấy chuyển và tóm tắt (thuốc, thời gian dùng, GAD-7, PHQ-9, điện tim, khám tiền đình) khám tâm thần và phòng khám chóng mặt hoặc neuro-otology để phối hợp liệu pháp hành vi nhận thức cường độ cao, vật lý trị liệu tiền đình và chỉnh thuốc; không cấp cứu",
+     "v": "c",
+     "n": "TL-0451 Bảng 3 tr. S366–S367 (PPPD: chuyển neuro-otology hoặc phòng khám chóng mặt); NICE CG113 1.2.17, 1.2.35; QĐ 2058 Bài 23 mục 3.1.1. Tiêu chuẩn chuyển tuyến riêng cho ca này: không có trong tài liệu đã tải, là nhận định theo các nguồn trên."
+    },
+    {
+     "t": "Giữ escitalopram uống đều trong lúc chờ khám; giải thích khác benzodiazepin, không phải thuốc nghiện; không tự ngưng",
+     "v": "c",
+     "n": "QĐ 2058 Bài 22 mục 4.1 (hạn chế giải lo âu gây nghiện), 4.3 (duy trì ≥ 6 tháng); NICE CG113 1.2.28, 1.2.33 (≥ 1 năm); mhGAP 2023 ANX6."
+    },
+    {
+     "t": "Đánh giá an toàn: hỏi riêng ý nghĩ tự hại, dặn chị Ngân dấu hiệu cần đưa đi ngay, gọi lại sau 1 tuần",
+     "v": "c",
+     "n": "QĐ 2058 Bài 22 mục 5; NICE CG113 1.2.30 (dưới 30 tuổi). Đường dây hỗ trợ khủng hoảng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Ngưng nước tăng lực, cà phê còn 1 ly; quay lại việc xưởng từng bước (mặt đất trước, chưa máy cưa, thang) khi chuyên khoa cho phép",
+     "v": "a",
+     "n": "QĐ 2058 Bài 22 mục 4.3 (tránh chất kích thích); lộ trình quay lại việc: không có trong tài liệu đã tải, nhận định lâm sàng."
+    },
+    {
+     "t": "Tăng escitalopram lên 20 mg tại chỗ, hẹn 2 tuần, báo chuyên khoa sau",
+     "v": "a",
+     "n": "QĐ 2058 Bài 22 mục 4.3 (10–20 mg/24 giờ). Anh mới uống khoảng hai phần ba số ngày, chưa xử lý tránh né và trầm cảm."
+    },
+    {
+     "t": "Cho về, hẹn 4 tuần nữa với đúng kế hoạch cũ",
+     "v": "w",
+     "n": "NICE CG113 1.2.35; TL-0451 Bảng 3 tr. S366–S367: không đáp ứng, suy giảm chức năng nặng cần đổi bậc điều trị."
+    },
+    {
+     "t": "Kê benzodiazepin hoặc thuốc ngủ dùng đều để 'đỡ lo, ngủ được'",
+     "v": "w",
+     "n": "Sổ mục TT-0177: mhGAP 2023 ANX6; NICE CG113 1.2.26, 1.3.20."
+    },
+    {
+     "t": "Nhập viện nội trú hoặc chuyển cấp cứu vì 'nặng'",
+     "v": "w",
+     "n": "Không ý nghĩ tự hại, không cờ đỏ, sinh hiệu bình thường (TL-0451 Bảng 1; QĐ 2058 Bài 22 mục 5)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "PPPD kèm lo âu chưa đáp ứng sau 6 tuần SSRI dùng không đều (GAD-7 15)",
+     "Biến chứng: tránh né lan rộng, nghỉ làm hơn ba tuần, mất mối khoán, hai cơn sợ dữ dội; PHQ-9 17 nghi giai đoạn trầm cảm cần chuyên khoa",
+     "Không có dấu hiệu nguy cơ tự hại trực tiếp; chẩn đoán đích không đổi"
+    ],
+    "phan_tich_chan_doan": [
+     "Điểm gãy: nhà thuốc bán kháng sinh theo triệu chứng, không ai hỏi chức năng và chất kích thích; anh nói giảm nên người quanh coi là 'không nặng'; sau lượt 1 anh dùng lại chất kích thích, bỏ tập; thuốc lượt 2 uống không đều rồi bỏ hẹn tuần 4. Hậu quả: tránh né rộng, nghỉ làm, hạ khí sắc (TL-0484 mục 4.5: ba phần tư có lo âu hoặc trầm cảm đi kèm; mục 4.4.3.1).",
+     "Vẫn phải xem lại chẩn đoán: không dấu mới, HINTS, dáng đi, tim bình thường, không té (TL-0484 mục 4.4.7). PHQ-9 17 (≥ 16: nặng hơn theo NICE NG222), GAD-7 15 và suy giảm chức năng nặng nên không còn phù hợp chỉ ở tuyến cơ sở (NICE CG113 1.2.17; QĐ 2058 Bài 23)."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển có kế hoạch, không khẩn cấp: neuro-otology hoặc phòng khám chóng mặt cho PPPD (TL-0451 Bảng 3 tr. S366–S367) cộng tâm thần cho lo âu, trầm cảm, tránh né (NICE CG113 1.2.35). Gửi kèm tóm tắt, hẹn cụ thể, giữ liên lạc trong lúc chờ.",
+     "Giữ thuốc đều, khác benzodiazepin; duy trì sau cải thiện ít nhất 6 tháng (QĐ 2058 Bài 22 mục 4.3) hoặc 1 năm (NICE CG113 1.2.33). An toàn: hỏi riêng tự hại, nhờ vợ để mắt (QĐ 2058 Bài 22 mục 5; NICE CG113 1.2.30)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Escitalopram (giữ nguyên)",
+      "ham_luong": "10 mg",
+      "lieu": "10 mg mỗi ngày (khoảng liều 10–20 mg/ngày); chuyên khoa quyết định tăng liều",
+      "duong": "Uống",
+      "thoi_diem": "Một lần mỗi ngày, cùng giờ; giờ cụ thể không có trong tài liệu đã tải",
+      "so_ngay": "Kê đủ đến ngày hẹn chuyên khoa; duy trì ít nhất 6 tháng hoặc 1 năm sau cải thiện (ghi cả hai nguồn)",
+      "ghi_chu": "QĐ 2058 Bài 22 mục 4.3, tr. 134–135; NICE CG113 1.2.28, 1.2.33. Cách giảm liều và ngưng thuốc: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bệnh này điều trị được nhưng cần chuyên khoa phối hợp liệu pháp hành vi, tập tiền đình và chỉnh thuốc; chuyển không có nghĩa là bệnh nặng chưa tìm ra (TL-0451 Bảng 3).",
+     "Uống escitalopram đều mỗi sáng, không tự ngưng; khác thuốc an thần gây nghiện (QĐ 2058 Bài 22 mục 4.1). Bồn chồn, mất ngủ lúc đầu sẽ giảm; báo nếu có ý nghĩ tự hại (NICE CG113 1.2.28, 1.2.30).",
+     "Chị Ngân đưa anh đi ngay nếu anh nói muốn làm hại mình, ngất, hoặc có cơn quay dữ dội, yếu liệt, nói khó (QĐ 2058 Bài 22 mục 5; TL-0451 Bảng 1). Gọi lại sau 1 tuần (NICE CG113 1.2.30); mang giấy chuyển đến khám đúng hẹn."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Hậu được chuyển khám tâm thần và phòng khám chóng mặt ở bệnh viện tỉnh; chị Ngân đưa đi đúng hẹn. Sau 3 tháng liệu pháp hành vi nhận thức, tập tiền đình và escitalopram uống đều, GAD-7 còn 6, PHQ-9 còn 7; anh đứng lại máy cưa nửa buổi rồi trọn ngày, đi siêu thị cùng vợ, ngưng hẳn nước tăng lực. Điểm gãy của chuỗi: quầy thuốc bán kháng sinh cho chóng mặt không viêm tai, không ai hỏi chức năng và chất kích thích; anh nói giảm nên bị coi là 'không nặng'; sau lượt 1 anh dùng lại nước tăng lực, bỏ tập, bỏ hẹn tuần 4. Cái giá của gần năm tháng chưa điều trị là nghỉ làm hơn ba tuần, mất hai mối khoán và hạ khí sắc; không có tai nạn lao động hay ý nghĩ tự hại.",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: hỏi cảm giác ('có nặng không') cho 'hơi hơi'; chỉ câu hỏi chức năng (leo thang, máy cưa, đi chợ, ngày nghỉ làm) và người nhà mới cho mức độ thật, ở cả ba lượt.",
+  "Kháng sinh tự mua 3 ngày dễ gợi 'viêm tai trong' hoặc độc tiền đình; màng nhĩ bình thường, chóng mặt có trước thuốc, đó là amoxicillin–clavulanat chứ không phải aminozid.",
+  "Nỗi lo từ thông tin mạng khiến anh ngầm đòi chụp hình; viên tăng lực, nước tăng lực không được coi là thuốc; ngoài giờ không có máu nên quyết định bằng hỏi, khám, điện tim."
+ ],
+ "bai_hoc_bien": [
+  "PPPD là chẩn đoán dương tính theo tiêu chuẩn A–E; có thể khởi phát sau cơn hoảng sợ, bệnh cấp, thuốc hay thực phẩm chức năng (TL-0484 mục 3, 4.3, 4.4.5).",
+  "Người bệnh nói giảm nhẹ: dùng câu hỏi chức năng (leo thang, máy cưa, đi chợ, ngày nghỉ làm, thu nhập) và hỏi người nhà; hỏi cả thực phẩm chức năng, nước tăng lực (TL-0484 mục 3 tiêu chuẩn D, 4.4.5; NICE CG113 1.2.10, 1.2.11).",
+  "Ngoài giờ không kỹ thuật viên: không chờ máu mới xử trí; hỏi, khám HINTS, Dix–Hallpike, huyết áp tư thế, điện tim đủ để chẩn đoán an toàn (TL-0451 Khuyến cáo 5, 6; ESC SVT 2019 Bảng 7).",
+  "Không đỡ: đi qua sai chẩn đoán, không tuân thủ, sai thuốc, biến chứng, đề kháng. Điểm gãy ở ca này là không ai hỏi chức năng và chất kích thích từ đầu; SSRI dưới 30 tuổi cần khám lại trong 1 tuần (NICE CG113 1.2.30); không đáp ứng, suy giảm nặng thì chuyển có kế hoạch (TL-0451 Bảng 3; NICE CG113 1.2.35)."
+ ],
+ "diem_nho": [
+  "PPPD: chóng mặt, không vững hoặc chóng mặt không quay hầu hết các ngày ≥ 3 tháng; nặng khi đứng, vận động, kích thích thị giác; có yếu tố khởi phát; ảnh hưởng chức năng; không bệnh khác giải thích tốt hơn (TL-0484 mục 3). Té hoặc suýt té tái diễn gợi rối loạn dáng đi (mục 4.4.7).",
+  "GAD-7 ≥ 10: nhạy 0,79, đặc hiệu 0,89 (USPSTF 2023, TL-0581). PHQ-9 ≥ 10 sàng lọc dương tính (USPSTF 2023, TL-0582); ≥ 16 là trầm cảm nặng hơn (NICE NG222 2022, TL-0585).",
+  "PPPD điều trị nhiều mặt; thuốc chống nôn, chống chóng mặt không khuyến cáo; chuyển neuro-otology hoặc phòng khám chóng mặt (TL-0451 Bảng 3 tr. S366–S367). Benzodiazepin không khuyến cáo (mhGAP 2023 ANX6).",
+  "SSRI duy trì ít nhất 6 tháng (QĐ 2058 Bài 22 mục 4.3) hoặc ít nhất 1 năm (NICE CG113 1.2.33); dưới 30 tuổi theo dõi hằng tuần tháng đầu (1.2.30)."
+ ],
+ "nguon": [
+  "Staab JP và cs. 2017 – Diagnostic criteria for persistent postural-perceptual dizziness (PPPD), Bárány Society (J Vestib Res 27(4):191–208) – TL-0484 – mục 3, 4.3, 4.4.1–4.4.5, 4.4.7, 4.5.",
+  "Tarnutzer AA và cs. 2025 – Diagnosis and treatment of vertigo and dizziness: interdisciplinary guidance paper (HNO 73(Suppl 3):S357–S369) – TL-0451 – Khuyến cáo 2, 5, 6; Bảng 1 (S362–S363); Bảng 3 (S366–S367).",
+  "Bộ Y tế 2015 – QĐ 5643/QĐ-BYT, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – Chóng mặt mục 2.1b, 2.3a, 4.1.",
+  "Bộ Y tế 2020 – QĐ 2058/QĐ-BYT, Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp – TL-0443 – Bài 22 mục 3.1.2, 3.2, 4.1–4.3, 5 (tr. 132–135); Bài 23 mục 3.1.1.",
+  "NICE 2011 (cập nhật 2026) – Generalised anxiety disorder and panic disorder in adults (CG113) – TL-0598 – 1.2.10, 1.2.11, 1.2.17, 1.2.23, 1.2.24, 1.2.26, 1.2.28, 1.2.30–1.2.33, 1.2.35, 1.3.20.",
+  "WHO 2023 – mhGAP guideline for mental, neurological and substance use disorders – TL-0573 – ANX1, ANX2, ANX5, ANX6.",
+  "USPSTF 2023 – lo âu (TL-0581), trầm cảm và tự sát (TL-0582); NICE 2022 – NG222 (TL-0585).",
+  "Brugada J và cs. 2019 – ESC Guidelines for the management of patients with supraventricular tachycardia (Eur Heart J 41(5)) – TL-0687 – mục 8, Bảng 7, mục 9.1.1.",
+  "Bárány Society 2022 – Vascular vertigo and dizziness: diagnostic criteria – TL-0468 – thuật ngữ thiểu năng tuần hoàn hệ đốt sống–thân nền (theo sổ mâu thuẫn, TK-0271)."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28 (viết: Sonnet): ca 3 lượt, bản 1. Tài liệu đã đọc: TL-0484 (mục 3, 4.3, 4.4, 4.5), TL-0451 (Khuyến cáo 2, 5, 6, Bảng 1, 3), TL-0130 (Chóng mặt mục 2.1b, 2.3a), TL-0443 (Bài 22 mục 3–5; Bài 23 mục 3.1.1), TL-0598 (1.2.10–1.2.35, 1.3.20), TL-0573 (ANX1–6), TL-0581, TL-0582, TL-0585, TL-0687 (mục 8, Bảng 7, 9.1.1).",
+  "Thiếu tài liệu đã tải (ghi 'không có trong tài liệu đã tải' hoặc 'nhận định lâm sàng'): thành phần viên tăng lực; mức cà phê; ngưỡng POTS; bài tập tiền đình; an toàn lao động thợ mộc, lộ trình quay lại việc; liều khởi đầu SSRI cho PPPD; cách ngưng SSRI; tiêu chuẩn chuyển tuyến PPPD kèm trầm cảm; đường dây khủng hoảng; mốc hẹn 1 và 4 tuần là chọn của ca.",
+  "Mâu thuẫn đã có trong sổ, áp dụng: thuốc chống chóng mặt PPPD (TK-0572: a), benzodiazepin (TT-0177: w), SSRI (TK-0577), thiểu năng tuần hoàn ĐM cột sống–thân nền (TK-0271), thực phẩm chức năng không rõ thành phần: ngưng là c (TT-0192). Mâu thuẫn mới đề xuất: thời gian duy trì SSRI cho lo âu lan tỏa (QĐ 2058 ≥ 6 tháng, NICE CG113 1.2.33 ≥ 1 năm).",
+  "Thiết kế: nhiễu 'phủ nhận' ở điều kiện lộ của su_that giấu, vợ là nguồn bổ sung; ngoài giờ khóa xn, xquang, sieu_am (kéo theo CT, nội soi), còn điện tim, đường huyết mao mạch; biến chứng do bỏ sót là tránh né lan rộng, nghỉ làm, nghi trầm cảm (không dùng té vì té/suýt té không thuộc PPPD đơn thuần: TL-0484 mục 4.4.7). Không dùng ảnh da; tim dùng âm thanh bình thường (mạch 80–88 l/p)."
+ ]
+}
