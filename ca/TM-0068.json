@@ -1,0 +1,446 @@
+{
+ "ma_ca": "TM-0068",
+ "phien_ban_kho": "0.3",
+ "benh": "TM_viem_ket_mac_nhu_nhi",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm kết mạc (virus/vi khuẩn/dị ứng)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm màng bồ đào",
+   "Glôcôm cấp",
+   "Viêm giác mạc"
+  ],
+  "nhom_tuoi": "Nhũ nhi (1–12 tháng)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Đòi kháng sinh",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Xử trí ẩu nhưng may mắn không sao",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Trẻ nhũ nhi",
+  "yeu_to_khoi_phat": "Sau sinh",
+  "thuoc_dang_dung": "Thuốc giảm đau khớp tự mua (của mẹ)",
+  "ly_do_that_su_den_kham": "Lo lắng về khả năng sinh sản"
+ },
+ "benh_nhan": {
+  "ten": "Trần Bảo An",
+  "tuoi": 0.25,
+  "gioi": "Nữ",
+  "nghe": "Trẻ nhũ nhi",
+  "can_nang": 5.9,
+  "chieu_cao": 61,
+  "xung_ho": "Bé gái 3 tháng, chưa nói được, chỉ ê a, cười, khóc khi bị giữ đầu. Mẹ là người kể bệnh: bác sĩ gọi mẹ là 'chị', mẹ xưng 'em' hoặc 'tôi' với bác sĩ và gọi bé là 'con' hoặc 'cháu An'.",
+  "tinh_cach": "Mẹ 30 tuổi (chị Trần Thị Thu Hằng), nhân viên bán hàng trực tuyến, đang nghỉ thai sản, nói nhanh, sốt ruột, hay nghe lời hàng xóm và mẹ chồng. Bé tỉnh, cười, bú tốt, chớp mắt phải nhiều, nín khi mẹ bế. Chị ngại nói chuyện phụ khoa của mình.",
+  "kieu_nhieu": "Đòi kháng sinh: mẹ nói thẳng 'cho con uống kháng sinh cho nhanh khỏi', 'hàng xóm bảo bé nhỏ mà mắt có mủ là phải uống kháng sinh', dọa 'bác sĩ không kê thì tôi ra nhà thuốc mua'. Bác sĩ lặp lại 'không cần kháng sinh' thì mẹ càng đòi; mẹ chịu khi bác sĩ ghi nhận nỗi lo, nói rõ đang làm gì cho bé và đưa mốc tái khám. Mẹ cũng từ chối quẹt dịch mắt, làm test, nhưng cho khám và soi nhuộm giác mạc. Mẹ không tự kể thuốc của mình và lý do thật.",
+  "nguoi_nha": "Mẹ bé, chị Hằng, 30 tuổi, bế bé đi một mình. Mọi câu hỏi do mẹ trả lời; bé chỉ ê a và khóc. Chồng đi làm xa, bà nội ở cùng.",
+  "ten_nguoi_nha": "Mẹ bé (chị Hằng)",
+  "ngoai_hinh": {
+   "da": "#f3cfae",
+   "toc": "#2a1b14",
+   "kieuToc": "tre",
+   "ao": "#f4d3dc",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 0,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#ecc09b",
+    "toc": "#2a1b14",
+    "kieuToc": "dai",
+    "ao": "#b7c9e0",
+    "aoKieu": "so_mi",
+    "kinh": false,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Bé đỏ mắt phải, chảy ghèn vàng hai ngày",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bé gái 3 tháng, 5,9 kg, mẹ bế đến vì mắt phải đỏ và chảy ghèn vàng đặc hai ngày, sáng nay dính chặt mi. Sinh hiệu: nhiệt 36,8 °C, mạch 134 l/p, nhịp thở 38 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Bé An nhập viện nhi vì viêm kết mạc nhẹ là quá tay: bé bú tốt, không sốt, giác mạc trong, không đau; nhập viện bắt buộc chỉ cho viêm kết mạc sơ sinh (AAO Conjunctivitis PPP 2018, Provider and Setting). Mẹ bỏ ba ngày ở viện, bé tiếp xúc nhiều người bệnh, có thể bị kê kháng sinh toàn thân không cần (QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 4b), còn nỗi lo thật về khả năng sinh sản vẫn chưa ai hỏi tới.",
+    "chuyen_tuyen": "Chuyển bé lên bệnh viện mắt ngay là chưa cần: không giảm thị lực, không đau, mủ không nhiều, giác mạc không bắt màu fluorescein, chưa có tiêu chí chuyển (AAO Conjunctivitis PPP 2018, Provider and Setting). Mẹ tốn chi phí và một ngày công, bé có thể bị giữ đầu để lấy dịch dù mẹ đã từ chối, mẹ càng tin mắt con nặng và dễ bỏ tái khám sau đó."
+   },
+   "loi_mo": "Bác sĩ ơi, mắt con tôi đỏ với chảy ghèn vàng hai hôm nay rồi, sáng ra dính chặt mi luôn. Bác sĩ cho con uống kháng sinh cho nhanh khỏi nhé, hàng xóm bảo bé nhỏ mà có mủ là phải uống kháng sinh.",
+   "sinh_hieu": {
+    "mach": 134,
+    "ha": "Không đo",
+    "nhiet": "36,8",
+    "nhip_tho": 38,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Mắt phải của bé đỏ và chảy ghèn vàng đặc hai ngày nay, sáng nay dính chặt mi. Chị muốn bác sĩ cho bé uống kháng sinh cho nhanh hết.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và điều mẹ đòi"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Hai ngày trước mắt phải còn trong, chỉ ướt nước mắt như mọi khi. Đến chiều hôm kia bắt đầu đỏ, ghèn vàng đặc dần, nhiều nhất lúc ngủ dậy. Chỉ mắt phải, mắt trái bình thường.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát cấp, một mắt"
+    },
+    {
+     "id": "nuoc_mat",
+     "noi_dung": "Từ khoảng 6 tuần tuổi mắt phải của bé hay ướt nước mắt, thỉnh thoảng có ghèn trắng nhầy ở góc mắt, chị lau bằng bông là hết. Mắt trái thì không. Một tháng đầu sau sinh mắt bé không đỏ, không ghèn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ướt nước mắt một bên từ nhỏ: gợi ý tắc lệ đạo; mắt bình thường tháng đầu"
+    },
+    {
+     "id": "khong_sot",
+     "noi_dung": "Bé không sốt, không ho, không sổ mũi, không kéo tai, bú mẹ hoàn toàn và bú tốt, ngủ bình thường, tiểu tiện đủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có bệnh hô hấp, tai kèm theo"
+    },
+    {
+     "id": "khong_nang",
+     "noi_dung": "Bé không nheo mắt, không sợ ánh sáng, không quấy khóc khi mở mắt hay khi mẹ lau, vẫn nhìn theo mặt mẹ và đồ chơi. Mắt không đục, không thấy chấm trắng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có dấu hiệu tổn thương giác mạc, màng bồ đào, tăng nhãn áp"
+    },
+    {
+     "id": "tiep_xuc",
+     "noi_dung": "Bé chưa đi nhà trẻ. Trong nhà không ai đỏ mắt, chảy ghèn hay ho sốt. Chỉ mẹ và bà nội thay nhau bế.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiếp xúc người bệnh"
+    },
+    {
+     "id": "sinh",
+     "noi_dung": "Bé sinh thường, đủ tháng, 3,2 kg, xuất viện sau 2 ngày. Mẹ nhớ ở viện có tra thuốc mắt cho bé sau sinh. Tháng đầu bé không bị mắt đỏ, ghèn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử sinh, thời điểm khởi phát không khớp viêm kết mạc sơ sinh"
+    },
+    {
+     "id": "da_lam",
+     "noi_dung": "Chị mới lau mắt bé bằng nước muối sinh lý mua ở nhà thuốc, và vắt sữa mẹ nhỏ vào mắt hai lần hôm qua. Chưa nhỏ thuốc nào khác. Chị đang tính nếu bác sĩ không kê thì ghé nhà thuốc mua thuốc nhỏ mắt có kháng sinh, 'cho chắc'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Việc đã làm và ý định tự mua thuốc"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Nếu bác sĩ định quẹt dịch mắt, lấy mẫu gửi xét nghiệm hay làm test nhanh thì chị từ chối: 'Con bé xíu, chạm vào mắt lỡ trầy thì sao, tôi không cho lấy gì hết'. Chị vẫn cho khám, soi mắt và nhỏ thuốc nhuộm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Ràng buộc: người nhà từ chối xét nghiệm; quyền tự quyết, ghi hồ sơ, phương án B"
+    },
+    {
+     "id": "di_ung",
+     "noi_dung": "Bé không chàm, không dụi mắt, không hắt hơi, không ngứa. Nhà không ai bị dị ứng.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Loại trừ dị ứng"
+    },
+    {
+     "id": "tiem_chung",
+     "noi_dung": "Bé tiêm chủng theo lịch, không phản ứng gì đáng kể.",
+     "che_do": "khi_hoi",
+     "k": 0
+    },
+    {
+     "id": "thuoc_me",
+     "noi_dung": "Chị uống một viên 'thuốc giảm đau khớp' mua ở nhà thuốc mỗi sáng khi đau ngón cái và cổ tay từ lúc bế con. Chị không nhớ tên thuốc, vỏ vỉ để ở nhà. Chị vẫn cho bé bú mẹ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi mẹ có đang uống thuốc gì khi cho bé bú, hoặc hỏi sức khỏe của mẹ. Hỏi chung 'có thuốc gì' về bé thì nói 'bé chưa uống thuốc gì'.",
+     "k": 1,
+     "y": "Thuốc đang dùng của mẹ đang cho con bú"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Ba tuần nay chị bị khí hư vàng, hơi ngứa, tự mua thuốc đặt âm đạo dùng mấy hôm rồi đỡ. Mẹ chồng nói 'con đau mắt là bị lây bệnh phụ khoa từ mẹ, bệnh đó làm mẹ khó có con nữa'. Chị muốn có thêm con và sợ mình bị viêm nhiễm làm hỏng khả năng sinh sản, nên vừa lo vừa xấu hổ không dám hỏi thẳng.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi điều gì làm chị lo nhất, vì sao hôm nay chị quyết định đến khám ngay, hay hỏi chị nghĩ do đâu mà bé bị. Hỏi chung chung về bé thì chị chỉ nói 'tôi lo con mù'.",
+     "k": 1,
+     "y": "Động cơ thật: sợ bệnh của mình lây cho con và ảnh hưởng khả năng sinh sản"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Bé tỉnh, cười, bú tốt, môi hồng, da niêm hồng, không mất nước. Cân nặng 5,9 kg.",
+     "k": 0
+    },
+    "mat": {
+     "a": "Mắt phải: mi hơi sưng nhẹ, ghèn vàng đặc đọng ở bờ mi và góc trong, kết mạc nhãn cầu cương tụ lan tỏa nhẹ, không phù kết mạc, không giả mạc, không xuất huyết dưới kết mạc, không mụn nước ở mi. Giác mạc trong, đồng tử tròn đều, phản xạ ánh sáng tốt. Mắt trái bình thường. Bé nhìn theo mặt mẹ, che từng mắt không quấy, không nheo mắt khi chiếu đèn.",
+     "k": 1,
+     "hien": "Mắt phải đỏ nhẹ, mi hơi sưng, ghèn vàng đặc dính bờ mi và góc trong. Mắt trái bình thường. Bé nhìn theo mặt mẹ, không nheo mắt khi chiếu đèn."
+    },
+    "giac_mac_fluorescein": {
+     "a": "Nhỏ fluorescein, soi đèn xanh: giác mạc hai mắt trong, không bắt màu, không ổ thâm nhiễm.",
+     "k": 1,
+     "hien": "Soi giác mạc hai mắt sau nhỏ fluorescein."
+    },
+    "le_dao": {
+     "a": "Ấn túi lệ phải: chất nhầy mủ vàng trào ra điểm lệ; vùng túi lệ không sưng, nóng, đỏ, bé không phản ứng đau. Túi lệ trái: không trào.",
+     "k": 1,
+     "hien": "Ấn nhẹ vùng túi lệ hai bên, quan sát điểm lệ."
+    },
+    "dau_mat_co": {
+     "a": "Không sờ thấy hạch trước tai hai bên. Không sưng đỏ quanh hốc mắt, mắt không lồi, vận nhãn đủ.",
+     "k": 1,
+     "hien": "Sờ vùng trước tai, quanh hốc mắt."
+    },
+    "hong_tai_mui": {
+     "a": "Mũi sạch, họng bình thường, màng nhĩ hai bên bình thường.",
+     "k": 1,
+     "hien": "Khám họng, mũi, tai."
+    },
+    "da": {
+     "a": "Da mặt và mi không mụn nước, không loét, không chàm, không ban.",
+     "k": 1,
+     "hien": "Quan sát da mặt, mi, quanh mắt."
+    },
+    "nhan_ap": {
+     "a": "Bé quấy khi bị giữ đầu nên không đo được nhãn áp. Dấu hiệu gián tiếp không gợi ý tăng nhãn áp: giác mạc trong, không phù, nhãn cầu hai bên cân xứng, đồng tử tròn, bé không nheo mắt sợ sáng. Với viêm kết mạc cấp, cân nhắc hoãn đo nhãn áp khi không thật cần (AAO Conjunctivitis PPP 2018, Prevention).",
+     "k": 0,
+     "hien": "Quan sát nhãn cầu, giác mạc, đồng tử hai mắt."
+    },
+    "nhan_tram_tre": {
+     "a": "Cân nặng 5,9 kg, chiều dài 61 cm.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "phet_ket_mac": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Chị Hằng từ chối: 'Con bé xíu, ngoáy mắt lỡ trầy thì sao.' Đã giải thích một lần; ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: nhuộm Gram, cấy dịch kết mạc ít giúp chọn thuốc ở viêm kết mạc thường, chỉ cần khi nghi nhiễm khuẩn sơ sinh, tái phát, nặng, mạn hoặc không đáp ứng thuốc (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Cultures, Smears/Cytology). Bé 3 tháng, thể nhẹ, nên chưa có chỉ định. Chị từ chối: tôn trọng, giải thích một lần, ghi hồ sơ, phương án B lâm sàng với tái khám 3–4 ngày; nếu không đỡ thì xin lại (thủ tục ghi từ chối: không có trong tài liệu đã tải)."
+    },
+    "test_adeno": {
+     "v": "a",
+     "ab": 0,
+     "r": "(Chị Hằng từ chối quẹt dịch mắt làm test nhanh. Ghi nhận từ chối vào hồ sơ.)",
+     "n": "Không bắt buộc: test nhanh adenovirus độ nhạy 88–89%, độ đặc hiệu 91–94% (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Viral Diagnostic Tests); bé không sốt, không hạch trước tai, ghèn mủ đặc, nên ít nghĩ virus. Chị từ chối: không ép."
+    },
+    "crp": {
+     "n": "Không có chỉ định: bé khỏe, không sốt, không dấu hiệu nhiễm khuẩn toàn thân."
+    },
+    "ctm": {
+     "n": "Không có chỉ định: viêm kết mạc khu trú, bé không sốt, bú tốt."
+    },
+    "naat_sti": {
+     "n": "Xét nghiệm này không dành cho bé: viêm kết mạc Chlamydia sơ sinh khởi phát 5–19 ngày sau sinh, lậu cầu 1–7 ngày (AAO Conjunctivitis PPP 2018, Bảng 1), bé khởi phát sau 3 tháng, tháng đầu mắt bình thường. Vấn đề phụ khoa của mẹ cần khám riêng."
+    },
+    "ct_hoc_mat": {
+     "n": "Không có chỉ định: không lồi mắt, không hạn chế vận nhãn, không sưng đỏ lan quanh hốc mắt."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm kết mạc cấp mắt phải nghiêng về vi khuẩn, nhũ nhi 3 tháng, trên nền nghi tắc lệ đạo bẩm sinh",
+     "ok": 1,
+     "n": "Một mắt, ghèn vàng đặc, đỏ nhẹ, không sốt, không hạch trước tai, không dấu hiệu virus; nhũ nhi nghĩ thể vi khuẩn, thường kèm tắc lệ đạo (AAO Conjunctivitis PPP 2018, Bảng 1: Bacterial nongonococcal, Infant). Ướt nước mắt một bên từ 6 tuần, ấn túi lệ trào nhầy mủ nhưng túi lệ không sưng đỏ (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 2, 3a). Không có xét nghiệm: chẩn đoán lâm sàng, chưa loại hẳn virus."
+    },
+    {
+     "t": "Viêm kết mạc do virus (adenovirus, herpes simplex)",
+     "n": "Kém khớp: adenovirus hay có hạch trước tai, thường kèm viêm hô hấp trên (bé không có) (AAO Conjunctivitis PPP 2018, Bảng 1; QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 3a). Không mụn nước ở mi (dấu HSV, Bảng 1). Không loại hẳn vì chưa xét nghiệm; cách xử trí chính giống nhau (lau mắt, theo dõi, không corticoid)."
+    },
+    {
+     "t": "Viêm kết mạc Chlamydia hoặc lậu cầu (nhiễm từ mẹ khi sinh)",
+     "n": "Thời điểm không khớp: Chlamydia sơ sinh khởi phát 5–19 ngày sau sinh, lậu cầu 1–7 ngày; lậu cầu có mủ rất nhiều, phù mi nặng (AAO Conjunctivitis PPP 2018, Bảng 1; QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 3d). Bé 3 tháng, mắt bình thường tháng đầu, mới đỏ hai ngày. Cần nghĩ lại nếu ghèn mủ nhiều, mi phù nặng hoặc kéo dài nhiều tuần."
+    },
+    {
+     "t": "Viêm túi lệ cấp",
+     "n": "Túi lệ không sưng, nóng, đỏ, không đau; chỉ ấn trào nhầy mủ (viêm túi lệ cấp: vùng túi lệ sưng nóng đỏ, QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 3a). Là nền cần theo dõi, chưa phải viêm túi lệ cấp."
+    },
+    {
+     "t": "Viêm kết mạc dị ứng",
+     "n": "Không ngứa, không dụi mắt, mi và kết mạc không phù nề mọng nước, ghèn mủ vàng đặc chứ không phải tiết tố nhầy; dị ứng mùa/quanh năm thường hai mắt (AAO Conjunctivitis PPP 2018, Bảng 1; QĐ 40/QĐ-BYT 2015, Viêm kết mạc dị ứng cấp tính mục 3a, 3d)."
+    },
+    {
+     "t": "Viêm giác mạc",
+     "n": "Giác mạc trong, không bắt màu fluorescein, bé không nheo mắt sợ sáng; viêm loét giác mạc có đau, sợ ánh sáng, cương tụ rìa, ổ loét bắt màu (QĐ 40/QĐ-BYT 2015, Viêm loét giác mạc do vi khuẩn mục 3a)."
+    },
+    {
+     "t": "Viêm màng bồ đào trước",
+     "n": "Không cương tụ rìa, đồng tử tròn đều, phản xạ tốt, bé không quấy sợ ánh sáng (viêm màng bồ đào trước: nhìn mờ, đau, sợ ánh sáng, cương tụ rìa, đồng tử co, QĐ 40/QĐ-BYT 2015, Bệnh viêm màng bồ đào trước cấp tính mục 3a)."
+    },
+    {
+     "t": "Glôcôm cấp",
+     "n": "Không đau nhức dữ dội, không nôn, giác mạc trong, không phù, đồng tử không giãn méo (glôcôm góc đóng cấp: đau nhức, nhìn mờ, giác mạc phù, đồng tử giãn méo, QĐ 40/QĐ-BYT 2015, Glôcôm góc đóng nguyên phát mục 3a). Bệnh này xảy ra ở người lớn có cấu trúc mắt đặc biệt; tuổi nhũ nhi: không có trong tài liệu đã tải."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Lau mắt phải bằng gạc hoặc bông sạch thấm natri clorid 0,9%, từ góc trong ra ngoài, mỗi lần một miếng, rửa tay trước và sau",
+     "v": "c",
+     "n": "QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 4b: rửa mắt bằng nước muối sinh lý 0,9% để loại ghèn, mủ; WHO Pocket book 2013, mục 3.12.2: dạy mẹ rửa mắt, mẹ rửa tay trước và sau. Số lần mỗi ngày: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không nhỏ kháng sinh, lau mắt và tái khám 3–4 ngày (AAO Conjunctivitis PPP 2018, Treatment – Bacterial, thể nhẹ: thường tự giới hạn, dùng kháng sinh nhỏ là quyết định từng người) HOẶC tobramycin 0,3% nhỏ mắt phải 1–2 giọt mỗi 4 giờ lúc bé thức, 5–7 ngày (QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 4b: aminoglycosid; AAO Conjunctivitis PPP 2018: đợt 5–7 ngày; liều nhũ nhi: nguồn bổ sung tự tìm)",
+     "v": "c",
+     "n": "Hai nguồn khác nhau về kháng sinh nhỏ mắt, cả hai đều đúng (sổ mâu thuẫn, mục TM-0072 và TM-0096). AAO Conjunctivitis PPP 2018 nói thể nhẹ tự giới hạn ở người lớn nhưng 'có thể tiến triển biến chứng ở trẻ em' (Bảng 1), nên nếu không dùng thuốc phải hẹn tái khám sát. Không dùng fluoroquinolon uống; không dùng thuốc phối hợp corticoid."
+    },
+    {
+     "t": "Giải thích vì sao không cần kháng sinh uống hay tiêm, rồi đưa tiêu chí đưa bé quay lại ngay",
+     "v": "c",
+     "n": "QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 4b: kháng sinh toàn thân chỉ dùng cho lậu cầu, bạch hầu; AAO Conjunctivitis PPP 2018, Treatment: tránh dùng kháng sinh bừa vì có thể gây độc. Tiêu chí chuyển nhãn khoa: giảm thị lực, đau vừa hoặc nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng, tái phát (AAO Conjunctivitis PPP 2018, Provider and Setting)."
+    },
+    {
+     "t": "Hỏi động cơ thật của mẹ, giải thích bệnh mắt hiện tại không phải kiểu nhiễm từ mẹ khi sinh, hẹn mẹ khám phụ khoa riêng vì khí hư",
+     "v": "c",
+     "n": "Thời điểm khởi phát không khớp viêm kết mạc sơ sinh (AAO Conjunctivitis PPP 2018, Bảng 1: Chlamydia 5–19 ngày, lậu cầu 1–7 ngày sau sinh). Khám và xử trí khí hư của mẹ: không có trong tài liệu đã tải. Nỗi lo khả năng sinh sản chỉ trả lời đúng bằng việc mẹ được khám riêng; không hứa 'không sao' khi chưa khám mẹ."
+    },
+    {
+     "t": "Ghi nhận từ chối xét nghiệm, giải thích một lần, tôn trọng, chuyển sang phương án lâm sàng có mốc tái khám",
+     "v": "c",
+     "n": "Chị Hằng từ chối lấy dịch kết mạc và test nhanh. Xét nghiệm không bắt buộc ở thể nhẹ (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Cultures) nên phương án B an toàn: theo dõi lâm sàng, hẹn lại, xin lại mẫu nếu không đỡ. Thủ tục ghi từ chối: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn tái khám sau 3–4 ngày nếu chưa đỡ, ngay khi có dấu hiệu nặng",
+     "v": "c",
+     "n": "AAO Conjunctivitis PPP 2018, Treatment – Bacterial Conjunctivitis: dặn quay lại sau 3–4 ngày nếu không đỡ; WHO Pocket book 2013, mục 3.12.2: tái khám sau 48 giờ nếu không đỡ (ghi cho trẻ nhỏ dưới 2 tháng)."
+    },
+    {
+     "t": "Rà thuốc giảm đau khớp mẹ tự mua khi đang cho bú: xem lại vỏ thuốc với bác sĩ hoặc dược sĩ",
+     "v": "c",
+     "n": "Thuốc không rõ tên, mẹ đang cho bú: thông tin thuốc giảm đau khớp trong thời gian cho con bú không có trong tài liệu đã tải. Cần biết tên thuốc trước khi kết luận."
+    },
+    {
+     "t": "Hướng dẫn vệ sinh: rửa tay xà phòng, khăn và gối riêng, không chạm mắt bé khi tay bẩn",
+     "v": "a",
+     "n": "AAO Conjunctivitis PPP 2018, Prevention (đoạn về adenovirus): rửa tay bằng xà phòng và nước, dùng khăn riêng, tránh tiếp xúc gần trong thời gian lây."
+    },
+    {
+     "t": "Rửa mắt bằng nước sạch hoặc sữa mẹ lau nhẹ",
+     "v": "a",
+     "n": "WHO Pocket book 2013, mục 3.12.2: rửa mắt bằng nước hoặc sữa mẹ (ghi cho trẻ nhỏ dưới 2 tháng). Nước muối 0,9% theo QĐ 40/QĐ-BYT 2015 là lựa chọn chính."
+    },
+    {
+     "t": "Báo mẹ ướt nước mắt một bên có thể do tắc lệ đạo, hẹn khám nhãn khoa khi hết viêm",
+     "v": "a",
+     "n": "QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 2, 4b: viêm túi lệ thường thứ phát sau tắc ống lệ mũi bẩm sinh, thông lệ đạo chỉ định cho tắc lệ đạo bẩm sinh. Thời điểm thông và xoa bóp túi lệ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Cho bé uống kháng sinh (ví dụ amoxicillin) để 'mắt nhanh khỏi'",
+     "v": "w",
+     "n": "QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 4b: toàn thân chỉ cho lậu cầu, bạch hầu; AAO Conjunctivitis PPP 2018, Treatment: tránh kháng sinh bừa. Không có chỉ định, thêm tác dụng phụ."
+    },
+    {
+     "t": "Nhỏ thuốc phối hợp kháng sinh–corticoid, hoặc corticoid nhỏ mắt",
+     "v": "w",
+     "n": "AAO Conjunctivitis PPP 2018, Socioeconomic Considerations: thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp; Treatment: corticoid có thể kéo dài nhiễm adenovirus và làm nặng herpes simplex. QĐ 40/QĐ-BYT 2015, mục 4b: thận trọng corticoid."
+    },
+    {
+     "t": "Giữ đầu bé, lấy dịch kết mạc dù mẹ từ chối",
+     "v": "w",
+     "n": "Xét nghiệm không bắt buộc ở thể nhẹ (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Cultures); ép buộc làm mất lòng tin và bỏ tái khám."
+    },
+    {
+     "t": "Nhập viện hoặc chuyển bác sĩ nhãn khoa ngay",
+     "v": "w",
+     "n": "Không đủ tiêu chí: giác mạc trong, không đau, không mủ nhiều; nhập viện bắt buộc chỉ cho viêm kết mạc sơ sinh (AAO Conjunctivitis PPP 2018, Provider and Setting); bé 3 tháng."
+    },
+    {
+     "t": "Cho bé uống fluoroquinolon (ciprofloxacin, ofloxacin) để thay thuốc nhỏ",
+     "v": "h",
+     "n": "QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 4b: fluoroquinolon chống chỉ định cho trẻ em dưới 16 tuổi (dạng uống); QĐ 708/QĐ-BYT 2015, mục 4.2 tương tự."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm kết mạc cấp mắt phải nghiêng về vi khuẩn, nhũ nhi 3 tháng, trên nền nghi tắc lệ đạo bẩm sinh",
+     "Chưa tổn thương giác mạc; không dấu hiệu viêm màng bồ đào hay glôcôm",
+     "Chưa loại hẳn virus vì mẹ từ chối xét nghiệm: chẩn đoán lâm sàng",
+     "Không phải viêm kết mạc sơ sinh do Chlamydia, lậu cầu: thời điểm khởi phát không khớp",
+     "Vấn đề phụ: mẹ có khí hư kéo dài và lo lắng về khả năng sinh sản, mẹ đang uống thuốc giảm đau khớp khi cho bú (cần xem lại)"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: lý do và thời điểm khởi phát; một hay hai mắt; tính chất ghèn; ho sốt, tai mũi họng; tiếp xúc; tiền sử sinh, mắt tháng đầu; thuốc đã nhỏ; thuốc của mẹ; hỏi mẹ lo điều gì (AAO Conjunctivitis PPP 2018, Diagnosis – History). Khám: mắt, giác mạc nhuộm fluorescein, túi lệ, hạch trước tai, tai mũi họng, da mặt.",
+     "Vì sao nghiêng về vi khuẩn: một mắt, đỏ nhẹ, ghèn vàng đặc dính mi, không sốt, không ho sổ mũi, không hạch trước tai (AAO Conjunctivitis PPP 2018, Bảng 1). Nhũ nhi bị viêm kết mạc vi khuẩn thường có tắc lệ đạo (Bảng 1: Infant); ở bé này ướt nước mắt một bên từ 6 tuần, ấn túi lệ trào nhầy mủ.",
+     "Vì sao là không điển hình: bệnh cảnh cấp trên nền tắc lệ đạo, mắt chỉ đỏ nhẹ nhưng mẹ kể 'đỏ ngầu'; mẹ cứ tưởng viêm kết mạc lây từ nhiễm trùng của mẹ. Dễ bỏ qua nền tắc lệ đạo nếu chỉ nhìn mắt đỏ; viêm túi lệ mạn có chảy nước mắt thường xuyên, mủ nhầy (QĐ 40/QĐ-BYT 2015, Viêm túi lệ mục 3a).",
+     "Loại trừ bệnh nặng: fluorescein âm, không cương tụ rìa, đồng tử bình thường, bé không sợ ánh sáng, không nôn (QĐ 40/QĐ-BYT 2015, Viêm loét giác mạc do vi khuẩn mục 3a; Viêm màng bồ đào trước mục 3a; Glôcôm góc đóng nguyên phát mục 3a). Nhũ nhi không khai được đau: quan sát bé nheo mắt, quay mặt, quấy khi mở mắt.",
+     "Viêm kết mạc Chlamydia sơ sinh khởi phát 5–19 ngày sau sinh, lậu cầu 1–7 ngày (AAO Conjunctivitis PPP 2018, Bảng 1): bé khởi phát ở 3 tháng nên không khớp. Câu hỏi 'mẹ có bệnh phụ khoa lây cho con không' vì thế không đúng thời điểm, nhưng khí hư của mẹ vẫn cần được khám riêng.",
+     "Động cơ thật: mẹ sợ bệnh phụ khoa của mình lây cho con và làm mình khó có con, nên đòi 'thuốc mạnh' để chắc chắn. Chỉ lộ khi hỏi mẹ lo điều gì nhất. Không hỏi ra thì dù bé khỏi, mẹ vẫn lo và có thể đi mua thuốc mạnh."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh nhỏ mắt: hai cách đều đúng. AAO Conjunctivitis PPP 2018 cho thể nhẹ có thể không dùng hoặc dùng 5–7 ngày; QĐ 40/QĐ-BYT 2015 mục 4b dùng aminoglycosid. Vì AAO ghi thể vi khuẩn ở trẻ em có thể tiến triển biến chứng (Bảng 1), nên dù chọn không dùng thuốc vẫn phải hẹn tái khám 3–4 ngày.",
+     "Kháng sinh uống: không có chỉ định (QĐ 40/QĐ-BYT 2015, mục 4b); fluoroquinolon chống chỉ định dưới 16 tuổi. Thuốc phối hợp kháng sinh–corticoid chống chỉ định (AAO Conjunctivitis PPP 2018, Socioeconomic Considerations).",
+     "Từ chối kháng sinh uống mà vẫn giữ lòng tin: ghi nhận lo lắng của mẹ, nói rõ điều đang làm cho bé (lau mắt, thuốc nhỏ phù hợp nếu mẹ muốn, hẹn khám lại), giải thích thuốc uống không vào mắt tốt hơn mà thêm tác dụng phụ, đưa tiêu chí quay lại. Mẹ không bị từ chối trống không.",
+     "Mẹ từ chối xét nghiệm: tôn trọng, giải thích một lần, ghi hồ sơ, không ép. Cấy và nhuộm Gram không thường quy ở thể nhẹ (AAO Conjunctivitis PPP 2018, Diagnostic Tests – Cultures); xin lại mẫu khi không đỡ sau 3–4 ngày hoặc khi có dấu hiệu nặng. Thủ tục pháp lý ghi từ chối: không có trong tài liệu đã tải.",
+     "Tiêu chí chuyển nhãn khoa hoặc nhập viện: giảm thị lực, đau vừa hoặc nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng, tái phát (AAO Conjunctivitis PPP 2018, Provider and Setting). Nhập viện bắt buộc chỉ cho viêm kết mạc sơ sinh.",
+     "Mẹ: hỏi tên thuốc giảm đau khớp (vỏ thuốc); thông tin thuốc này khi cho bú không có trong tài liệu đã tải nên không tự kết luận. Khí hư kéo dài: hẹn khám phụ khoa riêng, không bàn khả năng sinh sản khi chưa có kết quả khám."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý) và gạc, bông sạch",
+      "ham_luong": "0,9%",
+      "lieu": "Lau mắt phải từ góc trong ra ngoài, mỗi lần một miếng gạc",
+      "duong": "Lau mắt",
+      "thoi_diem": "Mỗi khi có ghèn, nhất là buổi sáng và sau ngủ",
+      "so_ngay": "Đến khi hết ghèn",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 4b. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Tobramycin nhỏ mắt (tùy chọn: dùng theo QĐ 40/2015; AAO 2018 cho phép không dùng ở thể nhẹ)",
+      "ham_luong": "0,3%",
+      "lieu": "1–2 giọt vào mắt phải",
+      "duong": "Nhỏ mắt",
+      "thoi_diem": "Mỗi 4 giờ lúc bé thức",
+      "so_ngay": "5–7 ngày",
+      "ghi_chu": "QĐ 40/QĐ-BYT 2015, Viêm kết mạc cấp mục 4b (aminoglycosid); AAO Conjunctivitis PPP 2018, Treatment – Bacterial: 5–7 ngày. Liều nhũ nhi: nguồn bổ sung tự tìm, https://drugs.com/dosage/tobramycin-ophthalmic.html (theo sổ mâu thuẫn, TM-0096; chưa mở lại được lượt này). Không dùng kháng sinh thì bỏ dòng này. Hỏi dị ứng aminoglycosid trước khi nhỏ."
+     }
+    ],
+    "dan_do": [
+     "Lời thoại gợi ý với mẹ: 'Em hiểu chị lo cho con. Mắt bé là viêm kết mạc nhẹ, chưa chạm giác mạc, bé vẫn nhìn theo chị và bú tốt. Kháng sinh uống không vào mắt tốt hơn thuốc lau và nhỏ tại chỗ mà còn dễ gây rối loạn tiêu hóa cho bé, nên em không kê. Em sẽ hẹn khám lại sau 3–4 ngày, và nếu bé có dấu hiệu em dặn thì chị đưa đến ngay.' (cách nói gợi ý, không phải nguồn)",
+     "Lau hết ghèn bằng gạc thấm nước muối 0,9%, mỗi lần một miếng, rửa tay xà phòng trước và sau (QĐ 40/QĐ-BYT 2015, mục 4b; AAO Conjunctivitis PPP 2018, Prevention). Khăn, gối riêng. Không tự mua thuốc nhỏ mắt có thành phần 'thuốc đỏ' hay corticoid cho bé (AAO Conjunctivitis PPP 2018, Socioeconomic Considerations).",
+     "Đưa bé đến ngay nếu mắt đục hoặc có chấm trắng, bé quấy nheo mắt sợ sáng, mi sưng đỏ lan rộng, mủ nhiều, nhìn không theo vật, bỏ bú, sốt (AAO Conjunctivitis PPP 2018, Provider and Setting; QĐ 40/QĐ-BYT 2015, Viêm loét giác mạc mục 3a).",
+     "Tái khám sau 3–4 ngày nếu chưa đỡ (AAO Conjunctivitis PPP 2018, Treatment – Bacterial); nếu đỡ, hẹn khám lại nền tắc lệ đạo khi mắt yên. Nếu cần lấy dịch để xét nghiệm lúc đó, bác sĩ sẽ giải thích lại.",
+     "Mẹ mang vỏ thuốc giảm đau khớp đến cho bác sĩ hoặc dược sĩ xem khi đang cho bú; không tự đổi thuốc. Khí hư ba tuần của mẹ nên được khám phụ khoa riêng; bệnh mắt của bé hiện tại không phải là bằng chứng mẹ bị bệnh phụ khoa lây sang (thời điểm khởi phát không khớp, AAO 2018 Bảng 1). Khả năng sinh sản của mẹ: không có trong tài liệu đã tải, cần bác sĩ phụ khoa đánh giá."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hằng ra về chịu lau mắt, nhưng nửa đường ghé nhà thuốc mua lọ nhỏ mắt phối hợp kháng sinh–corticoid 'cho chắc', nhỏ cho bé ba ngày và bỏ buổi tái khám. Mắt bé hết đỏ, hết ghèn vào ngày thứ năm, không giác mạc nào bị tổn thương. May là bé không có herpes simplex hay adenovirus nặng: AAO 2018 ghi thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp. Kết cục tốt không biến việc nhỏ corticoid tự ý thành đúng; điều làm ca này an toàn là bác sĩ đã hỏi ra nỗi lo thật và đặt mốc tái khám, còn mẹ thì không làm theo.",
+ "nhieu": [
+  "Mẹ đòi kháng sinh uống vì hàng xóm bảo bé nhỏ thì phải uống: kháng sinh toàn thân không có chỉ định ở viêm kết mạc thể nhẹ (QĐ 40/QĐ-BYT 2015, mục 4b). Cách từ chối giữ lòng tin nằm ở lời thoại và mốc tái khám.",
+  "Mẹ chồng nói 'đau mắt là lây bệnh phụ khoa từ mẹ': thời điểm khởi phát không khớp viêm kết mạc sơ sinh (AAO Conjunctivitis PPP 2018, Bảng 1). Không phải bằng chứng mẹ có bệnh, nhưng khí hư của mẹ vẫn cần khám.",
+  "Mẹ tự uống thuốc giảm đau khớp không rõ tên khi đang cho bú: dữ kiện để hỏi, không liên quan trực tiếp bệnh mắt của bé; thông tin thuốc không có trong tài liệu đã tải."
+ ],
+ "bai_hoc_bien": [
+  "Đòi kháng sinh: không từ chối trống không. Ghi nhận nỗi lo, nói điều đang làm, đưa mốc tái khám 3–4 ngày và dấu hiệu quay lại.",
+  "Bệnh nhân từ chối xét nghiệm: tôn trọng quyền tự quyết, giải thích một lần, ghi vào hồ sơ, có phương án B (theo dõi lâm sàng, xin lại mẫu nếu không đỡ).",
+  "Không điển hình: mắt đỏ nhẹ trên nền ướt nước mắt một bên từ nhỏ. Hỏi và ấn túi lệ mới thấy nền tắc lệ đạo.",
+  "Động cơ thật là nỗi lo khả năng sinh sản của mẹ, không phải mắt bé. Hỏi 'chị lo điều gì nhất'.",
+  "Xử trí ẩu nhưng may mắn không sao: mẹ nhỏ thuốc phối hợp corticoid tự ý mà không biến chứng. Kết cục tốt không hợp thức hóa quy trình sai."
+ ],
+ "diem_nho": [
+  "Viêm kết mạc Chlamydia sơ sinh khởi phát 5–19 ngày sau sinh, lậu cầu 1–7 ngày; nhũ nhi viêm kết mạc vi khuẩn thường kèm tắc lệ đạo, viêm tai giữa hoặc viêm họng (AAO Conjunctivitis PPP 2018, Bảng 1).",
+  "Viêm kết mạc vi khuẩn thể nhẹ thường tự giới hạn ở người lớn nhưng có thể tiến triển biến chứng ở trẻ em; kháng sinh nhỏ 5–7 ngày là quyết định từng người; dặn quay lại sau 3–4 ngày nếu không đỡ (AAO 2018, Bảng 1; Treatment – Bacterial).",
+  "Tránh kháng sinh và corticoid bừa; thuốc phối hợp kháng sinh–corticoid chống chỉ định trong viêm kết mạc cấp (AAO 2018, Treatment; Socioeconomic Considerations). Fluoroquinolon uống chống chỉ định dưới 16 tuổi (QĐ 40/QĐ-BYT 2015, mục 4b).",
+  "Tiêu chí chuyển nhãn khoa: giảm thị lực, đau vừa hoặc nặng, mủ nhiều, tổn thương giác mạc, không đáp ứng, tái phát; nhập viện bắt buộc cho viêm kết mạc sơ sinh (AAO 2018, Provider and Setting)."
+ ],
+ "nguon": [
+  "AAO – Conjunctivitis Preferred Practice Pattern 2018 (Ophthalmology 2019;126(1):P94-P169) – TL-0266 – Bảng 1 (Adenoviral, HSV, Bacterial nongonococcal, Gonococcal, Chlamydial, Infant); Diagnostic Tests (Cultures, Viral, Smears); Prevention; Treatment – Bacterial (Mild); Provider and Setting; Socioeconomic Considerations",
+  "BYT – QĐ 40/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị các bệnh về mắt – TL-0242 – Viêm kết mạc cấp (mục 3, 4b); Viêm kết mạc dị ứng cấp tính (mục 3); Viêm túi lệ (mục 2, 3a, 4b); Viêm loét giác mạc do vi khuẩn (mục 3a); Bệnh viêm màng bồ đào trước cấp tính (mục 3a); Glôcôm góc đóng nguyên phát (mục 3a)",
+  "BYT – QĐ 708/QĐ-BYT 2015, Hướng dẫn sử dụng kháng sinh – TL-0015 – Sử dụng kháng sinh trong nhãn khoa (mục 2.5, 2.6); Viêm kết mạc cấp (mục 4.1, 4.2)",
+  "WHO Pocket book of hospital care for children 2013 – TL-0250 – mục 3.12.2 Conjunctivitis (tr. 66)",
+  "Nguồn bổ sung tự tìm: liều tobramycin nhỏ mắt 0,3% cho trẻ từ 2 tháng, https://drugs.com/dosage/tobramycin-ophthalmic.html (theo sổ mâu thuẫn, ca TM-0096; lượt này không mở lại được trang)"
+ ],
+ "phien_ban_ca": "1 – soát nguồn với bản chữ (2026-11-28)",
+ "ghi_chu_bien_tap": [
+  "2026-11-28 – bản 1: viết theo đặc tả sổ cái TM-0068 (nhũ nhi 3 tháng, 1 lượt, không điển hình, đòi kháng sinh, từ chối xét nghiệm, xử trí ẩu nhưng may mắn, khởi phát sau sinh, mẹ dùng thuốc giảm đau khớp, lý do thật là lo khả năng sinh sản).",
+  "Tài liệu đã đọc: TL-0266 (Bảng 1, Diagnostic Tests, Prevention, Treatment, Provider and Setting, Socioeconomic), TL-0242 (Viêm kết mạc cấp, Viêm túi lệ, Viêm MBĐ trước, Glôcôm góc đóng, Viêm loét giác mạc vi khuẩn), TL-0015 (nhãn khoa, viêm kết mạc cấp), TL-0250 (mục 3.12.2). TL-0555 thực là Dry Eye PPP, không dùng.",
+  "Thiếu tài liệu: liều tobramycin nhỏ mắt cho nhũ nhi (lấy theo sổ mâu thuẫn TM-0096, drugs.com, chưa mở lại); tắc lệ đạo bẩm sinh ở nhũ nhi (tuổi thông, xoa bóp túi lệ); glôcôm bẩm sinh; thuốc giảm đau khớp khi cho bú; khí hư sau sinh và khả năng sinh sản; thủ tục ghi từ chối xét nghiệm.",
+  "Kháng sinh nhỏ mắt (AAO 2018 và QĐ 40/2015): theo mục TM-0072 và TM-0096, ghi cả hai trong một mục xu_tri c; kháng sinh uống w, fluoroquinolon uống h, thuốc phối hợp corticoid w."
+ ]
+}
