@@ -1,0 +1,918 @@
+{
+ "ma_ca": "TT-0383",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-28)",
+ "benh": "TT_roi_loan_luong_cuc_theo_doi",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn lưỡng cực (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "Trầm cảm đơn cực",
+   "Cường giáp"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Kể lể lộn xộn",
+  "rang_buoc_nguon_luc": "Chỉ có xét nghiệm cơ bản",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "nghe_nghiep": "Nội trợ (nam, ở nhà trông con nhỏ)",
+  "yeu_to_khoi_phat": "Không rõ yếu tố khởi phát",
+  "thuoc_dang_dung": "Thuốc hạ áp đang dùng (amlodipin)",
+  "ly_do_that_su_den_kham": "Giấu triệu chứng thật vì ngại ngùng"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Quốc Bảo",
+  "tuoi": 26,
+  "gioi": "Nam",
+  "nghe": "Nội trợ: ở nhà trông con trai 14 tháng tuổi, nấu ăn, dọn nhà; vợ là công nhân may. Trước đây làm nhân viên kho, nghỉ việc cách đây 2 năm",
+  "can_nang": 66,
+  "chieu_cao": 171,
+  "xung_ho": "Anh xưng 'em', gọi bác sĩ là 'bác sĩ', gọi vợ là 'vợ em'. Bác sĩ gọi anh là 'anh Bảo'. Với vợ ở lượt 2: bác sĩ gọi 'chị Nhàn'.",
+  "tinh_cach": "Bình thường hiền, ít nói, hay ngại. Mấy ngày nay nói nhanh, cười nhiều, ngồi không yên, nhảy từ chuyện này sang chuyện khác. Rất sợ bị cho là 'thần kinh' vì chú ruột từng nằm viện tâm thần.",
+  "kieu_nhieu": "Kể lể lộn xộn: hỏi mở thì anh đi từ huyết áp sang con ho, chợ, bạn rủ làm ăn, mẹ vợ rồi quay lại huyết áp; không tự nêu mốc thời gian. Câu hỏi đóng, từng ý một ('mấy giờ ngủ', 'mấy giờ thức', 'có mệt không') hoặc bác sĩ tóm tắt rồi hỏi tiếp thì anh trả lời gọn và đúng; bác sĩ nói 'để em hỏi từng việc một nhé' thì anh chịu, ngắt cộc thì anh nói nhanh và nhiều hơn. Anh tin tất cả là do huyết áp.",
+  "nguoi_nha": "Vợ, chị Nhàn, 25 tuổi, công nhân may. Lượt 1 chị đi làm nên không đi cùng. Lượt 2 chị đưa anh đến, kể rõ mọi việc khi được hỏi cụ thể; chị lo, hơi giận vì chuyện tiền.",
+  "ten_nguoi_nha": "Chị Nhàn (vợ)",
+  "ngoai_hinh": {
+   "da": "#c9996f",
+   "toc": "#1c1713",
+   "kieuToc": "ngan",
+   "ao": "#7b8f5a",
+   "aoKieu": "phong",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#d3a47c",
+    "toc": "#1f1814",
+    "kieuToc": "buoc",
+    "ao": "#a35a4b",
+    "aoKieu": "thun"
+   }
+  }
+ },
+ "ly_do_kham": "Mấy hôm nay ngủ ít, hồi hộp, nóng người, sợ huyết áp lên lại; xin đo huyết áp và xin thuốc ngủ",
+ "khoa_cls": {
+  "nhom": [
+   "xquang",
+   "sieu_am"
+  ],
+  "loi_bao": "Phòng khám tư nhân ở thị trấn chỉ làm xét nghiệm cơ bản (công thức máu, sinh hóa nền gồm đường huyết, ure, creatinin, điện giải, men gan, tổng phân tích nước tiểu, test nhanh ma túy nước tiểu) và điện tim. Không có X-quang, siêu âm, CT, nội soi; không làm TSH, FT4 (lấy máu gửi labo bệnh viện huyện, kết quả sau khoảng 3 ngày). Khoa tâm thần bệnh viện tỉnh cách 45 km."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 26 tuổi, ở nhà trông con trai 14 tháng, đến khám một mình lúc 9 giờ sáng. Anh nói mấy hôm nay ngủ ít, hồi hộp, nóng người, sợ huyết áp lên lại, xin đo huyết áp và xin thuốc ngủ. Anh có tăng huyết áp, đang uống amlodipin 5 mg mỗi sáng từ năm kia. Sinh hiệu lúc tiếp đón: mạch 80 l/p, HA 134/84 mmHg, nhiệt 36,8 °C, nhịp thở 18 l/p, SpO₂ 99%, cân nặng 66 kg, cao 171 cm.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Anh Bảo còn tự chăm con, hợp tác, không loạn thần, không có ý tưởng hại mình hay người khác, nên chưa có chỉ định nhập viện; nhập viện dành cho mức nặng (QĐ 2058/2020 Bài 18 mục 4.1, Bài 19 mục 4.1). Nằm viện tâm thần ngay làm anh xấu hổ đúng điều anh sợ nhất vì chú ruột từng nằm viện, vợ phải nghỉ làm để trông con 14 tháng, anh dễ từ chối quay lại, và mất cơ hội xây lòng tin để vợ cùng theo dõi tại nhà (NICE CG185 2014, 1.3.2).",
+    "chuyen_tuyen": "Chuyển khám chuyên khoa là hướng chấp nhận được và không nguy hiểm (NICE CG185 2014, 1.2.1), nhưng chuyển ngay trong ngày khi chưa nói rõ bệnh với anh làm anh có cảm giác bị coi là 'điên'. Bệnh viện tỉnh cách 45 km, anh đi một mình, vợ chưa biết chuyện, nhiều khả năng anh bỏ giữa chừng; mất một ngày công của vợ để đưa đi, trong khi chưa có hồ sơ xét nghiệm nền và chưa có người nhà bổ sung bệnh sử (NICE CG185 2014, 1.3.2)."
+   },
+   "loi_mo": "Chào bác sĩ. Mấy hôm nay em ngủ không được, người cứ rạo rực, tim hồi hộp, em sợ huyết áp lại lên. À mà hôm qua con em ho, rồi em phải đi chợ nữa, bạn em còn rủ làm ăn… Bác sĩ đo lại giùm em huyết áp, cho em xin ít thuốc ngủ với.",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "134/84",
+    "nhiet": "36,8",
+    "nhip_tho": 18,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Khai: mấy hôm nay ngủ không được, người rạo rực, hồi hộp, nóng người, sợ huyết áp lên lại; xin đo huyết áp và xin thuốc ngủ. Nói lan sang con ho, đi chợ, bạn rủ làm ăn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khai (huyết áp, mất ngủ) khác lý do thật"
+    },
+    {
+     "id": "ngu_it",
+     "noi_dung": "Khoảng 9 ngày nay ngủ 3 đến 4 giờ/đêm, 4 giờ sáng đã tỉnh táo hẳn. Không mệt, không buồn ngủ ban ngày, thấy 'khỏe hơn bình thường'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi chung 'sao mất ngủ' anh nói 'tại huyết áp'. Chỉ nói ra khi hỏi từng việc: mấy giờ nằm, mấy giờ thức, hôm sau có mệt không.",
+     "k": 1,
+     "y": "Giảm nhu cầu ngủ nhưng không mệt: khác mất ngủ thông thường (BYT Bài 18 mục 3.1 B)"
+    },
+    {
+     "id": "nang_luong",
+     "noi_dung": "Hay dậy 2 đến 3 giờ sáng lau nhà, sắp tủ, lên kế hoạch bán hàng online. Nói nhiều, hay cười; vợ bảo 'nói như đài'. Nhiều ý tưởng, bỏ dở việc này sang việc khác.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'ban đêm không ngủ thì anh làm gì', 'dạo này anh khác ngày thường chỗ nào', hoặc 'vợ nhận xét gì'.",
+     "k": 1,
+     "y": "Tăng hoạt động, nói nhiều, tư duy dồn dập, hay đổi kế hoạch"
+    },
+    {
+     "id": "cau_gat",
+     "noi_dung": "Tuần này cáu hơn: quát vợ ba lần vì chuyện nhỏ, quát khi con khóc rồi hối hận. Trước nay anh hiền, ít to tiếng. Chưa động tay chân.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'có hay nóng nảy, cãi nhau hơn thường không'.",
+     "k": 1,
+     "y": "Dễ cáu gắt, khí sắc thay đổi"
+    },
+    {
+     "id": "tieu_tien",
+     "noi_dung": "Anh vừa đặt một lô hàng 12 triệu đồng trên mạng để bán lại, lấy từ tiền vợ đưa đi chợ và tiền để dành; chưa nói với vợ. Nghĩ 'kiếm lời nhanh lắm'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi thẳng, nhẹ nhàng, về tiền bạc, mua sắm, kế hoạch làm ăn; không lỡ lời khi hỏi chung.",
+     "k": 1,
+     "y": "Tiêu pha liều lĩnh (BYT Bài 18 mục 3.1 B), động cơ ẩn: ngại nói"
+    },
+    {
+     "id": "khoi_dau",
+     "noi_dung": "Bắt đầu khoảng 9 ngày trước, tăng dần. Không nhớ chuyện đặc biệt: không cãi lớn, không mất người thân, không đổi thuốc, không rượu nhiều. Không ma túy; cà phê tăng từ 2 lên 3 đến 4 ly/ngày 'sợ mệt' nhưng thực tế không mệt.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có yếu tố khởi phát rõ; mốc thời gian"
+    },
+    {
+     "id": "tram_cam_truoc",
+     "noi_dung": "Hai năm trước, sau khi nghỉ việc ở kho, anh buồn, nằm nhiều, chán ăn khoảng 3 tháng rồi tự đỡ, không đi khám. Anh nghĩ 'chỉ là chán đời'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'trước đây có lần nào buồn kéo dài, chán, nằm nhiều không'.",
+     "k": 1,
+     "y": "Giai đoạn trầm cảm trong quá khứ (BYT Bài 19 mục 3.1.1)"
+    },
+    {
+     "id": "hung_nhe_truoc",
+     "noi_dung": "Khoảng 1 năm trước, sau khi hết buồn, có 1 đến 2 tuần ngủ ít, nhiều năng lượng, đòi mở quán cà phê, nói nhiều rồi tự hết; vợ tưởng anh 'khỏe lại'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nhớ ra khi hỏi 'có lúc nào ngủ ít mà vẫn khỏe, nhiều ý tưởng, vui bất thường không, kể cả lúc trước' (không hỏi thì anh nghĩ đó là bình thường).",
+     "k": 1,
+     "y": "Giai đoạn hưng nhẹ trong quá khứ: nền tảng chẩn đoán lưỡng cực"
+    },
+    {
+     "id": "gia_dinh",
+     "noi_dung": "Chú ruột (em của bố) hai lần nằm viện tâm thần vì 'nổi cơn, tiêu tiền, không ngủ'. Cả họ ngại nhắc. Anh sợ mình giống chú.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'trong họ có ai bị bệnh thần kinh, tâm thần, tự tử không'.",
+     "k": 1,
+     "y": "Tiền sử gia đình, đồng thời là lý do ngại"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Lý do thật: anh sợ nói ngủ ít mà không mệt, tiêu tiền, cáu gắt thì bị cho là 'thần kinh' như chú nên chỉ nói huyết áp và mất ngủ. Nếu bác sĩ nói đây là bệnh chữa được và giữ kín thì anh kể hết.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Lộ ra khi bác sĩ nói rõ đây là bệnh khí sắc chữa được, không phải 'điên', rồi hỏi nhẹ 'có điều gì anh ngại nói ra không'.",
+     "k": 1,
+     "y": "Động cơ ẩn: giấu triệu chứng thật vì ngại"
+    },
+    {
+     "id": "tu_hai",
+     "noi_dung": "Không ý nghĩ tự tử hay hại ai, không nghe tiếng nói, không nghĩ bị theo dõi. Anh hơi bất ngờ rồi cười: 'Em vui thấy mồ'.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi thẳng về ý nghĩ tự hại, tiếng nói, nghi ngờ bị theo dõi.",
+     "k": 1,
+     "y": "Đánh giá nguy cơ, không loạn thần (NICE CG185 1.3.5)"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Không sụt cân (66 kg như 3 tháng trước), không tiêu chảy, không run tay, không mắt lồi, không vã mồ hôi. 'Nóng người' chỉ khi nghĩ nhiều.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Hướng loại cường giáp bằng lâm sàng (ATA 2016, B1)"
+    },
+    {
+     "id": "thuoc_ha_ap",
+     "noi_dung": "Phát hiện huyết áp 145/95 lúc khám sức khỏe xin việc năm kia, uống amlodipin 5 mg mỗi sáng đều. Ở nhà đo 130 đến 135/80 đến 85. Không thuốc nào khác, không thuốc bổ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Thuốc đang dùng; không giải thích triệu chứng"
+    },
+    {
+     "id": "nhieu_ha",
+     "noi_dung": "Anh tin 'huyết áp lên nên mới ngủ không được, tim hồi hộp'; ở nhà đo 5 đến 6 lần/ngày thấy 134 đến 138/84 đến 88; cứ quay lại chuyện này khi bị hỏi việc khác.",
+     "che_do": "khi_hoi",
+     "nhieu": 1,
+     "k": 0,
+     "y": "Neo vào huyết áp: huyết áp ở mức điều trị tốt không giải thích được giảm nhu cầu ngủ"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, vẻ phấn chấn, da hồng, không vã mồ hôi. Cân nặng 66 kg, cao 171 cm.",
+     "k": 0,
+     "hien": "Tỉnh, nhanh nhẹn, hơi ngồi không yên."
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân, không đau. Không hạch cổ.",
+     "k": 1,
+     "hien": "Tuyến giáp không to, không hạch."
+    },
+    "mat": {
+     "a": "Mắt không lồi, không hở mi, không phù quanh mắt, vận nhãn bình thường.",
+     "k": 1,
+     "hien": "Mắt không lồi, vận nhãn bình thường."
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, khoảng 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, thở đều.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "run_nghi": {
+     "a": "Không run tay khi duỗi thẳng tay, không run lưỡi, phản xạ gân xương bình thường.",
+     "k": 1,
+     "hien": "Không run."
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng tốt, không dấu thần kinh khu trú, đồng tử đều, phản xạ gân xương bình thường.",
+     "k": 0,
+     "hien": "Không dấu thần kinh khu trú."
+    },
+    "tam_than": {
+     "a": "Tiếp xúc tốt, hợp tác nhưng nói nhanh và nhiều, có lúc nhảy sang chuyện khác nhưng ngắt được và quay lại được. Khí sắc phấn chấn nhẹ, dễ cười, hơi dễ cáu khi bị ngắt lời. Kể nhiều kế hoạch bán hàng, tự tin quá mức nhưng chưa thành hoang tưởng. Không hoang tưởng, không ảo giác, không ý tưởng tự sát hay tự hại, không ý định hại người. Định hướng và trí nhớ tốt. Nhận biết một phần: biết 'ngủ ít' nhưng cho là do huyết áp.",
+     "k": 1,
+     "hien": "Hợp tác, nói nhanh và nhiều, ngắt được, hơi hưng phấn; chưa thấy dấu hiệu loạn thần."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,8 G/L · Hb 150 g/L · TC 248 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58.0,
+      "neu": 3.94,
+      "lym_pct": 33.0,
+      "lym": 2.24,
+      "mono_pct": 6.5,
+      "mono": 0.44,
+      "eos_pct": 2.0,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 5.2,
+      "hgb": 150,
+      "hct": 0.45,
+      "mcv": 87.0,
+      "mch": 28.8,
+      "mchc": 333,
+      "rdw": 13.0,
+      "plt": 248
+     },
+     "n": "Bình thường; xét nghiệm nền (QĐ 2058/2020 Bài 18 mục 3.3.1; CANMAT 2018 mục 8.1 Bảng 23)."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose máu 5,0 mmol/L",
+     "bang": {
+      "glu": 5.0
+     },
+     "n": "Loại rối loạn đường huyết; nền trước thuốc chống loạn thần (QĐ 2058/2020 Bài 18 mục 3.3.4)."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,5 mmol/L · Creatinin 78 µmol/L · eGFR 118 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.5,
+      "creat": 78,
+      "egfr": 118
+     },
+     "n": "Thận bình thường, cần cho thuốc chỉnh khí sắc sau này (mhGAP 2023 PSY7 Remarks; NICE CG185 2014, 1.10.14)."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 140 · K 4,0 · Cl 103 mmol/L",
+     "bang": {
+      "na": 140,
+      "k": 4.0,
+      "cl": 103
+     },
+     "n": "Điện giải bình thường (CANMAT 2018 Bảng 23)."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 26 · ALT 28 U/L",
+     "n": "Men gan bình thường, làm nền (QĐ 2058/2020 Bài 18 mục 3.3.4)."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Không protein · Không glucose · Không hồng cầu",
+     "n": "Bình thường; không đổi xử trí."
+    },
+    "ma_tuy_nt": {
+     "v": "u",
+     "r": "Test nhanh ma túy nước tiểu: âm tính benzodiazepine, opioid, amphetamin, THC",
+     "n": "Loại hưng cảm do chất (QĐ 2058/2020 Bài 18 mục 3.3.1; CANMAT 2018 mục 3.3.1). Khớp lời anh phủ nhận."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang 80 l/p, trục trung gian, PR 150 ms, QRS 90 ms, QTc 410 ms. Không ST chênh.",
+     "n": "ECG nền trước thuốc chống loạn thần (NICE CG185 2014, 1.10.6)."
+    },
+    "glu_mm": {
+     "v": "n",
+     "r": "5,4 mmol/L",
+     "n": "Bình thường."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "(Phòng khám không làm được TSH, FT4. Có thể lấy máu gửi labo bệnh viện huyện, kết quả sau khoảng 3 ngày.)",
+     "n": "Cần để loại cường giáp: TSH bình thường loại trừ (ATA 2016, mục B2; QĐ 2058/2020 Bài 18 mục 3.3.1). Cơ sở không làm được: loại trừ bằng lâm sàng và gửi mẫu; kết quả sau 3 ngày, chưa có hôm nay."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Giai đoạn hưng cảm nhẹ (F30.0), nghi rối loạn lưỡng cực hiện tại giai đoạn hưng cảm nhẹ (F31.0); cần theo dõi để khẳng định",
+     "ok": 1,
+     "n": "Khí sắc tăng, giảm nhu cầu ngủ không mệt, tăng hoạt động, nói nhiều, tiêu pha, dễ cáu, khoảng 9 ngày; trước đó có trầm cảm 3 tháng và một đợt hưng nhẹ ngắn (QĐ 2058/2020 Bài 18 mục 3.1 B, C; Bài 19 mục 3.1.1). Mức nhẹ vì còn trông con, không loạn thần (Bài 18 mục 4.1). Ngưỡng số ngày riêng cho hưng nhẹ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Trầm cảm đơn cực",
+     "n": "Loại: hiện không trầm; quá khứ có hưng nhẹ nên không thể là trầm cảm đơn cực (QĐ 2058/2020 Bài 20 mục 3.1.1; Bài 19 mục 3.2). Thuốc chống trầm cảm đơn độc có thể gây hại (CANMAT 2018 mục 8.3 Bảng 24 chú thích b)."
+    },
+    {
+     "t": "Cường giáp (nhiễm độc giáp)",
+     "n": "Loại trên lâm sàng, chờ TSH: mạch 80, không run, không sụt cân, giáp không to, mắt không lồi (ATA 2016, mục B1); TSH là test đầu tay (mục B2). Phòng khám không làm TSH nên gửi mẫu."
+    },
+    {
+     "t": "Rối loạn khí sắc do chất (ma túy kích thích, rượu, cà phê, thuốc)",
+     "n": "Loại: test ma túy nước tiểu âm tính, bia như cũ, không thuốc gây hưng (QĐ 2058/2020 Bài 18 mục 3.2, 3.3.1). Cà phê tăng nhẹ không giải thích được ít ngủ mà không mệt."
+    },
+    {
+     "t": "Mất ngủ không thực tổn (F51)",
+     "n": "Loại: mất ngủ thật gây mệt ban ngày; anh ngủ 3 đến 4 giờ nhưng tràn năng lượng (QĐ 2058/2020 Bài 27)."
+    },
+    {
+     "t": "Tăng huyết áp chưa kiểm soát gây hồi hộp, mất ngủ",
+     "n": "Loại: HA 134/84 khi đang điều trị không giải thích giảm nhu cầu ngủ, tiêu pha. Người lưỡng cực có tăng huyết áp cần điều trị theo hướng dẫn tăng huyết áp (NICE CG185 2014, 1.2.13)."
+    },
+    {
+     "t": "Tâm thần phân liệt hoặc rối loạn loạn thần khác",
+     "n": "Loại ở lượt này: không hoang tưởng, không ảo giác, ngắt được (QĐ 2058/2020 Bài 18 mục 3.1 D, 3.2; NICE CG185 2014, 1.3.3)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi lại từng việc một cho đúng thứ tự (giờ ngủ, mệt không, làm gì ban đêm, tiền bạc, trước đây có lúc buồn kéo dài hoặc lúc quá khỏe không, gia đình), không tin hoàn toàn lý do 'huyết áp'",
+     "v": "c",
+     "n": "NICE CG185 2014, 1.3.2; QĐ 2058/2020 Bài 19 mục 3.1.1; CANMAT 2018 mục 2.2.4."
+    },
+    {
+     "t": "Khám thực thể loại cường giáp và đánh giá nguy cơ (tự hại, hại người, tiêu tiền, lái xe, trông con)",
+     "v": "c",
+     "n": "ATA 2016 mục B1; NICE CG185 2014, 1.3.5 (nguy cơ tự hại, tiêu tiền, lái xe, quan hệ gia đình)."
+    },
+    {
+     "t": "Làm xét nghiệm nền (công thức máu, đường huyết, ure creatinin, điện giải, men gan, nước tiểu, test ma túy nước tiểu); lấy máu gửi TSH vì phòng khám không làm được",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 18 mục 3.3.1; CANMAT 2018 mục 8.1 Bảng 23; ATA 2016 mục B2."
+    },
+    {
+     "t": "Nói rõ đây là rối loạn khí sắc nghi lưỡng cực, chữa được, giữ kín; mời vợ cùng tham gia từ lần sau",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 19 mục 4.2.4; CANMAT 2018 mục 2.6.1; mời người nhà kể thêm (NICE CG185 2014, 1.3.2)."
+    },
+    {
+     "t": "Kê thuốc chống trầm cảm (vì tiền sử buồn kéo dài hai năm trước)",
+     "v": "h",
+     "n": "Thuốc chống trầm cảm đơn độc không dùng trong lưỡng cực I, ngưng nếu có hưng cảm (CANMAT 2018 mục 3.3.1, mục 8.3 Bảng 24 chú thích b; NICE CG185 2014, 1.5.2)."
+    },
+    {
+     "t": "Kê thuốc ngủ (benzodiazepin hoặc nhóm Z) cho anh ngủ được",
+     "v": "w",
+     "n": "Ít ngủ là triệu chứng hưng, che triệu chứng không chữa nguyên nhân; benzodiazepin chỉ phối hợp trong phác đồ hưng cảm (QĐ 2058/2020 Bài 19 mục 4.2.1a)."
+    },
+    {
+     "t": "Kê lithium hoặc valproat khởi đầu tại phòng khám",
+     "v": "w",
+     "n": "Không định lượng lithium, không làm TSH: mhGAP 2023 (PSY7 Remarks) tránh lithium khi không có xét nghiệm, chỉ dưới giám sát chuyên khoa; NICE CG185 2014 1.2.7, 1.2.8 không khởi lithium, valproat ở tuyến cơ bản; nam dưới 55 tuổi valproat chỉ khi hai chuyên gia đồng thuận (Box 1, MHRA)."
+    },
+    {
+     "t": "Cho về, hẹn tái khám sau 1 tuần kèm giới thiệu khám chuyên khoa tâm thần sớm, hoặc khởi thuốc chống loạn thần liều thấp ngoại trú vì mức nhẹ rồi hẹn tái khám 1 tuần",
+     "v": "c",
+     "n": "Hai cách theo hai nguồn (sổ mâu thuẫn 'hưng cảm nhẹ nghi lưỡng cực'): NICE CG185 2014, 1.2.1 cân nhắc chuyển chuyên khoa khi hoạt động quá mức từ 4 ngày, 1.2.2 chuyển khẩn khi nghi hưng cảm; QĐ 2058/2020 Bài 18 mục 4.1 cho điều trị ngoại trú mức nhẹ và chỉ định sớm thuốc chống loạn thần, chỉnh khí sắc; mhGAP 2023 PSY7 7.1. Khác do bối cảnh và nguồn lực."
+    },
+    {
+     "t": "Dặn nhật ký giấc ngủ và khí sắc, giờ ngủ cố định, bỏ cà phê, nước tăng lực, rượu; hoãn quyết định tài chính lớn; dấu hiệu phải quay lại ngay",
+     "v": "c",
+     "n": "NICE CG185 2014, 1.5.1; CANMAT 2018 mục 3.3.1 (ngưng cà phê, rượu), mục 2.2.4 (nhật ký khí sắc)."
+    },
+    {
+     "t": "Nhập viện tâm thần ngay hôm nay",
+     "v": "w",
+     "n": "Nhập viện cho mức nặng, nguy cơ (QĐ 2058/2020 Bài 18 mục 4.1, Bài 19 mục 4.1); anh còn tự chăm con, không loạn thần."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Giai đoạn hưng cảm nhẹ (F30.0) nghi trong rối loạn lưỡng cực (F31.0): khí sắc tăng, giảm nhu cầu ngủ không mệt, tăng hoạt động, nói nhiều, tiêu pha, dễ cáu, khoảng 9 ngày (QĐ 2058/2020 Bài 18 mục 3.1; Bài 19 mục 3.1.1).",
+     "Tiền sử trầm cảm khoảng 3 tháng cách 2 năm và hưng nhẹ ngắn cách 1 năm; chú ruột nằm viện tâm thần. Chưa loạn thần, chưa ý tưởng tự hại; nguy cơ: tiêu tiền, cáu gắt với vợ con.",
+     "Loại tạm cường giáp bằng lâm sàng (TSH chờ), loại chất. Tăng huyết áp đã điều trị amlodipin 5 mg, HA 134/84, không phải nguyên nhân."
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: lý do khai (huyết áp, mất ngủ) → hỏi từng việc: giờ ngủ, mệt không, ban đêm làm gì → ngủ ít mà tràn năng lượng → hỏi tiền bạc, cáu gắt, trước đây có lúc buồn hoặc quá khỏe, gia đình → khám giáp, run, mắt, tim, tâm thần → xét nghiệm nền, TSH → chẩn đoán, hẹn.",
+     "Vì sao hưng cảm nhẹ: khí sắc tăng, dễ cáu và ít nhất ba triệu chứng (nói nhiều, tăng hoạt động, giảm nhu cầu ngủ, tiêu pha, phân tán kế hoạch) (QĐ 2058/2020 Bài 18 mục 3.1 A, B); không loạn thần, còn trông con nên mức nhẹ (mục 3.1 D, 4.1). Ranh giới số ngày giữa hưng nhẹ và hưng cảm: không có trong tài liệu đã tải.",
+     "Vì sao nghi lưỡng cực, chưa khẳng định: hiện hưng cảm nhẹ cộng quá khứ có trầm cảm hoặc hưng nhẹ đủ F31.0 (Bài 19 mục 3.1.1), nhưng đợt hưng nhẹ trước chỉ do anh nhớ lại; chẩn đoán chắc hơn khi quan sát các giai đoạn tiền cứu và có thông tin người nhà (CANMAT 2018 mục 2.2.4): vì vậy theo dõi.",
+     "Diagnostic timeout: 'mất ngủ do huyết áp' không giải thích được ngủ ít không mệt, nhiều ý tưởng, tiêu tiền, cáu gắt. Chỉ đo huyết áp và cho thuốc ngủ là bỏ sót hưng cảm đang lên.",
+     "Loại trừ: trầm cảm đơn cực đòi hỏi chưa từng hưng nhẹ (QĐ 2058/2020 Bài 20 mục 3.1.1); cường giáp loại bằng lâm sàng (ATA 2016 mục B1) và TSH gửi mẫu (mục B2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng chuẩn: cho về hẹn tái khám sau 1 tuần (mốc bám CANMAT 2018 mục 3.3: đánh giá cuối tuần 1 và 2; tài liệu đã tải không có mốc hẹn riêng cho hưng nhẹ ngoại trú). Hai cách theo hai nguồn, cả hai đúng: (A) hẹn lại kèm giới thiệu khám chuyên khoa sớm (NICE CG185 2014, 1.2.1, 1.2.2); (B) khởi thuốc chống loạn thần liều thấp ngoại trú vì mức nhẹ (QĐ 2058/2020 Bài 18 mục 4.1; mhGAP 2023 PSY7 7.1).",
+     "Không thuốc chống trầm cảm, không thuốc ngủ đơn thuần (CANMAT 2018 mục 3.3.1; NICE CG185 2014, 1.5.2). Không lithium, valproat tại đây (mhGAP 2023 PSY7 Remarks; NICE CG185 2014, 1.2.7, 1.2.8).",
+     "Không nhập viện: không nguy cơ tức thì (QĐ 2058/2020 Bài 18 mục 4.1). Chuyển ngay khi: ngủ rất ít nhiều đêm, kích động, loạn thần, tiêu tiền lớn, ý tưởng tự hại (NICE CG185 2014, 1.2.2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin (thuốc hạ áp đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg, 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, như đang dùng",
+      "so_ngay": "Tiếp tục, không đổi",
+      "ghi_chu": "HA 134/84, kiểm soát tốt, giữ nguyên. Người lưỡng cực có tăng huyết áp: điều trị theo hướng dẫn tăng huyết áp (NICE CG185 2014, 1.2.13). Tương tác amlodipin với thuốc chống loạn thần, ổn định khí sắc: không có trong tài liệu đã tải (nhóm làm tăng lithium được nêu là NSAID, ARB, ACEI, lợi tiểu: CANMAT 2018 mục 8.3). Báo cho bác sĩ chuyên khoa."
+     },
+     {
+      "thuoc": "Thuốc chống trầm cảm",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không kê",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "CANMAT 2018 mục 3.3.1, mục 8.3 Bảng 24 chú thích b; NICE CG185 2014, 1.5.2: không dùng đơn độc trong lưỡng cực I."
+     },
+     {
+      "thuoc": "Thuốc ngủ (benzodiazepin, nhóm Z) để chữa 'mất ngủ'",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không kê",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Ít ngủ là triệu chứng hưng cảm; benzodiazepin chỉ phối hợp trong phác đồ (QĐ 2058/2020 Bài 19 mục 4.2.1a)."
+     },
+     {
+      "thuoc": "Nếu chọn cách (B): một thuốc chống loạn thần liều thấp (olanzapin hoặc quetiapin hoặc risperidon)",
+      "ham_luong": "Khoảng liều theo BYT: olanzapin 5–30 mg/ngày, quetiapin 200–800 mg/ngày, risperidon 1–10 mg/ngày",
+      "lieu": "Liều khởi đầu và tăng liều: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối (không có trong tài liệu đã tải)",
+      "so_ngay": "Hẹn đánh giá sau 1 tuần",
+      "ghi_chu": "QĐ 2058/2020 Bài 19 mục 4.2.1a (khoảng liều); NICE CG185 2014, 1.5.3; mhGAP 2023 PSY7. Trước khi dùng cần ECG, thận, công thức máu (mhGAP PSY7 Remarks; NICE 1.10.5, 1.10.6): đã làm. Chỉ khi anh đồng ý; theo dõi chuyển hóa (Bài 19 mục 3.3.4)."
+     }
+    ],
+    "dan_do": [
+     "Anh Bảo, đây không phải bệnh 'điên': là rối loạn khí sắc, chữa được, chuyện anh nói ở đây được giữ kín (QĐ 2058/2020 Bài 19 mục 4.2.4; CANMAT 2018 mục 2.6.1).",
+     "Ghi mỗi ngày giờ ngủ, giờ dậy, khí sắc 1 đến 10, chi tiêu; mang theo lần sau (CANMAT 2018 mục 2.2.4).",
+     "Giờ ngủ, giờ dậy cố định; ngừng cà phê, nước tăng lực, rượu (CANMAT 2018 mục 3.3.1). Hoãn quyết định tiền bạc lớn, nói với vợ trước khi mua hay vay (NICE CG185 2014, 1.5.1).",
+     "Mời vợ cùng đến lần sau (NICE CG185 2014, 1.3.2); không để con nhỏ một mình khi anh làm việc ban đêm.",
+     "Quay lại ngay nếu: ngủ rất ít hai đêm liền mà vẫn hăng, tiêu hay vay tiền lớn, cáu gắt dữ dội, nghe tiếng lạ hoặc nghĩ có người hại mình, nghĩ tự làm hại bản thân (NICE CG185 2014, 1.2.2).",
+     "Tiếp tục amlodipin 5 mg mỗi sáng. Lấy máu gửi TSH ở bệnh viện huyện (ATA 2016 mục B2), kết quả sau khoảng 3 ngày theo điều kiện cơ sở; tái khám sau 1 tuần (mốc: CANMAT 2018 mục 3.3)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 (10 ngày sau, nặng hơn)",
+   "tiep_don": "Mười ngày sau lượt 1, anh Bảo quay lại, lần này vợ là chị Nhàn, 25 tuổi, công nhân may, đưa đến. Chị kể bốn đêm nay anh gần như không ngủ, nói không ngừng, vừa chuyển toàn bộ 80 triệu đồng tiền để dành vào một 'dự án' bạn rủ và còn vay thêm; hôm qua đập vỡ cái ly khi chị can. Anh nói mình khỏe nhất từ trước đến giờ, chỉ đi vì vợ khóc. Sinh hiệu lúc tiếp đón: mạch 112 l/p, HA 142/90 mmHg, nhiệt 37,0 °C, nhịp thở 20 l/p, SpO₂ 99%, cân nặng 65 kg.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Anh Bảo về nhà với vợ và con 14 tháng, ngủ ít hơn, chuyển thêm hoặc vay tiếp cho 'dự án', lại để con một mình, có thể lái xe lúc 2 giờ sáng. Hưng cảm không điều trị để lại biến chứng từ hành vi nhiều nguy cơ (QĐ 2058/2020 Bài 18 mục 5); nhập viện sớm với mức nặng (Bài 18 mục 4.1). Vài ngày sau vợ kiệt sức, nợ tăng, anh có thể vào viện trong tình trạng nặng hơn và mất tin bác sĩ.",
+    "theo_doi": "Giữ anh ở phòng khám vài giờ: phòng khám không có phòng yên tĩnh, người trông, thuốc điều trị hưng cảm, không định lượng lithium, không làm TSH (mhGAP 2023 PSY7 Remarks). Anh càng kích động vì bị giữ, đòi về, có thể bỏ đi và tự lái xe; thuốc an thần chỉ che triệu chứng; chuyển tuyến chậm nhiều giờ (NICE CG185 2014, 1.2.2).",
+    "nhap_vien": "Nhập khoa nội ở nơi không có khoa tâm thần: nhập viện chỉ phù hợp khi nơi đó điều trị được hưng cảm (QĐ 2058/2020 Bài 18 mục 4.1). Khoa nội không có phòng an toàn cho người kích động, thuốc chuyên khoa, theo dõi chuyển hóa và ECG (NICE CG185 2014, 1.3.1); anh có thể bỏ viện hoặc gây rối rồi vẫn phải chuyển khoa tâm thần, thêm thời gian và chi phí."
+   },
+   "loi_mo": "Em khỏe lắm bác sĩ, khỏe nhất từ trước tới giờ! Vợ em làm quá. Em đang có dự án lớn, bạn em bảo lời gấp mười, mà vợ cứ cản. À mà huyết áp em lúc này chắc lên, em quên uống thuốc mấy hôm… Bác sĩ nghe em nói đã, chuyện này dài lắm.",
+   "sinh_hieu": {
+    "mach": 112,
+    "ha": "142/90",
+    "nhiet": "37,0",
+    "nhip_tho": 20,
+    "spo2": 99,
+    "canh_bao": [
+     "mach",
+     "ha"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Vợ khai: bốn đêm nay anh gần như không ngủ, nói không ngừng, chuyển 80 triệu tiền để dành vào một 'dự án' bạn rủ rồi vay thêm 30 triệu, hôm qua đập vỡ ly khi chị can. Anh nói 'em khỏe nhất từ trước đến giờ, vợ làm quá'; đi vì vợ khóc.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Diễn biến nặng hơn: hưng cảm đầy đủ, suy giảm chức năng, nguy cơ"
+    },
+    {
+     "id": "ngu",
+     "noi_dung": "Bốn đêm nay ngủ 1 đến 2 giờ, hai đêm gần như thức trắng, không mệt; hai giờ sáng đi xe máy ra đường 'cho thoáng đầu'. Hết sức tỉnh táo vào ban ngày.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi cụ thể từng đêm, và hỏi vợ nữa.",
+     "k": 1,
+     "y": "Giảm nhu cầu ngủ nặng, hành vi liều lĩnh"
+    },
+    {
+     "id": "noi_nhieu",
+     "noi_dung": "Nói dồn dập, khó ngắt, nhảy từ dự án bán hàng sang tiền số sang mua xe, mở xưởng. Tin chắc 'sắp thành ông chủ, một năm kiếm 5 tỷ'. Hỏi căn cứ thì kể được: bạn hứa lãi 30% mỗi tháng, cho xem bảng tính; không tin ai theo dõi hay hại mình.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'dựa vào đâu mà tin', 'có ai ngăn cản không'; tóm tắt lại trước khi hỏi thì anh trả lời được.",
+     "k": 1,
+     "y": "Tư duy phi tán, ý tưởng khuếch đại nhưng chưa là hoang tưởng cố định: F30.1 chứ không F30.2"
+    },
+    {
+     "id": "tien",
+     "noi_dung": "Đã chuyển 80 triệu (toàn bộ tiền để dành), vay bạn 30 triệu, lô hàng 12 triệu tuần trước chưa bán được. Anh biết 'hơi liều' nhưng 'sắp lời gấp mười'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiêu pha hoang phí (BYT Bài 18 mục 3.1 B), hậu quả thực"
+    },
+    {
+     "id": "nguy_co_con",
+     "noi_dung": "Hai lần để con 14 tháng ở nhà một mình 15 đến 20 phút để chạy ra quán gặp bạn bàn việc; mẹ vợ về kịp. Từ hôm qua chị Nhàn không dám để anh trông con.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi vợ riêng 'ai trông con khi anh ra ngoài', 'có lúc nào để con một mình không'.",
+     "k": 1,
+     "y": "Nguy cơ cho người khác (con nhỏ), căn cứ chuyển tuyến (NICE CG185 2014, 1.3.5, 1.2.2)"
+    },
+    {
+     "id": "cau_gat",
+     "noi_dung": "Quát vợ, đập vỡ một cái ly khi bị can, sau đó cười xin lỗi rồi lại nói tiếp. Chưa đánh ai, không đe dọa giết ai. Không có vũ khí trong nhà.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi thẳng 'anh có đánh hay dọa ai không, có ý định làm hại ai không'.",
+     "k": 1,
+     "y": "Kích động nhưng chưa bạo lực"
+    },
+    {
+     "id": "tu_hai",
+     "noi_dung": "Không ý nghĩ tự sát, không tự hại; anh nói 'vui thế này chết làm gì'. Vợ xác nhận anh chưa nói điều tiêu cực nào. Không nghe tiếng nói, không thấy ai theo dõi.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi thẳng và cụ thể.",
+     "k": 1,
+     "y": "Đánh giá tự hại và loạn thần"
+    },
+    {
+     "id": "tien_su_vo",
+     "noi_dung": "Chị Nhàn xác nhận: năm ngoái anh có hai tuần ngủ ít, nói nhiều, đòi mở quán cà phê rồi bỏ; trước đó khoảng 3 tháng nằm nhiều, chán ăn sau khi nghỉ việc. Chú anh nằm viện tâm thần hai lần.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi vợ 'trước đây anh có lần nào như vậy không', 'có lần nào buồn kéo dài không'.",
+     "k": 1,
+     "y": "Tiền sử hưng nhẹ và trầm cảm xác nhận từ người nhà (NICE CG185 2014, 1.3.2)"
+    },
+    {
+     "id": "thuoc_chat",
+     "noi_dung": "Ghi nhật ký 2 ngày rồi bỏ. Cà phê 5 đến 6 ly/ngày, 2 lon nước tăng lực. Không ma túy (vợ kiểm tra túi áo). Bỏ amlodipin 3 ngày vì quên. Nếu lượt trước có kê thuốc chống loạn thần, anh chỉ uống 2 đến 3 ngày rồi bỏ vì 'đờ đẫn' và không báo ai.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tuân thủ, chất kích thích; không thay đổi hướng xử trí"
+    },
+    {
+     "id": "nhieu_ha",
+     "noi_dung": "Anh kể lể 'huyết áp em lên nên vợ mới làm quá', ngắt lời vợ, quay lại dự án.",
+     "che_do": "khi_hoi",
+     "nhieu": 1,
+     "k": 0,
+     "y": "Kể lể lộn xộn: cần câu hỏi đóng, tóm tắt, hỏi từng việc"
+    },
+    {
+     "id": "giap",
+     "noi_dung": "Cân nặng 65 kg (giảm 1 kg), không tiêu chảy, không run, không mắt lồi. Mạch nhanh khi nói nhiều, đứng ngồi không yên.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Tim nhanh do kích động, không phải cường giáp"
+    },
+    {
+     "id": "hop_tac",
+     "noi_dung": "Anh sợ 'bệnh viện thần kinh'; đồng ý đi nếu bác sĩ nói rõ đó là khoa chữa khí sắc và giấc ngủ, vợ đi cùng, và không bị giữ lại nếu chưa cần.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Mở bằng lời giải thích bình tĩnh, nhắc anh đã thấy không ngủ nổi, hứa vợ đi cùng.",
+     "k": 1,
+     "y": "Hợp tác tự nguyện, giao tiếp"
+    },
+    {
+     "id": "nguon_luc",
+     "noi_dung": "Khoa tâm thần bệnh viện tỉnh cách 45 km. Vợ lái xe nhà (anh không lái), mẹ vợ giữ con. Có bảo hiểm y tế.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Điều kiện chuyển tuyến"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, đứng lên ngồi xuống, mồ hôi nhẹ ở trán. Cân nặng 65 kg.",
+     "k": 0,
+     "hien": "Tỉnh, đứng ngồi không yên, hơi ra mồ hôi."
+    },
+    "dau_mat_co": {
+     "a": "Tuyến giáp không to, không nhân. Không hạch cổ.",
+     "k": 1,
+     "hien": "Tuyến giáp không to."
+    },
+    "mat": {
+     "a": "Mắt không lồi, không hở mi, vận nhãn bình thường.",
+     "k": 0,
+     "hien": "Mắt không lồi."
+    },
+    "tim": {
+     "a": "Tim đều 112 l/p, T1 T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, nhanh, khoảng 112 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-NHANH-01",
+       "chu": "Nhịp nhanh đều, T1 T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Rì rào phế nang êm dịu hai phế trường, không ran. Nhịp thở 20 l/p.",
+     "k": 0,
+     "hien": "Thở đều, không khó thở.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "run_nghi": {
+     "a": "Không run nghỉ, không run khi duỗi tay.",
+     "k": 1,
+     "hien": "Không run."
+    },
+    "than_kinh": {
+     "a": "Không dấu thần kinh khu trú, đồng tử đều, phản xạ gân xương bình thường.",
+     "k": 0,
+     "hien": "Không dấu thần kinh khu trú."
+    },
+    "tam_than": {
+     "a": "Tiếp xúc ồn ào, nói dồn dập, rất khó ngắt, chủ đề nhảy liên tục, đứng lên ngồi xuống. Khí sắc phấn khích, cáu gắt rõ khi bị cản. Tự cao: tin dự án chắc chắn thành, nhưng kể được căn cứ và khi bị hỏi thì thừa nhận 'có thể hơi liều', chưa phải hoang tưởng cố định. Không ảo giác, không ý tưởng tự sát hay hại người. Định hướng tốt. Nhận biết bệnh kém: 'em khỏe nhất từ trước đến giờ'.",
+     "k": 1,
+     "hien": "Nói dồn dập, khó ngắt, đứng ngồi không yên, hưng phấn, cáu khi bị cản."
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "u",
+     "r": "BC 6,8 G/L · Hb 150 g/L · TC 248 G/L",
+     "bang": {
+      "wbc": 6.8,
+      "neu_pct": 58.0,
+      "neu": 3.94,
+      "lym_pct": 33.0,
+      "lym": 2.24,
+      "mono_pct": 6.5,
+      "mono": 0.44,
+      "eos_pct": 2.0,
+      "eos": 0.14,
+      "baso_pct": 0.5,
+      "baso": 0.03,
+      "rbc": 5.2,
+      "hgb": 150,
+      "hct": 0.45,
+      "mcv": 87.0,
+      "mch": 28.8,
+      "mchc": 333,
+      "rdw": 13.0,
+      "plt": 248
+     },
+     "n": "Như lượt 1, không đổi."
+    },
+    "glu": {
+     "v": "u",
+     "r": "Glucose máu 5,0 mmol/L",
+     "bang": {
+      "glu": 5.0
+     },
+     "n": "Như lượt 1, không đổi."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 4,5 mmol/L · Creatinin 78 µmol/L · eGFR 118 mL/ph/1,73m²",
+     "bang": {
+      "ure": 4.5,
+      "creat": 78,
+      "egfr": 118
+     },
+     "n": "Như lượt 1, không đổi."
+    },
+    "lyte": {
+     "v": "u",
+     "r": "Na 140 · K 4,0 · Cl 103 mmol/L",
+     "bang": {
+      "na": 140,
+      "k": 4.0,
+      "cl": 103
+     },
+     "n": "Như lượt 1, không đổi."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 26 · ALT 28 U/L",
+     "n": "Như lượt 1, không đổi."
+    },
+    "ma_tuy_nt": {
+     "v": "u",
+     "r": "Test nhanh ma túy nước tiểu: âm tính benzodiazepine, opioid, amphetamin, THC",
+     "n": "Như lượt 1, không đổi."
+    },
+    "ecg": {
+     "v": "u",
+     "r": "Nhịp xoang nhanh 110 l/p, QRS 90 ms, QTc 405 ms. Không ST chênh.",
+     "n": "ECG nền cho tuyến chuyên khoa trước khi dùng thuốc chống loạn thần (NICE CG185 2014, 1.10.6). Nhịp nhanh do kích động, thiếu ngủ, cà phê; không có dấu rối loạn nhịp."
+    },
+    "tsh": {
+     "v": "u",
+     "r": "Mẫu đã gửi từ lượt trước (nếu đã gửi): TSH 1,8 mUI/L, FT4 14 pmol/L, bình thường. Nếu chưa gửi: lấy máu hôm nay, kết quả sau khoảng 3 ngày, chuyển cùng hồ sơ.",
+     "n": "TSH bình thường loại trừ nhiễm độc giáp (ATA 2016, mục B2). Tim nhanh lượt này do kích động, thiếu ngủ và cà phê, không do tuyến giáp."
+    },
+    "glu_mm": {
+     "v": "n",
+     "r": "5,6 mmol/L",
+     "n": "Như lượt 1, không đổi."
+    },
+    "ua": {
+     "v": "n",
+     "r": "Không protein · Không glucose · Không hồng cầu",
+     "n": "Như lượt 1, không đổi."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Giai đoạn hưng cảm không có triệu chứng loạn thần (F30.1) trong rối loạn lưỡng cực, hiện tại hưng cảm không loạn thần (F31.1): nặng hơn lượt 1, suy giảm chức năng rõ, có nguy cơ cho con nhỏ",
+     "ok": 1,
+     "n": "Khí sắc hưng phấn và cáu gắt, đủ nhóm B kèm suy giảm chức năng và nguy cơ (QĐ 2058/2020 Bài 18 mục 3.1 B, C; Bài 19 mục 3.1.2); tiền sử trầm cảm, hưng nhẹ xác nhận từ vợ. Cần chuyên khoa theo dõi lâu dài."
+    },
+    {
+     "t": "Hưng cảm có triệu chứng loạn thần (F30.2, F31.2)",
+     "n": "Loại trừ ở thời điểm này: không ảo giác, ý tưởng khuếch đại có căn cứ, chưa là hoang tưởng cố định (QĐ 2058/2020 Bài 18 mục 3.1 D). Phải hỏi kỹ vì mức nặng và loạn thần đều thuộc nhóm điều trị đa trị (mục 4.2.1)."
+    },
+    {
+     "t": "Trầm cảm đơn cực",
+     "n": "Loại trừ: hiện hưng phấn, có hai giai đoạn hưng nhẹ hoặc hưng cảm trong đời (QĐ 2058/2020 Bài 20 mục 3.1.1; Bài 19 mục 3.2)."
+    },
+    {
+     "t": "Cường giáp (nhiễm độc giáp)",
+     "n": "Loại trừ: tuyến giáp không to, không run, không lồi mắt, cân giảm 1 kg; mạch nhanh do kích động và thiếu ngủ; TSH gửi từ lượt trước bình thường (ATA 2016, mục B1, B2). Nếu mẫu chưa gửi thì lấy hôm nay, đi cùng hồ sơ."
+    },
+    {
+     "t": "Hưng cảm do chất hoặc ma túy; cà phê và nước tăng lực quá mức",
+     "n": "Loại trừ: test ma túy nước tiểu âm tính; cà phê 5 đến 6 ly và nước tăng lực làm nặng thêm triệu chứng chứ không phải nguyên nhân gốc (CANMAT 2018 mục 3.3.1: cần giảm chất kích thích; QĐ 2058/2020 Bài 18 mục 3.2)."
+    },
+    {
+     "t": "Rối loạn nhân cách chống đối xã hội hoặc ái kỷ",
+     "n": "Loại trừ: hành vi liều lĩnh chỉ xuất hiện trong khoảng hai tuần, trước đó anh hiền và có trách nhiệm với gia đình (QĐ 2058/2020 Bài 19 mục 3.2 liệt kê các rối loạn nhân cách trong chẩn đoán phân biệt)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận ra nặng hơn lượt trước (ngủ 1 đến 2 giờ, tiêu tiền lớn, kích động, để con một mình) và quyết định chuyển khám chuyên khoa tâm thần khẩn trong ngày, có thể cần nhập viện",
+     "v": "c",
+     "n": "Nghi hưng cảm hoặc có nguy hiểm thì chuyển khẩn (NICE CG185 2014, 1.2.2); nhập viện sớm với mức nặng (QĐ 2058/2020 Bài 18 mục 4.1, Bài 19 mục 4.1). Phòng khám không điều trị được hưng cảm đầy đủ."
+    },
+    {
+     "t": "Hỏi cụ thể nguy cơ: tự hại, hại người, con nhỏ, lái xe, tiền bạc; hỏi vợ riêng",
+     "v": "c",
+     "n": "NICE CG185 2014, 1.3.5; CANMAT 2018 mục 3.3.1 bước 1 (hung hãn, an toàn người khác, tự sát, nhận thức bệnh, hỗ trợ xã hội)."
+    },
+    {
+     "t": "Khám thực thể, ECG, đối chiếu xét nghiệm lượt 1, TSH (mẫu đã gửi hoặc lấy hôm nay) và viết hồ sơ chuyển tuyến đầy đủ (triệu chứng, mốc thời gian, tiền sử, thuốc amlodipin, kết quả)",
+     "v": "c",
+     "n": "QĐ 2058/2020 Bài 18 mục 3.3.1; CANMAT 2018 mục 8.1 Bảng 23; mhGAP 2023 PSY7 Remarks (thận, giáp, công thức máu, ECG); ATA 2016 mục B2."
+    },
+    {
+     "t": "Làm việc với vợ: không để anh lái xe, không để anh ở một mình với con, vợ giữ thẻ và tài khoản, đi cùng suốt chuyến chuyển; nói với anh bằng giọng bình tĩnh, ít kích thích",
+     "v": "c",
+     "n": "NICE CG185 2014, 1.3.5 (rủi ro lái xe, tiêu tiền, người khác); 1.5.1 (môi trường yên tĩnh, ít kích thích, không quyết định quan trọng)."
+    },
+    {
+     "t": "Giải thích rõ và thuyết phục anh đồng ý đi tự nguyện, vợ đi cùng",
+     "v": "c",
+     "n": "Tài liệu đã tải không có hướng dẫn nhập viện bắt buộc; NICE CG185 2014, 1.3.1 nhấn mạnh gắn kết cùng quản lý nguy cơ."
+    },
+    {
+     "t": "Cho một liều thuốc an thần uống trong lúc chờ chuyển nếu kích động tăng (lorazepam trong khoảng 1 đến 4 mg/ngày)",
+     "v": "a",
+     "n": "Chấp nhận được, không bắt buộc: QĐ 2058/2020 Bài 19 mục 4.2.1a (lorazepam 1–4 mg/ngày); CANMAT 2018 Bảng 11 (lorazepam IM 2 mg đầu tay cho kích động). Liều đơn đường uống: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Khởi lithium tại phòng khám",
+     "v": "h",
+     "n": "mhGAP 2023 PSY7 Remarks: tránh lithium khi không có xét nghiệm, chỉ dưới giám sát chuyên khoa, khoảng điều trị hẹp; NICE CG185 2014, 1.2.7."
+    },
+    {
+     "t": "Khởi valproat hoặc thuốc chống loạn thần nhiều thuốc tại phòng khám rồi cho về",
+     "v": "w",
+     "n": "Hưng cảm nặng cần đa trị liệu, theo dõi chuyên khoa (QĐ 2058/2020 Bài 19 mục 4.2.1a); NICE CG185 2014, 1.2.8; nam dưới 55 tuổi chỉ khi hai chuyên gia đồng thuận (Box 1, MHRA)."
+    },
+    {
+     "t": "Cho về, hẹn tái khám lại",
+     "v": "w",
+     "n": "Nặng hơn, có nguy cơ cho con nhỏ và tài chính, nhận biết bệnh kém: chuyển khẩn (NICE CG185 2014, 1.2.2; QĐ 2058/2020 Bài 18 mục 4.1)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Giai đoạn hưng cảm không có triệu chứng loạn thần (F30.1) trong rối loạn lưỡng cực, hiện tại hưng cảm không loạn thần (F31.1): ngủ 1 đến 2 giờ/đêm 4 đêm, nói dồn dập, ý tưởng khuếch đại, tiêu 80 triệu và vay 30 triệu, kích động, để con 14 tháng một mình (QĐ 2058/2020 Bài 18 mục 3.1; Bài 19 mục 3.1.2).",
+     "Đã loại: cường giáp (lâm sàng và TSH), hưng cảm do chất (test nước tiểu âm tính), trầm cảm đơn cực, loạn thần (không hoang tưởng cố định, không ảo giác).",
+     "Mức độ: nặng hơn rõ so với lượt 1, suy giảm chức năng, có nguy cơ cho người khác và hậu quả tài chính; nhận biết bệnh kém."
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: nghe vợ và anh (từng việc một, tóm tắt lại) → mốc thời gian và so với lượt 1 → khám giáp, tim, tâm thần → nguy cơ (con, tiền, lái xe, tự hại) → xem xét nghiệm và TSH → chẩn đoán nặng hơn → chuyển tuyến.",
+     "Vì sao nặng hơn: ngủ 1 đến 2 giờ (lượt 1: 3 đến 4 giờ), có suy giảm chức năng thật (mất 80 triệu, vay nợ, để con một mình), kích động, nhận biết bệnh kém. Hưng cảm cần đủ nhóm B kèm suy giảm chức năng hoặc nguy hiểm cho bản thân hay người khác (QĐ 2058/2020 Bài 18 mục 3.1 B, C).",
+     "Vì sao đã có thể nói là rối loạn lưỡng cực: giai đoạn hưng cảm hiện tại cộng với giai đoạn trầm cảm và hưng nhẹ trong quá khứ do vợ xác nhận (Bài 19 mục 3.1.2); đã loại thực tổn và chất (Bài 18 mục 1). Chẩn đoán hoàn tất và theo dõi lâu dài do chuyên khoa (CANMAT 2018 mục 2.2.4).",
+     "Diagnostic timeout: ngủ 1 đến 2 giờ, mất 80 triệu, để con một mình, bỏ nhật ký và thuốc: nếu vẫn 'hẹn tuần sau' là bỏ qua việc nâng mức chăm sóc (NICE CG185 2014, 1.2.2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng chuẩn: chuyển khám chuyên khoa tâm thần khẩn trong ngày, có thể cần nhập viện (NICE CG185 2014, 1.2.2; QĐ 2058/2020 Bài 18 mục 4.1, Bài 19 mục 4.1). Hồ sơ chuyển kèm xét nghiệm nền, ECG, TSH, amlodipin; mẫu hồ sơ chuyển: không có trong tài liệu đã tải.",
+     "Không khởi thuốc chỉnh khí sắc tại phòng khám (mhGAP 2023 PSY7 Remarks; NICE CG185 2014, 1.2.7, 1.2.8). Tuyến chuyên khoa dùng chống loạn thần hoặc thuốc ổn định khí sắc, đa trị liệu cho mức nặng (QĐ 2058/2020 Bài 19 mục 4.2.1a; CANMAT 2018 mục 3.3.2, Bảng 12; mhGAP PSY7 7.1).",
+     "An toàn lúc chờ và trên đường đi: vợ đi cùng, anh không lái xe, không ở một mình với con, vợ giữ thẻ ngân hàng, môi trường ít kích thích (NICE CG185 2014, 1.3.5, 1.5.1).",
+     "Hợp tác là mấu chốt: giải thích khoa chữa khí sắc và giấc ngủ, vợ đi cùng, không hứa 'không nằm lại' nếu chưa chắc."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amlodipin (thuốc hạ áp đang dùng)",
+      "ham_luong": "5 mg",
+      "lieu": "5 mg, 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng",
+      "so_ngay": "Tiếp tục, uống lại từ hôm nay",
+      "ghi_chu": "Anh đã bỏ 3 ngày, HA 142/90 do thiếu ngủ, kích động. Giữ nguyên, không tăng liều (NICE CG185 2014, 1.2.13). Báo thuốc này trong thư chuyển tuyến vì tương tác với thuốc sẽ dùng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Thuốc chỉnh khí sắc hoặc chống loạn thần (lithium, valproat, olanzapin, quetiapin, risperidon...)",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không khởi tại phòng khám",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Do bác sĩ chuyên khoa quyết định",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Phòng khám không định lượng lithium, không làm TSH (mhGAP 2023 PSY7 Remarks); NICE CG185 2014, 1.2.7, 1.2.8. Khoảng liều BYT cho tuyến chuyên khoa: QĐ 2058/2020 Bài 19 mục 4.2.1a."
+     },
+     {
+      "thuoc": "Lorazepam (chỉ khi kích động tăng trước chuyển; không bắt buộc)",
+      "ham_luong": "Khoảng 1–4 mg/ngày theo BYT",
+      "lieu": "Liều đơn đường uống: không có trong tài liệu đã tải",
+      "duong": "Uống",
+      "thoi_diem": "Một lần, theo chỉ định bác sĩ",
+      "so_ngay": "1 liều, không mang về",
+      "ghi_chu": "QĐ 2058/2020 Bài 19 mục 4.2.1a (lorazepam 1–4 mg/ngày); CANMAT 2018 Bảng 11 (lorazepam IM 2 mg đầu tay cho kích động; dạng uống: không có trong bảng). Không cho mang về nhà."
+     }
+    ],
+    "dan_do": [
+     "Chị Nhàn, anh Bảo đang ở giai đoạn hưng của một bệnh khí sắc chữa được; anh không 'điên', chị làm đúng khi đưa anh đến (QĐ 2058/2020 Bài 19 mục 4.2.4; CANMAT 2018 mục 2.6.1).",
+     "Đi ngay khám chuyên khoa tâm thần ở bệnh viện tỉnh (45 km), chị lái xe, mẹ chị giữ con; mang hồ sơ, thuốc huyết áp, thẻ bảo hiểm y tế (NICE CG185 2014, 1.2.2).",
+     "Giữ thẻ ngân hàng; không chuyển thêm tiền cho đến khi chuyên khoa cho phép (NICE CG185 2014, 1.5.1). Lấy lại 80 triệu đồng: không có trong tài liệu đã tải.",
+     "Gọi cấp cứu hoặc quay lại ngay nếu anh nói muốn tự hại hoặc hại ai, bạo lực, đòi bỏ đi giữa đường.",
+     "Điều trị duy trì ít nhất 6 tháng để phòng tái phát (QĐ 2058/2020 Bài 19 mục 4.1; mhGAP 2023 PSY3)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Anh Bảo đi cùng vợ lên bệnh viện tỉnh trong ngày, được điều trị tại khoa tâm thần; sau đó ngủ lại được, bớt nói nhiều và nhận ra mình đã quá liều lĩnh. Chị Nhàn giữ tài khoản, anh dùng thuốc và tái khám đều, duy trì ít nhất 6 tháng (QĐ 2058/2020 Bài 19 mục 4.1; mhGAP 2023 PSY3), vẫn uống amlodipin. Chi tiết thuốc và thời gian nằm viện tuyến trên: không có trong tài liệu đã tải.",
+ "nhieu": [
+  "Anh neo vào huyết áp: huyết áp 134/84 khi đang uống amlodipin không giải thích được ngủ ít mà tràn năng lượng, tiêu tiền, cáu gắt (NICE CG185 2014, 1.2.13 chỉ nói điều trị tăng huyết áp song song).",
+  "Cà phê và nước tăng lực tăng lên là hậu quả chứ không phải nguyên nhân (CANMAT 2018 mục 3.3.1)."
+ ],
+ "bai_hoc_bien": [
+  "Cặp tương phản với TT-0361 (lạm dụng benzodiazepin): cùng nam thanh niên, tim nhanh, mất ngủ, xin thuốc ngủ, giấu điều thật. Phân biệt then chốt: ở TT-0361 mệt, run, vã mồ hôi và triệu chứng hết khi có thuốc; ở TT-0383 ngủ 3 đến 4 giờ mà tràn năng lượng, không run, không mồ hôi.",
+  "'Mất ngủ' mà không mệt là triệu chứng hưng, không phải mất ngủ thông thường (QĐ 2058/2020 Bài 18 mục 3.1 B: giảm nhu cầu ngủ).",
+  "Hỏi tiền bạc, trước đây có lúc buồn hoặc quá khỏe, gia đình; hỏi thêm người nhà (NICE CG185 2014, 1.3.2; CANMAT 2018 mục 2.2.4)."
+ ],
+ "diem_nho": [
+  "Hưng cảm: khí sắc tăng hoặc dễ cáu cộng ít nhất 3 triệu chứng (tăng hoạt động, nói nhiều, phi tán, giảm nhu cầu ngủ, tự cao, kế hoạch đổi liên tục, tiêu pha, tăng hoạt động tình dục), thường ≥ 1 tuần (QĐ 2058/2020 Bài 18 mục 3.1).",
+  "Lưỡng cực: hiện tại hưng cảm (nhẹ hoặc không loạn thần) cộng quá khứ có hưng nhẹ, hưng cảm hoặc trầm cảm (QĐ 2058/2020 Bài 19 mục 3.1.1, 3.1.2).",
+  "Nghi hưng cảm hoặc có nguy hiểm: chuyển khẩn khám chuyên khoa; hoạt động quá mức từ 4 ngày: cân nhắc chuyển (NICE CG185 2014, 1.2.1, 1.2.2)."
+ ],
+ "nguon": [
+  "QĐ 2058/QĐ-BYT 2020 (TL-0443): Bài 18 mục 1, 3.1, 3.2, 3.3.1, 3.3.3, 3.3.4, 4.1, 4.2.1, 4.2.4, 5, 6; Bài 19 mục 3.1.1, 3.1.2, 3.2, 3.3.4, 4.1, 4.2.1a, 4.2.4; Bài 20 mục 3.1.1.",
+  "WHO mhGAP 2023 (TL-0573): mục 3.10, PSY3, PSY7 (7.1, 7.2, Remarks), PSY8.",
+  "CANMAT/ISBD 2018, Yatham LN et al., Bipolar Disord 2018;20:97-170 (TL-0592): mục 2.2.4, 2.3, 2.6.1, 3.3, 3.3.1, 3.3.2 và Bảng 11, 12; mục 8.1 và Bảng 23; mục 8.3 Bảng 24 chú thích b.",
+  "NICE CG185 2014 (TL-0595): 1.2.1, 1.2.2, 1.2.7, 1.2.8, 1.2.13, 1.3.1, 1.3.2, 1.3.5, 1.5.1, 1.5.2, 1.5.3, 1.10.5, 1.10.6, 1.10.14; Box 1 (MHRA valproat).",
+  "ATA 2016, Ross DS et al., Thyroid 2016;26:1343-1421 (TL-0324): mục B1, B2."
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28: bản 1, 2 lượt. Đã đọc: QĐ 2058/2020 Bài 18, 19, Bài 20 mục 3.1; mhGAP 2023 PSY1–PSY12, PSY7; CANMAT/ISBD 2018 mục 2.2.4, 2.3, 3.3, 8.1, 8.3; NICE CG185 mục 1.2, 1.3, 1.5, 1.10; ATA 2016 mục B1, B2.",
+  "Mâu thuẫn: hưng cảm nhẹ nghi lưỡng cực lần đầu ở tuyến cơ sở, điều trị ngoại trú hoặc khởi thuốc sớm (BYT 2020) so với chuyển chuyên khoa (NICE 2014): ghi cả hai (mục sổ mới). BYT Bài 18 mục 4.2.1 ghi valproat 500–1500 mg/ngày, Bài 19 mục 4.2.1a ghi 500–2000 mg/ngày: ca không dùng valproat nên không ghi liều.",
+  "Không có trong tài liệu đã tải: ngưỡng số ngày và tiêu chuẩn riêng của hưng nhẹ, liều khởi đầu thuốc chống loạn thần, liều đơn lorazepam uống, tương tác amlodipin với thuốc tâm thần, nhập viện bắt buộc, mẫu hồ sơ chuyển tuyến, thang Young (BYT liệt kê, không có điểm cắt).",
+  "Cặp tương phản P-0648 vai B, đối chiếu TT-0361. Ràng buộc nguồn lực: khoa_cls (không TSH, X-quang, siêu âm)."
+ ]
+}
