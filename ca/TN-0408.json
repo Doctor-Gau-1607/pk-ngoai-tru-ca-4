@@ -1,0 +1,562 @@
+{
+ "ma_ca": "TN-0408",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-28)",
+ "benh": "TN_viem_mao_tinh",
+ "so_cai": {
+  "chuyen_khoa": "Tiết niệu - nam khoa",
+  "chan_doan_dich": "Viêm mào tinh - tinh hoàn",
+  "chan_doan_phai_loai_tru": [
+   "Xoắn tinh hoàn",
+   "U tinh hoàn"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Tự uống thuốc trước 5 ngày",
+  "rang_buoc_nguon_luc": "Không có CT",
+  "loai_ket_cuc": "Xử trí đúng nhưng diễn tiến xấu",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Thợ sơn",
+  "yeu_to_khoi_phat": "Đổi thuốc điều trị",
+  "thuoc_dang_dung": "Thuốc kháng đông đang dùng",
+  "ly_do_that_su_den_kham": "Xin giấy chứng nhận sức khỏe"
+ },
+ "benh_nhan": {
+  "ten": "Hồ Văn Tám",
+  "tuoi": 54,
+  "gioi": "Nam",
+  "nghe": "Thợ sơn nhà (nhận việc theo công trình, hay leo giàn giáo, đứng lâu, hít dung môi sơn)",
+  "can_nang": 64,
+  "chieu_cao": 165,
+  "xung_ho": "Ông tự xưng 'tui', gọi bác sĩ là 'bác sĩ'. Bác sĩ gọi ông là 'ông Tám' hoặc 'chú Tám'.",
+  "tinh_cach": "Cộc, nóng vội, quen bị hối thúc ở công trình. Sợ mất việc nên gạt nhẹ mọi triệu chứng ('chút xíu thôi mà'). Không ghét bác sĩ nhưng ghét chờ lâu, hay nhìn đồng hồ. Tin thuốc nhà thuốc mua về là đủ.",
+  "kieu_nhieu": "Tự uống thuốc trước 5 ngày: hỏi chung 'có uống thuốc gì chưa' thì ông đáp 'thuốc tim thôi'. Chỉ nhớ ra thuốc mua ở nhà thuốc khi được hỏi cụ thể 'thuốc kháng sinh, thuốc giảm đau mua ngoài' và hỏi 'còn vỏ thuốc không'; lúc đó ông móc túi áo lấy vỏ thuốc, nói được tên và số ngày. Trách móc thì ông cáu và xin 'ký giấy cho rồi'.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#a9764f",
+   "toc": "#7a7a7a",
+   "kieuToc": "ngan",
+   "ao": "#c9c4b0",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 2,
+   "bieuCam": "met"
+  }
+ },
+ "ly_do_kham": "Bìu bên phải sưng đau tám ngày",
+ "khoa_cls": {
+  "nhom": [
+   "ct"
+  ],
+  "loi_bao": "Cơ sở không có máy CT. Có xét nghiệm (cấy nước tiểu kết quả sau 48 giờ, NAAT lậu – Chlamydia và INR trong ngày) và siêu âm Doppler bìu; quyết định hôm nay không cần CT."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 54 tuổi, thợ sơn, đi xe máy một mình đến phòng khám đầu giờ chiều, đứng hơi khom, trông nóng ruột. Ông khai bìu bên phải sưng đau mấy hôm nay. Sinh hiệu: mạch 92 l/p, HA 140/85 mmHg, nhiệt độ 38,2 °C, nhịp thở 18 l/p, SpO₂ 97%, cân nặng 64 kg.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "nhap_vien": "Ông Tám bị nhập viện ngay dù tỉnh, uống được thuốc, HA 140/85 và siêu âm chưa có áp xe. Đa số viêm mào tinh cấp điều trị ngoại trú (CDC STI 2021 (TL-0370) tr. 99); nhập viện dành cho đau dữ dội, sốt, áp xe hoặc nặng toàn thân (EAU Urological Infections 2026 (TL-0512) mục 3.12.3). Ông nằm viện mấy ngày, mất chỗ làm vì không kịp báo nhà thầu, tốn viện phí; kháng sinh vẫn phải đủ 10–14 ngày và INR vẫn phải theo dõi.",
+    "chuyen_tuyen": "Ông bị chuyển lên tuyến trên 'cho chắc' ngay hôm nay: đi xe máy hàng chục cây số khi đang sốt 38,2 °C và INR 3,6, mất cả ngày chờ khám. Không có chỉ định chuyển ngay vì không nghi xoắn (khởi phát từ từ, phản xạ da bìu còn) và siêu âm không có áp xe (CDC STI 2021 (TL-0370) tr. 98–99; EAU Urological Infections 2026 (TL-0512) Hình 2). Ông ngại đi xa, dễ bỏ dở, và liều kháng sinh đầu bị trì hoãn.",
+    "theo_doi": "Ông chỉ được hẹn theo dõi, cho thuốc giảm đau và chườm, không kê kháng sinh mới vì 'đã uống amoxicillin rồi'. Kháng sinh phủ Enterobacterales ngay từ lần khám đầu là khuyến cáo mạnh (EAU Urological Infections 2026 (TL-0512) mục 3.12.6; CDC STI 2021 (TL-0370) tr. 99), amoxicillin không nằm trong phác đồ nào. Ông tiếp tục sốt, bìu sưng đau tăng; nếu không ai nhắc bỏ ibuprofen thì nguy cơ chảy máu khi dùng chung với warfarin vẫn còn (ESC AF 2024 (TL-0303) Hình 9, tr. 3343)."
+   },
+   "loi_mo": "Chào bác sĩ. Cái bìu bên phải của tui sưng đau mấy bữa nay, đi làm khó chịu quá. Bác sĩ coi giùm cho nhanh, tui còn phải lo việc.",
+   "sinh_hieu": {
+    "mach": 92,
+    "ha": "140/85",
+    "nhiet": "38,2",
+    "nhip_tho": 18,
+    "spo2": 97,
+    "canh_bao": [
+     "Sốt 38,2 °C"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Bìu bên phải sưng đau tám ngày nay, đi lại khó chịu. Tự đi xe máy đến phòng khám một mình.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám, thời gian"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ban đầu chỉ âm ỉ ở bìu phải, hai ba hôm sau sưng to dần và nóng, ba ngày nay có sốt nhẹ về chiều. Không va đập. Không đau đột ngột dữ dội, không buồn nôn hay nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát từ từ, không đột ngột (không giống xoắn tinh hoàn)"
+    },
+    {
+     "id": "tieu",
+     "noi_dung": "Hai hôm nay tiểu rát nhẹ cuối dòng. Tiểu đêm 2 lần, dòng tiểu yếu hơn mấy năm nay, tưởng già thì vậy. Nước tiểu không đỏ. Không có dịch chảy ra đầu dương vật.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Triệu chứng đường tiểu dưới; không dịch niệu đạo"
+    },
+    {
+     "id": "tinh_duc",
+     "noi_dung": "Ông chỉ quan hệ với vợ, không quan hệ hậu môn, không bạn tình mới, không có vết loét hay mụn ở dương vật. Vợ không có triệu chứng gì.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguy cơ bệnh lây truyền qua đường tình dục thấp"
+    },
+    {
+     "id": "thu_thuat",
+     "noi_dung": "Chưa từng đặt ống thông tiểu, soi bàng quang, sinh thiết tuyến tiền liệt hay thắt ống dẫn tinh. Chưa bị lao, chưa từng bị quai bị, không ho kéo dài hay sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nguyên nhân sau thủ thuật; lao; quai bị"
+    },
+    {
+     "id": "thuoc_tu_uong",
+     "noi_dung": "Từ khi bìu sưng ba ngày ông ra nhà thuốc đầu hẻm, được bán amoxicillin 500 mg uống 3 lần/ngày, ông uống đủ 5 ngày (hết hôm qua). Kèm ibuprofen 400 mg ngày 2 viên, uống đến sáng nay. Hôm thứ 3 bớt sốt, hai hôm nay đau và sốt trở lại. Còn vỏ thuốc trong túi áo.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "nhieu": 1,
+     "y": "Thuốc tự uống 5 ngày (amoxicillin, ibuprofen): làm lệch bệnh cảnh, cấy, INR"
+    },
+    {
+     "id": "warfarin",
+     "noi_dung": "Ông bị rung nhĩ và hẹp van hai lá do thấp tim. Ba tuần trước bệnh viện tỉnh đổi acenocoumarol sang warfarin 3 mg uống tối vì hết thuốc cũ; thêm bisoprolol 2,5 mg buổi sáng. INR gần nhất cách đây 10 ngày, ông nhớ 'bác sĩ nói tốt, 2,4'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: kháng đông warfarin, mới đổi"
+    },
+    {
+     "id": "nghi_warfarin",
+     "noi_dung": "Ông cho rằng thuốc loãng máu mới 'làm máu tụ trong bìu' nên sưng, định tự ngưng thuốc vài hôm. Chưa ngưng viên nào vì sợ đột quỵ.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Suy nghĩ sai: sưng do thuốc loãng máu"
+    },
+    {
+     "id": "chay_mau",
+     "noi_dung": "Không chảy máu cam, chảy máu chân răng, đại tiện phân đen, tiểu ra máu hay vết bầm bất thường. Không té ngã.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có chảy máu"
+    },
+    {
+     "id": "nen",
+     "noi_dung": "Không đái tháo đường, không bệnh thận. Uống bia khoảng 4–5 lon cuối tuần. Hút thuốc lá 10 điếu/ngày.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Bệnh nền, rượu bia"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Thợ sơn nhà, nhận việc theo công trình; công trình mới ở tầng 6 phải leo giàn giáo. Nhà thầu đòi giấy chứng nhận sức khỏe mới cho lên giàn.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Nghề nghiệp, công việc"
+    },
+    {
+     "id": "giay",
+     "noi_dung": "Thật ra ông đến chủ yếu để xin giấy chứng nhận sức khỏe: nhà thầu hẹn chiều mai phải nộp, nếu không thì người khác lấy chỗ. Ông tính nhờ bác sĩ 'khám sơ qua, ký giấy' rồi tiện coi luôn cái bìu. Ông sợ nói bệnh ra thì không được ký.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Bác sĩ hỏi vì sao đến vào hôm nay, hoặc hỏi công việc và kế hoạch những ngày tới, hoặc hỏi nhẹ nhàng ông cần giấy gì",
+     "k": 1,
+     "y": "Lý do thật đến khám: xin giấy chứng nhận sức khỏe"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nét mặt mệt, da nóng nhẹ, môi hơi khô. Đứng hơi khom về bên phải, đi khép chân. Da niêm hồng, không vàng da.",
+     "k": 1,
+     "hien": "Ông đứng hơi khom, đi khép chân, da nóng nhẹ."
+    },
+    "bung": {
+     "a": "Bụng mềm, không điểm đau, không chướng, không cầu bàng quang; gan lách không to.",
+     "k": 0
+    },
+    "tiet_nieu": {
+     "a": "Hố thắt lưng hai bên không đau, chạm thận âm tính, không cầu bàng quang.",
+     "k": 0
+    },
+    "bui_tinh_hoan": {
+     "a": "Bìu phải to hơn trái, da bìu đỏ nhẹ, sờ nóng, không bầm tím. Tinh hoàn phải nằm trục dọc, cùng mức với bên trái, không lệch ngang. Mào tinh phải to, cứng, rất đau, nhất là đuôi; ở cực trên ranh giới giữa mào tinh và tinh hoàn mờ, không tách rõ. Thừng tinh phải dày, đau. Phản xạ da bìu (cremaster) còn hai bên. Nâng bìu lên thì đau giảm ít. Ít dịch màng tinh hoàn bên phải. Tinh hoàn và mào tinh trái bình thường, không khối cứng. Một hạch bẹn phải 1 cm, mềm, đau; không khối thoát vị, ho không phình.",
+     "k": 1,
+     "hien": "Bìu phải to hơn bìu trái, da bìu hơi đỏ, sờ nóng. Hai tinh hoàn nằm cùng mức. Ông rụt người khi sờ bìu phải."
+    },
+    "duong_vat_nieu_dao": {
+     "a": "Không loét, không sẩn. Miệng sáo không đỏ, vắt dọc niệu đạo không ra dịch.",
+     "k": 1,
+     "hien": "Dương vật không tổn thương da, miệng sáo không đỏ, vắt niệu đạo không ra dịch."
+    },
+    "truc_trang": {
+     "a": "Cơ thắt hậu môn bình thường. Tuyến tiền liệt to nhẹ, mật độ chắc đều, nhẵn, rãnh giữa còn, không nóng, không đau, không nhân.",
+     "k": 0,
+     "hien": "Tuyến tiền liệt to nhẹ, không đau."
+    },
+    "tim": {
+     "a": "Tim loạn nhịp hoàn toàn khoảng 92 l/p, T1 đanh, rung tâm trương nhẹ ở mỏm (hẹp van hai lá nền).",
+     "k": 0,
+     "hien": "Tim đập không đều, tần số khoảng 92 l/p."
+    },
+    "phoi": {
+     "a": "Rì rào phế nang rõ hai bên, không ran. Nhịp thở 18 l/p.",
+     "k": 0,
+     "hien": "Phổi thông khí đều hai bên."
+    },
+    "da": {
+     "a": "Không bầm tím, không đốm xuất huyết ở thân, đùi, bìu; nướu không chảy máu.",
+     "k": 1,
+     "hien": "Da không bầm, không đốm xuất huyết."
+    }
+   },
+   "cls": {
+    "ua": {
+     "v": "e",
+     "r": "Bạch cầu 2+, nitrit âm tính, hồng cầu vết, protein vết, glucose âm tính, tỷ trọng 1.020.",
+     "ab": 1,
+     "bang": {
+      "u_sg": 1.02,
+      "u_ph": 6.0,
+      "u_leu": "++",
+      "u_nit": "Âm tính",
+      "u_pro": "Vết",
+      "u_ery": "Vết",
+      "u_glu": "Âm tính"
+     },
+     "n": "Bạch cầu esterase dương hoặc nước tiểu đầu dòng ≥ 10 bạch cầu/vi trường là bằng chứng viêm (CDC STI 2021 (TL-0370) tr. 99). Nước tiểu bình thường không loại trừ, nước tiểu bất thường cũng không loại trừ xoắn (EAU Paediatric Urology 2026 (TL-0506) mục 8.2); siêu âm bìu chính xác hơn tổng phân tích nước tiểu (EAU Urological Infections 2026 (TL-0512) mục 3.12.2)."
+    },
+    "cay_nuoc_tieu": {
+     "v": "e",
+     "r": "Đã lấy mẫu giữa dòng TRƯỚC liều kháng sinh đầu và gửi cấy; kết quả sau 48 giờ.",
+     "n": "Khuyến cáo mạnh: cấy nước tiểu giữa dòng (EAU Urological Infections 2026 (TL-0512) mục 3.12.2, 3.12.6; CDC STI 2021 (TL-0370) tr. 99). Ông đã uống amoxicillin 5 ngày nên cấy có thể lệch (nhận định của ca; tài liệu đã tải không nêu tỉ lệ), vẫn lấy trước liều kháng sinh mới."
+    },
+    "naat_sti": {
+     "v": "e",
+     "r": "Đã lấy nước tiểu đầu dòng, NAAT Chlamydia trachomatis và Neisseria gonorrhoeae: kết quả trong ngày, cả hai âm tính.",
+     "ab": 0,
+     "n": "Khuyến cáo mạnh: NAAT nước tiểu đầu dòng (EAU Urological Infections 2026 (TL-0512) mục 3.12.2, 3.12.6; CDC STI 2021 (TL-0370) tr. 99). Tiền sử tình dục âm tính không loại trừ nhiễm STI (EAU Urological Infections 2026 (TL-0512) mục 3.12.6, tóm tắt bằng chứng)."
+    },
+    "sa_bui": {
+     "v": "e",
+     "r": "Siêu âm Doppler bìu: mào tinh phải to (đầu khoảng 17 mm), echo kém không đồng nhất, tăng tín hiệu Doppler; ít dịch màng tinh hoàn phải; thành bìu phải dày. Tinh hoàn phải kích thước bình thường, echo đều, dòng máu có và tăng nhẹ so với bên trái. Không ổ giảm âm hay tụ dịch trong mào tinh/tinh hoàn, không khối trong tinh hoàn, không tụ máu. Bên trái bình thường.",
+     "ab": 1,
+     "n": "Đã dùng kháng sinh 5 ngày mà nặng lên, lại dùng chống đông nên cần loại trừ áp xe, tụ máu, khối: CDC STI 2021 (TL-0370) tr. 99; EAU Urological Infections 2026 (TL-0512) mục 3.12.2 (chính xác hơn tổng phân tích nước tiểu, giúp loại trừ bệnh khác), mục 3.12.4 (áp xe trên siêu âm gợi nguy cơ phẫu thuật). EAU Paediatric Urology 2026 (TL-0506) mục 8.2: còn dòng máu không loại trừ xoắn, phải so bên đối diện."
+    },
+    "inr": {
+     "v": "e",
+     "r": "INR 3,6 (khoảng điều trị 2,0–3,0).",
+     "ab": 1,
+     "n": "INR đích 2,0–3,0 với kháng vitamin K ở rung nhĩ (ESC AF 2024 (TL-0303) Bảng khuyến cáo 7, tr. 3344, I-B). Penicillin, quinolon: 'theo dõi INR kỹ' (ESC AF 2024 (TL-0303) Hình 9, tr. 3343); đo hôm nay làm mốc trước khi thêm levofloxacin. Xử trí INR vượt nhẹ không chảy máu: không có trong tài liệu đã tải."
+    },
+    "ctm": {
+     "v": "u",
+     "r": "BC 13,4 G/L · Neutrophil 82% · Hb 142 g/L · TC 245 G/L",
+     "ab": 1,
+     "bang": {
+      "wbc": 13.4,
+      "neu_pct": 82,
+      "neu": 11.0,
+      "lym_pct": 12,
+      "lym": 1.6,
+      "hgb": 142,
+      "plt": 245
+     },
+     "n": "Tuổi, sốt, CRP cao gợi bệnh nặng, cân nhắc nhập viện (CDC STI 2021 (TL-0370) tr. 99); ngưỡng cụ thể: không có trong tài liệu đã tải."
+    },
+    "crp": {
+     "v": "u",
+     "r": "CRP 68 mg/L",
+     "ab": 1,
+     "bang": {
+      "crp": 68
+     },
+     "n": "CRP tăng gợi bệnh nặng hơn (CDC STI 2021 (TL-0370) tr. 99); ngưỡng: không có trong tài liệu đã tải."
+    },
+    "creat": {
+     "v": "u",
+     "r": "Ure 5,6 mmol/L · Creatinin 92 µmol/L · eGFR 85",
+     "ab": 1,
+     "bang": {
+      "ure": 5.6,
+      "creat": 92,
+      "egfr": 85
+     },
+     "n": "Chức năng thận bình thường nhẹ để kê fluoroquinolon. Chỉnh liều levofloxacin theo thận: không có trong tài liệu đã tải."
+    },
+    "giang_mai": {
+     "v": "u",
+     "r": "RPR và TPHA: âm tính.",
+     "ab": 0,
+     "n": "Mọi nam giới viêm mào tinh cấp nên xét nghiệm HIV và giang mai (CDC STI 2021 (TL-0370) tr. 100); xét nghiệm giang mai kèm theo cũng được QĐ 5165/2021 (TL-0499) lưu ý. Làm khi ông đồng ý."
+    },
+    "virus_mau": {
+     "v": "u",
+     "r": "HIV, HBsAg, anti-HCV: âm tính.",
+     "ab": 0,
+     "n": "HIV: CDC STI 2021 (TL-0370) tr. 100; HBsAg, anti-HCV: không có trong tài liệu đã tải cho viêm mào tinh. Làm khi ông đồng ý, có tư vấn."
+    },
+    "psa": {
+     "v": "n",
+     "n": "Không có chỉ định; PSA tăng khi viêm tuyến tiền liệt hoạt động nên nên tránh (EAU Urological Infections 2026 (TL-0512) mục 3.11.4.h, nguyên tắc cho nhiễm khuẩn). PSA trong viêm mào tinh: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm mào tinh – tinh hoàn cấp bên phải, nhiều khả năng do vi khuẩn đường ruột (Enterobacterales, nhất là E. coli) trên nền phì đại tuyến tiền liệt nhẹ; đã tự dùng amoxicillin 5 ngày không đúng phác đồ; chưa có áp xe trên siêu âm",
+     "ok": 1,
+     "n": "Sưng đau một bên, bìu nóng đỏ, sốt, đau nhất ở mào tinh, phản xạ da bìu còn (CDC STI 2021 (TL-0370) tr. 98–99; EAU Urological Infections 2026 (TL-0512) mục 3.12.1). Ông 54 tuổi, không nguy cơ tình dục, không dịch niệu đạo, tiểu đêm và dòng yếu: thường do Enterobacterales (EAU Urological Infections 2026 (TL-0512) mục 3.12.1, 3.12.6; CDC STI 2021 (TL-0370) tr. 98). Nước tiểu có bạch cầu, siêu âm mào tinh to tăng Doppler."
+    },
+    {
+     "t": "INR 3,6 (trên khoảng đích 2,0–3,0), không chảy máu, ở người rung nhĩ – hẹp van hai lá dùng warfarin mới đổi và vừa uống amoxicillin, ibuprofen",
+     "ok": 1,
+     "n": "Đích 2,0–3,0 (ESC AF 2024 (TL-0303) Bảng khuyến cáo 7, tr. 3344); penicillin 'theo dõi INR kỹ', NSAID 'tránh nếu có thể' (ESC AF 2024 (TL-0303) Hình 9, tr. 3343). Không chảy máu, tiểu cầu bình thường."
+    },
+    {
+     "t": "Xoắn tinh hoàn",
+     "n": "Cấp cứu ngoại khoa, nghĩ tới ở mọi bìu cấp (CDC STI 2021 (TL-0370) tr. 98; EAU Urological Infections 2026 (TL-0512) Hình 2). Ở đây khởi phát từ từ tám ngày, không nôn, trục dọc, phản xạ da bìu còn, đau ở mào tinh, Doppler có dòng (còn dòng chưa loại trừ hẳn: EAU Paediatric Urology 2026 (TL-0506) mục 8.2). Hay gặp tuổi dậy thì (CDC STI 2021 (TL-0370) tr. 98–99)."
+    },
+    {
+     "t": "U tinh hoàn",
+     "n": "U tinh hoàn thường là khối không đau (EAU Testicular Cancer 2026 (TL-0510) mục 5.1), cần siêu âm hai bên (EAU Testicular Cancer 2026 (TL-0510) mục 5.7); khối ở mào tinh đa số là nang hoặc viêm (EAU Testicular Cancer 2026 (TL-0510) mục 8.3.5). Ông đau, sốt, siêu âm không khối đặc. Còn sưng đau sau điều trị đủ phải tìm u, áp xe, nhồi máu, lao (CDC STI 2021 (TL-0370) tr. 100)."
+    },
+    {
+     "t": "Áp xe mào tinh – tinh hoàn",
+     "n": "Siêu âm hôm nay chưa có ổ giảm âm; nhưng mào tinh – tinh hoàn không tách rõ khi sờ gợi nguy cơ phẫu thuật (EAU Urological Infections 2026 (TL-0512) mục 3.12.4), nên hẹn tái khám sớm. Áp xe là chỉ định nhập viện (EAU Urological Infections 2026 (TL-0512) mục 3.12.3)."
+    },
+    {
+     "t": "Tụ máu bìu do thuốc chống đông",
+     "n": "Ông nghĩ vậy, nhưng có sốt, bạch cầu và CRP tăng, không bầm da bìu, không chấn thương, siêu âm không tụ máu. Tụ máu bìu là một nguyên nhân bìu cấp (EAU Paediatric Urology 2026 (TL-0506) mục 8.1)."
+    },
+    {
+     "t": "Viêm mào tinh do bệnh lây truyền qua đường tình dục (lậu, Chlamydia)",
+     "n": "Không dịch niệu đạo, không bạn tình mới; NAAT đầu dòng âm tính. Tiền sử âm tính không loại trừ (EAU Urological Infections 2026 (TL-0512) mục 3.12.6) nên vẫn làm NAAT."
+    },
+    {
+     "t": "Thoát vị bẹn nghẹt",
+     "n": "Không khối vùng bẹn, ho không phình, không nôn, không chướng bụng. Tiêu chuẩn riêng: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Lao mào tinh",
+     "n": "Lao thường gây viêm mào tinh mạn, hay có lỗ rò bìu (EAU Urological Infections 2026 (TL-0512) mục 3.12.1). Ông khởi phát cấp, không ho kéo dài, không sụt cân, không rò."
+    },
+    {
+     "t": "Viêm tinh hoàn do quai bị",
+     "n": "Nghĩ khi hai bên, tiền triệu virus, sưng tuyến mang tai (EAU Urological Infections 2026 (TL-0512) mục 3.12.1); ông một bên, chưa từng quai bị, không sưng mang tai."
+    },
+    {
+     "t": "Viêm tuyến tiền liệt cấp",
+     "n": "Thăm trực tràng tuyến chắc, không nóng, không đau; triệu chứng tập trung ở bìu."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi bệnh sử và khám bìu kỹ (vị trí đau ở mào tinh hay tinh hoàn, hướng trục, phản xạ da bìu, nâng bìu, dịch niệu đạo) để chẩn đoán lâm sàng và loại trừ xoắn tinh hoàn trước",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 98–99: xoắn là cấp cứu, nghĩ tới ở mọi ca; đau dữ dội khởi phát đột ngột thì chuyển niệu khoa ngay (EAU Urological Infections 2026 (TL-0512) Hình 2: mổ thăm dò khẩn). EAU Paediatric Urology 2026 (TL-0506) mục 8.2 (nguyên tắc từ trẻ em): mất phản xạ da bìu, tinh hoàn nằm ngang, nâng bìu không đỡ gợi xoắn; ông không có dấu nào."
+    },
+    {
+     "t": "Hỏi cụ thể thuốc đã tự dùng (tên, liều, số ngày kháng sinh, thuốc giảm đau) và thuốc nền; đo INR hôm nay",
+     "v": "c",
+     "n": "Thuốc tự uống che bệnh cảnh, làm lệch cấy; NSAID 'tránh nếu có thể', penicillin và quinolon 'theo dõi INR kỹ' ở người dùng warfarin (ESC AF 2024 (TL-0303) Hình 9, tr. 3343); cần rà thuốc tương tác và INR (ESC AF 2024 (TL-0303) mục 6.7.1, tr. 3348)."
+    },
+    {
+     "t": "Lấy nước tiểu giữa dòng cấy + kháng sinh đồ và nước tiểu đầu dòng làm NAAT lậu/Chlamydia TRƯỚC liều kháng sinh mới, không chờ kết quả mới điều trị",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.2 và 3.12.6 (khuyến cáo mạnh); CDC STI 2021 (TL-0370) tr. 99: NAAT cho mọi ca nghi viêm mào tinh, cấy nước tiểu cho mọi nam giới, điều trị kinh nghiệm ngay tại buổi khám."
+    },
+    {
+     "t": "Siêu âm Doppler bìu hôm nay (tìm áp xe, tụ máu, khối; so sánh bên đối diện)",
+     "v": "c",
+     "n": "Đã dùng kháng sinh 5 ngày mà nặng lên, lại dùng chống đông: theo mục siêu âm bìu của sổ (TN-0415), không đỡ thì siêu âm là việc cần làm. CDC STI 2021 (TL-0370) tr. 99 chỉ dùng khi nghi xoắn hoặc chưa chẩn đoán chắc; EAU Urological Infections 2026 (TL-0512) mục 3.12.2, 3.12.4: siêu âm chính xác hơn nước tiểu, áp xe gợi cần phẫu thuật."
+    },
+    {
+     "t": "Levofloxacin 500 mg uống 1 lần/ngày × 10–14 ngày (10 ngày theo CDC; 10–14 ngày tùy tác nhân và đáp ứng theo EAU), bắt đầu hôm nay sau khi lấy mẫu cấy và NAAT, kèm theo dõi INR",
+     "v": "c",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.4 phác đồ 1A và 3, mục 3.12.6 (mạnh: nam lớn tuổi không nguy cơ tình dục chỉ cần phủ Enterobacterales); CDC STI 2021 (TL-0370) tr. 99: levofloxacin 500 mg × 1 lần/ngày × 10 ngày cho tác nhân đường ruột. Khác nhau chỉ ở số ngày, cùng hướng. Quinolon 'theo dõi INR kỹ' (ESC AF 2024 (TL-0303) Hình 9, tr. 3343); không dùng đơn độc nếu nghi lậu (EAU Urological Infections 2026 (TL-0512) mục 3.12.3)."
+    },
+    {
+     "t": "Doxycyclin 200 mg liều đầu rồi 100 mg × 2 lần/ngày + trimethoprim-sulfamethoxazol 160/800 mg × 2 lần/ngày, cùng 10–14 ngày thay levofloxacin",
+     "v": "a",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.4 phác đồ 1B. Sulfonamid: 'giảm liều warfarin' (ESC AF 2024 (TL-0303) Hình 9, tr. 3343) nên INR dễ tăng thêm; doxycyclin – warfarin: không có trong tài liệu đã tải. Chấp nhận được, theo dõi INR sát hơn."
+    },
+    {
+     "t": "Thêm ceftriaxone liều duy nhất (khi nghi lậu: 1.000 mg tiêm bắp hoặc tĩnh mạch theo EAU và WHO 2024, 500 mg tiêm bắp theo CDC, 250 mg tiêm bắp theo QĐ 5165/2021)",
+     "v": "a",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.4 phác đồ 2, 3.12.6; WHO 2024 (TL-0501) Bảng 1; CDC STI 2021 (TL-0370) tr. 99 (1 g nếu ≥ 150 kg); QĐ 5165/2021 (TL-0499) mục 3.2.1. Không dịch niệu đạo, NAAT âm, nguy cơ thấp nên không bắt buộc; theo mục liều ceftriaxone của sổ (TN-0415)."
+    },
+    {
+     "t": "Tiếp tục amoxicillin hoặc đổi sang kháng sinh uống khác không có trong phác đồ viêm mào tinh",
+     "v": "a",
+     "n": "Amoxicillin không nằm trong phác đồ (EAU Urological Infections 2026 (TL-0512) mục 3.12.4; CDC STI 2021 (TL-0370) tr. 99). Ở nam trên 40 tuổi, ciprofloxacin 10 ngày hơn pivampicillin (khỏi 80% so với 60%) (EAU Urological Infections 2026 (TL-0512) mục 3.12.4). Không nguồn nào nói gây hại nên không chấm w."
+    },
+    {
+     "t": "Dùng ibuprofen, diclofenac hoặc aspirin để giảm đau và giảm viêm vì ông đang đau",
+     "v": "h",
+     "n": "Người dùng kháng vitamin K: NSAID 'tránh nếu có thể', nên giảm đau khác (ESC AF 2024 (TL-0303) Hình 9, tr. 3343; Hình 10, tr. 3349), theo mục HH-1045 của sổ. CDC STI 2021 (TL-0370) tr. 99–100 và EAU Urological Infections 2026 (TL-0512) mục 3.12.3 cho NSAID hỗ trợ nhưng cho người không dùng chống đông (khác đối tượng); QĐ 361/2014 (TL-0286) mục 3.2: thận trọng khi nhiễm trùng đang tiến triển."
+    },
+    {
+     "t": "Paracetamol 500 mg mỗi lần khi đau hoặc sốt, cách nhau 4–6 giờ, tối đa 4 g/24 giờ; chườm lạnh, nâng đỡ bìu bằng quần lót ôm, nghỉ ngơi đến khi hết sốt và giảm viêm",
+     "v": "c",
+     "n": "QĐ 361/2014 (TL-0286), điều trị nội khoa, bậc 1: paracetamol 500 mg uống 4–6 lần/ngày, không quá 4 g/ngày. Chườm lạnh, nâng bìu: EAU Urological Infections 2026 (TL-0512) mục 3.12.3; nghỉ giường, nâng bìu đến khi hết sốt: CDC STI 2021 (TL-0370) tr. 99–100. Paracetamol – warfarin: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không tự ngưng warfarin: giữ nguyên liều tối nay, báo bác sĩ tim mạch hoặc nơi theo dõi INR ngay hôm nay và kiểm lại INR sau 2–3 ngày",
+     "v": "c",
+     "n": "Nguy cơ chảy máu hiếm khi là lý do ngưng chống đông (ESC AF 2024 (TL-0303) mục 6.7.1, tr. 3348); hẹp van hai lá nên không chuyển DOAC (ESC AF 2024 (TL-0303) Bảng khuyến cáo 7, tr. 3344). Không chảy máu nên chưa áp dụng Hình 11. Chỉnh liều khi INR vượt nhẹ: không có trong tài liệu đã tải; mốc 2–3 ngày là nhận định của ca (mục TH-0563 của sổ)."
+    },
+    {
+     "t": "Tự ngưng warfarin vài ngày cho 'đỡ sưng bìu' hoặc đổi sang aspirin",
+     "v": "w",
+     "n": "ESC AF 2024 (TL-0303) mục 6.7.1, tr. 3348: nguy cơ chảy máu hiếm khi là lý do ngưng chống đông; Hình 9–10: tránh aspirin/NSAID."
+    },
+    {
+     "t": "Đề nghị xét nghiệm HIV và giang mai (có tư vấn), hỏi bạn tình khi cần",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 100: mọi nam viêm mào tinh cấp nên xét nghiệm HIV và giang mai; điều trị bạn tình khi nghi hoặc xác nhận lậu, Chlamydia."
+    },
+    {
+     "t": "Hỏi nhẹ nhàng lý do đến hôm nay, nhận ra ông cần giấy chứng nhận sức khỏe; giải thích khám bệnh khác với khám sức khỏe cấp giấy, hôm nay ghi trung thực tình trạng bệnh, hẹn khám lại để hoàn thiện giấy sau điều trị",
+     "v": "c",
+     "n": "TT 32/2023/TT-BYT (TL-0669) Điều 30 khoản 2a: khám bệnh ngoại trú không phải khám sức khỏe cấp giấy; Điều 37 khoản 3b: người có bệnh thì tư vấn điều trị hoặc giới thiệu. Người từ đủ 18 tuổi dùng Mẫu số 03 Phụ lục XXIV (TT 25/2026/TT-BYT (TL-0668) Điều 34 khoản 3). Điều khoản cấp giấy khi đang bệnh cấp: không có trong tài liệu đã tải; theo mục MT-1033, NH-0050 của sổ."
+    },
+    {
+     "t": "Ký giấy 'bình thường, đủ sức khỏe làm việc' cho ông hôm nay",
+     "v": "w",
+     "n": "Ông đang sốt, viêm cấp, INR trên đích; giấy 'bình thường' không đúng thực tế (TT 32/2023/TT-BYT (TL-0669) Điều 37 khoản 3b). Theo mục giấy sức khỏe của sổ (MT-1033, NH-0050): w."
+    },
+    {
+     "t": "Dặn không leo giàn giáo, không lao động nặng cho đến khi hết sốt, INR ổn định và bác sĩ cho phép; giúp ông nói với nhà thầu",
+     "v": "c",
+     "n": "Hạn chế nghề nguy hiểm ở người dùng chống đông (ESC AF 2024 (TL-0303) Hình 10, tr. 3349: 'restricting hazardous hobbies/occupations'). Số ngày nghỉ làm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Điều trị ngoại trú, tái khám sau 48–72 giờ (đọc cấy, đo INR, khám lại bìu, siêu âm lại nếu không đỡ); quay lại ngay khi sốt cao hơn, đau sưng tăng, da bìu đỏ lan, chảy máu, hoặc ngã/va đập",
+     "v": "c",
+     "n": "CDC STI 2021 (TL-0370) tr. 100: không đỡ sau 72 giờ phải đánh giá lại chẩn đoán và điều trị; còn sưng đau sau khi hết thuốc phải tìm u, áp xe, nhồi máu, lao. EAU Urological Infections 2026 (TL-0512) mục 3.12.3, 3.12.4: đau dữ dội, sốt, áp xe, toàn thân thì nhập viện tiêm tĩnh mạch; mào tinh – tinh hoàn không tách rõ gợi phẫu thuật."
+    },
+    {
+     "t": "Nhập viện ngay hôm nay để dùng kháng sinh tĩnh mạch",
+     "v": "a",
+     "n": "EAU Urological Infections 2026 (TL-0512) mục 3.12.3: nhập viện khi đau dữ dội, sốt, áp xe, toàn thân; CDC STI 2021 (TL-0370) tr. 99: đa số ngoại trú, tuổi, đái tháo đường, sốt, CRP cao gợi bệnh nặng. Ông tỉnh, uống được, chưa áp xe nên ngoại trú hẹn chặt là hợp lý; nhập viện chấp nhận được vì chống đông, INR 3,6 và đã điều trị sai 5 ngày."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm mào tinh – tinh hoàn cấp bên phải, mức vừa, nhiều khả năng do Enterobacterales (nam 54 tuổi, không nguy cơ tình dục, phì đại tuyến tiền liệt nhẹ), đã điều trị không đúng phác đồ (amoxicillin 5 ngày) và nặng lên; chưa áp xe trên siêu âm hôm nay, nhưng mào tinh – tinh hoàn không tách rõ khi sờ",
+     "INR 3,6 trên khoảng đích 2,0–3,0, không chảy máu, ở người rung nhĩ – hẹp van hai lá dùng warfarin mới đổi; thêm quinolon phải theo dõi sát",
+     "Đã loại trừ: xoắn tinh hoàn, u tinh hoàn, tụ máu bìu, thoát vị nghẹt, lao, quai bị, viêm tuyến tiền liệt; STI nhiều khả năng không (NAAT âm)",
+     "Nhiễu và lý do thật: tự uống amoxicillin và ibuprofen 5 ngày; ông nghĩ do warfarin; đến chủ yếu để xin giấy chứng nhận sức khỏe làm công trình"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi (khởi phát, nôn, tiểu rát, dịch niệu đạo, tiền sử tình dục, thủ thuật, thuốc tự uống kể cả vỏ thuốc, thuốc nền, chảy máu, vì sao đến hôm nay) → khám (bìu và mào tinh, phản xạ da bìu, nâng bìu, niệu đạo, bẹn, trực tràng, da tìm bầm tím) → CLS (nước tiểu, cấy giữa dòng, NAAT đầu dòng, siêu âm Doppler bìu, INR, công thức máu, CRP) → chẩn đoán → xử trí (EAU Urological Infections 2026 (TL-0512) mục 3.12.2, 3.12.6; CDC STI 2021 (TL-0370) tr. 98–100).",
+     "Xoắn tinh hoàn phải nghĩ tới ở mọi bìu cấp (CDC STI 2021 (TL-0370) tr. 98). Ở ông khởi phát từ từ tám ngày, không nôn, trục dọc, phản xạ da bìu còn, đau ở mào tinh; còn dòng máu trên Doppler không đủ để loại trừ một mình (EAU Paediatric Urology 2026 (TL-0506) mục 8.2, nguyên tắc từ trẻ em). Xoắn hay gặp ở tuổi dậy thì (CDC STI 2021 (TL-0370) tr. 98–99).",
+     "Tác nhân: nam trẻ có nguy cơ tình dục thường do lậu, Chlamydia; nam lớn tuổi không nguy cơ, nhất là có triệu chứng đường tiểu, thường do Enterobacterales (EAU Urological Infections 2026 (TL-0512) mục 3.12.1, 3.12.6; CDC STI 2021 (TL-0370) tr. 98). Tiền sử âm tính không loại trừ STI nên vẫn làm NAAT; NAAT âm và không dịch niệu đạo thì chọn levofloxacin đơn độc.",
+     "Thuốc ông tự uống: amoxicillin 5 ngày không nằm trong phác đồ (EAU Urological Infections 2026 (TL-0512) mục 3.12.4; CDC STI 2021 (TL-0370) tr. 99) và có thể làm lệch cấy. Penicillin cộng ibuprofen ở người dùng warfarin: 'theo dõi INR kỹ' và 'tránh nếu có thể' (ESC AF 2024 (TL-0303) Hình 9, tr. 3343), giải thích INR 3,6 (đích 2,0–3,0, ESC AF 2024 (TL-0303) Bảng khuyến cáo 7). Ông nghĩ 'tụ máu vì thuốc loãng máu': siêu âm không tụ máu, có sốt, bạch cầu và CRP tăng.",
+     "Giấy chứng nhận sức khỏe: ông đến vì giấy nhưng đang bệnh cấp. Khám bệnh khác khám sức khỏe (TT 32/2023/TT-BYT (TL-0669) Điều 30 khoản 2a), người có bệnh thì tư vấn điều trị (TT 32/2023/TT-BYT (TL-0669) Điều 37 khoản 3b), giấy ghi đúng bệnh theo Mẫu số 03 (TT 25/2026/TT-BYT (TL-0668) Điều 34 khoản 3). Không cấp 'bình thường' hôm nay.",
+     "Vì sao ngoại trú: tỉnh, uống được, 38,2 °C, chưa áp xe, không chảy máu, không đái tháo đường (CDC STI 2021 (TL-0370) tr. 99; EAU Urological Infections 2026 (TL-0512) mục 3.12.3). Thận trọng: mào tinh – tinh hoàn không tách rõ gợi cần phẫu thuật sau kháng sinh (EAU Urological Infections 2026 (TL-0512) mục 3.12.4) nên hẹn 48–72 giờ chặt; ngưỡng CRP, bạch cầu để nhập viện: không có trong tài liệu đã tải."
+    ],
+    "phan_tich_xu_tri": [
+     "Kháng sinh: không dịch niệu đạo, nguy cơ tình dục thấp, NAAT âm: một thuốc phủ Enterobacterales, levofloxacin 500 mg × 1 lần/ngày (EAU Urological Infections 2026 (TL-0512) mục 3.12.4 phác đồ 1A và 3; CDC STI 2021 (TL-0370) tr. 99), 10 ngày (CDC STI 2021 (TL-0370)) hoặc 10–14 ngày tùy tác nhân và đáp ứng (EAU Urological Infections 2026 (TL-0512)); chọn 10 ngày, gia hạn theo cấy. Thay thế: doxycyclin + trimethoprim-sulfamethoxazol 10–14 ngày (EAU Urological Infections 2026 (TL-0512) mục 3.12.4 phác đồ 1B), thận trọng hơn với INR (ESC AF 2024 (TL-0303) Hình 9). Kháng fluoroquinolon đang tăng, xem cấy (EAU Urological Infections 2026 (TL-0512) mục 3.12.3).",
+     "Warfarin: quinolon cần theo dõi INR kỹ (ESC AF 2024 (TL-0303) Hình 9, tr. 3343); INR đã 3,6 nên hẹn đo lại sớm (2–3 ngày, nhận định của ca) và báo nơi theo dõi INR. Không tự ngưng (ESC AF 2024 (TL-0303) mục 6.7.1, tr. 3348); hẹp van hai lá nên không đổi DOAC (ESC AF 2024 (TL-0303) Bảng khuyến cáo 7). Cách chỉnh liều khi INR vượt nhẹ không chảy máu, và levofloxacin riêng ở Hình 9 (chỉ nêu nhóm quinolon): không có trong tài liệu đã tải.",
+     "Giảm đau: paracetamol tối đa 4 g/24 giờ (QĐ 361/2014 (TL-0286), bậc 1), nâng bìu, chườm lạnh, nghỉ (EAU Urological Infections 2026 (TL-0512) mục 3.12.3; CDC STI 2021 (TL-0370) tr. 99–100). NSAID: CDC và EAU cho dùng hỗ trợ, ESC AF 2024 khuyên tránh ở người dùng kháng vitamin K (ESC AF 2024 (TL-0303) Hình 9, 10): khác đối tượng, ca này không dùng; ngừng ibuprofen và amoxicillin.",
+     "Bạn tình và kiêng quan hệ chỉ khi xác nhận hoặc nghi lậu, Chlamydia (CDC STI 2021 (TL-0370) tr. 100; EAU Urological Infections 2026 (TL-0512) mục 3.12.3); ở đây NAAT âm nên không cần. HIV và giang mai (CDC STI 2021 (TL-0370) tr. 100): làm khi ông đồng ý.",
+     "Kế hoạch an toàn: tái khám 48–72 giờ, không đỡ sau 72 giờ phải đánh giá lại (CDC STI 2021 (TL-0370) tr. 100). Dấu hiệu nặng: sốt cao hơn, đau sưng tăng, da bìu đỏ lan, đau đột ngột, chảy máu, ngã. Nhập viện tiêm tĩnh mạch nếu đau dữ dội, sốt, áp xe (EAU Urological Infections 2026 (TL-0512) mục 3.12.3); dẫn lưu khi có áp xe (EAU Urological Infections 2026 (TL-0512) mục 3.12.4). Không có CT: siêu âm bìu đủ cho quyết định hôm nay, cần hình ảnh sâu hơn thì chuyển tuyến có lý do.",
+     "Giao tiếp: ông cộc và sợ mất việc; nói ngắn, thẳng, tôn trọng nỗi lo công việc, viết giấy giải thích bệnh để ông đưa nhà thầu, không trách việc tự mua thuốc (không cần nguồn)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levofloxacin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg × 1 lần/ngày (EAU Urological Infections 2026 (TL-0512) mục 3.12.4 phác đồ 1A và 3; CDC STI 2021 (TL-0370) tr. 99)",
+      "duong": "Uống",
+      "thoi_diem": "Hôm nay, sau khi lấy mẫu cấy và NAAT, cùng một giờ mỗi ngày",
+      "so_ngay": "10 ngày (CDC STI 2021 (TL-0370) tr. 99); 10–14 ngày tùy tác nhân và đáp ứng (EAU Urological Infections 2026 (TL-0512) mục 3.12.4); gia hạn hoặc đổi theo cấy",
+      "ghi_chu": "Quinolon cần theo dõi INR kỹ (ESC AF 2024 (TL-0303) Hình 9, tr. 3343): đo INR sau 2–3 ngày. Chỉnh liều theo thận, tác dụng phụ levofloxacin: không có trong tài liệu đã tải (creatinin 92 µmol/L, eGFR 85)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg mỗi lần",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau hoặc sốt, cách nhau 4–6 giờ, tối đa 4 g/24 giờ",
+      "so_ngay": "Vài ngày, đến khi hết sốt và đỡ đau",
+      "ghi_chu": "QĐ 361/2014 (TL-0286), bậc 1 (không quá 4 g/ngày). Paracetamol – warfarin: không có trong tài liệu đã tải; dùng liều thấp nhất đủ giảm đau."
+     },
+     {
+      "thuoc": "Warfarin 3 mg (đang dùng)",
+      "ham_luong": "Viên 3 mg",
+      "lieu": "Giữ nguyên 1 viên tối cho đến khi nơi theo dõi INR hoặc bác sĩ tim mạch chỉnh",
+      "duong": "Uống",
+      "thoi_diem": "Buổi tối như thường lệ",
+      "so_ngay": "Lâu dài, theo bác sĩ tim mạch",
+      "ghi_chu": "INR đích 2,0–3,0 (ESC AF 2024 (TL-0303) Bảng khuyến cáo 7, tr. 3344); không tự ngưng (ESC AF 2024 (TL-0303) mục 6.7.1, tr. 3348). Cách chỉnh khi INR 3,6 không chảy máu: không có trong tài liệu đã tải; hỏi bác sĩ tim mạch hôm nay."
+     },
+     {
+      "thuoc": "Ibuprofen (tự mua)",
+      "ham_luong": "Viên 400 mg",
+      "lieu": "Ngừng",
+      "duong": "Uống",
+      "thoi_diem": "Từ hôm nay",
+      "so_ngay": "Không dùng",
+      "ghi_chu": "NSAID 'tránh nếu có thể' ở người dùng kháng vitamin K (ESC AF 2024 (TL-0303) Hình 9, tr. 3343; Hình 10, tr. 3349)."
+     },
+     {
+      "thuoc": "Amoxicillin (tự mua)",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "Ngừng (đã uống đủ 5 ngày)",
+      "duong": "Uống",
+      "thoi_diem": "Không dùng nữa",
+      "so_ngay": "Không dùng",
+      "ghi_chu": "Không nằm trong phác đồ viêm mào tinh (EAU Urological Infections 2026 (TL-0512) mục 3.12.4; CDC STI 2021 (TL-0370) tr. 99)."
+     }
+    ],
+    "dan_do": [
+     "Bệnh của chú là viêm mào tinh, thường do vi khuẩn từ đường tiểu đi lên, chữa được bằng kháng sinh đúng loại và đủ ngày (EAU Urological Infections 2026 (TL-0512) mục 3.12.1; CDC STI 2021 (TL-0370) tr. 98). Thuốc mua ngoài chưa đúng loại nên bệnh nặng lên.",
+     "Uống levofloxacin 1 viên mỗi ngày, cùng giờ, đủ 10 ngày kể cả khi hết đau (CDC STI 2021 (TL-0370) tr. 99; EAU Urological Infections 2026 (TL-0512) mục 3.12.4); nằm nghỉ, nâng đỡ bìu, chườm lạnh (EAU Urological Infections 2026 (TL-0512) mục 3.12.3; CDC STI 2021 (TL-0370) tr. 99–100). Ngừng ibuprofen; chỉ dùng paracetamol, không quá 4 g/ngày (QĐ 361/2014 (TL-0286)).",
+     "Warfarin: uống đúng liều, không tự ngưng. INR hôm nay 3,6 hơi cao, chú nhắn bác sĩ tim mạch hoặc nơi đo INR trong ngày và đo lại sau 2–3 ngày (ESC AF 2024 (TL-0303) Hình 9, tr. 3343; mốc ngày là nhận định của ca). Báo ngay nếu chảy máu cam, chảy máu chân răng, phân đen, tiểu ra máu, bầm lớn hoặc té ngã.",
+     "Giấy chứng nhận sức khỏe: hôm nay tôi không ký 'bình thường' vì chú đang sốt và viêm (TT 32/2023/TT-BYT (TL-0669) Điều 30 khoản 2a, Điều 37 khoản 3b). Tôi viết giấy giải thích để chú xin nhà thầu lùi vài ngày; khi hết bệnh và INR ổn tôi hoàn thiện giấy. Chưa leo giàn giáo đến khi hết sốt, INR ổn và tôi cho phép (ESC AF 2024 (TL-0303) Hình 10, tr. 3349).",
+     "Tái khám sau 2–3 ngày để đọc cấy, đo INR, khám lại bìu (CDC STI 2021 (TL-0370) tr. 100); quay lại NGAY nếu sốt cao hơn, đau dữ dội, bìu đỏ lan nhanh. Hết thuốc mà còn sưng đau thì khám lại tìm nguyên nhân khác (CDC STI 2021 (TL-0370) tr. 100)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Ông Tám uống levofloxacin đủ liều, bỏ ibuprofen và amoxicillin, tái khám sau ba ngày như hẹn. INR hôm đó 4,2, không chảy máu; bác sĩ tim mạch hạ tạm liều warfarin và hẹn đo lại. Cấy nước tiểu gửi hôm đầu mọc Escherichia coli kháng levofloxacin. Sốt không giảm, bìu sưng hơn; siêu âm lại thấy ổ áp xe khoảng 2 cm ở đuôi mào tinh. Ông được chuyển bệnh viện tỉnh, dùng kháng sinh tĩnh mạch theo kháng sinh đồ và dẫn lưu ổ áp xe, giữ được tinh hoàn, ra viện sau tám ngày. Quyết định hôm khám đầu vẫn đúng theo hướng dẫn; đánh giá quyết định theo thông tin lúc đó, không theo kết cục.",
+ "nhieu": [
+  "Tự uống amoxicillin 500 mg × 3 lần/ngày × 5 ngày và ibuprofen mua ở nhà thuốc: hỏi chung ông chỉ nhắc thuốc tim; phải hỏi cụ thể kháng sinh, thuốc giảm đau, vỏ thuốc. Che bớt triệu chứng, làm lệch cấy, đẩy INR lên, tăng nguy cơ chảy máu.",
+  "Lý do thật: xin giấy chứng nhận sức khỏe để lên giàn giáo, không nói vì sợ không được ký. Không hỏi thì dễ ký giấy hoặc bỏ sót INR cao.",
+  "Warfarin mới đổi 3 tuần: ông nghĩ bìu sưng vì thuốc loãng máu và muốn tự ngưng; thật ra là viêm nhiễm, còn INR cao do thuốc tự uống.",
+  "Thợ sơn leo giàn giáo, hít dung môi: liên quan dung môi với viêm mào tinh không có trong tài liệu đã tải; nguy cơ té ngã khi INR cao là có thật.",
+  "Tiểu đêm, dòng yếu từ trước: dễ nhầm là triệu chứng của tuổi, nhưng là nền thuận lợi cho viêm do vi khuẩn đường ruột.",
+  "Không có CT: thay bằng siêu âm Doppler bìu, hẹn tái khám 48–72 giờ, chuyển tuyến có lý do khi nghi áp xe."
+ ],
+ "bai_hoc_bien": [
+  "Bìu cấp: luôn nghĩ tới xoắn tinh hoàn trước (CDC STI 2021 (TL-0370) tr. 98; EAU Urological Infections 2026 (TL-0512) Hình 2). Khởi phát từ từ, phản xạ da bìu còn, đau ở mào tinh là viêm (EAU Paediatric Urology 2026 (TL-0506) mục 8.2, nguyên tắc từ trẻ em).",
+  "Trước liều kháng sinh đầu: cấy nước tiểu giữa dòng và NAAT nước tiểu đầu dòng (khuyến cáo mạnh, EAU Urological Infections 2026 (TL-0512) mục 3.12.6; CDC STI 2021 (TL-0370) tr. 99). Nam lớn tuổi không nguy cơ tình dục: chủ yếu Enterobacterales, levofloxacin 500 mg × 1 lần/ngày × 10–14 ngày (EAU Urological Infections 2026 (TL-0512) mục 3.12.4; CDC STI 2021 (TL-0370) tr. 99).",
+  "Người dùng warfarin: penicillin và quinolon cần theo dõi INR kỹ, NSAID tránh nếu có thể (ESC AF 2024 (TL-0303) Hình 9, tr. 3343); không tự ngưng chống đông vì sợ chảy máu (ESC AF 2024 (TL-0303) mục 6.7.1, tr. 3348).",
+  "Xin giấy chứng nhận sức khỏe không đồng nghĩa với khám sức khỏe: người đang bệnh cấp không cấp giấy 'bình thường' (TT 32/2023/TT-BYT (TL-0669) Điều 30 khoản 2a, Điều 37 khoản 3b).",
+  "Chống outcome bias: xử trí đúng vẫn có thể diễn tiến xấu (kháng thuốc, áp xe sau 5 ngày điều trị sai). Hẹn chặt khi mào tinh – tinh hoàn không tách rõ (EAU Urological Infections 2026 (TL-0512) mục 3.12.4); không đỡ sau 72 giờ phải đánh giá lại (CDC STI 2021 (TL-0370) tr. 100)."
+ ],
+ "diem_nho": [
+  "Viêm mào tinh cấp: đau, sưng, nóng ở mào tinh một bên, nặng dần trong vài ngày (EAU Urological Infections 2026 (TL-0512) mục 3.12.1); dưới 6 tuần là cấp (CDC STI 2021 (TL-0370) tr. 98).",
+  "Nguyên nhân: STI ở nam trẻ có nguy cơ; Enterobacterales ở nam lớn tuổi, phì đại tuyến tiền liệt, sau thủ thuật tiết niệu (EAU Urological Infections 2026 (TL-0512) mục 3.12.1; CDC STI 2021 (TL-0370) tr. 98).",
+  "Siêu âm bìu chính xác hơn tổng phân tích nước tiểu và giúp loại trừ bệnh khác (EAU Urological Infections 2026 (TL-0512) mục 3.12.2); còn dòng máu không loại trừ xoắn (EAU Paediatric Urology 2026 (TL-0506) mục 8.2).",
+  "Điều trị ngoại trú là chính; nhập viện khi đau dữ dội, sốt, áp xe (EAU Urological Infections 2026 (TL-0512) mục 3.12.3); còn sưng đau sau khi hết thuốc: tìm u, áp xe, nhồi máu, lao (CDC STI 2021 (TL-0370) tr. 100).",
+  "Mọi nam viêm mào tinh nên xét nghiệm HIV và giang mai (CDC STI 2021 (TL-0370) tr. 100). INR đích 2,0–3,0 ở rung nhĩ dùng kháng vitamin K (ESC AF 2024 (TL-0303) Bảng khuyến cáo 7)."
+ ],
+ "nguon": [
+  "EAU Guidelines on Urological Infections, Limited Update March 2026 (TL-0512) – mục 3.12.1–3.12.6, Hình 2 (viêm mào tinh cấp); mục 3.11.4.h (PSA ở viêm tuyến tiền liệt, dùng nguyên tắc).",
+  "CDC. Sexually Transmitted Infections Treatment Guidelines, 2021, MMWR Recomm Rep 70(4) (TL-0370) – mục Epididymitis, tr. 98–100.",
+  "ESC Guidelines for the management of atrial fibrillation 2024 (TL-0303) – Bảng khuyến cáo 7 (tr. 3344), Hình 9 (tr. 3343), mục 6.7.1–6.7.2 (tr. 3348), Hình 10 (tr. 3349), Hình 11.",
+  "EAU Guidelines on Paediatric Urology, Limited Update March 2026 (TL-0506) – mục 8.1, 8.2 (bìu cấp; nguyên tắc dùng cho loại trừ xoắn). EAU Guidelines on Testicular Cancer, Limited Update March 2026 (TL-0510) – mục 5.1, 5.7, 8.3.5.",
+  "WHO 2024 (TL-0501) – Bảng 1 (ceftriaxone 1 g tiêm bắp liều đơn). BYT – QĐ 5165/QĐ-BYT 2021, Hướng dẫn chẩn đoán và điều trị bệnh lậu (TL-0499) – mục 3.2.1 (ceftriaxone 250 mg).",
+  "BYT – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp (TL-0286) – điều trị nội khoa, bậc 1 (paracetamol, không quá 4 g/ngày).",
+  "BYT – TT 32/2023/TT-BYT (TL-0669) – Điều 30 khoản 2a, Điều 37 khoản 3b. BYT – TT 25/2026/TT-BYT (TL-0668) – Điều 34 khoản 3 (Mẫu số 03 Phụ lục XXIV)."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 2026-11-28. Đã đọc: TL-0512 mục 3.12, Hình 2; TL-0370 tr. 97–100; TL-0303 Hình 9–11, Bảng khuyến cáo 7, mục 6.7; TL-0506 mục 8.1–8.2; TL-0510 mục 5.1, 5.7, 8.3.5; TL-0501 Bảng 1; TL-0499 mục 3.2.1; TL-0286 mục 3.2 và bậc 1; TL-0669 Điều 30, 37; TL-0668 Điều 34.",
+  "Mâu thuẫn: dùng đúng các mục sẵn có trong sổ: liều ceftriaxone và doxycyclin (TN-0415), vai trò siêu âm bìu (TN-0415), NSAID với warfarin (HH-1045), INR vượt nhẹ không chảy máu (TH-0563), giấy chứng nhận sức khỏe (MT-1033, NH-0050). Levofloxacin 10 ngày (CDC) và 10–14 ngày (EAU): cùng hướng, ghi cả hai, không thêm mục mới.",
+  "Không có trong tài liệu đã tải: chỉnh liều và tác dụng phụ levofloxacin; tương tác doxycyclin, paracetamol với warfarin; chỉnh warfarin khi INR vượt nhẹ không chảy máu; ngưỡng CRP, bạch cầu cho nhập viện; số ngày nghỉ làm; kháng fluoroquinolon của E. coli ở Việt Nam; tiêu chuẩn thoát vị nghẹt; cấp giấy sức khỏe khi đang bệnh cấp; dung môi sơn và viêm mào tinh; nội dung Mẫu 03 chưa kiểm (chỉ kiểm Điều 34 khoản 3).",
+  "Thiết kế: 1 lượt ve_hen; siêu âm Doppler bìu làm hôm nay vì đã điều trị sai 5 ngày mà nặng lên và dùng chống đông (theo mục siêu âm bìu của sổ). Beers 2023 không dùng vì ông 54 tuổi (tiêu chí cho người từ 65 tuổi). Ca đề xuất không cần mục danh mục mới."
+ ]
+}
