@@ -1,0 +1,718 @@
+{
+ "ma_ca": "TK-0473",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-28)",
+ "benh": "TK_parkinson_theo_doi_thuoc_nho_mui_ngoi_lau",
+ "so_cai": {
+  "chuyen_khoa": "Thần kinh - tiền đình - giấc ngủ",
+  "chan_doan_dich": "Parkinson (theo dõi)",
+  "chan_doan_phai_loai_tru": [
+   "Run vô căn",
+   "Parkinson thứ phát do thuốc"
+  ],
+  "gioi": "Nữ",
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Không điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "co_co_do": "Không",
+  "so_luot_kham": 2,
+  "dien_tien_tai_kham": "Nặng hơn",
+  "nhieu_benh_nhan": "Không đủ tiền xét nghiệm",
+  "rang_buoc_nguon_luc": "Không có siêu âm",
+  "nghe_nghiep": "Tiểu thương chợ (bán rau củ ở chợ xã)",
+  "yeu_to_khoi_phat": "Sau đi xa ngồi lâu (xe khách 8 giờ về quê giỗ)",
+  "thuoc_dang_dung": "Thuốc nhỏ mũi co mạch dùng kéo dài (chai ghi naphazolin, nhỏ sáng và tối khoảng ba năm)",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn (phiếu hẹn của phòng khám hai tuần trước; con trai nhắc đi)",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh"
+ },
+ "benh_nhan": {
+  "ten": "Trương Thị Lụa",
+  "tuoi": 77,
+  "gioi": "Nữ",
+  "nghe": "Tiểu thương chợ (bán rau củ ở chợ xã, ngồi ghế nhựa thấp từ sáng đến chiều)",
+  "can_nang": 45,
+  "chieu_cao": 148,
+  "xung_ho": "Bác sĩ gọi bà là 'bà'. Bà xưng 'tui', gọi bác sĩ là 'bác sĩ'. Con trai Lợi gọi mẹ là 'má', xưng 'con', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Lam lũ, tiết kiệm, nói ngắn, sợ tốn tiền hơn sợ bệnh; hay đổ cho 'trúng gió', 'ngồi xe lâu', 'già rồi'. Con trai Trần Văn Lợi, 49 tuổi, chạy xe tải nhỏ thuê, ít nói, hay nhìn đồng hồ, nhưng để ý mẹ nhiều hơn mẹ tưởng.",
+  "kieu_nhieu": "Không đủ tiền xét nghiệm: nghe nói xét nghiệm hay chụp hình là gạt ngay 'thôi, tui không làm, tốn tiền lắm', nhắc chỉ mang 200 nghìn (tiền nhập rau sáng mai). Dịu xuống khi bác sĩ nói rõ việc nào không cần làm, việc nào thật sự đổi cách xử trí và giá bao nhiêu; chỉ chịu làm khi thấy đáng đồng tiền.",
+  "nguoi_nha": "Con trai",
+  "ten_nguoi_nha": "Trần Văn Lợi",
+  "ngoai_hinh": {
+   "da": "#b98660",
+   "toc": "#d6d6d6",
+   "kieuToc": "bui",
+   "ao": "#8a7a62",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 3,
+   "bieuCam": "binh",
+   "nguoiNha": {
+    "da": "#c08e66",
+    "toc": "#1d1b19",
+    "kieuToc": "ngan",
+    "ao": "#4f6a7a",
+    "aoKieu": "thun",
+    "kinh": false,
+    "nep": 1,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Tái khám theo phiếu hẹn: đau mỏi lưng và chân sau chuyến xe đường dài, còn nặng chân, đi chậm",
+ "khoa_cls": {
+  "nhom": [
+   "sieu_am"
+  ],
+  "loi_bao": "Cơ sở không có máy siêu âm."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nữ 77 tuổi, bán rau ở chợ xã, con trai Lợi chở đến tái khám theo phiếu hẹn hai tuần trước (lần đó bà đau mỏi lưng và hai chân sau chuyến xe khách 8 giờ về quê giỗ, được cho paracetamol). Bà nói 'đỡ rồi, còn nặng chân, đi chậm', không muốn làm xét nghiệm. Sinh hiệu lúc tiếp đón: mạch 72 l/p, HA 138/82 mmHg, nhiệt 36,6 °C, nhịp thở 18, SpO₂ 96%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Bà Lụa có chậm vận động giảm biên độ, cứng ống chì bên phải và run nghỉ nhẹ bên trái, tức hội chứng parkinson (MDS 2015, mục I); nghi Parkinson thì chuyển nhanh, chưa điều trị, đến chuyên khoa (NICE NG71, mục 1.2.2). Cho về với paracetamol và hẹn lại, bà càng tin mình 'ngồi xe lâu, trúng gió', vẫn ngồi ghế nhựa 25 cm bán rau và có thể ngã thật sau lần vấp thềm chợ; điều trị chậm thêm nhiều tuần.",
+    "theo_doi": "Giữ bà theo dõi ở phòng khám nội và cho thử levodopa 'xem có đáp ứng không' là sai hai chỗ: NICE NG71 mục 1.2.2 chuyển chuyên khoa 'untreated', mục 1.2.13 không dùng nghiệm pháp levodopa cấp để chẩn đoán phân biệt. Bà 45 kg, 77 tuổi, có thể buồn nôn và tụt huyết áp khi đứng (AAN 2021, rationale 2) mà chưa có chẩn đoán, chưa có người theo dõi, lại không dám quay lại vì tốn tiền.",
+    "nhap_vien": "Nhập viện chụp CT, MRI sọ và xét nghiệm hàng loạt là không cần: chẩn đoán Parkinson là chẩn đoán lâm sàng (NICE NG71, mục 1.2.3), MRI cấu trúc không dùng để chẩn đoán (mục 1.2.9). Bà chỉ mang 200 nghìn; nằm viện nhiều ngày mất tiền sạp, bà dễ bỏ về giữa chừng và lần sau không dám đến vì sợ bị bắt xét nghiệm nữa."
+   },
+   "loi_mo": "Bác sĩ ơi, tui đi coi lại cái chân thôi. Hết đau rồi, còn nặng nặng với đi chậm chút. Bác sĩ cho tui thuốc về uống, đừng có bắt làm xét nghiệm nghen, tui có mang hai trăm ngàn à.",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "138/82",
+    "nhiet": "36,6",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đến tái khám theo phiếu hẹn hai tuần trước. Lần đó bà đau mỏi lưng và hai bắp chân, đi nặng nề sau chuyến xe khách 8 giờ về quê giỗ; được cho paracetamol và hẹn lại. Giờ bà nói 'đỡ rồi', còn nặng chân, đi chậm. Con trai Lợi chở đi vì nhớ tờ phiếu hẹn.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám: tái khám theo hẹn"
+    },
+    {
+     "id": "chuyen_xe",
+     "noi_dung": "Hai tuần trước ngồi xe khách 8 giờ, ít xuống xe, uống ít nước. Xuống xe chân tê, nặng, mấy bước đầu như 'dính đất'. Đau đã đỡ nhưng còn nặng và chậm, nhất là chân phải.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Yếu tố khởi phát: ngồi xe lâu"
+    },
+    {
+     "id": "chan_dvt",
+     "noi_dung": "Không sưng riêng một chân, không đau căng bắp chân, không nóng đỏ, không khó thở, đau ngực, ho ra máu. Chưa mổ, bó bột, nằm liệt giường, ung thư hay tắc mạch.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc huyết khối tĩnh mạch sâu sau đi xe dài (không có siêu âm)"
+    },
+    {
+     "id": "truoc_xe",
+     "noi_dung": "Từ khoảng tám đến mười tháng nay bà đã chậm dần: bó rau, xếp rau lâu hơn, bước nhỏ, quay người lâu, phải ngồi nghỉ. Bà nghĩ 'già nên chậm'; chuyến xe chỉ làm bà để ý chân nặng hơn.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi trước chuyến xe bà đi lại, làm việc ra sao, bắt đầu từ bao giờ, hoặc con trai Lợi nói thêm. Hỏi chung 'còn đau chân không' thì bà đáp 'nặng nặng thôi'.",
+     "y": "Tiến triển chậm kéo dài trước chuyến xe; chuyến xe không phải nguyên nhân"
+    },
+    {
+     "id": "run",
+     "noi_dung": "Bàn tay trái thỉnh thoảng run nhẹ khi ngồi yên hoặc khi đi; con trai thấy lúc mẹ ngồi chờ ở xe. Cầm cân, đếm tiền thì không run. Tay phải không run.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có run không' thì bà đáp 'không'. Chỉ kể khi hỏi tay có run lúc ngồi yên không, bên nào, hoặc con trai nói.",
+     "y": "Run nghỉ nhẹ một bên, giảm khi làm việc"
+    },
+    {
+     "id": "cham",
+     "noi_dung": "Chữ ký nhỏ lại, ký sổ nhập rau khó. Giọng nhỏ, khách hay hỏi lại. Con trai thấy má 'hết cười như trước, mặt đơ'. Cài nút, bó rau lâu hơn; đi bộ tay phải ít vung. Bà không thấy yếu, chỉ thấy chậm.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Hỏi chung 'có yếu không' thì bà nói 'không yếu, chỉ chậm'. Chỉ kể khi hỏi cụ thể từng việc: chữ ký, giọng, cài nút, cách đi, nét mặt.",
+     "y": "Chậm vận động, chữ nhỏ, giọng nhỏ, mặt ít biểu cảm, giảm vung tay"
+    },
+    {
+     "id": "nho_mui",
+     "noi_dung": "Nhỏ mũi hai bên sáng và tối bằng chai thuốc nhỏ mũi co mạch mua ở tiệm đầu chợ (chai ghi naphazolin), khoảng ba năm nay vì 'nghẹt mũi'; không nhỏ thì nghẹt cả ngày. Mấy năm nay ngửi mùi kém, bà cho là do nghẹt mũi. Táo bón nhiều năm, ba bốn ngày đi một lần, uống ít nước. Ban đêm con trai nghe mẹ nói mớ, đạp chăn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc nhỏ mũi co mạch kéo dài; giảm khứu giác bị nhiễu; táo bón; hành vi khi ngủ"
+    },
+    {
+     "id": "thuoc_khac",
+     "noi_dung": "Ngoài thuốc nhỏ mũi và paracetamol của phòng khám, bà không dùng thuốc nào đều đặn: không thuốc huyết áp, tiểu đường, an thần, thuốc ngủ, chống nôn (không metoclopramid), thuốc chóng mặt thường xuyên hay tâm thần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Rà thuốc chẹn dopamin đang dùng (loại trừ Parkinson thứ phát do thuốc)"
+    },
+    {
+     "id": "say_xe",
+     "noi_dung": "Sáng hôm đi xe bà uống một viên thuốc chống say xe mua ở bến xe, không nhớ tên; chỉ một viên đó, trước và sau chưa dùng lại.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nhớ khi bác sĩ hỏi thuốc chống say xe, chống nôn, hoặc thuốc uống quanh những ngày đi xe. Hỏi chung 'đang uống thuốc gì' thì bà chỉ kể thuốc nhỏ mũi.",
+     "y": "Một liều thuốc chống say xe đơn lẻ: xét liều và thời gian so với parkinson do thuốc"
+    },
+    {
+     "id": "te_nga",
+     "noi_dung": "Chưa té ngã. Một lần vấp mép bậc thềm ở chợ, bám được sạp. Thỉnh thoảng choáng vài giây khi đứng dậy khỏi ghế thấp, không ngất. Không yếu liệt nửa người, méo miệng, nhìn đôi, són tiểu, nuốt sặc hay ảo giác.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Té ngã, choáng khi đổi tư thế (cờ đỏ); sàng lọc thần kinh"
+    },
+    {
+     "id": "tien_su",
+     "noi_dung": "Không tăng huyết áp, không tiểu đường, không đột quỵ, không chấn thương đầu, không bệnh tuyến giáp. Gia đình không ai run tay. Không hút thuốc, không uống rượu. Đau lưng nhẹ vùng thắt lưng, không lan, không tê bì, không yếu chân. Còn tự tính tiền, nhớ khách quen. Bà ngồi bán đến chiều trên ghế nhựa cao khoảng 25 cm, nhập rau lúc 3 giờ sáng; thu nhập cả nhà trông vào sạp.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tiền sử bệnh, gia đình; đau lưng không có dấu chèn ép rễ; nhận thức; nghề nghiệp, nguồn lực"
+    },
+    {
+     "id": "ngan_sach",
+     "noi_dung": "Hôm nay bà chỉ mang khoảng 200 nghìn, là tiền nhập rau sáng mai. Nghe nói xét nghiệm hay chụp hình là từ chối ngay; bà chịu làm một việc nếu bác sĩ nói rõ vì sao cần, giá bao nhiêu và việc nào bỏ được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngân sách và nỗi sợ bị bắt xét nghiệm; cách thương lượng",
+     "nhieu": 1
+    },
+    {
+     "id": "dong_co",
+     "noi_dung": "Bà chỉ đến vì tờ phiếu hẹn và vì con trai nhắc; bà thấy 'đỡ rồi'. Điều bà sợ nhất là bệnh nặng phải nghỉ bán, mất tiền chợ, tốn tiền thuốc và xét nghiệm.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi vì sao bà đến hôm nay, bà lo nhất điều gì; hỏi chung thì bà nói 'đến cho bác sĩ coi lại'.",
+     "y": "Lý do thật: tái khám theo hẹn, lo chi phí và mất sạp"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 138/82 mmHg, mạch 70. Đứng 1 phút: 126/78 mmHg, mạch 76. Đứng 3 phút: 124/76 mmHg. Giảm tối đa 14/6 mmHg: chưa đạt ngưỡng hạ huyết áp tư thế (DGN 2025: giảm ≥ 20/10 mmHg trong 3 phút) hay cờ đỏ (MDS 2015: ≥ 30/15 mmHg).",
+     "k": 1
+    },
+    "chi_duoi": {
+     "a": "Hai chân cân đối, không phù, không nóng đỏ. Chu vi bắp chân đo dưới lồi củ chày 10 cm: 29 cm mỗi bên. Không ấn đau dọc tĩnh mạch sâu, không giãn tĩnh mạch nông. Cổ chân phải hơi cứng khi gập duỗi.",
+     "k": 1,
+     "hien": "Hai chân cân đối, không phù, không nóng đỏ; chu vi bắp chân hai bên bằng nhau."
+    },
+    "thu_khuu_giac": {
+     "a": "Ngửi dầu gió và xà phòng: nhận ra mùi mạnh; không nhận ra mùi cà phê, hành nhẹ, hai bên như nhau. Do nghẹt mũi mạn và thuốc co mạch kéo dài nên không dùng làm tiêu chuẩn hỗ trợ.",
+     "k": 0
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ. Nhãn cầu liếc lên xuống đủ, không rung giật nhãn cầu. Sức cơ 5/5 bốn chi. Phản xạ gân xương đều, Babinski âm tính. Cảm giác nông bình thường. Không dấu tiểu não.",
+     "k": 1
+    },
+    "mat_giong_chu_viet": {
+     "a": "Nét mặt đơn điệu, chớp mắt thưa. Giọng nhỏ, đều đều nhưng rõ lời nếu ngồi gần. Viết tên: chữ nhỏ dần về cuối dòng (từ khoảng 6 mm xuống còn 2 mm).",
+     "k": 1,
+     "hien": "Mặt ít biểu cảm, giọng nhỏ. Viết tên: chữ nhỏ dần về cuối dòng."
+    },
+    "run_nghi": {
+     "a": "Tay trái run lúc nghỉ, tần số chậm khoảng 4 đến 6 Hz, rõ hơn khi bà tính nhẩm 100 trừ 7 và khi đi; mất khi cầm ly và khi giơ tay ra trước. Tay phải không run. Không run đầu, giọng, chân.",
+     "k": 1,
+     "hien": "Tay trái run nhẹ khi để yên trên đùi, rõ hơn khi tính nhẩm; cầm ly thì hết run. Tay phải không run."
+    },
+    "dong_tac_cham": {
+     "a": "Gõ ngón cái với ngón trỏ: bên phải chậm, biên độ nhỏ dần sau 4 đến 5 lần, ngắt quãng một lần. Bên trái hơi chậm. Mở nắm bàn tay và sấp ngửa bên phải chậm hơn bên trái. Đây là chậm vận động có giảm biên độ khi lặp lại (đúng định nghĩa của MDS 2015).",
+     "k": 1,
+     "hien": "Gõ ngón tay phải chậm, biên độ nhỏ dần; bên trái nhẹ hơn."
+    },
+    "tang_truong_luc": {
+     "a": "Trương lực tăng kiểu ống chì ở cổ tay, khuỷu và cổ chân phải, rõ hơn khi bà gập duỗi tay đối bên (nghiệm pháp tăng cường). Bên trái tăng nhẹ ở cổ tay. Không co cứng kiểu tháp, không tăng trương lực cổ.",
+     "k": 1,
+     "hien": "Cổ tay, khuỷu, cổ chân phải: sức cản đều khi cử động thụ động. Bên trái nhẹ hơn."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng lên khỏi ghế phải chống tay hai lần. Đi bước ngắn, kéo nhẹ chân phải, tay phải ít vung, quay người bốn bước. Nghiệm pháp kéo: lùi hai bước rồi tự giữ được thăng bằng, không ngã. Không đi dạng chân, không kiểu hộ vệ, không bước cao.",
+     "k": 1,
+     "hien": "Bà đứng dậy phải chống tay, đi bước ngắn, tay phải ít vung, quay người bốn bước. Nghiệm pháp kéo: lùi hai bước rồi giữ được thăng bằng."
+    }
+   },
+   "cls": {
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 5,8 mmol/L (ăn sáng ba giờ trước).",
+     "n": "Rẻ (20.000 đồng) nhưng không đổi quyết định; tài liệu đã tải không có khuyến cáo đo đường huyết thường quy khi nghi Parkinson. Không trừ điểm."
+    },
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 72 l/p, không block, QT bình thường.",
+     "n": "Không bắt buộc, không trừ điểm; tài liệu đã tải không có khuyến cáo ECG thường quy khi nghi Parkinson."
+    },
+    "tsh": {
+     "v": "a",
+     "r": "TSH, FT4 trong giới hạn bình thường.",
+     "n": "180.000 đồng, gần hết ngân sách của bà. Bà có run nghỉ một bên kèm chậm vận động và cứng, không phải run hoạt động đơn thuần; MDS 2018 (TL-0478, Bảng 2) nêu cường giáp trong nguyên nhân run nhưng ở đây không đổi hướng xử trí."
+    },
+    "ddimer": {
+     "v": "a",
+     "r": "D-dimer dưới ngưỡng cắt của phòng xét nghiệm.",
+     "n": "250.000 đồng, vượt ngân sách. Điểm Wells (NEJM 2003, Bảng 1) của bà thấp nên xếp 'ít khả năng'; lâm sàng không phù hợp huyết khối nên bỏ được, thay bằng dặn dấu hiệu nguy hiểm."
+    },
+    "ct_nao": {
+     "v": "n",
+     "r": "Không có chỉ định.",
+     "n": "900.000 đồng. NICE NG71 mục 1.2.9: không dùng MRI cấu trúc để chẩn đoán Parkinson (mục 1.2.10 chỉ cân nhắc để phân biệt hội chứng parkinson khác, do chuyên khoa quyết); CT sọ không được nêu riêng trong tài liệu đã tải. Khám không có dấu khu trú; tốn tiền mà không đổi quyết định (NICE 1.2.3)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Hội chứng parkinson bất đối xứng (chậm vận động có giảm biên độ + tăng trương lực ống chì, kèm run nghỉ nhẹ tay trái), phù hợp bệnh Parkinson lâm sàng có khả năng (MDS 2015); chuyển chuyên khoa thần kinh xác nhận trước khi điều trị",
+     "ok": 1,
+     "n": "Chậm vận động giảm biên độ + cứng ống chì + run nghỉ = hội chứng parkinson (MDS 2015, mục I, tr. 1594, Bảng 1). Không có tiêu chuẩn loại trừ tuyệt đối, không có cờ đỏ. Tiêu chuẩn hỗ trợ chắc mới có run nghỉ, nên ở mức 'có khả năng'; giảm khứu giác bị nhiễu bởi viêm mũi mạn nên không tính."
+    },
+    {
+     "t": "Run vô căn",
+     "n": "Loại trừ: run nghỉ một bên, tăng khi tính nhẩm, mất khi cầm ly, kèm chậm vận động và cứng. Run vô căn (MDS 2018, TL-0478) là run đơn độc của hai tay khi hoạt động, kéo dài ≥ 3 năm, không dấu thần kinh khác; run nghỉ của Parkinson giảm khi làm động tác và tăng khi tính nhẩm. MDS 2015 (tr. 1594): run tư thế hoặc vận động đơn thuần không đủ tiêu chuẩn hội chứng parkinson."
+    },
+    {
+     "t": "Parkinson thứ phát do thuốc",
+     "n": "Loại trừ: không dùng thuốc chẹn dopamin nào. Một viên thuốc chống say xe (không rõ tên) không phù hợp 'liều và thời gian của parkinson do thuốc' (MDS 2015, loại trừ 5 và ghi chú, tr. 1597), nhất là khi triệu chứng đã tiến triển tám đến mười tháng trước chuyến đi."
+    },
+    {
+     "t": "Huyết khối tĩnh mạch sâu chi dưới sau ngồi xe dài",
+     "n": "Không có siêu âm Doppler nên dùng điểm Wells (NEJM 2003;349:1227, Bảng 1): không sưng cả chân, bắp chân hai bên bằng nhau, không đau dọc tĩnh mạch sâu, không bất động hay mổ gần đây; có chẩn đoán khác ít nhất ngang DVT (−2): 'ít khả năng' (< 2)."
+    },
+    {
+     "t": "Viêm mũi do dùng thuốc nhỏ mũi co mạch kéo dài, giảm khứu giác kèm theo",
+     "ok": 1,
+     "n": "Niêm mạc đỏ sẫm, phù nề sau khoảng ba năm nhỏ naphazolin hằng ngày; tài liệu đã tải không có tiêu chuẩn chẩn đoán nên là nhận định lâm sàng. QĐ 5643/2015 (Viêm mũi xoang cấp, mục 4.2.1): co mạch ngắn ngày, kéo dài có thể làm bệnh nặng hơn; ARIA-EAACI 2024–2025 (Bảng 1, tr. 958): không quá 5 ngày, tránh ở người cao tuổi."
+    },
+    {
+     "t": "Táo bón mạn",
+     "ok": 1,
+     "n": "Triệu chứng ngoài vận động thường gặp của Parkinson (DGN 2025, mục Constipation), kèm uống ít nước. Không có dấu hiệu tắc ruột."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Hỏi nỗi lo chi phí, nói rõ việc nào cần làm và việc nào bỏ được; giải thích bà có bệnh thần kinh cần chuyên khoa chứ không phải 'ngồi xe lâu'",
+     "v": "c",
+     "n": "NICE NG71 mục 1.1.1 đến 1.1.3: trao đổi trung thực, nói và viết. Ngân sách là dữ kiện thật: xét nghiệm không đổi quyết định thì không làm."
+    },
+    {
+     "t": "Chuyển khám chuyên khoa thần kinh sớm (có chuyên môn chẩn đoán phân biệt hội chứng parkinson), chưa bắt đầu levodopa ở phòng khám nội; viết thư chuyển ghi rõ các dấu hiệu đã khám",
+     "v": "c",
+     "n": "NICE NG71 mục 1.2.2: nghi Parkinson thì chuyển nhanh, chưa điều trị, đến chuyên khoa ('quickly', không nêu số tuần). Chẩn đoán lâm sàng (NICE 1.2.3; MDS 2015)."
+    },
+    {
+     "t": "Không chụp CT, MRI sọ, không làm loạt xét nghiệm đắt tiền để 'chẩn đoán Parkinson'; dành tiền cho chuyến khám chuyên khoa",
+     "v": "c",
+     "n": "NICE NG71 mục 1.2.9: không dùng MRI cấu trúc để chẩn đoán Parkinson; mục 1.2.3: chẩn đoán lâm sàng."
+    },
+    {
+     "t": "Dặn dấu hiệu cần đi khám ngay: một chân sưng đau, khó thở, đau ngực; té ngã; sặc khi nuốt; cứng tay chân tăng nhanh",
+     "v": "c",
+     "n": "Tiêu chí điểm Wells (NEJM 2003, Bảng 1). Té ngã tái diễn trong 3 năm đầu là cờ đỏ 6 của MDS 2015 (Bảng 1)."
+    },
+    {
+     "t": "Giảm rồi ngưng thuốc nhỏ mũi co mạch, thay bằng rửa mũi nước muối 0,9%",
+     "v": "a",
+     "n": "QĐ 5643/2015 (Viêm mũi xoang cấp, mục 4.2.1; Ngạt mũi, mục 4.1: rửa mũi natriclorid 0,9%); ARIA-EAACI 2024–2025, Bảng 1: không quá 5 ngày, tránh ở người cao tuổi (ghi cho viêm mũi dị ứng). Cách giảm dần: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Bắt đầu levodopa ngay tại phòng khám nội để xem bà có đáp ứng không",
+     "v": "w",
+     "n": "NICE NG71 mục 1.2.2: chuyển chuyên khoa 'untreated'; mục 1.2.13: không dùng nghiệm pháp levodopa cấp. Có nguy cơ buồn nôn, hạ huyết áp tư thế (AAN 2021, 2c) khi chưa có chẩn đoán và người theo dõi."
+    },
+    {
+     "t": "Cho thuốc chống nôn, chống chóng mặt nhóm chẹn dopamin hoặc 'thuốc bổ thần kinh' cho đỡ nặng chân",
+     "v": "h",
+     "n": "AGS Beers 2023, Bảng 3 (bệnh Parkinson): tránh metoclopramid vì đối kháng dopamin có thể làm nặng triệu chứng parkinson; AAN 2011 (TL-0494): flunarizin có thể gây parkinsonism."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Hội chứng parkinson bất đối xứng (phải nặng hơn): chậm vận động có giảm biên độ + tăng trương lực ống chì + run nghỉ nhẹ tay trái; bệnh Parkinson lâm sàng có khả năng (MDS 2015); chưa điều trị, chuyển chuyên khoa thần kinh",
+     "Viêm mũi do thuốc nhỏ mũi co mạch kéo dài ba năm (nhận định lâm sàng); giảm khứu giác bị nhiễu, không tính là tiêu chuẩn hỗ trợ",
+     "Táo bón mạn; đau mỏi lưng và chân sau chuyến xe dài, không dấu huyết khối tĩnh mạch sâu (Wells thấp)",
+     "Hoàn cảnh: thiếu tiền, ngồi ghế thấp bán rau, sợ mất sạp; lý do đến là phiếu hẹn"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: hỏi theo lý do bà nêu, rồi mở rộng bằng câu hỏi cụ thể về thời gian trước chuyến xe, run lúc ngồi yên, chữ ký, giọng, thuốc uống quanh chuyến đi; khám có hệ thống chậm vận động, run, trương lực, dáng đi, huyết áp nằm đứng, chân; không cần xét nghiệm hay hình ảnh (NICE NG71, mục 1.2.3, 1.2.9).",
+     "Bước 1 theo MDS 2015: hội chứng parkinson = chậm vận động (giảm biên độ khi lặp lại) cộng run nghỉ hoặc cứng; bà có cả ba, bất đối xứng (mục I, tr. 1594, Bảng 1). Chuyến xe chỉ là cớ làm bà để ý; bệnh đã âm thầm 8–10 tháng. Không điển hình: bà kể 'nặng chân', run nhẹ nằm bên đối diện bên cứng.",
+     "Bước 2: không dấu tiểu não, nhãn cầu liếc xuống đủ, không thuốc chẹn dopamin liên tục; một viên thuốc chống say xe không phù hợp liều và thời gian (MDS 2015, loại trừ 5, tr. 1597).",
+     "Bước 3: cờ đỏ. Chưa té tái diễn; huyết áp tư thế giảm 14/6 mmHg, dưới ngưỡng 30/15 của MDS 2015 (cờ đỏ 5a) và dưới ngưỡng chẩn đoán 20/10 của DGN 2025 (hai ngưỡng cho hai mục đích, xem sổ mâu thuẫn); không đối xứng hai bên. Bước 4: tiêu chuẩn hỗ trợ: chỉ có run nghỉ; giảm khứu giác không tính vì nhiễu bởi viêm mũi mạn (NICE 1.2.14 không dùng test khứu giác khách quan để chẩn đoán phân biệt; xem sổ mâu thuẫn). Vì vậy mức 'có khả năng', chưa 'xác lập' (MDS 2015, Bảng 1).",
+     "Không phải run vô căn (run nghỉ một bên, tăng khi tính nhẩm, hết khi cầm ly, kèm chậm vận động và cứng; MDS 2018, TL-0478). Chân sau ngồi xe lâu: điểm Wells (NEJM 2003, Bảng 1) 'ít khả năng'; không có siêu âm Doppler và ngân sách không cho D-dimer nên dặn dấu hiệu nguy hiểm.",
+     "Áp dụng cho người rất cao tuổi: hội chứng parkinson nhẹ không do Parkinson gặp ở tới 25% người cao tuổi (MDS 2015, tr. 1594), nên chuyên khoa theo dõi và xem lại chẩn đoán mỗi 6 đến 12 tháng (NICE 1.2.5).",
+     "Nhiễu 'không đủ tiền': gần như không xét nghiệm nào đổi cách xử trí; CT, MRI, D-dimer, TSH đắt mà không đổi quyết định nên bỏ."
+    ],
+    "phan_tich_xu_tri": [
+     "Chưa bắt đầu levodopa ở phòng khám nội (NICE 1.2.2). Khi chuyên khoa điều trị: levodopa là lựa chọn đầu (NICE 1.3.5; AAN 2021, 1b); không đồng vận dopamin cho người trên 70 tuổi (AAN 2021, 1d); NICE 1.3.6 cho chọn cả đồng vận dopamin, MAO-B, AAN 2021 thận trọng hơn nên chấm w (xem sổ mâu thuẫn).",
+     "Thuốc nhỏ mũi: QĐ 5643/2015 (Viêm mũi xoang cấp, mục 4.2.1) ngắn ngày; ARIA-EAACI 2024–2025, Bảng 1 không quá 5 ngày: cùng chiều. Cách giảm dần không có trong tài liệu đã tải.",
+     "Câu nói gợi ý: 'Bác sĩ hiểu bà sợ tốn tiền. Bác sĩ không bắt bà chụp hay xét nghiệm gì, vì không cần. Việc đáng tiền nhất là đi khám bác sĩ thần kinh ở tỉnh một lần, mang theo tờ giấy này, có con trai đi cùng.'"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Natri clorid 0,9% (nước muối sinh lý)",
+      "ham_luong": "0,9%",
+      "lieu": "Rửa mũi hoặc nhỏ mũi vài lần mỗi ngày, nhất là buổi sáng và tối",
+      "duong": "Rửa mũi, nhỏ mũi",
+      "thoi_diem": "Thay chỗ nhỏ naphazolin những lúc nghẹt",
+      "so_ngay": "Dùng liên tục khi còn nghẹt mũi",
+      "ghi_chu": "QĐ 5643/2015, Ngạt mũi, mục 4.1: rửa mũi natriclorid 0,9%. Số lần mỗi ngày: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Naphazolin nhỏ mũi (thuốc bà đang dùng)",
+      "ham_luong": "Chai bà mua (nồng độ ghi trên nhãn)",
+      "lieu": "Giảm dần: tối chỉ nhỏ một lần trong khoảng một tuần, rồi ngưng",
+      "duong": "Nhỏ mũi",
+      "thoi_diem": "Buổi tối",
+      "so_ngay": "Khoảng 1 tuần rồi ngưng (nhận định lâm sàng)",
+      "ghi_chu": "QĐ 5643/2015, Viêm mũi xoang cấp, mục 4.2.1; ARIA-EAACI 2024–2025, Bảng 1. Cách giảm dần: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg",
+      "lieu": "1 viên mỗi lần khi đau lưng hoặc chân, tối đa 5 viên (2,5 g) mỗi 24 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, cách nhau ít nhất 6 giờ, sau ăn",
+      "so_ngay": "Khi cần, không quá 5 ngày liên tục rồi báo lại",
+      "ghi_chu": "QĐ 361/2014, Phụ lục NSAID, bảng 'Nguy cơ cao' (người cao tuổi, gầy yếu): acetaminophen dưới 3 g/ngày. Bà đã đỡ đau nên chỉ dùng khi cần."
+     }
+    ],
+    "dan_do": [
+     "Bà có dấu hiệu bệnh thần kinh làm chậm vận động, không phải 'ngồi xe lâu' hay 'trúng gió'; cần bác sĩ thần kinh xác nhận trước khi dùng thuốc. Bệnh diễn tiến chậm và có thuốc giúp đi lại tốt hơn.",
+     "Đi khám chuyên khoa thần kinh ở bệnh viện tỉnh sớm trong vài tuần tới, mang theo tờ giấy này và danh sách thuốc, con trai Lợi đi cùng. Không cần chụp hay xét nghiệm gì trước khi đi.",
+     "Đứng dậy từ từ, bám sạp; đổi ghế cao hơn khi bán. Uống 1,5 đến 2 lít nước mỗi ngày, ăn thêm rau (DGN 2025). Giảm thuốc nhỏ mũi như đã hẹn; không tự mua thuốc chống nôn, chóng mặt hay 'bổ thần kinh'.",
+     "Đi khám ngay nếu: một chân sưng đau, khó thở, đau ngực; té ngã; sặc khi nuốt hoặc nói không rõ; cứng tay chân tăng nhanh; ảo giác.",
+     "Hẹn lại phòng khám sau khi có kết quả chuyên khoa (mốc sáu tuần là nhận định lâm sàng, không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 6 tuần",
+   "tiep_don": "Tái khám theo hẹn sau 6 tuần, con trai Lợi đi cùng. Sau lượt trước bà đã khám khoa Thần kinh bệnh viện tỉnh: được chẩn đoán bệnh Parkinson, không chụp hình, cho levodopa/carbidopa 100/25 mg ngày 3 lần trong 4 tuần, hẹn tái khám ở tỉnh. Bà đỡ rõ, nhưng thuốc hết cách đây 6 ngày và bà chưa lên tỉnh. Mấy ngày nay người cứng, chậm hơn cả trước khi uống thuốc, run nhiều hơn, ăn chậm, suýt té ở chợ. Sinh hiệu lúc tiếp đón: mạch 84 l/p, HA 130/78 mmHg, nhiệt 37,2 °C, nhịp thở 20, SpO₂ 95%.",
+   "ket_luan": "theo_doi",
+   "neu_sai": {
+    "ve_hen": "Bà Lụa đã bỏ levodopa đột ngột sáu ngày, giờ cứng hơn, run hơn, ăn chậm, suýt té. Chỉ cho về, dặn 'lên tỉnh sớm' rồi hẹn lại vài tuần thì bà vẫn không có thuốc vì chuyện tiền xe không đổi; bà tiếp tục cứng, dễ ngã, dễ sặc, và có nguy cơ cơn bất động cấp hoặc hội chứng ác tính do ngưng thuốc (NICE NG71, mục 1.3.2 và 1.3.3). Con trai không biết thuốc phải uống liên tục nên 'đỡ rồi thì bỏ' lặp lại.",
+    "nhap_vien": "Bà tỉnh (4AT 0), nhiệt 37,2 °C, nuốt được, chưa mất nước nặng; nằm viện nhiều ngày mất tiền sạp, ở nơi lạ dễ lú lẫn, ngã, và thuốc trễ giờ trong viện còn nguy hơn (NICE NG71, mục 1.3.4). Tiêu chuẩn nhập viện khi ngưng levodopa không có trong tài liệu đã tải; nhận định lâm sàng là chưa có dấu hiệu nặng nên uống lại thuốc ngoại trú là đủ; nâng lên nhập viện khi sốt, lú lẫn, cứng nặng hoặc không nuốt được.",
+    "chuyen_tuyen": "Chuyển bà lên bệnh viện tỉnh lần nữa chỉ để xin thuốc sẽ lặp lại đúng điều khiến bà bỏ thuốc: tốn tiền xe, mất một ngày bán, nên bà dễ không đi và vẫn không có thuốc. Bà đã được chuyên khoa chẩn đoán và kê đơn; việc cần ngay là uống lại thuốc, kê nối đến ngày hẹn và liên hệ chuyên khoa (NICE NG71, mục 1.1.5 và 1.1.6)."
+   },
+   "loi_mo": "Bác sĩ ơi, thuốc ông bác sĩ trên tỉnh cho uống thì khỏe lắm, đi được, bán được. Hết thuốc mấy bữa nay tui cứng đơ, run nữa, suýt té ngoài chợ. Mà tui không dám lên tỉnh nữa, tốn tiền xe, mất ngày bán. Bác sĩ coi cho tui thuốc đó được không?",
+   "sinh_hieu": {
+    "mach": 84,
+    "ha": "130/78",
+    "nhiet": "37,2",
+    "nhip_tho": 20,
+    "spo2": 95,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám theo hẹn sau 6 tuần. Bà đã khám khoa Thần kinh bệnh viện tỉnh, được chẩn đoán Parkinson, không chụp hình, cho levodopa/carbidopa 100/25 mg ngày 3 lần trong 4 tuần. Thuốc hết cách đây 6 ngày, bà chưa lên tỉnh. Mấy ngày nay cứng, run, đi khó, suýt té ở chợ.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và thông tin từ chuyên khoa"
+    },
+    {
+     "id": "dap_ung",
+     "noi_dung": "Sau khoảng một tuần uống thuốc bà thấy nhẹ người: bước nhanh hơn, ký tên to hơn, tay trái bớt run, bán rau lại được. Con trai nói 'đỡ chừng bảy phần'. Không có lúc thuốc hết tác dụng giữa các cữ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng rõ với levodopa"
+    },
+    {
+     "id": "het_thuoc",
+     "noi_dung": "Uống đủ 4 tuần, mỗi lần 1 viên lúc 7, 12 và 18 giờ, rồi hết thuốc cách đây 6 ngày, ngưng luôn không giảm dần. Giấy hẹn tái khám tỉnh đã qua hai ngày, bà không đi.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngưng thuốc đột ngột do hết thuốc"
+    },
+    {
+     "id": "ly_do_ngung",
+     "noi_dung": "Không lên tỉnh lấy thuốc vì xe khứ hồi và ăn uống khoảng 300 nghìn, lại mất một ngày bán rau; bà nghĩ 'đã khỏe rồi thì khỏi uống nữa', tưởng thuốc như thuốc kháng sinh, uống hết đợt là xong. Bà ngại nói vì sợ bị trách.",
+     "che_do": "giau",
+     "k": 1,
+     "dieu_kien_lo": "Chỉ kể khi bác sĩ hỏi nhẹ nhàng, không trách, vì sao thuốc hết mà không lấy lại, hoặc bà hiểu thuốc này uống để làm gì. Hỏi chung 'có uống đều không' thì bà đáp 'uống đều'.",
+     "y": "Lý do thật của việc ngưng thuốc: chi phí và hiểu sai"
+    },
+    {
+     "id": "nang_hon",
+     "noi_dung": "Từ ngày thứ ba sau khi hết thuốc người cứng, bước chậm hơn cả trước khi uống thuốc, tay trái run nhiều, tay phải cũng bắt đầu run; đứng khỏi ghế phải nhờ con đỡ; một lần suýt té ở chợ, bám được sạp, không đập đầu.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nặng hơn so với lượt 1 sau ngưng thuốc"
+    },
+    {
+     "id": "nuot",
+     "noi_dung": "Ăn cơm chậm, nhai lâu hơn; uống nước vội thì thỉnh thoảng ho một tiếng. Không sặc cơm, không ho đờm, không sốt, không khó thở. Uống nước ít, táo bón năm ngày chưa đi, bụng căng.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nuốt, nguy cơ sặc, mất nước; táo bón"
+    },
+    {
+     "id": "sot_lu",
+     "noi_dung": "Không sốt, không vã mồ hôi, không lú lẫn, không nói nhảm, không ảo giác. Nước tiểu ít và vàng đậm hơn mọi khi; không tiểu buốt, không ho đờm.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sàng lọc dấu hiệu cơn bất động cấp, hội chứng ác tính, nhiễm trùng"
+    },
+    {
+     "id": "con_trai",
+     "noi_dung": "Con trai Lợi đã chở mẹ lên tỉnh một lần; bác sĩ tỉnh dặn uống thuốc lâu dài, không tự ngưng, nhưng ông lo trả tiền nên không nhớ hết. Chở mẹ lần nữa thì phải xin nghỉ một ngày chạy xe.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Người chăm sóc và nguồn lực"
+    },
+    {
+     "id": "ngan_sach",
+     "noi_dung": "Hôm nay bà mang khoảng 300 nghìn. Vẫn sợ xét nghiệm; đồng ý một xét nghiệm nhỏ nếu bác sĩ nói rõ nó cho biết điều gì và có đổi cách chữa không.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Ngân sách và nhu cầu xếp ưu tiên xét nghiệm",
+     "nhieu": 1
+    },
+    {
+     "id": "tac_dung_phu",
+     "noi_dung": "Lúc mới uống thuốc buồn nôn nhẹ 3 đến 4 ngày rồi hết, hơi choáng khi đứng nhanh tuần đầu rồi hết. Không nhìn thấy người lạ, không ham mua sắm hay cờ bạc, không buồn ngủ đột ngột, không múa giật. Theo lời dặn đã giảm thuốc nhỏ mũi còn một lần mỗi tối, hơi nghẹt nhưng chịu được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Theo dõi tác dụng phụ của levodopa (ảo giác, xung động, ngủ gà); giảm thuốc nhỏ mũi"
+    }
+   ],
+   "kham": {
+    "ha_tu_the": {
+     "a": "Nằm 5 phút: 132/78 mmHg, mạch 84. Đứng 1 phút: 120/74 mmHg, mạch 92. Đứng 3 phút: 118/72 mmHg. Giảm tối đa 14/6 mmHg: chưa đạt ngưỡng hạ huyết áp tư thế (DGN 2025: ≥ 20/10 mmHg trong 3 phút).",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, định hướng đủ, trả lời chậm nhưng đúng. Không dấu màng não. Sức cơ 5/5 nhưng làm chậm vì cứng. Phản xạ gân xương đều, Babinski âm tính. Không rung giật nhãn cầu.",
+     "k": 1
+    },
+    "sang_loc_sang": {
+     "a": "4AT 0 điểm: tỉnh táo bình thường, định hướng đủ, đếm ngược các tháng được, không thay đổi cấp tính. Không sảng.",
+     "k": 1
+    },
+    "mat_giong_chu_viet": {
+     "a": "Mặt gần như không biểu cảm, chớp mắt rất thưa. Giọng nhỏ hơn lượt trước, phải ngồi sát mới nghe rõ. Viết tên: chữ nhỏ dần rõ (từ khoảng 5 mm xuống 1 đến 2 mm) nhưng còn đọc được.",
+     "k": 1,
+     "hien": "Mặt ít biểu cảm hơn lượt trước, giọng nhỏ. Viết tên: chữ nhỏ dần rõ về cuối dòng."
+    },
+    "run_nghi": {
+     "a": "Tay trái run lúc nghỉ rõ hơn lượt 1, biên độ lớn hơn; tay phải nay cũng run nhẹ lúc nghỉ (mới xuất hiện). Run giảm khi cầm ly. Không run đầu, giọng.",
+     "k": 1,
+     "hien": "Tay trái run lúc nghỉ rõ hơn lượt trước; tay phải run nhẹ. Cầm ly thì giảm."
+    },
+    "dong_tac_cham": {
+     "a": "Gõ ngón cái với ngón trỏ: bên phải rất chậm, biên độ nhỏ dần sau 3 lần, ngắt quãng ba lần. Bên trái chậm, biên độ nhỏ dần sau 5 đến 6 lần. Chậm vận động hai bên nặng hơn lượt 1.",
+     "k": 1,
+     "hien": "Gõ ngón tay phải rất chậm, biên độ nhỏ dần, ngắt quãng; bên trái cũng chậm."
+    },
+    "tang_truong_luc": {
+     "a": "Trương lực tăng kiểu ống chì ở cả hai tay và chân phải, nặng hơn lượt 1; bên trái nay rõ. Cổ cứng nhẹ. Bà vẫn cử động được tay chân, không cứng toàn thân.",
+     "k": 1,
+     "hien": "Hai tay và chân phải: sức cản đều khi cử động thụ động, nặng hơn lượt trước. Cổ cứng nhẹ."
+    },
+    "dang_di_thang_bang": {
+     "a": "Đứng khỏi ghế phải nhờ con đỡ rồi chống hai tay. Bước rất ngắn, kéo lê hai chân, tay không vung, quay người 5 đến 6 bước, khựng khi bước qua cửa. Nghiệm pháp kéo: lùi ba bước, cần người đỡ. Đi được khoảng 10 mét có người dìu nhẹ.",
+     "k": 1,
+     "hien": "Bà phải nhờ con đỡ để đứng dậy, bước rất ngắn, tay không vung, khựng ở cửa. Nghiệm pháp kéo: lùi ba bước, cần người đỡ."
+    },
+    "quan_sat_nuot": {
+     "a": "Uống từng ngụm nước: nuốt chậm hơn bình thường, ho nhẹ một tiếng sau ngụm thứ ba. Miếng bánh mì mềm: nhai lâu nhưng nuốt được, giọng không ướt, không sặc dữ. Thời gian nuốt kéo dài.",
+     "k": 1,
+     "hien": "Nuốt nước và bánh mì mềm chậm, ho nhẹ một lần; giọng không ướt."
+    },
+    "bung": {
+     "a": "Bụng mềm, hơi chướng, phân cục ở khung đại tràng trái; không phản ứng thành bụng.",
+     "k": 1
+    }
+   },
+   "cls": {
+    "ck": {
+     "v": "u",
+     "r": "CK 150 U/L (trong giới hạn bình thường).",
+     "n": "60.000 đồng, trong ngân sách. CK tăng rõ ở người vừa ngưng levodopa đột ngột gợi ý hội chứng ác tính hoặc tiêu cơ, đổi hướng sang nhập viện; ở bà kết quả bình thường củng cố hướng ngoại trú. Tài liệu đã tải chỉ nêu nguy cơ cơn bất động cấp và NMS (NICE NG71, mục 1.3.2), không nêu CK hay ngưỡng: nhận định lâm sàng."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Ure 8,0 mmol/L, creatinin 82 µmol/L, eGFR 62 mL/ph/1,73m².",
+     "n": "50.000 đồng. Cho thấy mất nước nhẹ, không đổi cách xử trí vì bù nước đường uống đủ. Không bắt buộc."
+    },
+    "que_nt": {
+     "v": "a",
+     "r": "Que 10 thông số: tỉ trọng 1,025, ketone vết, không bạch cầu, không nitrit, không máu.",
+     "n": "15.000 đồng, loại nhiễm trùng tiết niệu; không bắt buộc."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Đường huyết mao mạch 5,9 mmol/L.",
+     "n": "20.000 đồng; không đổi quyết định, không trừ điểm."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Bệnh Parkinson (chuyên khoa đã chẩn đoán) có đáp ứng rõ với levodopa; nặng lên cấp (cứng, chậm vận động, run tăng, suýt té) sau khi hết thuốc và ngưng đột ngột 6 ngày; chưa có dấu hiệu hội chứng ác tính",
+     "ok": 1,
+     "n": "Đáp ứng rõ khi dùng thuốc và nặng lên khi ngưng đột ngột phù hợp tiêu chuẩn hỗ trợ 1a của MDS 2015 (Bảng 1: 'marked worsening with dose decreases', do người chăm sóc đáng tin kể rõ); cùng run nghỉ là hai tiêu chuẩn hỗ trợ, không cờ đỏ: mức 'xác lập', chuyên khoa quyết định. NICE NG71 mục 1.3.2, 1.3.3: ngưng đột ngột có nguy cơ cơn bất động cấp và hội chứng ác tính."
+    },
+    {
+     "t": "Hội chứng ác tính hoặc cơn bất động cấp do ngưng levodopa",
+     "n": "Loại trừ lâm sàng lúc này: nhiệt 37,2 °C, tỉnh (4AT 0), không vã mồ hôi, mạch 84, nuốt được. Đây là nguy cơ nêu trong NICE NG71 mục 1.3.2, nên uống lại thuốc ngay và dặn dấu hiệu nguy hiểm. Ngưỡng nhập viện cụ thể không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Nhiễm trùng (hô hấp, tiết niệu) làm nặng triệu chứng",
+     "n": "Loại trừ lâm sàng: phổi không ran, SpO₂ 95%, không sốt, không ho đờm; nuốt chậm nhưng không sặc."
+    },
+    {
+     "t": "Hạ huyết áp tư thế hoặc mất nước làm choáng, ngã",
+     "n": "Huyết áp tư thế giảm tối đa 14/6 mmHg, chưa đạt 20/10 mmHg của DGN 2025 và dưới cờ đỏ 30/15 mmHg của MDS 2015. Mất nước nhẹ bù đường uống."
+    },
+    {
+     "t": "Không đáp ứng levodopa (thất bại điều trị)",
+     "n": "Không phải: bà đáp ứng rõ khi uống thuốc. MDS 2015 (loại trừ 6) chỉ áp dụng khi đã dùng đủ 600 mg levodopa/ngày và bệnh ít nhất mức trung bình; bà dùng 300 mg/ngày."
+    },
+    {
+     "t": "Táo bón mạn nặng hơn",
+     "ok": 1,
+     "n": "Triệu chứng ngoài vận động thường gặp (DGN 2025, mục Constipation), nặng thêm vì uống ít nước, vận động ít; không dấu hiệu tắc ruột (bụng mềm, nhu động có)."
+    },
+    {
+     "t": "Viêm mũi do thuốc nhỏ mũi co mạch, đang giảm dần",
+     "ok": 1,
+     "n": "Đã giảm còn một lần mỗi tối; tiếp tục giảm rồi ngưng (QĐ 5643/2015, mục 4.2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Uống lại levodopa/carbidopa 100/25 mg ba lần mỗi ngày đúng đơn chuyên khoa ngay hôm nay, cùng bữa ăn hoặc ăn nhẹ; kê nối đến ngày tái khám chuyên khoa",
+     "v": "c",
+     "n": "NICE NG71 mục 1.3.2, 1.3.3: không ngưng đột ngột thuốc chống Parkinson. AAN 2021 (rationale 2): lợi ích ở levodopa/carbidopa 150–300 mg/ngày; khuyến cáo 2e: uống cùng bữa giảm buồn nôn. Cách bắt đầu lại sau gián đoạn và số ngày kê nối: không có trong tài liệu đã tải; dùng lại đúng liều đã dung nạp là nhận định lâm sàng."
+    },
+    {
+     "t": "Liên hệ chuyên khoa thần kinh (gọi hoặc viết thư) báo gián đoạn, xin hẹn lại và kế hoạch kê thuốc; không tự chỉnh liều",
+     "v": "c",
+     "n": "NICE NG71 mục 1.1.5 (kế hoạch chăm sóc chung giữa người bệnh, gia đình, chuyên khoa và tuyến cơ sở) và 1.1.6 (đầu mối liên lạc với chuyên khoa)."
+    },
+    {
+     "t": "Hỏi nhẹ nhàng vì sao thuốc hết mà không lấy lại; giải thích Parkinson là bệnh mạn tính, thuốc uống liên tục không theo đợt; cùng bà và con trai lập kế hoạch không để hết thuốc",
+     "v": "c",
+     "n": "NICE NG71 mục 1.1.1 đến 1.1.3 (trao đổi trung thực, nói và viết, nhất quán) và 1.1.4 (nhu cầu người chăm sóc). Cách giảm chi phí đi lại: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Theo dõi dấu hiệu nguy hiểm: đo nhiệt, ý thức, nuốt; dặn đi cấp cứu khi sốt, lú lẫn, cứng nhiều hoặc không nuốt được",
+     "v": "c",
+     "n": "NICE NG71 mục 1.3.2: nguy cơ cơn bất động cấp và hội chứng ác tính khi ngưng đột ngột. Ngưỡng cụ thể (độ sốt, mức cứng) không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Uống đủ nước 1,5 đến 2 lít mỗi ngày; macrogol đều mỗi ngày cho táo bón",
+     "v": "c",
+     "n": "DGN 2025, mục Constipation: bảo đảm 1,5–2 L nước, tăng chất xơ; macrogol là thuốc đầu tay, dùng đều không chờ lúc cần, 13–26 g mỗi ngày."
+    },
+    {
+     "t": "Nâng mức chăm sóc: vật lý trị liệu và hoạt động trị liệu chuyên cho Parkinson, kế hoạch phòng té; đưa con trai, con dâu vào kế hoạch",
+     "v": "c",
+     "n": "NICE NG71 mục 1.7.1 (theo dõi thường xuyên, đầu mối hỗ trợ), 1.7.3 (vật lý trị liệu chuyên cho Parkinson khi có vấn đề thăng bằng hoặc vận động), 1.7.6 (hoạt động trị liệu khi khó khăn sinh hoạt)."
+    },
+    {
+     "t": "Hẹn tái khám lại tại phòng khám sau 3 đến 5 ngày để xem đáp ứng, nuốt, huyết áp tư thế, buồn nôn; sớm hơn nếu xấu đi",
+     "v": "c",
+     "n": "AAN 2021, khuyến cáo 2c: theo dõi đáp ứng vận động, buồn nôn, hạ huyết áp tư thế, ảo giác, xung động, ngủ gà. Mốc '3 đến 5 ngày' là nhận định lâm sàng, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Tăng gấp đôi liều levodopa vài ngày để 'bù' lượng thuốc đã bỏ",
+     "v": "w",
+     "n": "AAN 2021, khuyến cáo 2b và 2d: dùng liều hiệu quả thấp nhất, liều cao dễ gây loạn động; rationale 2: buồn nôn phụ thuộc liều, levodopa có thể làm nặng hạ huyết áp tư thế ở người 77 tuổi, 44 kg."
+    },
+    {
+     "t": "Cho trihexyphenidyl (Artane) cho đỡ cứng và run",
+     "v": "w",
+     "n": "AAN 2021, 2b và 2d: liều thấp nhất có hiệu quả, liều cao dễ gây loạn động; rationale 2: buồn nôn phụ thuộc liều, hạ huyết áp tư thế."
+    },
+    {
+     "t": "Cho metoclopramid chống buồn nôn khi uống lại levodopa",
+     "v": "h",
+     "n": "AGS Beers 2023, Bảng 3 (bệnh Parkinson): tránh metoclopramid vì đối kháng dopamin có thể làm nặng triệu chứng. Buồn nôn do levodopa giảm khi uống cùng bữa (AAN 2021, 2e)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Bệnh Parkinson (chuyên khoa đã chẩn đoán), đáp ứng rõ với levodopa/carbidopa 300 mg levodopa/ngày; nặng lên cấp sau khi hết thuốc và ngưng đột ngột 6 ngày: cứng, chậm vận động, run tăng, ăn chậm, suýt té; chưa có dấu hiệu hội chứng ác tính",
+     "Táo bón mạn nặng hơn, uống ít nước, mất nước nhẹ",
+     "Viêm mũi do thuốc nhỏ mũi co mạch, đang giảm dần"
+    ],
+    "phan_tich_chan_doan": [
+     "Đánh giá lại toàn diện khi bệnh nặng hơn: hỏi thuốc đã dùng và vì sao ngưng; sốt, lú lẫn, nuốt, nhiễm trùng; khám huyết áp tư thế, thần kinh, dáng đi, nuốt; sàng lọc sảng (4AT); hỏi tác dụng phụ của levodopa (AAN 2021, 2c; NICE 1.5.12). Nặng lên sau ngưng đột ngột là nguyên nhân nổi bật (NICE 1.3.2, 1.3.3), không cần đổi chẩn đoán.",
+     "Xem lại chẩn đoán (NICE 1.2.5): đáp ứng rõ và nặng lên khi ngưng là hỗ trợ 1a, cùng run nghỉ (MDS 2015, Bảng 1); không loại trừ hay cờ đỏ (không té tái diễn, cờ đỏ 6; huyết áp tư thế giảm 14/6): mức 'xác lập'.",
+     "Hội chứng ác tính, cơn bất động cấp là nguy cơ của ngưng đột ngột (NICE 1.3.2); bà nhiệt 37,2 °C, tỉnh, nuốt được nên chưa có. Nếu sốt, lú lẫn, cứng nặng, không nuốt được: cấp cứu hoặc nhập viện, cho thuốc đúng giờ (NICE 1.3.4); ngưỡng không có trong tài liệu đã tải.",
+     "Nhiễu 'không đủ tiền': chỉ CK (60.000 đồng) có thể đổi hướng, khi lâm sàng nặng hơn; creatinin, que nước tiểu, đường huyết không đổi cách xử trí."
+    ],
+    "phan_tich_xu_tri": [
+     "Uống lại ngay: bà đã dung nạp 4 tuần, chẩn đoán đã được chuyên khoa xác nhận (NICE 1.3.2, 1.3.3). 100/25 mg ba lần mỗi ngày là 300 mg levodopa/ngày, trong khoảng 150–300 mg/ngày (AAN 2021, rationale 2); uống cùng bữa giảm buồn nôn (AAN 2021, 2e). Không tăng liều để bù (AAN 2021, 2b, 2d); không trihexyphenidyl (Beers 2023 Bảng 2), không metoclopramid (Beers 2023 Bảng 3).",
+     "Nâng mức chăm sóc: kê nối, đầu mối với chuyên khoa (NICE 1.1.5, 1.1.6), vật lý trị liệu (NICE 1.7.3), hoạt động trị liệu (NICE 1.7.6), phòng té, đánh giá nuốt (NICE 1.7.8), người nhà (NICE 1.1.4); macrogol và nước (DGN 2025). Cách đỡ chi phí đi lại tỉnh: không có trong tài liệu đã tải.",
+     "Câu nói gợi ý: 'Bà ơi, thuốc này giúp bà đi lại được, bác sĩ mừng vì bà đỡ nhiều. Thuốc không uống hết đợt rồi thôi: ngưng đột ngột làm bệnh nặng lên như mấy hôm nay và có thể nguy hiểm. Bác sĩ cho thuốc đủ đến ngày hẹn và sẽ báo bác sĩ tỉnh; khi thuốc sắp hết, bà báo trước để mình tính cách khác.'"
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Levodopa/carbidopa",
+      "ham_luong": "100/25 mg",
+      "lieu": "1 viên mỗi lần, 3 lần/ngày (theo đơn chuyên khoa, không đổi)",
+      "duong": "Uống",
+      "thoi_diem": "7 giờ, 12 giờ, 18 giờ, cùng bữa ăn hoặc ăn nhẹ",
+      "so_ngay": "Kê nối 28 ngày (số ngày: nhận định lâm sàng) đến khi tái khám chuyên khoa; dùng dài hạn theo chuyên khoa",
+      "ghi_chu": "Theo đơn chuyên khoa; 300 mg levodopa/ngày trong khoảng 150–300 mg/ngày (AAN 2021, rationale 2). Uống cùng bữa (AAN 2021, 2e). Không ngưng đột ngột (NICE 1.3.2). Cách bắt đầu lại: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Macrogol 4000 (polyethylen glycol)",
+      "ham_luong": "Gói bột (hàm lượng gói không có trong tài liệu đã tải)",
+      "lieu": "13 g mỗi ngày, hòa trong 1 ly nước; tăng đến 26 g nếu chưa đủ",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi sáng, đều mỗi ngày",
+      "so_ngay": "Dùng đều, đánh giá lại sau 1 đến 2 tuần",
+      "ghi_chu": "DGN 2025, mục Constipation: macrogol 13–26 g × 1/ngày, thuốc đầu tay, dùng đều, không giới hạn thời gian; kèm 1,5–2 L nước/ngày."
+     },
+     {
+      "thuoc": "Natri clorid 0,9% (rửa mũi); naphazolin nhỏ mũi tiếp tục giảm",
+      "ham_luong": "0,9%; naphazolin theo chai bà mua",
+      "lieu": "Rửa mũi khi nghẹt; naphazolin một lần mỗi tối rồi ngưng trong khoảng 1 tuần",
+      "duong": "Rửa mũi, nhỏ mũi",
+      "thoi_diem": "Khi nghẹt; naphazolin buổi tối",
+      "so_ngay": "Khoảng 1 tuần rồi ngưng naphazolin (nhận định lâm sàng)",
+      "ghi_chu": "Giữ hướng lượt trước. QĐ 5643/2015, mục 4.2.1 và Ngạt mũi 4.1; ARIA-EAACI 2024–2025, Bảng 1. Cách giảm dần: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Bà uống lại thuốc ngay hôm nay đúng đơn: 1 viên lúc 7 giờ, 12 giờ, 18 giờ, cùng bữa ăn. Thuốc uống liên tục, không uống hết đợt rồi thôi; ngưng đột ngột có thể làm bệnh nặng lên và nguy hiểm (NICE 1.3.2). Không tự uống gấp đôi để bù; không mua thuốc chống nôn, 'bổ thần kinh', trihexyphenidyl ở tiệm khi chưa hỏi bác sĩ (Beers 2023).",
+     "Thuốc sắp còn một tuần thì báo phòng khám hoặc con trai để lấy trước. Bác sĩ sẽ liên hệ bác sĩ thần kinh ở tỉnh.",
+     "Uống 1,5 đến 2 lít nước mỗi ngày, ăn thêm rau, macrogol đều mỗi sáng (DGN 2025). Đứng dậy từ từ, nhờ con đỡ; ngồi ghế cao hơn khi bán rau.",
+     "Đi cấp cứu ngay nếu: sốt, lú lẫn, cứng đờ tay chân, không nuốt được hoặc sặc nhiều, té ngã, ảo giác.",
+     "Tái khám lại sau 3 đến 5 ngày (nhận định lâm sàng, không có trong tài liệu đã tải) để xem thuốc có tác dụng, nuốt và huyết áp có ổn không."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà uống lại thuốc đúng đơn; sau ba ngày bước nhanh hơn, tay bớt run, nuốt như trước, không té thêm. Phòng khám liên hệ khoa Thần kinh tỉnh, con trai Lợi xin nghỉ một ngày chở mẹ lên tỉnh; chuyên khoa giữ liều, bà được dặn báo trước khi thuốc còn một tuần. Bà đổi ghế sạp cao hơn, rửa mũi nước muối, bỏ hẳn thuốc nhỏ mũi, vẫn bán rau buổi sáng. Xử trí đúng ở cả hai lượt.",
+ "nhieu": [
+  "Đau chân sau chuyến xe dài: dễ dừng ở 'ngồi xe lâu' hay nghĩ huyết khối; hỏi 'trước chuyến xe thì sao' mới lộ bệnh đã 8–10 tháng. Không siêu âm nên dùng điểm Wells.",
+  "Run bị giấu: run nhẹ tay trái, bà đáp 'không run' khi hỏi chung; chỉ lộ khi hỏi run lúc ngồi yên bên nào hoặc khi tính nhẩm 100 trừ 7.",
+  "Không đủ tiền xét nghiệm: phải biết xét nghiệm nào bỏ được (CT, MRI, D-dimer, TSH) và xét nghiệm nào rẻ mà đổi quyết định (CK ở lượt 2)."
+ ],
+ "bai_hoc_bien": [
+  "Parkinson ở người rất cao tuổi có thể bắt đầu bằng 'nặng chân, đi chậm' chứ không phải run; hỏi khởi phát trước sự kiện, khám có hệ thống chậm vận động, run nghỉ, trương lực, dáng đi, huyết áp nằm đứng (MDS 2015, mục I).",
+  "Chẩn đoán lâm sàng, không cần CT hay MRI (NICE 1.2.3, 1.2.9); nghi Parkinson thì chuyển chuyên khoa nhanh, chưa điều trị (NICE 1.2.2). Với người nghèo, đây là điều đáng tiền nhất.",
+  "Rà thuốc có xét liều và thời gian: một viên thuốc chống say xe không tạo ra parkinson do thuốc (MDS 2015, loại trừ 5, ghi chú). Đã là Parkinson thì tránh metoclopramid (Beers 2023 Bảng 3), trihexyphenidyl (Beers 2023 Bảng 2)."
+ ],
+ "diem_nho": [
+  "Hội chứng parkinson = chậm vận động (giảm biên độ khi lặp lại) + run nghỉ hoặc cứng ống chì (MDS 2015, Bảng 1, mục I).",
+  "Nghi Parkinson: chuyển chuyên khoa nhanh, chưa điều trị (NICE 1.2.2); không CT/MRI để chẩn đoán (NICE 1.2.9); không nghiệm pháp levodopa cấp (NICE 1.2.13). Không dùng đồng vận dopamin cho người trên 70 tuổi (AAN 2021, 1d)."
+ ],
+ "nguon": [
+  "MDS 2015 – Postuma R. et al., MDS clinical diagnostic criteria for Parkinson's disease. Mov Disord 2015;30:1591-1601 – TL-0489 – mục I (tr. 1594), Bảng 1 (tr. 1595: hỗ trợ, loại trừ 5 và 6, cờ đỏ 5, 6, 10), ghi chú loại trừ 5 (tr. 1597).",
+  "NICE NG71 2017 (rà soát 2024) – TL-0485 – khuyến cáo 1.1.1 đến 1.1.6, 1.2.1 đến 1.2.14, 1.3.2 đến 1.3.6, 1.3.14, 1.5.12, 1.7.1 đến 1.7.8, 1.7.12.",
+  "AAN 2021 – Dopaminergic therapy for motor symptoms in early PD. Neurology 2021;97:942-957 – TL-0471 – khuyến cáo 1b, 1d, 2b, 2c, 2d, 2e, rationale (tr. 950-951).",
+  "MDS 2018 – Consensus Statement on the Classification of Tremors. Mov Disord 2018;33:75-87 – TL-0478 – Rest tremor, Essential tremor, Bảng 2.",
+  "DGN 2025 – Parkinson's disease non-motor, J Neurol 2025;272:90 – kho cũ tltk-10000-ca, mục 07 – Orthostatic hypotension (≥ 20/10 mmHg trong 3 phút), Constipation (nước 1,5–2 L/ngày; macrogol 13–26 g × 1/ngày).",
+  "AGS Beers Criteria 2023, J Am Geriatr Soc 2023;71:2052-2081 – TL-0022 – Bảng 2 (trihexyphenidyl), Bảng 3 (bệnh Parkinson: metoclopramid).",
+  "AAN 2011 – Evidence-based guideline update: treatment of essential tremor – TL-0494 – mục Flunarizine (có thể gây parkinsonism).",
+  "Wells PS et al. N Engl J Med 2003;349:1227-1235 – TL-0114 – Bảng 1 (điểm < 2 là ít khả năng DVT).",
+  "BYT – QĐ 5643/QĐ-BYT 2015 – TL-0130 – Viêm mũi xoang cấp tính, mục 4.2.1 (oxymetazoline ngắn ngày, kéo dài có thể làm bệnh nặng hơn); Ngạt mũi, mục 4.1 (rửa mũi natriclorid 0,9%).",
+  "ARIA-EAACI 2024–2025 Part I: Intranasal Treatments. Allergy 2025 – kho cũ tltk-10000-ca, mục 09 – Bảng 1 (tr. 958): không dùng thuốc co mạch tại mũi dài hơn 5 ngày, tránh ở người cao tuổi (ghi cho viêm mũi dị ứng).",
+  "BYT – QĐ 361/QĐ-BYT 2014 – TL-0286 – Phụ lục NSAID, bảng 'Nguy cơ cao': acetaminophen dưới 3 g/ngày ở người cao tuổi, gầy yếu.",
+  "Không có trong tài liệu đã tải: liều khởi đầu và cách tăng liều levodopa ở người trên 75 tuổi; cách bắt đầu lại sau gián đoạn ngắn; ngưỡng nhập viện và ngưỡng CK khi ngưng levodopa đột ngột; cách giảm dần thuốc nhỏ mũi và số lần rửa mũi; ngưỡng MoCA; quy định chi trả bảo hiểm và chuyển tuyến; tên thuốc chống say xe có nguy cơ gây parkinson."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết 2026-11-28 (bản 1). Tài liệu đã đọc: TL-0489 MDS 2015 (mục I, Bảng 1, loại trừ 5, 6); TL-0485 NICE NG71 (1.1 đến 1.3, 1.5, 1.7); TL-0471 AAN 2021 (khuyến cáo 1 đến 3, rationale); TL-0478 MDS 2018 (Rest tremor, ET); DGN 2025 (OH, táo bón); TL-0022 Beers 2023; TL-0494 AAN 2011; TL-0114 Wells 2003 (Bảng 1); QĐ 5643/2015; ARIA-EAACI 2024-2025 Bảng 1; QĐ 361/2014 (Phụ lục NSAID). Thiếu tài liệu: xem mục cuối của 'nguon'.",
+  "Mâu thuẫn nguồn: áp dụng các mục đã có trong sổ (MDS 2015 và NICE 1.2.3; test khứu giác; thuốc khởi đầu trên 70 tuổi; ngưỡng hạ huyết áp tư thế; thuốc nhỏ mũi co mạch). Không mâu thuẫn mới. Không ảnh da; id danh mục sẵn có."
+ ]
+}
