@@ -1,0 +1,506 @@
+{
+ "ma_ca": "TM-0102",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "TM_viem_tai_giua_cap_rat_cao_tuoi_tu_choi_xet_nghiem",
+ "so_cai": {
+  "chuyen_khoa": "Tai mũi họng + Mắt",
+  "chan_doan_dich": "Viêm tai giữa cấp",
+  "chan_doan_phai_loai_tru": [
+   "Viêm xương chũm",
+   "Zona tai"
+  ],
+  "nhom_tuoi": "Rất cao tuổi (≥75 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Không áp dụng (ca 1 lượt khám)",
+  "nhieu_benh_nhan": "Phủ nhận triệu chứng nặng",
+  "rang_buoc_nguon_luc": "Bệnh nhân từ chối xét nghiệm",
+  "loai_ket_cuc": "Chuyển tuyến kịp thời",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 1,
+  "nghe_nghiep": "Buôn bán nhỏ",
+  "yeu_to_khoi_phat": "Sau đợt không khí lạnh",
+  "thuoc_dang_dung": "Không rõ loại thuốc đang dùng",
+  "ly_do_that_su_den_kham": "Muốn kiểm tra tổng quát"
+ },
+ "benh_nhan": {
+  "ten": "Phạm Thị Lụa",
+  "tuoi": 79,
+  "gioi": "Nữ",
+  "nghe": "Buôn bán nhỏ (ngồi sạp rau củ ở góc chợ từ 4 giờ 30 sáng)",
+  "can_nang": 44,
+  "chieu_cao": 148,
+  "xung_ho": "Bà Lụa, 79 tuổi, tự xưng 'bà' hoặc 'tui', gọi bác sĩ là 'con' hoặc 'bác sĩ'; nói chậm, giọng miền Trung, hơi lớn tiếng vì nghe kém nhẹ hai tai theo tuổi. Đội nón lá, áo bà ba nâu, quấn khăn len cũ quanh cổ.",
+  "tinh_cach": "Bán rau ở chợ gần năm mươi năm, cần kiệm, tiếc tiền, sợ mất buổi bán, sợ 'nghe bệnh' vì hồi trước người bạn hàng cùng chợ đi khám rồi bị chuyển lên tỉnh luôn. Hay đùa 'già rồi, đau tí xíu có gì đâu', nhưng bên trong rất sợ mình bị bệnh nặng. Không biết chữ nhiều; gọi huyết áp là 'áp huyết', thuốc là 'viên màu này, màu kia'.",
+  "kieu_nhieu": "Phủ nhận triệu chứng nặng: hỏi 'đau nhiều không' thì 'chút xíu thôi', 'có sốt không' thì 'không, người hơi ấm ấm', 'nghe được không' thì 'nghe được, con nói lớn chút'. Chỉ kể thật khi bác sĩ hỏi việc làm được hay không làm được trong ngày: đêm qua ngủ được mấy tiếng, hôm qua có ra sạp không, bữa nay ăn mấy muỗng cháo, mấy viên thuốc giảm đau mỗi ngày, tính tiền còn trúng không. Lý do thật (muốn kiểm tra tổng quát) chỉ lộ khi bác sĩ hỏi bà mong gì hay lo gì nhất.",
+  "nguoi_nha": "Cháu ngoại gái đi cùng, chở bà bằng xe máy, ngồi ngoài phòng chờ, vào khi được gọi. Con gái bà (mẹ cháu) đi chợ từ sáng, cháu gọi điện được.",
+  "ten_nguoi_nha": "Nguyễn Phương Hà (cháu ngoại, 19 tuổi, sinh viên)",
+  "ngoai_hinh": {
+   "da": "#a97c59",
+   "toc": "#e3e0da",
+   "kieuToc": "bui",
+   "ao": "#6b4f3a",
+   "aoKieu": "baba",
+   "kinh": false,
+   "nep": 5,
+   "bieuCam": "met",
+   "nguoiNha": {
+    "da": "#d9a984",
+    "toc": "#1f1a17",
+    "kieuToc": "dai",
+    "ao": "#8aa3b8",
+    "aoKieu": "thun",
+    "kinh": true,
+    "nep": 0,
+    "bieuCam": "lo"
+   }
+  }
+ },
+ "ly_do_kham": "Đau tai trái hai ngày; bà nói 'đau chút xíu thôi, nhân tiện khám tổng quát luôn'",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Bà Phạm Thị Lụa, 79 tuổi, bán rau ở chợ, 44 kg, cháu ngoại chở đến phòng khám lúc 8 giờ sáng vì đau tai trái hai ngày. Sinh hiệu: mạch 86 l/p, huyết áp 148/82 mmHg, nhiệt độ 38,3 °C, nhịp thở 18 l/p, SpO₂ 96%. Bà ngồi nghiêng đầu sang trái, tay che tai, cười xòa: 'Không sao đâu con, tui đau chút xíu thôi.' Bà mang theo một túi ni lông đựng thuốc đang uống. Khi nhân viên hỏi bà đến vì chuyện gì thì cháu nói thêm: 'Bà cũng muốn khám tổng quát luôn ạ.'",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Bà Lụa bị gửi lên khoa Tai Mũi Họng bệnh viện tỉnh ngay trong ngày chỉ vì 'cao tuổi, không có xét nghiệm'. Màng nhĩ chưa thủng, không sưng đỏ sau tai, không liệt mặt, không dấu màng não, tức chưa có biến chứng nào để chuyển (QĐ 5643/2015, Viêm tai giữa cấp mục 5.2, tr. 214; NICE NG91 2018 khuyến cáo 1.1.14, viết cho người dưới 18 tuổi). Bà vốn sợ xét nghiệm và tốn kém nên sẽ từ chối tiếp ở bệnh viện, mất cả ngày bán, trả tiền xe và viện phí rồi cũng chỉ nhận amoxicillin uống (AWaRe 2022, Bảng 5.3, tr. 44), và nhớ rằng đi khám là bị 'đẩy đi'.",
+    "nhap_vien": "Bà Lụa nhập viện để truyền kháng sinh tĩnh mạch dù uống được, huyết động ổn, chưa biến chứng: điều trị ngoại trú bằng amoxicillin uống (AWaRe 2022, Bảng 5.3, tr. 44). Bà ở lại nhiều ngày, nghỉ bán, tốn viện phí lớn so với nguồn thu nhỏ của bà, và khi người nhà tính tiền thì bà càng sợ khám lần sau. Nguy cơ lú lẫn khi nằm viện ở người rất cao tuổi: không có trong tài liệu đã tải."
+   },
+   "loi_mo": "Con coi giùm cái tai bên trái cho bà. Đau chút xíu thôi chớ không có sao đâu, chắc gió lạnh vô tai. Thấy đi tới đây rồi thì khám luôn cho biết trong người bà ra sao. Mà bà nói trước nha, đừng có lấy máu lấy me gì hết.",
+   "sinh_hieu": {
+    "mach": 86,
+    "ha": "148/82",
+    "nhiet": "38,3",
+    "nhip_tho": 18,
+    "spo2": 96,
+    "canh_bao": [
+     "nhiet"
+    ]
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Đau tai trái hai ngày nay. Bà gọi là 'chút xíu', nghĩ chắc 'gió lạnh vô tai', xin bác sĩ cho thuốc rồi 'khám luôn cho biết trong người ra sao'.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do khám; bà tự giảm nhẹ triệu chứng"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Sáu ngày trước trời đổ gió mùa lạnh đột ngột; bà vẫn ngồi sạp từ 4 giờ 30 sáng, áo bà ba mỏng. Hôm sau sổ mũi trong, nghẹt mũi, ho nhẹ, ớn lạnh nhưng vẫn đi bán. Bốn ngày trước tai trái nặng nặng, ù; hai ngày nay đau tăng dần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Viêm hô hấp trên sau đợt không khí lạnh, sau 4–5 ngày đau tai tăng dần"
+    },
+    {
+     "id": "dau",
+     "noi_dung": "Đau sâu bên trong tai trái, nhói theo nhịp đập, đêm đau hơn, lan lên thái dương và xuống hàm trái. Tai đầy, không có nước hay mủ chảy ra. Chạm hay kéo vành tai không đau.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tính chất đau tai giữa (sâu, nhói theo mạch, lan thái dương và hàm), không chảy tai, kéo vành tai không đau"
+    },
+    {
+     "id": "chuc_nang",
+     "noi_dung": "Đêm qua bà gần như thức trắng, ngồi tựa tường, chỉ chợp được khoảng ba tiếng. Hôm qua bà bỏ sạp không ra, lần đầu trong nhiều năm; sáng nay chỉ ăn được mấy muỗng cháo. Bà uống paracetamol 500 mg của nhà, ba viên mỗi ngày, mỗi lần bớt chừng một hai giờ rồi đau lại.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Chỉ nói khi bác sĩ hỏi việc cụ thể trong ngày: đêm qua ngủ được mấy tiếng, hôm qua có ra sạp không, sáng nay ăn mấy muỗng cháo, mỗi ngày uống mấy viên thuốc giảm đau và bớt được bao lâu. Hỏi 'đau nhiều không' thì bà đáp 'chút xíu thôi'.",
+     "k": 1,
+     "y": "Mức nặng thật: mất ngủ, bỏ ăn, bỏ làm, đau dù đã uống paracetamol (tiêu chí nặng)"
+    },
+    {
+     "id": "nghe",
+     "noi_dung": "Tai trái ù, nghe như bịt bông. Bà vốn nghe kém nhẹ hai tai từ vài năm, người ta phải nói lớn; mấy hôm nay tai trái kém hơn rõ. Không chóng mặt quay, không buồn nôn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Hỏi 'nghe được không' bà đáp 'được, con nói lớn chút'. Hỏi nghe người nói bên tai trái, nghe cháu gọi từ nhà trên thì kể như trên.",
+     "k": 1,
+     "y": "Nghe kém tai đau (dẫn truyền); phân biệt với nghe kém tuổi già sẵn có"
+    },
+    {
+     "id": "sot",
+     "noi_dung": "Tối hôm kia ớn lạnh, người nóng ấm ấm, bà không đo. Không rét run, không nôn.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Sốt kèm theo"
+    },
+    {
+     "id": "khong_dien_hinh",
+     "noi_dung": "Cháu Hà kể mấy hôm nay bà hơi chậm chạp, hôm qua ngồi nhà mà tính nhẩm tiền sai hai lần, không giống bà. Bà vẫn nhớ tên, ngày, nhận ra mọi người, không nói lảm nhảm, không thấy ai, không bứt rứt.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi cháu hoặc hỏi bà có gì khác thường mấy hôm nay, có lẫn, tính tiền sai, đi đứng chậm, hay ngã không.",
+     "k": 1,
+     "y": "Biểu hiện không điển hình ở người rất cao tuổi (chậm, lẫn nhẹ, ăn kém) khi đau và sốt, không phải sảng"
+    },
+    {
+     "id": "canh_bao",
+     "noi_dung": "Không chảy mủ hay nước từ tai, không sưng hay đỏ sau tai, không méo miệng, không khó nhắm mắt, không nổi mụn nước ở tai hay mặt, không đau đầu dữ dội, không cứng cổ, không lơ mơ, không chóng mặt quay, không nôn.",
+     "che_do": "khi_hoi",
+     "dieu_kien_lo": "Nói khi bác sĩ hỏi từng dấu hiệu: chảy mủ, sưng sau tai, méo miệng, mụn nước, đau đầu dữ dội, cứng cổ, lơ mơ, chóng mặt, nôn.",
+     "k": 1,
+     "y": "Cờ đỏ âm tính: viêm xương chũm, liệt mặt, zona tai, nội sọ"
+    },
+    {
+     "id": "ngoay_tai",
+     "noi_dung": "Bà hay lấy ráy bằng cây lấy ráy mua ở sạp bên cạnh, lần gần nhất cách đây cả tuần, thấy hơi rát một chút rồi hết, không thấy máu. Trước khi cảm lạnh tai vẫn bình thường.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "nhieu": 1,
+     "y": "Nhiễu: lấy ráy tai làm nghĩ tới viêm ống tai ngoài"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Bà đem theo túi ni lông: một vỉ nhôm cắt còn 5 viên in chữ 'Amlodipin 5 mg' (bà gọi 'thuốc áp huyết', uống mỗi sáng một viên, trạm y tế phường cho từ lâu); một bao giấy 6 viên nén màu cam nhỏ không chữ, 'thuốc đau gối' mua ở tiệm thuốc đầu chợ, uống một hai viên khi đau, tối hôm kia có uống thêm một viên; một lọ viên nang nâu không nhãn 'thuốc bổ' do người quen cho. Bà không biết tên hai loại sau; cháu gọi mẹ, mẹ cũng không biết, chỉ nhớ bà không có toa của bác sĩ nào khác. Bà không nhớ có uống thuốc loãng máu hay kháng sinh trong ba tháng qua.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc đang dùng: một loại có tên, hai loại không rõ; cần xem túi thuốc, hỏi người nhà, không giả định"
+    },
+    {
+     "id": "benh_nen_tien_su",
+     "noi_dung": "Nghe nói 'áp huyết cao' đã lâu. Mấy năm nay bà không đi thử máu, không thử đường, không biết thận ra sao; không phù, tiểu bình thường. Chưa bao giờ chảy tai hay mổ tai. Chưa bao giờ dị ứng khi uống thuốc. Không té ngã tháng này, hôm kia có vấp bậc thềm nhưng đứng lại được.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nền, chức năng thận chưa biết, tiền sử tai, dị ứng thuốc, nguy cơ ngã"
+    },
+    {
+     "id": "tu_choi_xn",
+     "noi_dung": "Khi bác sĩ nhắc tới thử máu, chụp phim hay bất cứ thứ gì phải chích, bà lắc đầu ngay: lần trước lấy máu tay bầm cả tuần; tiền khám, tiền thuốc đã nhiều, mỗi ngày bà bán chừng vài trăm nghìn; và bà sợ 'thử ra bệnh nặng thì lấy tiền đâu chữa'. Giải thích kỹ vẫn giữ ý hôm nay, nhưng đồng ý để bác sĩ soi tai, nghe tim phổi, đo huyết áp, thử nghe, và chịu quay lại khám nếu dặn đúng lý do.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Bệnh nhân từ chối xét nghiệm: lý do (đau, tiền, sợ biết bệnh), phạm vi từ chối, điều bà vẫn chấp nhận"
+    },
+    {
+     "id": "noi_o",
+     "noi_dung": "Bà ở chung với con gái và cháu, cách phòng khám khoảng 2 km; cháu có xe máy, nhà có điện thoại. Con gái đi chợ từ sáng, tối mới về.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Hoàn cảnh để an toàn hóa phương án B: người đi cùng, khả năng quay lại"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Bà muốn nhân dịp này 'kiểm tra tổng quát' vì tuần trước bà Tư bán cá cùng chợ đột ngột bị đột quỵ, bà thấy mình cũng già rồi, hay mệt, sợ có bệnh trong người mà không biết. Nhưng bà vừa sợ tốn tiền vừa sợ chích lấy máu nên chỉ dám nói 'khám luôn cho biết'.",
+     "che_do": "giau",
+     "k": 1,
+     "y": "Lý do thật: muốn kiểm tra tổng quát, kèm nỗi sợ bệnh nặng và chi phí",
+     "dieu_kien_lo": "Khi bác sĩ hỏi bà mong gì từ buổi khám hôm nay, điều gì làm bà lo nhất, hoặc vì sao hôm nay bà quyết định đi khám."
+    }
+   ],
+   "kham": {
+    "hong_tai_mui": {
+     "a": "Tai trái: vành tai và bình tai ấn, kéo vành tai không đau; ống tai khô, ít ráy, không phù nề, không mủ, không vết xước. Màng nhĩ đục, trắng hồng, nhiều mạch đỏ tỏa ra từ cán búa như nan hoa, phồng nhẹ ở phần sau trên, mất tam giác sáng, kém di động khi thổi hơi bằng bóng cao su của đèn soi; không thủng. Tai phải: ống tai sạch, màng nhĩ xám, thấy tam giác sáng. Mũi: niêm mạc phù, ít dịch nhầy trong. Họng đỏ nhẹ, không mủ. Vòm họng không quan sát được bằng đèn soi thường.",
+     "k": 1
+    },
+    "dau_mat_co": {
+     "a": "Rãnh sau tai trái nguyên vẹn, không sưng đỏ, không phập phều, vành tai không bị đẩy ra trước; ấn xương chũm trái chỉ hơi tức. Hạch trước tai và góc hàm trái nhỏ, di động, hơi đau. Mặt cân đối.",
+     "k": 1
+    },
+    "am_thoa": {
+     "a": "Weber lệch về tai trái; Rinne âm tính tai trái, dương tính tai phải (giảm nhẹ): nghe kém dẫn truyền tai trái.",
+     "k": 1
+    },
+    "nghe_thi_tham": {
+     "a": "Thì thầm cách 60 cm: tai phải lặp lại đúng phần lớn từ (nghe kém nhẹ do tuổi); tai trái sai nhiều từ, phải nói lớn hơn mới nghe.",
+     "k": 1
+    },
+    "da": {
+     "a": "Vành tai, nắp tai, thành sau ống tai, màng nhĩ, vùng sau tai, mặt và cổ trái: không mụn nước, không vảy tiết, không ban. Cảm giác chạm và kim châm ở vành tai và bình tai hai bên đều và bình thường. Da toàn thân khô, nhăn theo tuổi, không ban.",
+     "k": 1
+    },
+    "than_kinh": {
+     "a": "Tỉnh, nhắm mắt kín, nhăn trán, nhe răng, thổi má hai bên đều, không méo miệng, không liệt dây VII. Không rung giật nhãn cầu tự phát. Cổ mềm, Kernig và Brudzinski âm tính.",
+     "k": 1
+    },
+    "toan_than": {
+     "a": "Tỉnh, mệt, môi khô nhẹ, da niêm hơi nhợt, gầy (44 kg, BMI khoảng 20), không vẻ nhiễm trùng nặng. Ngồi nghiêng đầu sang trái, tay che tai.",
+     "k": 1
+    },
+    "sang_loc_sang": {
+     "a": "Tỉnh, trả lời đúng tuổi, ngày, nơi đang ở; hơi chậm và mệt, chú ý còn giữ được khi hỏi chuyện; không hoang tưởng, không kích động. Không có dấu hiệu sảng rõ lúc này (tiêu chí và cách tính điểm công cụ sàng lọc sảng: không có trong tài liệu đã tải).",
+     "k": 0
+    },
+    "tim": {
+     "a": "Tim đều 86 l/p, T1 T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số 86 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 18 l/p. Rì rào phế nang êm, không ran.",
+     "k": 0,
+     "hien": "Nhịp thở 18 l/p, không co kéo.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ctm": {
+     "v": "a",
+     "r": "Bà lắc đầu: 'Thôi con, lấy máu bầm cả tuần, bà không làm.' Không lấy được mẫu.",
+     "n": "Không cần để chẩn đoán viêm tai giữa cấp: chẩn đoán bằng soi tai, xét nghiệm máu thường không cần trừ khi nghi biến chứng như viêm xương chũm (AWaRe 2022, tr. 37 và 41; QĐ 5643/2015, Viêm xương chũm mục 3.1.2, tr. 195). Bà chưa có dấu biến chứng nên từ chối vẫn an toàn nếu dặn kỹ; xin lại nếu có dấu hiệu nặng lên."
+    },
+    "creat": {
+     "v": "a",
+     "r": "Bà từ chối lấy máu. Không có kết quả.",
+     "n": "Chức năng thận chưa biết; liều amoxicillin của AWaRe 2022 (Bảng 5.3, tr. 45) 'tính cho chức năng thận và gan bình thường'. Cách giảm liều amoxicillin khi suy thận: không có trong tài liệu đã tải. Làm thì tốt nhưng bà từ chối; bù bằng liều chuẩn 5 ngày, dặn quay lại và xin lại xét nghiệm ở lần hẹn. AGS Beers 2023 (Bảng 6): tránh NSAID khi độ thanh thải creatinin dưới 30 mL/phút, thêm lý do không ưu tiên ibuprofen."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Bà rụt tay: 'Chích đầu ngón tay cũng không, bà sợ đau.' Không làm được.",
+     "n": "Không cần cho chẩn đoán viêm tai giữa. Bà chưa biết có đái tháo đường hay không; xin đo lại khi bà sẵn sàng (ví dụ lúc khám tổng quát). Ngưỡng đường huyết cần xử trí khi nhiễm khuẩn cấp: không có trong tài liệu đã tải."
+    },
+    "xq_schuller": {
+     "v": "n",
+     "r": "Bà từ chối chụp phim. Không làm được.",
+     "n": "AWaRe 2022 (tr. 37, 42) mới hơn: không chụp hình ảnh trừ khi nghi biến chứng; QĐ 5643/2015 (Viêm tai giữa cấp mục 4.3.3, tr. 214) nêu chụp X-quang xương chũm khi đang dùng kháng sinh (sổ mâu thuẫn NH-0355 mục 5). Bà chưa có dấu viêm xương chũm, nên không chụp thường quy; chụp hoặc CT khi sưng sau tai, đẩy vành tai, liệt mặt."
+    },
+    "ct_xuong_thai_duong": {
+     "v": "n",
+     "r": "Bà từ chối chụp phim. Không làm được.",
+     "n": "CT chỉ khi nghi biến chứng như viêm xương chũm hay áp xe não (AWaRe 2022, tr. 42; QĐ 5643/2015, Viêm xương chũm mục 3.1.2, tr. 195). Chưa có dấu biến chứng nên không cần."
+    },
+    "thinh_luc_do": {
+     "v": "a",
+     "r": "Tai trái: ngưỡng nghe đường khí trung bình khoảng 45 dB HL, chênh khí–xương khoảng 25 dB (nghe kém dẫn truyền). Tai phải: ngưỡng khoảng 35 dB, giảm đối xứng ở âm cao, không chênh khí–xương (nghe kém tuổi già).",
+     "n": "QĐ 5643/2015 (Viêm tai giữa cấp mục 3.1.2, tr. 212): thính lực đồ cho nghe kém dẫn truyền. Không bắt buộc, âm thoa đã đủ. Bà đồng ý vì không phải chích. Đo lại sau khi khỏi nếu tai trái còn nghe kém: không có trong tài liệu đã tải."
+    },
+    "nhi_luong": {
+     "v": "u",
+     "r": "Tai trái: đường cong phẳng (type B), không ghi được phản xạ cơ bàn đạp. Tai phải: type A.",
+     "n": "Không cần để chẩn đoán: AWaRe 2022 (tr. 41) chẩn đoán xác định bằng soi tai. Cách đọc type nhĩ lượng: không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Viêm tai giữa cấp tai trái, ngày thứ 2 của đau, thể có triệu chứng nặng (đau dù đã uống paracetamol, sốt 38,3 °C, mất ngủ, bỏ ăn), thứ phát sau viêm đường hô hấp trên khi gặp đợt không khí lạnh, ở người rất cao tuổi",
+     "ok": 1,
+     "n": "Cảm lạnh trước, 4–5 ngày sau đau sâu tai trái nhói theo mạch, lan thái dương và hàm, nghe kém dẫn truyền, sốt (QĐ 5643/2015, Viêm tai giữa cấp mục 2 và 3.1.1, tr. 210–211; AWaRe 2022, tr. 37, 41). Màng nhĩ đục, phồng, mất tam giác sáng, kém di động; ở người già màng nhĩ trắng bệch với nhiều mạch đỏ tỏa từ cán búa (QĐ 5643, tr. 211). Nặng vì đau dù dùng thuốc giảm đau (AWaRe 2022, tr. 37, 44). Không khí lạnh gây viêm tai giữa: không có trong tài liệu đã tải; ở đây chỉ là yếu tố khởi phát viêm hô hấp trên."
+    },
+    {
+     "t": "Viêm xương chũm cấp",
+     "n": "Biến chứng cấp tính phổ biến nhất của viêm tai giữa cấp (QĐ 5643, mục 5.2, tr. 214). Bà không sưng đỏ hay phập phều sau tai, vành tai không bị đẩy ra trước, rãnh sau tai nguyên vẹn (QĐ 5643, Viêm xương chũm mục 3.1.1, tr. 195). Ấn xương chũm hơi tức chỉ là phản ứng xương chũm, không đáng ngại (QĐ 5643, tr. 211). Bà từ chối xét nghiệm và chụp phim nên loại trừ bằng lâm sàng, dặn dấu hiệu và hẹn khám lại."
+    },
+    {
+     "t": "Zona tai (hội chứng Ramsay-Hunt, zona hạch gối)",
+     "n": "Zona cũng đau tai, chảy tai, điếc nhưng có mụn nước ở nắp tai, vành tai, thành sau ống tai, màng nhĩ kèm giảm cảm giác da vùng đó (QĐ 5643, mục 3.2, tr. 212; zona hạch gối là nguyên nhân liệt mặt: Liệt VII Bảng 1). Bà không mụn nước, cảm giác bình thường, không liệt mặt."
+    },
+    {
+     "t": "Viêm ống tai ngoài, nhọt ống tai (sau lấy ráy tai)",
+     "n": "Nhọt ống tai có điểm đau ở nắp tai, rãnh trước xương chũm, kéo vành tai đau; viêm ống tai ngoài phù nề nên không soi được màng nhĩ (QĐ 5643, Viêm tai giữa cấp mục 3.2, tr. 212). Bà kéo vành tai không đau, ống tai không phù nề, thấy rõ màng nhĩ viêm."
+    },
+    {
+     "t": "Viêm tai giữa thứ phát do u vòm mũi họng",
+     "n": "U vòm mũi họng là một nguyên nhân của viêm tai giữa (QĐ 5643, mục 2, tr. 210). Ca có cảm lạnh ngay trước đó nên nghĩ nhiều tới viêm tai giữa sau nhiễm trùng hô hấp; chưa soi được vòm họng, khám lại nếu tai không khỏi."
+    },
+    {
+     "t": "Biến chứng nội sọ hay viêm mê nhĩ",
+     "n": "Cần nghĩ khi có dấu màng não, chóng mặt quay, liệt mặt (QĐ 5643, mục 5.2, tr. 214). Bà tỉnh, cổ mềm, Kernig và Brudzinski âm tính, không chóng mặt quay, không liệt dây VII."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Kê kháng sinh uống ngay: amoxicillin 500 mg × 3 lần/ngày (mỗi 8 giờ), 5 ngày HOẶC kháng sinh beta-lactam phổ rộng, cephalosporin hay macrolid theo QĐ 5643 (không ghi liều)",
+     "v": "c",
+     "n": "Ghi cả hai (sổ TM-0128 mục 1). AWaRe 2022 (tr. 37, 44; Bảng 5.3, tr. 44–45): kháng sinh khi nặng (đau dù dùng thuốc giảm đau); người lớn amoxicillin 500 mg mỗi 8 giờ, 5 ngày. QĐ 5643/2015 (mục 4.1, 4.3.3, tr. 212–214, viết cho trẻ em): kháng sinh, kháng viêm, dẫn lưu cho mọi ca; beta-lactam, cephalosporin, macrolid, không ghi liều, số ngày. Hai nguồn cùng hướng ở ca nặng. Liều AWaRe tính cho thận bình thường; thận của bà chưa biết, cách giảm liều không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Amoxicillin–clavulanate 500 mg/125 mg × 3 lần/ngày, 5 ngày",
+     "v": "a",
+     "n": "Lựa chọn thứ hai của AWaRe 2022 (Bảng 5.3, tr. 45), khi nghi kháng thuốc: amoxicillin dưới 3 tháng hoặc tái phát trên 4 lần/năm (tr. 41); bà không có. Chấp nhận."
+    },
+    {
+     "t": "Giảm đau hạ sốt bằng paracetamol 500 mg mỗi 6 giờ khi đau hoặc sốt, tối đa 4 viên/ngày (2 g); dùng một thuốc giảm đau",
+     "v": "c",
+     "n": "Ghi cả hai trần (sổ 'Liều paracetamol tối đa ở người cao tuổi'): AWaRe 2022 (tr. 37, Bảng 5.2, tr. 43) 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày (2 g nếu suy gan; gan bà chưa rõ); QĐ 361/2014 (Phụ lục NSAID mục 3.3) dưới 3 g/ngày ở người cao tuổi, gầy yếu, tăng huyết áp. Ca chọn 2 g/ngày vì bà 79 tuổi, 44 kg, tăng huyết áp, thận gan chưa biết (lựa chọn của ca)."
+    },
+    {
+     "t": "Ibuprofen 200–400 mg mỗi 6–8 giờ thay paracetamol",
+     "v": "a",
+     "n": "AWaRe 2022 (Bảng 5.2, tr. 43) xem ngang paracetamol, tối đa 2,4 g/ngày. Bà nguy cơ cao: QĐ 361/2014 (Phụ lục NSAID mục 3.3) tránh NSAID nếu có thể; Beers 2023 (Bảng 2) tránh NSAID kéo dài ở người trên 75 tuổi và dùng đều đặn cùng thuốc chống đông, kháng tiểu cầu, corticoid (bà không rõ có dùng không); thận chưa biết (Bảng 6). Chấp nhận, không ưu tiên."
+    },
+    {
+     "t": "Xem túi thuốc, hỏi cháu và con gái để biết bà đang uống thuốc gì; ngưng viên 'thuốc đau gối' không tên trong lúc đang bệnh, không uống chồng với thuốc giảm đau khác; giữ amlodipin 5 mg như cũ; mang đủ vỉ, vỏ thuốc hoặc chụp hình đến lần khám lại",
+     "v": "c",
+     "n": "Thuốc không rõ: không loại trừ được NSAID, corticoid, thuốc chống đông; Beers 2023 (Bảng 2) cảnh báo NSAID ở người trên 75 tuổi, nhất là khi dùng cùng các thuốc đó; QĐ 361/2014 (Phụ lục NSAID mục 3.3) tránh NSAID ở người cao tuổi nếu có thể. Không đổi thuốc huyết áp có nhãn khi chưa có lý do: lựa chọn của ca."
+    },
+    {
+     "t": "Tôn trọng việc bà từ chối: nêu rõ xét nghiệm đã đề nghị, lý do cần và hậu quả nếu không làm, nghe lý do của bà, ghi hồ sơ (loại xét nghiệm, lý do, đã giải thích, bà hiểu); vẫn điều trị và chuyển sang phương án B (soi tai, khám lâm sàng, hẹn khám lại, xin lại xét nghiệm khi cần)",
+     "v": "c",
+     "n": "Viêm tai giữa cấp chẩn đoán bằng soi tai; xét nghiệm, hình ảnh chỉ khi nghi biến chứng (AWaRe 2022, tr. 37, 41–42), nên từ chối hôm nay không ngăn điều trị đúng. Thủ tục ghi nhận từ chối: không có trong tài liệu đã tải (sổ: v kèm r mô tả từ chối, phương án B bằng lâm sàng)."
+    },
+    {
+     "t": "Hẹn khám lại sau 48–72 giờ; dặn quay lại ngay khi: sưng đỏ hay đau sau tai, vành tai bị đẩy ra trước, chảy mủ tai, méo miệng hay khó nhắm mắt, chóng mặt quay hay nôn, đau đầu dữ dội, cứng cổ, lơ mơ, sốt cao hơn hoặc không bớt sau 48 giờ dùng kháng sinh; viết ra giấy cho cháu Hà, ghi số điện thoại phòng khám",
+     "v": "c",
+     "n": "Biến chứng: viêm xương chũm (sưng nề, đỏ sau tai, đẩy vành tai ra trước, phập phều: QĐ 5643, Viêm xương chũm mục 3.1.1, tr. 195), viêm mê nhĩ, liệt dây VII, viêm màng não, áp xe não (QĐ 5643, Viêm tai giữa cấp mục 5.2, tr. 214). Đánh giá lại khi không cải thiện sau 3 ngày: AWaRe 2022 (tr. 42). NICE NG91 2018 khuyến cáo 1.1.14 chuyển viện khi biến chứng (viết cho dưới 18 tuổi; tiêu chí người lớn không có trong tài liệu đã tải). Mốc 48–72 giờ là lựa chọn của ca."
+    },
+    {
+     "t": "Thỏa thuận trước mốc chuyển tuyến với bà và cháu: nếu có một dấu hiệu biến chứng thì đi bệnh viện tỉnh có khoa Tai Mũi Họng ngay trong ngày, đi cùng người thân, mang túi thuốc và giấy dặn; phòng khám sẽ gọi báo trước",
+     "v": "c",
+     "n": "Dấu hiệu biến chứng: QĐ 5643 (mục 5.2, tr. 214; Viêm xương chũm mục 3.1.1, tr. 195). Viêm xương chũm cần X-quang hoặc CT, điều trị nội tích cực kháng sinh phổ rộng, phẫu thuật khi cần (QĐ 5643, Viêm xương chũm mục 4.2, tr. 196). Chuẩn bị trước chuyển là việc của ca, không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hỏi bà mong gì từ buổi khám, điều gì làm bà lo; khám thực thể tổng quát những gì không cần chích (huyết áp, tim phổi, cân nặng); trả lời nỗi lo; hẹn khám tổng quát riêng sau khi hết viêm tai và để bà tự quyết xét nghiệm nào làm, theo khả năng chi trả",
+     "v": "c",
+     "n": "Lý do thật là muốn kiểm tra tổng quát, kèm sợ tốn tiền và sợ chích. Nội dung khám tổng quát cho người ≥ 75 tuổi: không có trong tài liệu đã tải; thời điểm hẹn là quyết định của ca."
+    },
+    {
+     "t": "Dặn giữ tai khô, không lấy ráy bằng cây lấy ráy, không nhỏ thuốc lạ vào tai, xì mũi từng bên, không bịt cả hai lỗ mũi; giữ ấm tai và cổ khi trời lạnh",
+     "v": "c",
+     "n": "QĐ 5643 (Viêm tai giữa cấp mục 6, tr. 214): tuyệt đối không xì mũi bằng cách bịt cả hai lỗ mũi cùng lúc, phải bịt một bên và để hở bên kia. Cấm lấy ráy tai khi viêm tai giữa và lời dặn giữ ấm: không có trong tài liệu đã tải; là lời dặn của ca vì bà hay lấy ráy."
+    },
+    {
+     "t": "Corticoid toàn thân (prednisolon hay methylprednisolon) làm kháng viêm",
+     "v": "a",
+     "n": "QĐ 5643 (mục 4.3.3, tr. 214) nêu thuốc kháng viêm corticoid; NICE NG91 2018 không khuyến cáo (sổ NH-0355 mục 4). Không bắt buộc; bà chưa biết đường huyết, không xét nghiệm được nên không ưu tiên."
+    },
+    {
+     "t": "Chích rạch màng nhĩ ngay hoặc chuyển Tai Mũi Họng chích rạch",
+     "v": "a",
+     "n": "QĐ 5643 (mục 4.3.1, tr. 213) chỉ định khi toàn thân xấu (sốt, mất ngủ), nghe kém, màng nhĩ căng phồng, kéo dài trên bốn ngày; bà mới ngày thứ 2, màng nhĩ chỉ phồng nhẹ (sổ NH-0355 mục 4). Chấp nhận nếu làm."
+    },
+    {
+     "t": "Chỉ giảm đau và theo dõi, không kê kháng sinh",
+     "v": "w",
+     "n": "Bà thuộc thể nặng: đau tai dù đã uống paracetamol, sốt, mất ngủ, bỏ ăn (AWaRe 2022, tr. 37 và 44). QĐ 5643 (mục 4.1, tr. 212) kháng sinh cho mọi ca. Cả hai nguồn cùng hướng, nên bỏ kháng sinh ở ca này là sai."
+    },
+    {
+     "t": "Chuyển bệnh viện hay nhập viện truyền kháng sinh tĩnh mạch ngay vì bà rất cao tuổi và không làm xét nghiệm được",
+     "v": "w",
+     "n": "Chưa có biến chứng, bà uống được: điều trị ngoại trú (AWaRe 2022, Bảng 5.3, tr. 44). Chỉ chuyển khi có biến chứng (QĐ 5643, mục 5.2, tr. 214). Tuổi cao và từ chối xét nghiệm tự nó không phải tiêu chí chuyển trong tài liệu đã tải."
+    },
+    {
+     "t": "Ép bà phải thử máu mới kê thuốc, hoặc cho về không điều trị khi bà từ chối xét nghiệm",
+     "v": "w",
+     "n": "Xét nghiệm không cần để chẩn đoán hay quyết định kháng sinh (AWaRe 2022, tr. 37, 41–42). Bỏ bà không điều trị làm mất cơ hội uống đúng thuốc; điều khoản quyền từ chối của người bệnh: không có trong tài liệu đã tải, chấm theo phán đoán lâm sàng."
+    },
+    {
+     "t": "Dùng thêm viên 'thuốc đau gối' không rõ tên của bà, hoặc cho bà ibuprofen cùng lúc với thuốc giảm đau cũ",
+     "v": "w",
+     "n": "Không biết thành phần, có thể là NSAID hoặc corticoid; Beers 2023 (Bảng 2) nêu nguy cơ chảy máu, loét tiêu hóa ở người trên 75 tuổi, nhất là khi dùng cùng corticoid hay thuốc chống đông."
+    },
+    {
+     "t": "Dặn bà xì mũi mạnh, bịt cả hai lỗ mũi cho 'thông tai'",
+     "v": "h",
+     "n": "QĐ 5643 (Viêm tai giữa cấp mục 6, tr. 214): tuyệt đối không, vì đẩy dịch mũi lên tai giữa."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Viêm tai giữa cấp tai trái, ngày thứ 2 của đau, thể có triệu chứng nặng (đau tai dù uống paracetamol, sốt 38,3 °C, mất ngủ, bỏ ăn, bỏ bán), màng nhĩ chưa thủng, nghe kém dẫn truyền tai trái, thứ phát sau viêm hô hấp trên khi gặp đợt không khí lạnh",
+     "Chưa có biến chứng: không viêm xương chũm, không liệt dây VII, không dấu màng não; không zona tai; không viêm ống tai ngoài",
+     "Người rất cao tuổi (79 tuổi, 44 kg), biểu hiện không điển hình (chậm chạp, lẫn nhẹ, bỏ ăn), không có sảng rõ",
+     "Bệnh nền: tăng huyết áp (amlodipin 5 mg); chức năng thận, gan, đường huyết chưa biết do bà từ chối xét nghiệm; thuốc đang dùng chỉ biết một phần (hai loại không rõ tên)",
+     "Bà từ chối xét nghiệm (đã ghi nhận); lý do thật đi khám: muốn kiểm tra tổng quát sau khi bạn hàng đột quỵ"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: khởi phát (gió mùa, sổ mũi, đau tai sau 4–5 ngày) → tính chất đau (sâu, nhói theo mạch, lan thái dương và hàm) → nghe kém, ù → sốt → dấu hiệu nguy hiểm (chảy mủ, sưng sau tai, méo miệng, mụn nước, chóng mặt, cứng cổ) → thuốc đang dùng, dị ứng, kháng sinh gần đây, bệnh nền → câu hỏi chức năng (ngủ, ăn, bán hàng, số viên giảm đau, tính tiền) → hỏi người nhà → lý do thật. Hỏi 'đau nhiều không' bà đáp nhẹ nên phải hỏi bằng việc làm được hay không (QĐ 5643/2015, Viêm tai giữa cấp mục 3.1.1, tr. 210–211).",
+     "Khám: soi tai bằng đèn có thổi hơi là bước quyết định (AWaRe 2022 mục 5, tr. 41). Màng nhĩ trái đục, phồng nhẹ, mất tam giác sáng, kém di động; ở người già màng nhĩ không đỏ mà trắng bệch với nhiều mạch đỏ tỏa từ cán búa (QĐ 5643, tr. 211). Âm thoa cho nghe kém dẫn truyền bên trái (Rinne âm, Weber thiên về bên bệnh; QĐ 5643, tr. 211); bà còn nghe kém tuổi già nhẹ hai tai nên phải so hai bên.",
+     "Loại trừ: không sưng đỏ, phập phều sau tai, vành tai không bị đẩy ra trước nên chưa nghĩ viêm xương chũm (QĐ 5643, Viêm xương chũm mục 3.1.1, tr. 195); không mụn nước, cảm giác bình thường, mặt cân đối nên không phải zona tai (QĐ 5643, mục 3.2, tr. 212); kéo vành tai không đau, ống tai không phù nề nên không phải viêm ống tai ngoài hay nhọt (QĐ 5643, mục 3.2, tr. 212).",
+     "Mức nặng: AWaRe 2022 (tr. 37, 44) xếp nặng khi đau tai dù dùng thuốc giảm đau, sốt từ 39 °C hay toàn thân rất mệt. Bà sốt 38,3 °C nhưng đau thức trắng, bỏ sạp, ăn mấy muỗng cháo, uống ba viên paracetamol chỉ bớt một hai giờ: thuộc nhóm nặng. Chỗ này chỉ lộ ra bằng câu hỏi chức năng.",
+     "Applicability Note: nhóm từ 75 tuổi bị loại khỏi hầu hết thử nghiệm; AWaRe 2022 chỉ có một cột người lớn, nói viêm tai giữa hiếm ở người lớn (tr. 37, 40), không tách người rất cao tuổi; QĐ 5643, AAP 2013 (6 tháng–12 tuổi) và NICE NG91 (dưới 18 tuổi) viết cho trẻ em nên không dùng cho liều ở bà. Người già có thể chỉ chậm, lẫn nhẹ, bỏ ăn nên không chờ triệu chứng điển hình mới soi tai. Hướng dẫn riêng cho người ≥ 75 tuổi và cách giảm liều amoxicillin khi suy thận: không có trong tài liệu đã tải.",
+     "Cận lâm sàng: không cần để chẩn đoán (AWaRe 2022, tr. 37, 41–42). Bà từ chối lấy máu, đo đường và chụp phim; phần mù là chức năng thận, đường huyết, công thức máu, được bù bằng liều chuẩn 5 ngày, dặn dò và hẹn khám lại có mốc."
+    ],
+    "phan_tich_xu_tri": [
+     "Hướng xử trí: điều trị ngoại trú, kháng sinh uống ngay vì thể nặng, giảm đau, hẹn khám lại; không nhập viện (AWaRe 2022, Bảng 5.3, tr. 44; QĐ 5643, mục 4.1, tr. 212). Chuyển tuyến chỉ khi có biến chứng (QĐ 5643, mục 5.2, tr. 214); nói rõ trước với bà và cháu mốc nào phải đi.",
+     "Hai cách chọn thuốc đều đúng: amoxicillin 500 mg mỗi 8 giờ × 5 ngày (AWaRe 2022) hoặc beta-lactam phổ rộng, cephalosporin, macrolid (QĐ 5643, mục 4.3.3, tr. 214, không ghi liều). Ca chọn amoxicillin vì có liều và số ngày; amoxicillin–clavulanate chỉ khi nghi kháng thuốc (AWaRe, tr. 41, 45). Liều tính cho thận bình thường; cách giảm liều khi suy thận không có trong tài liệu đã tải.",
+     "Giảm đau: paracetamol, không dùng chồng nhiều thuốc. Trần liều ghi cả hai nguồn: 4 g/ngày (AWaRe Bảng 5.2, tr. 43) và dưới 3 g/ngày cho người cao tuổi, gầy yếu, tăng huyết áp (QĐ 361/2014, Phụ lục NSAID mục 3.3); ca kê 2 g/ngày. Ibuprofen ngang paracetamol theo AWaRe nhưng không ưu tiên ở bà vì tuổi, thận chưa biết, thuốc không rõ (Beers 2023 Bảng 2, 6).",
+     "Thuốc không rõ: không giả định. Xem túi thuốc, hỏi người nhà; giữ amlodipin có nhãn; ngừng thuốc đau gối không tên trong lúc bệnh và mang đến lần sau. Không thêm corticoid hay NSAID.",
+     "Từ chối xét nghiệm: là quyền của bà; bác sĩ nêu xét nghiệm đã đề nghị, vì sao, hậu quả nếu không làm, nghe lý do (đau, tiền, sợ biết bệnh), ghi hồ sơ, rồi phương án B: soi tai, khám lâm sàng, hẹn 48–72 giờ, xin lại xét nghiệm khi có dấu nặng. Thủ tục ghi nhận từ chối: không có trong tài liệu đã tải.",
+     "Chuyển tuyến kịp thời: khi có sưng đỏ sau tai, đẩy vành tai ra trước, liệt mặt hay dấu màng não thì đi ngay trong ngày (QĐ 5643, mục 5.2, tr. 214; Viêm xương chũm mục 3.1.1, tr. 195; mục 4.2, tr. 196). Trước chuyển: giảm đau, gọi báo, bản tóm tắt (thuốc đã dùng, mốc giờ, bà từng từ chối xét nghiệm), người thân đi cùng, mang túi thuốc: việc của ca, không có trong tài liệu đã tải.",
+     "Lý do thật là muốn kiểm tra tổng quát: nếu chỉ kê thuốc rồi cho về, nỗi sợ vẫn nguyên và bà không quay lại. Khám các việc không cần chích, trả lời nỗi lo, hẹn buổi khám tổng quát riêng, để bà quyết xét nghiệm nào theo khả năng chi trả."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Amoxicillin",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Mỗi 8 giờ (6 giờ, 14 giờ, 22 giờ), uống trong bữa ăn",
+      "so_ngay": "5 ngày",
+      "ghi_chu": "AWaRe 2022 mục 5, Bảng 5.3 (tr. 44): người lớn lựa chọn đầu amoxicillin 500 mg mỗi 8 giờ, tổng 5 ngày; liều tính cho chức năng thận và gan bình thường (tr. 45). QĐ 5643/2015 (mục 4.3.3, tr. 214) cho phép nhóm beta-lactam, cephalosporin, macrolid, không ghi liều. Thay thế khi nghi kháng thuốc: amoxicillin–clavulanate 500/125 mg mỗi 8 giờ (AWaRe, tr. 45). Chức năng thận chưa biết; cách giảm liều: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "Viên 500 mg",
+      "lieu": "500 mg/lần (1 viên)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau hoặc sốt, các lần cách nhau ít nhất 6 giờ, tối đa 4 viên/ngày (2 g)",
+      "so_ngay": "2–3 ngày hoặc đến khi hết đau và hết sốt",
+      "ghi_chu": "AWaRe 2022 mục 5 (tr. 37) và Bảng 5.2 (tr. 43): người lớn 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày; QĐ 361/2014 (Phụ lục NSAID mục 3.3): dưới 3 g/ngày ở người cao tuổi, gầy yếu, tăng huyết áp. Ca chọn 2 g/ngày, thấp hơn cả hai trần. Không dùng cùng ibuprofen hoặc thuốc giảm đau không rõ tên. Số ngày dùng: không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Amlodipin (thuốc đang dùng, có nhãn)",
+      "ham_luong": "Viên 5 mg",
+      "lieu": "5 mg/lần",
+      "duong": "Uống",
+      "thoi_diem": "Sáng, như bà vẫn uống",
+      "so_ngay": "Giữ nguyên, dùng lâu dài",
+      "ghi_chu": "Giữ nguyên thuốc đã có nhãn rõ, không đổi khi không có lý do. Hai thuốc không nhãn (viên cam 'thuốc đau gối', viên nang nâu 'thuốc bổ'): chưa xác định được; không cho dùng thêm, mang đến lần khám lại. Tương tác amoxicillin–amlodipin: không có trong tài liệu đã tải."
+     }
+    ],
+    "dan_do": [
+     "Gợi ý lời thoại (không đối đầu): 'Bà Lụa, bà nói đau chút xíu, nhưng bà thức gần trắng đêm, bỏ sạp, uống ba viên giảm đau chỉ bớt một hai tiếng. Con soi thấy màng nhĩ trái của bà đục và phồng, tai đang viêm nặng, cần uống kháng sinh. Còn thử máu, bà không muốn thì con không ép, con ghi vào sổ là bà đã nghe giải thích và từ chối; hai ba ngày nữa mình khám lại, nếu có dấu nặng thì con xin bà thử máu, chụp phim.'",
+     "Uống amoxicillin 500 mg mỗi 8 giờ, đủ 5 ngày dù đã đỡ (AWaRe 2022, Bảng 5.3, tr. 44). Đau hay sốt thì uống paracetamol 500 mg, cách nhau ít nhất 6 giờ, không quá 4 viên mỗi ngày; không uống thêm thuốc giảm đau khác, kể cả viên cam 'thuốc đau gối' (AWaRe 2022, Bảng 5.2, tr. 43; QĐ 361/2014, Phụ lục NSAID mục 3.3).",
+     "Mang đến lần khám lại toàn bộ thuốc bà đang uống (vỉ, lọ, vỏ hộp) hoặc nhờ cháu chụp hình; nhờ con gái hỏi tiệm thuốc tên thuốc đau gối. Vẫn uống amlodipin 5 mg buổi sáng như cũ (lời dặn của ca, không có trong tài liệu đã tải).",
+     "Giữ tai khô, không lấy ráy bằng cây lấy ráy, không nhỏ dầu hay thuốc lạ vào tai. Xì mũi từng bên một, không bịt cả hai lỗ mũi (QĐ 5643/2015, Viêm tai giữa cấp mục 6, tr. 214). Quấn khăn che tai, cổ khi trời lạnh (lời dặn của ca, không có trong tài liệu đã tải).",
+     "Quay lại ngay, hoặc đi bệnh viện tỉnh có khoa Tai Mũi Họng trong ngày nếu: sưng đỏ hay đau sau tai, vành tai nhô ra, chảy mủ từ tai, méo miệng hoặc khó nhắm mắt, chóng mặt quay và nôn, đau đầu dữ dội, cứng cổ, lơ mơ hay lú hơn, sốt cao hơn hoặc không bớt sau 48 giờ uống thuốc (QĐ 5643, mục 5.2, tr. 214; Viêm xương chũm mục 3.1.1, tr. 195; NICE NG91 2018 khuyến cáo 1.1.14). Đi cùng người thân, mang theo túi thuốc và tờ dặn. Phòng khám sẽ gọi báo trước cho bệnh viện.",
+     "Hẹn khám lại sau 48–72 giờ nếu chưa đỡ hẳn (AWaRe 2022, tr. 42: đánh giá lại khi không cải thiện sau 3 ngày); khi khỏi, hẹn một buổi khám tổng quát riêng, bà chọn xét nghiệm nào làm theo khả năng chi trả. Nghỉ bán vài ngày đến khi hết sốt và hết đau đêm (số ngày nghỉ không có trong tài liệu đã tải).",
+     "Ghi hồ sơ: xét nghiệm đã đề nghị (công thức máu, creatinin, đường huyết, X-quang xương chũm), lý do bà từ chối, bà đã nghe hậu quả, điều bà đồng ý (soi tai, thính lực đồ, nhĩ lượng, hẹn khám lại), người nhà có mặt."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Bà Lụa uống thuốc đều, đêm đầu ngủ được khoảng bốn tiếng. Chiều ngày thứ hai sau khám, tai trái đau lại; cháu Hà thấy vùng sau tai bà sưng đỏ, vành tai nhô ra. Cháu đọc tờ dặn, gọi phòng khám, bác sĩ bảo đưa bà đến ngay. Rãnh sau tai đầy, ấn đau, sốt 38,9 °C: nghi viêm xương chũm cấp (QĐ 5643/2015, Viêm xương chũm mục 3.1.1, tr. 195). Bác sĩ nói rõ lần này cần máu và chụp phim để quyết định điều trị; bà đồng ý vì hiểu lý do và vì lần trước không bị ép. Bác sĩ cho một liều paracetamol, gọi khoa Tai Mũi Họng bệnh viện tỉnh và bàn giao theo thứ tự tình huống – bối cảnh – đánh giá – đề nghị: bà 79 tuổi, viêm tai giữa trái ngày thứ 4, đã uống amoxicillin 500 mg ba lần/ngày khoảng 5 liều, nay sưng đỏ sau tai, đẩy vành tai, chưa liệt mặt, chưa dấu màng não; chưa có xét nghiệm nào, thuốc đang dùng gồm amlodipin và hai thuốc chưa rõ tên (túi thuốc đi cùng); đề nghị CT xương thái dương, kháng sinh tĩnh mạch, hội chẩn tai mũi họng. Con gái và cháu đi cùng bà với giấy chuyển. Tại bệnh viện, CT xương thái dương cho thấy mờ thông bào chũm bên trái, chưa túi mủ hay biến chứng nội sọ; bà dùng kháng sinh tĩnh mạch nhóm cephalosporin thế hệ 2–3 (QĐ 5643/2015, Viêm xương chũm mục 4.3.1, tr. 196), giảm đau paracetamol, không phải phẫu thuật; hết sốt ngày thứ ba, ra viện ngày thứ sáu và đồng ý khám tổng quát tuần sau. (Diễn biến sau khám, kết quả CT và thời gian nằm viện là dữ kiện thiết kế của ca, không phải số liệu từ tài liệu đã tải.)",
+ "nhieu": [
+  "Phủ nhận triệu chứng nặng: 'đau chút xíu', 'nghe được', 'người hơi ấm' khi hỏi cảm giác; hỏi chức năng (ngủ mấy tiếng, bỏ sạp chưa, ăn mấy muỗng cháo, bớt mấy giờ sau một viên giảm đau) mới ra mức nặng thật.",
+  "Lấy ráy tai bằng cây lấy ráy đẩy suy nghĩ về viêm ống tai ngoài; kéo vành tai không đau và màng nhĩ viêm cho thấy tai giữa (QĐ 5643/2015, mục 3.2, tr. 212).",
+  "Màng nhĩ người già trắng bệch với mạch đỏ tỏa từ cán búa hơn là đỏ rực (QĐ 5643, tr. 211), dễ đọc thành bình thường nếu chờ 'đỏ như sách'.",
+  "Nghe kém tuổi già sẵn có hai tai che dấu nghe kém dẫn truyền tai trái nếu không so hai bên.",
+  "Thuốc đang dùng chỉ biết một phần: viên cam 'thuốc đau gối' và 'thuốc bổ' không tên, dễ giả định là vô hại hoặc dễ cho thêm NSAID."
+ ],
+ "bai_hoc_bien": [
+  "Phủ nhận triệu chứng nặng: dùng câu hỏi chức năng thay câu hỏi cảm giác (đêm qua ngủ mấy tiếng, hôm qua có ra sạp không, mấy viên giảm đau, bớt được bao lâu); hỏi thêm người nhà.",
+  "Bệnh nhân từ chối xét nghiệm: tôn trọng quyền tự quyết, nêu lợi hại, ghi hồ sơ, phương án B bằng lâm sàng (soi tai, hẹn khám lại có mốc), xin lại xét nghiệm khi có dấu hiệu nặng; không ép, không bỏ rơi.",
+  "Rất cao tuổi: bệnh có thể biểu hiện chậm, lẫn nhẹ, bỏ ăn; nhóm này vắng trong thử nghiệm, nên ghi rõ phần nào của đáp án là ngoại suy từ người lớn nói chung.",
+  "Thuốc đang dùng không rõ: xem túi thuốc, hỏi người nhà, không giả định; chọn thuốc giảm đau ít rủi ro nhất khi chưa biết nền.",
+  "Chuyển tuyến kịp thời: thỏa thuận trước các dấu hiệu phải đi, người đi cùng, mang túi thuốc; khi chuyển thì gọi báo trước, bàn giao theo thứ tự tình huống – bối cảnh – đánh giá – đề nghị.",
+  "Lý do thật là muốn kiểm tra tổng quát: hỏi bà mong gì, trả lời nỗi lo, hẹn buổi khám riêng theo khả năng chi trả."
+ ],
+ "diem_nho": [
+  "Viêm tai giữa cấp ở người lớn là hiếm (AWaRe 2022, tr. 37, 40); người lớn mắc thì nhớ tìm nguyên nhân ở mũi họng, kể cả u vòm mũi họng (QĐ 5643/2015, mục 2, tr. 210).",
+  "Kháng sinh người lớn: không cần ở đa số ca; cân nhắc khi nặng (đau dù dùng giảm đau, sốt từ 39 °C, toàn thân rất mệt); amoxicillin 500 mg mỗi 8 giờ, 5 ngày; amoxicillin–clavulanate 500/125 mg mỗi 8 giờ là lựa chọn thứ hai (AWaRe 2022, Bảng 5.3, tr. 44–45). Liều tính cho chức năng thận bình thường.",
+  "Giảm đau người lớn: paracetamol 500 mg–1 g mỗi 4–6 giờ, tối đa 4 g/ngày (AWaRe 2022, Bảng 5.2, tr. 43); người cao tuổi, gầy yếu, tăng huyết áp: dưới 3 g/ngày, tránh NSAID nếu có thể (QĐ 361/2014, Phụ lục NSAID mục 3.3).",
+  "Màng nhĩ người già có thể trắng bệch với mạch đỏ tỏa; ấn xương chũm hơi tức là phản ứng xương chũm (QĐ 5643, tr. 211); biến chứng cần chuyển: sưng sau tai, đẩy vành tai, liệt mặt, dấu màng não (QĐ 5643, mục 5.2, tr. 214; Viêm xương chũm mục 3.1.1, tr. 195).",
+  "Chẩn đoán viêm tai giữa cấp bằng soi tai; xét nghiệm và hình ảnh chỉ khi nghi biến chứng (AWaRe 2022, tr. 37, 41–42): từ chối xét nghiệm không chặn điều trị."
+ ],
+ "nguon": [
+  "AWaRe 2022 – WHO AWaRe (Access, Watch, Reserve) antibiotic book, 2022 – TL-0018 – ĐÃ ĐỌC: Primary health care mục 5 Acute otitis media (tr. 36–45): tóm tắt người lớn tr. 37, dịch tễ tr. 40, kháng thuốc và soi tai tr. 41, hình ảnh và không dùng kháng sinh tr. 42, Bảng 5.2 giảm đau tr. 43, chỉ định kháng sinh và Bảng 5.3 tr. 44–45",
+  "QĐ 5643/2015 – Bộ Y tế, QĐ 5643/QĐ-BYT 2015, Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng – TL-0130 – ĐÃ ĐỌC: Viêm tai giữa cấp tính trẻ em mục 1–6 (tr. 210–214, gồm mục 3.2 chẩn đoán phân biệt zona tai, viêm ống tai ngoài); Viêm xương chũm cấp tính trẻ em mục 3–4 (tr. 195–196); Liệt dây thần kinh VII ngoại biên Bảng 1. Các bài này viết cho trẻ em, áp dụng cho người lớn theo tinh thần chung",
+  "QĐ 361/2014 – Bộ Y tế, QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – ĐÃ ĐỌC: Phụ lục NSAID mục 3.3 (bảng 'Nguy cơ cao': người cao tuổi, gầy yếu hoặc tăng huyết áp, bệnh gan thận: acetaminophen dưới 3 g/ngày, tránh NSAID nếu có thể)",
+  "AGS Beers 2023 – American Geriatrics Society 2023 updated Beers criteria for potentially inappropriate medication use in older adults – TL-0022 – ĐÃ ĐỌC: Bảng 2 (NSAID không chọn lọc COX-2, nhóm Pain medications), Bảng 6 (NSAID khi CrCl dưới 30 mL/phút)",
+  "NICE NG91 2018 – Otitis media (acute): antimicrobial prescribing, 2018 (cập nhật 2022, 2025) – kho tltk-10000-ca – ĐÃ ĐỌC: khuyến cáo 1.1.14 (tiêu chí chuyển viện; viết cho người dưới 18 tuổi, chỉ dùng để tham chiếu dấu hiệu biến chứng)",
+  "KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI: hướng dẫn riêng viêm tai giữa cấp ở người lớn ngoài AWaRe 2022 và ở người từ 75 tuổi; tiêu chí chuyển viện cho người lớn; liều thuốc nhỏ tai; cách giảm liều amoxicillin khi suy thận; thủ tục ghi nhận từ chối xét nghiệm và quyền từ chối của người bệnh; công cụ sàng lọc sảng; nội dung khám tổng quát cho người ≥ 75 tuổi; không khí lạnh gây viêm tai giữa; nguy cơ lú lẫn khi nằm viện; số ngày nghỉ; cách chuẩn bị trước chuyển và bàn giao"
+ ],
+ "ghi_chu_bien_tap": [
+  "2026-11-28 – bản 1: viết theo đặc tả sổ cái TM-0102 (nữ 79 tuổi, buôn bán nhỏ, 1 lượt, điển hình, phủ nhận triệu chứng nặng, từ chối xét nghiệm, sau đợt không khí lạnh, thuốc không rõ, muốn kiểm tra tổng quát, chuyển tuyến kịp thời). Loại trừ: viêm xương chũm, zona tai.",
+  "Tài liệu đã đọc: TL-0018 (AWaRe 2022 mục 5, tr. 36–45), TL-0130 (QĐ 5643/2015: Viêm tai giữa cấp tr. 210–214, Viêm xương chũm tr. 195–196, Liệt VII Bảng 1), TL-0286 (QĐ 361/2014 Phụ lục NSAID mục 3.3), TL-0022 (Beers 2023 Bảng 2, 6), NICE NG91 (kho cũ, 1.1.14). TL-0271 và Italian Consensus 2025 dành cho trẻ em, không dùng cho liều.",
+  "Thiết kế (không phải số liệu tài liệu): ket_luan ve_hen, kết cục 'chuyển tuyến kịp thời' xảy ra sau khám nhờ dặn dấu hiệu và thỏa thuận mốc chuyển; khoa_cls null vì ràng buộc là bà từ chối (v kèm r mô tả từ chối, phương án B lâm sàng, theo sổ NH-0470, TH-0379, MT-0166); paracetamol 2 g/ngày, mốc 48–72 giờ, túi thuốc, kết quả thính lực đồ, nhĩ lượng, diễn biến bệnh viện. Thiếu tài liệu: xem mục KHÔNG CÓ TRONG TÀI LIỆU ĐÃ TẢI.",
+  "Mâu thuẫn áp dụng đúng mục cũ: TM-0128 mục 1, NH-0355 mục 4–5, 'Liều paracetamol tối đa ở người cao tuổi hoặc tăng huyết áp' (TH-0295). Không có mâu thuẫn mới (TM-0102_mau_thuan.md). Mạch 86 l/p dùng tệp tim bình thường; không có ảnh da."
+ ]
+}

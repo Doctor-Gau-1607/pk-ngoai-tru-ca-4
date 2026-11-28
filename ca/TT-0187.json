@@ -1,0 +1,784 @@
+{
+ "ma_ca": "TT-0187",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": "1 – viết theo tài liệu đã tải (2026-11-28)",
+ "benh": "TT_roi_loan_hoang_so",
+ "so_cai": {
+  "chuyen_khoa": "Tâm thần cơ bản",
+  "chan_doan_dich": "Rối loạn hoảng sợ",
+  "chan_doan_phai_loai_tru": [
+   "Hội chứng vành cấp",
+   "Cường giáp",
+   "Loạn nhịp"
+  ],
+  "nhom_tuoi": "Thanh niên (16–39 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Mang chẩn đoán tự tra trên mạng",
+  "rang_buoc_nguon_luc": "Nguồn lực đầy đủ",
+  "loai_ket_cuc": "Khỏi chậm hơn dự kiến",
+  "gioi": "Nam",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Lập trình viên",
+  "yeu_to_khoi_phat": "Sau dùng NSAID",
+  "thuoc_dang_dung": "Thuốc bắc không rõ thành phần",
+  "ly_do_that_su_den_kham": "Tái khám theo hẹn"
+ },
+ "benh_nhan": {
+  "ten": "Đặng Minh Khôi",
+  "tuoi": 33,
+  "gioi": "Nam",
+  "nghe": "Lập trình viên backend (công ty phần mềm, hay trực đêm xử lý sự cố)",
+  "can_nang": 68,
+  "chieu_cao": 173,
+  "xung_ho": "Bác sĩ gọi anh là 'anh Khôi'. Anh xưng 'em', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Lập trình viên, lý trí, tin biểu đồ và số liệu hơn lời nói. Lịch sự, nói nhanh, hay mở câu bằng 'theo em tra thì…'. Ngại nghe 'bệnh tâm lý' vì nghĩ như vậy là 'yếu'. Giấu nỗi sợ thật sau giọng kỹ thuật.",
+  "kieu_nhieu": "Mang chẩn đoán tự tra trên mạng: đưa ảnh chụp biểu đồ mạch từ đồng hồ thông minh và vài trang tìm kiếm, tin mình bị 'nhịp nhanh trên thất' hoặc 'cường giáp', xin làm Holter, siêu âm tim, xét nghiệm tuyến giáp. Không thô lỗ, nhưng mỗi lần bị gạt đi lại hỏi 'căn cứ nào bác sĩ nói không phải'. Nghe giải thích có số liệu và cơ chế thì chịu nhận; nghe 'không sao, do căng thẳng' thì thấy bị coi nhẹ. Google không sai hết: nhịp nhanh trên thất có thể bị nhầm là cơn hoảng sợ (ESC SVT 2019, mục 8), nên cần trả lời đúng chỗ anh lo thay vì bác bỏ.",
+  "nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#e0b48f",
+   "toc": "#141414",
+   "kieuToc": "ngan",
+   "ao": "#3b4a5a",
+   "aoKieu": "thun",
+   "kinh": true,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Hồi hộp, tức ngực từng cơn – đến tái khám theo hẹn",
+ "khoa_cls": null,
+ "luot": [
+  {
+   "ten": "Lượt 1",
+   "tiep_don": "Nam 33 tuổi, lập trình viên, đến khám theo giấy hẹn tái khám của lần khám trước (10 ngày trước, ở một phòng khám gần công ty). Anh không mang phiếu kết quả, chỉ nhớ 'điện tim bình thường', và đưa điện thoại có ảnh biểu đồ mạch từ đồng hồ thông minh. Sinh hiệu lúc tiếp đón: mạch 76 l/p, HA 118/74 mmHg, nhiệt 36,8 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "cap_cuu": "Đưa anh Khôi đi cấp cứu hoặc nhập viện theo dõi tim khi anh 33 tuổi, không yếu tố nguy cơ, cơn không do gắng sức, ECG bình thường (HEART H-E-A-R = 0; Backus 2013 Bảng 1) là quá tay: ESC 2023 Hình 5 dành cho người nghi hội chứng vành cấp. Anh mất cả ngày công và một đêm ở khoa cấp cứu, rút ra 'tim mình có vấn đề nên mới phải đi cấp cứu', củng cố nỗi sợ nuôi cơn hoảng sợ (WFSBP 2022 Bảng 5); chưa có SSRI hay CBT nên cơn tái diễn.",
+    "chuyen_tuyen": "Chuyển anh lên bệnh viện tim mạch làm Holter, siêu âm tim, gắng sức khi ECG, TSH bình thường và mạch trong cơn tăng dần là quá tay (ESC SVT 2019 mục 8, 9.1.1). Kết quả bình thường mà không ai giải thích về cơn hoảng sợ, anh vẫn tin 'chưa đo đúng lúc'; điều trị đúng (mhGAP 2023 ANX1, ANX2) bị lùi nhiều tuần.",
+    "theo_doi": "Cho anh về với lời 'không sao, do căng thẳng', không hẹn, không hỏi thuốc bắc hay thuốc giảm đau. Anh thấy bị coi nhẹ, tiếp tục uống thuốc bắc không rõ thành phần và ibuprofen khi đau cổ vai gáy, tự đi làm Holter nơi khác. Cơn và né tránh kéo dài khi chưa có điều trị nền (NICE CG113 1.3.7: phương án điều trị phải có sớm)."
+   },
+   "loi_mo": "Chào bác sĩ. Em đến tái khám theo giấy hẹn, nhưng thật ra em vẫn hồi hộp, tức ngực từng cơn mấy tuần nay. Em có tra thì thấy giống nhịp nhanh trên thất hoặc cường giáp, đồng hồ của em báo mạch lên hơn một trăm mười trong cơn. Bác sĩ cho em làm Holter, siêu âm tim với xét nghiệm tuyến giáp luôn được không?",
+   "sinh_hieu": {
+    "mach": 76,
+    "ha": "118/74",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Hồi hộp, tức ngực từng cơn gần 6 tuần. Đến theo giấy hẹn tái khám, nhưng muốn 'kiểm tra cho ra bệnh' bằng Holter, siêu âm tim, tuyến giáp vì đã tự tra.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám và chẩn đoán tự tra"
+    },
+    {
+     "id": "con",
+     "noi_dung": "Mỗi cơn đột ngột: tim đập mạnh nhanh, vã mồ hôi, run, khó thở như bị bóp nghẹt, tức giữa ngực, tê đầu ngón tay và quanh miệng, thấy mọi thứ 'không thật', sợ mình sắp chết. Lên đỉnh sau chừng 10 phút, cả cơn 20–30 phút rồi hết hẳn, giữa các cơn khỏe. Khoảng 8 cơn trong 6 tuần, có lúc xảy ra lúc 3 giờ sáng đang ngủ.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đặc điểm cơn hoảng sợ, ≥4 triệu chứng, bất ngờ"
+    },
+    {
+     "id": "khong_gang_suc",
+     "noi_dung": "Cơn không liên quan gắng sức: chơi cầu lông, leo 5 tầng không lên cơn. Cơn xảy ra lúc ngồi viết mã, trên xe buýt, khi nằm. Tức kiểu nặng, thắt giữa ngực, không lan tay hay hàm, không đổi theo hít sâu hay tư thế.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Cơn không do gắng sức, không lan"
+    },
+    {
+     "id": "nsaid",
+     "noi_dung": "Cơn đầu 6 tuần trước, khoảng 1 giờ sau khi uống 2 viên ibuprofen 400 mg lúc đói, vì đau đầu và cổ vai gáy trước hạn chốt dự án (đã 3 ly cà phê). Từ đó anh tin 'thuốc giảm đau làm loạn nhịp tim'. Trong 8 cơn, 5 cơn xảy ra lúc không dùng thuốc giảm đau nào.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Khởi phát sau NSAID nhưng cơn tái diễn khi không dùng"
+    },
+    {
+     "id": "thuoc_bac",
+     "noi_dung": "Từ 3 tuần trước uống thuốc bắc do bạn giới thiệu, thầy nói 'bổ tim an thần', mỗi ngày một thang sắc, không đưa đơn, anh không biết thành phần. Cơn vẫn xảy ra khi đang uống. Còn khoảng 5 thang.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Thuốc bắc không rõ thành phần cần hỏi và ngưng trước khi kê SSRI"
+    },
+    {
+     "id": "tranh_ne",
+     "noi_dung": "Hơn 1 tháng nay bỏ chơi cầu lông vì sợ tim đập nhanh, tránh họp phòng kín và xe buýt đông, đặt tay lên cổ tay hoặc xem đồng hồ vài chục lần mỗi ngày. Lúc nào cũng lo 'cơn sẽ đến lúc không ngờ'.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Lo cơn tái phát và né tránh trên 1 tháng"
+    },
+    {
+     "id": "dong_ho",
+     "noi_dung": "Đồng hồ ghi mạch 100–118 trong cơn, tăng dần trong vài phút rồi giảm dần, không có lúc nhảy vọt hay tụt đột ngột. Mạch nghỉ 65–75. Ứng dụng điện tim một chuyển đạo 3 lần báo 'nhịp xoang', 1 lần 'không xác định' khi anh đang đi lại.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Nhịp tim tăng dần, không bắt đầu và dừng đột ngột (khác SVT)"
+    },
+    {
+     "id": "khong_cuong_giap",
+     "noi_dung": "Không sụt cân, ăn uống bình thường, không sợ nóng, không đi ngoài nhiều, không thấy cổ to. Ngủ được giữa các cơn. Khí sắc ổn, vẫn thích làm việc, không nghĩ đến chuyện tự làm hại mình.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không có hội chứng cường giáp"
+    },
+    {
+     "id": "cafe",
+     "noi_dung": "3–4 ly cà phê mỗi ngày, trực đêm thêm nước tăng lực, ngủ 4–5 giờ, ngồi máy 10 giờ. Không hút thuốc, rượu bia hiếm, không chất kích thích, không thuốc thông mũi hay giảm cân. Không bệnh tim, hen, tiểu đường; cha tăng huyết áp, không ai đột tử sớm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Caffeine, thiếu ngủ, không có chất khác"
+    },
+    {
+     "id": "dong_nghiep",
+     "noi_dung": "Hai tháng trước đồng nghiệp 29 tuổi cùng công ty được báo là 'đột tử khi trực đêm'. Từ đó anh sợ mình có 'loạn nhịp ngầm' và sẽ chết bất ngờ khi ngủ. Anh không kể với ai, chỉ nói với vợ là 'đi kiểm tra cho yên tâm'.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nếu chỉ hỏi chung 'em lo gì' anh trả lời 'chỉ muốn kiểm tra thôi'. Chỉ kể khi bác sĩ hỏi vì sao hôm nay muốn làm nhiều xét nghiệm đến vậy, anh sợ nhất điều gì khi cơn đến, hoặc có ai quen bị bệnh tim hay đột tử không.",
+     "k": 1,
+     "y": "Động cơ thật: sợ đột tử như đồng nghiệp"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, hơi căng, nói nhanh. Da ấm, khô, không vã mồ hôi lúc khám. BMI 22,7.",
+     "k": 0
+    },
+    "dau_mat_co": {
+     "a": "Không bướu giáp, không nhân giáp sờ được, không lồi mắt, không co cơ mi, không hạch cổ.",
+     "k": 1
+    },
+    "run_nghi": {
+     "a": "Hai tay giơ thẳng không run, không rung giật cơ.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, hợp tác. Khí sắc bình thường, hơi lo khi nói về cơn. Lời nói mạch lạc, không hoang tưởng, không ảo giác. Nhận thức đủ, hiểu mình cần khám nhưng 'sợ mà không kiểm soát được'. Không ý tưởng tự sát.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói mạch lạc, hơi căng thẳng."
+    },
+    "tim": {
+     "a": "Tim đều 76 l/p. Mỏm tim khoang liên sườn V đường trung đòn trái. T1, T2 rõ, không âm thổi, không T3. Không phù chân, tĩnh mạch cổ không nổi.",
+     "k": 1,
+     "hien": "Tim đều, tần số 76 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Lồng ngực cân đối. Rì rào phế nang rõ hai bên, không ran. Nhịp thở 16 l/p, không co kéo. Ấn thành ngực không đau.",
+     "k": 1,
+     "hien": "Nhịp thở 16 l/p, hai phổi thông khí đều.",
+     "media": [
+      {
+       "vi_tri": "Hai đáy phổi",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang bình thường, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn thượng vị không đau, gan lách không to.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "e",
+     "r": "Nhịp xoang 76 l/p, trục bình thường, PR 148 ms, QRS 88 ms, QTc 405 ms. Không sóng delta, không ST chênh, không sóng T đảo, không sóng Q bệnh lý.",
+     "n": "Cần: lời kể 'điện tim bình thường' không có phiếu nên không thay được ECG. ECG 12 chuyển đạo là bước đầu khi người bệnh có đau ngực (ESC 2023 Hình 5, mục 3.2) và bắt buộc để không bỏ sót nhịp nhanh trên thất vì bệnh cảnh có thể giống hoảng sợ (ESC SVT 2019 mục 8; mục 9.1.1: tìm tiền kích thích trên ECG xoang)."
+    },
+    "tsh": {
+     "v": "e",
+     "r": "TSH 1,6 mUI/L · FT4 14,5 pmol/L (trong giới hạn bình thường theo phòng xét nghiệm).",
+     "n": "Cần: loại cường giáp, bệnh người bệnh tự tra. TSH có độ nhạy và đặc hiệu cao nhất trong sàng lọc (ATA 2016 mục B2); Canada 2014 Bảng 7 liệt kê TSH trong xét nghiệm nền khi cần. Nguồn lực đầy đủ nên làm cùng FT4."
+    },
+    "liver": {
+     "v": "u",
+     "r": "AST 24 U/L, ALT 27 U/L (bình thường).",
+     "n": "Hữu ích: đang uống thuốc bắc không rõ thành phần và sắp dùng SSRI. Canada 2014 Bảng 7 liệt kê men gan trong xét nghiệm nền; WFSBP 2022 tr. 87: suy gan cần chỉnh liều. Gắn với thuốc bắc là nhận định biên tập."
+    },
+    "glu": {
+     "v": "a",
+     "r": "Glucose 5,0 mmol/L.",
+     "n": "Chấp nhận, rẻ: hạ đường huyết nằm trong bệnh gây triệu chứng hoảng sợ (Canada 2014, đoạn chẩn đoán phân biệt cơn hoảng sợ); Bảng 7 liệt kê glucose. Không làm cũng không trừ điểm."
+    },
+    "trop": {
+     "v": "a",
+     "r": "Troponin T hs trong giới hạn bình thường của phòng xét nghiệm.",
+     "n": "Chấp nhận, không bắt buộc: 33 tuổi, không yếu tố nguy cơ, không do gắng sức, ECG bình thường nên xác suất rất thấp (HEART H-E-A-R = 0, Backus 2013 Bảng 1). Đủ nguồn lực nên làm cũng không sai nhưng không đổi quyết định; ngưỡng để bỏ troponin không có trong tài liệu đã tải."
+    },
+    "echo": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "ESC SVT 2019 mục 8: siêu âm tim khi đã xác định SVT; ở đây chưa có bằng chứng (ECG xoang, không tiền kích thích, mạch tăng dần), tim và phổi khám bình thường. Đủ nguồn lực vẫn không chỉ định vì không đổi quyết định."
+    },
+    "holter_ecg": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Cơn chỉ 1–2 lần mỗi tuần nên Holter 24 giờ ít bắt được cơn; ECG nghỉ không tiền kích thích (ESC SVT 2019 mục 9.1.1). Nếu có cơn nhịp đều nhanh bắt đầu và dừng đột ngột thì ghi ECG ngay trong cơn. Ý 'Holter ít bắt được cơn thưa' là nhận định biên tập, không có trong tài liệu đã tải."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ, mức vừa, chưa có agoraphobia đầy đủ; khởi phát sau dùng ibuprofen lúc đói và nhiều cà phê",
+     "ok": 1,
+     "n": "Cơn bất ngờ tái diễn (≥4 triệu chứng, đỉnh trong vài phút), ≥1 cơn kèm hơn 1 tháng lo cơn tái phát và đổi hành vi (Canada 2014 Bảng 11, 12); người bệnh thường sợ nhồi máu (WFSBP 2022 Bảng 5). NSAID và caffeine là yếu tố khởi phát, không đủ giải thích: 5/8 cơn không dùng thuốc giảm đau."
+    },
+    {
+     "t": "Hội chứng vành cấp",
+     "n": "33 tuổi, không yếu tố nguy cơ, không tiền sử gia đình sớm; cơn không do gắng sức, không lan, tự hết; ECG bình thường (HEART H-E-A-R = 0, Backus 2013 Bảng 1; ESC 2023 Hình 5). Quay lại ngay nếu đau kéo dài, đau khi gắng sức hoặc ECG đổi."
+    },
+    {
+     "t": "Cường giáp",
+     "n": "Không sụt cân, không sợ nóng, không bướu giáp, không run; TSH 1,6 và FT4 14,5 bình thường (ATA 2016 mục B2)."
+    },
+    {
+     "t": "Loạn nhịp (nhịp nhanh trên thất, hội chứng tiền kích thích)",
+     "n": "Nhịp nhanh trên thất có thể giống hoảng sợ (ESC SVT 2019 mục 8) nhưng cơn của anh mạch tăng dần theo đồng hồ, ECG xoang, PR 148 ms, không sóng delta (mục 9.1.1). Còn nghi thì ghi ECG trong cơn, không cần Holter ngay."
+    },
+    {
+     "t": "Cơn do ibuprofen hoặc thuốc bắc (tác dụng thuốc)",
+     "n": "Cơn vẫn xảy ra khi không dùng thuốc giảm đau và khi đang uống thuốc bắc. Bằng chứng NSAID gây cơn hoảng sợ không có trong tài liệu đã tải; thuốc bắc không rõ thành phần nên không loại trừ hoàn toàn, cần ngưng để theo dõi."
+    },
+    {
+     "t": "Lo âu do caffeine hoặc thiếu ngủ",
+     "n": "Caffeine và thiếu ngủ làm cơn dễ xảy ra (Canada 2014, đoạn chẩn đoán phân biệt) nhưng cơn bất ngờ kèm sợ chết và né tránh vẫn đủ tiêu chuẩn rối loạn hoảng sợ."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích bằng số liệu của chính anh (mạch tăng dần, ECG và TSH bình thường): đây là cơn hoảng sợ, không phải nhồi máu hay loạn nhịp; nếu có cơn tim đều rất nhanh, bắt đầu và dừng đột ngột thì ghi ECG ngay trong cơn; phát tờ thông tin viết tay",
+     "v": "c",
+     "n": "Thông tin bằng văn bản (NICE CG113 1.3.6); người bệnh thường sợ nhồi máu (WFSBP 2022 Bảng 5). Nhịp nhanh trên thất có thể giống hoảng sợ, gợi ý bằng 'dấu ếch' và ghi ECG trong cơn (ESC SVT 2019 mục 8, 9.1.1)."
+    },
+    {
+     "t": "Ngưng thuốc bắc không rõ thành phần; hỏi lại mọi thuốc tự dùng",
+     "v": "c",
+     "n": "Hỏi mọi thuốc tự dùng (NICE 1.3.2) và cân nhắc tương tác thuốc khi chọn SSRI (NICE 1.3.22). Thành phần thuốc bắc và tương tác với SSRI không có trong tài liệu đã tải nên chọn cách thận trọng là ngưng."
+    },
+    {
+     "t": "Bắt đầu sertralin 25 mg (nửa viên 50 mg) mỗi sáng trong 7 ngày đầu, rồi 50 mg mỗi sáng",
+     "v": "c",
+     "n": "SSRI là thuốc đầu tay (WFSBP 2022 Bảng 9; mhGAP 2023 ANX1; NICE 1.3.25), sertralin liều đích 50–200 mg/ngày (WFSBP Bảng 7; QĐ 2058 Bài 22 mục 4.3 tr. 134). Khởi liều thấp, tăng chậm (NICE 1.3.27); người Đông Á bắt đầu bằng nửa liều hoặc ít hơn (WFSBP tr. 86); Canada 2014 Follow-up: tăng liều cách 1–2 tuần trong 4–6 tuần. Mốc 25 mg và 7 ngày là quyết định biên tập."
+    },
+    {
+     "t": "Báo trước: tăng lo thoáng qua, buồn nôn, mất ngủ đầu điều trị; thuốc cần vài tuần mới đủ tác dụng, không ngưng đột ngột",
+     "v": "c",
+     "n": "NICE 1.3.23, 1.3.24, 1.3.30; Canada 2014 Follow-up: chậm tác dụng 2–8 tuần, đầy đủ đến 12 tuần hoặc hơn; WFSBP 2022 tr. 86: người bệnh hoảng sợ nhạy với bồn chồn lúc đầu."
+    },
+    {
+     "t": "Không dùng lại ibuprofen hay NSAID tự mua; đau cổ vai gáy dùng paracetamol 500 mg khi cần; nếu bắt buộc dùng NSAID thì kèm thuốc ức chế bơm proton",
+     "v": "c",
+     "n": "SSRI tăng nguy cơ chảy máu, nhất là cùng NSAID; cân nhắc thuốc bảo vệ dạ dày (NICE 1.2.29). Paracetamol 500 mg, 4–6 lần/ngày, tối đa 4 g/ngày (QĐ 361/2014 mục 4.2.2, tr. 132); omeprazol 20 mg buổi tối khi dùng NSAID (QĐ 361/2014 tr. 198)."
+    },
+    {
+     "t": "Hướng dẫn CBT ngắn tự học có hướng dẫn hoặc trực tuyến, tập thở chậm",
+     "v": "c",
+     "n": "mhGAP 2023 ANX2 (CBT ngắn, mạnh), ANX3, ANX4; NICE 1.3.9. Gói CBT đầy đủ 7–14 giờ (NICE 1.3.15) chưa thực tế với lịch làm việc."
+    },
+    {
+     "t": "Giảm cà phê, bỏ nước tăng lực; tập thể dục đều, quay lại chơi cầu lông dần",
+     "v": "c",
+     "n": "Hỏi caffeine ở đánh giá nền (Canada 2014 Baseline assessment); caffeine có thể gây triệu chứng hoảng sợ (Canada 2014 đoạn chẩn đoán phân biệt); mhGAP 2023 ANX5; NICE 1.3.11."
+    },
+    {
+     "t": "Hẹn tái khám sau 2 tuần",
+     "v": "c",
+     "n": "Canada 2014 Follow-up: mỗi 2 tuần trong 6 tuần đầu rồi mỗi tháng; NICE 1.2.32: mỗi 2–4 tuần trong 3 tháng đầu. Anh 33 tuổi nên mốc 'dưới 30 tuổi gặp lại trong 1 tuần' (NICE 1.2.30) không áp dụng."
+    },
+    {
+     "t": "Kê benzodiazepin (diazepam, alprazolam…) dùng đều hằng ngày để chữa hoảng sợ",
+     "v": "w",
+     "n": "mhGAP 2023 ANX6: không khuyến cáo (mạnh); NICE CG113 1.3.20: kết quả dài hạn kém hơn, không nên kê. WFSBP 2022 Bảng 9 chỉ cho ca kháng trị, không tiền sử lạm dụng chất. Mục sổ: benzodiazepin trong hoảng sợ (TT-0177)."
+    },
+    {
+     "t": "Kê benzodiazepin ngắn hạn tối đa 7 ngày khi cơn nặng cấp",
+     "v": "a",
+     "n": "mhGAP 2023 ANX6: cấp cứu lo âu nặng, tối đa 3–7 ngày; WFSBP 2022 Bảng 9 (LoE B, RG 2): ghép vài tuần đầu trước khi SSRI có tác dụng. Chấp nhận nhưng không cần vì cơn tự hết sau 20–30 phút."
+    },
+    {
+     "t": "Cho aspirin, thuốc chống loạn nhịp hoặc thuốc tim 'phòng nhồi máu cho chắc'",
+     "v": "h",
+     "n": "Không có chỉ định (ECG bình thường, xác suất rất thấp), củng cố niềm tin 'tim có bệnh'; aspirin cộng SSRI tăng nguy cơ chảy máu (NICE 1.2.29)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ (cơn bất ngờ tái diễn, lo cơn tái phát và né tránh trên 1 tháng), mức vừa",
+     "Yếu tố khởi phát và góp phần: ibuprofen lúc đói, caffeine nhiều, thiếu ngủ, áp lực công việc; không phải nguyên nhân đủ",
+     "Đã loại trừ tại chỗ bằng khám, ECG, TSH và FT4: hội chứng vành cấp, cường giáp, loạn nhịp; thuốc bắc không rõ thành phần cần ngưng để theo dõi"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi bệnh: (1) tả một cơn từ đầu đến cuối, có do gắng sức không; (2) khởi phát sau ibuprofen rồi hỏi các cơn sau có dính thuốc không; (3) mọi thứ đang dùng kể cả thuốc bắc, cà phê (NICE 1.3.2; Canada 2014 Baseline assessment); (4) đồng hồ: mạch tăng dần hay nhảy vọt; (5) sụt cân, sợ nóng, run; (6) né tránh trên 1 tháng; (7) vì sao hôm nay muốn làm nhiều xét nghiệm đến vậy, để lộ nỗi sợ đột tử.",
+     "Tiêu chuẩn: cơn lên đỉnh trong vài phút với ≥4 trong 13 triệu chứng; rối loạn hoảng sợ cần cơn bất ngờ tái diễn và ≥1 cơn kèm ≥1 tháng lo cơn tái phát hoặc đổi hành vi (Canada 2014 Bảng 11, 12). Anh có 8 triệu chứng, 8 cơn trong 6 tuần, bỏ cầu lông, né họp kín và xe buýt đông. Cơn trung bình 30–45 phút (WFSBP 2022 Bảng 5), phù hợp 20–30 phút của anh.",
+     "Không dừng ở 'do ibuprofen' hay 'do thuốc bắc': 5/8 cơn không dùng thuốc giảm đau; danh sách thuốc gây triệu chứng hoảng sợ của Canada 2014 (thuốc thông mũi, chất kích thích, chủ vận β, caffeine) không có NSAID, bằng chứng NSAID gây cơn không có trong tài liệu đã tải.",
+     "Google không sai hết: nhịp nhanh trên thất có thể giống hoảng sợ (ESC SVT 2019 mục 8). Cơn của anh mạch tăng dần theo đồng hồ, ECG xoang, PR bình thường, không sóng delta (mục 9.1.1) nên không ủng hộ; nếu về sau có cơn kiểu đó thì ghi ECG trong cơn.",
+     "Loại hội chứng vành cấp bằng bối cảnh và ECG (ESC 2023 Hình 5): 33 tuổi, không yếu tố nguy cơ, không do gắng sức; HEART H-E-A-R = 0 (Backus 2013 Bảng 1). Loại cường giáp bằng TSH (ATA 2016 mục B2) và khám không bướu, không run. Không Holter, siêu âm tim, X-quang vì không đổi quyết định hôm nay; làm nhiều xét nghiệm có thể củng cố niềm tin 'tim có bệnh' (nhận định biên tập)."
+    ],
+    "phan_tich_xu_tri": [
+     "Mức vừa, trên 1 tháng, anh thích số liệu và ngại 'bệnh tâm lý': SSRI kèm CBT ngắn tự học có hướng dẫn. NICE 1.3.12; mhGAP 2023 ANX1, ANX2; WFSBP 2022 Bảng 9: SSRI đầu tay, CBT kèm thuốc hơn CBT đơn độc nhưng không hơn thuốc đơn độc. Chỉ thuốc hoặc chỉ CBT đều chấm a (mục sổ TT-0177).",
+     "Sertralin 50–200 mg/ngày (WFSBP Bảng 7; QĐ 2058 Bài 22 mục 4.3 tr. 134). Khởi nửa liều, tăng chậm vì người bệnh hoảng sợ nhạy với bồn chồn lúc đầu (NICE 1.3.23, 1.3.27; WFSBP tr. 86).",
+     "Không kê benzodiazepin đều đặn (mhGAP 2023 ANX6, NICE 1.3.20); ngắn hạn tối đa 7 ngày chấm a theo WFSBP 2022 Bảng 9 (mục sổ TT-0177).",
+     "Duy trì nếu có đáp ứng: ≥6 tháng (NICE 1.3.27) hoặc 6–12 tháng (WFSBP tr. 86, 94) hoặc 12–24 tháng (Canada Follow-up) rồi giảm dần (mục sổ TT-0192). Không đổi thuốc trước 12 tuần (NICE 1.3.28); hẹn 2 tuần (Canada Follow-up; NICE 1.2.32 2–4 tuần)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "25 mg (nửa viên) × 1 lần/ngày trong 7 ngày đầu, rồi 50 mg (1 viên) × 1 lần/ngày",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn, cùng giờ mỗi ngày",
+      "so_ngay": "14 ngày đến lần tái khám, không ngưng đột ngột",
+      "ghi_chu": "Khởi nửa liều, tăng chậm (NICE CG113 1.3.27; WFSBP 2022 tr. 86); liều đích 50–200 mg/ngày (WFSBP Bảng 7; QĐ 2058/2020 Bài 22 mục 4.3). Liều 25 mg và mốc 7 ngày là lựa chọn biên tập, không có trong tài liệu đã tải."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần, khi đau cổ vai gáy, cách nhau ít nhất 4–6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần, tối đa 4 g/ngày",
+      "ghi_chu": "Thay ibuprofen khi đang uống sertralin (NICE CG113 1.2.29); QĐ 361/2014 mục 4.2.2 (tr. 132): paracetamol bậc 1, 500 mg uống 4–6 lần/ngày, không quá 4 g/ngày."
+     }
+    ],
+    "dan_do": [
+     "Cơn hoảng sợ rất khó chịu nhưng không gây nhồi máu hay đột tử; ECG và xét nghiệm tuyến giáp của anh bình thường. Khi lên cơn: ngồi xuống, thở chậm, nhớ rằng cơn thường hết sau chừng 20–30 phút, không bỏ chạy khỏi chỗ đang ở (WFSBP 2022 Bảng 5; mhGAP 2023 ANX4).",
+     "Uống sertralin nửa viên mỗi sáng trong 7 ngày rồi 1 viên; vài ngày đầu có thể bồn chồn, buồn nôn, ngủ kém; thuốc cần vài tuần mới đủ tác dụng; không tự ngưng (NICE 1.3.23, 1.3.24, 1.3.30; Canada 2014 Follow-up).",
+     "Ngưng hẳn thuốc bắc không rõ thành phần. Không tự uống lại ibuprofen hay thuốc giảm đau tự mua; đau cổ vai gáy dùng paracetamol (NICE 1.2.29; QĐ 361/2014).",
+     "Tái khám sau 2 tuần theo hẹn (Canada 2014 Follow-up; NICE 1.2.32); mang theo đồng hồ và ghi lại số cơn, thời lượng."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · sau 2 tuần",
+   "tiep_don": "Tái khám sau 2 tuần theo hẹn. Anh nói đã uống sertralin đúng như dặn (7 ngày 25 mg rồi 50 mg), ngưng thuốc bắc và không dùng lại ibuprofen. Sinh hiệu lúc tiếp đón: mạch 80 l/p, HA 120/76 mmHg, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển anh sang tâm thần ngay vì 'đỡ một phần' sau 2 tuần là quá sớm: NICE CG113 1.3.35 chỉ nêu giới thiệu khi đã có 2 can thiệp mà còn triệu chứng đáng kể; thuốc chậm tác dụng 2–8 tuần (Canada 2014 Follow-up). Anh mất thêm buổi làm việc, chờ lịch, và hiểu 'thuốc không hiệu quả nên phải chuyển', dễ bỏ sertralin giữa chừng.",
+    "theo_doi": "Cho anh về, không hẹn tái khám, chỉ nói 'cứ uống tiếp' khi cơn còn và anh đang nóng ruột vì buổi thuyết trình sắp tới. Anh không được hướng dẫn tập đối mặt, tiếp tục né phòng họp kín, và có thể nhờ bạn xin thuốc an thần tự dùng, trong khi Canada 2014 Follow-up đề nghị tái khám mỗi 2 tuần trong 6 tuần đầu, NICE 1.2.32 mỗi 2–4 tuần trong 3 tháng đầu."
+   },
+   "loi_mo": "Bác sĩ ơi, uống thuốc hai tuần em chỉ thấy đỡ chút xíu: cơn có thưa hơn nhưng em vẫn sợ, vẫn không dám họp phòng kín. Em đọc nói thuốc này phải mấy tuần mới có tác dụng, chờ lâu quá. Bác sĩ cho em thêm thuốc an thần uống khi lo, như bạn em hay uống, được không?",
+   "sinh_hieu": {
+    "mach": 80,
+    "ha": "120/76",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám: cơn thưa hơn nhưng chưa hết, chờ thuốc lâu, xin thuốc an thần uống khi lo.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Uống sertralin 25 mg 7 ngày rồi 50 mg 7 ngày, buổi sáng, không bỏ liều. Ba ngày đầu bồn chồn, ngủ chập chờn, hơi buồn nôn; hết từ ngày thứ 5, hiện không còn tác dụng phụ đáng kể. Không đau bụng, không phân đen. Đã bỏ hẳn thuốc bắc.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Tuân thủ, tác dụng phụ khởi đầu đã qua"
+    },
+    {
+     "id": "con_moi",
+     "noi_dung": "Trong 2 tuần có 2 cơn (so với 3–4 cơn mỗi 2 tuần trước đó), nhẹ hơn, đỉnh khoảng 5 phút rồi tự hết sau 10–15 phút. Cơn gần nhất 4 ngày trước, lúc ngồi họp phòng kín; đồng hồ ghi mạch 104 tăng dần rồi giảm dần, ứng dụng điện tim báo 'không xác định' vì anh cử động tay.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng một phần: cơn thưa và nhẹ hơn, đặc điểm không đổi"
+    },
+    {
+     "id": "tranh_ne",
+     "noi_dung": "Vẫn né họp phòng kín và xe buýt đông. Đã chơi lại cầu lông 2 buổi, mạch lên khoảng 150 mà không lên cơn, nhưng 'vẫn lo'. Còn xem đồng hồ vài chục lần mỗi ngày.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Né tránh còn, hành vi trấn an còn"
+    },
+    {
+     "id": "khong_nsaid",
+     "noi_dung": "Không ibuprofen từ buổi trước; đau cổ vai gáy dùng paracetamol 500 mg 1–2 lần mỗi tuần. Không ợ nóng, đau thượng vị hay phân đen. Cà phê còn 1–2 ly/ngày, bỏ nước tăng lực, không rượu, chưa từng dùng thuốc an thần.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không NSAID, không dấu hiệu tiêu hóa"
+    },
+    {
+     "id": "thuyet_trinh",
+     "noi_dung": "Tuần sau anh phải thuyết trình giải pháp trong phòng họp kín trước khách hàng nước ngoài. Anh sợ lên cơn giữa chừng, bị coi là 'yếu' và mất cơ hội thăng chức. Đó là lý do thật anh xin thuốc an thần.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nếu chỉ hỏi 'em cần thuốc để làm gì' anh nói 'để phòng thôi'. Chỉ kể khi bác sĩ hỏi tình huống nào sắp tới anh sợ nhất, hoặc vì sao cần thuốc ngay lúc này.",
+     "k": 1,
+     "y": "Động cơ thật: sợ lên cơn trong buổi thuyết trình"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, ít căng hơn lần trước. Da ấm, khô.",
+     "k": 0
+    },
+    "run_nghi": {
+     "a": "Hai tay giơ thẳng không run, không rung giật cơ, không vã mồ hôi.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, hợp tác. Khí sắc bình thường, lo vừa khi nói về buổi thuyết trình. Lời nói mạch lạc, nhận thức đủ, không ý tưởng tự sát.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói mạch lạc, lo vừa."
+    },
+    "tim": {
+     "a": "Tim đều 80 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 80 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng mềm, ấn thượng vị không đau, không phản ứng.",
+     "k": 0
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "a",
+     "r": "Nhịp xoang 78 l/p, PR 148 ms, QRS 90 ms, QTc 408 ms, không đổi so với lần trước.",
+     "n": "Chấp nhận, không cần: không triệu chứng tim mới, ECG lần trước bình thường, sertralin không nằm trong nhóm cảnh báo kéo dài QTc ở bảng liều của WFSBP 2022 (chú thích Bảng 7 chỉ nêu citalopram, escitalopram). Làm lại để trấn an không sai nhưng không đổi quyết định."
+    },
+    "holter_ecg": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Cơn thưa và nhẹ đi theo thời gian dùng thuốc, mạch tăng dần theo đồng hồ, ECG xoang không tiền kích thích (ESC SVT 2019 mục 9.1.1). Chưa có cơn đổi kiểu: không có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ, đáp ứng một phần sau 2 tuần dùng sertralin, còn né tránh",
+     "ok": 1,
+     "n": "Số cơn giảm (2 cơn/2 tuần so với 3–4) và cơn nhẹ hơn; vẫn né phòng họp kín, xe buýt đông (Canada 2014 Bảng 12). Chậm tác dụng 2–8 tuần, đầy đủ đến 12 tuần hoặc hơn (Canada 2014 Follow-up) nên chưa thể gọi là thất bại."
+    },
+    {
+     "t": "Thất bại điều trị, cần đổi thuốc",
+     "n": "Mới 2 tuần, mới ở liều 50 mg trong 7 ngày. Đổi thuốc khi không cải thiện sau 12 tuần (NICE 1.3.28); thử thuốc ≥4 tuần, nếu có đáp ứng một phần sau 4 tuần vẫn có thể cải thiện thêm trong 4–6 tuần (WFSBP 2022 tr. 87, nêu cho lo âu lan tỏa và lo âu xã hội, áp dụng suy rộng)."
+    },
+    {
+     "t": "Nhịp nhanh trên thất",
+     "n": "Mạch vẫn tăng dần và giảm dần theo đồng hồ, cơn đáp ứng một phần với SSRI; chưa có ECG trong cơn đổi kiểu (ESC SVT 2019 mục 8, 9.1.1). Báo 'không xác định' do cử động tay không có giá trị."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: 2 tuần chưa đủ để đánh giá; số cơn đã giảm là dấu tốt; thuốc cần vài tuần mới đủ tác dụng",
+     "v": "c",
+     "n": "Canada 2014 Follow-up: sau khi đạt khoảng liều điều trị, cải thiện thường thấy trong 4–8 tuần tiếp theo; chậm tác dụng 2–8 tuần (cùng mục Follow-up). WFSBP 2022 tr. 87: thử ≥4 tuần."
+    },
+    {
+     "t": "Giữ sertralin 50 mg × 1 lần/ngày, chưa tăng liều ở tuần 2",
+     "v": "c",
+     "n": "NICE 1.3.27: tăng chậm cho đến khi đáp ứng thỏa đáng; WFSBP 2022 tr. 86–87: tăng đến liều cao nhất khuyến cáo nếu liều thấp hoặc trung bình thất bại, sau thử ≥4 tuần."
+    },
+    {
+     "t": "Tăng sertralin lên 100 mg ngay ở tuần 2",
+     "v": "a",
+     "n": "Canada 2014 Follow-up cho phép tăng đến khoảng điều trị trong 4–6 tuần; sertralin 50–200 mg (WFSBP Bảng 7). Không sai nhưng sớm hơn mốc thử đủ 4 tuần (WFSBP tr. 87) khi cơn đang giảm."
+    },
+    {
+     "t": "Không kê thuốc an thần; giải thích lý do và hướng dẫn tập thở chậm, thư giãn, luyện đối mặt dần với phòng họp kín và buổi thuyết trình (diễn tập trước, ngồi gần cửa ra vào)",
+     "v": "c",
+     "n": "Benzodiazepin không khuyến cáo cho hoảng sợ (mhGAP 2023 ANX6; NICE 1.3.20). CBT có phần đối mặt (exposure) có bằng chứng nhất quán nhất (Canada 2014 phần CBT panic disorder)."
+    },
+    {
+     "t": "Kê alprazolam hoặc diazepam uống đều hằng ngày hoặc 'khi lo' kéo dài",
+     "v": "w",
+     "n": "mhGAP 2023 ANX6 và NICE 1.3.20 không khuyến cáo (mạnh)."
+    },
+    {
+     "t": "Kê benzodiazepin ngắn hạn tối đa 7 ngày cho buổi thuyết trình",
+     "v": "a",
+     "n": "mhGAP 2023 ANX6: chỉ cho cấp cứu lo âu nặng, tối đa 3–7 ngày; WFSBP 2022 Bảng 9 (LoE B, RG 2) cho ghép vài tuần đầu trước khi SSRI có tác dụng."
+    },
+    {
+     "t": "Tiếp tục tránh NSAID, paracetamol khi đau; tiếp tục CBT tự học, tập thể dục, giảm kiểm tra đồng hồ",
+     "v": "c",
+     "n": "NICE 1.2.29; QĐ 361/2014 tr. 132; mhGAP 2023 ANX2, ANX3, ANX5; NICE 1.3.9, 1.3.11. Giảm kiểm tra đồng hồ là nhận định biên tập."
+    },
+    {
+     "t": "Hẹn tái khám sau 4 tuần; đến sớm nếu có cơn đổi kiểu hoặc ý nghĩ tự hại",
+     "v": "c",
+     "n": "NICE 1.2.32: mỗi 2–4 tuần trong 3 tháng đầu; Canada 2014 Follow-up: mỗi 2 tuần trong 6 tuần đầu rồi mỗi tháng (hẹn 2 tuần cũng chấp nhận)."
+    },
+    {
+     "t": "Ngưng sertralin và đổi sang thuốc khác vì 'chưa thấy hiệu quả' sau 2 tuần",
+     "v": "w",
+     "n": "Trái cả NICE 1.3.28 (đổi sau 12 tuần không cải thiện) lẫn WFSBP 2022 tr. 87 (thử ≥4 tuần); cơn đã giảm nên đổi sớm làm mất lợi ích và tăng nguy cơ ngưng thuốc."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ, đáp ứng một phần sau 2 tuần sertralin (cơn thưa và nhẹ hơn, còn né tránh)",
+     "Tác dụng phụ khởi đầu đã qua; không dấu hiệu tiêu hóa do SSRI cộng NSAID; không trầm cảm phối hợp",
+     "Động cơ thật của việc xin thuốc an thần là sợ lên cơn trong buổi thuyết trình"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: (1) tuân thủ, tác dụng phụ; (2) số cơn và đặc điểm so với trước (đổi kiểu không); (3) né tránh còn gì; (4) NSAID, thuốc bắc, triệu chứng tiêu hóa; (5) vì sao cần thuốc an thần ngay lúc này, để lộ buổi thuyết trình; (6) khí sắc, ý nghĩ tự hại (NICE 1.3.4).",
+     "Đáp ứng một phần là vùng xám: thuốc chậm tác dụng 2–8 tuần, đầy đủ đến 12 tuần (Canada 2014 Follow-up; WFSBP 2022 tr. 87). Cơn vẫn tăng dần theo đồng hồ nên chưa có bằng chứng nhịp nhanh trên thất (ESC SVT 2019 mục 9.1.1); không làm lại ECG, Holter chỉ để trấn an."
+    ],
+    "phan_tich_xu_tri": [
+     "Giữ sertralin 50 mg đến mốc 4 tuần (NICE 1.3.27; WFSBP tr. 86–87; Canada Follow-up); tăng sớm 100 mg chấm a, đổi thuốc chấm w (NICE 1.3.28).",
+     "Không kê thuốc an thần (mhGAP 2023 ANX6; NICE 1.3.20); dùng thở chậm, diễn tập, luyện đối mặt (Canada 2014 phần CBT). Benzodiazepin ≤7 ngày chấm a, dùng đều chấm w (mục sổ TT-0177)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "50 mg (1 viên) × 1 lần/ngày, giữ nguyên liều",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn, cùng giờ mỗi ngày",
+      "so_ngay": "28 ngày đến lần tái khám, không ngưng đột ngột",
+      "ghi_chu": "Giữ liều đến mốc thử ≥4 tuần (WFSBP 2022 tr. 87; NICE CG113 1.3.27); liều đích 50–200 mg/ngày (WFSBP Bảng 7). Mốc giữ liều đến tuần 4 là lựa chọn biên tập."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần khi đau cổ vai gáy, cách nhau ít nhất 4–6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần, tối đa 4 g/ngày",
+      "ghi_chu": "Giữ nguyên đơn lần trước; thay NSAID khi dùng SSRI (NICE 1.2.29; QĐ 361/2014 tr. 132)."
+     }
+    ],
+    "dan_do": [
+     "Thuốc đang có tác dụng: số cơn của anh đã giảm; cần thêm vài tuần mới đủ tác dụng, nên chưa tăng liều hay đổi thuốc vội (Canada 2014 Follow-up; WFSBP 2022 tr. 87).",
+     "Buổi thuyết trình: tập thở chậm, diễn tập trước với đồng nghiệp, ngồi gần cửa, nhớ cơn dù có đến cũng chỉ lên đỉnh vài phút rồi hết, không bỏ chạy (mhGAP 2023 ANX4; Canada 2014 phần CBT). Em không kê thuốc an thần vì lâu dài kết quả kém hơn và gây buồn ngủ (NICE 1.3.20; mhGAP ANX6)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · tuần thứ 6",
+   "tiep_don": "Tái khám vào tuần thứ 6 kể từ khi bắt đầu sertralin (4 tuần sau lần trước), vẫn uống 50 mg mỗi sáng. Buổi thuyết trình trước khách đã qua mà không dùng thuốc an thần. Sinh hiệu lúc tiếp đón: mạch 74 l/p, HA 118/72 mmHg, nhiệt 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chuyển anh sang chuyên khoa tâm thần ngay ở tuần 6 khi cơn đã giảm rõ và anh chưa thử tăng liều hay CBT đầy đủ là sớm: NICE CG113 1.3.35 nêu giới thiệu sau 2 can thiệp mà còn triệu chứng đáng kể, và đổi hướng khi không cải thiện sau 12 tuần (1.3.28). Anh mất thêm chi phí và chờ lịch, và hiểu rằng 'đỡ một phần nghĩa là thất bại', dễ bỏ sertralin.",
+    "theo_doi": "Cho anh về và đồng ý để anh tự ngưng thuốc 'vì đã đỡ nhiều', không hẹn tái khám. Ngưng đột ngột có thể gây chóng mặt, tê, buồn nôn, lo, mất ngủ (NICE 1.3.30, 1.3.32), và ngưng khi chưa đủ thời gian duy trì làm cơn dễ tái phát (NICE 1.3.27: ít nhất 6 tháng sau liều tối ưu; WFSBP 2022 tr. 86: 6–12 tháng). Anh quay lại vòng cơn và né tránh sau vài tuần, mất lòng tin vào điều trị."
+   },
+   "loi_mo": "Bác sĩ, em đỡ nhiều rồi. Em thuyết trình xong suôn sẻ, còn một cơn nhẹ trên xe buýt thôi. Nhưng em vẫn lo, vẫn ngại đi xe buýt đông, và em đọc diễn đàn thấy thuốc này uống lâu sẽ lệ thuộc. Em định ngưng thuốc cho yên tâm, được không bác sĩ?",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "118/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Tái khám: đã đỡ nhiều nhưng còn lo và ngại xe buýt đông; định ngưng thuốc vì sợ lệ thuộc.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do đến khám, ý định ngưng thuốc"
+    },
+    {
+     "id": "dien_tien",
+     "noi_dung": "Trong 4 tuần qua chỉ có 1 cơn nhẹ trên xe buýt đông, đỉnh sau chừng 5 phút, tự hết sau 10 phút, đồng hồ ghi mạch 98 tăng dần rồi giảm dần. Trước khi bắt đầu thuốc là 8 cơn trong 6 tuần.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Đáp ứng một phần: cơn giảm nhiều, còn lo đón cơn"
+    },
+    {
+     "id": "tranh_ne",
+     "noi_dung": "Đã họp phòng kín được, chơi cầu lông lại 3 buổi mỗi tuần. Vẫn né xe buýt giờ cao điểm và thang máy chật, còn xem đồng hồ 5–6 lần mỗi ngày (trước đó vài chục lần).",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Né tránh còn một phần, hành vi trấn an giảm"
+    },
+    {
+     "id": "khong_chat",
+     "noi_dung": "Không ibuprofen từ đầu điều trị, đau cổ vai gáy dùng paracetamol thỉnh thoảng; không thuốc bắc, cà phê 1 ly/ngày, không rượu, không thuốc an thần. Khí sắc tốt, không ý nghĩ tự hại.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Không NSAID, không thuốc bắc, caffeine thấp"
+    },
+    {
+     "id": "so_le_thuoc",
+     "noi_dung": "Anh đọc diễn đàn nói thuốc chống trầm cảm 'làm cùn cảm xúc', 'phải uống suốt đời' và 'càng tăng liều càng nghiện'. Vì vậy anh sợ tăng liều và muốn ngưng khi vừa đỡ.",
+     "che_do": "giau",
+     "dieu_kien_lo": "Nếu chỉ hỏi 'sao anh muốn ngưng thuốc' anh trả lời 'đỡ rồi nên không cần'. Chỉ kể khi bác sĩ hỏi anh đã đọc gì hoặc lo điều gì về thuốc, hoặc hỏi việc tăng liều anh nghĩ sao.",
+     "k": 1,
+     "y": "Động cơ thật: sợ lệ thuộc và sợ tăng liều"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, thoải mái, nói chuyện tự nhiên. Da ấm, khô.",
+     "k": 0
+    },
+    "tam_than": {
+     "a": "Gọn gàng, hợp tác. Khí sắc tốt, lo nhẹ khi nói về xe buýt đông. Lời nói mạch lạc, nhận thức đủ, không ý tưởng tự sát.",
+     "k": 1,
+     "hien": "Tỉnh, hợp tác, nói mạch lạc, lo nhẹ."
+    },
+    "tim": {
+     "a": "Tim đều 74 l/p. T1, T2 rõ, không âm thổi, không T3.",
+     "k": 0,
+     "hien": "Tim đều, tần số 74 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi, không T3."
+      }
+     ]
+    }
+   },
+   "cls": {
+    "ecg": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Không triệu chứng tim mới, cơn tăng dần theo đồng hồ, ECG hai lần trước bình thường; không đổi quyết định."
+    },
+    "holter_ecg": {
+     "v": "n",
+     "r": "Không cần làm.",
+     "n": "Cơn chỉ còn 1 trong 4 tuần, nhẹ, đặc điểm không đổi; Holter hầu như không bắt được cơn. Đủ nguồn lực nhưng không có chỉ định (ESC SVT 2019 mục 9.1.1)."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Rối loạn hoảng sợ, đáp ứng một phần sau 6 tuần sertralin 50 mg, còn né tránh nhẹ",
+     "ok": 1,
+     "n": "Cơn từ 8/6 tuần xuống 1/4 tuần, họp kín và cầu lông trở lại; còn lo đón cơn và né xe buýt đông, thang máy chật (Canada 2014 Bảng 12). Cải thiện thường thấy trong 4–8 tuần sau khi đạt khoảng liều điều trị (Canada Follow-up), nên đây là hồi phục chậm bình thường chứ chưa phải thất bại."
+    },
+    {
+     "t": "Thất bại điều trị cần đổi thuốc",
+     "n": "Mới 6 tuần, cơn đã giảm rõ, liều mới ở mức thấp của khoảng 50–200 mg (WFSBP Bảng 7). NICE 1.3.28: đổi khi không cải thiện sau 12 tuần."
+    },
+    {
+     "t": "Lệ thuộc hoặc nghiện thuốc chống trầm cảm",
+     "n": "NICE 1.3.31: thuốc chống trầm cảm không liên quan đến dung nạp hay thèm thuốc; có thể có triệu chứng ngưng thuốc khi dừng đột ngột (1.3.30, 1.3.32). Lo lắng của anh dựa trên nhầm lẫn giữa lệ thuộc và triệu chứng ngưng thuốc."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Nhận định đáp ứng một phần ở tuần 6, chưa phải thất bại, chưa đủ 12 tuần để đổi hướng",
+     "v": "c",
+     "n": "Canada 2014 Follow-up: sau khi đạt khoảng điều trị, cải thiện thường thấy trong 4–8 tuần tiếp theo; NICE 1.3.28: đổi khi không cải thiện sau 12 tuần."
+    },
+    {
+     "t": "Tăng sertralin lên 100 mg HOẶC giữ 50 mg thêm 2–4 tuần rồi mới tăng, đánh giá lại",
+     "v": "c",
+     "n": "Mâu thuẫn đã có mục sổ (TT-0169). Tăng: WFSBP 2022 tr. 86 (liều thấp hoặc trung bình thất bại thì tăng đến mức cao nhất khuyến cáo); giữ 50 mg thêm 2–4 tuần: Canada 2014 phần Follow-up, thận trọng hơn; mốc \"2–4 tuần\" không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giải thích SSRI không gây lệ thuộc; không tự ngưng; thời gian duy trì ít nhất 6 tháng (NICE) hoặc 6–12 tháng (WFSBP) hoặc 12–24 tháng (Canada) sau khi thuyên giảm rồi giảm dần",
+     "v": "c",
+     "n": "NICE 1.3.31 (không dung nạp, không thèm thuốc), 1.3.30 (ngưng từ từ), 1.3.27 (≥6 tháng sau liều tối ưu); WFSBP 2022 tr. 86, 94 (6–12 tháng sau thuyên giảm)."
+    },
+    {
+     "t": "Tiếp tục CBT tự học, luyện đối mặt dần với xe buýt đông, thang máy chật; giảm dần kiểm tra đồng hồ",
+     "v": "c",
+     "n": "mhGAP 2023 ANX2, ANX3, ANX5; Canada 2014 phần CBT panic disorder (exposure), CBT quanh thời điểm ngưng thuốc giảm tái phát. NICE 1.3.9, 1.3.11."
+    },
+    {
+     "t": "Hẹn tái khám sau 2–4 tuần; mốc đánh giá chính ở tuần 12; còn triệu chứng đáng kể sau 2 can thiệp thì giới thiệu chuyên khoa",
+     "v": "c",
+     "n": "Canada 2014 Follow-up: mỗi tháng sau 6 tuần đầu; NICE 1.2.32 (mỗi 2–4 tuần trong 3 tháng đầu), 1.3.28, 1.3.35."
+    },
+    {
+     "t": "Đổi ngay sang SSRI hoặc SNRI khác, tăng thẳng 150–200 mg hoặc chuyển chuyên khoa tâm thần ngay vì đáp ứng một phần",
+     "v": "a",
+     "n": "Canada 2014 phần tóm tắt Panic disorder cho đổi sang thuốc đầu tay khác khi liều tối ưu chưa đủ đáp ứng; WFSBP Bảng 7 cho 50–200 mg."
+    },
+    {
+     "t": "Cho anh ngưng sertralin ngay vì đã đỡ",
+     "v": "w",
+     "n": "Ngưng đột ngột gây triệu chứng ngưng thuốc (NICE 1.3.30, 1.3.32) và dễ tái phát khi chưa duy trì đủ thời gian (NICE 1.3.27; WFSBP tr. 86, 94)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Rối loạn hoảng sợ, đáp ứng một phần sau 6 tuần sertralin 50 mg (cơn gần như hết, còn lo đón cơn và né tránh nhẹ)",
+     "Hồi phục chậm hơn kỳ vọng nhưng đúng quỹ đạo; chưa đủ 12 tuần để kết luận thất bại",
+     "Động cơ thật khi muốn ngưng thuốc: sợ lệ thuộc và sợ tăng liều theo thông tin trên diễn đàn"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự hỏi: (1) số cơn và đặc điểm so với hai lần trước; (2) né tránh còn lại; (3) tuân thủ, tác dụng phụ; (4) NSAID, thuốc bắc, caffeine; (5) khí sắc, ý nghĩ tự hại; (6) vì sao muốn ngưng thuốc, đã đọc gì.",
+     "Từ 8 cơn trong 6 tuần xuống 1 cơn nhẹ trong 4 tuần, còn né xe buýt đông: đáp ứng một phần, cải thiện thường thấy 4–8 tuần sau khi vào khoảng điều trị (Canada 2014 Follow-up); thất bại chỉ xét sau 12 tuần (NICE 1.3.28). Không làm lại ECG, TSH, Holter (ESC SVT 2019 mục 9.1.1; ATA 2016 mục B2)."
+    ],
+    "phan_tich_xu_tri": [
+     "Liều tuần 6, hai cách đều đúng: tăng 100 mg (WFSBP 2022 tr. 86, Bảng 7; NICE 1.3.27) hoặc giữ 50 mg thêm 2–4 tuần (Canada 2014 Follow-up); WFSBP nhấn liều đủ, Canada tính thời gian sau khi đạt khoảng điều trị (mục sổ TT-0169).",
+     "Không ngưng thuốc: SSRI không gây dung nạp hay thèm thuốc (NICE 1.3.31), ngưng đột ngột gây triệu chứng (1.3.30, 1.3.32). Duy trì ≥6 tháng (NICE 1.3.27) hoặc 6–12 tháng (WFSBP tr. 86, 94) hoặc 12–24 tháng (Canada), rồi giảm dần (mục sổ TT-0192). Mốc chính tuần 12 (NICE 1.3.28, 1.3.35)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Sertralin",
+      "ham_luong": "50 mg/viên",
+      "lieu": "Cách A: tăng lên 100 mg (2 viên) × 1 lần/ngày. Cách B: giữ 50 mg (1 viên) × 1 lần/ngày thêm 2–4 tuần rồi đánh giá để tăng",
+      "duong": "Uống",
+      "thoi_diem": "Buổi sáng, sau ăn, cùng giờ mỗi ngày",
+      "so_ngay": "28 ngày đến lần tái khám; duy trì tổng cộng ít nhất 6 tháng (NICE) hoặc 6–12 tháng (WFSBP) hoặc 12–24 tháng (Canada) sau khi thuyên giảm, rồi giảm dần",
+      "ghi_chu": "Cách A theo WFSBP 2022 tr. 86 (Bảng 7: 50–200 mg), NICE CG113 1.3.27; cách B theo Canada 2014 Follow-up, thận trọng hơn. Mốc '2–4 tuần' không có trong tài liệu đã tải (mục sổ TT-0169). Không ngưng đột ngột (NICE 1.3.30)."
+     },
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg/viên",
+      "lieu": "1 viên mỗi lần khi đau cổ vai gáy, cách nhau ít nhất 4–6 giờ",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, sau ăn",
+      "so_ngay": "Khi cần, tối đa 4 g/ngày",
+      "ghi_chu": "Giữ nguyên đơn lần trước; tránh NSAID khi dùng SSRI (NICE 1.2.29; QĐ 361/2014 tr. 132)."
+     }
+    ],
+    "dan_do": [
+     "Anh đã tiến bộ nhiều: từ 8 cơn trong 6 tuần còn 1 cơn nhẹ trong 4 tuần. Hồi phục chậm hơn mong đợi nhưng đúng quỹ đạo (Canada 2014 Follow-up); thuốc cần thêm thời gian mới giúp anh bớt lo đón cơn.",
+     "Sertralin không gây nghiện hay thèm thuốc (NICE 1.3.31). Điều cần tránh là ngưng đột ngột, có thể gây chóng mặt, tê, buồn nôn, lo, mất ngủ (NICE 1.3.30, 1.3.32). Khi đủ thời gian duy trì, bác sĩ sẽ giảm liều từ từ cùng anh."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Khôi tuân thủ thuốc. Tuần 6 anh chọn giữ sertralin 50 mg thêm 3 tuần; tuần 9 còn lo đón cơn và né xe buýt đông nên tăng lên 100 mg (WFSBP 2022 tr. 86; Canada 2014 Follow-up). Tuần 11 hết cơn; tuần 14 đi xe buýt đông và chơi cầu lông lại, bớt xem đồng hồ. Hồi phục chậm hơn kỳ vọng ('hai tuần là hết') nhưng đúng quỹ đạo: cải thiện thường thấy trong 4–8 tuần sau khi đạt khoảng điều trị (Canada 2014), nên không đổi thuốc ở tuần 6. Giữ thuốc ít nhất 6–12 tháng sau thuyên giảm rồi giảm dần (NICE CG113 1.3.27; WFSBP 2022 tr. 86, 94). Không dùng lại ibuprofen hay thuốc bắc không rõ thành phần.",
+ "nhieu": [
+  "Chẩn đoán tự tra: anh tin mình bị nhịp nhanh trên thất hoặc cường giáp. Không sai hoàn toàn: nhịp nhanh trên thất có thể giống hoảng sợ (ESC SVT 2019 mục 8), nên phải loại bằng ECG và hỏi dạng khởi phát; TSH loại cường giáp. Cả hai bình thường.",
+  "Ibuprofen: cơn đầu đến khoảng 1 giờ sau 800 mg ibuprofen lúc đói, dễ kết luận 'do thuốc giảm đau'; 5/8 cơn không dính thuốc nào, và bằng chứng NSAID gây cơn hoảng sợ không có trong tài liệu đã tải. Điều cần nhớ khi kê SSRI: cộng NSAID tăng nguy cơ chảy máu (NICE CG113 1.2.29).",
+  "Thuốc bắc không rõ thành phần: không đổ lỗi vì cơn vẫn xảy ra, nhưng không đánh giá được tương tác với SSRI nên ngưng trước khi kê thuốc (NICE CG113 1.3.2, 1.3.22).",
+  "Cà phê 3–4 ly, nước tăng lực, ngủ 4–5 giờ là yếu tố góp phần (Canada 2014, đoạn chẩn đoán phân biệt cơn hoảng sợ); đồng hồ thông minh làm tăng hành vi kiểm tra trấn an."
+ ],
+ "bai_hoc_bien": [
+  "Rối loạn hoảng sợ là chẩn đoán dương tính (cơn bất ngờ, ≥4 triệu chứng, ≥1 tháng lo cơn tái phát hoặc đổi hành vi; Canada 2014 Bảng 11, 12). Dù đủ nguồn lực, ECG và TSH là đủ; Holter, siêu âm tim, troponin không đổi quyết định khi xác suất thấp.",
+  "Bệnh nhân mang chẩn đoán tự tra: hỏi vì sao họ lo điều đó và giải thích bằng chính số liệu của họ (mạch tăng dần theo đồng hồ, ECG không tiền kích thích) thay vì bác bỏ.",
+  "Đáp ứng một phần ở tuần 2 và tuần 6 chưa phải thất bại: thử đủ ≥4 tuần, đổi khi không cải thiện sau 12 tuần (WFSBP 2022 tr. 87; NICE 1.3.28). Không kê benzodiazepin đều đặn chỉ vì sợ một buổi thuyết trình."
+ ],
+ "diem_nho": [
+  "Cơn hoảng sợ: ≥4 trong 13 triệu chứng, đỉnh trong vài phút, trung bình 30–45 phút; người bệnh thường sợ nhồi máu (Canada 2014 Bảng 11, 12; WFSBP 2022 Bảng 5).",
+  "Sertralin 50–200 mg/ngày, bắt đầu từ nửa liều hoặc ít hơn, nhất là người Đông Á (WFSBP 2022 Bảng 7, tr. 86); báo tăng lo thoáng qua đầu điều trị (NICE 1.3.23).",
+  "Không kê benzodiazepin đều đặn (mhGAP 2023 ANX6; NICE 1.3.20); thời gian duy trì SSRI từ ≥6 tháng đến 12–24 tháng tùy nguồn."
+ ],
+ "nguon": [
+  "WHO – mhGAP guideline 2023 (ấn bản 3) – TL-0573 – ANX1–ANX6.",
+  "NICE – CG113 Generalised anxiety disorder and panic disorder in adults (2011, cập nhật 2020) – TL-0598 – 1.2.28–1.2.30, 1.2.32 (viết cho lo âu lan tỏa; áp dụng suy rộng), 1.3.2, 1.3.4, 1.3.6, 1.3.7, 1.3.9–1.3.12, 1.3.15, 1.3.20–1.3.35.",
+  "WFSBP 2022 – Guidelines for treatment of anxiety, OCD and PTSD, Part I (World J Biol Psychiatry 2022;24:79-117) – TL-0587 – Bảng 5 (tr. 84), Bảng 7, phần Duration of medication treatment và Dosing (tr. 86–87), Bảng 9 (tr. 95).",
+  "Canadian clinical practice guidelines for anxiety, PTSD and OCD (Katzman 2014, BMC Psychiatry) – TL-0596 – Bảng 7, 11, 12; phần Baseline assessment, Follow-up, tóm tắt Panic disorder.",
+  "BYT – QĐ 2058/QĐ-BYT 2020 (kho cũ tltk-10000-ca) – Bài 22 mục 4.3, tr. 134 (không có bài riêng về rối loạn hoảng sợ).",
+  "BYT – QĐ 361/QĐ-BYT 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – bài Thoái hóa cột sống thắt lưng mục 4.2.2 (tr. 132); phần Nguyên tắc sử dụng NSAID, mục 2 (tr. 197–198).",
+  "ESC 2023 – Guidelines for the management of acute coronary syndromes – TL-0069 – Hình 5 và mục 3.2 (ECG trong 10 phút).",
+  "ESC 2019 – Guidelines for the management of patients with supraventricular tachycardia – TL-0687 – mục 8, 9.1.1.",
+  "ATA 2016 – Guidelines for diagnosis and management of hyperthyroidism – TL-0324 – mục [B2] Biochemical evaluation và phần biểu hiện lâm sàng.",
+  "Backus BE và cs. – A prospective validation of the HEART score (Int J Cardiol 2013;168:2153) – TL-0110 – Bảng 1."
+ ],
+ "ghi_chu_bien_tap": [
+  "Bản 1 (2026-11-28): viết theo tài liệu đã tải; đã đọc và đối chiếu bằng rg: TL-0573 ANX1–ANX6; TL-0598 1.2.28–1.2.32, 1.3.1–1.3.36; TL-0587 Bảng 5, 7, 9 và phần Duration, Dosing (tr. 86–87); TL-0596 Bảng 7, 11, 12, phần Baseline assessment, Follow-up, tóm tắt Panic disorder; QĐ 2058 Bài 22; QĐ 361 (TL-0286); ESC 2023 Hình 5; ESC SVT 2019 mục 8, 9.1.1; ATA 2016 B2; HEART Bảng 1.",
+  "Không có trong tài liệu đã tải: liều khởi đầu sertralin 25 mg cụ thể cho hoảng sợ và mốc tăng lên 50 mg sau 7 ngày (chỉ có 'nửa liều hoặc ít hơn ở người Đông Á', WFSBP tr. 86, và 'tăng từ từ', NICE 1.3.27); bằng chứng NSAID hay thuốc bắc gây cơn hoảng sợ; thành phần và tương tác của thuốc bắc; hội chứng serotonin; mốc 2–4 tuần giữ liều; ngưỡng để bỏ troponin.",
+  "Mâu thuẫn nguồn đã có mục trong sổ, ca ghi đúng cách đó: benzodiazepin trong hoảng sợ và SSRI hay CBT trước (TT-0177), thời gian duy trì SSRI (TT-0192), chỉnh liều sertralin khi đáp ứng một phần ở tuần 6 (TT-0169). Không có mâu thuẫn mới. NICE 1.2.29 và 1.2.32 viết cho lo âu lan tỏa, áp dụng suy rộng cho hoảng sợ vì cùng thuốc SSRI."
+ ]
+}
