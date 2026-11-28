@@ -1,0 +1,768 @@
+{
+ "ma_ca": "PK-0267",
+ "phien_ban_kho": "0.3",
+ "phien_ban_ca": 1,
+ "benh": "PK_pap_lsil_cin1_khong_xet_nghiem",
+ "so_cai": {
+  "chuyen_khoa": "Phụ khoa - thai sớm",
+  "chan_doan_dich": "Tầm soát ung thư cổ tử cung (Pap bất thường)",
+  "chan_doan_phai_loai_tru": [
+   "Viêm CTC",
+   "Ung thư CTC"
+  ],
+  "nhom_tuoi": "Trung niên (40–59 tuổi)",
+  "do_kho": "Điển hình",
+  "loai_bay": "Không cài bẫy cấu trúc",
+  "dien_tien_tai_kham": "Đỡ một phần",
+  "nhieu_benh_nhan": "Đòi truyền dịch",
+  "rang_buoc_nguon_luc": "Không có xét nghiệm nào",
+  "loai_ket_cuc": "Ổn định, khỏi bệnh",
+  "gioi": "Nữ",
+  "co_co_do": "Không",
+  "so_luot_kham": 3,
+  "nghe_nghiep": "Bán hàng online",
+  "yeu_to_khoi_phat": "Sau chơi thể thao",
+  "thuoc_dang_dung": "NSAID tự mua",
+  "ly_do_that_su_den_kham": "Xin giấy nghỉ ốm"
+ },
+ "benh_nhan": {
+  "ten": "Lâm Thị Thu Hà",
+  "tuoi": 46,
+  "gioi": "Nữ",
+  "nghe": "Bán hàng online, phát trực tiếp bán quần áo và mỹ phẩm cho một cửa hàng ở thị xã, ngồi máy và phát 8–10 giờ mỗi ngày",
+  "can_nang": 56,
+  "chieu_cao": 157,
+  "xung_ho": "Bác sĩ gọi chị là 'chị Hà'. Chị tự xưng 'chị', gọi bác sĩ là 'bác sĩ'.",
+  "tinh_cach": "Nhanh miệng, hay than, quen nói chuyện bán hàng, tin lời truyền miệng của hội chị em ('mệt thì truyền một chai là khỏe'). Tính toán chuyện lương, ca live, sợ mất khách; sợ chữ 'ung thư' nhưng ngại nói ra.",
+  "kieu_nhieu": "Đòi truyền dịch: mở đầu bằng 'bác sĩ truyền cho chị chai nước biển', bị từ chối thì nài ('bên kia người ta cho truyền liền', 'chị còn phải live tối nay'), lần sau lại xin. Chịu nghe khi bác sĩ nói lý do cụ thể cho chính chị (ăn uống được, sinh hiệu ổn, không có chỉ định) và đưa cách thay thế (nghỉ ngơi, thuốc giảm đau đúng, giấy xác nhận). Tờ Pap đưa ra như chuyện phụ.",
+  "nguoi_nha": null,
+  "ten_nguoi_nha": null,
+  "ngoai_hinh": {
+   "da": "#c9a07c",
+   "toc": "#2a1f1a",
+   "kieuToc": "bui",
+   "ao": "#8a6f9e",
+   "aoKieu": "thun",
+   "kinh": false,
+   "nep": 1,
+   "bieuCam": "lo"
+  }
+ },
+ "ly_do_kham": "Mệt, đau mỏi người sau chơi thể thao, xin truyền dịch và giấy nghỉ ốm; mang theo kết quả tế bào học cổ tử cung bất thường",
+ "khoa_cls": {
+  "nhom": [
+   "xn"
+  ],
+  "loi_bao": "Phòng khám tuyến cơ sở không làm được xét nghiệm nào (không máu, nước tiểu, phân, tế bào học, HPV, giải phẫu bệnh; cũng không có que thử thai, máy đo đường huyết mao mạch, que nước tiểu) và không có X-quang, CT, nội soi. Có huyết áp kế, nhiệt kế, máy đo SpO₂, bộ khám phụ khoa với mỏ vịt, máy siêu âm tổng quát. Không có máy soi cổ tử cung. Bệnh viện huyện cách 22 km (khoảng 40 phút xe máy) có khoa Sản làm HPV, soi cổ tử cung, sinh thiết và giải phẫu bệnh."
+ },
+ "luot": [
+  {
+   "ten": "Lượt 1 · khám lần đầu",
+   "tiep_don": "Nữ 46 tuổi, tên Lâm Thị Thu Hà, bán hàng online, tự đến phòng khám lúc 9 giờ sáng thứ Ba. Ba ngày trước chị chơi pickleball hai tiếng liền sau ba tháng nghỉ, từ đó đau ê ẩm đùi, mông, thắt lưng và mệt; đã nghỉ phát trực tiếp hai buổi. Chị cầm theo một tờ kết quả tế bào học cổ tử cung từ buổi khám phụ khoa của Hội Phụ nữ phường, nhận hôm qua. Sinh hiệu lúc tiếp đón: mạch 78 l/p, HA 118/74 mmHg, nhiệt độ 36,8 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "chuyen_tuyen",
+   "neu_sai": {
+    "ve_hen": "Chị Hà được cho về, hẹn 'khám phụ khoa lại khi có triệu chứng' hoặc lặp Pap sau vài tháng. LSIL là chỉ định soi cổ tử cung (QĐ 3792/2024, Phần 4 mục 1.2) và phòng khám không có soi, HPV hay giải phẫu bệnh nên phải chuyển (Phần 6 mục 2.1, 3.2.1). Chị chín năm chưa sàng lọc, nghe 'chỉ bất thường nhẹ' dễ bỏ qua; nếu có CIN 2, CIN 3 thì không được phát hiện và có thể tiến triển thành ung thư xâm lấn sau nhiều năm (QĐ 3792/2024, Phần 1 mục 3; Phần 4 mục 1.2).",
+    "nhap_vien": "Chị Hà bị giữ truyền dịch, vitamin vài giờ rồi mới 'tính chuyện phụ khoa'. Mất nửa ngày công, tốn chi phí, trong khi không tài liệu đã tải nào chỉ định truyền dịch cho đau cơ sau vận động hay mệt khi ăn uống được, còn việc cần làm (soi cổ tử cung do LSIL) vẫn chưa được hẹn; chị quen việc 'truyền một chai là khỏe' nên lần sau lại đòi."
+   },
+   "loi_mo": "Chào bác sĩ. Chị mệt rã người, đau ê ẩm hai đùi với mông ba hôm nay, từ hôm đánh pickleball với hội chị em. Bác sĩ truyền cho chị chai nước biển, thêm tí vitamin cho nhanh khỏe đi, bên shop chị mệt là truyền một chai hết liền. Bác sĩ làm giùm chị cái giấy nghỉ ốm, chủ shop bắt có giấy mới không trừ lương. À, có tờ này hôm qua chị mới nhận, bác sĩ coi giùm luôn.",
+   "sinh_hieu": {
+    "mach": 78,
+    "ha": "118/74",
+    "nhiet": "36,8",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị mệt, đau ê ẩm đùi, mông, thắt lưng ba ngày nay. Chị muốn bác sĩ cho truyền chai nước biển với vitamin cho nhanh khỏe, và làm giấy nghỉ ốm.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra: mệt, đau mỏi sau vận động, xin truyền dịch và giấy nghỉ ốm"
+    },
+    {
+     "id": "khoi_phat",
+     "noi_dung": "Ba ngày trước chị đánh pickleball hai tiếng liền với hội chị em, lâu rồi mới chơi lại. Tối đó đã mỏi, sáng hôm sau đau ê đùi và mông, bước lên cầu thang thì nhói. Không té, không va đập, không sưng bầm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Khởi phát sau chơi thể thao, không chấn thương"
+    },
+    {
+     "id": "pap",
+     "noi_dung": "Tờ chị đưa là kết quả tế bào học cổ tử cung nhúng dịch lấy cách đây mười tám ngày ở buổi khám phụ khoa của Hội Phụ nữ phường: 'tổn thương trong biểu mô vảy độ thấp (LSIL)', mẫu đạt chất lượng, chưa làm HPV, đề nghị đi soi cổ tử cung. Người phát kết quả nói chị ra bệnh viện huyện, chị chưa kịp đi.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Kết quả Pap: LSIL, chưa có HPV, đã được đề nghị soi"
+    },
+    {
+     "id": "pap_cu",
+     "noi_dung": "Chị chưa làm Pap lần nào kể từ khi sinh con út, khoảng chín năm nay. Lần này đi vì phường rủ khám miễn phí.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Chưa sàng lọc chín năm"
+    },
+    {
+     "id": "trieu_chung",
+     "noi_dung": "Khí hư chị ít, trong, không ngứa, không hôi. Không ra máu giữa kỳ kinh, không ra máu sau quan hệ, không đau bụng dưới, không đau khi quan hệ. Không sụt cân.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng gợi ý viêm hay ung thư cổ tử cung"
+    },
+    {
+     "id": "kinh_tinh_duc",
+     "noi_dung": "Kinh chị còn đều khoảng 30 ngày, ngày đầu kỳ vừa rồi cách đây hai tuần, sạch đã mười ngày. Chị lập gia đình 24 năm, chỉ có chồng, sinh ba con đều đẻ thường, dùng bao cao su để tránh thai, không hút thuốc lá. Chị chưa tiêm ngừa HPV.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Kinh đều, chưa mang thai khả năng thấp, sinh 3 con, một bạn tình, không hút thuốc, chưa tiêm HPV"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chị tự mua diclofenac 50 mg ở nhà thuốc, uống ngày hai viên sau ăn sáng và tối được ba ngày, chưa thấy đỡ nhiều. Không đau thượng vị, không đi ngoài phân đen. Chị không dùng thuốc nào khác, không có bệnh mạn tính.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "NSAID tự mua (diclofenac), chưa có triệu chứng tiêu hóa"
+    },
+    {
+     "id": "ly_do_that",
+     "noi_dung": "Thật ra chị cần nhất là tờ giấy nghỉ ốm. Chị làm cho một cửa hàng, nghỉ hai buổi live bị trừ lương, chủ nói có giấy bác sĩ thì mới tính nghỉ có phép. Chị nghĩ truyền một chai thì có lý do để nằm nghỉ và được giấy.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Lý do thật: xin giấy nghỉ ốm"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, nói nhanh, hơi mệt. Cao 157 cm, nặng 56 kg (BMI 22,7). Da niêm hồng, không nhợt, không phù, môi ẩm, nếp véo da mất nhanh.",
+     "k": 0,
+     "hien": "Chị tỉnh, nói nhanh, hơi uể oải; da niêm hồng, môi ẩm."
+    },
+    "tim": {
+     "a": "Tim đều 78 l/p, T1, T2 rõ, không âm thổi.",
+     "k": 0,
+     "hien": "Tim đều, tần số khoảng 78 l/p.",
+     "media": [
+      {
+       "vi_tri": "Mỏm tim",
+       "id": "AT-TIM-BT-NL-01",
+       "chu": "T1, T2 rõ, không âm thổi."
+      }
+     ]
+    },
+    "phoi": {
+     "a": "Nhịp thở 16 l/p. Rì rào phế nang êm dịu hai phế trường, không ran.",
+     "k": 0,
+     "hien": "Lồng ngực cân đối, gõ trong hai bên.",
+     "media": [
+      {
+       "vi_tri": "Đáy phổi phải (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      },
+      {
+       "vi_tri": "Đáy phổi trái (phía sau)",
+       "id": "AT-PHOI-BT-NL-01",
+       "chu": "Rì rào phế nang êm dịu, không ran."
+      }
+     ]
+    },
+    "bung": {
+     "a": "Bụng phẳng, mềm, không đau hạ vị hay thượng vị, không phản ứng thành bụng, không khối; gan lách không to.",
+     "k": 0,
+     "hien": "Bụng phẳng, mềm, chị không đau khi ấn."
+    },
+    "co_xuong_khop": {
+     "a": "Ấn đau nhẹ cơ rộng ngoài đùi và cơ mông hai bên, không sưng, không bầm, không nóng đỏ. Gấp duỗi hông, gối đủ tầm, đau khi ngồi xổm. Cột sống thắt lưng không điểm đau cột sống, nghiệm pháp Lasègue âm tính. Bắp chân hai bên mềm, không đau, không phù.",
+     "k": 0,
+     "hien": "Hai đùi và mông ấn đau nhẹ, không sưng bầm; cử động khớp hông, gối được, đau khi ngồi xổm."
+    },
+    "phu_khoa": {
+     "a": "Âm hộ bình thường. Mỏ vịt: khí hư ít, trong, không mùi. Cổ tử cung hồng, nhẵn, có vùng lộ tuyến nhỏ quanh lỗ ngoài; không loét, không khối sùi, không mủ nhầy ống cổ tử cung, chạm bông không chảy máu. Khám hai tay: tử cung kích thước bình thường, di động, không đau lắc cổ tử cung, hai phần phụ không khối, không đau.",
+     "k": 1,
+     "hien": "Chị đồng ý khám; cổ tử cung hồng, nhẵn, khí hư ít và trong, không chảy máu khi chạm; khám hai tay chị không đau."
+    }
+   },
+   "cls": {
+    "pap_hpv": {
+     "v": "u",
+     "r": "Cơ sở không làm được tế bào học hay HPV (phòng khám không có xét nghiệm nào). Tế bào học đã có từ nơi khác (tờ chị mang theo); HPV làm ở tuyến trên cùng đợt soi.",
+     "n": "Không làm lại Pap. HPV(+) kèm LSIL có nguy cơ CIN3+ tức thời 4,27% ≥ ngưỡng soi 4% (ASCCP 2019, TL-0632, bảng nguy cơ KPNC; mục E.2); HPV(−) LSIL chỉ 1,1% nên theo dõi 1 năm (mục E.1). Chưa có HPV thì QĐ 3792/2024, Phần 4 mục 1.2 chỉ định soi ngay (xem sổ mâu thuẫn). HPV chỉ lấy mẫu khi không viêm âm đạo cấp, không ra máu (Phần 3 mục 3.1.2)."
+    },
+    "soi_ctc": {
+     "v": "e",
+     "r": "Cơ sở không làm được: phòng khám không có máy soi cổ tử cung.",
+     "n": "Chỉ định soi khi tế bào học LSIL (QĐ 3792/2024, Phần 4 mục 1.2). Cơ sở ban đầu thực hiện soi 'nếu có đủ điều kiện', còn không thì chuyển lên cấp cơ bản (Phần 6 mục 2.1, 3.2.1). Cách thay thế: chuyển tuyến bệnh viện huyện (có soi, HPV, giải phẫu bệnh); soi lúc không ra máu vì chảy máu làm soi không đầy đủ (Bảng 4.1 IFCPC 2011)."
+    },
+    "sinh_thiet_ctc": {
+     "v": "n",
+     "r": "Cơ sở không làm được.",
+     "n": "Chỉ sinh thiết khi soi thấy hình ảnh bất thường (QĐ 3792/2024, Phần 4 mục 2.1.2); quyết định ở nơi soi."
+    },
+    "soi_huyet_trang": {
+     "v": "a",
+     "r": "Cơ sở không làm được.",
+     "n": "Không có khí hư bất thường nên không bắt buộc; không thay đổi xử trí LSIL."
+    },
+    "test_thai": {
+     "v": "a",
+     "r": "Cơ sở không làm được que thử thai.",
+     "n": "Kinh vừa hết 10 ngày trước, dùng bao cao su. Thai kỳ hạn chế can thiệp tổn thương CTC (QĐ 3792/2024, Phần 5 mục 1.2, Lưu ý); nơi soi sẽ kiểm tra trước thủ thuật."
+    },
+    "glu_mm": {
+     "v": "a",
+     "r": "Cơ sở không làm được đường huyết mao mạch.",
+     "n": "Mệt sau vận động, không khát nhiều hay sụt cân; không bắt buộc. Chỉ định đo ở ca mệt: không có trong tài liệu đã tải."
+    },
+    "que_nt": {
+     "v": "n",
+     "r": "Cơ sở không làm được que nước tiểu.",
+     "n": "Không triệu chứng tiết niệu; không cần."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "Tế bào học cổ tử cung bất thường: LSIL, chưa có HPV, chưa có mô bệnh học; chỉ định soi cổ tử cung ± sinh thiết ở tuyến có điều kiện",
+     "ok": 1,
+     "n": "LSIL là chỉ định soi (QĐ 3792/2024, Phần 4 mục 1.2); LSIL gồm nhiễm HPV, loạn sản nhẹ, CIN 1 (Phụ lục 1, Bethesda). Phần lớn tổn thương do HPV tự thoái triển sau khoảng 1–3 năm (Phần 1 mục 3). Chị là đối tượng sàng lọc ưu tiên 30–49 tuổi nhưng chưa sàng lọc chín năm (Phần 3 mục 2)."
+    },
+    {
+     "t": "Đau mỏi cơ đùi, mông sau vận động gắng sức, không chấn thương, không dấu hiệu nặng",
+     "ok": 1,
+     "n": "Khởi phát sau chơi thể thao, khám cơ không sưng bầm, bắp chân bình thường, sinh hiệu ổn. Hướng dẫn riêng cho đau cơ sau vận động: không có trong tài liệu đã tải (nhận định lâm sàng)."
+    },
+    {
+     "t": "Viêm cổ tử cung (cách hiểu 'hơi viêm' của người phát kết quả)",
+     "n": "Loại trừ: không mủ nhầy ống cổ tử cung, không chảy máu kéo dài khi chạm bông (CDC STI 2021, mục Cervicitis, tr. 63–64); khí hư ít, trong (QĐ 315/2015, Tổn thương lành tính CTC, mục 2.1.1). Soi tươi, NAAT: không làm được ở cơ sở. 'Viêm' không giải thích Pap LSIL và không dùng để bỏ qua soi (QĐ 315/2015, mục 3.1: cần loại trừ tiền ung thư, ung thư trước khi điều trị tổn thương lành tính)."
+    },
+    {
+     "t": "Ung thư cổ tử cung",
+     "n": "Chưa thấy dấu hiệu: không ra máu bất thường hay sau giao hợp, cổ tử cung nhẵn không khối sùi (QĐ 315/2015, Ung thư CTC, mục 2.1). Giai đoạn tại chỗ nghèo triệu chứng, khám có thể bình thường nên cần soi và mô bệnh học để loại hẳn (mục 2.1, 2.2.1, 2.2.3). Nghi ngờ ung thư trên lâm sàng thì chuyển thẳng cấp chuyên sâu (QĐ 3792/2024, Phần 6 mục 3.2.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích: tế bào học LSIL chưa phải ung thư, nguyên nhân thường là HPV chứ không phải 'viêm'; cần soi cổ tử cung ± sinh thiết",
+     "v": "c",
+     "n": "Phần lớn tổn thương tự thoái triển sau 1–3 năm; HPV nguy cơ cao tồn tại kèm yếu tố nguy cơ thì tiến triển trong 10–20 năm (QĐ 3792/2024, Phần 1 mục 3). Sinh nhiều con là yếu tố nguy cơ (Phần 1 mục 2)."
+    },
+    {
+     "t": "Chuyển tuyến có hẹn (ngoại trú) đến bệnh viện huyện để soi cổ tử cung, lấy HPV và sinh thiết nếu bất thường: soi ngay hoặc HPV trước (dương thì soi, âm thì theo dõi 1 năm)",
+     "v": "c",
+     "n": "Hai cách đều có nguồn: QĐ 3792/2024, Phần 4 mục 1.2 và Phụ lục 4 chỉ định soi khi LSIL; ASCCP 2019, mục E.1–E.2: HPV(+) LSIL 4,27% ≥ 4% thì soi, HPV(−) LSIL khoảng 1,1% thì lặp HPV sau 1 năm. Cả hai đều cần tuyến trên vì phòng khám không có soi, HPV (Phần 6 mục 2.1, 3.2.1). Thời hạn tối đa phải soi: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Không truyền dịch, vitamin; giải thích lý do cụ thể cho chị và hướng dẫn uống nước, nghỉ ngơi, vận động nhẹ",
+     "v": "c",
+     "n": "Không có trong tài liệu đã tải chỉ định truyền dịch cho đau cơ sau vận động, mệt khi ăn uống được và sinh hiệu ổn (theo mục ghi nhận 'truyền dịch theo yêu cầu' trong sổ mâu thuẫn). Lượng nước, thời gian nghỉ: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Giảm đau bằng paracetamol, hoặc nếu tiếp tục NSAID đã mua thì một loại, liều thấp nhất, ngắn nhất, uống sau ăn",
+     "v": "c",
+     "n": "Paracetamol bậc 1: 500–3.000 mg/24 giờ (QĐ 361/2014, Phụ lục thuốc giảm đau, mục 2, bảng liều), mỗi lần 500–1.000 mg, cách 6–8 giờ, không quá 4 g/24 giờ (mục 3.1). NSAID: liều thấp nhất, thời gian ngắn nhất, không dùng hai NSAID, uống sau ăn (Phụ lục NSAID, mục 2)."
+    },
+    {
+     "t": "Cấp giấy nghỉ ốm ngắn ngày theo đúng tình trạng thực (hoặc giấy xác nhận đã khám và hẹn chuyển tuyến)",
+     "v": "c",
+     "n": "Giấy nghỉ ốm: TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c (nguồn bổ sung tự tìm, theo sổ mâu thuẫn; chưa đối chiếu bản hiện hành). Cấp ngắn ngày theo tình trạng thực là đúng; cấp khống hoặc nhiều ngày là sai."
+    },
+    {
+     "t": "Cấp giấy nghỉ ốm nhiều ngày (cả tuần) hoặc cho truyền dịch để có lý do nghỉ",
+     "v": "w",
+     "n": "Tình trạng thực chỉ là đau cơ nhẹ sau vận động; giấy khống hoặc nhiều ngày không đúng tình trạng bệnh (TT 56/2017/TT-BYT, Điều 3 khoản 1)."
+    },
+    {
+     "t": "Truyền dịch, vitamin theo yêu cầu",
+     "v": "w",
+     "n": "Không có trong tài liệu đã tải chỉ định cho tình trạng này; thủ thuật không cần, tốn chi phí và thời gian, che lấp việc cần làm."
+    },
+    {
+     "t": "Kê kháng sinh hoặc đặt thuốc phụ khoa chữa 'viêm cổ tử cung' theo tờ Pap",
+     "v": "w",
+     "n": "Không có dấu hiệu viêm cổ tử cung (CDC STI 2021, mục Cervicitis); LSIL do HPV, không có thuốc đặc hiệu, đa số tự thoái triển (QĐ 3792/2024, Phần 1 mục 3)."
+    },
+    {
+     "t": "Hẹn lặp Pap sau vài tháng, không soi, không chuyển tuyến",
+     "v": "w",
+     "n": "LSIL là chỉ định soi (QĐ 3792/2024, Phần 4 mục 1.2); chị chưa sàng lọc chín năm."
+    },
+    {
+     "t": "Đốt điện, laser hoặc cắt cổ tử cung ngay khi chưa soi và mô bệnh học",
+     "v": "h",
+     "n": "Điều trị chỉ khi CIN 2, CIN 3 được mô bệnh học khẳng định, CIN 1 chỉ khi tồn tại lâu (QĐ 3792/2024, Phần 5 mục 2.1.2.1); nguy cơ CIN3+ tức thời của LSIL khoảng 4% chưa đạt ngưỡng điều trị ngay 25–60% (ASCCP 2019, mục E.3, TL-0632)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "Tế bào học cổ tử cung LSIL, chưa có HPV, chưa có mô bệnh học: chỉ định soi cổ tử cung ± sinh thiết; chưa sàng lọc chín năm, sinh 3 con",
+     "Đau mỏi cơ đùi, mông sau chơi pickleball, không chấn thương; đang dùng diclofenac tự mua, chưa có triệu chứng tiêu hóa",
+     "Loại trừ viêm cổ tử cung (khám, mỏ vịt) và chưa thấy dấu hiệu ung thư; cần soi và mô bệnh học để loại hẳn",
+     "Lý do thật: xin giấy nghỉ ốm; đòi truyền dịch",
+     "Hướng xử trí: chuyển tuyến có hẹn (ngoại trú) để soi cổ tử cung, không truyền dịch"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: nghe lý do (mệt, đau mỏi, xin truyền dịch, xin giấy) → xin xem tờ kết quả → hỏi riêng về Pap trước đây, triệu chứng phụ khoa, kinh nguyệt, tình dục, thuốc đang dùng → khám toàn thân, cơ xương khớp, phụ khoa bằng mỏ vịt và hai tay → chẩn đoán (không có xét nghiệm nào để làm tại chỗ) → xử trí.",
+     "LSIL là chỉ định soi cổ tử cung (QĐ 3792/2024, Phần 4 mục 1.2). Phòng khám không có soi, HPV hay giải phẫu bệnh nên bước đúng là chuyển lên cấp cơ bản (Phần 6 mục 2.1, 3.2.1), không chờ lặp Pap.",
+     "Ra quyết định thuần lâm sàng: khám mỏ vịt thấy cổ tử cung nhẵn, không mủ nhầy, không chảy máu khi chạm, không khối sùi nên không phải viêm cổ tử cung (CDC STI 2021, Cervicitis) cũng chưa gợi ung thư xâm lấn (QĐ 315/2015, Ung thư CTC, mục 2.1); nhưng khám bình thường không loại được tổn thương tại chỗ (mục 2.1).",
+     "Đau cơ sau vận động và mệt là chuyện phụ của buổi khám, nhưng là lý do chị đến; nếu chỉ xử lý nó và bỏ qua tờ Pap thì ca hỏng."
+    ],
+    "phan_tich_xu_tri": [
+     "Chuyển tuyến có hẹn, ghi rõ lý do và mang theo tờ tế bào học; nơi soi quyết định sinh thiết (QĐ 3792/2024, Phần 4 mục 2.1.2). Có hai lộ trình ở tuyến trên (soi ngay theo QĐ 3792; HPV trước theo ASCCP 2019 mục E.1–E.2), cả hai đều đúng.",
+     "Không truyền dịch: nói rõ lý do cho chị (không thiếu nước, ăn uống được, không có chỉ định), đưa cách thay thế (uống nước, nghỉ nhẹ, giấy xác nhận); đây là cách giữ lòng tin thay vì đối đầu.",
+     "Giấy nghỉ ốm ngắn ngày đúng tình trạng thực đáp ứng nhu cầu thật của chị (TT 56/2017/TT-BYT, nguồn bổ sung tự tìm); giấy khống là sai.",
+     "Thuốc giảm đau theo bậc 1; không phối hợp hai NSAID (QĐ 361/2014, Phụ lục NSAID mục 2)."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg viên nén",
+      "lieu": "1–2 viên mỗi lần, cách nhau 6–8 giờ, tối đa 3 g/ngày (6 viên)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, uống sau ăn",
+      "so_ngay": "3–5 ngày, ngưng khi hết đau (số ngày cụ thể: không có trong tài liệu đã tải)",
+      "ghi_chu": "Bậc 1: 500–3.000 mg/24 giờ; mỗi lần 500–1.000 mg; không quá 4 g/24 giờ (QĐ 361/2014, Phụ lục thuốc giảm đau, mục 2, 3.1). Dừng diclofenac đã mua hoặc nếu còn dùng thì chỉ một loại NSAID, liều thấp nhất, ngắn nhất, sau ăn (Phụ lục NSAID, mục 2). Không kê vitamin, không truyền dịch."
+     }
+    ],
+    "dan_do": [
+     "Đi bệnh viện huyện trong thời gian sớm nhất có thể, chọn ngày không hành kinh (thời hạn tối đa: không có trong tài liệu đã tải); mang tờ tế bào học và phiếu chuyển tuyến. Tại đó có thể được làm HPV, soi cổ tử cung và sinh thiết nếu cần.",
+     "Ra máu bất thường giữa kỳ kinh hoặc sau quan hệ, khí hư hôi, đau bụng dưới thì đi sớm hơn (QĐ 315/2015, Ung thư CTC, mục 2.1).",
+     "Đau cơ: nghỉ vận động nặng vài ngày rồi tập lại từ từ (thời gian cụ thể: không có trong tài liệu đã tải); đau bụng thượng vị hoặc đi ngoài phân đen khi đang uống thuốc kháng viêm thì ngừng thuốc và quay lại.",
+     "Sau khi có kết quả ở bệnh viện huyện, quay lại phòng khám để được giải thích và hẹn lịch theo dõi."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 2 · mang kết quả soi cổ tử cung (ba tuần sau)",
+   "tiep_don": "Chị Hà quay lại sau ba tuần (lượt trước chị được giải thích tờ Pap LSIL, chuyển bệnh viện huyện, không truyền dịch, được cấp giấy nghỉ ngắn ngày). Chị mang theo tờ kết quả của bệnh viện huyện. Đau đùi và mông đỡ chừng một nửa nhưng chưa hết. Sinh hiệu lúc tiếp đón: mạch 74 l/p, HA 116/72 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chị Hà bị chuyển lên bệnh viện tỉnh 'để đốt hoặc cắt cổ tử cung cho chắc'. Với CIN 1 lần đầu và người bệnh đã chứng tỏ đi khám đúng hẹn thì theo dõi được ưu tiên hơn điều trị (ASCCP 2019, TL-0632, 'Observation is preferred to treatment for CIN1'; mục I.5); BYT chỉ nêu điều trị khi khả năng tuân thủ theo dõi thấp (QĐ 3792/2024, Phần 5 mục 1.1). Chị chịu thủ thuật không cần thiết, tốn chi phí, mất nhiều ngày livestream và lo sợ hơn.",
+    "theo_doi": "Chị Hà được dặn 'khi nào khám phụ khoa định kỳ thì làm', không có hẹn HPV cụ thể. Sau soi và sinh thiết dưới CIN 2 vẫn còn nguy cơ CIN3+ 5 năm khoảng 3,2% nên cần HPV sau 1 năm (ASCCP 2019, chú thích Hình 2; mục E.1). Chị bận bán hàng nên rất có thể bỏ quên, và nếu HPV còn tồn tại thì tổn thương không được theo dõi."
+   },
+   "loi_mo": "Dạ chị đi huyện rồi bác sĩ, tờ kết quả đây. Họ nói chị bị 'CIN 1', có cần cắt hay đốt gì không bác sĩ, chị nghe bạn nói không đốt là thành ung thư. Còn cái chân thì đỡ được nửa thôi, hôm kia chị chơi lại một buổi thì đau lên, chị uống diclofenac với thêm ibuprofen bạn cho. Bác sĩ truyền cho chị chai nước biển đi, chị mệt vì lo quá.",
+   "sinh_hieu": {
+    "mach": 74,
+    "ha": "116/72",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị mang kết quả của bệnh viện huyện, muốn biết có phải điều trị gì không. Chân đỡ khoảng một nửa. Chị lo nên muốn truyền chai nước biển cho khỏe.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra: hỏi kết quả CIN 1, đau cơ đỡ một phần, xin truyền dịch"
+    },
+    {
+     "id": "ket_qua",
+     "noi_dung": "Tờ kết quả bệnh viện huyện (bác sĩ sản): ngày thứ 9 chu kỳ, không ra máu. HPV nguy cơ cao dương tính, HPV 16 và 18 âm tính, nhóm 12 týp khác dương tính. Soi cổ tử cung: đạt, thấy hết ranh giới lát–trụ, vùng chuyển tiếp týp 1; hình ảnh độ 1: biểu mô trắng mỏng, lát đá mịn ở 3–5 giờ, bắt Lugol loang; không mạch máu bất thường, không sùi loét. Sinh thiết hai mảnh ở 3 giờ và 5 giờ: tổn thương trong biểu mô vảy độ thấp (LSIL, CIN 1), không thấy CIN 2 trở lên. Que thử thai âm tính trước thủ thuật.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "HPV nguy cơ cao dương (không 16/18); soi độ 1; mô bệnh học CIN 1"
+    },
+    {
+     "id": "huong_huyen",
+     "noi_dung": "Bác sĩ bệnh viện huyện dặn xét nghiệm lại HPV sau 12 tháng, nói thêm 'nếu chị sợ thì có thể đốt, nhưng thường chỉ theo dõi'. Chị chưa quyết, bạn chị nói không đốt là thành ung thư. Chị đi khám đúng hẹn và đi một mình được, nhà cách bệnh viện huyện 22 km.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Được dặn HPV sau 12 tháng, nêu tùy chọn đốt; chị đi khám đúng hẹn được"
+    },
+    {
+     "id": "sau_sinh_thiet",
+     "noi_dung": "Sau sinh thiết chị ra ít dịch hồng ba ngày rồi hết. Không sốt, không đau bụng dưới, không ra máu nhiều, khí hư không hôi.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Sau sinh thiết không biến chứng"
+    },
+    {
+     "id": "van_dong",
+     "noi_dung": "Đỡ nhiều nên tuần trước chị chơi pickleball lại một buổi hơn một tiếng, tối đó đau mông và đùi tăng, vài hôm nay đỡ lại nhưng còn đau khi ngồi xổm.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Chơi lại sớm làm đau tăng nên chỉ đỡ một phần"
+    },
+    {
+     "id": "thuoc",
+     "noi_dung": "Chị uống diclofenac 50 mg ngày hai viên gần như mỗi ngày và có hôm uống thêm ibuprofen 400 mg của bạn cho, tổng cộng gần hai tuần. Sau ăn, hơi cồn cào nhẹ một hai lần nhưng không đau thượng vị, không nôn, không đi ngoài phân đen.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Dùng hai NSAID cùng lúc gần hai tuần, hơi cồn cào, không dấu hiệu xuất huyết"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, lo lắng. Cân nặng 56 kg. Da niêm hồng, không nhợt.",
+     "k": 0,
+     "hien": "Chị tỉnh, lo lắng; da niêm hồng."
+    },
+    "bung": {
+     "a": "Bụng mềm, không đau thượng vị khi ấn, không phản ứng thành bụng, không khối.",
+     "k": 1,
+     "hien": "Bụng mềm, chị không đau khi ấn thượng vị và hạ vị."
+    },
+    "co_xuong_khop": {
+     "a": "Ấn đau nhẹ cơ mông và cơ rộng ngoài đùi phải nhiều hơn trái, không sưng, không bầm. Gấp duỗi hông, gối đủ tầm, đau khi ngồi xổm hết tầm. Bắp chân mềm, không đau, không phù.",
+     "k": 0,
+     "hien": "Mông và đùi ấn đau nhẹ, nhất là bên phải; ngồi xổm hết tầm thì đau."
+    },
+    "phu_khoa": {
+     "a": "Mỏ vịt: vết sinh thiết khô, không chảy máu, khí hư ít, không mủ.",
+     "k": 0,
+     "hien": "Chị đồng ý khám; vết sinh thiết khô, không chảy máu, khí hư ít, không mủ."
+    }
+   },
+   "cls": {
+    "pap_hpv": {
+     "v": "n",
+     "r": "Cơ sở không làm được. Chị đã làm HPV và giải phẫu bệnh ở bệnh viện huyện (xem tờ kết quả chị mang theo).",
+     "n": "Không làm lại. HPV theo dõi sau 12 tháng (ASCCP 2019, mục E.1, Hình 2; QĐ 3792/2024, Phụ lục 4)."
+    },
+    "soi_ctc": {
+     "v": "n",
+     "r": "Cơ sở không làm được (đã soi ở bệnh viện huyện).",
+     "n": "Đã soi, đạt, hình ảnh nhẹ; không cần soi lại bây giờ."
+    },
+    "sinh_thiet_ctc": {
+     "v": "n",
+     "r": "Cơ sở không làm được (đã sinh thiết ở bệnh viện huyện).",
+     "n": "Đã có mô bệnh học: CIN 1."
+    },
+    "soi_huyet_trang": {
+     "v": "n",
+     "r": "Cơ sở không làm được.",
+     "n": "Không khí hư bất thường; không cần."
+    },
+    "test_thai": {
+     "v": "n",
+     "r": "Cơ sở không làm được que thử thai.",
+     "n": "Đã được kiểm tra ở nơi soi; không cần lặp."
+    },
+    "glu_mm": {
+     "v": "n",
+     "r": "Cơ sở không làm được đường huyết mao mạch.",
+     "n": "Không có chỉ định."
+    },
+    "que_nt": {
+     "v": "n",
+     "r": "Cơ sở không làm được que nước tiểu.",
+     "n": "Không có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "CIN 1 (LSIL) trên mô bệnh học sau Pap LSIL, HPV nguy cơ cao dương (không 16/18), soi cổ tử cung đạt, hình ảnh độ 1",
+     "ok": 1,
+     "n": "Mô bệnh học LSIL (CIN 1) do HPV; không thấy CIN 2 trở lên. Phần lớn tự thoái triển sau 1–3 năm (QĐ 3792/2024, Phần 1 mục 3). Sau soi và sinh thiết dưới CIN 2, nguy cơ CIN3+ 5 năm khoảng 3,2% (ASCCP 2019, chú thích Hình 2; ví dụ trong hình là ASC-US HPV dương, cùng nhóm kết quả nhẹ với LSIL)."
+    },
+    {
+     "t": "Đau cơ đùi, mông sau vận động, đỡ một phần vì chơi lại sớm; dùng hai NSAID cùng lúc gần hai tuần, chưa dấu hiệu xuất huyết tiêu hóa",
+     "ok": 1,
+     "n": "Đỡ một phần có lý do giải thích (chơi lại sớm), không phải thất bại điều trị. Không dùng hai NSAID cùng lúc (QĐ 361/2014, Phụ lục NSAID, mục 2). Tai biến dạ dày phải theo dõi (cùng mục); chị chưa có đau thượng vị hay đi ngoài phân đen."
+    },
+    {
+     "t": "Ung thư cổ tử cung (đã loại bằng soi đạt và mô bệnh học)",
+     "n": "Không thấy sùi loét, mạch máu bất thường; hai mảnh sinh thiết là CIN 1 (QĐ 315/2015, Ung thư CTC, mục 2.2.1, 2.2.3; QĐ 3792/2024, Bảng 4.1)."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích CIN 1: chưa phải ung thư, thường tự thoái triển; không đốt hay cắt ngay vì chị đi khám đúng hẹn",
+     "v": "c",
+     "n": "Phần lớn tổn thương tự thoái triển trong khoảng 1–3 năm (QĐ 3792/2024, Phần 1 mục 3). CIN 1 lần đầu: ưu tiên theo dõi (ASCCP 2019, TL-0632, 'Additional Key Changes')."
+    },
+    {
+     "t": "Theo dõi bằng HPV sau 12 tháng, hoặc điều trị nếu khó bảo đảm tái khám",
+     "v": "c",
+     "n": "Mục sổ mâu thuẫn đã có (từ PK-0266): ASCCP 2019, mục E.1, Hình 2: HPV sau 12 tháng; mục I.5: điều trị chấp nhận được nếu CIN 1 tồn tại từ 2 năm. QĐ 3792/2024, Phần 5 mục 1.1: điều trị nếu khả năng tuân thủ theo dõi thấp, Phụ lục 4: CIN 1 sàng lọc sau 1 năm. Chị đi khám đúng hẹn được nên theo dõi."
+    },
+    {
+     "t": "Dặn không dùng hai NSAID cùng lúc; ngưng NSAID tự mua, chuyển paracetamol, quay lại nếu đau thượng vị hoặc phân đen",
+     "v": "c",
+     "n": "Không dùng đồng thời hai NSAID, liều thấp nhất, thời gian ngắn nhất, theo dõi tai biến dạ dày (QĐ 361/2014, Phụ lục NSAID, mục 2); paracetamol bậc 1 (Phụ lục thuốc giảm đau, mục 2, 3.1)."
+    },
+    {
+     "t": "Không truyền dịch dù chị xin lần nữa; nói rõ vì sao và thừa nhận chị đang lo",
+     "v": "c",
+     "n": "Không có trong tài liệu đã tải chỉ định truyền dịch cho đau cơ hay lo âu (sổ mâu thuẫn, mục 'truyền dịch theo yêu cầu')."
+    },
+    {
+     "t": "Tiêm vắc xin HPV cho chị",
+     "v": "a",
+     "n": "Vắc xin cứu giá cấp phép cho 9–45 tuổi (QĐ 3792/2024, Phần 2 mục 2.1, CV 10496/QLD-ĐK 2024); chị 46 tuổi, ngoài độ tuổi cấp phép. Hiệu quả khi đã nhiễm: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Đốt điện, laser hoặc cắt cổ tử cung ngay vì CIN 1 và HPV dương",
+     "v": "w",
+     "n": "CIN 1 lần đầu theo dõi được ưu tiên (ASCCP 2019, mục I.5; TL-0632); BYT chỉ nêu điều trị khi khó tuân thủ (QĐ 3792/2024, Phần 5 mục 1.1). Laser CIN 1 chỉ khi tồn tại lâu từ 2 năm (Phần 5 mục 2.1.2.1)."
+    },
+    {
+     "t": "Truyền dịch hoặc vitamin theo yêu cầu",
+     "v": "w",
+     "n": "Không có trong tài liệu đã tải chỉ định cho tình trạng này."
+    },
+    {
+     "t": "Không hẹn gì cụ thể, dặn khám phụ khoa 'định kỳ'",
+     "v": "w",
+     "n": "Cần HPV sau 12 tháng (ASCCP 2019, mục E.1, Hình 2; QĐ 3792/2024, Phụ lục 4)."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "CIN 1 (LSIL) trên giải phẫu bệnh, HPV nguy cơ cao dương không phải 16/18, soi đạt vùng chuyển tiếp týp 1, hình ảnh độ 1; không có CIN 2 trở lên",
+     "Đau cơ đùi, mông đỡ một phần do chơi lại sớm; dùng hai NSAID cùng lúc gần hai tuần, chưa có dấu hiệu xuất huyết tiêu hóa",
+     "Hướng xử trí: cho về, hẹn HPV sau 12 tháng, không điều trị CIN 1 lần đầu, không truyền dịch"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: xem tờ kết quả (HPV, soi, mô bệnh học) → hỏi diễn tiến đau cơ và vì sao chỉ đỡ một nửa (chơi lại sớm) → hỏi cụ thể thuốc đang uống, số loại, số ngày, triệu chứng dạ dày → khám bụng, cơ → chẩn đoán → xử trí.",
+     "Đỡ một phần không phải thất bại điều trị: nguyên nhân rõ (chơi lại sớm); nhưng việc dùng hai NSAID là điều phải bắt được, vì hỏi 'đã đỡ chưa' không đủ.",
+     "Kết quả CIN 1 sau HPV dương: nguy cơ CIN3+ 5 năm khoảng 3,2% (ASCCP 2019, chú thích Hình 2, nhóm kết quả nhẹ) nên cần HPV sau 1 năm chứ chưa thể quay về sàng lọc thường quy; ung thư xâm lấn đã được loại bằng soi đạt và mô bệnh học."
+    ],
+    "phan_tich_xu_tri": [
+     "CIN 1 lần đầu: theo dõi hoặc điều trị nếu khó tuân thủ; chị tuân thủ tốt nên theo dõi (mục đã ghi trong sổ mâu thuẫn; ASCCP 2019, mục I.5; QĐ 3792/2024, Phần 5 mục 1.1). Hai cách đều đúng, nhưng điều trị ngay khi chưa đủ điều kiện là quá tay.",
+     "Hẹn HPV sau 12 tháng (ASCCP 2019, mục E.1, Hình 2) tại bệnh viện huyện, ghi ngày cụ thể và nhờ chị lưu số điện thoại phòng khám để nhắc.",
+     "Dặn dừng NSAID tự mua, dùng paracetamol theo bậc 1; không truyền dịch."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Paracetamol",
+      "ham_luong": "500 mg viên nén",
+      "lieu": "1–2 viên mỗi lần, cách nhau 6–8 giờ, tối đa 3 g/ngày (6 viên)",
+      "duong": "Uống",
+      "thoi_diem": "Khi đau, uống sau ăn",
+      "so_ngay": "3–5 ngày, ngưng khi hết đau (số ngày: không có trong tài liệu đã tải)",
+      "ghi_chu": "Thay cho diclofenac và ibuprofen; không dùng hai NSAID cùng lúc (QĐ 361/2014, Phụ lục NSAID, mục 2); liều theo Phụ lục thuốc giảm đau, mục 2, 3.1. Nếu đau nhiều phải dùng NSAID thì một loại, liều thấp nhất, ngắn nhất, sau ăn."
+     }
+    ],
+    "dan_do": [
+     "Đi xét nghiệm lại HPV ở bệnh viện huyện đúng hẹn sau 12 tháng (ASCCP 2019, mục E.1, Hình 2), kể cả khi thấy khỏe; ghi hẹn vào lịch, mang theo tờ kết quả hôm nay.",
+     "Ra máu bất thường giữa kỳ hoặc sau quan hệ, khí hư hôi, đau bụng dưới thì đi khám sớm hơn (QĐ 315/2015, Ung thư CTC, mục 2.1).",
+     "Đau thượng vị, nôn, đi ngoài phân đen khi đang uống thuốc kháng viêm: ngừng thuốc và đến ngay.",
+     "Chơi thể thao lại từ từ, tăng dần (thời gian, cường độ cụ thể: không có trong tài liệu đã tải)."
+    ]
+   }
+  },
+  {
+   "ten": "Lượt 3 · mười hai tháng sau (có kết quả HPV)",
+   "tiep_don": "Chị Hà quay lại đúng một năm sau lượt 2 (được giải thích CIN 1, theo dõi, hẹn HPV sau 12 tháng, dặn bỏ NSAID tự mua). Chị mang tờ kết quả HPV làm ở bệnh viện huyện năm ngày trước. Đau cơ đã hết từ lâu, chị chơi pickleball đều hai buổi mỗi tuần. Sinh hiệu lúc tiếp đón: mạch 72 l/p, HA 114/70 mmHg, nhiệt độ 36,7 °C, nhịp thở 16 l/p, SpO₂ 99%.",
+   "ket_luan": "ve_hen",
+   "neu_sai": {
+    "chuyen_tuyen": "Chị Hà bị chuyển lên bệnh viện để soi lại và sinh thiết 'cho chắc'. HPV âm tính sau CIN 1 đưa chị vào khung theo dõi 3 năm, nguy cơ CIN3+ 5 năm khoảng 0,42% (ASCCP 2019, TL-0632, 'Clinical examples of 3-year return'), không còn chỉ định soi. Chị chịu thủ thuật không cần, mất công livestream và lo lắng trở lại.",
+    "theo_doi": "Chị Hà được hẹn HPV hoặc Pap mỗi 6 tháng 'cho yên tâm'. Với nguy cơ 5 năm khoảng 0,42% khung hợp lý là 3 năm (≥ 0,15% và dưới 0,55%; ASCCP 2019, mục E.1; QĐ 3792/2024, Phần 5 mục 1.3); xét nghiệm dày hơn tốn tiền, mỗi lần chị nghỉ bán hàng và dễ lo lắng khi kết quả dao động."
+   },
+   "loi_mo": "Dạ chị đây bác sĩ. Tờ HPV chị lấy ở huyện rồi nè, họ nói âm tính. Vậy là hết bệnh rồi hả bác sĩ? Chị nghe nói giờ cho truyền một chai vitamin để thải sạch virus cho chắc, bác sĩ truyền cho chị nghen. Với lại chừng nào chị phải khám lại?",
+   "sinh_hieu": {
+    "mach": 72,
+    "ha": "114/70",
+    "nhiet": "36,7",
+    "nhip_tho": 16,
+    "spo2": 99,
+    "canh_bao": []
+   },
+   "su_that": [
+    {
+     "id": "ly_do",
+     "noi_dung": "Chị mang tờ HPV, hỏi có hết bệnh chưa, xin truyền chai vitamin cho sạch virus, và hỏi bao lâu khám lại.",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "Lý do nêu ra: nhận kết quả HPV, xin truyền dịch, hỏi lịch khám lại"
+    },
+    {
+     "id": "ket_qua",
+     "noi_dung": "Tờ kết quả bệnh viện huyện làm năm ngày trước, lấy mẫu khi không ra máu, không viêm âm đạo: HPV nguy cơ cao ÂM TÍNH (không có HPV 16, 18 và 12 týp khác).",
+     "che_do": "tu_ke",
+     "k": 1,
+     "y": "HPV nguy cơ cao âm tính sau 12 tháng"
+    },
+    {
+     "id": "tuan_thu",
+     "noi_dung": "Một năm qua chị không bị ra máu, khí hư bình thường, không đau bụng dưới. Chị không còn uống thuốc kháng viêm, đau cơ hết hẳn, chơi thể thao đều. Chị vẫn bán hàng online, vẫn chỉ có chồng, vẫn dùng bao cao su.",
+     "che_do": "khi_hoi",
+     "k": 1,
+     "y": "Không triệu chứng, không dùng NSAID, một bạn tình"
+    },
+    {
+     "id": "nghi_ngoi",
+     "noi_dung": "Chị chỉ muốn nghe bác sĩ nói chắc chắn hết bệnh; chai vitamin là chị nghe đồng nghiệp bán hàng kể. Chị không cần giấy nghỉ ốm lần này.",
+     "che_do": "khi_hoi",
+     "k": 0,
+     "y": "Muốn được trấn an; truyền vitamin là do nghe đồn"
+    }
+   ],
+   "kham": {
+    "toan_than": {
+     "a": "Tỉnh, tiếp xúc tốt, thoải mái. Cân nặng 56 kg. Da niêm hồng.",
+     "k": 0,
+     "hien": "Chị tỉnh, vui vẻ; da niêm hồng."
+    },
+    "co_xuong_khop": {
+     "a": "Hai đùi, mông không đau khi ấn, ngồi xổm hết tầm không đau. Bắp chân mềm.",
+     "k": 0,
+     "hien": "Đùi, mông không đau, ngồi xổm hết tầm được."
+    },
+    "phu_khoa": {
+     "a": "Mỏ vịt: khí hư ít, trong; cổ tử cung hồng, nhẵn, không loét sùi, không mủ nhầy, chạm bông không chảy máu. Khám hai tay không bất thường.",
+     "k": 0,
+     "hien": "Chị đồng ý khám; cổ tử cung hồng, nhẵn, không chảy máu khi chạm; khám hai tay chị không đau."
+    }
+   },
+   "cls": {
+    "pap_hpv": {
+     "v": "n",
+     "r": "Cơ sở không làm được. HPV đã làm ở bệnh viện huyện (kết quả chị mang theo).",
+     "n": "Không làm lại; hẹn lần sau sau 3 năm."
+    },
+    "soi_ctc": {
+     "v": "n",
+     "r": "Cơ sở không làm được.",
+     "n": "HPV âm tính, không triệu chứng: không cần soi lại (ASCCP 2019, mục E.1, Hình 2)."
+    },
+    "sinh_thiet_ctc": {
+     "v": "n",
+     "r": "Cơ sở không làm được.",
+     "n": "Không có chỉ định."
+    },
+    "soi_huyet_trang": {
+     "v": "n",
+     "r": "Cơ sở không làm được.",
+     "n": "Không khí hư bất thường; không cần."
+    },
+    "test_thai": {
+     "v": "n",
+     "r": "Cơ sở không làm được que thử thai.",
+     "n": "Không có chỉ định."
+    },
+    "glu_mm": {
+     "v": "n",
+     "r": "Cơ sở không làm được đường huyết mao mạch.",
+     "n": "Không có chỉ định."
+    },
+    "que_nt": {
+     "v": "n",
+     "r": "Cơ sở không làm được que nước tiểu.",
+     "n": "Không có chỉ định."
+    }
+   },
+   "chan_doan": [
+    {
+     "t": "CIN 1 đã ổn định: HPV nguy cơ cao âm tính sau 12 tháng theo dõi, không triệu chứng",
+     "ok": 1,
+     "n": "HPV âm tính ở lần theo dõi sau soi dưới CIN 2 thì đạt mốc theo dõi 3 năm (ASCCP 2019, mục E.1, Hình 2; TL-0632: 'Low-grade cotest → Colposcopy CIN1 → HPV-negative' nguy cơ 5 năm 0,42%). QĐ 3792/2024, Phần 5 mục 1.3: nguy cơ 5 năm 0,15–0,55% thì HPV sau 3 năm."
+    },
+    {
+     "t": "Không còn đau cơ sau vận động; không còn dùng NSAID",
+     "ok": 1,
+     "n": "Hết hẳn, khám không đau; không cần điều trị gì thêm."
+    }
+   ],
+   "xu_tri": [
+    {
+     "t": "Giải thích HPV âm tính: tổn thương đã ổn, chưa cần điều trị; hẹn lại HPV sau 3 năm",
+     "v": "c",
+     "n": "Nguy cơ CIN3+ 5 năm 0,15–0,55% thì lặp HPV sau 3 năm (ASCCP 2019, mục E.1, Hình 2; QĐ 3792/2024, Phần 5 mục 1.3). Nhắc lịch cụ thể vì chị bận bán hàng; cách nhắc hẹn: không có trong tài liệu đã tải."
+    },
+    {
+     "t": "Hẹn sàng lọc theo chu kỳ chung (HPV 5 năm hoặc tế bào học 3 năm)",
+     "v": "a",
+     "n": "Chu kỳ chung cho dân số: HPV 5 năm, tế bào học hoặc VIA/VILI 3 năm (QĐ 3792/2024, Phần 3 mục 2; mục sổ mâu thuẫn về chu kỳ sàng lọc, WHO 2021 5–10 năm, USPSTF 2018 mức A). Chị có tiền sử CIN 1 nên 3 năm bằng HPV là khung theo nguy cơ; cả hai đều có nguồn nên chấm a."
+    },
+    {
+     "t": "Không truyền dịch, vitamin; giải thích HPV không thải bằng truyền dịch, cách phòng thay thế là hẹn xét nghiệm đúng hạn",
+     "v": "c",
+     "n": "Không có trong tài liệu đã tải chỉ định truyền dịch hay vitamin để 'thải virus'; dự phòng cấp 1: quan hệ an toàn, tránh hút thuốc lá, lối sống lành mạnh (QĐ 3792/2024, Phần 1 mục 5.2.1)."
+    },
+    {
+     "t": "Dặn khi nào quay lại sớm: ra máu bất thường giữa kỳ hoặc sau quan hệ, khí hư hôi, đau bụng dưới",
+     "v": "c",
+     "n": "Triệu chứng của ung thư xâm nhập (QĐ 315/2015, Ung thư CTC, mục 2.1); giai đoạn tại chỗ nghèo triệu chứng nên không thay xét nghiệm định kỳ."
+    },
+    {
+     "t": "Truyền dịch hoặc vitamin theo yêu cầu",
+     "v": "w",
+     "n": "Không có trong tài liệu đã tải chỉ định cho tình trạng này."
+    },
+    {
+     "t": "Soi lại, sinh thiết lại hoặc điều trị cổ tử cung khi HPV âm tính, không triệu chứng",
+     "v": "w",
+     "n": "Không còn chỉ định soi; điều trị chỉ khi CIN 2, CIN 3 (QĐ 3792/2024, Phần 5 mục 2.1.2.1; ASCCP 2019, mục E.1, Hình 2)."
+    },
+    {
+     "t": "Hẹn HPV hoặc Pap mỗi 6 tháng",
+     "v": "w",
+     "n": "Khung theo dõi là 3 năm (ASCCP 2019, mục E.1; QĐ 3792/2024, Phần 5 mục 1.3); xét nghiệm dày hơn không có nguồn ủng hộ trong tài liệu đã tải."
+    }
+   ],
+   "dap_an": {
+    "thanh_phan_chan_doan": [
+     "CIN 1 ổn định: HPV nguy cơ cao âm tính sau 12 tháng theo dõi, không triệu chứng",
+     "Hết đau cơ sau vận động, không còn dùng NSAID",
+     "Đòi truyền dịch vitamin 'thải virus' là do nghe đồn, mong được trấn an",
+     "Hướng xử trí: cho về, hẹn HPV sau 3 năm"
+    ],
+    "phan_tich_chan_doan": [
+     "Thứ tự đúng: xem tờ HPV (mẫu lấy khi không ra máu, không viêm cấp) → hỏi triệu chứng phụ khoa, thuốc đang dùng, tình dục → khám phụ khoa nhanh → xác nhận không triệu chứng.",
+     "HPV âm tính sau CIN 1 là mốc hồi phục theo dõi: nguy cơ CIN3+ 5 năm khoảng 0,42% nằm trong khung 3 năm (ASCCP 2019, mục E.1, Hình 2; QĐ 3792/2024, Phần 5 mục 1.3). Ca ổn định, không cần soi lại."
+    ],
+    "phan_tich_xu_tri": [
+     "Hẹn HPV sau 3 năm, ghi vào sổ khám và lịch của chị. Chu kỳ chung 5 năm của dân số không có tiền sử cũng có nguồn (QĐ 3792/2024, Phần 3 mục 2), nhưng chị có CIN 1 nên 3 năm hợp lý hơn.",
+     "Không truyền dịch: nói rõ không có cách thải HPV bằng truyền dịch, và cách bảo vệ tốt nhất là khám lại đúng hẹn.",
+     "Khen chị đã đi khám đúng hẹn và bỏ thuốc kháng viêm; củng cố hành vi tốt."
+    ],
+    "don_thuoc": [
+     {
+      "thuoc": "Không kê thuốc",
+      "ham_luong": "Không áp dụng",
+      "lieu": "Không áp dụng",
+      "duong": "Không áp dụng",
+      "thoi_diem": "Không áp dụng",
+      "so_ngay": "Không áp dụng",
+      "ghi_chu": "Không có thuốc đặc hiệu điều trị HPV hay CIN 1, phần lớn tự thoái triển (QĐ 3792/2024, Phần 1 mục 3); không vitamin, không truyền dịch."
+     }
+    ],
+    "dan_do": [
+     "Xét nghiệm HPV lại sau 3 năm, ghi hẹn cụ thể (ngày, nơi làm: bệnh viện huyện).",
+     "Ra máu bất thường giữa kỳ hoặc sau quan hệ, khí hư hôi, đau bụng dưới thì khám sớm, không chờ đủ 3 năm.",
+     "Tiếp tục chơi thể thao đều, quan hệ an toàn, tránh hút thuốc lá kể cả thụ động (QĐ 3792/2024, Phần 1 mục 5.2.1)."
+    ]
+   }
+  }
+ ],
+ "ket_cuc": "Chị Hà đi bệnh viện huyện đúng hẹn, được xác định CIN 1 và theo dõi, không điều trị. Một năm sau HPV âm tính; chị về chu kỳ theo dõi 3 năm (ASCCP 2019, Hình 2), tự giảm NSAID và chơi thể thao điều độ. Kết cục tốt, quy trình đúng: tờ Pap LSIL không bị coi là 'hơi viêm', ca không có xét nghiệm nào nên phải ra quyết định thuần lâm sàng rồi chuyển tuyến đúng chỗ; điều có thể làm hỏng ca là cuộc cãi nhau về truyền dịch và giấy nghỉ ốm che mất việc quan trọng, và việc dùng hai NSAID chỉ lộ khi hỏi cụ thể.",
+ "nhieu": [
+  "Đòi truyền dịch ở cả ba lượt: lượt 1 để 'khỏe nhanh' và có lý do nghỉ, lượt 2 vì lo lắng, lượt 3 để 'thải virus'. Mỗi lần cần lý do cụ thể cho chị và việc thay thế (giấy xác nhận, giải thích, nhắc hẹn), không chỉ nói 'không'.",
+  "Lý do thật (giấy nghỉ ốm để khỏi bị trừ lương) khác lý do nêu (mệt, đau mỏi); cả hai che tờ Pap LSIL được đưa ra như 'tiện thể'.",
+  "Chơi thể thao gây đau cơ là red herring thật nhưng không nguy hiểm; NSAID tự mua (diclofenac, rồi thêm ibuprofen) là chi tiết an toàn chỉ lộ khi hỏi tên thuốc, số loại, số ngày.",
+  "Đỡ một phần ở lượt 2 do chơi lại sớm và còn dùng thuốc, không phải thất bại điều trị; mốc chẩn đoán timeout: không có xét nghiệm tại chỗ nên không được chờ lặp Pap mà phải chuyển soi."
+ ],
+ "bai_hoc_bien": [
+  "Pap LSIL: chỉ định soi cổ tử cung (QĐ 3792/2024, Phần 4 mục 1.2). 'Viêm' không giải thích Pap bất thường; khám mỏ vịt bình thường không loại được tổn thương tại chỗ (QĐ 315/2015, Ung thư CTC, mục 2.1).",
+  "Ca không có xét nghiệm nào: ra quyết định bằng hỏi và khám, rồi chuyển tuyến có hẹn đúng nơi có soi, HPV, giải phẫu bệnh (QĐ 3792/2024, Phần 6 mục 2.1, 3.2.1); nói rõ cơ sở không làm được thay vì bỏ qua.",
+  "CIN 1 lần đầu: theo dõi HPV sau 12 tháng hoặc điều trị nếu khó tuân thủ (ASCCP 2019, mục E.1, I.5; QĐ 3792/2024, Phần 5 mục 1.1). HPV âm tính sau CIN 1 → 3 năm.",
+  "Đòi truyền dịch: không đối đầu, không nhượng bộ; đưa lý do cụ thể và việc thay thế; đáp ứng nhu cầu thật (giấy nghỉ ngắn ngày đúng tình trạng, được trấn an).",
+  "Đỡ một phần không phải thất bại điều trị; hỏi thuốc đang dùng từng loại (không dùng hai NSAID cùng lúc, QĐ 361/2014, Phụ lục NSAID mục 2)."
+ ],
+ "diem_nho": [
+  "LSIL (CIN 1) nhiều khi do nhiễm HPV và tự thoái triển sau 1–3 năm (QĐ 3792/2024, Phần 1 mục 3; Phụ lục 1).",
+  "HPV(+) LSIL: nguy cơ CIN3+ tức thời 4,27% ≥ 4% nên soi; HPV(−) LSIL khoảng 1,1% nên theo dõi 1 năm (ASCCP 2019, mục E.1–E.2, TL-0632).",
+  "Soi cổ tử cung IFCPC 2011: độ 1 gồm lát đá mịn, chấm đáy mịn, biểu mô trắng mỏng, bờ không đều (QĐ 3792/2024, Bảng 4.1); sinh thiết định hướng (Phần 4 mục 2.1.2, 2.1.3).",
+  "Sau CIN 1 và HPV(−) ở lần theo dõi: HPV sau 3 năm (ASCCP 2019, Hình 2; QĐ 3792/2024, Phần 5 mục 1.3).",
+  "Vắc xin HPV cấp phép 9–45 tuổi (QĐ 3792/2024, Phần 2 mục 2.1); không dùng hai NSAID cùng lúc, liều thấp nhất, ngắn nhất (QĐ 361/2014, Phụ lục NSAID mục 2)."
+ ],
+ "nguon": [
+  "Bộ Y tế – QĐ 3792/QĐ-BYT ngày 17/12/2024, Hướng dẫn dự phòng và kiểm soát ung thư cổ tử cung – TL-0605 (kho cũ) – Phần 1 mục 2, 3, 5.2.1; Phần 2 mục 2.1; Phần 3 mục 2, 3.1.2; Phần 4 mục 1.2–1.4 (Bảng 4.1), 2.1; Phần 5 mục 1.1–1.3, 2.1.2.1; Phần 6 mục 2.1, 3.2.1; Phụ lục 1, 4.",
+  "ASCCP 2019 Risk-Based Management Consensus Guidelines (Perkins RB và cs., J Low Genit Tract Dis 2020;24(2):102–131) – TL-0632 (bài trình chiếu) và bản đầy đủ kho cũ tltk-10000-ca – mục E.1–E.3, I.5, chú thích Hình 2.",
+  "Bộ Y tế – QĐ 315/QĐ-BYT năm 2015, Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa – TL-0036 – Tổn thương lành tính CTC (mục 2.1.1, 3.1); Ung thư CTC (mục 2.1, 2.2.1, 2.2.3).",
+  "CDC – STI Treatment Guidelines 2021 (MMWR 2021;70(4)) – kho cũ tltk-10000-ca – mục Cervicitis (tr. 63–64).",
+  "Bộ Y tế – QĐ 361/QĐ-BYT năm 2014, Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp – TL-0286 – Phụ lục Hướng dẫn sử dụng NSAID (mục 2, 3.2, 3.3); Phụ lục thuốc giảm đau (mục 2, 3.1).",
+  "TT 56/2017/TT-BYT (sửa đổi TT 18/2022/TT-BYT) Điều 3 khoản 1, Điều 20 khoản 1 điểm c – nguồn bổ sung tự tìm theo sổ mâu thuẫn (chưa đối chiếu bản hiện hành sau Luật BHXH 2024).",
+  "WHO 2021 – Guideline for screening and treatment of cervical pre-cancer lesions – TL-0612 – khuyến cáo về chu kỳ sàng lọc. USPSTF 2018 (JAMA 2018;320(7):674–686) – TL-0641."
+ ],
+ "ghi_chu_bien_tap": [
+  "Viết: 28/11/2026 (Sonnet 5.5). Đã đọc: TL-0605 (Phần 1, 2.1, 3, 4, 5, 6, Phụ lục 4 – xem hình trang 45); TL-0632 (slide) và ASCCP 2019 bản đầy đủ kho cũ (E.1–E.2, I.5, Hình 2); TL-0036 Tổn thương lành tính CTC và Ung thư CTC; CDC STI 2021 Cervicitis; TL-0286 (QĐ 361) Phụ lục NSAID và thuốc giảm đau; sổ mâu thuẫn (mục từ PK-0266).",
+  "Chỗ thiếu tài liệu (đã ghi 'không có trong tài liệu đã tải'): thời hạn tối đa phải soi sau Pap LSIL; truyền dịch theo yêu cầu; đau cơ sau vận động (hướng dẫn riêng, thời gian nghỉ, tập lại); số ngày paracetamol; cách nhắc hẹn; hiệu quả vắc xin HPV khi đã nhiễm hoặc trên 45 tuổi; chẩn đoán mệt mỏi khi ăn uống được (đo đường huyết).",
+  "Sổ mâu thuẫn: LSIL chưa có HPV – soi ngay (QĐ 3792) hoặc HPV trước (ASCCP) – mục mới, xem PK-0267_mau_thuan.md; CIN 1 theo dõi hay điều trị, chu kỳ sàng lọc, giấy nghỉ ốm, truyền dịch: dùng mục cũ.",
+  "Ràng buộc 'không có xét nghiệm nào': app tự khóa nhóm xn (pap_hpv, soi_huyet_trang, sinh_thiet_ctc); các mục không tự khóa (soi_ctc, test_thai, glu_mm, que_nt) đã khai 'Cơ sở không làm được' ở cả ba lượt. Kết quả HPV, soi, giải phẫu bệnh ở lượt 2–3 đưa vào qua tờ kết quả của bệnh viện huyện (giả định thiết kế ca).",
+  "Không ảnh da. Phần mô tả soi cổ tử cung lượt 2 (biểu mô trắng mỏng, lát đá mịn, bắt Lugol loang) là dữ kiện thiết kế khớp mô tả độ 1 IFCPC 2011 (QĐ 3792/2024, Bảng 4.1)."
+ ]
+}
